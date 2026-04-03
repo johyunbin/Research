@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-build_pptx.py — Build all 18 slides of the Samsung Research portfolio PPT.
-Rewritten for RICH content: every slide fills the 13.333" x 7.5" space.
+build_pptx.py -- Build all 18 slides of the Samsung Research portfolio PPT.
+Modern Glass design language: gradient backgrounds, rounded cards, pill badges.
 """
 
 import os
@@ -13,11 +13,14 @@ from pptx.util import Inches, Pt, Emu
 from pptx.dml.color import RGBColor
 from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
 from pptx_helpers import (
-    new_presentation, add_blank_slide, set_slide_bg,
-    add_rect, add_accent_bar, add_textbox, add_multiline_textbox,
+    new_presentation, add_blank_slide, set_slide_bg, set_gradient_bg,
+    add_rect, add_rounded_rect, add_glass_card, add_accent_bar,
+    add_gradient_bar, add_pill_badge,
+    add_textbox, add_multiline_textbox,
     add_section_title, add_metric_card, add_implication_box, add_image_safe,
-    NAVY, ACCENT_BLUE, SKY_BLUE, DARK_TEXT, GRAY, GRAY2,
-    LIGHT_BG, WARM_GRAY, WHITE, BLACK,
+    DEEP_NAVY, NAVY, MID_NAVY, ACCENT_BLUE, SKY_BLUE,
+    DARK_TEXT, GRAY, GRAY2, LIGHT_BG, CARD_BORDER, WARM_GRAY, WHITE, BLACK,
+    SHADOW_COLOR, RED_TINT, GREEN_TINT, RED_TEXT, GREEN_TEXT,
     SLIDE_WIDTH, SLIDE_HEIGHT, MARGIN_L, MARGIN_R, MARGIN_T,
     FONT_TITLE, FONT_BODY, FONT_EN,
 )
@@ -30,43 +33,72 @@ def img(name: str) -> str:
 
 
 # ============================================================================
-# S1: Title Slide
+# S1: Title Slide -- Gradient background + glass stat cards
 # ============================================================================
 def build_s1(prs):
     slide = add_blank_slide(prs)
-    set_slide_bg(slide, NAVY)
+    set_slide_bg(slide, MID_NAVY)
 
-    # Accent blue bar near top
-    add_accent_bar(slide, Inches(0.6), Inches(0.5), Inches(2.0),
-                   Inches(0.06), color=ACCENT_BLUE)
+    # Simulate gradient: top band = DEEP_NAVY, bottom band = NAVY
+    add_rect(slide, 0, 0, SLIDE_WIDTH, Inches(3.75), fill_color=DEEP_NAVY)
+    add_rect(slide, 0, Inches(3.75), SLIDE_WIDTH, Inches(3.75), fill_color=NAVY)
+
+    # Tagline
+    add_textbox(slide, Inches(0.8), Inches(1.0), Inches(11.5), Inches(0.35),
+                "SAMSUNG RESEARCH  \u00B7  SPATIAL AUDIO PORTFOLIO",
+                font_size=10, font_color=ACCENT_BLUE, bold=True,
+                alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
     # Title
-    add_textbox(slide, Inches(0.8), Inches(1.8), Inches(11.5), Inches(1.8),
+    add_textbox(slide, Inches(0.8), Inches(1.6), Inches(11.5), Inches(1.6),
                 "Spatial Audio Research &\nPerception-driven Quality Evaluation",
                 font_size=32, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
+    # Glass stat strip: 4 cards in a row
+    stat_top = Inches(3.6)
+    stat_h = Inches(0.85)
+    stat_w = Inches(2.5)
+    gap = Inches(0.3)
+    total_w = 4 * int(stat_w) + 3 * int(gap)
+    start_x = Emu((int(SLIDE_WIDTH) - total_w) // 2)
+
+    stats = [
+        ("24", "SCI(E) Papers"),
+        ("18", "h-index"),
+        ("6", "Patents"),
+        ("10+", "Awards"),
+    ]
+    for i, (num, lbl) in enumerate(stats):
+        sx = start_x + Emu(i * (int(stat_w) + int(gap)))
+        # Glass card with semi-transparent feel (white border on dark bg)
+        add_rounded_rect(slide, sx, stat_top, stat_w, stat_h,
+                         fill_color=RGBColor(0x1A, 0x30, 0xA5),
+                         border_color=RGBColor(0x4D, 0x6D, 0xCC),
+                         border_width_pt=0.75)
+        add_textbox(slide, sx, stat_top + Inches(0.08), stat_w, Inches(0.45),
+                    num, font_size=26, font_color=WHITE, bold=True,
+                    alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE,
+                    font_name=FONT_EN)
+        add_textbox(slide, sx, stat_top + Inches(0.5), stat_w, Inches(0.3),
+                    lbl, font_size=10, font_color=RGBColor(0xB0, 0xC4, 0xEE),
+                    alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
+
     # Name
-    add_textbox(slide, Inches(0.8), Inches(3.9), Inches(11.5), Inches(0.5),
-                "조현인 (Hyun In Jo, Ph.D.)",
+    add_textbox(slide, Inches(0.8), Inches(4.8), Inches(11.5), Inches(0.45),
+                "Hyun In Jo, Ph.D.  (\uc870\ud604\uc778)",
                 font_size=14, font_color=WHITE, bold=True,
-                alignment=PP_ALIGN.CENTER)
+                alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
-    # Subtitle
-    add_textbox(slide, Inches(0.8), Inches(4.5), Inches(11.5), Inches(0.4),
-                "Senior Research Engineer, Hyundai Motor Company (NVH Division)",
-                font_size=11, font_color=WARM_GRAY, bold=False,
-                alignment=PP_ALIGN.CENTER)
-
-    # Org
-    add_textbox(slide, Inches(0.8), Inches(5.0), Inches(11.5), Inches(0.4),
-                "Samsung Research · Visual Technology · Display Innovation Lab · Spatial Audio",
+    # Affiliation
+    add_textbox(slide, Inches(0.8), Inches(5.3), Inches(11.5), Inches(0.35),
+                "Samsung Research \u00B7 Visual Technology \u00B7 Display Innovation Lab \u00B7 Spatial Audio",
                 font_size=11, font_color=WARM_GRAY, bold=False,
                 alignment=PP_ALIGN.CENTER)
 
     # Contact
-    add_textbox(slide, Inches(0.8), Inches(5.5), Inches(11.5), Inches(0.4),
-                "best2012@naver.com | 010-6387-8402 | linkedin.com/in/hyunin-jo",
+    add_textbox(slide, Inches(0.8), Inches(5.7), Inches(11.5), Inches(0.35),
+                "best2012@naver.com  |  010-6387-8402  |  linkedin.com/in/hyunin-jo",
                 font_size=10, font_color=WARM_GRAY, bold=False,
                 alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
@@ -76,27 +108,30 @@ def build_s1(prs):
 # ============================================================================
 def build_s2(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(12),
                       "About Me",
-                      "조현인 (Hyun In Jo, Ph.D.) — 경력 · 핵심 실적 · 전문성")
+                      "\uc870\ud604\uc778 (Hyun In Jo, Ph.D.) \u2014 \uacbd\ub825 \u00B7 \ud575\uc2ec \uc2e4\uc801 \u00B7 \uc804\ubb38\uc131")
 
     # --- Left: Career Timeline ---
     tl_left = Inches(0.8)
     tl_top = Inches(1.8)
     entries = [
-        ("2013-2016", "B.S. 건축공학, 한양대 (수석졸업, 조기졸업)"),
-        ("2016-2022", "Ph.D. 건축음향, 한양대 (석박통합, GPA 4.39/4.5)"),
-        ("2022.03-08", "Post-doc, 한국건설기술연구원"),
-        ("2022.08-현재", "현대자동차 NVH 책임연구원"),
-        ("NOW →", "Samsung Research, Spatial Audio"),
+        ("2013-2016", "B.S. \uac74\ucd95\uacf5\ud559, \ud55c\uc591\ub300 (\uc218\uc11d\uc878\uc5c5, \uc870\uae30\uc878\uc5c5)"),
+        ("2016-2022", "Ph.D. \uac74\ucd95\uc74c\ud5a5, \ud55c\uc591\ub300 (\uc11d\ubc15\ud1b5\ud569, GPA 4.39/4.5)"),
+        ("2022.03-08", "Post-doc, \ud55c\uad6d\uac74\uc124\uae30\uc220\uc5f0\uad6c\uc6d0"),
+        ("2022.08-\ud604\uc7ac", "\ud604\ub300\uc790\ub3d9\ucc28 NVH \ucc45\uc784\uc5f0\uad6c\uc6d0"),
+        ("NOW \u2192", "Samsung Research, Spatial Audio"),
     ]
     for i, (year, desc) in enumerate(entries):
         y = tl_top + Inches(i * 0.7)
-        add_rect(slide, tl_left, y + Inches(0.08), Inches(0.12), Inches(0.12),
-                 fill_color=NAVY)
+        # Navy dot
+        add_rounded_rect(slide, tl_left, y + Inches(0.07), Inches(0.13), Inches(0.13),
+                         fill_color=NAVY)
+        # Connecting line
         if i < len(entries) - 1:
-            add_rect(slide, tl_left + Inches(0.05), y + Inches(0.2),
+            add_rect(slide, tl_left + Inches(0.055), y + Inches(0.2),
                      Inches(0.02), Inches(0.5), fill_color=ACCENT_BLUE)
         add_textbox(slide, tl_left + Inches(0.3), y, Inches(1.5), Inches(0.3),
                     year, font_size=10, font_color=ACCENT_BLUE, bold=True,
@@ -104,22 +139,22 @@ def build_s2(prs):
         add_textbox(slide, tl_left + Inches(1.9), y, Inches(3.5), Inches(0.4),
                     desc, font_size=10, font_color=DARK_TEXT)
 
-    # --- Right: 4 Metric Cards ---
+    # --- Right: 4 glass metric cards ---
     card_left = Inches(7.0)
-    card_w = Inches(2.7)
+    card_w = Inches(2.8)
     card_h = Inches(0.85)
     cards = [
-        ("SCI(E) 24편", "주저자 21편, h-index 18"),
+        ("SCI(E) 24\ud3b8", "\uc8fc\uc800\uc790 21\ud3b8, h-index 18"),
         ("EAA Best Paper", "ICA 2019, I-INCE Young Professional"),
-        ("특허 6건", "국내+미국, 기술이전 5천만원"),
-        ("국제공동연구", "UCL·소르본, SATP 18개국 표준화"),
+        ("\ud2b9\ud5c8 6\uac74", "\uad6d\ub0b4+\ubbf8\uad6d, \uae30\uc220\uc774\uc804 5\ucc9c\ub9cc\uc6d0"),
+        ("\uad6d\uc81c\uacf5\ub3d9\uc5f0\uad6c", "UCL\u00b7\uc18c\ub974\ubcf8, SATP 18\uac1c\uad6d \ud45c\uc900\ud654"),
     ]
     for i, (num, lbl) in enumerate(cards):
         cy = Inches(1.8) + Inches(i * 1.05)
         add_metric_card(slide, card_left, cy, card_w, card_h,
-                        num, lbl, number_size=18, label_size=9)
+                        num, lbl, number_size=17, label_size=9)
 
-    # --- Bottom: 4 Competency Boxes ---
+    # --- Bottom: 4 navy competency boxes (rounded) ---
     box_w = Inches(2.85)
     box_h = Inches(0.7)
     box_top = Inches(6.2)
@@ -131,14 +166,14 @@ def build_s2(prs):
     ]
     for i, (label, desc) in enumerate(parts):
         bx = Inches(0.6) + Inches(i * 3.1)
-        add_rect(slide, bx, box_top, box_w, box_h, fill_color=NAVY)
-        add_textbox(slide, bx + Inches(0.1), box_top + Inches(0.05),
-                    box_w - Inches(0.2), Inches(0.2),
+        add_rounded_rect(slide, bx, box_top, box_w, box_h, fill_color=NAVY)
+        add_textbox(slide, bx + Inches(0.12), box_top + Inches(0.06),
+                    box_w - Inches(0.24), Inches(0.2),
                     label, font_size=9, font_color=ACCENT_BLUE, bold=True,
                     font_name=FONT_EN)
-        add_textbox(slide, bx + Inches(0.1), box_top + Inches(0.25),
-                    box_w - Inches(0.2), Inches(0.4),
-                    desc, font_size=10, font_color=WHITE, bold=False)
+        add_textbox(slide, bx + Inches(0.12), box_top + Inches(0.28),
+                    box_w - Inches(0.24), Inches(0.38),
+                    desc, font_size=10, font_color=WHITE)
 
 
 # ============================================================================
@@ -146,28 +181,35 @@ def build_s2(prs):
 # ============================================================================
 def build_s3(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
+    add_gradient_bar(slide, top=Inches(0), height=Pt(5))
 
-    add_textbox(slide, Inches(0.8), Inches(0.5), Inches(11.5), Inches(1.0),
-                "THD 0.01%, 주파수 응답 ±0.5dB —\n공학 스펙이 완벽해도 사용자가 \"좋다\"고 느끼지 않을 수 있다",
-                font_size=16, font_color=GRAY, bold=False,
+    # Problem statement
+    add_textbox(slide, Inches(0.8), Inches(0.6), Inches(11.5), Inches(1.0),
+                "THD 0.01%, \uc8fc\ud30c\uc218 \uc751\ub2f5 \u00b10.5dB \u2014\n\uacf5\ud559 \uc2a4\ud399\uc774 \uc644\ubcbd\ud574\ub3c4 \uc0ac\uc6a9\uc790\uac00 \"\uc88b\ub2e4\"\uace0 \ub290\ub07c\uc9c0 \uc54a\uc744 \uc218 \uc788\ub2e4",
+                font_size=15, font_color=GRAY, bold=False,
                 alignment=PP_ALIGN.CENTER)
 
-    add_textbox(slide, Inches(0.8), Inches(1.6), Inches(11.5), Inches(0.5),
-                "시각 맥락만으로 오디오 만족도가 76% 좌우된다면?",
+    # Highlight
+    add_textbox(slide, Inches(0.8), Inches(1.7), Inches(11.5), Inches(0.5),
+                "\uc2dc\uac01 \ub9e5\ub77d\ub9cc\uc73c\ub85c \uc624\ub514\uc624 \ub9cc\uc871\ub3c4\uac00 76% \uc88c\uc6b0\ub41c\ub2e4\uba74?",
                 font_size=14, font_color=ACCENT_BLUE, bold=True,
                 alignment=PP_ALIGN.CENTER)
 
+    # Center glass card with navy bg
     ctr_w = Inches(9.0)
     ctr_h = Inches(2.2)
-    ctr_l = Inches((13.333 - 9.0) / 2)
-    ctr_t = Inches(2.4)
-    add_rect(slide, ctr_l, ctr_t, ctr_w, ctr_h, fill_color=NAVY)
+    ctr_l = Emu((int(SLIDE_WIDTH) - int(ctr_w)) // 2)
+    ctr_t = Inches(2.5)
+    add_glass_card(slide, ctr_l, ctr_t, ctr_w, ctr_h,
+                   fill_color=NAVY, border_color=ACCENT_BLUE, shadow=True)
     add_textbox(slide, ctr_l, ctr_t, ctr_w, ctr_h,
-                "사용자가 진짜 몰입을 느끼는\n3D Audio-Visual 경험을\n어떻게 설계하고 검증할 것인가?",
+                "\uc0ac\uc6a9\uc790\uac00 \uc9c4\uc9dc \ubab0\uc785\uc744 \ub290\ub07c\ub294\n3D Audio-Visual \uacbd\ud5d8\uc744\n\uc5b4\ub5bb\uac8c \uc124\uacc4\ud558\uace0 \uac80\uc99d\ud560 \uac83\uc778\uac00?",
                 font_size=22, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER,
                 anchor=MSO_ANCHOR.MIDDLE)
 
+    # 4 roadmap glass cards
     card_w = Inches(2.6)
     card_h = Inches(1.2)
     card_top = Inches(5.2)
@@ -179,7 +221,8 @@ def build_s3(prs):
     ]
     for i, txt in enumerate(parts):
         cx = Inches(0.5) + Inches(i * 3.2)
-        add_rect(slide, cx, card_top, card_w, card_h, fill_color=LIGHT_BG)
+        add_glass_card(slide, cx, card_top, card_w, card_h,
+                       fill_color=WHITE, shadow=True)
         add_textbox(slide, cx + Inches(0.1), card_top + Inches(0.1),
                     card_w - Inches(0.2), card_h - Inches(0.2),
                     txt, font_size=10, font_color=NAVY, bold=True,
@@ -187,8 +230,8 @@ def build_s3(prs):
                     anchor=MSO_ANCHOR.MIDDLE)
         if i < 3:
             ax = cx + card_w
-            add_textbox(slide, ax, card_top + Inches(0.4), Inches(0.6), Inches(0.4),
-                        "→", font_size=18, font_color=ACCENT_BLUE, bold=True,
+            add_textbox(slide, ax, card_top + Inches(0.35), Inches(0.6), Inches(0.4),
+                        "\u2192", font_size=18, font_color=ACCENT_BLUE, bold=True,
                         alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
 
@@ -197,65 +240,72 @@ def build_s3(prs):
 # ============================================================================
 def build_s4(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(12),
-                      "사운드스케이프란?",
-                      "Noise Control → Soundscape 패러다임 전환")
+                      "\uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504\ub780?",
+                      "Noise Control \u2192 Soundscape \ud328\ub7ec\ub2e4\uc784 \uc804\ud658")
 
+    # Two columns: Traditional (glass) vs Soundscape (navy glass)
     lw = Inches(5.0)
     lh = Inches(1.5)
     lt = Inches(1.8)
-    add_rect(slide, Inches(0.6), lt, lw, lh, fill_color=LIGHT_BG)
+
+    add_glass_card(slide, Inches(0.6), lt, lw, lh, shadow=True)
     add_textbox(slide, Inches(0.8), lt + Inches(0.15), lw - Inches(0.4), Inches(0.3),
                 "Traditional Noise Control", font_size=13, font_color=NAVY, bold=True)
     add_textbox(slide, Inches(0.8), lt + Inches(0.55), lw - Inches(0.4), Inches(0.7),
-                '"소음이 얼마나 큰가?" dB 측정',
+                '"\uc18c\uc74c\uc774 \uc5bc\ub9c8\ub098 \ud070\uac00?" dB \uce21\uc815',
                 font_size=11, font_color=DARK_TEXT)
 
     add_textbox(slide, Inches(5.8), lt + Inches(0.4), Inches(1.2), Inches(0.5),
-                "→", font_size=28, font_color=ACCENT_BLUE, bold=True,
+                "\u2192", font_size=28, font_color=ACCENT_BLUE, bold=True,
                 alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
-    add_rect(slide, Inches(7.2), lt, lw, lh, fill_color=NAVY)
+    add_glass_card(slide, Inches(7.2), lt, lw, lh,
+                   fill_color=NAVY, border_color=ACCENT_BLUE, shadow=True)
     add_textbox(slide, Inches(7.4), lt + Inches(0.15), lw - Inches(0.4), Inches(0.3),
                 "New Paradigm: Soundscape", font_size=13, font_color=WHITE, bold=True)
     add_textbox(slide, Inches(7.4), lt + Inches(0.55), lw - Inches(0.4), Inches(0.7),
-                '"소리가 어떻게 경험되는가?" 인간 지각 중심',
+                '"\uc18c\ub9ac\uac00 \uc5b4\ub5bb\uac8c \uacbd\ud5d8\ub418\ub294\uac00?" \uc778\uac04 \uc9c0\uac01 \uc911\uc2ec',
                 font_size=11, font_color=WHITE)
 
-    add_rect(slide, Inches(0.6), Inches(3.6), Inches(11.8), Inches(0.8), fill_color=LIGHT_BG)
+    # ISO definition in glass card
+    add_glass_card(slide, Inches(0.6), Inches(3.6), Inches(11.8), Inches(0.8), shadow=False)
     add_textbox(slide, Inches(0.8), Inches(3.7), Inches(11.4), Inches(0.6),
-                "ISO 12913: \"acoustic environment as perceived or experienced and/or understood "
-                "by a person or people, in context\"",
+                'ISO 12913: "acoustic environment as perceived or experienced and/or understood '
+                'by a person or people, in context"',
                 font_size=11, font_color=GRAY, bold=False,
                 alignment=PP_ALIGN.CENTER)
 
+    # Pleasant-Eventful diagram
     add_image_safe(slide, img("proto_s5_img2.png"),
                    Inches(3.5), Inches(4.5), Inches(6.0), Inches(2.7),
                    placeholder_text="Pleasant-Eventful Diagram")
 
 
 # ============================================================================
-# S5: Soundscape → Spatial Audio Bridge
+# S5: Soundscape -> Spatial Audio Bridge
 # ============================================================================
 def build_s5(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(12),
-                      "왜 사운드스케이프가 Spatial Audio에 직결되는가",
+                      "\uc654 \uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504\uac00 Spatial Audio\uc5d0 \uc9c1\uacb0\ub418\ub294\uac00",
                       "")
 
     rows = [
-        ("소리를 경험으로 평가\n(dB가 아닌 사용자 지각 중심)",
-         "렌더링 품질을 THD·주파수응답이 아닌\n사용자가 느끼는 공간감·몰입감으로 평가"),
-        ("오디오-비주얼 상호작용\n(시각 맥락이 청각 지각을 최대 76% 좌우)",
-         "Display + Audio 통합 설계\nHolographic Displays × Spatial Audio 시너지"),
-        ("재생 환경에 따라 동일 음원 지각 변화",
-         "거실·침실·차량 등 재생 공간별\n렌더링 최적화"),
-        ("개인차 (소음 민감도·성격·청력)",
-         "Customized Audio 개인화"),
-        ("대규모 지각 평가 프로토콜\n(ISO 12913 + SATP 18개국, 134명)",
-         "Eclipsa Audio 품질 벤치마킹 및\n인증 기준 수립"),
+        ("\uc18c\ub9ac\ub97c \uacbd\ud5d8\uc73c\ub85c \ud3c9\uac00\n(dB\uac00 \uc544\ub2cc \uc0ac\uc6a9\uc790 \uc9c0\uac01 \uc911\uc2ec)",
+         "\ub80c\ub354\ub9c1 \ud488\uc9c8\uc744 THD\u00b7\uc8fc\ud30c\uc218\uc751\ub2f5\uc774 \uc544\ub2cc\n\uc0ac\uc6a9\uc790\uac00 \ub290\ub07c\ub294 \uacf5\uac04\uac10\u00b7\ubab0\uc785\uac10\uc73c\ub85c \ud3c9\uac00"),
+        ("\uc624\ub514\uc624-\ube44\uc8fc\uc5bc \uc0c1\ud638\uc791\uc6a9\n(\uc2dc\uac01 \ub9e5\ub77d\uc774 \uccad\uac01 \uc9c0\uac01\uc744 \ucd5c\ub300 76% \uc88c\uc6b0)",
+         "Display + Audio \ud1b5\ud569 \uc124\uacc4\nHolographic Displays \u00d7 Spatial Audio \uc2dc\ub108\uc9c0"),
+        ("\uc7ac\uc0dd \ud658\uacbd\uc5d0 \ub530\ub77c \ub3d9\uc77c \uc74c\uc6d0 \uc9c0\uac01 \ubcc0\ud654",
+         "\uac70\uc2e4\u00b7\uce68\uc2e4\u00b7\ucc28\ub7c9 \ub4f1 \uc7ac\uc0dd \uacf5\uac04\ubcc4\n\ub80c\ub354\ub9c1 \ucd5c\uc801\ud654"),
+        ("\uac1c\uc778\ucc28 (\uc18c\uc74c \ubbfc\uac10\ub3c4\u00b7\uc131\uaca9\u00b7\uccad\ub825)",
+         "Customized Audio \uac1c\uc778\ud654"),
+        ("\ub300\uaddc\ubaa8 \uc9c0\uac01 \ud3c9\uac00 \ud504\ub85c\ud1a0\ucf5c\n(ISO 12913 + SATP 18\uac1c\uad6d, 134\uba85)",
+         "Eclipsa Audio \ud488\uc9c8 \ubca4\uce58\ub9c8\ud0b9 \ubc0f\n\uc778\uc99d \uae30\uc900 \uc218\ub9bd"),
     ]
 
     col_w = Inches(5.2)
@@ -266,583 +316,380 @@ def build_s5(prs):
 
     for i, (left_t, right_t) in enumerate(rows):
         ry = Inches(1.5) + Inches(i * 0.95)
-        add_rect(slide, left1, ry, col_w, row_h, fill_color=LIGHT_BG)
+        bg_color = WHITE if i % 2 == 0 else LIGHT_BG
+        add_glass_card(slide, left1, ry, col_w, row_h,
+                       fill_color=bg_color, shadow=False)
         add_textbox(slide, left1 + Inches(0.15), ry + Inches(0.08),
                     col_w - Inches(0.3), row_h - Inches(0.16),
                     left_t, font_size=10, font_color=DARK_TEXT)
         add_textbox(slide, arrow_l, ry + Inches(0.15), Inches(1.0), Inches(0.5),
-                    "→", font_size=16, font_color=ACCENT_BLUE, bold=True,
+                    "\u2192", font_size=16, font_color=ACCENT_BLUE, bold=True,
                     alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
-        add_rect(slide, left2, ry, col_w, row_h, fill_color=LIGHT_BG)
+        add_glass_card(slide, left2, ry, col_w, row_h,
+                       fill_color=bg_color, shadow=False)
         add_textbox(slide, left2 + Inches(0.15), ry + Inches(0.08),
                     col_w - Inches(0.3), row_h - Inches(0.16),
                     right_t, font_size=10, font_color=DARK_TEXT)
 
+    # Navy bottom bar (rounded)
     bar_top = Inches(6.5)
-    add_rect(slide, Inches(0.6), bar_top, Inches(12.1), Inches(0.7), fill_color=NAVY)
+    add_rounded_rect(slide, Inches(0.6), bar_top, Inches(12.1), Inches(0.7),
+                     fill_color=NAVY)
     add_textbox(slide, Inches(0.8), bar_top + Inches(0.1), Inches(11.7), Inches(0.5),
-                '신호처리가 "어떻게 구현할 것인가"라면, 저의 전문성은 '
-                '"사용자가 어떻게 경험할 것인가"를 설계하고 검증하는 것입니다',
+                '\uc2e0\ud638\ucc98\ub9ac\uac00 "\uc5b4\ub5bb\uac8c \uad6c\ud604\ud560 \uac83\uc778\uac00"\ub77c\uba74, \uc800\uc758 \uc804\ubb38\uc131\uc740 '
+                '"\uc0ac\uc6a9\uc790\uac00 \uc5b4\ub5bb\uac8c \uacbd\ud5d8\ud560 \uac83\uc778\uac00"\ub97c \uc124\uacc4\ud558\uace0 \uac80\uc99d\ud558\ub294 \uac83\uc785\ub2c8\ub2e4',
                 font_size=11, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER)
 
 
 # ============================================================================
-# S6: Spatial Audio Overview — VISUAL RESEARCH MAP
+# S6: Spatial Audio Overview -- VISUAL RESEARCH MAP
 # ============================================================================
 def build_s6(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
-    # Title area
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(12),
-                      "Part I. Spatial Audio 기술 역량 — 연구 체계도",
-                      "5개 기술 축 + Eclipsa Audio 연결 맵")
+                      "Part I. Spatial Audio \uae30\uc220 \uc5ed\ub7c9 \u2014 \uc5f0\uad6c \uccb4\uacc4\ub3c4",
+                      "5\uac1c \uae30\uc220 \ucd95 + Eclipsa Audio \uc5f0\uacb0 \ub9f5")
 
-    # --- Central hub: large navy pill ---
-    hub_w = Inches(4.0)
-    hub_h = Inches(0.8)
-    hub_l = Inches((13.333 - 4.0) / 2)
-    hub_t = Inches(1.65)
-    add_rect(slide, hub_l, hub_t, hub_w, hub_h, fill_color=NAVY)
+    # Central navy pill
+    hub_w = Inches(4.5)
+    hub_h = Inches(0.75)
+    hub_l = Emu((int(SLIDE_WIDTH) - int(hub_w)) // 2)
+    hub_t = Inches(1.6)
+    add_rounded_rect(slide, hub_l, hub_t, hub_w, hub_h, fill_color=NAVY)
     add_textbox(slide, hub_l, hub_t, hub_w, hub_h,
                 "Spatial Audio Perception Research",
                 font_size=15, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE,
                 font_name=FONT_EN)
 
-    # --- 5 axis cards: 2 rows (3 top, 2 bottom) for better space usage ---
+    # 5 axis glass cards in a row
     axes = [
-        ("축1", "시각 재현 방식", "APAC'22 (IF 3.4)", "HMD vs Monitor\n40명 × 8환경", "p < 0.05", ACCENT_BLUE),
-        ("축2", "재생 방식", "APAC'19 (IF 3.4)", "헤드폰 vs 스피커\n4 test환경 × 6 levels", "2.2 dBA 차이", ACCENT_BLUE),
-        ("축3", "바이노럴-비주얼", "B&E'19 ×2 (IF 7.4)", "HRTF × HMD 2×2\n40명 × 320 data", "HRTF 77%", SKY_BLUE),
-        ("축4", "시청각 정보", "B&E'20 (IF 7.4)", "Audio/Visual/AV\n3조건 × 8환경", "Visual 76%", SKY_BLUE),
-        ("축5", "생태학적 타당성", "SCS'21 (IF 11.7)", "VR vs In-situ\n50명 × 10환경", "유의차 없음", RGBColor(0x0A, 0x7A, 0xB5)),
+        ("\ucd951", "\uc2dc\uac01 \uc7ac\ud604", "77%", "APAC'22", "HMD\uc5d0\uc11c Presence \uc720\uc758 \uc99d\uac00", ACCENT_BLUE),
+        ("\ucd952", "\uc7ac\uc0dd \ubc29\uc2dd", "2.2dBA", "APAC'19", "HP vs SP \ud5c8\uc6a9\ud55c\uacc4 \ucc28\uc774", ACCENT_BLUE),
+        ("\ucd953", "\ubc14\uc774\ub178\ub7f4-\ube44\uc8fc\uc5bc", "77%", "B&E'19", "HRTF\uac00 \uacf5\uac04\uac10 \uc9c0\ubc30", SKY_BLUE),
+        ("\ucd954", "\uc2dc\uccad\uac01 \uc815\ubcf4", "76%", "B&E'20", "Visual\uc774 \ub9cc\uc871\ub3c4 \uc88c\uc6b0", SKY_BLUE),
+        ("\ucd955", "\uc0dd\ud0dc\ud559\uc801 \ud0c0\ub2f9\uc131", "VR\u2248In-situ", "SCS'21", "3\uac1c \ud504\ub85c\ud1a0\ucf5c \uc720\uc758\ucc28 \uc5c6\uc74c", RGBColor(0x0A, 0x7A, 0xB5)),
     ]
 
-    # Row 1: axes 1-3
-    row1_top = Inches(2.8)
-    card_w = Inches(3.7)
-    card_h = Inches(1.85)
+    card_w = Inches(2.3)
+    card_h = Inches(3.3)
+    row_top = Inches(2.7)
+    gap = Inches(0.18)
+    total = 5 * int(card_w) + 4 * int(gap)
+    start_x = Emu((int(SLIDE_WIDTH) - total) // 2)
 
-    for idx, (ax_label, ax_title, ax_ref, ax_detail, ax_metric, color) in enumerate(axes[:3]):
-        cx = Inches(0.5) + Inches(idx * 4.1)
-        # Vertical connecting line from hub
-        line_x = cx + card_w / 2 - Inches(0.01)
-        add_rect(slide, line_x, hub_t + hub_h, Inches(0.025), row1_top - hub_t - hub_h,
-                 fill_color=color)
-        # Card background
-        add_rect(slide, cx, row1_top, card_w, card_h, fill_color=LIGHT_BG,
-                 line_color=color, line_width_pt=1.5)
-        # Colored top strip
-        add_rect(slide, cx, row1_top, card_w, Inches(0.06), fill_color=color)
-        # Axis label
-        add_textbox(slide, cx + Inches(0.15), row1_top + Inches(0.12), Inches(0.8), Inches(0.25),
-                    ax_label, font_size=11, font_color=color, bold=True, font_name=FONT_EN)
-        # Title
-        add_textbox(slide, cx + Inches(0.9), row1_top + Inches(0.12), card_w - Inches(1.1), Inches(0.25),
-                    ax_title, font_size=12, font_color=NAVY, bold=True)
-        # Reference
-        add_textbox(slide, cx + Inches(0.15), row1_top + Inches(0.4), card_w - Inches(0.3), Inches(0.2),
-                    ax_ref, font_size=9, font_color=GRAY, font_name=FONT_EN)
-        # Detail
-        add_textbox(slide, cx + Inches(0.15), row1_top + Inches(0.65), card_w - Inches(0.3), Inches(0.6),
-                    ax_detail, font_size=10, font_color=DARK_TEXT)
-        # Metric badge
-        add_rect(slide, cx + Inches(0.15), row1_top + Inches(1.35), card_w - Inches(0.3), Inches(0.38),
-                 fill_color=color)
-        add_textbox(slide, cx + Inches(0.15), row1_top + Inches(1.35), card_w - Inches(0.3), Inches(0.38),
-                    ax_metric, font_size=13, font_color=WHITE, bold=True,
-                    alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE, font_name=FONT_EN)
+    for idx, (ax_label, ax_title, ax_metric, ax_ref, ax_finding, color) in enumerate(axes):
+        cx = start_x + Emu(idx * (int(card_w) + int(gap)))
 
-    # Row 2: axes 4-5, centered
-    row2_top = Inches(5.0)
-    for idx, (ax_label, ax_title, ax_ref, ax_detail, ax_metric, color) in enumerate(axes[3:]):
-        cx = Inches(1.5) + Inches(idx * 5.5)
-        # Connecting line
-        line_x = cx + card_w / 2 - Inches(0.01)
-        # Diagonal feel — just use vertical from hub bottom
+        # Connecting line from hub
+        line_x = cx + Emu(int(card_w) // 2) - Inches(0.01)
         add_rect(slide, line_x, hub_t + hub_h, Inches(0.025),
-                 row2_top - hub_t - hub_h, fill_color=color)
-        # Card
-        add_rect(slide, cx, row2_top, card_w, card_h, fill_color=LIGHT_BG,
-                 line_color=color, line_width_pt=1.5)
-        add_rect(slide, cx, row2_top, card_w, Inches(0.06), fill_color=color)
-        add_textbox(slide, cx + Inches(0.15), row2_top + Inches(0.12), Inches(0.8), Inches(0.25),
-                    ax_label, font_size=11, font_color=color, bold=True, font_name=FONT_EN)
-        add_textbox(slide, cx + Inches(0.9), row2_top + Inches(0.12), card_w - Inches(1.1), Inches(0.25),
-                    ax_title, font_size=12, font_color=NAVY, bold=True)
-        add_textbox(slide, cx + Inches(0.15), row2_top + Inches(0.4), card_w - Inches(0.3), Inches(0.2),
-                    ax_ref, font_size=9, font_color=GRAY, font_name=FONT_EN)
-        add_textbox(slide, cx + Inches(0.15), row2_top + Inches(0.65), card_w - Inches(0.3), Inches(0.6),
-                    ax_detail, font_size=10, font_color=DARK_TEXT)
-        add_rect(slide, cx + Inches(0.15), row2_top + Inches(1.35), card_w - Inches(0.3), Inches(0.38),
-                 fill_color=color)
-        add_textbox(slide, cx + Inches(0.15), row2_top + Inches(1.35), card_w - Inches(0.3), Inches(0.38),
-                    ax_metric, font_size=13, font_color=WHITE, bold=True,
-                    alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE, font_name=FONT_EN)
+                 row_top - hub_t - hub_h, fill_color=color)
 
-    # --- Eclipsa Audio connection box (right side, between rows) ---
-    ecl_l = Inches(9.8)
-    ecl_t = Inches(5.0)
-    ecl_w = Inches(3.2)
-    ecl_h = Inches(1.85)
-    add_rect(slide, ecl_l, ecl_t, ecl_w, ecl_h, fill_color=NAVY)
+        # Glass card
+        add_glass_card(slide, cx, row_top, card_w, card_h, shadow=True)
+
+        # Colored top strip
+        add_rounded_rect(slide, cx, row_top, card_w, Inches(0.06), fill_color=color)
+
+        # Axis label
+        add_textbox(slide, cx + Inches(0.1), row_top + Inches(0.15),
+                    card_w - Inches(0.2), Inches(0.22),
+                    ax_label, font_size=11, font_color=color, bold=True, font_name=FONT_EN)
+
+        # Title
+        add_textbox(slide, cx + Inches(0.1), row_top + Inches(0.4),
+                    card_w - Inches(0.2), Inches(0.25),
+                    ax_title, font_size=11, font_color=NAVY, bold=True)
+
+        # Big metric
+        add_textbox(slide, cx + Inches(0.1), row_top + Inches(0.75),
+                    card_w - Inches(0.2), Inches(0.55),
+                    ax_metric, font_size=24, font_color=NAVY, bold=True,
+                    alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE,
+                    font_name=FONT_EN)
+
+        # Reference pill
+        add_pill_badge(slide, cx + Inches(0.1), row_top + Inches(1.4),
+                       ax_ref, font_size=8)
+
+        # Finding
+        add_textbox(slide, cx + Inches(0.1), row_top + Inches(1.85),
+                    card_w - Inches(0.2), Inches(1.3),
+                    ax_finding, font_size=9, font_color=DARK_TEXT)
+
+    # Eclipsa Audio connection text
+    ecl_top = Inches(6.3)
+    add_rounded_rect(slide, Inches(2.0), ecl_top, Inches(9.3), Inches(0.55),
+                     fill_color=NAVY)
+    add_textbox(slide, Inches(2.2), ecl_top + Inches(0.05), Inches(8.9), Inches(0.45),
+                "\u2192 Eclipsa Audio: HRTF \uac1c\uc778\ud654(77%) + A-V \ud1b5\ud569\uc124\uacc4(76%) + VR \ud488\uc9c8\ud3c9\uac00 \uc2e4\uc99d + 92.5% \ub9cc\uc871\ub3c4 \uc608\uce21",
+                font_size=11, font_color=WHITE, bold=True,
+                alignment=PP_ALIGN.CENTER)
+
+
+# ============================================================================
+# Helper for S7-S11 research axis slides
+# ============================================================================
+def _build_research_slide(prs, title, paper_ref, paper_journal, rq_text,
+                          methodology_lines, figure_path, figure_label,
+                          metrics, implications):
+    """Build a two-column research slide with glass design."""
+    slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
+
+    # Section title (left)
+    add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7), title, "")
+
+    # Paper pill badge (top right)
+    add_pill_badge(slide, Inches(8.5), Inches(0.55), paper_ref, font_size=9)
+    add_textbox(slide, Inches(8.5), Inches(0.9), Inches(4.2), Inches(0.25),
+                paper_journal, font_size=9, font_color=GRAY, font_name=FONT_EN)
+
+    # RQ glass card (full width)
+    rq_top = Inches(1.25)
+    add_glass_card(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), shadow=False)
+    add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
+                rq_text, font_size=12, font_color=NAVY, bold=True)
+
+    # LEFT COLUMN: Research Question + Methodology
+    left_x = Inches(0.6)
+    meth_top = Inches(2.1)
+    meth_w = Inches(5.8)
+
+    add_glass_card(slide, left_x, meth_top, meth_w, Inches(3.2), shadow=True)
+    add_textbox(slide, left_x + Inches(0.15), meth_top + Inches(0.1),
+                meth_w - Inches(0.3), Inches(0.25),
+                "Methodology", font_size=13, font_color=NAVY, bold=True)
     add_multiline_textbox(
-        slide, ecl_l + Inches(0.15), ecl_t + Inches(0.15), ecl_w - Inches(0.3), ecl_h - Inches(0.3),
-        [
-            ("→ Eclipsa Audio", True, WHITE, 14),
-            ("", False, WHITE, 6),
-            ("HRTF 개인화 (77%)", False, WHITE, 10),
-            ("A-V 통합 설계 (76%)", False, WHITE, 10),
-            ("VR 품질 평가 실증", False, WHITE, 10),
-            ("생리반응 품질 검증", False, WHITE, 10),
-            ("92.5% 만족도 예측", False, WHITE, 10),
-        ],
-        font_color=WHITE,
-        line_spacing=1.25,
-    )
-    # Arrow pointing to Eclipsa box
-    add_textbox(slide, Inches(9.2), Inches(5.5), Inches(0.6), Inches(0.5),
-                "→", font_size=22, font_color=ACCENT_BLUE, bold=True,
-                alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
+        slide, left_x + Inches(0.15), meth_top + Inches(0.4),
+        meth_w - Inches(0.3), Inches(2.7),
+        methodology_lines, line_spacing=1.25)
+
+    # RIGHT COLUMN: Figure
+    fig_x = Inches(6.7)
+    fig_top = Inches(2.1)
+    add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
+                figure_label, font_size=11, font_color=GRAY, bold=True)
+    add_image_safe(slide, img(figure_path),
+                   fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.0),
+                   placeholder_text=figure_path)
+
+    # BOTTOM: Metric cards + Implication strip
+    mc_top = Inches(5.6)
+    mc_h = Inches(0.85)
+    mc_w = Inches(2.0)
+    for i, (num, lbl) in enumerate(metrics):
+        mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.25))))
+        add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
+                        number_size=24, label_size=9)
+
+    # Implication strip
+    add_implication_box(slide, Inches(7.5), mc_top, Inches(5.2), Inches(1.6),
+                        implications, font_size=10, line_spacing=1.2)
+
+    return slide
 
 
 # ============================================================================
 # S7: Axis 1 - Visual Reproduction
 # ============================================================================
 def build_s7(prs):
-    slide = add_blank_slide(prs)
-
-    # Title
-    add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "축1: 시각 재현 방식",
-                      "")
-
-    # Paper reference (top right)
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("APAC_2022_Jo & Jeon", True, NAVY, 11),
-            ("Applied Acoustics, IF 3.4", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
-
-    # RQ box (full width)
-    rq_top = Inches(1.25)
-    add_rect(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), fill_color=LIGHT_BG)
-    add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
-                "RQ: 같은 Spatial Audio를 HMD vs 모니터로 볼 때, 사용자의 음환경 지각이 얼마나 달라지는가?",
-                font_size=12, font_color=NAVY, bold=True)
-
-    # === LEFT COLUMN: Methodology ===
-    left_x = Inches(0.6)
-    meth_top = Inches(2.1)
-    meth_w = Inches(5.8)
-
-    add_textbox(slide, left_x, meth_top, meth_w, Inches(0.3),
-                "Methodology", font_size=13, font_color=NAVY, bold=True)
-
-    add_multiline_textbox(
-        slide, left_x, meth_top + Inches(0.35), meth_w, Inches(2.2),
-        [
-            ("실험설계: 40명 피험자 × 8개 도시 음환경", True, DARK_TEXT, 11),
-            ("시각 재현: HMD (HTC VIVE Pro) vs 2D Monitor", False, DARK_TEXT, 10),
-            ("오디오: First-Order Ambisonics (FOA) + 실시간 Head-tracking", False, DARK_TEXT, 10),
-            ("평가: 14개 semantic differential pairs", False, DARK_TEXT, 10),
-            ("통계: 반복측정 ANOVA, Bonferroni 사후검정", False, DARK_TEXT, 10),
+    _build_research_slide(
+        prs,
+        title="\ucd951: \uc2dc\uac01 \uc7ac\ud604 \ubc29\uc2dd",
+        paper_ref="APAC 2022 \u00B7 Jo & Jeon",
+        paper_journal="Applied Acoustics, IF 3.4",
+        rq_text="RQ: \uac19\uc740 Spatial Audio\ub97c HMD vs \ubaa8\ub2c8\ud130\ub85c \ubcfc \ub54c, \uc0ac\uc6a9\uc790\uc758 \uc74c\ud658\uacbd \uc9c0\uac01\uc774 \uc5bc\ub9c8\ub098 \ub2ec\ub77c\uc9c0\ub294\uac00?",
+        methodology_lines=[
+            ("\uc2e4\ud5d8\uc124\uacc4: 40\uba85 \ud53c\ud5d8\uc790 \u00d7 8\uac1c \ub3c4\uc2dc \uc74c\ud658\uacbd", True, DARK_TEXT, 11),
+            ("\uc2dc\uac01 \uc7ac\ud604: HMD (HTC VIVE Pro) vs 2D Monitor", False, DARK_TEXT, 10),
+            ("\uc624\ub514\uc624: First-Order Ambisonics (FOA) + Head-tracking", False, DARK_TEXT, 10),
+            ("\ud3c9\uac00: 14\uac1c semantic differential pairs", False, DARK_TEXT, 10),
+            ("\ud1b5\uacc4: \ubc18\ubcf5\uce21\uc815 ANOVA, Bonferroni \uc0ac\ud6c4\uac80\uc815", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("핵심 발견:", True, ACCENT_BLUE, 11),
-            ("  - HMD 조건: 공간 현실감(Presence) 유의하게 증가 (p < 0.05)", False, DARK_TEXT, 10),
-            ("  - 모니터 조건: 전반적 소음 인식(Overall awareness) 더 높음", False, DARK_TEXT, 10),
-            ("  - 시각 재현 방식이 오디오 품질 판단을 체계적으로 변화시킴", False, DARK_TEXT, 10),
+            ("\ud575\uc2ec \ubc1c\uacac:", True, ACCENT_BLUE, 11),
+            ("  - HMD: \uacf5\uac04 \ud604\uc2e4\uac10(Presence) \uc720\uc758\ud558\uac8c \uc99d\uac00 (p < 0.05)", False, DARK_TEXT, 10),
+            ("  - \ubaa8\ub2c8\ud130: \uc804\ubc18\uc801 \uc18c\uc74c \uc778\uc2dd \ub354 \ub192\uc74c", False, DARK_TEXT, 10),
+            ("  - \uc2dc\uac01 \uc7ac\ud604 \ubc29\uc2dd\uc774 \uc624\ub514\uc624 \ud488\uc9c8 \ud310\ub2e8\uc744 \uccb4\uacc4\uc801\uc73c\ub85c \ubcc0\ud654\uc2dc\ud0b4", False, DARK_TEXT, 10),
         ],
-        line_spacing=1.3,
+        figure_path="apac2022_p6.png",
+        figure_label="Result \u2014 Semantic Profile Comparison",
+        metrics=[
+            ("40 \u00d7 8", "\ud53c\ud5d8\uc790 \u00d7 \ud658\uacbd"),
+            ("p < 0.05", "HMD Presence \uc720\uc758\ucc28"),
+            ("14 pairs", "Semantic Differential"),
+        ],
+        implications=[
+            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+            ("XR \ub514\ubc14\uc774\uc2a4 \ub300\uc751 \uc2dc, \uc2dc\uac01 \uc870\uac74 \ud1b5\uc81c\uac00", False, WHITE, 10),
+            ("\uc624\ub514\uc624 \ud488\uc9c8 \ud3c9\uac00\uc758 \ud544\uc218 \uc804\uc81c \uc870\uac74", False, WHITE, 10),
+            ("\u2192 Eclipsa Audio \ud488\uc9c8 \ud3c9\uac00 \ud504\ub85c\ud1a0\ucf5c\uc5d0", False, WHITE, 10),
+            ("  \uc2dc\uac01 \uc7ac\ud604 \ubc29\uc2dd \ubcc0\uc218 \ubc18\ub4dc\uc2dc \ud3ec\ud568", False, WHITE, 10),
+        ],
     )
-
-    # === RIGHT COLUMN: Figure ===
-    fig_x = Inches(6.7)
-    fig_top = Inches(2.1)
-    add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "Result — Semantic Profile Comparison", font_size=11, font_color=GRAY, bold=True)
-    add_image_safe(slide, img("apac2022_p7.png"),
-                   fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.0),
-                   placeholder_text="apac2022_p7.png")
-
-    # === BOTTOM: Metric cards + Implication ===
-    mc_top = Inches(5.6)
-    mc_h = Inches(0.85)
-    mc_w = Inches(2.5)
-    metrics = [
-        ("40 × 8", "피험자 × 환경"),
-        ("p < 0.05", "HMD Presence 유의차"),
-        ("14 pairs", "Semantic Differential"),
-    ]
-    for i, (num, lbl) in enumerate(metrics):
-        mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.25))))
-        add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
-                        number_size=22, label_size=9)
-
-    # Implication box
-    add_implication_box(slide, Inches(8.2), mc_top, Inches(4.5), Inches(1.6),
-                        [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("XR 디바이스 대응 시, 시각 조건 통제가", False, WHITE, 10),
-                            ("오디오 품질 평가의 필수 전제 조건", False, WHITE, 10),
-                            ("→ Eclipsa Audio 품질 평가 프로토콜에", False, WHITE, 10),
-                            ("  시각 재현 방식 변수 반드시 포함", False, WHITE, 10),
-                        ],
-                        font_size=10, line_spacing=1.25)
 
 
 # ============================================================================
 # S8: Axis 2 - Headphone vs Speaker
 # ============================================================================
 def build_s8(prs):
-    slide = add_blank_slide(prs)
-
-    add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "축2: 헤드폰 vs 스피커",
-                      "")
-
-    # Paper reference
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("APAC_2019_Jeon et al", True, NAVY, 11),
-            ("Applied Acoustics, IF 3.4", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
-
-    # RQ
-    rq_top = Inches(1.25)
-    add_rect(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), fill_color=LIGHT_BG)
-    add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
-                "RQ: 헤드폰과 스피커 재생 방식이 동일 음원에 대한 사용자의 소리 품질 판단을 어떻게 바꾸는가?",
-                font_size=12, font_color=NAVY, bold=True)
-
-    # === LEFT: Methodology ===
-    left_x = Inches(0.6)
-    meth_top = Inches(2.1)
-    meth_w = Inches(5.8)
-
-    add_textbox(slide, left_x, meth_top, meth_w, Inches(0.3),
-                "Methodology", font_size=13, font_color=NAVY, bold=True)
-
-    add_multiline_textbox(
-        slide, left_x, meth_top + Inches(0.35), meth_w, Inches(2.2),
-        [
-            ("4가지 재생 조건:", True, DARK_TEXT, 11),
+    _build_research_slide(
+        prs,
+        title="\ucd952: \ud5e4\ub4dc\ud3f0 vs \uc2a4\ud53c\ucee4",
+        paper_ref="APAC 2019 \u00B7 Jeon et al",
+        paper_journal="Applied Acoustics, IF 3.4",
+        rq_text="RQ: \ud5e4\ub4dc\ud3f0\uacfc \uc2a4\ud53c\ucee4 \uc7ac\uc0dd \ubc29\uc2dd\uc774 \ub3d9\uc77c \uc74c\uc6d0\uc5d0 \ub300\ud55c \uc0ac\uc6a9\uc790\uc758 \uc18c\ub9ac \ud488\uc9c8 \ud310\ub2e8\uc744 \uc5b4\ub5bb\uac8c \ubc14\uafb8\ub294\uac00?",
+        methodology_lines=[
+            ("4\uac00\uc9c0 \uc7ac\uc0dd \uc870\uac74:", True, DARK_TEXT, 11),
             ("  (1) Headphone only  (2) Speaker only", False, DARK_TEXT, 10),
             ("  (3) Headphone + HMD  (4) Speaker + HMD", False, DARK_TEXT, 10),
-            ("자극: LAeq 40-65 dB, 6단계 소음 레벨", False, DARK_TEXT, 10),
-            ("종속변수: 성가심(Annoyance), 허용한계(Allowance)", False, DARK_TEXT, 10),
+            ("\uc790\uadf9: LAeq 40-65 dB, 6\ub2e8\uacc4 \uc18c\uc74c \ub808\ubca8", False, DARK_TEXT, 10),
+            ("\uc885\uc18d\ubcc0\uc218: \uc131\uac00\uc2ec(Annoyance), \ud5c8\uc6a9\ud55c\uacc4(Allowance)", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("핵심 발견:", True, ACCENT_BLUE, 11),
-            ("  - Annoyance 차이: headphone vs speaker 8%", False, DARK_TEXT, 10),
-            ("  - Allowance 차이: 6%", False, DARK_TEXT, 10),
-            ("  - 50% annoyance level에서 SPL 차이: 2.2 dBA", False, DARK_TEXT, 10),
-            ("  - Speaker + HMD 조합 = 실제 현장에 가장 근접한 반응", False, DARK_TEXT, 10),
+            ("\ud575\uc2ec \ubc1c\uacac:", True, ACCENT_BLUE, 11),
+            ("  - Annoyance \ucc28\uc774: headphone vs speaker 8%", False, DARK_TEXT, 10),
+            ("  - Allowance \ucc28\uc774: 6%", False, DARK_TEXT, 10),
+            ("  - 50% annoyance level\uc5d0\uc11c SPL \ucc28\uc774: 2.2 dBA", False, DARK_TEXT, 10),
+            ("  - Speaker + HMD = \uc2e4\uc81c \ud604\uc7a5\uc5d0 \uac00\uc7a5 \uadfc\uc811", False, DARK_TEXT, 10),
         ],
-        line_spacing=1.25,
+        figure_path="be2019a_p7.png",
+        figure_label="Result \u2014 Annoyance vs SPL by Condition",
+        metrics=[
+            ("8%", "Annoyance \ucc28\uc774"),
+            ("6%", "Allowance \ucc28\uc774"),
+            ("2.2 dBA", "50% SPL \ucc28\uc774"),
+        ],
+        implications=[
+            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+            ("\ud5e4\ub4dc\ud3f0(\ubc14\uc774\ub178\ub7f4) vs \uc2a4\ud53c\ucee4(\uba40\ud2f0\ucc44\ub110) \uc7ac\uc0dd \uc2dc", False, WHITE, 10),
+            ("\uc0ac\uc6a9\uc790 \uc9c0\uac01 \ucc28\uc774\uac00 \uccb4\uacc4\uc801\uc73c\ub85c \ubc1c\uc0dd", False, WHITE, 10),
+            ("\u2192 Eclipsa Audio \ub80c\ub354\ub9c1 \ud488\uc9c8 \ud3c9\uac00\uc5d0\uc11c", False, WHITE, 10),
+            ("  \uc7ac\uc0dd \ub514\ubc14\uc774\uc2a4\ubcc4 \ubcf4\uc815 \uae30\uc900 \ud544\uc694", False, WHITE, 10),
+            ("\u2192 Speaker+HMD\uac00 reference condition\uc73c\ub85c \uc801\ud569", False, WHITE, 10),
+        ],
     )
-
-    # === RIGHT: Figure ===
-    fig_x = Inches(6.7)
-    fig_top = Inches(2.1)
-    add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "Result — Annoyance vs SPL by Condition", font_size=11, font_color=GRAY, bold=True)
-    add_image_safe(slide, img("be2019a_p7.png"),
-                   fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.0),
-                   placeholder_text="be2019a_p7.png")
-
-    # === BOTTOM: Metrics + Implication ===
-    mc_top = Inches(5.6)
-    mc_h = Inches(0.85)
-    mc_w = Inches(2.0)
-    metrics = [
-        ("8%", "Annoyance 차이"),
-        ("6%", "Allowance 차이"),
-        ("2.2 dBA", "50% SPL 차이"),
-    ]
-    for i, (num, lbl) in enumerate(metrics):
-        mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.25))))
-        add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
-                        number_size=24, label_size=9)
-
-    # Implication
-    add_implication_box(slide, Inches(7.5), mc_top, Inches(5.2), Inches(1.6),
-                        [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("헤드폰(바이노럴) vs 스피커(멀티채널) 재생 시", False, WHITE, 10),
-                            ("사용자 지각 차이가 체계적으로 발생", False, WHITE, 10),
-                            ("→ Eclipsa Audio 렌더링 품질 평가에서", False, WHITE, 10),
-                            ("  재생 디바이스별 보정 기준 필요", False, WHITE, 10),
-                            ("→ Speaker+HMD가 reference condition으로 적합", False, WHITE, 10),
-                        ],
-                        font_size=10, line_spacing=1.2)
 
 
 # ============================================================================
 # S9: Axis 3 - Binaural-Visual Interaction
 # ============================================================================
 def build_s9(prs):
-    slide = add_blank_slide(prs)
-
-    add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "축3: 바이노럴-비주얼 상호작용",
-                      "")
-
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("B&E_2019 x 2편", True, NAVY, 11),
-            ("Building and Environment, IF 7.4", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
-
-    rq_top = Inches(1.25)
-    add_rect(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), fill_color=LIGHT_BG)
-    add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
-                "RQ: HRTF 바이노럴 렌더링과 HMD 시각 재현, 어느 것이 사용자 공간 지각에 더 지배적인가?",
-                font_size=12, font_color=NAVY, bold=True)
-
-    # === LEFT: Methodology ===
-    left_x = Inches(0.6)
-    meth_top = Inches(2.1)
-    meth_w = Inches(5.8)
-
-    add_textbox(slide, left_x, meth_top, meth_w, Inches(0.3),
-                "Methodology", font_size=13, font_color=NAVY, bold=True)
-
-    add_multiline_textbox(
-        slide, left_x, meth_top + Inches(0.35), meth_w, Inches(2.3),
-        [
+    _build_research_slide(
+        prs,
+        title="\ucd953: \ubc14\uc774\ub178\ub7f4-\ube44\uc8fc\uc5bc \uc0c1\ud638\uc791\uc6a9",
+        paper_ref="B&E 2019 \u00d7 2\ud3b8",
+        paper_journal="Building and Environment, IF 7.4",
+        rq_text="RQ: HRTF \ubc14\uc774\ub178\ub7f4 \ub80c\ub354\ub9c1\uacfc HMD \uc2dc\uac01 \uc7ac\ud604, \uc5b4\ub290 \uac83\uc774 \uc0ac\uc6a9\uc790 \uacf5\uac04 \uc9c0\uac01\uc5d0 \ub354 \uc9c0\ubc30\uc801\uc778\uac00?",
+        methodology_lines=[
             ("2x2 Factorial Design:", True, DARK_TEXT, 11),
             ("  Factor A: HRTF (Individualized vs Generic)", False, DARK_TEXT, 10),
             ("  Factor B: HMD (VR 360 vs No Visual)", False, DARK_TEXT, 10),
-            ("피험자: 40명 × 8개 도시 음환경 = 320 data points", False, DARK_TEXT, 10),
-            ("장비: Sennheiser HD-650 + HTC VIVE Pro", False, DARK_TEXT, 10),
+            ("\ud53c\ud5d8\uc790: 40\uba85 \u00d7 8\uac1c \ub3c4\uc2dc \uc74c\ud658\uacbd = 320 data points", False, DARK_TEXT, 10),
+            ("\uc7a5\ube44: Sennheiser HD-650 + HTC VIVE Pro", False, DARK_TEXT, 10),
             ("HRTF: CIPIC HRTF Database", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("핵심 발견:", True, ACCENT_BLUE, 11),
-            ("  - HRTF가 공간감 지각의 77% 설명 (지배적 요인)", False, DARK_TEXT, 10),
-            ("  - HMD는 23% 보조적 역할", False, DARK_TEXT, 10),
-            ("  - HRTF+HMD 동시 적용 시 음상 외재화·몰입감 유의 증가", False, DARK_TEXT, 10),
-            ("  - VR 환경에서 허용한계 6~7 dB 하락 (더 민감한 반응)", False, DARK_TEXT, 10),
+            ("\ud575\uc2ec \ubc1c\uacac:", True, ACCENT_BLUE, 11),
+            ("  - HRTF\uac00 \uacf5\uac04\uac10 \uc9c0\uac01\uc758 77% \uc124\uba85 (\uc9c0\ubc30\uc801 \uc694\uc778)", False, DARK_TEXT, 10),
+            ("  - HMD\ub294 23% \ubcf4\uc870\uc801 \uc5ed\ud560", False, DARK_TEXT, 10),
+            ("  - VR \ud658\uacbd\uc5d0\uc11c \ud5c8\uc6a9\ud55c\uacc4 6\u007e7 dB \ud558\ub77d", False, DARK_TEXT, 10),
         ],
-        line_spacing=1.2,
+        figure_path="be2019a_p8.png",
+        figure_label="Result \u2014 HRTF vs HMD Contribution",
+        metrics=[
+            ("77%", "HRTF \uacf5\uac04\uac10 \uae30\uc5ec"),
+            ("23%", "HMD \uc2dc\uac01 \uae30\uc5ec"),
+            ("6~7 dB", "VR \ud5c8\uc6a9\ud55c\uacc4 \ud558\ub77d"),
+        ],
+        implications=[
+            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+            ("HRTF \uac1c\uc778\ud654 = \ub80c\ub354\ub7ec \ucd5c\uc801\ud654\uc758 \ucd5c\uc6b0\uc120 \uacfc\uc81c (77%)", False, WHITE, 10),
+            ("\u2192 Eclipsa Audio HRTF \uac1c\uc778\ud654 \uc54c\uace0\ub9ac\uc998 \uac1c\ubc1c \uc2dc", False, WHITE, 10),
+            ("  \uacf5\uac04\uac10 \ud5a5\uc0c1 \ud6a8\uacfc\uac00 \uc2dc\uac01 \uc7ac\ud604\ubcf4\ub2e4 3\ubc30 \uc774\uc0c1 \uc9c0\ubc30\uc801", False, WHITE, 10),
+            ("\u2192 \uc81c\ud55c\ub41c \ub9ac\uc18c\uc2a4\uc5d0\uc11c HRTF\uc5d0 \uc9d1\uc911 \ud22c\uc790 \uadfc\uac70", False, WHITE, 10),
+        ],
     )
-
-    # === RIGHT: Figure ===
-    fig_x = Inches(6.7)
-    fig_top = Inches(2.1)
-    add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "Result — HRTF vs HMD Contribution", font_size=11, font_color=GRAY, bold=True)
-    add_image_safe(slide, img("be2019a_p9.png"),
-                   fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.0),
-                   placeholder_text="be2019a_p9.png")
-
-    # === BOTTOM: Metrics + Implication ===
-    mc_top = Inches(5.6)
-    mc_h = Inches(0.85)
-    mc_w = Inches(2.0)
-    metrics = [
-        ("77%", "HRTF 공간감 기여"),
-        ("23%", "HMD 시각 기여"),
-        ("6~7 dB", "VR 허용한계 하락"),
-    ]
-    for i, (num, lbl) in enumerate(metrics):
-        mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.25))))
-        add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
-                        number_size=26, label_size=9)
-
-    add_implication_box(slide, Inches(7.5), mc_top, Inches(5.2), Inches(1.6),
-                        [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("HRTF 개인화 = 렌더러 최적화의 최우선 과제 (77%)", False, WHITE, 10),
-                            ("→ Eclipsa Audio HRTF 개인화 알고리즘 개발 시", False, WHITE, 10),
-                            ("  공간감 향상 효과가 시각 재현보다 3배 이상 지배적", False, WHITE, 10),
-                            ("→ 제한된 리소스에서 HRTF에 집중 투자 근거 제공", False, WHITE, 10),
-                        ],
-                        font_size=10, line_spacing=1.2)
 
 
 # ============================================================================
 # S10: Axis 4 - Audio-Visual Information
 # ============================================================================
 def build_s10(prs):
-    slide = add_blank_slide(prs)
-
-    add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "축4: 시청각 정보 기여도",
-                      "")
-
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("B&E_2020_Jeon & Jo", True, NAVY, 11),
-            ("Building and Environment, IF 7.4", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
-
-    rq_top = Inches(1.25)
-    add_rect(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), fill_color=LIGHT_BG)
-    add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
-                "RQ: Audio 정보와 Visual 정보가 전체 환경 만족도에 각각 얼마나 기여하는가?",
-                font_size=12, font_color=NAVY, bold=True)
-
-    # === LEFT: Methodology ===
-    left_x = Inches(0.6)
-    meth_top = Inches(2.1)
-    meth_w = Inches(5.8)
-
-    add_textbox(slide, left_x, meth_top, meth_w, Inches(0.3),
-                "Methodology", font_size=13, font_color=NAVY, bold=True)
-
-    add_multiline_textbox(
-        slide, left_x, meth_top + Inches(0.35), meth_w, Inches(2.3),
-        [
-            ("오디오: FOA Ambisonics + HMD + Head-tracking", True, DARK_TEXT, 11),
-            ("환경: 8개 도시 음환경 (공원, 도로, 광장 등)", False, DARK_TEXT, 10),
-            ("3가지 제시 조건:", True, DARK_TEXT, 11),
+    _build_research_slide(
+        prs,
+        title="\ucd954: \uc2dc\uccad\uac01 \uc815\ubcf4 \uae30\uc5ec\ub3c4",
+        paper_ref="B&E 2020 \u00B7 Jeon & Jo",
+        paper_journal="Building and Environment, IF 7.4",
+        rq_text="RQ: Audio \uc815\ubcf4\uc640 Visual \uc815\ubcf4\uac00 \uc804\uccb4 \ud658\uacbd \ub9cc\uc871\ub3c4\uc5d0 \uac01\uac01 \uc5bc\ub9c8\ub098 \uae30\uc5ec\ud558\ub294\uac00?",
+        methodology_lines=[
+            ("\uc624\ub514\uc624: FOA Ambisonics + HMD + Head-tracking", True, DARK_TEXT, 11),
+            ("\ud658\uacbd: 8\uac1c \ub3c4\uc2dc \uc74c\ud658\uacbd (\uacf5\uc6d0, \ub3c4\ub85c, \uad11\uc7a5 \ub4f1)", False, DARK_TEXT, 10),
+            ("3\uac00\uc9c0 \uc81c\uc2dc \uc870\uac74:", True, DARK_TEXT, 11),
             ("  (1) Audio-only  (2) Visual-only  (3) Audio+Visual", False, DARK_TEXT, 10),
-            ("종속변수: 만족도, 자연스러움, 쾌적성", False, DARK_TEXT, 10),
+            ("\uc885\uc18d\ubcc0\uc218: \ub9cc\uc871\ub3c4, \uc790\uc5f0\uc2a4\ub7ec\uc6c0, \ucf80\uc801\uc131", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("핵심 발견:", True, ACCENT_BLUE, 11),
-            ("  - 만족도 기여: Audio 24% vs Visual 76%", False, DARK_TEXT, 10),
-            ("  - 만족도 예측 모델 설명력: R² = 51%", False, DARK_TEXT, 10),
-            ("  - Audio가 landscape 자연스러움에도 영향 (cross-modal effect)", False, DARK_TEXT, 10),
-            ("  - 시각이 지배적이나, 오디오 없이는 자연스러움 저하", False, DARK_TEXT, 10),
+            ("\ud575\uc2ec \ubc1c\uacac:", True, ACCENT_BLUE, 11),
+            ("  - \ub9cc\uc871\ub3c4 \uae30\uc5ec: Audio 24% vs Visual 76%", False, DARK_TEXT, 10),
+            ("  - \ub9cc\uc871\ub3c4 \uc608\uce21 \ubaa8\ub378 \uc124\uba85\ub825: R\u00b2 = 51%", False, DARK_TEXT, 10),
+            ("  - \uc2dc\uac01\uc774 \uc9c0\ubc30\uc801\uc774\ub098, \uc624\ub514\uc624 \uc5c6\uc774\ub294 \uc790\uc5f0\uc2a4\ub7ec\uc6c0 \uc800\ud558", False, DARK_TEXT, 10),
         ],
-        line_spacing=1.2,
+        figure_path="be2020_p8.png",
+        figure_label="Result \u2014 A/V Contribution to Satisfaction",
+        metrics=[
+            ("24%", "Audio \ub9cc\uc871\ub3c4 \uae30\uc5ec"),
+            ("76%", "Visual \ub9cc\uc871\ub3c4 \uae30\uc5ec"),
+            ("R\u00b2=51%", "\ub9cc\uc871\ub3c4 \ubaa8\ub378 \uc124\uba85\ub825"),
+        ],
+        implications=[
+            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+            ("Display + Audio \ud1b5\ud569 \uc124\uacc4\uac00 \ub9cc\uc871\ub3c4\uc758 \ud575\uc2ec", False, WHITE, 10),
+            ("\u2192 Holographic Displays x Spatial Audio \uc2dc\ub108\uc9c0:", False, WHITE, 10),
+            ("  \uc2dc\uac01 76% + \uc624\ub514\uc624 24%\uc758 cross-modal \ud6a8\uacfc \uadf9\ub300\ud654", False, WHITE, 10),
+            ("\u2192 \uc624\ub514\uc624 \ud488\uc9c8\ub9cc \uc62c\ub824\ub3c4 \uc790\uc5f0\uc2a4\ub7ec\uc6c0 \uac1c\uc120 \uac00\ub2a5", False, WHITE, 10),
+        ],
     )
-
-    # === RIGHT: Figure ===
-    fig_x = Inches(6.7)
-    fig_top = Inches(2.1)
-    add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "Result — A/V Contribution to Satisfaction", font_size=11, font_color=GRAY, bold=True)
-    add_image_safe(slide, img("be2020_p9.png"),
-                   fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.0),
-                   placeholder_text="be2020_p9.png")
-
-    # === BOTTOM: Metrics + Implication ===
-    mc_top = Inches(5.6)
-    mc_h = Inches(0.85)
-    mc_w = Inches(2.0)
-    metrics = [
-        ("24%", "Audio 만족도 기여"),
-        ("76%", "Visual 만족도 기여"),
-        ("R²=51%", "만족도 모델 설명력"),
-    ]
-    for i, (num, lbl) in enumerate(metrics):
-        mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.25))))
-        add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
-                        number_size=26, label_size=9)
-
-    add_implication_box(slide, Inches(7.5), mc_top, Inches(5.2), Inches(1.6),
-                        [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("Display + Audio 통합 설계가 만족도의 핵심", False, WHITE, 10),
-                            ("→ Holographic Displays x Spatial Audio 시너지:", False, WHITE, 10),
-                            ("  시각 76% + 오디오 24%의 cross-modal 효과 극대화", False, WHITE, 10),
-                            ("→ 오디오 품질만 올려도 자연스러움 개선 가능", False, WHITE, 10),
-                        ],
-                        font_size=10, line_spacing=1.2)
 
 
 # ============================================================================
 # S11: Axis 5 - Ecological Validity
 # ============================================================================
 def build_s11(prs):
-    slide = add_blank_slide(prs)
-
-    add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "축5: 생태학적 타당성",
-                      "")
-
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("SCS_2021_Jo & Jeon", True, NAVY, 11),
-            ("Sustainable Cities and Society, IF 11.7", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
-
-    rq_top = Inches(1.25)
-    add_rect(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), fill_color=LIGHT_BG)
-    add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
-                "RQ: VR 실험실에서의 음환경 평가를 실제 현장(in-situ) 결과와 동일하게 신뢰할 수 있는가?",
-                font_size=12, font_color=NAVY, bold=True)
-
-    # === LEFT: Methodology ===
-    left_x = Inches(0.6)
-    meth_top = Inches(2.1)
-    meth_w = Inches(5.8)
-
-    add_textbox(slide, left_x, meth_top, meth_w, Inches(0.3),
-                "Methodology", font_size=13, font_color=NAVY, bold=True)
-
-    add_multiline_textbox(
-        slide, left_x, meth_top + Inches(0.35), meth_w, Inches(2.3),
-        [
-            ("대규모 실험: 50명 피험자 × 10개 도시 음환경", True, DARK_TEXT, 11),
-            ("ISO 12913-2 표준 3개 프로토콜 비교:", True, DARK_TEXT, 11),
-            ("  Method A: 현장 직접 평가 (In-situ)", False, DARK_TEXT, 10),
-            ("  Method B: 현장 녹음 후 실험실 재생", False, DARK_TEXT, 10),
+    _build_research_slide(
+        prs,
+        title="\ucd955: \uc0dd\ud0dc\ud559\uc801 \ud0c0\ub2f9\uc131",
+        paper_ref="SCS 2021 \u00B7 Jo & Jeon",
+        paper_journal="Sustainable Cities and Society, IF 11.7",
+        rq_text="RQ: VR \uc2e4\ud5d8\uc2e4\uc5d0\uc11c\uc758 \uc74c\ud658\uacbd \ud3c9\uac00\ub97c \uc2e4\uc81c \ud604\uc7a5(in-situ) \uacb0\uacfc\uc640 \ub3d9\uc77c\ud558\uac8c \uc2e0\ub8b0\ud560 \uc218 \uc788\ub294\uac00?",
+        methodology_lines=[
+            ("\ub300\uaddc\ubaa8 \uc2e4\ud5d8: 50\uba85 \ud53c\ud5d8\uc790 \u00d7 10\uac1c \ub3c4\uc2dc \uc74c\ud658\uacbd", True, DARK_TEXT, 11),
+            ("ISO 12913-2 \ud45c\uc900 3\uac1c \ud504\ub85c\ud1a0\ucf5c \ube44\uad50:", True, DARK_TEXT, 11),
+            ("  Method A: \ud604\uc7a5 \uc9c1\uc811 \ud3c9\uac00 (In-situ)", False, DARK_TEXT, 10),
+            ("  Method B: \ud604\uc7a5 \ub179\uc74c \ud6c4 \uc2e4\ud5d8\uc2e4 \uc7ac\uc0dd", False, DARK_TEXT, 10),
             ("  Method C: VR (FOA Ambisonics + HMD + Head-tracking)", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("핵심 발견:", True, ACCENT_BLUE, 11),
-            ("  - VR vs In-situ: 통계적 유의차 없음 (생태학적 타당성 실증)", False, DARK_TEXT, 10),
-            ("  - Pleasantness-Eventful 모델이 3개 프로토콜 모두에서 재현", False, DARK_TEXT, 10),
-            ("  - Method C에서 비음향적 요인(시각, 맥락) 발견", False, DARK_TEXT, 10),
-            ("  - 가장 높은 IF(11.7) — 연구 영향력 입증", False, DARK_TEXT, 10),
+            ("\ud575\uc2ec \ubc1c\uacac:", True, ACCENT_BLUE, 11),
+            ("  - VR vs In-situ: \ud1b5\uacc4\uc801 \uc720\uc758\ucc28 \uc5c6\uc74c", False, DARK_TEXT, 10),
+            ("  - P-E \ubaa8\ub378\uc774 3\uac1c \ud504\ub85c\ud1a0\ucf5c \ubaa8\ub450\uc5d0\uc11c \uc7ac\ud604", False, DARK_TEXT, 10),
+            ("  - \uac00\uc7a5 \ub192\uc740 IF(11.7) \u2014 \uc5f0\uad6c \uc601\ud5a5\ub825 \uc785\uc99d", False, DARK_TEXT, 10),
         ],
-        line_spacing=1.2,
+        figure_path="scs2021_p5.png",
+        figure_label="Result \u2014 Protocol Comparison (P-E Model)",
+        metrics=[
+            ("50 \u00d7 10", "\ud53c\ud5d8\uc790 \u00d7 \ud658\uacbd"),
+            ("3 Protocols", "ISO 12913-2 A/B/C"),
+            ("VR \u2248 In-situ", "\uc720\uc758\ucc28 \uc5c6\uc74c"),
+        ],
+        implications=[
+            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+            ("VR \uc2e4\ud5d8\uc2e4\uc5d0\uc11c Eclipsa Audio \ub80c\ub354\ub9c1 \ud488\uc9c8 \ud3c9\uac00 \u2192", False, WHITE, 10),
+            ("\uc2e4\uc0ac\uc6a9 \ud658\uacbd \uacb0\uacfc\uc640 \ub3d9\uc77c\ud558\uac8c \uc2e0\ub8b0 \uac00\ub2a5", False, WHITE, 10),
+            ("\u2192 \uc81c\ud488 \ucd9c\uc2dc \uc804 VR \uae30\ubc18 \ub300\uaddc\ubaa8 \ud3c9\uac00 \ud504\ub808\uc784\uc6cc\ud06c", False, WHITE, 10),
+            ("  \uad6c\ucd95 \uac00\ub2a5 (\ud604\uc7a5 \ud14c\uc2a4\ud2b8 \ube44\uc6a9 \ub300\ud3ed \uc808\uac10)", False, WHITE, 10),
+        ],
     )
-
-    # === RIGHT: Figure ===
-    fig_x = Inches(6.7)
-    fig_top = Inches(2.1)
-    add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "Result — Protocol Comparison (P-E Model)", font_size=11, font_color=GRAY, bold=True)
-    add_image_safe(slide, img("scs2021_p4.png"),
-                   fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.0),
-                   placeholder_text="scs2021_p4.png")
-
-    # === BOTTOM: Metrics + Implication ===
-    mc_top = Inches(5.6)
-    mc_h = Inches(0.85)
-    mc_w = Inches(2.0)
-    metrics = [
-        ("50 × 10", "피험자 × 환경"),
-        ("3 Protocols", "ISO 12913-2 A/B/C"),
-        ("VR ≈ In-situ", "유의차 없음"),
-    ]
-    for i, (num, lbl) in enumerate(metrics):
-        mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.25))))
-        add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
-                        number_size=22, label_size=9)
-
-    add_implication_box(slide, Inches(7.5), mc_top, Inches(5.2), Inches(1.6),
-                        [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("VR 실험실에서 Eclipsa Audio 렌더링 품질 평가 →", False, WHITE, 10),
-                            ("실사용 환경 결과와 동일하게 신뢰 가능", False, WHITE, 10),
-                            ("→ 제품 출시 전 VR 기반 대규모 평가 프레임워크", False, WHITE, 10),
-                            ("  구축 가능 (현장 테스트 비용 대폭 절감)", False, WHITE, 10),
-                        ],
-                        font_size=10, line_spacing=1.2)
 
 
 # ============================================================================
@@ -850,32 +697,28 @@ def build_s11(prs):
 # ============================================================================
 def build_s12(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "Part II. 멀티모달 생리반응 모델링",
-                      "")
+                      "Part II. \uba40\ud2f0\ubaa8\ub2ec \uc0dd\ub9ac\ubc18\uc751 \ubaa8\ub378\ub9c1", "")
 
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("SCS_2023 (IF 11.7) + SR_2022 + IJERPH_2024", True, NAVY, 9),
-            ("3편 연속 출판 시리즈", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
+    # Paper pills
+    add_pill_badge(slide, Inches(8.0), Inches(0.55),
+                   "SCS 2023 + SR 2022 + IJERPH 2024", font_size=8)
+    add_textbox(slide, Inches(8.0), Inches(0.9), Inches(4.5), Inches(0.25),
+                "3\ud3b8 \uc5f0\uc18d \ucd9c\ud310 \uc2dc\ub9ac\uc988 (IF 11.7+)", font_size=9, font_color=GRAY)
 
-    # --- Experiment protocol description ---
+    # Experiment protocol glass card
     proto_top = Inches(1.2)
-    add_rect(slide, Inches(0.6), proto_top, Inches(12.1), Inches(1.3), fill_color=LIGHT_BG)
+    add_glass_card(slide, Inches(0.6), proto_top, Inches(12.1), Inches(1.3), shadow=True)
 
     add_multiline_textbox(
         slide, Inches(0.8), proto_top + Inches(0.08), Inches(5.5), Inches(1.15),
         [
-            ("실험 규모: 60명 × 9환경 × 2일", True, NAVY, 12),
-            ("MAT (Montreal Arithmetic Task) 스트레스 유도 프로토콜", False, DARK_TEXT, 10),
-            ("Day1: 준비→스트레스→자극→HRV+EEG (×6 = 60min)", False, DARK_TEXT, 10),
-            ("Day2: 준비→자극→주관평가 (×6 = 42min)", False, DARK_TEXT, 10),
+            ("\uc2e4\ud5d8 \uaddc\ubaa8: 60\uba85 \u00d7 9\ud658\uacbd \u00d7 2\uc77c", True, NAVY, 12),
+            ("MAT (Montreal Arithmetic Task) \uc2a4\ud2b8\ub808\uc2a4 \uc720\ub3c4", False, DARK_TEXT, 10),
+            ("Day1: \uc900\ube44\u2192\uc2a4\ud2b8\ub808\uc2a4\u2192\uc790\uadf9\u2192HRV+EEG (\u00d76 = 60min)", False, DARK_TEXT, 10),
+            ("Day2: \uc900\ube44\u2192\uc790\uadf9\u2192\uc8fc\uad00\ud3c9\uac00 (\u00d76 = 42min)", False, DARK_TEXT, 10),
         ],
         line_spacing=1.25,
     )
@@ -883,30 +726,30 @@ def build_s12(prs):
     add_multiline_textbox(
         slide, Inches(6.5), proto_top + Inches(0.08), Inches(6.0), Inches(1.15),
         [
-            ("측정 장비:", True, NAVY, 12),
-            ("HRV: SA-3000NEW (5개 시간/주파수 도메인 지표)", False, DARK_TEXT, 10),
+            ("\uce21\uc815 \uc7a5\ube44:", True, NAVY, 12),
+            ("HRV: SA-3000NEW (5\uac1c \uc2dc\uac04/\uc8fc\ud30c\uc218 \ub3c4\uba54\uc778 \uc9c0\ud45c)", False, DARK_TEXT, 10),
             ("EEG: EMOTIV EPOC Flex 32ch, 128Hz sampling", False, DARK_TEXT, 10),
-            ("Eye-tracking: Tobii Pro (시선 고정, 산동 분석)", False, DARK_TEXT, 10),
+            ("Eye-tracking: Tobii Pro (\uc2dc\uc120 \uace0\uc815, \uc0b0\ub3d9 \ubd84\uc11d)", False, DARK_TEXT, 10),
         ],
         line_spacing=1.25,
     )
 
-    # --- 4 metric cards ---
+    # 4 LARGE metric cards
     mc_top = Inches(2.7)
     mc_w = Inches(2.85)
     mc_h = Inches(0.95)
     metrics = [
-        ("CCA 0.80", "물리음향 ↔ 심리반응"),
-        ("CCA 0.78", "지각품질 ↔ 심리반응"),
-        ("SDNN +14.6%", "스트레스 저항력 ↑"),
-        ("TSI -9.5%", "스트레스 지수 ↓"),
+        ("CCA 0.80", "\ubb3c\ub9ac\uc74c\ud5a5 \u2194 \uc2ec\ub9ac\ubc18\uc751"),
+        ("CCA 0.78", "\uc9c0\uac01\ud488\uc9c8 \u2194 \uc2ec\ub9ac\ubc18\uc751"),
+        ("SDNN +14.6%", "\uc2a4\ud2b8\ub808\uc2a4 \uc800\ud56d\ub825 \u2191"),
+        ("TSI -9.5%", "\uc2a4\ud2b8\ub808\uc2a4 \uc9c0\uc218 \u2193"),
     ]
     for i, (num, lbl) in enumerate(metrics):
         mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.2))))
         add_metric_card(slide, mx, mc_top, mc_w, mc_h, num, lbl,
                         number_size=22, label_size=10)
 
-    # --- Two figures side by side ---
+    # Two figures side by side
     fig_top = Inches(3.85)
     fig_h = Inches(2.4)
     add_textbox(slide, Inches(0.6), fig_top - Inches(0.25), Inches(5.8), Inches(0.25),
@@ -921,14 +764,14 @@ def build_s12(prs):
                    Inches(6.7), fig_top, Inches(5.8), fig_h,
                    placeholder_text="ijerph2024_p5.png (Eye)")
 
-    # --- Implication box (full width, 3 specific points) ---
+    # Implication strip (full width, rounded)
     imp_top = Inches(6.4)
     add_implication_box(slide, Inches(0.6), imp_top, Inches(12.1), Inches(0.9),
                         [
-                            ("Samsung 시사점:  ", True, WHITE, 11),
-                            ("(1) 생리신호 기반 객관적 품질 평가 → 주관 설문의 한계 보완  "
-                             "(2) EEG·HRV로 렌더링 품질 변화에 대한 신체 반응 정량화  "
-                             "(3) 사용자 몰입도를 Galaxy Watch·Buds 센서로 실시간 검증하는 파이프라인 구축 가능", False, WHITE, 9),
+                            ("Samsung \uc2dc\uc0ac\uc810:  ", True, WHITE, 11),
+                            ("(1) \uc0dd\ub9ac\uc2e0\ud638 \uae30\ubc18 \uac1d\uad00\uc801 \ud488\uc9c8 \ud3c9\uac00 \u2192 \uc8fc\uad00 \uc124\ubb38\uc758 \ud55c\uacc4 \ubcf4\uc644  "
+                             "(2) EEG\u00b7HRV\ub85c \ub80c\ub354\ub9c1 \ud488\uc9c8 \ubcc0\ud654\uc5d0 \ub300\ud55c \uc2e0\uccb4 \ubc18\uc751 \uc815\ub7c9\ud654  "
+                             "(3) Galaxy Watch\u00b7Buds \uc13c\uc11c\ub85c \uc2e4\uc2dc\uac04 \uac80\uc99d \ud30c\uc774\ud504\ub77c\uc778 \uad6c\ucd95 \uac00\ub2a5", False, WHITE, 9),
                         ],
                         font_size=10, line_spacing=1.3)
 
@@ -938,66 +781,62 @@ def build_s12(prs):
 # ============================================================================
 def build_s13(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "사운드스케이프 디자인 응용",
-                      "")
+                      "\uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504 \ub514\uc790\uc778 \uc751\uc6a9", "")
 
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("B&E_2021 + B&E_2022", True, NAVY, 11),
-            ("Building and Environment, IF 7.4 x 2편", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
+    add_pill_badge(slide, Inches(8.5), Inches(0.55),
+                   "B&E 2021 + B&E 2022", font_size=9)
+    add_textbox(slide, Inches(8.5), Inches(0.9), Inches(4.0), Inches(0.25),
+                "Building and Environment, IF 7.4 \u00d7 2\ud3b8", font_size=9, font_color=GRAY)
 
-    # RQ
+    # RQ glass card
     rq_top = Inches(1.25)
-    add_rect(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), fill_color=LIGHT_BG)
+    add_glass_card(slide, Inches(0.6), rq_top, Inches(12.1), Inches(0.65), shadow=False)
     add_textbox(slide, Inches(0.8), rq_top + Inches(0.08), Inches(11.7), Inches(0.5),
-                "RQ: 오디오-비주얼 상호작용이 실내 환경의 업무 품질과 생산성에 미치는 영향은?",
+                "RQ: \uc624\ub514\uc624-\ube44\uc8fc\uc5bc \uc0c1\ud638\uc791\uc6a9\uc774 \uc2e4\ub0b4 \ud658\uacbd\uc758 \uc5c5\ubb34 \ud488\uc9c8\uacfc \uc0dd\uc0b0\uc131\uc5d0 \ubbf8\uce58\ub294 \uc601\ud5a5\uc740?",
                 font_size=12, font_color=NAVY, bold=True)
 
-    # === LEFT: Two paper summaries ===
+    # LEFT: Two paper summaries in glass card
     left_x = Inches(0.6)
     meth_top = Inches(2.1)
     meth_w = Inches(5.8)
 
+    add_glass_card(slide, left_x, meth_top, meth_w, Inches(3.5), shadow=True)
     add_multiline_textbox(
-        slide, left_x, meth_top, meth_w, Inches(2.0),
+        slide, left_x + Inches(0.15), meth_top + Inches(0.1), meth_w - Inches(0.3), Inches(3.3),
         [
-            ("B&E 2021 — SEM 구조방정식 모델", True, NAVY, 12),
-            ("  Audio → Visual → 환경만족도 경로계수 정량화", False, DARK_TEXT, 10),
-            ("  오디오 품질이 시각 쾌적성에 간접효과 (cross-modal)", False, DARK_TEXT, 10),
-            ("  Soundscape→Overall satisfaction 경로 유의 (p<0.01)", False, DARK_TEXT, 10),
+            ("B&E 2021 \u2014 SEM \uad6c\uc870\ubc29\uc815\uc2dd \ubaa8\ub378", True, NAVY, 12),
+            ("  Audio \u2192 Visual \u2192 \ud658\uacbd\ub9cc\uc871\ub3c4 \uacbd\ub85c\uacc4\uc218 \uc815\ub7c9\ud654", False, DARK_TEXT, 10),
+            ("  \uc624\ub514\uc624 \ud488\uc9c8\uc774 \uc2dc\uac01 \ucf80\uc801\uc131\uc5d0 \uac04\uc811\ud6a8\uacfc (cross-modal)", False, DARK_TEXT, 10),
+            ("  Soundscape\u2192Overall satisfaction \uacbd\ub85c \uc720\uc758 (p<0.01)", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("B&E 2022 — 실내 사운드스케이프 → 업무 품질", True, NAVY, 12),
-            ("  Audio-Visual 일치 콘텐츠가 업무 선호도·생산성 유의 향상", False, DARK_TEXT, 10),
-            ("  자연 사운드스케이프: 집중도 +15%, 스트레스 -12%", False, DARK_TEXT, 10),
-            ("  도시 소음: 업무 정확도 -8% (방해 효과 정량화)", False, DARK_TEXT, 10),
+            ("B&E 2022 \u2014 \uc2e4\ub0b4 \uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504 \u2192 \uc5c5\ubb34 \ud488\uc9c8", True, NAVY, 12),
+            ("  Audio-Visual \uc77c\uce58 \ucf58\ud150\uce20\uac00 \uc5c5\ubb34 \uc120\ud638\ub3c4\u00b7\uc0dd\uc0b0\uc131 \uc720\uc758 \ud5a5\uc0c1", False, DARK_TEXT, 10),
+            ("  \uc790\uc5f0 \uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504: \uc9d1\uc911\ub3c4 +15%, \uc2a4\ud2b8\ub808\uc2a4 -12%", False, DARK_TEXT, 10),
+            ("  \ub3c4\uc2dc \uc18c\uc74c: \uc5c5\ubb34 \uc815\ud655\ub3c4 -8% (\ubc29\ud574 \ud6a8\uacfc \uc815\ub7c9\ud654)", False, DARK_TEXT, 10),
         ],
         line_spacing=1.25,
     )
 
-    # === RIGHT: SEM figure (LARGE) ===
+    # RIGHT: SEM figure (LARGE)
     fig_x = Inches(6.7)
     fig_top = Inches(2.1)
     add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "SEM Path Model — Path Coefficients", font_size=11, font_color=GRAY, bold=True)
+                "SEM Path Model \u2014 Path Coefficients", font_size=11, font_color=GRAY, bold=True)
     add_image_safe(slide, img("be2021_p9.png"),
                    fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.5),
                    placeholder_text="be2021_p9.png (SEM)")
 
-    # === BOTTOM: Metric cards + Implication ===
+    # BOTTOM: Metrics + Implication
     mc_top = Inches(5.8)
     mc_h = Inches(0.8)
     mc_w = Inches(2.5)
     metrics = [
-        ("+15%", "자연 사운드 집중도 향상"),
-        ("-12%", "스트레스 감소 효과"),
-        ("p < 0.01", "SEM 경로 유의성"),
+        ("+15%", "\uc790\uc5f0 \uc0ac\uc6b4\ub4dc \uc9d1\uc911\ub3c4 \ud5a5\uc0c1"),
+        ("-12%", "\uc2a4\ud2b8\ub808\uc2a4 \uac10\uc18c \ud6a8\uacfc"),
+        ("p < 0.01", "SEM \uacbd\ub85c \uc720\uc758\uc131"),
     ]
     for i, (num, lbl) in enumerate(metrics):
         mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.2))))
@@ -1006,10 +845,10 @@ def build_s13(prs):
 
     add_implication_box(slide, Inches(8.4), mc_top, Inches(4.3), Inches(1.5),
                         [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("Eclipsa Audio 재생 공간의 실내 환경 설계:", False, WHITE, 10),
-                            ("→ TV·사운드바 + 조명의 A-V 통합 최적화", False, WHITE, 10),
-                            ("→ Galaxy Home 환경 음향 자동 튜닝 근거", False, WHITE, 10),
+                            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+                            ("Eclipsa Audio \uc7ac\uc0dd \uacf5\uac04\uc758 \uc2e4\ub0b4 \ud658\uacbd \uc124\uacc4:", False, WHITE, 10),
+                            ("\u2192 TV\u00b7\uc0ac\uc6b4\ub4dc\ubc14 + \uc870\uba85\uc758 A-V \ud1b5\ud569 \ucd5c\uc801\ud654", False, WHITE, 10),
+                            ("\u2192 Galaxy Home \ud658\uacbd \uc74c\ud5a5 \uc790\ub3d9 \ud29c\ub2dd \uadfc\uac70", False, WHITE, 10),
                         ],
                         font_size=10, line_spacing=1.25)
 
@@ -1019,70 +858,65 @@ def build_s13(prs):
 # ============================================================================
 def build_s14(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "Part III. AVAS 사운드스케이프 디자인",
-                      "")
+                      "Part III. AVAS \uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504 \ub514\uc790\uc778", "")
 
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("HMG 학술대회 특별상 + JASA (심사 중)", True, NAVY, 10),
-            ("134명 대규모 청감평가", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
+    add_pill_badge(slide, Inches(8.5), Inches(0.55),
+                   "HMG \ud2b9\ubcc4\uc0c1 + JASA (\uc2ec\uc0ac \uc911)", font_size=9)
+    add_textbox(slide, Inches(8.5), Inches(0.9), Inches(4.0), Inches(0.25),
+                "134\uba85 \ub300\uaddc\ubaa8 \uccad\uac10\ud3c9\uac00", font_size=9, font_color=GRAY)
 
-    # Data overview bar
+    # Data overview bar (glass)
     data_top = Inches(1.2)
-    add_rect(slide, Inches(0.6), data_top, Inches(12.1), Inches(0.5), fill_color=LIGHT_BG)
+    add_glass_card(slide, Inches(0.6), data_top, Inches(12.1), Inches(0.5), shadow=False)
     add_textbox(slide, Inches(0.8), data_top + Inches(0.05), Inches(11.7), Inches(0.4),
-                "17개 EV × 43개 AVAS 바이노럴 녹음 | 134명 청감평가 | Binaural BHS II + GoPro Visual | 34대 경쟁 DB",
+                "17\uac1c EV \u00d7 43\uac1c AVAS \ubc14\uc774\ub178\ub7f4 \ub179\uc74c | 134\uba85 \uccad\uac10\ud3c9\uac00 | Binaural BHS II + GoPro Visual | 34\ub300 \uacbd\uc7c1 DB",
                 font_size=11, font_color=DARK_TEXT, bold=True, alignment=PP_ALIGN.CENTER)
 
-    # === LEFT: Methodology + Results ===
+    # LEFT: Methodology + Results in glass card
     left_x = Inches(0.6)
     meth_top = Inches(1.9)
     meth_w = Inches(5.8)
 
+    add_glass_card(slide, left_x, meth_top, meth_w, Inches(3.5), shadow=True)
     add_multiline_textbox(
-        slide, left_x, meth_top, meth_w, Inches(2.5),
+        slide, left_x + Inches(0.15), meth_top + Inches(0.1), meth_w - Inches(0.3), Inches(3.3),
         [
-            ("3단계 감성어휘 개발:", True, NAVY, 12),
-            ("  Stage 1: 272개 형용사 수집", False, DARK_TEXT, 10),
-            ("  Stage 2: 전문가 축소 → 25쌍", False, DARK_TEXT, 10),
-            ("  Stage 3: 요인분석 최종 18쌍", False, DARK_TEXT, 10),
+            ("3\ub2e8\uacc4 \uac10\uc131\uc5b4\ud718 \uac1c\ubc1c:", True, NAVY, 12),
+            ("  Stage 1: 272\uac1c \ud615\uc6a9\uc0ac \uc218\uc9d1", False, DARK_TEXT, 10),
+            ("  Stage 2: \uc804\ubb38\uac00 \ucd95\uc18c \u2192 25\uc30d", False, DARK_TEXT, 10),
+            ("  Stage 3: \uc694\uc778\ubd84\uc11d \ucd5c\uc885 18\uc30d", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("PCA 결과 — 신규 평가축:", True, ACCENT_BLUE, 12),
-            ("  기존: Pleasant-Eventful (환경 사운드스케이프)", False, DARK_TEXT, 10),
-            ("  신규: Comfort-Metallic (EV AVAS 특화 축)", False, DARK_TEXT, 10),
-            ("  → 기존 프레임워크로 설명 불가한 차량 음질 차원 발견", False, DARK_TEXT, 10),
+            ("PCA \uacb0\uacfc \u2014 \uc2e0\uaddc \ud3c9\uac00\ucd95:", True, ACCENT_BLUE, 12),
+            ("  \uae30\uc874: Pleasant-Eventful (\ud658\uacbd \uc0ac\uc6b4\ub4dc\uc2a4\ucf00\uc774\ud504)", False, DARK_TEXT, 10),
+            ("  \uc2e0\uaddc: Comfort-Metallic (EV AVAS \ud2b9\ud654 \ucd95)", False, DARK_TEXT, 10),
             ("", False, DARK_TEXT, 6),
-            ("브랜드 포지셔닝:", True, ACCENT_BLUE, 12),
-            ("  34대 경쟁 차량 DB로 브랜드별 AVAS 음질 맵핑", False, DARK_TEXT, 10),
-            ("  만족도 예측 모델: 정확도 92.5%", False, DARK_TEXT, 10),
+            ("\ube0c\ub79c\ub4dc \ud3ec\uc9c0\uc154\ub2dd:", True, ACCENT_BLUE, 12),
+            ("  34\ub300 \uacbd\uc7c1 \ucc28\ub7c9 DB\ub85c \ube0c\ub79c\ub4dc\ubcc4 AVAS \uc74c\uc9c8 \ub9e4\ud551", False, DARK_TEXT, 10),
+            ("  \ub9cc\uc871\ub3c4 \uc608\uce21 \ubaa8\ub378: \uc815\ud655\ub3c4 92.5%", False, DARK_TEXT, 10),
         ],
         line_spacing=1.2,
     )
 
-    # === RIGHT: PCA figure (LARGE) ===
+    # RIGHT: PCA figure
     fig_x = Inches(6.7)
     fig_top = Inches(1.9)
     add_textbox(slide, fig_x, fig_top, Inches(6.0), Inches(0.3),
-                "PCA — Comfort-Metallic Axes + Brand Positioning", font_size=10, font_color=GRAY, bold=True)
-    add_image_safe(slide, img("hmg_s12_img1.png"),
+                "PCA \u2014 Comfort-Metallic Axes + Brand Positioning", font_size=10, font_color=GRAY, bold=True)
+    add_image_safe(slide, img("hmg_s11_img1.png"),
                    fig_x, fig_top + Inches(0.35), Inches(6.0), Inches(3.3),
                    placeholder_text="PCA Figure: Comfort-Metallic Axes")
 
-    # === BOTTOM: Metric cards + Implication ===
+    # BOTTOM: Metrics + Implication
     mc_top = Inches(5.7)
     mc_h = Inches(0.8)
     mc_w = Inches(2.0)
     metrics = [
-        ("92.5%", "만족도 예측 정확도"),
-        ("18쌍", "최종 감성어휘"),
-        ("34대", "경쟁 DB 벤치마크"),
+        ("92.5%", "\ub9cc\uc871\ub3c4 \uc608\uce21 \uc815\ud655\ub3c4"),
+        ("18\uc30d", "\ucd5c\uc885 \uac10\uc131\uc5b4\ud718"),
+        ("34\ub300", "\uacbd\uc7c1 DB \ubca4\uce58\ub9c8\ud06c"),
     ]
     for i, (num, lbl) in enumerate(metrics):
         mx = Inches(0.6) + Emu(i * (int(mc_w) + int(Inches(0.2))))
@@ -1091,92 +925,107 @@ def build_s14(prs):
 
     add_implication_box(slide, Inches(7.2), mc_top, Inches(5.5), Inches(1.55),
                         [
-                            ("Samsung 시사점", True, WHITE, 12),
-                            ("대규모 청감 평가 프레임 → Eclipsa Audio 품질 인증 적용", False, WHITE, 10),
-                            ("감성어휘 기반 평가축 → 렌더링 품질 차원 확장", False, WHITE, 10),
-                            ("경쟁 DB 벤치마킹 → 삼성 오디오 제품 포지셔닝", False, WHITE, 10),
-                            ("92.5% 예측 모델 → 렌더링 품질 튜닝 자동화 근거", False, WHITE, 10),
+                            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
+                            ("\ub300\uaddc\ubaa8 \uccad\uac10 \ud3c9\uac00 \ud504\ub808\uc784 \u2192 Eclipsa Audio \ud488\uc9c8 \uc778\uc99d \uc801\uc6a9", False, WHITE, 10),
+                            ("\uac10\uc131\uc5b4\ud718 \uae30\ubc18 \ud3c9\uac00\ucd95 \u2192 \ub80c\ub354\ub9c1 \ud488\uc9c8 \ucc28\uc6d0 \ud655\uc7a5", False, WHITE, 10),
+                            ("\uacbd\uc7c1 DB \ubca4\uce58\ub9c8\ud0b9 \u2192 \uc0bc\uc131 \uc624\ub514\uc624 \uc81c\ud488 \ud3ec\uc9c0\uc154\ub2dd", False, WHITE, 10),
+                            ("92.5% \uc608\uce21 \ubaa8\ub378 \u2192 \ub80c\ub354\ub9c1 \ud488\uc9c8 \ud29c\ub2dd \uc790\ub3d9\ud654 \uadfc\uac70", False, WHITE, 10),
                         ],
                         font_size=10, line_spacing=1.2)
 
 
 # ============================================================================
-# S15: Research → Production Execution
+# S15: Research -> Production Execution
 # ============================================================================
 def build_s15(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(12),
-                      "연구 → 양산 실행력",
-                      "AVAS 브랜드 사운드 2.0 — EV3, IONIQ 5 양산 적용")
+                      "\uc5f0\uad6c \u2192 \uc591\uc0b0 \uc2e4\ud589\ub825",
+                      "AVAS \ube0c\ub79c\ub4dc \uc0ac\uc6b4\ub4dc 2.0 \u2014 EV3, IONIQ 5 \uc591\uc0b0 \uc801\uc6a9")
 
-    # --- Visual process flow: 4 large boxes with arrows ---
+    # 4-step process flow (glass cards with step numbers + arrows)
     steps = [
-        ("음향 설계", "소리 특성 정의\n목표 음질 설정\n감성어휘 기반 디자인", LIGHT_BG, NAVY),
-        ("청취 평가", "134명 대규모 실험\n18쌍 감성어휘\nPCA 만족도 모델", LIGHT_BG, NAVY),
-        ("시스템 검증", "실차 바이노럴 녹음\nBHS II + GoPro\n주행 조건별 검증", LIGHT_BG, NAVY),
-        ("양산 적용", "EV3 양산 적용\nIONIQ 5 적용\nShiny 웹 예측 툴", NAVY, WHITE),
+        ("\uc74c\ud5a5 \uc124\uacc4", "\uc18c\ub9ac \ud2b9\uc131 \uc815\uc758\n\ubaa9\ud45c \uc74c\uc9c8 \uc124\uc815\n\uac10\uc131\uc5b4\ud718 \uae30\ubc18 \ub514\uc790\uc778"),
+        ("\uccad\ucde8 \ud3c9\uac00", "134\uba85 \ub300\uaddc\ubaa8 \uc2e4\ud5d8\n18\uc30d \uac10\uc131\uc5b4\ud718\nPCA \ub9cc\uc871\ub3c4 \ubaa8\ub378"),
+        ("\uc2dc\uc2a4\ud15c \uac80\uc99d", "\uc2e4\ucc28 \ubc14\uc774\ub178\ub7f4 \ub179\uc74c\nBHS II + GoPro\n\uc8fc\ud589 \uc870\uac74\ubcc4 \uac80\uc99d"),
+        ("\uc591\uc0b0 \uc801\uc6a9", "EV3 \uc591\uc0b0 \uc801\uc6a9\nIONIQ 5 \uc801\uc6a9\nShiny \uc6f9 \uc608\uce21 \ud234"),
     ]
-    box_w = Inches(2.65)
+    box_w = Inches(2.6)
     box_h = Inches(1.6)
     flow_top = Inches(1.55)
-    for i, (title, detail, bg, fc) in enumerate(steps):
+    for i, (title, detail) in enumerate(steps):
         bx = Inches(0.5) + Inches(i * 3.2)
-        add_rect(slide, bx, flow_top, box_w, box_h, fill_color=bg)
-        # Step number circle
-        add_rect(slide, bx + Inches(0.1), flow_top + Inches(0.08), Inches(0.3), Inches(0.3),
-                 fill_color=ACCENT_BLUE if bg != NAVY else WHITE)
-        add_textbox(slide, bx + Inches(0.1), flow_top + Inches(0.08), Inches(0.3), Inches(0.3),
-                    str(i + 1), font_size=12, font_color=WHITE if bg != NAVY else NAVY, bold=True,
+        is_last = (i == 3)
+        fc = WHITE if is_last else DARK_TEXT
+        bg = NAVY if is_last else WHITE
+
+        add_glass_card(slide, bx, flow_top, box_w, box_h,
+                       fill_color=bg,
+                       border_color=ACCENT_BLUE if is_last else CARD_BORDER,
+                       shadow=True)
+
+        # Step number badge
+        badge_bg = ACCENT_BLUE if not is_last else WHITE
+        badge_fc = WHITE if not is_last else NAVY
+        add_rounded_rect(slide, bx + Inches(0.1), flow_top + Inches(0.08),
+                         Inches(0.3), Inches(0.3), fill_color=badge_bg)
+        add_textbox(slide, bx + Inches(0.1), flow_top + Inches(0.08),
+                    Inches(0.3), Inches(0.3),
+                    str(i + 1), font_size=12, font_color=badge_fc, bold=True,
                     alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE, font_name=FONT_EN)
         # Title
-        add_textbox(slide, bx + Inches(0.5), flow_top + Inches(0.08), box_w - Inches(0.6), Inches(0.3),
+        add_textbox(slide, bx + Inches(0.5), flow_top + Inches(0.08),
+                    box_w - Inches(0.6), Inches(0.3),
                     title, font_size=13, font_color=fc, bold=True)
         # Detail
-        add_textbox(slide, bx + Inches(0.15), flow_top + Inches(0.5), box_w - Inches(0.3), Inches(1.0),
-                    detail, font_size=10, font_color=fc if fc == WHITE else DARK_TEXT)
+        add_textbox(slide, bx + Inches(0.15), flow_top + Inches(0.5),
+                    box_w - Inches(0.3), Inches(1.0),
+                    detail, font_size=10, font_color=fc if is_last else DARK_TEXT)
         # Arrow
         if i < 3:
-            add_textbox(slide, bx + box_w, flow_top + Inches(0.55), Inches(0.55), Inches(0.5),
-                        "→", font_size=20, font_color=ACCENT_BLUE, bold=True,
+            add_textbox(slide, bx + box_w, flow_top + Inches(0.55),
+                        Inches(0.55), Inches(0.5),
+                        "\u2192", font_size=20, font_color=ACCENT_BLUE, bold=True,
                         alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
-    # --- 4 achievement cards ---
+    # 4 achievement cards
     ac_top = Inches(3.4)
     ac_w = Inches(2.85)
     ac_h = Inches(0.95)
     achievements = [
-        ("특허 6건", "국내 4건 + 미국 2건"),
-        ("기술이전 5천만원", "산업 적용 → 양산 실현"),
-        ("HMG 특별상", "학술대회 연구 성과상"),
-        ("Shiny 웹 툴", "실시간 만족도 예측"),
+        ("\ud2b9\ud5c8 6\uac74", "\uad6d\ub0b4 4\uac74 + \ubbf8\uad6d 2\uac74"),
+        ("\uae30\uc220\uc774\uc804 5\ucc9c\ub9cc\uc6d0", "\uc0b0\uc5c5 \uc801\uc6a9 \u2192 \uc591\uc0b0 \uc2e4\ud604"),
+        ("HMG \ud2b9\ubcc4\uc0c1", "\ud559\uc220\ub300\ud68c \uc5f0\uad6c \uc131\uacfc\uc0c1"),
+        ("Shiny \uc6f9 \ud234", "\uc2e4\uc2dc\uac04 \ub9cc\uc871\ub3c4 \uc608\uce21"),
     ]
     for i, (num, lbl) in enumerate(achievements):
         ax = Inches(0.5) + Emu(i * (int(ac_w) + int(Inches(0.2))))
         add_metric_card(slide, ax, ac_top, ac_w, ac_h, num, lbl,
                         number_size=20, label_size=9)
 
-    # --- Cross-department coordination ---
+    # Cross-department coordination (glass card)
     coord_top = Inches(4.6)
-    add_rect(slide, Inches(0.5), coord_top, Inches(12.2), Inches(0.5), fill_color=LIGHT_BG)
+    add_glass_card(slide, Inches(0.5), coord_top, Inches(12.2), Inches(0.5), shadow=False)
     add_textbox(slide, Inches(0.7), coord_top + Inches(0.05), Inches(11.8), Inches(0.4),
-                "부서 간 협업: Design (사운드 아이덴티티) × Regulation (UN R138 법규 대응) × NVH (실차 검증) × 양산팀 (적용)",
+                "\ubd80\uc11c \uac04 \ud611\uc5c5: Design (\uc0ac\uc6b4\ub4dc \uc544\uc774\ub374\ud2f0\ud2f0) \u00d7 Regulation (UN R138 \ubc95\uaddc \ub300\uc751) \u00d7 NVH (\uc2e4\ucc28 \uac80\uc99d) \u00d7 \uc591\uc0b0\ud300 (\uc801\uc6a9)",
                 font_size=10, font_color=DARK_TEXT, bold=True, alignment=PP_ALIGN.CENTER)
 
-    # --- Figure + Implication ---
-    add_image_safe(slide, img("hmg_s12_img3.png"),
+    # Figure + Implication
+    add_image_safe(slide, img("hmg_s17_img1.png"),
                    Inches(0.5), Inches(5.3), Inches(6.5), Inches(2.0),
                    placeholder_text="Production Process Figure")
 
     add_implication_box(slide, Inches(7.3), Inches(5.3), Inches(5.4), Inches(2.0),
                         [
-                            ("Samsung 시사점", True, WHITE, 12),
+                            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
                             ("", False, WHITE, 4),
-                            ("연구→양산 end-to-end 실행력 입증:", False, WHITE, 10),
-                            ("  청감평가 → 특허 → 기술이전 → 양산의 전 주기", False, WHITE, 10),
-                            ("Samsung 적용:", True, WHITE, 10),
-                            ("  렌더링 알고리즘의 제품 적용 주기 단축", False, WHITE, 10),
-                            ("  Eclipsa Audio 품질 인증 → 제품 출시 파이프라인", False, WHITE, 10),
+                            ("\uc5f0\uad6c\u2192\uc591\uc0b0 end-to-end \uc2e4\ud589\ub825 \uc785\uc99d:", False, WHITE, 10),
+                            ("  \uccad\uac10\ud3c9\uac00 \u2192 \ud2b9\ud5c8 \u2192 \uae30\uc220\uc774\uc804 \u2192 \uc591\uc0b0\uc758 \uc804 \uc8fc\uae30", False, WHITE, 10),
+                            ("Samsung \uc801\uc6a9:", True, WHITE, 10),
+                            ("  \ub80c\ub354\ub9c1 \uc54c\uace0\ub9ac\uc998\uc758 \uc81c\ud488 \uc801\uc6a9 \uc8fc\uae30 \ub2e8\ucd95", False, WHITE, 10),
+                            ("  Eclipsa Audio \ud488\uc9c8 \uc778\uc99d \u2192 \uc81c\ud488 \ucd9c\uc2dc \ud30c\uc774\ud504\ub77c\uc778", False, WHITE, 10),
                         ],
                         font_size=10, line_spacing=1.2)
 
@@ -1186,42 +1035,46 @@ def build_s15(prs):
 # ============================================================================
 def build_s16(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(7),
-                      "Part IV. AI 기반 오디오 처리",
-                      "")
+                      "Part IV. AI \uae30\ubc18 \uc624\ub514\uc624 \ucc98\ub9ac", "")
 
-    add_rect(slide, Inches(8.0), Inches(0.5), Inches(5.0), Inches(0.55), fill_color=LIGHT_BG)
-    add_multiline_textbox(
-        slide, Inches(8.15), Inches(0.55), Inches(4.7), Inches(0.4),
-        [
-            ("SENSORS_2021 + 특허 2건", True, NAVY, 11),
-            ("기술이전 5천만원 달성", False, GRAY, 9),
-        ],
-        line_spacing=1.2,
-    )
+    add_pill_badge(slide, Inches(8.5), Inches(0.55),
+                   "SENSORS 2021 + \ud2b9\ud5c8 2\uac74", font_size=9)
+    add_textbox(slide, Inches(8.5), Inches(0.9), Inches(4.0), Inches(0.25),
+                "\uae30\uc220\uc774\uc804 5\ucc9c\ub9cc\uc6d0 \ub2ec\uc131", font_size=9, font_color=GRAY)
 
-    # === LEFT TOP: Problem & Solution ===
+    # Problem card (red-tinted glass)
     left_x = Inches(0.6)
     ps_top = Inches(1.2)
     ps_w = Inches(6.0)
 
-    add_rect(slide, left_x, ps_top, ps_w, Inches(1.6), fill_color=LIGHT_BG)
+    add_glass_card(slide, left_x, ps_top, ps_w, Inches(0.75),
+                   fill_color=RED_TINT, border_color=RGBColor(0xE8, 0xC4, 0xC0), shadow=False)
     add_multiline_textbox(
-        slide, left_x + Inches(0.15), ps_top + Inches(0.1), ps_w - Inches(0.3), Inches(1.4),
+        slide, left_x + Inches(0.15), ps_top + Inches(0.05), ps_w - Inches(0.3), Inches(0.65),
         [
-            ("Problem: 데이터 희소성", True, RGBColor(0xC0, 0x39, 0x2B), 12),
-            ("  30명 전문가 × 126건 청감평가 → 심각한 데이터 부족", False, DARK_TEXT, 10),
-            ("  전문가 청감평가: 비용·시간 과다, 재현성 한계", False, DARK_TEXT, 10),
-            ("", False, DARK_TEXT, 4),
-            ("Solution: RIR Convolution Data Augmentation", True, RGBColor(0x27, 0xAE, 0x60), 12),
-            ("  8개 원본 → RIR 합성곱 → 43,000개로 확장 (5,375배)", False, DARK_TEXT, 10),
-            ("  + 신규 Feature: Loudness ISO 532B + Energy Ratio", False, DARK_TEXT, 10),
+            ("Problem: \ub370\uc774\ud130 \ud76c\uc18c\uc131", True, RED_TEXT, 12),
+            ("  30\uba85 \uc804\ubb38\uac00 \u00d7 126\uac74 \uccad\uac10\ud3c9\uac00 \u2192 \uc2ec\uac01\ud55c \ub370\uc774\ud130 \ubd80\uc871 | \uc804\ubb38\uac00 \ud3c9\uac00: \ube44\uc6a9\u00b7\uc2dc\uac04 \uacfc\ub2e4", False, DARK_TEXT, 10),
         ],
         line_spacing=1.25,
     )
 
-    # === RIGHT TOP: LSTM figure ===
+    # Solution card (green-tinted glass)
+    sol_top = Inches(2.05)
+    add_glass_card(slide, left_x, sol_top, ps_w, Inches(0.75),
+                   fill_color=GREEN_TINT, border_color=RGBColor(0xB8, 0xDE, 0xC5), shadow=False)
+    add_multiline_textbox(
+        slide, left_x + Inches(0.15), sol_top + Inches(0.05), ps_w - Inches(0.3), Inches(0.65),
+        [
+            ("Solution: RIR Convolution Data Augmentation", True, GREEN_TEXT, 12),
+            ("  8\uac1c \uc6d0\ubcf8 \u2192 RIR \ud569\uc131\uacf1 \u2192 43,000\uac1c\ub85c \ud655\uc7a5 (5,375\ubc30) | + Loudness ISO 532B + Energy Ratio", False, DARK_TEXT, 10),
+        ],
+        line_spacing=1.25,
+    )
+
+    # RIGHT: LSTM figure
     fig_x = Inches(6.9)
     fig_top = Inches(1.2)
     add_textbox(slide, fig_x, fig_top, Inches(5.8), Inches(0.25),
@@ -1230,10 +1083,10 @@ def build_s16(prs):
                    fig_x, fig_top + Inches(0.3), Inches(5.8), Inches(2.3),
                    placeholder_text="sensors2021_p5.png (LSTM)")
 
-    # === MIDDLE: AI vs 8 Pulmonologists comparison ===
+    # AI vs 8 Pulmonologists comparison - 3 glass cards
     comp_top = Inches(3.1)
     add_textbox(slide, left_x, comp_top, Inches(6.0), Inches(0.3),
-                "AI vs 8명 호흡기내과 전문의 비교", font_size=12, font_color=NAVY, bold=True)
+                "AI vs 8\uba85 \ud638\ud761\uae30\ub0b4\uacfc \uc804\ubb38\uc758 \ube44\uad50", font_size=12, font_color=NAVY, bold=True)
 
     comparisons = [
         ("Accuracy", "84.9%", "56.4%"),
@@ -1245,8 +1098,8 @@ def build_s16(prs):
     cc_top = Inches(3.45)
     for i, (title, ai_val, expert_val) in enumerate(comparisons):
         cx = Inches(0.6) + Emu(i * (int(cc_w) + int(Inches(0.2))))
-        add_rect(slide, cx, cc_top, cc_w, cc_h, fill_color=LIGHT_BG,
-                 line_color=ACCENT_BLUE, line_width_pt=1.0)
+        add_glass_card(slide, cx, cc_top, cc_w, cc_h,
+                       border_color=ACCENT_BLUE, shadow=True)
         add_textbox(slide, cx, cc_top + Inches(0.05), cc_w, Inches(0.25),
                     title, font_size=10, font_color=GRAY, bold=True,
                     alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
@@ -1257,50 +1110,51 @@ def build_s16(prs):
                     f"Expert avg  {expert_val}", font_size=11, font_color=GRAY,
                     alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
-    # === IP box (right middle) ===
+    # IP box (right middle, glass card)
     ip_top = Inches(3.7)
     ip_w = Inches(4.6)
-    add_rect(slide, Inches(8.2), ip_top, ip_w, Inches(1.0), fill_color=LIGHT_BG,
-             line_color=NAVY, line_width_pt=1.0)
+    add_glass_card(slide, Inches(8.2), ip_top, ip_w, Inches(1.0),
+                   border_color=NAVY, shadow=True)
     add_multiline_textbox(
         slide, Inches(8.35), ip_top + Inches(0.08), ip_w - Inches(0.3), Inches(0.8),
         [
-            ("IP & 기술이전", True, NAVY, 12),
-            ("KR 특허 등록 + US 특허 출원", False, DARK_TEXT, 10),
-            ("기술이전: 5,000만원 (현대자동차 → 산업체)", False, DARK_TEXT, 10),
+            ("IP & \uae30\uc220\uc774\uc804", True, NAVY, 12),
+            ("KR \ud2b9\ud5c8 \ub4f1\ub85d + US \ud2b9\ud5c8 \ucd9c\uc6d0", False, DARK_TEXT, 10),
+            ("\uae30\uc220\uc774\uc804: 5,000\ub9cc\uc6d0 (\ud604\ub300\uc790\ub3d9\ucc28 \u2192 \uc0b0\uc5c5\uccb4)", False, DARK_TEXT, 10),
         ],
         line_spacing=1.3,
     )
 
-    # === A-JEPA Vision box (PROMINENT, bottom left) ===
+    # A-JEPA Vision box (PROMINENT, accent blue rounded)
     ajepa_top = Inches(4.9)
     ajepa_w = Inches(7.5)
     ajepa_h = Inches(1.15)
-    add_rect(slide, Inches(0.6), ajepa_top, ajepa_w, ajepa_h, fill_color=ACCENT_BLUE)
+    add_rounded_rect(slide, Inches(0.6), ajepa_top, ajepa_w, ajepa_h,
+                     fill_color=ACCENT_BLUE)
     add_multiline_textbox(
         slide, Inches(0.8), ajepa_top + Inches(0.1), ajepa_w - Inches(0.4), ajepa_h - Inches(0.2),
         [
-            ("A-JEPA Vision — 차세대 AI Audio 연구 방향", True, WHITE, 14),
-            ("Meta Audio-JEPA 자기지도 학습 + 음향 도메인 지식 결합", False, WHITE, 11),
-            ("→ 라벨 없는 대규모 오디오 데이터에서 음질 표현 자동 학습", False, WHITE, 11),
-            ("→ Eclipsa Audio 렌더링 품질의 end-to-end 자동 판정 목표", False, WHITE, 11),
+            ("A-JEPA Vision \u2014 \ucc28\uc138\ub300 AI Audio \uc5f0\uad6c \ubc29\ud5a5", True, WHITE, 14),
+            ("Meta Audio-JEPA \uc790\uae30\uc9c0\ub3c4 \ud559\uc2b5 + \uc74c\ud5a5 \ub3c4\uba54\uc778 \uc9c0\uc2dd \uacb0\ud569", False, WHITE, 11),
+            ("\u2192 \ub77c\ubca8 \uc5c6\ub294 \ub300\uaddc\ubaa8 \uc624\ub514\uc624 \ub370\uc774\ud130\uc5d0\uc11c \uc74c\uc9c8 \ud45c\ud604 \uc790\ub3d9 \ud559\uc2b5", False, WHITE, 11),
+            ("\u2192 Eclipsa Audio \ub80c\ub354\ub9c1 \ud488\uc9c8\uc758 end-to-end \uc790\ub3d9 \ud310\uc815 \ubaa9\ud45c", False, WHITE, 11),
         ],
         font_color=WHITE,
         line_spacing=1.2,
     )
 
-    # === Bottom right: Implication ===
+    # Bottom right: Implication
     add_implication_box(slide, Inches(8.4), ajepa_top, Inches(4.3), Inches(2.3),
                         [
-                            ("Samsung 시사점", True, WHITE, 12),
+                            ("Samsung \uc2dc\uc0ac\uc810", True, WHITE, 12),
                             ("", False, WHITE, 4),
-                            ("Eclipsa Audio 렌더링 품질의", False, WHITE, 10),
-                            ("자동 판정 파이프라인 구축", False, WHITE, 10),
+                            ("Eclipsa Audio \ub80c\ub354\ub9c1 \ud488\uc9c8\uc758", False, WHITE, 10),
+                            ("\uc790\ub3d9 \ud310\uc815 \ud30c\uc774\ud504\ub77c\uc778 \uad6c\ucd95", False, WHITE, 10),
                             ("", False, WHITE, 4),
-                            ("대규모 A/B 테스트 비용 절감", False, WHITE, 10),
-                            ("(전문가 8명 수준 → AI 1개 모델)", False, WHITE, 10),
+                            ("\ub300\uaddc\ubaa8 A/B \ud14c\uc2a4\ud2b8 \ube44\uc6a9 \uc808\uac10", False, WHITE, 10),
+                            ("(\uc804\ubb38\uac00 8\uba85 \uc218\uc900 \u2192 AI 1\uac1c \ubaa8\ub378)", False, WHITE, 10),
                             ("", False, WHITE, 4),
-                            ("A-JEPA로 비지도 학습 확장", False, WHITE, 10),
+                            ("A-JEPA\ub85c \ube44\uc9c0\ub3c4 \ud559\uc2b5 \ud655\uc7a5", False, WHITE, 10),
                         ],
                         font_size=10, line_spacing=1.1)
 
@@ -1310,16 +1164,17 @@ def build_s16(prs):
 # ============================================================================
 def build_s17(prs):
     slide = add_blank_slide(prs)
+    set_slide_bg(slide, LIGHT_BG)
 
     add_section_title(slide, MARGIN_L, MARGIN_T, Inches(12),
                       "Contribution Plan",
-                      "삼성리서치 Spatial Audio 기여 로드맵")
+                      "\uc0bc\uc131\ub9ac\uc11c\uce58 Spatial Audio \uae30\uc5ec \ub85c\ub4dc\ub9f5")
 
-    # 3 timeline column headers
+    # 3 timeline column headers (gradient light -> dark navy)
     cols = [
-        ("입사 ~ 6개월 (즉시 기여)", ACCENT_BLUE),
-        ("6개월 ~ 2년 (과제 확장)", NAVY),
-        ("2년 ~ (Lab 비전 주도)", RGBColor(0x0A, 0x1A, 0x6E)),
+        ("\uc785\uc0ac ~ 6\uac1c\uc6d4 (\uc989\uc2dc \uae30\uc5ec)", ACCENT_BLUE),
+        ("6\uac1c\uc6d4 ~ 2\ub144 (\uacfc\uc81c \ud655\uc7a5)", NAVY),
+        ("2\ub144 ~ (Lab \ube44\uc804 \uc8fc\ub3c4)", DEEP_NAVY),
     ]
     col_w = Inches(3.45)
     col_h = Inches(0.45)
@@ -1328,62 +1183,63 @@ def build_s17(prs):
 
     for i, (title, color) in enumerate(cols):
         cx = label_w + Inches(0.15) + Emu(i * (int(col_w) + int(Inches(0.12))))
-        add_rect(slide, cx, hdr_top, col_w, col_h, fill_color=color)
+        add_rounded_rect(slide, cx, hdr_top, col_w, col_h, fill_color=color)
         add_textbox(slide, cx, hdr_top, col_w, col_h,
                     title, font_size=10, font_color=WHITE, bold=True,
                     alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
 
     # 4 row labels + cells
-    row_labels = ["Eclipsa\nAudio", "AI 전환", "파트\n시너지", "인증·표준"]
+    row_labels = ["Eclipsa\nAudio", "AI \uc804\ud658", "\ud30c\ud2b8\n\uc2dc\ub108\uc9c0", "\uc778\uc99d\u00b7\ud45c\uc900"]
     row_h = Inches(1.1)
     row_start = hdr_top + col_h + Inches(0.08)
 
     grid = [
         [
-            "청감 평가 프레임 구축\n(ISO 12913 + SATP 방법론)\n→ 기존 연구 즉시 적용 가능",
-            "HRTF 개인화 알고리즘 개발\n렌더러 품질 최적화\n→ 77% 공간감 기여도 활용",
-            "차세대 Eclipsa Audio\n품질 표준 주도\n→ 글로벌 de facto 표준 목표",
+            "\uccad\uac10 \ud3c9\uac00 \ud504\ub808\uc784 \uad6c\ucd95\n(ISO 12913 + SATP \ubc29\ubc95\ub860)\n\u2192 \uae30\uc874 \uc5f0\uad6c \uc989\uc2dc \uc801\uc6a9 \uac00\ub2a5",
+            "HRTF \uac1c\uc778\ud654 \uc54c\uace0\ub9ac\uc998 \uac1c\ubc1c\n\ub80c\ub354\ub7ec \ud488\uc9c8 \ucd5c\uc801\ud654\n\u2192 77% \uacf5\uac04\uac10 \uae30\uc5ec\ub3c4 \ud65c\uc6a9",
+            "\ucc28\uc138\ub300 Eclipsa Audio\n\ud488\uc9c8 \ud45c\uc900 \uc8fc\ub3c4\n\u2192 \uae00\ub85c\ubc8c de facto \ud45c\uc900 \ubaa9\ud45c",
         ],
         [
-            "A-JEPA 프로토타입 구축\n음질 자동 판정 파이프라인\n→ LSTM 84.9% 정확도 기반",
-            "생리신호 기반\n실시간 품질 모니터링\n→ Galaxy Watch 연동",
-            "AI 청감 평가 플랫폼\n자동화 완성\n→ 비지도 학습 확장",
+            "A-JEPA \ud504\ub85c\ud1a0\ud0c0\uc785 \uad6c\ucd95\n\uc74c\uc9c8 \uc790\ub3d9 \ud310\uc815 \ud30c\uc774\ud504\ub77c\uc778\n\u2192 LSTM 84.9% \uc815\ud655\ub3c4 \uae30\ubc18",
+            "\uc0dd\ub9ac\uc2e0\ud638 \uae30\ubc18\n\uc2e4\uc2dc\uac04 \ud488\uc9c8 \ubaa8\ub2c8\ud130\ub9c1\n\u2192 Galaxy Watch \uc5f0\ub3d9",
+            "AI \uccad\uac10 \ud3c9\uac00 \ud50c\ub7ab\ud3fc\n\uc790\ub3d9\ud654 \uc644\uc131\n\u2192 \ube44\uc9c0\ub3c4 \ud559\uc2b5 \ud655\uc7a5",
         ],
         [
-            "Display팀 협업 시작\nA-V 통합 평가 설계\n→ Visual 76% 기여도 활용",
-            "Holographic Display ×\nSpatial Audio 시너지\n→ cross-modal 효과 극대화",
-            "크로스모달 경험 설계\nLab 비전 제안\n→ 차세대 제품 전략",
+            "Display\ud300 \ud611\uc5c5 \uc2dc\uc791\nA-V \ud1b5\ud569 \ud3c9\uac00 \uc124\uacc4\n\u2192 Visual 76% \uae30\uc5ec\ub3c4 \ud65c\uc6a9",
+            "Holographic Display \u00d7\nSpatial Audio \uc2dc\ub108\uc9c0\n\u2192 cross-modal \ud6a8\uacfc \uadf9\ub300\ud654",
+            "\ud06c\ub85c\uc2a4\ubaa8\ub2ec \uacbd\ud5d8 \uc124\uacc4\nLab \ube44\uc804 \uc81c\uc548\n\u2192 \ucc28\uc138\ub300 \uc81c\ud488 \uc804\ub7b5",
         ],
         [
-            "Eclipsa Audio 인증 기준\n초안 작성\n→ 92.5% 예측모델 활용",
-            "국제 표준화 기여\n(IEC/ISO WG 참여)\n→ SATP 18개국 네트워크",
-            "삼성 주도 표준\nde facto 확립\n→ 산업 리더십 확보",
+            "Eclipsa Audio \uc778\uc99d \uae30\uc900\n\ucd08\uc548 \uc791\uc131\n\u2192 92.5% \uc608\uce21\ubaa8\ub378 \ud65c\uc6a9",
+            "\uad6d\uc81c \ud45c\uc900\ud654 \uae30\uc5ec\n(IEC/ISO WG \ucc38\uc5ec)\n\u2192 SATP 18\uac1c\uad6d \ub124\ud2b8\uc6cc\ud06c",
+            "\uc0bc\uc131 \uc8fc\ub3c4 \ud45c\uc900\nde facto \ud655\ub9bd\n\u2192 \uc0b0\uc5c5 \ub9ac\ub354\uc2ed \ud655\ubcf4",
         ],
     ]
 
     for r, (label, cells) in enumerate(zip(row_labels, grid)):
         ry = row_start + Emu(r * (int(row_h) + int(Inches(0.08))))
-        # Row label
-        add_rect(slide, Inches(0.15), ry, label_w, row_h, fill_color=LIGHT_BG)
+        # Row label (glass card)
+        add_glass_card(slide, Inches(0.15), ry, label_w, row_h, shadow=False)
         add_textbox(slide, Inches(0.15), ry, label_w, row_h,
                     label, font_size=10, font_color=NAVY, bold=True,
                     alignment=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
-        # Cells
+        # Cells (glass cards)
         for c, cell_text in enumerate(cells):
             cx = label_w + Inches(0.15) + Emu(c * (int(col_w) + int(Inches(0.12))))
-            add_rect(slide, cx, ry, col_w, row_h, fill_color=LIGHT_BG,
-                     line_color=WARM_GRAY, line_width_pt=0.5)
+            add_glass_card(slide, cx, ry, col_w, row_h, shadow=False,
+                           border_color=CARD_BORDER)
             add_textbox(slide, cx + Inches(0.1), ry + Inches(0.05),
                         col_w - Inches(0.2), row_h - Inches(0.1),
                         cell_text, font_size=9, font_color=DARK_TEXT,
                         alignment=PP_ALIGN.LEFT, anchor=MSO_ANCHOR.MIDDLE)
 
-    # Bottom navy bar with tagline
+    # Bottom navy strip with tagline
     bar_top = Inches(6.55)
-    add_rect(slide, Inches(0.15), bar_top, Inches(13.0), Inches(0.65), fill_color=NAVY)
+    add_rounded_rect(slide, Inches(0.15), bar_top, Inches(13.0), Inches(0.65),
+                     fill_color=NAVY)
     add_textbox(slide, Inches(0.35), bar_top + Inches(0.1), Inches(12.6), Inches(0.45),
-                "신호처리가 만드는 기술 위에, 사용자가 경험하는 품질을 설계합니다 "
-                "— Perception-driven Spatial Audio Quality Engineering",
+                "\uc2e0\ud638\ucc98\ub9ac\uac00 \ub9cc\ub4dc\ub294 \uae30\uc220 \uc704\uc5d0, \uc0ac\uc6a9\uc790\uac00 \uacbd\ud5d8\ud558\ub294 \ud488\uc9c8\uc744 \uc124\uacc4\ud569\ub2c8\ub2e4 "
+                "\u2014 Perception-driven Spatial Audio Quality Engineering",
                 font_size=12, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER)
 
@@ -1393,35 +1249,53 @@ def build_s17(prs):
 # ============================================================================
 def build_s18(prs):
     slide = add_blank_slide(prs)
-    set_slide_bg(slide, NAVY)
+    set_slide_bg(slide, MID_NAVY)
 
+    # Gradient simulation
+    add_rect(slide, 0, 0, SLIDE_WIDTH, Inches(3.75), fill_color=DEEP_NAVY)
+    add_rect(slide, 0, Inches(3.75), SLIDE_WIDTH, Inches(3.75), fill_color=NAVY)
+
+    # THANK YOU
     add_textbox(slide, Inches(0.8), Inches(2.0), Inches(11.5), Inches(1.0),
                 "THANK YOU",
-                font_size=36, font_color=WHITE, bold=True,
+                font_size=40, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
 
     add_textbox(slide, Inches(0.8), Inches(3.2), Inches(11.5), Inches(0.5),
-                "경청해 주셔서 감사합니다. 질문 부탁드립니다.",
+                "\uacbd\uccad\ud574 \uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4. \uc9c8\ubb38 \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.",
                 font_size=14, font_color=WARM_GRAY, bold=False,
                 alignment=PP_ALIGN.CENTER)
 
-    add_accent_bar(slide, Inches(5.0), Inches(4.0), Inches(3.3),
-                   Inches(0.04), color=ACCENT_BLUE)
+    # Accent line
+    line_w = Inches(3.3)
+    line_l = Emu((int(SLIDE_WIDTH) - int(line_w)) // 2)
+    add_rounded_rect(slide, line_l, Inches(4.0), line_w, Inches(0.04),
+                     fill_color=ACCENT_BLUE)
 
-    add_textbox(slide, Inches(0.8), Inches(4.5), Inches(11.5), Inches(0.4),
-                "조현인 (Hyun In Jo, Ph.D.)",
-                font_size=13, font_color=WHITE, bold=True,
+    # Glass contact card
+    card_w = Inches(7.0)
+    card_h = Inches(1.6)
+    card_l = Emu((int(SLIDE_WIDTH) - int(card_w)) // 2)
+    card_t = Inches(4.3)
+    add_glass_card(slide, card_l, card_t, card_w, card_h,
+                   fill_color=RGBColor(0x1A, 0x30, 0xA5),
+                   border_color=RGBColor(0x4D, 0x6D, 0xCC),
+                   shadow=False)
+
+    add_textbox(slide, card_l, card_t + Inches(0.15), card_w, Inches(0.4),
+                "\uc870\ud604\uc778 (Hyun In Jo, Ph.D.)",
+                font_size=14, font_color=WHITE, bold=True,
                 alignment=PP_ALIGN.CENTER)
 
-    add_textbox(slide, Inches(0.8), Inches(5.0), Inches(11.5), Inches(0.4),
-                "best2012@naver.com | 010-6387-8402 | linkedin.com/in/hyunin-jo",
+    add_textbox(slide, card_l, card_t + Inches(0.55), card_w, Inches(0.35),
+                "Samsung Research \u00B7 Visual Technology \u00B7 Display Innovation Lab \u00B7 Spatial Audio",
+                font_size=10, font_color=RGBColor(0xB0, 0xC4, 0xEE),
+                alignment=PP_ALIGN.CENTER)
+
+    add_textbox(slide, card_l, card_t + Inches(0.95), card_w, Inches(0.35),
+                "best2012@naver.com  |  010-6387-8402  |  linkedin.com/in/hyunin-jo",
                 font_size=10, font_color=WARM_GRAY, bold=False,
                 alignment=PP_ALIGN.CENTER, font_name=FONT_EN)
-
-    add_textbox(slide, Inches(0.8), Inches(5.5), Inches(11.5), Inches(0.4),
-                "Samsung Research · Visual Technology · Display Innovation Lab · Spatial Audio",
-                font_size=10, font_color=WARM_GRAY, bold=False,
-                alignment=PP_ALIGN.CENTER)
 
 
 # ============================================================================
