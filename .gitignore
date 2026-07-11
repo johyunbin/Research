@@ -17,3 +17,4 @@ __pycache__/
 .stversions/
 .DS_Store
 *.sync-conflict*
+.stignore
