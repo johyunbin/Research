@@ -89,17 +89,18 @@ out = os.path.join(FS.FIG, "figS2_calibration_detail.png")
 plt.savefig(out); plt.close(fig)
 print("→", out)
 
-# ---------- S3: 토지이용 분류 지도 + 분류지표 분포 ----------
-fig = plt.figure(figsize=(6.3, 3.1))
-gs = fig.add_gridspec(1, 2, width_ratios=[1.25, 1.0], wspace=0.22)
+# ---------- S3: 토지이용 분류 지도 + 분류지표 분포 (세로 적층 — 라벨 잘림·범례 겹침 방지) ----------
+fig = plt.figure(figsize=(6.3, 7.8))
+gs = fig.add_gridspec(2, 1, height_ratios=[1.5, 1.0], hspace=0.22)
 axm = fig.add_subplot(gs[0]); axh = fig.add_subplot(gs[1])
 cols = [FS.LANDUSE[stat.loc[k, "landuse"]] if k in stat.index else FS.NA_FILL for k in KEYS]
 FS.draw_polys(axm, PATS, cols, lw=.25)
 axm.legend(handles=[Patch(facecolor=FS.LANDUSE[k], edgecolor="white", label=FS.LANDUSE_LABEL[k])
                     for k in ["commercial", "mixed", "residential"]],
-           loc="lower left", fontsize=8.4, handlelength=1.2)
-FS.add_scalebar(axm, loc=(0.72, 0.05)); FS.add_north(axm)
-FS.panel_label(axm, "a", dy=0.03)
+           loc="upper left", bbox_to_anchor=(0.0, 0.98), fontsize=8.4, handlelength=1.2,
+           frameon=True, framealpha=0.9, edgecolor="#CCCCCC")
+FS.add_scalebar(axm, loc=(0.78, 0.05)); FS.add_north(axm, loc=(0.97, 0.88))
+FS.panel_label(axm, "a", dy=0.02)
 q1, q2 = g["comm_idx"].quantile([1/3, 2/3])
 for lu in ["commercial", "mixed", "residential"]:
     d = g[g["landuse"] == lu]
@@ -110,8 +111,8 @@ for q in (q1, q2):
 axh.set_xlabel("Daytime / night-time de-facto population ratio (post-lifting)")
 axh.set_ylabel("Dongs")
 axh.legend(loc="upper right", fontsize=8.4)
-axh.text(.985, .70, f"tercile cuts:\n{q1:.2f} / {q2:.2f}", transform=axh.transAxes,
-         fontsize=8, ha="right", bbox=dict(boxstyle="round,pad=0.3", fc="white", ec="#CCCCCC"))
+axh.text(.985, .58, f"tercile cuts:\n{q1:.2f} / {q2:.2f}", transform=axh.transAxes,
+         fontsize=8, ha="right", va="top", bbox=dict(boxstyle="round,pad=0.3", fc="white", ec="#CCCCCC"))
 FS.panel_label(axh, "b", dy=0.03)
 plt.tight_layout()
 out = os.path.join(FS.FIG, "figS3_landuse_classification.png")
