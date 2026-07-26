@@ -50,7 +50,7 @@ CAPS = {
    "(dong) of Seoul, coloured by neighbourhood activity type (terciles of the daytime/night-time de-facto "
    "population ratio: commercial, mixed, residential; Supplementary Fig. S3). (b) Baseline daytime noise "
    "level (post-lifting mean Lday, July 2022 to December 2023) by neighbourhood.",
- "Fig. 2.": "Fig. 2. Identification strategy. (a) Causal structure: graded social distancing shifts "
+ "Fig. 2.": "Fig. 2. Identification strategy. (a) Conceptual structure: graded social distancing shifts "
    "neighbourhood mobility, whose effect on urban noise (solid arrow) must be separated from weather and "
    "calendar confounding and from sensor-side artefacts (calibration offset and multi-year drift; dashed "
    "arrows). (b) Fixed-effects ladder: sensor fixed effects remove each sensor's calibration offset; date "
@@ -66,10 +66,11 @@ CAPS = {
    "the daytime estimate, so a day-night difference in the coefficients is not itself established.",
  "Fig. 5.": "Fig. 4. Spatiotemporal evolution of the mobility dose across four graded distancing phases "
    "(phase-window averages of neighbourhood daytime de-facto population relative to the post-lifting "
-   "baseline). The city-wide median stays near 1.0 in every phase, but central commercial/business "
+   "baseline): (a) December 2020, Level 2.5 with the 5-person gathering ban; (b) July 2021, capital-area "
+   "Level 4 (strongest); (c) November 2021, with-COVID relaxation; (d) March 2022, the weeks before full "
+   "lifting. The city-wide median stays near 1.0 in every phase, but central commercial/business "
    "neighbourhoods empty by up to about 35% under the strongest restrictions (blue) while residential "
-   "neighbourhoods fill (red), and the contrast fades through the with-COVID relaxation (c) and the weeks "
-   "before full lifting (d).",
+   "neighbourhoods fill (red), and the contrast fades through (c) and (d).",
  "Fig. 6.": "Fig. 5. Functional differentiation of mobility and noise over time. (a) Weekly daytime "
    "mobility by neighbourhood activity type: commercial neighbourhoods fall below and residential "
    "neighbourhoods rise above the post-lifting baseline during restrictions (shaded bands, stringency >= 4), "
@@ -89,10 +90,10 @@ CAPS = {
    "proportional to sensor count; Theil-Sen fit): the robust correlation is near zero overall, and the "
    "apparently positive Pearson correlation among commercial dongs is driven by a few extreme "
    "neighbourhoods (Supplementary Fig. S1).",
- "Fig. 10.": "Fig. 8. Sensor drift and calibrated-network validation. (a) Annual network-mean level change "
+ "Fig. 10.": "Fig. 8. Sensor drift and calibrated-network comparison. (a) Annual network-mean level change "
    "from 2020: the S-DoT network declines by 2.3 dB over 2020-2023 while calibrated environmental-noise "
    "stations (automatic daily road stations; manual quarterly general and road stations) stay flat or rise "
-   "- a pattern consistent with a sensor-drift artefact rather than a real citywide quieting. (b) Nearby "
+   "– a pattern consistent with a sensor-drift artefact rather than a real citywide quieting. (b) Nearby "
    "S-DoT sensors read on average 11.7 dB below calibrated daytime LAeq (n = 60 station pairs within 500 m; "
    "non-simultaneous years, 2022 S-DoT vs 2024 survey; larger at roadside), so absolute S-DoT levels cannot "
    "be interpreted as standard noise indicators (Supplementary Fig. S2).",
@@ -111,9 +112,9 @@ for old_prefix, newtext in CAPS.items():
 # ================= 3) Highlights 페이지 삽입 (ABSTRACT 앞) =================
 abs_p = T.find(doc, "ABSTRACT")
 HIGH = [
-    "Graded distancing and 1,123 IoT sensors yield a noise dose-response to mobility",
-    "A 30% fall in neighbourhood mobility lowers daytime noise by only about 0.23 dB",
-    "Only daytime noise responds significantly, with a consistent sign across seasons",
+    "Graded distancing, measured mobility and 1,123 IoT sensors give a dose–response",
+    "A 30% fall in neighbourhood mobility is tied to only ~0.23 dB less daytime noise",
+    "Only daytime noise shows a detectable association, consistent in sign across seasons",
     "The 2.3 dB multi-year S-DoT decline is consistent with drift, not quieter streets",
     "Within-sensor, same-day designs are essential for low-cost noise networks",
 ]

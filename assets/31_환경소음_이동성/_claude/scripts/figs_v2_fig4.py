@@ -30,16 +30,15 @@ base = agg[(agg["date"] >= "2022-07-01") & (agg["date"] <= "2023-12-31")].groupb
 norm = TwoSlopeNorm(vcenter=1.0, vmin=0.75, vmax=1.15)
 cm = plt.get_cmap(FS.CMAP_DIV)
 
-fig, axes = plt.subplots(2, 2, figsize=(9.6, 9.2))
+fig, axes = plt.subplots(2, 2, figsize=(6.5, 6.9))   # 인쇄 실크기
 for axi, (pl, title, d0, d1) in zip(axes.flat, PHASES):
     win = agg[(agg["date"] >= d0) & (agg["date"] <= d1)].groupby("dose_key")["lp_day"].mean()
     rel = (win / base).reindex(base.index)
     cols = [cm(norm(rel[k])) if k in rel.index and pd.notna(rel.get(k)) else FS.NA_FILL for k in KEYS]
-    FS.draw_polys(axi, PATS, cols, lw=.22)
-    axi.set_title(title, fontsize=9.6)
-    FS.panel_label(axi, pl, dy=0.045)
+    FS.draw_polys(axi, PATS, cols, lw=.18)
+    axi.set_title(f"({pl}) {title}", fontsize=8.6, loc="left")
     axi.text(.5, -.035, f"city-wide median {rel.median():.2f}× baseline",
-             transform=axi.transAxes, ha="center", fontsize=8.2, color="#555555")
+             transform=axi.transAxes, ha="center", fontsize=7.5, color="#555555")
 FS.add_scalebar(axes.flat[0], loc=(0.02, 0.05))
 
 sm = ScalarMappable(norm=norm, cmap=cm); sm.set_array([])

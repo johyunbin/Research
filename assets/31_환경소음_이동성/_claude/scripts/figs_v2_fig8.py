@@ -18,7 +18,7 @@ LINES = [("S-DoT (this network)", "sdot", FS.NOISE, "o"),
          ("Calibrated manual, general", "cal_manual_general", FS.MOB, "^"),
          ("Calibrated manual, road", "cal_manual_road", "#8C6BB1", "D")]
 
-fig, ax = plt.subplots(1, 2, figsize=(11.4, 5.1))
+fig, ax = plt.subplots(1, 2, figsize=(6.2, 3.6))   # 인쇄 실크기
 
 # (a) 연추세 (2020 기준 변화)
 for name, key, c, mk in LINES:

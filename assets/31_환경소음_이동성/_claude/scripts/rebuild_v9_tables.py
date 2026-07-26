@@ -65,13 +65,13 @@ rows2 = [
  ["Policy\ncovariate", "Social-distancing implementation history (KDCA)",
   "Daily regime re-coded to continuous stringency 0-7 from business curfew hour and gathering cap",
   "2020-01 to 2022-04", "Auxiliary descriptor (Table 3); absorbed by date FE in M2"],
- ["Weather\ncovariate", "Open-Meteo ERA5 reanalysis at Seoul city centre (37.57 N, 126.97 E)",
+ ["Weather\ncovariate", "Open-Meteo ERA5 reanalysis at Seoul city centre (37.57° N, 126.97° E)",
   "Daily mean/max/min temperature, precipitation, maximum wind speed",
   "2020-2023", "M1 covariates; absorbed by date FE in M2"],
  ["Calendar", "Day of week, weekend, Korean public holidays (incl. substitutes), season",
   "Daily indicators", "2020-2023", "Weekend/holiday indicators as M1 covariates; absorbed by date FE in M2"],
- ["Validation\nnetworks", "Calibrated official stations: national environmental-noise network (noiseinfo.or.kr; automatic daily road stations, manual quarterly general/road stations) and four roadside LAeq stations (OA-15473)",
-  "Station-level standard LAeq", "2020-2024", "Drift diagnosis and absolute-offset validation (Fig. 8, Supplementary Fig. S2)"],
+ ["Comparison\nnetworks", "Calibrated official stations: national environmental-noise network (noiseinfo.or.kr; automatic daily road stations, manual quarterly general/road stations) and four roadside LAeq stations (OA-15473)",
+  "Station-level standard LAeq", "2020-2024", "Drift diagnosis and absolute-offset comparison (Fig. 8, Supplementary Fig. S2)"],
 ]
 replace_table_after(capA, oldT[1], rows2, [0.85, 1.75, 1.85, 0.75, 1.30], "lllll", font=8.5)
 # 구 Table 2(모빌리티 provenance) 캡션+표 삭제
@@ -87,9 +87,9 @@ rows3 = [
  ["2020-01", "Pre-COVID (normal)", "24", "none", "0"],
  ["2020-03-22", "1st intensive distancing", "21", "≤10", "4"],
  ["2020-05-06", "Daily-life distancing", "24", "none", "0"],
- ["2020-08-30", "Capital Lv. 2.5 (first 21 h cap)", "21", "≤50", "5"],
- ["2020-12-23", "Lv. 2.5 + 5-person ban", "21", "≤4", "6"],
- ["2021-02-15", "Lv. 2 + 5-person ban", "22", "≤4", "5"],
+ ["2020-08-30", "Capital Level 2.5 (first 21 h cap)", "21", "≤50", "5"],
+ ["2020-12-23", "Level 2.5 + 5-person ban", "21", "≤4", "6"],
+ ["2021-02-15", "Level 2 + 5-person ban", "22", "≤4", "5"],
  ["2021-07-12", "Capital Level 4", "22", "≤4", "5"],
  ["2021-11-01", "With-COVID recovery", "24", "≤10", "1"],
  ["2021-12-18", "Special measures", "21", "≤4", "6"],
@@ -105,14 +105,14 @@ replace_table_after(cap3, oldT[3], rows3, [1.10, 2.20, 1.10, 1.00, 1.10], "llccc
 # ================= Table 4: 기술통계 =================
 cap4 = cap("Table 4. Descriptive statistics")
 T.fill_para(cap4, "Table 4. Descriptive statistics of the analysis panel (1,248,794 sensor-days; 1,123 sensors; "
-                  "421 dong; 2020-2023).")
+                  "421 dongs; 2020-2023).")
 rows4 = [
  ["Variable", "Mean", "SD", "P5", "P95", "N"],
  ["Lday (dB)", "50.52", "7.20", "40.87", "65.54", "1,248,793"],
  ["Lnight (dB)", "47.58", "6.81", "38.46", "61.80", "1,248,623"],
  ["Leq,24h (dB)", "49.93", "7.07", "40.51", "64.76", "1,248,794"],
  ["Daytime mobility (log relative)", "0.01", "0.13", "-0.20", "0.17", "1,247,547"],
- ["Mean temperature (C)", "12.53", "10.45", "-5.80", "26.50", "1,248,794"],
+ ["Mean temperature (°C)", "12.53", "10.45", "-5.80", "26.50", "1,248,794"],
  ["Precipitation (mm)", "4.40", "12.18", "0.00", "27.80", "1,248,794"],
  ["Max wind (m/s)", "4.61", "1.68", "2.50", "7.81", "1,248,794"],
 ]
@@ -175,7 +175,7 @@ rows6 = [
 replace_table_after(cap6, oldT[6], rows6, [1.30, 1.35, 0.72, 1.18, 0.55, 0.60, 0.80],
                     "llrcrrr", font=8.5,
     note=("Note: all segments use the two-way (sensor + date) fixed-effects specification with "
-          "dong-clustered SEs; FDR p = Benjamini-Hochberg adjusted over the 12 tests."))
+          "dong-clustered SEs; FDR p = Benjamini-Hochberg adjusted over the pre-specified exploratory family of 12 tests."))
 
 # ================= Table 7: 강건성 =================
 cap7 = cap("Table 7. Robustness and falsification")
@@ -193,6 +193,8 @@ rows7 = [
   "β₂ = −0.59 (p = 0.44)", "Linear approximation adequate"],
  ["Multiple comparisons", "BH-FDR over the 12 segment tests of Table 6",
   "Daytime, spring (MAM) and autumn (SON) remain significant (FDR < 0.05)", "Daytime effect robust"],
+ ["Hour-count filter", "Sensor-days with more than 24 recorded hours excluded (5.9% of rows)",
+  "β = +0.651 (SE 0.248)", "Aggregation artefacts negligible"],
 ]
 replace_table_after(cap7, oldT[7], rows7, [1.15, 1.90, 2.05, 1.40], "llll", font=8.5)
 

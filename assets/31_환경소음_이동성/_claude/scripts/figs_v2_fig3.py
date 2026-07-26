@@ -29,8 +29,9 @@ for gname, items in GROUPS:
         r = seg[seg["group"] == key].iloc[0]
         rows.append(("EST", lab, r))
 
-fig = plt.figure(figsize=(13.4, 6.4))
-gs = fig.add_gridspec(1, 2, width_ratios=[1.55, 1.0], wspace=0.52)
+# 인쇄 실크기(6.5in) — forest 전폭 + 모형비교 하단 적층
+fig = plt.figure(figsize=(6.5, 8.2))
+gs = fig.add_gridspec(2, 1, height_ratios=[1.55, 1.0], hspace=0.30)
 axA = fig.add_subplot(gs[0]); axB = fig.add_subplot(gs[1])
 
 # ---------- (a) grouped forest ----------
@@ -93,8 +94,8 @@ axB.set_xlim(-0.55, 1.55)
 axB.set_ylim(-1.2, 4.4)
 axB.set_ylabel("β (dB per log-unit mobility)")
 axB.legend(loc="upper left", fontsize=8.4)
-axB.text(-0.42, 2.45, "night-time association loses\nsignificance under date FE\n(day-night difference\nnot established)",
-         fontsize=8, color="#555555", ha="left", linespacing=1.35)
+axB.text(-0.45, -0.35, "night-time association loses significance under date FE\n(day-night difference not established)",
+         fontsize=8, color="#555555", ha="left", va="top", linespacing=1.35)
 FS.panel_label(axB, "b", dy=0.03)
 
 plt.tight_layout()

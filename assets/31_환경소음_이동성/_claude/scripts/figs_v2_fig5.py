@@ -11,8 +11,8 @@ FS.apply_style()
 wk = pd.read_csv(os.path.join(FS.CACHE, "weekly_lu.csv"), parse_dates=["week"])
 LU = ["commercial", "mixed", "residential"]
 
-fig, ax = plt.subplots(2, 1, figsize=(10.8, 7.2), sharex=True,
-                       gridspec_kw={"hspace": 0.14})
+fig, ax = plt.subplots(2, 1, figsize=(6.5, 5.8), sharex=True,
+                       gridspec_kw={"hspace": 0.14})   # 인쇄 실크기
 for a in ax:
     FS.shade_restrictions(a)
 
@@ -21,7 +21,8 @@ for lu in LU:
     ax[0].plot(d["week"], d["mob"], color=FS.LANDUSE[lu], lw=1.6, label=FS.LANDUSE_LABEL[lu])
 ax[0].axhline(1, color=FS.NEUTRAL, lw=.8, ls="--")
 ax[0].set_ylabel("Daytime mobility\n(relative to post-lifting baseline)")
-ax[0].legend(loc="lower right", ncol=3, fontsize=8.8, columnspacing=1.2)
+ax[0].legend(loc="lower center", bbox_to_anchor=(0.5, 1.00), ncol=3, fontsize=8.5,
+             columnspacing=1.2, frameon=False, borderaxespad=0.2)
 FS.mark_events(ax[0], y_frac=0.995, fontsize=7.2)
 FS.panel_label(ax[0], "a", dy=0.02)
 

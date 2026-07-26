@@ -21,7 +21,7 @@ stat = g.set_index("dose_key")
 # ---------- S1: 상업 vs 주거 상세 ----------
 nlim = max(abs(g["noise_anom"].quantile(.05)), abs(g["noise_anom"].quantile(.95)))
 normN = TwoSlopeNorm(vcenter=0, vmin=-nlim, vmax=nlim); cmN = plt.get_cmap(FS.CMAP_DIV)
-fig, axes = plt.subplots(2, 2, figsize=(11.6, 9.6))
+fig, axes = plt.subplots(2, 2, figsize=(6.3, 5.6))
 for row, lu in enumerate(["commercial", "residential"]):
     sub = stat[stat["landuse"] == lu]
     cols = [cmN(normN(sub.loc[k, "noise_anom"])) if k in sub.index else FS.NA_FILL for k in KEYS]
@@ -61,7 +61,7 @@ ov = list(csv.DictReader(open(os.path.join(FS.P, "phase5_calibval.csv"), encodin
 offs = [float(r["offset_day"]) for r in ov]
 cal = [float(r["cal_day"]) for r in ov]; sdo = [float(r["sdot_day"]) for r in ov]
 zones = [r["zone"] for r in ov]
-fig, ax = plt.subplots(1, 2, figsize=(11.0, 5.0))
+fig, ax = plt.subplots(1, 2, figsize=(6.3, 3.2))
 ZC = {"일반": ("Residential/general", "#009E73"), "도로": ("Roadside", FS.NOISE)}
 for z, (lab, c) in ZC.items():
     xs = [x for x, zz in zip(cal, zones) if zz == z]; ys = [y for y, zz in zip(sdo, zones) if zz == z]
@@ -90,7 +90,7 @@ plt.savefig(out); plt.close(fig)
 print("→", out)
 
 # ---------- S3: 토지이용 분류 지도 + 분류지표 분포 ----------
-fig = plt.figure(figsize=(11.8, 5.2))
+fig = plt.figure(figsize=(6.3, 3.1))
 gs = fig.add_gridspec(1, 2, width_ratios=[1.25, 1.0], wspace=0.22)
 axm = fig.add_subplot(gs[0]); axh = fig.add_subplot(gs[1])
 cols = [FS.LANDUSE[stat.loc[k, "landuse"]] if k in stat.index else FS.NA_FILL for k in KEYS]

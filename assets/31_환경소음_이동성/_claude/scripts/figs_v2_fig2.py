@@ -22,7 +22,8 @@ def arrow(ax, p0, p1, color, lw=1.8, ls="-", style="-|>", ms=14, rad=0.0):
                         connectionstyle=f"arc3,rad={rad}")
     ax.add_patch(a)
 
-fig, ax = plt.subplots(1, 2, figsize=(12.6, 4.7), gridspec_kw={"wspace": 0.06})
+# 인쇄 실크기(6.5in) — 두 도식을 세로 적층, 각 패널 전폭
+fig, ax = plt.subplots(2, 1, figsize=(6.5, 7.6), gridspec_kw={"hspace": 0.14})
 for a in ax:
     a.set_xlim(0, 1); a.set_ylim(0, 1); a.axis("off")
 

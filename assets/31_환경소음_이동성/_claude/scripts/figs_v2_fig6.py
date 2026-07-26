@@ -10,8 +10,8 @@ import figstyle_v2 as FS
 FS.apply_style()
 d = pd.read_csv(os.path.join(FS.CACHE, "did_weekly_ci.csv"), parse_dates=["week"])
 
-fig, ax = plt.subplots(2, 1, figsize=(10.8, 6.8), sharex=True,
-                       gridspec_kw={"hspace": 0.14})
+fig, ax = plt.subplots(2, 1, figsize=(6.5, 5.8), sharex=True,
+                       gridspec_kw={"hspace": 0.14})   # 인쇄 실크기
 for a in ax:
     FS.shade_restrictions(a)
     a.axhline(0, color=FS.NEUTRAL, lw=.8, ls="--")
@@ -21,7 +21,7 @@ ax[0].fill_between(d["week"], d["dLeq_diff"] - 1.96 * d["dLeq_diff_se"],
                    color=FS.NOISE, alpha=.16, lw=0, label="95% CI (dong-clustered)")
 ax[0].plot(d["week"], d["dLeq_diff"], color=FS.NOISE, lw=1.6)
 ax[0].set_ylabel("ΔL$_{day}$ difference,\nhigh − low impact (dB)")
-ax[0].legend(loc="upper left", fontsize=8.2)
+ax[0].legend(loc="upper right", fontsize=8.2)
 FS.mark_events(ax[0], y_frac=0.995, fontsize=7.2)
 FS.panel_label(ax[0], "a", dy=0.02)
 

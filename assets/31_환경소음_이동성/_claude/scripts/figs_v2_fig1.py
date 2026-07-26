@@ -14,18 +14,19 @@ PATS, KEYS = FS.load_seoul()
 sd = pd.read_csv(os.path.join(FS.CACHE, "sensor_lu.csv"), dtype={"serial": str, "adm_cd": str})
 base = pd.read_csv(os.path.join(FS.CACHE, "dong_base_leq.csv"), dtype={"dose_key": str}).set_index("dose_key")["base_Lday"]
 
-fig, ax = plt.subplots(1, 2, figsize=(13.2, 5.6))
+# 인쇄 실크기(6.5in) 설계 — 세로 적층으로 각 지도 전폭 확보
+fig, ax = plt.subplots(2, 1, figsize=(6.5, 9.2))
 
 # (a) 센서망 + 토지이용
 ax[0].add_collection(plt.matplotlib.collections.PolyCollection(
     PATS, facecolors="#F2F1ED", edgecolors="#FFFFFF", linewidths=.4))
 for lu in ["mixed", "residential", "commercial"]:
     d = sd[sd["lu"] == lu]
-    ax[0].scatter(d["lon"], d["lat"], s=13, color=FS.LANDUSE[lu], alpha=.9,
+    ax[0].scatter(d["lon"], d["lat"], s=10, color=FS.LANDUSE[lu], alpha=.9,
                   edgecolors="white", linewidths=.25,
                   label=f"{FS.LANDUSE_LABEL[lu]} (n={len(d)})")
 ax[0].autoscale(); FS.style_map_ax(ax[0])
-leg = ax[0].legend(loc="lower left", fontsize=9, markerscale=1.7, handletextpad=0.25,
+leg = ax[0].legend(loc="lower left", fontsize=8.5, markerscale=1.6, handletextpad=0.25,
                    borderaxespad=0.1, labelspacing=0.35)
 FS.panel_label(ax[0], "a")
 FS.add_scalebar(ax[0]); FS.add_north(ax[0])
@@ -37,9 +38,9 @@ cols = [cm(norm(base[k])) if k in base.index else FS.NA_FILL for k in KEYS]
 FS.draw_polys(ax[1], PATS, cols, lw=.35)
 FS.panel_label(ax[1], "b")
 sm = ScalarMappable(norm=norm, cmap=cm); sm.set_array([])
-cb = plt.colorbar(sm, ax=ax[1], fraction=.042, pad=.02, extend="both")
-cb.set_label("Baseline daytime level L$_{day}$ (dB)", fontsize=9.5)
-cb.outline.set_visible(False); cb.ax.tick_params(labelsize=8.5)
+cb = plt.colorbar(sm, ax=ax[1], fraction=.036, pad=.02, extend="both")
+cb.set_label("Baseline daytime level L$_{day}$ (dB)", fontsize=9)
+cb.outline.set_visible(False); cb.ax.tick_params(labelsize=8)
 
 plt.tight_layout()
 out = os.path.join(FS.FIG, "fig1_study_area.png")

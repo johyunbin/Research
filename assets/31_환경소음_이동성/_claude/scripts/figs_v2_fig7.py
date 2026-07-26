@@ -15,9 +15,10 @@ PATS, KEYS = FS.load_seoul()
 g = pd.read_csv(os.path.join(FS.P, "phase2c_dong_change.csv"), dtype={"dose_key": str})
 stat = g.set_index("dose_key")
 
-fig = plt.figure(figsize=(14.2, 4.9))
-gs = fig.add_gridspec(1, 3, width_ratios=[1.05, 1.05, 1.0], wspace=0.34)
-axA = fig.add_subplot(gs[0]); axB = fig.add_subplot(gs[1]); axC = fig.add_subplot(gs[2])
+# 인쇄 실크기(6.5in) — 지도 2매 상단 병렬 + 산점 하단 전폭
+fig = plt.figure(figsize=(6.5, 7.4))
+gs = fig.add_gridspec(2, 2, height_ratios=[1.0, 1.05], hspace=0.24, wspace=0.30)
+axA = fig.add_subplot(gs[0, 0]); axB = fig.add_subplot(gs[0, 1]); axC = fig.add_subplot(gs[1, :])
 
 # (a) 이동량 감소율 지도
 vmax = max(8, g["mob_drop"].quantile(.95))

@@ -48,9 +48,11 @@ print(f"placebo: mean {betas.mean():+.4f} SD {betas.std():.4f} p={p_perm:.4f} "
 
 dec = pd.read_csv(os.path.join(FS.CACHE, "binned_deciles.csv"))
 
-fig = plt.figure(figsize=(11.2, 5.0))
-gs = fig.add_gridspec(1, 3, width_ratios=[2.6, 0.7, 3.1], wspace=0.24)
-axL = fig.add_subplot(gs[0]); axR = fig.add_subplot(gs[1], sharey=axL); axB = fig.add_subplot(gs[2])
+# 인쇄 실크기(6.5in) — (a) 브레이크축 상단 전폭, (b) 데실 하단 전폭
+fig = plt.figure(figsize=(6.5, 6.6))
+gs0 = fig.add_gridspec(2, 1, height_ratios=[1.0, 1.05], hspace=0.30)
+gsA = gs0[0].subgridspec(1, 2, width_ratios=[3.0, 0.7], wspace=0.08)
+axL = fig.add_subplot(gsA[0]); axR = fig.add_subplot(gsA[1], sharey=axL); axB = fig.add_subplot(gs0[1])
 
 # ---------- (a) 브레이크 축: 좌=null 분포, 우=실제 β ----------
 axL.hist(betas, bins=30, color="#B9CFE3", edgecolor=FS.MOB, lw=.6)

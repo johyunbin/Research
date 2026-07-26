@@ -59,6 +59,11 @@ checks = [
 seg_expect = [(f"{b:+.3f}", p, f) for b, p, f in zip(fdr.beta, fdr.pval, fdr.p_BH_FDR)]
 tbl6_ok = all(f"{b:+.3f}"[:6] in text for b in fdr.beta)  # +0.648, +0.504, ...
 checks.append(("Table 6 β 12건 일치", tbl6_ok, "phase3_segmented_fdr"))
+checks.append(("마드리드 4-6 dB (웹 실측 교정)", "4-6 dB 감소 [19]" in text and "약 3 dB" not in text,
+               "JASA 148:1748"))
+checks.append(("n_hours≤24 필터 β=+0.651", "β=+0.651" in text and "5.9%" in text, "로컬 재계산 0.6509/0.2482"))
+checks.append(("within-date SD 0.115", "0.115 log-unit" in text, "로컬 재계산 0.1146"))
+checks.append(("[28] 게재본 doi", "10.1007/s11356-021-13872-z" in text, "PubMed 33884552"))
 fdr_disp = ["0.033", "0.46", "0.92", "0.45", "0.15", "0.25", "0.21", "0.21", "0.066", "0.018", "0.14", "0.033"]
 checks.append(("Table 6 FDR p 표기 일치",
                all(abs(round(v, len(s.split('.')[-1])) - float(s)) < 1e-9 for v, s in zip(fdr.p_BH_FDR, fdr_disp)),
