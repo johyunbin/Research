@@ -16,27 +16,23 @@ REPL = [
 # ---- 초록 (≈245단어로 압축, 수치 유지) ----
 ("How strongly the urban acoustic",
  "How strongly the urban acoustic environment responds to human mobility is a first-order question for "
- "mobility, land-use and noise policy, yet mobility rarely varies exogenously and is entangled with weather, "
- "land use and time of day. We exploit Korea's graded COVID-19 social-distancing system, which repeatedly "
- "tightened and relaxed activity over 2020-2023, together with a city-scale low-cost IoT noise network, as a "
- "graded natural-experiment setting. We assembled 1,248,794 sensor-days from 1,123 Smart Seoul Data of "
- "Things (S-DoT) sensors across 421 administrative neighbourhoods and matched each sensor-day to "
- "neighbourhood daytime de-facto population. Because low-cost sensors carry calibration offsets and "
- "multi-year drift, we estimate the dose-response only from within-sensor variation and from "
- "cross-neighbourhood variation within each date (two-way fixed effects), and read it as a within-date "
- "conditional association. Daytime noise rises and falls with daytime mobility (β = +0.65 dB per log-unit; "
- "a 30% mobility reduction corresponds to about 0.23 dB), robust to a dong-level permutation check "
- "(p = 0.003) and positive across seasons, and the noise gap between high- and low-mobility-loss "
- "neighbourhoods tracks regime tightening and closes after full lifting. Only daytime noise is individually "
- "significant – the apparent night-time association vanishes under two-way fixed effects – although the "
- "day-night difference itself is not statistically established. No robust gradient survives in the long-run "
- "spatial cross-section, and a "
- "calibrated environmental-noise network shows that S-DoT reads about 12 dB below nearby calibrated LAeq "
- "stations and that its multi-year decline is consistent with sensor drift rather than a real noise "
- "reduction. The response is statistically robust but modest, suggesting that at the neighbourhood scale "
+ "mobility, land-use and noise policy, yet mobility rarely varies exogenously. We exploit Korea's graded "
+ "COVID-19 social distancing, which repeatedly tightened and relaxed activity over 2020-2023, together with "
+ "a city-scale low-cost IoT noise network, as a graded natural-experiment setting. We assembled 1,248,794 "
+ "sensor-days from 1,123 Smart Seoul Data of Things (S-DoT) sensors across 421 neighbourhoods (dong) and "
+ "matched each sensor-day to neighbourhood daytime de-facto population. Because low-cost sensors carry "
+ "calibration offsets and multi-year drift, we estimate the dose-response only from within-sensor variation "
+ "and from cross-neighbourhood variation within each date (two-way fixed effects), and read it as a "
+ "within-date conditional association. Daytime noise rises and falls with daytime mobility (β = +0.65 dB "
+ "per log-unit; a 30% mobility reduction corresponds to about 0.23 dB), is robust to a dong-level "
+ "permutation check (p = 0.003), and is positive across seasons; only daytime noise is individually "
+ "significant, and the high-low neighbourhood gap tracks regime tightening and closes after full lifting. "
+ "No robust gradient survives in the long-run spatial cross-section, and a calibrated network shows that "
+ "S-DoT reads about 12 dB below nearby calibrated LAeq stations, its multi-year decline consistent with "
+ "sensor drift. The response is statistically robust but modest: at the neighbourhood scale, "
  "mobility-demand management alone is unlikely to deliver large noise reductions and should be paired with "
- "source- and propagation-stage measures. The design offers a transferable, drift-aware guide for IoT-based "
- "noise monitoring in smart cities."),
+ "source- and propagation-stage measures. The design offers a transferable, drift-aware template for "
+ "smart-city noise monitoring."),
 
 # ---- §1.1 p1: 훅 신설 + 용어 교정 ----
 ("환경소음은 대기오염에 이어",

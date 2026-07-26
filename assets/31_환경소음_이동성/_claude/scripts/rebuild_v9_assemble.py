@@ -19,12 +19,12 @@ doc = Document(SRC)
 # ================= 1) 그림 교체/삭제 =================
 # 구 이미지 순서(1-11) → (새 PNG, 폭 in) 또는 None=삭제
 PLAN = [
-    ("fig1_study_area.png", 6.5), ("fig2_identification.png", 6.5), ("fig3_doseresponse.png", 6.5),
+    ("fig1_study_area.png", 6.3), ("fig2_identification.png", 6.5), ("fig3_doseresponse.png", 6.0),
     None,                                            # 구 Fig 4 (daynight) — Fig 3b로 흡수
     ("fig4_phase_maps.png", 5.6), ("fig5_trajectory.png", 6.5), ("fig6_did_eventstudy.png", 6.5),
     ("fig7_spatial_null.png", 6.5),
     None,                                            # 구 Fig 9 (상세) — Supplementary S1
-    ("fig8_drift_validation.png", 6.2), ("fig9_robustness.png", 6.5),
+    ("fig8_drift_validation.png", 6.2), ("fig9_robustness.png", 6.0),
 ]
 shapes = list(doc.inline_shapes)
 assert len(shapes) == len(PLAN), f"이미지 {len(shapes)}개(11 기대)"

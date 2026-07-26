@@ -29,10 +29,11 @@ for gname, items in GROUPS:
         r = seg[seg["group"] == key].iloc[0]
         rows.append(("EST", lab, r))
 
-# 인쇄 실크기(6.5in) — forest 전폭 + 모형비교 하단 적층
-fig = plt.figure(figsize=(6.5, 8.2))
-gs = fig.add_gridspec(2, 1, height_ratios=[1.55, 1.0], hspace=0.30)
+# 인쇄 실크기(6.5in) — 패널별 정사각형 비율(box_aspect=1), 세로 적층
+fig = plt.figure(figsize=(6.5, 9.3))
+gs = fig.add_gridspec(2, 1, height_ratios=[1.12, 1.0], hspace=0.24)
 axA = fig.add_subplot(gs[0]); axB = fig.add_subplot(gs[1])
+axA.set_box_aspect(1.0); axB.set_box_aspect(1.0)
 
 # ---------- (a) grouped forest ----------
 ys = np.arange(len(rows))[::-1]
@@ -91,11 +92,11 @@ for j, (key, lab) in enumerate(comp):
 axB.axhline(0, color=FS.NEUTRAL, lw=.9, ls="--", zorder=1)
 axB.set_xticks(xpos); axB.set_xticklabels([lab for _, lab in comp], fontsize=9.5)
 axB.set_xlim(-0.55, 1.55)
-axB.set_ylim(-1.2, 4.4)
+axB.set_ylim(-1.2, 4.9)
 axB.set_ylabel("β (dB per log-unit mobility)")
-axB.legend(loc="upper left", fontsize=8.4)
-axB.text(-0.45, -0.35, "night-time association loses significance under date FE\n(day-night difference not established)",
-         fontsize=8, color="#555555", ha="left", va="top", linespacing=1.35)
+axB.legend(loc="upper left", fontsize=8, handletextpad=0.3, borderaxespad=0.25)
+axB.text(-0.45, -0.42, "night-time association loses\nsignificance under date FE\n(day–night difference not established)",
+         fontsize=7.8, color="#555555", ha="left", va="top", linespacing=1.3)
 FS.panel_label(axB, "b", dy=0.03)
 
 plt.tight_layout()
