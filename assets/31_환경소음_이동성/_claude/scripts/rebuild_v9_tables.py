@@ -44,8 +44,10 @@ rows1 = [
  ["Rumpler et al. [22]", "Stockholm (central station)", "Binary: recommendation period vs. before", "No", "Absolute levels"],
  ["Manzano et al. [24]", "Granada (urban measurement points)", "Binary: lockdown vs. reference", "No", "Absolute levels"],
  ["Mishra et al. [28]", "Kanpur (campaign sites)", "Binary: lockdown vs. before", "No", "Absolute levels"],
+ ["Traffic-count studies [52,53,54]", "Porto (4 sensors + loop detectors); Rome (FCD simulation); Bochum (1 long-term site)",
+  "Lockdown era, vehicle traffic only", "Partly: vehicle counts, no de-facto population", "Absolute levels / emission model"],
  ["This study", "Seoul (1,123 IoT sensors, 421 neighbourhoods)", "Graded: repeated tightening and relaxation, 2020-2023",
-  "Yes: daily neighbourhood de-facto population", "Within-sensor change; within-date two-way FE; calibrated-network cross-validation"],
+  "Yes: daily neighbourhood de-facto population", "Within-sensor change; within-date two-way FE; calibrated-network cross-comparison"],
 ]
 t1 = T.build_table(doc, rows1, [1.30, 1.45, 1.45, 1.05, 1.25], "lllll", font=8.5,
                    anchor_el=cap1._element)
@@ -194,7 +196,7 @@ rows7 = [
  ["Multiple comparisons", "BH-FDR over the 12 segment tests of Table 6",
   "Daytime, spring (MAM) and autumn (SON) remain significant (FDR < 0.05)", "Daytime effect robust"],
  ["Hour-count filter", "Sensor-days with more than 24 recorded hours excluded (5.9% of rows)",
-  "β = +0.651 (SE 0.248)", "Aggregation artefacts negligible"],
+  "β = +0.651 (SE 0.248)", "Estimate unchanged after exclusion"],
 ]
 replace_table_after(cap7, oldT[7], rows7, [1.15, 1.90, 2.05, 1.40], "llll", font=8.5)
 
