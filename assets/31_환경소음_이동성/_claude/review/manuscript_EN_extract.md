@@ -1,20 +1,17 @@
 # v8 최종본 추출 (Manuscript_EN_20260727_005544.docx)
-- 문단 222 · 표 7 · 임베드 이미지 9
+- 문단 219 · 표 7 · 임베드 이미지 9
 - 이미지: #1:image1.png(1468KB), #2:image2.png(334KB), #3:image3.png(394KB), #4:image4.png(991KB), #5:image5.png(565KB), #6:image6.png(430KB), #7:image7.png(739KB), #8:image8.png(278KB), #9:image9.png(241KB)
 - 잔존 § 참조: 0
 
 ## The dose-response of urban noise to human mobility measured with a city-scale IoT sensor network in Seoul
-Hyun In Jo*
-Department of Architectural Engineering, Hanyang University, Seoul 04763, Korea
-Corresponding author:
-Hyun In Jo (best2012@hanyang.ac.kr)
-Architectural Acoustics Lab (Room 605-1)
+Hyun In Jo1, Kyung-Tae Lee2*
+1 Department of Architectural Engineering, Hanyang University, Seoul 04763, Korea
+2 Department of Architectural Engineering, Kangwon National University, Gangwon-do, 24341, Korea
+## [Corresponding author]
+*Send correspondence to: Kyung-Tae Lee (ktlee@kangwon.ac.kr)
 Department of Architectural Engineering
-Hanyang University
-222 Wangsimni-ro, Seongdong-gu
-Seoul 04763, Korea
-Phone: +82 2 2220 1795
-Fax: +82 2 2220 4794
+Kangwon National University
+Gangwon-do, 24341, Republic of Korea
 ## Highlights
 • Graded distancing, measured mobility and 1,123 IoT sensors give a dose-response
 • A 30% fall in neighbourhood mobility is tied to only ~0.23 dB less daytime noise
@@ -214,8 +211,9 @@ Using Korea's graded distancing as a natural-experiment setting, we estimated, t
 Methodologically, the study sets out a procedure for using uncalibrated high-density IoT noise networks with confidence: within-sensor relative change, two-way fixed effects, outlier-robust statistics and cross-checks against official networks, with the signal confirmed by dong-level permutation and weighting sensitivity checks. Because absolute levels mislead under multi-year drift, smart-city noise monitoring should adopt within-sensor change designs from the outset. Future work should link more direct traffic exposures, such as stop-level boardings, to sharpen the estimate, fuse the network with calibrated reference stations to restore absolute levels, and repeat the design on other low-cost networks (SONYC, wireless acoustic sensor networks, NoiseCapture) and in other dense East Asian cities (Tokyo, Hong Kong, Singapore) to test its generality.
 ## CRediT authorship contribution statement
 Hyun In Jo: Conceptualization, Methodology, Software, Formal analysis, Data curation, Writing, original draft, Writing, review & editing, Visualization.
+Kyung-Tae Lee: Writing, review & editing.
 ## Declaration of competing interest
-The author declares no competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+The authors declare no competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
 ## Funding
 This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
 ## Ethics
