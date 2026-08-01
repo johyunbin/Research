@@ -554,6 +554,5 @@ PARA = [
  "subway ridership (OA-12921), the distancing implementation history (data.go.kr 15106451), weather "
  "(Open-Meteo ERA5), administrative boundaries (vuski/admdongkor), the four roadside LAeq stations "
  "(OA-15473) and the calibrated environmental-noise networks (noiseinfo.or.kr). The subway data are "
- "distributed under KOGL Type 3 (attribution, no modification). Analysis code will be made available at "
- "[repository TBD]."),
+ "distributed under KOGL Type 3 (attribution, no modification)."),
 ]

@@ -222,7 +222,7 @@ This research received no specific grant from any funding agency in the public, 
 ## Ethics
 This study analysed only publicly available, aggregated and de-identified data and did not involve human participants directly; institutional review board approval was therefore not required.
 ## Data Availability Statement
-모든 원시데이터는 공개 공공데이터이다(S-DoT 소음 OA-15969, 생활인구 OA-14991, 지하철 OA-12921, 거리두기 시행연혁 공공데이터포털 15106451, 기상 Open-Meteo ERA5, 행정동 경계 vuski/admdongkor, 검증 4점 도로교통 LAeq OA-15473, 검교정 환경소음 자동·수동 측정망 국가소음정보시스템 noiseinfo.or.kr). 지하철 데이터는 공공누리 제3유형(출처표시+변경금지). 분석 코드는 [저장소 TBD]에 공개 예정이다.
+모든 원시데이터는 공개 공공데이터이다(S-DoT 소음 OA-15969, 생활인구 OA-14991, 지하철 OA-12921, 거리두기 시행연혁 공공데이터포털 15106451, 기상 Open-Meteo ERA5, 행정동 경계 vuski/admdongkor, 검증 4점 도로교통 LAeq OA-15473, 검교정 환경소음 자동·수동 측정망 국가소음정보시스템 noiseinfo.or.kr). 지하철 데이터는 공공누리 제3유형(출처표시+변경금지).
 ## References
 [1] World Health Organization. Environmental Noise Guidelines for the European Region. Copenhagen: WHO Regional Office for Europe; 2018.
 [2] World Health Organization. Burden of disease from environmental noise: quantification of healthy life years lost in Europe. Copenhagen: WHO Regional Office for Europe; 2011.

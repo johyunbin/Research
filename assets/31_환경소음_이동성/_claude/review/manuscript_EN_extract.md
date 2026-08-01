@@ -220,7 +220,7 @@ This research received no specific grant from any funding agency in the public, 
 ## Ethics
 This study analysed only publicly available, aggregated and de-identified data and did not involve human participants directly; institutional review board approval was therefore not required.
 ## Data Availability Statement
-All raw data are public: S-DoT noise (Seoul Open Data Plaza OA-15969), de-facto population (OA-14991), subway ridership (OA-12921), the distancing implementation history (data.go.kr 15106451), weather (Open-Meteo ERA5), administrative boundaries (vuski/admdongkor), the four roadside LAeq stations (OA-15473) and the calibrated environmental-noise networks (noiseinfo.or.kr). The subway data are distributed under KOGL Type 3 (attribution, no modification). Analysis code will be made available at [repository TBD].
+All raw data are public: S-DoT noise (Seoul Open Data Plaza OA-15969), de-facto population (OA-14991), subway ridership (OA-12921), the distancing implementation history (data.go.kr 15106451), weather (Open-Meteo ERA5), administrative boundaries (vuski/admdongkor), the four roadside LAeq stations (OA-15473) and the calibrated environmental-noise networks (noiseinfo.or.kr). The subway data are distributed under KOGL Type 3 (attribution, no modification).
 ## References
 [1] World Health Organization. Environmental Noise Guidelines for the European Region. Copenhagen: WHO Regional Office for Europe; 2018.
 [2] World Health Organization. Burden of disease from environmental noise: quantification of healthy life years lost in Europe. Copenhagen: WHO Regional Office for Europe; 2011.
