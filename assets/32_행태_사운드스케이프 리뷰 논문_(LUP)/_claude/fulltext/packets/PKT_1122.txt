@@ -1,0 +1,217 @@
+### RECORD ID=1122 | screening_verdict=INCLUDE | year=2025
+JOURNAL: JOURNAL OF ENVIRONMENTAL PSYCHOLOGY
+TITLE: Effects of natural sound tempo and social conditions on social Interaction: An interactive virtual experiment
+DOI: 10.1016/j.jenvp.2025.102630
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Effects of natural sound tempo and social conditions on social Interaction: 
+An interactive virtual experiment
+Xiaochao Chen
+, Jian Kang *
+Institute for Environmental Design and Engineering, The Bartlett, University College London, London, WC1H 0NN, UK
+A R T I C L E I N F O
+Keywords:
+Natural sound
+Sound tempo
+Social interaction
+Urban park
+Environmental influence
+A B S T R A C T
+Although natural sounds are widely known to positively affect human well-being, the influence of natural sound 
+tempo, a potentially significant factor in shaping emotional and behavioral responses, remains underexplored 
+within environmental psychology. This study examines the impact of the tempo of natural sounds on individuals’ 
+willingness for social interaction using a virtual site tour approach. Scenarios were created in Unity 3D, incor­
+porating environmental sounds like birdsong and water fountains typically found in urban parks. Participants 
+freely explored the simulated site and interacted with non-player characters, with their behaviors recorded. Their 
+personal social condition, evaluations of the sound environment, and willingness for social interaction were 
+assessed through questionnaires. This study found that faster water sound tempos significantly increased the 
+willingness for social interaction among individuals with medium to high levels of personal social condition. 
+However, changes in birdsong tempo had no significant effect on social interaction willingness. Participants with 
+higher levels of social condition showed over 11 % greater willingness for social interaction and more positive 
+evaluations of the sound environment. These findings highlight the role of sound tempo in influencing social 
+behaviors, which may contribute to the development of environmental psychology and offer practical insights for 
+urban soundscape design.
+1. Introduction
+As urbanization continues to expand globally, urban planners and 
+environmental designers face increasing challenges in creating healthy 
+and livable cities. Among the various factors influencing urban life 
+quality, the sound environment plays a vital role. Research shows that 
+natural sounds in urban spaces not only enhance individual well-being 
+and health but also improve the overall urban experience and foster 
+social interactions (Alvarsson et al., 2010; X. Chen & Kang, 2023; Fisher 
+et al., 2021). Further exploring the specific effects of different natural 
+sounds can offer valuable insights for shaping future urban design 
+practices. This paper investigates the relationship between the tempo of 
+natural sounds and people’s willingness for social interaction, aiming to 
+integrate well-paced natural sounds into urban spaces to promote more 
+meaningful social engagement.
+1.1. Urban sound environment and social interaction
+The global urbanization process has rapidly increased urban 
+populations, making the creation of better urban living environments a 
+significant and enduring focus (Ventriglio et al., 2021). The sound 
+environment, a critical component of urban settings, significantly im­
+pacts human health, psychology, and behavior (Andringa & Lanser, 
+2013; Kang & Schulte-Fortkamp, 2016; Stansfeld et al., 2000). Urban 
+noise from sources like traffic, construction, and human activities is 
+considered a major threat to the quality of life and health of urban 
+residents (Passchier-Vermeer & Passchier, 2000; Salomons & Pont, 
+2012). Extensive research has linked prolonged exposure to excessive 
+urban noise with numerous health issues, including hearing loss, car­
+diovascular diseases, and increased psychological stress (Beutel et al., 
+2016; Daniel, 2007; Münzel et al., 2021). Furthermore, noise pollution 
+significantly affects work and daily life by reducing work efficiency, 
+impairing sleep quality, diminishing life satisfaction, and weakening 
+cognitive functions, which can adversely affect children’s development 
+and language acquisition (Klatte et al., 2013; Muzet, 2007; Orru et al., 
+2016; Pal & Bhattacharya, 2012).
+In addition to these health concerns, social interaction is a vital 
+component of psychological well-being and social functioning, and it is 
+* Corresponding author. Central House, 14 Upper Woburn Pl, London, WC1H 0NN, UK.
+E-mail addresses: xiaochao.chen.20@ucl.ac.uk (X. Chen), j.kang@ucl.ac.uk (J. Kang). 
+Contents lists available at ScienceDirect
+Journal of Environmental Psychology
+journal homepage: www.elsevier.com/locate/jep
+https://doi.org/10.1016/j.jenvp.2025.102630
+Received 27 September 2024; Received in revised form 13 May 2025; Accepted 14 May 2025 
+Journal of Environmental Psychology 104 (2025) 102630 
+Available online 15 May 2025 
+0272-4944/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+receiving increasing attention in modern society (Sun et al., 2020). For 
+individuals, social interaction provides emotional support and reduces 
+loneliness, with substantial research demonstrating the connection be­
+tween social engagement and personal health (Fiorillo & Sabatini, 2011; 
+Kuczynski et al., 2022). At the societal level, robust social networks and 
+neighborhood integration contribute to social stability (German & Lat­
+kin, 2012). However, poor urban environments often negatively impact 
+social interactions. High urban density with insufficient public spaces 
+and noisy environments can lead to mental health deterioration (Wei 
+et al., 2021), and reduced opportunities for social interaction. Emerging 
+soundscape research has increasingly highlighted the beneficial impacts 
+of a well-designed urban sound environment, particularly in shaping 
+human behavior and fostering social cohesion (Kang et al., 2016). It was 
+found that natural sounds such as birdsong and water features 
+encourage social interactions in urban parks and residential areas (X. 
+Chen, Kang, & Wang, 2024; X. Chen & Kang, 2023) while personal social 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+This study developed a novel virtual site interactive tour method to 
+investigate how sound tempo influences individuals’ willingness to 
+engage in social interactions among individuals with varying social 
+conditions. Traditional methods for studying the influence of sound 
+environments on individuals primarily include laboratory experiments, 
+field surveys, and online questionnaires. However, these methods are 
+insufficient to meet the objectives of this study. Participation in labo­
+ratory experiments or surveys inherently involves social interaction, 
+which may attract individuals already inclined towards social 
+engagement. Since this study also seeks to explore the influence of sound 
+environment changes on individuals with lower social interaction levels, 
+an online method that avoids direct human contact may reduce partic­
+ipant bias. A virtual city park scenario was developed using Unity3D, 
+incorporating a social interaction system for participants to explore 
+online. During the tour, participants control a character to move freely 
+and interact with non-player characters. After the tour, participants 
+were asked to complete a questionnaire covering their personal social 
+conditions, tour experiences, sound environment evaluations, and per­
+sonal information such as gender and age.
+2.1. Sound sources
+This study selected birdsong and water sounds as sound sources due 
+to their prevalence in urban environments and their potential to 
+enhance social interactions. Research has identified water sounds, 
+birdsong, and music as the three preferred types of sounds in urban 
+environments. Surveys indicate that over 75 % of respondents express a 
+positive attitude toward water and bird sounds, whereas fewer than 10 
+% find these sounds disturbing (Carles et al., 1999; Yang & Kang, 
+2005b). This highlights the widespread public preference for natural 
+sounds in urban settings. Studies have also shown that different types of 
+birdsong exhibit varying effects on perceived restorativeness, but 
+overall, the introduction of multiple bird species’ vocalizations tends to 
+enhance the perceived restorativeness of a site (Zhao et al., 2020). Given 
+that birdsong in natural environments is typically not singular, this 
+study selected a mixed birdsong recorded in an urban park as the sound 
+source. This mixed birdsong more closely replicates real ecological en­
+vironments, providing a better simulation of the actual auditory expe­
+rience in urban parks. Regarding water sounds, different types of water 
+sounds may evoke distinct feelings. Some research has found that nat­
+ural water sounds are more calming than artificial ones (G. R. Watts 
+et al., 2009), while other studies have revealed that fountain sounds are 
+preferred over waterfall sounds (Galbrun & Ali, 2013). This study 
+selected fountain sound as the water sound source, as fountains are 
+common landscape elements in urban parks, and their volume and 
+tempo can be controlled by adjusting water pressure and flow. It is 
+important to note that although both birdsong and water sound are 
+categorized as natural sounds, they exhibit significant differences in 
+signal characteristics and should be considered distinct auditory stimuli. 
+As such, they cannot collectively represent the overall characteristics of 
+natural sounds. This study simulated these two sound environments 
+separately, and data from each condition were analyzed independently.
+As natural sounds differ from music, specific BPM (beats per minute) 
+values are not applicable. Therefore, the duration of a selected bird 
+sound and a water sound was adjusted by shortening or extending them 
+using audio editing software, without altering the pitch, to modify the 
+tempo. A preliminary study was conducted to establish the acceptable 
+Fig. 1. Key variables in this study.
+X. Chen and J. Kang 
+Journal of Environmental Psychology 104 (2025) 102630 
+3 
+
+range of tempo variations to avoid unrealistic sound effects from 
+excessive tempo adjustments. In this preliminary study, the tempo of a 
+mixed birdsong sound and a water sound was adjusted ranging from a 
+70 % compression to a 70 % extension, with a 10 % change per segment, 
+resulting in 15 different tempo segments per sound. Ten participants 
+without hearing problems were invited to identify the range of tempo 
+variations they perceived as natural. The preliminary study concluded 
+that a 30 % tempo variation fell within the acceptable range. Conse­
+quently, in this study, the tempo of birdsong and water sounds was 
+adjusted by 30 %, producing slow (30 % compression), medium (initial), 
+and fast (30 % extension) tempo variations. Fig. 2 shows the spectro­
+grams of the sound sources used in this study.
+2.2. Virtual scene reproduction
+This study employed Unity3D to develop a virtual city park scene to 
+ensure consistency between the auditory stimuli and the environment. 
+Introducing natural sounds into an artificial setting lacking natural el­
+ements could potentially create a sense of incongruity between the 
+auditory stimuli and the visual context, thereby influencing partici­
+pants’ authentic responses. It is acknowledged that some studies have 
+demonstrated the positive impacts of introducing natural sounds into 
+artificial or urbanized environments (Coensel et al., 2011; Hong et al., 
+2020; Van Renterghem et al., 2020). However, to minimize confounding 
+factors and ensure a focused assessment of sound effects on social 
+interaction, the present study employed a park environment as the 
+experimental setting. The scene design primarily consists of four mod­
+ules: physical environment, non-player character system, character 
+control and dialogue system, and acoustic environment.
+Urban parks provide opportunities for individuals to connect with 
+others, particularly through the use of specific locations within the park, 
+thereby enhancing social cohesion (Peters et al., 2010). Social in­
+teractions are more likely to occur in certa
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. 
+Fig. 1. Key variables in this study.
+Fig. 2 shows the spectro­
+Fig. 3. The site is enclosed by vegetation and undulating grassy 
+Fig. 3, A 
+Fig. 2. Spectrograms of the slow, medium, and fast-tempo sound sources used in this study.
+Fig. 4.
+Fig. 3. The plan and the aerial view of the virtual scene.
+Fig. 5, ensuring that participants experience a 
+Fig. 5. As participants 
+Table 1). Participants were 
+Fig. 4. The started location for non-player characters and three paths in low-density and high-density scenarios.
+Fig. 5. The location of birdsong and water sound sources in the scenarios.
+Table 1 
+Fig. 6 presents the distribution of social support scores 
+Table 2. Similarly, Fig. 7 illustrates the distribution of social 
+Table 3. The results indicate that the distribution of these scores 
+Table 4). The sound tempos 
+Fig. 6. The violin plot shows the social support score distribution among all participants and participants in 12 different scenarios.
+Fig. 8 shows the boxplots of participants’ willingness to 
+Table 2 
+Fig. 7. The violin plot shows the distribution of social connection score among all participants and participants in 12 different scenarios.
+Table 3 
+Fig. 9 shows the boxplots of participants’ 
+Table 4 

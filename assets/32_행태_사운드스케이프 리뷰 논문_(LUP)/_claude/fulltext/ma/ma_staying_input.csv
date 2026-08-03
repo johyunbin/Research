@@ -1,0 +1,4 @@
+﻿no,label,g,v,note,source
+323,Aletta 2016 (음악 vs 무음악),0.3877,0.01063,"log-duration EMM±SE→SD 환산, n=477/119","Table EMM; F(3,574)=3.781"
+665,"Ba & Kang 2020 (음악 vs 무음, 체류시간)",0.614,0.04322,사후 p=0.003·군n≈50/47에서 t 역산(보수적),"EMM +30s, Sound F=26.879"
+1280,"Bao 2026 (자연음지수↑, 장기체류 OR)",0.2145,0.0053,"OR=1.475→Chinn 변환, N=241",binary logistic

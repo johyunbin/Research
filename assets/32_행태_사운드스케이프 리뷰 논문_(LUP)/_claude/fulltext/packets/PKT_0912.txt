@@ -1,0 +1,209 @@
+### RECORD ID=912 | screening_verdict=INCLUDE | year=2023
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Do objective and subjective traffic-related pollution, physical activity and nature exposure affect mental wellbeing? Evidence from Shenzhen, China
+DOI: 10.1016/j.scitotenv.2023.161819
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Do objective and subjective trafﬁc-related pollution, physical activity and
+nature exposure affect mental wellbeing? Evidence from Shenzhen, China
+Dengkai Huang, Meng Tian, Lei Yuan ⁎
+Lab for Optimizing Design of Built Environment, School of Architecture and Urban Planning, Shenzhen University, Shenzhen 518060, China
+H I G H L I G H T S
+G R A P H I C A L
+A B S T R A C T
+• Motorised vehicle density was used as a
+proxy for trafﬁc-related pollution.
+• Relationships between environment attri-
+butes and human behaviours were de-
+tected.
+• Perceived air quality exerts stronger ef-
+fects than perceived acoustic quality.
+• Mediating effect from physical activity
+path is the smallest.
+• Mental health was modiﬁed by alcohol
+usage, but not smoking behaviours.
+A B S T R A C T
+A R T I C L E
+I N F O
+Editor: Pavlos Kassomenos
+Keywords:
+Mental health
+Nature exposure
+Trafﬁc-related pollution
+Physical activity
+Structural equation modelling
+Street view images
+Urban environment (e.g. greenspaces, air pollution and trafﬁc noise) and individuals' behaviours (e.g. physical activ-
+ity) have all been associated with mental wellbeing. The large majority of studies on the inﬂuence of nature exposure
+on mental wellbeing assumed that multiple pathways act independently, ignoring the interactions among potential
+correlated pathways that engage simultaneously. The parallel mediation approach fails to explore the complex associ-
+ations of combined exposure to air pollution, trafﬁc noise and nature exposure with physical activity, which in turn
+affect mental wellbeing. Hence, the interest of understanding the sophisticated interactions among different pathways
+is warranted. We utilized structural equation modelling to simultaneously evaluate whether actual and perceived
+trafﬁc-related pollution and physical activity mediate the associations between mental wellbeing and nature exposure,
+which was assessed by Normalized Difference Vegetation Index (NDVI), green view index (GVI), green space density
+and park accessibility. In summer 2022, we conducted questionnaires from 1772 adults residing in 117
+neighbourhoods in Shenzhen, China. Nature exposure was positively and directly associated with mental wellbeing
+in the single mediator model that considered physical activity only. The indirect effects of nature exposure on mental
+wellbeing were observed through all pathways in all models, except through the perceived acoustic quality pathway in
+the serial mediation model. In addition, the percentage mediated by perceived air quality was higher than that of per-
+ceived acoustic quality. The inﬂuence of nature exposure on mental wellbeing was only for a small proportion medi-
+ated by the physical activity pathway. The associations between nature exposure and mental wellbeing were modiﬁed
+by individual characteristics, such as gender, age, income level and alcohol usage, but not employment status and
+smoking behaviour. These ﬁndings point out the importance of both objective and subjective environmental features
+and human behaviours on mental wellbeing, as well as the necessity of considering multiple pathways simultaneously.
+Science of the Total Environment 869 (2023) 161819
+⁎ Corresponding author at: 3688 Nanhai Road, Shenzhen University, Shenzhen 518060, China.
+E-mail address: yuanlei@szu.edu.cn (L. Yuan).
+http://dx.doi.org/10.1016/j.scitotenv.2023.161819
+Received 14 December 2022; Received in revised form 17 January 2023; Accepted 20 January 2023
+Available online 25 January 2023
+0048-9697/© 2023 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+1. Introduction
+1.1. Mental health beneﬁts of nature exposure: What are the pathways
+Green spaces, which provide a multitude of physical and mental beneﬁts
+to the urban population (Diener and Mudu, 2021; Hartig et al., 2014), are in-
+valuable natural resources. Natural outdoor environments offer solutions to
+the adverse inﬂuence of rapid urbanization on human health and wellbeing.
+Contacting with nature (e.g. urban parks, forests and street greenery) exerts
+various beneﬁcial inﬂuence on mental health, including stress recovery
+(Kajosaari and Pasanen, 2021; Markevych et al., 2017), attention restoration
+(Bijnens et al., 2022), depression prevention (Liu et al., 2019b) and mood en-
+hancement (Tyrväinen et al., 2014), as well as alleviating mental fatigue
+(Jiang et al., 2020). Pathways through which nature exposure relates to men-
+tal health include reducing harm (i.e. mitigating trafﬁc-related pollution), re-
+storing capacities (i.e. physiological stress recovery) and building capacities
+(i.e. promoting physical activity and facilitating social cohesion) (Hartig
+et al., 2014; Liu et al., 2019a; Markevych et al., 2017; Roberts et al., 2021).
+Trafﬁc-related noise and air pollution are two crucial environmental
+risk factors which are detrimental to mental health (Bloemsma et al.,
+2022; Dzhambov et al., 2017; Klompmaker et al., 2019; Wang et al.,
+2020) and were suggested to be considered together on health issues
+(Tezel et al., 2019). Mounting evidence indicates that urban greenness
+can not only greatly improve air quality by inhibiting the dispersion of pol-
+lutants (Diener and Mudu, 2021), but also mitigate noise pollution by
+damping trafﬁc and vehicle noise (Oquendo-Di Cosola et al., 2022). A vari-
+ety of cross-sectional studies have demonstrated that more residential expo-
+sure to pollution may present barriers to physical activity and discourage
+social interactions among neighbours in the outdoor settings (Dzhambov
+et al., 2017). Therefore, less nature exposure and greater exposure to air
+and noise pollution may exert negative inﬂuence on the mental health of
+urban populations (Wang et al., 2020). The impacts of air pollution and
+trafﬁc noise on psychological wellbeing have been distinguished, the re-
+sults of which are ambiguous (Hao et al., 2022; Klompmaker et al., 2019;
+Li 
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Data collection
+A questionnaire survey was carried out in Shenzhen between May and
+June 2022. With a population of 17.68 million, Shenzhen is a modern inter-
+national mega city in South China covering a land of 1997.47 km2. Data
+D. Huang et al.
+Science of the Total Environment 869 (2023) 161819
+2
+
+were collected from 117 residential neighbourhoods (see Appendix Fig. S1)
+which were randomly selected from four inner-city districts (including
+Baoan, Nanshan, Futian and Luohu) utilizing a multi-stage stratiﬁed proba-
+bility proportionate to size (population density) sampling technique (Gardi
+et al., 2008). These neighbourhoods include various housing types, includ-
+ing urban villages (N = 31), multi-storey housing (N = 30), high-rise hous-
+ing (N = 33) and apartments (N = 23). In the second stage, an approximate
+number of 15 adults from each neighbourhood were randomly selected.
+The survey yielded a total of 1772 valid participants and a response rate
+of 98 %. The study protocol was approved by the Shenzhen University Re-
+search Ethics Committee.
+2.2. Mental wellbeing assessment
+Self-reported mental wellbeing outcomes were measured by happiness,
+the 5-item World Health Organization Wellbeing Index (WHO-5) and the
+Short Warwick-Edinburgh Mental Wellbeing Scale (SWEMWBS). These
+three existing instruments have been validated in previous nature-health
+research (Davison et al., 2021; Fisher et al., 2022; Wang et al., 2020). Hap-
+piness was assessed with a single item (Fordyce, 1988) by asking “In gen-
+eral, how happy would you say you are on a scale from 1 (extremely
+unhappy) to 10 (extremely happy)?” The WHO-5 is one of the most sensi-
+tive and valid instruments to evaluate respondents' subjective wellbeing
+over the previous two weeks (Topp et al., 2015). Each item (including “I
+have felt cheerful and in good spirits”, “I have felt calm and relaxed”, “I
+have felt active and vigorous”, “I woke up feeling fresh and rested” and
+“My daily life has been ﬁlled with things that interest me”) is scored on a
+6-point Likert scale, ranging from 0 (never) to 5 (always). The total score
+ranges from 0 to 25, with higher values representing better mental
+wellbeing. The SWEMWBS is a 7-item scale evaluating respondents' posi-
+tive mental wellbeing over the previous two weeks. These items contain
+both hedonic (e.g. pleasure and satisfaction) and eudemonic (e.g. meaning-
+fulness and cultivation of personal strengths) elements of mental health
+(Melin et al., 2022). The SWEMWBS questions use positive wording, in-
+cluding feeling optimistic about the future, useful, relaxed, able to deal
+with problems, think clearly, close to others, and make up ones' mind
+about things. Each item is scored 1 (none of the time) through 5 (all of
+the time). Summing item scores leads to an initial raw score, which was
+then transformed to a ﬁnal metric score to improve scaling properties
+(Stewart-Brown et al., 2009). The ﬁnal score ranges from 7 to 35, with
+lower values indicating poorer psychological wellbeing. The WHO-5 and
+SWEMWBS both indicated excellent internal consistency, with the
+Cronbach's α coefﬁcients of 0.948 and 0.915, respectively.
+2.3. Nature exposure assessment
+2.3.1. NDVI, green space density and park accessibility
+Following previous studies, we employed Normalized Difference Vege-
+tation Index (NDVI), green space density, park accessibility and green view
+index (GVI) to assess residents' exposure to nature (Wang et al., 2020;
+Zhang et al., 2022). The top-down greenness was quantiﬁed by NDVI, a
+classic satellite-based measurement of vegetation density. The index was
+extracted from Landsat 8 OLI (Operational Land Imager) and TIRS (Ther-
+mal Infrared Sensor) data at 30 m spatial resolution via the United States
+Geological Survey (USGS) Earth Explorer website (https://earthexplorer.
+usgs.gov). The all cloud-free images during the period from 3rd to 13th Sep-
+tember in 2022 were acquired. The NDVI was calculated as the following
+equation: NDVI = (NIR −RED) / (NIR + RED), where NIR and RED are
+the near-infrared and red visible radiation, respectively. Pixels with nega-
+tive NDVI value were excluded as recommended elsewhere (Rugel et al.,
+2017). The range of NDVI was between 0 and 1, with higher values repre-
+senting denser vegetation. Residential exposure to top-down greenness was
+measured by the mean NDVI value within 1 km buffer around the geo-
+graphic centroid of each neighbourhood. The green space density was
+quantiﬁed by the proportion of green environmental exposure within the
+buffers. Park accessibility was deﬁned as the network distance from each
+neighbourhood to the nearest park. The QGIS network analysis toolbox
+(QNEAT3) was applied to calculated the shortest network distance, with
+higher values indicating poorer park accessibility.
+2.3.2. Green view index
+The eye-level greenness was assessed by GVI utilizing street view imag-
+ery data. The sample sites for collecting street view images (SVI) were set
+up at 50 m intervals along the road network (excluding motorways, high-
+ways and tunnels) in Shenzhen which were obtained from OpenStreetMap
+(Haklay and Weber, 2008). The GVI was calculated based on the SVI from
+Baidu (Zhang et al., 2022), which were collected in August 2021. All pic-
+tures were taken between March and September in 2019–2021. The coordi-
+nates of the sample sites were utilized to generate the IDs of the respective
+SVI, which were then entered into a Python script to download the street
+view panoramas from Baidu API (Application Programming Interface).
+We set the size of each SVI to 4096 by 1152 pixels. Finally, 127,181 street
+view panoramas were attained for semantic segmentation which was con-
+ducted by adopting a scene-parsing approach based on DeepLabV3+
+(Chen et al., 2018). This model has outperformed several commonly-used
+semantic segmentation networks, including U-Net, SegNet and PSPNet
+(Xia et al., 2021). Our training model was based on the Cityscapes dataset
+which contains 5000 im
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). The
+Fig. 1. Visualization result of segmentation by the DeepLabV3+ model.
+Fig. 2. We assumed that nature exposure could
+Fig. 2). The data analysis
+Fig. 2. Conceptual diagrams of four models to be tested in the study. Dashed arrows indicate direct effects while solid arrows indicate indirect effects.
+Table 1 (The
+Table 2).
+Fig. 3 (A) indicates path coefﬁcients and 95 % conﬁdence intervals (CI)
+Fig. 3 (B) shows that nature exposure was not only positively and di-
+Table 1
+Table 2
+Fig. 3 (C) also indicates that nature exposure was negatively associated
+Fig. 3 (D) suggests that nature exposure was negatively associated with
+Fig. 3. Path coefﬁcients and 95 % conﬁdence intervals (CI) of the four structural equation models. Solid lines indicate signiﬁcant pathways. Dashed lines indicate ins

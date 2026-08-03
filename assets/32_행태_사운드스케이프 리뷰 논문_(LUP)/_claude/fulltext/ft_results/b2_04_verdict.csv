@@ -1,0 +1,10 @@
+no,final_verdict,exclude_reason,confidence
+941,FINAL_INCLUDE,,high
+951,FINAL_INCLUDE,,high
+979,FINAL_INCLUDE,,high
+984,UNCERTAIN,"Outdoor scenic lake park and soundscape exposure are clear, but the excerpt does not show that staying behaviour (viewing scenery or rest) was actually measured; it may be an inference from the perception questionnaire rather than a behavioural outcome",low
+999,UNCERTAIN,"Reverse pathway is present (human activity type and intensity affect soundscape evaluation) but activities were simulated as recorded sound stimuli in a laboratory and all measured outcomes are perceptual (perceived dominance, acoustic comfort, PAQ) with no observed behaviour",medium
+1005,FINAL_INCLUDE,,high
+1018,FINAL_INCLUDE,,medium
+1053,FINAL_INCLUDE,,medium
+1069,FINAL_INCLUDE,,high

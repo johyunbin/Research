@@ -1,0 +1,212 @@
+### RECORD ID=1177 | screening_verdict=BORDERLINE | year=2025
+JOURNAL: ACOUSTICS
+TITLE: The Impact of Soundscape on Pedestrian Comfort, Perception and Walking Experience in Béjaïa, Algeria
+DOI: 10.3390/acoustics7040064
+PAGES: 37
+
+--- HEAD (title/abstract/intro) ---
+Academic Editor: Papatya Nur
+Dökmeci Yörüko˘glu
+Received: 15 August 2025
+Revised: 8 September 2025
+Accepted: 1 October 2025
+Published: 13 October 2025
+Citation: Mansouri, Y.; Matallah,
+M.E.; Attar, A.; Mahar, W.A.; Attia, S.
+The Impact of Soundscape on
+Pedestrian Comfort, Perception and
+Walking Experience in Béjaïa, Algeria.
+Acoustics 2025, 7, 64. https://doi.org/
+10.3390/acoustics7040064
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+The Impact of Soundscape on Pedestrian Comfort, Perception
+and Walking Experience in Béjaïa, Algeria
+Yacine Mansouri 1,*
+, Mohamed Elhadi Matallah 1,2
+, Abdelghani Attar 3, Waqas Ahmed Mahar 1,4
+and Shady Attia 1
+1
+Sustainable Building Design (SBD) Lab, Department of Urban & Environmental Engineering (UEE),
+Faculty of Applied Sciences, Université de Liège, 4000 Liège, Belgium;
+elhadi.matallah@univ-biskra.dz (M.E.M.); waqas.mahar@sada.nust.edu.pk (W.A.M.);
+shady.attia@uliege.be (S.A.)
+2
+Civil Engineering and Hydraulics, Sustainable Development and Environment (LARGHYDE) Laboratory,
+University of Biskra, Biskra 07000, Algeria
+3
+Laboratory of Construction, Engineering, and Architecture (LGCA), Faculty of Technology,
+University of Bejaia, Bejaia 6000, Algeria; abdelghani.attar@univ-bejaia.dz
+4
+Department of Architecture, School of Art, Design and Architecture (SADA),
+National University of Sciences and Technology (NUST), Islamabad 44000, Pakistan
+*
+Correspondence: yacine.mansouri@doct.uliege.be
+Abstract
+This study explores the influence of the urban soundscape on pedestrian perception and
+walking experience in the historic and lower parts of Béjaïa, Algeria. More precisely,
+the analysis investigates how variations in soundscape configuration relate to perceived
+comfort, safety, and walking pleasantness across five morphologically distinct urban zones.
+A mixed-method approach combining quantitative tools (LAeq acoustic measurements)
+and qualitative methods (soundwalks, sound diaries, and mental maps) was applied in
+accordance with ISO 12913. The study involved 50 participants for the sound diaries and
+58 for the soundwalks. Results show that natural and social sounds enhance perceived
+comfort and safety, while mechanical noise is associated with discomfort and avoidance
+behaviors. In the morning, moderate to strong correlations were observed between sound
+comfort and visual perception (ρ = 0.58, p = 0.001, 95% CI [0.27; 0.80]), as well as between
+sound comfort and walking pleasantness (ρ = 0.40, p = 0.033, 95% CI [0.05; 0.67]). The
+study highlights the need to integrate soundscape considerations into urban planning and
+heritage conservation strategies.
+Keywords: urban soundscape; sound comfort; sound perception; visual perception;
+walkability; soundwalk; public space; multisensory perception; acoustic environment;
+emotional response
+1. Introduction
+Walking in urban areas presents a major challenge for many cities worldwide [1–3].
+The United Nations (UN) calls for the development of urban spaces that are favorable to
+walking, in order to face the many current challenges, mainly environmental degradation
+and the decline in quality of life in cities. The latest IPCC (UN) report considers the increase
+in the level of walkability in cities as a key strategy to fight against climate change [4].
+Furthermore, the World Health Organization (WHO) highlights the rise in diseases related
+to people’s sedentary lifestyles and the excessive use of private cars and calls for the
+Acoustics 2025, 7, 64
+https://doi.org/10.3390/acoustics7040064
+
+Acoustics 2025, 7, 64
+2 of 37
+encouragement of walking in cities [5]. Indeed, it is scientifically proven that walking
+6000 steps daily has significant benefits for physical and mental health [4,6].
+The quality of the urban environment influences pedestrians’ experience and their
+willingness to walk. Among the most important factors is the soundscape. This concept
+was introduced by Murray Schafer in the 1970s. It is defined by ISO 12913-1 (2014) as “the
+acoustic environment as perceived, experienced and/or understood by one or more people,
+in a given context.” [7]. The emergence of the soundscape concept marks the beginning
+of a new way of studying urban sounds. Indeed, traditional approaches are limited to
+studying noise levels in cities and reducing noise pollution, whereas the soundscape offers
+a broader and more holistic dimension of sound environments by taking into account the
+meaning and emotional and subjective impact of all types of sounds, whether desirable
+or undesirable [8]. As a result, the study of the soundscape has made significant progress
+over the past two decades, with research focusing on users’ subjective perception of urban
+sounds. However, most studies remain centered on contexts from the Global North, while
+cities in the Maghreb, particularly those with strong urban dualities (between historic
+fabric and modern sectors), remain underexplored. Moreover, few studies simultaneously
+integrate subjective data, objective acoustic metrics (e.g., LAeq), and temporal variations
+within a single comparative protocol. In this context, the study raises the following question:
+How does the soundscape influence pedestrians’ perception and walking experience in the
+two parts of the city of Béjaïa (old city and lower city)?
+This research makes three main contributions: (1) an analytical framework linking
+soundscape, visual ambiance, and walking comfort; (2) a mixed-method protocol aligned
+with ISO 12913-1:2014 [7] and ISO 12913-2:2018 [9]; and (3) original data from the city
+of Béjaïa, which extends the literature beyond Global North contexts. The city of Béjaïa
+represents a highly relevant case study, composed of two contrasting parts (the medina
+and the modern city), as well as urban fabrics with diverse visual and spatial
+
+--- METHODS/RESULTS EXCERPT ---
+Methods: Quantitative and Qualitative Approaches
+Several methods have been developed for the study of the soundscape. They include
+qualitative, quantitative, and sometimes mixed approaches, which may be subjective, ob-
+jective, or a combination of both [20–22]. Quantitative approaches are based on acoustic
+measurements and modeling. Sound Pressure Level (SPL) measurements are carried out in
+situ and consist of measuring sound intensity using integrating sound level meters [23].
+ISO 1996-1:2016 [24] explains the noise measurement protocol. These methods make it
+possible to correlate the measurements with comfort levels or to identify areas of noise pol-
+lution [25,26]. This approach often needs to be combined with other methods to accurately
+
+Acoustics 2025, 7, 64
+4 of 37
+characterize a soundscape, as two environments may have the same sound level but pro-
+duce different perceptions from one person to another. Spectral analysis represents another
+key measurement approach. This method is based on identifying the different dominant
+components of the soundscape (natural sounds, human sounds, and others) by analyzing
+sound frequencies [27]. In order to bridge the gap between physical measurements and
+human perception, researchers have developed psychoacoustic index analysis. They use
+software such as ArtemiS SUITE, developed by HEAD Acoustics to analyze recordings and
+identify the characteristics of the sound signal, such as loudness, sharpness, and rough-
+ness [28]. This makes it possible to evaluate perceived sound quality. For example, a sound
+with a moderate level can be perceived as very disturbing due to a strong tonality. Another
+category of quantitative approaches is acoustic modeling and sound mapping. Several
+simulation software tools have been developed to predict the propagation of sound in the
+urban environment. These modeling tools are based on the input of a set of urban data
+such as the layout and shape of buildings, the road network, topography, sound sources,
+etc., and enable visualization of sound distribution in the urban fabric and the application
+of different scenarios to enhance the quality of the soundscape [29,30]. These tools are more
+effective than isolated measurements, but they are not sufficient on their own for analyzing
+sound comfort, as they do not take human perceptions into account.
+The second major category of methods for studying the soundscape is qualitative meth-
+ods. A primary type of qualitative method is the use of subjective surveys. Researchers often
+use questionnaires to collect information about sounds from residents or passersby [28,31].
+These surveys can be conducted either on-site or in laboratory settings and often use the Likert
+scale. ISO/TS 12913-2:2018 [9] proposes an evaluation of sound perception based on a 5-point
+scale ranging from “not at all” to “extremely,” and ISO/TS 15666:2021 [32] helps quantify
+annoyance due to noise. In addition to questionnaires, qualitative interviews or focus groups
+are often used for an in-depth exploration of people’s opinions, as well as their emotions and
+memories associated with the soundscape [28,33].
+Soundwalks are a widely used method among researchers to study pedestrians’ per-
+ceptions in relation to the soundscape. It consists of conducting walks with participants
+along predefined routes, often while simultaneously taking sound measurements [22,34].
+Participants listen to the sounds in the environment and then express their perceptions and
+emotions in different ways: either by filling out a questionnaire, participating in discussions,
+drawing mental maps, or even taking photos. ISO/TS 12913-2:2018 provides the necessary
+recommendations for successfully conducting soundwalks [9]. This method is considered
+effective because it places the researcher in close proximity to the participant and it allows
+for a better comparison between objective and subjective data. Non-participant or behav-
+ioral observations are also tools that are used [35]. These involve observing how people
+behave in urban spaces (time spent in a space, walking speed, stopping points, etc.). Some
+researchers also use content analysis to understand the soundscape. Crowdsourcing, for
+example, involves collecting audio data through mobile applications where users have
+submitted sound data [36]. Semantic analysis is also used. It consists of studying subjective
+descriptions of soundscapes to identify themes and associated perceptions [37]. Finally,
+other techniques have been developed recently, such as virtual reality (VR) and 3D audio.
+This involves creating a digital twin of an urban space and then providing participants
+with this immersive experience in a laboratory using appropriate equipment (virtual reality
+headset, 360◦videos, etc.) [38].
+2.3. Identified Research Gaps in Soundscape Studies
+Although research has progressed in the study of the influence of the soundscape
+on pedestrian perception [39–41], several gaps remain. First of all, there is geographic
+
+Acoustics 2025, 7, 64
+5 of 37
+underrepresentation in soundscape studies. Most research on the soundscape has focused
+on case studies from Western Europe, North America, and East Asia; few studies have been
+conducted on Africa, Latin America, and Southeast Asia. For instance, Aletta et al. [42]
+analyzed pedestrian soundscapes along a tourist route in Sorrento (Italy), Doser et al. [43]
+examined the interplay between anthropogenic and biological sounds in an urban–natural
+gradient in New York State (USA), and Hong et al. [44] applied the soundwalk method to
+evaluate urban soundscapes in Seoul (South Korea).This gap is a significant limitation, as
+several studies have shown that cultural factors influence sound perception [45]. Moreover,
+most of the research has been conducted on a small scale, which limits the generalization of
+the results. It is important to use advanced prediction and visualization methods in order
+to account for the soundscape on a large scale [46]. Furthermo
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). Many civilizations have marked the history of the city of Béjaïa,
+Figure 1. Views and location of Béjaïa: (a) Old-city rooftops (Houma Keramane). Photo: frisamu-
+Figure 1a).
+Figure 1b).
+Figure 2.
+Figure 2. Methodological framework used in the research.
+Figure 3) to allow for a more detailed analysis. This makes it possible to
+Table 1. The
+Figure 3. Geographic location of the selected study areas in the Old City of Béjaïa (OC1 and OC2)
+Table 1. Table of predetermined itineraries in each study area. Adapted from Mansouri et al. [3], CC BY 4.0.
+Table 2.
+Table 2. The questions and answer options.
+Table 3 of
+Table 3. Instrumentation for acoustic and visual data acquisition—key settings.
+Table 3.
+Figure 4 shows the OC1 zone as an example. Previous studies
+Figure 4. OC1—SVF masks derived from upward-looking fisheye images. White denotes sky;
+Figure 5 synthesizes the histor-
+Figure 5. Sankey diagram of Béjaïa’s historical soundscape. Left: six sound categories; center: indi-
+Figure 5 reveals that many industrial
+Figure 6 presents the expressive media used by the
+Figure 6. Number of participants per support by method. Bar height indicates the number of
+Figure 6 demonstrates that significant diversification can be observed in the means used
+Figure 7 presents temporal heat maps representing the sound intensity perceived
+Figure 7. Temporal heatmaps of weekly sound perception by zone (OC1–LC3). Rows represent days

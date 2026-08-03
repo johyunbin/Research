@@ -1,0 +1,274 @@
+### RECORD ID=732 | screening_verdict=INCLUDE | year=2021
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: Investigating contextual influences on urban soundscape evaluations with structural equation modeling
+DOI: 10.1016/j.buildenv.2020.107490
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Building and Environment 188 (2021) 107490
+Available online 28 November 2020
+0360-1323/© 2020 Elsevier Ltd. All rights reserved.
+Investigating contextual influences on urban soundscape evaluations with 
+structural equation modeling 
+Cynthia Tarlao a,b,*, Jochen Steffens c, Catherine Guastavino a,b 
+a School of Information Studies, Multimodal Interaction Lab, McGill University, 3661 Peel Street, Montreal, QC, H3A1X1, Canada 
+b Centre for Interdisciplinary Research in Music Media and Technology, 527 Sherbrooke St. West, Montreal, QC, H3A1E3, Canada 
+c University of Applied Sciences, Institute of Sound and Vibration Engineering, Münsterstraße 156, 40476, Düsseldorf, Germany 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape 
+Structural equation modeling 
+Measurement invariance 
+French translation 
+Social interaction 
+Extraversion 
+A B S T R A C T 
+Previous soundscape research has shown a complex relationship between soundscapes, public space usage and 
+contexts of users’ visits to the space. Yet many of these findings are restricted to one study site at a time and may 
+not generalize to a global understanding of urban sound environments. The present study is a comparative 
+analysis of in situ questionnaires collected over four study sites in Montreal (N = 1429) in both French and 
+English. At each site, the questionnaire included items from the Swedish Soundscape Quality Protocol and other 
+soundscape variables, as well as person-related (age, gender, extraversion, noise sensitivity) and situation-related 
+(social interaction) variables. We first tested measurement invariance between the French and English versions of 
+the used soundscape questionnaire. We then investigated the influence of contextual factors (combining person- 
+related and situation-related variables) on soundscape evaluations. The analyses confirmed the underlying 
+conceptualizations of proposed soundscape assessment questionnaires, confirmed metric invariance between 
+French and English questionnaires, and revealed significant influences of contextual factors on soundscape di­
+mensions. Our analysis further suggests that younger people, women, and extraverted people occupy the public 
+space more in groups, and that people in groups rate the soundscape as more pleasant and less eventful. Older 
+people and women were found to be more sensitive to noise, and more sensitive people tended to perceive the 
+soundscape as less pleasant and less monotonous. This research represents a critical step in rigorously assessing 
+soundscape evaluation methods and establishes solid groundwork to build more complex models of contextual 
+influences on soundscape evaluation. 
+1. Introduction 
+1.1. Soundscape 
+Urban public spaces play an essential role in the everyday life of city 
+users. The use of such spaces and the benefits for users is contingent on 
+an array of factors, including the experience of the sound environment. 
+Soundscape research investigates the “acoustic environment as 
+perceived or experienced and/or understood by a person or people, in 
+context” [1], often using interdisciplinary and mixed-methods ap­
+proaches to characterize sound environments, with an emphasis on 
+measures of human perception (in addition to purely physical mea­
+surements, such as sound level measurements). One of the essential tools 
+when researching everyday life auditory experiences is questionnaires – 
+which can include both scale ratings and open- and close-ended 
+questions. 
+In the last decade, several soundscape scales have been developed 
+and refined to measure the human perception of acoustic environments 
+(see Ref. [2] for a methodological review). Axelsson and colleagues [3] 
+created and validated the Swedish Soundscape Quality Protocol (SSQP) 
+– one of the most widely used soundscape questionnaires, comprised of 
+eight unipolar scales, in Swedish and English – and which led in part to 
+the ISO standard on soundscape procedures [4]. The SSQP measures 
+soundscape evaluations along three dimensions underlining people’s 
+perception of the sound environment: pleasantness, eventfulness, and fa­
+miliarity; with pleasantness and eventfulness constituting an orthogonal 
+space, along the four complementary unipolar scales of “pleasant” and 
+“unpleasant”, and “eventful” and “uneventful” with the four other scales 
+forming their diagonals (“monotonous” to “vibrant” and “calm” to 
+“chaotic”). Translations of the SSPQ have been used in other languages. 
+* Corresponding author. School of Information Studies, McGill University, 3661 Peel Street, Montreal, QC, H3A1X1, Canada. 
+E-mail address: cynthia.tarlao@mail.mcgill.ca (C. Tarlao). 
+Contents lists available at ScienceDirect 
+Building and Environment 
+journal homepage: http://www.elsevier.com/locate/buildenv 
+https://doi.org/10.1016/j.buildenv.2020.107490 
+Received 1 September 2020; Received in revised form 29 October 2020; Accepted 25 November 2020 
+
+Building and Environment 188 (2021) 107490
+2
+In our own work, we proposed and tested a translation of the SSQP [5] in 
+Qu´ebec French, with the same first and second dimensions of pleasant­
+ness and eventfulness (the dimensions of agr´eable and anim´e, respectively, 
+in French), but that does not follow the exact proposed orthogonality in 
+both French and English [5,6] (see sections 4.1 and 4.2 for a short dis­
+cussion). Other French translations have been developed in France [7], 
+confirming the same first and second dimensions of pleasantness and 
+eventfulness. However, no statistical confirmation of those translations 
+has been undertaken yet. 
+In subsequent work and in response to comments by researchers from 
+urban studies (e.g. Ref. [8]), Axelsson [9] recommended adding the 
+assessment of the appropriateness of the soundscape to the space as an 
+orthogonal dimension to the pleasantness and eventfulness dimensions 
+previously established. Appropriateness of the soundscape for the space 
+can cover multiple aspects, for instance the harmony between the visual 
+
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Sites 
+Questionnaires were collected over four study sites in Montreal 
+during the summer months from 2015 to 2019 (N = 1429). We capi­
+talized on our team’s collection of a large dataset over multiple sites of 
+varied types in the same dual linguistic context and using the same 
+questionnaire methodology. The different sites, all located in downtown 
+Montreal in the trendy Plateau neighborhood, were selected to represent 
+a variety of morphologies and sound environments. Specifically: 
+1. Public Square (PS), a small (about 1800 m2) public square right 
+next to one of the main commercial streets of that area, with shops 
+and restaurants along with two traffic lanes also used by bus lines 
+operating regularly (every 10 min or less in both directions) during 
+the day (Place Fleurs-de-Macadam, N = 1130), 
+2. Pocket Park (PP), a slightly larger (almost 2000 m2) pocket park in a 
+lively, musical area that has become one of the centers of Montreal 
+nightlife. On one side, it borders a commercial artery, active almost 
+24/7, with shops, cafes, bars, and companies along with heavy one- 
+way traffic, and a bus line. On the other side, it borders a quieter 
+residential area with low buildings – 2 to 3 floors high (Parc du 
+Portugal, N = 155), 
+3. Green Park (GP), a big (340,000 m2) green park located at the heart 
+of the neighborhood and bordered by major arteries on all four sides. 
+It is surrounded by restaurants and bars and offers mixed functions 
+for residents and non-residents, with a very quiet center and more 
+lively edges (Parc LaFontaine, N = 41), 
+4. Pedestrian Zone (PZ), the pedestrianization project (almost 1000 
+m2) of a semi-commercial, semi-residential street with addition of 
+furniture and greenery. It is surrounded by small shops, some res­
+taurants and residential apartments. The streets are mostly one-way 
+streets and relatively quiet, one of the main routes with more dense 
+traffic is a block away, behind a row of buildings (Roy street, N =
+103). 
+2.2. Questionnaires 
+The questionnaire was offered in French or English (see Appendix 
+Fig. A1), entirely in one language or the other, as preferred by each 
+respondent. Common questions (see Table 1) between all sites in the 
+questionnaire were soundscape-related (Sound sources heard, Swedish 
+Soundscape Quality Protocol [SSQP], Appropriateness, Loudness, 
+Restorativeness), personality- and person-related (Age, Gender, Extra­
+version, Noise Sensitivity), and situation-related (Activity conducted, 
+Social Interaction). This paper focuses on the quantitative analysis of the 
+15 common close-ended questions, the qualitative analysis of the free- 
+Table 1 
+Variables in common between the four sites’ questionnaires (5-letter abbrevia­
+tions used in model figures for legibility). 
+Section 
+Variable 
+Abbr. 
+Type 
+Soundscape- 
+related 
+Sound sources (Pleasant, Unpleasant, 
+Neutral) 
+– 
+Free 
+response 
+Pleasantness 
+plsnt 
+Likert scale 
+Monotony 
+mntns 
+Likert scale 
+Vibrancy 
+vbrnt 
+Likert scale 
+Chaoticness 
+chatc 
+Likert scale 
+Calmness 
+calm 
+Likert scale 
+Eventfulness 
+evntf 
+Likert scale 
+Appropriateness 
+apprp 
+Likert scale 
+Loudness 
+loud 
+Likert scale 
+Restorativeness (Being-away) 
+rstrt 
+Likert scale 
+Person-related 
+Extraversion 
+extrv 
+Likert scale 
+Noise Sensitivity 
+snstv 
+Likert scale 
+Age 
+age 
+Free 
+response 
+Gender 
+gendr 
+Binary 
+Situation-related 
+Activity 
+– 
+Free 
+response 
+Social Interaction (alone or in a 
+group) 
+alone 
+Binary 
+C. Tarlao et al. 
+
+Building and Environment 188 (2021) 107490
+4
+format responses is beyond the scope of this paper. Note that restor­
+ativeness has been operationalized in various ways in previous research 
+[35,36], but in this study, we focus on the ability of the soundscape to 
+offer a break from the daily routine, which measures the Being-away 
+component of Attention Restoration Theory as part of the Perceived 
+Restoratives Soundscape Scale (proposed by Payne [35] and validated 
+by Payne and Guastavino [36]). Additionally, as the data collected in the 
+Pocket Park (PP) and Green Park (GP) was rated on 7-point Likert scales, 
+we standardized all Likert scale data with Z-scores. Z-scores are mea­
+sures of how many standard deviations a data point is away from the 
+mean. They are obtained by subtracting the mean from each data point 
+and dividing the result by the standard deviation. 
+2.3. Respondents 
+Of the 1429 respondents, 74.2% chose to fill the questionnaire in 
+French, and 25.8% in English. They were 52.2% women, and 44.9% men 
+(2.9% others or unspecified), ranging in age from 19 to 98 (mean age: 
+34.7, SD: 14.0 years). 
+2.4. Statistical analysis 
+We conducted Confirmatory Factor Analyses (CFA) and Structural 
+Equation Modeling (SEM) in R 3.5.3 for Mac OS X and RStudio® 
+1.2.1335 with the lavaan [37] package. Figures were created using the 
+package semPlot [38]. A CFA attempts to determine if the researcher’s 
+hypotheses about the constructs (i.e. factors, or latent variables) un­
+derlying the data fit the dataset, and considers that the total variance is 
+the sum of the variance in common between the measured variables (i.e. 
+indicators) and of the variance unique to each indicator.1 SEM builds on 
+CFA models and allows for the use of mediation analyses involving both 
+latent and measured variables. 
+Missing values for Likert scales were replaced by the mean for each 
+site, as proportions of missing values were 6.1% or less (1.3–6.1% – see 
+Appendix Table A1). Because of this, we considered the Likert variables 
+as continuous in the following analyses. Our data was non-normal, both 
+for univariate and multivariate normality. For this reason, and due to 
+our large sample size, we used a robust estimation method, namely 
+Maximum Likelihood with Satorra-Bentler correction (MLM) [40] for 
+both parameter estimates and goodness-of-fit statistics. 
+Note that, due to their nature, missing values (total NA = 85) for the 
+variables “age” (NA = 32–2.2%), which can hardly be imputed,
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). In this study, we refer to 
+Fig. 1. Activity-centered framework for the integration of sound research and practice. Reproduced from Ref. [19] with permission. 
+Table 1) between all sites in the 
+Table 1 
+Fig. 2), that is 
+Fig. 3 for the original CFA model): a pleasantness (“PL”) factor and 
+Fig. 4), retain this 2-factor structure. In 
+Fig. 5). 
+Fig. 3): 
+Fig. 4) yielded 
+Table 2 and Fig. 4) were middling to large (0.28–0.75) and statistically 
+Table 3). This test is, however, 
+Fig. 2. Distribution of each Likert variable over all sites (outliers shown with black dots). 
+Fig. 3. Theoretical structure of the originally-hypothesized CFA model of soundscape ratings, before improvement. 
+Table 3) for each model comparison, because we have large samples 
+Table 3). 
+Table 3). Thus retaining the metric invariance hypothesis 
+Table 3). To understand which indicator(s) were poten­
+Table 3) was 
+Table 3). 
+Fig. 4), presented in section 3.1. 
+Fig. 5). 
+Table 4 
+Fig. 6) had a good fit, with χ2
+Table 4). The 

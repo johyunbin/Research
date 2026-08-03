@@ -1,0 +1,291 @@
+### RECORD ID=941 | screening_verdict=INCLUDE | year=2023
+JOURNAL: LANDSCAPE ARCHITECTURE FRONTIERS
+TITLE: Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments
+DOI: 10.15302/j-laf-1-020106
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+047
+https://doi.org/10.15302/J-LAF-1-020106
+Research on the Combined Effects of Plant Odor and Traffic Noise 
+on Crowd Behaviors in Urban Environments
+*CORRESPONDING AUTHOR
+Address: No. 818, Fenghua Road, Jiangbei District, 
+Ningbo 315211, Zhejiang Province, China 
+Email: lizhongzhe@nbu.edu.cn
+Meihui BA
+1, Zhongzhe LI
+1,*, Jian KANG
+2,3
+1 Pan Tianshou College of Architecture, Art and Design, Ningbo University, Ningbo 315211, China
+2 Institute for Environmental Design and Engineering, The Bartlett, University College London (UCL), London WC1H 0NN, United Kingdom
+3 School of Architecture, Tianjin University, Tianjin 300072, China
+© Higher Education Press 2024
+ABSTRACT 
+Traffic noise is a typical negative sound source in urban 
+environments with impacts on crowd behaviors. To explore the 
+combined effects of auditory–olfactory interaction environments 
+on crowd behaviors, this study conducted a covert behavioral 
+observation experiment on a typical urban street uniformly planted 
+with lilacs (Syringa spp.) to investigate the combined effects of 
+plant odor and traffic noise on crowd path and crowd speed. The 
+results showed that: 1) for crowd path, when the sound pressure 
+level (SPL) was high, the path ranges and their mean values under 
+different odor concentrations all showed a tendency to be farther 
+away from the sound source than when it was low; the mean values 
+of path ranges gradually moved towards the odor source as the 
+odor went from none to strong, which was more significant at 
+high SPL, with a maximum longitudinal movement of about 0.3 m. 
+2) For crowd speed, its mean values gradually slowed down from 
+1.24 m/s at high SPL as the odor went from none to strong and 
+then stabilized at 1.18 m/s; however, those at low SPL were almost 
+unaffected. This research puts forward new ideas to alleviate the 
+Received Date | 2023-11-27 Accepted Date | 2024-06-21
+GRAPHICAL ABSTRACT
+Road
+Study area
+Sidewalk
+Lilac trees
+Side of noise source
+Side of odor source
+Side of noise source
+Side of odor source
+Side of noise source
+Side of odor source
+Side of noise source
+Side of odor source
+Low SPL
+High SPL
+Low SPL
+High SPL
+Crowd behavior
+Traffic noise
+Plant odor
+Combined effect on crowd path
+Combined effect on crowd speed
+
+048
+VOLUME 12 / ISSUE 6 / DECEMBER 2024
+1 Introduction
+The Outline of the 14th Five-Year Plan (2021–2025) for National 
+Economic and Social Development and the Long-Range Objectives 
+Through the Year 2035 clearly puts forward the need to strengthen 
+environmental noise pollution control
+[1]. The problems caused 
+by urban noise are becoming increasingly serious, which has 
+greatly affected residents’ daily life and their physical and mental 
+health
+[2][3]. Among them, traffic noise is the main source that is 
+characterized with high intensity, wide influence range, and long 
+duration
+[4]. The negative impacts of it on residents include sleep 
+disorders
+[5], reduction of helpful behaviors, decreased attention to 
+the peripheral elements of the environments passing through
+[6], 
+increase in problematic behaviors of children and adolescents 
+(hyperactivity, inattention, etc.)
+[7][8] and driving violations
+[9], etc.
+At present, in order to better explore urban environmental 
+design strategies to mitigate the negative effects of traffic noise, 
+the research of its impact on psychology and physiology has 
+mainly concerned with the noise annoyance under different 
+conditions
+[10]~[14]. As one of the key components constituting 
+the environment, behavior of spatial users is an outward 
+manifestation of physiological and psychological perceptions
+[15]. 
+In environmental assessment, individual behavior usually refers 
+to the attitude or performance of a person in a given situation, 
+which is greatly influenced by the environment and often tends 
+to be random
+[16]. In contrast, the crowd behavior refers to the 
+performance of the overall crowd in a specific environment, 
+which tends to show a certain regularity
+[17][18]. The latter can be 
+further classified as active and passive behaviors according to 
+motivation
+[16], or participatory and non-participatory behaviors 
+by their purposes
+[19]. In addition, according to the mobility of 
+research objects, it can also be divided into static behavior (sitting, 
+standing, etc.) and movement behavior (walking around, passing 
+by, etc.)
+[20]~[22]. In comparison, movement behaviors can better 
+reflect the overall tendency of the crowd
+[20]. Currently, traffic noise 
+related studies focus more on the effects on individual behaviors, 
+but less on the effects on crowd behaviors.
+Traditional control methods for urban traffic noise often use 
+physical means to reduce the noise level, such as sound barriers 
+and sound-absorbing materials. However, recent studies have 
+shown that only reducing the noise level or the number of 
+noise sources does not necessarily improve human comfort
+[4]. 
+Meanwhile, the research on multisensory interactions provides 
+new possibilities for improving noise control. In recent years, 
+the positive effects of olfactory sensory factors on people’s 
+negative impacts of traffic noise, and the study results can provide 
+guiding significance for the improvement of the evaluation system 
+of urban landscape quality and the optimization of urban design 
+mode.
+KEYWORDS 
+Plant Odor; Traffic Noise; Combined Effect; Crowd Path; Crowd 
+Speed; Auditory–Olfactory Interaction Environment
+HIGHLIGHTS
+· Crowd path tends to move towards the odor source, especially 
+when the sound pressure level of traffic noise is high
+· Crowd speed slows down as the odor concentration increases at 
+high sound pressure level of traffic noise 
+· Crowd speed is almost unaffected by plant odor at low sound 
+pressure level of traffic noise
+EDITED BY Tina TIAN, Xidong MA
+RESEARCH FUNDS
+· Project of “Research on the Optimization Design of Community 
+Public Spaces to Promote the Interactive Perception of Audition 
+and Olfaction Amon
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1 Study Area and the Selection of Plant Odor–Traffic Noise 
+Sources
+When selecting the study area, the following factors were taken 
+into account: 1) traffic noise existed in the area, with varied SPLs 
+at different hours throughout the day; 2) both plant odor and no 
+plant odor conditions existed in the area for the control of odor 
+variables; and 3) no restaurants, cafes, markets, factories, or other 
+odoriferous places existed in the area to emit affecting odors.
+Based on the above considerations, Minsheng Road in Xiangfang 
+District, Harbin City, China was selected as the study area (Fig. 1), 
+where trees of lilac (Syringa amurensis) were planted uniformly 
+along the sidewalks of the road at each 1.5 m. These trees were 
+then used as the odor source in this study. Lilac is a deciduous 
+shrub or small tree that is commonly planted in urban greening in 
+China, due to the pleasant shape and odor. Studies have found that 
+factors such as building layout and edge effect at road intersections 
+can affect people’s olfactory perception, resulting in a stronger 
+plant odor in the central part and gradually decreasing towards 
+the edge
+[23]. Therefore, the study area fits the plant odor and traffic 
+noise conditions for the research.
+2.2 Plant Odor–Traffic Noise Measurement Methods
+Quantitative measurement and recording of odor 
+concentration is difficult. Although specific chemical components 
+can be detected instrumentally, methods that simply measure 
+certain compounds cannot adequately explain or grade odor 
+concentration. Because such measurements are usually of tracer 
+compounds that are present in limited amounts in the gas, it is 
+not possible to directly measure the odor concentration itself 
+or to correlate the odor concentration with its properties
+[27]. 
+Furthermore, in urban environments, measurements within 
+a single time period or location are not representative of the 
+odor situation in the entire area
+[28]. Therefore, this study mainly 
+adopted the method of measuring odor concentration with 
+pedestrians as “sensors,” which is also commonly used in related 
+studies
+[29][30].
+Before the experiment, the study area was first divided 
+into 3 m × 3 m grids, labeled as numbers 1 to 10 from left to right. 
+A questionnaire pre-experiment on plant odor concentration 
+was conducted, which adopted a Likert 7-point scale, with 1 
+indicating no odor and 7 indicating very strong odor. Both the 
+pre-experiment and the formal experiment were performed 
+on 10 June 2019, when lilacs were in full bloom and the odor 
+was noticeable within in the study area. The experimental day 
+was sunny with a wind speed of about 0.3 m/s and a relatively 
+stable odor condition. In the pre-experiment, at least 30 valid 
+questionnaires were collected from each grid and their mean 
+concentrations were calculated. The study used Cronbach’s α 
+coefficient to test the internal consistency of the questionnaire 
+(with a result of 0.925) and KMO coefficient to test the structural 
+validity (with a result of 0.803), which indicated that the 
+questionnaire had a sound reliability and validity. Meanwhile, 
+during the pre-experiment, participants all reported that they did 
+not smell any other odors other than lilac within the study area, 
+suggesting that the plant odor was the only dominant source and 
+Road
+Study area
+Sidewalk
+Lilac trees
+© Meihui Ba, Zhongzhe Li, Jian Kang
+1
+1. Site plan of the study area. 
+
+050
+VOLUME 12 / ISSUE 6 / DECEMBER 2024
+the participants were not affected by other odor sources in the 
+experiment.
+In this study, a portable 4-channel acquisition front-end was 
+used to measure traffic noise
+[31][32]. A 1-min recording was made 
+at the center of each grid, and the SPLs of the recordings were 
+subsequently analyzed using HEAD ArtemiS software. During the 
+recording, the crowd density remained less than 0.05 person/m
+2, 
+thus the interference of pedestrians on the sound environment 
+could be ignored
+[33]. Traffic noise was classified into low and high 
+SPLs according to the actual traffic conditions at different hours: 
+the SPL at the noisier hours within the study area was set as the 
+high SPL, determined based on the field observations and SPL 
+measurements in the pre-experiment; the difference between 
+the high and low SPLs was 10 dB or more to ensure that the 
+participants could clearly distinguish between the two. Through 
+A-weighted SPL analysis, the low SPL was finally defined as 55.6 dB 
+(L10 = 50.3 dB; L50 = 54.6 dB; L90 = 58.5 dB) and the high SPL was 
+70.5 dB (L10 = 68.9 dB; L50 = 70.4 dB; L90 = 71.7 dB). Calculated 
+from the observation videos recorded by drone during the 
+experiment, the average driving speeds in the low and high SPL 
+conditions were 46 km/h and 53 km/h, respectively. The average 
+hourly traffic flow was 1,089 and 696 vehicles, respectively. The 
+evaluation results of odor concentration and SPL distributions 
+within the study area are shown in Fig. 2.
+2.3 Observation of Crowd Behaviors
+This study focused on the movement behavior of crowds. Since 
+the study area was close to an urban road, the crowd behaviors 
+were mostly walking, so pedestrians’ movement path and speed 
+can better reflect the pattern of crowd behaviors, which two 
+thus were selected as the analysis indicators for the research—
+both of them are also common indicators in relevant studies
+[34][35]. 
+Specifically, crowd path refers to the walking trajectory of the 
+participants within the study area, while crowd speed refers to 
+the straight-line displacement of the participant in unit time. 
+It is important to note that pedestrians in both directions were 
+included in the samples in the experiment (Table 1).
+The experimental times for low and high SPLs corresponded 
+to the time periods of 13:00 ~ 15:00 and 15:00 ~ 17:00, 
+respectively. Both time periods were set in the afternoon to 
+minimize the difference in environmental conditions caused 
+by temporal factors. The SPL tests were conducted first i
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1), 
+Fig. 2.
+Table 1).
+Table 1: The sample size of crowd behaviors (unit: person-time)
+Fig. 2-1), and 
+Fig. 2-2) and high SPL (Fig. 2-3) conditions. 
+Fig. 3. The upper and lower boundary lines and mean 
+Table 2. In detail, the effects of odor and odor ∩ noise on crowd 
+Fig. 4). The estimated marginal mean was used to calculate the 
+Fig. 4-1). A two-by-two comparison of the 11 y-values under 
+Fig. 3-1) and high SPL (Fig. 3-2) conditions. The 
+Fig. 4-2. The difference between the 
+Table 3). The effects of odor and odor ∩ noise were both 
+Fig. 5, which had an overall mean of 1.17 m/s. In terms 
+Fig. 5-1). A two-by-two comparison of 
+Table 2: Repeated measures ANOVA of the value y
+Fig. 4-1) and odor 
+Fig. 4-2).
+Fig. 5-2. 
+Fig. 6). Nevertheless, the changes were more significant at high 
+Table 4). 
+Table 3: Repeated measures ANOVA of the crowd speed
+Fig. 5-1) and odor 
+Fig. 5-2).
+Table 4: Correlation analysis of average crowd path and average crowd speed

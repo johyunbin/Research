@@ -1,0 +1,313 @@
+### RECORD ID=1121 | screening_verdict=INCLUDE | year=2025
+JOURNAL: JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+TITLE: Effects of interactions between thermal and acoustic environments on subjective comfort evaluations in outdoor public spaces
+DOI: 10.1080/13467581.2023.2292069
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Journal of Asian Architecture and Building Engineering
+ISSN: 1346-7581 (Print) 1347-2852 (Online) Journal homepage: www.tandfonline.com/journals/tabe20
+Eﬀects of interactions between thermal and
+acoustic environments on subjective comfort
+evaluations in outdoor public spaces
+Dahu Lin, Tingjun Li, Zilin Chen & Lei Li
+To cite this article: Dahu Lin, Tingjun Li, Zilin Chen & Lei Li (2025) Eﬀects of interactions
+between thermal and acoustic environments on subjective comfort evaluations in outdoor
+public spaces, Journal of Asian Architecture and Building Engineering, 24:1, 367-382, DOI:
+10.1080/13467581.2023.2292069
+To link to this article: https://doi.org/10.1080/13467581.2023.2292069
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group on behalf of the Architectural
+Institute of Japan, Architectural Institute of
+Korea and Architectural Society of China.
+Published online: 19 Dec 2023.
+Submit your article to this journal 
+Article views: 2118
+View related articles 
+View Crossmark data
+Citing articles: 6 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tabe20
+
+ENVIRONMENTAL ENGINEERING
+Effects of interactions between thermal and acoustic environments on 
+subjective comfort evaluations in outdoor public spaces
+Dahu Lina, Tingjun Lia, Zilin Chenb and Lei Lia
+aSchool of Architecture and Art, Hebei University of Architecture, Zhangjiakou, Hebei, China; bSchool of Management, Xi’an Jiaotong 
+University, Xi’an, China
+ABSTRACT
+In this study, five outdoor open areas were selected as the study sites to investigate the effects 
+of thermal and acoustic environments, physical activity levels, and pleasantness on evaluations 
+of the thermal and acoustic comfort in outdoor open spaces. Survey questionnaires and on-site 
+measurements were used to quantitatively assess human thermal and acoustic comfort in 
+outdoor spaces. The following findings were obtained in this study. The acoustic environment 
+affected the thermal sensation, where reducing excessive outdoor noise levels could enhance 
+thermal comfort. Increasing the physiological equivalent temperature amplified the acoustic 
+sensation. Individuals reported the most comfortable acoustic perception outdoors at 
+a physiological equivalent temperature of 30.1°C. Reducing both the thermal and acoustic 
+indices improved the overall comfort to some extent. Decreasing physical activity levels by an 
+appropriate amount enhanced the thermal comfort, acoustic comfort, and overall comfort. 
+Finally, maintaining a sense of pleasantness was conducive to increasing the thermal comfort, 
+acoustic comfort, and overall comfort. In states of moderate and pleasurable feelings (pleasant­
+ness level = 0, 1, 2, 3), increased acoustic comfort and pleasantness combined significantly 
+enhanced the thermal comfort.
+ARTICLE HISTORY 
+Received 8 May 2023 
+Accepted 4 December 2023 
+KEYWORDS 
+Outdoor thermal comfort; 
+interaction between thermal 
+and acoustic environments; 
+physical activity level; 
+pleasantness; cold region
+1. Introduction
+People often experience discomfort under various 
+environmental conditions due to the constantly chan­
+ging climate and local temperature, humidity, air con­
+vection, and other factors that affect urban surfaces, as 
+well as the urban heat island effect. Studies of these 
+issues have generally focused on the thermal environ­
+ment (Lai et al. 2014), acoustic environment (Zhang and 
+Kang 2007), lighting environment (Shi et al. 2022), air 
+quality (Lin et al. 2022), and interactions between multi­
+ple environmental factors (Astolfi, Corgnati, and Verso 
+2003; Du et al. 2023; Ricciardi and Buratti 2018; Wu et al. 
+2020). These studies encompassed a wide range of sites 
+and subjects, including indoor and outdoor spaces, such 
+as offices (Bourikas et al. 2021), hospitals (Abd Rahman 
+et al. 2022), libraries (Tang et al. 2023), sports stadiums 
+(Huang, Ma, and Zhang 2019), and urban squares (Ren 
+2023). Campus open spaces (Khalili, Fayaz, and 
+Zolfaghari 2022) have a diverse array of spatial typolo­
+gies and they are important research sites for investigat­
+ing individuals from various age groups, educational 
+backgrounds, and occupations, including students, tea­
+chers, administrative personnel, and certain family 
+members (Kang and Zhang 2010). Climate laboratories, 
+questionnaires, and field tests are commonly employed 
+as methods in this type of research. Climate laboratories 
+allow active control and restriction of the research con­
+ditions by eliminating most interference (Zhang et al. 
+2018). Combining questionnaire surveys with field tests 
+allows basic information and subjective experiences to 
+be collected from respondents’ (Wu et al. 2023), as well 
+as providing real-time measurements of the physical 
+environment at the survey location (Mohammadzadeh, 
+Karimi, and Brown 2023). However, a single environ­
+ment is not sufficient to meet the needs of some 
+research, and sites where multiple environmental fac­
+tors interact are more similar to real-world scenarios 
+(Astolfi, Corgnati, and Verso 2003; Du et al. 2023; 
+Ricciardi and Buratti 2018; Wu et al. 2020).
+In a study of the thermal environment, Chen et al. 
+found that the thermal comfort was influenced by the 
+climate and regional diversity, and the thermal sensa­
+tion was mainly related to the air temperature. In 
+Harbin, China, the acceptable range for the physiolo­
+gical equivalent temperature (PET) was determined as 
+2.5–30.9°C, and the neutral temperatures for PET in 
+spring, summer, autumn, and winter were obtained 
+as 18.7°C, 20.0°C, 21.9°C, and 18.0°C, respectively 
+(Chen et al. 2018). A study of the outdoor thermal 
+comfort in two ethnic groups with different thermal 
+perception and adaptation backgrounds found cross- 
+cultural differences in the thermal comfort between 
+CONTACT Lei Li 
+LL1924@hebiace.edu.cn 
+School of Architecture and Art, Hebei Univers
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study area
+The study was conducted in Xi’an City, which has 
+a warm temperate semi-humid continental monsoon 
+climate. The winter is cold and the spring is warm and 
+dry, with a hot and rainy summer, and a cool autumn. 
+In the study area, the average annual temperature 
+ranges from 13.1°C to 14.3°C, with average tempera­
+tures of −1.2°C to 0.5°C in January and 26.5°C to 27.0°C 
+in July. The extreme lowest and highest annual tem­
+peratures are −21.2°C and 43.4°C, respectively. The 
+annual precipitation ranges from 528.3 mm to 716.5 
+mm. The annual sunshine hours range from 1595.6 h to 
+2035.8 h. The prevailing wind in the Xi’an urban area is 
+the northeast wind throughout the year.
+The field measurements and other investigations in 
+this study were conducted at Xingqing Campus, Xi’an 
+Jiaotong University, Xi’an, Shaanxi Province (108.9902° 
+E, 34.2524°N). The campus is 1538 m wide and 1084 m 
+long, with diverse landscapes and acoustic environ­
+ments that are suitable for studying thermal – acoustic 
+interactions. Initially, a preliminary investigation was 
+conducted in the campus environment by considering 
+different environmental types and seasonal features. 
+As shown in Figure 1, we then selected five outdoor 
+spaces as the study sites comprising Cherry Blossom 
+East Road (CR), Phoenix Tree East Road (PR), Four Great 
+Inventions Square (IS), beside the Pool at Tengfei 
+Tower (TP), and East Garden Lawn (GL).
+2.2. Experimental design
+2.2.1. Meteorological measurements
+The survey was conducted during the spring in May 
+and June, 2022. The investigators collected physical 
+environment measurements in five survey areas, and 
+recorded meteorological parameters at a height of 
+1.2 m from the ground. Meteorological parameters 
+such as Ta, RH, Va, G, and Tg were measured 
+every minute, and the acoustic levels were measured 
+simultaneously. Table 1 shows the abbreviation. 
+Table 2 shows the equipment model, measurement 
+range, and accuracy for the instruments applied.
+2.2.2. Questionnaire survey
+Two investigators conducted a random survey of 
+pedestrians at the five study locations, where the 
+meteorological data and acoustic levels were simul­
+taneously measured, and relevant records were 
+made. The research questions were divided into 
+three parts. The first part collected general informa­
+tion about the respondents, including their demo­
+graphic characteristics (gender, age, ethnicity, place 
+Figure 1. Study area and selected sites.
+JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+369
+
+of origin, health status, clothing combinations, etc.), 
+social attributes (education level, occupation, 
+monthly income, whether they were local residents 
+of Xi’an, length of time living in Xi’an, etc.), and 
+status attributes (current or recent physical and 
+mental states, PAL, pleasantness, etc.). The second 
+part collected the thermal and acoustic perceptions 
+of respondents, as well as their overall perceptions, 
+including the thermal and acoustic sensation, ther­
+mal and acoustic comfort, and overall comfort. The 
+third part of the questionnaire was completed by 
+the investigators and it comprised details of the 
+weather conditions, temperature, relative humidity, 
+wind speed, black globe temperature, solar radia­
+tion, noise level, survey location, and specific time. 
+Seven-point Likert scales were used to measure the 
+thermal and acoustic sensation, thermal and acous­
+tic comfort, and overall comfort.
+2.3. Thermal and acoustic indices
+Several heat indices have been formulated and the 
+most commonly used validated indices include PET, 
+predicted mean vote, UTCI, and standard effective 
+temperature (Yin et al. 2022). PET is utilized as a tool 
+for assessing thermal comfort, and it allows compar­
+isons and evaluations of thermal comfort in various 
+environments. In recent years, PET has been applied 
+increasingly widely in research (Chen et al. 2018; 
+Mohammadzadeh, 
+Karimi, 
+and 
+Brown 
+2023). 
+Therefore, we calculated PET by using the RayMan 
+model as a thermal indicator to predict the thermal 
+comfort. Figure 2 shows the RayMan software calcula­
+tion interface. The RayMan model was developed 
+under the guidance of the Association of German 
+Table 1. Abbreviations used in the text.
+Abbreviation
+Definition
+TSV
+Thermal Sensation Vote
+MTSV
+Mean Thermal Sensation Vote
+TCV
+Thermal Comfort Vote
+MTCV
+Mean Thermal Comfort Vote
+ASV
+Acoustic Sensation Vote
+MASV
+Mean Acoustic Sensation Vote
+ACV
+Acoustic Comfort Vote
+MACV
+Mean Acoustic Comfort Vote
+OCV
+Overall Comfort Vote
+MOCV
+Mean Overall Comfort Vote
+PET
+Physiological Equivalent Temperature
+LAeq
+Weighted Equivalent Continuous Acoustic Level
+SD
+Standard Deviation
+PAL
+Physical Activity Level
+Table 2. Information about the instrument.
+Instrument
+Meteorological parameters
+Measurement range
+Measurement accuracy
+2020 multi-function tester (temperature and humidity sensor)
+Temperature
+−20°C to 125°C
+± 0.5°C
+JT2020 
+omnidirectional wind speed sensor
+Relative humidity
+0–100%
+± 3%
+Wind speed
+0.05–5 m/s
+± 0.03 m/s
+JT2020 globe temperature sensor
+Globe temperature
+−20°C to 85°C
+± 0.5°C
+AR844 digital noise meter
+Sound pressure levels
+30–130 dBA
+± 1.5 dB
+Figure 2. RayMan software calculation interface.
+370
+D. LIN ET AL.
+
+Engineers and it is suitable for various complex urban 
+spaces, including urban planning and design. The 
+RayMan model uses the most important meteorologi­
+cal parameter that affects the human energy balance 
+during clear weather comprising the mean radiant 
+temperature (which was calculated following ISO 
+7726 standards), as well as other meteorological para­
+meters (Ta, RH, Va, and G) and the individual character­
+istics of the respondents (such as their height, weight, 
+age, gender, clothing insulation, and metabolic rate). 
+The final output PET was used as a thermal comfort 
+evaluation indicator for urban bioclimate assessment 
+(Matzarakis, Rutz, and Mayer 2007). 
+To obtain thermal environment evaluation indicators, 
+we calculated the av
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, we then selected five outdoor 
+Table 1 shows the abbreviation. 
+Table 2 shows the equipment model, measurement 
+Figure 1. Study area and selected sites.
+Figure 2 shows the RayMan software calcula­
+Table 1. Abbreviations used in the text.
+Table 2. Information about the instrument.
+Figure 2. RayMan software calculation interface.
+Table 3. The respondents included 
+Figure 3 shows the thermal and acoustic perceptions 
+Figure 3(a) shows that 
+Figure 3(b) shows the TCVs given by the respon­
+Table 3. Basic information for the respondents.
+Figure 4(a) shows that the sum of the ASVs given 
+Figure 4(b) shows that the 
+Figure 3. TSV and TCV ratings for different open spaces on the 
+Figure 4. ASV and ACV ratings for different open spaces on the 
+Table 4. Standard deviation (SD), median (MED), and average (AVG) PET values (°C) 
+Table 4 shows that the average PET values varied 
+Figure 5 shows the rela­
+Figure 5. Effects of PET on MTSV and MTCV in different 
+Figure 6. Effects of PET on MASV and MACV in different 
+Figure 6 shows the relationships between PET and 
+Figure 7. The MTSV values mainly ranged 
+Figure 8 shows that significant correlations were 

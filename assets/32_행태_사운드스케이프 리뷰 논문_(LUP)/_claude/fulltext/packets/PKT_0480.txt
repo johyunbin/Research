@@ -1,0 +1,237 @@
+### RECORD ID=480 | screening_verdict=INCLUDE | year=2018
+JOURNAL: APPLIED SCIENCES-BASEL
+TITLE: Influence of Contextual Factors on Soundscape in Urban Open Spaces
+DOI: 10.3390/app8122524
+PAGES: 24
+
+--- HEAD (title/abstract/intro) ---
+applied 
+sciences
+Article
+Inﬂuence of Contextual Factors on Soundscape in
+Urban Open Spaces
+Xiaolong Zhao 1, Shilun Zhang 1
+, Qi Meng 1,* and Jian Kang 1,2
+1
+Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and Technology,
+Ministry of Industry and Information Technology, School of Architecture, Harbin Institute of Technology,
+Harbin 150001, China. zhaoxiaolong@hit.edu.cn (X.Z.); shil.zhang@outlook.com (S.Z.);
+j.kang@ucl.ac.uk (J.K.)
+2
+UCL Institute for Environmental Design and Engineering, University College London (UCL),
+London WC1H 0NN, UK
+*
+Correspondence: mengq@hit.edu.cn; Tel.: +86-151-0451-5125
+Received: 13 November 2018; Accepted: 4 December 2018; Published: 6 December 2018
+
+
+Featured Application: This study is expected to be applied in the improvement of soundscape
+quality in urban open spaces, especially in commercial pedestrian streets.
+Abstract: The acoustic environment in urban open spaces has played a key role for users. This study
+analyzed the different effects of contextual factors, including shop openness, season, and commercial
+function, on the soundscape in two typical commercial pedestrian streets. The following observations
+were based on a series of measurements, including crowd measurements, acoustic environment
+measurements, and a questionnaire survey. First, the number of talkers in Central Avenue was greater
+than the number of talkers in Kuan Alley in cases with the same crowd density, while there was no
+signiﬁcant difference in the sound pressure level. When the crowd density increased, acoustic comfort
+trended downward in Kuan Alley, while the value of acoustic comfort in Central Avenue took a
+parabolic shape. Second, there was no signiﬁcant difference between the number of talkers in summer
+and the number of talkers in winter; however, when crowd density increased by 0.1 persons/m2,
+the level of sound pressure increased by 1.3 dBA in winter and 2.2 dBA in summer. Acoustic comfort
+took a parabolic shape that ﬁrst increased and then decreased in both winter and summer. Regarding
+commercial function, as the crowd density increased, the number of talkers and the level of sound
+pressure both increased, while acoustic comfort decreased in three zones with different commercial
+functions. In addition, a cross-tab analysis was used to discuss the relationship between the number
+of talkers and the level of sound pressure, and it was found to be positive.
+Keywords: urban open spaces; contextual factors; soundscape
+1. Introduction
+The context of urban open spaces, especially the acoustic environment, has played an
+indispensable role in the experience of users of those spaces since residents and tourists pay more
+attention to acoustic perception than visual satisfaction [1]. With the spread of urbanization, urban open
+spaces will be increasingly multifunctional and integrated, and crowds will be exposed to noise because
+of complex acoustic contexts [2,3]. Many previous studies focused on how to prevent and control noise,
+using tools such as predictive models, noise maps and noise barriers [4–8], while the quality of the
+sound environment had not been improved effectively. Currently, there is a tendency to shift the focus
+from purely noise control to overall soundscape design, which brings a change to the ﬁeld of sound
+environment design. Soundscape, an important aspect of evaluating an acoustic environment, has been
+Appl. Sci. 2018, 8, 2524; doi:10.3390/app8122524
+www.mdpi.com/journal/applsci
+
+Appl. Sci. 2018, 8, 2524
+2 of 24
+widely applied to studies of acoustic environments in urban open spaces [9–12]. Different from noise
+control engineering, the soundscape is the acoustic environment as perceived or experienced and/or
+understood by a person or people, as deﬁned by the ISO. It represents a timely paradigm shift in that
+it considers environmental sounds like a ‘resource’ rather than a ‘waste’ [13].
+Acoustic factors such as sound sources, absorption coefﬁcient, sound pressure level and
+reverberation time are of primary importance in a wide range of studies [13–16]. Regarding sound
+sources, some studies prefer to discuss the types, the masking effects, and the perception of sound
+sources as a general rule. Yu and Kang considered that the sound sources mainly included 4 types:
+natural, human, mechanical, and instrumental sounds based on 19 urban squares [17]. Among these
+types of sound sources, natural sounds and trafﬁc noise have been increasingly considered in recent
+years, especially their effects on perceptions from citizens [2,18–20]. Several works still attempted to
+explore the effect of using natural and artiﬁcial sounds to reduce the impact of trafﬁc noise [14,21,22].
+Additionally, other studies aimed to improve the acoustic environment by using vegetation to absorb
+sound in urban open spaces. Lai and Ghosh carried out a study to determine the effect of roadside
+vegetation on the reduction of road trafﬁc noise under varying planting intensities [23]. Traditionally,
+sound pressure level and reverberation time were frequently used as acoustic factors to estimate a
+given acoustic context in urban open spaces [10,24–26]. Kang noted that the reverberation time and
+the early decay time are signiﬁcantly longer and the sound pressure level attenuation with distance is
+generally smaller in urban squares unless the height/side ratio is high compared to diffuse boundaries
+with geometrical boundaries [24].
+Soundscape studies have contained both acoustic and contextual factors affecting human
+perception of the acoustic environment. Now, contextual factors such as spatial, temporal, and
+functional factors are receiving great attention [10,22,27,28]. A number of studies have noted that
+spatial locations and regions can change the diversity of sound sources, acoustic environments and
+sequentially affect citizens’ evaluation of acoustic quality [4,8,29]. Temporal factors could refer to
+the time of a day or the seasons of a year. Kang,
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Survey Sites
+As an important component of urban open spaces, commercial pedestrian streets have developed
+into public places for consumption, sightseeing, leisure, and recreation. Typical commercial pedestrian
+streets are usually considered landmarks and the economic and cultural centers of cities. Therefore,
+this study selected two typical commercial pedestrian streets as survey sites, Kuan Alley and Central
+Avenue (shown in Table 1) for the following reasons. The ﬁrst reason is the sites’ long history. These
+two commercial pedestrian streets are 100–300 years old and are important cultural heritage sites in
+the world. Second, the sites are in the central city. These two commercial pedestrian streets are local
+landmarks, tourist resorts, and shopping spaces that attract large crowds, which provide a good basis
+to make the investigation comprehensive. Furthermore, commercial models in these two commercial
+pedestrian streets are similar to commercial streets in Europe and Asia. The contextual factors, such as
+the shop openness and mode of operation, were signiﬁcantly different in typical commercial pedestrian
+streets within many districts in northern and southern China as a result of the differences in climate,
+traditional culture, and economic level. The shop openness means the open degree of the envelope of
+the shops. For instance, the shop openness in Kuan Alley was generally in a semi-open mode, namely,
+doors and windows were usually open during the business period. In contrast, the shop openness was
+in a closed mode in Central Avenue, namely, the doors and windows in this commercial pedestrian
+street were usually closed, especially in winter.
+In an urban environment, there are often different functional zones. In each zone, there may be
+a dominant sound [20]. These dominant sound sources differ because of the different commercial
+functions in a commercial pedestrian street. Considering the inﬂuence of different dominant sound
+sources on the soundscape [25], a commercial pedestrian street is divided into three commercial
+functional zones: the Di (dining) zone, the Sp (shopping) zone, and the Pe (performance) zone (shown
+in Figure 1). In the Di zone, hawking was a dominant sound source users usually paid more attention
+to (shown in Figure 2). In the Sp zone, background music is played by the PA system for customers to
+increase the economic beneﬁt ratio. In the Pe zone, live instrumental music is played for customers by
+folk artists with instruments. The speech that is a general sound source among all the zones should
+also be considered. However, other sounds, such as taking footsteps, can be neglected because they
+do not signiﬁcantly affect the soundscape [41]. To avoid the interference of trafﬁc noise from the
+motorway and sound sources in other zones, the distance between the survey zone and the motorway
+and between the two survey zones was at least 20 m [22]. The length of each survey zone was set at
+
+Appl. Sci. 2018, 8, 2524
+4 of 24
+30 m. In order to avoid the inﬂuence of commercial functions, the difference of shop openness in Sp
+zone in two pedestrian streets was compared as an example.
+Table 1. The fundamental state of the survey sites.
+Commercial Pedestrian
+Street
+Kuan Alley
+Central Avenue
+Location
+In southern China
+In northern China
+Dating from
+In 1718 A.D.
+In 1898 A.D.
+Architectural style
+Archaize quadrangle style
+Mission revival, Chinese
+Baroque style
+Shop openness
+Semi-open
+Closed
+Survey season
+Winter
+Summer
+Winter
+Commercial function
+Di
+Sp
+Pe
+Sp
+D/H
+Height B
+1.15:1
+1.36:1
+Height A
+1.3:1
+1.43:1
+Section/Truncation surface
+View photograph
+ 
+Music style
+-
+pop
+pop
+pop
+Music tempo
+-
+95–100 bpm
+95–100 bpm
+95–100 bpm
+ 
+(a) 
+ 
+(b) 
+Figure 1. The survey areas of commercial pedestrian streets: (a) Kuan Alley; (b) Central Avenue, and A
+refers to the Di zone, B and D refer to the Sp zone, C refers to the Pe zone.
+
+Appl. Sci. 2018, 8, 2524
+5 of 24
+ 
+ 
+(a) 
+(b) 
+ 
+(c) 
+Figure 2. Photos of the Di zone (a), the Sp zone (b) and the Pe zone (c) in Kuan Alley.
+2.2. Survey Planning
+The survey was carried out in two seasons [12]: winter and summer. In Central Avenue, 18 days
+were chosen as the survey days from 1 June 2017 to 30 July 2017 and from 1 December 2016 to 30 January
+2017. These days were chosen because they are typical, with the daily mean temperature from 14 to
+25 ◦C in summer and from −18 to −7 ◦C in winter. In Kuan Alley, 8 days were chosen as the typical
+survey days from 1 December 2016 to 30 January 2017, with the daily mean temperature ranging from
+6 to 12 ◦C in winter. A total of 26 days were required to perform the soundscape measurements during
+clear weather. In these days, both weekdays and weekends were considered for data collection to
+make crowd density samples more sufﬁcient. In addition, there were no signiﬁcant differences with
+regard to demographic composition and distribution between weekdays and weekends in the two
+pedestrian streets in a preliminary study [10,42]. On each survey day, data on crowd characteristics,
+sound pressure level, acoustic comfort, and individual characteristics were collected by 10 volunteers
+from 8:00 am to 6:00 pm on weekdays and weekends. The crowd measurement contained two parts:
+the crowd density measurement and the number of talkers. Most importantly, in crowd measurement,
+each participant’s facial features were recorded as mosaics, and the participant’s vehicle information
+recorded on video was also processed in order to protect conﬁdentiality [43,44]. In the questionnaire
+part, participants volunteered to participate in the questionnaire survey. Their private information
+would not be recorded for the same reason [42].
+2.3. Crowd Density Measurement
+To study the effect of a crowd on the acoustic environment and acoustic perception in commercial
+pedestrian streets, crowd density was measured using a photographic method with a small remote
+drone (type: DJ inspire 2) [45]. To avoid the interference of leaves and architect
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1) for the following reasons. The ﬁrst reason is the sites’ long history. These
+Figure 1). In the Di zone, hawking was a dominant sound source users usually paid more attention
+Figure 2). In the Sp zone, background music is played by the PA system for customers to
+Table 1. The fundamental state of the survey sites.
+Figure 1. The survey areas of commercial pedestrian streets: (a) Kuan Alley; (b) Central Avenue, and A
+Figure 2. Photos of the Di zone (a), the Sp zone (b) and the Pe zone (c) in Kuan Alley.
+Figure 3). To avoid the inﬂuence of the
+Figure 3) to reduce measurement error. The total number of red dots in 5 min was divided
+Figure 3. The crowd density measurement.
+Figure 4. To reduce
+Figure 4), so the number of talkers was computed every 30 s to avoid
+Figure 4. The conversation behavior in each section of the survey zone.
+Figure 5), with a distance of at
+Figure 5. The acoustic environment measurement in the survey zone: S means sound source and R
+Table 2). Approximately 40% of the respondents were male, and 60% of
+Table 2. The fundamentals of the state of the investigation population.
+Table 3. A Kolmogorov–Smirnov Test was
+Table 4); a t-test at p < 0.01 and p < 0.05 was used to test for signiﬁcant differences.
+Figure 6 shows the relationship between crowd density and the number of talkers, taking the Di
+Table 3. The normality of samples.
+Table 4. The relationship between crowd density and the number of talkers, between crowd density
+Figure 6. The relationship between crowd density and the number of talkers with three regression
+Figure 7a shows the relationship between crowd density and the number of talkers: when crowd
+Figure 7b shows the relationship between 

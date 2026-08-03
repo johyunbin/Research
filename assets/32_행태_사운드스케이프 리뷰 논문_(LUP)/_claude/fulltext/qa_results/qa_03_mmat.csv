@@ -1,0 +1,12 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+560,quantitative descriptive,Y,Y,Y,CT,Y,N,Y,3,moderate,"응답률 53%·무응답 편의 미분석, 단일 도시 현장 편의표집"
+566,mixed methods,Y,Y,Y,Y,Y,Y,CT,4,high,"정량 요소 자기선택 표본·시기 교란, 한계 절 없음"
+602,quantitative descriptive,Y,Y,Y,N,Y,CT,Y,3,moderate,평가자 전원 20~30대 학생·실제 가로 이용자 아님
+617,quantitative descriptive,Y,Y,Y,N,CT,CT,N,1,low,"남성 학생 27명 한정, 구간 반복측정을 독립표본 취급한 의사반복"
+661,non-randomised,Y,Y,N,Y,Y,N,Y,3,moderate,"참가자 10명, 차량 시각모델·속도가 음향조건과 교락"
+665,non-randomised,Y,Y,CT,Y,Y,N,Y,3,moderate,음악 조건 SPL 11 dB 높아 음종과 음압 교락
+666,non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"동질 학생 30명 표본, 자극 제시순서 고정으로 순서효과 미통제"
+694,quantitative descriptive,Y,Y,Y,CT,CT,N,Y,2,low,"참여율 약 25%·무응답 편의 미검토, COVID 태도 문항 비검증"
+724,mixed methods,Y,Y,CT,Y,CT,CT,N,1,low,"면접 코딩틀·신뢰도 미보고, 2011/2019 자료 시차, 한계 기술 없음"
+725,quantitative descriptive,Y,Y,Y,N,Y,N,Y,3,moderate,"온라인 자기선택 표집·젊은 고학력 여성 편중, 무응답률 산출 불가"
+726,mixed methods,Y,Y,Y,Y,Y,CT,N,3,moderate,"코더 눈가림·신뢰도 부재, 에세이 111편 독립표본 취급, 두 군 활동 비동등"

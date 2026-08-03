@@ -1,0 +1,257 @@
+### RECORD ID=14 | screening_verdict=INCLUDE | year=1988
+JOURNAL: Journal of Environmental Psychology
+TITLE: Urban stress and helping behavior: Effects of environmental overload and noise on behavior
+DOI: 10.1016/s0272-4944(88)80035-5
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+Journal of Environmental Psychology (1988) 8, 287-298 
+URBAN STRESS AND HELPING BEHAVIOR: 
+EFFECTS OF ENVIRONMENTAL OVERLOAD AND NOISE ON 
+BEHAVIOR 
+GABRIEL MOSER 
+Laboratoire de Psychologie Sociale Appliqude, UniversitO Rend Descartes, Paris' V, 
+France 
+Abstract 
+The effects of environmental overload and noise on helping behavior is assessed 
+through a 2 x 3 experimental design including two levels of environmental overload 
+and three conditions on each site: without roadworks, roadworks without noise, 
+and noisy roadworks. 
+Results are analysed in terms of the cognitive appraisal of the situation and the 
+narrowing of attention. The subject's behavior when confronted with explicit and 
+implicit helping requests shows that noise appears to be the most important com- 
+ponent of overload, affecting both the subjects' attentiveness in implicit helping 
+demands, as well as the refusal to engage in verbal interaction. 
+Since Simmel (1950), who describes urban residents as more reserved, indifferent 
+and latently hostile than rural residents, there has been much concern about social 
+behavior in cities. In large towns people trust one another less (Lowin et al., 1971; 
+Korte and Kerr, 1975), pedestrians look straight ahead, ignoring what is happening 
+immediately around them (Korte and Grant, 1980), often avoiding eye-contact 
+(Newman and McCauly, I977) and are more reluctant to assist a stranger seeking 
+help (Milgram, 1970; Korte, 1978). Essentially three conceptions of the behavioral 
+effects of urban settings can be distinguished: 
+(1) Urban life is stressful. According to Baum et aL (1981), the behavioral effects 
+of urban settings can be explained in terms of reactions to stressful events. People 
+living in large cities are exposed to a variety of stimuli including visual stimuli, 
+noise, pedestrian density, traffic, etc., forming what has been called 'urban stress' 
+(Glass and Singer, 1972). Cities as stressful situations, inhibit activity and produce 
+avoidance reactions (Lazarus and Cohen, 1977). 
+(2) Undesirable or inadequate environments are constraining. Environmental 
+overstimulation produces behavioral constraints (as has been shown in the case of 
+crowding by Stokols, 1978), and can lead to a feeling of losing control. The subject 
+then seeks to gain cognitive control over the inadequate situation by, for instance, 
+isolating himself, engaging thus in behavior described as psychological reactance 
+(Brehm, 1966). If the coping process is unsuccessful, it produces helplessness. The 
+possibility of controlling the noise reduces adaptative stress (Glass and Singer, 1972; 
+Sherrod and Downs, 1974). 
+(3) Environmental overstimulation: urban environments are characterized by a 
+multitude of information demanding the attention and specific responses of urban- 
+ites. The complexity and abundance of urban stimuli produce what has been called 
+0272~4944/88/040287 + 12 $03.00/0 
+© 1988 Academic Press Limited 
+
+288 
+G. Moser 
+'environmental overload' (Cohen, 1978). An individual's capacity to process infor- 
+mation is limited and 'overload' occurs when the urban environment exceeds this 
+limit (Korte, 1978). Subjects exposed to overstimulation tend consequently to neglect 
+or ignore peripheral stimuli (Cohen and Lezak, 1977; Broadbent, 1979) and react 
+more strongly to the dominant aspects of different situations to which they are 
+exposed. 
+In conclusion, it seems that two types of possible effects of urban environments 
+are described: on the one hand the narrowing and focusing of attention, and on the 
+other hand the cognitive appraisal of the stressful condition leading to coping 
+strategies like avoidance reactions (if control of the specific environmental situation 
+seems impossible or if it does not reach expectation). 
+The description of the environmental conditions of cities, as a whole (Milgram, 
+1970) or as specific conditions in some areas of it (Korte, 1980), always includes the 
+noise conditions. The models of the effects of urban environments, whether they 
+refer to urban stressors, to the inadequacy of urban environments, or to environ- 
+mental overload, are often based on laboratory studies concerning the effects of 
+noise on man which extensively show that social responsiveness is largely affected 
+(Bull et al., 1972; Matthews and Cannon, 1975). In spite of the fact that descriptions 
+of the urban environment are essentially based on noise, they do not clearly define 
+its importance in relation to the other urban stressors. Due to the difficulty of 
+isolating noise from the other components in a natural urban setting, researchers 
+referring, for instance, to the concept of 'environmental overload' have not tried to 
+distinguish what is specially due to noise in these effects (Korte and Kerr, 1975 and 
+Korte, 1980). 
+In order to clarify the part played by noise in the effect on social behavior of 
+urban environments with different 'overloads', we introduced an additional stress: 
+the noise of heavy roadworks in two environments, one with overload, the other 
+without overload. Since heavy roadworks also alter the immediate environment by 
+narrowing the available space, thus restricting pedestrian circulation, an intermediate 
+condition has to be taken into account: the noise-free roadwork site. This leads to 
+three conditions per type of environment. Social responsiveness in these environ- 
+mental conditions is analysed through altruistic behavior. The introduction of dif- 
+ferent kinds of helping demands enables the testing of, on one hand, the hypothesis 
+of the narrowing of attention by choosing a helping demand requiring the subjects' 
+attentiveness vs. an explicit and verbal demand, and on the other hand the hypothesis 
+about the desire to avoid an unpleasant noise situation by comparing requests 
+requiring little or much effort. Furthermore, in order to rule out possible bystander- 
+effects in overload conditions for the implicit helping behavior (Latan6 and Darley, 
+1
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 
+The choice of the different helping behaviors 
+The four helping behaviors chosen are expressed in the following parameters: (l) the 
+effort required by the request, and (2) the implicit or explicit nature of the request: a 
+situation where the subject's help is solicited or a situation where the subject is 
+brought to perceive that an intervention on his part corresponds to being helpful. 
+-- For the explicit request requiring little effort, a colleague approaches the subject 
+and asks him where the nearest subway station is. 
+-- For the explicit request requiring much effort, a colleague approaches the subject 
+and asks if he would be kind enough to answer a questionnaire lasting approxi- 
+mately 10 minutes. Solicited by these explicit requests, the subject can: (a) ignore the 
+request without entering into any verbal interaction; (b) indicate his refusal and/or 
+argue his refusal; and (c) agree to the request. 
+-- For the implicit request requiring little effort, a person (the colleague) walking in 
+front of the subject drops his keys when he takes a handkerchief out of his pocket 
+and carries on walking without noticing. Solicited by this request the subject can: 
+(a) not notice that the keys were dropped or notice the keys but ignore them; (b) 
+approach or call the person, telling him that he has lost his keys and/or showing 
+him where they are; pick up the keys, approach the person and hand them back to 
+him. 
+-- For the implicit request requiring much effort, the subject finds a plastic card 
+with the owner's photograph and signature, and the address of a hospital. This card 
+is an imitation diabetic card with a request that anyone finding it should return it 
+urgently. There is no-one in the vicinity likely to have lost the card. The helping 
+behavior in this case, once the situation has been identified, differs in so far as the 
+subject cannot approach a hypothetical owner of the lost card. The possible re- 
+sponses are then: (a) not seeing the card; noticing the card but ignoring it; (b) 
+bending down, reading it but leaving it where it is: picking up the card, reading it 
+and throwing it away; picking up the card, reading it and putting it in a clearly 
+visible place; picking up the card and taking it away; (c) taking it away and for- 
+warding it to the given address. 
+For each of the four helping demands, an observation guide was compiled in 
+order to inventory the types of behavior in terms of the possible responses. 
+Choice of sites 
+Two types of sites have been determined: one having low environmental overload, 
+and the other being overloaded. In addition, in order to introduce extra noise stress 
+to both sites, we made use of the presence of municipal roadwork sites, with intense 
+noise caused by pneumatic drills, particularly when the road surface is being dug 
+up. However, the presence of roadworks is liable in any case to cause a noticeable 
+disturbance, regardless of the additional noise. In order to analyse and isolate the 
+effects of the intense noise from those caused by the presence of the roadworks 
+themselves, we compared, on each site, the three following conditions: (1) a condition 
+without roadworks; (2) the presence of roadworks without the noise of pneumatic 
+drills ('dormant' or noise-free roadwork site); and (3) the presence of roadworks 
+together with the noise of pneumatic drills. 
+
+290 
+G. Moser 
+TABLE 1 
+Criteria for defining environmental overload 
+Without overload 
+With overload 
+Ambient noise 
+Quiet period 
+< 60 dBA 
+> 60 dBA 
+Peak period 
+> 70 dBA 
+> 70 dBA 
+Average flow of pedestrians 
+< 250/h 
+> 250/h 
+Average traffic flow 
+< 250/h 
+> 350/h 
+Number of shops* 
+< 2 
+> 2 
+* The number of shops implies those in the immediate vicinity of the site and on 
+the same side of the street as the roadworks. 
+TABLE 2 
+Measurement of noise and flow 
+Average noise 
+Flow (n/hr) 
+Shops 
+Quiet 
+Traffic 
+Traffic 
+Pedestrians 
+(n) 
+Without overload 
+rue Mademoiselle 
+54 dBA 
+76 dBA 
+180/hr 
+. 90/hr 
+2 
+rue Chabri~re 
+53 dBA 
+70 dBA 
+55/hr 
+25/hr 
+2 
+rue Ch6rioux 
+57 dBA 
+78 dBA 
+220/hr 
+220/hr 
+0 
+rue Blomet 
+50 dBA 
+72 dBA 
+180/hr 
+140/hr 
+1 
+With overload 
+rue de Vouill6 
+65 dBA 
+74 dBA 
+900/hr 
+420/hr 
+6 
+rue Beuret 
+68 dBA 
+80 dBA 
+350/hr 
+350/hr 
+3 
+rue Netter 
+56 dBA 
+73 dBA 
+530/hr 
+320/hr 
+3 
+rue Lecourbe 
+62 dBA 
+78 dBA 
+770/hr 
+260/hr 
+10 
+The presence of large roadworks and the type of population (districts of Paris 
+reputed to have business buildings as well as low- and high-standard residential 
+buildings) guided the choice of the experimental sites from a list of projected road- 
+works provided by the Highway Department at the ParisTown Hall.* All the sites 
+chosen, except one, are located within the XVth district of Paris. 
+The list of possible sites was then analysed in terms of environmental descriptions. 
+Since overall environmental criteria have to be considered with respect to general 
+standards of the urban environment, we considered the maximum and the minimum 
+on each criterion (Table 1). 
+We consequently considered a site as having a low or high overload, depending 
+on whether it presented all the criteria simultaneously, allowing it to be classified as 
+being environmentally overloaded or not. 
+The sites chosen, i.e., those where the observations were carried out, have the 
+following characteristics (Table 2). 
+Environmental overload being most often characterised by dense traffic, the level 
+of ambient noise, even in the 'quiet' period, is relatively higher than in places without 
+overload. Conversely, in the case of low overload (situation 'without overload'), 
+* Our thanks are due to M. Hattenberger, Information Officer with the Highway Department, for his 
+kind collaboration. 
+
+Urban Stress and Helping Behavior 
+291 
+there is a much greater contrast in the noise level for the two situations ('quiet' and 
+'peak'). Thus, the difference between the noise levels in the quiet and in the peak 
+periods largely determines the overloa
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). 
+Table 2). 
+Table 3 gives the results of subjects confronted by the 
+Table 4). In the case of environmental overload, the 
+Table 5 shows the behavior of subjects in the lost card 

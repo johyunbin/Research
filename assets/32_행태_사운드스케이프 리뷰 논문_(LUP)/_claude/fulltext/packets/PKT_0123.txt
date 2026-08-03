@@ -1,0 +1,254 @@
+### RECORD ID=123 | screening_verdict=INCLUDE | year=2010
+JOURNAL: APPLIED ACOUSTICS
+TITLE: Factors influencing the sound preference in urban open spaces
+DOI: 10.1016/j.apacoust.2010.02.005
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+Factors inﬂuencing the sound preference in urban open spaces
+Lei Yu, Jian Kang *
+School of Architecture, University of Shefﬁeld, Western Bank, Shefﬁeld S10 2TN, UK
+a r t i c l e
+i n f o
+Article history:
+Received 5 March 2008
+Received in revised form 12 December 2009
+Accepted 8 February 2010
+Available online 5 March 2010
+Keywords:
+Sound
+Sound preference
+Urban open space
+a b s t r a c t
+In this paper, based on a large scale survey in Europe and China as well as corresponding laboratory
+studies, the inﬂuencing factors on the sound preference evaluation, considering social, demographical,
+physical, behavioural and psychological facets, have been systematically examined based on statistical
+analyses for each of the 19 case study sites. Various sound types have been considered, including natural,
+human, mechanical and instrumental sounds. In terms of social/demographical factors, the results sug-
+gest that age and education level are two factors which universally inﬂuence the sound preference sig-
+niﬁcantly, although the inﬂuence may vary with different types of urban open spaces and sounds.
+With increasing age or education level, people tend to prefer natural sounds and are more annoyed by
+mechanical sounds in general. It has also been found that gender, occupation and residence status gen-
+erally would not inﬂuence the sound preference evaluation signiﬁcantly, although gender has a rather
+strong inﬂuence for certain sound types such as bird sounds, especially at certain case study sites. In
+terms of physical factors (season, time of day), behavioural factors (frequency of coming to the site, rea-
+son for coming to the site), and psychological factors (site preference), generally speaking, their inﬂuence
+on the sound preference evaluation is insigniﬁcant, except for limited case study sites and certain sound
+types. The inﬂuence of home sound environment, in terms of sounds heard at home, on the sound pref-
+erence has been found to be generally insigniﬁcant, except for certain sounds. It is noted that there are
+some correlations between social/demographical factors and the studied physical/behavioural/psycho-
+logical factors, which should be taken into account when considering the inﬂuence of individual factors
+on sound preference.
+ 2010 Elsevier Ltd. All rights reserved.
+1. Introduction
+With the renaissance of city centres, urban open spaces are re-
+conceptualised with the new ‘urbanity’ [1]. In order to create a
+friendly environment, rethinking the urban open spaces from an
+ecological viewpoint is important [2]. Sound quality is considered
+as a key part of ecological/sustainable development of urban open
+spaces [3,4]. Soundscape, also called acoustic landscape, is simulta-
+neously a physical and a social environment when one perceives
+the environment with his/her hearing, where a sound is a basic ele-
+ment in the ‘scape’ [5]. This ‘scape’ physically consists of the
+sounds, the energy waves, the listeners, and the listener’s social
+circumstances, dictating who gets to hear what [6–11]. Subjective
+effects of soundscape rely on the perceptions to acoustic phenom-
+ena through a cognitive process in which two concepts are used:
+sounds and noises [12]; it is essential to determine aesthetic satis-
+faction of an aural ‘scape’ [13,14]. In many soundscape-related
+studies, the general evaluation of a soundscape is usually consid-
+ered as sound level evaluation, namely subjective evaluation of
+loudness, normally for background noise [15–20], and as sound
+preference evaluation, namely the evaluation of foreground sounds
+[10–12,21,22]. As basic components, individual sounds are impor-
+tant in the whole soundscape [23]. The evaluation of the sound
+preference is therefore crucial to determine soundscape quality
+in a speciﬁc space.
+With ever increasing community noise since industrial revolu-
+tion, a large number of studies in examining noise annoyance
+and noise effects on health have been carried out [15–17]. Re-
+cently, accounting for meaningful acoustic environments, issues
+of sound identiﬁcation and its effects on aural perceptions have
+been brought forward with a cognitive or ecological approach
+[12]. However, the study on the sound preference, especially in ur-
+ban open spaces, has been rather limited, although it has been sug-
+gested that the sound preference is affected by various factors from
+both physical and social aspects [24–26]. In our previous study
+[13,14], the sound preference was investigated in some typical ur-
+ban squares, as a part of an overall soundscape research. In the
+investigation presented in this paper, however, a more systematic
+analysis has been made based on case studies in nineteen urban
+open spaces in Europe and China as well as on laboratory
+experiments.
+0003-682X/$ - see front matter  2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.apacoust.2010.02.005
+* Corresponding author. Tel.: +44 114 222 0325; fax: +44 114 2220315.
+E-mail address: j.kang@shefﬁeld.ac.uk (J. Kang).
+Applied Acoustics 71 (2010) 622–633
+Contents lists available at ScienceDirect
+Applied Acoustics
+journal homepage: www.elsevier.com/locate/apacoust
+
+Environmental psychologists pointed out that the implicit attri-
+butes of social/cultural factors and the explicit attributes of physi-
+cal surroundings are interrelated to affect people’s perception of a
+physical sound [27,28]. Therefore, the study of the sound prefer-
+ence evaluation is mainly to explore the relationships between
+the preference of a sound and the implicit and explicit attributes.
+Unlike the preferences of musical listening which focus on the
+sound itself, the judgement of everyday sound listening is to gather
+relevant information about our surrounding environment [11]. In
+this study, the inﬂuencing factors on the sound preference evalua-
+tion, considering social, demographical, physical, behavioural and
+psychological facets, have thus been systematically examined
+based on a series of large scale ﬁeld surveys. The inﬂuences of
+those fac
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Field survey
+From 2001 to 2005, a series of ﬁeld studies were carried out in
+14 European and ﬁve Chinese urban squares. The case study sites
+were selected from nine cities in six countries, namely Bahnhof-
+splatz, Germany Kassel (site 1); Florentiner, Germany Kassel (site
+2); Karaiskaki, Greece Athens (site 3); Seashore, Greece Athens
+(site 4); Kritis, Greece Thessaloniki (site 5); Makedonomahon,
+Greece Thessaloniki (site 6); IV Novembre, Italy Milan (site 7);
+Piazza Petazzi, Italy Milan (site 8); Jardin de Perolles, Switzerland
+Frobourg (site 9); Place de la Gare, Switzerland Frobourg (site
+10); All Saint’s Garden, UK Cambridge (site 11); Silver Street, UK
+Cambridge (site 12); Barkers Pool, UK Shefﬁeld (site 13); Peace
+Gardens, UK Shefﬁeld (site 14); Chang Chun Yuan Square, China
+Beijing (site 15); Xi Dan Square, China Beijing (site 16); Century
+Square, China Shanghai (site 17); Nanjing Road Century Square,
+China Shanghai (site 18); and Xu Jia Hui Park, China Shanghai (site
+19). The case study sites represented a variety of microclimatic and
+macroclimatic conditions, a diversity of urban square types, and a
+range of cultural backgrounds. The interviewees were from a range
+of social groups in terms of their age, gender, occupation, education
+level and residential status (local or non-local).
+Information gathered through the questionnaire surveys and
+observations
+included
+the
+interviewees’
+social/cultural
+back-
+ground, their activities and behaviours on site, the sounds they
+identiﬁed, and their sound preferences. The acoustic questions
+were generally introduced as a part of the investigation of the over-
+all physical environment, to avoid possible bias. Objective mea-
+surements of the sounds were also made and other physical
+conditions of the surroundings were recorded during the inter-
+views. A database was consequently established, with variables
+of social attributes including age (1: <12; 2: 12–17; 3: 18–24; 4:
+25–34; 5: 35–44; 6: 45–54; 7: 55–64; 8:>65); gender (male and fe-
+male); occupation (students, working people and others, such as
+unemployed and pensioners); education (primary, secondary and
+higher level); residential status (local and non-local); sounds often
+heard at home (bird, insect, speaking, music, and trafﬁc), prefer-
+ence of the site (like the site or do not like the site for certain rea-
+sons), frequency of coming to the site (ﬁrst time, per year, per
+month, per week, per day for EU sites; and ﬁrst time, occasionally,
+sometimes, often, daily for Chinese sites); and reason for coming to
+the site (for the equipment/services of the site, for children playing
+and private meetings, for business/meeting/break, for attending
+social events, passing by). Also included in the database were some
+physical attributes including season and time of day during the
+interviews, which were found to be related to noise evaluation in
+previous studies [34,35]. In Table 1 the above factors and their cat-
+egorisations and scales are summarised. Wherever appropriate,
+numerical scales were used in the questionnaires along with the
+categorical scales. The frequency analyses showed that normal dis-
+tribution was generally followed for the factors studied at each
+case study site.
+In Table 1 it can be seen that three categories are assigned to
+education. Education is a broad concept, referring to all the experi-
+ences in which a person could have learned, and it is an important
+part of socialisation [36]. While the comparison between people
+with different education backgrounds is rather complicated, in this
+study a comparison has simply been made between different edu-
+cation levels. Generally speaking, there are three levels, namely
+primary, secondary and higher education despite the disparity of
+adult and alternative education in which no distinct difference ex-
+ists from low to high level [36]. For occupation, in the surveys a
+range of categorisations were used. However, considerable differ-
+ences were found between different cities and countries in terms
+of the deﬁnitions and categorisations of occupations. In order to
+make comparisons within a common framework, occupations were
+then re-arranged to form three categories. In terms of the reason
+for coming to the site, similarly, the survey results were also re-ar-
+ranged from nine to ﬁve categories, given the differences between
+case study sites, and small sample sizes in certain categories and
+case study sites.
+The questions were initially developed in English, and then
+translated into other languages. Since the surveys were carried
+out over ﬁve years, in several phases, some slight modiﬁcations
+were made in the questionnaire design. For example, in the surveys
+in China the question about the sounds often heard at home was
+added, but the site preference was not asked.
+Table 1
+Factors studied and their categorisations and scales.
+Factors
+Categorisation and scale
+Season
+1 – winter; 2 – autumn; 3 – spring; 4 – summer
+Time of day
+1 – morning: 9.00 am–11.59 pm; 2 – midday: 12.00–14.59 pm; 3 – afternoon: 15.00–17.59 pm; 4 – evening: 18.00–20.59 pm; 5
+– night: 21.00 pm–8.59 am
+Frequency of coming to the site
+Scales 1–5: 1 = ﬁrst time; 5 = every day
+Reason for coming to the site
+1 – equipment/services of the site; 2 – children playing and private meetings; 3 – business/meeting/break; 4 – attending social
+events; 5 – passing by
+Age
+1: <12; 2: 12–17; 3: 18–24; 4: 25–34; 5: 35–44; 6: 45–54; 7: 55–64; 8: >65
+Gender
+1 – male; 2 – female
+Occupation
+1 – students; 2 – working people; 3 – others (e.g. unemployed and pensioners)
+Education level
+1 – primary; 2 – secondary; 3 – higher level
+Residential status
+0 – non-local; 1 – local
+Site preference
+0 – do not like the site for certain reasons; 1 – like the site
+Home sound environment
+Bird, insect, speaking, music, trafﬁc
+L. Yu, J. Kang / Applied Acoustics 71 (2010) 622–633
+623
+
+Table 2
+Noticed sounds (marked by p) in the case study sites.
+Site
+Natural sounds
+Human sounds
+Mechanical sounds
+Instru
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1 the above factors and their cat-
+Table 1 it can be seen that three categories are assigned to
+Table 1
+Table 2
+Table 3
+Table 2 the noticed sounds are classiﬁed, where the results
+Table 2 were evaluated in terms of the
+Table 3 the studied sounds in the labora-
+Table 4
+Table 5
+Table 6
+Table 7 summarises the percentage of
+Table 4), two for bird
+Table 6 it is interesting to note that the correlation coefﬁcients
+Table 7 it can be seen that compared to age, education level is
+Table 7
+Fig. 1. Mean difference between local and non-local residents in terms of the sound
+Table 8
+Table 9
+Table 7, it is found that the inﬂuence of gender on the sound
+Table 4 it is noted that the differences
+Table 7 it can be seen that the percentage of
+Table 7. Fig. 1
+Table 8 the ef-
+Table 9 the effects

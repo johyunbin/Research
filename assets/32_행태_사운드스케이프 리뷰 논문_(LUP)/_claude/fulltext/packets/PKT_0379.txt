@@ -1,0 +1,290 @@
+### RECORD ID=379 | screening_verdict=INCLUDE | year=2016
+JOURNAL: NOISE MAPPING
+TITLE: Urban park soundscape in distinct sociocultural and geographical contexts
+DOI: 10.1515/noise-2016-0016
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+© 2016 A. C. Lobo Soares and J. L. Bento Coelho, published by De Gruyter Open.
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License.
+Noise Mapp. 2016; 3:232–246
+Research Article
+Open Access
+Antonio Carlos Lobo Soares* and J. Luis Bento Coelho
+Urban park soundscape in distinct sociocultural
+and geographical contexts
+DOI 10.1515/noise-2016-0016
+Received Jun 09, 2016; accepted Aug 08, 2016
+Abstract: The importance of soundscape in urban public
+parks has galvanised researchers concerned with improv-
+ing the sound environment in cities. Existing literature re-
+veals, however, a relative paucity of studies on soundscape
+in particular sociocultural and environmental contexts,
+and on the influence of these contexts in the perception of
+the urban sound space. Within this framework, this paper
+investigates the soundscape of parks in the cities of Belém,
+Brazil, and Lisbon, Portugal. The influence of geography
+and climate as determinant of activities and behaviors, the
+emission of natural and man-made sounds that charac-
+terise the soundscape of urban parks, the way park users
+evaluate the quality of sound environments were anal-
+ysed, as were other elements that contribute for such an
+appreciation. The methodology encompassed sound mea-
+surements inside and outside the parks, analysis of the au-
+dibility of identifiable sound sources, study of local uses
+and activities through soundwalks and interviews, and as-
+sessment of responses to enquiries. The results shows that
+the soundscape of park depends on different features such
+as geography, climate, urban architecture, park infrastruc-
+ture, sound sources, and most importantly the visitors’ ex-
+pectations for the planned activities, together with their
+other sensorial responses, which proved to be different in
+distinct sociocultural and environmental contexts.
+Keywords: soundscape; environmental acoustics; urban
+parks
+*Corresponding Author: Antonio Carlos Lobo Soares: Museu
+Paraense Emílio Goeldi, MCT&I, Belém, Pará, Brazil; Insti-
+tuto Superior Técnico, University of Lisboa, Portugal; Email:
+lobo.soares@ig.com.br
+J. Luis Bento Coelho: Instituto Superior Técnico, University of Lis-
+boa, Portugal; Email: bcoelho@ist.utl.pt
+1 Introduction
+According to United Nations studies, two-thirds of the
+world population will be living in urbanised areas by
+the year 2050 [1]. Human development conditions (such
+as life expectancy, health, education), however, indicate
+that such urbanisation will happen in an unbalanced way
+across different continents, countries and their adminis-
+trative divisions, with advances and setbacks in human
+life expectancy and quality. Noise and its impact on hu-
+man health and well-being [2–6] is one of the inevitable
+consequences of densification of human agglomeration
+and activities. Exposure of people to excessive noise lev-
+els is then a challenge, becoming a growing environmental
+concern.
+In the midst of excessive urban noise, the sound di-
+versity that identifies the city character and distinguishes
+one city from another is being diluted due to homogeniza-
+tion of technology and of social behaviors. To preserve the
+sounds that characterise urban environments invigorates
+the memory, the heritage, the cultural values; improves
+the quality of life of citizens; draws visitors; strength-
+ens the economy; increases the value of real estate; and
+reduces costs with health when restorative spaces are
+made available. The soundscape of improved sound qual-
+ity places and tranquil areas such as urban parks, gardens,
+and similar spaces, can benefit mental health and prevent
+the degradation of people’s functional health [7]. These ar-
+eas facilitate walks, childplay, and other leisure activities
+that increase social interaction, emotions, and motivate
+life.
+In general, classical policies of noise reduction and
+control in urban environments have failed to achieve the
+desired goals of limiting noise or avoiding degradation
+of the sound quality of public spaces, either by finan-
+cial, technical, or functional constraints, and have also
+neglected the subjective side of human perception. Urban
+public parks are privileged areas in a city due to their envi-
+ronmental quality, particularly their sound, and the peace-
+fulness they offer to the people who seek it. An effort of
+the scientific community to study the soundscape of urban
+
+Urban park soundscape in distinct sociocultural...
+|
+233
+public parks, due to their importance for leisure and recov-
+ery of individuals has been observed recently [8–12].
+Soundscape is understood as the acoustic environ-
+ment of a place, perceived or experienced by people in its
+context, which results from the action and interaction of
+natural and/or human factors [13–15]. The sound contents
+and the geographical environment are important, but so
+are the objective functions of the place, the human activi-
+ties, and the user’s expectations that contribute to the lis-
+tener’s appreciation, which becomes important in sound-
+scape management [16, 17].
+Among the gaps in theoretical and empirical investi-
+gation found in the literature are studies of soundscape
+in distinct cultural contexts, and the relationship between
+objective and subjective components in the analysis of
+urban sound environment [13, 14, 18, 19] are part of the
+methodological limitations.
+2 Objectives
+Within this framework, a study was set up to investigate
+the soundscape in urban public parks in Lisbon, Portu-
+gal, and in cities of Southamerica, namely Brazil, in an
+attempt to understand and characterize the park sound-
+scape in their quite distinctive sociocultural and environ-
+mental contexts. Would the different contexts seriously
+impact on the local soundscape?
+The results presented herein refer to the cities of Lis-
+bon and of Belém, and are part of the ongoing research.
+3 Methods and Results
+Belém is a densely urbanised city with one and a half
+million inhabitants, located in the Amazonian region in
+northern Br
+
+--- METHODS/RESULTS EXCERPT ---
+Methods and Results
+Belém is a densely urbanised city with one and a half
+million inhabitants, located in the Amazonian region in
+northern Brazil, near the Equatorial line. Climate is hot
+and humid all year round, with an average monthly rain-
+fall of 60 mm. Lisbon, on the other hand, has a popu-
+lation of about one million people and is located in the
+westernmost portion of the European continent. It enjoys
+around 260 sunny days in a year, and its climate is tem-
+perate oceanic. Figure 1 shows the geographical location
+of the two cities.
+In Belém, the Rodrigues Alves Botanical Garden
+(BRA), the Zoobotanical Garden of the Emílio Goeldi Mu-
+seum (PZB), and the Batista Campos Square (PBC) were
+studied. In Lisbon, the Estrela Garden (JES), the Calouste
+Gulbenkian Foundation Garden (JFG), and the Príncipe
+Real Garden (JPR) were considered. These sites were cho-
+(a)
+ 
+(b)
+Figure 1: Relative location of the cities of Belém, Brazil (a), and Lis-
+bon, Portugal (b).
+sen following preliminary studies [20] for their importance
+in the city, in the sense that they integrate urban cultural
+programs and are well visited. They have different fea-
+tures, uses, and locations within the urban area, as Fig-
+ures 2 and 3 show. Their sizes span from a typical city gar-
+den (such as the Principe Real Garden with 1,15 ha) to an
+urban tissue park (such as the Rodrigues Alves Botanical
+Garden with 14 ha) thus covering most such areas used by
+citizens as city gardens or parks.
+Various procedures were followed for capture and
+analysis of local data, both in situ and at the laboratory.
+Sound measurements and recordings were carried out;
+soundwalks were performed [13, 21]; recorded sound sig-
+nals were analysed and processed at the laboratory to de-
+termine thresholds of audibility [22, 23] of the different au-
+dible sounds; and opinion surveys were used by means of
+questionnaires directed to users [21, 24, 25].
+Field work identified sound sources and elements of
+identity, infrastructure and safety; signs of transgression
+and negligence; construction works; operating machin-
+ery and equipment; as well as flora and fauna present in
+the parks. Soundwalks, allowed identifying and locating
+in each park the different sound contributions: road traf-
+fic, other electromechanical sounds (ventilation, construc-
+tion, and recreation), human sounds (voices, childplay,
+yelling), animal sounds (mostly birds), and other natural
+sounds (water, wind through leaves, rain).
+Points were selected next to sound sources audibly
+identified as relevant where sound pressure levels, LAeq,
+were measured in 1/3-octave bands. Although in general
+ISO 1996 [26] measurement procedures were followed,
+only short time values (signal samples of about 7’) were
+considered since long term averages are not applicable
+here, except for the road traffic sound component. The aim
+was to quantify at reference positions typical sound pres-
+sure levels of people talking, of children playing, of birds
+
+234
+|
+A. C. Lobo Soares and J. L. Bento Coelho
+Belém 
+BRA 14ha 
+PZB 5,4ha 
+PBC 4,5ha 
+ 
+ 
+ 
+BRA water fountain 
+PZB exhibition hall 
+PBC main gazebo 
+Figure 2: Urban parks in Belém.
+and other animals singing, of water fountains, as well as
+of road traffic or of other mechanical sources.
+Tables 1 and 2 indicate the location of the sound
+sources and the recorded LAeq values.
+For each park, an acoustic model was built based on
+the LAeq measured values and on other data such as vehi-
+cle counts and characteristics of surrounding roads, build-
+ing heights, and location of sound sources, so as to allow
+for the calculation of the spatial distribution of sound lev-
+els using the NMPB method [27] for road traffic and the ISO
+9613-2 method [28] for point sources, to draw sound maps.
+The sound maps for the different parks are shown in
+Figure 4. The maps represent sound pressure levels (LAeq)
+in 5 dB intervals, from below 45 dB up to above 75 dB, with
+different colors. The color code is also shown in the figure.
+These are not average values. The maps represent typical
+sound level distributions when all sound sources of rel-
+evance (audibly identified) are present. Of course, these
+maps vary during the day and along the year. But so do
+visits to the park. In a typical day (when more visitors are
+present), these are the expected sound maps.
+Sound recordings with samples of at least 30 sec
+were made using a digital 24-bit, 96 KHz, double-channel
+recorder to determine audibility thresholds of the different
+sound sources in the parks, based on human perception,
+language and sound levels. In Portuguese parks, record-
+ings were made along their respective visiting circuits;
+in the Brazilian parks, with their undefined visiting cir-
+cuits, recordings were performed near the most expressive
+sound sources.
+The sound recordings were analysed in the labora-
+tory (anechoic chamber) as per the experimental setup
+shown in Figure 5. Following calibration of the system,
+white noise was introduced progressively and simultane-
+ously with the sound under study until the latter was com-
+pletely masked off, thus reaching the audibility threshold;
+
+Urban park soundscape in distinct sociocultural...
+|
+235
+Lisbon 
+JES - 4,6 ha. 
+JFG - 7,5 ha. 
+JPR - 1,15 ha. 
+ 
+ 
+ 
+ 
+JES and Basílica in the 
+background 
+JFG main building 
+JPR white cedar 
+Figure 3: Urban parks in Lisbon.
+at this point, the masking level Lmask corresponding to the
+perceived reference sound level of the sound source, was
+recorded. The values found by following the procedure for
+different points allowed the building of the corresponding
+point sound source radiation model and the drawing of the
+sound audibility curves. This procedure was followed for
+all sound sources of interest in each park.
+Figures 6 and 7 show the audibility maps of the main
+sound sources in the parks. The color code is that shown in
+Figure 4. Again, these maps do not represent long term av-
+erage values but typical sound distributions of the specific
+sound sources when
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows the geographical location
+Figure 1: Relative location of the cities of Belém, Brazil (a), and Lis-
+Figure 2: Urban parks in Belém.
+Figure 4. The maps represent sound pressure levels (LAeq)
+Figure 5. Following calibration of the system,
+Figure 3: Urban parks in Lisbon.
+Figure 4. Again, these maps do not represent long term av-
+Figure 4: Sound maps of parks in Belém and in Lisbon.
+Figure 5: Experimental set-up diagram for laboratory sound signal
+Figure 8 reveals.
+Table 1: Point / Sound sources in Belém parks.
+Table 2: Point / Sound sources in Lisbon parks.
+Figure 6: Audibility maps of main sound sources in Belém parks.
+Figure 7: Audibility maps of main sound sources in Lisbon parks.
+Figure 9,
+Table 3. Although some com-
+Table 3: Summary of responses on the perception of sound in parks in Belém and Lisbon.
+Figure 8: Evaluation of sound environment by park visitors.
+Figure 9: Evaluation of peacefulness in Brazilian (left column) and Portuguese (right column) parks by their visitors.
+Table 4: Leisure activities in parks in Belém and Lisbon.
+Figure 4, is relevant to the sound perceived in-
+Table 3).
+Table 4. Be-

@@ -1,0 +1,168 @@
+### RECORD ID=665 | screening_verdict=INCLUDE | year=2020
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: The effects of sounds and food odour on crowd behaviours in urban public open spaces
+DOI: 10.1016/j.buildenv.2020.107104
+PAGES: 23
+
+--- HEAD (title/abstract/intro) ---
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+The effects of sounds and food odour on crowd behaviours in urban public open
+spaces
+Meihui BAa*, Jian KANGb*, Zhongzhe LIa
+aKey Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and
+Technology, Ministry of Industry and Information Technology, School of Architecture, Harbin Institute of
+Technology, Harbin, China.
+bUCL Institute for Environmental Design and Engineering, University College London (UCL), London,
+United Kingdom.
+*Corresponding author: Meihui BA, bameihui@hotmail.com, School of Architecture, Harbin Institute of
+Technology, NO.66 Xi Da Zhi Street, Harbin, China; Jian KANG, J.kang@ucl.ac.uk, UCL Institute for
+Environmental Design and Engineering, The Bartlett, University College London (UCL), London WC1H
+0NN, United Kingdom. Tel: +44 (0)20 3108 7338.
+Abstract: Few studies have investigated the integrated effects of sound and odour on people with the purpose of
+improving the use of urban spaces. Therefore, this study aimed to provide further insight into such effects from the
+perspective of crowd behaviour. A covert behavioural observation experiment was conducted in a typical urban
+commercial pedestrian street, using the smell of a bakery as the odour source, while reproducing typical urban sound
+sources of music and fan sound (along with a condition where no sound was played) with and without odour. The present
+results show that for crowd path, in the no-odour condition, playing music significantly attracted the crowd, while fan
+sound tended to make the crowd path farther away from the sensory sources. With the bakery odour, individuals
+approached the sensory sources closer when playing the sound, whether it was music or fan sound. With regard to crowd
+speed, music significantly reduced it and the greater the proximity to the sound source, the slower the crowd speed. Fan
+sound increased the crowd speed, which was significantly higher in the presence rather than absence of bakery odour,
+and the average speed decreased gradually as proximity to the sensory sources increased. Finally, with regard to the
+duration time of the crowd, it increased with music and decreased with fan sound. The bakery odour also significantly
+increased the duration time. However, the interaction effect between sound and odour on crowd speed and duration time
+was not significant.
+Keywords: sounds; food odour; crowd behaviour; urban public open spaces
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+1 Introduction
+Urban public open spaces are fundamental to the existence, operation, and development of a city [1]. Different
+sensory stimuli constantly affect people’s way of life. Therefore, increasing attention has been paid to the sensory design
+of urban public open spaces. However, particularly prominent at present is the problem of overemphasizing visual
+perception while overlooking other sensory aspects, which leads to the fulfilment of appearance requirements and
+neglect of users’ other sensory and psychological needs [2].
+Among the five senses, vision, audition, and olfaction have features that are diametric to those of taste and touch in
+experiencing the outside world. The former three often involve unconscious behaviour and cannot always be avoided at
+the beginning of an experience; the latter two are more dependent on people’s subjective will [3]. Taste and touch are
+somewhat limited in their ability to grasp the external environment, whereas vision, audition, and olfaction are important
+for perceiving the environment [4]; further, the use of multiple senses allows one to receive more profound and
+comprehensive information [5]. A large number of previous studies on multi-senses have mainly focused on audio-visual
+[6-11] and visual-olfactory interactions [12-16]; however, research on the interaction between audition and olfaction is
+limited. For example, Jiang et al. examined the influence of rose odour and visual factors on the perception of traffic
+noise [17], and Ba and Kang studied the interaction between sound and odour in an urban environment both in a
+laboratory setting and in the field [18,19]. These experiments confirm that different combinations of auditory and
+olfactory factors can influence individuals’ psychological parameters and thereby affect their subjective evaluation.
+Changes in the sensory environment affect individuals psychologically, and changes in psychological perception
+inevitably result in behavioural changes. Behaviour constitutes a key component of the sensory environment and plays
+an important role in assessing it. However, because of the lack of research on crowd behaviour in urban sensory
+environments, the design of public open spaces is unsatisfactory [20]. Therefore, it is necessary to study crowd behaviour
+in urban sensory environments.
+According to the object of study, behaviours can be divided into individual and crowd behaviours. Individual
+behaviour generally refers to a person’s attitude or performance under specific circumstances, which is largely random
+under the influence of the environment [21]. Crowd behaviour refers to a crowd’s attitude or performance, which can be
+composed of certain regularities under the influence of the environment [22,23]. Therefore, crowd behaviour, rather than
+individual behaviour, is often studied in research on urban public open spaces [24,25]. Depending on its characteristics,
+crowd behaviour also includes movement and action [26]. Movement behaviour is categorized as movement or
+non-movement. The path and speed reflect the change rules of movement while duration time reflects the change rules of
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Buildin
+
+--- METHODS/RESULTS EXCERPT ---
+Materials and methods
+2.1 Case study site and odour source selection
+In real-life situations, sound sources are abundant in urban public open spaces, and a situation involving a single
+sound source or silence almost never exists. In comparison, an odour source is easier to control. Moreover, in practice, it
+is difficult to find comparable natural conditions in which the sound sources are the same but the odour sources are
+different or vice versa. Thus, the experimental site in the field was selected such that the presence or absence of the
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+odour source could be controlled. Different sound sources were played artificially through a loudspeaker to allow
+variable control of the sensory factors. Considering the availability of food odour and the actual situation at the site that
+met the conditions, the smell of a bakery was selected as the odour variable. Research has showed that people’s
+preference for bakery smell is relatively consistent and ranges from moderate to high [18].
+Fig. 1 The study area and scope
+The bakery was located in Nansandao Street, Daowai District in the city of Harbin, China. Nansandao Street is a
+commercial pedestrian street, located in a historic district, where most pedestrians come to stroll without purpose. A pilot
+investigation showed that the proportion of men and women in the area was almost balanced; further, because (unlike in
+parks and squares) there are no sitting areas or recreational facilities, Nansandao Street attracts more young and
+middle-aged people compared to senior citizens and children. The pilot investigation also revealed that bread fresh out of
+the bakery’s oven had a strong aroma with a wide distribution area. Baking consecutive batches released the aroma
+evenly. Subsequently, the odour gradually faded as the quantity of bread decreased with consumer purchases, and when
+there was little bread left, the odour could not be perceived. After consulting with the shopkeeper, he agreed to bake
+bread at a fixed time and play sound through a loudspeaker as well as inform the researcher in advance of the
+bread-making time. The study area is shown in Fig. 1—the bakery was located in the middle of the longer side of the
+area. When the smell of baked bread was present, it would cover the entire area; in its absence, the odour could not be
+perceived in the area.
+2.2 Sound source selection
+In this study, sounds played through a loudspeaker were used as the sound sources; therefore, artificial sounds were
+chosen, and their impact on people involved both positive and negative aspects. Typical sound sources of fan and music
+sounds in urban public open spaces were chosen.
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+Cooling fans control the ambient temperature of equipment—from construction machinery, vehicle engines, and air
+conditioners to electronic equipment used in daily life—and are necessary for their normal operation; thus, the sound
+produced by cooling fans is a typical sound source in daily life [34]. The fan sounds were selected before conducting the
+experiment. Fan sounds of several urban environments were selected, 30 individuals were randomly selected to evaluate
+the degree of annoyance of these sounds (on a 7-point scale ranging from ‘not annoying’ to ‘annoying’). The fan sound
+with the highest score (more than 6) was chosen as the sound source for this experiment.
+Urban public open spaces should induce a feeling of relaxation and comfort, and therefore, light music was selected.
+The speed of the music (beats per minutes or bpm) is an important characteristic. Studies have shown that 40–70 bpm is
+defined as slow speed; 85–110 bpm, medium speed; and over 120 bpm, fast speed [35]. Furthermore, music below 80
+bpm was associated with negative emotions and a decrease in heart rate, whereas music above 120 bpm was associated
+with positive emotions and increased heart and respiratory rates [36]. Therefore, the chosen music should not be too fast
+or slow, that is, it should have a medium speed. The chosen track, Annie’s Wonderland by Bandari, has a speed of 100.99
+bpm and a high ranking online in terms of listening pleasure.
+Fig. 2 Frequency spectrums of the experimental sounds
+Therefore, the sound variables in this study were divided across three conditions: without played sound (natural
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+condition), with fan sound, and with music. For playing sounds, the location of the loudspeaker should be taken into
+account: sound could be heard anywhere in the study area and the distance between the front of the loudspeaker and the
+wall or any other reflectors was at least 1.5 m [37]. The loudspeaker was hidden in the study area to avoid any visual
+impact [27]. The frequency spectrums of the played sounds in the experiment are shown in Fig. 2. The fan sound had
+more low-frequency components and the variability in time was not obvious; on the other hand, the music had more
+intermediate-frequency components and the variability in time was high.
+2.3 Objective measurement of the sensory environment
+Before conducting the experiment, the study area was meshed for later measurement and analysis, with each grid
+measuring 3 m × 3 m. In this study, changes in the odour variable were divided into those in the presence or absence of
+sound. Odour is an important characteristic of air quality and its concentration measurement is very complex. Therefore,
+odour concentration was measured through pedestrians’ subjective perception. Before the experiment, a questionnaire
+survey of odour intensity was conducted in the study a
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1 The study area and scope
+Fig. 1—the bakery was located in the middle of the longer side of the
+Fig. 2 Frequency spectrums of the experimental sounds
+Fig. 2. The fan sound had
+Fig. 3a.
+Fig. 3 Distribution of subjective intensity of odour and SPL in the case site (O = odour source, S = sound source): a) with
+Fig. 3b, 3c, and 3d. During the experiment, the crowd density was less than
+Table 1 shows the numbers of samples in each condition.
+Table 1 Number of behavioural observation samples across conditions
+Fig. 4. Taking the point
+Fig. 4 Schematic diagram of the grid corresponding to the coordinates
+Fig. 4). Tg is the total time of a path in a grid and its formula is: Tg
+Fig. 5. When there was no bakery odour,
+Fig. 5 Distribution of crowd paths in the case site under the combination of bakery odour and sounds (S = sound source,
+Fig. 6. The blue block on the left represents the
+Fig. 6 Scope of crowd paths in the case site under the combination of bakery odour and sounds (S = sound source, O =
+Table 2, demonstrate that there were significant differences in the ordinate
+Table 2 Repeated measurement ANOVA of the ordinate value y at the intersections of the paths and longitudinal lines of
+Fig. 7 shows the estimated marginal mean of the ordinate value y under the presence or absence of odour, type of
+Fig. 7a shows the estimated marginal mean of the ordinate value y only under the influence of sound. The values
+Fig. 7b shows the estimated marginal mean value of the
+Fig. 7c shows the
+Fig. 7 Estimated marginal mean value of the ordinate value y at the intersections of the paths and longitudinal lines of
+Table 3. The effects of sound and odour on

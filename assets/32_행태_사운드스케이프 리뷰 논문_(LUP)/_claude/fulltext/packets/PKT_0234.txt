@@ -1,0 +1,314 @@
+### RECORD ID=234 | screening_verdict=BORDERLINE | year=2013
+JOURNAL: ARCHIVES OF ACOUSTICS
+TITLE: Urban Noise Annoyance Between 2001 and 2013-Study in a Romanian City
+DOI: 10.2478/aoa-2013-0024
+PAGES: 6
+
+--- HEAD (title/abstract/intro) ---
+ARCHIVES OF ACOUSTICS
+Vol. 38, No. 2, pp. 205–210 (2013)
+Copyright c
+⃝2013 by PAN – IPPT
+DOI: 10.2478/aoa-2013-0024
+Urban Noise Annoyance Between 2001 and 2013 – Study in a Romanian City
+Diana Ioana POPESCU, Iuliana Fabiola MOHOLEA, Radu Mircea MORARIU-GLIGOR
+Technical University of Cluj-Napoca, Faculty of Machine Building
+B-dul Muncii 103-105, 400641 Cluj-Napoca, Romania; e-mail: Diana.Popescu@mep.utcluj.ro
+(received March 17, 2013; accepted April 24, 2013)
+The paper presents results of three socio-acoustic surveys conducted in an interval of twelve years,
+between 2001 and 2013, in a large Romanian city, Cluj-Napoca. The purpose of the surveys was to assess
+the awareness of residents on urban noise and the extent to which the noise environment aﬀects their
+everyday life, behavior and health. The surveys were conducted in 2001, 2009 and 2013. The questionnaire
+used in the ﬁrst survey had 16 questions and it was veriﬁed prior to study through a pilot survey, being
+corrected and improved. For the second and the third study, the questionnaire was enriched with eight
+more questions, regarding essentially the description of the residential area, criteria for its selection and
+also awareness about the noise map of the city. The analysis of responses deﬁnes the main characteristics
+of the local pattern of annoyance and reaction of the urban population to the environmental noise.
+Keywords: noise annoyance, urban noise, socio-acoustic survey.
+1. Introduction
+Most studies related to the noise annoyance in ur-
+ban environment use two assessment methods, usu-
+ally combined, depending on the speciﬁc situation and
+needs. The ﬁrst method describes the existing noise
+situation by means of noise exposure indicators pro-
+vided by a noise map of the area, with the possibility
+to model other diﬀerent noise scenarios, characterizing
+the development or re-organization of the urban area
+(Sommerhoff et al., 2004; Lee et al., 2008). Noise
+maps are developed within specialized software, result-
+ing in a computer visual model of the noise situation,
+with a precision which depends on the volume and ac-
+curacy of input numerical and graphical data. A map
+must be validated and corrected based on noise mea-
+surements values. With the entry into force of the EU
+Noise Directive, noise mapping methods were merged
+and uniﬁed, action which led to the obtaining of com-
+parable results.
+The second method aims to ﬁnd out the popula-
+tion response to urban noise through a sociological
+study (Klæboe et al., 2004). This approach is im-
+portant for the assessment of exposure-eﬀect relation-
+ship, described by quantiﬁable indicators of the pres-
+ence and intensity of certain features. It is consider-
+ing, in this case, the evaluation and interpretation of
+the subjective side of the issue, by taking into account
+both acoustic and non-acoustic factors, in their inter-
+action, when characterizing the short-term and long–
+term eﬀects of noise pollution on the population in
+diﬀerent urban areas. Non-acoustic factors inﬂuencing
+noise nuisance are numerous and can be grouped into
+three main categories: situational factors (induced by
+the location of noise source and urban context), indi-
+vidual factors (socio-demographic and attitudinal, rel-
+atively stable over time but variable from person to
+person) and social factors (relevant in the context of
+social groups: lifestyle, perception of noise source and
+its time evolution, attitude of responsible persons and
+others). The purpose is to ﬁnd what people think and
+feel about the noise in their residential area, how an-
+noyed they are, how sensitive to noise, how informed
+and warned about its negative eﬀect on health.
+There are studies which combine measurement and
+survey methodology (Skinner, Grimwood, 2005;
+Lam et al., 2009) and others developing new meth-
+ods, models and theories for predicting eﬀects of envi-
+ronmental noise on people and deﬁning exposure-eﬀect
+relationship (Batko, Pawlik, 2012; Kryter, 2009;
+Miedema, Oudshoorn, 2001; Maris et al., 2007)
+or for improvement the urban acoustic environment
+(Kompala, 2011)
+This paper presents parallel results of two socio-
+acoustic surveys undertaken in 2001 and 2009 in the
+city of Cluj-Napoca, Romania and partial results of
+
+206
+Archives of Acoustics – Volume 38, Number 2, 2013
+a third survey which is in progress during the year
+2013. They are related to studies which assess the noise
+environment of the city, in the context of noise map-
+ping actions.
+2. The area of study and the general
+noise context
+The city of Cluj-Napoca is located in the North-
+Western region of Romania, being the capital of Cluj
+County and an important cultural, scientiﬁc and edu-
+cational centre. According to a statistical study made
+in August 2000, the stable population of the city con-
+sisted of 316001 inhabitants. An estimation from July
+2007 indicated 310243 inhabitants with registered res-
+idence in Cluj-Napoca and also more that 100000 stu-
+dents and 50000 non-resident employers. Population
+Census from 2011 showed that the stable population
+has decreased to 309136 inhabitants.
+For the study in 2001, a distribution of population
+in ten districts was considered. In later years, besides
+the existing districts have been developed new ones,
+mainly due to enlargement of the residential area to-
+wards the limits of the city. Some of the new districts
+were formed by reorganizing existing ones. Thus the
+studies in 2009 and 2013 considered the population
+grouped in 19 districts. Ten of them are new districts,
+which concentrate in present about 28% of the city
+population.
+Cluj-Napoca City is the third – in terms of num-
+ber of inhabitants – of the nine Romanian cities that
+have made the noise map and action plans for re-
+ducing ambient noise, as required in the Directive
+2002/49/EC and equivalent Romanian legislation GD
+nr. 321/14.04.2005. The noise mapping action was
+started in the second half of 2006, being coordinated
+by the local public administration. Speciﬁc informa
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 2001
+The purpose of the sociological investigation was
+to know the opinion of the inhabitants on the noise
+levels and sources of noise in Cluj-Napoca city, includ-
+ing the situation in districts, and to ﬁnd if people have
+taken actions to reduce noise and to improve the acous-
+tic comfort of their dwellings. Also, we aimed to ﬁnd
+out the extent to which the environmental noise af-
+fects their daily activities, behavior and health. The
+questionnaire was developed after a preliminary study
+of the existing situation in the city, which included
+the collection of related data necessary to establish
+the sample volume and composition. A pilot study was
+conducted for ﬁeld-testing and reﬁnement of the ques-
+tionnaire.
+The number of questions was set at 16, so that the
+questionnaire was not boring and covered all stated
+subjects. Since the questionnaire was one of opinion,
+following aspects were taken into account: the ques-
+tionnaire contained a series of open questions, to let
+the respondent to formulate his/her own opinion on
+the issue; the respondent had the possibility to moti-
+vate a speciﬁc answer; pre-coded questions were asked
+in order to measure the intensity of subjects’ opinion.
+Among other items, the questionnaire asked about cur-
+rent occupation, ﬁeld of activity, education, age, resi-
+dential district. A number of 238 questionnaires were
+selected form the returned number and their answers
+were structured and analyzed in a database program
+and then compared with objective data collected on
+the preliminary documentation (Popescu, Morariu-
+Gligor, 2004).
+3.2. Methodology 2009
+The aim of the study was to determine the current
+reactions and response of residents related to the ur-
+ban noise and changes in attitudes compared to 2001.
+An improved form of the questionnaire was developed,
+adapted to the intended purpose of establish references
+for: level of knowledge and awareness of environmen-
+tal noise in urban areas, by population; information
+of citizens about the noise mapping action and its re-
+sults; main negative eﬀects and reaction of inhabitants
+to the noise pollution, speciﬁc forms of behavioral; hi-
+erarchy of diﬀerent sources of urban noise, depending
+on the level of perception and disturbance of residents;
+involving of citizens in authorities eﬀort to improve ur-
+ban acoustic environment; citizens options on the most
+eﬀective way of information that should be used by au-
+thorities.
+The survey questionnaire contained 24 questions,
+being dimensioned to require no more that 20 minute
+attention and speciﬁcally design to reﬂect the three
+major classes of non-acoustic factors that inﬂuence
+noise annoyance: situation, individual and social fac-
+tors. Questions were grouped in four categories: res-
+idential zone description in relation with traﬃc and
+environmental noise; annoyance due to diﬀerent noise
+sources and eﬀects on peoples’ habit; information,
+trends and attitudes towards environmental noise;
+identiﬁcation of respondent as occupation, sex, age and
+education.
+The questionnaire was distributed in 19 districts
+of the city, during May-September 2009. A number of
+325 questionnaires were processed, from 348 returned,
+
+D.I. Popescu, I.F. Moholea, R.M. Morariu-Gligor – Urban Noise Annoyance Between 2001 and 2013. . .
+207
+after elimination of those containing improbable or in-
+consistent answers (Popescu, Moholea, 2010).
+3.3. Methodology 2013
+The same questionnaire was used for the study in
+2013, which has started in February. Only partial re-
+sults are available, from the processing of 135 returned
+valid questionnaires, grouped according to age, educa-
+tion and occupational state, as presented in Table 1.
+Table 1. Responses by age, education and occupational
+state (2001; 2009; 2013 – partial).
+Year of the survey
+2001
+2009
+2013
+Age
+18–30
+98
+122
+33
+31–50
+113
+128
+72
+51–70
+21
+70
+25
+over 70
+6
+5
+5
+Education
+≤10 classes
+5
+6
+5
+High school
+132
+114
+45
+University
+101
+205
+85
+Occupational
+state
+Employed
+207
+222
+94
+Retired
+12
+42
+19
+Student
+10
+24
+11
+Unemployed
+4
+6
+9
+Other situation
+5
+31
+2
+4. Results and discussions
+Results obtained from the two sociological studies
+in 2001 and 2009 are presented as follows in combined
+charts. They have been released as percentage, taking
+as basis the total number of valid responses – Fig. 1 to
+Fig. 6. Survey results form 2013 were not included in
+these charts, as they are currently only partial results,
+Fig. 1. Proportion of responses describing the noise level in the residential area (2001, 2009).
+which represents about a quarter of the estimated to-
+tal responses. Only the questions common to the both
+questionnaires were suited for a parallel presentation of
+results. Because there were some changes in the word-
+ing of the noise annoyance questions and quantiﬁca-
+tion between the surveys, there were some situations
+in which it was necessary to re-group the answers on
+common criterions.
+In describing the noise level of their residential
+area (Fig. 1), subjects of the study in 2001 and 2009
+had similar opinion. A lot of them (41.6%, respec-
+tively 37.2%) characterized their noise environment as
+“Medium”, on a ﬁve point answer scale and the other
+answers are equilibrated on the left and right side of
+the scale. Responses recorded in 2013 indicate a de-
+crease in the number of people who are disturbed by
+noise in their residential area: 6.7% “Very low”, 32.6%
+“Low”, 38.5% “Medium”, 19.3% “High”, 2.9% “Very
+high”.
+At the question: “Indicate the main source of noise
+in the vicinity of your home” the percentage of an-
+swers: “Light vehicles” increased from 35.4% in 2001
+to 42.0% in 2009 and 49.8% in 2013 (Fig. 2). The sit-
+uation is explainable, considering the sharp increase
+of the road traﬃc in the last twelve years. Decreased
+percentage of responses: “Heavy vehicles” may be due
+to the fact that some mandatory routes were estab-
+lished for heavy traﬃc through the city in the recent
+years, in the absence of a ring road surrounding the
+city. To note that a si
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1.
+Table 1. Responses by age, education and occupational
+Fig. 1 to
+Fig. 6. Survey results form 2013 were not included in
+Fig. 1. Proportion of responses describing the noise level in the residential area (2001, 2009).
+Fig. 1), subjects of the study in 2001 and 2009
+Fig. 2). The sit-
+Fig. 3). In the ﬁrst study 62.2% of respondents de-
+Fig. 2. Proportion of responses pointing the main source of noise in home vicinity.
+Fig. 3. Proportion of responses describing the annoyance due to the environmental noise.
+Figure 4 presents responses from
+Table 2. Fatigue and nervous-
+Fig. 5). Subjects could choose more
+Fig. 4. Proportion of responses, sorted by age of the subjects, pointing the time of the day most aﬀected
+Fig. 5. Proportion of responses describing harmful eﬀects of the environmental noise.
+Table 2. Harmful eﬀects of the environmental noise
+Figure 6 shows
+Fig. 3) and 35.5% in 2013.
+Fig. 6. Proportion of responses related to actions for reduction of annoying noise.

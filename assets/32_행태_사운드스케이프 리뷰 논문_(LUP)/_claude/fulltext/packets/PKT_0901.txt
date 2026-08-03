@@ -1,0 +1,287 @@
+### RECORD ID=901 | screening_verdict=INCLUDE | year=2023
+JOURNAL: ECOLOGICAL INDICATORS
+TITLE: Can acoustic indices reflect the characteristics of public recreational behavioral in urban green spaces?
+DOI: 10.1016/j.ecolind.2023.110729
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Ecological Indicators 154 (2023) 110729
+Available online 8 August 2023
+1470-160X/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Can acoustic indices reflect the characteristics of public recreational 
+behavioral in urban green spaces? 
+Weicong Fu a,b, Chengyu Ran a, Jingkai Huang a, Zhu Chen c, Shiyuan Fan a, Wenqiang Fang a, 
+Miaojun Ye a, Jiaying Dong d, Xiong Yao e, Ziru Chen a,e,* 
+a College of Landscape Architecture and Art, Fujian Agriculture and Forestry University, Fuzhou 350002, China 
+b Collaborative for Advanced Landscape Planning, The University of British Columbia, Vancouver V6T 1Z4, BC, Canada 
+c Institute of Environmental Planning, Leibniz University Hannover, Herrenh¨auser Str. 2, 30419 Hanover, Germany 
+d College of Architecture, Arts and Humanities, Clemson University, Clemson 29630, SC, United States 
+e College of Architecture and Urban Planning, Fujian University of Technology, Fuzhou 350118, China 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape 
+Acoustic index 
+Recreational behavior 
+Spatial and temporal variation 
+A B S T R A C T 
+Acoustic indicators serve as an effective means of assessing the quality of urban green space soundscape. The 
+informative, easy accessibility and non-invasive nature of acoustic monitoring renders it an excellent tool for 
+studying the interaction among the natural environment, wildlife, and human activities. Urban green space is 
+essential in the urban ecosystem and constitutes the primary location for public outdoor recreation. However, the 
+existing methods for monitoring public recreational behavior, such as on-site observation, drone observation, or 
+questionnaire interviews, require significant labor or professional expertise. All of these methods have their 
+limitations, so there is still much to be researched in the acoustic indices and recreational behavior. As a result, 
+the potential for using acoustic characteristics to monitor public recreational behavior remains underexplored. 
+To address this gap, this study investigates the potential of 5 widely used acoustic indices and acoustic intensity 
+for monitoring public recreational behavior: Acoustic Complexity Index (ACI), Acoustic Diversity Index (ADI), 
+Acoustic Richness (AR), Normalized Difference Soundscape Index (NDSI), and Power Spectral Density (PSD). 
+Data were collected from 35 monitoring points in urban green spaces during the opening hours (6:00–22:00) to 
+analyze the relationship between these indices and public recreational behavior. The findings indicate that (1) 
+ACI, ADI, and AR daily exhibited multi-peak daily variation characteristics similar to those of public recreational 
+behavior, displaying a “W” shape, while NDSI exhibits opposite variation characteristics; (2) the spatial variation 
+characteristics of ACI, ADI, and AR change in response to the green space, and these changes align with public 
+recreational behavior; (3) the correlation analysis and generalized linear mixed model construction further 
+demonstrate that acoustic indices are effective in capturing the dynamic activities of visitor behavior; and (4) 
+PSD undergoes significant temporal dynamic changes along the frequency gradient, with different frequency 
+intervals reflecting the activity information of different recreational behaviors. In conclusion, this research 
+highlights the effectiveness of using acoustic indices to analyze both the spatial and temporal variation char­
+acteristics of public recreational behavior in urban green spaces. The results can provide valuable data support 
+for the enhancement and renovation of urban green spaces. 
+1. Introduction 
+Recreational behavior is crucial for promoting physical and mental 
+health of urban populations. Studies have demonstrated that an increase 
+in public use of green spaces can effectively reduce the risk of public 
+illness. As a result, improving urban public space to meet the recrea­
+tional needs of individuals has become a popular research topic as well 
+as a key strategy for planning and design. Direct observation of recrea­
+tional behavior is considered the most reliable and accurate method for 
+obtaining information about recreational behavior for designers and 
+managers. SOPARC (System for Observing Play and Recreation in 
+Communities) is a scientific and effective observation system that has 
+been validated by research experiments (Baran et al. 2014). However, 
+direct observation has high requirements for observers, who must be 
+* Corresponding author at: College of Architecture and Urban Planning, Fujian University of Technology, Fuzhou 350118, China. 
+E-mail address: fjchenziru@fjut.edu.cn (Z. Chen). 
+Contents lists available at ScienceDirect 
+Ecological Indicators 
+journal homepage: www.elsevier.com/locate/ecolind 
+https://doi.org/10.1016/j.ecolind.2023.110729 
+Received 5 May 2023; Received in revised form 1 July 2023; Accepted 24 July 2023 
+
+Ecological Indicators 154 (2023) 110729
+2
+trained to collect various data from visitors and must be able to record 
+large amounts of visitor data instantly into text or images (Marquet et al. 
+2019). To improve the effectiveness of public recreation observation, 
+new methods have been developed, such as video recording, GPS 
+tracking, and drone observation (Arnberger et al. 2005; Engelhard et al. 
+2001; Park and Ewing 2017). These methods align with the development 
+of science and technology. However, each method has its limitations. 
+For instance, video recording has a limited observation area (Guill´en 
+et al. 2008); GPS tracking method requires high capital investment 
+(Matisziw et al. 2016), and often yields a small sample size (Zhao et al. 
+2019); and drone observation is subject to regulations restricting its use 
+and is limited by rainy day (Park and Ewing 2017). Most research on 
+observing visitors’ recreational behavior focused on daytime observa­
+tion periods, with little attentio
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, 
+Data curation, Investigation. Zhu Chen: Methodology, Data curation. 
+Shiyuan Fan: Data curation, Writing – review & editing. Wenqiang 
+Fang: Writing – review & editing. Miaojun Ye: Writing – review & 
+Table 6 
+Comparison of traditional observation and acoustic monitoring. 
+Traditional 
+observation 
+Acoustic monitoring 
+Reference 
+Advantage 
+One of the most 
+commonly used 
+recreational behavior 
+survey methods. Easy to 
+implement and easy to 
+randomize or 
+systematize. 
+The observation 
+process provides direct 
+access to the type of 
+entertainment and the 
+specific number of each 
+behavior of visitors, 
+with efficiency and 
+flexibility. 
+Suitable for complex 
+or fragmented research 
+sites 
+The operation is simple 
+and repeatable, and 
+supports simultaneous 
+large-scale, long-term, 
+continuous dynamic 
+monitoring and 
+tracking. 
+Recordings are 
+permanently stored and 
+can be monitored 
+repeatedly to reduce 
+recognition bias. The 
+continuous develop­
+ment of acoustic 
+indices and machine 
+learning helps to 
+quickly assess recrea­
+tional behavior. 
+Spectrograms can 
+visualize sound, can 
+effectively assist in 
+identification, and their 
+results are objective 
+It is also possible to 
+record the duration of 
+recreational behavior 
+at the same time, 
+providing data refer­
+ence for more in-depth 
+study of public recrea­
+tion preferences. 
+Darras et al. 
+2019; Zhao 
+et al. 2022; 
+Zhang et al. 
+2018 
+Weakness 
+The limited number of 
+observations does not 
+guarantee the 
+synchronization of 
+multiple points, and the 
+period affects the 
+reliability of the results. 
+When visibility is low 
+or obstructions obscure, 
+it makes it difficult to 
+identify the behavior of 
+the visitors and can lead 
+to speculative results. 
+When the number of 
+visitors is too high, the 
+limited energy of the 
+observer may lead to 
+some missing records. 
+Observers, especially 
+those with equipment, 
+entering the study site 
+can affect visitors’ 
+recreational behavior. 
+The challenge of big 
+data. Long-term 
+recording generates 
+huge audio files, 
+requiring consideration 
+of big data storage and 
+processing, battery ca­
+pacity and replacement 
+costs, etc. 
+Manual recognition 
+takes a lot of time, and 
+current automatic 
+recognition techniques 
+are still subject to 
+interference from 
+background noise and 
+sound overlap, leading 
+to biased results. 
+Behavior in exces­
+sively noisy areas and 
+non-vocal behavior 
+cannot be recognized. 
+Darras et al. 
+2019; Huang 
+et al. 2022; 
+Bian et al. 
+2023 
+W. Fu et al. 
+
+Ecological Indicators 154 (2023) 110729
+13
+editing. Jiaying Dong: Writing – review & editing, Supervision. Xiong 
+Yao: Writing – review & editing, Supervision. Ziru Chen: Conceptual­
+ization, Validation, Writing – review & editing, Supervision. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+References 
+Arnberger, A., Haider, W., Brandenburg, C., 2005. Evaluating visitor-monitoring 
+techniques: A comparison of counting and video observation data. Environ. Manag. 
+36 (2), 317–327. 
+Bai, Z., Wang, C., Zhao, Y., Hao, Z., Sun, Z., 2021. Characteristics and temporal variation 
+of spring anthrophony in urban park in Beijing. Chinese Landscape Architecture 37 
+(04), 99–104. 
+Baran, P.K., Smith, W.R., Moore, R.C., Floyd, M.F., Bocarro, J.N., Cosco, N.G., 
+Danninger, T.M., 2014. Park use among youth and adults: examination of individual, 
+social, and urban form factors. Environ. Behav. 46 (6), 768–800. 
+Bian, Q., Wang, C., Cheng, H., Han, D., Zhao, Y., Yin, L., 2023. Exploring the application 
+of acoustic indices in the assessment of bird diversity in urban forests. Biodivers. Sci. 
+31 (1), 22080. 
+Bobryk, C.W., Rega-Brodsky, C.C., Bardhan, S., Farina, A., He, H.S., Jose, S., 2016. 
+A rapid soundscape analysis to quantify conservation benefits of temperate 
+agroforestry systems using low-cost technology. Agrofor. Syst. 90 (6), 997–1008. 
+Bradbury, J.W., Vehrencamp, S.L., 1998. Principles of animal communication. Sinauer 
+Associates. 
+Buxton, R.T., McKenna, M.F., Clapp, M., Meyer, E., Stabenau, E., Angeloni, L.M., 
+Crooks, K., Wittemyer, G., 2018. Efficacy of extracting indices from large-scale 
+acoustic recordings to monitor biodiversity. Conserv. Biol. 32 (5), 1174–1184. 
+Darras, K., Bat´ary, P., Furnas, B., Grass, I., Mulyani, Y., Tscharntke, T., 2019. 
+Autonomous sound recording outperforms human observation for sampling birds: a 
+systematic map and user guide. Ecol. Appl. 29, e01954. 
+Depraetere, M., Pavoine, S., Jiguet, F., Gasc, A., Duvail, S., Sueur, J., 2012. Monitoring 
+animal diversity using acoustic indices: implementation in a temperate woodland. 
+Ecol. Ind. 13 (1), 46–54. 
+Engelhard, S., Stubbs, J., Weston, P., Fitzgerald, S., Giles Corti, B., Milat, A.J., 
+Honeysett, D., 2001. Methodological considerations when conducting direct 
+observation in an outdoor environment: our experience in local parks. Aust. N. Z. J. 
+Public Health 25 (2), 149–151. 
+Farina, A., Pieretti, N., Piccioli, L., 2011. The soundscape methodology for long-term bird 
+monitoring: a Mediterranean Europe case-study. Eco. Inform. 6 (6), 354–363. 
+Gage, S., Axel, A., 2014. Visualization of temporal change in soundscape power of a 
+Michigan lake habitat over a 4-year period. Ecological Information 21, 100–109. 
+G´omez, W.E., Isaza, C.V., Daza, J.M., 2018. Identifying disturbed habitats: a new method 
+from acoustic indices. Eco. Inform. 45, 16–25. 
+Grueber, C.E., Nakagawa, S., Laws, R.J., Jamieson, I.G., 2011. Multimodel inference in 
+ecology and evolution: challenges and solutions. J. Evol. Biol. 24 (4), 699–711. 
+Guill´en, J., García-Olivares, A., Ojeda, E., Osorio, A., Chic, O., Gonz´alez, R., 2008. Long- 
+term quantification of beach users using video monitoring. J. Coast. Res. 24 (6), 
+1612–1619. 
+Hao, Z., Wang, C., Su
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). 
+Table 2). 
+Table 1 
+Table 2 
+Fig. 1). Data were collected in two clear and 
+Fig. 2. For each two-minute period of 
+Fig. 1. Grid and sampling sites location. 
+Table 3) for further calculation and analysis (Huang et al. 
+Fig. 2. Panoramic overview of monitoring sites. 
+Fig. 3 depicts the temporal variation patterns of four acoustic indices 
+Table 3 
+Fig. 3. Temporal variation characteristics of each acoustic index after 
+Fig. 4, 
+Fig. 7. Moreover, the temporal variation 
+Fig. 5 displays the overall temporal variation characteristics of visi­
+Fig. 6. Specifically, the diurnal 
+Fig. 7, areas with high vegetation coverage, such as 
+Fig. 8, passing-by behavior emerges as the most prev­
+Fig. 7 and Fig. 8. Results showed a consis­
+Fig. 4. Temporal variation characteristics of power spectral density in 10 fre­
+Fig. 9 illustrates strong positive correlations between ACI, ADI, AR, 
+Fig. 10, the PSD values in the 5–6 kHz, 6–7 kHz, 9–10 
+Table 4, showing the significance 
+Table 5 displays the correlation coefficients between the PSD values 
+Fig. 5. Temporal variation characteristics of recreational behavior. 

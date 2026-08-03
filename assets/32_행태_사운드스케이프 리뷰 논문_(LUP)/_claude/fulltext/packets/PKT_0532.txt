@@ -1,0 +1,319 @@
+### RECORD ID=532 | screening_verdict=INCLUDE | year=2019
+JOURNAL: PEERJ
+TITLE: Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons
+DOI: 10.7717/peerj.7711
+PAGES: 42
+
+--- HEAD (title/abstract/intro) ---
+Eﬀect of Birdsongs and Traﬃc Noise on Pedestrian Walking
+Speed during Diﬀerent Seasons
+Marek Franek 
+Corresp., 1 , Lukáš Režný 
+1 , Denis Šefara 
+1 , Jiří Cabal 
+1
+1 Faculty of Informatics and Management, University of Hradec Králové, Hradec Králové, Czech Republic
+Corresponding Author: Marek Franek
+Email address: marek.franek@uhk.cz
+Many studies have explored the eﬀects of auditory and visual stimuli on the perception of
+an environment. However, there is a lack of investigations examining direct behavioral
+responses to noise in speciﬁc environments. In this study, a behavioral variable, walking
+speed, was analyzed, as a response to the sounds and visual features of a speciﬁc
+environment. The study examined the eﬀects of birdsongs compared to traﬃc noise on
+walking speed in a real outdoor urban environment. It was supposed that the interaction of
+audition and vision in the perception of an environment may also be shaped by the
+perceived congruence of the visual and auditory features of the environment. The
+participants (N = 87 and N = 65), young university students, walked along a 1.8-km urban
+route. They listened to a soundtrack of crowded city noise or birdsongs, or they walked in
+the real outdoor environment without listening to any acoustic stimuli. To investigate the
+eﬀect of the congruence between acoustic and visual stimuli, the experiment was
+conducted in two diﬀerent seasons (fall and spring). The results did not show signiﬁcant
+diﬀerences between the crowded city noise condition and the real outdoor condition.
+Listening to the soundtrack with birdsongs decreased walking speed, but this eﬀect was
+signiﬁcant only in the experiment conducted in spring. These ﬁndings can be explained in
+terms of the congruence between the sounds and the visual environment. The ﬁndings
+raise questions regarding the restorative function of urban greenery during diﬀerent
+seasons.
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+1
+ Effect of Birdsongs and Traffic Noise on 
+2
+Pedestrian Walking Speed during Different 
+3
+Seasons 
+4
+5
+Marek Franěk1, Lukáš Režný1, Denis Šefara1, Jiří Cabal1
+6
+7
+1 Faculty of Informatics and Management, University of Hradec Králové, Hradec Králové, Czech 
+8
+Republic
+9
+10
+ 
+11
+Corresponding Author:
+12
+Marek Franěk1
+13
+Rokitanského 62, Hradec Králové, 500 03, Czech Republic
+14
+Email address: marek.franek@uhk.cz
+15
+16
+ABSTRACT
+17
+Many studies have explored the effects of auditory and visual stimuli on the perception of an 
+18
+environment. However, there is a lack of investigations examining direct behavioral responses 
+19
+to noise in specific environments. In this study, a behavioral variable, walking speed, was 
+20
+analyzed as a response to the sounds and visual features of a specific environment. The study 
+21
+examined the effects of birdsongs in comparison to traffic noise on walking speed in a real 
+22
+outdoor urban environment. It was supposed that the interaction of audition and vision in the 
+23
+perception of an environment may also be shaped by the perceived congruence of the visual and 
+24
+auditory features of the environment. The participants (N = 87 and N = 65), young university 
+25
+students, walked along a 1.8-km urban route. They listened to a soundtrack of crowded city 
+26
+noise or birdsongs, or they walked in the real outdoor environment without listening to any 
+27
+acoustic stimuli. To investigate the effect of the congruence between acoustic and visual 
+28
+stimuli, the experiment was conducted in two different seasons (fall and spring). The results did 
+29
+not show significant differences between the crowded city noise condition and the real outdoor 
+30
+condition. Listening to the soundtrack with birdsongs decreased walking speed, but this effect 
+31
+was significant only in the experiment conducted in spring. These findings can be explained in 
+32
+terms of the congruence between the sounds and the visual environment. The findings raise 
+33
+questions regarding the restorative function of urban greenery during different seasons.
+34
+35
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+36
+INTRODUCTION
+37
+38
+Several decades ago, some cultural anthropologists created the concept of pace of life. This 
+39
+concept proposes that daily life follows a certain rhythm. The pace of life has been studied in 
+40
+large cities across geographic locations, operationalized as the temporal aspect of various daily 
+41
+behaviors and activities. Early research examined walking speed, the speed with which postal 
+42
+clerks completed a simple request, time punctuality, etc., in downtown areas of large cities 
+43
+(Werner, Altman, and Oxley, 1985). More recent studies searched, for instance, for a rate of 
+44
+tweets on the social media platform Twitter as a function of population density (Gross, Murthy, 
+45
+and Varshney, 2017). A fast pace of life may be a response to stimulatory overload and various 
+46
+urban stressors, including crowding and traffic noise (e.g., Bornstein & Bornstein, 1976). There 
+47
+is evidence that stressful sounds increase arousal, which activates the internal clock. They may 
+48
+also result in the acceleration of walking speed (Ozel, Larue, and Dosseville, 2004).
+49
+50
+Urban pedestrian walking speed was investigated mainly in the 1970s and the 1980s 
+51
+(Bornstein and Bornstein, 1976; Kirkcaldy, Furnham, Levine, 2001; Levine and Bartlett, 1984; 
+52
+Lowin et al., 1971; Walmsley and Lewis,1989). Importantly, the results of more recent research 
+53
+suggest that the walking speed in large cities may gradually increase (Wiseman, 2007). Previous 
+54
+investigations also documented the negative health consequences of a fast pace of life, including 
+55
+walking speed. It was shown that a fast pace of life is associated with a high likelihood of heart 
+56
+attacks (e.g., Evans, 1984; Levine and Bartlett, 1984). A fast movement speed and speed of other 
+57
+daily activities has been interpreted in parallel to
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+282
+283
+Stimulus material
+284
+285
+There were three conditions. The participants listened to a soundtrack with relaxation 
+286
+nature sounds or a track with traffic noise; they did not listen to any soundtrack under the real 
+287
+outdoor noise condition. The soundtrack from the video “Forest Birdsong - Relaxing Nature 
+288
+Sounds - Birds Chirping”, available on YouTube 
+289
+(https://www.youtube.com/watch?v=Qm846KdZN_c), was selected as the nature sound. The 
+290
+track consists of the sound of birds singing. The track lasted approximately 2 hours. The 
+291
+soundtrack from the video “Hectic Kolkata (Calcutta) – India”, available on YouTube 
+292
+(https://www.youtube.com/watch?v=IFc2KhKLiho), was selected as the crowded city noise. The 
+293
+track contains noise from motorized vehicles, engine sounds, automobile horns, and human 
+294
+voices. The track was modified using the software Audacity because of its short length to have a 
+295
+length of 38 minutes and 43 seconds, corresponding to the length of the participants’ walk. The 
+296
+sound levels of the tracks were adjusted to a comfortable level and did not differ among 
+297
+participants. The mean sound pressure levels were as follows: forest birdsong - 56 dB(A) (a 
+298
+relatively high magnitude of the mean sound pressure level reflects higher differences between 
+299
+thesound levels of a silent background and the birdsongs), and crowded city noise - 53 dB(A). 
+300
+The participants listened to the tracks, which were played on a cell phone.
+301
+302
+The sounds were listened to through lightweight headphones Genius HS-M200C. For 
+303
+safety reasons, headphones did not entirely mask sounds from the outside. Participants assigned 
+304
+to the real outdoor noise condition did not wear headphones while walking. 
+305
+306
+Walking route
+307
+308
+The experiment was conducted in Hradec Králové in the Czech Republic. This city is 
+309
+located in the northeastern part of the Czech Republic and has approximately 100,000 
+310
+inhabitants. The walking route was a circuit with a length of approximately 1.8 km (see Figure 
+311
+1). The route was located in areas with minimal movement of other pedestrians; thus, walking 
+312
+speed was not affected by the flow of other pedestrians. Eight sections were chosen for the 
+313
+analysis of walking speed. The sections were chosen to provide a direct route and avoid 
+314
+crossroads or other obstacles. The lengths of the sections ranged from 45 to 100 meters. The first 
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+315
+part of the route was an oak alley along a river (sections 1 - 3). There was no street with traffic 
+316
+close to this area. Traffic noise in these sections was approximately Lday = 55 - 60 dB(A) 
+317
+(Hlukové mapy, 2012). Section 4 was located still in the oak alley, but it was closer to a road 
+318
+with dense traffic. Traffic noise was approximately Lday = 60 - 65 dB(A) (Hlukové mapy, 
+319
+2012). Sections 5 and 6 went along a busy road, where cars, buses, and trucks were driving. On 
+320
+one side of the route, there was a busy road, while on the other side, there were low trees and 
+321
+open areas with a lawn. Traffic noise in these sections was approximately Lday = 75-80 dB(A) 
+322
+(Hlukové mapy, 2012). The final part of the route (sections 7 and 8) went along a different street 
+323
+with less traffic. On one side of the route was a street, while on the other side, there were low 
+324
+trees and open areas with a lawn. The traffic noise in section 7 was approximately Lday = 65 - 70 
+325
+dB(A), and in section 8, it was approximately Lday = 55 - 60 dB(A) (Hlukové mapy, 2012).
+326
+327
+Measurement of walking speed
+328
+329
+The participants walked with a small video camera (i.e., a Sony Bloggie MHS-PM5K) on 
+330
+a belt around their waist (size 19 x 108 x 55 mm, weight 110 g). The environment, the 
+331
+participant’s feet, and the participant’s arms were captured through a fish eye lens. Beginning 
+332
+and end of each section of the route was indicated by a line drawn on the sidewalk. An evaluator 
+333
+marked two frames of the video recording to create the beginning and end of the annotation for 
+334
+each particular track section in the software Elan (see https://tla.mpi.nl/tools/tla-tools/elan/). 
+335
+Every annotation represented the entire section of the track, so that the extent of time subjects 
+336
+spent there could be determined. This enabled to calculate the average speed reached by the 
+337
+participants in all sections. 
+338
+339
+ Evaluation of walk experience
+340
+341
+The participants rated their experience during their walk and their enjoyment of the 
+342
+environment using the following four items: (1) I was fine during the walk, (2) It was a pleasant 
+343
+time, (3) I liked the route I went through, and (4) The sounds I listened to from my headphones 
+344
+bothered me. They were required to rate agreement or disagreement with these items using a 7-
+345
+point Likert-type scale with anchors 1 = absolutely disagree and 7 = absolutely agree.
+346
+347
+Data analysis
+348
+349
+The mean walking speeds were calculated for specific sections of the route. A two-way 
+350
+mixed analysis of variance (ANOVA) was conducted to access the effects of the condition 
+351
+(forest birdsong, crowded city noise, real outdoor noise), and the section of the route (1-8) on 
+352
+walking speed. Greenhouse-Geisser correction was applied based on the test's Epsilon (ε) where 
+353
+assumption of sphericity was violated as assessed by Mauchly’s test of sphericity. Differences 
+354
+between reported evaluations of the walk experience under particular conditions were compared 
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+355
+by using a one-way ANOVA or t-test for independent samples. Some participants did not answer 
+356
+to questions related to the evaluations of the walk experience. They were excluded from the 
+357
+statistical analysis. Statistical analyses were co
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 
+311
+Table 1). The 
+Table 2 and Figure 2.
+Table 3. It was examined how the agreement 
+Figure 2), the post hoc test did not indicate statistical 
+Table 1). The grass was bright green, and the trees had leaves
+Table 4 and Figure 2. 
+Table 5. It was examined how the agreement 
+Figure 2 show clear differences between Experiment 1 and 
+Table 1(on next page)
+Table 2(on next page)
+Table 3(on next page)
+Table 4(on next page)
+Table 5(on next page)
+Figure 1
+Figure 1
+Figure 2
+Figure 2

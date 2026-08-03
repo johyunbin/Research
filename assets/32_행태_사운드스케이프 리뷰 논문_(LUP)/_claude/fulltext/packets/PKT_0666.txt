@@ -1,0 +1,232 @@
+### RECORD ID=666 | screening_verdict=INCLUDE | year=2020
+JOURNAL: LANDSCAPE AND URBAN PLANNING
+TITLE: The influence of human behavioral characteristics on soundscape perception in urban parks: Subjective and observational approaches
+DOI: 10.1016/j.landurbplan.2020.103890
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Contents lists available at ScienceDirect
+Landscape and Urban Planning
+journal homepage: www.elsevier.com/locate/landurbplan
+The influence of human behavioral characteristics on soundscape perception
+in urban parks: Subjective and observational approaches
+Hyun In Jo, Jin Yong Jeon⁎
+Department of Architectural Engineering, Hanyang University, Architectural Acoustics Lab (Room 605–1), 222 Wangsimni-ro, Seongdong-gu, Seoul 04763, South Korea
+A R T I C L E I N F O
+Keywords:
+Soundscape
+Human behavior
+Audio-visual interaction
+Perception
+Virtual reality
+Urban park design
+A B S T R A C T
+With an emphasis on the role of parks in urban environments, studies on soundscape, which assess sound quality,
+have focused on human perception. In particular, various studies have been conducted on the relationship
+between human behavioral characteristics and their sound environment. However, there is still insufficient
+research on human behavioral characteristics in the context of urban parks. The purpose of this study was to
+investigate the effect of human behavioral characteristics on perceptions of soundscapes in urban parks.
+Participants were asked to subjectively evaluate the soundscapes of three parks in Paris, France, using three
+cognitive stages: indicators (perceived audio and visual elements), emotions (semantic expression), and cogni-
+tion (overall quality of the park’s soundscape). The human behavioral characteristics that the participants
+witnessed were categorized into whether there was social interaction, whether people remained in the park or
+were passing through, and what kind of activities took place. To secure high ecological validity, audio-visual
+information was provided to the participants using virtual reality equipment. The results demonstrated that
+sounds made by other people decreased the perceived tranquility or peacefulness while the experience of the
+park as being dynamic and lively increased. We also found that the primary determinant of park preferences was
+not the type of human activities but the presence or absence of people.
+1. Introduction
+1.1. Soundscape research in urban parks
+As the negative effects of noise in urban environments on people’s
+health and social well-being became apparent (Passchier-Vermeer &
+Passchier, 2000; Pulles, Biesiot, & Stewart, 1990; Tzoulas et al., 2007),
+parks have come to be regarded as essential elements of sustainable and
+healthy cities. Subsequently, the positive effects of urban parks on the
+ecological environment and public good have been confirmed (Brown,
+Schebella, & Weber, 2014; Tse et al., 2012). In particular, urban parks
+are believed to offer important social and psychological advantages
+(sources of positive emotions and beneficial services), and thereby en-
+rich human lives (Chiesura, 2004). As a result, visual aesthetics and
+sound quality have become important factors in designing urban
+landscapes (Zhang, Yang, & Yu, 2006). In this context, the concept of
+soundscapes, focusing on people’s perception of sound, has emerged
+(Corburn, 2009; Kang & Schulte-Fortkamp, 2018).
+International standard ISO 12913-1 (2014) defines soundscapes as
+“acoustic environment as perceived or experienced and/or understood
+by a person or people, in context.” To evaluate soundscape perception
+in various spaces such as parks and open spaces, many studies have
+examined the relationships between indicators (e.g., acoustical indices
+and contextual factors) and descriptors (e.g., comfort, tranquility, and
+soundscape quality; Brown, Kang, & Gjestland, 2011; Kang & Zhang,
+2010; Yu & Kang, 2009). Among the studies on soundscape in urban
+parks, there have been attempts to identify the factors that positively or
+negatively affect perception using interviews (Szeremeta & Zannin,
+2009); categorize parks according to their physical sound (Brambilla,
+Gallo, & Zambon, 2013); explore non-sonic components (presence of
+greenery, tranquility, and so on) that positively affect soundscape be-
+sides sonic components, such as sound pressure level (Brambilla, Gallo,
+Asdrubali, & D’Alessandro, 2013); and investigate the components that
+affect soundscape comfort through audio-visual interactions (Zhang,
+Zhao, Zenz, & Qiu, 2019). Deep learning methods to classify sounds
+made in parks using an auditory attention model have also been used
+(Filipan, Boes, Oldoni, De Coensel, & Botteldooren, 2014).
+Based on previous studies, a soundscape perception model for urban
+planning and design has been proposed (Herranz-Pascual, Aspuru, &
+García, 2010; Hong & Jeon, 2015; Liu, Kang, Luo, & Behm, 2013).
+Despite these efforts, urban soundscapes are occasionally unsatisfactory
+because there is a gap between academia and practice that prevents
+https://doi.org/10.1016/j.landurbplan.2020.103890
+Received 31 December 2019; Received in revised form 18 June 2020; Accepted 23 June 2020
+⁎ Corresponding author.
+E-mail addresses: best2012@hanyang.ac.kr (H.I. Jo), jyjeon@hanyang.ac.kr (J.Y. Jeon).
+Landscape and Urban Planning 203 (2020) 103890
+Available online 07 July 2020
+0169-2046/ © 2020 Elsevier B.V. All rights reserved.
+T
+
+research findings from being utilized in the decision-making process,
+and additional interdisciplinary research on soundscapes is necessary
+(Aletta & Xiao, 2018; Meng & Kang, 2016). In this regard, Aletta and
+Xiao (2018) surveyed eleven early-career soundscape researchers and
+practitioners and found that there is a lack of research on the re-
+lationships between human behavioral characteristics and soundscape
+perception.
+1.2. The relationship between human behavioral characteristics and the
+sound environment
+Recent studies on the relationships between soundscape and human
+behavioral characteristics in the urban landscape have been based on
+the effect of the sound environment on human behavior and the effect
+of human behavioral characteristics on acoustic cognition. More re-
+search has focused on the former, focusing on how the sound en-
+vironment changes human behavioral characteristics (Ale
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study design
+This study collected audio-visual soundscape stimuli from three
+urban parks and analyzed the changes in soundscape perception caused
+by changes in human behavioral characteristics using the type of park
+and time as variables. Three different types of parks were selected (four
+evaluation sites in each), and five temporal variations were set 30 s
+apart from one another for each evaluation site. The study used the two
+within-subjects design on the same participant group. To assess the
+same experimental stimuli, a VR-based laboratory experiment, and a
+questionnaire composed of three parts (indicators, emotions, and cog-
+nition) were used to quantify soundscape perception. Human beha-
+vioral characteristics were quantified and grouped into different cate-
+gories (social interaction, stay conditions, and activity type) through
+observations.
+2.2. Soundscape stimulus
+2.2.1. Case study area
+To examine the behavioral characteristics of people in urban parks,
+and their impact on soundscape perception, three parks with different
+uses that are located near the Seine River in Paris, France, were se-
+lected. Each park has a different size and use. Arènes de Lutèce (Park A)
+is the smallest park and is surrounded by dwellings. Compared to the
+other parks, it is relatively calm; a few people spend some time there,
+and it has a courtyard in the center. Champ de Mars (Park C) is a large
+park of 245,000 m2, and it includes the Eiffel Tower as a Paris landmark
+and tourist destination. Jardin des Tuileries (Park J) is 280,000 m2 and
+is similar to Park C as it is a tourist destination, but it is also used as a
+place to relax. Therefore, Park J is a combination of Park A’s and Park
+C’s
+functionalities
+and
+population
+characteristics.
+Twelve
+re-
+presentative points were selected by choosing four points on each park’s
+walking path. The equirectangular panoramic views taken at each point
+are illustrated in Fig. 1, and the physical characteristics of the evalua-
+tion points are illustrated in Table 1.
+2.2.2. Stimulus generation for the VR environment
+The audio-visual recording and reproduction methods for the VR
+application are detailed in Appendix I.
+2.3. Assessment of soundscape perception
+2.3.1. Participants
+A total of 30 participants (male = 17, female = 13) aged from 20 to
+31 years (mean age: 25.2, standard deviation: 2.11) took part in the
+soundscape evaluation. The sample size was calculated using G-power
+software version 3.0, and 27 participants were required for the medium
+effect size (f = 0.25) with a statistical power of 0.8. Based on the re-
+sults, the final number of participants was set to 30.
+To reduce the variation, students from the same university enrolled
+in architecture, urban, and sound-related studies were selected. To
+reduce observation bias, they were trained in the soundscape evalua-
+tion method through an audio-visual example stimulation recorded in
+the city center (Hong & Jeon, 2017). However, the final purpose of this
+experiment was not divulged to avoid prejudice in the evaluation re-
+sponse. Additionally, they were thoroughly familiar with the use of the
+experimental equipment, signed a consent form indicating their vo-
+luntary participation, and were paid a participation fee afterward. The
+participants had normal hearing.
+2.3.2. Questionnaire
+The questionnaire for assessing soundscape perception was com-
+posed of three parts (indicators, emotions, and cognition) according to
+the perception process, as illustrated in Table 2. Emotions and cognition
+interact in complex ways, but emotions are related to “the conscious (or
+unconscious) evaluation of events” and can be defined as “states eli-
+cited by rewards and punishers.” Cognition can be defined as compre-
+hensively controlled processes such as “memory, attention, problem-
+solving, and planning” and “acquiring knowledge and understanding
+through thought, experience, and the senses” (Pessoa, 2008). In other
+words, emotions represent the affective state and affect cognition,
+which is a comprehensive judgment. From this perspective, a ques-
+tionnaire was constructed by separating emotions and cognition.
+First, to examine the identification of the audio and visual indicators
+that constitute the sound environment at each evaluation point, the
+sound was evaluated with four elements (traffic, humans, birdsong, and
+water) and the visuals with eight elements (vehicles, buildings, roads,
+people, open space, greenery, water, and sky) using a five-point Likert
+scale. The type of sound was set by referring to the five classification
+systems of previous soundscape assessment studies (Hong & Jeon, 2015;
+Liu et al., 2013) and the Soundscape Questionnaire Protocol (traffic,
+fan, other noise, sounds from people, natural sounds; Berglund &
+Nilsson, 2006; Nilsson & Berglund, 2006). For visual elements, the in-
+dicators (vehicles, buildings, roads, open space, greenery, water,
+people, and sky) used to evaluate the visual environment in landscape
+studies were selected (Hong & Jeon, 2013; Jiang, Masullo, Maffei,
+Meng, & Vorländer, 2018; Liu et al., 2014).
+Second, in the emotions section, to examine the affective quality of
+the soundscape, four studies (Axelsson, Nilsson, & Berglund, 2010;
+Kang & Zhang, 2010; Kawai, Kojima, Hirate, & Yasuoka, 2004;
+Raimbault, Lavandier, & Bérengier, 2003) were used to develop a five-
+point Likert scale for eight adjective attributes (pleasant, unpleasant,
+eventful, uneventful, exciting, monotonous, calm, and chaotic).
+Finally, in the cognition section, the participants’ overall percep-
+tions of urban parks were defined as perceived loudness, perceived
+crowd density, and comfort, and evaluated on a five-point Likert scale.
+The various direct outcomes and indirect outcomes presented for the
+soundscape preference assessment by Brown et al. (2011) and the de-
+scriptors that were used to examine the preferences for commercial
+space behavior by Meng et al. (2017) were used.
+2.3.3. Procedures
+All subjects wer
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1, and the physical characteristics of the evalua-
+Table 1.
+Table 2. Emotions and cognition
+Table 1, the re-
+Fig. 1. Equirectangular panoramic stills from the spherical videos of selected evaluation position for the experiment (Source: Google Earth).
+Table 1
+Fig. 2 illustrates the identification results for the audio and visual
+Table 3 il-
+Table 3). Participants in Park A had the highest
+Table 4. The Kaiser-Meyer-Olkin
+Fig. 3. A two-way ANOVA ana-
+Table 2
+Fig. 4 illustrates the results of the participants’ cognition responses
+Fig. 2. Temporal variation in perceived audio and visual elements for different parks: (a) dominant sound sources, (b) dominant visual elements.
+Fig. 5. First, Park
+Fig. 5(a), the proportion of people who used the park alone was very
+Fig. 5(b) are
+Table 5).
+Fig. 6). First, the most
+Table 5). In particular, walking, jogging/run-
+Table 3
+Table 4
+Fig. 3. Temporal variation of the mean principal component analysis scores for the three parks.
+Fig. 4. Temporal variation of the mean response scale for the three parks.
+Fig. 5. Temporal variation in the number of people for the three parks according to different criteria: (a) social interaction—alone or group; (b) stay con-

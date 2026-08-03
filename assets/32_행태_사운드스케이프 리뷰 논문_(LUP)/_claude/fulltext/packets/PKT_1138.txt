@@ -1,0 +1,217 @@
+### RECORD ID=1138 | screening_verdict=BORDERLINE | year=2025
+JOURNAL: ACOUSTICS
+TITLE: Horn Use Patterns and Acoustic Characteristics in Congested Urban Traffic: A Case Study of Ho Chi Minh City
+DOI: 10.3390/acoustics7020036
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Academic Editors: Yat Sze Choy and
+Jian Kang
+Received: 15 April 2025
+Revised: 10 June 2025
+Accepted: 13 June 2025
+Published: 16 June 2025
+Citation:
+Nguyen, T.; Nishimura, Y.;
+Nishimura, S. Horn Use Patterns and
+Acoustic Characteristics in Congested
+Urban Traffic: A Case Study of Ho Chi
+Minh City. Acoustics 2025, 7, 36.
+https://doi.org/10.3390/
+acoustics7020036
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Horn Use Patterns and Acoustic Characteristics in Congested
+Urban Traffic: A Case Study of Ho Chi Minh City
+Thulan Nguyen 1,*
+, Yuya Nishimura 2 and Sohei Nishimura 3
+1
+Department of Architecture, Osaka Metropolitan University, Osaka 558-8585, Japan
+2
+Department of Control and Information System Engineering, Kumamoto National College of Technology,
+Kumamoto 861-1102, Japan; nishimura@kumamoto-nct.ac.jp
+3
+Department of Mechanical and Intelligent System Engineering, Kumamoto National College of Technology,
+Kumamoto 861-1102, Japan; nisimura@kumamoto-nct.ac.jp
+*
+Correspondence: lan@omu.ac.jp; Tel.: +81-6-6605-2710
+Abstract: Motorcycle horns are a dominant source of urban noise in many Southeast Asian
+cities, driven by high two-wheeler density and limited public transport infrastructure.
+Although automobiles have been in use for over a century, regulations governing horn
+design and volume control remain inadequate. This study investigates horn use behavior
+in Vietnamese urban traffic, identifying distinct acoustic patterns categorized as “attention”
+and “warning” signals. Measurements conducted in an anechoic chamber reveal that
+these patterns can increase sound pressure levels by up to 17 dB compared to standard
+horn use, with notable differences in frequency components. These levels often exceed
+the daytime noise thresholds recommended by the World Health Organization (WHO),
+indicating potential risks for adverse health outcomes, such as elevated stress, hearing
+damage, sleep disturbance, and cardiovascular effects. The findings are contextualized
+within broader efforts to manage traffic noise in rapidly developing urban areas. Drawing
+parallels with studies on aircraft noise exposure in Japan, this study suggests that long-term
+exposure, rather than peak noise levels alone, plays a critical role in shaping community
+sensitivity. The study results support the need for updated noise regulations that address
+both the acoustic and perceptual dimensions of road traffic noise.
+Keywords: motorcycle horn; urban noise; acoustic characteristics; traffic congestion;
+Vietnam; noise regulation; sound pressure level; public health acoustics
+1. Introduction
+The issue of road traffic noise is a widespread societal challenge in urban areas glob-
+ally, with public responses to noise influencing guidelines for transportation planning
+and environmental management. Rapid economic growth in developing Asian countries
+has intensified environmental concerns, particularly related to traffic noise and exhaust
+emissions [1,2]. This problem is compounded by the high volume of motorcycle traffic
+and the frequent use of motorcycle horns. In these nations, the lack of adequate public
+transportation systems, such as trains and subways, leaves motorcycles as the predominant
+mode of transport. Motorcycles are especially well-suited for short- to medium-distance
+travel, navigating narrow streets and areas with limited infrastructure. Their affordabil-
+ity in terms of both purchase and maintenance also makes them a practical and efficient
+vehicle choice.
+In 2005 and 2007, Phan et al. [3,4] conducted extensive socio-acoustic surveys to assess
+community responses to road traffic noise in Vietnam, focusing on the characteristics of
+Acoustics 2025, 7, 36
+https://doi.org/10.3390/acoustics7020036
+
+Acoustics 2025, 7, 36
+2 of 16
+horn sounds from motorbikes. Their findings indicated that noise levels in Hanoi ranged
+from 70 to 83 dB, while Ho Chi Minh City recorded levels between 75 and 83 dB. A
+staggering 93% of respondents found road traffic noise unpleasant, with 86% expressing
+daily displeasure, particularly during the early morning, afternoon, and evening. The
+recent survey on cyclists’ exposure to road traffic noise in Ho Chi Minh City by Gelb and
+Apparicio [5] found an average level of 78.8 dB, confirming consistently high levels of road
+traffic noise exposure. The research emphasized the necessity of incorporating effective
+noise assessments and recognized the influence of factors such as horn sound components
+on noise annoyance.
+Unlike European and Korean contexts, where cars are the primary source of noise
+pollution, motorbikes are the dominant contributor in Vietnam. Interestingly, Vietnamese
+respondents reported lower levels of annoyance related to road traffic noise compared
+to their European and Korean counterparts [6]. This discrepancy may be attributed to
+the unique characteristics of road traffic noise in Vietnam, which is marked by a heavy
+reliance on motorbikes and frequent horn usage. Gjestland et al. [7] tackled this issue by
+developing dose–response functions specific to Vietnam, which include both aircraft and
+road traffic noise. A comparative analysis of these results with findings from similar studies
+in other geographical regions revealed that individuals in Vietnam generally demonstrate
+higher tolerance levels to noise. To align the response curve with recommendations from
+the European Noise Directive, noise levels would need to be increased by approximately
+5 to 10 dB. As a result, responses to annoyance and sleep disturbance caused by noise
+and vibration would intensify, particularly considering that crash noise generated by
+motorcycles significantly impacts these responses.
+The applicability of Western-derived knowledge on road traffic noise exposure is not
+fully established in large Asian ci
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Noise Source and Traffic Condition Data
+In Vietnam, motorcycles have historically been primarily imported from Japan, but
+local production has recently seen significant growth. The 125cc motorcycle, a widely pre-
+ferred choice for both commuting and transporting goods, is prevalent. These motorcycles
+
+Acoustics 2025, 7, 36
+4 of 16
+are typically equipped with electromechanical diaphragm horns, which were selected for
+this study due to their affordability, compact structure, and widespread usage in urban
+traffic. The selected horn type was verified through a market survey of available horn
+models, and the representative sample used in our experiments is shown in Figure 1 [12].
+Figure 1. Appearance and structure of motorcycle horn.
+When the horn button on the handlebar is pressed, an electric current flows from the
+terminals through the contact points to the coil, generating a magnetic field that exerts a
+pulling force. This force causes the armature and diaphragm to move, initiating vibration
+and producing sound. The vibration is transmitted through the resonator, where the sound
+is amplified and shaped before being emitted. Conversely, when the shaft collides with the
+electromagnet, the contact point disengages, interrupting the current. At this moment, the
+diaphragm retracts the shaft to its original position after being attracted to the pole. This
+cycle repeats continuously until the horn button is released.
+Although the horn mechanism is designed to produce a relatively consistent sound
+pressure level (SPL) when continuously activated, real-world road traffic situations reveal
+fluctuations in sound pressure levels based on the timing and manner of horn button
+activation. Thus, it is important to analyze actual horn-use patterns to better understand
+these SPL variations during short, intermittent activations.
+To examine actual horn usage patterns, we recorded traffic conditions using a high-
+definition video camera and a calibrated sound level meter (RION NL-28). Data collection
+was conducted on Hoang Van Thu Street in Ho Chi Minh City, a key urban artery connecting
+multiple districts and Tan Son Nhat International Airport. Recordings were carried out
+during weekday morning and evening rush hours to capture peak traffic conditions and
+representative horn usage behavior.
+2.2. Collection of Horn Sound Patterns
+Horn pattern selection was based on a combination of empirical measurements and
+qualitative interviews. Specifically, structured interviews were conducted with 10 experi-
+enced motorcycle taxi drivers and 20 university students who commute daily by motorcycle.
+Participants were recruited through flyers and in-person invitations at motorcycle parking
+areas on university campuses and transport hubs. All participants provided informed
+consent prior to participation. Based on both participant input and observations of typical
+horn behavior, horn usage was classified into two main types: “attention” signals and
+“warning” signals. These categories and their associated horn button activation patterns
+
+Acoustics 2025, 7, 36
+5 of 16
+are illustrated in Figure 2. The identified patterns reflect the informal yet culturally shaped
+acoustic signaling behavior of Vietnamese motorcyclists in congested urban environments.
+Figure 2. The patterns of horn sounds frequently used in Vietnam: Attention Patterns P1–P3; Warning
+Pattern P4–P6.
+Attention Pattern [P1] involves a single short press of the horn button, typically lasting
+between 0.5 and 0.7 s. This pattern is commonly used when driving at low speeds to alert
+the vehicle in front to accelerate or become aware of the presence of the hornblower behind
+them. Additionally, it is used to acknowledge a nearby friend who is either driving or
+walking. Attention Pattern [P2] consists of a double tap of the horn button. Each press
+lasts about 0.5 to 0.7 s, with an interval (N) of approximately 0.3 to 0.5 s between taps. This
+pattern is often used to reinforce a previous signal or prompt the vehicle ahead to accelerate
+or to issue a second warning. The duration of horn button presses is the same as that
+of [P1], but the interval time between double taps (N) varies depending on the vehicle’s
+speed. Attention Pattern [P3] involves three short horn presses, typically following [P2], to
+encourage the vehicle ahead to accelerate or to issue a second warning. The duration of each
+press remains consistent with [P1] (0.5 to 0.7 s), with inter-press intervals of approximately
+0.3 s.
+Warning Pattern [P4] is similar to [P1] but involves a more prolonged horn press, often
+exceeding 1 s. It is typically used at higher driving speeds when the leading vehicle is
+moving slowly. This extended honk is intended to attract attention more forcefully and
+communicate urgency. Warning Patterns [P5] and [P6] involve multiple short horn presses
+followed by a final continuous press. These patterns are often used to advise nearby drivers
+to exercise extra caution and may also convey the horn user’s irritation or frustration.
+2.3. Data Analysis
+To analyze the acoustic characteristics of each horn pattern, controlled experiments
+were conducted using the setup illustrated in Figure 3. A 125 cc motorcycle horn, commonly
+used in Vietnam, was placed at the center of an anechoic chamber. The horn was acti-
+vated using a computer-generated signal transmitted through a custom horn drive circuit,
+ensuring consistent and repeatable signal patterns. The horn and the sound level meter
+(RION NL-28) were mounted at heights of 0.5 m and 1.5 m above the floor, respectively,
+in accordance with Article 141 of the Japanese Safety Standard for Road Transportation
+
+Acoustics 2025, 7, 36
+6 of 16
+Vehicles [24]. This setup allowed for precise and controlled analysis of the horn’s acoustic
+properties. As an anechoic chamber eliminates sound reflections from the walls, ceiling,
+and floor, the measurement captured only the direct sound field. To simulate realistic re-
+flective conditions and obtain r
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 [12].
+Figure 1. Appearance and structure of motorcycle horn.
+Figure 2. The identified patterns reflect the informal yet culturally shaped
+Figure 2. The patterns of horn sounds frequently used in Vietnam: Attention Patterns P1–P3; Warning
+Figure 3. A 125 cc motorcycle horn, commonly
+Figure 3. Block diagram of the experimental apparatus.
+Figure 4 illustrates the power spectrum of horn Pattern [P1], providing detailed
+Figure 4. Power spectrum of Pattern [P1].
+Figure 1, involves the pressing of the horn button, which causes an electric current to flow
+Figure 5 presents a
+Figure 6 shows the frequency characteristics of Pattern [P2], represented by the solid
+Figure 7, the arranged peak levels of [P1] and [P2] reveal the
+Figure 8 compares two variations in [P2] with different time intervals (M) between two
+Figure 5. One-third octave frequency characteristic of [P1].
+Figure 6. Comparison between [P1] and [P2].
+Figure 7. Characteristic of [P1] and [P2] when arranging those peak values.
+Figure 8. Characteristic of [P2] when changes the time interval of two horn sounds.
+Figure 9, [P2] is compared with Pattern [P3], which consists of three horn presses.
+Figure 9. Comparison between [P2] and [P3].
+Figure 10 compares [P1] and Warning Pattern [P4], which features a longer horn button
+Figure 11. Pattern
+Figure 10. Comparison between [P4] and [P1].
+Figure 11. Comparison between [P4] and [P5].
+Figure 12 compares [P1] with [P6], which consists of two short honks followed
+Figure 13, where the solid line represents Pattern [P1], and the

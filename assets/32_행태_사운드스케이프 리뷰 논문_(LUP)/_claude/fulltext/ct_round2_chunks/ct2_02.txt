@@ -1,0 +1,179 @@
+### REC 142 | 1차=MAYBE | 2017 | Urban forestry & urban greening | backward
+TITLE: Acoustic and economic valuation of soundscape: An application to the ‘Retiro’ Urban Forest Park
+DOI: 10.1016/j.ufug.2017.08.018
+1차메모: 공원 사운드스케이프 경제가치, 방문행태 사용 여부 확인
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 143 | 1차=MAYBE | 2017 | Air Quality Atmosphere & Health | backward
+TITLE: Evaluation of daily time spent in transportation and traffic-influenced microenvironments by urban Canadians
+DOI: 10.1007/s11869-017-0532-6
+1차메모: 교통 미세환경 체류시간 시간이용, 음환경 확인 필요
+ABSTRACT: Exposure to traffic and traffic-related air pollution is associated with a wide array of health effects. Time spent in a vehicle, in active transportation, along roadsides, and in close proximity to traffic can substantially contribute to daily exposure to air pollutants. For this study, we evaluated daily time spent in transportation and traffic-influenced microenvironments by urban Canadians using the Canadian Human Activity Pattern Survey (CHAPS) 2 results. Approximately 4–7% of daily time was spent in on- or near-road locations, mainly associated with being in a vehicle and smaller contributions from active transportation. Indoor microenvironments can be impacted by traffic emissions, especially when located near major roadways. Over 60% of the target population reported living within one block of a roadway with moderate to heavy traffic, which was variable with income level and city, and confirmed based on elevated NO 2 exposure estimated using land use regression. Furthermore, over 55% of the target population ≤ 18 years reported attending a school or daycare in close proximity to moderate to heavy traffic, and little variation was observed based on income or city. The results underline the importance of traffic emissions as a major source of exposure in Canadian urban centers, given the time spent in traffic-influenced microenvironments.
+
+### REC 144 | 1차=MAYBE | 2023 | Environment and Planning B Urban Analytics and City Science | backward
+TITLE: The effects of street environment features on road running: An analysis using crowdsourced fitness tracker data and machine learning
+DOI: 10.1177/23998083231185589
+1차메모: 가로환경과 러닝 행태, 소음 변수 확인 필요
+ABSTRACT: Urban streets provide environment for road running. The study proposes a non-parametric approach that uses machine learning models to predict road running intensity. The models were developed using route check-in data from Keep, a mobile exercise application, and street geographic information data in Beijing’s core district. The results show that blue space and trail continuity are the most important factors in improving road running intensity. There is an optimum design value for the sky openness and the street enclosure, which need to be balanced with shade while meeting the light of the road. And it is also important to provide appropriate visual permeability. Furthermore, unlike daily activities, it was found that higher function mixture and function density did not have significant positive effects on the road running intensity. This study provides empirical evidence on road running and highlights the key factors that planners, landscape architects, and city managers should consider when design running-friendly urban streets.
+
+### REC 150 | 1차=MAYBE | 2013 | Natural Resources Forum | backward
+TITLE: Improving visitor management approaches for the changing preferences and behaviours of country park visitors in<scp>H</scp>ong<scp>K</scp>ong
+DOI: 10.1111/1477-8947.12025
+1차메모: 교외공원 방문객 선호·행태 변화, 음환경 확인 필요
+ABSTRACT: Abstract This study identified the changing preferences of country park visitors in H ong K ong and the potential for such changes to have further negative impacts on the ecologically sensitive areas of country parks. A questionnaire was used to collect feedback from 644 country park visitors to understand their preferences and visitation patterns. To investigate visitors’ preferences and behaviours and to develop better visitor management strategies, the survey data were compared with studies conducted 20 years ago. The results showed that the most popular nature‐based activities of 20 years ago, namely, picnicking and barbecuing, have significantly declined in popularity, while other activities, namely, nature studies and nature photography, have surged in popularity in recent years. These changes in visitor preferences have directly increased the negative impacts of visitors on country parks as they dispersed away from the high intensity recreation zones to the ecological sensitive areas. This emerging group of country park visitors has not been fully considered in the existing approach to visitor management and may irreversibly impact the ecological value of country parks. In this study, visitor management in H ong K ong's country parks was reviewed based on these research findings, and potential improvements were suggested.
+
+### REC 151 | 1차=MAYBE | 2024 | Urban forestry & urban greening | forward
+TITLE: How does visual environment affect outdoor jogging behavior? Insights from large-scale city images and GPS trajectories
+DOI: 10.1016/j.ufug.2024.128291
+1차메모: 시각환경과 조깅 행태 GPS, 음환경 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 153 | 1차=MAYBE | 2024 | Computers Environment and Urban Systems | forward
+TITLE: Machine-based understanding of noise perception in urban environments using mobility-based sensing data
+DOI: 10.1016/j.compenvurbsys.2024.102204
+1차메모: 이동기반 센싱 소음지각, 행태 데이터 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 156 | 1차=MAYBE | 2024 | Sustainable Cities and Society | forward
+TITLE: Healthy urban blue space design: Exploring the associations of blue space quality with recreational running and cycling using crowdsourced data
+DOI: 10.1016/j.scs.2024.105929
+1차메모: 수변공간 질과 러닝·사이클링, 음환경 확인 필요
+ABSTRACT: • VGI and SVI integration provide promising tools for human behaviour analysis. • Several spatial quality factors’ impact on running and cycling are compared. • Most natural and connectivity factors are positively correlated to running and cycling. • Blue space type and some built environment factors show inconsistent links between the two activities. • Practical design strategies and patterns are translated from the research evidence. Urban blue space offers substantial health benefits by encouraging population physical activity. Despite much evidence on the nature-health nexus, the relationship between blue space and recreational exercises remains under-studied, limiting the realisation of health benefits in blue space design. Using crowdsourced data, including volunteered geographic information and street view image data, this study investigates the associations of blue space quality with recreational running and cycling in Rotterdam, the Netherlands. Results show that recreational exercise levels on street segments vary based on the blue space type and design. Compared to inland canals and rivers, small-scale recreational waterbodies are more conducive to running but not cycling, while both activities tend to cluster around the Nieuwe Maas River. Interestingly, the Water View Index shows a general negative association with both activities after adjusting for the blue space type. Besides the waterbody characteristics, eye-level environmental factors, including higher Green View Index, lower building density, more diverse land use, greater connected street network and fewer traffic elements, are associated with more running and cycling exercises. Results for visual complexity and neighbourhood population composition are mixed depending on the exercise type. These findings are further translated into spatial design patterns for developing exercise-supportive and health-promoting blue spaces.
+
+### REC 166 | 1차=MAYBE | 2021 | Land | forward
+TITLE: Environmental Features Influence Walking Speed: The Effect of Urban Greenery
+DOI: 10.3390/land10050459
+1차메모: 환경요소와 보행속도, 음환경 변수 확인 필요
+ABSTRACT: The study investigated the rarely addressed topic of how visual environmental features can influence walking speed. Young adult participants were asked to walk on a route that leads through areas composed of urban parks and areas with a built environment with a large amount of greenery. Their walking speed was measured in selected sections. The participants walked with a small video camera, and their walk was recorded. The temporal information was derived from the video recordings. Subsequently, the participants evaluated the environmental features of the route by specific spatio-cognitive dimensions of environmental preference. The results show that walking speed in specific sections of the walking route systematically differed and reflected the environmental features. The walking speed was lower in sections with high natural characteristics and a high environmental preference. Noise here was perceived as less annoying than in sections with lower natural characteristics. The results are explained in terms of approach avoidance behavior. The findings are in accordance with environmental preference research that documents various benefits of walking in the natural environment.
+
+### REC 168 | 1차=MAYBE | 2022 | Frontiers in Ecology and Evolution | forward
+TITLE: Changes in Green Space Use During a COVID-19 Lockdown Are Associated With Both Individual and Green Space Characteristics
+DOI: 10.3389/fevo.2022.804443
+1차메모: 봉쇄기 녹지 이용 변화, 음환경 속성 확인 필요
+ABSTRACT: Mobility restrictions imposed during the COVID-19 pandemic present a useful study system for understanding the temporal and spatial patterns of green space use. Here, we examine green space characteristics and sociodemographic factors associated with change in frequency of green space use before and during a COVID-19 lockdown in Brisbane, Australia drawing on a survey of 372 individuals. Applying regression analysis, we found that individuals who visited a different green space during lockdown than before tended to decrease their frequency of visits. In contrast, individuals who continued visiting their usual green space during lockdown were more inclined to increase their number of visits. Changes in frequency of green space use were also associated with particular characteristics of their usually visited green space. The presence of blue spaces and accessibility (carparks/public transport) were associated with increased frequency of use while foliage height diversity was associated with reduced frequency of use. We found that females were more likely to change their green space visitation frequency during COVID-19 compared to men and they also reported greater importance of green spaces for social and family interactions and spiritual reasons during COVID-19 compared to before. Males showed greater increases than females in the importance of green space for nature interactions and mental health benefits during the COVID-19 lockdown compared to before. Our results provide key insights for future resilient urban planning and policy that can fulfil a wide range of physical and psychological needs during a time of crisis and beyond.
+
+### REC 170 | 1차=MAYBE | 2022 | Sustainability | forward
+TITLE: Walkable Cities: Using the Smart Pedestrian Net Method for Evaluating a Pedestrian Network in Guimarães, Portugal
+DOI: 10.3390/su141610306
+1차메모: 보행네트워크 평가지표, 소음 항목·보행량 확인 필요
+ABSTRACT: Evidence for the benefits of walking has attracted the attention of researchers and practitioners and encouraged them to develop healthier and more sustainable walkable cities. Many methods and approaches have been developed to measure walkability; namely, by using land use attributes. This paper examines the transferability of the Geographic Information System (GIS) based multi-criteria method developed in the Smart Pedestrian Net (SPN) research project to evaluate the level of walkability in a pedestrian network in Guimarães, Portugal. The method involves the assessment of 19 built environment and streetscape attributes, which were scored by a group of experts following the analytic hierarchy process. The method proved to be efficient in evaluating the pedestrian network and in mapping walkability in the study area. Around 65% of the street lengths scored above 0.60, indicating that the overall pedestrian conditions are favourable, with the best performance criteria being those related to accessibility and street connectivity. The method also allowed for the identification of different levels of walkability within the study area and the lack of a pedestrian network of highly scored streets. According to the results, the SPN method could be replicated in other cities to evaluate walkability and could be a useful planning tool to support policies towards developing more walkable cities.
+
+### REC 171 | 1차=MAYBE | 2021 | The Science of The Total Environment | backward
+TITLE: Effects of a human sound-based index on the soundscapes of urban open spaces
+DOI: 10.1016/j.scitotenv.2021.149869
+1차메모: 인간활동음 지수와 공공공간 사운드스케이프, 역방향 가능
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 175 | 1차=MAYBE | 2018 | International Journal of Environmental Research and Public Health | forward
+TITLE: How Urban Parks Offer Opportunities for Physical Activity in Dublin, Ireland
+DOI: 10.3390/ijerph15040815
+1차메모: 공원 신체활동 기회 관찰, 음환경 변수 확인 필요
+ABSTRACT: Parks are an important part of the urban fabric of cities. They offer people the opportunity to connect with nature, engage in physical activity, find a haven away from the city noise, or spend time alone or with family and friends. This study examines the relative importance of park and park visit characteristics for 865 survey participants in Dublin, Ireland. The data is analyzed using a multinomial logistic regression model which can distinguish the relative importance of attributes. The model results demonstrate an improvement over proportional by chance accuracy, indicating that the model is useful. The results suggest that when and why individuals go to the park along with the proximity of their residence to the park influence visit frequency more than their age and gender and more than their impression of the sound levels in the park. The contribution of the results, in terms of their potential usefulness to planners, suggest that the priority should be on the provision of park space close to residential areas, so that individuals can engage in activities such as walking and relaxation, and that the quality of that space, in the context of noise levels at least, is less important.
+
+### REC 180 | 1차=MAYBE | 2010 | Computers Environment and Urban Systems | backward
+TITLE: Digital representation of park use and visual analysis of visitor activities
+DOI: 10.1016/j.compenvurbsys.2010.05.007
+1차메모: 공원 이용·방문객 활동 디지털 기록, 음환경 확인 필요
+ABSTRACT: Urban public parks can serve an important function by contributing to urban citizens’ quality of life. At the same time, they can be the location of processes of displacement and exclusion. Despite this ambiguous role, little is known about actual park use patterns. To learn more about park use in three parks in Zurich, Switzerland, extensive data on visitor activities was collected using a new method based on direct recording via a portable GIS solution. Then, the data was analyzed using qualitative and quantitative methods. This paper examines whether geographic visualization of these data can help domain experts like landscape designers and park managers to assess park use. To maximize accessibility, the visualizations are made available through a web-interface of a common, off-the-shelf GIS. The technical limitations imposed by this choice are critically assessed, before the available visualization techniques are evaluated in respect to the needs and tasks of practitioners with limited knowledge on spatial analysis and GIS. Key criteria are each technique’s level of abstraction and graphical complexity. The utility and suitability of the visualization techniques is characterized for the distinct phases of exploration, analysis and synthesis. The findings suggest that for a target user group of practitioners, a combination of dot maps showing the raw data and surface maps showing derived density values for several attributes serves the purpose of knowledge generation best.
+
+### REC 182 | 1차=MAYBE | 2025 | Journal of Transport Geography | backward
+TITLE: Deciphering urban cycling: Analyzing the nonlinear impact of street environments on cycling volume using crowdsourced tracker data and machine learning
+DOI: 10.1016/j.jtrangeo.2025.104179
+1차메모: 가로환경과 자전거 통행량, 소음 변수 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 184 | 1차=MAYBE | 2021 | Sustainable Cities and Society | backward
+TITLE: The influence of companion factors on soundscape evaluations in urban public spaces
+DOI: 10.1016/j.scs.2021.102860
+1차메모: 동반자 요인과 사운드스케이프 평가, 사회적 맥락 확인
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 190 | 1차=CANDIDATE | 2020 | Environment and Planning B Urban Analytics and City Science | forward
+TITLE: The effects of activity-related contexts on individual sound exposures: A time–geographic approach to soundscape studies
+DOI: 10.1177/2399808320965243
+1차메모: 활동맥락이 개인 음노출에 미친 영향, 시간지리학
+ABSTRACT: Noise is an ever-growing problem in cities. Conventional noise mitigation approaches may not necessarily control noise pollution, since whether a sound is perceived as noise is largely influenced by its specific contexts. Based on an activity-centric framework, this study examines the effects of activity-related contexts and measured sound levels based on individuals’ sound evaluations as they undertake daily activities at different geographic locations and times. Data for the study were collected from 33 participants in Chicago (USA) using Global Positioning System-equipped mobile phones, portable sound sensors, and activity diaries. Multilevel logistic modeling was used to examine the relationships among measured sound levels, sound evaluations, and activity-related contexts for each recorded activity of the participants. The results indicate that activity-related contexts significantly influence individuals’ sound evaluations as they perform their daily activities. When activity-related contexts are taken into account, the measured sound levels that individuals experienced when performing an activity are no longer significant in influencing their sound evaluations. These results support the notion that sound is not only a physical feature but also a socio-psychological construct. It is crucial to adopt a human-centric and context-aware approach in urban planning through understanding the circumstances in which a sound is perceived as noise. Such an approach would help improve sound-related urban environments and construct livable and healthy cities.
+
+### REC 193 | 1차=MAYBE | 2022 | Buildings | forward
+TITLE: Impacts of Micro-Scale Built Environment Features on Tourists’ Walking Behaviors in Historic Streets: Insights from Wudaoying Hutong, China
+DOI: 10.3390/buildings12122248
+1차메모: 미시 가로환경과 관광객 보행행태, 음환경 확인 필요
+ABSTRACT: The impact of built environment features on tourists’ walking behaviors has received growing attention. Although many researchers have observed the effects of micro-scale factors, the impact of culture-related factors on walking behaviors has been frequently overlooked. Therefore, it is vital to synthesize those micro-scale variables to develop a more holistic picture, and incorporating a cultural perspective is an imperative for the preservation and vitality enhancement of historic streets. In our study, a micro-scale built environment (MiBE) variable system was constructed to capture the features of historic streets, and 109 visitors were tracked in Wudaoying Hutong to record their walking-stopping behaviors. The results revealed four primary components affecting walking-stopping behaviors, among which transparency was the most influential factor, followed by the transitional space between streets and buildings, contributing to 49.8% and 21.6%, respectively. Notably, the non-negligible impact of two culture-related factors, including the contrast between Chinese and Western styles and traditional Chinese features, was also revealed, contributing to 28.6% of the total observed activities. We further compared four different types of micro-scale factors of the built environment and the corresponding walking-stopping behaviors, providing both scientific and theoretical reflections for preserving and renewing historic streets.
+
+### REC 196 | 1차=MAYBE | 2025 | Urban Science | forward
+TITLE: Enhancing Urban Mobility for All: The Role of Universal Design in Supporting Social Inclusion for Older Adults and People with Disabilities
+DOI: 10.3390/urbansci9020046
+1차메모: 유니버설디자인과 이동성·사회통합, 실증·음환경 확인 필요
+ABSTRACT: As urban environments pose significant challenges to people of all ages and abilities, ensuring equal accessibility is essential for achieving social inclusion in cities. Authors claim that universal design, initially developed to assist people with disabilities, can also benefit older adults. Despite common assumptions, there is limited evidence to support this claim. This study examines whether the urban mobility needs of people with disabilities (physical, sensory, and cognitive) align with those of older adults, both with regular physiological ageing or age-related diseases. Using an integrative review methodology, this study synthesized 56 references on urban mobility measures and 121 references on the specific urban requirements and mobility profiles for both groups and subgroups. The findings reveal significant overlaps in the mobility requirements of people with disabilities and older adults, particularly regarding inclusive features such as barrier-free crossings, intermediate seating, noise reduction, and improved wayfinding. These measures benefit both groups, with universal design strategies supporting the mobility of people with disabilities while also addressing the needs of the ageing population, which is rapidly increasing. The findings offer valuable insights for urban planners, policymakers, and designers to create inclusive, accessible, and high-quality urban spaces that support people of all ages and abilities.
+
+### REC 208 | 1차=MAYBE | 2023 | Land | forward
+TITLE: Design Characteristics, Visual Qualities, and Walking Behavior in an Urban Park Setting
+DOI: 10.3390/land12101838
+1차메모: 공원 설계특성과 보행행태, 음환경 변수 확인 필요
+ABSTRACT: The design characteristics of urban parks’ pathways are important in facilitating leisure walking and maintaining the minimum rate of physical activity, thus improving public health. This study examined and explored the relationships between design characteristics as well as certain visual qualities of Cautin Park, the biggest urban park in the Araucanian Region of Chile, and the tendency for walking as well as walking behavior. A mix of quantitative and qualitative methods was used to examine the objectives. Several design attributes were found to be related to the tendency for walking and the walking behavior in this urban park, including greater pathway width, more vegetation, tranquility along the pathways, and more comfortable pathway environments for pets. Additionally, these correlations were assessed based on gender and age, and it was found that adolescents showed the greatest difference from other groups. For instance, adolescents walk significantly more along pathways with more connectivity to activity zones. Among the visual qualities, only legibility shows a significant correlation with the number of all types of pedestrians, as well as subgroups of adolescents, adult men, and adult women. These results were reviewed, and their implications were discussed. Urban planners and designers could apply these findings when designing future urban parks in this context.
+
+### REC 209 | 1차=MAYBE | 2016 | Journal of Environmental Engineering and Landscape Management | backward
+TITLE: THE EFFECT OF WALKING SOUNDS FROM DIFFERENT WALKED-ON MATERIALS ON THE SOUNDSCAPE OF URBAN PARKS
+DOI: 10.3846/16486897.2016.1172076
+1차메모: 보행 발자국음이 공원 사운드스케이프에 미친 영향, 역방향
+ABSTRACT: Urban parks are essential environmental resources in contemporary cities, for the substantial social and psychological relief they provide for local communities. In recent years, the potential of the soundscape approach for enhancing the ecological contribution of such environmental assets has been intensely investigated. Although, researchers tended to focus on the perception of people “staying” in the park, whilst it is important to consider how the sonic environment would be dynamically perceived by users walking across the park. Within this framework, the present study aimed to investigate the effect of different footpath materials on soundscape quality and walking quality perception for people walking in an urban park, considering that the experience of such users is affected by both the background acoustic environment of the park and their walking sound. To this purpose, a laboratory experiment was carried out with 25 participants. Four different walked-on materials that are likely to be used in urban parks were tested: grass, wood, stone and gravel. Results show that the material factor has a significant effect on both auditory and haptic perception. Furthermore, positive correlations can be observed between auditory and haptic variables, confirming that the soundscape appreciation for people walking in urban parks is likely to be affected also by other but aural sensory modalities. The paper ultimately points out that it is possible to re-think the approach to urban parks design and more specifically to the footpaths and the walking sounds that their materials are likely to produce.
+
+### REC 212 | 1차=MAYBE | 2024 | Cities | forward
+TITLE: How do urban green space attributes affect visitation and satisfaction? An empirical study based on multisource data
+DOI: 10.1016/j.cities.2024.105543
+1차메모: 녹지 속성과 방문량·만족도, 음환경 포함 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 214 | 1차=MAYBE | 2024 | Urban forestry & urban greening | forward
+TITLE: Urban greenery distribution and its heat mitigation effect on outdoor jogging activities
+DOI: 10.1016/j.ufug.2024.128655
+1차메모: 녹지·열환경과 조깅 활동, 음환경 변수 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 215 | 1차=MAYBE | 2024 | Heritage Science | forward
+TITLE: Enhancing authenticity in historic districts via soundscape design
+DOI: 10.1186/s40494-024-01515-8
+1차메모: 역사지구 사운드스케이프 설계 · 행태 결과 불명
+ABSTRACT: Abstract Historic districts play an important role in urban planning and protection. While previous research on soundscapes has focused on acoustic comfort or preferences in these districts, the aspect of authenticity has been somewhat overlooked. Therefore, this study proposes a methodology for constructing soundscapes that enhance the authenticity of such districts. Using the grounded theory approach, we identified four key components for enhancing authenticity via soundscapes: the aim of soundscape design, physical and cultural characteristics of soundscapes, the effects of soundscapes, and the influence of spatial characteristics on soundscapes. A theoretical framework was developed to illustrate the enhancement of authenticity in historic districts via soundscapes. To verify the applicability and advancement of the proposed framework, it was compared with methodologies and steps obtained from previous soundscape research in historic districts. This study underscores the significance of soundscape design in creating authenticity in historic districts, thereby contributing to the development of soundscape design in historic districts and offering sustainable solutions for the protection and renewal of urban cultural heritage.
+
+### REC 216 | 1차=MAYBE | 2020 | Environment and Behavior | forward
+TITLE: The Behavioral Response to Increased Pedestrian and Staying Activity in Public Space: A Field Experiment
+DOI: 10.1177/0013916520953147
+1차메모: 공공공간 보행·체류 현장실험 · 음환경 여부 불명
+ABSTRACT: William Whyte originally hypothesized that the presence of people in a public space would attract more people. Contemporary planners now refer to “sticky streets” as places where pedestrians are compelled to linger and enjoy vibrant public life. We test the hypothesis that adding users to a public space will attract more people using an experimental design with confederates to add pedestrian movement and staying activity in a residential street for 45 randomly selected hours. We observed staying behavior by gender with and without our intervention. We find that the addition of public users reduced the total number of people staying in our study area, especially among women. We find that women’s right to the city may be constrained by the mere presence of other individuals, even in safe spaces and during daylight hours. Our findings suggest that Whyte’s claim is not universal, but depends on the conditions of a particular site.
+
+### REC 217 | 1차=MAYBE | 2022 | Sustainability | forward
+TITLE: The Impact of the Neighborhood Built Environment on the Walking Activity of Older Adults: A Multi-Scale Spatial Heterogeneity Analysis
+DOI: 10.3390/su142113927
+1차메모: 노인 보행활동·근린환경 · 소음 변수 포함 가능
+ABSTRACT: Walking, as a major mode of travel or activity among older adults, deserves more attention in research on travel behavior related to the neighborhood built environment. However, most previous research has examined global relationships or assumed that all spatial scales are identical rather than focusing on the intensity of spatial scale differences between explanatory variables and travel behavior. Therefore, this paper employs a multi-scale, geographically weighted regression model to analyze the effect of the neighborhood built environment on the walking activities of 863 older adults in Taiyuan, China, using survey data. The results indicate that the influence intensity of the explanatory variables is determined, in descending order, by the number of retail establishments, the number of pedestrian crossings, the number of restaurants, the residential density, the land use combination, the number of recreation facilities, and the location and the number of bus stops. Moreover, the spatial scales of the number of recreation and public service facilities are greater than those of the other explanatory variables. This research can contribute to a better understanding of the relationships between the built environment of a neighborhood and walking activities and provide case support for the sustainable development of age-friendly transportation services.
+
+### REC 219 | 1차=MAYBE | 2022 | Journal of Transport Geography | backward
+TITLE: The role of neighbourhood design in cycling activity during COVID-19: An exploration of the Melbourne experience
+DOI: 10.1016/j.jtrangeo.2022.103510
+1차메모: 코로나기 자전거 이용 행태 · 음환경 변수 불명
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 220 | 1차=CANDIDATE | 2024 | Land | forward
+TITLE: The Influence of Multi-Sensory Perception on Public Activity in Urban Street Spaces: An Empirical Study Grounded in Landsenses Ecology
+DOI: 10.3390/land14010050
+1차메모: 다감각 지각→가로 공공활동 실증 연구
+ABSTRACT: The design of street spaces significantly influences public behavior and quality of life. Understanding how various urban street spatial characteristics affect public behavior, alongside the role of multi-sensory perception, enables designers and planners to create more human-centered urban environments. Grounded in landsenses ecology, this study employs correlation analysis, regression analysis, and Partial Least-Squares Structural Equation Modeling (PLS-SEM) to examine the effects of different urban street spatial characteristics on public behavior and the mediating role of multi-sensory perception. The findings reveal that street spatial characteristics, particularly the Water Surface Ratio (WSR) and Waterfront Density (WD), have a pronounced impact on behavioral traits, with higher public activity frequencies in areas with elevated WSR and WD. Notably, WSR significantly affects static behaviors, such as sunbathing (β = 0.371, p &lt; 0.001), and dynamic behaviors, such as walking (β = 0.279, p &lt; 0.001). While road and water characteristics directly influence behavior, buildings and green spaces mainly affect public behavior through multi-sensory perception. Different sensory perceptions show varying effects, with olfactory perception playing a significant role in these experiences, alongside a notable chain-mediated effect between tactile perception and psychological cognition. These results provide valuable insights for integrating multi-sensory experiences into urban design.
+
+### REC 221 | 1차=MAYBE | 2024 | Applied Geography | forward
+TITLE: Association between built environment factors and collective walking behavior in peri-urban area: Evidence from Chengdu
+DOI: 10.1016/j.apgeog.2024.103274
+1차메모: 집합적 보행행태·건조환경 · 음환경 포함 불명
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 223 | 1차=MAYBE | 2019 | Journal of Outdoor Recreation and Tourism | forward
+TITLE: Perceived importance of and satisfaction with nature observation activities in urban green areas
+DOI: 10.1016/j.jort.2019.100227
+1차메모: 도시녹지 자연관찰 활동 · 음환경 관련성 불명
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 226 | 1차=MAYBE | 2024 | Ecosystem Health and Sustainability | forward
+TITLE: Effective Recreational Activities in Urban Green Spaces for Mental Health of Scientific Researchers
+DOI: 10.34133/ehs.0199
+1차메모: 도시녹지 여가활동·정신건강 · 음환경 불명
+ABSTRACT: Scientific researchers are known for their demanding intellectual efforts and are particularly susceptible to mental health disorders. Urban green spaces (UGSs) are beneficial for people’s mental health, yet there is limited research on what types of UGSs and activities are effective for improving researchers’ mental health. Here, we investigate if researchers’ mental health can be enhanced by visiting affiliated green spaces, pocket parks, comprehensive parks, and coastal beaches. The research hypothesis was that the natural and social pathways of recreational ecosystem services jointly reduce researchers’ mental stress and attentional fatigue. The results suggest that nature contact, nature connectedness, and social interaction directly or indirectly have positive impacts on scientific researchers’ mental health. Both nature connectedness and social interaction serve as crucial mediating variables between nature contact and mental health. In terms of direct impact, high-frequency recreational activities in small UGSs with high accessibility, markedly relieve stress, whereas visit frequency in large UGSs with low accessibility has a limited effect on long-term mental stress relief. In terms of indirect impact, small UGSs alleviate attentional fatigue through the mediation of nature connectedness, while large UGSs mainly mitigate mental stress and attentional fatigue through the mediation of social interaction. This study provides a natural-social integrated perspective on recreational ecosystem services to enhance the well-being of scientific researchers. We provide recommendations for researchers to mitigate work-related stress and fatigue and to offer information useful for decision-making support to create a healthy environment for scientific researchers.

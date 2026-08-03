@@ -1,0 +1,163 @@
+### RECORD ID=1306 | screening_verdict=INCLUDE | year=2026
+JOURNAL: JOURNAL OF TRANSPORT & HEALTH
+TITLE: Unveiling the nonlinear effects of street-level audiovisual environments on urban cycling volume
+DOI: 10.1016/j.jth.2026.102313
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Unveiling the nonlinear effects of street-level audiovisual 
+environments on urban cycling volume
+Ming Gao a, Congying Fang b,*
+a Institute of Creativity and Innovation, Xiamen University, Xiamen, 361005, China
+b College of Architecture and Urban Planning, Tongji University, Shanghai, 200092, China
+A R T I C L E I N F O
+Keywords:
+Cycling amount
+Built environment
+Nonlinear effect
+Sustainable transportation
+A B S T R A C T
+Introduction: Built environment attributes are widely recognized as key levers for promoting 
+cycling. However, their implementation is often limited by the spatial and economic constraints 
+of large-scale urban redevelopment. Existing research has largely overlooked the nonlinear and 
+potentially threshold-based relationships between environmental features and cycling behavior. 
+Moreover, cyclists’ sensory perceptions of street-level audiovisual environments remain insuffi­
+ciently considered, despite their importance for environmental comfort and perceived safety.
+Method: This study integrates interpretable machine learning and computer vision techniques to 
+examine how the perceived audiovisual environment influences cycling volume at the street level. 
+Using large-scale crowdsourced cycling trajectory data from a fitness tracking application and 
+street-level imagery, we derived audiovisual and built-environment indicators to train an 
+XGBoost model. Partial dependence analysis was employed to visualize and interpret the 
+nonlinear effects of key environmental features.
+Results: The findings reveal that both built and audiovisual factors exhibit complex nonlinear 
+associations with cycling volume, characterized by variable-specific thresholds and saturation 
+effects. Streets with greater visual openness, stronger presence of natural sounds, lower noise 
+intensity, and higher perceived safety were associated with substantially higher cycling volumes. 
+Acoustic attributes, particularly natural and mechanical sound components, showed distinct 
+nonlinear responses.
+Conclusion: This study provides new empirical evidence that street-level sensory environments 
+significantly influence cycling behavior in nonlinear ways. The results indicate that relatively 
+low-cost design interventions, including enhancing visual openness, using vegetation to reduce 
+noise, and strengthening perceived safety, can support the retrofitting of existing streetscapes. 
+These insights can support planners and policymakers in advancing more inclusive and sustain­
+able urban mobility.
+1. Introduction
+Bicycle-friendly urban design has long been a central topic in both transportation planning literature and practice across the globe 
+(Adam et al., 2020; Colville-Andersen, 2018). The deterioration of urban transport environments and the poor quality of associated 
+micro-scale streetscapes can discourage cycling and negatively impact public engagement in active travel modes (Rui and Xu, 2024; 
+* Corresponding author.
+E-mail address: congying_fang@tongji.edu.cn (C. Fang). 
+Contents lists available at ScienceDirect
+Journal of Transport & Health
+journal homepage: www.elsevier.com/locate/jth
+https://doi.org/10.1016/j.jth.2026.102313
+Received 5 November 2025; Received in revised form 27 February 2026; Accepted 26 March 2026 
+Journal of Transport & Health 49 (2026) 102313 
+Available online 3 April 2026 
+2214-1405/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Song et al., 2024). Perception plays a critical role in linking objective environmental attributes with cycling preferences and behaviors, 
+serving as a key mediator between physical conditions and travel outcomes (Qi et al., 2025; Zhang, Q. et al., 2024). Among these 
+perceptual dimensions, perceived safety has been shown to significantly encourage cycling in urban contexts (Song et al., 2024). From 
+a perceptual-environmental perspective, low-quality street-level audiovisual environments may undermine cyclists’ sense of trust and 
+comfort in the setting (Gelb and Apparicio, 2022; Sanchez et al., 2017), thereby limiting the sustainability of cycling as a mode of 
+transport and potentially reinforcing a downward cycle of low ridership (Zhuang et al., 2022). As an integral component of transport 
+environmental quality, the audiovisual dimension is crucial to understanding how urban environments shape cycling behavior. 
+Therefore, planners and policymakers around the world are increasingly interested in using limited resources to maximize the pro­
+motion of cycling as a mode of transport, whether through bikeshare systems or the design of dedicated cycling infrastructure (Gong 
+et al., 2024; Van Veghel and Scott, 2024). To foster more efficient and bicycle-friendly urban development, it is essential to identify the 
+key environmental attributes that influence cycling volume.
+This study draws on street view imagery, machine learning, and computer vision techniques to analyze data collected from the 
+central urban area of Shanghai, China. It addresses the following three research questions: 
+● Research question 1 (RQ1): Which street attributes are associated with higher cycling volume?
+● Research question 2 (RQ2): Which audiovisual features of the street environment play a more significant role in shaping cycling 
+volume?
+● Research question 3 (RQ3): Do nonlinear relationships exist between street-level audiovisual environments and cycling volume?
+This study makes three key contributions to the literature on bicycle-friendly urban planning and to the practice of improving and 
+transforming the quality of transport environments. First, it adopts a rarely used machine learning approach to examine the traffic 
+sound environment in the context of active transport. More importantly, by applying a machine learning method, the study generates 
+geospatially precise estimations of the street-level soundscape using street view imagery. This enables detailed auditory assessments at 
+the
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+3.1. Study area
+In this study, the central urban area of Shanghai, China, was selected as the case study site (Fig. 1). As one of China's highest-density 
+cities, Shanghai has in recent years strongly promoted green mobility and the development of non-motorized transport systems, with 
+continued improvements to cycling infrastructure. Under the planning framework of the “15-min community life circle,” cycling has 
+been repositioned as a key mode of sustainable urban mobility. The rapid expansion of the bikeshare system and the implementation of 
+cycling-friendly street retrofitting projects have contributed to a noticeable resurgence in cycling, with an increasing share of daily 
+trips now made by bicycle. The city's flat topography and well-connected road network further support short-distance urban cycling. In 
+addition, recent policies promoting low-carbon transport and sustainable development provide a policy-driven context for studying 
+cycling behavior. Together, these factors make Shanghai a compelling case for examining how street-level audiovisual environments 
+influence cycling activity in dense urban settings.
+3.2. Analytical framework
+This study proposes an analytical framework to assess the influence of street environments on cycling, as illustrated in Fig. 2. The 
+framework consists of four distinct steps aimed at enhancing our understanding of the environmental relationships between audio­
+visual characteristics of urban streets and cycling volume. First, Baidu Street View imagery, Points of Interest (POIs), and Open­
+StreetMap (OSM) road network data were collected and processed (Section 3.3). Built environment (BE) features were derived by 
+integrating POI distributions and street network metrics within a GIS-based framework. Second, cycling volume data were obtained at 
+the street segment level using cycling trajectory records from the KEEP platform (Section 3.4). Third, street-level audiovisual features 
+were quantified using machine learning and street view imagery (Section 3.5). These features included streetscape elements, 
+soundscape characteristics, and perceived environmental qualities. Specifically, streetscape refers to the objective visual character­
+istics of the street, while soundscape and perceived quality represent the predicted acoustic environment (Zhao et al., 2023) and 
+subjective impressions (Gao and Fang, 2025c; Rui and Xu, 2024), respectively, derived from computer vision-based assessments. 
+Finally, an XGBoost model was employed to capture the nonlinear relationships between environmental features and cycling volume. 
+Fig. 1. Locations of the sampled districts in the central urban area of Shanghai, China.
+M. Gao and C. Fang 
+Journal of Transport & Health 49 (2026) 102313 
+4 
+
+Partial dependence plots (PDPs) were used to interpret feature importance and visualize marginal effects (Section 3.6).
+3.3. Data collection
+Street view imagery (SVI) was obtained through the Baidu Maps Application Programming Interface (API), which provides access 
+to an extensive repository of panoramic images captured across China. To ensure spatial coverage and adequately represent the visual 
+characteristics of the study area, street-level imagery was sampled at 100-m intervals along all streets within the defined urban 
+boundary. A total of 24,529 sampling points were included, and image acquisition was completed by the end of 2024. Although 
+seasonal variation in vegetation exists in Shanghai, the majority of dominant street trees are evergreen species, and the spatial 
+configuration of greenery remains relatively stable across seasons. Therefore, the captured imagery primarily reflects structural 
+streetscape characteristics rather than short-term phenological fluctuations. Baidu's street view system typically captures imagery 
+under clear and temperate weather conditions, ensuring relatively consistent visual quality. Following established practices from 
+previous studies, API parameters were specified as follows: image resolution was set to 1024 × 1024 pixels, and four images were 
+retrieved from each sampling point at horizontal field-of-view angles of 0◦, 90◦, 180◦, and 270◦, respectively. This approach enabled a 
+comprehensive panoramic representation of each streetscape. The resulting imagery served as the basis for estimating street-level 
+audiovisual environments using machine learning and computer vision techniques (see Sections 3.5.1, 3.5.2, and 3.5.3).
+3.4. Dependent variable
+Cycling GPS trajectory data were obtained from the KEEP fitness application, one of the most widely used sports tracking apps in 
+China and comparable to Strava in the United States. KEEP has more than 300 million registered users, including office workers, and 
+cycling enthusiasts (Li et al., 2025). The trajectory data used in this study were collected from users who recorded and uploaded their 
+cycling activities to the KEEP platform during July 2023. The platform generates structured volunteered geographic information (VGI), 
+including detailed ride-level information such as trajectory ID, trip duration, distance, and start and end times. KEEP-based trajectory 
+data have been increasingly applied across various research fields, including trajectory pattern mining (Li et al., 2025), the relationship 
+between the built environment and active travel (Zhang, S. et al., 2024), and exercise intensity analysis (Qiu et al., 2024), underscoring 
+their growing value and potential for urban cycling behavior research. Trips recorded on KEEP are more likely to reflect exercise, 
+leisure, or discretionary cycling behaviors. This potential sampling bias is common to many fitness-tracking datasets (e.g., Strava) and 
+Fig. 2. Analytical framework.
+M. Gao and C. Fang 
+Journal of Transport & Health 49 (2026) 102313 
+5 
+
+should be considered when interpreting the results.
+To ensure data anonymity, personally identifiable information (e.g., names, age, or gender) was not accessible. Each ride wa
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). As one of China's highest-density 
+Fig. 2. The 
+Fig. 1. Locations of the sampled districts in the central urban area of Shanghai, China.
+Fig. 2. Analytical framework.
+Table 1. These features are commonly operationalized as pixel ratios of specific visual elements extracted 
+Fig. 3. Specifically, soundscape feature extraction was conducted through three types of pre-trained deep learning models. At the pixel 
+Fig. 4).
+Table 1 
+Fig. 3. Soundscape indicators (Zhao et al., 2023).
+Fig. 4. Workflow of the XGBoost-based modeling approach.
+Fig. 5. Relative contribution of predictor variables.
+Fig. 5 presents the relative importance of environmental variables in predicting cycling volume. Overall, built environment features 
+Fig. 6. Nonlinear effects of acoustic environment features on cycling volume.
+Fig. 6, different types of soundscape features exhibit significant and nonlinear effects on cycling volume. While most 
+Fig. 7. Nonlinear effects of visual environment features on cycling volume.
+Fig. 7 presents the PDPs for visual environmental features. The effect of openness on cycling volume demonstrates a pronounced 
+Fig. 8 presents the PDPs for perceptual environmental features. Both perceived beauty and perceived safety exhibit positive as­
+Fig. 9 presents the partial dependence plots (PDPs) for key built environment features and their nonlinear effects on cycling 
+Fig. 8. Nonlinear effects of perceived environmental qualities on cycling volume.
+Fig. 9. Nonlinear effects of built environment features on cycling volume.

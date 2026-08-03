@@ -1,0 +1,218 @@
+### RECORD ID=909 | screening_verdict=BORDERLINE | year=2023
+JOURNAL: Sustainability (Switzerland)
+TITLE: Designing Public Soundscapes through Social Architecture and Soundscape Approaches: Reflective Review of Architectural Design Studio
+DOI: 10.3390/su151612399
+PAGES: 24
+
+--- HEAD (title/abstract/intro) ---
+Citation: Hong, J.-Y.; Chong, K.H.
+Designing Public Soundscapes
+through Social Architecture and
+Soundscape Approaches: Reﬂective
+Review of Architectural Design
+Studio. Sustainability 2023, 15, 12399.
+https://doi.org/10.3390/
+su151612399
+Academic Editor: Jian Kang
+Received: 29 April 2023
+Revised: 8 August 2023
+Accepted: 11 August 2023
+Published: 15 August 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Designing Public Soundscapes through Social Architecture and
+Soundscape Approaches: Reﬂective Review of Architectural
+Design Studio
+Joo-Young Hong 1,*
+and Keng Hua Chong 2
+1
+Department of Architectural Engineering, Chungnam National University, Daejeon 34134, Republic of Korea
+2
+Architecture and Sustainable Design, Singapore University of Technology and Design, Singapore 487372,
+Singapore; chongkenghua@sutd.edu.sg
+*
+Correspondence: jyhong@cnu.ac.kr; Tel.: +82-42-821-5619
+Abstract: This paper provides a reﬂective review of an architectural design studio that utilized
+both social architecture and soundscape approaches to create human-centered and context-based
+designs for urban public spaces. During ﬁeld research, students in the studio analyzed four different
+public spaces in Marina Central BID, Singapore, employing a combination of social architecture
+(behavioral trace and activity mapping) and soundscape (acoustic measurement and soundwalk)
+methods. Through this process, the students identiﬁed issues related to social architecture and
+soundscapes and developed soundscape design strategies to improve the quality of the public spaces.
+The soundscape design strategies were categorized into three groups: the introduction of desirable
+sounds, the reinforcement of desired sounds, and the reduction in unwanted sounds. This paper
+shows that the integration of social architecture into soundscape design education enables students to
+better comprehend the social–behavioral aspects of the environment and create more comprehensive
+and enjoyable public soundscapes.
+Keywords: soundscape; social architecture; design studio; public spaces; soundscape education
+1. Introduction
+Over the last decades, the importance of soundscapes for enhancing overall environ-
+mental quality has been becoming increasingly recognized in the ﬁeld of architecture and
+urban design [1–3]. According to ISO 12913-1 [4], a soundscape is deﬁned as “an acoustic
+environment as perceived or experienced and/or understood by a person or people, in
+context”. Unlike a conventional noise control approach mainly aiming at reducing or
+eliminating noise levels, the soundscape approach prioritizes improving the perceived
+acoustic environment by considering the interdependence between humans and sounds
+within a speciﬁc context [2,5]. Sound pressure levels alone do not adequately determine the
+acoustic quality of urban public spaces as they do not correlate well with human perception.
+Additionally, solely characterizing sounds based on their intensity poses a problem [2]. The
+soundscape approach emphasizes the importance of considering the types of sound sources
+within its context for a comprehensive evaluation of acoustic quality [6]. Therefore, the
+soundscape approach takes a more holistic view of sounds in the environment and focuses
+on creating perceptually pleasant and appropriate acoustic environments by incorporating
+the desired sounds and minimizing unwanted ones [5,7]. Recently, the increasing signif-
+icance of soundscapes has led to the incorporation of the soundscape approach into the
+noise policies of several countries, such as the UK [8,9], Wales [10], and South Korea [11].
+Despite this growing awareness, there is still a gap between soundscape research and de-
+sign practices [3]. Particularly, current architectural design programs in many universities
+still do not provide comprehensive training and teaching in soundscape design. This is
+because conventional architectural design education focuses mainly on the visual aspects
+Sustainability 2023, 15, 12399. https://doi.org/10.3390/su151612399
+https://www.mdpi.com/journal/sustainability
+
+Sustainability 2023, 15, 12399
+2 of 24
+of design, with less attention given to other sensory experiences such as sound, texture,
+and smell.
+To address this gap, several attempts have been made to incorporate the soundscape
+approach into design education programs [12–14]. Kandemir and Özçevik Bilen [12] con-
+ducted a review of an architectural design studio with a theme of soundscapes that was
+held during the academic year of 2015–2016 at the Department of Architecture at Anadolu
+University, Turkey. They presented a comprehensive approach to the soundscape design
+studio that involved various phases, such as binaural sound recordings, acoustic analyses,
+identiﬁcation of context and issues, and ﬁnal design outcomes. Winne et al. [12] presented
+an overview of the 2019 soundscape hackathon event held during the Urban Sound Sympo-
+sium in Ghent, Belgium, where participants were tasked with designing urban soundscape
+interventions using virtual reality visualization and auralization technologies and present-
+ing their solutions to a professional jury. In their paper, they analyzed the process, results,
+beneﬁts, and shortcomings of the hackathon. Xiao et al. [14] used a reﬂective practice
+approach to compare the educational processes of sound engineering and architectural
+design students across four projects conducted in different UK higher education institu-
+tions between 2015 and 2020. They examined how the soundscape approaches such as
+soundwalks, acoustic measurements, and computational simulations could be integrated
+into teaching building acoustics and design studios, while also discussing potential future
+directions for soundscape design education.
+The previous studies on sou
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+The curriculum of SDOS 2 was 14 weeks long, with design studios twice per week. In
+total, 12 undergraduate students at the ASD SUTD participated in the soundscape design
+studio. The studio adopted a design approach with three phases, as illustrated in Figure 2:
+•
+Phase 1: Lectures on theories of soundscape and social architecture;
+•
+Phase 2: Field research for social architecture and soundscape analyses;
+•
+Phase 3: Development of soundscape design proposals.
+
+Sustainability 2023, 15, 12399
+5 of 24
+Figure 2. Course outlines from Phase 1 to Phase 3 for the SDOS 2.
+During Phase 1 (Weeks 1–3), the students learned the principles of the soundscape
+approach and social architecture and conducted design precedent studies. Instructors gave
+lectures on soundscape theories and design practices. The students learned methods for
+soundscape data collection and analysis, such as soundwalks and acoustic measurements,
+based on ISO/TS 12913-2 [26] and ISO/TS 12913-3 [27]. The students studied the key
+concepts and design processes in social architecture theories and also learned various
+methods, such as counting, mapping, and tracing, to explore public life.
+Throughout Phase 2 (Weeks 4–5), the students observed and analyzed the contexts
+of the selected spaces in terms of activities, space functions, and users by applying social
+architectural methods such as counting, behavioral tracing, and activity mapping during the
+ﬁeldwork. The activity mapping method is a useful tool for identifying and understanding
+patterns of behavior within a speciﬁc place. It visually represents activities, people, and
+points of interest on a map of the study area, using symbols to indicate the type and
+frequency of activities and their speciﬁc locations. This method provides valuable insights
+into how the area is used and experienced by its users. The method of tracing human
+behaviors visualizes information on people’s movements and choices of routes in the study
+area. It involves drawing lines on a map or plan to depict the paths and movements of
+individuals across the study area. This method captures valuable information about the
+spatial patterns of human activity and movement, shedding light on popular routes, areas
+of congestion, and preferred paths. The students visualized the behavioral and tracing
+maps by using Adobe Photoshop and Illustrator.
+The students also conducted on-site soundscape measurements and analyses at the
+selected sites according to ISO/TS 12913-2 [26]. The students utilized the NoiseCapture
+(version 1.2.22 2021) smartphone application [28], an Android application available for free
+as open-source software, to measure the acoustic environments at the chosen sites. The ap-
+plication employs the smartphone’s built-in microphone to measure real-time sound levels
+and noise indicators, including A-weighted equivalent sound levels, spectra, and percentile
+values. However, smartphone microphones are not always calibrated for precise sound
+measurements, resulting in potential uncertainties and inconsistencies in the measurement
+data. Furthermore, the quality of the built-in microphone can vary among different smart-
+phone models, affecting the accuracy and reliability of the sound measurements. Thus, the
+acoustic measurement results were not presented in this paper due to concerns regarding
+the accuracy of the students’ smartphone microphone calibration.
+Meanwhile, a soundwalk, a method involving walking in an area and attentively
+listening to the acoustic environment, was conducted to assess the perceived acoustic
+environment of the sites using the questionnaire protocol Method A, outlined in ISO/TS
+12913-2 [26]. The Method A questionnaire consists of three sections. The ﬁrst section
+evaluates the dominance of the identiﬁed sound source types on a 5-point scale, ranging
+from “1: do not hear at all” to “5: dominates completely”. The sound sources are categorized
+into six groups, including trafﬁc noise, sounds from humans, water sounds, bird sounds,
+
+Sustainability 2023, 15, 12399
+6 of 24
+wind sounds, and ventilation noises. An open-ended option is also provided to capture
+other sounds of interest to the participant. The second section assesses the perceived
+affective quality of the soundscape using eight adjective attributes (pleasant, annoying,
+vibrant, monotonous, calm, chaotic, eventful, and uneventful) on a 5-point scale, ranging
+from “1: Strongly disagree” to “5: Strongly agree”. The adjective attributes include pleasant,
+chaotic, vibrant, uneventful, calm, annoying, eventful, and monotonous. The third section
+evaluates the overall soundscape quality on a 5-point scale, ranging from “1: Very bad”
+to “5: Very good”. Based on the collected soundscape data, the students analyzed the
+soundscape characteristics of the sites using various visual representations, including
+sound source maps and soundscape quality maps [29,30].
+Throughout the ﬁeldwork, the students were divided into four groups, each consisting
+of three or four students, and each group was assigned a speciﬁc target site among the four
+public sites. During the soundwalks, each group of students selected evaluation locations
+within the assigned public space where they experienced distinct acoustic environments.
+The ﬁeldwork, including the behavioral observations and soundwalks, took place from
+08:00 in the morning until 18:00 in the evening. It is important to note that, due to social
+distancing measures during the COVID-19 pandemic, only the students in the design studio
+participated in the soundwalks.
+During Phase 3 (Weeks 6–14), the students focused on developing and elaborating
+soundscape design concepts for selected urban public spaces. The students translated their
+soundscape design strategies into urban public space designs. Throughout the course,
+the students convincingly communicated their sustainable design solutions in the form of
+renderings, drawings, and acoustic simulations. Particularly, a workshop was conducted
+to teach st
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows four public spaces (South Beach, Suntec City, Marina Square, and
+Figure 1. Four urban public spaces identiﬁed within Marina Central Business Improvement District:
+Figure 1a, the ﬁrst public space located in South Beach is currently a transitory area, linking
+Figure 1b.
+Figure 1c, the third public space in
+Figure 1d, the
+Figure 2:
+Figure 2. Course outlines from Phase 1 to Phase 3 for the SDOS 2.
+Figure 3
+Figure 3a, people’s major or minor paths at South Beach are
+Figure 3b, an activity
+Figure 4a shows some
+Figure 4b illustrates the results of the perceived affective quality of the
+Figure 3. Examples of social architecture analysis obtained from the ﬁeld research at South Beach:
+Figure 4. Examples of soundscape analysis from the ﬁeld research: (a) thematic sound maps at Suntec
+Figure 5. In this proposal, two different soundscape approaches were applied. Firstly, water
+Figure 5. Urban Stage: social implications of the stage and soundscape strategies including water
+Figure 6. The ﬁrst strategy was
+Figure 6. Alley: Bamboo wind chimes and street benches (Visual credits: Paris Lau Sherneese, 2020).
+Figure 7. Additionally,
+Figure 7. Suntec Party City: Stepping stones as individual danceﬂoors and waterfall meditation
+Figure 8. Due to its proximity to a busy roadway, the site’s soundscape was char-
+Figure 9. To create a unique sound experience,
+Figure 8. Luncheon with Beneﬁt: Adjustable modular system with green walls and water features
+Figure 9. Collation: Paver design and adjustable urban furniture (visual credits: Clarissa Maharani

@@ -1,0 +1,8 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+1226,quantitative_descriptive,Y,Y,Y,Y,Y,N,Y,4,high,"응답률 30~58%·무응답 편의 미검증, 자기보고 신체활동으로 공통방법편의 우려"
+1232,qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"전문가 12인 온라인 진행, 참여자 검증 미실시로 전이가능성 제한"
+1242,quantitative_descriptive,Y,Y,Y,CT,Y,Y,Y,4,high,단일 해안지·오후 시간대·성비 편중으로 표본 대표성 불확실
+1258,quantitative_descriptive,Y,Y,CT,N,Y,Y,Y,3,moderate,"응답자 표집절차 미기술, 청년층 87%로 연령 대표성 결여"
+1272,quantitative_nonrandomised,Y,Y,N,Y,Y,Y,Y,4,high,대학생 40명·남성 편중 표본과 VR 환경으로 일반화 제한
+1280,quantitative_descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"배포 설문 수 미보고로 무응답률 불명, 2개 마을·단일 계절"
+1306,quantitative_descriptive,Y,Y,Y,N,CT,N,Y,2,low,"음환경 실측 부재·앱 이용자 자기선택 편의, 설명력 R2=0.402"

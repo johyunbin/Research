@@ -1,0 +1,199 @@
+### RECORD ID=1272 | screening_verdict=INCLUDE | year=2026
+JOURNAL: TRANSPORTATION RESEARCH PART F-TRAFFIC PSYCHOLOGY AND BEHAVIOUR
+TITLE: Perception and response of cyclists interacting with autonomous electric vehicles - a virtual reality study
+DOI: 10.1016/j.trf.2026.103707
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Perception and response of cyclists interacting with autonomous 
+electric vehicles - a virtual reality study☆
+Yixin Sun , Haneen Farah , Yan Feng *
+Department of Transport & Planning, Faculty of Civil Engineering and Geosciences, Delft University of Technology (TU Delft), Stevinweg 1, 2628, 
+CN, Delft, the Netherlands
+A R T I C L E I N F O
+Keywords:
+Cyclist
+Autonomous electric vehicles
+External human-machine Interface
+Acoustic vehicle alerting system
+Virtual reality
+A B S T R A C T
+Autonomous electric vehicles (AEVs) will increasingly characterize future motorized traffic in 
+urban areas. These vehicles are often silent and can be driverless. Therefore, understanding the 
+interactions between these vehicles and vulnerable road users (VRUs) is crucial for traffic safety. 
+This study explores the impact of an additional auditory alert system and external human- 
+machine interfaces (eHMIs) on AEVs on cyclists' interaction behavior, comfort, and safety 
+under varying vehicle–signal conditions and environmental noise levels. This study employed 
+immersive Virtual Reality (VR) technology to simulate cycling across 18 traffic scenarios, using a 
+within-subjects design with 40 participants. These scenarios included two vehicle types: auton­
+omous conventional vehicles (ACVs) and autonomous electric vehicles (AEVs), two levels of 
+ambient noise levels (quiet residential areas; noisier streets), and three levels of eHMI signal 
+trigger distances (15, 20, 25 m). Data regarding cycling behavior (e.g., response distance, speed 
+variation, gaze direction) and cyclists' perceptions (e.g., realism, simulator sickness, presence, 
+trust, and perceived safety) were collected through VR and post-experiment questionnaires, 
+respectively. We found that compared to vehicles equipped only with an eHMI, AEVs with 
+auditory alerts significantly enhanced cyclists' perceptions and responses, with cyclists detecting 
+the vehicles earlier and responding faster. Subjective feedback also indicated a stronger sense of 
+safety and comfort, such as smoother deceleration that indicated natural responses and reduced 
+stress. Participants also reported a more comfortable interaction experience with AEVs with 
+auditory alerts. These findings provide evidence that equipping AEVs with additional auditory 
+alerts improves the safety and comfort of cyclists in their interactions with AEVs in urban envi­
+ronments. Therefore, policymakers are advised to consider this when setting regulations for the 
+deployment of AEVs in urban areas.
+1. Introduction
+With the rapid development of autonomous vehicle (AVs) technology and electric vehicle (EVs) technology, autonomous electric 
+vehicles (AEVs) are emerging as a new trend in the future of transportation. AEVs combine the significant potential of AVs to improve 
+energy efficiency (Bachute and Subhedar, 2021; Fu et al., 2022; Muhammad et al., 2021), optimize traffic flow (Chen et al., 2023; Garg 
+☆This article is part of a Special issue entitled: ‘ICTCT 2024- TRF’ published in Transportation Research Part F: Psychology and Behaviour.
+* Corresponding author.
+E-mail addresses: h.farah@tudelft.nl (H. Farah), y.feng@tudelft.nl (Y. Feng). 
+Contents lists available at ScienceDirect
+Transportation Research Part F: 
+Psychology and Behaviour
+journal homepage: www.elsevier.com/locate/trf
+https://doi.org/10.1016/j.trf.2026.103707
+Received 23 July 2025; Received in revised form 15 April 2026; Accepted 11 June 2026 
+Transportation Research Part F: Psychology and Behaviour 121 (2026) 103707 
+Available online 18 June 2026 
+1369-8478/© 2026 The Author(s). 
+Published by Elsevier Ltd. 
+This is an open access article under the CC BY license 
+( http://creativecommons.org/licenses/by/4.0/ ). 
+
+et al., 2021; He et al., 2022), and reduce traffic crashes by minimizing human error (Shimanuki et al., 2025). Similarly, EVs offer 
+advantages in reducing carbon emissions and promoting environmental sustainability (Sadek, 2012; Verheijen and Jabben, 2010). 
+However, a major challenge to the widespread adoption of AEVs lies in ensuring the safe interaction between AEVs and other road 
+users, especially vulnerable road users (VRUs) in urban areas.
+Despite the promising advancements in autonomous driving technology, there remain substantial challenges in practical 
+applications—particularly in the interaction with vulnerable road users (VRUs). A core issue stems from the potential lack of human 
+drivers in AVs, which eliminates traditional implicit communication cues such as eye contact, hand gestures, or head nods (Rasouli 
+et al., 2017). As a result, VRUs can no longer rely on these subtle signals to infer the vehicle's intentions or anticipate its move­
+ments, making interaction more uncertain and potentially unsafe (Rezwana and Lownes, 2024; Rothenbücher et al., 2016). To address 
+this challenge, many researchers have proposed using external human-machine interfaces (eHMIs), which aim to convey vehicle in­
+tentions through intuitive signals, such as lights, text, or sounds, to improve the interactions between AVs and VRUs (Feng et al., 2025; 
+Wilbrink et al., 2021). Some studies suggest that eHMIs can help VRUs (e.g., pedestrians and cyclists) better understand vehicle in­
+tentions, thereby improving perceived safety and trust in automated vehicles (Dey et al., 2020; Feng et al., 2023). However, current 
+findings on the effectiveness of eHMIs remain mixed. Other studies indicate that their effects may be limited or highly dependent on 
+factors such as interface design, traffic context, environmental conditions, and users' interpretation of the signals (Yang et al., 2024). In 
+recent years, multimodal eHMI systems combining signals such as visual and auditory cues have gained increasing attention and are 
+considered more promising in complex traffic environments (Berge et al., 2023). This is because auditory eHMI signals can partially 
+compensate for the limitations of visual cues, providing VRUs with different types 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Experiment design
+This study employed immersive VR experiments to investigate the effects of environmental noise level, vehicle–signal condition, 
+and eHMI signal trigger distance on cyclists' behavior. A within-subject design approach was adopted to eliminate individual differ­
+ences for comparison across different scenarios. The main variables that were considered in the experiment and their definitions, 
+including independent variables, intermediate variables, and dependent variables, are presented in Table 1.
+This study focused on three primary independent variables and their effects on cyclists' behavior, namely environmental noise 
+level, vehicle–signal condition (a categorical variable with three levels), and eHMI signal trigger distance. These variables were 
+designed to simulate various conditions that cyclists may encounter in real traffic environments and to analyze their impact on cyclists' 
+behavioral and perceptual responses. This study systematically manipulated these three independent variables, generating a total of 
+eighteen experimental scenarios. These scenarios were evenly divided into two levels of environmental noise, representing quieter and 
+noisier ambient sound conditions within the same roadside street context. Within each level, the scenarios were further subdivided into 
+nine distinct conditions determined by variations in the eHMI signal trigger distance (i.e., 15 m, 20 m, 25 m) and vehicle–signal 
+condition (i.e., ACV with visual eHMI, AEV with visual eHMI, and AEV with visual eHMI and additional auditory alert).
+The selected eHMI trigger distances were determined based on both a behavioral design reference and pilot testing in the VR 
+simulator. The AASHTO Guide for the Development of Bicycle Facilities assumes a bicyclist perception–reaction time of 2.5 s when 
+determining minimum stopping sight distance (American Association of State Highway and Transportation Officials (AASHTO), 
+1999). In the pilot sessions, participants typically cycled at approximately 5 m/s in the simulator. On this basis, 15 m was selected 
+as the minimum trigger distance, corresponding to approximately 3 s of advance warning, which is slightly above the 2.5-s reference 
+Table 1 
+Main variables and their definitions.
+Independent variables
+Variable
+Definition
+Levels and indicators
+Environment noise 
+level
+The level of ambient noise in the environment
+Quiet residential areas; More noisy streets
+Vehicle–signal 
+condition
+Vehicle configurations combining vehicle powertrain type and 
+communication modality
+ACV with visual eHMI; AEV with visual eHMI; AEV with visual 
+eHMI and additional auditory alert
+eHMI signal trigger 
+distance
+The distance at which the eHMI signal is activated
+Short (15 m); medium (20 m); and long trigger activation 
+distances (25 m)
+Intermediary variables
+Noise
+Combines ambient noise level and idle engine noise from vehicles
+Simulates real-world road environments with varying 
+background noise levels to test cyclist perception
+Warning signal
+Determined by the combination of trigger distance and vehicle–signal 
+condition
+Assesses how signal strength and vehicle configuration affect 
+cyclists' responses
+Dependent variables
+Response position
+The distance between the cyclist and the vehicle at the time of 
+response
+Measures how fast the cyclist reacts under different 
+experimental conditions
+Response completion 
+position
+The distance between the cyclist and the vehicle when the cyclist 
+completes their response
+Measures the cyclist's complete response behavior under 
+different conditions
+Max deceleration
+The max deceleration applied by the cyclist when responding
+Reflects the cyclist's perception of the urgency of the signal
+Roadside attention
+The direction and duration of the cyclist's head orientation towards 
+the roadside parked vehicles or auditory signal sources
+Indicates the cyclist's sensitivity to warning signals and ability 
+to focus on information in complex environments
+Y. Sun et al. 
+Transportation Research Part F: Psychology and Behaviour 121 (2026) 103707 
+3 
+
+and still allowed participants sufficient time to perceive the signal and produce a measurable response. The other two distances, 20 m 
+and 25 m, were then added in roughly 1-s increments to represent progressively earlier warning onset.
+These vehicle–signal conditions were not intended to represent a fully crossed vehicle-type factor; rather, they were designed to 
+reflect three practically relevant communication configurations. Specifically, the comparison between ACV with visual eHMI and AEV 
+with visual eHMI was intended to examine whether the much lower vehicle noise of AEVs, compared with ACVs, may make them less 
+detectable to cyclists. On this basis, the AEV with visual eHMI and additional auditory alert condition was included to test whether an 
+extra auditory cue could compensate for this potential detectability disadvantage. In each scenario, only one variable was changed, 
+while all other variables remained constant.
+The current study included three intermediate variables to help explain how the independent variables influenced cyclists' 
+behavior. The first intermediate variable is noise level, which is jointly determined by environmental noise level (i.e., the surrounding 
+ambient sound conditions) and vehicle–signal condition (i.e., different engine-noise characteristics of ACVs and AEVs). The second 
+intermediate variable is the warning signal, which is determined by the combination of trigger distance and vehicle–signal condition. 
+Specifically, the vehicle–signal condition determines the configuration of visual and/or auditory signals (e.g., ACVs were equipped 
+with visual eHMI only, whereas AEVs were presented either with visual eHMI alone or with visual eHMI plus an additional auditory 
+alert), and the eHMI signal trigger distance determines when the signal is activated. Together, these two factors form the basis for the 
+warning signal that the cyclist receives.
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1.
+Table 1 
+Fig. 1). This simulated road is 1400 m long and 4.5 m wide, representing a standard 
+Fig. 1. Illustration of the virtual environment.
+Fig. 2. Each parking zone represented an experimental segment, where all vehicles 
+Fig. 2).
+Fig. 2).
+Fig. 3 or additional auditory 
+Fig. 2. Top View of the Experimental Scenario.
+Fig. 4). The VR bicycle simulator was developed by the 
+Fig. 3. Roof-mounted eHMI light signals emitted from the point of view of the cyclist.
+Fig. 4. A participant using the VR bicycle simulator.
+Fig. 5. The experiment received ethical approval 
+Fig. 5. Overview of the experimental procedure
+Fig. 6, the marked reaction point accurately reflects the participant's initial response to the warning signal.
+Fig. 6. Speed profile illustrating the point where the cyclist's reaction begins and the response completion position relative to the vehicle position.
+Table 2.
+Table 2 
+Table 3.
+Table 4, indicated that Immersion and Sensory Fidelity received the highest scores, suggesting that participants 
+Table 5.
+Table 5 presents the fixed effects and interaction effects of environmental noise level, vehicle–signal condition, and signal trigger 
+Table 3 
+Table 5. Significant main effects were found for envi­
+Table 4 

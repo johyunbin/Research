@@ -1,0 +1,247 @@
+### RECORD ID=930 | screening_verdict=INCLUDE | year=2023
+JOURNAL: SUSTAINABILITY
+TITLE: Measuring the Soundscape Quality in Urban Spaces: A Case Study of Historic Urban Area
+DOI: 10.3390/su15054255
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Citation: Hosseini, A.; Kowkabi, L.
+Measuring the Soundscape Quality in
+Urban Spaces: A Case Study of
+Historic Urban Area. Sustainability
+2023, 15, 4255. https://doi.org/
+10.3390/su15054255
+Academic Editor: Miguel Amado
+Received: 31 December 2022
+Revised: 1 February 2023
+Accepted: 7 February 2023
+Published: 27 February 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Measuring the Soundscape Quality in Urban Spaces: A Case
+Study of Historic Urban Area
+Ali Hosseini 1
+and Leila Kowkabi 2,*
+1
+Department of Human Geography, University of Tehran, Tehran 1417853933, Iran
+2
+Department of Urban Design, Faculty of Architecture and Urban Planning, University of Art,
+Tehran 1136813518, Iran
+*
+Correspondence: l.kowkabi@art.ac.ir
+Abstract: The goals of a good soundscape are to create a sense of place, provide comfort to the users,
+and encourage intractability in a public space. At the same time, many public areas in cities are having
+problems due to the weakness in creating the opportunity for people to attend. Therefore, knowing
+the importance of the subject, this study has measured the aspects of the sonic environment and
+investigated its effect on the attendance of 15 Khordad Street, District 12, Tehran. The results of this
+study showed that attendance in urban spaces based on the aspects of the sonic environment focuses
+on the quality of the surrounding environment as a source of sound. By assessing the perceptual and
+sensory aspects of sounds in the environment, it is possible to understand the effects of sound on the
+behaviors, activities, and overall pleasantness of the space for the users. Based on the three statistical
+communities related to the study, among the key ﬁndings, we show that the majority of attendance to
+the case area was for the purpose of studying, shopping, and work, and despite the fact that this case
+study is a historic area, people are less willing to attend it. This street, part of which is designed as a
+pedestrian area, encourages individualism, and not bringing friends and family along is reinforced
+by unpleasant psychological effects. Since nowadays the problems of the sonic environment are
+expanding in cities, and noise pollution in some parts of Tehran is considered a major environmental
+problem, the ﬁndings of this study have taken a step to increase urban sustainability and try to
+improve the main criteria and results, which were to rationally evaluate the existing situation of
+attendance in urban spaces affected by the qualities of the sonic environment, to promote the policy
+and strategic city planning for city managers.
+Keywords: people attendance; soundscape; sonic environment; public open space; historic urban area
+1. Introduction
+The ever-increasing pace of urban life and rapid developments in urban population
+growth trends, along with poor urban planning and management, have led to the rise in
+formidable challenges to the public health of the urban public, especially in developing
+countries [1–4]. Still, changes on a global scale are more rapid and alarming, with signiﬁcant
+impacts on human health during the past century [5]. This process continues in the present
+century so it is predicted that by 2050 almost 68% of the world’s population will live in
+cities [6]. With continued growth and redevelopment within cities, urban planners are now
+responsible for designing cities that enhance the quality of the sonic environment [7–9].
+The sonic environment, including acoustic ecology and diversity, has been neglected in
+urban design and planning [10–12]. The qualitative aspects of sound are considered critical
+factors for healthy cities [13,14]. Many reports have stated that due to rapid urbanization
+and industrialization, noise pollution has been gradually growing and adversely affects
+mental and physiological health [15–17]. Trafﬁc and transport noise pollution in particular
+is a big environmental problem in cities that is not limited to a city; it is considered a larger
+problem affecting city lifestyle in modern environments [18–20].
+Sustainability 2023, 15, 4255. https://doi.org/10.3390/su15054255
+https://www.mdpi.com/journal/sustainability
+
+Sustainability 2023, 15, 4255
+2 of 19
+High noise levels are harmful to people’s activities which need concentration. The
+International Organization for Standardization (ISO) deﬁnes noise as any acoustic phe-
+nomenon which is perceived as annoying and disturbing. The World Health Organization
+(WHO) has a standard of 70, 50, and 35 decibels (dB) for residential areas and hospital
+rooms in the daytime [21]. Meanwhile, the range of 60 to 91 dB has been recorded in the
+studied area in District 12 of Tehran, 15 Khordad Street. The growth in population, the
+increase in motor vehicles, production workshops, and commercial land uses are among
+the factors that cause unpleasant sounds and noise pollution in this area.
+This study focuses on the importance of urban soundscape components which in-
+ﬂuence the rate of people’s attendance, their experience, and satisfying users in a public
+open space (POS). Then, this study helps to optimize the soundscape for city sustainability.
+This is followed by an applied study of 15 Khordad Street, a part of the noisiest district
+in Tehran, and the data are collected through a questionnaire of three groups of users in
+the study area, regarding the development for satisfying dimensions. Finally, this paper
+suggests some recommendations for developing user satisfaction with urban open spaces
+based on the soundscape and its application in urban design and planning.
+2. Literature Review
+The diverse bodies of soundscapes literature have been reviewed in this study to deﬁne
+the indicators of people’s attendance in a POS. According to the soundscape deﬁnition
+by the International
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+3.1. Method
+Based on the literature review, the indicators and variables have been extracted. These
+indicators and variables are shown in Figure 1. Based on these variables, we adjusted our
+questions. In order to collect the data, a structured questionnaire was used. Questionnaire
+distribution was performed in speciﬁc points and by cluster sampling method between
+9:00 a.m. and 5:00 p.m. In this study, three groups of space users were included as
+participants in the research: a. merchants and tradesmen, itinerant sellers, and peddlers:
+due to their constant presence in the space, they have complete information with the
+auditory and visual environment; b. citizens and residents of 15 Khordad Street are regular
+customers, and because of their presence in this area, they are more familiar with the audio
+and visual space and are inﬂuenced by it. Regular customers and buyers generally refer
+to this range frequently with the aim of using commercial spaces at different times and
+
+Sustainability 2023, 15, 4255
+5 of 19
+for major and minor purchases; and c. passersby and tourists: the historic area of central
+Tehran is visited by tourists both those who are ﬁrst-time visitors (mostly foreign) and
+those who are returning (mostly domestic tourists and travelers). The sample size was
+estimated to be 96 people through Cochran’s formula [63] for unknown conditions and
+according to the conditions of COVID-19 with a probability of 90% conﬁdence. Each of the
+three groups consisted of 96 people.
+The validity of the questionnaire was conducted through content validity. The reli-
+ability of the questionnaire was measured by Cronbach’s alpha coefﬁcient and its value
+was 0.761, which shows that the internal correlation between the variables is very high. To
+measure each of the variables in the questionnaire, a ﬁve-level Likert scale (from very low
+being equal to 1 to very high being equal to 5) was used. The collected data were analyzed
+through SPSS software. For the overall evaluation of the indicators and variables, the
+percentage of satisfaction, mean, and variance, and also for the relationships between the
+indicators and research variables, one-way analysis of variance (ANOVA) and regression
+were used.
+3.2. Case Study
+Tehran is considered the administrative and economic center of Iran and the city
+with the greatest concentration of population and economic activity. District 12 in Tehran
+municipality is known as the heart of Tehran because it is the city’s central and historic
+district where one of the most important streets left of old Tehran, 15 Khordad Street, is
+located. This street is one of the busiest streets near Tehran’s central market, which has
+been turned into a pedestrian street over the past years, and access for riders to it is limited
+(Figure 2).
+The areas with the highest amount of noise pollution are, respectively, District 9, 10, 11,
+12, 16, and 21, and the lowest amount of noise pollution is reported in District 3 and 18 in
+Tehran. This is even though, over the past 10 years, the average amount of noise pollution
+in Tehran has increased by 8 to 9 decibels [64]. We selected 15 Khordad Street in District 12
+in Tehran municipality for this study because it is one of the noisiest areas in Tehran, and
+also one of the busiest because of its historic area and market. As shown in Figure 3, this
+street is in the high risk and extreme range.
+In the public’s mind, 15 Khordad Street is fortunate to have a name and rich history
+as they see it as an important urban space. In addition, this street suffers from the eco-
+nomic (commercial) and social burdens of being located in close proximity to central city
+streets. This street is in full compliance with the existing crosswalk routes, connecting two
+important points on Tehran’s map: the north–south street (Topkhaneh Square and Tehran’s
+Grand Bazaar) and the east–west street (Molawi Bazaar and 15 Khordad Square). This area
+encompasses human activity, living paths, and memory spaces that are responsible for
+social prosperity, identity formation, and remembrance. It is one of the many areas where
+people come together to create a collective presence. Therefore, it is both a destination and
+a passage. This street is within the limits of the streets that have been important in three
+historical periods of Iran in the last 250 years, including Qajar, Pahlavi I, and Pahlavi II
+until today.
+Social and cultural activities that are derived from local culture play a signiﬁcant
+role in the sound identity of an urban space, including 15 Khordad Street. In addition to
+various daily activities, ceremonies such as the national and religious holidays of Iranians
+(Chershanbesuri, Ashura, Nowruz, holidays, and other occasions) are held in the open
+spaces of this area. Moreover, music playing, street shows, and face painting are also held
+as part of the entertainment activities in the area.
+
+Sustainability 2023, 15, 4255
+6 of 19
+Figure 2. The study area (15 Khordad Street) and historic, religious, governmental, and commercial
+featured places.
+
+Sustainability 2023, 15, 4255
+7 of 19
+Figure 3. Sound level map of District 12 in Tehran, Adapted with permission from Ref. [64], 2019,
+Tehran Municipality.
+4. Results
+4.1. Social and Economic Features of Respondents
+The results of the descriptive data showed that in the case study (Figure 4a–d), 76.5%
+of respondents were men and 23.5% were women, and the age group consisted of 21 to
+61 years. The average age of respondents was 37 and the standard deviation for the age
+9.5 years was reported. The largest proportion was in the 26–45 age group, with about
+
+Sustainability 2023, 15, 4255
+8 of 19
+77.5%, which shows that users are mainly young. Approximately 5% of individuals were
+aged 56 to 65, and 8.8% were under 25 and 46 to 55.
+ 
+ 
+a. Gender 
+b. Age (year) 
+ 
+c. Job   
+d. Education 
+76%
+24%
+men
+women
+9%
+77%
+9%
+5%
+< 25
+26‐45
+46‐55
+56‐65
+15%
+47%
+2%
+3%
+4%
+29%
+Housewife
+Self employment
+Worker
+Employee
+sales staff
+Business owner
+
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows the indicators and variables affecting the quality of the sonic environ-
+Figure 1. Effective indicators in people attendance in urban POS based on the qualities of the sonic
+Figure 1. Based on these variables, we adjusted our
+Figure 2).
+Figure 3, this
+Figure 2. The study area (15 Khordad Street) and historic, religious, governmental, and commercial
+Figure 3. Sound level map of District 12 in Tehran, Adapted with permission from Ref. [64], 2019,
+Figure 4a–d), 76.5%
+Figure 4. Social and economic characteristics of the respondents in the study area.
+Table 1 shows the
+Table 1. Pleasantness indicators affecting the sonic environment in the investigated case study.
+Table 2. An average knowledge has been attained
+Table 2. The evocative and inspiring role indicators affecting the sonic environment in the investigated
+Table 3
+Table 3. The space intractability indicators affecting the sonic environment in the investigated case
+Figure 5).
+Figure 5. Prioritizing sonics that disturb peace in the investigated case study.
+Table 4 shows the model’s ﬁt statistics. The normalized or beta effect coefﬁcient
+Table 4. People attendance regression model based on the quality of the sonic environment.
+Table 5). Parameter
+Table 5. Regression model of some people attendance variables with pleasantness and evocative and

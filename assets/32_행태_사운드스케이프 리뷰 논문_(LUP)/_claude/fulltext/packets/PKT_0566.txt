@@ -1,0 +1,183 @@
+### RECORD ID=566 | screening_verdict=INCLUDE | year=2019
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Soundtracking the Public Space: Outcomes of the Musikiosk Soundscape Intervention
+DOI: 10.3390/ijerph16101865
+PAGES: 38
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Soundtracking the Public Space: Outcomes of the
+Musikiosk Soundscape Intervention
+Daniel Steele 1,*
+, Edda Bild 2, Cynthia Tarlao 1 and Catherine Guastavino 1
+1
+School of Information Studies and CIRMMT, McGill University, Montreal, QC H3A 0G4, Canada;
+cynthia.tarlao@mail.mcgill.ca (C.T.); catherine.guastavino@mcgill.ca (C.G.)
+2
+Department of Geography, Planning and International Development, University of Amsterdam,
+1018WV Amsterdam, The Netherlands; A.E.Bild@uva.nl
+*
+Correspondence: daniel.steele@mail.mcgill.ca
+Received: 1 April 2019; Accepted: 12 May 2019; Published: 27 May 2019
+
+
+Abstract: Decades of research support the idea that striving for lower sound levels is the cornerstone
+of protecting urban public health. Growing insight on urban soundscapes, however, highlights a
+more complex role of sound in public spaces, mediated by context, and the potential of soundscape
+interventions to contribute to the urban experience.
+We discuss Musikiosk, an unsupervised
+installation allowing users to play audio content from their own devices over publicly provided
+speakers. Deployed in the gazebo of a pocket park in Montreal (Parc du Portugal), in the summer of
+2015, its eﬀects over the quality of the public urban experience of park users were researched using
+a mixed methods approach, combining questionnaires, interviews, behavioral observations, and
+acoustic monitoring, as well as public outreach activities. An integrated analysis of results revealed
+positive outcomes both at the individual level (in terms of soundscape evaluations and mood beneﬁts)
+and at the social level (in terms of increased interaction and lingering behaviors). The park was
+perceived as more pleasant and convivial for both users and non-users, and the perceived soundscape
+calmness and appropriateness were not aﬀected. Musikiosk animated an underused section of the
+park without displacing existing users while promoting increased interaction and sharing, particularly
+of music. It also led to a strategy for interacting with both residents and city decision-makers on
+matters related to urban sound.
+Keywords:Musikiosk; soundscape; soundperception; soundscapeintervention; democraticsoundscape
+installation; quality of the urban public experience; mixed methods study; pocket park; urban
+sound planning
+1. Introduction
+The deleterious eﬀects of noise on everyday life (particularly in urban settings) is well
+established.
+Organizations at national, international, and supranational levels have (rightfully)
+emphasized the negative eﬀects of noise on public health and have emphasized the “cost of noise
+pollution” (See e.g. Ireland: http://www.askaboutireland.ie/enfo/irelands-environment/noise/cost-
+of-noise-pollution/). While the ﬁeld of noise abatement has achieved dramatic reductions in the
+presence of sounds in urban spaces that exceed harmful sound levels or cause excessive annoyance,
+it remains impossible, as well as undesirable, to conceive of a city that makes no sound. Today’s
+approaches, heavily reliant on the measurement of sound level (and its subsequent reduction) oﬀer
+little guidance on identifying what sounds belong in the city once the harmful sources have been
+mitigated. We suppose that sounds are a reﬂection of public life [1], playing a complex role in our urban
+experience. In the sound-oriented research community, there is a growing understanding that exclusive
+reliance on physical measurements, and particularly sound levels, fails to capture the complexity of the
+Int. J. Environ. Res. Public Health 2019, 16, 1865; doi:10.3390/ijerph16101865
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2019, 16, 1865
+2 of 38
+human experience (e.g., [2–5]), providing limited guidance to planners and designers on identifying or
+designing better sounding cities.
+Conversely, an extensive and ever-growing body of research on soundscape (deﬁned as the
+acoustic environment as perceived, experienced, and/or understood by people or society, in context [6])
+oﬀers a new approach for urban sound management, centered on the idea of sound as an urban
+resource [2,7–11]. Studies embedded in this tradition are based on the experience of the city user and
+on a complex understanding of the urban auditory experience, repeatedly demonstrating that urban
+soundscape strongly inﬂuences overall health but not always in a negative way (see Aletta et al. [7] for
+a review of positive outcomes, including stress recovery [12,13]). Despite this knowledge collected
+in the research community, urban sound management remains driven by noise abatement strategies,
+on both the city-maker side (i.e., planners, politicians) [14] and the city-user side (i.e., communities,
+stakeholders) [15].
+To investigate the role of sound in urban experience, we deployed a soundscape intervention
+in the gazebo of a Montreal public park. Musikiosk provided free, unsupervised access to an audio
+jack and speakers. It allowed people to play whatever audio content they wished in the public space.
+A stakeholder-based approach as well as rules set forth, described in the Methods section, started in
+advance of the intervention were intended to minimize risks to the project, as described in the Results
+section. This study addresses the following research question: “How does a soundscape installation
+like Musikiosk aﬀect the quality of the urban public experience for users of a public space?”.
+To this end, we introduce the hybrid concept of “quality of the urban public experience” (QUPE)
+as a bridge between public health and the present topic of this special issue, soundscape. The QUPE
+concept comprises themes that are both operationalizable and measurable, providing the opportunity
+to empirically research the eﬀects of a democratic soundscape installation on the users of a pocket park
+in Montreal.
+Musikiosk was developed based on ideas of sound as a resource and of providing park users
+with
+
+--- METHODS/RESULTS EXCERPT ---
+Methods section, started in
+advance of the intervention were intended to minimize risks to the project, as described in the Results
+section. This study addresses the following research question: “How does a soundscape installation
+like Musikiosk aﬀect the quality of the urban public experience for users of a public space?”.
+To this end, we introduce the hybrid concept of “quality of the urban public experience” (QUPE)
+as a bridge between public health and the present topic of this special issue, soundscape. The QUPE
+concept comprises themes that are both operationalizable and measurable, providing the opportunity
+to empirically research the eﬀects of a democratic soundscape installation on the users of a pocket park
+in Montreal.
+Musikiosk was developed based on ideas of sound as a resource and of providing park users
+with the opportunity (and responsibility) of sonically appropriating their space. We bring into the
+conversation insights from a number of social and human domains of science (including sociology,
+psychology, acoustics, soundscape research, and public space research) to deﬁne QUPE. To date,
+the positive link between the conceptualization of “sound as a resource” [4] and public health has been
+posed as an obvious one, yet there are no available models to utilize.
+QUPE thus serves as a catch-all, multidisciplinary concept into which we can integrate the
+complexity of the psychological, behavioral, and other social aspects of urban space use, with a focus
+on the quality, including sound quality, of the interaction between city users and their urban public
+spaces. QUPE (see Figure 1) is operationalized along three axes (which for the purposes of this paper
+are most elaborated in the sonic dimension): (1) sound-related evaluation (does Musikiosk change
+the evaluation of soundscapes and speciﬁc sounds?), (2) public space engagement (does Musikiosk
+impact how users engage in the space and interact with others?), and (3) psychological outcomes
+(does Musikiosk aﬀect users’ behaviors and feelings?). Within each of these three dimensions, themes
+related to the presence of Musikiosk emerge and are elaborated in this manuscript.
+We situate the study of the aforementioned eﬀects in a speciﬁc spatial context i.e., an urban pocket
+park, with its own physical, social, and acoustic idiosyncrasies, as well as a politico-technological
+context, referring to the implications of developing and engaging with an installation that encourages
+a novel, democratic appropriation of public spaces through sound (particularly music).
+We report on the results of a mixed-methods study centered on the Musikiosk intervention and
+highlighting only results that could be elaborated across multiple methods. The QUPE model links the
+axes of soundscape and public space evaluations to concepts in the public health literature. The Review
+section steps through this QUPE model, including a necessary background on soundscape evaluations,
+and other relevant contexts of the study. The Methods section outlines seven diﬀerent qualitative and
+quantitative methods, outlining their integration. The Results section elaborates on ﬁndings about
+Musikiosk across multiple methods, organized by the three QUPE axes. The Discussion section situates
+
+Int. J. Environ. Res. Public Health 2019, 16, 1865
+3 of 38
+these results in the context of the QUPE model and other literature while the Conclusions explain
+theoretical and practical contributions of the study.
+Figure 1. The QUPE (quality of the urban public experience) model. Three axes are elaborated and
+inform the structure of the present study.
+2. Literature Review
+As Musikiosk is primarily an intervention with an eﬀect on the sound of the urban environment,
+it is important to focus on research that both highlights the ways people evaluate soundscape and
+soundscape interventions, but also the relationship of soundscape (interventions) to broader aspects
+of the quality of the public experience, for example, the restorative capabilities of soundscapes.
+The literature review steps through the axes of the quality of urban public experience (QUPE)
+outlined in the introduction. This is followed by a review of work on the contexts (i.e., spatial and
+politico-technological) relevant to Musikiosk.
+2.1. Sound-Related Evaluation
+The ﬁrst axis of QUPE deals speciﬁcally with the evaluation of sound(s) and the sound
+environment itself.
+2.1.1. Soundscape Evaluation
+We ﬁrst review evaluations of the soundscape as a whole, followed by literature on the way
+people describe speciﬁc sounds within the urban sound environment.
+“Traditional” Soundscape Descriptors
+Soundscape descriptors have been proposed to help explain or predict users’ evaluations [16,17]
+(see [7] for a review). Among these eﬀorts, the Swedish Soundscape-Quality Protocol (SSQP) has
+stood out as a useful tool to both characterize and compare soundscapes and their perceived aﬀective
+quality. The scale is composed of a composite of a holistic scale (Good–Bad) [18] paired with a set of
+
+Int. J. Environ. Res. Public Health 2019, 16, 1865
+4 of 38
+eight Likert scales related to pleasantness, unpleasantness, eventfulness, uneventfulness, vibrancy, monotony,
+calmness, and chaoticness [19,20]. While originally developed in Swedish, SSQP has been translated
+in a number of languages, including English, Korean. The in-house French translation, used in this
+research [21] faced a number of challenges, including the validation of the translation, which led to the
+uneventful rating being dropped.
+Recent laboratory and on-site soundscape studies, attempting to further reﬁne soundscape
+evaluation, have shown the need to add a measurement of the appropriateness of soundscape for a
+location [7,22,23] and appropriate has thus been suggested as a complement to the SSQP ratings [18].
+Soundscape Appropriateness for Activity
+While the role of users’ activities has been suggested almost 20 years ago [3,24] and has also
+been discussed in relation to the acoustic desig
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1) is operationalized along three axes (which for the purposes of this paper
+Figure 1. The QUPE (quality of the urban public experience) model. Three axes are elaborated and
+Figure 2 shows the diﬀerent methods used at each of the ﬁve project phases. The sections below
+Figure 2. Musikiosk research timeline by phase. Legend indicates method type.
+Figure 3) is situated in a lively, musical neighborhood with a history of
+Figure 3. Left: gazebo in Parc du Portugal; right: users enjoying Musikiosk.
+Figure 2) and will be used throughout
+Table 1),
+Table 1. Research methods supporting QUPE analysis. Secondary methods support the results of the
+Figure 2, e.g., this ﬁnding comes from the pre-installation questionnaire (Q1). As some
+Table 2). Prior to the
+Table 2. Activity categorization before and after Musikiosk installation. Note: if people reported
+Figure 2 as

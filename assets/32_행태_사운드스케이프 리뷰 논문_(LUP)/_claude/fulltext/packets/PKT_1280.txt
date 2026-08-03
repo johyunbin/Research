@@ -1,0 +1,265 @@
+### RECORD ID=1280 | screening_verdict=INCLUDE | year=2026
+JOURNAL: BUILDINGS
+TITLE: Research on the Effect of Rural Composite Environments on the Spatiotemporal Behavior and Perception of the Elderly: A Case Study of Qingdao, China
+DOI: 10.3390/buildings16101973
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+Academic Editor: Adrian Pitts
+Received: 24 March 2026
+Revised: 10 May 2026
+Accepted: 15 May 2026
+Published: 16 May 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Research on the Effect of Rural Composite Environments on the
+Spatiotemporal Behavior and Perception of the Elderly:
+A Case Study of Qingdao, China
+Yan Fu 1,2, Nan Zhang 1,2,*
+, Qijie Gao 1, Haoru Dai 1, Qingliang Chen 1 and Weijun Gao 1,2
+1
+Innovation Institute for Sustainable Maritime Architecture Research and Technology, Qingdao University of
+Technology, Qingdao 266033, China; fuyan202510@163.com (Y.F.); 15689987079@163.com (Q.G.);
+13281598752@163.com (H.D.)
+2
+Faculty of Environmental Engineering, The University of Kitakyushu, Kitakyushu 808-0135, Japan
+*
+Correspondence: n-zhang@kitakyu-u.ac.jp
+Abstract
+Rural public spaces are crucial to the daily activities of older adults; however, limited
+research has examined the effects of their environmental characteristics on older adults’
+spatiotemporal behavior and perception from a multisensory perspective. This study
+hypothesizes that composite sensory environments have significant nonlinear predictive
+effects on older adults’ behavior types and satisfaction. In this study, 10 sample spaces
+were selected in Qingdao, China. Multi-source data were collected through a two-week
+period of unobtrusive observation and subjective questionnaire surveys (N = 241). Multiple
+logistic regression was used to analyze the main effects of environmental characteristics,
+and an MLP model with a single hidden layer of 100 units was constructed to predict dwell
+time and satisfaction. The results show that, in the investigated rural context, older adults’
+dominant behavior was social activity (81.12%), which mainly occurred in built spaces such
+as squares. Multiple logistic regression indicated that, among the various environmental
+factors, visual aesthetics had a statistically significant effect on behavior types (p = 0.013).
+The MLP model achieved prediction accuracies of 85.3% for dwell time and 93.1% for
+satisfaction. The key predictive variables were volume perception (100% importance), the
+Natural Sound Index (NSI) (92.1%), and visual aesthetics (89.3%). Subgroup heterogeneity
+analysis further showed that older-old adults and those with poorer health conditions
+were more sensitive to pavement quality and physical comfort, whereas older adults living
+alone or with limited household companionship were more strongly influenced by visual
+aesthetics and natural soundscape quality. The theoretical significance of this study lies in
+proposing quantitative measures of natural sound and odor indices and revealing that, in
+the specific northern rural built environment, the coordinated design of visual and auditory
+environments plays an important role in improving spatial quality. The findings provide
+empirical support for the age-friendly micro-renewal of rural public spaces in specific
+regions. However, due to the limitations of single-season data and a relatively small sample
+size, their generalizability needs to be further verified across regions.
+Keywords: older adults; spatiotemporal behavior; perception; composite environment;
+rural public space
+Buildings 2026, 16, 1973
+https://doi.org/10.3390/buildings16101973
+
+Buildings 2026, 16, 1973
+2 of 20
+1. Introduction
+The intensification of rapid urbanization and population mobility has led rural China
+to face more severe aging challenges than urban areas [1]. Data from the Seventh National
+Population Census show that the proportion of people aged 60 years and above in ru-
+ral China has reached 23.81%, which is significantly higher than that in urban areas [2].
+Against this background, rural public spaces serve as core settings for older adults’ daily
+social interaction, emotional attachment, and physical exercise. Their age-friendly envi-
+ronmental quality is directly related to the health and well-being of rural residents and
+the quality of aging in place [3,4]. However, due to long-standing “urban-biased” poli-
+cies, the theory and practice of age-friendly public spaces have mainly focused on urban
+communities [5,6], while the micro-environmental construction of rural public spaces has
+often been marginalized [7–9].
+In recent years, some scholars have begun to focus on age-friendliness in rural spaces,
+but existing studies still show clear dimensional limitations [3]. A large body of literature
+mainly focuses on the construction of older adults’ life circles at the macro level, the
+spatial allocation of elderly care service facilities, or neighborhood network support from a
+sociological perspective [8,9]. Although these studies emphasize the macro-level necessity
+of rural age-friendliness, most of them overlook the specific mechanisms through which
+the physical characteristics of the micro-scale built environment influence older adults’
+high-frequency daily spatiotemporal behavior [10]. Rural society is essentially a typical
+“acquaintance society”, and the outdoor activities of older adults often arise from the
+need for functional gathering [7]. Therefore, analyzing the mapping relationship between
+objective physical environmental characteristics, older adults’ spatiotemporal behavior,
+and subjective perception at the micro-spatial scale remains an important blind spot that
+urgently needs to be addressed in current rural living environment research [11,12].
+In the field of micro-environmental behavior, human spatial perception is not based
+on information received through a single dimension, but is a composite process formed
+by the coordinated action of multiple sensory channels, including vision, hearing, smell,
+and touch [13,14]. Environmental stimuli, as independent variables, trigger different
+receptors in the cerebral cortex, regulate older adults’ psychological emotions and cognitive
+
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Case Study Area
+This study selected two typical rural villages, Xiaolingzi Village and Xishiling Village,
+in the West Coast New Area of Qingdao, China, as the study area (Figure 1). The aging
+rate in rural Qingdao has reached 20.28% [23]. Due to the traditional concept of “aging
+in place”, older adults in these areas have a very low willingness to migrate, making the
+study area highly typical and representative [24].
+In terms of sample selection, five public spaces were selected in each village, resulting
+in a total of 10 sample spaces. These included spaces under trees, squares, areas in front of
+service centers, roadways, and spaces surrounding houses. The selection criteria were as
+follows: (1) full public accessibility; and (2) the presence of regular daily activities by older
+adults. Although the number of spatial samples (N = 10) was relatively small in terms of ge-
+ographic scale, this study adopted high-frequency and long-term behavioral tracking over
+14 consecutive days, with observations conducted for 14 h per day. Dense time-series data
+were used to compensate for the limited number of spatial samples, thereby ensuring that
+the study could capture high-resolution micro-scale environment–behavior relationships.
+The target group of this study was defined as middle-aged and older adults in rural
+areas. The inclusion of some participants aged 55–60 was based on the practical considera-
+tion that this “young-old” group has already entered an aging-in-place lifestyle under the
+changing rural labor structure in China.
+The data collection process of this study, including unobtrusive behavioral observation
+and questionnaire surveys, was approved by the Ethics Committee of Qingdao University
+(QDU-HEC-2022150). All questionnaire surveys were conducted with informed consent
+from the participants. The unobtrusive observation recorded only group behavioral charac-
+https://doi.org/10.3390/buildings16101973
+
+Buildings 2026, 16, 1973
+4 of 20
+teristics and did not collect identifiable personal information, such as facial data, thereby
+ensuring the anonymization of all participant information.
+ 
+Figure 1. Location map of the venue.
+2.2. Data and Variables
+The data collection period was from 11–24 September 2022, excluding rainy days
+and other extreme weather conditions. During this period, environmental monitoring,
+behavioral recording, and subjective questionnaire surveys were conducted simultaneously.
+2.2.1. Rural Environmental Characteristics
+The rural built environment is composite in nature and can be categorized into
+four types according to sensory stimulation: tactile, auditory, visual, and olfactory
+environments [25]. Based on this classification, 11 representative environmental character-
+istics were selected. These indicators were chosen because they are relatively easy to obtain,
+have high reliability, and may affect the emotions and activities of older adults, as shown
+in Table 1.
+Table 1. Environmental characteristics of the rural public spaces.
+Environment Types
+Characteristics
+Tactile environment
+Air temperature, relative humidity, wind speed, pavement material
+Sound environment
+Sound types, equivalent noise level
+Visual environment
+SVI, GVI, quality of leisure facilities
+Odor environment
+Odor type, odor concentration
+To ensure the scientific validity and reliability of the data, all environmental moni-
+toring equipment was calibrated before daily measurements. Air temperature, relative
+humidity, and wind speed were measured using a Testo 480 multifunctional instrument.
+The monitoring points were uniformly set at a height of 1.5 m above the ground, corre-
+sponding to the breathing zone of older adults. A 5-min average value was used to smooth
+short-term fluctuations. Acoustic data were collected using an AWA5636 sound level meter
+to measure the equivalent continuous A-weighted sound pressure level (LAeq) over 5 min.
+https://doi.org/10.3390/buildings16101973
+
+Buildings 2026, 16, 1973
+5 of 20
+The visual environment was captured using a fisheye lens, and the green view index (GVI)
+and sky view index (SVI) were extracted using Python 3.10 OpenCV.
+To quantitatively capture the dominance of natural elements within the compos-
+ite sensory environment, the Natural Sound Index (NSI) and Natural Odor Index (OI)
+were used [26].
+The NSI is defined as the difference between the proportion of natural sounds (envi-
+ronmental sounds and biological sounds) and the proportion of noise (Equation (1)).
+NSI = SP1 + SP2 −
+7
+∑
+i=5
+SPi
+(1)
+where SPi represents the proportion of each type of sound (Table 2).
+The OI is defined as the difference between the proportion of natural odors (fruit,
+plant, and earthy smells) and the proportion of unpleasant odors (Equation (2)).
+OI = OP1 + OP2 + OP3 −
+7
+∑
+i=4
+OPi
+(2)
+where OPi represents the proportion of each type of odor (Table 3).
+Table 2. Sound types in rural environments.
+Sound Types
+Special Sound
+1
+Environmental sounds
+River sound, rustling leaves
+2
+Biological sounds
+Birdsong, insect chirping, dog barking, rooster crowing
+3
+Human sounds
+Talking, shouting
+4
+Music sounds
+Singing, musical instruments, theatrical sounds
+5
+Traffic noise
+Car, motorcycle noises
+6
+Construction noise
+Construction-related sounds
+7
+Others
+In addition to the aforementioned types of sounds
+Table 3. Odor types in rural environments.
+Odor Types
+Special Odor
+1
+Fruit fragrance
+Fragrance of fruits such as watermelon and apple
+2
+Plant scent
+Scent of fresh grass, flowers, and trees
+3
+Earthy smell
+Smell of earth, marshy odor
+4
+Fishy odor
+Odor of fish and shrimp, aroma of clams
+5
+Chemical scent
+Exhaust fumes, kerosene smell, burning scent, smoke odor
+6
+Putrid odor
+Garbage smell, feces and urine stench, sewer odor
+7
+Others
+In addition to the aforementioned types of odors
+2.2.2. Daily Activities of the Rural Elderly
+The behavioral observation period covered the entire day from 6:00 to 20:00. Fixed-
+point photographs were taken at 10-min intervals, resulting in a total of 9000 valid be-
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). The aging
+Figure 1. Location map of the venue.
+Table 1.
+Table 1. Environmental characteristics of the rural public spaces.
+Table 2).
+Table 3).
+Table 2. Sound types in rural environments.
+Table 3. Odor types in rural environments.
+Table 4) [27]. To control subjective bias, observation and image cod-
+Table 4. Behavior types of the rural elderly.
+Table 5). The questionnaire
+Table 5. Subjective questionnaire.
+Table 6 presents the basic demographic characteristics of the valid sample (N = 241).
+Table 6. Sample descriptive statistics (N = 241).
+Figure 2 illustrates
+Figure 2. The spatiotemporal characteristics of various behavior types in a day.
+Table 7). “Behavior type” was treated as the nominal dependent
+Table 8).
+Table 7. Multicollinearity test.
+Table 8. The outcomes of the multiple logistic regression analysis.
+Table 9) indicate that, after controlling for multidimensional
+Table 9. The significant effect of individual characteristics on the MLR model.
+Figure 3) verified
+Figure 3. A correlation analysis of environmental characteristics and satisfaction of the rural elderly.
+Table 10 presents

@@ -1,0 +1,234 @@
+### RECORD ID=804 | screening_verdict=INCLUDE | year=2022
+JOURNAL: FORESTS
+TITLE: Audio-Visual Preferences for the Exercise-Oriented Population in Urban Forest Parks in China
+DOI: 10.3390/f13060948
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Citation: Xu, J.; Li, M.; Gu, Z.; Xie, Y.;
+Jia, N. Audio-Visual Preferences for
+the Exercise-Oriented Population in
+Urban Forest Parks in China. Forests
+2022, 13, 948. https://doi.org/
+10.3390/f13060948
+Academic Editors: Xin-Chen Hong,
+Jiang Liu and Guang-Yu Wang
+Received: 21 May 2022
+Accepted: 14 June 2022
+Published: 17 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Audio-Visual Preferences for the Exercise-Oriented Population
+in Urban Forest Parks in China
+Jian Xu 1,2,3,4, Muchun Li 1,*, Ziyang Gu 1
+, Yongle Xie 1 and Ningrui Jia 1
+1
+Department of Tourism Management, South China University of Technology, Guangzhou 510006, China;
+jianxu@scut.edu.cn (J.X.); 201930460128@mail.scut.edu.cn (Z.G.); 201930460463@mail.scut.edu.cn (Y.X.);
+201930460203@mail.scut.edu.cn (N.J.)
+2
+State Key Laboratory of Subtropical Building Science, Guangzhou 510641, China
+3
+Key Laboratory of Digital Village and Sustainable Development of Culture and Tourism,
+Guangzhou 510641, China
+4
+Guangdong Tourism Strategy and Policy Research Center, Guangzhou 510641, China
+*
+Correspondence: limch@scut.edu.cn; Tel.: +86-181-288-6885
+Abstract: The purpose of this study is to explore the audio-visual preferences of exercisers in urban
+forest parks in China and to make practical suggestions for park landscape design. Taking Beigushan
+Forest Park in Lianyungang City, Jiangsu Province as a case, based on ﬁeld research and question-
+naire survey, this study analyzed the audio-visual preference characteristics of exercisers in the park,
+revealed the correlation between audio-visual preference and exercisers’ behaviors and individual
+characteristics, and explored the inﬂuence of audio-visual preferences on exercise feelings by estab-
+lishing a structural equation model. It was found that (1) the forest and its avenue landscape and
+birdsong are most preferred by exercisers; (2) the audio-visual preferences of people with different
+exercise forms differ, for example, people who slowly walk, run, and briskly walk have stronger
+preferences for natural soundscape and visual landscape, while people who use ﬁtness equipment
+have stronger inclusiveness for human activity sound and prefer public facility-based landscapes.
+In addition, some individual characteristics such as exercise intensity and exercise frequency signif-
+icantly affect exercisers’ audio-visual preferences; (3) visual landscape preferences have a greater
+direct impact on exercise feelings, with natural waterscape having the greatest direct impact, but
+overall soundscape preferences do not have a high degree of direct impact on exercise feelings, with
+natural sound still having a strong positive impact. These ﬁndings provide a more quantitative basis
+for the landscape design of urban forest parks from the perspective of exercise behavior.
+Keywords: urban forest park; exercise behaviors; audio-visual preferences; correlation analysis
+1. Introduction
+As a new type of park arising from urbanization in the era of ecological civilization [1],
+urban forest parks have multiple functions such as recreation, recuperation, and avoiding
+the heat, which help improve air quality [2], reduce noise [3], and provide a pleasant
+environment for people to promote physical and mental health development [4]. Forest
+parks can meet the needs of urban residents for environment, leisure, and sports, thus
+attracting an increasing number of urban residents for physical exercise close to nature [5].
+In China, where urbanization is accelerating, the relationship between the health level
+and quality of life of urban residents and urban forest parks has become increasingly
+important [6], especially in the context of COVID-19, where the demand for parks and
+outdoor green spaces has increased rather than decreased [7]. Studies have shown that
+physical exercise in green spaces can release stress and enhance the body’s ability to ﬁght
+infectious diseases [7–9]. Therefore, it can be predicted that in the future, the demand for
+forest parks and exercise activities will continue to grow and more urban residents can
+Forests 2022, 13, 948. https://doi.org/10.3390/f13060948
+https://www.mdpi.com/journal/forests
+
+Forests 2022, 13, 948
+2 of 25
+beneﬁt from the services of forests and parks [10]. In this context, exercisers in urban forest
+parks and their audio-visual preferences become the focus of this study.
+In the studies on exercise behavior in urban forest parks, many scholars have devoted
+their research to exploring the main factors that inﬂuence the attractiveness and satisfaction
+of exercise in parks. For example, Li et al. found that open activity space with waterscape,
+landscape sketch, can attract more people toward exercise activities [11]; McCormack et al.
+summarized qualitative studies about the relationship between park use and physical
+exercise and found that safety, aesthetics, park facilities, and landscape maintenance were
+important factors inﬂuencing satisfaction with park use [12]. Although some scholars
+have also emphasized the importance of individual perceptual factors in inﬂuencing park
+use satisfaction [13,14], the majority of scholars have focused on objective factors such as
+facilities and public services provided by parks, and have not paid enough attention to
+people’s underlying psychological motivations and preferences. Therefore, an investigation
+of people’s exercise satisfaction from the perspective of their visual and auditory preferences
+at the psychological level would provide a relevant complement to the current research on
+the factors inﬂuencing exercise satisfaction in parks.
+People’s perceptions of the landscape initially originate from h
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Area
+Beigushan Forest Park in Lianyungang City, Jiangsu Province, China, was selected as
+the case site for the study. The location map of Beigushan Forest Park is shown in Figure 1.
+The park has three major ecosystems: marine, forest, and wetland, with a forest coverage of
+86.3%. Beigushan Forest Park is a mountainous forest park, which is the most common type
+of forest park in China. The average annual temperature is 14 ◦C, which is similar to China’s
+
+Forests 2022, 13, 948
+4 of 25
+average annual temperature of 13 ◦C. The park has good accessibility and experiences
+strong demand from residents; the trail around the mountain was ofﬁcially opened to
+the public in March 2017 with new facilities. It is 5000 m in length, which circles around
+Beigu Mountain, and won the “2017 Jiangsu Most Beautiful Running Route” award. The
+exercisers account for 19% of visitors to this park, which is comparable to the percentage of
+Chinese nationals exercising in urban forest parks [38], and is highly representative as a
+case study for this study.
+Figure 1. Geographical location of Beigushan Forest Park in Lianyungang.
+Before conducting the questionnaire survey, through ﬁeldwork, Beigushan Forest Park
+can be divided into a plaza and artiﬁcial building area, a hillside and waterscape area,
+and a mountain rim trail area. There are 17 main types of landscapes in Beigushan Forest
+Park, including natural waterscape (streams, ponds, and lakes), topographic landscape
+
+Forests 2022, 13, 948
+5 of 25
+(lawns, avenues, hillsides, and lakesides), natural vegetation (shrubs, ornamental ﬂowers,
+and forests), artiﬁcial landscape (rockery, parterres, fountains, sculptures, bridges, and
+pavilions), artiﬁcial facilities (ﬁtness equipment, squares, and public buildings). We often
+hear 16 different kinds of sounds, including natural sounds (sound of wind, birdsong, cry
+of insects, rustle of leaves, and water ﬂow sound), human activity sounds (conversational
+voice, sound of children playing, footstep, and exercise sound), and artiﬁcial sounds
+(trafﬁc sound, entertainment sound, device music, construction noise, machine noise,
+and broadcast).
+2.2. Questionnaire Design
+Respondents were asked to ﬁll out the questionnaires created by “Questionnaire
+Star” using the tablet PCs provided to them by the researchers (“Questionnaire Star” is a
+professional, unlimited free online questionnaire, assessment, voting platform, focusing on
+providing users with a powerful, user-friendly online questionnaire design; free to use the
+program, it provides powerful, fast, easy to use, and low-cost obvious advantages [39]. The
+questionnaire star program has released a total of 154 million questionnaires, which can
+fully meet the number of questionnaire research and question type setting requirements;
+https://www.wjx.cn/, accessed on 25 January 2022). In addition, the researchers also
+prepared a certain number of paper questionnaires for the elderly who cannot use electronic
+devices skillfully.
+The questionnaire consisted of four parts, with 18 questions in total. The ﬁrst part
+was designed to collect demographic information about the respondents, such as age,
+gender, number of participants in exercise activities, distance of residence from the target
+park, and activities performed in the park other than exercise; the second part focused on
+the exercise proﬁle of the respondents, including exercise mode, exercise time, exercise
+duration, exercise frequency, driving factors for exercising, reasons for choosing the park
+as an exercise site, speciﬁc location of exercise, and exercise frequency. The second part
+focused on the respondents’ exercise patterns, exercise time, exercise duration, exercise
+frequency, exercise site, exercise intensity, overall feelings of exercise, and willingness
+to exercise in parks in the future. In the third and fourth sections, the three types that
+constitute a soundscape as deﬁned by Kraus [40] (abiotic natural sounds from the physical
+environment, nonhuman biological sounds emitted by all organisms in a given habitat, and
+anthropomorphic sounds emitted by stationary and moving man-made objects) were used
+as the basis for classifying the types of soundscapes in the questionnaire. On this basis, the
+scales used in the study of landscape perception by scholars such as Zheng Zhao [41] and
+the scales involved in the study of urban forest park soundscape by Wei Zhao [42] and Banu
+Chitra [43], respectively, were used, and the scales used in this study were appropriately
+adjusted and modiﬁed by combining the ISO [44] deﬁnition and classiﬁcation of soundscape
+and the actual situation of Beigushan Forest Park in Lianyungang. The third part focused
+on the understanding of individual visual landscape preferences, mainly using a ﬁve-point
+Likert scale (strongly dislike (−2), dislike (−1), average (0), like (1), and like very much (2))
+to illustrate their overall preferences for visual landscapes. In the fourth section, a selection
+of the frequency of occurrence of 16 soundscapes and a ﬁve-point rating of the soundscapes
+(from very dislike (−2) to very like (2)) were included to illustrate the overall preference
+of respondents for common soundscapes. After a pre-research test with 20 people, the
+average response time was 4 min and 39 s, all of whom had no objections to answer the
+questionnaire questions. The relevant contents of the questionnaire are shown in Table 1.
+
+Forests 2022, 13, 948
+6 of 25
+Table 1. Exerciser landscape and soundscape preference system.
+Question
+Sub-Factors
+Type
+Key Findings
+Reference
+Q5 Activities other
+than exercise
+Family bonding
+type activities
+Activity type
+Exercisers may engage in activities in the park other
+than those related to exercise activities, and these
+activities may inﬂuence, to some extent, exercisers’
+preferences for landscape and soundscape.
+[33]
+Social activities
+Leisure activities
+Quiet-type activities
+Group activities
+Just exercise
+Q6 Based on different
+types of exercise
+Slow
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1. Geographical location of Beigushan Forest Park in Lianyungang.
+Table 1.
+Table 1. Exerciser landscape and soundscape preference system.
+Figure 2. The survey was conducted during the
+Figure 2. Sampling point distribution map.
+Figure 3.
+Figure 3. Research framework.
+Figure 4. The proportions
+Figure 4a), but there were fewer respondents over the age of 60, and the respondents
+Figure 4b). In terms of travel mode
+Figure 4c), respondents traveled in a variety of ways, and exercising with three to ﬁve
+Figure 4d), 500–3000 m (36% for 500–1500 m
+Figure 4e) About 58% of the respondents exercised for 1–2 h, and the
+Figure 4f), generally concentrated on once a month,
+Figure 4g), with 61% of respondents only exercising lightly
+Figure 4h), exercisers generally exercised less intensely.
+Figure 4. Statistical results of respondents’ personal characteristics (a–h): gender, age, compan-
+Figure 5, the most preferred visual landscapes for people exercising in
+Figure 5. Average landscape preferences of exercisers in urban forest park.
+Figure 6, the most preferred sounds for the exercisers were birdsong,
+Figure 6. Average soundscape preferences of exercisers in urban forest park.
+Table 2) show, different exercise methods
+Table 2. Correlation between different exercise forms and soundscape preferences.
+Table 3 indicate that there is a positive correlation between the choice of

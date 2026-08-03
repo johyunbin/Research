@@ -1,0 +1,17 @@
+{
+  "search_date": "2026-08-02",
+  "identification": {
+    "wos_core": 1010,
+    "scopus": 850,
+    "pubmed": 213
+  },
+  "total_identified": 2073,
+  "duplicates_removed": 757,
+  "records_to_screen": 1316,
+  "openalex_supplementary_unique": 352,
+  "overlap_note": {
+    "in_pubmed": 213,
+    "in_scopus": 850,
+    "in_wos": 1010
+  }
+}

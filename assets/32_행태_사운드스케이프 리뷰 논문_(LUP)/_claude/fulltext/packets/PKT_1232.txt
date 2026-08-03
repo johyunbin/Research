@@ -1,0 +1,254 @@
+### RECORD ID=1232 | screening_verdict=BORDERLINE | year=2026
+JOURNAL: SUSTAINABILITY
+TITLE: Exploring the Soundscape Perception of Streets: A Thematic Analysis of Focus Groups with Experts
+DOI: 10.3390/su18094369
+PAGES: 28
+
+--- HEAD (title/abstract/intro) ---
+Academic Editor: Roberto Benocci
+Received: 6 March 2026
+Revised: 19 April 2026
+Accepted: 22 April 2026
+Published: 29 April 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Exploring the Soundscape Perception of Streets: A Thematic
+Analysis of Focus Groups with Experts
+Zeynep Sena Ozturk
+, Francesco Aletta *
+and Jian Kang
+UCL Institute for Environmental Design and Engineering, The Bartlett, University College London (UCL),
+Central House, 14 Upper Woburn Place, London WC1H 0NN, UK; zeynep.ozturk.22@ucl.ac.uk (Z.S.O.);
+j.kang@ucl.ac.uk (J.K.)
+* Correspondence: f.aletta@ucl.ac.uk
+Abstract
+Street soundscapes significantly shape communities’ environmental perceptions, behaviour
+and urban sustainability. Previous research has mainly focused on physical and acoustic
+aspects, while limited attention has been given to emotional and behavioural dimensions.
+This study explores how expert participants perceive street soundscapes through personal,
+physical, behavioural, and emotional dimensions, using international online focus groups
+with soundscape experts, urban planners, and policymakers (n = 12). Analysis followed
+a deductive thematic approach establishing four main a priori themes, with additional
+inductive coding used to refine these themes. The findings reveal that perception is
+shaped by contextual, cultural, temporal, multisensory, and environmental affordance
+factors. Notably, silence was found to carry a dilemma—perceived as either safe or unsafe
+depending on pedestrian density—and religious and cultural soundmarks were identified
+as evoking place attachment and belonging, areas largely overlooked in existing literature.
+These soundscapes were associated with emotional responses, including comfort, safety,
+restoration, and belonging, and with pedestrian behaviour encompassing mobility choices,
+coping strategies, and social interactions. Furthermore, seven out of ten Healthy Streets
+metrics were directly referenced by participants, highlighting the close relationship between
+acoustic environments and healthy streets design. Future studies should examine cultural,
+temporal, and spatial street characteristics and their effects on human behaviour and
+emotional responses.
+Keywords: behaviour; focus group; healthy streets; soundscape; street design; urban
+sustainability; well-being
+1. Introduction
+Streets are among the most vibrant urban spaces, where mobility, commerce, and social
+life converge. As key components of sustainable urban environments, streets significantly
+shape communities’ health, well-being, and quality of life [1]. Early street soundscape
+research largely focused on noise as a source of annoyance and pollution, adopting method-
+ologies of noise control [2]. Over the past two decades, there has been a growing interest
+in soundscape perception, which emphasises personal experiences rather than physical
+noise levels. Despite this increasing attention in everyday sound environments, most
+existing studies have primarily focused on open public spaces such as parks, squares, or
+commercial districts [3–6]. In contrast, the soundscapes of urban streets remain relatively
+Sustainability 2026, 18, 4369
+https://doi.org/10.3390/su18094369
+
+Sustainability 2026, 18, 4369
+2 of 28
+underexamined [2,3]. A recent scoping review identified 16 empirical studies that specifi-
+cally investigated street soundscapes [2]. These studies consistently highlight that natural
+sounds (e.g., birdsong, water flow) are associated with positive affective and physiolog-
+ical responses, whereas traffic-related sounds are often linked to stress, annoyance, and
+negative psychological outcomes [4–6].
+Previous research has also highlighted the importance of physical characteristics
+in shaping street soundscapes [2]. According to the literature, factors such as street
+geometry, building height, and height-to-width ratios influence both the propagation of
+sound and the perceived acoustic comfort, demonstrating the close relationship between
+spatial form and sound quality. Moreover, the presence of greenery and water features
+helps to mask unpleasant sounds and enhance tranquillity in street environments. These
+elements therefore play a key role in understanding how the physical environment
+shapes the acoustic atmosphere of streets. Temporal factors such as seasonal variation
+and tourism activity further influence how urban sounds are experienced [7]. However,
+existing studies have examined physical characteristics predominantly through quan-
+titative approaches, with limited attention to how design professionals interpret these
+elements qualitatively.
+Soundscapes evoke a wide range of emotional reactions, yet existing literature shows
+that these responses vary according to factors such as context, gender, and sound source.
+Despite this, limited attention has been devoted specifically to street soundscapes. Research
+on street sound environments has predominantly focused on distinguishing between pleas-
+ant and unpleasant emotions. Pleasant soundscapes are often associated with tranquillity,
+restoration, and relaxation, whereas unpleasant soundscapes are typically linked to stress,
+discomfort, and annoyance, often resulting from mechanical noise [8–10]. However, this
+binary framework remains limited in explaining the more nuanced emotional experiences
+that emerge within urban street atmospheres.
+Beyond emotional reactions, human responses to soundscapes also encompass be-
+havioural dimensions. Studies indicate that the acoustic environment of a street can
+influence how long people are willing to stay, which routes they choose, and their moti-
+vation for social interaction [11,12]. Nevertheless, current research remains insufficient
+to fully explain how sound directly shapes community behaviour in street environments.
+Despite the growing number of studies in th
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+This study adopts a deductive thematic analysis design to explore how urban street
+soundscapes are defined and experienced in everyday life and how they shape users’
+perception, comfort, and use of space. This approach is appropriate because it allows for a
+systematic examination of expert perspectives within a predefined analytical framework
+derived from the research questions, while remaining flexible enough to capture emergent
+nuances within the data. Focus groups were chosen to reveal interactional meaning-making
+and expert reasoning about streets and sounds [13].
+2.1. Expert Focus Groups
+2.1.1. Participants
+Prior to the main study, a pilot focus group with academic researchers (n = 12)
+was conducted to test the question guide, timing, and refined wording of the questions.
+Pilot data were used solely to improve the protocol and were not included in the subse-
+quent analysis.
+Two expert focus groups were recruited: a Turkish cohort (n = 6) and an international
+cohort (n = 6). Participants came from diverse professional and geographic backgrounds,
+enabling the study to capture a heterogeneous range of expert perspectives on street
+soundscape and urban design. Türkiye was selected on the basis of access and existing
+professional networks, while the international cohort broadened the overall scope of
+perspectives represented in the study.
+Within each group, disciplinary heterogeneity was sought to stimulate interaction. Ap-
+proximately half of participants were sound/soundscape researchers, and the remaining were
+policy and design practitioners. Participants included academics, applied researchers, land-
+scape architects, architects, and acousticians. Eligibility was verified through publicly available
+professional profiles (e.g., institutional webpages and professional directories) and recent
+outputs. Invitations prioritised individuals with demonstrable competence in soundscape,
+sound policy/management, or street/street-space design where formal work experience was
+limited and relevant scholarly contributions were considered. Participation was voluntary,
+and informed consent was obtained from all participants (see Table 1).
+The validity and credibility of the findings were supported through several mea-
+sures. Data collection continued until thematic saturation was reached, as responses
+across focus group sessions became increasingly convergent with no substantively new
+themes emerging. Following Malterud et al. [14], sample adequacy was further assessed
+through information power across five dimensions: study aim, sample specificity, use
+of established theory, quality of dialogue, and analysis strategy. The sample of 12 ex-
+pert participants was considered sufficient, as all five dimensions indicated adequate
+information power for the aims of this study. Analytical validity was further supported
+through a two-researcher coding process, in which coding decisions were reviewed and
+resolved through consensus, and through systematic triangulation of findings against
+existing literature throughout the discussion.
+https://doi.org/10.3390/su18094369
+
+Sustainability 2026, 18, 4369
+4 of 28
+Table 1. Overview of Experts.
+Expert
+Country
+Native Language
+Main Area of Interest
+1
+Türkiye
+Turkish
+Urban Soundscape, Environmental Science
+2
+Türkiye
+Turkish
+Soundscape, Heritage Soundscape
+3
+Germany
+Turkish
+Urban Soundscape, Architectural Acoustics
+4
+Türkiye
+Turkish
+Municipality Urban Design, Landscape Architecture
+5
+Türkiye
+Turkish
+Policy Making, Landscape Architecture
+6
+Türkiye
+Turkish
+Policy Making, Landscape Architecture
+7
+UK
+Italian
+Soundscape, Sensorial Urbanism, Virtual Models
+8
+Italy
+Italian
+Soundscape Research
+9
+UK
+Persian
+Sensory Architecture, Urban Sound Studies
+10
+UK
+English
+Environmental Engineering, Urban Policy Making, Systems thinking approach
+11
+Ireland
+Spanish
+Urban Policy Making
+12
+Switzerland
+French
+Noise Research, Policy Making
+2.1.2. Online Focus Group Procedure
+Sessions were conducted synchronously via Microsoft Teams (version 26058.713.4529.5861,
+Microsoft Corporation, Redmond, WA, USA). Each focus group session commenced with
+a brief introduction outlining the study’s purpose and procedures. Participants then re-
+sponded to open-ended, semi-structured questions about their experiences of street features
+and street scale. Table 2 summarises the topics addressed in each session. Moderators
+avoided leading participants toward answers. Item-level participation was voluntary;
+respondents could choose which questions to address.
+Table 2. Focus Group Questions.
+Themes
+Questions
+Background Information
+How would you define a street?
+Soundscape Preference
+How would you describe your ideal sound environment in the streets,
+and what types of sounds do you find either disturbing or pleasant during your
+daily experience?
+In your experience, how do changes in the sound environment over time—
+such as differences between morning and night, or sounds associated with specific
+events—affect your perception or use of the space?
+Streetscape Features
+Which physical elements of the street environment (e.g., furniture, greenery,
+traffic infrastructure) do you notice most during your daily experience, and how do
+they affect your perception, comfort, or interaction with the space?
+How do different aspects of street scale—such as building height, street width,
+and spatial proportions—affect your perception, emotional response, or sense of
+comfort in urban environments?
+The focus group questions presented in Table 2 were developed through iterative
+discussions within the research team, informed by the findings of a prior scoping re-
+view [2]. The questions were subsequently piloted in a preliminary focus group session,
+following which the discussion guide was reviewed and finalised based on the feedback
+and insights obtained.
+2.2. Data Analysis
+Thematic analysis proceeded in eight steps: (1) transcription; (2) familiarisation
+with the data; (3) constructing a template of themes from the research questio
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1).
+Table 1. Overview of Experts.
+Table 2 summarises the topics addressed in each session. Moderators
+Table 2. Focus Group Questions.
+Table 2 were developed through iterative
+Table 3 presents an example of the
+Table 3.
+Table 3. Examples of Coding Process.
+Table 3. Cont.
+Figure 1). These themes relate to RQ1: How do individuals perceive
+Figure 1. Summary of Findings: Influence of Street Soundscapes on Perception.
+Figure 2).
+Figure 2. Summary of Findings: Physical Characteristics of Street Soundscapes.
+Figure 3). This
+Figure 3. Summary of Findings: Street Soundscape Impact on Emotional Response.
+Figure 4). This theme was identified across the majority of participants (n = 10), reflecting
+Figure 4. Summary of Findings: Street Soundscape Impact on Pedestrian Behaviour.
+Figure 5).
+Figure 5 illustrates the relationship between soundscape-streetscape themes and
+Figure 5. The relationship between thematic analysis findings and Healthy Streets parameters,
+Figure 5). For example, participants highlighted the importance of walkability

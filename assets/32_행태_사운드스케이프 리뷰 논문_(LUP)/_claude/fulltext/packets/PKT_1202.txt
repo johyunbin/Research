@@ -1,0 +1,147 @@
+### RECORD ID=1202 | screening_verdict=INCLUDE | year=2026
+JOURNAL: Journal of Urban Management
+TITLE: Assessing the impact of landscape context on soundscape quality in multifunctional urban open spaces
+DOI: 10.1016/j.jum.2026.04.003
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Research Article
+Assessing the impact of landscape context on soundscape quality 
+in multifunctional urban open spaces
+Minqi Lin a , Chi Kwan Chau a , Huiying (Cynthia) Hou a,* , Shiu Keung Tang b ,
+Wai Kit Chung a , Ho Man Yu a
+a Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hong Kong, China 
+b Department of Mechanical and Aerospace Engineering, United Arab Emirates University, Al Ain, United Arab Emirates
+A R T I C L E I N F O
+Keywords:
+Multifunctional open space 
+landscape
+Soundwalk
+Soundscape quality
+A B S T R A C T
+This study demonstrates the critical role of landscape contextual factors in shaping the acoustic 
+environment and investigates their influences on soundscape quality of microscale functional 
+open spaces in densely populated cities. Specifically, this study aims to reveal the impacts of 
+microscale functional space types, their interactions with specific types of ongoing activities or 
+events, greenery and visual openness on soundscape quality evaluations. To achieve a more 
+comprehensive understanding, panoramic images from a pedestrian perspective were recorded 
+alongside subjective responses collected during soundwalks, advancing the traditional soundwalk 
+methodology integrating objective visual metrics. Microscale functional space type was found to 
+greatly alter perceptions and soundscape evaluations. This effect is particularly pronounced when 
+sound types harmonize with specific functional spaces, resulting in a markedly better soundscape 
+experience. For instance, children playing sounds in play areas enhance vibrancy and improve 
+soundscape quality, while the rustling of leaves in sitting-out areas enhances the overall sound-
+scape quality. Visual openness, encompassing sky view and open area size, is also identified as a 
+crucial factor in shaping the soundscape quality in compact urban open spaces. Its positive impact 
+is as important as greenery visibility, but its net influence is significantly smaller compared to 
+aural factors. Above all, landscape contextual factors mitigate the adverse effects of noise and 
+enhance natural sound perception, balancing the asymmetry between positive and negative sound 
+impacts. The findings emphasize the importance of integrating microscale functional space 
+design, visual landscape, and sound source management to enhance soundscape quality of 
+multifunctional space.
+1. Introduction
+In cities where land resources are scarce, there is an urgent need for multifunctional open spaces that can meet the diverse needs of 
+individual city inhabitants, enhancing their well-being and health. Landscape design plays a crucial role when designing these spaces 
+to foster sustainable and healthy urban environments (Jackson, 2003; Li & Liu, 2024). It involves designing and planning of visible 
+elements such as vegetation, amenities, and landforms, ensuring they harmoniously integrate with natural or man-made elements to
+* Corresponding author. Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hung Hom, 
+Kowloon, Hong Kong, China.
+E-mail addresses: minqi.lin@connect.polyu.hk (M. Lin), beckchau@gmail.com (C.K. Chau), cynthia.hou@polyu.edu.hk (H.(C. Hou), sktang@ 
+uaeu.ac.ae (S.K. Tang), wai-kit.chung@connect.polyu.hk (W.K. Chung), louisyu125@hotmail.com.hk (H.M. Yu).
+HOSTED BY
+Contents lists available at ScienceDirect
+Journal of Urban Management
+journal homepage: www.elsevier.com/locate/jum
+https://doi.org/10.1016/j.jum.2026.04.003
+Received 24 January 2026; Received in revised form 18 March 2026; Accepted 8 April 2026
+Available online xxxx
+2226-5856/© 2026 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Chinese Association of Urban Management. This is 
+an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Journal of Urban Management xxx (xxxx) xxx
+Please cite this article as: Lin, M. et al., Assessing the impact of landscape context on soundscape quality in multifunctional urban 
+open spaces, Journal of Urban Management, https://doi.org/10.1016/j.jum.2026.04.003
+
+achieve high aesthetic appeal. Beyond visual aspects, soundscape - an auditory counterpart to landscape - also influences people's 
+preference for open spaces (Pijanowski, 2011). Pleasant soundscape can attract more visitors and encourage them to stay, while poor 
+soundscapes may discourage people from visiting and lingering (Filipan et al., 2017; Liu et al., 2018), particularly in densely populated 
+urban areas with heavy pedestrian and road traffic. Soundscape can be enhanced by altering certain design attributes of open space. 
+Attributes like geographic location, spatial function, natural and artificial elements, and enclosure and cover can influence one or more 
+key soundscape attributes: the sound environment, people's perception, and context.
+Geographic location of open spaces determines the type and intensity level of external sound sources. The sound environment of 
+open spaces is influenced by their surrounding context and dominant sound sources (Liu et al., 2019). While urban open spaces are 
+often associated with higher exposure to anthropogenic sounds such as road traffic, and rural areas are more likely to feature natural 
+sound sources, considerable variability exists within both settings depending on local conditions such as proximity to infrastructure, 
+land use, and activity patterns. Within a given open space—defined in this study as publicly accessible outdoor areas within residential 
+housing estates (e.g., sitting-out areas, playgrounds, and circulation spaces)—the sound environment may vary considerably due to 
+differences in on-site sound source types, sound pressure levels (SPL), site topography, and the degree of spatial enclosure and visual 
+cover. In addition to altering the physical sound environment, the presence of specific types of sound source can influence how people 
+per
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Soundwalk
+Soundwalk approach was adopted in this study to collect field data capturing the participants’ perceptual responses to various 
+attributes of the acoustical environment, including loudness, sound source dominance, affective qualities, and compatibility between 
+soundscape and landscape (Jo & Jeon, 2021). Soundwalk can be regarded as a semi-controlled form of on-site surveys, having many 
+advantages over traditional crowdsourced perceptual surveys and on-site investigation methods or controlled laboratory experiments. 
+Typically, guided by a moderator, soundwalks lead individual participants or groups along a predefined route or asks them to walk 
+within a predefined area to their preferred spots for in-situ collection of their feedback responses and descriptions of the audio-visual 
+environment. Soundwalks provide context-rich and ecologically valid insights by capturing in-situ acoustic experiences, although they 
+inherently involve less control over confounding factors related to site conditions and individual differences. Despite this, the 
+soundwalk approach allows for the inclusion of a broader range of real-world variables than controlled laboratory experiments, 
+making it particularly suitable for investigating complex, everyday acoustic environments. Furthermore, soundwalks offer a practical 
+balance between methodological depth and time–cost efficiency.
+In this study, the soundwalk protocol was informed by the assessment principles outlined in Section 5.2 of ISO/TS 12913-2:2018 
+(ISO/TS 12913–2, 2018), with methodological adaptations made to suit the specific objectives and constraints of the research. The 
+soundwalk trips were conducted during favourable weather conditions to minimize the influence of environmental disturbances such
+M. Lin et al. 
+Journal of Urban Management xxx (xxxx) xxx
+3
+
+as rain or strong winds. To capture temporal variations in the acoustic environment associated with daily activity patterns, each 
+soundwalk route was conducted across three time sessions: morning (am), afternoon (pm), and evening (eve). Each soundwalk session 
+lasted approximately 40 min. During each session, a research staff member acted as the moderator and guided a group of four to six 
+participants along a predefined route within the study area. Participants were instructed to walk at a comfortable pace while paying 
+attention to the surrounding acoustic and visual environment. At several predetermined observation points along the route, the group 
+paused briefly to allow participants to focus on the sound environment. At each stop, participants were asked to listen to the sur-
+rounding acoustic environment for approximately 1 min before completing a structured questionnaire evaluating their perception of 
+the soundscape and associated environmental attributes. The moderator ensured that participants followed the same procedure at each 
+stop and avoided discussing their evaluations with one another during the survey in order to minimize potential bias.
+Participants who took part in the soundwalks were mainly students or acquaintances recruited from one university in Hong Kong. 
+The participant selection was informed by observations from a pilot soundwalk conducted prior to the formal survey. Local residents of 
+the public housing estates were found to be highly familiar with the surroundings and frequently interacted with ongoing activities in 
+the area. During the pilot soundwalk, several residents greeted acquaintances or engaged in casual conversations, which distracted 
+their attention from the auditory environment and shifted their focus toward social or visual interactions. To ensure that participants 
+could concentrate on evaluating the acoustic environment during the soundwalk, local residents were therefore excluded from the 
+formal survey. University students were considered appropriate participants because the objective of the study was to examine general 
+perceptual relationships between soundscape quality and landscape contextual factors rather than long-term residential experiences or 
+place attachment. Participants who were less familiar with the sites could provide more neutral evaluations of the environmental 
+soundscape. In addition, students are commonly used in soundscape perception studies as they can follow structured soundwalk 
+protocols and rating procedures consistently. Using a relatively homogeneous participant group also helps reduce variability caused by 
+demographic differences, allowing the analysis to focus more clearly on the relationships between sound sources, spatial functions, and 
+visual environmental factors. The group walked to and from specific locations, stopping at several selected points along the way. 
+During the soundwalk trips, the moderator of the soundwalk group recorded 1-min binaural audio samples at each stop of the 
+soundwalk route using two in-ear microphones (Brüel & Kjær Type 4101) connected to a hand-held sound level meter (Brüel & Kjær 
+Type 2270). At each stop along the two-way soundwalk route, two audio samples were collected.
+While traditional soundwalk methods primarily emphasize subjective auditory and visual perception (ISO/TS 12913–2, 2018), this 
+study builds on existing approaches by incorporating objective visual data through panoramic imaging to support a more compre-
+hensive analysis of audio–visual relationships. Panoramic images capturing the views experienced by participants at the selected 
+locations were recorded using a GoPro Max 360 Action Camera. This camera features dual lenses capable of capturing 360-degree 
+images and videos with a resolution of up to 16.6 megapixels for photos and 5.6K at 30fps for videos. Although the camera recor-
+ded the full 360 ◦ visual environment, the analysis focused on the 180 ◦ forward-facing field of view, which corresponds to the primary 
+visual scene experienced by participants during the soundwalk. As participants walked along the route, their at
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. These routes 
+Table 1 show a summary of 
+Fig. 1. Four soundwalk routes and stops selected in four residential housing estates.
+Table 1
+Table 2 shows a summary statistic of the participants' characteristics. Table 3 presents the mean sound environment quality ratings 
+Table 3 provide a more detailed understanding of intra-site variability, complementing the subsequent 
+Table 4 summarizes the independent variables 
+Table 5 below lists the estimated values of non-standardized and standardized coefficient of all the statistically significant 
+Table 2
+Table 3
+Table 4
+Table 5
+Table 4 further illustrate this difference: 

@@ -1,0 +1,133 @@
+no,verdict,direction,reason
+793,EX1,na,동물 성선택·형질에 대한 urbanisation 리뷰
+794,EX4,na,청취실험 감정(pleasantness/arousal) 반응만 측정
+795,EX1,na,개구리 advertisement call 변이 연구
+796,EX1,na,박쥐 foraging behavior 소음 영향
+797,EX4,na,Walk Score 지수 산출만·실제 보행행태 미측정
+798,EX4,na,소음센서 데이터 클러스터링 기법·행태 아웃컴 없음
+799,BORDERLINE,reverse,교차로 경적 사용행동↔음환경·차량 세팅 애매
+800,EX1,na,great tits 포식자 지각·번식행동
+801,EX4,na,소음지도·건강영향 평가·행태 아웃컴 없음
+802,EX2,na,섬유공장 실내 직업소음 노출 연구
+803,EX4,na,녹지 유형·사망률 결과만 측정
+804,INCLUDE,both,도시숲 운동자 행태별 audio-visual 선호 분석
+805,EX4,na,지각된 사운드스케이프 회복성만 측정
+806,EX4,na,소음관리 선호·recreationist utility(선택실험)만 측정
+807,EX5,na,역사·인문 서술 분석·실증 행태데이터 없음
+808,EX1,na,박쥐 echolocation·social call 도시 적응
+809,EX4,na,항공기소음·혈압/동맥경직도 생리지표만
+810,EX2,na,실내 요식업장 배경음악 지각
+811,BORDERLINE,forward,소음 민원행동 공간분석·지각 프록시 성격 애매
+812,EX5,na,개념 프레임워크 제안만·실증 데이터 없음
+813,EX1,na,house finch 노래 문화전달 ABM
+814,EX4,na,차량 소음시험법 개발·인간행태 없음
+815,EX3,na,대기오염 정책 모델링·음환경 변수 없음
+816,EX2,na,건물 실내 지하철 소음 지각 모델
+817,EX1,na,도시 조류 번식 phenology·성공
+818,INCLUDE,forward,산림공원 사운드스케이프 지각→환경책임행동(자기보고)
+819,BORDERLINE,forward,소음 민원행동과 POI 공간분포 관계 분석
+820,EX1,na,동물원 사육 조류 행동과 음환경
+821,BORDERLINE,reverse,관광 행태요인↔음원 지각·결과는 스트레스 완화
+822,EX4,na,디아볼로 사운드스케이프·flow state만 측정
+823,BORDERLINE,both,공원 앱 소리제어·이용행동 측정의 행태성 애매
+824,EX2,na,주거지 소음노출·아동 증상·공공 오픈스페이스 아님
+825,EX4,na,가로 유형별 정신건강·환경지각만 측정
+826,EX1,na,사육 songbird 소음노출·gut microbiota
+827,EX5,na,atmospherics 비평적 문헌 리뷰
+828,EX1,na,자연소음 재생 실험·birdsong 구조 변화
+829,EX2,na,주거지 도로소음·아동 문제행동·세팅 부적합
+830,EX4,na,녹지 노출·사망률 결과만
+831,BORDERLINE,forward,자연 사운드스케이프→보전행동·의도 여부 불명
+832,EX2,na,아파트 실내 설계기준·정신웰빙
+833,INCLUDE,forward,통근 중 소음 노출과 보행·자전거 실천행동
+834,EX5,na,코로나 음환경 변화 리뷰 논문
+835,EX4,na,사운드스케이프 지각·자연연결성만 측정
+836,EX1,na,침입 마모셋·조류 음향다양성 영향
+837,EX2,na,주행 시뮬레이터 차량 내부 음악·운전행동
+838,EX1,na,동물 vibroscape 기반 ecotremology 개념 제안
+839,EX3,na,차량 통행시간·비만/당뇨·음환경 변수 없음
+840,EX1,na,공항 소음과 조류 dawn chorus
+841,EX1,na,산호초 pomacentrid 어류 발성
+842,EX1,na,passerine 노래와 빛·달 위상
+843,EX2,na,실내 체인점 배경음악·구매행동
+844,EX4,na,아동 혈압 생리지표 결과만
+845,EX4,na,시청각 쾌적성·생리반응(심박/동공)만 측정
+846,EX1,na,junco 노래 도시-비도시 분화
+847,EX4,na,국립공원 사운드스케이프 지각·시각미학
+848,BORDERLINE,reverse,총성 음향탐지로 밀렵활동 공간분포 추정
+849,EX2,na,교육시설 실내환경질(IEQ) 회귀모델
+850,EX5,na,철도 진동·소음 저감기법 state-of-the-art 리뷰
+851,EX5,na,철도음 도시사 서술 분석·실증 행태데이터 없음
+852,EX4,na,공원 다중음원 선호·주관평가만 측정
+853,INCLUDE,both,코로나기 옥외 공공공간 이용변화와 소리의 역할
+854,EX4,na,도로소음·삶의질/정신적 고통 결과만
+855,EX3,na,근린 지각·수면/비만·음환경 변수 없음
+856,EX1,na,침입식물 서식지 songbird 노래 변이
+857,EX2,na,요양원 실내 시각장애 노인 대상
+858,BORDERLINE,reverse,항만 음질 평가에 방문빈도·체류시간 반영
+859,EX4,na,상공비행 시공간 패턴 분석·인간행태 없음
+860,EX5,na,연구 프로토콜·건강영향 모델링 예정 단계
+861,EX1,na,동물 개체군 확률모형의 수학적 noise
+862,INCLUDE,reverse,이용자 레크리에이션 행태→도시숲 음향지표 변화
+863,EX2,na,고령자 주거 실내환경 실측·조사
+864,EX4,na,공원 사운드스케이프·시민 감정 변화만
+865,EX4,na,지역소음·고혈압 유병 관계
+866,EX5,na,아우구스티누스 신학·역사 텍스트 해석
+867,EX2,na,주택 실내 사운드스케이프(재택근무·휴식)
+868,EX3,na,녹지·PM2.5·고혈압·음환경 변수 없음
+869,EX5,na,아동비만 건조환경 체계적 문헌고찰
+870,EX1,na,인공조명과 박쥐 풍부도·야간 사운드스케이프
+871,EX4,na,가로 녹시율→보행 만족도(지각)만 측정
+872,EX1,na,willie wagtail 야간 노래와 ALAN
+873,EX1,na,Barn Swallow 생활사·번식 성공
+874,EX3,na,SIR 수학모형의 Gaussian noise·음환경 아님
+875,EX1,na,Lesser Bulldog Bat foraging·echolocation
+876,EX3,na,다공성 아스팔트 재료 성능시험·소음 미측정
+877,EX4,na,IMS 인프라사운드 기준모델·인간행태 없음
+878,EX4,na,DAS 신호처리 차량 통행 모니터링 기법
+879,EX3,na,근린환경·인지기능·음환경 변수 없음
+880,INCLUDE,forward,도로소음 포함 도시환경과 COPD 환자 걸음수·좌식시간
+881,EX3,na,녹지 공간분포·정신건강·음환경 변수 없음
+882,EX1,na,Australian magpie 인지수행과 소음
+883,INCLUDE,reverse,공원 이용·활동이 새/교통음 경험에 미치는 영향
+884,EX2,na,해양 연안 보트 소음 모니터링 세팅
+885,EX4,na,교통소음 ANN 예측모델·행태 아웃컴 없음
+886,EX1,na,풍력소음과 Dupont's lark 발성
+887,EX3,na,PPG 신호 잡음 품질평가·음환경 아님
+888,BORDERLINE,reverse,공공공간 사운드스케이프 지각구조·활동 연계 애매
+889,EX4,na,노인 사운드스케이프 선호(지각)만 측정
+890,EX1,na,도시화와 조류 번식 적합도 리뷰
+891,EX2,na,강의실 실내 잔향시간 음향분석
+892,EX4,na,대기오염·우울증·소음은 공변량일 뿐
+893,EX1,na,조류 음향 탐지 데이터셋 구축
+894,EX4,na,교통소음 EEG 뇌파 생리반응만 측정
+895,EX3,na,녹지 노출 이동성 편의·음환경 변수 없음
+896,EX1,na,국립공원 조류 발성의 소음 반응
+897,EX3,na,운동시설 접근성·심혈관질환·음환경 변수 없음
+898,EX4,na,소음 포함 도시환경과 정신증 경험
+899,EX1,na,공항 인근 조류 feather corticosterone
+900,EX4,na,GPS 활동기반 소음노출·정신건강 임계값만
+901,INCLUDE,reverse,도시녹지 공공 레크리에이션 행태↔음향지표
+902,EX4,na,열-음환경 주관적 평가만 측정
+903,EX1,na,도시 songbird 통신거리·세력권 크기
+904,EX4,na,정적/동적 노출평가 비교·행태 아웃컴 없음
+905,EX4,na,소음·대기오염·녹지와 뇌졸중 발생
+906,EX1,na,field cricket 교통소음·적합도 형질
+907,EX1,na,Darwin's finches 노래·공격성
+908,EX1,na,thorny oyster 보트소음 행동 반응
+909,BORDERLINE,both,공공공간 행태지도+사운드워크·설계교육 리뷰 성격
+910,EX1,na,도시/농촌 귀뚜라미 발성·짝찾기 행동
+911,EX1,na,월동 물새 도로소음 교란 실험
+912,INCLUDE,forward,교통소음↔신체활동 매개경로와 정신웰빙
+913,EX4,na,회복지각 매개·건강편익 지각만 측정
+914,EX1,na,조류 노래학습과 도시소음 대처
+915,EX1,na,무미양서류 인위소음 영향 리뷰
+916,EX1,na,zebra finch 인지·부리색·성장
+917,BORDERLINE,forward,사운드스케이프→아동 사회적 상호작용 기대(의도)
+918,EX1,na,vermilion flycatcher 세력권 반응
+919,EX1,na,song sparrow 세력권 공격성 조작실험
+920,EX4,na,교통소음·유방암 발생 코호트
+921,EX5,na,soundsitting 방법론 제안·행태분석 없음
+922,EX1,na,도시 내분비학 동물 연구 전망 논평
+923,EX1,na,mountain chickadee 노래 전달·소음
+924,EX2,na,실내 개방형 사무실 사운드스케이프

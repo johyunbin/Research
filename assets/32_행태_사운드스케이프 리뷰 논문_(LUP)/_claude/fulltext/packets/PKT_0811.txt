@@ -1,0 +1,222 @@
+### RECORD ID=811 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Comparative Diagnosis of the Urban Noise Problem from Infrastructural and Social Sensing Approaches: A Case Study in Ningbo, China
+DOI: 10.3390/ijerph19052809
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+
+
+Citation: Si, Y.; Xu, L.; Peng, X.;
+Liu, A. Comparative Diagnosis of
+the Urban Noise Problem from
+Infrastructural and Social Sensing
+Approaches: A Case Study in
+Ningbo, China. Int. J. Environ. Res.
+Public Health 2022, 19, 2809. https://
+doi.org/10.3390/ijerph19052809
+Academic Editor: Paul B. Tchounwou
+Received: 25 January 2022
+Accepted: 25 February 2022
+Published: 28 February 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+International Journal of
+Environmental Research
+and Public Health
+Article
+Comparative Diagnosis of the Urban Noise Problem from
+Infrastructural and Social Sensing Approaches: A Case Study
+in Ningbo, China
+Yutian Si 1,2, Liyan Xu 1,*
+, Xiao Peng 1 and Aihan Liu 1,3
+1
+College of Architecture and Landscape Architecture, Peking University, Haidian, Beijing 100871, China;
+1701214565@pku.edu.cn (Y.S.); pkupengxiao@pku.edu.cn (X.P.); aliu685@gwu.edu (A.L.)
+2
+Sichuan Territorial Planning Institute, Chengdu 610081, China
+3
+Department of Data Science, The George Washington University, Washington, DC 20052, USA
+*
+Correspondence: xuliyan@pku.edu.cn
+Abstract: Urban noise causes a variety of health problems, and its prevention and control have
+thus become an important research topic in urban governance. Although existing literature is fairly
+comprehensive in revealing the physical noise patterns, it lacks the concern of people’s perceived
+seriousness, especially at the macroscopic, i.e., citywide scale. In this paper, we borrow from the
+“exposure-perception-behavior” theory in environmental psychology, and propose an analytical
+framework for diagnosing the urban noise problem that integrates the Infrastructural and Social
+Sensing perspectives. Utilizing noise monitoring data that ﬁlls the spatiotemporal granularity gaps
+of ofﬁcial noise monitoring, as well as the “12345” urban complaint hotline records which serve as
+a proxy for residents’ perceived noise levels, we empirically examine the mechanisms for physical
+magnitude and perceived seriousness of urban noise, respectively, by taking the Jiangbei District of
+Ningbo City, China as an example. Results show that the existence of perceptual bias and behavioral
+preference effects did shape people’s perceived noise problem map that is vastly different from that of
+the physical noise magnitude, in which the semantics of urban places, temporal rhythms of life, and
+population demographics signiﬁcantly inﬂuenced people’s tolerance of noise. We conclude the paper
+with suggestions on updating the existing National Standard for urban noise regulation to reﬂect the
+perceptual aspect, and also methodological discussions on possible ways to recognize and utilize the
+perceptual bias in social-sensing big-data to better accommodate urban governance.
+Keywords: urban noise; infrastructure sensing; social sensing; acoustic environmental quality stan-
+dard; “high-frequency” city; Ningbo
+1. Introduction
+Noise poses numerous threats to people’s physical and psychological health and is an
+intrinsic part of environmental pollution [1]. The problem of noise pollution is particularly
+acute in cities of developing countries due to their limited urban governance capacity [2–5].
+In China, for example, the 2013 China Ecological Environment Survey reported that noise is
+one of the four major pollutants in China [6]. The compliance rate to the National Acoustic
+Environmental Quality Standard (GB 3096-2008) [7] (National Standard henceforth) of urban
+noise has been low. In 2020, noise complaints accounted for 41.2% of all environmental-
+problem-related public complaints, assuming a second place among all pollutant sources [8].
+The various negative effects of urban noise have prompted extensive research in the ﬁeld of
+built environment. Currently, studies on the noise patterns of the built environment have
+become fairly established at the mesoscopic (blocks, plazas, and parks) and microscopic
+(buildings, indoor environments) scales [9,10]. In terms of noise governance, there is also
+an abundance of studies on noise reduction technologies, management strategies, and noise
+source control at small and medium scales [11–14]. Based on these academic progresses,
+Int. J. Environ. Res. Public Health 2022, 19, 2809. https://doi.org/10.3390/ijerph19052809
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2022, 19, 2809
+2 of 21
+the International Organization for Standardization (ISO) has formally deﬁned the concept
+of the soundscape [15], and some cities in advanced economies have even established
+institutionalized environmental noise control programs through soundscape-mapping
+tools such as the acoustic map [16,17]. However, at the macroscopic, i.e., citywide scale,
+there is still a lack of research on ﬁne-granularity spatiotemporal patterns, occurrence
+mechanisms, and governance strategies of the noise problem [13,18–20], and it is again
+especially so in developing countries [3].
+This situation is largely caused by the lack of empirical observation data on urban
+noise at the appropriate spatiotemporal granularity. Traditional urban noise studies tend
+to rely on direct monitoring of noise as the data source. In other words, they follow an
+infrastructure-sensing approach. Admittedly, direct monitoring instruments can objectively
+reﬂect the magnitude of noise. China’s National Standard on urban acoustic environmental
+quality (Table A1 in Appendix A), like those of other countries and international organiza-
+tions [15], is based on the physical magnitude of noise. However, one prominent difﬁculty
+in the implementation of this standard lies in the noise monitoring itself. Noise monitoring
+data are incomplete 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodologically, such observation is a reﬂection of the emerging “Social Sensing” ap-
+proach, where, with the aid of the ICT, each person can act as a sensor of social events,
+generating data with individual markers and spatiotemporal semantic information anytime
+and anywhere [34,35]. At the collective level, we can use Social Sensing data to reveal the
+spatiotemporal patterns of the observed objects for this paper, noise, and investigate the
+mechanisms by which they occur [36]. Such analysis helps us to understand the rationale
+of urban residents complaining about noise. And further, by comparing this rationale
+with the physical occurrence mechanisms of noise generation and transmission, we can
+better understand the relationship between physical and psychological processes of the
+noise problem, and develop effective urban noise control policies, which would be of great
+importance in urban environmental governance.
+In summary, we conduct noise monitoring with improved spatiotemporal granularity
+in this study, and compare it with noise complaint records from the “12345” hotline data,
+which allows us to investigate the following two research questions:
+(1)
+What are the ﬁne-grained spatiotemporal patterns of objective, physical magnitude of
+noise, as well as the residents’ subjectively perceived seriousness of noise in typical
+urban settings? And what similarities and differences the two pictures show?
+(2)
+What are the mechanisms that gives rise to the physical and perceptual noise land-
+scape, respectively? And what similarities and differences the two mechanisms have?
+In this paper, we take the Jiangbei district of Ningbo City as an example, and examine
+the above questions. The rest of the paper is organized as follows. Section 2 describes
+the methods and data. Section 3 presents the empirical ﬁndings on the spatiotemporal
+
+Int. J. Environ. Res. Public Health 2022, 19, 2809
+4 of 21
+patterns and mechanisms of the monitored physical magnitude of noise and the perceived
+seriousness of noise. We conclude the paper in Section 4 with a summarizing conclusion,
+and discussions on the methodological and practical implications of the research.
+2. Materials and Methods
+2.1. Study Area and Data Sources
+2.1.1. Study Area
+Jiangbei District, Ningbo City, China, was selected as the case city for this study
+(Figure 2). Speciﬁcally, we chose the urban and peri-urban areas with a high concentration
+of population in the district, i.e., the area east of the bypass highway as the boundary of
+the study area. The area is 102 km2 in size and with a population of about 400,000 by the
+end of 2019. Ningbo is an important port city in East China, and the study area covers the
+central business district, the old town area, and an entire urban-rural gradient, where major
+types of urban noise environments are included, making the area a representative case for
+studying the urban noise problem.
+Figure 2. Study area.
+2.1.2. The “12345” Data
+The “12345” urban problem complaint hotline is an important part of China’s digital
+urban governance system, providing a bottom-up feedback channel for addressing urban
+problems of all sorts. The complaint records in the study area were provided by the Ningbo
+Bureau of Urban Management for the period from 1 January 2017 to 31 July 2019, and the
+sample size is 1116. The record data include the time, location, content, handling status, and
+handling government department of the complaints, and were anonymized as necessary
+
+Int. J. Environ. Res. Public Health 2022, 19, 2809
+5 of 21
+before being provided to the researcher. A sample of typical noise complaint records is
+shown in Table A2 in Appendix B. According to the noise types involved in the complaints,
+the complaint records can be divided into two categories: everyday life-related noise (such
+as dog barking, noise from streetside restaurants, loud advertisement broadcasting, trafﬁc
+noise, etc.), and construction-related noise.
+2.1.3. Noise Magnitude Data Acquisition and Processing
+We obtained the noise monitoring data from government information disclosure by the
+Ningbo Ecological Environment Bureau. The data include two types of records: (1) noise
+monitoring data for the acoustic environment functional areas in the study area. This
+record has only one sample point in the whole area, and is continuously monitored with
+the ﬁxed-point monitoring method as stipulated by the National Acoustic Environmental
+Quality Standard, and the data obtained are the average day and night equivalent sound
+level values for the whole year of 2019; (2) the regional acoustic environment monitoring
+data in the study area, which contains 23 monitoring points. For each monitoring point,
+one day (non-holiday) which meets the general outdoor noise monitoring conditions is
+chosen to conduct a 10 min noise level monitoring, and the monitoring is conducted once
+a year.
+Since the above ofﬁcially provided noise monitoring sampling is very sparse in both
+spatial and temporal terms, in this study we conducted ﬁeld noise monitoring under
+standard measurement conditions to obtain noise magnitude data at higher spatiotemporal
+granularity. For the entire study area, we ﬁrst designated a regular grid system of 1 × 1 km
+(see below for details), and then determined the number of monitoring points needed
+within each grid through stratiﬁed sampling based on the number and distribution of the
+“12345” noise complaint records in each grid, such that the ratio of number of complaint
+records to the number of noise monitoring points to be 10:1. Given the number of sampling
+points (107 in total), random points were generated as locations for noise monitoring
+(Figure 3a). We used the AWA6228+ sound level meter for sound monitoring, which
+complies the National Standards of GB/T3785-2010 (IEC61672) Level 1 and GB/T3241-2010
+(IEC61260) Level 1; and used the AWA6201 sound calibrator, which complies the National
+Standard GB/T 15173-2010 Level 1 [37]. All instruments, as well as the monitori
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1),
+Figure 1. A conceptual framework for understanding the urban noise problem.
+Figure 1, direct observation of ﬁne-granularity noise
+Figure 1.
+Figure 2). Speciﬁcally, we chose the urban and peri-urban areas with a high concentration
+Figure 2. Study area.
+Figure 3a). We used the AWA6228+ sound level meter for sound monitoring, which
+Figure 3. Analysis grids and noise monitoring and complaints. (a) noise monitoring grids and
+Figure 3b, which
+Table 1). As the dependent variable and all independent variables are continuous, we ﬁt
+Table 1. Variables in the physical noise magnitudes model.
+Figure 1. They include land use, POI, functional mixture
+Table 2). Among them, the land use and
+Table 2. Variables in the Perceived Noise Levels Model.
+Figure 3c) demonstrated that
+Figure 4d). On the one hand, there are more
+Figure 4. Spatiotemporal distribution of monitored and complaint noise records. (a) Kernel density
+Figure 4a,b compares the physical noise environment map (a) and the noise
+Figure 4a,c compares the physical noise environment map (a) and the noise
+Table 3. The
+Table 4. The model is statistically valid with a p-value of 0.000. 61.5% of the complaints
+Table 5.
+Table 3. Summary of Physical Noise Model Results.
+Table 4. Summary of the results of the noise complaint model (6:00–19:00) for the everyday-life-related
+Table 5. Partial Marginal Effects of the Variables.

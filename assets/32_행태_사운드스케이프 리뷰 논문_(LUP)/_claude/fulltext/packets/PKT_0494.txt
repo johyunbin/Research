@@ -1,0 +1,262 @@
+### RECORD ID=494 | screening_verdict=INCLUDE | year=2018
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Relationships among satisfaction, noise perception, and use of urban green spaces
+DOI: 10.1016/j.scitotenv.2017.12.148
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Relationships among satisfaction, noise perception, and use of urban
+green spaces
+Guillermo Rey Gozalo a,⁎, Juan Miguel Barrigón Morillas b, David Montes González b, Pedro Atanasio Moraga b
+a Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, 5 Poniente 1670, 3460000 Talca, Chile
+b Departamento de Física Aplicada, Escuela Politécnica, Universidad de Extremadura, Avda. de la Universidad s/n, 10003 Cáceres, Spain
+H I G H L I G H T S
+• Noise is the most inﬂuential factor in the
+evaluation of an urban green space.
+• Road trafﬁc remains the fundamental
+source of noise in urban green spaces.
+• For the same sound level, noise annoy-
+ance is lower than in other urban areas.
+• Leq (dB) and sharpness proved to be
+good estimators of noise perception.
+• The lower the noise, the higher the
+frequency of relaxation and walking
+activities.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 30 July 2017
+Received in revised form 15 November 2017
+Accepted 13 December 2017
+Available online 27 December 2017
+Editor: P. Kassomenos
+Nowadays, urban design without green spaces is inconceivable. Environmental, social, and economic beneﬁts gen-
+erated by green spaces are essential to maintain the health and quality of life of the population and to control pol-
+lution. Therefore, urban planners and city leaders should know the interactions between the features of green
+spaces, the sociodemographic characteristics of users, and the type of use. In addition, in some studies, noise was
+found to be an essential factor in the perception of these green spaces. For this purpose, surveys and sound
+measurements were carried out simultaneously in different locations of the main green spaces of Cáceres city.
+The results of this study show that noise satisfaction has the greatest signiﬁcant relationship with overall satisfaction
+with green spaces. Different features, including satisfaction with the absence of noise, can explain 71.4% of the over-
+all satisfaction. Road trafﬁc is the most annoying sound source, but the degree of noise annoyance is lower than that
+estimated for other urban environments with similar sound levels. Walking and talking activities, emotions of fear
+and irritability, and interruptions to conversation are most often affected by noise in these urban environments. An-
+other conclusion obtained is that the highest signiﬁcant correlation coefﬁcients are between noise perception by
+users and both the equivalent continuous linear weighted sound level and sharpness. Lastly, the green-space use
+determines differences and signiﬁcant relationships with the sociodemographic characteristics. Also, the places
+in green spaces where people frequently perform walking and relaxation activities have the lowest sound levels.
+Therefore, noise is a statistically relevant factor to be considered in the design of green spaces.
+© 2017 Elsevier B.V. All rights reserved.
+Keywords:
+Urban green spaces
+Noise annoyance
+Noise effects
+Noise perception
+Acoustic environment
+Urban planning
+1. Introduction
+In the last decades, there has been a clear trend toward the depopu-
+lation of rural areas and increasing concentration of human beings in
+Science of the Total Environment 624 (2018) 438–450
+⁎ Corresponding author.
+E-mail address: guille@unex.es (G. Rey Gozalo).
+https://doi.org/10.1016/j.scitotenv.2017.12.148
+0048-9697/© 2017 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+cities. Currently 57% of the population live in agglomerations having
+populations in excess of 300,000 people, and it is estimated that
+by the year 2030, 62% of the global population will live in cities
+(UN, 2014).
+The rapid growth of cities has brought social, economic, and envi-
+ronmental challenges (EC, 2000). Five objectives in the environmental
+dimension have been deﬁned for a European vision of tomorrow's cit-
+ies: mitigate and adapt to climate change; protect, restore, and enhance
+biodiversity and ecosystems; reduce pollution; manage natural mate-
+rials resources sustainably and prevent waste; and protect, preserve,
+and manage water resources (RFSC, 2016). Populations are living in
+environments with increasing pollution, intense heat, habitat loss, de-
+clining biodiversity, and noise (EEA, 2014, 2016; IEAGHG, 2016; RFSC,
+2016). Approximately seven million people died in 2012 due to expo-
+sure to air pollution (WHO, 2014), and 60,000 disability-adjusted life
+years are lost through ischaemic heart disease due to environmental
+noise (WHO, 2011). There is a critical need to ﬁnd ways to reduce health
+risks and improve the wellbeing of citizens.
+Studies from numerous ﬁelds have analysed the beneﬁts provided
+by urban green spaces in cities and they are related with three key
+values: social, economic, and environmental (Chiesura, 2011; Sander,
+2015; Scopelliti et al., 2016; Szeremeta and Zannin, 2013). Urban
+green spaces play an important role from a social perspective by
+promoting physical activity, allowing rest or relaxation and increasing
+social interaction (Dadvand et al., 2016; Kaczynski et al., 2008; Maas
+et al., 2009; Peters et al., 2010). They therefore help to facilitate active
+lifestyles and emotions of restoration while reducing stress and social
+isolation in urban environments (Coombes et al., 2010; Grahn and
+Stigsdotter, 2003, 2010; Jay and Schraml, 2009). Urban green spaces
+also beneﬁt local residents and communities economically. Aesthetic
+and recreational values of urban green spaces increase the attractive-
+ness of a city and promote it as a tourist destination, thus generating
+employment and revenue (Jim and Chen, 2006). Water and vegetation
+also increase property values (Luttik, 2000; Sander and Haight, 2012).
+The other key value of urban green spaces is environmental beneﬁts,
+such as counteracting the urban heat island effect (Doick et al., 2014;
+Feyisa et al., 2014), reducin
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Study area
+The study was carried out in green spaces of Cáceres, a medium-
+sized city located in the southwest of Spain, whose proportion of
+green area per inhabitant is approximately 16.6 m2 per inhabitant.
+This proportion is one of the highest in the country and is greater than
+the range of 10–15 m2 per inhabitant recommended by the World
+Health Organization (Brebbia et al., 2010).
+The following urban green areas were selected for this study:
+Cánovas, Principe, Valhondo, Fernando Turégano, Fray Pacíﬁco, Perú,
+and Rodeo. Locations and aerial photos of the green spaces are shown
+in Fig. 1. The green spaces were chosen on the basis of location, size,
+and year of inauguration (see Table 1).
+These green spaces are located in densely populated urban areas and
+are representative of the different districts. They are popular green
+spaces frequently visited by citizens in Cáceres. The selected green
+spaces were large enough for the activities analysed later in the survey.
+The age of the green spaces made it possible to analyse the evolution of
+satisfaction regarding the features evaluated in previous studies.
+2.2. Surveys
+A cross-sectional study was carried out during 2014 by means of
+questionnaires administered during daytime to a random sample of
+adult visitors to the seven urban green spaces selected. Face-to-face
+interviews were conducted by trained interviewers. During the survey,
+respondents were informed about the objectives of the study and the
+time required to complete the questionnaire (about 10 min). A total of
+182 completed questionnaires were used for this study. The percentage
+of respondents compared to the total number of citizens was similar to
+that used in recent studies (Dzhambov and Dimitrova, 2015; Kaczynski
+et al., 2008) with a sufﬁcient statistical power (Fritz and Mackinnon,
+2007). The questionnaires were well distributed in terms of district,
+sampling points, size of green space, and number of visitors. In this
+way, the sample presented sociodemographic characteristics represen-
+tative of the population resident in Cáceres (see Table 2).
+In each urban green space, the sites most frequented by visitors
+were selected to conduct the surveys and the acoustic measurements
+(see Fig. 1). Interviews and acoustics measurements were carried out
+simultaneously.
+In the survey, three dimensions were analysed: satisfaction (12
+items, αCronbach = 0.79), noise annoyance (8 items, αCronbach = 0.70),
+and effects of noise (14 items, αCronbach = 0.81). The items were rated
+on a ﬁve-point Likert scale ranging from 0 (“not at all” or “never”) to 4
+(“a lot” or “very often”).
+In the ﬁrst dimension, the satisfaction with the features of urban
+green spaces was analysed. The following items were evaluated: clean-
+liness, air quality, noise, aesthetics, safety, users, conservation, location,
+size, groves, and shade. These features were selected due to their rela-
+tionship with social, economic, or environmental aspects that inﬂuence
+the overall satisfaction with green spaces. Overall satisfaction was also
+evaluated in one item. The cleanliness, aesthetics, and conservation
+along with environmental features such as groves have an inﬂuence
+on the visual assessment of the green space. In turn, these features inﬂu-
+ence the overall valuation and can inﬂuence the valuation of other
+439
+G. Rey Gozalo et al. / Science of the Total Environment 624 (2018) 438–450
+
+environmental features such as noise (Carles et al., 1999; Preis et al.,
+2015). Noise, air quality, groves, and shade are features to be considered
+in assessing the environmental beneﬁt of green spaces, as recent studies
+have shown (Jabben et al., 2015; Shen and Candice Lung, 2016). Besides,
+social and design aspects such as security, users, size, and location
+should be considered. Recent studies show that the locations and pro-
+portion of green spaces have a signiﬁcant inﬂuence on healthy habits
+(Dadvand et al., 2016; Scopelliti et al., 2016; Shen and Candice Lung,
+2016). However, the function and assessment of these features may
+be inﬂuenced by social characteristics, such as the relationship with
+users or security (López Barrios, 2001).
+Fig. 1. Map of Cáceres city (Spain) with location of the selected green spaces and sampled sites (images from Google Earth).
+Table 1
+Year of inauguration, area, and distance from the city centre of the green spaces.
+Urban green spaces
+Year of inauguration
+Area (hm2)
+Distance from the
+city centre (km)
+Cánovas
+1895
+2.1
+Downtown
+Príncipe
+1970
+22.0
+0.5
+Valhondo
+2001
+2.2
+1.3
+Fernando Turégano
+2000
+3.2
+2.0
+Fray Pacíﬁco
+1998
+1.6
+1.0
+Perú
+2002
+1.5
+0.8
+Rodeo
+2001
+10.6
+0.8
+440
+G. Rey Gozalo et al. / Science of the Total Environment 624 (2018) 438–450
+
+Also, in 2007–2008, the satisfaction dimension was studied in the
+same green spaces using the sampling procedure employed in this
+study and interviewing 234 users. The results of that analysis showed
+that noise was one of the environmental features with which users
+were less satisﬁed (see Table 3). Therefore, because of these results
+and the current interest in this environmental pollutant, in the present
+study, noise annoyance and noise effect dimensions were analysed.
+On the noise-annoyance dimension, the annoyance caused by the
+main sound sources in urban green spaces, such as road trafﬁc and
+sounds from people (voices, children, construction sites, maintenance
+services), was evaluated (Benﬁeld et al., 2010; Szeremeta and Zannin,
+2009; Torija et al., 2014). In addition, sounds from animals and water,
+which are features of these urban spaces, were evaluated (Barrigón
+Morillas et al., 2013). Lastly in this dimension, users were asked about
+the overall noise annoyance in urban green spaces.
+With regard to the noise effects dimension, the frequency of noise-
+induced emotions (irritability, anxiety, disorientation, fear, earache),
+the frequency with which the activities carried out in green spaces
+(talking, reading, relaxing, walking, exercising) were disturbed
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. The green spaces were chosen on the basis of location, size,
+Table 1).
+Table 2).
+Fig. 1). Interviews and acoustics measurements were carried out
+Fig. 1. Map of Cáceres city (Spain) with location of the selected green spaces and sampled sites (images from Google Earth).
+Table 1
+Table 3). Therefore, because of these results
+Fig. 1 shows the locations of sampling points in each urban green space.
+Table 2
+Table 3
+Fig. 2). The separation between the stages of the merger is
+Fig. 2(a) and it was 15 in Fig. 2(b).
+Table 3 shows the development of the level of user satisfaction with
+Table 3). Noise was also the worst feature valuated
+Fig. 2. Dendrograms obtained from hierarchical cluster analysis (Ward's method). The inputs to the analysis were the satisfaction with the features of urban green spa
+Fig. 2(a)]. However, the mean satisfaction with
+Table 3). Therefore, user satisfac-
+Fig. 3. In this partial correlation analysis, the possible inﬂuence of the
+Fig. 2(a)].
+Fig. 3 shows that groves, safety, location, aesthetic and size do not
+Fig. 3).
+Table 4). These features also have
+Table 5. The values 0, 1, 2, 3 and 4 shown in Tables 5 and 6
+Table 6 shows the practical results of using the multinomial logistic
+Table 6).

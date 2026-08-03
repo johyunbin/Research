@@ -1,0 +1,247 @@
+### RECORD ID=1009 | screening_verdict=BORDERLINE | year=2024
+JOURNAL: HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+TITLE: Effect of human sound component on the sociability of urban public spaces-a case study in Sheffield, UK
+DOI: 10.1057/s41599-024-03929-y
+PAGES: 11
+
+--- HEAD (title/abstract/intro) ---
+ARTICLE
+Effect of human sound component on the
+sociability of urban public spaces—a case study in
+Shefﬁeld, UK
+Jingwen Cao
+1 & Jian Kang
+2✉
+Soundscape quality is important for fostering social interactions in urban public spaces. This
+study focuses on how and to what extent the compositions of the soundscape affect the
+sociability of urban public spaces where human sound is focused. Four 360° experimental
+soundscape samples were designed as foreground/background/no human sound type and
+signal sound type, based on the raw data collected in Peace Gardens, Shefﬁeld, United
+Kingdom. Following Affordance Theory, sociability was analyzed by the experimental survey
+through two aspects—suitability and stimulation level—through a questionnaire consisting of
+Soundscape Quality evaluation (SQE) and Level of Willingness for social interactions (LoW),
+respectively. 120 participants were recruited in the same site representing the compositions
+of space users. Results show that only foreground human sound type signiﬁcantly enhanced
+both suitability and stimulation levels, other samples were evaluated with either high suit-
+ability/low stimulation or low suitability/high stimulation. Results indicate people prefer a
+human sound dominated soundscape with high complexity and this preference was varied
+among different companion types and age groups. To achieve high sociability, it is suggested
+to create a complex and eventful soundscape within the range of pleasantness accompanied
+by a centripetal spatial form, and concerns users' diverse demographic backgrounds.
+https://doi.org/10.1057/s41599-024-03929-y
+OPEN
+1 School of Architecture and Urban Planning, Nanjing University, 210093 Nanjing, China. 2 Institute for Environmental Design and Engineering, University
+College London, London WC1H 0NN, UK. ✉email: j.kang@ucl.ac.uk
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2024) 11:1523 | https://doi.org/10.1057/s41599-024-03929-y
+1
+1234567890():,;
+
+Introduction
+Background. Urban sounds, as one part of urban experiences,
+have become important in the urban design process (van Kempen
+et al., 2014; Hasegawa et al., 2022). Especially in outdoor spaces,
+sound quality can inﬂuence the social activities, public health, and
+physical well-being of urbanites considering various noise pro-
+blems (Ludvigsen, 2006). Previous studies have sought sustainable
+sound strategies to inﬂuence the relationship between urbanites
+and their acoustic environment, to minimize the negative aspects
+of sounds (Fields, 1997; Hinton and Bloomﬁeld, 2000; Kang,
+2012), and to maximize the acoustic comfort level (Meng et al.,
+2017; Xiao et al., 2018). Soundscape evaluation was then intro-
+duced as an approach to evaluate the reactions of people toward
+experimental sound environments and address the perceptual
+aspect of sounds (Aletta et al., 2016; Brown et al., 2007; Xu and
+Kang, 2019). The concept of ‘soundscape’ emerged to emphasize
+the perceptual aspect of the acoustic environment in analogy to
+‘(visual) landscape’ (Cain et al., 2013). The term ‘soundscape’ was
+recently deﬁned in ISO 12913 as: [the] acoustic environment as
+perceived or experienced and/or understood by a person or
+people,
+in
+context
+(International
+Organization
+for
+Standardization, 2014). Although massive efforts have been made
+for acoustic improvements and evaluations, capturing the com-
+plexity of qualitative urban auditory experience in a real-life
+setting remains a challenge (Bild et al., 2018; Tong and Kang,
+2021; Brown et al., 2011).
+Urban soundscape experiences and soundscape evaluations.
+Experiences in urban public spaces are greatly inﬂuenced by the
+acoustic environment, especially when conducting noise-sensitive
+activities (Yang and Kang, 2005). The concept of soundscape
+focuses on the perceptual aspect of the acoustic environment and
+gained prominence in the 1970s. After several decades of
+research, researchers have summarized a series of soundscape
+evaluation approaches for exploring sound perceptions. Kang and
+Zhang (2010) identiﬁed four key elements of soundscapes in
+urban public spaces—relaxation, communication, spatiality, and
+dynamics. These elements covered the main facets of the acoustic
+design of urban public spaces: function (relaxation and commu-
+nication), space and time. The functional facet indicates that
+people perceive sounds through their requirements for activities
+(Marquis-Favre et al., 2005; Payne and Guastavino, 2013). In
+other words, the evaluations of soundscape should adequately
+reﬂect the supportiveness of the acoustic environment for the two
+activities- relaxation and communication. To conduct soundscape
+evaluations in outdoor settings, Soundscape Quality Evalua-
+tion(SQE) has been widely applied, addressing the overall per-
+ceptions of the acoustic environment (Aletta et al., 2016). SQE
+usually involves various types of adjective descriptors and phrases
+that describe different aspects of the soundscape in order to
+measure perceptions. In this study, SQE indicators for the two
+major outdoor activities–relaxation and communication, were
+built upon two previous classic studies by Kang and Zhang (2010)
+and Axelsson et al. (2010). Kang and Zhang (2010) identiﬁed
+indicators
+for
+relaxation
+such
+as
+comfort–discomfort,
+quiet–noisy, pleasant-unpleasant, like–dislike, etc. Communica-
+tion indicators include social–unsocial, meaningful–meaningless,
+calming–agitating, etc. (Kang and Zhang, 2010; Axelsson et al.,
+2010). Axelsson et al. (2010) proposed a two-dimensional model
+with two indicators, pleasantness and eventfulness, representing
+relaxation and communication activities, respectively. Among
+these indicators, stressful (peaceful), eventful (uneventful/dull),
+pleasant (unpleasant/annoying) and safe (unsafe) were the mostly
+used descriptors in urban public spaces (Nilsson and Berglund,
+2006; Axelsson et al., 2010). Various inﬂuential factors, including
+physical, behavioral, social/demographic and psychological fac-
+tors, were suggested to be conside
+
+--- METHODS/RESULTS EXCERPT ---
+Methods” section describes the
+research site, data acquisition methods and analysis methods of
+this study with the aim to achieve the research objectives; the
+“Results” section explains the results and implications of the data
+analysis; and the “Discussion” section discusses the complexity of
+sound environments in urban public spaces and the varied
+soundscape preferences of people from diverse demographic
+backgrounds.
+Methods
+Designing 360° soundscape samples with sound interventions.
+To explore the effect of the compositions of sound sources, four
+experimental soundscape samples were designed, with the tar-
+geted human sound applied as the positive intervention, and the
+disturbed signal sound included as the negative intervention.
+Each soundscape sample was displayed using a 360° video:
+1. V1 (Positive intervention): Foreground human sound type,
+human sound was added in the foreground, with a pleasant
+background sound;
+2. V2 (Positive intervention): Background human sound type,
+human sound was added in the background, mixed with a
+pleasant background sound;
+3. V3 (No intervention): No human sound type, peaceful and
+pleasant soundscape without human sound;
+4. V4 (Negative intervention): Signal sound type, loud signal
+sound was added in the foreground, with a pleasant
+background human sound.
+All four soundscape samples were based on the actual sound
+compositions in urban public spaces. Previous studies have found
+that people classify sounds into foreground and background during
+the initial stage of sound perception (Davies et al., 2013; Sun et al.,
+2019). When sounds are in the foreground, they tend to be more
+prominent and louder, capturing people’s attention (Davies et al.,
+2013). In urban public spaces with dense crowds, human sounds are
+closer and louder, making them more noticeable. Therefore, human
+sounds were designed to simulate high or low crowd density by
+placing them in the foreground or background respectively (De
+Coensel et al., 2017; Sun et al., 2019). V3 was designed as a control
+sample with no human sound intervention. V4 was designed to be a
+negative sound type that would interrupt people’s activities.
+The workﬂow of designing the four 360° soundscape samples is
+displayed in Fig. 1.
+First, raw data, including multi-track location recordings and
+360° videos, were collected in Peace Gardens, Shefﬁeld, UK, using
+a four-channel Ambisonic digital recorder (Zoom H3-VR) and a
+Ricoh Theta SC camera. Recording events took place from 9.00
+a.m. to 12.00 p.m. noon and 2.00 p.m. to 5.00 p.m., during May
+2019, when the weather was mild and warm. The duration of each
+recording lasted for 3 min. The sampling rate is 48 kHz, and the
+depth of the recordings is 24 bits. The duration of each recording
+is 3 min. The recorder and 360 camera were ﬁxed on one tripod,
+which were kept the same as the normal sitting height (calculated
+at 115 cm from the ear level to the ground level), to ensure that
+the captured sound and images were at a sitting angle. In order to
+maintain consistency in the scene and function of soundscape
+samples as well as to minimize disruptions to users’ activities
+Fig. 1 Workﬂow of editing the 360° soundscape samples (V1,V2,V3,V4). The ﬁgures shown in the ﬂow chart are the facilities used for raw data
+collection, the cover image of each 360° video, as well as the example of participant watching soundscape samples; the ﬂow chart also present the detailed
+design process of six soundtracks of each sample.
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-024-03929-y
+ARTICLE
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2024) 11:1523 | https://doi.org/10.1057/s41599-024-03929-y
+3
+
+during the data collection process, the shooting location of all
+video samples was positioned at the center of the Peace Gardens,
+maintaining a distance from the participants. As a result, 31
+recordings and 8 videos were captured, with each sample
+displaying the same range of frames, minimizing differences
+caused by variations in images.
+Second, the collected recordings and videos were thoroughly
+reviewed and organized, in preparation for the soundscape design
+stage. As mentioned in the literature review section, socially
+interactive sounds of human activities enhanced soundscape
+evaluations (Bild et al., 2018). Thus, various types of human
+sounds, including talking, laughing, singing, and any other
+sounds generated during social interactions, were recorded during
+the ﬁeldwork. The sound signal recorded using the Ambisonics
+method (First Order Ambisonics) can be computationally
+transformed into a number of relevant formats. This study
+decoded them into 5.1 Atmos format with six soundtracks:
+Center (C), Left (L), Right (R), Left surround (Ls), Right surround
+(Rs), and low-frequency effect (LFE), the particular track of
+human sounds were selected and prepared for the subsequent
+edition.
+Third, the tracks and videos were edited in Adobe Audition CC
+according to the four targeted soundscape features shown in Fig.
+1. For example, V1 was added as foreground human sound tracks
+in C, L and R track—people could hear human sound at a short
+distance. To ensure that the edited sounds corresponded with the
+overall content and angles of objects in the video, only suitable
+types of human sounds were added. The human sounds of the
+four samples were mainly talking and laughing sounds. Each
+video was about 20–30 s. Participants watched the four recorded
+videos on their phones through Google Cardboard glasses and a
+headphone. A spectrum of each soundscape sample (all tracks) is
+shown in Fig. 2.
+Data collection. The suitability level was analyzed through
+Soundscape Quality Evaluations (SQE) based on past studies,
+indicating whether a soundscape can support users’ social activ-
+ities.
+SQE
+comprises
+four
+aspects
+of
+evaluations:
+Stressful–Peaceful
+(SQE-SP),
+Uneventful–Eventful
+(SQE-E),
+Unsafe–Safe (SQE-S), and Unpleasant–Pleasant (SQE-P). The
+stimulation level was analyzed through the Levels o
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1.
+Fig. 1 Workﬂow of editing the 360° soundscape samples (V1,V2,V3,V4). The ﬁgures shown in the ﬂow chart are the facilities used for raw data
+Fig.
+1. For example, V1 was added as foreground human sound tracks
+Fig. 2.
+Fig. 2 Spectra from the four soundscape samples. V1—foreground human sound = blue line; V2—background human sound = purple line; V3—no human
+Figure 3 illustrates the mean values of
+Fig. 3, human sound interventions sig-
+Fig. 3 Mean values of SQE-SP/E/S/P evaluations of V1–V4. 1–5 represent the evaluations between the two extremes.
+Figure 4 denotes the
+Fig. 4e,
+Table
+1), with the negative coefﬁcient ﬁgures (R) of −0.233 and −0.206.
+Fig. 5) divides four quadrants with the Suitability level as the X-
+Fig. 4 Percentage of LoW-C/E/S evaluations of the four soundscape samples. a V1, b V2, c V3, d V4, and e mean values of the LoW-C/E/S evaluations
+Table 1 Correlation analysis of social willingness levels in relation to frequency, companion types and age, and the two-sample t-
+Fig. 5 The four soundscape samples (V1,V2,V3,V4) situated in three different quadrants indicating the relationship between soundscape suitability

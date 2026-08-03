@@ -1,0 +1,246 @@
+### RECORD ID=492 | screening_verdict=INCLUDE | year=2018
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: Public Space Users' Soundscape Evaluations in Relation to Their Activities. An Amsterdam-Based Study
+DOI: 10.3389/fpsyg.2018.01593
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+University of Groningen
+Public Space Users’ Soundscape Evaluations in Relation to Their Activities
+Bild, Edda; Pfeffer, Karin; Coler, Matthew; Rubin, Ori; Bertolini, Luca
+Published in:
+Frontiers in Psychology
+DOI:
+10.3389/fpsyg.2018.01593
+IMPORTANT NOTE: You are advised to consult the publisher's version (publisher's PDF) if you wish to cite from
+it. Please check the document version below.
+Document Version
+Publisher's PDF, also known as Version of record
+Publication date:
+2018
+Link to publication in University of Groningen/UMCG research database
+Citation for published version (APA):
+Bild, E., Pfeffer, K., Coler, M., Rubin, O., & Bertolini, L. (2018). Public Space Users’ Soundscape
+Evaluations in Relation to Their Activities: An Amsterdam-Based Study. Frontiers in Psychology, 9, Article
+1593. https://doi.org/10.3389/fpsyg.2018.01593
+Copyright
+Other than for strictly personal use, it is not permitted to download or to forward/distribute the text or part of it without the consent of the
+author(s) and/or copyright holder(s), unless the work is under an open content license (like Creative Commons).
+The publication may also be distributed here under the terms of Article 25fa of the Dutch Copyright Act, indicated by the “Taverne” license.
+More information can be found on the University of Groningen website: https://www.rug.nl/library/open-access/self-archiving-pure/taverne-
+amendment.
+Take-down policy
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately
+and investigate your claim.
+Downloaded from the University of Groningen/UMCG research database (Pure): http://www.rug.nl/research/portal. For technical reasons the
+number of authors shown on this cover page is limited to 10 maximum.
+Download date: 02-08-2026
+
+ORIGINAL RESEARCH
+published: 29 August 2018
+doi: 10.3389/fpsyg.2018.01593
+Edited by:
+Sarah R. Payne,
+Heriot-Watt University,
+United Kingdom
+Reviewed by:
+Harry J. Witchel,
+University of Sussex, United Kingdom
+Neil Bruce,
+University of Salford, United Kingdom
+*Correspondence:
+Edda Bild
+a.e.bild@uva.nl
+Specialty section:
+This article was submitted to
+Environmental Psychology,
+a section of the journal
+Frontiers in Psychology
+Received: 23 February 2018
+Accepted: 09 August 2018
+Published: 29 August 2018
+Citation:
+Bild E, Pfeffer K, Coler M, Rubin O
+and Bertolini L (2018) Public Space
+Users’ Soundscape Evaluations
+in Relation to Their Activities. An
+Amsterdam-Based Study.
+Front. Psychol. 9:1593.
+doi: 10.3389/fpsyg.2018.01593
+Public Space Users’ Soundscape
+Evaluations in Relation to Their
+Activities. An Amsterdam-Based
+Study
+Edda Bild1*, Karin Pfeffer2, Matt Coler3, Ori Rubin1 and Luca Bertolini1
+1 Urban Planning Group, Department of Human Geography, Planning and International Development Studies, Faculty
+of Social and Behavioural Sciences, University of Amsterdam, Amsterdam, Netherlands, 2 Department of Urban
+and Regional Planning and Geo-Information Management, Faculty of Geo-Information Science and Earth Observation,
+University of Twente, Enschede, Netherlands, 3 University of Groningen, Leeuwarden, Netherlands
+Understanding the relationship between people and their soundscapes in an urban
+context of innumerable and diverse sensory stimulations is a difﬁcult endeavor. What
+public space users hear and how they evaluate it in relation to their performed or
+intended activities can inﬂuence users’ engagement with their spaces as well as their
+assessment of suitability of public space for their needs or expectations. While the
+interaction between the auditory experience and activity is a topic gaining momentum
+in soundscape research, capturing the complexity of this relationship in context remains
+a multifaceted challenge. In this paper, we address this challenge by researching
+the user-soundscape relationships in relation to users’ activities. Building on previous
+soundscape studies, we explore the role and interaction of three potentially inﬂuencing
+factors in users’ soundscape evaluations: level of social interaction of users’ activities,
+familiarity and expectations, and we employ affordance theory to research the ways
+in which users bring their soundscapes into use. To this end, we employ a mixed
+methods design, combining quantitative, qualitative and spatial analyses to analyze how
+users of three public spaces in Amsterdam evaluate their soundscapes in relation to
+their activities. We documented the use of an urban park in Amsterdam through non-
+intrusive behavioral mapping to collect spatial data on observable categories of activities,
+and integrated our observations with on site questionnaires on ranked soundscape
+evaluations and free responses detailing users’ evaluations, collected at the same
+time from park users. One of our key ﬁndings is that solitary and socially interactive
+respondents evaluate their soundscapes differently in relation to their activities, with
+the latter offering higher suitability and lower disruption ratings than the former; this
+points to qualitatively different auditory experiences, analyzed further based on users’
+open-ended justiﬁcations for their evaluations. We provide a methodological contribution
+(adding to existing soundscape evaluation methodologies), an empirical contribution
+(providing insight on how users explain their soundscape evaluations in relation to their
+activities) and a policy and design-related contribution, offering additional insight on a
+transferable methodology and process that practitioners can employ in their work on
+the built environment to address the multisensory experience of public spaces.
+Keywords: soundscape evaluation, activity, public space, familiarity, expectation, affordance
+Frontiers in Psychology | www.frontiersin.org
+1
+August 2018 | Volume 9 | Article 1593
+
+Bild et al.
+Soundscape Evaluations in Relation to Activity
+INTRODUCTION
+Research shows that urban sound aﬀects the health and well-
+being of urbanites in a signiﬁcant manner, at the
+
+--- METHODS/RESULTS EXCERPT ---
+Method” and the ﬁndings
+of the analysis are covered in Section “Results.” We discuss the
+research and practice-related gaps that we address in detail in the
+following section and in the concluding discussion (see section
+“Discussion”); in the latter we also outline the three contributions
+of this study: empirical, methodological and policy and design-
+oriented.
+BACKGROUND
+The evaluation of soundscapes is at the center of eﬀorts
+of scientists from disciplines as diverse as psychology or
+anthropology, particularly of those working at the intersection
+of theoretical and applied research, as they aim to understand
+how users of various urban public and private spaces engage
+with and relate to what they hear, and how that inﬂuences the
+quality of their experience. In this section, we review the scientiﬁc
+literature key to the evaluation of soundscapes and develop the
+analytical model described below guiding the empirical research
+(Figure 1). First, we discuss studies exploring the role of activity
+in soundscape evaluations, including the speciﬁc eﬀect of level
+of social interaction of one’s activities. Then we review studies
+Frontiers in Psychology | www.frontiersin.org
+2
+August 2018 | Volume 9 | Article 1593
+
+Bild et al.
+Soundscape Evaluations in Relation to Activity
+FIGURE 1 | Analytical model to research the user-soundscape relationship in relation to the user’s activity.
+researching the role of other factors inﬂuencing soundscape
+evaluations, like one’s previous experience, as it relates to
+expectation and familiarity, on these evaluations (discussed below
+in detail and summarized in the analytical model proposed in
+Figure 1). Finally, we use the concept of aﬀordance to understand
+how users of public spaces bring their soundscapes into use
+through their engagement with and activities performed in their
+public spaces (Ingold, 2000; Steenson and Rodger, 2015).
+Soundscape Evaluations and Activity
+Scientiﬁc eﬀorts have been made to determine soundscape
+descriptors and indicators that can help explain or predict
+users’ soundscape evaluations (Nilsson et al., 2007; Jennings
+and Cain, 2013; Steenson and Rodger, 2015; Herranz-Pascual
+et al., 2017), with an eye on operationalizing this knowledge
+and implementing it in sound-related practices. The dominant
+approach studies evaluations in relation to sound/soundscape
+quality (see Schulte-Fortkamp and Fiebig, 2016) and integrates
+aspects of pleasantness (Raimbault, 2006; Axelsson et al., 2010;
+Can et al., 2016; Herranz-Pascual et al., 2017, inter alios) and
+quietness (Pheasant et al., 2008; Booi and van den Berg, 2012;
+Bloomﬁeld, 2014; Aspuru et al., 2016), usually in contrast
+with annoyance (see e.g., Lercher and Schulte-Fortkamp, 2003;
+Andringa and Lanser, 2013).
+While the role of users’ activities as a variable potentially
+inﬂuencing their relationship with their soundscapes has been
+suggested before (Dubois, 2000; Lercher and Schulte-Fortkamp,
+2003), the eﬀective and explicit integration of activity in scientiﬁc
+research with a focus on urban public spaces is still in its
+incipient, exploratory phase (Aletta et al., 2016b; Bild et al.,
+2016, 2018; Lavia et al., 2016; Steﬀens et al., 2017). Most
+of these research projects arise from more practice-oriented
+questions, either dealing with speciﬁc soundscape interventions
+with some form of behavioral control in mind (see Lavia et al.,
+2012, 2016), or emphasizing the role users’ soundscapes play in
+relaxation or rehabilitation activities or in relation to auditory
+comfort, both indoors and outdoors (Mzali, 2002; Delepaut,
+2009; Cerwén et al., 2016; Filipan et al., 2017). Consequently,
+many questions remain on how best to deﬁne and operationalize
+activity in empirical studies and what methods are suited for
+researching the relationship between soundscape evaluations
+and activities in an ecologically valid manner (Guastavino
+et al., 2005). For example, one laboratory study demonstrated
+that various soundscape recordings were evaluated as being
+appropriate2 for diﬀerent imagined activities by participants
+in a listening experiment (Nielbo et al., 2013); it, however,
+remains unclear how we can transfer the outcomes from
+research performed in a laboratory to research performed on-
+site. We address this issue by furthering the exploration of the
+aforementioned relationship with a focus on understanding the
+role activity plays in inﬂuencing public space users’ soundscape
+evaluations. We base part of our inquiry on preliminary studies
+2The term “appropriateness” has been used to measure users’ evaluation of their
+soundscapes in relation to their settings, deﬁned either as their performed or
+imagined activity – appropriateness for activity (Nielbo et al., 2013; Bild et al.,
+2018) or, more commonly, the geographical setting they ﬁnd themselves in –
+appropriateness in/for “a place” (Lavia et al., 2012; Aletta et al., 2016a). In this
+paper, we focus on the former understanding of the term.
+Frontiers in Psychology | www.frontiersin.org
+3
+August 2018 | Volume 9 | Article 1593
+
+Bild et al.
+Soundscape Evaluations in Relation to Activity
+in the ﬁeld, showing that the level of social interaction of
+users’ activities has an inﬂuence on how users evaluate their
+soundscapes in relation to their activities (Bild et al., 2018)
+and a marginal eﬀect on their soundscape descriptions. In
+other words, to what extent does whether users are alone
+or with others inﬂuence how they evaluate their soundscapes
+in relation to what they were doing (e.g., talking, reading,
+sunbathing)?
+Inﬂuencing Factor: Expectation
+Bruce and Davies (2014) relate soundscape expectations to
+Truax’s concept of “soundscape competence” (2001), referring
+to the ability of users of a space to interpret and make sense
+of what they hear, based on previous experience, and framing
+soundscape expectations for future situations. Filipan et al. (2017)
+suggest that the presence or absence of certain expected sounds
+in a context (like a park) can aﬀect users’ evaluations 
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). First, we discuss studies exploring the role of activity
+Figure 1). Finally, we use the concept of aﬀordance to understand
+Figure 1 summarizes the various strands of soundscape research
+Figure 2): two traditional urban parks
+Table 1 below).
+Table 2).
+Figure 1, we aimed
+Table 2 below). Stimulation is a
+Figure 3 in
+Table 3 below.
+Figure 3) as they play a descriptive
+Figure 3 demonstrates that the sample of users approached to
+Table 4) shows that, for the dependent variables, the vast
+Figure 4. For disruption, a larger share
+Table 5) showed that there was a signiﬁcant
+Table 6).
+Figure 3).
+Figure 3) as well as “city sounds,” However, socially
+Figure 3) and, of course,

@@ -1,0 +1,254 @@
+### RECORD ID=1154 | screening_verdict=BORDERLINE | year=2025
+JOURNAL: FRONTIERS IN PUBLIC HEALTH
+TITLE: Lunch breaks as a buffer: mitigating the negative effects of road traffic noise on urban employee workplace behavior
+DOI: 10.3389/fpubh.2025.1681862
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Frontiers in Public Health
+01
+frontiersin.org
+Lunch breaks as a buffer: 
+mitigating the negative effects of 
+road traffic noise on urban 
+employee workplace behavior
+Jianglin Ke 1, Zhaoyue Wang 2, Yufei Zhang 1*, Lidan Liu 1 and 
+Qiongwei Wang 1
+1 School of Government, Beijing Normal University, Beijing, China, 2 School of Public Administration 
+and Policy, Renmin University of China, Beijing, China
+Introduction: The impact of road traffic noise annoyance on individual health is 
+well-documented in environmental and health studies. However, less attention 
+has been given to its negative effects on employees’ work behaviors and 
+effective mitigation strategies.
+Methods: Drawing on conservation of resources theory and general strain 
+theory, this research conducted a three-wave survey involving 816 urban 
+employees from 304 Chinese cities.
+Results: The results revealed a significant positive correlation between residential 
+road traffic noise annoyance and employees’ mental health complaints, work 
+withdrawal, and workplace aggressive behaviors. Mental health complaints were 
+confirmed to fully and partially mediate the relationship between noise annoyance 
+and work withdrawal and workplace aggressive behaviors, respectively. The 
+organizational lunch break environment negatively moderates the link between 
+residential road traffic noise annoyance and mental health complaints.
+Discussion: These findings underscore the importance of addressing noise 
+annoyance to enhance both employee welfare and organizational efficacy.
+KEYWORDS
+residential road traffic noise annoyance, mental health complaints, work withdrawal, 
+workplace aggressive behaviors, organizational lunch break environment
+1 Introduction
+Road traffic noise annoyance is a psychological construct defined as an individual’s 
+cognitive and emotional evaluation of an acoustic environment influenced by vehicular noise, 
+which may result in a feeling of partial helplessness and the need to undertake undesired actions 
+(1). Currently, research on road traffic noise annoyance has garnered significant attention from 
+scholars. This is due to the fact that, in contrast to objective measures of noise, noise annoyance 
+focuses on individuals’ specific sensitivity and vulnerability to noise, which is more closely 
+related to health outcomes (2). Among the existing studies of road traffic noise annoyance, 
+scholars have pay attention to the measurement of road traffic noise annoyance (1, 3). The 
+effects of acoustic parameters and non-acoustic parameters (e.g., occupation and income) on 
+road traffic noise annoyance, and the relationship between road traffic noise annoyance and 
+mental health issues (e.g., depression, anxiety, anger, and distraction, etc.) (4, 5). In order to 
+gain a more comprehensive understanding of the effects of road traffic noise annoyance, some 
+scholars have called for more research on the effects of road traffic noise annoyance on work-
+related attitudes and behaviors of employees (5). In the field of organizational behavior research, 
+the issue of family–work conflict and enrichment has received widespread attention. 
+Nevertheless, previous literature has paid limited attention to how road traffic noise annoyance 
+OPEN ACCESS
+EDITED BY
+Sasho Stoleski, 
+Saints Cyril and Methodius University of 
+Skopje, North Macedonia
+REVIEWED BY
+Ellyssa Abdelmoula, 
+Carthage University, Tunisia
+Yang Liu, 
+Shandong Normal University, China
+*CORRESPONDENCE
+Yufei Zhang 
+ yff667@outlook.com; 
+ 202331260003@mail.bnu.edu.cn
+RECEIVED 08 August 2025
+ACCEPTED 06 October 2025
+PUBLISHED 24 October 2025
+CITATION
+Ke J, Wang Z, Zhang Y, Liu L and 
+Wang Q (2025) Lunch breaks as a buffer: 
+mitigating the negative effects of road traffic 
+noise on urban employee workplace 
+behavior.
+Front. Public Health 13:1681862.
+doi: 10.3389/fpubh.2025.1681862
+COPYRIGHT
+© 2025 Ke, Wang, Zhang, Liu and Wang. This 
+is an open-access article distributed under 
+the terms of the Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other forums is 
+permitted, provided the original author(s) and 
+the copyright owner(s) are credited and that 
+the original publication in this journal is cited, 
+in accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.
+TYPE  Original Research
+PUBLISHED  24 October 2025
+DOI  10.3389/fpubh.2025.1681862
+
+Ke et al.
+10.3389/fpubh.2025.1681862
+Frontiers in Public Health
+02
+frontiersin.org
+manifests in the residential context, which is particularly relevant to 
+understanding its spillover effects on employees’ family and work 
+domains. In this study, we  define residential road traffic noise 
+annoyance (RRTNA) as a subjective psychological construct that 
+reflects residents’ perception and evaluation of road traffic noise in 
+their living environment. Unlike objective acoustic indicators (e.g., 
+decibel levels), it emphasizes individuals’ subjective perception and 
+personal appraisal of the residential acoustic environment. As an 
+influence derived from the physical family environment, RRTNA is 
+likely to exert diverse effects on individuals living in different family 
+contexts, thereby shaping the dynamics of family–work conflict and 
+gain. However, existing research offers limited insight into the impact 
+of RRTNA on employees’ negative workplace behaviors and the ways 
+to mitigate its adverse effects.
+Previous research has established a link between noise annoyance 
+and negative emotions such as anger and anxiety (5), which are 
+strongly associated with employees’ adverse workplace behaviors (6). 
+Accordingly, this study aims to investigate the impact of RRTNA on 
+employees’ negative workplace behaviors, specifically examining both 
+work withdrawal and workplace aggressive behaviors concurrently. 
+The inclusion of these two outcome variables enables a comprehensive 
+examination of how RRTNA influences such behaviors. Here, work 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodius University of 
+Skopje, North Macedonia
+REVIEWED BY
+Ellyssa Abdelmoula, 
+Carthage University, Tunisia
+Yang Liu, 
+Shandong Normal University, China
+*CORRESPONDENCE
+Yufei Zhang 
+ yff667@outlook.com; 
+ 202331260003@mail.bnu.edu.cn
+RECEIVED 08 August 2025
+ACCEPTED 06 October 2025
+PUBLISHED 24 October 2025
+CITATION
+Ke J, Wang Z, Zhang Y, Liu L and 
+Wang Q (2025) Lunch breaks as a buffer: 
+mitigating the negative effects of road traffic 
+noise on urban employee workplace 
+behavior.
+Front. Public Health 13:1681862.
+doi: 10.3389/fpubh.2025.1681862
+COPYRIGHT
+© 2025 Ke, Wang, Zhang, Liu and Wang. This 
+is an open-access article distributed under 
+the terms of the Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other forums is 
+permitted, provided the original author(s) and 
+the copyright owner(s) are credited and that 
+the original publication in this journal is cited, 
+in accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.
+TYPE  Original Research
+PUBLISHED  24 October 2025
+DOI  10.3389/fpubh.2025.1681862
+
+Ke et al.
+10.3389/fpubh.2025.1681862
+Frontiers in Public Health
+02
+frontiersin.org
+manifests in the residential context, which is particularly relevant to 
+understanding its spillover effects on employees’ family and work 
+domains. In this study, we  define residential road traffic noise 
+annoyance (RRTNA) as a subjective psychological construct that 
+reflects residents’ perception and evaluation of road traffic noise in 
+their living environment. Unlike objective acoustic indicators (e.g., 
+decibel levels), it emphasizes individuals’ subjective perception and 
+personal appraisal of the residential acoustic environment. As an 
+influence derived from the physical family environment, RRTNA is 
+likely to exert diverse effects on individuals living in different family 
+contexts, thereby shaping the dynamics of family–work conflict and 
+gain. However, existing research offers limited insight into the impact 
+of RRTNA on employees’ negative workplace behaviors and the ways 
+to mitigate its adverse effects.
+Previous research has established a link between noise annoyance 
+and negative emotions such as anger and anxiety (5), which are 
+strongly associated with employees’ adverse workplace behaviors (6). 
+Accordingly, this study aims to investigate the impact of RRTNA on 
+employees’ negative workplace behaviors, specifically examining both 
+work withdrawal and workplace aggressive behaviors concurrently. 
+The inclusion of these two outcome variables enables a comprehensive 
+examination of how RRTNA influences such behaviors. Here, work 
+withdrawal is considered an internalizing behavior (7), while 
+workplace aggressive behaviors is regarded as an externalizing 
+behavior (8), thus offering distinct perspectives on how employees 
+respond to RRTNA. Moreover, work withdrawal can be perceived as 
+an indirect form of aggression, which disrupts organizational 
+productivity and service delivery while often appearing unintentional 
+(9). In contrast, workplace aggressive behaviors involve direct forms 
+of aggression, including physical and verbal acts (10).
+Furthermore, in response to scholarly appeals for research on 
+work withdrawal and workplace aggressive behaviors, which are 
+prominent manifestations of negative workplace conduct, there has 
+been a growing interest recently. This is primarily because these 
+behaviors serve as catalysts for increased organizational costs (e.g., 
+diminished productivity, heightened employee turnover, and reduced 
+organizational commitment) (11, 12). Isola et al. (13) have urged 
+researchers to delve deeper into the family-work spillover effect. 
+Specifically, they highlight the need to examine how familial factors 
+influence employee work withdrawal and to identify the psychological 
+mechanisms underlying this spillover. Similarly, scholars such as Kim 
+& James (11) have called for more investigation into the root causes of 
+workplace aggressive behaviors, along with effective strategies to 
+mitigate it.
+The conservation of resources (COR) theory posits that adverse 
+environmental conditions often threaten individuals’ resources or lead 
+to resource depletion, thereby rendering them particularly vulnerable 
+when resource access is limited (14). For instance, RRTNA may lead to 
+actual resource loss (e.g., diminished environmental quality in 
+residential areas) or potential resource loss (e.g., reduced individual 
+sleep duration). These losses may prompt individuals to avert further 
+depletion or to activate self-protective defense mechanisms (14), which 
+often manifest as defensive withdrawal or direct aggressive behavior 
+(15). Moreover, in accordance with stress and coping theory (16), the 
+negative emotions associated with RRTNA may lead individuals to 
+withdraw from work for short or extended periods as a way to protect 
+their mental well-being. These emotions may also increase the 
+likelihood of aggressive behavior in the workplace (17, 18).
+To explore the operational mechanism, we introduced mental 
+health complaints as a mediating factor to elucidate how RRTNA 
+influences employees’ work withdrawal and workplace aggressive 
+behaviors. Mental health complaints denote individuals’ subjective 
+perception of psychological distress and the manifestation of 
+psychological health issues (e.g., feelings of depression, anxiety, etc.) 
+(19). According to the cognitive activation theory of stress, mental 
+health complaints are considered as psychological stress responses 
+resulting from stressful stimuli (20). COR theory delineates the 
+interplay among stressors, stress responses, and individual coping 
+behaviors (15, 21). Consistent with this theory, RRTNA acts as a 
+stressor and induces psychological stress responses manifested as 
+mental health complaints. These responses, in turn, lead employees to 
+adopt defensive strategies to prevent resource
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Table 1), and the scale had good structural validity. 
+Table 2 indicate that the five-factor model 
+Table 3. Significant positive 
+Table 4. The 
+Table 5 presents findings on the moderating influence of the 
+Figure 2. The higher the score of the 
+Figure 2, the positive association 
+Table  6 shows the 
+Table 3)and the 
+Table 4) further confirm these 

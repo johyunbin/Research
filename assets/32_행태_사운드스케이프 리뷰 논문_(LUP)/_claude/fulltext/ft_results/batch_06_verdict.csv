@@ -1,0 +1,7 @@
+no,final_verdict,exclude_reason,confidence
+1009,UNCERTAIN,아웃컴이 사회적 상호작용 의향(LoW) — 실제 행태 관찰 아님,medium
+1138,UNCERTAIN,"행태=경적 사용, 아웃컴은 음향지표 — 행태 아웃컴 미측정",low
+1154,FINAL_EXCLUDE,옥외 공공공간 아님 — 주거소음 노출·직장 내 행태 설문,high
+1177,FINAL_INCLUDE,,medium
+1232,UNCERTAIN,전문가 포커스그룹 진술 — 특정 옥외공간 행태 실측 아님,medium
+1253,FINAL_EXCLUDE,행태 아웃컴 측정 없음 — SNS 텍스트 기반 사운드스케이프 인식 매핑,medium

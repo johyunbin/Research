@@ -1,0 +1,133 @@
+no,verdict,direction,reason
+133,EX1,na,조류 song 문화진화 — 동물 대상
+134,EX1,na,조류 vocalization 주파수 조정 — 동물 대상
+135,EX1,na,treehopper 진동통신 — 곤충 대상
+136,EX2,na,침실 내부 수면 polysomnography — 옥외 공공공간 아님
+137,BORDERLINE,unclear,야간 하이킹 질적연구 — 소리 주제 포함되나 정보 불충분
+138,EX1,na,red-winged blackbird 노래 구조 — 동물
+139,EX1,na,보호지역 야생동물 소음노출 매핑 — 동물
+140,EX1,na,blackbird 노래 변이 — 동물
+141,EX5,na,회복환경 리뷰 논문 — 실증 행태데이터 없음
+142,EX4,na,지각된 혼잡·수용규범만 측정 — 행태 아웃컴 없음
+143,EX1,na,chickadee 신호 유연성 — 동물
+144,EX1,na,silvereye 노래 주파수 — 동물
+145,EX1,na,birdsong 동질화 — 동물
+146,EX1,na,무미류·조류 군집 영향 — 동물
+147,EX1,na,great tit 저주파 노래 — 동물
+148,EX3,na,공공체육시설과 대사증후군 — 음환경 변수 없음
+149,EX1,na,조류 번식성공 — 동물
+150,EX1,na,조류 군집 필터링 — 동물
+151,EX1,na,도시 marmoset 행동권 선택 — 동물
+152,EX1,na,조류 song loudness 관계 — 동물
+153,EX4,na,타이어·포장 소음 측정 — 인간 행태 없음
+154,EX4,na,교통경찰 소음성 난청 — 생리·건강 아웃컴만
+155,EX4,na,학교-도로 근접성 GIS 분석 — 행태 아웃컴 없음
+156,EX1,na,serin 발성활동 증가 — 동물
+157,EX1,na,starling syrinx 형태 — 동물
+158,EX4,na,도로교통 소음 시공간 패턴 — 행태 아웃컴 없음
+159,EX5,na,사운드·건축 현상학 이론 논고 — 실증연구 아님
+160,EX4,na,소음과 삶의질 만족·annoyance만 측정
+161,EX1,na,Zonotrichia 노래 주파수 — 동물
+162,EX4,na,도시형태별 입면 소음 예측 — 행태 아웃컴 없음
+163,EX1,na,병아리 발성·체온조절 — 동물
+164,EX1,na,열대림 조류 종 영향 — 동물
+165,EX1,na,cardinal·robin 노래 주파수 — 동물
+166,EX1,na,great tit 노래와 수컷밀도 — 동물
+167,EX1,na,flycatcher 발성 주파수 — 동물
+168,EX1,na,개구리 번식 합창 — 동물
+169,EX5,na,whisper 정치철학 에세이 — 실증연구 아님
+170,EX1,na,great tit dawn song 급이실험 — 동물
+171,EX3,na,근린 유형과 혈압 — 음환경 변수 없음
+172,EX2,na,주거 실내 야간 철도소음 annoyance — 옥외 공공공간 아님
+173,EX1,na,bluebird 번식 생산성 — 동물
+174,EX1,na,kangaroo rat footdrumming — 동물
+175,EX1,na,white-crowned sparrow 노래 변화 — 동물
+176,EX1,na,담수어 광환경·shoaling — 동물
+177,EX4,na,크루즈 관광객 만족·재방문의도만 측정
+178,EX4,na,실험실 시각주의 반응시간만 측정 — 행태 아웃컴 없음
+179,EX1,na,저어새 분포·행동 — 동물
+180,EX3,na,죄수딜레마 격자모형 — 음환경(소리) 변수 없음
+181,EX2,na,항공기 객실 내부 소음·쾌적성 — 실내
+182,EX4,na,GIS 소음지도 작성 — 행태 아웃컴 없음
+183,EX1,na,sage-grouse 스트레스 호르몬 — 동물
+184,EX1,na,great tit 청지각 실험 — 동물
+185,EX1,na,noisy miner 경계음 진폭 — 동물
+186,BORDERLINE,reverse,주행행태가 도시 교통소음 형성 — 차량 내부 여부 불확실
+187,EX1,na,great tit song perch 선택 — 동물
+188,BORDERLINE,forward,근린 소음 부담과 자기보고 health behavior 포함
+189,EX2,na,학교 실내 인지수행 검사 — 옥외 공공공간 아님
+190,EX2,na,지하철 역사 내부 소음 측정 — 실내
+191,EX4,na,유아 ERP 청각주의 — 생리반응만 측정
+192,EX2,na,지하상가 내부 subjective loudness — 실내
+193,EX3,na,도시빈곤층 폐기물 관리 행태 — 음환경 변수 없음
+194,BORDERLINE,reverse,운전행태별 차량 근접소음 측정 — 차량 내부 여부 불확실
+195,EX2,na,쇼핑센터 푸드코트 실내 — 옥외 공공공간 아님
+196,EX2,na,쇼핑센터 푸드코트 실내 중복 레코드 — 옥외 아님
+197,EX1,na,beluga 서식해역 선박소음 — 동물
+198,EX1,na,메뚜기 구애신호 — 동물
+199,EX1,na,elk·pronghorn 행동 반응 — 동물
+200,EX3,na,도시성·도로근접성과 영아 수면 — 음환경 변수 없음
+201,EX1,na,chickadee·titmouse 사회행동 — 동물
+202,EX1,na,조류 song learning 비교 — 동물
+203,EX5,na,교통 의사결정 사회영향 리뷰 — 실증연구 아님
+204,EX1,na,Veery 음향경쟁 — 동물
+205,EX2,na,박물관 실내 전시 사운드스케이프 — 옥외 아님
+206,EX5,na,사운드스케이프 개선 개념 프레임워크 — 실증 데이터 없음
+207,EX4,na,창호 유리 차음성능 — 인간 행태 없음
+208,EX4,na,tamarisk 관리 수용성·지식만 측정 — 행태 아웃컴 없음
+209,EX1,na,도시 songbird 다양성 감소 — 동물
+210,EX1,na,blackbird 노래 주파수 제약 — 동물
+211,EX4,na,고속도로 소음 예측모델 — 행태 아웃컴 없음
+212,EX1,na,조류 커뮤니케이션 연구 동향 — 동물
+213,EX1,na,magpie 도시-농촌 노래 비교 — 동물
+214,EX3,na,숲·체육관 걷기 심리효과 — 음환경 변수 없음
+215,EX1,na,도시 조류 dawn chorus 시점 — 동물
+216,EX4,na,공항 소음과 부동산 가격 — 행태 아웃컴 없음
+217,EX4,na,이중벽 차음 FE 해석 — 인간 행태 없음
+218,EX1,na,silvereye call 주파수·진폭 조정 — 동물
+219,EX2,na,쇼핑몰 실내 acoustic comfort — 옥외 공공공간 아님
+220,EX4,na,도시공원 사운드스케이프 지각·선호만 측정
+221,EX4,na,사운드스케이프 지각 차원(calmness·vibrancy)만 측정
+222,EX2,na,종양내과 의사 음악치료 인식 — 임상 실내 세팅
+223,EX1,na,European robin 노래 가소성 — 동물
+224,EX1,na,관박쥐 반향정위 — 동물
+225,EX1,na,조류 song 원격탐사 예측 — 동물
+226,EX1,na,조류 신호 active space 모델 — 동물
+227,EX3,na,라인강 promenade 건강·웰빙 — 음환경 변수 언급 없음
+228,EX4,na,교통소음과 심근경색 — 건강 아웃컴만(title-only)
+229,EX5,na,셰익스피어 희곡 디자인 개념론 — 실증연구 아님
+230,EX1,na,blackbird dawn song 시간 이동 — 동물
+231,EX1,na,songbird 도파민 신경생물 — 동물
+232,EX1,na,도시 조류 음향 가소성 리뷰 — 동물
+233,EX4,na,사운드스케이프 감성차원 지각만 측정
+234,BORDERLINE,forward,도시소음 설문 — 일상생활·behavior 영향 자기보고 포함
+235,EX4,na,정당 선거공약 텍스트 분석 — 행태 아웃컴 없음
+236,EX1,na,House Wren 발성 구조 — 동물
+237,EX4,na,Zion NP 셔틀 평가 등급만 측정 — 행태 아웃컴 없음
+238,EX1,na,great tit 탐지역치 — 동물
+239,EX4,na,전역 음압레벨 지리통계 모델 — 행태 아웃컴 없음
+240,BORDERLINE,forward,도시공원 음향 개입 실험 — 체류·행태 측정 여부 불확실
+241,EX4,na,소음 시계열 예측모델 — 행태 아웃컴 없음
+242,EX4,na,야간 소음 층화 측정·annoyance — 행태 아웃컴 없음
+243,EX1,na,cuttlefish 시각신호 변화 — 동물
+244,EX1,na,European robin 발성 상호작용 — 동물
+245,EX4,na,수경시설 청각-시각 선호 평가만 측정
+246,EX1,na,Australian magpie boldness — 동물
+247,EX1,na,cardinal 노래 반응 — 동물
+248,EX4,na,이중벽 차음 3D FE 모델 — 인간 행태 없음
+249,EX2,na,주거 실내 철도진동 annoyance — 옥외 공공공간 아님
+250,EX1,na,tree cricket 신호·주광성 — 동물
+251,BORDERLINE,unclear,공원 방문빈도·새소리 선호 예측변수 — 관계 방향 불확실
+252,EX2,na,파킨슨병 STN 국소전위 — 임상 실내
+253,EX1,na,소음 대응 fitness cost 논고 — 동물 행동생태
+254,EX1,na,야간 인공광과 songbird 리듬 — 동물
+255,EX4,na,도시 중정 저주파 공명 — 인간 행태 없음
+256,EX3,na,확률적 카오스 제어 — 음환경(소리) 변수 없음
+257,EX4,na,아스팔트 macrotexture 타이어소음 — 인간 행태 없음
+258,EX1,na,European treefrog 다중감각 — 동물
+259,EX4,na,음악노출과 출처기억 — 인지 아웃컴만 측정
+260,EX1,na,조류 방언 유지 수리모형 — 동물
+261,EX1,na,Pacific Wren 노래 변화 — 동물
+262,EX4,na,crumb rubber 노면 소음 저감 — 인간 행태 없음
+263,EX1,na,silvereye 경계음 — 동물
+264,EX1,na,house finch 노래·부리 형태 — 동물

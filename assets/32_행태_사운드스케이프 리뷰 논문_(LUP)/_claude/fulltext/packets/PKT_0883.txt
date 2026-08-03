@@ -1,0 +1,218 @@
+### RECORD ID=883 | screening_verdict=INCLUDE | year=2022
+JOURNAL: PEOPLE AND NATURE
+TITLE: Urban park soundscapes: Spatial and social factors influencing bird and traffic sound experiences
+DOI: 10.1002/pan3.10409
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+1616 |  
+﻿
+People and Nature. 2022;4:1616–1628.
+wileyonlinelibrary.com/journal/pan3
+Received: 21 November 2021 | Accepted: 8 September 2022
+DOI: 10.1002/pan3.10409 
+R E S E A R C H A R T I C L E
+Urban park soundscapes: Spatial and social factors influencing 
+bird and traffic sound experiences
+Konrad Uebel1,2
+ | Jonathan R. Rhodes1
+ | Kerrie Wilson3 | Angela J. Dean4
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, 
+provided the original work is properly cited.
+© 2022 The Authors. People and Nature published by John Wiley & Sons Ltd on behalf of British Ecological Society.
+1School of Earth and Environmental 
+Sciences, The University of Queensland, 
+Brisbane, Queensland, Australia
+2German Centre for Integrative 
+Biodiversity Research (iDiv) Halle-­Jena-­
+Leipzig, Leipzig, Germany
+3School of Biology and Environmental 
+Science, Queensland University of 
+Technology, Brisbane, Queensland, 
+Australia
+4School of Agriculture and Food Sciences, 
+The University of Queensland, Brisbane, 
+Queensland, Australia
+Correspondence
+Konrad Uebel
+Email: konrad.uebel@uq.net.au
+Handling Editor: Martin Dallimer
+Abstract
+1. Natural soundscapes experienced in parks are increasingly recognised as a valu-
+able ecosystem service, yet urban parks soundscapes also commonly contain 
+anthropogenic noise.
+2. While studies show bird calls can promote psychological restoration, the factors 
+that might influence actual experiences of these sounds by individuals in urban 
+parks are less clear. Equally, continual exposure to anthropogenic noise, such as 
+vehicle traffic, is associated with negative health outcomes, but determinants 
+influencing negative experiences of such sounds within a park soundscape are 
+poorly understood.
+3. To address this gap we used an ex situ survey of over 4000 Australian residents 
+and examined a range of spatial and social factors in influencing perceptions 
+towards noticing and pleasantness of bird sounds and traffic noise within urban 
+parks.
+4. The results indicate older age, recent park use, and valuing parks for uses such as 
+exercising, socialising and to hear nature, were positively associated with pleas-
+ant bird sound experiences in parks. For traffic sounds, we found indicators of 
+disadvantage, such as renting a home were associated with a higher likelihood of 
+unpleasant experiences of traffic noise within parks. Notably, individuals using 
+parks for social activities were still positively associated with pleasant bird sound 
+experiences and less likely to perceive traffic sounds as unpleasant. Conversely, 
+whilst those with greater nature-­relatedness had a strong positive association 
+with pleasant bird sound experiences, they were more likely to perceive traffic 
+as unpleasant.
+5. Overall, these findings suggest that whilst many types of park users can poten-
+tially experience the beneficial effects from bird sounds, the detrimental effects 
+of traffic noise may constrain these benefits in certain social groups, particularly 
+those of greater socio-­economic disadvantage. We discuss strategies to pro-
+mote greater equity of therapeutic experiences of bird sounds in parks, whilst 
+outlining traffic mitigation measures within urban parks.
+
+    |  1617
+People and Nature
+UEBEL et al.
+1  |  INTRODUCTION
+Urbanisation is an ongoing phenomenon around the world with 
+over half the world's population now residing in cities (United 
+Nations,  2018). As this number continues to rise, green and blue 
+spaces are of key importance in promoting the social and ecologi-
+cal sustainability of cities, and critical in providing a range of bene-
+fits to urban residents that can improve physical and psychological 
+well-­being (Benedict & McMahon, 2012; Chiesura, 2004; Elmqvist 
+et al., 2013; Xie et al., 2020). Increasingly, natural sounds and sound-
+scapes, such as bird calls, have been shown to promote greater 
+mental well-­being amongst people (Chuengsatiansup, 1999; Francis 
+et al., 2017; Frumkin et al., 2017; Yang & Kang, 2005). Yet, compared 
+to visual experiences, factors influencing restorative nature interac-
+tions experienced through the auditory pathway are poorly under-
+stood (Pijanowski, Farina, et al., 2011; Ratcliffe, 2021).
+Ecosystem services are defined as the benefits human pop-
+ulations derive, directly or indirectly, from ecosystem functions 
+(Costanza et al., 1997) and have become a key framework for link-
+ing ecosystem function and human welfare (Fisher et al., 2009). The 
+Common International Classification of Ecosystem Services (CICES; 
+Maes et al., 2013; Potschin & Haines-­Young, 2016) defines cultural 
+ecosystem services as intangible ecosystem outputs that can facilitate 
+a range of experiential and intellectual activities, such as recreation, 
+proximity to wildlife, social interaction, spiritual inspiration and reflec-
+tion (Potschin & Haines-­Young, 2016). Given their potential to pro-
+mote stress recovery (Aletta et al., 2018; Alvarsson et al., 2010) and 
+attention restoration (Krzywicka & Byrka, 2017; Payne, 2013; Ratcliffe 
+et al., 2013; Uebel et al., 2021), natural soundscapes commonly ex-
+perienced in urban parks, are increasingly recognised as important 
+cultural ecosystem services in their own right (Francis et al., 2017). 
+There is also growing evidence of an important interplay between 
+visual and auditory experiences of nature (Zhang et al., 2019), with 
+studies showing visual stimuli of nature settings (i.e. photographs) are 
+perceived more positively when accompanied by congruent natural 
+sounds (Hedblom et al., 2014; Zhao et al., 2018). Yet, while this re-
+search is becoming established, less attention has focussed on who is 
+most likely to experience these sounds within urban parks (Pijanowski, 
+Villanueva-­Rivera, et al., 2011). This is a crucial gap given that urban 
+populations and the spatial characteristics of where people live are 
+heterogeneous (Kenig
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+2.1  |  Participants and procedure
+Our primary research questions involved investigating how peo-
+ple across social and spatial gradient notice and perceive bird and 
+traffic sounds in park soundscapes. Given this, we favoured an 
+ex situ survey over an in situ approach for its ability to sample a 
+much greater number of participants in cities and regions through-
+out Australia across a wide sociodemographic and socioeconomic 
+spectrum. Further, in situ approaches utilising intercept techniques 
+can sometimes result in samples biased towards over-­representing 
+participants with greater interest in the survey topic, reducing rep-
+resentation of groups with lower rates of park use or nature appre-
+ciation. An ex situ approach also followed methodologies of similar 
+studies, such as Shanahan et al. (2015) and Lin et al. (2017).
+Prior to survey deployment, we conducted internal pilot testing 
+to assess the clarity and suitability of questions; a number of minor 
+changes were made to improve the clarity of questions. We col-
+lected data as part of a national survey, conducted in January 2019 
+on Australian residents in urban, peri-­urban and rural locations, and 
+recruited by a social research company (PureProfile). Participants 
+were provided with standard incentives, accruing points that could 
+later be redeemed as cash payments or giftcards to the value of a 
+few dollars. All participant voluntarily enrolled and provided writ-
+ten consent. We targeted a broad sample of Australians, based on 
+gender, age and state of residence, covering a range of demographic 
+groups to assess our research questions across a broad spectrum 
+of the population. The survey was conducted in accordance with 
+approved guidelines and following Institutional Human Research 
+Ethics Approval by The University of Queensland (Approval 
+#2018002524). Participants provided informed written consent.
+In total there were 4105 respondents, with just over half (52.7%) 
+male and a mean age of 48.24 years (SD = 16.9). Most participants 
+lived in urban areas (75.4%), which are largely found in coastal areas 
+of Australia (Figure 1). Almost three-­quarters (74.0%) were Australia 
+born and the overwhelming majority (87.5%) only spoke English at 
+home. Just under a third (30.7%) had completed up to Year 12 or 
+equivalent, a similar amount (30.2%) held a professional diploma or 
+certificate and over a third (37.8%) held a university degree. Just 
+over a third (34.1%) earned above an income of $80,000, and almost 
+two-­thirds (64.2%) owned or were buying their residence. Whilst not 
+a true representative sample given the median age in Australia is 
+38 years with 50.7% female, this still represented a broad sample 
+of the Australia public (ABS, 2016). Differing education levels were 
+also close to national breakdowns between these three categories 
+(ABS, 2016).
+ 25758314, 2022, 6, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10409, Wiley Online Library on [02/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  1619
+People and Nature
+UEBEL et al.
+The sample size was comfortably large enough for robust statis-
+tical analyses, with a priori power calculations for logistic regression 
+analyses with an α = 0.05, odds ratio of 1.49 and statistical power 
+of 95% indicating that a minimum sample size of 1316 was required.
+2.2  |  Survey content
+The survey questioned participants about various aspects of their 
+use, appreciation and subjective proximity to green and blue spaces, 
+as well as noticing and perceived pleasantness of bird sounds and 
+traffic sounds within a local park they last visited. There were also 
+a range of sociodemographic and socioeconomic questions which 
+included age, gender, education level, income level, home owner-
+ship status and language other than English (LOTE) spoken at home 
+(Table S1).
+2.3  |  Measures
+2.3.1  |  Dependent variables—­noticing and 
+perceived pleasantness of bird sounds
+Both noticing birds and perceiving them as pleasant have been asso-
+ciated with a greater potential for psychological restoration (Uebel 
+et al., 2021) and, as such, both of these measures were included in 
+the survey.
+• Noticing bird sounds: based on Payne (2008) and evaluated with a 
+single item (‘Thinking about your last visit to a park, please rate how 
+often you had the following experiences: I noticed bird sounds’), with 
+4 response options (Not at all; A little; A lot; I do not remember). 
+A binary variable was created with (1 = A little or A lot) responses 
+and (0 = Not at all) options.
+• Perceived pleasantness of bird sounds: based on Payne (2008), was 
+assessed with a single item (‘During this recent visit, how pleasant 
+or annoying were these experiences?’), on a 6-­point scale (1 = Very 
+unpleasant, 6 = Very pleasant) with an additional option (I did not 
+have this experience). A binary variable was created with (1 = Very 
+pleasant or pleasant) responses and (0 = all other options).
+2.3.2  |  Dependent variables—­Noticing and 
+perceived unpleasantness of traffic sounds
+Both noticing and perceived unpleasantness of traffic sounds are as-
+sociated with reduced perceived restorative potential of park sound-
+scapes (Uebel et al., 2021) and, as such, both of these measures were 
+also included in the survey.
+• Noticing traffic sounds: based on Payne (2008) and modified to a 
+four-­point scale to reflect the more binary nature of noticing a 
+sound. Evaluated with a single item (‘Thinking about your last visit 
+to a park, please rate how often you had the following experiences: I 
+noticed traffic sounds’), with 4 response options (Not at all; A lit-
+tle; A lot; I do not remember). A binary variable was created with 
+(1 = A little or A lot) responses and (0 = Not at all) options.
+• Perceived unpleasantness of traffic sounds: based 
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). Almost three-­quarters (74.0%) were Australia 
+Figure 2), whilst 41.2% reported traffic sounds to be 
+Figure 2).
+Table 1).
+Table 2).

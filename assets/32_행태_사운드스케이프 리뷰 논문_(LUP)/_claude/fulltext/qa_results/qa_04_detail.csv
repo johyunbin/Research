@@ -1,0 +1,56 @@
+no,item,verdict,rationale
+732,4.1 sampling_strategy_relevant,Y,2.1 Sites: 유형이 다른 4개 공공공간에서 현장 개입 설문을 수행해 맥락요인 연구질문에 부합
+732,4.2 sample_representative,CT,"2.1/2.3: 표본틀 없는 편의표집, 대상지별 N이 1130 대 41로 불균형, 몬트리올 한 지구 한정"
+732,4.3 measurements_appropriate,Y,"2.2: SSQP 등 기존 검증 척도 사용, 불어·영어판 측정동등성(metric invariance) 검정"
+732,4.4 nonresponse_bias_low,CT,"2.4: 결측률(1.3~6.1%)만 보고하고 접근 대비 응답·거부율 미보고, 결측은 평균대치"
+732,4.5 statistical_analysis_appropriate,Y,"2.4: 비정규 자료에 MLM 로버스트 추정 CFA/SEM, 적합도 지수와 사이트 군집 반영"
+746,1.1 qualitative_approach_appropriate,Y,3.2: 이동 중 지각·정서를 포착하는 보행인터뷰가 보행 촉진·저해 요인 연구질문에 적합
+746,1.2 data_collection_adequate,Y,"3.1/3.2: 6개 근린 각 20명, 600m 지정경로 동행, 지오카메라 녹화 후 전사"
+746,1.3 findings_derived_from_data,Y,"3.2/4: 개방코딩 294개 코드·2015개 인용에서 도출, 결과에 직접 인용문 제시"
+746,1.4 interpretation_substantiated,Y,"4: 요소별 언급 비율과 인용문으로 해석을 뒷받침, 성·연령 차이도 자료 범위 내 기술"
+746,1.5 coherence_across_components,Y,3.2 각주5: 근거이론 개방코딩-2인 독립코딩-삼각검증-정서 분류가 일관되게 연결
+760,5.1 rationale_for_mixed_design,Y,Kano 절: 지각의 복잡성과 이해관계자 다양성 때문에 단일 접근이 부적절하다는 근거 명시
+760,5.2 components_effectively_integrated,CT,Data collection: 관찰자료를 인터뷰와 비교분석한다고 기술하나 통합 절차·결과 제시가 빈약
+760,5.3 integration_outputs_interpreted,CT,Analysis of research results: 사운드맵·Kano 분류를 서술하나 두 자료 결합 산출의 근거가 불투명
+760,5.4 divergences_addressed,N,Results/Conclusion: 인터뷰와 행태관찰 결과의 불일치에 대한 언급이나 처리가 없음
+760,5.5 components_meet_own_quality_criteria,N,"Data collection: 질적 코딩 신뢰도·성찰성 미보고, 행태관찰 1일 3회 20분, 표본 66% 남성 편중"
+761,4.1 sampling_strategy_relevant,Y,"2.3: 6개 공원 10개 표집지점에서 방문객을 무작위 접근, 지점별로 다른 날 2회 조사"
+761,4.2 sample_representative,Y,"3.1 Table 2: 지점당 약 200명씩 총 2034명, 인구·행태 변수 분포를 폭넓게 보고"
+761,4.3 measurements_appropriate,Y,"2.2/2.3: 사전조사로 선정한 22개 음원의 5점 척도, class 1 소음계·기상계 병행 측정"
+761,4.4 nonresponse_bias_low,CT,3.1: 응답 2068명 중 2034명을 분석했으나 접근 대비 거부율과 미응답 특성 미보고
+761,4.5 statistical_analysis_appropriate,Y,"2.4: 정규성 검정 후 GLM으로 개인 변수 통제, 다중공선성 진단과 AIC·deviance 적합도 확인"
+762,5.1 rationale_for_mixed_design,Y,Abstract/Discussion: 양적 결과를 배경으로 질적 일기·관찰을 해석한다는 상보적 설계 근거 제시
+762,5.2 components_effectively_integrated,Y,Results Table 5: 일자별로 일기노트·음원 주석·전문가 평정을 나란히 대조해 통합
+762,5.3 integration_outputs_interpreted,Y,Results: 봉쇄 3국면별 대응관계를 해석해 야외활동 변화라는 통합 결론 도출
+762,5.4 divergences_addressed,CT,Results: Day 14 거의 정적 기술과 기술음 우세 등 불일치를 언급만 하고 체계적으로 다루지 않음
+762,5.5 components_meet_own_quality_criteria,N,"Materials and Methods: 단일 발코니 고정 녹음 50건, 저자 3인이 평정단 포함, 일기 단독 작성·성찰성 미보고"
+791,4.1 sampling_strategy_relevant,CT,"Section 5: 설치된 10개 센서 중 가동기간이 길다는 이유로 4개만 사용, 단일 캠퍼스 한정"
+791,4.2 sample_representative,N,6.1: 무선 인터페이스가 켜진 기기만 탐지(BT는 극소)되는데 기기 수를 인구 대리지표로 검증 없이 사용
+791,4.3 measurements_appropriate,N,"4.1/6.1: 저가 사운드미터(GM1356) 교정·등급 미보고, 실제 통행량 대조(ground truth) 부재"
+791,4.4 nonresponse_bias_low,N,6.1: 미탐지와 센서 거리 편향(센서3·4 표준편차 최대 71%)에 대한 결측 처리 방안 없음
+791,4.5 statistical_analysis_appropriate,N,"6.3: 기술통계와 다항식 곡선적합만으로 소음 주원인이 사람 이동이라 결론, 통계검정 없음"
+799,4.1 sampling_strategy_relevant,Y,2.2: 시간당 10분 표집이 1시간 교통량을 대표함을 오차 0.48~6.23%로 사전 검증
+799,4.2 sample_representative,N,"2.1: 경적이 잦다고 사전 관찰된 타이베이역 인근 3개 교차로만, 각 평일·주말 1일씩, 일반화 논의 없음"
+799,4.3 measurements_appropriate,Y,"2.1/2.3: RION NL-52 소음계 12시간 연속 측정과 캠코더 2대 영상, AS-60으로 경적 시점 특정"
+799,4.4 nonresponse_bias_low,Y,2.2/2.3: 분석 대상 시간대의 소음·영상 자료가 모두 확보되어 결측이나 탈락 문제 없음
+799,4.5 statistical_analysis_appropriate,CT,4.5: 다중공선성 점검 후 변수 제외는 적절하나 교차로·요일 반복측정의 군집구조를 무시
+804,4.1 sampling_strategy_relevant,Y,"2.3: 3개 구역 6개 표집지점을 서로 다른 날 2회씩 조사, 익명 무작위 면접"
+804,4.2 sample_representative,CT,"2.3/3.1: 단일 공원 2021년 4월 맑은 날 주간에 한정, 60세 이상 응답자 과소"
+804,4.3 measurements_appropriate,Y,2.2/2.3: 선행 척도와 ISO 정의 반영·사전조사·문항 순서 무작위화·불성실 응답 필터·청력 확인
+804,4.4 nonresponse_bias_low,Y,"2.3: 406부 중 344부 유효(84.7%), 무효 처리 기준을 명시"
+804,4.5 statistical_analysis_appropriate,CT,3.3: 수백 회 상관검정을 다중비교 보정 없이 수행하고 r 0.12~0.24의 약한 상관을 유의 결과로 해석
+818,4.1 sampling_strategy_relevant,Y,3.2: 2022년 4월 26일~5월 3일 공원 방문객 550명에게 무작위 표집으로 설문 배포
+818,4.2 sample_representative,CT,Table 2/6: 단일 국립삼림공원이고 대학 이상 78%·초방문 69%로 편중되며 연휴 기간 포함
+818,4.3 measurements_appropriate,Y,"3.2/4.1: PA·ERB는 선행 검증척도 사용, SP 척도는 100부 사전조사와 EFA·Cronbach α로 검증"
+818,4.4 nonresponse_bias_low,Y,3.2: 550부 배포 중 510부가 유효 회수(92.7%)되어 미응답 비율이 낮음
+818,4.5 statistical_analysis_appropriate,Y,"3.3: CFA로 측정모형 확인 후 SEM, 부트스트랩 2000회로 매개효과 검정"
+821,4.1 sampling_strategy_relevant,CT,3.3.1: 9개 표집지점 선정 기준은 제시하나 응답자 모집과 온라인 설문 배포 대상이 불명
+821,4.2 sample_representative,CT,3.1.1/3.3.1: 단일 공원 7월 평일 18~21시 이용자로 한정되고 표본틀이 제시되지 않음
+821,4.3 measurements_appropriate,Y,3.3.2/3.3.3: 계층분석 기반 평가체계와 Likert 척도에 Cronbach α=0.969·KMO=0.968 확인
+821,4.4 nonresponse_bias_low,Y,"3.3.1: 300부 중 281부 회수(93.7%), 불성실 제외 후 266부 유효(88.7%)"
+821,4.5 statistical_analysis_appropriate,Y,"3.3/4: 비정규 자료에 Spearman·Kruskal-Wallis 사용, 다중회귀는 VIF<10 확인(R2=0.79~0.85)"
+833,5.1 rationale_for_mixed_design,Y,3 서두: 주관적 지각을 얻는 질적 이동인터뷰와 동적 노출을 재는 웨어러블 실측의 상보성 명시
+833,5.2 components_effectively_integrated,Y,3.4: 발화 시점 타임스탬프로 코드와 dB(A)·PNC 값을 연결하고 MAXQDA·QGIS로 통합 시각화
+833,5.3 integration_outputs_interpreted,Y,4/5: 실측과 지각이 일치하는 구간과 어긋나는 구간을 사례별로 해석
+833,5.4 divergences_addressed,Y,4 서두/5.3: 고노출인데 긍정 평가된 상황을 감각인지·사회적 단서로 설명하고 dB(A) 해석 한계도 명시
+833,5.5 components_meet_own_quality_criteria,CT,"3.4/5.3: 귀납-연역 코딩과 3회 사전조사는 충실하나 코딩 신뢰도 미보고, 표본 28명 자기선택"

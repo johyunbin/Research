@@ -1,0 +1,203 @@
+### RECORD ID=1178 | screening_verdict=INCLUDE | year=2025
+JOURNAL: APPLIED ACOUSTICS
+TITLE: The effects of the interaction between sewage odour and sounds on crowd behaviours in urban waterfront park
+DOI: 10.1016/j.apacoust.2024.110378
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Meihui Ba, Zhongzhe Li, Jian Kang: Applied Acoustics
+[https://doi.org/10.1016/j.apacoust.2024.110378]
+Applied Acoustics, Volume 229, February 2025, 110378
+1
+The effects of the interaction between sewage odour and sounds on
+crowd behaviours in urban waterfront park
+Meihui BAa, Zhongzhe LIa*, Jian KANGb
+aPan Tianshou College of Architecture, Art and Design, Ningbo University, Ningbo, China.
+bUCL Institute for Environmental Design and Engineering, The Bartlett, University College
+London (UCL), London, United Kingdom.
+*Corresponding Author: lizhongzhe@nbu.edu.cn, Pan Tianshou College of Architecture, Art and
+Design, Ningbo University, Ningbo 315211, China.
+Email
+addresses:
+bameihui@nbu.edu.cn
+(M.
+Ba),
+lizhongzhe@nbu.edu.cn
+(Z.
+Li),
+J.kang@ucl.ac.uk (J. Kang)
+Abstract
+Sewage odour is a common pollution odour source produced by urban water bodies and
+negatively impacts people’s behaviour. This study aimed to explore whether sound could change
+this negative effect. Therefore, a behaviour-observation experiment was conducted in a typical
+urban waterfront park using the sewage odour as the source of the pollution smell and playing
+typical sound sources in urban environments (music and fan sounds) with and without odour. The
+results showed that for crowd paths, music could significantly attract a crowd, fan sound or
+sewage odour could keep the crowd away. Furthermore, when there was sewage odour, the effects
+of the trends of approaching or receding from the sound sources caused by the music and fan
+sounds, respectively, have been strengthened. Sound and odour had relatively independent impacts
+on the crowd speed and duration time, reflected in the fact that music significantly reduced the
+crowd speed whereas fan sound and sewage odour significantly improved it. Music significantly
+increased the crowd duration time, while fan sound and sewage odour significantly reduced it. On
+this basis, the independent effects of sound and odour were superimposed, and the positive effect
+of music was stronger than the negative effect of sewage odour.
+Keywords: sounds, sewage odour, crowd behaviour, multisensory, urban environments.
+
+Meihui Ba, Zhongzhe Li, Jian Kang: Applied Acoustics
+[https://doi.org/10.1016/j.apacoust.2024.110378]
+Applied Acoustics, Volume 229, February 2025, 110378
+2
+1 Introduction
+Senses are the media that connect one’s perception with the environment. Urban
+environments have rich sensory information and exert an imperceptible influence on people.
+Improving sensory environments has become an important means of enhancing the quality of
+urban environments [1]. Vision, audition, and olfaction are the main media of perceiving the
+environment, the processing of environmental information by them is sometimes impossible to be
+ignored. People’s eyes, ears, and noses constantly receive information from the bottom up,
+regardless of whether they have subjective will [2]. Therefore, vision, audition, and olfaction play
+important roles in connecting people’s perceptions and urban environments. Compared with the
+urban visual and auditory environments, people often ignore the olfactory environment.
+Odour is an important feature of the olfactory environment, yet it is an aspect that is often
+overlooked. Because when people become accustomed to the odour of an environment, they often
+ignore its existence, and sometimes it is difficult for people to recognise the type of odour,
+however the impacts of odour on people are still present. Odour types in urban environments are
+classified according to their sources normally, mainly including plant, food, pollution,
+construction-material, human, and animal odours [3-5]. Among these, negative pollution odours
+commonly occur in urban environments and are the type about which people most often complain
+[6,7]; thus many studies focus on the subjective evaluation and treatment of negative odours such
+as those from automobile exhaust, sewage, livestock farming, and so on [8–12]. Perception and
+behaviour are inseparable; behaviour, as the explicit performance of psychological perception,
+also plays an important role in sensory environmental assessment because surrounding people’s
+activities and behaviours constitute a key component of the environment [13,14]. Behaviour can
+be divided into individual and crowd behaviours, individual behaviour generally refers to a
+person’s attitude or performance under specific circumstances. In contrast to individual behaviour,
+which is somewhat random [15], crowd behaviour refers to a crowd’s performance in an
+environment, which always follows certain rules [16,17]. Especially for different environmental
+conditions, individual behaviours can often be synthesized into relatively simple indicators of
+crowd behaviour, which can better reflect the overall behavioural regularities of the crowds under
+
+Meihui Ba, Zhongzhe Li, Jian Kang: Applied Acoustics
+[https://doi.org/10.1016/j.apacoust.2024.110378]
+Applied Acoustics, Volume 229, February 2025, 110378
+3
+different environmental conditions. Therefore, crowd behaviour is more relevant to the planning
+of macro-environmental indicators. However, most of the research on the effects of negative
+odours on human behaviour has focused on individual behaviour. Gössling et al. have examined
+the impact of negative road factors such as exhaust smell on bicyclists’ behaviour and found that
+these negative factors can lead to detour behaviour; they translate these negative effects into
+economic costs [18]. Other recent studies focus on the tradeoff between the costs of behaviour and
+the benefits of reduced pollution odour exposure, such as outdoor mask-wearing behaviour [19],
+adjustment of outdoor activities [20], installation of air-filtration equipment [21], and so on.
+Senses interact with one another and collectively construct people’s overall cognition of the
+environment; therefore, an increasing number of studies comprehensively consider sensory
+interaction [22-24]. Additionally, a few studies have been 
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+2.1 Case-study site and odour-source selection
+Sound sources are abundant in urban environments, and due to the wide range of human
+activities, anthropogenic sounds are almost ubiquitous and always perceived by people. In
+comparison, an odour source is easier to control, as not all odours can be recognised. Therefore, in
+this study’s experiment, a site with controllable dominant odour source was selected where
+different sound sources were artificially played to achieve variable control of the combination of
+
+Meihui Ba, Zhongzhe Li, Jian Kang: Applied Acoustics
+[https://doi.org/10.1016/j.apacoust.2024.110378]
+Applied Acoustics, Volume 229, February 2025, 110378
+5
+olfactory and auditory factors.
+Considering the types and availability of odour source as well as the actual site conditions,
+sewage odour, being a typical pollution odour in urban environments, was selected as the variable
+for this study. Because sewage odour is usually the result of poor management of certain waters,
+while its visual environment is attractive to many people. Thus study of crowd behaviour for this
+area helps balance this contradiction. In addition, regarding the experimental-site selection criteria,
+the area had to have a dominant odour that was relatively stable, when there is an odour, it can be
+smelled in the entire area; odour conditions must be variable at the same time period to achieve
+different intensities; there should be no interference from other odours in the surrounding area; the
+sound pressure level (SPL) and sound source type of the background sound environment should be
+stable; and there should be no special and sudden sound source in the surrounding area; adequate
+behavioral samples are available in the region.
+The study site was located in an urban waterfront park called Anyanghe park, in Daoli
+District, Harbin, China. The sewage odour came from the sewage discharged from the river in the
+park. Preliminary site survey found that due to the different drainage capacity, there was no
+pollution odour perceived when the water level was high; however, the sewage odour could be
+smelled when the water level was low. And in the case of almost no wind, the subjective intensity
+of odour is stable during the same period of time. Therefore the experiments for the two odour
+conditions were carried out on two separate days with different water levels. The study area is
+shown in Fig. 1. It was the walkway in the park, which is approximately 40 meters long and 4
+meters wide. When the sewage odour occurred, it could cover the whole area; when it did not, the
+odour could not be smelled in the area.
+Fig. 1 The study area and scope
+
+Meihui Ba, Zhongzhe Li, Jian Kang: Applied Acoustics
+[https://doi.org/10.1016/j.apacoust.2024.110378]
+Applied Acoustics, Volume 229, February 2025, 110378
+6
+2.2 Sound source selection
+Following previous studies, the current one selected fan and music sounds [33], as typical
+sound sources in urban environments, as the sound variables, which represent the common sounds
+in the urban environments that bring negative and positive perceptions respectively [37,38]. And
+they are both artificial sounds and point sources so that they can be played through a loudspeaker.
+A cooling fan controls the ambient temperature of equipment and is necessary for the normal
+operation of air conditioners, automobile engines, and daily electronic equipment; thus, the sound
+produced by a cooling fan is a typical and continuous sound source in urban environments [39].
+Before the formal experiment, fan sounds in various urban environments were selected and 42
+subjects surveyed through a 7-point Likert scale questionnaire to investigate the degree of
+annoyance of these fan sounds. Finally, the fan sound with the highest annoyance degree ( > 6 on
+the scale) was selected as the experimental sound source.
+Light music without lyrics was chosen as the music type. The speed (beats per minutes or
+bpm) of music is among its important characteristics. Research has defined 40–70 bpm, 85–110
+bpm, and 120 bpm or above as slow, medium, and fast speeds, respectively [40]. A music speed
+below 80 bpm is associated with negative emotions, while that above 120 bpm is associated with
+positive emotions [41]. Therefore, it is more appropriate to choose medium-speed music. The final
+music chosen for the study was Annie’s Wonderland, with a speed of 100.99 bpm and a high
+ranking online in terms of listening pleasure.
+There were three sound conditions in this study: no playing sound, playing fan sound, and
+playing music. The location of the loudspeaker playing the sound was considered: sound could be
+heard anywhere in the area; the distance between the front of the loudspeaker and any reflector
+was at least 1.5 meters [42]; to avoid any visual impact on the loudspeaker, it was hidden in the
+study area [13]. Based on this, the loudspeaker was placed behind a bush 5 metres from the edge
+of the study area (see Figure 2 for exact location).
+2.3 Objective measurement of the sensory environment
+Before the experiment, the research area was divided into ten 4m × 4m grid for subsequent
+measurement and analysis. Previous studies have shown that the grid division of the research site
+is conducive to the location of people, thus making a quantitative statistical analysis. The setting
+
+Meihui Ba, Zhongzhe Li, Jian Kang: Applied Acoustics
+[https://doi.org/10.1016/j.apacoust.2024.110378]
+Applied Acoustics, Volume 229, February 2025, 110378
+7
+of 4m took into account that the division range of the previous research was usually about 3-6m
+[14,33].
+There were two odour conditions: with and without odour. Odour is an important feature of
+air quality, and the measurement of its concentration is extremely complex. Through the use of
+equipment, some chemical components can be objectively quantified according to the mass
+concentration; however, this method usually cannot fully evaluate an odour as it is not a direct
+measurement of the odour (odour is an un
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. It was the walkway in the park, which is approximately 40 meters long and 4
+Fig. 1 The study area and scope
+Figure 2 for exact location).
+Fig. 2a. In the case of no sewage odour, the study also
+Fig. 2 Independent distribution of subjective intensity of sewage odour and SPL in the case site (O
+Table 1. The same
+Table 1 Number of behavioural observation samples across conditions
+Fig. 3, which in order to show the
+Fig. 3a. The crowd paths for when there was no sewage odour and music
+Fig. 3c. The crowd paths for the condition without sewage odour and with
+Fig. 3e. The crowd
+Fig. 3b. In the
+Fig. 3d, the paths showed an increasing trend in
+Fig. 3f, it also has the same changes as the case with sewage odour and music.
+Fig.3 Distribution of crowd paths in the case site under the combination of sewage odour and
+Table 2, 11 coordinate values y and the sound condition were
+Table 2 Repeated measurement ANOVA of the ordinate value y at the intersections of the paths
+Fig. 4 shows the estimated marginal mean of the ordinate value y under the odour and sound
+Fig. 4a shows the estimated marginal mean of the
+Fig. 4b shows the estimated marginal mean of the ordinate value y only
+Fig. 4c shows the
+Fig. 4 Estimated marginal mean value of the ordinate value y at the intersections of the paths and
+Table 3. The results show that the effects of the sound and
+Table 3 Two-way ANOVA of average speed under the influence of sound and sewage odour
+Fig. 5.

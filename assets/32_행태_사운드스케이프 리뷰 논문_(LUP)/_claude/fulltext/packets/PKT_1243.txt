@@ -1,0 +1,263 @@
+### RECORD ID=1243 | screening_verdict=INCLUDE | year=2026
+JOURNAL: Landscape Architecture Frontiers
+TITLE: How Individual and Sound Characteristics Interactively Determine Perceived Soundscape Restorativeness in Coastal Urban Spaces —An Empirical Study in a Typical Sea-fronting Context
+DOI: 10.15302/j-laf-2026-0016
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+1
+Innovations for Healthy Landscapes: Review and Perspective on 
+Technologies for Assessing and Understanding Human Responses to 
+Environmental Stimuli
+ABSTRACT 
+Mental health disorders have become a growing challenge globally. 
+As research continues to emphasize the restorative properties of 
+the environment, natural landscapes are increasingly recognized 
+as an effective means to reduce disorders. Research on healthy 
+landscapes may be enhanced and, in some cases, uniquely informed 
+by human response data; however, the existing literature provides 
+limited and insufficient synthesis on this topic. To address the gap, 
+this study first proposes a four-stage classification framework for 
+new measurement technologies based on the intrinsic processing 
+phase through which individuals respond to environmental stimuli—
+*CORRESPONDING AUTHOR
+Address: 614 Knowles Building, Pokfulam Road, The 
+University of Hong Kong, Hong Kong 999077, China 
+Email: jiangbin@hku.hk
+Chuzhen WANG
+1,2, Ulrika K. STIGSDOTTER
+3, Bin JIANG
+1,2,4,*
+1 Urban Environments and Human Health Lab, HKUrbanLabs, Faculty of Architecture, The University of Hong Kong, Hong Kong 999077, 
+China
+2 Division of Landscape Architecture, Department of Architecture, The University of Hong Kong, Hong Kong 999077, China
+3 Department of Geosciences and Natural Resource Management, University of Copenhagen, 1958 Frederiksberg C, Denmark
+4 Urban Systems Institute, The University of Hong Kong, Hong Kong 999077, China
+https://doi.org/10.15302/J-LAF-2026-0016
+Volume 14 / Issue 2 / 260016 / 2026
+© Higher Education Press 2026
+Received Date | 2025-08-15 Accepted Date | 2026-01-15
+GRAPHICAL ABSTRACT
+Narrative 
+review
+Implications
+Enhancing methodological precision of future research and supporting practical nature contact interventions
+Future 
+directions
+Applying multimodal measures for 
+mechanistic insight
+Clarifying affective subtype variability in 
+environmental response
+Identifying multilevel mechanisms 
+through embodied big data modelling
+Neural processing phase
+MRI
+fNIRS
+EEG
+Molecular 
+biomarker 
+extraction
+Wearable 
+physiological 
+sensing
+Facial 
+expression 
+analysis
+Eye-tracking
+Physiological adjustment phase
+Behavioral expression phase
+Subjective representation phase
+Subjective semantic profiling
+Central nervous system
+Peripheral autonomic nervous 
+system
+Peripheral somatic nervous 
+system
+Comprehensive output after 
+neural stream processing
+Sequential processing of physiological systems in human responses to environmental stimuli
+
+2
+VOLUME 14 / ISSUE 2 / 260016 / 2026
+1 Introduction
+Mental health disorders have been among the most pressing global 
+health challenges of the 21st century, affecting an estimated 970.1 million 
+people worldwide in 2019, a figure that represents a 48.1% 
+increase over the past two decades
+[1]. Meanwhile, nature contact 
+has gained increasing recognition as a comparatively accessible, 
+low-cost, and non-pharmacological approach to support mental 
+health promotion and secondary prevention
+[2–3]. This demand 
+has driven scholarly interest in healthy landscapes. Underpinned 
+by the therapeutic landscape paradigm, healthy landscapes refer 
+to urban environments intentionally designed to support multi-
+dimensions of human health, including mental, physical, and social 
+and behavioral
+[4–5].
+1.1 Limitations of Traditional Data
+Traditional data sources, such as self-report surveys, interviews, 
+and observational data, have dominated early healthy landscape 
+research in assessing the influence of nature exposure on mental 
+health. Such tools allow the gathering of data from large population 
+samples, place minimal procedural and technical demands, and 
+allow for direct measurement of subjective experiences of mental 
+states and environmental perceptions
+[6–10]. However, they have 
+significant shortcomings in eliciting fine-grained, embodied 
+information about human–environment interactions.
+In particular, the coarse temporal resolution of traditional data 
+masks the fast psycho-physiological fluctuations within the human 
+body during real-world environmental exposure. Conventional data 
+in the form of questionnaire surveys and periodic sampling usually 
+provide information on daily to monthly cycles, whereas autonomic 
+responses to environmental stimuli take place on the millisecond 
+timescale
+[11]. This temporal mismatch limits the ability of traditional 
+data to capture critical dynamics and thus undermines efforts to 
+establish causal relationships. 
+Another concern is reporting bias in psychological states. 
+Retrospective questionnaires rely on memory and are affected 
+by the current mood of the participants, which systematically 
+misestimates longer-term emotion
+[12]. Relying on such measures 
+can hinder causal inference and limit the full spectrum of human–
+environment interactions, particularly at physiological and neural 
+levels.
+Even under conditions of minimal reporting bias, the inherent 
+limitations of the rating scales may serve as another constraint on 
+detectability. An independent yet equally critical limitation that is 
+likely to occur is the presence of floor effects and ceiling effects, 
+neural processing, physiological adjustment, behavioral expression, 
+and subjective representation—each aligned with its corresponding 
+phase of the body’s response. Within each stage, a narrative 
+review then synthesizes current technologies, their key indicators, 
+applications, and potential mechanisms in healthy landscape 
+research. Finally, we identify three emerging healthy landscape 
+research directions based on the current research gaps, following: 
+1) applying multimodal measures for mechanistic insights, 2) 
+clarifying affective subtype variability in environmental response, 
+and 3) identifying multilevel mechanisms through embodied big 
+data modeling. Overall, this work provides a theoretical lens 
+and methodological foundation for probing complex human–
+environment in
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1 Research Framework
+This paper first proposed a response-based framework situated 
+in the human process of receiving and responding to environmental 
+information. Following the framework, it then reviewed emerging 
+technologies, synthesized key indicators, applications, and 
+possible mechanisms to explain human–environment interaction. 
+It concluded by providing three overarching directions for future 
+research.
+2.2 Methodology
+A narrative review approach was adopted to accommodate 
+the interdisciplinary scope of this study, which spans landscape 
+architecture, environmental psychology, cognitive neuroscience, 
+and physiological sensing. This approach is particularly suitable for 
+synthesizing diverse theoretical perspectives and methodological 
+practices, enabling the integration of conceptual insights, 
+comparison of measurement techniques, and identification of 
+emerging research gaps
+[24].
+To guide the literature search, we first outlined a sequential 
+information-processing framework of human responses 
+involving multiple body systems. For each system, we referred 
+to representative measurement reviews to select device families 
+along with quantitative indices that are sensitive to system-specific 
+changes
+[25–29]. This mapping relationship between human systems 
+and measurement indicators guided the keyword strategy for this 
+narrative review, particularly for terms related to measurement 
+technologies and indicators.
+The narrative literature search was conducted across databases 
+of Web of Science, Scopus, Google Scholar, and ScienceDirect, using 
+combinations of keywords from three thematic clusters: research 
+domains (“healthy landscape,” “green space exposure,” “nature 
+exposure,” “nature contact,” and “environmental psychology”); 
+measurement technologies (“EEG,” “MRI,” “fNIRS,” “molecular 
+biomarker extraction,” “PPG,” “EMG,” “facial expression,” “eye 
+tracking,” and “sentiment analysis”), and main indicators (“cortisol,” 
+“CRP,” “IL-6,” “sAA,” “BVP,” and “EDA”)
+①. To ensure specificity 
+and relevance, each cluster was searched independently and 
+iteratively combined. The chosen literature explicitly examined 
+the relationship between nature contact and psychological or 
+physiological outcomes and employed at least one quantifiable 
+human response measurement technique. Moreover, eligible 
+publications were limited to English-language original research 
+articles published between 2010 and 2025. This time frame was 
+chosen to capture the methodological evolution of the most recent 
+years, during which the field has witnessed both the emergence of 
+new digital sensing technologies and the renewed application of 
+earlier physiological methods through advanced data-processing 
+approaches and evolving research questions.
+3 A Narrative Review: Hierarchical Classification 
+of Human Response Measurement With New 
+Technologies
+Building on the sequential flow of information described 
+in Section 1.3, we delineated a temporally ordered framework 
+comprising four functional stages—neural processing, physiological 
+adjustment, behavioral expression, and subjective representation—
+each corresponding to specific measurement approaches detailed 
+below (Fig. 1).
+The neural processing phase, centered on the CNS, primarily 
+takes place in the brain. It captures brain activity through 
+technologies such as EEG, MRI, and fNIRS. These methods quantify 
+electrical signals, levels of cerebral blood oxygenation, and 
+hemodynamic responses.
+The physiological adjustment phase, driven by the ANS and 
+the endocrine system, captures internal adaptive changes from 
+peripheral organs or tissues. It focuses on bodily responses 
+recorded via two primary approaches: molecular biomarker 
+extraction and wearable sensing. The former includes techniques 
+for analyzing multiple physiological biomarkers in blood, hair, and 
+① EEG stands for electroencephalogram; MRI stands for magnetic resonance 
+imaging; fNIRS stands for functional near-Infrared spectroscopy; PPG stands 
+for photoplethysmography; EMG stands for electromyography; CRP stands for 
+C-reactive protein; IL-6 stands for interleukin-6; sAA stands for salivary alpha-
+amylase; BVP stands for blood volume pulse; and EDA stands for electrodermal 
+activity.
+
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+5
+saliva. The latter involves devices that measure EDA and heart rate 
+variability (HRV).
+The behavioral expression phase, driven by the somatic 
+nervous system and motor system, quantifies motor-based outputs 
+and involves the detection of externally observable behaviors 
+using eye-tracking systems and facial expression analysis. These 
+technologies collect data such as gaze fixation duration, saccade 
+frequency, and facial muscle activity.
+The subjective representation phase assesses psychological 
+states through the analysis of individuals’ verbal or written 
+expressions. Emerging techniques such as subjective semantic 
+profiling based on natural language processing (NLP) are used to 
+extract features like emotional tone, word frequency, and thematic 
+patterns from participant narratives.
+3.1 Neural Processing Measures
+Measurement of the neural processing phase focuses on 
+capturing how the brain processes environmental stimuli, reflecting 
+the activity of the central nervous system. This phase includes 
+three main techniques: EEG, MRI, and fNIRS. Although all three 
+techniques can be used to characterize brain activity, EEG captures 
+neural responses through neural electrical activity, whereas MRI 
+and fNIRS rely on hemodynamic signals; moreover, MRI offers 
+whole-brain coverage, while fNIRS is largely restricted to cortical 
+regions.
+3.1.1 EEG
+EEG is a technique that records electrical signals generated by 
+the synchronous firing of cortical neuron populations, collected 
+through electrodes placed on the human scalp
+[30]. Traditional 
+EEG systems rely on stationary installations and thus are usually 
+applied in controlled laboratory settings. Mor
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1).
+Table 1).
+Table 1: EEG frequency bands and their associated psychological states
+Fig. 1 Four functional stages and corresponding measurement.

@@ -1,0 +1,181 @@
+### RECORD ID=323 | screening_verdict=INCLUDE | year=2016
+JOURNAL: APPLIED SCIENCES-BASEL
+TITLE: An Experimental Study on the Influence of Soundscapes on People's Behaviour in an Open Public Space
+DOI: 10.3390/app6100276
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+applied 
+sciences
+Article
+An Experimental Study on the Inﬂuence of
+Soundscapes on People’s Behaviour in an Open
+Public Space
+Francesco Aletta 1, Federica Lepore 2, Eirini Kostara-Konstantinou 2, Jian Kang 1,*
+and Arianna Astolﬁ2
+1
+School of Architecture, University of Shefﬁeld, Shefﬁeld S102TN, UK; f.aletta@shefﬁeld.ac.uk
+2
+Department of Energy, Politecnico di Torino, Torino 10129, Italy; federica.lepore@studenti.polito.it (F.L.);
+eirini.kostarakonstantinou@studenti.polito.it (E.K.-K.); arianna.astolﬁ@polito.it (A.A.)
+*
+Correspondence: j.kang@shefﬁeld.ac.uk; Tel.: +44-114-222-0325
+Academic Editor: Gino Iannace
+Received: 25 July 2016; Accepted: 20 September 2016; Published: 27 September 2016
+Abstract: Several studies have investigated how environmental sounds and music can modulate
+people’s behaviours, particularly in marketing research. However, there are relatively few examples
+of research about such relationships with a focus on the management of urban public spaces.
+The current study investigated an open public space used mainly as a pedestrian crossing to analyse
+the relationship between the audio stimuli and peoples’ behaviours. An experiment relying on
+covert behavioural observation was performed. During the experiment, three different music stimuli
+and a control condition (i.e., no music) were reproduced in order to ﬁnd out ﬁrstly whether music
+compared to no music could elicit an increase in the number of people stopping in the investigated
+area, and secondly whether music is associated with a longer duration of stay for those who stop.
+Results showed that the presence of music had no effect on the number of people stopping in the area,
+but it had a statistically signiﬁcant effect on the duration of stay for those who stopped. The above
+ﬁndings support the idea that people felt more invited to stay in the area with music rather than with
+no music, and suggest that the acoustical manipulation of the existing sound environment could
+provide soundscape strategies capable of promoting social cohesion in public spaces.
+Keywords: soundscape; music stimuli; environmental noise; people’s behaviour
+1. Introduction
+Since the 1970s, soundscape started to emerge as a new science and research ﬁeld. Schafer and his
+colleagues deﬁned this concept as “an environment of sound (or sonic environment) with emphasis
+on the way it is perceived and understood by the individual or a society” [1]. The International
+Organization for Standardization [2] released a standard in 2014 where soundscape is deﬁned as
+the “acoustic environment as perceived or experienced and/or understood by a person or people,
+in context”. The number of studies in the ﬁeld is increasing over time, and there is more and more
+research interest on the relationships between sonic environments, people, and contexts.
+Over the last decades, several studies have investigated the inﬂuence of environmental sounds
+and music on peoples’ behaviour, especially in terms of the pace of some activities or performance,
+mainly with a commercial or business perspective. These studies considered the effects of sound on
+individuals’ mood, music perception, and behaviours through a wide range of parameters, such as
+productivity in the workplace, pace of shopping, and time and money spent in aggregation places
+(e.g., restaurants and shopping malls). Regarding product choice, Areni and Kim [3] showed that
+classical music played in a wine shop resulted in consumers choosing more expensive wines. Generally,
+Appl. Sci. 2016, 6, 276; doi:10.3390/app6100276
+www.mdpi.com/journal/applsci
+
+Appl. Sci. 2016, 6, 276
+2 of 12
+the results supported the idea that a good perceived match between music and context improves
+persuasion. Subsequently, Yalch and Spangenberg [4] focused their research on time spent in a retail
+context, and suggested that more familiar background music (vs. less familiar) decreased consumers’
+actual shopping time, and, conversely, unfamiliar music triggered consumers’ attention.
+Previously, Milliman [5] investigated the relationship between pace of shopping, sales, and tempo.
+His research suggested that slower music is related to a slower pace of peoples’ movement in a retail
+environment, and, as a result, more time and money spent there; while fast musical tempo reproduced
+in a restaurant caused a shorter duration of eating time [6]. Focusing more on the effect of music tempo,
+Kampfe, Sedlmeier, and Renkewitz [7] asserted that hearing background music characterized by a fast
+tempo leads to an increase in the pace of certain behaviours, such as drawing, reading, walking and
+running, and eating and drinking. In general, there are two fundamental hypotheses for these effects;
+the ﬁrst is the synchronization of the movements to the musical beat, while the second is the increase
+in the arousal found with fast-tempo music [8].
+Even if several studies explored the effect of sound environment on consumers’ behaviour (mainly
+observed in indoor contexts), there have been limited studies investigating its effects regarding the
+management of public urban spaces. There is an increasing interest about the effects of background
+sounds on listeners’ behaviour, focusing on the effectiveness of soundscape strategies on the sustainable
+development of cities and the improvement of the health and the quality of life [9]. Witchel et al. [10]
+managed to improve crowd behaviour and to decrease anti-social behaviours through the manipulation
+of the outdoor acoustic environment with sounds and music played onto the main street of the city’s
+busiest clubbing and entertainment district in Brighton and Hove (UK). Sayin et al. [6] reported a
+signiﬁcant effect of human sounds and music on the perceived safety of individuals in public places
+that are characterized by people’s reluctance and avoidance, such as car parks, metro stations, and
+many green areas. Finally, Thomas Schafer et al. [11] assessed the relationship between the processing
+of music and the experience of saf
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+This study relies on non-participant covert observations, during which the users—not aware of the
+experiment—were video-recorded, and the ﬁnal subconscious and spontaneous responses constituted
+the database used for later behavioural analysis. Indeed, there is still no clear agreement on what is the
+optimal method for data collection in soundscape studies. In most cases, data collection is participative
+and participants are required to have an attentive listening style. According to Aletta et al. [16],
+this raises a question about whether being “aware” of taking part in a soundscape study might actually
+affect the responses people give. The study received ethic approval through the Ethics Committee
+procedure of the School of Architecture, University of Shefﬁeld (ref: 002442, January 2015). Cameras
+were set to a low resolution in order to avoid the identiﬁcation of peoples’ faces.
+2.1. Study Area
+The analysed public space is inside the University campus, and serves as the connection between
+different Departments’ facilities and the central building where services and administration ofﬁces,
+as well as bars, restaurants, and shops are located. It is a pedestrian area below a raised vehicular
+bridge, an important crossroad for pedestrians coming from Weston park area, the Alfred Denny
+Building, the Arts Tower, and the Western Bank Library toward the Hicks building, Students’ Union,
+and the Octagon centre, and it has not undergone any particular design interventions over the past
+15 years. Since then, different attempts have been made to substantially improve the public space
+and enhance the public dimension underneath the Concourse Bridge, which is made of raw concrete,
+mainly in dim light during the day and poorly lit at night, and hosts the highest pedestrian afﬂuence
+across campus. The Concourse Bridge is a key student space providing an important link beneath
+Western Bank, offering space for shelter and gatherings [15]. It constitutes a node where people
+usually stop for a break between various activities within the campus. Given the centrality of the area,
+the space—divided by pylons into two branches—presents low solid parapets along the edges used
+like benches in order to facilitate people’s stay. The main sound sources are human voices and the
+trafﬁc coming from the upper arterial road of Western Bank. Figure 1 shows the location of the site,
+as well as the observation area and the location of the cameras, which will be better described in the
+following section.
+ 
+Figure 1. Plan of the site (left); the green area shows the observation area (underneath the Concourse
+Bridge); the red dot shows the location of the cameras used for video recordings in the Students’ Union
+building (right)—See also details in Section 2.2.
+
+Appl. Sci. 2016, 6, 276
+4 of 12
+2.2. Equipment and Procedure
+The experiment was performed during ﬁve consecutive working days in February 2015.
+The equipment used for the experiment was: a laptop with the driver software of the audio card for
+outputs regulation; a professional audio card (RME Babyface); two loudspeakers (Genelec 8030B);
+and two cameras (Sony handycam DCR-DVD115) for video recording.
+The nature of a non-participant observational study implies that no interaction between the
+research team and the participants would happen. In fact, the two cameras were placed at the ﬁrst
+ﬂoor of the Students’ Union building in order to cover the investigated area, and were hidden from
+people’s sight (as shown in Figure 1).
+In order to characterise the acoustic environment of the observation area, a set of ten simultaneous
+ten-minute background noise level measurements were carried out, using ten 1/8” microphones (B&K)
+connected to a portable recorder (Edirol), placed along the direction of walking at two-meter distance
+intervals. At the same time, a computation of the sound propagation in the area was made using two
+reference omnidirectional sound sources with a sound power of 100 dB (white noise spectrum) to
+simulate the loudspeakers to be installed for the experiment. The simulation of the sound propagation
+reported in Figure 2 shows a relatively homogeneous sound pressure levels (SPL) distribution in the
+observation area. If this information is compared with the background noise level proﬁle, it can be
+reasonably assumed that people in the observation area would be approximately exposed to the same
+sound ﬁeld, regardless of their location.
+Figure 2. Sound pressure level (SPL) distribution simulation with location of the hypothetical sound
+sources (loudspeakers) and section with location of the microphones and corresponding background
+noise levels.
+
+Appl. Sci. 2016, 6, 276
+5 of 12
+2.3. Signal Analysis
+During the experiment, a playlist of three music excerpts and a control condition (no music) was
+cyclically reproduced. Following the protocol of a previous experiment carried out by Witchel and
+colleagues [10], three instrumental pieces of music from contrasting genres (namely classical, jazz, and
+ambient electronic music) were used to ensure a high level of inclusiveness, involving different social
+groups in terms of age and gender [17]. It has been afﬁrmed that conventional acoustic parameters for
+noise measurement—e.g., weighted sound pressure levels (SPLs)—are not sufﬁcient for the adequate
+measurement of soundscape [18–22].
+Since soundscape is a perceptual construct and music is known to trigger emotions and affect
+perception, soundscape and music are closely related; thus, the psychoacoustic parameters that have
+previously been applied mainly in music perception may also be applicable in soundscape research [23].
+However, for the purpose of this study, it was decided to rely on pitch-related parameters for the
+selection of the stimuli to be used in the experiment. The pitch features are particularly signiﬁcant in
+the ﬁeld of environmental sounds and their perception [18]. Pitch maybe deﬁned as “that attribute
+of auditory sensation in terms of which sounds may
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows the location of the site,
+Figure 1. Plan of the site (left); the green area shows the observation area (underneath the Concourse
+Figure 1).
+Figure 2 shows a relatively homogeneous sound pressure levels (SPL) distribution in the
+Figure 2. Sound pressure level (SPL) distribution simulation with location of the hypothetical sound
+Figure 3 shows the spectrum of the background noise
+Figure 3. One-third octave band spectrum of the background noise (BN) level (black line) averaged
+Figure 2, with minimum and maximum values (dashed lines),
+Figure 4 shows the duration of stay (in seconds) of all stopping subjects for a corresponding
+Figure 4. Example of the ethogram obtained from the Behavioural Observation Research Interactive
+Table 1 reports the
+Table 1. Number of observations according to the different stimuli conditions averaged over the 72
+Table 2 showed that during the reproduction of
+Table 2. Descriptive statistics of the duration of stay for each stimulus condition.
+Figure 5 shows the estimated marginal means of the ANOVA model
+Figure 6 reports the mean Duration of stay scores (as observed
+Figure 5. Mean Duration of stay (log-transformed) as a function of the Stimulus variable, when
+Figure 6. Mean Duration of stay (as observed) as a function of the Stimulus variable, for both the

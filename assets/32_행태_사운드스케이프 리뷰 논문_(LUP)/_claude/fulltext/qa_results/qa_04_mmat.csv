@@ -1,0 +1,12 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+732,quantitative_descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"응답률·거부율 미보고, 대상지별 표본 극심 불균형, 결측 평균대치"
+746,qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"자원자 모집·주간 한정, 연구자 동행에 따른 반응성 가능(저자 인정)"
+760,mixed_methods,Y,Y,Y,CT,CT,N,N,1,low,"질적 절차 신뢰도 미보고, 행태관찰 1일 60분, 양적·질적 불일치 미논의"
+761,quantitative_descriptive,Y,Y,Y,Y,Y,CT,Y,4,high,"접근 대비 거부율 미보고, 맑은 날 주간에만 조사"
+762,mixed_methods,Y,Y,Y,Y,Y,CT,N,3,moderate,"단일 발코니 고정지점 표집, 저자가 평정단 참여, 일기 성찰성 미보고"
+791,quantitative_descriptive,Y,Y,CT,N,N,N,N,0,low,"기기 탐지=인구 대리 검증 부재, 소음계 교정 미보고, 통계검정 없이 인과 결론"
+799,quantitative_descriptive,Y,Y,Y,N,Y,Y,CT,3,moderate,"경적 빈발 3개 교차로만 선정, 반복측정 군집구조 미보정"
+804,quantitative_descriptive,Y,Y,Y,CT,Y,Y,CT,3,moderate,"다중비교 보정 없는 다수 상관검정, 약한 상관 과대해석, 단일 공원"
+818,quantitative_descriptive,Y,Y,Y,CT,Y,Y,Y,4,high,단일 공원·연휴 포함 8일 조사로 방문객 구성 편중(저자 인정)
+821,quantitative_descriptive,Y,Y,CT,CT,Y,Y,Y,3,moderate,"응답자 모집·온라인 배포 경로 불명, 단일 공원 저녁 시간대 한정"
+833,mixed_methods,Y,Y,Y,Y,Y,Y,CT,4,high,"참여자 자기선택으로 취약집단 미포함, 휴대형 소음측정 한계(저자 인정)"

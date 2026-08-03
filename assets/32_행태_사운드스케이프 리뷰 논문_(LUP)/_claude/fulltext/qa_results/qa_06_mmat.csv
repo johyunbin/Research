@@ -1,0 +1,12 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+980,quantitative_descriptive,Y,Y,Y,CT,Y,Y,N,3,moderate,"단일 공원·명절 표집 대표성 제한, 매개분석 표 부호가 상관분석과 상충"
+984,quantitative_descriptive,Y,Y,Y,CT,N,Y,N,2,low,"Ln 백분위지수를 측정시간으로 오해, 검정기법 미명시, 경관·소리 문항 미분리"
+999,quantitative_nonrandomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"표본 30명 전원 대학원생, 자극 제시순서 무작위화·counterbalancing 미보고"
+1005,mixed_methods,Y,Y,Y,Y,CT,N,N,2,low,"정성 요소 방법 미기술, 설문·Strava 표본 비연결, 노출추정 단일 구간 의존"
+1009,quantitative_nonrandomised,Y,Y,Y,CT,Y,CT,Y,3,moderate,"재생 음압 교정 미보고, 반복측정 자료에 독립성 가정 검정 적용"
+1018,quantitative_descriptive,Y,Y,Y,Y,CT,Y,Y,4,high,"행동분류 관찰자 신뢰도 미보고, 실측 LAeq가 회귀모형에 미투입"
+1020,quantitative_descriptive,Y,Y,Y,N,N,Y,N,2,low,"회귀계수 본문-표 다수 불일치, 20–30세 30명 패널, 77dB 임계 비유의"
+1053,quantitative_descriptive,Y,Y,Y,CT,CT,N,N,1,low,"공원 24% 결측 제외 근거 미기술, Poisson 과분산·공간자기상관 미검토"
+1069,quantitative_nonrandomised,Y,Y,Y,Y,Y,CT,Y,4,high,"조건 배정 무작위화·관찰자 간 신뢰도 미보고, 개인 인구통계 부재"
+1076,quantitative_descriptive,Y,Y,Y,N,Y,Y,CT,3,moderate,"인구통계 수치 미제시, 5개 공원 이질성 미통제, 매개효과 유의성 서술 상충"
+1110,quantitative_descriptive,Y,Y,Y,Y,N,N,N,2,low,"청각 변수 전량 이미지 예측치, 공간자기상관 미처리 상태로 무작위 분할"

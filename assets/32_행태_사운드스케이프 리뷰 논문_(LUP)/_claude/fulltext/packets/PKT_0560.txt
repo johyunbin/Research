@@ -1,0 +1,237 @@
+### RECORD ID=560 | screening_verdict=INCLUDE | year=2019
+JOURNAL: URBAN FORESTRY & URBAN GREENING
+TITLE: Perceptions and use of urban green spaces on the basis of size
+DOI: 10.1016/j.ufug.2019.126470
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Contents lists available at ScienceDirect
+Urban Forestry & Urban Greening
+journal homepage: www.elsevier.com/locate/ufug
+Perceptions and use of urban green spaces on the basis of size
+Guillermo Rey Gozaloa,b, Juan Miguel Barrigón Morillasa,⁎, David Montes Gonzálezc,a
+a Departamento de Física Aplicada, Escuela Politécnica, Universidad de Extremadura, Avda. de la Universidad s/n, 10003 Cáceres, Spain
+b Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, 5 Poniente 1670, 3460000 Talca, Chile
+c ISISE, Departamento de Engenharia Civil, Universidade de Coimbra, Luis Reis dos Santos 290, Coimbra, Portugal
+A R T I C L E I N F O
+Handling Editor: Dobbs Cynnamon
+Keywords:
+Health
+Noise
+Park features
+Small parks
+Social and physical activities
+Urban management
+A B S T R A C T
+Urban green spaces have a beneficial effect on the health and well-being of citizens. The features of such spaces
+and users’ satisfaction with them determine the type and frequency of activities conducted inside parks.
+Understanding the relationships among these aspects is important for promoting adequate designs for these
+spaces. On the other hand, the limited availability of urban surface area in many cities determines the size of
+parks. The effect of size on people’s satisfaction and their use of parks is an aspect that has not been studied in
+depth in the scientific literature. Therefore, this study aimed to examine the relationships between citizens’
+perceptions of the parks’ features and their uses as a function of their size. For this purpose, surveys were
+conducted in large and small green spaces. The results showed the importance of considering noise in the
+management of both types of parks to improve overall satisfaction. In addition, overall satisfaction was related to
+visual aspects (conservation) in large parks, and social aspects (safety and users) in small parks. Suitably de-
+signed canine and play areas in large parks and functionality for the streets surrounding small parks can con-
+tribute to reducing noise annoyance. This study showed that the size of green spaces has a positive correlation
+with the frequency of walking, exercising and relaxing. Furthermore, improving some environmental features
+would also help to increase the frequency of these activities. In this regard, the existence of groves played an
+important role in promoting physical activity in both types of parks, and the quality of the air and the absence of
+noise contributed to relaxation in large parks.
+1. Introduction
+Population growth in cities will bring environmental, social and
+health challenges (UN, 2017). Green spaces play an important role in
+modulating human health and social well-being in the urban environ-
+ment (Bedimo-Rung et al., 2005).
+The presence of urban green spaces in cities generates economic and
+environmental benefits. Urban green spaces help to improve air quality
+(Escobedo et al., 2011; James et al., 2015), reduce the urban heat island
+effect (Shisegar, 2014), mitigate runoff (Zhang et al., 2015), reduce
+healthcare costs (Cox et al., 2017), increase property values for homes
+that are nearby or overlook them (Morancho, 2003), maintain urban
+biodiversity (Fontana et al., 2011), promote green spaces as tourist
+destinations, and generate revenue (Jim and Chen, 2006).
+Specifically analysing the direct benefits of green spaces to citizens,
+numerous studies show that the presence of parks in residential areas
+increases social contact and cohesion (Peters et al., 2010; Dadvand
+et al., 2016) and decreases stress (Nieuwenhuijsen et al., 2017). Their
+presence also promotes physical activity and may be linked with greater
+health benefits than in other settings (Mitchell and Popham, 2008;
+Vujcic et al., 2018).
+Research has shown the positive influence of quiet urban areas as a
+possible measure to mitigate the effect of noise (Öhrström et al., 2006).
+However, some studies (Cohen et al., 2014; Tse et al., 2012) show that
+noise levels in urban green spaces are significantly higher than values
+recommended by the European Environmental Agency (EEA) for quiet
+areas (EEA, 2014). Koprowska et al. (2018) conclude that noise levels
+have the biggest influence on noise perception, even though people feel
+less annoyed by noise when surrounded by greenery (Cassina et al.,
+2017; Dzhambov et al., 2018). Although there are different sources of
+urban noise (Bunn and Zannin, 2016; Gagliardi et al., 2018; Bernardini
+et al., 2019), road traffic is the largest source of noise pollution (WHO,
+2018). Prolonged exposure to noise can have negative effects on health,
+such as sleep disturbances (Halperin, 2014), annoyance (Miedema and
+Oudshoorn,
+2001),
+cardiovascular diseases
+(Babisch, 2014),
+and
+learning impairment (Klatte et al., 2013). Thus, noise studies have been
+conducted around different aspects in urban environments: sampling
+strategies (Barrigón Morillas et al., 2018), sound sources (Barrigón
+https://doi.org/10.1016/j.ufug.2019.126470
+Received 17 May 2019; Received in revised form 19 August 2019; Accepted 27 September 2019
+⁎ Corresponding author.
+E-mail addresses: guille@unex.es (G. Rey Gozalo), barrigon@unex.es (J.M. Barrigón Morillas), davidmg@unex.es (D. Montes González).
+Urban Forestry & Urban Greening 46 (2019) 126470
+Available online 30 September 2019
+1618-8667/ © 2019 Elsevier GmbH. All rights reserved.
+T
+
+Morillas et al., 2013), noise monitoring (Zambon et al., 2018), action
+plans (Licitra et al., 2017) or noise mitigation (Fredianelli et al., 2019).
+Literature reviews conducted by Bedimo-Rung et al. (2005) and
+McCormack et al. (2010) show that the relationship between green-
+space use and health is well established, but research establishing a
+relationship between features of green spaces and the frequency of their
+use is lacking. These literature reviews have been cited recently,
+highlighting this deficiency in the literature (Triguero-Mas et al., 2015;
+Vujcic et al., 2018). Determination of green-space features that influ-
+ence how 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Selection of urban green spaces
+The city of Cáceres was an optimal place for this study. Cáceres is
+located in southwest Spain and has 19.8 m2 of green space per capita
+(http://sig.caceres.es/?lang=en). This value is one of the highest in the
+country
+(Fuller
+and
+Gaston,
+2009).
+In
+2014,
+Cáceres
+had
+an
+Fig. 1. Location of the selected green spaces in the city of Cáceres (a) and
+sampling points within the studied green spaces (b) (For interpretation of the
+references to colour in this figure legend, the reader is referred to the web
+version of this article.).
+G. Rey Gozalo, et al.
+Urban Forestry & Urban Greening 46 (2019) 126470
+2
+
+approximate population of 96,500.
+Parks of different sizes close to the city centre (distance < 1.5 km)
+and emblematic of each district were selected for this study (Fig. 1).
+These green spaces are close to the population residing in the districts
+(distance < 1 km). The accessibility of green spaces is taken into ac-
+count when considering their use (Schipperijn et al., 2017; Wang et al.,
+2015).
+The green spaces were classified into two groups based on their size:
+- Large urban green spaces: Príncipe (22.0 ha) and Rodeo (10.6 ha).
+- Small urban green spaces: Valhondo (2.2 ha), Fernando Turégano
+(3.2 ha), Fray Pacífico (1.6 ha), Perú (1.5 ha) and, Antonio Canales
+(0.5 ha).
+Parks with an area greater than 10 ha were considered large urban
+green spaces, considering that the total land area of Cáceres is ap-
+proximately 17.7 km2.
+2.2. Questionnaire
+This study was based on a questionnaire conducted in 2014 at se-
+lected sampling points within green spaces. These points were selec-
+tively located in frequented areas that contain different features and
+accommodate different uses, and collectively they cover approximately
+the whole surface of the park (Fig. 1b). A similar number of ques-
+tionnaires were administered at each sampling site. The interviewers
+walked to the sampling point of the green space and users were asked to
+participate in the survey. If one user refused to participate, a new
+person was requested. Once the user was surveyed, the interviewers
+moved to another sampling point. All selected interviewees were over
+18 years old. During the face-to-face questionnaire, interviewees were
+informed about the objectives of the study and, they voluntarily agreed
+to participate. Each interview lasted approximately 10–15 min. The
+response rate was 53%. Two hundred and ten questionnaires were
+completed in large and small green spaces. Recent studies in urban
+green spaces have used a similar sample size (Kothencz and Blaschke,
+2017; Vujcic et al., 2018). The power of the subsequent statistical tests
+was at least 0.8 for the sample size obtained in this study (Cohen,
+1988). The demographic characteristics of the respondents were similar
+in both types of parks. The share of males and females was close to even
+(53% females in large parks and 51% females in small parks). In ad-
+dition, the age structure did not present significant differences between
+the two types of green spaces (p > 0.05 according to a Chi-squared
+test) as shown in Fig. 2.
+Three categories were analysed in the questionnaire: satisfaction
+with green space features (12 items), noise annoyance (8 items), and
+use of green spaces (6 items). All items were evaluated using a 5-point
+Likert scale (0 – ‘not at all’ or ‘never’, 1 – ‘a little’ or ‘rarely’, 2 –
+‘moderately’ or ‘sometimes’, 3 – ‘quite’ or ‘often’, 4 – ‘a lot’ or ‘very
+often’).
+The following features were evaluated in the first category: clean-
+liness, air quality, absence of noise, aesthetics, safety, users, conserva-
+tion, location, size, shade, and groves. Overall satisfaction was also
+assessed in one item. The level of user satisfaction with these features
+was questioned in this first category. These features were selected for
+their relationship with social, environmental, or design aspects that
+influence overall satisfaction with green spaces. Cleanliness, aesthetics,
+conservation, and groves influence the visual assessment of a green
+space. Some studies include all of these features within the aesthetic
+characteristic (McCormack et al., 2010). Absence of noise, air quality,
+groves, and shade are features considered when assessing the en-
+vironmental benefits of green spaces (James et al., 2015). Location and
+size are design aspects that can influence the use of green spaces
+(Schipperijn et al., 2010). Social aspects, such as the relationship with
+users or security, were also considered. Crime and anti-social behaviour
+are perceived risks from urban green spaces (WHO, 2016).
+Parks are potentially quiet areas. Conserving quiet areas is an ob-
+jective given priority by the WHO (WHO, 2018). Rey Gozalo and
+Barrigón Morillas (2017) indicate that the absence of noise is the most
+influential environmental feature determining the overall perception of
+a quiet urban area. Thus, the degree of annoyance caused by the main
+sound sources in these green spaces (road traffic, children, screams,
+construction sites, maintenance services, animals, and water) was
+questioned in the second category of the questionnaire. Users were also
+questioned about overall noise annoyance in urban green parks.
+Moreover, sound levels were measured. Interviews and sound mea-
+surements were carried out simultaneously. Equivalent sound level
+(Leq) recorded with a binaural recording device (Noise Book from Head
+Acoustics) was analysed for this study. The guidelines of the ISO 1996-2
+standard were followed for measuring during favourable meteor-
+ological conditions and for locating the microphone (ISO 1996-2,
+2007ISO 1996-2, 2007).
+The frequency at which users conducted activities in these green
+spaces was analysed in the last category of the questionnaire. The fol-
+lowing activities were analysed: reading, taking children outside, re-
+laxing, exercising, walking, and talking.
+2.3. Statistical analysis
+The users' perception of the different variables was evaluated with 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Location of the selected green spaces in the city of Cáceres (a) and
+Fig. 1).
+Fig. 1b). A similar number of ques-
+Fig. 2.
+Fig. 2. Age structure of the selected samples in the two types of green spaces.
+Table 1. The average and median ratings given to
+Table 1). In contrast, the location of
+Table 1).
+Table 1). The
+Fig. 3; p > 0.05 according to a
+Table 1. The difference in size
+Fig. 4. NDVI was taken from the open-access web
+Fig. 4). The 2015 map of tree-cover
+Table 1
+Fig. 3. Equivalent continuous sound levels (dBA) measured in the small and
+Table 1).
+Table 2). Therefore, features
+Fig. 4. Normalised difference vegetation index (NDVI) obtained from the parks studied. This image was taken from the open-access web interface Land Viewer
+Fig. 3). Furthermore, satisfaction with the absence of noise
+Table 2).
+Table 3). The selection of independent variables was performed using
+Table 3 are the values of the 5-point Likert scale used in the
+Table 3 because it was the
+Table 3). Therefore, these fea-
+Table 4. This result was predictable

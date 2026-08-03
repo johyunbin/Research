@@ -1,0 +1,242 @@
+### RECORD ID=880 | screening_verdict=INCLUDE | year=2022
+JOURNAL: ENVIRONMENTAL RESEARCH
+TITLE: Urban environment and physical activity and capacity in patients with chronic obstructive pulmonary disease
+DOI: 10.1016/j.envres.2022.113956
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Environmental Research 214 (2022) 113956
+Available online 22 July 2022
+0013-9351/© 2022 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-
+nc-nd/4.0/).
+Urban environment and physical activity and capacity in patients with 
+chronic obstructive pulmonary disease 
+Maria Koreny a,b,c, Ane Arbillaga-Etxarri d, Magda Bosch de Basea a,b,c, Maria Foraster a,b,c,e, 
+Anne-Elie Carsin a,b,c,f, Marta Cirach a,b,c, Elena Gimeno-Santos a,b,c,g, Anael Barberan-Garcia h, 
+Mark Nieuwenhuijsen a,b,c, Pere Vall-Casas i, Robert Rodriguez-Roisín h, 
+Judith Garcia-Aymerich a,b,c,* 
+a ISGlobal, Barcelona, Spain 
+b Pompeu Fabra University (UPF), Barcelona, Spain 
+c CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain 
+d Physiotherapy Department, Faculty of Health Sciences, University of Deusto, Donostia-San Sebasti´an, Spain 
+e PHAGEX Research Group, Blanquerna School of Health Science, Universitat Ramon Llull (URL), Barcelona, Spain 
+f IMIM (Hospital Del Mar Medical Research Institute), Spain 
+g Hospital Clínic de Barcelona, Universitat de Barcelona, Barcelona, Spain 
+h University of Barcelona, Institut D’Investigaci´o Biom`edica August Pi I Sunyer (IDIBAPS), CIBER Enfermedades Respiratorias (CIBERES), Hospital Clínic, Barcelona, 
+Spain 
+i Universitat Internacional de Catalunya (UIC), Barcelona, Spain 
+A R T I C L E I N F O 
+Keywords: 
+Urban environment 
+Noise 
+Air pollution 
+Physical activity 
+Exercise capacity 
+Chronic obstructive pulmonary disease 
+A B S T R A C T 
+Background: Physical activity and exercise capacity are key prognostic factors in chronic obstructive pulmonary 
+disease (COPD) but their environmental determinants are unknown. 
+Objectives: To test the association between urban environment and objective physical activity, physical activity 
+experience and exercise capacity in COPD. 
+Methods: We studied 404 patients with mild-to-very severe COPD from a multi-city study in Catalonia, Spain. We 
+measured objective physical activity (step count and sedentary time) by the Dynaport MoveMonitor, physical 
+activity experience (difficulty with physical activity) by the Clinical visit-PROactive (C-PPAC) instrument, and 
+exercise capacity by the 6-min walk distance (6MWD). We estimated individually (geocoded to the residential 
+address) population density, pedestrian street length, slope of terrain, and long-term (i.e., annual) exposure to 
+road traffic noise, nitrogen dioxide (NO2) and particulate matter (PM2.5). We built single- and multi-exposure 
+mixed-effects linear regressions with a random intercept for city, adjusting for confounders. 
+Results: Patients were 85% male, had mean (SD) age 69 (9) years and walked 7524 (4045) steps/day. In multi- 
+exposure models, higher population density was associated with fewer steps, more sedentary time and worse 
+exercise capacity (−507 [95% CI: 1135, 121] steps, +0.2 [0.0, 0.4] h/day and −13 [-25, 0] m per IQR). 
+Pedestrian street length related with more steps and less sedentary time (156 [9, 304] steps and −0.1 [-0.1, 0.0] 
+h/day per IQR). Steeper slope was associated with better exercise capacity (15 [3, 27] m per IQR). Higher NO2 
+levels related with more sedentary time and more difficulty in physical activity. PM2.5 and noise were not 
+associated with physical activity or exercise capacity. 
+Discussion: Population density, pedestrian street length, slope and NO2 exposure relate to physical activity and 
+capacity of COPD patients living in highly populated areas. These findings support the consideration of neigh­
+bourhood environmental factors during COPD management and the attention to patients with chronic diseases 
+when developing urban and transport planning policies. 
+* Corresponding author. Barcelona Institute for Global Health (ISGlobal), C/ Doctor Aiguader 88, 08003, Barcelona, Spain. 
+E-mail addresses: maria.koreny@gmx.com (M. Koreny), ane.arbillaga@deusto.es (A. Arbillaga-Etxarri), magda.boschdebasea@isglobal.org (M. Bosch de Basea), 
+maria.foraster@isglobal.org (M. Foraster), anneelie.carsin@isglobal.org (A.-E. Carsin), marta.cirach@isglobal.org (M. Cirach), elena.gimeno@isglobal.org 
+(E. Gimeno-Santos), anaelbg@gmail.com (A. Barberan-Garcia), mark.nieuwenhuijsen@isglobal.org (M. Nieuwenhuijsen), perevall@uic.es (P. Vall-Casas), 
+RORORO@clinic.cat (R. Rodriguez-Roisín), judith.garcia@isglobal.org (J. Garcia-Aymerich). 
+Contents lists available at ScienceDirect 
+Environmental Research 
+journal homepage: www.elsevier.com/locate/envres 
+https://doi.org/10.1016/j.envres.2022.113956 
+Received 9 March 2022; Received in revised form 9 July 2022; Accepted 19 July 2022 
+
+Environmental Research 214 (2022) 113956
+2
+1. Introduction 
+Chronic obstructive pulmonary disease (COPD) is an important cause 
+of morbidity and mortality worldwide (Soriano et al., 2017). The global 
+burden of disease study estimated that COPD affected more than 174 
+million patients and caused 3.2 million deaths in 2015 (Soriano et al., 
+2017). COPD is characterised by a progressive airflow limitation leading 
+to breathlessness that often limits the ability to carry out daily activities, 
+including physical activities. Patients are typically less active than 
+healthy controls from the early stages of the disease onwards (Pitta et al., 
+2005; Shrikrishna et al., 2012; Van Remoortel et al., 2013) and this 
+inactivity affects COPD prognosis. Indeed, COPD patients who maintain 
+regular levels of physical activity have lower risk of exacerbations of the 
+disease, attenuated lung function decline and lower mortality (Demeyer 
+et al., 2019; Gimeno-Santos et al., 2014). Thus, COPD guidelines such as 
+those provided by the Global Initiative for Chronic Obstructive Lung 
+Disease (GOLD) recommend physical activity for all COPD patients 
+(Vestbo et al., 2013). To provide adequate support to physical activity 
+interventions, knowing and understanding which factors other than the 
+disease itself may i
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study design and patient population 
+This is a cross-sectional analysis of baseline pre-randomisation data 
+from the multi-centre Urban Training study (NCT01897298) (Arbilla­
+ga-Etxarri et al., 2018) that enrolled 407 patients from five Catalan 
+seaside municipalities (Badalona, Barcelona [centre and shore areas], 
+Matar´o, Viladecans and Gav`a) at 33 primary care centres and 5 tertiary 
+hospitals between October 2013 and February 2015. All patients had a 
+diagnosis of COPD, according to American Thoracic Society 
+(ATS)/European 
+Respiratory 
+Society 
+(ERS) 
+guidelines 
+(post-­
+bronchodilator forced expiratory volume in 1 s [FEV1] to forced vital 
+capacity [FVC] ratio <0.70) (Celli et al., 2004). For the present analysis 
+we used the data collected at baseline only and included patients if they 
+had valid data on objective physical activity, physical activity experi­
+ence, functional exercise capacity, and environmental variables (n =
+404, 99% of the total). 
+The study was approved by all local institutional ethic boards and 
+written informed consent was obtained from all patients. 
+2.2. Physical activity and capacity outcomes 
+Objective physical activity was recorded during 24 h of 7 consecutive 
+days using the Dynaport MoveMonitor (McRoberts BV, The Hague, The 
+Netherlands) (Rabinovich et al., 2013; Van Remoortel et al., 2012). Data 
+during waking hours (from 07:00 h to 22:00 h) were retrieved. A valid 
+physical activity measurement was defined as a minimum of three days 
+with at least 8 h of wearing time within waking hours; details have been 
+previously published (Arbillaga-Etxarri et al., 2018). For the present 
+Abbreviations 
+BMI 
+body mass index 
+CAT 
+COPD assessment test 
+CCQ 
+clinical COPD questionnaire 
+COPD 
+chronic obstructive pulmonary disease 
+C-PPAC 
+Clinical visit—PROactive Physical Activity in COPD 
+dB 
+decibels 
+FEV1 
+forced expiratory volume in 1 s 
+FFMI 
+fat free mass index 
+FVC 
+forced vital capacity 
+GIS 
+Geographic Information Systems 
+GOLD 
+Global Initiative for Chronic Obstructive Lung Disease 
+HADS-A: hospital anxiety and depression scale – anxiety 
+HADS-D: hospital anxiety and depression scale – depression 
+INE 
+Instituto Nacional de Estadística 
+ICGC 
+Institut Cartogr`afic i Geol`ogic de Catalunya 
+IQR 
+interquartile range 
+Lden 
+day evening night sound level 
+LUR 
+land-use regression 
+mMRC 
+modified Medical Research Council 
+6MWD 
+6-min walk distance 
+6MWT 
+6-min walk test 
+NO2 
+nitrogen dioxide 
+PM 
+particulate matter 
+P25 
+25th percentile 
+P75 
+75th percentile 
+SD 
+standard deviation 
+VIF 
+variance inflation factor 
+˙VO2 
+oxygen uptake 
+M. Koreny et al. 
+
+Environmental Research 214 (2022) 113956
+3
+study, we obtained information on daily step count and sedentary time 
+(sum of lying and sitting time, in hours/day). 
+Experience with physical activity was assessed by the Clinical visit 
+version of the PROactive physical activity in COPD (C-PPAC) instru­
+ment. Briefly, the C-PPAC combines a short patient-reported outcome 
+questionnaire with data from an activity monitor to assess the physical 
+activity experience in three scores: amount of physical activity, diffi­
+culty with physical activity, and total physical activity experience, all 
+ranging from 0 (worse physical activity experience, i.e., less amount, 
+more difficulty) to 100 (better physical activity experience, i.e., more 
+amount, less difficulty) (Garcia-Aymerich et al., 2021; Gimeno-Santos 
+et al., 2015). For the present study, we used the difficulty score as an 
+outcome, as the amount score was highly correlated with the objective 
+physical activity variables in our sample (Spearman correlation coeffi­
+cient [ρ] of amount score with step count ρ = 0.75, p-value <0.001, and 
+with sedentary time ρ = −0.62, p-value <0.001). 
+Functional exercise capacity was assessed using the 6-min walk test 
+(6MWT) following published recommendations (ATS Committee on 
+Proficiency Standards for Clinical Pulmonary Function Laboratories 
+2002; Manual de Procedimientos SEPAR, 4; Erratum in ATS statement: 
+Guidelines for the six-minute walk test 2016), determining the 6MWD 
+for each patient. Patients completed two 6MWTs with at least a 30-min 
+rest between, and the longer of the two distances was used for analysis. 
+2.3. Urban environmental exposures 
+We estimated the exposure to urban environmental factors individ­
+ually using Geographic Information Systems (GIS) for each patient at 
+his/her geocoded residential address. We obtained population density 
+(habitants per square kilometre within the census area) from the Spanish 
+National Statistics Institute (Instituto Nacional de Estadística, INE) for 
+the year 2016 (INE, 2016). We obtained pedestrian street length (sum of 
+pedestrian street length [metres] within a 300-m buffer around the 
+residence) from Navteq (licensed data under ArcGIS software, ESRI 
+ArcMap ™ 10.0, ArcGIS Desktop 10 Service Pack 4) (ESRI, 2012). We 
+obtained slope of terrain from now on ‘slope’ (average slope [degrees] 
+within a 300-m buffer around the residence) from the topographic map 
+of the Cartographic Institute of Catalonia (Institut Cartogr`afic i Geol`ogic 
+de Catalunya, ICGC) (ICGC, 2012). We obtained road traffic noise from 
+now on ‘noise’ (annual residential average levels of road traffic noise in 
+the nearest street from the residence [24 h day-evening-night level (Lden) 
+EU indicator in decibels (dB)]) from the official strategic noise maps for 
+the year 2012, except for Matar´o for which only the 2017 map was 
+available, developed under the EU Directive 2002/49/EC as described 
+previously (Dadvand et al., 2014b; Mapes estrat`egics del soroll, 2012). 
+Finally, we estimated the annual residential averages of NO2 and PM2.5 
+(μg/m3) temporarily adjusted for each patient (i.e., 12 months prior to 
+data collection). To do that we applied land-use regression (LUR) models 
+from 2009 that were corrected to 2013 levels using daily time series 
+from fixed air quality monitors as descr
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). 
+Table 2). There were no differences in physical activity, 
+Table 2). 
+Fig. 1). Due to the lack of strong correlations 
+Fig. 2, 
+Table 1 
+Fig. 1) does not 
+Table 2 
+Fig. 1. Correlations between the environmental factors (Spearman cor­
+Fig. 2. Associations between the urban environmental factors, and objective physical activity, physical activity experience and functional exercise ca­

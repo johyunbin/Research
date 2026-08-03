@@ -1,0 +1,255 @@
+### RECORD ID=1076 | screening_verdict=INCLUDE | year=2024
+JOURNAL: FORESTS
+TITLE: Understanding the Role of Visitor Behavior in Soundscape Restorative Experiences in Urban Parks
+DOI: 10.3390/f15101751
+PAGES: 22
+
+--- HEAD (title/abstract/intro) ---
+Citation: Guo, X.; Jiang, S.-Y.; Liu, J.;
+Chen, Z.; Hong, X.-C. Understanding
+the Role of Visitor Behavior in
+Soundscape Restorative Experiences
+in Urban Parks. Forests 2024, 15, 1751.
+https://doi.org/10.3390/f15101751
+Academic Editor: Paloma Cariñanos
+Received: 10 September 2024
+Revised: 29 September 2024
+Accepted: 2 October 2024
+Published: 5 October 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Understanding the Role of Visitor Behavior in Soundscape
+Restorative Experiences in Urban Parks
+Xuan Guo 1,2
+, Si-Yu Jiang 3,4, Jiang Liu 1,5,*
+, Zhu Chen 2
+and Xin-Chen Hong 1,5
+1
+School of Architecture and Urban–Rural Planning, Fuzhou University, Fuzhou 350108, China;
+guo@umwelt.uni-hannover.de (X.G.); xch.hung@fzu.edu.cn (X.-C.H.)
+2
+Institute of Environmental Planning, Leibniz University Hannover, Herrenhäuser Str. 2,
+30419 Hanover, Germany; chen@umwelt.uni-hannover.de
+3
+Key Lab of Urban Environment and Health, Institute of Urban Environment, Chinese Academy of Sciences,
+Xiamen 361021, China; syjiang@iue.ac.cn
+4
+University of Chinese Academy of Sciences, Beijing 100049, China
+5
+Fujian Key Laboratory of Digital Technology for Territorial Space Analysis and Simulation,
+Fuzhou University, Fuzhou 350108, China
+*
+Correspondence: jiang.liu@fzu.edu.cn; Tel.: +86-15705958118
+Abstract: The restorative effects of soundscapes on human physical and mental well-being are widely
+recognized, but their effectiveness is influenced by various factors, including external environments
+and individual characteristics. Despite being a crucial element in environmental experience, the role
+of individual behavior in the restorative effects of soundscapes has been insufficiently studied. To
+address this research gap, we conducted a survey in five parks in Fuzhou, China, using questionnaires
+to assess visitors’ evaluations of soundscape characteristics, their soundscape restorative experiences,
+and behavioral characteristics. A total of 419 valid responses were collected. Using these data, we
+employed a structural equation model and conditional process analysis to explore the interaction
+between visitor behavior and soundscape experiences. The results show that soundscapes with
+pleasantness and eventfulness promote static behaviors to a certain degree, while dynamic behaviors
+are influenced solely by eventfulness soundscapes. In the process by which soundscape characteristics
+influence restorative experiences, static behavior is the only mediating factor, accounting for 8% of the
+total effect. Additionally, increased visit intensity enhances the impact of pleasantness soundscape
+on restorative experiences while weakening the mediating effect of static behavior. These findings
+provide strong support for relevant design considerations.
+Keywords: soundscape; human behavior; restorative experience; urban park
+1. Introduction
+Urban parks are important public relaxation and recreation spaces [1], positively af-
+fecting the local ecological environment and enhancing city residents’ health conditions
+and quality of life [2,3]. As the demand for high-quality public open spaces continues
+to rise, researchers and designers have sought to enhance visitors’ experience in urban
+parks from multiple perceptual dimensions [4,5]. Aural perception, as one of the primary
+human senses [6,7], has gained increasing attention, particularly from the soundscape per-
+spective [8,9]. A significant difference between the concept of soundscape and traditional
+acoustics is the emphasis on the subjective human perception of the acoustic environ-
+ment [10], emphasizing how the acoustic environment contributes to human well-being
+rather than solely on its negative effects [11].
+The benefits people acquire from the restoration of experiencing environments are
+also the key reason for visiting urban parks [12]. Earlier research focused primarily on
+the restorative effects of visual landscape elements. Still, as studies progressed, it became
+clear that the quality of the auditory environment also plays a crucial role in human
+Forests 2024, 15, 1751. https://doi.org/10.3390/f15101751
+https://www.mdpi.com/journal/forests
+
+Forests 2024, 15, 1751
+2 of 22
+health and well-being [13]. Furthermore, the restorative effects of positive soundscapes
+are increasingly recognized as an integral part of environmental restoration [11]. Recent
+research indicates that soundscape restorative experience (SRE) is multi-dimensional, with
+complex internal mechanisms involving people, places, and their interactions [14]. One of
+the key aspects is the role of acoustic environmental factors, which have been extensively
+studied in the field [15]. For example, many studies have investigated the restorative
+effects of different types of sound and have consistently found that natural sounds such as
+birdsong, wind, flowing water, and rustling leaves have significant restorative effects [13,16].
+In contrast, urban sounds like human activities have varying effects depending on the
+context [17]. Notably, even natural sounds vary in their restorative effects [17]. For example,
+a recent study found that wind sounds improved relaxation, as reflected in brain waves,
+more than birdsong or insect sounds, while birdsong was more effective at improving
+attentional focus. However, the effect of wind, while significant, was the smallest of
+the natural sounds studied [18]. Interestingly, another study found that flowing water
+and birdsong increased pleasantness and relaxation, reduced fatigue, and aided recovery
+compared to silence, while wind sounds had negligible effects [19]. Additionally, one
+study investigated whether natural sounds are always beneficial, comparing the restorative
+effects of four water soundscapes. It found that falling water had the lowest restorative
+quality comp
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Case Study Sites
+In this study, five representative urban parks in Fuzhou, China, were selected based
+on the following criteria: (1) the popularity of the parks in the local area and attractiveness
+for visitors of different characteristics, ensuring the feasibility of data collection and the
+representativeness of the sample; (2) the spatial distribution and size of the parks, covering
+areas from high-density urban centers to the city’s outskirts and suburban areas; and
+(3) the design style and internal environment of the parks, encompassing a range of types
+from classical gardens to modern sustainable designs. Based on these criteria, Fuzhou
+National Forest Park, Wenquan Park, West Lake Park, Jin’an Park, and Zuohai Park were
+selected as case study parks. These five parks are among the most popular in Fuzhou,
+attracting a diverse range of visitors, making them suitable for capturing a representative
+sample of park users. Geographically, the parks are spread across various areas, from the
+urban core to peripheral regions, representing diverse urban soundscape environments. In
+terms of design, the parks feature diverse characteristics, including historically significant
+classical gardens and contemporary parks designed with sustainable concepts. The acoustic
+environments of these parks are equally varied, ranging from natural soundscapes in forest
+parks to waterscape features in typical parks and higher levels of technical noise in more
+urbanized areas. These distinctive urban parks provide a robust foundation for our study.
+
+Forests 2024, 15, 1751
+4 of 22
+A preliminary field survey was conducted in September 2020, involving objective
+acoustic environment measurements and identifying typical sound sources. The objective
+acoustic environment was measured mainly by monitoring the acoustic environment at
+the measuring points (see Table 1) using a sound level meter (BSWA308, BSWA Technol-
+ogy Co., Ltd., Beijing, China) during two periods, 8:00–12:00 and 14:00–18:00, with each
+measurement lasting 3 min. During measurements, the sound level meter was positioned
+1.5 m above the ground and equipped with a windshield. Typical sound sources were iden-
+tified primarily by investigators conducting soundwalks through the park and recording
+frequently occurring sources. The preliminary field survey results indicated that all five
+urban parks had rich soundscapes, with LAeq, 3-min (equivalent continuous A sound level)
+ranging from 43.9 dBA to 67.7 dBA (see Table S1). General information about the five parks
+is provided in Table 1.
+Table 1. The general information of five case study parks in Fuzhou, China (source: https://earth.
+google.com/web/ (accessed on 25 July 2021); https://baike.baidu.com/ (accessed on 1 October
+2022)); the red points in the satellite image represent the acoustic measurement sample points.
+ 
+Name: West Lake Park
+Location: 26◦05′33.22′′ N, 119◦17′23.29′′ E
+Scale: 42.51 ha
+Features: Converted from a classical garden to
+an urban park in 1914, it is one of the most
+famous parks in Fuzhou, with a history of
+nearly 1700 years.
+Typical sound sources: Birdsong, Tree rustling,
+Flowing water, Surrounding speech, Footsteps,
+Playing children, Sports and fitness,
+Broadcasting music, etc.
+LAeq, 3-min: 52.4–61.9 dBA
+ 
+Name: Zuohai Park
+Location: 26◦05′53.61′′ N, 119◦17′6.23′′ E
+Scale: 35.47 ha
+Features: It was built in 1990, and the park’s
+overall design is based on the theme of “five
+continents” and incorporates a variety of
+gardening styles, and a wide range of
+amusement facilities within the park.
+Typical sound sources: Birdsong, Tree rustling,
+Wind blowing, Surrounding speech, Footsteps,
+Sports and fitness, Broadcasting music,
+Construction noise, Traffic noise, etc.
+LAeq, 3-min: 49.2–59.7 dBA
+
+Forests 2024, 15, 1751
+5 of 22
+Table 1. Cont.
+ 
+Name: Wenquan Park
+Location: 26◦05′48.51′′ N, 119◦18′46.07′′ E
+Scale: 10 ha
+Features: It was completed and opened in 1997,
+was designed in a European style, and features
+various water features throughout, including
+an artificial lake, fountains, and water-screen,
+etc.
+Typical sound sources: Birdsong, Insects,
+Flowing water, Fountains, Surrounding speech,
+Footsteps, Playing children, Sports and fitness,
+Broadcasting music, etc.
+LAeq, 3-min: 54.6–67.7 dBA
+ 
+Name: Fuzhou National Forest Park
+Location: 26◦08′57.63′′ N, 119◦17′36.75′′ E
+Scale: 859.33 ha
+Features: It was built in 1960, and it is one of
+the top ten forest parks in China, rich in flora
+and fauna, and has both scientific and
+educational functions in addition to being an
+urban park.
+Typical sound sources: Birdsong, Insects, Tree
+rustling, Wind blowing, Surrounding speech,
+Footsteps, Playing children, etc.
+LAeq, 3-min: 43.9–65.6 dBA
+ 
+Name: Jin’an Park
+Location: 26◦05′56.71′′ N, 119◦20′48.65′′ E
+Scale: 68.27 ha
+Features: It was opened in 2017, and it is a
+typical practice case of modern urban park
+concepts and ecological engineering design
+strategies.
+Typical sound sources: Insects, Tree rustling,
+Wind blowing, Surrounding speech, Playing
+children, Broadcasting music, Construction
+noise, Traffic noise, etc.
+LAeq, 3-min: 53.7–66.7 dBA
+2.2. Questionnaire Design
+According to the research objectives, information was collected in four key areas via the
+questionnaire. The first part is about the social, demographic, and behavioral information of
+
+Forests 2024, 15, 1751
+6 of 22
+the interviewed park visitors, including gender, age, educational background, occupation,
+visit frequency, time of stay, as well as the time needed from home to the park, based on
+previous soundscape studies in urban parks [37,38].
+The second part focuses on the soundscape characteristics of the parks. Many studies
+have explored the classification of soundscape characteristics evaluation. These studies
+show that the characteristics of soundscape can be classified as pleasantness, eventfulness,
+familiarity, quietness, appropriateness, and more [39–42]. Among these, pleasantness and
+eventfulness are the most widely accepte
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1) using a sound level meter (BSWA308, BSWA Technol-
+Table 1.
+Table 1. The general information of five case study parks in Fuzhou, China (source: https://earth.
+Table 1. Cont.
+Table 2. Interviewees were asked to evaluate the extent to which
+Table 2. Classification of behavioral types in the urban parks.
+Table 3. The items
+Table 3. The perceived restorativeness of soundscape scales in urban parks.
+Figure 1. The sample for this study includes respondents of various
+Figure 1. Mean values of sound source perception indicators.
+Figure 2:
+Figure 2. Decomposition diagram for step-by-step model building.
+Table 4. The
+Table 4. Definitions and standards for goodness-of-fit indices in structural equation modeling.
+Table 5. After adjust-
+Table 6), indicating good discriminate validity. The goodness-of-fit indices of the model
+Table 7 indicate
+Table 5. Confirmatory factor analysis of model M1 after adjustment, CR: combined reliability, AVE:
+Table 6. Discriminant validity test for model M1, soundscape pleasantness (SSP), soundscape
+Table 7. The goodness-of-fit test of model M1.
+Figure 3, with detailed hypothesis
+Table 8. Soundscape pleasantness had a positive effect
+Figure 3. In the model of soundscape characteristics affecting behavioral types, significant influence
+Table 8. Path analysis results of the influence of soundscape characteristics on behavioral types, SE:
+Figure 4, with detailed

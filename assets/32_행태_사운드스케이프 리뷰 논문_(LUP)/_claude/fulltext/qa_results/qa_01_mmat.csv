@@ -1,0 +1,12 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+7,undetermined,CT,CT,CT,CT,CT,CT,CT,0,low,"스캔본 PDF·본문 텍스트 부재로 평가 불가 (scanned PDF, manual check needed)"
+14,non-randomised,Y,Y,Y,Y,Y,CT,Y,4,high,"요일·시간대·기상 등 시간적 교란 미통제, 관찰자 신뢰도 미보고"
+53,non-randomised,Y,Y,CT,Y,N,Y,Y,3,moderate,"소표본 편의표집, 실험2 좌우 위치 기록 누락으로 결측 발생"
+71,quantitative descriptive,Y,Y,Y,CT,Y,N,Y,3,moderate,"응답률 59%·무응답 편의 분석 부재, 녹지접근 단일문항 측정"
+121,non-randomised,Y,Y,Y,N,N,Y,Y,3,moderate,"개인 소음노출 미측정, 패널 탈락 40% 이상이며 체계적 차이 확인됨"
+123,quantitative descriptive,Y,Y,CT,CT,N,CT,N,0,low,"표본크기·응답률·표집절차 미보고, 다중검정 무보정 단변량 분석"
+271,mixed methods,Y,Y,Y,N,N,N,N,1,low,"단일사례 파일럿, 정성·정량 통합 형식적이며 음압레벨·관찰자 신뢰도 미보고"
+323,non-randomised,Y,Y,Y,Y,Y,Y,CT,4,high,"세션 중 신호대잡음비 미검증, 영상 코딩 신뢰도 미보고"
+341,quantitative descriptive,Y,Y,CT,CT,Y,CT,N,1,low,"응답률 미보고, 주요 행동 결과에 통계검정 없음, 결정계수 중복 보고"
+372,qualitative,Y,Y,Y,N,Y,Y,CT,3,moderate,"사운드 목적 아닌 인터뷰의 2차분석, IPA와 키워드 추출 절차 불일치"
+379,mixed methods,Y,Y,Y,N,N,N,N,1,low,"공원당 20명 소표본·통계검정 부재, 정성·정량 결과 통합 미흡"

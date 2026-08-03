@@ -1,0 +1,248 @@
+### RECORD ID=964 | screening_verdict=INCLUDE | year=2023
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: The effects of the natural visual-aural attributes of urban green spaces on human behavior and emotional response
+DOI: 10.3389/fpsyg.2023.1186806
+PAGES: 14
+
+--- HEAD (title/abstract/intro) ---
+Frontiers in Psychology
+01
+frontiersin.org
+The effects of the natural 
+visual-aural attributes of urban 
+green spaces on human behavior 
+and emotional response
+Yuting Yin 1, Yuhan Shao 1*, Yu Meng 1 and Yiying Hao 2
+1 College of Architecture and Urban Planning, Tongji University, Shanghai, China, 2 Acoustics and 
+Vibration Group, Bureau Veritas, Manchester, United Kingdom
+Introduction: Nature-based solutions (NBS) have been used to address a wide 
+range of urban environmental challenges, an important aspect of which is to 
+improve human health and well-being. However, most relevant studies focus 
+either on what positive influences nature may have or on identifying what natural 
+factors can have these benefits. Few have investigated the sensory composition 
+of nature and the effects of nature in different sensory aspects on human health. 
+Setting out from the multi-sensory perspective, this study aims to explore human 
+behavior and emotional response from visual and aural contact with urban nature.
+Methods: Taking Jiangjia Art Garden in Chengdu as an example, natural attributes 
+such as its visual (landscape) and aural (sound source) characteristics as well as 
+people’s activities (behavioral responses) were measured by on-site mapping 
+analysis. This was done while a questionnaire-based survey was conducted to 
+investigate people’s emotional responses regarding their overall satisfaction, 
+pleasantness, calm, and agreeableness.
+Results: The results indicated that nature-dominated visual landscapes such as 
+grassland, waterscapes, and woodlands, as well as natural sounds such as bird sounds, 
+chirp sounds, and wind sounds were found to be positively correlated to the vitality of 
+activities and people’s emotional status. Regarding behavioral responses, it was shown 
+that grasslands and woodlands are more likely to be attractive places for recreation, 
+and the vitality measured became extremely high when these two were paired with 
+lakes. As for the emotional responses, people’s perceived overall satisfaction, calm, 
+and agreeableness were equally reflected in their behavioral patterns, suggesting a 
+strong relationship with natural factors.
+Discussion: The research findings were visually presented in behavior and 
+emotional maps to provide direct cues of informing the future design of high-
+quality urban green spaces and promoting the application of aural-visual 
+experience in the design of urban nature areas.
+KEYWORDS
+nature-based solutions, visual and aural attributes, urban green spaces, behavior and 
+emotional responses, perceptions
+1. Introduction
+“Nature-based solutions (NBS) are actions inspired by, supported by, or copied from nature” 
+(Cecchi et al., 2015; Cohen-Shacham et al., 2019). The term has been used to address a wide 
+range of urban environmental challenges, an important aspect of which is improving health and 
+well-being. Nature has long been confirmed to have psychological benefits such as restoring 
+OPEN ACCESS
+EDITED BY
+Zhaowu Yu, 
+Fudan University, China
+REVIEWED BY
+Xi Lu, 
+Nanjing Forestry University, China 
+Fangzheng Li, 
+Beijing Forestry University, China
+*CORRESPONDENCE
+Yuhan Shao 
+ shaoyuhan@tongji.edu.cn
+RECEIVED 15 March 2023
+ACCEPTED 07 July 2023
+PUBLISHED 26 July 2023
+CITATION
+Yin Y, Shao Y, Meng Y and Hao Y (2023) The 
+effects of the natural visual-aural attributes of 
+urban green spaces on human behavior and 
+emotional response.
+Front. Psychol. 14:1186806.
+doi: 10.3389/fpsyg.2023.1186806
+COPYRIGHT
+© 2023 Yin, Shao, Meng and Hao. This is an 
+open-access article distributed under the terms 
+of the Creative Commons Attribution License 
+(CC BY). The use, distribution or reproduction 
+in other forums is permitted, provided the 
+original author(s) and the copyright owner(s) 
+are credited and that the original publication in 
+this journal is cited, in accordance with 
+accepted academic practice. No use, 
+distribution or reproduction is permitted which 
+does not comply with these terms.
+TYPE  Original Research
+PUBLISHED  26 July 2023
+DOI  10.3389/fpsyg.2023.1186806
+
+Yin et al.
+10.3389/fpsyg.2023.1186806
+Frontiers in Psychology
+02
+frontiersin.org
+depleted attentional resources (Yang D. et al., 2022; Yang Y. et al., 
+2022), mitigating mental stress (Johnsen, 2013), and arousing a 
+positive affect (Barton and Pretty, 2010).
+Sensory perceptions, behavioral patterns, and emotional 
+responses of humans constitute their experiences in urban landscapes 
+(Shao et al., 2022). However, to date, there is little evidence that 
+describes the relationship of the three from the perspective of 
+NBS. This study intends to explore the benefits of nature through the 
+visual-aural aspects of urban green spaces, a typical nature-dominated 
+urban space, on behavior and emotional response, so as to inform the 
+design of urban green spaces in a way that benefits urban residents.
+1.1. The benefits of nature on human health 
+and well-being
+Awareness regarding the various aspects of NBS has continuously 
+developed throughout history, from healing gardens (see Ulrich and 
+Parsons, 1992; Marcus and Barnes, 1999) to a broader concept of 
+restorative environments (see Kaplan and Talbot, 1983; Ulrich, 1983; 
+Kaplan and Kaplan, 1989), all the way to the more generalized 
+“Healthy Cities Movements” (World Health Organisation, 1948). 
+Nevertheless, it was not formalized until 1984, when the first report 
+about the measurable effects of nature’s influence on health was 
+published (Ulrich, 1984). Ulrich then further conceptualized his 
+findings (Ulrich, 1979, 1981, 1983) into a psycho-evolutionary 
+framework he called a stress reduction framework (SRF), stating that 
+psychology undergoes positive changes based on emotional state, 
+including reduced levels of negatively toned feelings such as fear or 
+anger, and increases in positively toned feelings (Zuckerman, 1977; 
+Ulrich, 1979; Ulrich et  al., 1991). Another significant study of 
+relevance that contributed greatly to restorative environment theor
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 51, 532–555. doi: 10.3758/s13428-018-1138-0
+Larson, L., Whiting, J. W., Green, G. T., and Bowker, J. M. (2014). Physical activity 
+levels and preferences of ethnically diverse visitors to Georgia state parks. J. Leis. Res. 46, 
+540–562. doi: 10.1080/00222216.2014.11950342
+Lepore, F., Aletta, F., Astolfi, A., and Jian, K. (2016), "A preliminary investigation about 
+the influence of soundscapes on people's behaviour in an open public space", Inter Noise 
+& Noise Con Congress & Conference Proceedings,.
+Lindal, P. J., and Hartig, T. (2015). Effects of urban street vegetation on judgments of 
+restoration likelihood. Urban For. Urban Green. 14, 200–209. doi: 10.1016/j.
+ufug.2015.02.001
+Lionello, M., Aletta, F., and Kang, J. (2020). A systematic review of prediction models 
+for the experience of urban soundscapes. Appl. Acoust. 170:107479. doi: 10.1016/j.
+apacoust.2020.107479
+Liu, J., Kang, J., Behm, H., and Luo, T. (2014). Effects of landscape on soundscape 
+perception: Soundwalks in city parks. Landsc. Urban Plan. 123, 30–40. doi: 10.1016/j.
+landurbplan.2013.12.003
+Liu, J., Wang, Y., Zimmer, C., Kang, J., and Yu, T. (2019). Factors associated with 
+soundscape experiences in urban green spaces: a case study in Rostock, Germany. Urban 
+For. Urban Green. 37, 135–146. doi: 10.1016/j.ufug.2017.11.003
+Lyons, E. (1983). Demographic correlates of landscape preference. Environ. Behav. 15, 
+487–511. doi: 10.1177/0013916583154005
+Marcus, C. C., and Barnes, M. (Eds.). (1999). Healing gardens: Therapeutic benefits 
+and design recommendations (Vol. 4). John Wiley & Sons.
+Meng, Q., and Kang, J. (2016). Effect of sound-related activities on human behaviours 
+and acoustic comfort in urban open spaces. Sci. Total Environ. 573, 481–493. doi: 
+10.1016/j.scitotenv.2016.08.130
+Nasar, J. L., and Jones, K. M. (1997). Landscapes of fear and stress. Environment and 
+Behavior 29(3), 291–323.
+Nasar, J. L., and Fisher, B. (1993). ‘Hot spots’ of fear and crime: a multi-method 
+investigation. J. Environ. Psychol. 13, 187–206. doi: 10.1016/S0272-4944(05)80173-2
+Nilsson, M. E., Botteldooren, D., and Coensel, B. D. (2007), “Acoustic indicators of 
+soundscape quality and noise annoyance in outdoor urban areas (invited paper)”, 
+Proceedings of International Congress on Acoustics.
+Nordh, H., Hagerhall, C. M., and Holmqvist, K. (2013). Tracking restorative 
+components: patterns in eye movements as a consequence of a restorative rating task. 
+Landsc. Res. 38, 101–116. doi: 10.1080/01426397.2012.691468
+Nordh, H., Hartig, T., Hagerhall, C. M., and Fry, G. (2009). Components of small 
+urban parks that predict the possibility for restoration. Urban For. Urban Green. 8, 
+225–235. doi: 10.1016/j.ufug.2009.06.003
+Peschardt, K. K., and Stigsdotter, U. K. (2013). Associations between park 
+characteristics and perceived restorativeness of small public urban green spaces. Landsc. 
+Urban Plan. 112, 26–39. doi: 10.1016/j.landurbplan.2012.12.013
+Ren, X. X., Kang, J., Zhu, P. S., and Wang, S. Y. (2018). Effects of soundscape on rural 
+landscape evaluations. Environ. Impact Assess. Rev. 70, 45–56. doi: 10.1016/j.
+eiar.2018.03.003
+Russell, J. A. (1980). A Circumplex model of affect. J. Pers. Soc. Psychol. 39, 1161–1178. 
+doi: 10.1037/h0077714
+Sarwono, J., Sudarsono, A. S., Hapsari, A., Salim, H., and Tassia, R. D. (2022). 
+The implementation of soundscape composition to identify the ideal soundscape 
+for various activities. J. Eng. Technol. Sci. 54:220107. doi: 10.5614/j.eng.technol.
+sci.2022.54.1.7
+Shao, Y., Hao, Y., Yin, Y., Meng, Y., and Xue, Z. (2022). Improving soundscape comfort 
+in urban Green spaces based on aural-visual interaction attributes of landscape 
+experience. Forests 13:1262. doi: 10.3390/f13081262
+Snell, T. L., Mclean, L. A., Mcasey, F., Zhang, M., and Maggs, D. (2019). Nature 
+streaming: contrasting the effectiveness of perceived live and recorded videos of 
+nature 
+for 
+restoration. 
+Environ. 
+Behav. 
+51, 
+1082–1105. 
+doi: 
+10.1177/0013916518787318
+Sun, Y., Piao, Y., and Zhu, W. (2012). Analysis of soundscape in urban parks and 
+application of GIS Soundscapegraphy. J. Northwest For. Coll. 27, 229–233, 246.
+Tennessen, C. M., and Cimprich, B. (1995). Views to nature - effects on attention. J. 
+Environ. Psychol. 15, 77–85. doi: 10.1016/0272-4944(95)90016-0
+Thake, C. L., Bambling, M., Edirippulige, S., and Marx, E. (2017). A 
+Psychoevolutionary approach to identifying preferred nature Scenes with potential 
+to provide restoration from stress. Health Environ. Res. Design J. 10, 111–124. doi: 
+10.1177/1937586717705085
+Thwaites, K., Mathers, A., and Simkins, I. (2013), Socially restorative urbanism, socially 
+restorative urbanism-the theory, process and practice of experiences. London and New 
+York: Routledge.
+
+Yin et al.
+10.3389/fpsyg.2023.1186806
+Frontiers in Psychology
+14
+frontiersin.org
+Todorova, A., Asakawa, S., and Aikoh, T. (2004). Preferences for and attitudes towards 
+street flowers and trees in Sapporo, Japan. Landsc. Urban Plan. 69, 403–416. doi: 
+10.1016/j.landurbplan.2003.11.001
+Tyrvainen, L., Ojala, A., Korpela, K., Lanki, T., Tsunetsugu, Y., and Kagawa, T. (2014). 
+The influence of urban green environments on stress relief measures: a field experiment. 
+J. Environ. Psychol. 38, 1–9. doi: 10.1016/j.jenvp.2013.12.005
+Ulrich, R. S. (1979). Visual landscapes and psychological well-being. Landsc. Res. 4, 
+17–23. doi: 10.1080/01426397908705892
+Ulrich, R. S. (1981). NATURAL VERSUS URBAN SCENES  - SOME 
+PSYCHOPHYSIOLOGICAL 
+EFFECTS. 
+Environ. 
+Behav. 
+13, 
+523–556. 
+doi: 
+10.1177/0013916581135001
+Ulrich, R. S. (1983). Aesthetic and affective response to natural environment. Behav. 
+Nat. Environ. 6, 85–125. doi: 10.1007/978-1-4613-3539-9_4
+Ulrich, R. S. (1984). View through a window may influence recovery from surgery. 
+Science 224, 420–421. doi: 10.1126/science.6143402
+Ulrich, R. S., and Parsons, R. (1992). The influences of passive experiences with plants 
+on human well-being and health. In D. Relf (Ed.), The Role of
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1).
+Figure 1).
+Figure 2).
+Table 1). A sound 
+Table 1).
+Table 2.
+Figure 3).
+Figure 4).
+Figure 5).
+Figure 6).
+Figure 7, Right) and compared with the accessible area of Jiajiang 
+Figure 7, Left). The accessibility of the research site is 
+Table 3).
+Table 4.
+Figure 8). The tendencies of the four measured emotional 

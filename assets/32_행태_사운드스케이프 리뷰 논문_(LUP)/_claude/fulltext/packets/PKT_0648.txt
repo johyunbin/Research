@@ -1,0 +1,183 @@
+### RECORD ID=648 | screening_verdict=BORDERLINE | year=2020
+JOURNAL: SUSTAINABILITY
+TITLE: Residents' Spatial Perceptions of Urban Gardens Based on Soundscape and Landscape Differences
+DOI: 10.3390/su12176809
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+sustainability
+Article
+Residents’ Spatial Perceptions of Urban Gardens
+Based on Soundscape and Landscape Diﬀerences
+Zheng Zhao 1, Yanbin Wang 2 and Yilei Hou 3,*
+1
+College of Tourism, Shanghai Normal University, Shanghai 200234, China; zzshnu@shnu.edu.cn
+2
+Economic Development Research Center, National Forestry and Grassland Administration,
+Beijing 100714, China; wangyanbin@bjfu.edu.cn
+3
+School of Economics and Management, Beijing Forestry University, Beijing 100083, China
+*
+Correspondence: houyilei@bjfu.edu.cn; Tel.: +86-10-62338424
+Received: 13 July 2020; Accepted: 19 August 2020; Published: 21 August 2020
+
+
+Abstract: In this study, four types of urban gardens, namely modern commercial, cultural heritage,
+historical preservation, and natural and ecological areas, were comprehensively described and
+analyzed based on soundscape and landscape diﬀerences, and a multinomial logit model was used
+to explore potential inﬂuencing factors shaping residents’ preferences regarding urban gardens.
+The results suggest that variations in soundscape are closely related to the characteristics of the garden
+areas and the timing of residents’ activities; the noise level measurements at diﬀerent observation
+points varied considerably according to the time of day and displayed diﬀerent trends. Residents
+strongly preferred natural sounds, and traﬃc noise was the most disliked category of sound. Further,
+a negative correlation was found between residents’ subjective perception of loudness and the
+favorability of the area, while a clear positive correlation existed between the degree of favorability
+and the degree of landscape-soundscape coordination. Regarding landscape diﬀerences, residents
+generally preferred urban gardens without artiﬁcial transformation and prioritized the maintenance
+of natural landscaping and the historical and cultural heritage of urban gardens. In particular,
+residents’ preferences reﬂected the trade-oﬀs between natural and artiﬁcial forms of urban gardens.
+These results oﬀer useful information for planners, developers, and governmental organizations
+related to urban gardens by providing data to design urban gardens with increased practical value
+and natural beneﬁts.
+Keywords: urban garden; resident preference; multinomial logit model; Shanghai
+1. Introduction
+Urban gardens, via their internal landscape, environment, and spatial structure, satisfy important
+needs of city residents.
+They are important components of urban environmental construction,
+which serves to improve the quality of urban ecological environments and residents’ quality of life [1,2].
+Urban gardens are deeply involved in the residents’ daily lives, thus embodying the relationship
+between human and nature. Existing research mainly focuses on the functions and services provided by
+urban gardens, including improving the quality of the ecological environment, meeting residents’ daily
+needs, and improving residents’ health [3–5]. Since people express diﬀerent preferences regarding the
+landscape and structure of urban gardens, data-driven approaches to urban garden design should be
+employed to promote residents’ mental and physical health [6,7]. However, residents’ preferences are
+also impacted by the diﬀerent spatial characteristics and usage patterns of urban gardens, which have
+also been addressed by many researchers [8,9]. On the other hand, as residents’ preferences change,
+the planning and decision-making processes related to urban gardens are also changing [10]. Therefore,
+Sustainability 2020, 12, 6809; doi:10.3390/su12176809
+www.mdpi.com/journal/sustainability
+
+Sustainability 2020, 12, 6809
+2 of 21
+it is of great academic and practical signiﬁcance to understand residents’ preferences regarding urban
+gardens and relevant inﬂuencing factors.
+Previous studies have identiﬁed challenges in scientiﬁcally investigating individual preferences.
+For example, many attributes cannot exist and operate independently of each other, and their
+function can exercise cross inﬂuence on other attributes [11,12]. Similarly, individual preferences are
+heterogeneous due to individual and family characteristics and degree of specialization. Regarding
+individual preferences for urban gardens, planners and architects often face trade-oﬀs between various
+elements and styles. First, urban gardens have natural attributes that form the basis for their various
+functions. Contact with nature has been conﬁrmed to positively impact human emotions, cognition,
+behavior, and physical health [13,14]. Accordingly, urban gardens not only function to improve
+urban ecological environments but also as a form of social service. When people interact with nature
+in urban gardens, they are often engaged in some type of recreational activity, which promotes
+their physical and mental health. Thus, the human-engineered forms of urban gardens can also ﬁll
+important roles [15–19]. In a few words, urban garden designs should seek a balance between the
+natural and artiﬁcial environments to achieve optimal results so as to better adapt to the various
+individual preferences.
+Beyond the consideration of landscape diﬀerences in urban gardens, soundscape diﬀerences have
+already received attention in current research. Granö, a Finnish geographer, ﬁrst proposed the word
+soundscape in 1929 as an analogy of the word landscape to describe the sound environment that people
+experience in a physical space [20]. In 1976, Schafer, a Canadian composer and ecologist, proposed the
+concept of a soundscape; that is, a sound environment considered with an emphasis on individual or
+social perceptions and understanding [21]. It is obvious that sound is a constant presence in natural
+and social environments. The existence of some sounds helps to create a comfortable environment
+and positive individual experiences [22,23]. However, adverse factors, such as noise pollution, also
+impact human experiences [24,25]. In summary, existing research frames the soundscape in two ways.
+On
+
+--- METHODS/RESULTS EXCERPT ---
+e is the soundscape produced by human society (the social soundscape), the other is the sum of
+numerous sounds heard by human beings in the natural environment (the natural soundscape). As is
+known to all, human beings cannot exist independently without the natural environment and, similarly,
+individual development is inseparable from society. Therefore, a discussion of the soundscape should
+consider both the natural and social soundscapes and prioritize the essential needs and preferences of
+individuals. Besides, more attention should be paid to fostering harmonious relationships between
+the soundscape and landscape and between the soundscape and people through comprehensive
+and in-depth investigations. In addition, as a reﬂection of diﬀerences between Eastern and Western
+cultures, soundscapes in Chinese classical gardens are designed to express emotion and to embody an
+artistic conception. Therefore, research on the design and optimization of urban garden soundscapes,
+changes in these soundscapes, and the relationship between individuals’ perception of a space and the
+soundscape reﬂect topical concerns in China.
+Existing research topics on soundscape and landscape factors in urban gardens are relatively
+extensive, covering many aspects, such as structure, design and layout [26]. At present, however, most
+existing research has compared and discussed the impact of natural versus artiﬁcial environments; such
+studies are typically descriptive discussions, lacking objective quantitative measurements. Therefore,
+this study arises from the assumption that simply dividing the natural and artiﬁcial environment into
+two parts is unlikely to provide in-depth insights into why a given environment is beneﬁcial to human
+well-being [27]. Meanwhile, in recent years, many studies have investigated individual soundscape
+and landscape preferences, particularly the inﬂuencing factors aﬀecting such individual preferences,
+including age or education level [28–30]. Individual preferences have also been tied to social status
+and to economic, cultural, and social capital [31,32]. Therefore, a study of residents’ preferences
+regarding urban gardens must be combined with a detailed assessment of the interactions between
+their individual characteristics and the qualities and variations of soundscapes and landscapes.
+
+Sustainability 2020, 12, 6809
+3 of 21
+No previous research has comprehensively addressed the relationship between individual
+attributes and the advantages and disadvantages of diﬀerent urban garden forms or the relationship
+between landscape variations, soundscape variations, and residents’ preferences and choices. This study
+addresses the following questions. How can soundscape and landscape diﬀerences be comprehensively
+considered to determine urban garden classiﬁcations? Do residents prefer natural or artiﬁcial urban
+landscapes or both? Given diﬀerent individual characteristics, what are the types and degrees of
+public preferences for urban gardens? In this study, natural and artiﬁcial urban garden forms are
+integrated into four schemes according to soundscape and landscape characteristics to measure
+residents’ preferences. The Yu Garden area in Shanghai was selected as the research area for this
+micro-level study of public cognition and selection. Based on data obtained via a ﬁeld soundscape
+test, questionnaire surveys, and interviews, residents’ spatial perceptions of urban gardens were
+comprehensively analyzed based on soundscape and landscape diﬀerences, and a multivariate logit
+selection model was used to analyze residents’ preferences regarding urban garden types and relevant
+inﬂuencing factors. This study explores the relationship between diﬀerent urban garden types and
+factors, including residents’ individual, family, and professional characteristics; further, the probability
+that given residents will prefer diﬀerent urban garden forms was estimated. This study aimed to
+highlight the important social, economic, and ecological roles of urban gardens and to explore practical
+urban garden designs, thus providing useful information for planners, developers, and governmental
+staﬀ. Furthermore, this study could serve as the basis for the construction of urban gardens with
+greater practical value and natural ecological beneﬁts.
+2. Materials and Survey Design
+2.1. Study Areas and Observation Points
+As this study aimed to heighten understanding of public preferences for diﬀerent urban garden
+types, the selected research site was a typical urban garden located in the downtown area of Shanghai:
+Yu Garden. Yu Garden is located in the northeast of Shanghai’s old city area and is a famous classical
+garden in China’s Yangtze river valley area. It was built during the Ming Dynasty and covers
+more than 30 acres. Yu Garden was opened to the public in 1961 and was listed as a national key
+cultural relic protection unit by China’s State Council in 1982. As the city developed, especially
+through continuous expansion and growth in its downtown area, the Yu Garden and nearby blocks
+have become the most prosperous tourist and shopping area in Shanghai. Today, the Yu Garden
+area mainly includes two parts: the natural landscape area and the historical architectural area.
+The garden has natural functions, such as climate regulation, water resource conservation, and soil and
+water maintenance. The garden also has social functions, including recreation, historical structure
+preservation, and commercial endeavors. These broad functions reﬂect the unity of nature and society
+in the contemporary Yu Garden.
+In terms of landscape variations, two general types of landscapes exist in Yu Garden and nearby
+blocks: the area labeled “A” in Figure 1 depicts a primitive classical garden area. The area has
+higher vegetation coverage, more natural elements, better preservation of historical sites, and lighter
+traces of artiﬁcial transformation compared to the other area. Its main functions include rest and
+relatively passive appreci
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 depicts a primitive classical garden area. The area has
+Figure 1. Natural and artiﬁcial environments. The area labeled “A” in Figure 1 is a primitive classical
+Figure 2. To reveal the trade-oﬀs between residents’ perceptions of artiﬁcial
+Figure 2 [15].
+Figure 2. Photos illustrating urban garden forms. This study further divided the Yu Garden into
+Table 1).
+Figure 3). The sound-level measurement range was 30–130 dBA, and an A-weighted
+Table 1. Inﬂuencing factors of residents’ preferences for urban garden forms.
+Figure 3. Smart Sensor Digital Sound Level Meter AS804.
+Table 2). Among all the respondents, the proportion of males
+Table 2. Descriptive statistics of samples.
+Figure 4).
+Figure 4. Sound levels at diﬀerent observation points in Yu Garden.
+Table 3.
+Table 3. Results of the preference, subjective loudness, and landscape-soundscape coordination analysis
+Table 3 shows that the higher the subjective loudness of artiﬁcial sound,
+Table 4. The proportion of
+Table 4. The residents’ preferences of urban garden forms.
+Figure 5a, the red dotted line indicates the location of the main street outside Yu Garden, while
+Figure 5b, the yellow dotted line indicates the location of
+Figure 5. Spatial characteristics of the modern commercial area and cultural heritage area. In (a),
+Figure 6a, the green dots indicate the location of the main scenic areas in Yu Garden. In Figure 6b,
+Figure 6. Spatial characteristics of the historical preservation area and natural and ecological area.
+Table 5). Options 1, 2, and 3 were set as
+Table 5. Maximum likelihood estimation via multinomial logit regression for four urban garden forms.

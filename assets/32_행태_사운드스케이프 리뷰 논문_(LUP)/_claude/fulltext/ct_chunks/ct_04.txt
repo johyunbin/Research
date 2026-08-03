@@ -1,0 +1,428 @@
+### REC 322 | tier=T2 | route=forward | 2024 | Applied Sciences
+TITLE: Estimation of the Occurrence and Significance of Noise Effects on Pedestrians Using Acoustic Variables Related to Sound Energy in Urban Environments
+DOI: 10.3390/app142311212
+
+### REC 323 | tier=T2 | route=forward | 2018 | Miscellanea Geographica
+TITLE: Urban soundscape preferences in relation to the function of a place: Case studies in Warsaw
+DOI: 10.2478/mgrsd-2018-0027
+
+### REC 324 | tier=T2 | route=forward | 2023 | Disability and Rehabilitation
+TITLE: Evaluation of three pedestrian phasing with audible pedestrian signals configurations in Quebec City (Canada): an exploratory study of blind or visually impaired persons’ sense of safety, preferences, and expectations
+DOI: 10.1080/09638288.2023.2200260
+
+### REC 325 | tier=T2 | route=forward | 2025 | Sustainable Cities and Society
+TITLE: Characterizing urban soundscapes via facial action coding system
+DOI: 10.1016/j.scs.2025.106918
+
+### REC 326 | tier=T2 | route=forward | 2023 | Pertanika journal of social science & humanities
+TITLE: Influence of Perceived Soundscape and Sound Environment on Subjective Well-being of Park Visitors
+DOI: 10.47836/pjssh.31.4.14
+
+### REC 327 | tier=T2 | route=forward | 2022 | Noise & Vibration Worldwide
+TITLE: Evaluation of the soundscapes through the cafe terraces before and after the COVID-19 lockdown in coastal cities in Algeria
+DOI: 10.1177/09574565221114660
+
+### REC 328 | tier=T2 | route=forward | 2025 | Basic and Applied Ecology
+TITLE: Social-ecological relationships on biodiverse and health-promoting city soundscapes
+DOI: 10.1016/j.baae.2025.12.007
+
+### REC 329 | tier=T2 | route=forward | 2025 | Urban forestry & urban greening
+TITLE: Soundscape diversity in urban green spaces: Spatial-temporal variations, influencing factors and optimization strategies
+DOI: 10.1016/j.ufug.2025.128929
+
+### REC 330 | tier=T2 | route=forward | 2025 | Social Indicators Research
+TITLE: Measuring the Psychological Benefits of Green Space Usage: Development and Validation of the Green Space Use Satisfaction Scale
+DOI: 10.1007/s11205-025-03536-7
+
+### REC 331 | tier=T2 | route=forward | 2025 | Buildings
+TITLE: Soundscape Preferences and Cultural Ecosystem Services in the Grand Canal National Cultural Park: A Case Study of Tongzhou Forest Park
+DOI: 10.3390/buildings15132360
+
+### REC 332 | tier=T2 | route=forward | 2020 | Environmental Research
+TITLE: Evaluation of urban inland waterway traffic noise using a modified Nord 2000 prediction model
+DOI: 10.1016/j.envres.2020.109437
+
+### REC 333 | tier=T2 | route=forward | 2022 | Society & Natural Resources
+TITLE: Toward Healthier Parks and People through Integrated Soundscape Research: Applying the International Organization for Standardization Acoustic Environment Taxonomy across Contexts
+DOI: 10.1080/08941920.2022.2085350
+
+### REC 334 | tier=T2 | route=forward | 2024 | Cities & Health
+TITLE: An examination of urban green spaces usage behaviours and self-perceived mental health benefits: findings from two urban green neighbourhoods in Pakistan
+DOI: 10.1080/23748834.2024.2348296
+
+### REC 335 | tier=T2 | route=forward | 2022 | i-com
+TITLE: EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas
+DOI: 10.1515/icom-2022-0020
+
+### REC 336 | tier=T2 | route=forward | 2026 | Transportation Research Part A Policy and Practice
+TITLE: Social-psychological determinants and nonlinear thresholds: behavioral insights into urban air mobility adoption as an airport shuttle
+DOI: 10.1016/j.tra.2025.104856
+
+### REC 337 | tier=T2 | route=forward | 2021 | Buildings
+TITLE: Effect of Lane Narrowing Implemented on an Urban Dual Carriageway on Speed Reduction and Acoustic Environment
+DOI: 10.3390/buildings12010031
+
+### REC 338 | tier=T2 | route=forward | 2025 | Frontiers in Psychology
+TITLE: Social media-driven behavioral mechanisms for sustainable park governance: a analysis of visitation intentions
+DOI: 10.3389/fpsyg.2025.1647976
+
+### REC 339 | tier=T2 | route=forward | 2023 | Buildings
+TITLE: Assessing the Soundscape Characteristics of Historical Urban Environments: An Analysis of the Historical Erbil Citadel and Its Environments
+DOI: 10.3390/buildings13123091
+
+### REC 340 | tier=T2 | route=forward | 2025 | Building and Environment
+TITLE: Impact of visual environment on soundscape in urban commercial spaces
+DOI: 10.1016/j.buildenv.2025.113903
+
+### REC 341 | tier=T2 | route=forward | 2025 | Land
+TITLE: Effect of Visual Quality of Street Space on Tourists’ Stay Willingness in Traditional Villages—Empirical Evidence from Huangcun Village Based on Street View Images and Machine Learning
+DOI: 10.3390/land14081631
+
+### REC 342 | tier=T2 | route=forward | 2025 | Sustainability
+TITLE: Sensory Heritage Is Vital for Sustainable Cities: A Case Study of Soundscape and Smellscape at Wong Tai Sin
+DOI: 10.3390/su17167564
+
+### REC 343 | tier=T2 | route=forward | 2025 | Cities
+TITLE: Women's walking behavior: Investigating contributing factors in urban contexts
+DOI: 10.1016/j.cities.2025.106467
+
+### REC 344 | tier=T2 | route=forward | 2025 | Buildings
+TITLE: Effect of Coniferous Tree–Shrub Mixtures on Traffic Noise Reduction in Public Spaces
+DOI: 10.3390/buildings15234266
+
+### REC 345 | tier=T2 | route=forward | 2023 | Mehmet Akif Ersoy Üniversitesi Fen Bilimleri Ensti
+TITLE: GIS Based Urban Noise Pollution Analysis and Mapping: The Case of Antalya, Turkey
+DOI: 10.29048/makufebed.1255910
+
+### REC 346 | tier=T2 | route=forward | 2024 | Landscape Architecture
+TITLE: Research on Influence Mechanism of Park Green Space Characteristics on Physical Activity: A Case Study of Nanjing
+DOI: 10.3724/j.fjyl.202402010079
+
+### REC 347 | tier=T2 | route=forward | 2025 | Leisure Sciences
+TITLE: Natural Sounds vs. Favorite Music: Which Is the More Restorative Indoor Leisure Activity When Listened to Repeatedly?
+DOI: 10.1080/01490400.2024.2446802
+
+### REC 348 | tier=T2 | route=forward | 2025 | Sensors
+TITLE: Noise Levels Due to Commercial and Leisure Activities in Urban Areas: Experimental Validation of a Numerical Model Fed with Crowd Density Estimation Using Computer Vision
+DOI: 10.3390/s25123604
+
+### REC 349 | tier=T2 | route=forward | 2023 | Biodiversity Science
+TITLE: Spatiotemporal characteristics and influencing factors of animal soundscape in urban green spaces
+DOI: 10.17520/biods.2022359
+
+### REC 350 | tier=T2 | route=forward | 2024 | Leisure Sciences
+TITLE: How Do Awareness, Perceptions, and Expectations of an Urban Greenway Influence Residents’ Visits and Recreational Physical Activity? Evidence From the Connswater Community Greenway, Belfast, Northern Ireland
+DOI: 10.1080/01490400.2024.2335918
+
+### REC 351 | tier=T2 | route=forward | 2019 | Noise Mapping
+TITLE: Sonic environment of Singapore Botanic Gardens and benchmarking with various urban gardens of the world
+DOI: 10.1515/noise-2019-0007
+
+### REC 352 | tier=T2 | route=forward | 2024 | Environment and Urbanization Asia
+TITLE: Does Urban Livability Lead to Place Attachment and Behavioural Intentions? Case Study: Isfahan City
+DOI: 10.1177/09754253241233781
+
+### REC 353 | tier=T2 | route=forward | 2024 | International Journal of Religion
+TITLE: The Effects of Recreational Involvement in Urban Wetland Parks on Tourists' Environmentally Responsible Behavior: The Chain-Mediated Effects of Well-Being and Loyalty
+DOI: 10.61707/qvky7773
+
+### REC 354 | tier=T2 | route=forward | 2025 | Building Simulation
+TITLE: Assessing the spatial variation of soundscape perception in high-density urban mountain parks
+DOI: 10.1007/s12273-025-1387-7
+
+### REC 355 | tier=T2 | route=forward | 2026 | Environmental Monitoring and Assessment
+TITLE: Study on the influence of urban park landscape space structure on boundary soundscape characteristics
+DOI: 10.1007/s10661-026-15458-z
+
+### REC 356 | tier=T2 | route=forward | 2025 | Journal of Urbanism International Research on Plac
+TITLE: Soundscape and public realm – a quasi-experimental comparison between Individual Vocabulary Profiling and Public Space Index assessments during COVID-19 lockdown
+DOI: 10.1080/17549175.2025.2529175
+
+### REC 357 | tier=T2 | route=forward | 2025 | Cities
+TITLE: Analyzing pocket park locations and pedestrian accident rates using Generative Adversarial Networks
+DOI: 10.1016/j.cities.2025.106341
+
+### REC 358 | tier=T2 | route=forward | 2025 | Applied Acoustics
+TITLE: Brain activity and restorative effects of birdsong at different sound pressure levels: An electroencephalographic study
+DOI: 10.1016/j.apacoust.2025.111155
+
+### REC 359 | tier=T2 | route=forward | 2026 | International Planning Studies
+TITLE: Exploring the emotional effects of urban street design through virtual reality and electrodermal activity
+DOI: 10.1080/13563475.2026.2621852
+
+### REC 360 | tier=T2 | route=forward | 2026 | Computers Environment and Urban Systems
+TITLE: Decoding urban soundscapes: spatial prediction and influence mechanism analysis with interpretable semi-supervised learning
+DOI: 10.1016/j.compenvurbsys.2026.102412
+
+### REC 361 | tier=T2 | route=forward | 2025 | Health & Place
+TITLE: Inequalities in road traffic noise exposure levels in greenspaces in Greater London
+DOI: 10.1016/j.healthplace.2025.103536
+
+### REC 362 | tier=T2 | route=forward | 2025 | Scientific Reports
+TITLE: Restorativeness and pleasantness shape tranquility in high-density urban residential soundscapes
+DOI: 10.1038/s41598-025-26459-2
+
+### REC 363 | tier=T2 | route=forward | 2026 | Applied Sciences
+TITLE: Soundscape-Informed Urban Planning and Architecture in Historic Centers: A Multi-Layer Method for Soundscape Characterization Applied to Bilbao Old Town
+DOI: 10.3390/app16083630
+
+### REC 364 | tier=T2 | route=forward | 2022 | International Journal of Environmental Sciences
+TITLE: ENVIRONMENTAL POLLUTION: EFFECT ON PEDESTRIANS WHILE WALKING IN URBAN STREET
+DOI: 10.47604/ijes.1436
+
+### REC 365 | tier=T2 | route=forward | 2024 | Journal of Degraded and Mining Lands Management
+TITLE: Peri-urban forests: an exploratory study of users' recreational activities: The case of the El Meridj-Est recreational forest in Constantine, Algeria
+DOI: 10.15243/jdmlm.2024.113.5695
+
+### REC 366 | tier=T2 | route=forward | 2024 | Cities & Health
+TITLE: How parental satisfaction with green open spaces shapes children’s outdoor play considering independent mobility as the key mediator
+DOI: 10.1080/23748834.2024.2421100
+
+### REC 367 | tier=T2 | route=forward | 2012 | Lowland Technology International
+TITLE: THREE ELEMENTS STRUCTURE AND SOUND EXPECTATION CONCEPT IN SOUNDSCAPE -- A CASE STUDY OF THE NEW LAKESIDE PARK, HANG ZHOU
+DOI: 
+
+### REC 368 | tier=T2 | route=forward | 2012 | SoundEffects - An Interdisciplinary Journal of Sou
+TITLE: Ordinary sonic public space. Sound perception parameters in urban public spaces and sonic representations associated with urban forms
+DOI: 10.7146/se.v2i1.5231
+
+### REC 369 | tier=T2 | route=forward | 2025 | Transport Policy
+TITLE: Identifying the effect of street network system on activity behaviours near the homes of older adults: An analytical framework integrating transportation, social, and natural attributes
+DOI: 10.1016/j.tranpol.2025.05.015
+
+### REC 370 | tier=T2 | route=forward | 2024 | Korean Journal of Environment and Ecology
+TITLE: Analysis of Soundscape Characteristics of Urban Park Using Acoustic Indices&lt;sup&gt;1a&lt;/sup&gt;
+DOI: 10.13047/kjee.2024.38.4.405
+
+### REC 371 | tier=T2 | route=forward | 2024 | Journal of Transport & Health
+TITLE: Three pedestrian phasing with audible pedestrian signals configurations: Experience of blind or visually impaired persons in Quebec City (Canada)
+DOI: 10.1016/j.jth.2024.101938
+
+### REC 372 | tier=T2 | route=forward | 2025 | Population Space and Place
+TITLE: Spatiotemporal‐Behavior‐Based Neighborhood Interaction Opportunities and Subjective Neighborhood Perception in Mixed‐Housing Neighborhoods: A Case Study of Fuzhou, China
+DOI: 10.1002/psp.2881
+
+### REC 373 | tier=T2 | route=forward | 2026 | Environmental Impact Assessment Review
+TITLE: Health-related activity outcomes of visual characteristics in urban green spaces: An on-site comparison between self-reported and observed activities
+DOI: 10.1016/j.eiar.2026.108451
+
+### REC 374 | tier=T2 | route=forward | 2025 | Buildings
+TITLE: Evaluating Perceived Resilience of Urban Parks Through Perception–Behavior Feedback Mechanisms: A Hybrid Multi-Criteria Decision-Making Approach
+DOI: 10.3390/buildings15142488
+
+### REC 375 | tier=T2 | route=forward | 2026 | Ecological Indicators
+TITLE: Urban soundscape service-supply potential: Proxy-based open-data screening for soundscape resource planning
+DOI: 10.1016/j.ecolind.2026.115162
+
+### REC 376 | tier=T2 | route=forward | 2024 | Urban Science
+TITLE: Perceptual Differences in Urban Soundscape Assessment Using Protocol Proposed in Method a of the ISO/TS 12913–2: A Cross-Language Comparison between Arabic and French Attributes
+DOI: 10.3390/urbansci8030116
+
+### REC 377 | tier=T2 | route=forward | 2025 | Music & Science
+TITLE: Bringing the Coastline to the City: Laboratory Evaluation of Urban Soundscapes in the Presence of Ambient Sound art
+DOI: 10.1177/20592043251384052
+
+### REC 378 | tier=T2 | route=forward | 2026 | International Journal of Environmental Research an
+TITLE: Pedestrians’ Perceptions of Motorized Traffic in Suburban–Rural Areas of a Metropolitan Region: Exploring Measurement Perspectives
+DOI: 10.3390/ijerph23020206
+
+### REC 379 | tier=T2 | route=forward | 2026 | Applied Acoustics
+TITLE: Evaluation of soundscape authenticity in historic districts: weighted formulae and spatial typology-based sound selection
+DOI: 10.1016/j.apacoust.2026.111301
+
+### REC 380 | tier=T2 | route=forward | 2026 | Advanced International Journal of Business Entrepr
+TITLE: CONCEPTUALISING SOUNDSCAPE PREFERENCE IN HIGH-TRAFFIC COMMERCIAL STREETS
+DOI: 10.35631/aijbes.827017
+
+### REC 381 | tier=T2 | route=forward | 2026 | Applied Acoustics
+TITLE: Understanding compact urban university campus soundscapes: A cluster-based analysis of sound sources and student perceptual responses
+DOI: 10.1016/j.apacoust.2026.111386
+
+### REC 382 | tier=T2 | route=forward | 2026 | Acta Acustica
+TITLE: Introducing short informational-attentional masking sounds to improve staying in pocket urban parks: a laboratory study
+DOI: 10.1051/aacus/2026051
+
+### REC 383 | tier=T2 | route=forward | 2026 | PLoS ONE
+TITLE: Exploring the relationship between mental health and urban green space soundscapes: A scoping review
+DOI: 10.1371/journal.pone.0344125
+
+### REC 384 | tier=T2 | route=forward | 2026 | Sustainable Cities and Society
+TITLE: Nonlinear responses of perceived soundscape restorativeness to spatiotemporal drivers in urban forest park
+DOI: 10.1016/j.scs.2026.107411
+
+### REC 385 | tier=T2 | route=forward | 2021 | Revista Nacional de Gerenciamento de Cidades
+TITLE: Characterisation of the soundscape of parks and green areas through the triangulation of methodologies proposed by ISO/TS 12913-2
+DOI: 10.17271/2318847297120212955
+
+### REC 386 | tier=T2 | route=forward | 2023 | Scientific Papers of Silesian University of Techno
+TITLE: The soundscape of city parks in public perception on the example of Gliwice’s Grunwald Park
+DOI: 10.29119/1641-3466.2023.183.31
+
+### REC 387 | tier=T2 | route=forward | 2024 | ISPRS International Journal of Geo-Information
+TITLE: A Quantitative and Qualitative Experimental Framework for the Evaluation of Urban Soundscapes: Application to the City of Sidi Bou Saïd
+DOI: 10.3390/ijgi13050152
+
+### REC 388 | tier=T2 | route=forward | 2024 | Civil Engineering and Architecture
+TITLE: Community Behavior in Public Gray Open Spaces, Case Study: Merbau Square, Banyumanik-Semarang
+DOI: 10.13189/cea.2024.120440
+
+### REC 389 | tier=T2 | route=forward | 2024 | MEGARON / Yıldız Technical University Faculty of A
+TITLE: Predicting the urban sound environment pleasantness with the soundscape approach by fuzzy SMRGT method: A case study in Diyarbakır Suriçi
+DOI: 10.14744/megaron.2024.76736
+
+### REC 390 | tier=T2 | route=forward | 2025 | Journal of Resources and Ecology
+TITLE: The Impact of Parental and Park Factors on Children's Urban Park Use in Shanghai, China
+DOI: 10.5814/j.issn.1674-764x.2025.03.019
+
+### REC 391 | tier=T2 | route=forward | 2025 | PRESENCE Virtual and Augmented Reality
+TITLE: The Impact of Auditory Traffic Perception on Pedestrians’ Street-Crossing Behavior: Insights from Real and Virtual Environments
+DOI: 10.1162/pres.a.8
+
+### REC 392 | tier=T2 | route=forward | 2025 | Scientific Reports
+TITLE: Study on the restorative benefits of four behavioural patterns of urban landscape forests under seasonal change
+DOI: 10.1038/s41598-025-09526-6
+
+### REC 393 | tier=T2 | route=forward | 2025 | Intelligent Buildings International
+TITLE: Literature review on urban landscape and behavioural science: examining past research and proposing probabilistic and optimization frameworks for advancing future methodological approaches
+DOI: 10.1080/17508975.2025.2548547
+
+### REC 394 | tier=T2 | route=forward | 2025 | Revista CEFAC
+TITLE: Measurements of urban noise and its impact on human health: A scoping review
+DOI: 10.1590/1982-0216/20252732924
+
+### REC 395 | tier=T2 | route=forward | 2025 | Ecological Informatics
+TITLE: Associations among park features, physical activities, and sensory perceptions from online reviews: A domain-specific named entity recognition model
+DOI: 10.1016/j.ecoinf.2025.103548
+
+### REC 396 | tier=T2 | route=forward | 2025 | Scientific Reports
+TITLE: Short-term analysis of urban noise dynamics during covid-19 lockdown using a machine learning approach in Mashhad, Iran
+DOI: 10.1038/s41598-025-29011-4
+
+### REC 397 | tier=T2 | route=forward | 2025 | Applied Spatial Analysis and Policy
+TITLE: Beyond the Sound Source Itself: how Daily Activities and Demographics Influence Residential Soundscape Perception and Satisfaction
+DOI: 10.1007/s12061-025-09779-8
+
+### REC 398 | tier=T2 | route=forward | 2026 | Urban Planning
+TITLE: Geogame‐Based Simulation for Active Mobility Planning in Socially Sustainable Cities
+DOI: 10.17645/up.10590
+
+### REC 399 | tier=T2 | route=forward | 2026 | Tourism Recreation Research
+TITLE: How does destination soundscape promote tourists’ pro-environmental behaviour? A Reasonable Person Model
+DOI: 10.1080/02508281.2025.2611770
+
+### REC 400 | tier=T2 | route=forward | 2026 | Pamukkale Journal of Sport Sciences
+TITLE: Psychometric Properties of the Turkish Version of the Green Space Use Satisfaction Scale
+DOI: 10.54141/psbd.1744497
+
+### REC 401 | tier=T2 | route=forward | 2026 | The Anthropocene Review
+TITLE: Examining the role outdoor recreation systems play in changing small temperate aquatic ecosystem soundscapes
+DOI: 10.1177/20530196261419125
+
+### REC 402 | tier=T2 | route=forward | 2026 | Landscape and Ecological Engineering
+TITLE: The effect of park quality on health benefits: mediating roles of behavioral patterns
+DOI: 10.1007/s11355-026-00712-w
+
+### REC 403 | tier=T2 | route=forward | 2026 | Sustainability
+TITLE: Quantifying Spatiotemporal Characteristics of Urban Wetland Soundscapes and Their Associative Pathways Regulating Restorative Benefits
+DOI: 10.3390/su18083783
+
+### REC 404 | tier=T2 | route=forward | 2026 | Environmental Monitoring and Assessment
+TITLE: The hidden cost of urban noise: spatiotemporal heterogeneity, environmental burden, and economic valuation across major Chinese cities
+DOI: 10.1007/s10661-026-15330-0
+
+### REC 405 | tier=T2 | route=forward | 2026 | Landscape and Ecological Engineering
+TITLE: Unveiling hidden inequities: a dual-perspectives diagnostic framework for pedestrian environment mismatches in urban park accessibility
+DOI: 10.1007/s11355-026-00718-4
+
+### REC 406 | tier=T2 | route=forward | 2026 | International Journal of Remote Sensing
+TITLE: From satellite imagery to perceived noise annoyance: estimating urban sound environment annoyance using remote sensing and machine learning
+DOI: 10.1080/01431161.2026.2672063
+
+### REC 407 | tier=T2 | route=forward | 2026 | Frontiers of Architectural Research
+TITLE: Visual and olfactory perceptions in temporary urban activities: Effects on crowd perception and emotional satisfaction in a high-density urban setting
+DOI: 10.1016/j.foar.2026.04.019
+
+### REC 408 | tier=T2 | route=forward | 2025 | Forests
+TITLE: Spatiotemporal Heterogeneity of Forest Park Soundscapes Based on Deep Learning: A Case Study of Zhangjiajie National Forest Park
+DOI: 10.3390/f16091416
+
+### REC 409 | tier=T2 | route=forward | 2026 | BMC Geriatrics
+TITLE: The association between physical activity level in older adults and community park characteristics: a configural path analysis
+DOI: 10.1186/s12877-026-07051-3
+
+### REC 410 | tier=T2 | route=forward | 2026 | Landscape Architecture
+TITLE: Emotional Mediation of the Effect of Urban Park Audiovisual Elements on Leisure-Time Physical Activity
+DOI: 10.3724/j.fjyl.la20250363
+
+### REC 411 | tier=T2 | route=forward | 2026 | PLoS ONE
+TITLE: Road traffic noise affects annoyance during urban built and forest walks, but not repetitive negative thinking or connectedness with non-human nature: A randomized controlled trial
+DOI: 10.1371/journal.pone.0342906
+
+### REC 412 | tier=T2 | route=forward | 2026 | Humanities and Social Sciences Communications
+TITLE: The synergistic effects of urban soundscapes, building spacing, and green wall on the perceived restorativeness of window views: a VR-based investigation with EEG and psychological assessments
+DOI: 10.1057/s41599-026-07009-1
+
+### REC 413 | tier=T2 | route=forward | 2026 | Journal of Transport Geography
+TITLE: Understanding the cooling and air purification effects of green spaces on running behavior — Evidence from Guangzhou
+DOI: 10.1016/j.jtrangeo.2026.104653
+
+### REC 414 | tier=T2 | route=forward | 2026 | Frontiers in Psychology
+TITLE: Behavioral mapping of multisensory experience and engagement in accessible gardens: a case study of Xuanwu Lake Park, Nanjing
+DOI: 10.3389/fpsyg.2026.1733848
+
+### REC 415 | tier=T2 | route=forward | 2026 | Scientific Reports
+TITLE: An evaluation of the impact of visual attributes of park landscape spaces on the emotional benefits and behavioral intention of younger older adults
+DOI: 10.1038/s41598-026-48324-6
+
+### REC 416 | tier=T2 | route=forward | 2026 | Archives of Public Health
+TITLE: How urban environments structure running behaviour in Beijing during winter, spring, and summer 2024: spatiotemporal patterns and configuration-specific interactions from running trajectory data
+DOI: 10.1186/s13690-026-01919-x
+
+### REC 417 | tier=T2 | route=forward | 2026 | Computers Environment and Urban Systems
+TITLE: Beyond urban form: Introducing dynamic factors in agent-based simulations of pedestrian movement
+DOI: 10.1016/j.compenvurbsys.2026.102439
+
+### REC 418 | tier=T2 | route=forward | 2026 | Sustainable Cities and Society
+TITLE: How do environmental factors influence jogging behaviour across large-scale, small-scale and informal green spaces? A comparative study and sustainable renewal strategy of multi-type green space systems based on crowdsourced data
+DOI: 10.1016/j.scs.2026.107517
+
+### REC 419 | tier=T2 | route=forward | 2026 | Journal of Urban Ecology
+TITLE: Two treatments of birdsong awareness and their influence on human mental well-being in an urban park environment
+DOI: 10.1093/jue/juag013
+
+### REC 420 | tier=T2 | route=forward | 2026 | Frontiers in Public Health
+TITLE: Blue-green spaces, heat stress, and health-supportive public-space use under urban stress: machine learning and SEM evidence from jogging flow in Fuzhou, China
+DOI: 10.3389/fpubh.2026.1870274
+
+### REC 421 | tier=T2 | route=forward | 2026 | Transportation
+TITLE: Perceived traffic safety’s impact on cycling route choice with street-level images
+DOI: 10.1007/s11116-026-10793-z
+
+### REC 422 | tier=T2 | route=forward | 2026 | Sustainable Cities and Society
+TITLE: Prioritizing jogging-friendly streets in active mobility planning: A decision-support framework integrating trajectory evidence and expert judgment
+DOI: 10.1016/j.scs.2026.107693
+
+### REC 423 | tier=T2 | route=forward | 2026 | Frontiers in Public Health
+TITLE: Linking urban park soundscape cognitive image to recreational visitors’ perceived restorativeness: the mediating role of emotional pleasure
+DOI: 10.3389/fpubh.2026.1891815
+
+### REC 424 | tier=T2 | route=forward | 2026 | Journal of Environmental Management
+TITLE: Passive acoustic monitoring captures spatiotemporal dynamics of urban zoo soundscapes
+DOI: 10.1016/j.jenvman.2026.129670
+
+### REC 425 | tier=T2 | route=forward | 2026 | Forests
+TITLE: Extending the Value–Belief–Norm Model with Assigned Value: A Study on Visitors’ Pro-Environmental Behavior in Forest Ecosystems of National Parks
+DOI: 10.3390/f17030381
+
+### REC 426 | tier=T2 | route=forward | 2026 | Acta Acustica
+TITLE: Soundscape analysis in urban areas of high heritage value – The case study of Coimbra
+DOI: 10.1051/aacus/2026034
+
+### REC 427 | tier=T2 | route=forward | 2026 | GeoJournal
+TITLE: Urban rhythms and sonic identity: a case study of the Grand Bazaar of Rasht, Iran
+DOI: 10.1007/s10708-026-11638-z
+
+### REC 428 | tier=T2 | route=forward | 2026 | Building and Environment
+TITLE: Dynamic Audio-Visual Preference in Waterfront Walking Environments: Effects of Distance-Layered Spatial Structure and Soundscape
+DOI: 10.1016/j.buildenv.2026.115060
+

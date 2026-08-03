@@ -1,0 +1,338 @@
+### RECORD ID=760 | screening_verdict=INCLUDE | year=2021
+JOURNAL: International Journal of Human Capital in Urban Management
+TITLE: Soundscape Assessment in Historical Urban Spaces Using Sound Walk Method and Kano Model
+DOI: 10.22034/ijhcum.2021.01.02
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Int. J. Hum. Capital Urban Manage., 6(1): 11-28, Winter 2021
+*Corresponding Author:
+Email: arsadeghi.shirazu@gmail.com
+Phone: +989173146514 
+Fax: +9871-36131070
+International Journal of Human Capital in Urban Management 
+(IJHCUM)
+Homepage: http://www.ijhcum.net/
+ORIGINAL RESEARCH PAPER
+Soundscape Assessment in Historical Urban Spaces Using Sound Walk Method and 
+Kano Model
+R. Alishahi, A.R. Sadeghi*, M. Sholeh
+Department of Urban Design and Planning, Faculty of Art and Architecture, Shiraz University, Shiraz, Iran
+BACKGROUND AND OBJECTIVES: Sound is one of the most important tools for 
+recognizing urban spaces. Zandieh area of Shiraz as one of the historic context shaped 
+during the ages hase been chosen in order to obtain a proper response to the individual’s 
+perception of urban historic spaces soundscape. The main object of this manuscript 
+achieves a sufficient way in order to organize urban soundscape by utilizing assessments 
+and perception data perceived by users.
+METHODS: The narrative interview method (a sample group of 129 users who were 
+active in space for more than 30 minutes) and behavior observation which are subsets 
+of the sound walking technique have been used; Also, the data which were collected in 
+the previous stage, based on the components of the Kano model, were categorized into 
+three categories of basic, performance and attractiveness. 
+FINDINGS: With regard to the findings and assessments in the case study, it can be 
+inferred that 69% of the urban space’s users perceive noises such as underpass fans’ 
+noise more than any others; Consequently, this has led to the lack of acceptance by 
+space users; Also, it was cleared by interviewing listeners in urban space that 59% of 
+the interviewees have preferred natural Sounds to human and 76% preferred tranquility 
+at the urban environment While only 11% of the users preferred the development of a 
+vibrant space.
+CONCLUSION: Base on that strategies such as planting vegetation in order to prevent 
+the street noise, allocating water bodies in order to have water sound with proper 
+shading and a Desirable view of historical spaces to increase the sense of richness 
+have been presented. Also, in order to achieve an efficient method to improve the 
+soundscapes of urban environments, basic strategies, performance strategies and at last 
+strategies for increasing the attractiveness of urban environments’ soundscape should 
+be implemented.
+©2021 IJHCUM. All rights reserved.
+ARTICLE INFO 
+Article History:
+Received 05 June 2020
+Reviewed 10 July 2020
+Revised 22 August 2020
+Accepted 08 September 2020 
+Keywords:
+Historic Zandieh Area
+Kano Model
+Soundscape
+Sound Walking
+Urban Space
+ABSTRACT
+DOI: 10.22034/IJHCUM.2021.01.02
+NUMBER OF REFERENCES
+44
+NUMBER OF FIGURES
+8
+NUMBER OF TABLES
+5
+Note: Discussion period for this manuscript open until April 1, 2021 on IJHCUM website at the “Show Article.
+Archive of SID
+www.SID.ir
+
+12
+R. Alishahi et al.
+INTRODUCTION
+Cultural spaces are composed of socio-cultural, 
+functional, physical, and sonic environments in their 
+heart (Fig.1, Leus et al, 2015; Hong et al., 2017). In this 
+regard, “sound” and “noise” as two members of the 
+subsets forming sonic environment are of great 
+importance, that majorly due to misconception of 
+their 
+meaning, 
+they 
+are 
+mistakenly 
+used 
+interchangeably in the literature dealing with them 
+(Brambilla et al., 2013; Leus and Herssens, 2015; 
+Carvalho et al., 2019). Therefore, the need to study 
+soundscape as a process based on how citizens 
+perceive sonic environment is important in order to 
+better recognize it (Jennings and Cain, 2013; Steele et 
+al., 2019; Jo and Jeon, 2020). With a quick look at the 
+literature on this subject we can see that designers in 
+the past decades have only sought to eliminate noise 
+based on physical criteria such as sound volume and 
+level, and a purely quantitative and technical look has 
+overshadowed the concept. This became a reality 
+while users’ perception of urban spaces, which is one 
+of the basic pillars of their structure, has been 
+neglected 
+in 
+these 
+studies. 
+Meanwhile, 
+the 
+contradiction between urban spaces, and especially 
+historical environments, with the sonic environment 
+existing in them and lack of a disciplinary method in 
+the form of a coherent framework for properly 
+recognizing, evaluating and analyzing the elements of 
+soundscape in accordance with their context have 
+caused quality degradation of these spaces (Berglund 
+and Nilsson, 2006; Axelsson et al., 2010; Cobianchi et 
+al., 2019; Hong and Jeon, 2017; Liu et al., 2020). 
+Therefore, the present study majorly aims to identify 
+the main components of soundscape and understand 
+it as a generality related to users’ perception of urban 
+space and to provide a disciplined framework and 
+style in order to identify, evaluate, and design 
+soundscape of historical spaces of Islamic-Iranian 
+cities. The issue of soundscape has been ignored in the 
+field of urban studies for many years. Thomas Schafer, 
+for the first time under the World Soundscape Project 
+published in 1977, emphasizing examination of how 
+users perceive urban spaces using interview method, 
+concluded that just by reducing the volume of sound, 
+an ideal sonic environment cannot be achieved 
+(Schafer, 1977). Regarding the different perceptions of 
+professionals and users from soundscape of urban 
+space, Kang in his study entitled “Urban sound 
+environment” published in 2006 concluded that 
+designers’ understanding of soundscape differs from 
+users’ perceptions and this has caused failure of the 
+activities performed in relation to soundscape (Kang, 
+2006). Regarding the executive plans prepared by 
+government agencies, the “Westminster Sound 
+Strategy” guideline was published in 2015 by 
+Westminster Municipality. In this study, given the 
+unique features of the historical heart of this city, the 
+main emphasis has been on creation of calm 
+environments and elimination of noise pollutions 
+(Westminste
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 
+Data 
+collection 
+Data 
+analysis 
+Guideline for 
+prioritization of 
+preferences 
+in the soundscape 
+Narrative 
+interview 
+Recognition 
+of Sonic 
+Environment 
+Soundscape 
+preferences 
+guidelineline 
+Sound 
+Mapping 
+Noise 
+Mapping 
+Kano 
+Model 
+Sound 
+Walking 
+Method 
+Narrative 
+interview 
+Recognition 
+of Sonic 
+Environment 
+Fig. 3: The process of soundscape data collection and analysis
+Archive of SID
+www.SID.ir
+
+18
+Soundscape Assessment in Historical Urban Spaces
+urban space in order to recognize how users perceive 
+soundscape of urban space. Authors believe that 
+each group of questions can indicate the features 
+affecting how users perceive soundscape of urban 
+spaces. Therefore, the questions were evaluated in 
+three natural, artificial, and human levels based on 
+the nature of the sounds existing in urban space. It 
+should be noted that validity of the questions was 
+determined by content validity method (verification 
+by experts) and reliability was determined by 
+Cronbach’s alpha method. In this study, Cronbach’s 
+alpha for all questions of the questionnaire was 0.805. 
+In order to recognize subconscious perception of 
+users, behavioral observation method has been used. 
+In this regard, in the first step, sound sources were 
+identified based on the classification into artificial, 
+human, and natural groups using users’ perceptions 
+and sounds heard by them in narrative interviews, 
+and users’ behaviors were evaluated based on 
+proximity to these sources. The obtained data in this 
+stage was analyzed by content analysis method and 
+was analyzed in comparison with the data obtained 
+from narrative interviews. For this purpose, some 
+points in the case study space were selected for 
+placement of the observer in a way that they do not 
+interfere in the process of users’ behavior. Given the 
+limitations in selecting the sample population in this 
+method, the behavior of users was examined in three 
+twenty-minute intervals in the morning, noon, and 
+night in a working day.
+Evaluation of citizens’ preferences using Kano model
+Due to the complexity of the perception of 
+soundscapes and the diverse perspectives of the 
+various stakeholders, a single approach to assessing 
+interventions is therefore not likely. In fact, a variety 
+of approaches should be considered. As a result, 
+Kano model can be used to facilitate categorization 
+of users’ perceptions of soundscape (Kano, 1984). 
+Given its features and experiences of its being used in 
+world literature (Positive Soundscape Project of the 
+University of Salford), this model can be very effective 
+in providing a suitable framework for designing 
+soundscape of urban spaces (Jennings and Cain, 
+2013). This model consists of a diagram and three 
+main level (Fig. 4). The horizontal axis shows service 
+provision aspects and the vertical axis indicates 
+the level of customer satisfaction. The constituting 
+components are divided into six categories:
+Performance (One-dimensional): 
+This component is a linear characteristic, such 
+that the higher it is, the more satisfaction exists. 
+For example, this component is used in automotive 
+industry in relation to the components of fuel, 
+economy, etc (Jennings and Cain, 2013; Dace et al., 
+2020).
+Basic (Must be): 
+This component works very differently such that 
+its presence does not increase satisfaction much, 
+but in its absence, there will be lack of satisfaction 
+(Jennings and Cain, 2013; Dace et al., 2020; Inayah 
+and Indrawati, 2020).
+Excitement (Attractive): 
+This component is in the opposite point of the 
+basic component such that its absence does not cause 
+much dissatisfaction, but its presence will greatly 
+increase satisfaction. For example, in automotive 
+industry, heating systems and seat quality can be 
+mentioned as examples of this feature (Jennings and 
+Cain, 2013; Inayah and Indrawati, 2020).
+Indifferent: 
+The 
+attributes 
+towards 
+which 
+customers 
+feel indifferent. Fulfillment or absence of these 
+attributes has no effect on customers’ satisfaction or 
+dissatisfaction (Chen and Chuang, 2008; Dace et al., 
+2020).
+Reversal: 
+This attribute brings more satisfaction, if absent, 
+and vice versa (Chen and Chuang, 2008; Dace et al., 
+2020). 
+Questionable: 
+The questionable quality is the one that cannot be 
+mapped because any level of its performance can lead 
+to the customers’ satisfaction or dissatisfaction (Min 
+et al., 2018). In the formal usage of Kano’s methods, 
+questionnaires and other tools are used to categorize 
+the various aspects of a product or service. As a result, 
+the relationship or the attributes are translated into 
+five categories of perceived quality: attractive quality 
+(A), must‐be quality (M), one‐dimensional quality 
+(O), reverse quality (R), and indifferent quality (Min 
+et al., 2018; Dace et al., 2020)(Fig.4). The categories 
+of perceived quality are based on two feelings of 
+Archive of SID
+www.SID.ir
+
+19
+Int. J. Hum. Capital Urban Manage., 6(1): 11-28, Winter 2021
+customers, namely, a feeling experienced when 
+a product has the attribute and a feeling when a 
+product does not have the attribute (Finster et 
+al., 2001), resulting as satisfaction, dissatisfaction, 
+or indifference. The relationship between various 
+quality attributes is nonlinear. In addition, attributes 
+are dynamic—the perception of an attribute by 
+customers will change over time. The attribute can 
+change, for example, from being satisfier (being 
+exciting) to dissatisfier (being expected by default), 
+because once introduced, this attribute initially being 
+exciting will soon be imitated by competitors and 
+expected by customers from every provider (Fig. 4). 
+The methodology uses a structured questionnaire 
+ 
+Fig. 4: Kano Model componentes (Chen and Chuang, 2008)
+How do you feel about water sound in the urban space? 
+1. 
+I like it that way 
+2. 
+I expect it that way 
+3. 
+I am neutral 
+4. 
+I can accept it to be that way 
+5. 
+I dislike it that way 
+How do you feel about absent of water
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig.1, Leus et al, 2015; Hong et al., 2017). In this 
+Table 1) components 
+Table 1: Categorization of urban soundscapes (Dubois et al., 2006; Davies et al., 2013; Liu et al., 2014; Gale et al., 2020; Jeon and Jo, 2020)
+Fig. 1: The status of soundscape studies in the studies on historical spaces of Islamic-Iranian cities (Hong and Jeon, 2017; Leus and 
+Fig. 2: Situation of the urban environment of the case study; source: authors: a) and b) are maps of Shiraz and Zandieh area, respectively 
+Fig. 2) is one of the most important 
+Fig. 2: Situation of the urban environment of the case study; source: authors: a) and b) are maps of Shiraz and Zandieh area, 
+Fig. 3). 
+Fig. 3: The process of soundscape data collection and analysis
+Fig. 4). The horizontal axis shows service 
+Fig.4). The categories 
+Fig. 4). 
+Fig. 4: Kano Model componentes (Chen and Chuang, 2008)
+Table 2: Survey Questions and Analysis method base on the Kano model (Mikulić and Prebežac, 2011)
+Fig. 4) that results in the 
+Table 2). Finally, the frequencies of the correspondent 
+Fig. 5: Soundscape map of the case study
+Fig. 5: Soundscape map of the case study
+Fig. 5), it was found that users have faced 
+Fig. 
+6). In recognizing the behaviors of users, it was 
+Fig. 6: Behavioral patterns of the case study
+Fig. 7) (Table 3).
+Table 3: Kano Model Questionnaire Results
+Fig. 7: Sonic Environment Structure of the case study
+Table 4, and then given the existing 

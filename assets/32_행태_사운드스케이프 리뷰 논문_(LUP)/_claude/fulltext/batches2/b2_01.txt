@@ -1,0 +1,1951 @@
+### RECORD ID=7 | screening_verdict=INCLUDE | year=1978
+JOURNAL: Journal of Social Psychology
+TITLE: Effects of urban noise and sidewalk density upon pedestrian cooperation and tempo
+DOI: 10.1080/00224545.1978.9924035
+PAGES: 8
+
+--- HEAD (title/abstract/intro) ---
+Copyright of Journal of Social Psychology is the property of Taylor & Francis Ltd and its content may not be
+copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
+
+--- METHODS/RESULTS EXCERPT ---
+
+
+--- TABLE/FIGURE CAPTIONS ---
+
+
+======================================================================
+
+### RECORD ID=14 | screening_verdict=INCLUDE | year=1988
+JOURNAL: Journal of Environmental Psychology
+TITLE: Urban stress and helping behavior: Effects of environmental overload and noise on behavior
+DOI: 10.1016/s0272-4944(88)80035-5
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+Journal of Environmental Psychology (1988) 8, 287-298 
+URBAN STRESS AND HELPING BEHAVIOR: 
+EFFECTS OF ENVIRONMENTAL OVERLOAD AND NOISE ON 
+BEHAVIOR 
+GABRIEL MOSER 
+Laboratoire de Psychologie Sociale Appliqude, UniversitO Rend Descartes, Paris' V, 
+France 
+Abstract 
+The effects of environmental overload and noise on helping behavior is assessed 
+through a 2 x 3 experimental design including two levels of environmental overload 
+and three conditions on each site: without roadworks, roadworks without noise, 
+and noisy roadworks. 
+Results are analysed in terms of the cognitive appraisal of the situation and the 
+narrowing of attention. The subject's behavior when confronted with explicit and 
+implicit helping requests shows that noise appears to be the most important com- 
+ponent of overload, affecting both the subjects' attentiveness in implicit helping 
+demands, as well as the refusal to engage in verbal interaction. 
+Since Simmel (1950), who describes urban residents as more reserved, indifferent 
+and latently hostile than rural residents, there has been much concern about social 
+behavior in cities. In large towns people trust one another less (Lowin et al., 1971; 
+Korte and Kerr, 1975), pedestrians look straight ahead, ignoring what is happening 
+immediately around them (Korte and Grant, 1980), often avoiding eye-contact 
+(Newman and McCauly, I977) and are more reluctant to assist a stranger seeking 
+help (Milgram, 1970; Korte, 1978). Essentially three conceptions of the behavioral 
+effects of urban settings can be distinguished: 
+(1) Urban life is stressful. According to Baum et aL (1981), the behavioral effects 
+of urban settings can be explained in terms of reactions to stressful events. People 
+living in large cities are exposed to a variety of stimuli including visual stimuli, 
+noise, pedestrian density, traffic, etc., forming what has been called 'urban stress' 
+(Glass and Singer, 1972). Cities as stressful situations, inhibit activity and produce 
+avoidance reactions (Lazarus and Cohen, 1977). 
+(2) Undesirable or inadequate environments are constraining. Environmental 
+overstimulation produces behavioral constraints (as has been shown in the case of 
+crowding by Stokols, 1978), and can lead to a feeling of losing control. The subject 
+then seeks to gain cognitive control over the inadequate situation by, for instance, 
+isolating himself, engaging thus in behavior described as psychological reactance 
+(Brehm, 1966). If the coping process is unsuccessful, it produces helplessness. The 
+possibility of controlling the noise reduces adaptative stress (Glass and Singer, 1972; 
+Sherrod and Downs, 1974). 
+(3) Environmental overstimulation: urban environments are characterized by a 
+multitude of information demanding the attention and specific responses of urban- 
+ites. The complexity and abundance of urban stimuli produce what has been called 
+0272~4944/88/040287 + 12 $03.00/0 
+© 1988 Academic Press Limited 
+
+288 
+G. Moser 
+'environmental overload' (Cohen, 1978). An individual's capacity to process infor- 
+mation is limited and 'overload' occurs when the urban environment exceeds this 
+limit (Korte, 1978). Subjects exposed to overstimulation tend consequently to neglect 
+or ignore peripheral stimuli (Cohen and Lezak, 1977; Broadbent, 1979) and react 
+more strongly to the dominant aspects of different situations to which they are 
+exposed. 
+In conclusion, it seems that two types of possible effects of urban environments 
+are described: on the one hand the narrowing and focusing of attention, and on the 
+other hand the cognitive appraisal of the stressful condition leading to coping 
+strategies like avoidance reactions (if control of the specific environmental situation 
+seems impossible or if it does not reach expectation). 
+The description of the environmental conditions of cities, as a whole (Milgram, 
+1970) or as specific conditions in some areas of it (Korte, 1980), always includes the 
+noise conditions. The models of the effects of urban environments, whether they 
+refer to urban stressors, to the inadequacy of urban environments, or to environ- 
+mental overload, are often based on laboratory studies concerning the effects of 
+noise on man which extensively show that social responsiveness is largely affected 
+(Bull et al., 1972; Matthews and Cannon, 1975). In spite of the fact that descriptions 
+of the urban environment are essentially based on noise, they do not clearly define 
+its importance in relation to the other urban stressors. Due to the difficulty of 
+isolating noise from the other components in a natural urban setting, researchers 
+referring, for instance, to the concept of 'environmental overload' have not tried to 
+distinguish what is specially due to noise in these effects (Korte and Kerr, 1975 and 
+Korte, 1980). 
+In order to clarify the part played by noise in the effect on social behavior of 
+urban environments with different 'overloads', we introduced an additional stress: 
+the noise of heavy roadworks in two environments, one with overload, the other 
+without overload. Since heavy roadworks also alter the immediate environment by 
+narrowing the available space, thus restricting pedestrian circulation, an intermediate 
+condition has to be taken into account: the noise-free roadwork site. This leads to 
+three conditions per type of environment. Social responsiveness in these environ- 
+mental conditions is analysed through altruistic behavior. The introduction of dif- 
+ferent kinds of helping demands enables the testing of, on one hand, the hypothesis 
+of the narrowing of attention by choosing a helping demand requiring the subjects' 
+attentiveness vs. an explicit and verbal demand, and on the other hand the hypothesis 
+about the desire to avoid an unpleasant noise situation by comparing requests 
+requiring little or much effort. Furthermore, in order to rule out possible bystander- 
+effects in overload conditions for the implicit helping behavior (Latan6 and Darley, 
+1
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 
+The choice of the different helping behaviors 
+The four helping behaviors chosen are expressed in the following parameters: (l) the 
+effort required by the request, and (2) the implicit or explicit nature of the request: a 
+situation where the subject's help is solicited or a situation where the subject is 
+brought to perceive that an intervention on his part corresponds to being helpful. 
+-- For the explicit request requiring little effort, a colleague approaches the subject 
+and asks him where the nearest subway station is. 
+-- For the explicit request requiring much effort, a colleague approaches the subject 
+and asks if he would be kind enough to answer a questionnaire lasting approxi- 
+mately 10 minutes. Solicited by these explicit requests, the subject can: (a) ignore the 
+request without entering into any verbal interaction; (b) indicate his refusal and/or 
+argue his refusal; and (c) agree to the request. 
+-- For the implicit request requiring little effort, a person (the colleague) walking in 
+front of the subject drops his keys when he takes a handkerchief out of his pocket 
+and carries on walking without noticing. Solicited by this request the subject can: 
+(a) not notice that the keys were dropped or notice the keys but ignore them; (b) 
+approach or call the person, telling him that he has lost his keys and/or showing 
+him where they are; pick up the keys, approach the person and hand them back to 
+him. 
+-- For the implicit request requiring much effort, the subject finds a plastic card 
+with the owner's photograph and signature, and the address of a hospital. This card 
+is an imitation diabetic card with a request that anyone finding it should return it 
+urgently. There is no-one in the vicinity likely to have lost the card. The helping 
+behavior in this case, once the situation has been identified, differs in so far as the 
+subject cannot approach a hypothetical owner of the lost card. The possible re- 
+sponses are then: (a) not seeing the card; noticing the card but ignoring it; (b) 
+bending down, reading it but leaving it where it is: picking up the card, reading it 
+and throwing it away; picking up the card, reading it and putting it in a clearly 
+visible place; picking up the card and taking it away; (c) taking it away and for- 
+warding it to the given address. 
+For each of the four helping demands, an observation guide was compiled in 
+order to inventory the types of behavior in terms of the possible responses. 
+Choice of sites 
+Two types of sites have been determined: one having low environmental overload, 
+and the other being overloaded. In addition, in order to introduce extra noise stress 
+to both sites, we made use of the presence of municipal roadwork sites, with intense 
+noise caused by pneumatic drills, particularly when the road surface is being dug 
+up. However, the presence of roadworks is liable in any case to cause a noticeable 
+disturbance, regardless of the additional noise. In order to analyse and isolate the 
+effects of the intense noise from those caused by the presence of the roadworks 
+themselves, we compared, on each site, the three following conditions: (1) a condition 
+without roadworks; (2) the presence of roadworks without the noise of pneumatic 
+drills ('dormant' or noise-free roadwork site); and (3) the presence of roadworks 
+together with the noise of pneumatic drills. 
+
+290 
+G. Moser 
+TABLE 1 
+Criteria for defining environmental overload 
+Without overload 
+With overload 
+Ambient noise 
+Quiet period 
+< 60 dBA 
+> 60 dBA 
+Peak period 
+> 70 dBA 
+> 70 dBA 
+Average flow of pedestrians 
+< 250/h 
+> 250/h 
+Average traffic flow 
+< 250/h 
+> 350/h 
+Number of shops* 
+< 2 
+> 2 
+* The number of shops implies those in the immediate vicinity of the site and on 
+the same side of the street as the roadworks. 
+TABLE 2 
+Measurement of noise and flow 
+Average noise 
+Flow (n/hr) 
+Shops 
+Quiet 
+Traffic 
+Traffic 
+Pedestrians 
+(n) 
+Without overload 
+rue Mademoiselle 
+54 dBA 
+76 dBA 
+180/hr 
+. 90/hr 
+2 
+rue Chabri~re 
+53 dBA 
+70 dBA 
+55/hr 
+25/hr 
+2 
+rue Ch6rioux 
+57 dBA 
+78 dBA 
+220/hr 
+220/hr 
+0 
+rue Blomet 
+50 dBA 
+72 dBA 
+180/hr 
+140/hr 
+1 
+With overload 
+rue de Vouill6 
+65 dBA 
+74 dBA 
+900/hr 
+420/hr 
+6 
+rue Beuret 
+68 dBA 
+80 dBA 
+350/hr 
+350/hr 
+3 
+rue Netter 
+56 dBA 
+73 dBA 
+530/hr 
+320/hr 
+3 
+rue Lecourbe 
+62 dBA 
+78 dBA 
+770/hr 
+260/hr 
+10 
+The presence of large roadworks and the type of population (districts of Paris 
+reputed to have business buildings as well as low- and high-standard residential 
+buildings) guided the choice of the experimental sites from a list of projected road- 
+works provided by the Highway Department at the ParisTown Hall.* All the sites 
+chosen, except one, are located within the XVth district of Paris. 
+The list of possible sites was then analysed in terms of environmental descriptions. 
+Since overall environmental criteria have to be considered with respect to general 
+standards of the urban environment, we considered the maximum and the minimum 
+on each criterion (Table 1). 
+We consequently considered a site as having a low or high overload, depending 
+on whether it presented all the criteria simultaneously, allowing it to be classified as 
+being environmentally overloaded or not. 
+The sites chosen, i.e., those where the observations were carried out, have the 
+following characteristics (Table 2). 
+Environmental overload being most often characterised by dense traffic, the level 
+of ambient noise, even in the 'quiet' period, is relatively higher than in places without 
+overload. Conversely, in the case of low overload (situation 'without overload'), 
+* Our thanks are due to M. Hattenberger, Information Officer with the Highway Department, for his 
+kind collaboration. 
+
+Urban Stress and Helping Behavior 
+291 
+there is a much greater contrast in the noise level for the two situations ('quiet' and 
+'peak'). Thus, the difference between the noise levels in the quiet and in the peak 
+periods largely determines the overloa
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). 
+Table 2). 
+Table 3 gives the results of subjects confronted by the 
+Table 4). In the case of environmental overload, the 
+Table 5 shows the behavior of subjects in the lost card 
+
+======================================================================
+
+### RECORD ID=53 | screening_verdict=INCLUDE | year=2004
+JOURNAL: ERGONOMICS
+TITLE: Directional guidance from audible pedestrian signals for street crossing
+DOI: 10.1080/00140130410001712609
+PAGES: 22
+
+--- HEAD (title/abstract/intro) ---
+Ergonomics
+ISSN: 0014-0139 (Print) 1366-5847 (Online) Journal homepage: www.tandfonline.com/journals/terg20
+Directional guidance from audible pedestrian
+signals for street crossing
+Robert S Wall, Daniel H Ashmead, Billie Louise Bentzen & Janet Barlow
+To cite this article: Robert S Wall, Daniel H Ashmead, Billie Louise Bentzen & Janet Barlow
+(2004) Directional guidance from audible pedestrian signals for street crossing, Ergonomics,
+47:12, 1318-1338, DOI: 10.1080/00140130410001712609
+To link to this article: https://doi.org/10.1080/00140130410001712609
+Published online: 20 Feb 2007.
+Submit your article to this journal 
+Article views: 446
+View related articles 
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=terg20
+
+Directional guidance from audible pedestrian signals for street
+crossing
+ROBERT S. WALL{*, DANIEL H. ASHMEAD{, BILLIE LOUISE BENTZEN} and
+JANET BARLOW}
+{Western Michigan University, Kalamazoo, Michigan, USA
+{Vanderbilt University Medical Centre, Nashville, Tennessee, USA
+}Boston College and Accessible Design for the Blind, Boston, Massachusetts,
+USA
+Keywords: Blind; Visual impairment; Pedestrian; Street crossing; Audible signal;
+Accessible signal.
+Typical audible pedestrian signals indicate when the pedestrian walk interval is in
+eﬀect but provide little, or even misleading information for directional alignment.
+In three experiments, blind and blindfolded sighted adults crossed a simulated
+crossing with recorded traﬃc noise to approximate street sounds. This was done to
+investigate how characteristics of signal presentation aﬀected usefulness of the
+auditory signal for guiding crossing behaviour. Crossing was more accurate when
+signals came only from the far end of the crossing rather than the typical practice of
+presenting signals simultaneously from both ends. Alternating the signal between
+ends of the crossing was not helpful. Also, the customary practice of signalling two
+parallel crossings at the same time drew participants somewhat toward the
+opposite crossing. Providing a locator tone at the end of the crossing during the
+pedestrian clearance interval improved crossing accuracy. These ﬁndings provide a
+basis for designing audible pedestrian signals to enhance directional guidance. The
+principal ﬁndings were the same for blind and sighted participants and applied
+across a range of speciﬁc signals (e.g. chirps, clicks, voices).
+1.
+Introduction
+The opportunity for pedestrians to cross streets is essential for environmental
+accessibility, yet this is a risky activity. In the USA 4906 pedestrians were fatally
+injured by motor vehicles in 1999, accounting for 11.2% of all transportation-related
+deaths (US Department of Transportation 2000). Half of these fatalities were
+attributed to pedestrians being in the roadway at an unsafe place or time. Safe
+pedestrian travel requires prudent decisions about when to cross streets as well as the
+ability to cross accurately and eﬃciently (Bentzen et al. 2000, Carroll and Bentzen
+2000, Yauch and Davis 2001). The concept of universal design of the built
+environment assumes that many individuals with disabilities can travel indepen-
+dently if they have access to the right information (Bentzen 1997). However,
+*Author for correspondence. Western Michigan University, Department of Blind Rehab-
+ilitation and Low Vision Studies, 1903 West Michigan, Mail Stop 5218, Kalamazoo, MI 49008,
+USA. e-mail: robert.wall@wmich.edu
+Ergonomics ISSN 0014-0139 print/ISSN 1366-5847 online # 2004 Taylor & Francis Ltd
+http://www.tandf.co.uk/journals
+DOI: 10.1080/00140130410001712609
+ERGONOMICS, 10 OCTOBER, 2004, VOL. 47, NO. 12, 1318 – 1338
+
+pedestrians with visual impairments have limited information about the layout of
+streets, crossings, signs, light signals, and traﬃc movements.
+One aspect of universal design is provision of accessible pedestrian signals (APSs)
+at crossings where visible signals are employed. Accessible signals are usually
+auditory but may include tactile arrows and vibration (Hulscher 1976, Oliver 1989,
+Szeto et al. 1991). In the UK, APSs are generally presented from the unit containing
+a pushbutton used to request a crossing signal (Traﬃc Advisory Unit 1991).
+Although the signal may be audible to pedestrians at other locations in the vicinity,
+this system is not designed for directional beaconing and the remote audibility of
+signals is regarded as potentially confusing. In fact, the policy is to avoid using
+audible signals at intersections unless there is a signalized traﬃc interval when all
+vehicles at the intersection are stopped, to avoid confusion about which crossing has
+the walk signal. The primary purpose of such installations of audible signals is to
+convey when the pedestrian walk interval is in eﬀect, just like a visible WALK signal.
+However, to best serve the needs of pedestrians with sensory impairments the wider
+scope of information should be taken into account (Bentzen and Tabor 1998). This
+includes directional guidance provided by audible signals; tones indicating the
+presence and location of a push-button; tactile arrows parallel to the crossing; speech
+messages identifying streets and providing information about the intersection; and
+tones to acknowledge button presses.
+With the increasing complexity of modern intersections and the need to deal with
+high levels of traﬃc volume, pedestrians with visual impairments often require
+assistance in making safe street crossings. Previous research has shown that lowering
+signal-to-noise ratios or introducing competing signals raises minimum audible
+angles (Jacobsen 1976, Perrott 1984) and decreases localizability of sounds (Lorenzi
+et al. 1999a,b). Good and Gilkey (1994, 1996) found that the ability to accurately
+localize sounds decreased when signal-to-noise ratios were decreased and documen-
+ted that front/back accuracy was most strongly aﬀected, followed by up/down
+di
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+2.1.1. Participants:
+The participants were six blind and six sighted adults with
+mean ages of 44 (30 – 54) and 31 (27 – 38) years, respectively. Each group had four
+women and two men. One of the blind participants had minimal light perception and
+the others had no light perception, so none could visually detect the experimental
+apparatus. All blind participants were experienced long cane users with occasional to
+frequent independent travel including street crossings. They were allowed to use a
+cane during testing, but only one chose to do so and her performance did not diﬀer
+from the others. The sighted participants wore a blindfold which did not interfere
+with their hearing. All participants passed a pure tone hearing screening for each ear
+with audiometer tones of 25 dB HL at frequencies of 0.5, 1, 2, and 4 kHz played
+through Telephonics TDH39P earphones.
+2.1.2. Apparatus:
+The setting was a large parking lot containing an artiﬁcial
+crossing as shown in ﬁgure 1. On each end of the 20 m crossing were Tannoy System
+600 loudspeakers on 8-ft stepladders, pointing toward one another. The
+loudspeakers have excellent transmission from 100 through 10 000 Hz. Commer-
+cially available audible pedestrian systems have loudspeakers with poorer trans-
+1321
+Audible pedestrian signals
+
+mission, especially in the low frequencies, because of the demand for weather
+tolerance and small size. In this experiment, however, we wanted to compare various
+signals without the complication of loudspeaker characteristics. Start/ﬁnish lines
+were marked in chalk 2 m in front of each loudspeaker. These lines, corresponding
+to the curb location, deﬁned the starting and ﬁnishing points for each traversal of the
+crossing. The crossing distance was therefore 16 m, or equivalent to about four lanes
+of traﬃc. The start/ﬁnish lines, as well as a halfway line, had hash marks every 0.2 m.
+As the participant walked, an experimenter recorded the lateral deviation from an
+ideal straight crossing at the halfway line and at the ﬁnish line, interpolating to the
+nearest 0.1 m. There were no curbs, nor did any paving features coincide with the
+start/ﬁnish lines, halfway line, or ideal straight travel path. Traﬃc noise from a large
+intersection was pre-recorded using a quality microphone and digital tape deck.
+Samples were recorded when traﬃc in the near lanes was heavy and in motion, thus
+avoiding the initial traﬃc surge as well as quiet periods. During testing, a tape of
+traﬃc noise was played continuously through a public address system with four
+Figure 1. Arrangement for simulated crossings. The study space was a large open parking lot
+extending in all directions. The grey shading indicates streets for purposes of this
+illustration, but there were no actual pavement structures corresponding to streets or
+sidewalks. Open triangles show locations of loudspeakers for audible pedestrian signals.
+Filled diamonds show loudspeakers through which background traﬃc noise was
+presented. Participants used crossing A in all experiments. The curved line diverging
+from crossing A shows an example of a veering path as a pedestrian walks from south to
+north. Error scores were lateral deviations from the ideal straight travel path, measured at
+the halfway and end points. In experiments 2 and 3 the audible pedestrian signals for
+crossing B were activated in addition to those for crossing A on half the trials. The
+drawing scale is not exact.
+1322
+R. S. Wall et al.
+
+loudspeakers placed on the ground. The traﬃc noise averaged 70 dB (A-scale) at the
+middle of the crossing.
+By using four loudspeakers for the background traﬃc noise, these studies
+studied only the ability of pedestrians to make use of signal information within the
+context of a noisy background. No attempt was made to provide directional
+information as would be available from the movement of traﬃc at an actual
+intersection. As such, performance of the task in these studies is a ‘worst case
+scenario’ in which a pedestrian relies only on the signal for guidance and makes
+no use of the auditory cues for alignment and/or guidance from the traﬃc. This
+was done so that the eﬀect of the signal could be separated from the eﬀect of
+traﬃc cues. Other research has performed similar tasks under actual traﬃc
+conditions (Laroche et al. 2001).
+The ﬁve walk signals (chirp, cuckoo, toks, clicks, and voice) are representative of
+signals in wide use or which show promise for directional beaconing. Table 1
+summarizes characteristics of the signals.
+Each signal was stored as a digital ﬁle. The duration of each signal presentation
+was 7 s from start to ﬁnish, although the number of repetitions within that time
+period varied by signal. The 7 s duration corresponds to the standard walk interval
+for a crossing in the USA. All signals were presented at a level of 72 dB (C-scale)
+measured at ear level for a participant standing 2 m from the loudspeaker. The C-
+scale was used because the click signal was concentrated at low frequencies which
+were ﬁltered out by the A-scale. For the sound level measurements only one
+loudspeaker was active. Signal output was through a 16-bit computer sound card
+and Crown D75-A ampliﬁers. By adjusting the ampliﬁers the signal could be
+presented from a single loudspeaker at one end of the crossing or from both
+loudspeakers. These signal modes are designated, respectively, as far end only or
+simultaneous. The sound level from a single loudspeaker dropped by approximately
+6 dB for every doubling of distance to about 54 dB-C at the far end of the crossing.
+2.1.3. Design and procedure:
+The independent variables were signal (chirp, cuckoo,
+toks, clicks, voice) and signal mode (far end only, simultaneous) as repeated-
+measures factors, and vision status (blind, sighted) as a between-groups factor. Each
+participant completed ﬁve blocked trials of each combination of signal and signal
+mode, for a total of 50 trials. For a given signal, the far end only and simultaneous
+Table 1.
+Characteristi
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. Arrangement for simulated crossings. The study space was a large open parking lot
+Table 1
+Table 1.
+Figure 2. Experiment 1, mean total error at endpoint of the crossing for blind and sighted
+Figure 3 shows the mean total
+Figure 3. Experiment 1, mean total error scores at crossing endpoint for individual
+Figure 4. Experiment 2, mean total error at the endpoint of the crossing for the three signal
+Figure 5 shows means
+Figure 5. Experiment 3. Mean total error scores by signal mode and presence of locator tone
+Figure 6 shows the average constant errors
+Figure 6. Experiment 3. Mean constant errors for trials on which the parallel crossing was on
+Table 98, Washington, DC.
+
+======================================================================
+
+### RECORD ID=71 | screening_verdict=INCLUDE | year=2007
+JOURNAL: LANDSCAPE AND URBAN PLANNING
+TITLE: Noise and well-being in urban residential environments:: The potential role of perceived availability to nearby green areas
+DOI: 10.1016/j.landurbplan.2007.03.003
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+Available online at www.sciencedirect.com
+Landscape and Urban Planning 83 (2007) 115–126
+Noise and well-being in urban residential environments: The potential
+role of perceived availability to nearby green areas
+Anita Gidl¨of-Gunnarsson ∗, Evy ¨Ohrstr¨om
+The Sahlgrenska Academy at G¨oteborg University, Department of Occupational and Environmental Medicine,
+Box 414, SE-405 30 G¨oteborg, Sweden
+Received 7 June 2006; received in revised form 1 March 2007; accepted 28 March 2007
+Available online 10 May 2007
+Abstract
+A growing body of literature indicates that contact with nature inﬂuence people’s health and psychological well-being both directly and by
+moderating processes. A questionnaire study was conducted in urban residential settings with high road-trafﬁc noise exposure (LAeq, 24 h = 60–68 dB).
+Out of 500 residents, 367 lived in dwellings with access to a quiet side (LAeq, 24 h ≤45 dB free ﬁeld value; “noise/quiet”-condition) and 133 had
+no access to a quiet side (“noise/noise”-condition). The present paper examines whether perceived availability to nearby green areas affects
+various aspects of well-being in these two noise-condition groups. For both those with and without access to a quiet side, the results show that
+“better” availability to nearby green areas is important for their well-being and daily behavior by reducing long-term noise annoyances and
+prevalence of stress-related psychosocial symptoms, and by increasing the use of spaces outdoors. In the process of planning health-promoting
+urban environments, it is essential to provide easy access to nearby green areas that can offer relief from environmental stress and opportunities
+for rest and relaxation, to strive for lower sound levels from road trafﬁc, as well as to design “noise-free” sections indoors and outdoors.
+© 2007 Elsevier B.V. All rights reserved.
+Keywords: Road trafﬁc; Noise annoyance; Nature; Green space; Restorative environments
+1. Introduction
+For many urban residents, everyday life is ﬁlled with stressful
+situations. Demands from work and family and harmful/adverse
+environmental conditions raise the needs of restoration peri-
+ods. Increasing empirical evidence indicates that nature provides
+restorative experiences that directly affect people’s psychologi-
+cal well-being and health in a positive way (e.g., Ulrich, 1981;
+Kaplan and Kaplan, 1989; Ulrich et al., 1991; Hartig et al., 1996;
+Herzog et al., 1997; Kaplan, 2001; Hartig et al., 2003). There
+are also indications that access to nearby nature can act as a
+buffer or moderator of adverse conditions (Evans, 2003; Wells
+and Evans, 2003).
+A great and growing environmental problem in urbanized
+areas is noise from transport. It has been estimated that about
+∗Corresponding author. Tel.: +46 31 786 36 78/19 29 11 65.
+E-mail addresses: anita.gidlof@amm.gu.se (A. Gidl¨of-Gunnarsson),
+evy.ohrstrom@amm.gu.se (E. ¨Ohrstr¨om).
+80 million (approximately 20%) of the European Union’s pop-
+ulation suffer from noise levels considered unacceptable (above
+65 dB in so-called “black areas”) and an additional 170 million
+are living in “grey areas” exposed to noise levels between 55
+and 65 dB (EC, 1996). Findings from a large body of studies
+show that trafﬁc noise causes non-auditory stress effects such as
+changes in the physiological systems (e.g., elevated blood pres-
+sure), various cognitive deﬁcits (e.g., poor sustained attention,
+memory/concentration problems), sleep disturbances, modiﬁca-
+tions of social behavior, psychosocial stress-related symptoms,
+and emotional/motivational effects (e.g., annoyance, learned
+helplessness) (e.g., WHO, 2000; ¨Ohrstr¨om, 2004; Babisch et al.,
+2005; Stansfeld et al., 2005; Bluhm et al., 2007). The psycho-
+logical stress construct has helped to identify these stress-related
+outcomes and to improve our understanding of how chronic
+noise exposure from trafﬁc affects human health. However, it is
+necessary to extend current stress models to identify and include
+also environmental factors that may moderate the exposure-
+effect relationship by promoting health and well-being (Evans,
+2001). Some previous studies indicate that presence of natural
+0169-2046/$ – see front matter © 2007 Elsevier B.V. All rights reserved.
+doi:10.1016/j.landurbplan.2007.03.003
+
+116
+A. Gidl¨of-Gunnarsson, E. ¨Ohrstr¨om / Landscape and Urban Planning 83 (2007) 115–126
+elements in noise exposed sites have a moderating inﬂuence on
+people’s noise responses. In a large survey on nearly 3000 people
+in 53 residential sites of the Greater London Council, Langdon
+(1976) found that high neighborhood quality in terms of attrac-
+tive appearance, presence of parks and green spaces lowered
+dissatisfaction with trafﬁc noise to a signiﬁcant degree. Similar
+ﬁndings are reported by Kastka and Noack (1987). Therefore,
+our interest in the present study is to examine the potential role
+of nearby green areas in trafﬁc-noise exposed residential areas.
+In a comprehensive review, Kaplan and Kaplan (1989)
+stressedtheimportanceofnatureinurbansettings.Theavailabil-
+ity of nearby trees, opportunities for gardening, and places for
+taking walks (within 3 min) were highly valued components of
+urban nature and increased satisfaction and well-being in urban
+residents. Findings from recently conducted research programs
+within EU on urban green spaces confer their role as improving
+people’s life quality (BUGS—Beneﬁts of Urban Green Space,
+2003; Priestley et al., 2004). Furthermore, signiﬁcant relation-
+ships exist between urban design and public health (e.g., Handy
+et al., 2002; Frank et al., 2003; Humpel et al., 2004; Hoehner et
+al., 2005). In a longitudinal cohort study, Takano et al. (2002)
+showed that the longevity of urban senior citizens increased if
+they had local availability of walkable green spaces. Findings
+also indicate associations between nature and stress responses.
+More frequent visits to urban open green spaces were signif-
+icantly related to less self-reported experiences of stress in a
+study b
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+2.1. Study design
+A cross-sectional questionnaire study was conducted in resi-
+dential city areas in Stockholm (S¨odermalm and H¨agersten) and
+G¨oteborg (Johanneberg), Sweden. Great care was undertaken
+in designing the empirical ﬁeld studies and in selecting the dif-
+ferent study sites. The latter was based on a number of criteria,
+for example: similar noise exposures, no other dominating noise
+source than road trafﬁc, similar houses according to height and
+
+A. Gidl¨of-Gunnarsson, E. ¨Ohrstr¨om / Landscape and Urban Planning 83 (2007) 115–126
+117
+type (three to ﬁve storied apartment buildings), similar dwellings
+according to layout (at least two rooms in addition to a kitchen,
+access to a balcony/outdoor space), and similar population char-
+acteristics (for more details, please consult Berglund et al., 2004;
+¨Ohrstr¨om et al., 2006).
+2.2. Sound exposure
+Sound levels were determined outside both sides of each
+dwelling by long- and short-term measurements. Calculations of
+trafﬁc noise levels (e.g., LAeq, 24 h = the equivalent A-weighted
+sound pressure level integrated during 24 h) were based on
+trafﬁc input data and geometrical data of the ﬁeld site. Mea-
+surements of trafﬁc data (number of vehicles, %heavy vehicles,
+and motorbikes) were also included. The road trafﬁc speed limit
+was 50 km/h in the study sites (see also Berglund et al., 2004;
+¨Ohrstr¨om et al., 2006).
+Half of the dwellings in the study areas had access to a quiet
+side and the other half of the dwellings had similar sound lev-
+els at the most exposed side but had no access to a quieter side
+of the dwelling. A dwelling with access to a quiet side was
+deﬁned as a dwelling facing at least one side of the building
+where the total LAeq, 24 h sound level dB caused by ground trafﬁc
+and other disturbing noise sources 2 m from the fac¸ade (fac¸ade
+reﬂection included) is less than 48 dB (corresponding to less
+than 45 dB free ﬁeld value, i.e., level on the fac¸ade minus 6 dB;
+for more details, please consult Berglund et al., 2004; Thorsson
+and ¨Ogren, 2004; ¨Ogren and Kropp, 2004; ¨Ohrstr¨om et al.,
+2006).
+2.3. Participants
+The dataset utilized in the present study (n = 500) is based on
+questionnaire data obtained from 956 residents (59% response
+rate). One individual between 18 and 75 years of age in 1625
+households were originally selected. If there were two or more
+persons in the household, the one who was closest to the date
+of the ﬁrst distribution of the questionnaire was chosen. The
+restricted dataset of 500 residents were all exposed to high road-
+trafﬁc noise exposures, i.e., LAeq, 24 h = 60–68 dB at the most
+exposed facade of the dwelling (dB mean = 62, S.D. = 2.14; free
+ﬁeld value). The remaining residents with lower sound levels
+were excluded from further analyses. Out of 500 residents, 367
+lived in dwellings with access to a quiet side (“noise/quiet”-
+condition) and 133 lived in dwellings with no access to a quiet
+side (“noise/noise”-condition).
+2.4. Questionnaire
+The participants answered a questionnaire designed to assess
+adverse health effects of noise (e.g., ¨Ohrstr¨om, 1989) and per-
+ceptions of soundscapes (Berglund and Nilsson, 2001). The
+questionnaires were sent by post together with an introduc-
+tory letter that presented the study as a study on well-being
+and the general living environment. One or two reminder let-
+ters were sent to those who did not answer within 10 days.
+For the present paper, only the following data were utilized
+from the questionnaire (for detailed descriptions of the ques-
+tionnaire, please consult ¨Ohrstr¨om et al., 2006): (1) Perceived
+availability to green areas. According to a Swedish dictionary
+(Malmstr¨om et al., 1991), a green area refers to an area in
+city plans with green surface, trees and so on. In the present
+study perceived availability to green areas was assessed with
+the following question: “Do you have access to green areas
+close to your dwelling?” Three response categories were used:
+“no access”, “rather good access”, and “very good access”; (2)
+Longstanding illness was assessed as frequencies of “yes/no”
+responses; (3) Sensitivity to noise was assessed by asking the
+respondents how they in general describe their sensitivity to
+noise. A four-point category scale was used ranging from “not
+at all sensitive” to “very sensitive” (cf. ¨Ohrstr¨om et al., 1988);
+(4) Noise annoyance. Road trafﬁc noise annoyances when being
+“at home” and “outdoors close to the dwelling” (last 12 months)
+were assessed on numeric 0–10 scales with verbal endpoints
+(“not at all annoyed” and “extremely annoyed”); (5) Percep-
+tion of noise as a problem in the neighborhood was assessed as
+frequencies of “yes/no” responses; (6) Use of outdoor spaces.
+For use of outdoor spaces, the residents were asked to report
+on how often they were walking/exercising in the neighborhood
+(“every day”, “one/few times per week”, “one/few times per
+month”, and “seldom/never”). They also responded to a ques-
+tion on how often (“never”, “sometimes”, and “often”) road
+trafﬁc disturbed their desire to stay outdoors; (7) Identiﬁcation
+of sound sources. Sound-source identiﬁcation is valuable when
+describing perception of soundscapes. The concept of sound-
+scape refers to the sound variations in space and time caused
+by the topography of the natural environment, the buildings
+and their different sound sources. Acoustical soundscapes are
+described with the aid of acoustical variables and perceived
+soundscapes with perceptual variables (Schafer, 1994; Berglund
+and Nilsson, 2001; Axelsson et al., 2005). A list of 14 sound
+sources common outdoors in residential environments was pro-
+vided to the residents (private cars, trucks, buses, motor cycles,
+aircraft, railway, gardening machinery, ventilation, TV/radio,
+sound of steps, dogs/other pets, birds, children playing, and
+people talking). The residents were asked to report on how
+often (during the last 12 months) they usually heard the listed
+sounds when they were outdoors close 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. A conceptual model of the assessed variables and their hypothesized
+Fig. 1 presents a conceptual model of
+Fig. 2. Mean road trafﬁc noise annoyance “at home” (left) and “outdoors close to the dwelling” (right) in relation to perceived availability to green areas (“not at
+Fig. 2). For the “noise/quiet
+Fig. 3. Aerial photographs of the residential settings (marked with white dotted lines): S¨odermalm in the city of Stockholm (left panel), Johanneberg in G¨oteborg
+Fig. 3) and approximately judged the distance
+Table 1 shows the distribution of residents in the
+Table 1
+Table 2). We compared the current sample with the excluded
+Table 2
+Table 3
+Table 3, signiﬁcant multivariate main effects
+Table 4
+Table 4). The non-signiﬁcant interaction effect holds for
+Fig. 4, left and right panels,
+Fig. 5, when residents have “better”
+Fig. 4. Mean road trafﬁc noise annoyance “at home” (left) and “outdoors close to the dwelling” (right) in relation to perceived availability to green areas (“poorer”
+Fig. 5. Frequency of perceiving noise as a problem in the neighborhood in
+Fig. 6. Inﬂuence of noise condition and perceived availability to green areas on
+Fig. 6). Thus, disturbance
+Fig. 7. Prevalence of stress-related psychosocial symptoms in relation to per-
+Table 5 shows the distribution of residents hearing sounds
+Fig.
+7
+Table 5
+Table 6
+
+======================================================================
+
+### RECORD ID=123 | screening_verdict=INCLUDE | year=2010
+JOURNAL: APPLIED ACOUSTICS
+TITLE: Factors influencing the sound preference in urban open spaces
+DOI: 10.1016/j.apacoust.2010.02.005
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+Factors inﬂuencing the sound preference in urban open spaces
+Lei Yu, Jian Kang *
+School of Architecture, University of Shefﬁeld, Western Bank, Shefﬁeld S10 2TN, UK
+a r t i c l e
+i n f o
+Article history:
+Received 5 March 2008
+Received in revised form 12 December 2009
+Accepted 8 February 2010
+Available online 5 March 2010
+Keywords:
+Sound
+Sound preference
+Urban open space
+a b s t r a c t
+In this paper, based on a large scale survey in Europe and China as well as corresponding laboratory
+studies, the inﬂuencing factors on the sound preference evaluation, considering social, demographical,
+physical, behavioural and psychological facets, have been systematically examined based on statistical
+analyses for each of the 19 case study sites. Various sound types have been considered, including natural,
+human, mechanical and instrumental sounds. In terms of social/demographical factors, the results sug-
+gest that age and education level are two factors which universally inﬂuence the sound preference sig-
+niﬁcantly, although the inﬂuence may vary with different types of urban open spaces and sounds.
+With increasing age or education level, people tend to prefer natural sounds and are more annoyed by
+mechanical sounds in general. It has also been found that gender, occupation and residence status gen-
+erally would not inﬂuence the sound preference evaluation signiﬁcantly, although gender has a rather
+strong inﬂuence for certain sound types such as bird sounds, especially at certain case study sites. In
+terms of physical factors (season, time of day), behavioural factors (frequency of coming to the site, rea-
+son for coming to the site), and psychological factors (site preference), generally speaking, their inﬂuence
+on the sound preference evaluation is insigniﬁcant, except for limited case study sites and certain sound
+types. The inﬂuence of home sound environment, in terms of sounds heard at home, on the sound pref-
+erence has been found to be generally insigniﬁcant, except for certain sounds. It is noted that there are
+some correlations between social/demographical factors and the studied physical/behavioural/psycho-
+logical factors, which should be taken into account when considering the inﬂuence of individual factors
+on sound preference.
+ 2010 Elsevier Ltd. All rights reserved.
+1. Introduction
+With the renaissance of city centres, urban open spaces are re-
+conceptualised with the new ‘urbanity’ [1]. In order to create a
+friendly environment, rethinking the urban open spaces from an
+ecological viewpoint is important [2]. Sound quality is considered
+as a key part of ecological/sustainable development of urban open
+spaces [3,4]. Soundscape, also called acoustic landscape, is simulta-
+neously a physical and a social environment when one perceives
+the environment with his/her hearing, where a sound is a basic ele-
+ment in the ‘scape’ [5]. This ‘scape’ physically consists of the
+sounds, the energy waves, the listeners, and the listener’s social
+circumstances, dictating who gets to hear what [6–11]. Subjective
+effects of soundscape rely on the perceptions to acoustic phenom-
+ena through a cognitive process in which two concepts are used:
+sounds and noises [12]; it is essential to determine aesthetic satis-
+faction of an aural ‘scape’ [13,14]. In many soundscape-related
+studies, the general evaluation of a soundscape is usually consid-
+ered as sound level evaluation, namely subjective evaluation of
+loudness, normally for background noise [15–20], and as sound
+preference evaluation, namely the evaluation of foreground sounds
+[10–12,21,22]. As basic components, individual sounds are impor-
+tant in the whole soundscape [23]. The evaluation of the sound
+preference is therefore crucial to determine soundscape quality
+in a speciﬁc space.
+With ever increasing community noise since industrial revolu-
+tion, a large number of studies in examining noise annoyance
+and noise effects on health have been carried out [15–17]. Re-
+cently, accounting for meaningful acoustic environments, issues
+of sound identiﬁcation and its effects on aural perceptions have
+been brought forward with a cognitive or ecological approach
+[12]. However, the study on the sound preference, especially in ur-
+ban open spaces, has been rather limited, although it has been sug-
+gested that the sound preference is affected by various factors from
+both physical and social aspects [24–26]. In our previous study
+[13,14], the sound preference was investigated in some typical ur-
+ban squares, as a part of an overall soundscape research. In the
+investigation presented in this paper, however, a more systematic
+analysis has been made based on case studies in nineteen urban
+open spaces in Europe and China as well as on laboratory
+experiments.
+0003-682X/$ - see front matter  2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.apacoust.2010.02.005
+* Corresponding author. Tel.: +44 114 222 0325; fax: +44 114 2220315.
+E-mail address: j.kang@shefﬁeld.ac.uk (J. Kang).
+Applied Acoustics 71 (2010) 622–633
+Contents lists available at ScienceDirect
+Applied Acoustics
+journal homepage: www.elsevier.com/locate/apacoust
+
+Environmental psychologists pointed out that the implicit attri-
+butes of social/cultural factors and the explicit attributes of physi-
+cal surroundings are interrelated to affect people’s perception of a
+physical sound [27,28]. Therefore, the study of the sound prefer-
+ence evaluation is mainly to explore the relationships between
+the preference of a sound and the implicit and explicit attributes.
+Unlike the preferences of musical listening which focus on the
+sound itself, the judgement of everyday sound listening is to gather
+relevant information about our surrounding environment [11]. In
+this study, the inﬂuencing factors on the sound preference evalua-
+tion, considering social, demographical, physical, behavioural and
+psychological facets, have thus been systematically examined
+based on a series of large scale ﬁeld surveys. The inﬂuences of
+those fac
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Field survey
+From 2001 to 2005, a series of ﬁeld studies were carried out in
+14 European and ﬁve Chinese urban squares. The case study sites
+were selected from nine cities in six countries, namely Bahnhof-
+splatz, Germany Kassel (site 1); Florentiner, Germany Kassel (site
+2); Karaiskaki, Greece Athens (site 3); Seashore, Greece Athens
+(site 4); Kritis, Greece Thessaloniki (site 5); Makedonomahon,
+Greece Thessaloniki (site 6); IV Novembre, Italy Milan (site 7);
+Piazza Petazzi, Italy Milan (site 8); Jardin de Perolles, Switzerland
+Frobourg (site 9); Place de la Gare, Switzerland Frobourg (site
+10); All Saint’s Garden, UK Cambridge (site 11); Silver Street, UK
+Cambridge (site 12); Barkers Pool, UK Shefﬁeld (site 13); Peace
+Gardens, UK Shefﬁeld (site 14); Chang Chun Yuan Square, China
+Beijing (site 15); Xi Dan Square, China Beijing (site 16); Century
+Square, China Shanghai (site 17); Nanjing Road Century Square,
+China Shanghai (site 18); and Xu Jia Hui Park, China Shanghai (site
+19). The case study sites represented a variety of microclimatic and
+macroclimatic conditions, a diversity of urban square types, and a
+range of cultural backgrounds. The interviewees were from a range
+of social groups in terms of their age, gender, occupation, education
+level and residential status (local or non-local).
+Information gathered through the questionnaire surveys and
+observations
+included
+the
+interviewees’
+social/cultural
+back-
+ground, their activities and behaviours on site, the sounds they
+identiﬁed, and their sound preferences. The acoustic questions
+were generally introduced as a part of the investigation of the over-
+all physical environment, to avoid possible bias. Objective mea-
+surements of the sounds were also made and other physical
+conditions of the surroundings were recorded during the inter-
+views. A database was consequently established, with variables
+of social attributes including age (1: <12; 2: 12–17; 3: 18–24; 4:
+25–34; 5: 35–44; 6: 45–54; 7: 55–64; 8:>65); gender (male and fe-
+male); occupation (students, working people and others, such as
+unemployed and pensioners); education (primary, secondary and
+higher level); residential status (local and non-local); sounds often
+heard at home (bird, insect, speaking, music, and trafﬁc), prefer-
+ence of the site (like the site or do not like the site for certain rea-
+sons), frequency of coming to the site (ﬁrst time, per year, per
+month, per week, per day for EU sites; and ﬁrst time, occasionally,
+sometimes, often, daily for Chinese sites); and reason for coming to
+the site (for the equipment/services of the site, for children playing
+and private meetings, for business/meeting/break, for attending
+social events, passing by). Also included in the database were some
+physical attributes including season and time of day during the
+interviews, which were found to be related to noise evaluation in
+previous studies [34,35]. In Table 1 the above factors and their cat-
+egorisations and scales are summarised. Wherever appropriate,
+numerical scales were used in the questionnaires along with the
+categorical scales. The frequency analyses showed that normal dis-
+tribution was generally followed for the factors studied at each
+case study site.
+In Table 1 it can be seen that three categories are assigned to
+education. Education is a broad concept, referring to all the experi-
+ences in which a person could have learned, and it is an important
+part of socialisation [36]. While the comparison between people
+with different education backgrounds is rather complicated, in this
+study a comparison has simply been made between different edu-
+cation levels. Generally speaking, there are three levels, namely
+primary, secondary and higher education despite the disparity of
+adult and alternative education in which no distinct difference ex-
+ists from low to high level [36]. For occupation, in the surveys a
+range of categorisations were used. However, considerable differ-
+ences were found between different cities and countries in terms
+of the deﬁnitions and categorisations of occupations. In order to
+make comparisons within a common framework, occupations were
+then re-arranged to form three categories. In terms of the reason
+for coming to the site, similarly, the survey results were also re-ar-
+ranged from nine to ﬁve categories, given the differences between
+case study sites, and small sample sizes in certain categories and
+case study sites.
+The questions were initially developed in English, and then
+translated into other languages. Since the surveys were carried
+out over ﬁve years, in several phases, some slight modiﬁcations
+were made in the questionnaire design. For example, in the surveys
+in China the question about the sounds often heard at home was
+added, but the site preference was not asked.
+Table 1
+Factors studied and their categorisations and scales.
+Factors
+Categorisation and scale
+Season
+1 – winter; 2 – autumn; 3 – spring; 4 – summer
+Time of day
+1 – morning: 9.00 am–11.59 pm; 2 – midday: 12.00–14.59 pm; 3 – afternoon: 15.00–17.59 pm; 4 – evening: 18.00–20.59 pm; 5
+– night: 21.00 pm–8.59 am
+Frequency of coming to the site
+Scales 1–5: 1 = ﬁrst time; 5 = every day
+Reason for coming to the site
+1 – equipment/services of the site; 2 – children playing and private meetings; 3 – business/meeting/break; 4 – attending social
+events; 5 – passing by
+Age
+1: <12; 2: 12–17; 3: 18–24; 4: 25–34; 5: 35–44; 6: 45–54; 7: 55–64; 8: >65
+Gender
+1 – male; 2 – female
+Occupation
+1 – students; 2 – working people; 3 – others (e.g. unemployed and pensioners)
+Education level
+1 – primary; 2 – secondary; 3 – higher level
+Residential status
+0 – non-local; 1 – local
+Site preference
+0 – do not like the site for certain reasons; 1 – like the site
+Home sound environment
+Bird, insect, speaking, music, trafﬁc
+L. Yu, J. Kang / Applied Acoustics 71 (2010) 622–633
+623
+
+Table 2
+Noticed sounds (marked by p) in the case study sites.
+Site
+Natural sounds
+Human sounds
+Mechanical sounds
+Instru
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1 the above factors and their cat-
+Table 1 it can be seen that three categories are assigned to
+Table 1
+Table 2
+Table 3
+Table 2 the noticed sounds are classiﬁed, where the results
+Table 2 were evaluated in terms of the
+Table 3 the studied sounds in the labora-
+Table 4
+Table 5
+Table 6
+Table 7 summarises the percentage of
+Table 4), two for bird
+Table 6 it is interesting to note that the correlation coefﬁcients
+Table 7 it can be seen that compared to age, education level is
+Table 7
+Fig. 1. Mean difference between local and non-local residents in terms of the sound
+Table 8
+Table 9
+Table 7, it is found that the inﬂuence of gender on the sound
+Table 4 it is noted that the differences
+Table 7 it can be seen that the percentage of
+Table 7. Fig. 1
+Table 8 the ef-
+Table 9 the effects
+
+======================================================================
+
+### RECORD ID=271 | screening_verdict=INCLUDE | year=2014
+JOURNAL: International Journal of Interdisciplinary Social and Community Studies
+TITLE: Towards an evidence-based model for assessing urban squares as social places
+DOI: 10.18848/2324-7576/cgp/v09i01/53520
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+The International Journal of
+Interdisciplinary Social 
+and Community Studies
+THESOCIALSCIENCES.COM
+VOLUME 9 ISSUE 1
+__________________________________________________________________________
+Towards an Evidence–Based Model 
+for Assessing Urban Squares as Social 
+Places
+KATE BISHOP AND NANCY MARSHALL
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+THE INTERNATIONAL JOURNAL OF INTERDISCIPLINARY SOCIAL AND COMMUNITY STUDIES 
+thesocialsciences.com 
+First published in 2014 in Champaign, Illinois, USA 
+by Common Ground Publishing LLC 
+www.commongroundpublishing.com 
+ISSN: 2324-7576 
+© 2014 (individual papers), the author(s) 
+© 2014 (selection and editorial matter) Common Ground 
+All rights reserved. Apart from fair dealing for the purposes 
+of study, research, criticism or review as permitted under the 
+applicable copyright legislation, no part of this work may be 
+reproduced by any process without written permission from the 
+publisher. For permissions and other inquiries, please contact 
+cg-support@commongroundpublishing.com. 
+The International Journal of Interdisciplinary Social and Community Studies 
+is peer-reviewed, supported by rigorous processes of criterion- 
+referenced article ranking and qualitative commentary, 
+ensuring that only intellectual work of the greatest substance 
+and highest significance is published. 
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+The International Journal of Interdisciplinary Social and Community Studies 
+Volume 9, 2014, www.thesocialsciences.com, ISSN 2324-7576 
+© Common Ground, Kate Bishop, Nancy Marshall, All Rights Reserved 
+Permissions: cg-support@commongroundpublishing.com 
+Towards an Evidence–Based Model for Assessing 
+Urban Squares as Social Places 
+Kate Bishop, University of New South Wales, Australia 
+Nancy Marshall, University of New South Wales, Australia 
+Abstract: The nature of the problems in cities are increasingly interdisciplinary, as are the solutions and the research 
+needed to address them. Understanding the intersection between modern urban life and its implications for the built form 
+requires research on many aspects of contemporary human experience in cities. Urban squares are a central component 
+of the urban fabric. They provide respite from the intensity of the built form, public spaces for recreation, entertainment 
+and trade. However, the efficacy of their design and the inherent experience available to the public is seldom evaluated. 
+The aim of this study was to begin developing a collection of cross-disciplinary assessment tools that could be used to 
+evaluate urban squares and their social value. In 2012, a pilot study was completed exploring the major influences on the 
+social success of Oxford Square, Sydney, Australia. A mixed methods approach was used which included three methods: 
+Behaviour Mapping, Physical Mapping, and a Soundscape Analysis assessment. The instruments and methods used 
+revealed that the physical and sensory characteristics of the Square substantially influence the social use of the Square. 
+Keywords: Urban Squares, Social Places, Place-Making 
+Introduction 
+he interest in urban squares as social places is part of a post-modern planning approach.
+Place-based planning and the practice of place-making are key postmodern frameworks
+for the disciplines of planning and built environment design. No longer is planning done 
+at a meta-level, but rather it is done at the local or place level. In support of this recent approach, 
+the practice of place-making, as noted by scholars and practitioners such as Landry (2008), 
+Sandercock (2003), Cuthbert (2011) is both an art form and a professional science. Both concepts 
+have become common in planning and design discourse and praxis. However, the social success 
+of urban planning and design is increasingly of interest to social sciences. In particular, 
+environment-behaviour research is fundamentally interested in the relationship between people 
+and place (Gifford 2014), recognising that the social success of any place is much more complex 
+than providing well designed physical form. 
+Place-making policies, programs and projects (not to mention consultancies) abound and are 
+attempting to design, plan for and retrofit cities to be animated, vibrant and socioeconomically 
+viable, people-based activity centres. Convivial public places like urban squares are used to 
+reflect a community’s identity, ambitions and values and have been shown to support greater 
+physical activity, social interaction and social connection amongst community members (Frank, 
+Andresen and Schmid 2004; Frank and Engelke 2001; Giles-Corti 2006a, 2006b). Improving the 
+quality of community places, resources and opportunities for community life are topics of 
+increasing interest and focus in the developed world, by all levels of government. This is in 
+response to growing concerns over community health issues such as increasing obesity and the 
+rise in mental health problems; youth disenfranchisement; the ageing population and the need for 
+equitable, sustainable communities. Supporting the development of socially inclusive, physically 
+supportive environments, both built and natural, is essential for the success and health of any 
+community. Increasingly, individual and community well-being and health are understood as 
+being intricately linked with the quality of the places in their lives (Kent, Thompson and 
+Jalaludin 2011). 
+What is lacking in the debates associated with place-making is a rigorous evidence-based 
+approach and an appreciation of the interdisciplinary nature of the challenges and solutions 
+needed to create socially successful cities. In 2012, in recognition of this, the authors and a 
+T
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+THE INTERNATIONAL JOURNAL OF INTERDISCIPLINARY SOCIAL AND COMMUNITY STUDIES 
+colleague Jon Lang completed a pilot study which looked at the major social, physical and 
+sensor
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology and Methods 
+In response to the literature discussed and the contextual challenges surrounding Oxford 
+Square, the focus of this pilot study was on identifying correlations between the characteristics of 
+Oxford Square and the social patterns of use and behaviour that occur in the Square. The 
+overarching research question included: How do the physical and sensory characteristics of 
+urban squares influence the use and behaviour in an urban square? What relationships can be 
+identified? 
+A mixed methods approach was appropriate for this research because of the interdisciplinary 
+nature of the research question (Tashakkori and Teddlie 2003). The benefit of this 
+methodological approach was that multiple sources and types of data can be used to describe, 
+define and delineate the subject in focus, drawing on a number of disciplinary perspectives. 
+These sources of data can then be analysed individually for their particular contribution to the 
+research as well as triangulated (Lincoln and Guba 1985) with all other data to support a more 
+extensive, theoretical discussion. In this study qualitative methods are employed to establish a 
+rich description of the research site across time. The quantitative methods are employed to 
+establish patterns of use and behaviour and the key characteristics influencing these. In order to 
+answer the overarching research question for the project it was necessary to understand: 
+1.
+The physical and sensory characteristics and environments of the square
+2.
+The social use of the Square and the behaviour within the square
+The characteristics of the Square and its use patterns were measured using a number of 
+place-based research tools designed to explore the physical, sensory and social features of 
+a ‘place’. These were developed from the literature (Cooper- Marcus1998; Gehl 2010; Whyte 
+1980; Zeisel 2006). Three methods were used which provided the basis of the findings and 
+the discussion of the research questions: 
+1.
+Behaviour Mapping – to establish patterns and volumes of pedestrian traffic and
+behaviours on site. (Zeisel 2006)
+2.
+Physical Mapping – to assess the physical characteristics, activities and amenities
+on-site against Whyte’s (1980) criteria for a ‘successful public space.’
+3.
+Soundscape Analysis – to record and evaluate the volume and intensity of noise and
+overall quality of the sonic environment of the site. (Schafer 1977)
+Findings 
+The Physical Characteristics and Function of the Square 
+The physical mapping tool assessed the topography and natural elements of the Square, its 
+context, its built form, its amenities and sensory elements. The Square provides a break in the 
+line of shop windows and walls that are built to the property line on the south side of the 
+street. The Square illustrates the difficulty of making a sunken plaza an active one. This is 
+especially the case in the face of the sensory conditions that this square experiences. It is a 
+cold, dark square that often smells unpleasant and is surrounded by high levels of noise 
+most of the time. These conditions are not conducive for encouraging people to stay in the 
+Square for long periods. Key findings included: 
+
+The Square serves primarily as a link between the three streets with a slow but
+steady flow of pedestrians passing through it for much of the day.
+36
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+BISHOP AND MARSHALL: TOWARDS AN EVIDENCE–BASED MODEL 
+
+A café opens off the square and a couple of its tables are placed in it. People sit
+there from time to time but they do not turn the Square into a highly active place.
+
+People do sit on the steps and ledges during the day but they seldom linger. The
+drinking fountain is a small scale landmark but is not used as a place to meet; there
+is no seating there.
+
+A night club is also located on the north side of it and the Square comes to life late
+at night and in the early hours of the morning as patrons spill out from the club into
+the Square.
+
+A ‘pop-up’ DJ often activates the Square at 2 am on Saturday nights/early mornings
+– locals and passers-by contribute to the spontaneous dance party.
+General Analysis 
+
+The Square was not designed as a typical urban square. It is a closed-off junction in
+the road. It does act as a pedestrian link between three streets; the steps are not easy
+to negotiate but they do follow the desire lines of pedestrian travel.
+
+The Square is in shadow too much of the day to be an attractive spot even on hot
+summer days.
+
+Although a café is located in the square, it does not attract a large clientele at any
+time other than lunch time so it does not activate the square to any significant
+degree.
+
+The windows in the buildings surrounding the square do afford opportunities for
+natural surveillance but these spaces are not heavily occupied during the day.
+
+Although the rims of the planter boxes afford places to sit, they are seldom sat on.
+In contrast a single place on the edge of a planter box on Oxford Street is quite
+frequently used; it provides a better view. It is also a sunnier spot than the edges of
+the planter boxes in the Square itself.
+
+Although the people walking through the Square provide some potential interest to
+others sitting in it, there is not really much to engage the user in the Square.
+
+The paving is greatly stained with the residue of chewing gum – an unobtrusive
+indicator of the people who frequent the night club. These concrete pavers are not
+easy to clean.
+
+The area smells bad a lot of the time due to the lack of nearby public toilets.
+Soundscape Analysis 
+The soundscape of the Square is the most significant sensory consideration which impacts its use. 
+The tool used physical measures (acoustic recording) and perceptive measures (descriptive, 
+experiential and psychoacoustic). Both the physical and perceptive measures found that sound 
+levels at the site are high. The site contains a range of man-made, natural and mechanical sounds.
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1, a number of ‘keynote sounds’ and 
+Table 1 
+Table 1. Categorisation of Sounds by Contribution to Soundscape 
+Figure 1 illustrates these. The line width is 
+Figure 1: Pedestrian pathways through Oxford Square (source: Authors) 
+Figure 2 indicates the volume of foot traffic through the site and at what time of the day. The 
+Figure 2: Main activities (# of observations) and time of day 
+Figure 3 below indicates exact numbers of site users over the three week data collection period. 
+Figure 3: Total observations by gender and group size 
+
+======================================================================
+
+### RECORD ID=341 | screening_verdict=INCLUDE | year=2016
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Effect of sound-related activities on human behaviours and acoustic comfort in urban open spaces
+DOI: 10.1016/j.scitotenv.2016.08.130
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Effect of sound-related activities on human behaviours and acoustic
+comfort in urban open spaces
+Qi Meng a, Jian Kang a,b,⁎
+a School of Architecture, Harbin Institute of Technology, Harbin 150001, China
+b Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology, Harbin, 150001, China
+H I G H L I G H T S
+• Human behaviours can be changed by
+sound-related activities.
+• Acoustic comfort can be improved by
+changing sound-related activities.
+• Acoustic comfort of visitors and citizens
+can be different with some activities.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 14 June 2016
+Received in revised form 17 August 2016
+Accepted 18 August 2016
+Available online 27 August 2016
+Editor: D. Barcelo
+Human activities are important to landscape design and urban planning; however, the effect of sound-related ac-
+tivities on human behaviours and acoustic comfort has not been considered. The objective of this study is to ex-
+plore how human behaviours and acoustic comfort in urban open spaces can be changed by sound-related
+activities. On-site measurements were performed at a case study site in Harbin, China, and an acoustic comfort
+survey was simultaneously conducted. In terms of effect of sound activities on human behaviours, music-related
+activities caused 5.1–21.5% of persons who pass by the area to stand and watch the activity, while there was a
+little effect on the number of persons who performed excises during the activity. Human activities generally
+have little effect on the behaviour of pedestrians when only 1 to 3 persons are involved in the activities, while
+a deep effect on the behaviour of pedestrians is noted when N6 persons are involved in the activities. In terms
+of effect of activities on acoustic comfort, music-related activities can increase the sound level from 10.8 to
+16.4 dBA, while human activities such RS and PC can increase the sound level from 9.6 to 12.8 dBA; however,
+they lead to very different acoustic comfort. The acoustic comfort of persons can differ with activities, for example
+the acoustic comfort of persons who stand watch can increase by music-related activities, while the acoustic
+comfort of persons who sit and watch can decrease by human sound-related activities. Some sound-related ac-
+tivities can show opposite trend of acoustic comfort between visitors and citizens. Persons with higher income
+prefer music sound-related activities, while those with lower income prefer human sound-related activities.
+© 2016 Elsevier B.V. All rights reserved.
+Keywords:
+Sound-related activities
+Sound environment
+Pedestrian behaviour
+Acoustic comfort
+Urban open space
+Science of the Total Environment 573 (2016) 481–493
+⁎ Corresponding author at: Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology, Harbin, 150001, China.
+E-mail address: j.kang@hit.edu.cn (J. Kang).
+http://dx.doi.org/10.1016/j.scitotenv.2016.08.130
+0048-9697/© 2016 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+1. Introduction
+With the regeneration of city centres, urban open spaces are
+reconceptualised with the new ‘urbanity’ (Thwaites et al., 2005). To cre-
+ate a friendly environment, rethinking the urban landscape from an eco-
+logical viewpoint is important (Yu and Kang, 2010). Sound quality is
+considered as a key part of ecological/sustainable development of
+urban landscape (Zhang et al., 2006). In recent years, the soundscape
+was usually used as a key method to increase the sound quality in
+urban open spaces. The concept of the soundscape is a broad one, ac-
+commodating the complete sound environment in a location and the
+human response to it (Brown et al., 2011; Davies et al., 2013). According
+to ISO, the soundscape is the acoustic environment as perceived or ex-
+perienced and/or understood by a person or people in context (ISO,
+2014). For urban planning and landscape design, one key attraction of
+the soundscape is that it seems to be a better ﬁt than noise level to the
+many factors inﬂuencing human experience in the urban open spaces,
+since previous studies indicated that human reaction to a sound is not
+just physical perception but also an aesthetic sensation that one receives
+from the environment (Aucouturier et al., 2007). Therefore, a thorough
+analysis of the function of soundscape or soundscape characteristics
+such as human behaviours and evaluation of acoustic comfort is very
+important to landscape researches in urban open spaces.
+Human behaviours in urban landscape have been considered in
+many previous studies in relation to sound and soundscape perception,
+since it is important for urban landscape design (Carles et al., 1999;
+Yang and Kang, 2005). Kang (2006) indicated that sound quality of an
+urban area will depend on how long people have been living there. A
+study by soundwalk shows that positive sound such as bird sounds in
+urban spaces may affect the behaviours of people (Davies et al., 2013).
+Meng and Kang (2013) indicated that acoustic comfort is inﬂuenced
+by the reason for visit, frequency of visit, and length of stay with corre-
+lation coefﬁcients of 0.10 to 0.30. The users who were waiting for some-
+one were found to have lower acoustic comfort than those who were
+shopping. The interactions between aural and visual behaviours are
+also an important research topic in soundscape studies (Southworth,
+1969; Forza, 2002). A study under laboratory conditions with controlled
+aural and visual stimuli suggested that the visual parameter was a pre-
+dominant variable with regard to aural–visual interactions (Viollon and
+Lavandier, 2000). All the visual information had different ways and dif-
+ferent efﬁciencies in affecting the auditory judgement. The more urban
+the visual settings were, the more contaminated was the audi
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Survey site
+Since some previous studies indicated that the environment or space
+differences may lead to the different evaluation of soundscape (Lercher
+and Schulte-Fortkamp, 2003; Kang and Zhang, 2010), the effect of
+sound-related activities should be studied generally in the same envi-
+ronment and places; therefore, a typical pedestrian street named Stalin
+park, in Harbin, China, was chosen as the case site, since there are many
+typical sound-related activities that simultaneously occur along the
+street.
+Harbin is a typical international city in China, with long cultural and
+historical background; the sound-related activities in Harbin are com-
+mon in China and most Asian countries and even in some European
+countries; therefore, the results of this case site are likely to be applica-
+ble to not only other areas in China, but also to some similar cases in
+Asian or European countries. The Stalin park, which was built in 1953,
+is nearly 1800 m in length and 30 m in width. A 10-m wide trafﬁc
+road is present on one side of the park, while the Songhua River is pres-
+ent on the other side of the park. The Stalin park is a famous tourist site
+for visitors as well as a leisure place for local citizens; N20,000 users visit
+the park everyday (Yao, 2004). Therefore, there are enough investiga-
+tion samples both on activities and users for this study. The map of Sta-
+lin park and the survey locations are shown in Fig. 1.
+2.2. Sound-related activities
+On the basis of the different sound sources, the activities were divid-
+ed into two groups: one group is music sound-related activities, in
+which the persons perform activities with music, and the other group
+is human sound-related activities, in which the persons perform activi-
+ties by speaking or creating manmade sounds. In the case site, 4 typical
+music-related activities and 3 typical human sound-related activities
+were chosen at different locations at N100-m intervals, since previous
+482
+Q. Meng, J. Kang / Science of the Total Environment 573 (2016) 481–493
+
+studies indicated that there is no inﬂuence of sound-related activities on
+each other at this distance (Hao et al., 2015). Music-related activities in-
+cluded Folk Dancing, Zombie Dancing, Qing Gong and Tai Ji. Human
+sound-related activities included Whip Whipping, Roller Skidding and
+Playing Cards. The details of these activities are shown in Table 1.
+These typical sound-related activities are very common in open
+squares or parks in China and some Asian countries, and now even in
+some European countries.
+2.3. Behaviour measurement
+In these studies, the human behaviours imply some actions and
+mannerisms made by visitors or citizens in the urban open spaces,
+which is the important point in landscape study, since there are some
+relationships between behaviours and landscape design or ecological
+planning (Snowdon et al., 2001; Pearce, 2013). Therefore, the behav-
+iours of pedestrians was also measured at every survey point in an
+area from 0 to 10 m outside the area of activities (Fig. 2), since a previ-
+ous study indicated that behaviours at 10 m away from such activities or
+sound sources might not be generally inﬂuenced by them (Meng and
+Kang, 2015). The areas of activities in this study are the areas in which
+people are performing some activities. Considering that people may
+move all the time during some activities, the area of such activities
+was expanded to include those areas where the people move to.
+In the behaviour measurement, the interviewers shoot some group
+videos with a camera in different situations. To determine the effect of
+aural-visual stimuli in terms of music sound-related activities, 4 types
+of situations were analysed: neither music sound nor activities, activi-
+ties without music, music without activities, and activities with music.
+For human sound-related activities, the videos were shot with different
+persons who are performing the activities. Each video is 3–5 min long,
+and videos for 10–15 groups for every situation were shot to ensure
+the stochastic behaviour in the measurement (Yang and Kang, 2005).
+The behaviours of pedestrians in the survey locations were then classi-
+ﬁed and statistically analysed from the review of videos in the laborato-
+ry. Four main behaviours of pedestrians were analysed in this research:
+standing and watching, passing by, performing exercises, and sitting. In
+this study, performing exercises imply doing some standing exercises,
+while some moving exercises such as running were classiﬁed as passing
+by behaviour.
+2.4. Sound level measurement
+Sound pressure level measurement was conducted immediately
+after each interview. During the measurement, the microphone of the
+sound level meter was positioned approximately 1 m away from any re-
+ﬂective surfaces and 1.2–1.5 m above the ﬂoor to reduce the effect of
+acoustic reﬂection (Zahorik, 2002; Barron, 2009). The sound level me-
+ters were set in slow-mode and A-weight, and reading were acquired
+every 3–5 s. A total of 5 min data were obtained in each survey position.
+Considering that the activities themselves may dynamically change,
+5–7 survey positions were selected randomly around the activity areas,
+and each survey position was 5 m away from the activity areas and main
+sound sources, if any, to avoid any instantaneous error (Eriksson, 1991;
+Vincent et al., 2006); the corresponding LAeq of activities was derived as
+an average from the 5 positions.
+Simultaneously, some other environment factors, for example air
+temperature, relative humidity, and luminance, were also measured
+for other further analysis (Frontczak and Wargocki, 2011).
+2.5. Acoustic comfort survey
+The acoustic comfort survey was conducted immediately after every
+sound pressure level measurement. To study the inﬂuence of the
+Fig. 1. The case site with different sound-related activities.
+Table 1
+The details of typical sound-related activities.
+Activity name
+Abbreviated name
+Details
+Number of persons
+Type 1: Music-related a
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1.
+Table 1.
+Fig. 2), since a previ-
+Fig. 1. The case site with different sound-related activities.
+Table 1
+Table 2), for example gender, education level, age, occupa-
+Fig. 3 shows the effect of music-related activities on human behav-
+Fig. 3, it can be seen that the number of persons who stand
+Fig. 5, it can be seen that the number of persons
+Fig. 5 shows that the pedes-
+Fig. 2. The measurement area of human behaviours.
+Table 2
+Fig. 3. The percentage of behaviours with different music-related activities, where (a) indicates the percentage of standing and watching with RD, ZD, QG, and TJ; (b)
+Fig. 3 (continued).
+Fig. 4. The percentage of behaviours with different human sound-related activities, where (a) indicates the percentage of standing and watching with WW, QS, and PC; (
+Fig. 4 shows the effect of music-related activities on human behav-
+Fig. 4, it can be seen that when the number of persons
+Fig.
+6 shows that when 0–3 persons perform WW or RS activity, 19.1–
+Fig. 5 shows the effect of music-related activities on sound environ-
+Fig. 5, it can be seen that the effect of activities without
+Fig. 6 shows the effect of human sound-related activities on sound
+Fig. 6, it can be seen that
+Fig. 7 shows that the acoustic comfort of persons who stand
+Fig. 5. The sound pressure level with different music-related activities, where (a) indicates
+Fig. 8 shows that the acoustic comfort of persons who stand
+
+======================================================================
+
+### RECORD ID=379 | screening_verdict=INCLUDE | year=2016
+JOURNAL: NOISE MAPPING
+TITLE: Urban park soundscape in distinct sociocultural and geographical contexts
+DOI: 10.1515/noise-2016-0016
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+© 2016 A. C. Lobo Soares and J. L. Bento Coelho, published by De Gruyter Open.
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License.
+Noise Mapp. 2016; 3:232–246
+Research Article
+Open Access
+Antonio Carlos Lobo Soares* and J. Luis Bento Coelho
+Urban park soundscape in distinct sociocultural
+and geographical contexts
+DOI 10.1515/noise-2016-0016
+Received Jun 09, 2016; accepted Aug 08, 2016
+Abstract: The importance of soundscape in urban public
+parks has galvanised researchers concerned with improv-
+ing the sound environment in cities. Existing literature re-
+veals, however, a relative paucity of studies on soundscape
+in particular sociocultural and environmental contexts,
+and on the influence of these contexts in the perception of
+the urban sound space. Within this framework, this paper
+investigates the soundscape of parks in the cities of Belém,
+Brazil, and Lisbon, Portugal. The influence of geography
+and climate as determinant of activities and behaviors, the
+emission of natural and man-made sounds that charac-
+terise the soundscape of urban parks, the way park users
+evaluate the quality of sound environments were anal-
+ysed, as were other elements that contribute for such an
+appreciation. The methodology encompassed sound mea-
+surements inside and outside the parks, analysis of the au-
+dibility of identifiable sound sources, study of local uses
+and activities through soundwalks and interviews, and as-
+sessment of responses to enquiries. The results shows that
+the soundscape of park depends on different features such
+as geography, climate, urban architecture, park infrastruc-
+ture, sound sources, and most importantly the visitors’ ex-
+pectations for the planned activities, together with their
+other sensorial responses, which proved to be different in
+distinct sociocultural and environmental contexts.
+Keywords: soundscape; environmental acoustics; urban
+parks
+*Corresponding Author: Antonio Carlos Lobo Soares: Museu
+Paraense Emílio Goeldi, MCT&I, Belém, Pará, Brazil; Insti-
+tuto Superior Técnico, University of Lisboa, Portugal; Email:
+lobo.soares@ig.com.br
+J. Luis Bento Coelho: Instituto Superior Técnico, University of Lis-
+boa, Portugal; Email: bcoelho@ist.utl.pt
+1 Introduction
+According to United Nations studies, two-thirds of the
+world population will be living in urbanised areas by
+the year 2050 [1]. Human development conditions (such
+as life expectancy, health, education), however, indicate
+that such urbanisation will happen in an unbalanced way
+across different continents, countries and their adminis-
+trative divisions, with advances and setbacks in human
+life expectancy and quality. Noise and its impact on hu-
+man health and well-being [2–6] is one of the inevitable
+consequences of densification of human agglomeration
+and activities. Exposure of people to excessive noise lev-
+els is then a challenge, becoming a growing environmental
+concern.
+In the midst of excessive urban noise, the sound di-
+versity that identifies the city character and distinguishes
+one city from another is being diluted due to homogeniza-
+tion of technology and of social behaviors. To preserve the
+sounds that characterise urban environments invigorates
+the memory, the heritage, the cultural values; improves
+the quality of life of citizens; draws visitors; strength-
+ens the economy; increases the value of real estate; and
+reduces costs with health when restorative spaces are
+made available. The soundscape of improved sound qual-
+ity places and tranquil areas such as urban parks, gardens,
+and similar spaces, can benefit mental health and prevent
+the degradation of people’s functional health [7]. These ar-
+eas facilitate walks, childplay, and other leisure activities
+that increase social interaction, emotions, and motivate
+life.
+In general, classical policies of noise reduction and
+control in urban environments have failed to achieve the
+desired goals of limiting noise or avoiding degradation
+of the sound quality of public spaces, either by finan-
+cial, technical, or functional constraints, and have also
+neglected the subjective side of human perception. Urban
+public parks are privileged areas in a city due to their envi-
+ronmental quality, particularly their sound, and the peace-
+fulness they offer to the people who seek it. An effort of
+the scientific community to study the soundscape of urban
+
+Urban park soundscape in distinct sociocultural...
+|
+233
+public parks, due to their importance for leisure and recov-
+ery of individuals has been observed recently [8–12].
+Soundscape is understood as the acoustic environ-
+ment of a place, perceived or experienced by people in its
+context, which results from the action and interaction of
+natural and/or human factors [13–15]. The sound contents
+and the geographical environment are important, but so
+are the objective functions of the place, the human activi-
+ties, and the user’s expectations that contribute to the lis-
+tener’s appreciation, which becomes important in sound-
+scape management [16, 17].
+Among the gaps in theoretical and empirical investi-
+gation found in the literature are studies of soundscape
+in distinct cultural contexts, and the relationship between
+objective and subjective components in the analysis of
+urban sound environment [13, 14, 18, 19] are part of the
+methodological limitations.
+2 Objectives
+Within this framework, a study was set up to investigate
+the soundscape in urban public parks in Lisbon, Portu-
+gal, and in cities of Southamerica, namely Brazil, in an
+attempt to understand and characterize the park sound-
+scape in their quite distinctive sociocultural and environ-
+mental contexts. Would the different contexts seriously
+impact on the local soundscape?
+The results presented herein refer to the cities of Lis-
+bon and of Belém, and are part of the ongoing research.
+3 Methods and Results
+Belém is a densely urbanised city with one and a half
+million inhabitants, located in the Amazonian region in
+northern Br
+
+--- METHODS/RESULTS EXCERPT ---
+Methods and Results
+Belém is a densely urbanised city with one and a half
+million inhabitants, located in the Amazonian region in
+northern Brazil, near the Equatorial line. Climate is hot
+and humid all year round, with an average monthly rain-
+fall of 60 mm. Lisbon, on the other hand, has a popu-
+lation of about one million people and is located in the
+westernmost portion of the European continent. It enjoys
+around 260 sunny days in a year, and its climate is tem-
+perate oceanic. Figure 1 shows the geographical location
+of the two cities.
+In Belém, the Rodrigues Alves Botanical Garden
+(BRA), the Zoobotanical Garden of the Emílio Goeldi Mu-
+seum (PZB), and the Batista Campos Square (PBC) were
+studied. In Lisbon, the Estrela Garden (JES), the Calouste
+Gulbenkian Foundation Garden (JFG), and the Príncipe
+Real Garden (JPR) were considered. These sites were cho-
+(a)
+ 
+(b)
+Figure 1: Relative location of the cities of Belém, Brazil (a), and Lis-
+bon, Portugal (b).
+sen following preliminary studies [20] for their importance
+in the city, in the sense that they integrate urban cultural
+programs and are well visited. They have different fea-
+tures, uses, and locations within the urban area, as Fig-
+ures 2 and 3 show. Their sizes span from a typical city gar-
+den (such as the Principe Real Garden with 1,15 ha) to an
+urban tissue park (such as the Rodrigues Alves Botanical
+Garden with 14 ha) thus covering most such areas used by
+citizens as city gardens or parks.
+Various procedures were followed for capture and
+analysis of local data, both in situ and at the laboratory.
+Sound measurements and recordings were carried out;
+soundwalks were performed [13, 21]; recorded sound sig-
+nals were analysed and processed at the laboratory to de-
+termine thresholds of audibility [22, 23] of the different au-
+dible sounds; and opinion surveys were used by means of
+questionnaires directed to users [21, 24, 25].
+Field work identified sound sources and elements of
+identity, infrastructure and safety; signs of transgression
+and negligence; construction works; operating machin-
+ery and equipment; as well as flora and fauna present in
+the parks. Soundwalks, allowed identifying and locating
+in each park the different sound contributions: road traf-
+fic, other electromechanical sounds (ventilation, construc-
+tion, and recreation), human sounds (voices, childplay,
+yelling), animal sounds (mostly birds), and other natural
+sounds (water, wind through leaves, rain).
+Points were selected next to sound sources audibly
+identified as relevant where sound pressure levels, LAeq,
+were measured in 1/3-octave bands. Although in general
+ISO 1996 [26] measurement procedures were followed,
+only short time values (signal samples of about 7’) were
+considered since long term averages are not applicable
+here, except for the road traffic sound component. The aim
+was to quantify at reference positions typical sound pres-
+sure levels of people talking, of children playing, of birds
+
+234
+|
+A. C. Lobo Soares and J. L. Bento Coelho
+Belém 
+BRA 14ha 
+PZB 5,4ha 
+PBC 4,5ha 
+ 
+ 
+ 
+BRA water fountain 
+PZB exhibition hall 
+PBC main gazebo 
+Figure 2: Urban parks in Belém.
+and other animals singing, of water fountains, as well as
+of road traffic or of other mechanical sources.
+Tables 1 and 2 indicate the location of the sound
+sources and the recorded LAeq values.
+For each park, an acoustic model was built based on
+the LAeq measured values and on other data such as vehi-
+cle counts and characteristics of surrounding roads, build-
+ing heights, and location of sound sources, so as to allow
+for the calculation of the spatial distribution of sound lev-
+els using the NMPB method [27] for road traffic and the ISO
+9613-2 method [28] for point sources, to draw sound maps.
+The sound maps for the different parks are shown in
+Figure 4. The maps represent sound pressure levels (LAeq)
+in 5 dB intervals, from below 45 dB up to above 75 dB, with
+different colors. The color code is also shown in the figure.
+These are not average values. The maps represent typical
+sound level distributions when all sound sources of rel-
+evance (audibly identified) are present. Of course, these
+maps vary during the day and along the year. But so do
+visits to the park. In a typical day (when more visitors are
+present), these are the expected sound maps.
+Sound recordings with samples of at least 30 sec
+were made using a digital 24-bit, 96 KHz, double-channel
+recorder to determine audibility thresholds of the different
+sound sources in the parks, based on human perception,
+language and sound levels. In Portuguese parks, record-
+ings were made along their respective visiting circuits;
+in the Brazilian parks, with their undefined visiting cir-
+cuits, recordings were performed near the most expressive
+sound sources.
+The sound recordings were analysed in the labora-
+tory (anechoic chamber) as per the experimental setup
+shown in Figure 5. Following calibration of the system,
+white noise was introduced progressively and simultane-
+ously with the sound under study until the latter was com-
+pletely masked off, thus reaching the audibility threshold;
+
+Urban park soundscape in distinct sociocultural...
+|
+235
+Lisbon 
+JES - 4,6 ha. 
+JFG - 7,5 ha. 
+JPR - 1,15 ha. 
+ 
+ 
+ 
+ 
+JES and Basílica in the 
+background 
+JFG main building 
+JPR white cedar 
+Figure 3: Urban parks in Lisbon.
+at this point, the masking level Lmask corresponding to the
+perceived reference sound level of the sound source, was
+recorded. The values found by following the procedure for
+different points allowed the building of the corresponding
+point sound source radiation model and the drawing of the
+sound audibility curves. This procedure was followed for
+all sound sources of interest in each park.
+Figures 6 and 7 show the audibility maps of the main
+sound sources in the parks. The color code is that shown in
+Figure 4. Again, these maps do not represent long term av-
+erage values but typical sound distributions of the specific
+sound sources when
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows the geographical location
+Figure 1: Relative location of the cities of Belém, Brazil (a), and Lis-
+Figure 2: Urban parks in Belém.
+Figure 4. The maps represent sound pressure levels (LAeq)
+Figure 5. Following calibration of the system,
+Figure 3: Urban parks in Lisbon.
+Figure 4. Again, these maps do not represent long term av-
+Figure 4: Sound maps of parks in Belém and in Lisbon.
+Figure 5: Experimental set-up diagram for laboratory sound signal
+Figure 8 reveals.
+Table 1: Point / Sound sources in Belém parks.
+Table 2: Point / Sound sources in Lisbon parks.
+Figure 6: Audibility maps of main sound sources in Belém parks.
+Figure 7: Audibility maps of main sound sources in Lisbon parks.
+Figure 9,
+Table 3. Although some com-
+Table 3: Summary of responses on the perception of sound in parks in Belém and Lisbon.
+Figure 8: Evaluation of sound environment by park visitors.
+Figure 9: Evaluation of peacefulness in Brazilian (left column) and Portuguese (right column) parks by their visitors.
+Table 4: Leisure activities in parks in Belém and Lisbon.
+Figure 4, is relevant to the sound perceived in-
+Table 3).
+Table 4. Be-
+
+======================================================================
+
+### RECORD ID=406 | screening_verdict=INCLUDE | year=2017
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Effect of temporary open-air markets on the sound environment and acoustic perception based on the crowd density characteristics
+DOI: 10.1016/j.scitotenv.2017.06.017
+PAGES: 8
+
+--- HEAD (title/abstract/intro) ---
+Effect of temporary open-air markets on the sound environment and
+acoustic perception based on the crowd density characteristics
+Qi Meng a,b, Yang Sun a, Jian Kang a,b,⁎
+a Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology, Harbin 150001, China
+b School of Architecture, University of Shefﬁeld, Western Bank, Shefﬁeld S10 2TN, UK
+H I G H L I G H T S
+• Sound environment can be changed by
+temporary open-air markets planning.
+• Acoustic perception can be affected by
+temporary open-air markets zoning.
+• Acoustic comfort can be improved by
+temporary open-air markets zoning.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 28 April 2017
+Received in revised form 31 May 2017
+Accepted 2 June 2017
+Available online 9 June 2017
+Editor: D. Barcelo
+The sound environment and acoustic perception of open-air markets, which are very common in high-density
+urban open spaces, play important roles in terms of the urban soundscape. Based on objective and subjective
+measurements of a typical temporary open-air market in Harbin city, China, the effects of the temporary open-
+air market on the sound environment and acoustic perception were studied, considering different crowd densi-
+ties. It was observed that a temporary open-air market without zoning increases the sound pressure level and
+subjective loudness by 2.4 dBA and 0.21 dBA, respectively, compared to the absence of a temporary market. Dif-
+ferent from the sound pressure level and subjective loudness, the relationship between crowd density and the
+perceived acoustic comfort is parabolic. Regarding the effect of a temporary open-air market with different
+zones on the sound environment and acoustic perception, when the crowd densities were the same, subjective
+loudness in the fruit and vegetable sales area was always higher than in the food sales area and the clothing
+sales area. In terms of acoustic comfort, with an increase in crowd density, acoustic comfort in the fruit and veg-
+etable sales area decreased, and acoustic comfort in the food sales area and the clothing sales area exhibited a par-
+abolic change trend of increase followed by decrease. Overall, acoustic comfort can be effectively improved by
+better planning temporary open-air markets in high-density urban open spaces.
+© 2017 Elsevier B.V. All rights reserved.
+Keywords:
+Temporary open-air market
+Crowd density
+Acoustic perception
+Sound pressure level
+Acoustic comfort
+1. Introduction
+“Temporary open-air markets” refers to a business type that is pres-
+ent in public spaces, such as streets, squares, or speciﬁc buildings, during
+a certain time period under effective control (Tangires, 2008). Such
+Science of the Total Environment 601–602 (2017) 1488–1495
+⁎ Corresponding author at: School of Architecture, Harbin Institute of Technology,
+Harbin 150001, China; School of Architecture, University of Shefﬁeld, Western Bank,
+Shefﬁeld S10 2TN, UK.
+E-mail addresses: j.kang@hit.edu.cn, j.kang@shefﬁeld.ac.uk (J. Kang).
+http://dx.doi.org/10.1016/j.scitotenv.2017.06.017
+0048-9697/© 2017 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+markets have a long history in time. Their earliest recorded appearance
+can be traced back to the sixth century BC (Hsieh and Chang, 2006). In
+high-density cities in Asian countries such as China and Japan, tempo-
+rary open-air markets are common: nearly every 10 blocks has (or
+once had) a temporary open-air market (Suminski et al., 2008). Studies
+indicate that 75% of all residents in these countries visit a temporary
+open-air market weekly (Susskind and Chan, 2000). Temporary open-
+air markets are also places where tourists can experience a local area's
+characteristic cultural life (Zakariya, 2010, 2011a, 2011b). However, be-
+cause of negligent management, the perception by nearby residents of
+the sound environment of temporary open-air markets is not ideal
+(Carles et al., 1999; Guéguen et al., 2007). Therefore, how to improve
+the sound environment in temporary open-air markets has become an
+issue that must be addressed by urban planners and the government.
+The sound environment and acoustic perception in urban open
+spaces exhibit typical and variant features. For example, studies have
+demonstrated that the chirping of birds, church bells, the sound of run-
+ning water, and the joyful shouts of children are sounds that people
+enjoy hearing in squares with recreational functions. In squares with
+commercial functions, the sound of music being played outdoors and in-
+side shops is appreciated (Kang, 2007). Bruce and Davies (2011) dem-
+onstrated that the function of the soundscapes of religious spaces,
+commercial spaces, distribution spaces, and trafﬁc spaces in historical
+districts exhibits clear differences. In commercial spaces, the design of
+the sound environment plays an important role in the creation of a com-
+mercial atmosphere (So and Kimura, 1998; Hao et al., 2015). In addition,
+background music in shopping spaces effectively increases the acoustic
+comfort of shoppers. In contrast, the sound of hawkers promoting their
+wares decreases acoustic comfort (Song et al., 2011). Meng and Kang
+(2015) found that human acoustic comfort is associated with the type
+of sound source. The acoustic comfort created by natural sounds is the
+most preferable, whereas the acoustic comfort of trafﬁc sounds and me-
+chanical sounds is the least preferable. Several researchers have begun
+to utilise the typicality and variance of sound sources in soundscape de-
+sign (Song and Ma, 2012; Song et al., 2012). Different from general
+urban open spaces, temporary open-air markets are characterised by
+temporariness (Pottiesherman, 2013) and cannot exist independently.
+They are the product of human behavioural activity (Zakariya, 2010,
+2011a, 2011b; Mohamad et al., 2015). Therefore, stu
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+The study methods included selection of a survey site, crowd density
+measurement,
+a
+questionnaire-based
+survey,
+and
+sound-level
+measurement.
+2.1. Survey site
+A typical temporary open-air market on Wenxing Street in Harbin,
+China, was selected as the survey site (Fig. 1). The decision to study
+this location was based on the following 3 reasons. First, the mean
+height-to-width ratio of the street on which the market was located is
+3:1; which is typical for high-density cities (Shan, 2008; Ng et al.,
+2011). Next, the temporary open-air market had a large scale and a
+long history. Therefore, a large number of local residents as well as do-
+mestic and international tourists visit the market. Thus, the market pro-
+vides convenient conditions in which to study the sound environment
+and acoustic perception under different crowd densities. Finally, the
+market's business model (i.e., its scale and format) resembles that of
+markets encountered in Europe and Japan (Zakariya, 2010) and thus
+has typicality. Booths in this market are distributed on both sides of
+the road. The market operates Saturday to Wednesday from 17:00–
+22:00. The market's width is approximately 10 m, and its total length
+is approximately 600 m. Previous studies indicate that any area of a
+market within 25–35 m of a road might be affected by trafﬁc noise
+(Meng and Kang, 2015). In addition, areas close (i.e., 10–15 m) to the
+end of the road on which the market is located experience highly unsta-
+ble crowd-ﬂow changes (Raimbault and Dubois, 2005; Yu and Kang,
+2006). Therefore, both ends of the road on which the study object was
+located, which were 35 m from road trafﬁc, were not included in the
+measurement range.
+Prior to August 2016, this temporary open-air market primarily sold
+fruits and vegetables, other food, and clothing. The other food items
+primarily consisted of specialty snacks and drinks as well as groceries
+(Fig. 1a). These 3 categories accounted for 96% of the market's business
+(Sun et al., 2017). The booth types were randomly distributed through-
+out the market. However, in August 2016, to facilitate improved man-
+agement, the market management authority divided the market into 3
+independent zones (Fig. 1b): a fruit and vegetable sales area, a food
+sales area, and a clothing sales area. The booth distribution was not
+changed with zoning and is shown in Fig. 1c. Therefore, to study the ef-
+fects of the temporary open-air market on the sound environment and
+sound-source perception, measurements were performed twice: once
+before and once after the market was zoned.
+Studies indicate that environmental changes, such as changes in
+temperature and humidity, inﬂuence subjective acoustic perception
+(Thwaites et al., 2005; Val et al., 2006). To avoid the effects of these en-
+vironmental factors, measurements were performed in July and
+1489
+Q. Meng et al. / Science of the Total Environment 601–602 (2017) 1488–1495
+
+September 2016. The mean monthly temperatures and relative humid-
+ity of these months are approximately the same. To avoid the effects on
+the environment of the time of day, measurements were performed
+from 17:00–18:00 daily for 1 continuous month (Liu et al., 2013). The
+conditions that prevailed when the temporary open-air market was in
+operation were measured from Monday to Wednesday. The conditions
+that prevailed when the market was closed were measured from Thurs-
+day to Friday.
+Some previous studies have indicated that the differences in behav-
+ioural characteristics may also inﬂuence the sound environment and
+users' acoustic perception in urban open spaces (Aletta et al., 2016;
+Meng and Kang, 2016). A pilot study of temporary open-air markets
+suggested that, although the proportions of behaviours, such as shop-
+ping, passing by, standing by, and talking to others, vary in different
+market zonings, they are generally not changed with crowd density
+(Li and Meng, 2015). Therefore, the differences in behavioural charac-
+teristics were not considered in this study.
+2.2. Measurement of crowd density
+To study the effect of a crowd on the sound environment and acous-
+tic perception in the temporary open-air market, crowd density was
+measured using a photography method (Oakes and North, 2008).
+Study areas of 40 m × 10 m in the 3 zones were used to measure the
+temporary open-air market both prior to zoning and after zoning was
+instituted. To avoid interference among the areas, the distance between
+them was at least 80 m (Yu and Kang, 2008). Photos were taken from an
+elevated position at each of the areas (Fig. 2). One photograph was
+taken every 30 s for a continuous 5 min (Westover, 1989; Meng and
+Kang, 2015). In the laboratory, the locations of the pedestrians who ap-
+peared in each picture were labelled with round dots, and a 5 m × 5 m
+grid was used to calculate the mean value of the total number of individ-
+uals in the photographed area within a 5-min period. This value was di-
+vided by the measurement area to obtain a mean value of the crowd
+density as the average number of persons per square metre. The unit
+was person/m2 (Zhang et al., 2016; Yu and Kang, 2017).
+2.3. Questionnaire survey
+For acoustic perception in urban open spaces, subjective loudness
+and acoustic comfort are two important evaluation indicators
+(Chartier and Semidor, 2005; Kang and Zhang, 2010). The sound prefer-
+ence is typically used to explain the differences among these subjective
+feelings (Ren et al., 2016). Therefore, this study used the questionnaire
+survey method to establish the subjective loudness, acoustic comfort,
+and sound preferences of individuals in the survey locations. Individuals
+in the measurement areas were randomly selected to complete the
+questionnaire. In the questionnaire, respondents were ﬁrst asked to
+list at least three of the sounds they heard and then to evaluate their
+preferences regarding the three sound sources using the following
+Fig. 1. The basic information about the case site: (a) market without zoning; (b) 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). The decision to study
+Fig. 1a). These 3 categories accounted for 96% of the market's business
+Fig. 1b): a fruit and vegetable sales area, a food
+Fig. 1c. Therefore, to study the ef-
+Fig. 2). One photograph was
+Fig. 1. The basic information about the case site: (a) market without zoning; (b) market with zoning; (c) the basic information about booth.
+Fig. 3). The results indicated that
+Fig. 4). When the crowd
+Fig. 5. When the market was absent,
+Fig. 2. Crowd density measurement, using the survey area as an example.
+Fig. 3. Relationships between the crowd density and the measured sound pressure level at
+Fig. 6. The sound
+Fig. 7. In the fruit and vegetable sales area, the re-
+Fig. 8.
+Fig. 3, when the crowd density increased from 0 to
+Fig. 4. Relationships between the crowd density and the subjective loudness at the case
+Fig. 5. Relationships between the crowd density and the acoustic comfort at the case site
+Fig. 3, a possible reason
+Fig. 9, with an increase in
+Fig. 4), and a temporary open-air market with
+Fig. 9) shows that the subjective loudness in the
+Fig. 6. Relationships between the crowd density and the sound perception at the case site.
+Fig. 7. Sound preference at the case site.
+Fig. 8. Relationships between the crowd density and the measured sound pressure level in
+Fig. 10. In the fruit and vegetable sales area, when the crowd density
+
+======================================================================
+

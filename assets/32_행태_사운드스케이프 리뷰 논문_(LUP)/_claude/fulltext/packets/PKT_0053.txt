@@ -1,0 +1,201 @@
+### RECORD ID=53 | screening_verdict=INCLUDE | year=2004
+JOURNAL: ERGONOMICS
+TITLE: Directional guidance from audible pedestrian signals for street crossing
+DOI: 10.1080/00140130410001712609
+PAGES: 22
+
+--- HEAD (title/abstract/intro) ---
+Ergonomics
+ISSN: 0014-0139 (Print) 1366-5847 (Online) Journal homepage: www.tandfonline.com/journals/terg20
+Directional guidance from audible pedestrian
+signals for street crossing
+Robert S Wall, Daniel H Ashmead, Billie Louise Bentzen & Janet Barlow
+To cite this article: Robert S Wall, Daniel H Ashmead, Billie Louise Bentzen & Janet Barlow
+(2004) Directional guidance from audible pedestrian signals for street crossing, Ergonomics,
+47:12, 1318-1338, DOI: 10.1080/00140130410001712609
+To link to this article: https://doi.org/10.1080/00140130410001712609
+Published online: 20 Feb 2007.
+Submit your article to this journal 
+Article views: 446
+View related articles 
+Citing articles: 2 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=terg20
+
+Directional guidance from audible pedestrian signals for street
+crossing
+ROBERT S. WALL{*, DANIEL H. ASHMEAD{, BILLIE LOUISE BENTZEN} and
+JANET BARLOW}
+{Western Michigan University, Kalamazoo, Michigan, USA
+{Vanderbilt University Medical Centre, Nashville, Tennessee, USA
+}Boston College and Accessible Design for the Blind, Boston, Massachusetts,
+USA
+Keywords: Blind; Visual impairment; Pedestrian; Street crossing; Audible signal;
+Accessible signal.
+Typical audible pedestrian signals indicate when the pedestrian walk interval is in
+eﬀect but provide little, or even misleading information for directional alignment.
+In three experiments, blind and blindfolded sighted adults crossed a simulated
+crossing with recorded traﬃc noise to approximate street sounds. This was done to
+investigate how characteristics of signal presentation aﬀected usefulness of the
+auditory signal for guiding crossing behaviour. Crossing was more accurate when
+signals came only from the far end of the crossing rather than the typical practice of
+presenting signals simultaneously from both ends. Alternating the signal between
+ends of the crossing was not helpful. Also, the customary practice of signalling two
+parallel crossings at the same time drew participants somewhat toward the
+opposite crossing. Providing a locator tone at the end of the crossing during the
+pedestrian clearance interval improved crossing accuracy. These ﬁndings provide a
+basis for designing audible pedestrian signals to enhance directional guidance. The
+principal ﬁndings were the same for blind and sighted participants and applied
+across a range of speciﬁc signals (e.g. chirps, clicks, voices).
+1.
+Introduction
+The opportunity for pedestrians to cross streets is essential for environmental
+accessibility, yet this is a risky activity. In the USA 4906 pedestrians were fatally
+injured by motor vehicles in 1999, accounting for 11.2% of all transportation-related
+deaths (US Department of Transportation 2000). Half of these fatalities were
+attributed to pedestrians being in the roadway at an unsafe place or time. Safe
+pedestrian travel requires prudent decisions about when to cross streets as well as the
+ability to cross accurately and eﬃciently (Bentzen et al. 2000, Carroll and Bentzen
+2000, Yauch and Davis 2001). The concept of universal design of the built
+environment assumes that many individuals with disabilities can travel indepen-
+dently if they have access to the right information (Bentzen 1997). However,
+*Author for correspondence. Western Michigan University, Department of Blind Rehab-
+ilitation and Low Vision Studies, 1903 West Michigan, Mail Stop 5218, Kalamazoo, MI 49008,
+USA. e-mail: robert.wall@wmich.edu
+Ergonomics ISSN 0014-0139 print/ISSN 1366-5847 online # 2004 Taylor & Francis Ltd
+http://www.tandf.co.uk/journals
+DOI: 10.1080/00140130410001712609
+ERGONOMICS, 10 OCTOBER, 2004, VOL. 47, NO. 12, 1318 – 1338
+
+pedestrians with visual impairments have limited information about the layout of
+streets, crossings, signs, light signals, and traﬃc movements.
+One aspect of universal design is provision of accessible pedestrian signals (APSs)
+at crossings where visible signals are employed. Accessible signals are usually
+auditory but may include tactile arrows and vibration (Hulscher 1976, Oliver 1989,
+Szeto et al. 1991). In the UK, APSs are generally presented from the unit containing
+a pushbutton used to request a crossing signal (Traﬃc Advisory Unit 1991).
+Although the signal may be audible to pedestrians at other locations in the vicinity,
+this system is not designed for directional beaconing and the remote audibility of
+signals is regarded as potentially confusing. In fact, the policy is to avoid using
+audible signals at intersections unless there is a signalized traﬃc interval when all
+vehicles at the intersection are stopped, to avoid confusion about which crossing has
+the walk signal. The primary purpose of such installations of audible signals is to
+convey when the pedestrian walk interval is in eﬀect, just like a visible WALK signal.
+However, to best serve the needs of pedestrians with sensory impairments the wider
+scope of information should be taken into account (Bentzen and Tabor 1998). This
+includes directional guidance provided by audible signals; tones indicating the
+presence and location of a push-button; tactile arrows parallel to the crossing; speech
+messages identifying streets and providing information about the intersection; and
+tones to acknowledge button presses.
+With the increasing complexity of modern intersections and the need to deal with
+high levels of traﬃc volume, pedestrians with visual impairments often require
+assistance in making safe street crossings. Previous research has shown that lowering
+signal-to-noise ratios or introducing competing signals raises minimum audible
+angles (Jacobsen 1976, Perrott 1984) and decreases localizability of sounds (Lorenzi
+et al. 1999a,b). Good and Gilkey (1994, 1996) found that the ability to accurately
+localize sounds decreased when signal-to-noise ratios were decreased and documen-
+ted that front/back accuracy was most strongly aﬀected, followed by up/down
+di
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+2.1.1. Participants:
+The participants were six blind and six sighted adults with
+mean ages of 44 (30 – 54) and 31 (27 – 38) years, respectively. Each group had four
+women and two men. One of the blind participants had minimal light perception and
+the others had no light perception, so none could visually detect the experimental
+apparatus. All blind participants were experienced long cane users with occasional to
+frequent independent travel including street crossings. They were allowed to use a
+cane during testing, but only one chose to do so and her performance did not diﬀer
+from the others. The sighted participants wore a blindfold which did not interfere
+with their hearing. All participants passed a pure tone hearing screening for each ear
+with audiometer tones of 25 dB HL at frequencies of 0.5, 1, 2, and 4 kHz played
+through Telephonics TDH39P earphones.
+2.1.2. Apparatus:
+The setting was a large parking lot containing an artiﬁcial
+crossing as shown in ﬁgure 1. On each end of the 20 m crossing were Tannoy System
+600 loudspeakers on 8-ft stepladders, pointing toward one another. The
+loudspeakers have excellent transmission from 100 through 10 000 Hz. Commer-
+cially available audible pedestrian systems have loudspeakers with poorer trans-
+1321
+Audible pedestrian signals
+
+mission, especially in the low frequencies, because of the demand for weather
+tolerance and small size. In this experiment, however, we wanted to compare various
+signals without the complication of loudspeaker characteristics. Start/ﬁnish lines
+were marked in chalk 2 m in front of each loudspeaker. These lines, corresponding
+to the curb location, deﬁned the starting and ﬁnishing points for each traversal of the
+crossing. The crossing distance was therefore 16 m, or equivalent to about four lanes
+of traﬃc. The start/ﬁnish lines, as well as a halfway line, had hash marks every 0.2 m.
+As the participant walked, an experimenter recorded the lateral deviation from an
+ideal straight crossing at the halfway line and at the ﬁnish line, interpolating to the
+nearest 0.1 m. There were no curbs, nor did any paving features coincide with the
+start/ﬁnish lines, halfway line, or ideal straight travel path. Traﬃc noise from a large
+intersection was pre-recorded using a quality microphone and digital tape deck.
+Samples were recorded when traﬃc in the near lanes was heavy and in motion, thus
+avoiding the initial traﬃc surge as well as quiet periods. During testing, a tape of
+traﬃc noise was played continuously through a public address system with four
+Figure 1. Arrangement for simulated crossings. The study space was a large open parking lot
+extending in all directions. The grey shading indicates streets for purposes of this
+illustration, but there were no actual pavement structures corresponding to streets or
+sidewalks. Open triangles show locations of loudspeakers for audible pedestrian signals.
+Filled diamonds show loudspeakers through which background traﬃc noise was
+presented. Participants used crossing A in all experiments. The curved line diverging
+from crossing A shows an example of a veering path as a pedestrian walks from south to
+north. Error scores were lateral deviations from the ideal straight travel path, measured at
+the halfway and end points. In experiments 2 and 3 the audible pedestrian signals for
+crossing B were activated in addition to those for crossing A on half the trials. The
+drawing scale is not exact.
+1322
+R. S. Wall et al.
+
+loudspeakers placed on the ground. The traﬃc noise averaged 70 dB (A-scale) at the
+middle of the crossing.
+By using four loudspeakers for the background traﬃc noise, these studies
+studied only the ability of pedestrians to make use of signal information within the
+context of a noisy background. No attempt was made to provide directional
+information as would be available from the movement of traﬃc at an actual
+intersection. As such, performance of the task in these studies is a ‘worst case
+scenario’ in which a pedestrian relies only on the signal for guidance and makes
+no use of the auditory cues for alignment and/or guidance from the traﬃc. This
+was done so that the eﬀect of the signal could be separated from the eﬀect of
+traﬃc cues. Other research has performed similar tasks under actual traﬃc
+conditions (Laroche et al. 2001).
+The ﬁve walk signals (chirp, cuckoo, toks, clicks, and voice) are representative of
+signals in wide use or which show promise for directional beaconing. Table 1
+summarizes characteristics of the signals.
+Each signal was stored as a digital ﬁle. The duration of each signal presentation
+was 7 s from start to ﬁnish, although the number of repetitions within that time
+period varied by signal. The 7 s duration corresponds to the standard walk interval
+for a crossing in the USA. All signals were presented at a level of 72 dB (C-scale)
+measured at ear level for a participant standing 2 m from the loudspeaker. The C-
+scale was used because the click signal was concentrated at low frequencies which
+were ﬁltered out by the A-scale. For the sound level measurements only one
+loudspeaker was active. Signal output was through a 16-bit computer sound card
+and Crown D75-A ampliﬁers. By adjusting the ampliﬁers the signal could be
+presented from a single loudspeaker at one end of the crossing or from both
+loudspeakers. These signal modes are designated, respectively, as far end only or
+simultaneous. The sound level from a single loudspeaker dropped by approximately
+6 dB for every doubling of distance to about 54 dB-C at the far end of the crossing.
+2.1.3. Design and procedure:
+The independent variables were signal (chirp, cuckoo,
+toks, clicks, voice) and signal mode (far end only, simultaneous) as repeated-
+measures factors, and vision status (blind, sighted) as a between-groups factor. Each
+participant completed ﬁve blocked trials of each combination of signal and signal
+mode, for a total of 50 trials. For a given signal, the far end only and simultaneous
+Table 1.
+Characteristi
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. Arrangement for simulated crossings. The study space was a large open parking lot
+Table 1
+Table 1.
+Figure 2. Experiment 1, mean total error at endpoint of the crossing for blind and sighted
+Figure 3 shows the mean total
+Figure 3. Experiment 1, mean total error scores at crossing endpoint for individual
+Figure 4. Experiment 2, mean total error at the endpoint of the crossing for the three signal
+Figure 5 shows means
+Figure 5. Experiment 3. Mean total error scores by signal mode and presence of locator tone
+Figure 6 shows the average constant errors
+Figure 6. Experiment 3. Mean constant errors for trials on which the parallel crossing was on
+Table 98, Washington, DC.

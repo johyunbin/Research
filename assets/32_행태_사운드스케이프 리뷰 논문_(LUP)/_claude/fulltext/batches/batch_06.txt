@@ -1,0 +1,1386 @@
+### RECORD ID=1009 | screening_verdict=BORDERLINE | year=2024
+JOURNAL: HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+TITLE: Effect of human sound component on the sociability of urban public spaces-a case study in Sheffield, UK
+DOI: 10.1057/s41599-024-03929-y
+PAGES: 11
+
+--- HEAD (title/abstract/intro) ---
+ARTICLE
+Effect of human sound component on the
+sociability of urban public spaces—a case study in
+Shefﬁeld, UK
+Jingwen Cao
+1 & Jian Kang
+2✉
+Soundscape quality is important for fostering social interactions in urban public spaces. This
+study focuses on how and to what extent the compositions of the soundscape affect the
+sociability of urban public spaces where human sound is focused. Four 360° experimental
+soundscape samples were designed as foreground/background/no human sound type and
+signal sound type, based on the raw data collected in Peace Gardens, Shefﬁeld, United
+Kingdom. Following Affordance Theory, sociability was analyzed by the experimental survey
+through two aspects—suitability and stimulation level—through a questionnaire consisting of
+Soundscape Quality evaluation (SQE) and Level of Willingness for social interactions (LoW),
+respectively. 120 participants were recruited in the same site representing the compositions
+of space users. Results show that only foreground human sound type signiﬁcantly enhanced
+both suitability and stimulation levels, other samples were evaluated with either high suit-
+ability/low stimulation or low suitability/high stimulation. Results indicate people prefer a
+human sound dominated soundscape with high complexity and this preference was varied
+among different companion types and age groups. To achieve high sociability, it is suggested
+to create a complex and eventful soundscape within the range of pleasantness accompanied
+by a centripetal spatial form, and concerns users' diverse demographic backgrounds.
+https://doi.org/10.1057/s41599-024-03929-y
+OPEN
+1 School of Architecture and Urban Planning, Nanjing University, 210093 Nanjing, China. 2 Institute for Environmental Design and Engineering, University
+College London, London WC1H 0NN, UK. ✉email: j.kang@ucl.ac.uk
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2024) 11:1523 | https://doi.org/10.1057/s41599-024-03929-y
+1
+1234567890():,;
+
+Introduction
+Background. Urban sounds, as one part of urban experiences,
+have become important in the urban design process (van Kempen
+et al., 2014; Hasegawa et al., 2022). Especially in outdoor spaces,
+sound quality can inﬂuence the social activities, public health, and
+physical well-being of urbanites considering various noise pro-
+blems (Ludvigsen, 2006). Previous studies have sought sustainable
+sound strategies to inﬂuence the relationship between urbanites
+and their acoustic environment, to minimize the negative aspects
+of sounds (Fields, 1997; Hinton and Bloomﬁeld, 2000; Kang,
+2012), and to maximize the acoustic comfort level (Meng et al.,
+2017; Xiao et al., 2018). Soundscape evaluation was then intro-
+duced as an approach to evaluate the reactions of people toward
+experimental sound environments and address the perceptual
+aspect of sounds (Aletta et al., 2016; Brown et al., 2007; Xu and
+Kang, 2019). The concept of ‘soundscape’ emerged to emphasize
+the perceptual aspect of the acoustic environment in analogy to
+‘(visual) landscape’ (Cain et al., 2013). The term ‘soundscape’ was
+recently deﬁned in ISO 12913 as: [the] acoustic environment as
+perceived or experienced and/or understood by a person or
+people,
+in
+context
+(International
+Organization
+for
+Standardization, 2014). Although massive efforts have been made
+for acoustic improvements and evaluations, capturing the com-
+plexity of qualitative urban auditory experience in a real-life
+setting remains a challenge (Bild et al., 2018; Tong and Kang,
+2021; Brown et al., 2011).
+Urban soundscape experiences and soundscape evaluations.
+Experiences in urban public spaces are greatly inﬂuenced by the
+acoustic environment, especially when conducting noise-sensitive
+activities (Yang and Kang, 2005). The concept of soundscape
+focuses on the perceptual aspect of the acoustic environment and
+gained prominence in the 1970s. After several decades of
+research, researchers have summarized a series of soundscape
+evaluation approaches for exploring sound perceptions. Kang and
+Zhang (2010) identiﬁed four key elements of soundscapes in
+urban public spaces—relaxation, communication, spatiality, and
+dynamics. These elements covered the main facets of the acoustic
+design of urban public spaces: function (relaxation and commu-
+nication), space and time. The functional facet indicates that
+people perceive sounds through their requirements for activities
+(Marquis-Favre et al., 2005; Payne and Guastavino, 2013). In
+other words, the evaluations of soundscape should adequately
+reﬂect the supportiveness of the acoustic environment for the two
+activities- relaxation and communication. To conduct soundscape
+evaluations in outdoor settings, Soundscape Quality Evalua-
+tion(SQE) has been widely applied, addressing the overall per-
+ceptions of the acoustic environment (Aletta et al., 2016). SQE
+usually involves various types of adjective descriptors and phrases
+that describe different aspects of the soundscape in order to
+measure perceptions. In this study, SQE indicators for the two
+major outdoor activities–relaxation and communication, were
+built upon two previous classic studies by Kang and Zhang (2010)
+and Axelsson et al. (2010). Kang and Zhang (2010) identiﬁed
+indicators
+for
+relaxation
+such
+as
+comfort–discomfort,
+quiet–noisy, pleasant-unpleasant, like–dislike, etc. Communica-
+tion indicators include social–unsocial, meaningful–meaningless,
+calming–agitating, etc. (Kang and Zhang, 2010; Axelsson et al.,
+2010). Axelsson et al. (2010) proposed a two-dimensional model
+with two indicators, pleasantness and eventfulness, representing
+relaxation and communication activities, respectively. Among
+these indicators, stressful (peaceful), eventful (uneventful/dull),
+pleasant (unpleasant/annoying) and safe (unsafe) were the mostly
+used descriptors in urban public spaces (Nilsson and Berglund,
+2006; Axelsson et al., 2010). Various inﬂuential factors, including
+physical, behavioral, social/demographic and psychological fac-
+tors, were suggested to be conside
+
+--- METHODS/RESULTS EXCERPT ---
+Methods” section describes the
+research site, data acquisition methods and analysis methods of
+this study with the aim to achieve the research objectives; the
+“Results” section explains the results and implications of the data
+analysis; and the “Discussion” section discusses the complexity of
+sound environments in urban public spaces and the varied
+soundscape preferences of people from diverse demographic
+backgrounds.
+Methods
+Designing 360° soundscape samples with sound interventions.
+To explore the effect of the compositions of sound sources, four
+experimental soundscape samples were designed, with the tar-
+geted human sound applied as the positive intervention, and the
+disturbed signal sound included as the negative intervention.
+Each soundscape sample was displayed using a 360° video:
+1. V1 (Positive intervention): Foreground human sound type,
+human sound was added in the foreground, with a pleasant
+background sound;
+2. V2 (Positive intervention): Background human sound type,
+human sound was added in the background, mixed with a
+pleasant background sound;
+3. V3 (No intervention): No human sound type, peaceful and
+pleasant soundscape without human sound;
+4. V4 (Negative intervention): Signal sound type, loud signal
+sound was added in the foreground, with a pleasant
+background human sound.
+All four soundscape samples were based on the actual sound
+compositions in urban public spaces. Previous studies have found
+that people classify sounds into foreground and background during
+the initial stage of sound perception (Davies et al., 2013; Sun et al.,
+2019). When sounds are in the foreground, they tend to be more
+prominent and louder, capturing people’s attention (Davies et al.,
+2013). In urban public spaces with dense crowds, human sounds are
+closer and louder, making them more noticeable. Therefore, human
+sounds were designed to simulate high or low crowd density by
+placing them in the foreground or background respectively (De
+Coensel et al., 2017; Sun et al., 2019). V3 was designed as a control
+sample with no human sound intervention. V4 was designed to be a
+negative sound type that would interrupt people’s activities.
+The workﬂow of designing the four 360° soundscape samples is
+displayed in Fig. 1.
+First, raw data, including multi-track location recordings and
+360° videos, were collected in Peace Gardens, Shefﬁeld, UK, using
+a four-channel Ambisonic digital recorder (Zoom H3-VR) and a
+Ricoh Theta SC camera. Recording events took place from 9.00
+a.m. to 12.00 p.m. noon and 2.00 p.m. to 5.00 p.m., during May
+2019, when the weather was mild and warm. The duration of each
+recording lasted for 3 min. The sampling rate is 48 kHz, and the
+depth of the recordings is 24 bits. The duration of each recording
+is 3 min. The recorder and 360 camera were ﬁxed on one tripod,
+which were kept the same as the normal sitting height (calculated
+at 115 cm from the ear level to the ground level), to ensure that
+the captured sound and images were at a sitting angle. In order to
+maintain consistency in the scene and function of soundscape
+samples as well as to minimize disruptions to users’ activities
+Fig. 1 Workﬂow of editing the 360° soundscape samples (V1,V2,V3,V4). The ﬁgures shown in the ﬂow chart are the facilities used for raw data
+collection, the cover image of each 360° video, as well as the example of participant watching soundscape samples; the ﬂow chart also present the detailed
+design process of six soundtracks of each sample.
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | https://doi.org/10.1057/s41599-024-03929-y
+ARTICLE
+HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS | (2024) 11:1523 | https://doi.org/10.1057/s41599-024-03929-y
+3
+
+during the data collection process, the shooting location of all
+video samples was positioned at the center of the Peace Gardens,
+maintaining a distance from the participants. As a result, 31
+recordings and 8 videos were captured, with each sample
+displaying the same range of frames, minimizing differences
+caused by variations in images.
+Second, the collected recordings and videos were thoroughly
+reviewed and organized, in preparation for the soundscape design
+stage. As mentioned in the literature review section, socially
+interactive sounds of human activities enhanced soundscape
+evaluations (Bild et al., 2018). Thus, various types of human
+sounds, including talking, laughing, singing, and any other
+sounds generated during social interactions, were recorded during
+the ﬁeldwork. The sound signal recorded using the Ambisonics
+method (First Order Ambisonics) can be computationally
+transformed into a number of relevant formats. This study
+decoded them into 5.1 Atmos format with six soundtracks:
+Center (C), Left (L), Right (R), Left surround (Ls), Right surround
+(Rs), and low-frequency effect (LFE), the particular track of
+human sounds were selected and prepared for the subsequent
+edition.
+Third, the tracks and videos were edited in Adobe Audition CC
+according to the four targeted soundscape features shown in Fig.
+1. For example, V1 was added as foreground human sound tracks
+in C, L and R track—people could hear human sound at a short
+distance. To ensure that the edited sounds corresponded with the
+overall content and angles of objects in the video, only suitable
+types of human sounds were added. The human sounds of the
+four samples were mainly talking and laughing sounds. Each
+video was about 20–30 s. Participants watched the four recorded
+videos on their phones through Google Cardboard glasses and a
+headphone. A spectrum of each soundscape sample (all tracks) is
+shown in Fig. 2.
+Data collection. The suitability level was analyzed through
+Soundscape Quality Evaluations (SQE) based on past studies,
+indicating whether a soundscape can support users’ social activ-
+ities.
+SQE
+comprises
+four
+aspects
+of
+evaluations:
+Stressful–Peaceful
+(SQE-SP),
+Uneventful–Eventful
+(SQE-E),
+Unsafe–Safe (SQE-S), and Unpleasant–Pleasant (SQE-P). The
+stimulation level was analyzed through the Levels o
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1.
+Fig. 1 Workﬂow of editing the 360° soundscape samples (V1,V2,V3,V4). The ﬁgures shown in the ﬂow chart are the facilities used for raw data
+Fig.
+1. For example, V1 was added as foreground human sound tracks
+Fig. 2.
+Fig. 2 Spectra from the four soundscape samples. V1—foreground human sound = blue line; V2—background human sound = purple line; V3—no human
+Figure 3 illustrates the mean values of
+Fig. 3, human sound interventions sig-
+Fig. 3 Mean values of SQE-SP/E/S/P evaluations of V1–V4. 1–5 represent the evaluations between the two extremes.
+Figure 4 denotes the
+Fig. 4e,
+Table
+1), with the negative coefﬁcient ﬁgures (R) of −0.233 and −0.206.
+Fig. 5) divides four quadrants with the Suitability level as the X-
+Fig. 4 Percentage of LoW-C/E/S evaluations of the four soundscape samples. a V1, b V2, c V3, d V4, and e mean values of the LoW-C/E/S evaluations
+Table 1 Correlation analysis of social willingness levels in relation to frequency, companion types and age, and the two-sample t-
+Fig. 5 The four soundscape samples (V1,V2,V3,V4) situated in three different quadrants indicating the relationship between soundscape suitability
+
+======================================================================
+
+### RECORD ID=1138 | screening_verdict=BORDERLINE | year=2025
+JOURNAL: ACOUSTICS
+TITLE: Horn Use Patterns and Acoustic Characteristics in Congested Urban Traffic: A Case Study of Ho Chi Minh City
+DOI: 10.3390/acoustics7020036
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Academic Editors: Yat Sze Choy and
+Jian Kang
+Received: 15 April 2025
+Revised: 10 June 2025
+Accepted: 13 June 2025
+Published: 16 June 2025
+Citation:
+Nguyen, T.; Nishimura, Y.;
+Nishimura, S. Horn Use Patterns and
+Acoustic Characteristics in Congested
+Urban Traffic: A Case Study of Ho Chi
+Minh City. Acoustics 2025, 7, 36.
+https://doi.org/10.3390/
+acoustics7020036
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Horn Use Patterns and Acoustic Characteristics in Congested
+Urban Traffic: A Case Study of Ho Chi Minh City
+Thulan Nguyen 1,*
+, Yuya Nishimura 2 and Sohei Nishimura 3
+1
+Department of Architecture, Osaka Metropolitan University, Osaka 558-8585, Japan
+2
+Department of Control and Information System Engineering, Kumamoto National College of Technology,
+Kumamoto 861-1102, Japan; nishimura@kumamoto-nct.ac.jp
+3
+Department of Mechanical and Intelligent System Engineering, Kumamoto National College of Technology,
+Kumamoto 861-1102, Japan; nisimura@kumamoto-nct.ac.jp
+*
+Correspondence: lan@omu.ac.jp; Tel.: +81-6-6605-2710
+Abstract: Motorcycle horns are a dominant source of urban noise in many Southeast Asian
+cities, driven by high two-wheeler density and limited public transport infrastructure.
+Although automobiles have been in use for over a century, regulations governing horn
+design and volume control remain inadequate. This study investigates horn use behavior
+in Vietnamese urban traffic, identifying distinct acoustic patterns categorized as “attention”
+and “warning” signals. Measurements conducted in an anechoic chamber reveal that
+these patterns can increase sound pressure levels by up to 17 dB compared to standard
+horn use, with notable differences in frequency components. These levels often exceed
+the daytime noise thresholds recommended by the World Health Organization (WHO),
+indicating potential risks for adverse health outcomes, such as elevated stress, hearing
+damage, sleep disturbance, and cardiovascular effects. The findings are contextualized
+within broader efforts to manage traffic noise in rapidly developing urban areas. Drawing
+parallels with studies on aircraft noise exposure in Japan, this study suggests that long-term
+exposure, rather than peak noise levels alone, plays a critical role in shaping community
+sensitivity. The study results support the need for updated noise regulations that address
+both the acoustic and perceptual dimensions of road traffic noise.
+Keywords: motorcycle horn; urban noise; acoustic characteristics; traffic congestion;
+Vietnam; noise regulation; sound pressure level; public health acoustics
+1. Introduction
+The issue of road traffic noise is a widespread societal challenge in urban areas glob-
+ally, with public responses to noise influencing guidelines for transportation planning
+and environmental management. Rapid economic growth in developing Asian countries
+has intensified environmental concerns, particularly related to traffic noise and exhaust
+emissions [1,2]. This problem is compounded by the high volume of motorcycle traffic
+and the frequent use of motorcycle horns. In these nations, the lack of adequate public
+transportation systems, such as trains and subways, leaves motorcycles as the predominant
+mode of transport. Motorcycles are especially well-suited for short- to medium-distance
+travel, navigating narrow streets and areas with limited infrastructure. Their affordabil-
+ity in terms of both purchase and maintenance also makes them a practical and efficient
+vehicle choice.
+In 2005 and 2007, Phan et al. [3,4] conducted extensive socio-acoustic surveys to assess
+community responses to road traffic noise in Vietnam, focusing on the characteristics of
+Acoustics 2025, 7, 36
+https://doi.org/10.3390/acoustics7020036
+
+Acoustics 2025, 7, 36
+2 of 16
+horn sounds from motorbikes. Their findings indicated that noise levels in Hanoi ranged
+from 70 to 83 dB, while Ho Chi Minh City recorded levels between 75 and 83 dB. A
+staggering 93% of respondents found road traffic noise unpleasant, with 86% expressing
+daily displeasure, particularly during the early morning, afternoon, and evening. The
+recent survey on cyclists’ exposure to road traffic noise in Ho Chi Minh City by Gelb and
+Apparicio [5] found an average level of 78.8 dB, confirming consistently high levels of road
+traffic noise exposure. The research emphasized the necessity of incorporating effective
+noise assessments and recognized the influence of factors such as horn sound components
+on noise annoyance.
+Unlike European and Korean contexts, where cars are the primary source of noise
+pollution, motorbikes are the dominant contributor in Vietnam. Interestingly, Vietnamese
+respondents reported lower levels of annoyance related to road traffic noise compared
+to their European and Korean counterparts [6]. This discrepancy may be attributed to
+the unique characteristics of road traffic noise in Vietnam, which is marked by a heavy
+reliance on motorbikes and frequent horn usage. Gjestland et al. [7] tackled this issue by
+developing dose–response functions specific to Vietnam, which include both aircraft and
+road traffic noise. A comparative analysis of these results with findings from similar studies
+in other geographical regions revealed that individuals in Vietnam generally demonstrate
+higher tolerance levels to noise. To align the response curve with recommendations from
+the European Noise Directive, noise levels would need to be increased by approximately
+5 to 10 dB. As a result, responses to annoyance and sleep disturbance caused by noise
+and vibration would intensify, particularly considering that crash noise generated by
+motorcycles significantly impacts these responses.
+The applicability of Western-derived knowledge on road traffic noise exposure is not
+fully established in large Asian ci
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Noise Source and Traffic Condition Data
+In Vietnam, motorcycles have historically been primarily imported from Japan, but
+local production has recently seen significant growth. The 125cc motorcycle, a widely pre-
+ferred choice for both commuting and transporting goods, is prevalent. These motorcycles
+
+Acoustics 2025, 7, 36
+4 of 16
+are typically equipped with electromechanical diaphragm horns, which were selected for
+this study due to their affordability, compact structure, and widespread usage in urban
+traffic. The selected horn type was verified through a market survey of available horn
+models, and the representative sample used in our experiments is shown in Figure 1 [12].
+Figure 1. Appearance and structure of motorcycle horn.
+When the horn button on the handlebar is pressed, an electric current flows from the
+terminals through the contact points to the coil, generating a magnetic field that exerts a
+pulling force. This force causes the armature and diaphragm to move, initiating vibration
+and producing sound. The vibration is transmitted through the resonator, where the sound
+is amplified and shaped before being emitted. Conversely, when the shaft collides with the
+electromagnet, the contact point disengages, interrupting the current. At this moment, the
+diaphragm retracts the shaft to its original position after being attracted to the pole. This
+cycle repeats continuously until the horn button is released.
+Although the horn mechanism is designed to produce a relatively consistent sound
+pressure level (SPL) when continuously activated, real-world road traffic situations reveal
+fluctuations in sound pressure levels based on the timing and manner of horn button
+activation. Thus, it is important to analyze actual horn-use patterns to better understand
+these SPL variations during short, intermittent activations.
+To examine actual horn usage patterns, we recorded traffic conditions using a high-
+definition video camera and a calibrated sound level meter (RION NL-28). Data collection
+was conducted on Hoang Van Thu Street in Ho Chi Minh City, a key urban artery connecting
+multiple districts and Tan Son Nhat International Airport. Recordings were carried out
+during weekday morning and evening rush hours to capture peak traffic conditions and
+representative horn usage behavior.
+2.2. Collection of Horn Sound Patterns
+Horn pattern selection was based on a combination of empirical measurements and
+qualitative interviews. Specifically, structured interviews were conducted with 10 experi-
+enced motorcycle taxi drivers and 20 university students who commute daily by motorcycle.
+Participants were recruited through flyers and in-person invitations at motorcycle parking
+areas on university campuses and transport hubs. All participants provided informed
+consent prior to participation. Based on both participant input and observations of typical
+horn behavior, horn usage was classified into two main types: “attention” signals and
+“warning” signals. These categories and their associated horn button activation patterns
+
+Acoustics 2025, 7, 36
+5 of 16
+are illustrated in Figure 2. The identified patterns reflect the informal yet culturally shaped
+acoustic signaling behavior of Vietnamese motorcyclists in congested urban environments.
+Figure 2. The patterns of horn sounds frequently used in Vietnam: Attention Patterns P1–P3; Warning
+Pattern P4–P6.
+Attention Pattern [P1] involves a single short press of the horn button, typically lasting
+between 0.5 and 0.7 s. This pattern is commonly used when driving at low speeds to alert
+the vehicle in front to accelerate or become aware of the presence of the hornblower behind
+them. Additionally, it is used to acknowledge a nearby friend who is either driving or
+walking. Attention Pattern [P2] consists of a double tap of the horn button. Each press
+lasts about 0.5 to 0.7 s, with an interval (N) of approximately 0.3 to 0.5 s between taps. This
+pattern is often used to reinforce a previous signal or prompt the vehicle ahead to accelerate
+or to issue a second warning. The duration of horn button presses is the same as that
+of [P1], but the interval time between double taps (N) varies depending on the vehicle’s
+speed. Attention Pattern [P3] involves three short horn presses, typically following [P2], to
+encourage the vehicle ahead to accelerate or to issue a second warning. The duration of each
+press remains consistent with [P1] (0.5 to 0.7 s), with inter-press intervals of approximately
+0.3 s.
+Warning Pattern [P4] is similar to [P1] but involves a more prolonged horn press, often
+exceeding 1 s. It is typically used at higher driving speeds when the leading vehicle is
+moving slowly. This extended honk is intended to attract attention more forcefully and
+communicate urgency. Warning Patterns [P5] and [P6] involve multiple short horn presses
+followed by a final continuous press. These patterns are often used to advise nearby drivers
+to exercise extra caution and may also convey the horn user’s irritation or frustration.
+2.3. Data Analysis
+To analyze the acoustic characteristics of each horn pattern, controlled experiments
+were conducted using the setup illustrated in Figure 3. A 125 cc motorcycle horn, commonly
+used in Vietnam, was placed at the center of an anechoic chamber. The horn was acti-
+vated using a computer-generated signal transmitted through a custom horn drive circuit,
+ensuring consistent and repeatable signal patterns. The horn and the sound level meter
+(RION NL-28) were mounted at heights of 0.5 m and 1.5 m above the floor, respectively,
+in accordance with Article 141 of the Japanese Safety Standard for Road Transportation
+
+Acoustics 2025, 7, 36
+6 of 16
+Vehicles [24]. This setup allowed for precise and controlled analysis of the horn’s acoustic
+properties. As an anechoic chamber eliminates sound reflections from the walls, ceiling,
+and floor, the measurement captured only the direct sound field. To simulate realistic re-
+flective conditions and obtain r
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 [12].
+Figure 1. Appearance and structure of motorcycle horn.
+Figure 2. The identified patterns reflect the informal yet culturally shaped
+Figure 2. The patterns of horn sounds frequently used in Vietnam: Attention Patterns P1–P3; Warning
+Figure 3. A 125 cc motorcycle horn, commonly
+Figure 3. Block diagram of the experimental apparatus.
+Figure 4 illustrates the power spectrum of horn Pattern [P1], providing detailed
+Figure 4. Power spectrum of Pattern [P1].
+Figure 1, involves the pressing of the horn button, which causes an electric current to flow
+Figure 5 presents a
+Figure 6 shows the frequency characteristics of Pattern [P2], represented by the solid
+Figure 7, the arranged peak levels of [P1] and [P2] reveal the
+Figure 8 compares two variations in [P2] with different time intervals (M) between two
+Figure 5. One-third octave frequency characteristic of [P1].
+Figure 6. Comparison between [P1] and [P2].
+Figure 7. Characteristic of [P1] and [P2] when arranging those peak values.
+Figure 8. Characteristic of [P2] when changes the time interval of two horn sounds.
+Figure 9, [P2] is compared with Pattern [P3], which consists of three horn presses.
+Figure 9. Comparison between [P2] and [P3].
+Figure 10 compares [P1] and Warning Pattern [P4], which features a longer horn button
+Figure 11. Pattern
+Figure 10. Comparison between [P4] and [P1].
+Figure 11. Comparison between [P4] and [P5].
+Figure 12 compares [P1] with [P6], which consists of two short honks followed
+Figure 13, where the solid line represents Pattern [P1], and the
+
+======================================================================
+
+### RECORD ID=1154 | screening_verdict=BORDERLINE | year=2025
+JOURNAL: FRONTIERS IN PUBLIC HEALTH
+TITLE: Lunch breaks as a buffer: mitigating the negative effects of road traffic noise on urban employee workplace behavior
+DOI: 10.3389/fpubh.2025.1681862
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Frontiers in Public Health
+01
+frontiersin.org
+Lunch breaks as a buffer: 
+mitigating the negative effects of 
+road traffic noise on urban 
+employee workplace behavior
+Jianglin Ke 1, Zhaoyue Wang 2, Yufei Zhang 1*, Lidan Liu 1 and 
+Qiongwei Wang 1
+1 School of Government, Beijing Normal University, Beijing, China, 2 School of Public Administration 
+and Policy, Renmin University of China, Beijing, China
+Introduction: The impact of road traffic noise annoyance on individual health is 
+well-documented in environmental and health studies. However, less attention 
+has been given to its negative effects on employees’ work behaviors and 
+effective mitigation strategies.
+Methods: Drawing on conservation of resources theory and general strain 
+theory, this research conducted a three-wave survey involving 816 urban 
+employees from 304 Chinese cities.
+Results: The results revealed a significant positive correlation between residential 
+road traffic noise annoyance and employees’ mental health complaints, work 
+withdrawal, and workplace aggressive behaviors. Mental health complaints were 
+confirmed to fully and partially mediate the relationship between noise annoyance 
+and work withdrawal and workplace aggressive behaviors, respectively. The 
+organizational lunch break environment negatively moderates the link between 
+residential road traffic noise annoyance and mental health complaints.
+Discussion: These findings underscore the importance of addressing noise 
+annoyance to enhance both employee welfare and organizational efficacy.
+KEYWORDS
+residential road traffic noise annoyance, mental health complaints, work withdrawal, 
+workplace aggressive behaviors, organizational lunch break environment
+1 Introduction
+Road traffic noise annoyance is a psychological construct defined as an individual’s 
+cognitive and emotional evaluation of an acoustic environment influenced by vehicular noise, 
+which may result in a feeling of partial helplessness and the need to undertake undesired actions 
+(1). Currently, research on road traffic noise annoyance has garnered significant attention from 
+scholars. This is due to the fact that, in contrast to objective measures of noise, noise annoyance 
+focuses on individuals’ specific sensitivity and vulnerability to noise, which is more closely 
+related to health outcomes (2). Among the existing studies of road traffic noise annoyance, 
+scholars have pay attention to the measurement of road traffic noise annoyance (1, 3). The 
+effects of acoustic parameters and non-acoustic parameters (e.g., occupation and income) on 
+road traffic noise annoyance, and the relationship between road traffic noise annoyance and 
+mental health issues (e.g., depression, anxiety, anger, and distraction, etc.) (4, 5). In order to 
+gain a more comprehensive understanding of the effects of road traffic noise annoyance, some 
+scholars have called for more research on the effects of road traffic noise annoyance on work-
+related attitudes and behaviors of employees (5). In the field of organizational behavior research, 
+the issue of family–work conflict and enrichment has received widespread attention. 
+Nevertheless, previous literature has paid limited attention to how road traffic noise annoyance 
+OPEN ACCESS
+EDITED BY
+Sasho Stoleski, 
+Saints Cyril and Methodius University of 
+Skopje, North Macedonia
+REVIEWED BY
+Ellyssa Abdelmoula, 
+Carthage University, Tunisia
+Yang Liu, 
+Shandong Normal University, China
+*CORRESPONDENCE
+Yufei Zhang 
+ yff667@outlook.com; 
+ 202331260003@mail.bnu.edu.cn
+RECEIVED 08 August 2025
+ACCEPTED 06 October 2025
+PUBLISHED 24 October 2025
+CITATION
+Ke J, Wang Z, Zhang Y, Liu L and 
+Wang Q (2025) Lunch breaks as a buffer: 
+mitigating the negative effects of road traffic 
+noise on urban employee workplace 
+behavior.
+Front. Public Health 13:1681862.
+doi: 10.3389/fpubh.2025.1681862
+COPYRIGHT
+© 2025 Ke, Wang, Zhang, Liu and Wang. This 
+is an open-access article distributed under 
+the terms of the Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other forums is 
+permitted, provided the original author(s) and 
+the copyright owner(s) are credited and that 
+the original publication in this journal is cited, 
+in accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.
+TYPE  Original Research
+PUBLISHED  24 October 2025
+DOI  10.3389/fpubh.2025.1681862
+
+Ke et al.
+10.3389/fpubh.2025.1681862
+Frontiers in Public Health
+02
+frontiersin.org
+manifests in the residential context, which is particularly relevant to 
+understanding its spillover effects on employees’ family and work 
+domains. In this study, we  define residential road traffic noise 
+annoyance (RRTNA) as a subjective psychological construct that 
+reflects residents’ perception and evaluation of road traffic noise in 
+their living environment. Unlike objective acoustic indicators (e.g., 
+decibel levels), it emphasizes individuals’ subjective perception and 
+personal appraisal of the residential acoustic environment. As an 
+influence derived from the physical family environment, RRTNA is 
+likely to exert diverse effects on individuals living in different family 
+contexts, thereby shaping the dynamics of family–work conflict and 
+gain. However, existing research offers limited insight into the impact 
+of RRTNA on employees’ negative workplace behaviors and the ways 
+to mitigate its adverse effects.
+Previous research has established a link between noise annoyance 
+and negative emotions such as anger and anxiety (5), which are 
+strongly associated with employees’ adverse workplace behaviors (6). 
+Accordingly, this study aims to investigate the impact of RRTNA on 
+employees’ negative workplace behaviors, specifically examining both 
+work withdrawal and workplace aggressive behaviors concurrently. 
+The inclusion of these two outcome variables enables a comprehensive 
+examination of how RRTNA influences such behaviors. Here, work 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodius University of 
+Skopje, North Macedonia
+REVIEWED BY
+Ellyssa Abdelmoula, 
+Carthage University, Tunisia
+Yang Liu, 
+Shandong Normal University, China
+*CORRESPONDENCE
+Yufei Zhang 
+ yff667@outlook.com; 
+ 202331260003@mail.bnu.edu.cn
+RECEIVED 08 August 2025
+ACCEPTED 06 October 2025
+PUBLISHED 24 October 2025
+CITATION
+Ke J, Wang Z, Zhang Y, Liu L and 
+Wang Q (2025) Lunch breaks as a buffer: 
+mitigating the negative effects of road traffic 
+noise on urban employee workplace 
+behavior.
+Front. Public Health 13:1681862.
+doi: 10.3389/fpubh.2025.1681862
+COPYRIGHT
+© 2025 Ke, Wang, Zhang, Liu and Wang. This 
+is an open-access article distributed under 
+the terms of the Creative Commons 
+Attribution License (CC BY). The use, 
+distribution or reproduction in other forums is 
+permitted, provided the original author(s) and 
+the copyright owner(s) are credited and that 
+the original publication in this journal is cited, 
+in accordance with accepted academic 
+practice. No use, distribution or reproduction 
+is permitted which does not comply with 
+these terms.
+TYPE  Original Research
+PUBLISHED  24 October 2025
+DOI  10.3389/fpubh.2025.1681862
+
+Ke et al.
+10.3389/fpubh.2025.1681862
+Frontiers in Public Health
+02
+frontiersin.org
+manifests in the residential context, which is particularly relevant to 
+understanding its spillover effects on employees’ family and work 
+domains. In this study, we  define residential road traffic noise 
+annoyance (RRTNA) as a subjective psychological construct that 
+reflects residents’ perception and evaluation of road traffic noise in 
+their living environment. Unlike objective acoustic indicators (e.g., 
+decibel levels), it emphasizes individuals’ subjective perception and 
+personal appraisal of the residential acoustic environment. As an 
+influence derived from the physical family environment, RRTNA is 
+likely to exert diverse effects on individuals living in different family 
+contexts, thereby shaping the dynamics of family–work conflict and 
+gain. However, existing research offers limited insight into the impact 
+of RRTNA on employees’ negative workplace behaviors and the ways 
+to mitigate its adverse effects.
+Previous research has established a link between noise annoyance 
+and negative emotions such as anger and anxiety (5), which are 
+strongly associated with employees’ adverse workplace behaviors (6). 
+Accordingly, this study aims to investigate the impact of RRTNA on 
+employees’ negative workplace behaviors, specifically examining both 
+work withdrawal and workplace aggressive behaviors concurrently. 
+The inclusion of these two outcome variables enables a comprehensive 
+examination of how RRTNA influences such behaviors. Here, work 
+withdrawal is considered an internalizing behavior (7), while 
+workplace aggressive behaviors is regarded as an externalizing 
+behavior (8), thus offering distinct perspectives on how employees 
+respond to RRTNA. Moreover, work withdrawal can be perceived as 
+an indirect form of aggression, which disrupts organizational 
+productivity and service delivery while often appearing unintentional 
+(9). In contrast, workplace aggressive behaviors involve direct forms 
+of aggression, including physical and verbal acts (10).
+Furthermore, in response to scholarly appeals for research on 
+work withdrawal and workplace aggressive behaviors, which are 
+prominent manifestations of negative workplace conduct, there has 
+been a growing interest recently. This is primarily because these 
+behaviors serve as catalysts for increased organizational costs (e.g., 
+diminished productivity, heightened employee turnover, and reduced 
+organizational commitment) (11, 12). Isola et al. (13) have urged 
+researchers to delve deeper into the family-work spillover effect. 
+Specifically, they highlight the need to examine how familial factors 
+influence employee work withdrawal and to identify the psychological 
+mechanisms underlying this spillover. Similarly, scholars such as Kim 
+& James (11) have called for more investigation into the root causes of 
+workplace aggressive behaviors, along with effective strategies to 
+mitigate it.
+The conservation of resources (COR) theory posits that adverse 
+environmental conditions often threaten individuals’ resources or lead 
+to resource depletion, thereby rendering them particularly vulnerable 
+when resource access is limited (14). For instance, RRTNA may lead to 
+actual resource loss (e.g., diminished environmental quality in 
+residential areas) or potential resource loss (e.g., reduced individual 
+sleep duration). These losses may prompt individuals to avert further 
+depletion or to activate self-protective defense mechanisms (14), which 
+often manifest as defensive withdrawal or direct aggressive behavior 
+(15). Moreover, in accordance with stress and coping theory (16), the 
+negative emotions associated with RRTNA may lead individuals to 
+withdraw from work for short or extended periods as a way to protect 
+their mental well-being. These emotions may also increase the 
+likelihood of aggressive behavior in the workplace (17, 18).
+To explore the operational mechanism, we introduced mental 
+health complaints as a mediating factor to elucidate how RRTNA 
+influences employees’ work withdrawal and workplace aggressive 
+behaviors. Mental health complaints denote individuals’ subjective 
+perception of psychological distress and the manifestation of 
+psychological health issues (e.g., feelings of depression, anxiety, etc.) 
+(19). According to the cognitive activation theory of stress, mental 
+health complaints are considered as psychological stress responses 
+resulting from stressful stimuli (20). COR theory delineates the 
+interplay among stressors, stress responses, and individual coping 
+behaviors (15, 21). Consistent with this theory, RRTNA acts as a 
+stressor and induces psychological stress responses manifested as 
+mental health complaints. These responses, in turn, lead employees to 
+adopt defensive strategies to prevent resource
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Table 1), and the scale had good structural validity. 
+Table 2 indicate that the five-factor model 
+Table 3. Significant positive 
+Table 4. The 
+Table 5 presents findings on the moderating influence of the 
+Figure 2. The higher the score of the 
+Figure 2, the positive association 
+Table  6 shows the 
+Table 3)and the 
+Table 4) further confirm these 
+
+======================================================================
+
+### RECORD ID=1177 | screening_verdict=BORDERLINE | year=2025
+JOURNAL: ACOUSTICS
+TITLE: The Impact of Soundscape on Pedestrian Comfort, Perception and Walking Experience in Béjaïa, Algeria
+DOI: 10.3390/acoustics7040064
+PAGES: 37
+
+--- HEAD (title/abstract/intro) ---
+Academic Editor: Papatya Nur
+Dökmeci Yörüko˘glu
+Received: 15 August 2025
+Revised: 8 September 2025
+Accepted: 1 October 2025
+Published: 13 October 2025
+Citation: Mansouri, Y.; Matallah,
+M.E.; Attar, A.; Mahar, W.A.; Attia, S.
+The Impact of Soundscape on
+Pedestrian Comfort, Perception and
+Walking Experience in Béjaïa, Algeria.
+Acoustics 2025, 7, 64. https://doi.org/
+10.3390/acoustics7040064
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+The Impact of Soundscape on Pedestrian Comfort, Perception
+and Walking Experience in Béjaïa, Algeria
+Yacine Mansouri 1,*
+, Mohamed Elhadi Matallah 1,2
+, Abdelghani Attar 3, Waqas Ahmed Mahar 1,4
+and Shady Attia 1
+1
+Sustainable Building Design (SBD) Lab, Department of Urban & Environmental Engineering (UEE),
+Faculty of Applied Sciences, Université de Liège, 4000 Liège, Belgium;
+elhadi.matallah@univ-biskra.dz (M.E.M.); waqas.mahar@sada.nust.edu.pk (W.A.M.);
+shady.attia@uliege.be (S.A.)
+2
+Civil Engineering and Hydraulics, Sustainable Development and Environment (LARGHYDE) Laboratory,
+University of Biskra, Biskra 07000, Algeria
+3
+Laboratory of Construction, Engineering, and Architecture (LGCA), Faculty of Technology,
+University of Bejaia, Bejaia 6000, Algeria; abdelghani.attar@univ-bejaia.dz
+4
+Department of Architecture, School of Art, Design and Architecture (SADA),
+National University of Sciences and Technology (NUST), Islamabad 44000, Pakistan
+*
+Correspondence: yacine.mansouri@doct.uliege.be
+Abstract
+This study explores the influence of the urban soundscape on pedestrian perception and
+walking experience in the historic and lower parts of Béjaïa, Algeria. More precisely,
+the analysis investigates how variations in soundscape configuration relate to perceived
+comfort, safety, and walking pleasantness across five morphologically distinct urban zones.
+A mixed-method approach combining quantitative tools (LAeq acoustic measurements)
+and qualitative methods (soundwalks, sound diaries, and mental maps) was applied in
+accordance with ISO 12913. The study involved 50 participants for the sound diaries and
+58 for the soundwalks. Results show that natural and social sounds enhance perceived
+comfort and safety, while mechanical noise is associated with discomfort and avoidance
+behaviors. In the morning, moderate to strong correlations were observed between sound
+comfort and visual perception (ρ = 0.58, p = 0.001, 95% CI [0.27; 0.80]), as well as between
+sound comfort and walking pleasantness (ρ = 0.40, p = 0.033, 95% CI [0.05; 0.67]). The
+study highlights the need to integrate soundscape considerations into urban planning and
+heritage conservation strategies.
+Keywords: urban soundscape; sound comfort; sound perception; visual perception;
+walkability; soundwalk; public space; multisensory perception; acoustic environment;
+emotional response
+1. Introduction
+Walking in urban areas presents a major challenge for many cities worldwide [1–3].
+The United Nations (UN) calls for the development of urban spaces that are favorable to
+walking, in order to face the many current challenges, mainly environmental degradation
+and the decline in quality of life in cities. The latest IPCC (UN) report considers the increase
+in the level of walkability in cities as a key strategy to fight against climate change [4].
+Furthermore, the World Health Organization (WHO) highlights the rise in diseases related
+to people’s sedentary lifestyles and the excessive use of private cars and calls for the
+Acoustics 2025, 7, 64
+https://doi.org/10.3390/acoustics7040064
+
+Acoustics 2025, 7, 64
+2 of 37
+encouragement of walking in cities [5]. Indeed, it is scientifically proven that walking
+6000 steps daily has significant benefits for physical and mental health [4,6].
+The quality of the urban environment influences pedestrians’ experience and their
+willingness to walk. Among the most important factors is the soundscape. This concept
+was introduced by Murray Schafer in the 1970s. It is defined by ISO 12913-1 (2014) as “the
+acoustic environment as perceived, experienced and/or understood by one or more people,
+in a given context.” [7]. The emergence of the soundscape concept marks the beginning
+of a new way of studying urban sounds. Indeed, traditional approaches are limited to
+studying noise levels in cities and reducing noise pollution, whereas the soundscape offers
+a broader and more holistic dimension of sound environments by taking into account the
+meaning and emotional and subjective impact of all types of sounds, whether desirable
+or undesirable [8]. As a result, the study of the soundscape has made significant progress
+over the past two decades, with research focusing on users’ subjective perception of urban
+sounds. However, most studies remain centered on contexts from the Global North, while
+cities in the Maghreb, particularly those with strong urban dualities (between historic
+fabric and modern sectors), remain underexplored. Moreover, few studies simultaneously
+integrate subjective data, objective acoustic metrics (e.g., LAeq), and temporal variations
+within a single comparative protocol. In this context, the study raises the following question:
+How does the soundscape influence pedestrians’ perception and walking experience in the
+two parts of the city of Béjaïa (old city and lower city)?
+This research makes three main contributions: (1) an analytical framework linking
+soundscape, visual ambiance, and walking comfort; (2) a mixed-method protocol aligned
+with ISO 12913-1:2014 [7] and ISO 12913-2:2018 [9]; and (3) original data from the city
+of Béjaïa, which extends the literature beyond Global North contexts. The city of Béjaïa
+represents a highly relevant case study, composed of two contrasting parts (the medina
+and the modern city), as well as urban fabrics with diverse visual and spatial
+
+--- METHODS/RESULTS EXCERPT ---
+Methods: Quantitative and Qualitative Approaches
+Several methods have been developed for the study of the soundscape. They include
+qualitative, quantitative, and sometimes mixed approaches, which may be subjective, ob-
+jective, or a combination of both [20–22]. Quantitative approaches are based on acoustic
+measurements and modeling. Sound Pressure Level (SPL) measurements are carried out in
+situ and consist of measuring sound intensity using integrating sound level meters [23].
+ISO 1996-1:2016 [24] explains the noise measurement protocol. These methods make it
+possible to correlate the measurements with comfort levels or to identify areas of noise pol-
+lution [25,26]. This approach often needs to be combined with other methods to accurately
+
+Acoustics 2025, 7, 64
+4 of 37
+characterize a soundscape, as two environments may have the same sound level but pro-
+duce different perceptions from one person to another. Spectral analysis represents another
+key measurement approach. This method is based on identifying the different dominant
+components of the soundscape (natural sounds, human sounds, and others) by analyzing
+sound frequencies [27]. In order to bridge the gap between physical measurements and
+human perception, researchers have developed psychoacoustic index analysis. They use
+software such as ArtemiS SUITE, developed by HEAD Acoustics to analyze recordings and
+identify the characteristics of the sound signal, such as loudness, sharpness, and rough-
+ness [28]. This makes it possible to evaluate perceived sound quality. For example, a sound
+with a moderate level can be perceived as very disturbing due to a strong tonality. Another
+category of quantitative approaches is acoustic modeling and sound mapping. Several
+simulation software tools have been developed to predict the propagation of sound in the
+urban environment. These modeling tools are based on the input of a set of urban data
+such as the layout and shape of buildings, the road network, topography, sound sources,
+etc., and enable visualization of sound distribution in the urban fabric and the application
+of different scenarios to enhance the quality of the soundscape [29,30]. These tools are more
+effective than isolated measurements, but they are not sufficient on their own for analyzing
+sound comfort, as they do not take human perceptions into account.
+The second major category of methods for studying the soundscape is qualitative meth-
+ods. A primary type of qualitative method is the use of subjective surveys. Researchers often
+use questionnaires to collect information about sounds from residents or passersby [28,31].
+These surveys can be conducted either on-site or in laboratory settings and often use the Likert
+scale. ISO/TS 12913-2:2018 [9] proposes an evaluation of sound perception based on a 5-point
+scale ranging from “not at all” to “extremely,” and ISO/TS 15666:2021 [32] helps quantify
+annoyance due to noise. In addition to questionnaires, qualitative interviews or focus groups
+are often used for an in-depth exploration of people’s opinions, as well as their emotions and
+memories associated with the soundscape [28,33].
+Soundwalks are a widely used method among researchers to study pedestrians’ per-
+ceptions in relation to the soundscape. It consists of conducting walks with participants
+along predefined routes, often while simultaneously taking sound measurements [22,34].
+Participants listen to the sounds in the environment and then express their perceptions and
+emotions in different ways: either by filling out a questionnaire, participating in discussions,
+drawing mental maps, or even taking photos. ISO/TS 12913-2:2018 provides the necessary
+recommendations for successfully conducting soundwalks [9]. This method is considered
+effective because it places the researcher in close proximity to the participant and it allows
+for a better comparison between objective and subjective data. Non-participant or behav-
+ioral observations are also tools that are used [35]. These involve observing how people
+behave in urban spaces (time spent in a space, walking speed, stopping points, etc.). Some
+researchers also use content analysis to understand the soundscape. Crowdsourcing, for
+example, involves collecting audio data through mobile applications where users have
+submitted sound data [36]. Semantic analysis is also used. It consists of studying subjective
+descriptions of soundscapes to identify themes and associated perceptions [37]. Finally,
+other techniques have been developed recently, such as virtual reality (VR) and 3D audio.
+This involves creating a digital twin of an urban space and then providing participants
+with this immersive experience in a laboratory using appropriate equipment (virtual reality
+headset, 360◦videos, etc.) [38].
+2.3. Identified Research Gaps in Soundscape Studies
+Although research has progressed in the study of the influence of the soundscape
+on pedestrian perception [39–41], several gaps remain. First of all, there is geographic
+
+Acoustics 2025, 7, 64
+5 of 37
+underrepresentation in soundscape studies. Most research on the soundscape has focused
+on case studies from Western Europe, North America, and East Asia; few studies have been
+conducted on Africa, Latin America, and Southeast Asia. For instance, Aletta et al. [42]
+analyzed pedestrian soundscapes along a tourist route in Sorrento (Italy), Doser et al. [43]
+examined the interplay between anthropogenic and biological sounds in an urban–natural
+gradient in New York State (USA), and Hong et al. [44] applied the soundwalk method to
+evaluate urban soundscapes in Seoul (South Korea).This gap is a significant limitation, as
+several studies have shown that cultural factors influence sound perception [45]. Moreover,
+most of the research has been conducted on a small scale, which limits the generalization of
+the results. It is important to use advanced prediction and visualization methods in order
+to account for the soundscape on a large scale [46]. Furthermo
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). Many civilizations have marked the history of the city of Béjaïa,
+Figure 1. Views and location of Béjaïa: (a) Old-city rooftops (Houma Keramane). Photo: frisamu-
+Figure 1a).
+Figure 1b).
+Figure 2.
+Figure 2. Methodological framework used in the research.
+Figure 3) to allow for a more detailed analysis. This makes it possible to
+Table 1. The
+Figure 3. Geographic location of the selected study areas in the Old City of Béjaïa (OC1 and OC2)
+Table 1. Table of predetermined itineraries in each study area. Adapted from Mansouri et al. [3], CC BY 4.0.
+Table 2.
+Table 2. The questions and answer options.
+Table 3 of
+Table 3. Instrumentation for acoustic and visual data acquisition—key settings.
+Table 3.
+Figure 4 shows the OC1 zone as an example. Previous studies
+Figure 4. OC1—SVF masks derived from upward-looking fisheye images. White denotes sky;
+Figure 5 synthesizes the histor-
+Figure 5. Sankey diagram of Béjaïa’s historical soundscape. Left: six sound categories; center: indi-
+Figure 5 reveals that many industrial
+Figure 6 presents the expressive media used by the
+Figure 6. Number of participants per support by method. Bar height indicates the number of
+Figure 6 demonstrates that significant diversification can be observed in the means used
+Figure 7 presents temporal heat maps representing the sound intensity perceived
+Figure 7. Temporal heatmaps of weekly sound perception by zone (OC1–LC3). Rows represent days
+
+======================================================================
+
+### RECORD ID=1232 | screening_verdict=BORDERLINE | year=2026
+JOURNAL: SUSTAINABILITY
+TITLE: Exploring the Soundscape Perception of Streets: A Thematic Analysis of Focus Groups with Experts
+DOI: 10.3390/su18094369
+PAGES: 28
+
+--- HEAD (title/abstract/intro) ---
+Academic Editor: Roberto Benocci
+Received: 6 March 2026
+Revised: 19 April 2026
+Accepted: 22 April 2026
+Published: 29 April 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Exploring the Soundscape Perception of Streets: A Thematic
+Analysis of Focus Groups with Experts
+Zeynep Sena Ozturk
+, Francesco Aletta *
+and Jian Kang
+UCL Institute for Environmental Design and Engineering, The Bartlett, University College London (UCL),
+Central House, 14 Upper Woburn Place, London WC1H 0NN, UK; zeynep.ozturk.22@ucl.ac.uk (Z.S.O.);
+j.kang@ucl.ac.uk (J.K.)
+* Correspondence: f.aletta@ucl.ac.uk
+Abstract
+Street soundscapes significantly shape communities’ environmental perceptions, behaviour
+and urban sustainability. Previous research has mainly focused on physical and acoustic
+aspects, while limited attention has been given to emotional and behavioural dimensions.
+This study explores how expert participants perceive street soundscapes through personal,
+physical, behavioural, and emotional dimensions, using international online focus groups
+with soundscape experts, urban planners, and policymakers (n = 12). Analysis followed
+a deductive thematic approach establishing four main a priori themes, with additional
+inductive coding used to refine these themes. The findings reveal that perception is
+shaped by contextual, cultural, temporal, multisensory, and environmental affordance
+factors. Notably, silence was found to carry a dilemma—perceived as either safe or unsafe
+depending on pedestrian density—and religious and cultural soundmarks were identified
+as evoking place attachment and belonging, areas largely overlooked in existing literature.
+These soundscapes were associated with emotional responses, including comfort, safety,
+restoration, and belonging, and with pedestrian behaviour encompassing mobility choices,
+coping strategies, and social interactions. Furthermore, seven out of ten Healthy Streets
+metrics were directly referenced by participants, highlighting the close relationship between
+acoustic environments and healthy streets design. Future studies should examine cultural,
+temporal, and spatial street characteristics and their effects on human behaviour and
+emotional responses.
+Keywords: behaviour; focus group; healthy streets; soundscape; street design; urban
+sustainability; well-being
+1. Introduction
+Streets are among the most vibrant urban spaces, where mobility, commerce, and social
+life converge. As key components of sustainable urban environments, streets significantly
+shape communities’ health, well-being, and quality of life [1]. Early street soundscape
+research largely focused on noise as a source of annoyance and pollution, adopting method-
+ologies of noise control [2]. Over the past two decades, there has been a growing interest
+in soundscape perception, which emphasises personal experiences rather than physical
+noise levels. Despite this increasing attention in everyday sound environments, most
+existing studies have primarily focused on open public spaces such as parks, squares, or
+commercial districts [3–6]. In contrast, the soundscapes of urban streets remain relatively
+Sustainability 2026, 18, 4369
+https://doi.org/10.3390/su18094369
+
+Sustainability 2026, 18, 4369
+2 of 28
+underexamined [2,3]. A recent scoping review identified 16 empirical studies that specifi-
+cally investigated street soundscapes [2]. These studies consistently highlight that natural
+sounds (e.g., birdsong, water flow) are associated with positive affective and physiolog-
+ical responses, whereas traffic-related sounds are often linked to stress, annoyance, and
+negative psychological outcomes [4–6].
+Previous research has also highlighted the importance of physical characteristics
+in shaping street soundscapes [2]. According to the literature, factors such as street
+geometry, building height, and height-to-width ratios influence both the propagation of
+sound and the perceived acoustic comfort, demonstrating the close relationship between
+spatial form and sound quality. Moreover, the presence of greenery and water features
+helps to mask unpleasant sounds and enhance tranquillity in street environments. These
+elements therefore play a key role in understanding how the physical environment
+shapes the acoustic atmosphere of streets. Temporal factors such as seasonal variation
+and tourism activity further influence how urban sounds are experienced [7]. However,
+existing studies have examined physical characteristics predominantly through quan-
+titative approaches, with limited attention to how design professionals interpret these
+elements qualitatively.
+Soundscapes evoke a wide range of emotional reactions, yet existing literature shows
+that these responses vary according to factors such as context, gender, and sound source.
+Despite this, limited attention has been devoted specifically to street soundscapes. Research
+on street sound environments has predominantly focused on distinguishing between pleas-
+ant and unpleasant emotions. Pleasant soundscapes are often associated with tranquillity,
+restoration, and relaxation, whereas unpleasant soundscapes are typically linked to stress,
+discomfort, and annoyance, often resulting from mechanical noise [8–10]. However, this
+binary framework remains limited in explaining the more nuanced emotional experiences
+that emerge within urban street atmospheres.
+Beyond emotional reactions, human responses to soundscapes also encompass be-
+havioural dimensions. Studies indicate that the acoustic environment of a street can
+influence how long people are willing to stay, which routes they choose, and their moti-
+vation for social interaction [11,12]. Nevertheless, current research remains insufficient
+to fully explain how sound directly shapes community behaviour in street environments.
+Despite the growing number of studies in th
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+This study adopts a deductive thematic analysis design to explore how urban street
+soundscapes are defined and experienced in everyday life and how they shape users’
+perception, comfort, and use of space. This approach is appropriate because it allows for a
+systematic examination of expert perspectives within a predefined analytical framework
+derived from the research questions, while remaining flexible enough to capture emergent
+nuances within the data. Focus groups were chosen to reveal interactional meaning-making
+and expert reasoning about streets and sounds [13].
+2.1. Expert Focus Groups
+2.1.1. Participants
+Prior to the main study, a pilot focus group with academic researchers (n = 12)
+was conducted to test the question guide, timing, and refined wording of the questions.
+Pilot data were used solely to improve the protocol and were not included in the subse-
+quent analysis.
+Two expert focus groups were recruited: a Turkish cohort (n = 6) and an international
+cohort (n = 6). Participants came from diverse professional and geographic backgrounds,
+enabling the study to capture a heterogeneous range of expert perspectives on street
+soundscape and urban design. Türkiye was selected on the basis of access and existing
+professional networks, while the international cohort broadened the overall scope of
+perspectives represented in the study.
+Within each group, disciplinary heterogeneity was sought to stimulate interaction. Ap-
+proximately half of participants were sound/soundscape researchers, and the remaining were
+policy and design practitioners. Participants included academics, applied researchers, land-
+scape architects, architects, and acousticians. Eligibility was verified through publicly available
+professional profiles (e.g., institutional webpages and professional directories) and recent
+outputs. Invitations prioritised individuals with demonstrable competence in soundscape,
+sound policy/management, or street/street-space design where formal work experience was
+limited and relevant scholarly contributions were considered. Participation was voluntary,
+and informed consent was obtained from all participants (see Table 1).
+The validity and credibility of the findings were supported through several mea-
+sures. Data collection continued until thematic saturation was reached, as responses
+across focus group sessions became increasingly convergent with no substantively new
+themes emerging. Following Malterud et al. [14], sample adequacy was further assessed
+through information power across five dimensions: study aim, sample specificity, use
+of established theory, quality of dialogue, and analysis strategy. The sample of 12 ex-
+pert participants was considered sufficient, as all five dimensions indicated adequate
+information power for the aims of this study. Analytical validity was further supported
+through a two-researcher coding process, in which coding decisions were reviewed and
+resolved through consensus, and through systematic triangulation of findings against
+existing literature throughout the discussion.
+https://doi.org/10.3390/su18094369
+
+Sustainability 2026, 18, 4369
+4 of 28
+Table 1. Overview of Experts.
+Expert
+Country
+Native Language
+Main Area of Interest
+1
+Türkiye
+Turkish
+Urban Soundscape, Environmental Science
+2
+Türkiye
+Turkish
+Soundscape, Heritage Soundscape
+3
+Germany
+Turkish
+Urban Soundscape, Architectural Acoustics
+4
+Türkiye
+Turkish
+Municipality Urban Design, Landscape Architecture
+5
+Türkiye
+Turkish
+Policy Making, Landscape Architecture
+6
+Türkiye
+Turkish
+Policy Making, Landscape Architecture
+7
+UK
+Italian
+Soundscape, Sensorial Urbanism, Virtual Models
+8
+Italy
+Italian
+Soundscape Research
+9
+UK
+Persian
+Sensory Architecture, Urban Sound Studies
+10
+UK
+English
+Environmental Engineering, Urban Policy Making, Systems thinking approach
+11
+Ireland
+Spanish
+Urban Policy Making
+12
+Switzerland
+French
+Noise Research, Policy Making
+2.1.2. Online Focus Group Procedure
+Sessions were conducted synchronously via Microsoft Teams (version 26058.713.4529.5861,
+Microsoft Corporation, Redmond, WA, USA). Each focus group session commenced with
+a brief introduction outlining the study’s purpose and procedures. Participants then re-
+sponded to open-ended, semi-structured questions about their experiences of street features
+and street scale. Table 2 summarises the topics addressed in each session. Moderators
+avoided leading participants toward answers. Item-level participation was voluntary;
+respondents could choose which questions to address.
+Table 2. Focus Group Questions.
+Themes
+Questions
+Background Information
+How would you define a street?
+Soundscape Preference
+How would you describe your ideal sound environment in the streets,
+and what types of sounds do you find either disturbing or pleasant during your
+daily experience?
+In your experience, how do changes in the sound environment over time—
+such as differences between morning and night, or sounds associated with specific
+events—affect your perception or use of the space?
+Streetscape Features
+Which physical elements of the street environment (e.g., furniture, greenery,
+traffic infrastructure) do you notice most during your daily experience, and how do
+they affect your perception, comfort, or interaction with the space?
+How do different aspects of street scale—such as building height, street width,
+and spatial proportions—affect your perception, emotional response, or sense of
+comfort in urban environments?
+The focus group questions presented in Table 2 were developed through iterative
+discussions within the research team, informed by the findings of a prior scoping re-
+view [2]. The questions were subsequently piloted in a preliminary focus group session,
+following which the discussion guide was reviewed and finalised based on the feedback
+and insights obtained.
+2.2. Data Analysis
+Thematic analysis proceeded in eight steps: (1) transcription; (2) familiarisation
+with the data; (3) constructing a template of themes from the research questio
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1).
+Table 1. Overview of Experts.
+Table 2 summarises the topics addressed in each session. Moderators
+Table 2. Focus Group Questions.
+Table 2 were developed through iterative
+Table 3 presents an example of the
+Table 3.
+Table 3. Examples of Coding Process.
+Table 3. Cont.
+Figure 1). These themes relate to RQ1: How do individuals perceive
+Figure 1. Summary of Findings: Influence of Street Soundscapes on Perception.
+Figure 2).
+Figure 2. Summary of Findings: Physical Characteristics of Street Soundscapes.
+Figure 3). This
+Figure 3. Summary of Findings: Street Soundscape Impact on Emotional Response.
+Figure 4). This theme was identified across the majority of participants (n = 10), reflecting
+Figure 4. Summary of Findings: Street Soundscape Impact on Pedestrian Behaviour.
+Figure 5).
+Figure 5 illustrates the relationship between soundscape-streetscape themes and
+Figure 5. The relationship between thematic analysis findings and Healthy Streets parameters,
+Figure 5). For example, participants highlighted the importance of walkability
+
+======================================================================
+
+### RECORD ID=1253 | screening_verdict=BORDERLINE | year=2026
+JOURNAL: PLOS ONE
+TITLE: Mapping urban soundscape patterns using user-generated content: A place model approach to acoustic environment perception
+DOI: 10.1371/journal.pone.0343393
+PAGES: 23
+
+--- HEAD (title/abstract/intro) ---
+PLOS One | https://doi.org/10.1371/journal.pone.0343393  February 24, 2026
+1 / 23
+ 
+ OPEN ACCESS
+Citation: Lee H, Kim Y (2026) Mapping urban 
+soundscape patterns using user-generated 
+content: A place model approach to acoustic 
+environment perception. PLoS One 21(2): 
+e0343393. https://doi.org/10.1371/journal.
+pone.0343393
+Editor: Yuan Zhang, Shenyang Jianzhu 
+University, CHINA
+Received: June 2, 2025
+Accepted: February 4, 2026
+Published: February 24, 2026
+Copyright: © 2026 Lee, Kim. This is an open 
+access article distributed under the terms of 
+the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original author and source are credited.
+Data availability statement: https://figshare.
+com/s/670148adaad3d5595291.
+Funding: This research was supported by 
+the grant for the KAIST Grand Challenge 
+30 Program funded by the Korea Advanced 
+Institute of Science and Technology 
+(N11250046), the National Research 
+RESEARCH ARTICLE
+Mapping urban soundscape patterns using 
+user-generated content: A place model approach 
+to acoustic environment perception
+Haneul Lee
+1, Youngchul Kim
+2*
+1  KAIST Urban Design Lab, KAIST Smart City Research Center, Department of Civil and Environmental 
+Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea, 
+2  KAIST Urban Design Lab, KAIST Smart City Research Center, Department of Civil and Environmental 
+Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea 
+* youngchulkim@kaist.ac.kr
+Abstract 
+Urban acoustic environments significantly influence quality of life, prompting a para­
+digm shift from noise reduction to soundscape design that considers human percep­
+tion. This study investigates urban soundscape perceptions using social media data 
+to understand how acoustic environments reflect urban spatial characteristics. We 
+collected Korean-language Twitter texts from 156 points of interest in Seoul’s central 
+and southeastern neighborhoods from October to November 2020. The collected 
+texts were preprocessed through text cleaning and morphological analysis, then 
+classified using an urban soundscape taxonomy based on Canter’s place model that 
+integrates physical setting, activity, and meaning dimensions. The results revealed 
+that activity-related soundscapes (79.4%) dominated all target areas, and strong neg­
+ative correlations between indoor, mechanical, and behavioral soundscapes suggest 
+a spatial separation of acoustic zones by urban function. Especially, historical central 
+districts (22.0%) showed a higher proportion of meaning-related soundscapes com­
+pared to modern commercial districts (13.4%). K-means clustering further identified 
+three soundscape types: infrastructure-dominated, socially vibrant, and commercial 
+indoor-focused zones. By combining social media analysis with spatial patterns, the 
+study provides a scalable tool for urban planners to understand how citizens expe­
+rience urban soundscapes, offering data-driven insights for contextualized urban 
+design.
+1.  Introduction
+Noise is commonly defined as unwanted sound that can cause physiological and psy­
+chological disturbances to humans [1]. Long-term exposure to urban noise is related 
+to various health issues, including stress and cardiovascular disease [2–4]. Tradi­
+tionally, urban acoustic environment management has focused on reducing sound 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0343393  February 24, 2026
+2 / 23
+pressure levels (dB) [5,6]. However, this approach is limited as it does not consider 
+the quality of the acoustic environment, where a low sound pressure level does not 
+always correlate with human well-being [7].
+Recognizing these limitations, the EU has sought solutions based on soundscapes 
+[8]. A soundscape is the perceived acoustic environment in context by an individual, 
+group, or society [9]. Unlike traditional noise management that focuses solely on 
+quantitative reduction, the soundscape approach emphasizes qualitative acous­
+tic environments that distinguish between wanted and unwanted sounds, utilizing 
+preferred sounds to stimulate human senses [5,8]. At the urban scale, soundscape 
+characteristics are influenced by individual attributes, sociocultural factors, physical 
+environment, and geographic features [8,11–15], making them indicators of urban 
+identity. Therefore, analyzing urban soundscapes is essential for creating pleasant 
+acoustic environments through urban planning [8].
+R. Murray Schafer [10] established an initial classification derived from historical 
+and literary documents and classified soundscape elements into six functional cate­
+gories: natural sounds, human sounds, society, mechanical sounds, indicators, quiet, 
+and silence. This led to empirical standardization for managing the acoustic envi­
+ronment. Brown et al. [16] proposed a framework to ensure research comparability, 
+categorizing sources by their origin (e.g., sounds generated by human activity) rather 
+than their perceived quality. Aiello et al. [17] used social media data to derive taxon­
+omies based on public perception (e.g., transport, music, and indoors), while Sal­
+amon et al. [18] developed an application-oriented taxonomy for machine learning, 
+focusing on urban sound issues identified from noise complaints (e.g., jackhammer 
+and siren). Recent studies have moved from classifying sound sources to evaluating 
+perceptual experience with the two-dimensional model of pleasantness and eventful­
+ness [19,20]. Several taxonomies have emerged including functional classifications 
+distinguishing disruptive and supportive sounds [21], cognitive process models pro­
+gressing from sound classification to judgment [22], and activity-based frameworks 
+measuring soundscape appropriateness for specific contexts such as working and 
+relaxing [23].
+However, these studies reveal limitations in covering various urban characteristics.
+
+--- METHODS/RESULTS EXCERPT ---
+Methodological contributions and limitations
+These interpretations require consideration of methodological constraints and cultural context. Most critically, reliance 
+on Twitter as the sole data source introduces substantial limitations. Twitter’s declining user base and demographic bias 
+toward younger, urban populations may not represent the full spectrum of urban soundscape experiences [34,35]. The 
+platform’s text-based nature and character limitations may also discourage detailed acoustic descriptions, potentially 
+explaining the low frequency of natural soundscapes even in areas with parks and green spaces.
+The data collection period (October-November 2020) coincided with the COVID-19 pandemic, introducing a temporal 
+specificity that limits generalizability. Lee & Jeong [62] demonstrated significant changes in urban noise perception during 
+lockdowns, with outdoor environments becoming quieter while neighbor noise gained prominence. The high proportion of 
+indoor soundscapes in our data may reflect pandemic-related behavioral changes than typical urban acoustic patterns. 
+Furthermore, restrictions on social gatherings during this period have likely changed the acoustic characteristics of public 
+spaces, potentially not reflecting the vibrancy of social activities in Type 2 areas.
+Cultural context presents additional consideration. Aletta et al. [63] demonstrated significant differences in soundscape 
+perception between European and Chinese populations, where Europeans associated vibrancy with human sounds while 
+Chinese participants linked it to natural sounds. Korean urban culture, with its unique combination of traditional and mod­
+ern elements, may produce distinct soundscape preferences not captured by Western contexts. The high proportion of 
+indoor soundscapes in commercial areas might reflect Korean café culture and the social importance of indoor gathering 
+spaces, instead of universal patterns. Future applications of Canter’s place model [25] should consider such cultural varia­
+tions, potentially requiring regional adaptations of the taxonomy to capture culturally specific acoustic meanings.
+The absence of memory-type soundscapes among all neighborhoods and the limited presence of natural sounds 
+confirms fundamental limitations of social media-based soundscape research. Unlike standardized soundwalk 
+methodologies [29,32] or the comprehensive PHS (Physical, Historical, Social) approach proposed by Maffei et al. 
+[61], social media data reflects selective sharing behaviors. Users appear to prioritize documenting socially engaged 
+experiences over ambient environmental sounds. While this selectivity provides insights into which sounds people 
+find meaningful enough to share, it cannot replace systematic acoustic assessment methods that capture the full 
+spectrum of urban soundscapes.
+Despite these limitations, this study contributes methodologically by demonstrating scalable soundscape assessment 
+beyond traditional point-based measurement. Previous studies struggled with limited geotagged data, often restricting 
+analysis to small areas or specific locations [17,35,38]. Our POI-based georeferencing approach, linking texts to 156 
+POIs across seven districts, expanded spatial coverage while maintaining location specificity. The significant correlation 
+between POI density and soundscape frequency (Spearman ρ = 0.43, p < 0.001) validates this method’s effectiveness in 
+capturing localized acoustic perceptions. This statistical relationship serves as an indirect validation of our core assump­
+tion that not all posts may reflect direct experiences. While this provides confidence in our large-scale approach, further 
+research employing manual validation or sampling would be beneficial to directly prove the context of individual posts. 
+This scalability of a POI-based approach supports the need for area-wide soundscape characterization in urban planning, 
+though it sacrifices the acoustic precision of ISO 12913 standard methods.
+Applying Canter’s place model [25] to soundscape taxonomy provides another contribution, integrating physical, 
+behavioral, and semantic dimensions in a unified framework. While previous classifications focused on sound sources 
+[10,16–18] or perceptual dimensions such as pleasantness-eventfulness models [19,20], our approach captures the 
+contextual nature of soundscape perception. This framework particularly complements the holistic approach advocated by 
+Aletta et al. [64], which emphasizes that soundscape quality depends on acoustic factors and visual, spatial, and social 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0343393  February 24, 2026
+20 / 23
+contexts. The relationships between visual quality and soundscape satisfaction shown in tourist sites support our finding 
+that ­meaning-related soundscapes concentrate in visually distinctive heritage areas [64].
+The clustering analysis revealing three distinct patterns provides a data-driven typology that could serve as a potential 
+screening tool for urban planners. Rather than replacing detailed acoustic measurements, this approach could identify 
+areas requiring focused investigation using standardized methods such as soundwalks or the Management Plan for her­
+itage sites [61]. For instance, Type 1 areas with high mechanical soundscapes would benefit from objective noise mea­
+surements and psychoacoustic analysis to quantify the actual impact on residents’ wellbeing [40]. Similarly, the vibrancy 
+characteristics identified in Type 2 areas should be validated through on-site soundwalks following ISO/TS 12913−2 pro­
+tocols, combining binaural recordings with perceptual assessments to confirm whether social media-derived patterns align 
+with in-situ experiences [26,63,65]. The discrepancy between high indoor soundscape proportions in Type 3 commercial 
+areas and low sensory engagement particularly warrants acoustic simulation studies to understand how architectural and 
+acoustic design influenc
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig 1 for data collection, text analysis for the measurement of urban 
+Fig 2). These two areas are located in the northern and southern parts of Seoul, and have different urban development 
+Fig 1.  Research process.
+Table 1.
+Fig 2.  Target sites of this study. (a) Central and Southeastern districts in Seoul. (1) Jongro-gu; (2) Jung-gu; (3) Yongsan-gu; (4) Seocho-gu; (5) 
+Fig 3 shows the proposed soundscape taxonomy, including sound sources and semantic categories. The ‘Physical 
+Table 1.  Acquired texts by district.
+Table 1, percentage refers to the number of posts from each district compared to the total number of posts.
+Fig 3.  Urban soundscape taxonomy adapted from the place model. This consists of a sense of place, including physical setting, activity, and mean­
+Fig 4 showed that three clusters (K =3) were the optimal number, as this is the elbow point where 
+Fig 4.  The result of Elbow method and silhouette measurement. (a) Elbow method shows that the rate of decrease in WCSS (inertia) slows signifi­
+Table 2 shows the descriptive statistics of the target areas. A total of 143,100 soundscape frequencies of target sites were 
+Fig 5). A significant positive 
+Table 3, the presence of a high-ranking soundscape frequency is associated with human activities (e.g., 
+Table 2.  Descriptive statistics of the target areas.
+Table 2, percentage refers to the frequency of the soundscape keywords in the number of posts by each district.
+Fig 5.  POIs type distribution by neighborhood group. This illustrates the difference in POI types between the central area and the southeastern 
+Table 3.  Soundscape keyword ranking (Top 20) in
+
+======================================================================
+

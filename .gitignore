@@ -18,3 +18,12 @@ __pycache__/
 .DS_Store
 *.sync-conflict*
 .stignore
+
+# paper32 — 출판사 PDF 원문·추출 전문(저작권·대용량). Syncthing research 폴더로 전파되므로 git 미추적.
+assets/32_행태_사운드스케이프 리뷰 논문_(LUP)/수집논문_PDF/
+assets/32_행태_사운드스케이프 리뷰 논문_(LUP)/_claude/ct_pdf/
+assets/32_행태_사운드스케이프 리뷰 논문_(LUP)/_claude/fulltext/txt/
+assets/32_행태_사운드스케이프 리뷰 논문_(LUP)/*.pdf
+
+# Git Bash 크래시 덤프
+bash.exe.stackdump

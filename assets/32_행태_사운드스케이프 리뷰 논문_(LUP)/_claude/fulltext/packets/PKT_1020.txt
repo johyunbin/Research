@@ -1,0 +1,209 @@
+### RECORD ID=1020 | screening_verdict=INCLUDE | year=2024
+JOURNAL: LAND
+TITLE: Exploring the Impact of Visual and Aural Elements in Urban Parks on Human Behavior and Emotional Responses
+DOI: 10.3390/land13091468
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+Citation: Jin, T.; Lu, J.; Shao, Y.
+Exploring the Impact of Visual and
+Aural Elements in Urban Parks on
+Human Behavior and Emotional
+Responses. Land 2024, 13, 1468.
+https://doi.org/10.3390/
+land13091468
+Academic Editor: Wei Lang
+Received: 14 August 2024
+Accepted: 6 September 2024
+Published: 10 September 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+land
+Article
+Exploring the Impact of Visual and Aural Elements in Urban
+Parks on Human Behavior and Emotional Responses
+Tongfei Jin, Jiayi Lu and Yuhan Shao *
+College of Architecture and Urban Planning, Tongji University, Shanghai 200092, China;
+tongfei_jin@tongji.edu.cn (T.J.)
+* Correspondence: shaoyuhan@tongji.edu.cn
+Abstract: As cities progress into high-quality developments, the demand for urban parks that enhance
+residents’ well-being and sustainability is increasing. Traditional visual-centric design methods no
+longer suffice. Given that vision and hearing are the primary sensory pathways through which people
+perceive their environment, exploring their relationship with landscape experiences offers a novel
+perspective for optimizing the audiovisual perception quality of urban parks. This study explores
+the relationship between visual and auditory elements and landscape experiences to optimize urban
+parks’ sensory quality. Using visual perception, soundscape perception, sound source perception,
+and behavioral vitality, this study evaluates the audiovisual perception quality of a representative
+wetland park in Chengdu’s ring ecological zone. By quantifying relationships between audiovisual
+characteristics, behavioral vitality, and emotional feedback, several emotional assessment models
+were constructed. The results show that lawns, pavements, and sound pressure levels significantly
+impact vitality. A sound pressure level of 77 dB has been identified as a critical threshold in emotional
+perception models. Consequently, distinct emotional prediction models can be employed to enhance
+landscape design across various sound pressure level zones. This research provides scientific evidence
+and flexible strategies for designing urban open spaces that improve landscape experiences based on
+multisensory perception.
+Keywords: visual and aural elements; behavior and emotional responses; perceptions; well-being;
+sustainable development
+1. Introduction
+The WHO’s “Healthy Cities” initiative emphasizes the importance of urban environ-
+ments that promote health and well-being [1]. In response, agencies in various countries,
+such as the U.S. Environmental Protection Agency, National Health Service of the U.K.,
+and the National Health Commission of the People’s Republic of China, have published
+guidelines for designing open spaces that are accessible, safe, and conducive to physical
+activity and mental relaxation [2–4]. Green and open spaces help reduce stress and anxiety,
+enhance well-being, and improve the quality of life, directly impacting mental health posi-
+tively. Parks, as typical natural landscapes in cities, have been widely proven to regulate
+urban residents’ emotions—such as inducing pleasure, alleviating anxiety, and boosting
+self-confidence—and promote behaviors such as recreation and social interaction. However,
+due to the numerous intrinsic factors influencing emotional feedback and behavior, many
+studies have insufficiently addressed the complex interactions between environmental
+characteristics and people’s emotional and behavioral responses.
+1.1. The Health Benefits of Parks
+Urban parks and green spaces are essential components of sustainable urban environ-
+ments, offering numerous health benefits to residents. Research consistently demonstrates
+that exposure to natural environments in urban areas can significantly improve mental and
+Land 2024, 13, 1468. https://doi.org/10.3390/land13091468
+https://www.mdpi.com/journal/land
+
+Land 2024, 13, 1468
+2 of 21
+physical health. For instance, studies have shown that green spaces help reduce stress and
+anxiety, enhance mood, and promote overall well-being [5,6]. Parks provide settings for
+physical activities such as walking, jogging, and cycling, which are crucial for maintaining
+physical health and preventing chronic diseases [7,8].
+Moreover, the presence of natural elements like trees, water features, and diverse
+plantings can create restorative environments that facilitate recovery from mental fatigue
+and stress [9,10]. These environments are particularly effective in urban settings where
+residents are often exposed to high levels of stress and limited access to natural scenery [11].
+The role of parks in fostering social interactions and community engagement is also signifi-
+cant. Well-designed green spaces can act as social hubs where people gather, interact, and
+build social ties, contributing to social cohesion and community well-being [12,13].
+Furthermore, parks contribute to environmental health by improving air quality, re-
+ducing urban heat island effects, and providing habitats for urban wildlife, thus enhancing
+urban biodiversity [14,15]. These ecological benefits, in turn, support human health by
+creating healthier living environments. Therefore, the integration of parks and green spaces
+in urban planning is critical for promoting sustainable and healthy urban living [16,17].
+1.2. The Effects of Visual or Auditory Elements on Human Behavior and Emotions
+Visual elements in urban parks and green spaces significantly influence human behav-
+ior and emotional well-being. The presence of natural scenery, such as trees, flowers, and
+water features, has been shown to enhance mood and reduce stress levels. Research indi-
+cates that visual exposure to green environments can lower heart rates and blood pressure,
+thereby promoting relaxation and recovery from mental fatigue [9,18]. Additional
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Research Site
+This research was conducted at the Bailuwan Wetland Park, a typical urban green
+space surrounding the Chengdu Ring Expressway, as depicted in Figure 1. Located in the
+southeast corner of Chengdu, Sichuan Province, the park is adjacent to an expressway,
+resulting in significant traffic noise issues and concentrated citizen complaints. The total
+area of the park is 2 square kilometers, with approximately one-third covered by water. As
+a national urban wetland park, it primarily serves recreational, sightseeing, and ecological
+conservation functions. The park features diverse landscape elements, including water
+bodies, lawns, woodlands, and paved pavements. The current severe noise problems and
+the public’s pursuit of a high-quality living environment pose higher demands for the
+sustainable development of the area.
+Considering the park’s construction status, open areas, functional diversity, and envi-
+ronmental sound pressure levels, ten measurement points were selected within the research
+site to evaluate landscape elements and soundscape satisfaction. The selected points meet
+the following criteria: (1) Each point has unique visual and acoustic characteristics, distin-
+guishing them from each other. (2) The distance between measurement points is greater
+than 300 m to eliminate interference from the soundscape of adjacent points. (3) Mea-
+
+Land 2024, 13, 1468
+4 of 21
+surement points cover most visual elements within the research site, offering open views
+and rich visual elements, suitable for acoustic measurement and visual factor calculations.
+(4) Each location should have an activity space of no less than 50 m × 50 m, allowing
+researchers to move freely to gain a more comprehensive acoustic landscape experience,
+while also not causing excessive differences in the sound environment [38,39].
+Figure 1. Location map of measurement points in Bailuwan Wetland Park.
+Nevertheless, we admit there might be some potential bias regarding site selection. For
+instance, by focusing on areas with open views and rich visual elements, this study might
+underrepresent more enclosed or vegetated areas that contribute differently to the overall
+soundscape. The requirement for a 300 m distance between points could result in the
+exclusion of smaller but significant park areas, leading to a potential underrepresentation
+of their soundscape characteristics.
+2.2. Measurements
+This study constructs an indicator system based on visual and auditory environmental
+characteristics to explore the impact mechanisms of the Bailuwan Wetland Park landscape
+on human activities and emotional perception. Using QGIS spatial syntax calculations and
+field surveys, audiovisual environment data for the ten points were collected. Questionnaire
+surveys quantified behavioral vitality intensity and emotional perception indicators to
+explore the relationship between audiovisual environments and human activities and
+emotions. Finally, multiple regression analysis was used to form a predictive model
+for optimizing audiovisual environments in ecological parks around urban expressways
+(Figure 2).
+2.2.1. Visual Landscape Composition
+Considering the objective existence and subjective perception of visual landscape
+factors [40], this study selected the proportions of different landscape elements within
+people’s visual fields to represent visual characteristics. Researchers first conducted a
+site survey of the research area, using a panoramic camera, Gopro, to capture panoramic
+images of the visual landscape. Through semantic segmentation model (Qgis 3.36.2), the
+visual landscape elements in the site were ultimately summarized and extracted into four
+types: woodland (Wo), lawn (L), water bodies (Wa), and pavements (P). Subsequently,
+geographic information system (QGIS) and spatial syntax methods were used to calculate
+the composition of the landscape perceived visually by people throughout the entire
+research area.
+
+Land 2024, 13, 1468
+5 of 21
+ 
+Figure 2. Measurement methods diagram.
+2.2.2. Auditory Environmental Characteristics
+This study used the equivalent continuous A-weighted sound pressure level (LAeq)
+and sound source perception indicators to describe the park’s sound environment. LAeq is
+a standardized measure for environmental sound pressure levels, expressing decibel values
+and variations in sound intensity, and has been shown to significantly impact soundscape
+perception [41]. A multi-channel signal analyzer (AWVA6290L+) recorded and measured
+the sound environment at each measurement point. Additionally, based on traffic flow
+data from surrounding expressways and field measurements, a noise map of the site
+was calculated using the noise prediction model (NPL) [see http://resource.npl.co.uk/
+acoustics/techguides/crtn/ (accessed on 18 March 2024)]. Sound sources were used to
+describe which sounds dominate within the study site.
+Sound source perception consists of two parts: the type of sound source and the inten-
+sity of perception. This study employed a combination of soundwalks and questionnaires
+to conduct research on sound source perception. A soundwalk is a standardized method
+widely used in soundscape research to measure auditory perception [42]. This method pri-
+marily involves organizing participants to take walks along predetermined routes, during
+which they focus on experiencing the surrounding soundscape environment and record
+and evaluate the sounds they hear and their relationship with the surrounding landscape
+environment at designated research points [43,44]. The sound environment characteristic
+evaluation part of the questionnaire is divided into two sections. Section 1 is a semi-open
+questionnaire used to record the types of sound sources at the research points. Section 2
+uses a five-point Likert scale (1–5, where 1 represents “not perceived at all” and 5 represents
+“very strongly perceived”) to evaluate the perceived intensity of different types of sound
+sources. In the pre-experiment, resear
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. Located in the
+Figure 1. Location map of measurement points in Bailuwan Wetland Park.
+Figure 2).
+Figure 2. Measurement methods diagram.
+Figure 3).
+Figure 3. The method of visual landscape calculations of the site.
+Table 1. A significance
+Table 1. Significant (p) values of normality test.
+Table 2 and Figure 4.
+Table 2. Objective environmental and psychological perception data for measurement points.
+Figure 4. Measurement point locations and average sound pressure levels.
+Figure 5. It was found that lawns are distributed throughout the site, with higher
+Figure 5. Visibility distribution of visual elements in Bailuwan Wetland Park.
+Table 2 and Figure 5. The proportion of lawn (mean = 51.54%) was the
+Table 2 and Figure 6.
+Figure 6. Noise map of Bailuwan Wetland Park.
+Figure 6. The simulation results indicated that the
+Figure 7).
+Figure 7. Sound perception map.
+Figure 8.
+Figure 8. Functional zones and activity intensity map of Bailuwan Wetland Park.
+Table 3. All independent variables were
+Table 3. Feasibility assessment of site functional activity fit models.
+Figure 9). It reveals that areas with high activity intensity are concentrated in the northern
+Figure 9. Predicted map of site functionality and activity intensity in Bailuwan Wetland Park.

@@ -1,0 +1,12 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+406,quantitative_nonrandomised,Y,Y,CT,Y,CT,Y,Y,3,moderate,총 표본 수와 결측 미보고·하얼빈 단일 시장 한정
+435,qualitative,Y,Y,Y,Y,Y,Y,CT,4,high,분석 절차 미기술·의도적 표집 10명으로 전이가능성 제한
+461,quantitative_RCT,Y,Y,CT,CT,Y,CT,Y,2,low,무작위화 절차·기저 동등성·평가자 눈가림 모두 미보고
+469,quantitative_descriptive,Y,Y,Y,Y,Y,Y,Y,5,high,TSE 중앙값 분할로 70명 제외·단일 목적지 1주간 조사
+480,quantitative_nonrandomised,Y,Y,CT,Y,CT,Y,Y,3,moderate,회수율·결측 미보고·가로 간 비교에 도시 문화 교란 잔존
+481,quantitative_nonrandomised,Y,Y,CT,Y,Y,Y,Y,4,high,단일 광장 UAV 표본·성비 맞춘 인위적 선별로 대표성 불확실
+492,mixed_methods,Y,Y,Y,Y,Y,CT,CT,3,moderate,양-질 결과 불일치 논의 부재·코더 간 신뢰도 미보고·단일문항 리커트
+494,quantitative_descriptive,Y,Y,Y,Y,Y,CT,Y,4,high,무응답률 미보고·유효 표본 182명으로 소규모
+520,qualitative,Y,Y,Y,Y,Y,CT,Y,4,high,활동군당 셀이 3~20명으로 작고 통계 검정 없이 경향 해석
+532,quantitative_RCT,Y,Y,CT,CT,CT,CT,Y,1,low,무작위화·기저 동등성·눈가림 미보고·설문 결측 수 미보고
+539,quantitative_descriptive,Y,Y,Y,CT,CT,CT,Y,2,low,3점 회상 척도·고학력 편중·무응답률 미보고·다중비교 보정 없음

@@ -1,0 +1,184 @@
+### RECORD ID=1005 | screening_verdict=INCLUDE | year=2024
+JOURNAL: HELIYON
+TITLE: Crowdsourced cycling data applications to estimate noise pollution exposure during urban cycling
+DOI: 10.1016/j.heliyon.2024.e27918
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Heliyon 10 (2024) e27918
+Available online 17 March 2024
+2405-8440/©
+2024
+The
+Authors.
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY
+license
+(http://creativecommons.org/licenses/by/4.0/).
+Research article 
+Crowdsourced cycling data applications to estimate noise 
+pollution exposure during urban cycling 
+Rebecca Wogan , John Kennedy * 
+Department of Mechanical, Manufacturing and Biomedical Engineering, Trinity College Dublin, University of Dublin, D02 PN40 Dublin, Ireland 
+A R T I C L E I N F O 
+Keywords: 
+Noise pollution exposure 
+Cyclist experiences 
+Cyclist behaviors 
+Strava 
+Environmental health data 
+A B S T R A C T 
+This research demonstrates a methodology to integrate freely available datasets to understand the 
+relationship between road traffic noise and cycling experiences in a medium sized city. An 
+illustrative example of the methodology was drawn from data for Dublin, Ireland. We aggregate 
+local environmental data with 81,403 Strava cycle trips, contextualised by feedback from 335 
+cyclists to estimate exposure levels and infer impacts on experiences and behaviours. Results 
+demonstrate that cyclists recognise that they are subjected to increased noise levels and experi­
+ence negative psychophysical consequences as a result, but they tend to downplay the impact of 
+noise as merely a minor annoyance. Noise also impacts behaviour, most noticeably through 
+temporal and spatial detours. Geospatial mapping was used to visualise the relationship between 
+noise pollution and cycling activity. Estimating traffic noise levels across two cycle routes, direct 
+vs popular detour, revealed a +10 dB(A) increase in exposure for a saving of approximately 4 min 
+on the direct route compared to the detour. Spatial inequities in exposure levels may have serious 
+health consequences for cyclists in a city such as Dublin. The methodology is demonstrated as 
+suitable for policy level interventions and planning purposes. 
+1. Introduction 
+An essential aspect of urban life is mobility [1], and with one-third of the world’s population expected to reside in cities by 2030 
+[2], decisions regarding how we move in cities are pressing. Cycling is the most energy-efficient mode of transport, with unmistakable 
+individual and societal health and well-being benefits due to physical exercise, space efficiency, no production of greenhouse gas 
+emissions, air or noise pollution [3]. In contrast, motorised vehicles exert grossly negative consequences on society, including but not 
+limited to traffic congestion, severe accidents, air and noise pollution [4]. Transitioning from driving a car to cycling can amount to a 
+9-fold benefit to the health of an individual [5], in the Irish context active travel saves the Health Service €29.2 m every year [6]. 
+Importantly, greater numbers of people cycling and walking bring greater safety and enjoyment, unlike vehicular transport [7]. Not 
+surprisingly, there are renewed drives towards increasing the numbers of people choosing to cycle as urban transportation [8]. 
+However, a risk factor to achieving this modal shift may be noise pollution, of which motorised road traffic is the most severe source 
+in cities [9]. The World Health Organisation recommends a limit of 53 dB Lden average exposure, with levels exceeding this associated 
+with harmful health effects. Others argue that these WHO limits underestimate the detriments to health and wellbeing that can result 
+from much lower levels [10]. In contrast to other stressors (such as exposures to second-hand smoke) which are falling, noise exposure 
+is rising in Europe [11]. With traffic noise frequently exceeding 60 dB (dBA), exposure levels are highest among active travel users due 
+* Corresponding author. 
+E-mail address: john.kennedy@tcd.ie (J. Kennedy). 
+Contents lists available at ScienceDirect 
+Heliyon 
+journal homepage: www.cell.com/heliyon 
+https://doi.org/10.1016/j.heliyon.2024.e27918 
+Received 25 October 2023; Received in revised form 28 February 2024; Accepted 8 March 2024 
+
+Heliyon 10 (2024) e27918
+2
+to their proximity to traffic and lack of protection [12,13]. 
+The detrimental and far-reaching impacts of noise on public health are becoming increasingly hard to ignore [14]. While re­
+searchers have long been aware of the dangers of noise induced hearing loss, more recently it has been shown that elevated or pro­
+longed exposure can result in serious psychological and physiological impacts [15]. Physiologically, this can involve the release of 
+stress hormones, arousal of the endocrine and autonomic nervous system, increased blood pressure, and heart rate fluctuations [16, 
+17]. As a result people experience feelings of irritability, anxiety, nervousness, and mood swings [18]. Far from being a mere irritant, 
+traffic noise is independently associated with increased morbidity and mortality risks including obesity [19], immune system 
+dysfunction [20], cognitive impairment [21], attention disorders in children [22], and diabetes [23] among a myriad of others [10]. 
+According to one survey, 44% of Europeans recognise the large impact noise exerts on people’s health. However, Ireland featured the 
+lowest recognition rate of any country at 16%, indicating that Irish citizens are significantly less informed than their EU peers on this 
+matter [24]. 
+While cycling facilitates building cardiovascular fitness, mental health, and improvements to quality of life [25,26], average noise 
+levels cyclists experience have reportedly reached 71–75 dB, effectively acting as a “barrier effect”, harming and further deterring 
+people from riding bicycles [13]. Research into cyclist noise exposure has begun to gain ground but is far from mature or mainstream. 
+The majority of research on this subject has been published since 2015, suggesting an increase in concern for environmental factors 
+related to cycling perhaps due to renewed global drives to increase the modal share [8] or advances in the development 
+
+--- METHODS/RESULTS EXCERPT ---
+Method­
+ology, Investigation, Formal analysis, Data curation, Conceptualization. John Kennedy: Writing – review & editing, Supervision, 
+Resources, Funding acquisition, Formal analysis, Data curation, Conceptualization. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Acknowledgments 
+The authors would like to thank Strava for providing a Research Partnership within their active travel promotion initiative. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.heliyon.2024.e27918. 
+References 
+[1] C.J. Matz, D.M. Stieb, M. Egyed, O. Brion, M. Johnson, Evaluation of daily time spent in transportation and traffic-influenced microenvironments by urban 
+Canadians, Mar, Air Qual. Atmosphere Health 11 (2) (2018) 209–220, https://doi.org/10.1007/s11869-017-0532-6. 
+[2] U. Nations, The World’s Cities in 2016, United Nations, 2016, https://doi.org/10.18356/8519891f-en. 
+[3] T. G¨otschi, et al., Integrated impact assessment of active travel: Expanding the Scope of the health economic assessment tool (HEAT) for walking and cycling, 
+Int. J. Environ. Res. Public. Health 17 (Jan. 2020) 20, https://doi.org/10.3390/ijerph17207361. Art. no. 20. 
+[4] D. Heinrichs, J. Jarass, Alltagsmobilit¨at in St¨adten gesund gestalten: wie Stadtplanung Fuß- und Radverkehr f¨ordern kann, Bundesgesundheitsblatt - 
+Gesundheitsforsch. - Gesundheitsschutz 63 (8) (Aug. 2020) 945–952, https://doi.org/10.1007/s00103-020-03180-1. 
+[5] J.J. de Hartog, H. Boogaard, H. Nijland, G. Hoek, Do the health benefits of cycling outweigh the risks? Environ. Health Perspect. 118 (8) (Aug. 2010) 
+1109–1116, https://doi.org/10.1289/ehp.0901747. 
+[6] P. Collins, “Walking and Cycling Index 2021,” National Transport. Accessed: January. 16, 2024. [Online]. Available: https://www.nationaltransport.ie/news/ 
+bike-life-dublin-2021-walking-and-cycling-index/. 
+[7] P.L. Jacobsen, Safety in numbers: more walkers and bicyclists, safer walking and bicycling, Inj. Prev. 21 (4) (Aug. 2015) 271–275, https://doi.org/10.1136/ 
+ip.9.3.205rep. 
+[8] A. Nikitas, S. Tsigdinos, C. Karolemeas, E. Kourmpa, E. Bakogiannis, Cycling in the era of COVID-19: lessons learnt and best practice policy recommendations for 
+a more bike-centric future, Sustainability 13 (9) (Jan. 2021), https://doi.org/10.3390/su13094620. Art. no. 9. 
+[9] Environmental noise guidelines for the European Region.” Accessed: January. 16, 2024. [Online]. Available: https://www.who.int/europe/publications/i/ 
+item/9789289053563. 
+[10] J.-P. Faulkner, E. Murphy, Estimating the harmful effects of environmental transport noise: an EU study, Sci. Total Environ. 811 (Mar. 2022) 152313, https:// 
+doi.org/10.1016/j.scitotenv.2021.152313. 
+[11] Burden of disease from environmental noise - Quantification of healthy life years lost in Europe.” Accessed: January. 16, 2024. [Online]. Available: https:// 
+www.who.int/publications-detail-redirect/9789289002295. 
+[12] H. Boogaard, F. Borgman, J. Kamminga, G. Hoek, Exposure to ultrafine and fine particles and noise during cycling and driving in 11 Dutch cities, Atmos. 
+Environ. 43 (27) (Sep. 2009) 4234–4242, https://doi.org/10.1016/j.atmosenv.2009.05.035. 
+[13] E.O. Okokon, et al., Particulates and noise exposure during bicycle, bus and car commuting: a study in three European cities, Environ. Res. 154 (Apr. 2017) 
+181–189, https://doi.org/10.1016/j.envres.2016.12.012. 
+[14] H. Marquart, K. Stark, J. Jarass, How are air pollution and noise perceived en route? Investigating cyclists’ and pedestrians’ personal exposure, wellbeing and 
+practices during commute, J. Transp. Health 24 (Mar. 2022) 101325, https://doi.org/10.1016/j.jth.2021.101325. 
+[15] M. Basner, et al., Auditory and non-auditory effects of noise on health, Lancet 383 (9925) (Apr. 2014) 1325–1332, https://doi.org/10.1016/S0140-6736(13) 
+61613-X. 
+[16] W. Babisch, Cardiovascular effects of noise, Noise Health 13 (52) (Jun. 2011) 201, https://doi.org/10.4103/1463-1741.80148. 
+R. Wogan and J. Kennedy 
+
+Heliyon 10 (2024) e27918
+16
+[17] S.L. Lusk, B. Gillespie, B.M. Hagerty, R.A. Ziemba, Acute effects of noise on blood pressure and heart rate, Arch. Environ. Health Int. J. 59 (8) (Aug. 2004) 
+392–399, https://doi.org/10.3200/AEOH.59.8.392-399. 
+[18] S. G¨ossling, A. Humpe, T. Litman, D. Metzler, Effects of perceived traffic risks, noise, and exhaust smells on bicyclist behaviour: an economic evaluation, 
+Sustainability 11 (2) (Jan. 2019), https://doi.org/10.3390/su11020408. Art. no. 2. 
+[19] B. Oftedal, et al., Road traffic noise and markers of obesity – a population-based study, Environ. Res. 138 (Apr. 2015) 144–153, https://doi.org/10.1016/j. 
+envres.2015.01.011. 
+[20] A. Kim, J.H. Sung, J.-H. Bang, S.W. Cho, J. Lee, C.S. Sim, Effects of self-reported sensitivity and road-traffic noise levels on the immune system, PLoS One 12 (10) 
+(Oct. 2017) e0187084, https://doi.org/10.1371/journal.pone.0187084. 
+[21] L. Tzivian, et al., Associations of long-term exposure to air pollution and road traffic noise with cognitive function—an analysis of effect measure modification, 
+Environ. Int. 103 (Jun. 2017) 30–38, https://doi.org/10.1016/j.envint.2017.03.018. 
+[22] M. Skrzypek, M. Kowalska, E.M. Czech, E. Niewiadomska, J.E. Zejda, Impact of road traffic noise on sleep disturbances and attention disorders amongst school 
+children living in Upper Silesian Industrial Zone, Poland, Int. J. Occup. Med. Environ. Health 30 (3) (May 2017) 511–520, https://doi.org/10.13075/ 
+ijomeh.1896.00823. 
+[23] C. Clark, H. Sbihi, L. Tamburic, M. Brauer, L.D. Frank, H.W. Davies, Association of long-term exposure to transportation noise and traffic-related air pollution 
+with the incidence of diabetes: a prospective cohort study, Environ. Health Perspect. 125 (8) (Aug. 2017) 087025, https://doi.org/10.1289/EHP1279. 
+[24] E.
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1) [50]. 
+Fig. 2 for a visualisation of the data collection sources and 
+Fig. 1. An overview of the region of interest featuring the five local administrative areas of Dublin City Council [51]. 
+Fig. 2. Data collection and analysis pipeline. a EPA, Environmental Protection Agency; b GIS, Geographical Information Systems; c ROI, Region 
+Fig. 3. Considering that many local authorities lack the resources for extensive data collection campaigns of cyclist noise exposure 
+Table 1 
+Fig. 3. Locations of the 17 noise monitoring stations in the Dublin City Council region. 
+Fig. 7a). Along this segment, noise values were extracted and an average equivalent noise exposure 
+Table 1). 
+Table 1. 
+Fig. 4 a). The ubiquity of cycling during rush hours was reflected in 83.9% of respondents stating 
+Fig. 4 b). When asked about their motivations for choosing to cycle, the majority stated time 
+Fig. 4 c). 
+Table 2). Closer investigation into specific emotional states revealed a majority of the sample have been left feeling irritable/angry 
+Table 2). While this is a minority, it is noteworthy that it is unlikely that bus or car users would factor noise 
+Table 2). These detours 
+Fig. 4. Summary of responses to survey questions enquiring into the time of day usually cycled, purpose, and reasons behind choosing to cycle as 
+Table 2). 
+Table 2 
+Fig. 5. Strava cycling trips across Dublin City administrative areas for the month of May 2022. 
+Fig. 5). See Table 3 for a brief summary of Strava cycling records for May 2022 and the previous May of 2021. In Table 3, there is a 
+Fig. 6) we can see that city noise levels are often predicted 
+Fig. 7a. The direct segment on t

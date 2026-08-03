@@ -1,0 +1,2123 @@
+### RECORD ID=1243 | screening_verdict=INCLUDE | year=2026
+JOURNAL: Landscape Architecture Frontiers
+TITLE: How Individual and Sound Characteristics Interactively Determine Perceived Soundscape Restorativeness in Coastal Urban Spaces —An Empirical Study in a Typical Sea-fronting Context
+DOI: 10.15302/j-laf-2026-0016
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+1
+Innovations for Healthy Landscapes: Review and Perspective on 
+Technologies for Assessing and Understanding Human Responses to 
+Environmental Stimuli
+ABSTRACT 
+Mental health disorders have become a growing challenge globally. 
+As research continues to emphasize the restorative properties of 
+the environment, natural landscapes are increasingly recognized 
+as an effective means to reduce disorders. Research on healthy 
+landscapes may be enhanced and, in some cases, uniquely informed 
+by human response data; however, the existing literature provides 
+limited and insufficient synthesis on this topic. To address the gap, 
+this study first proposes a four-stage classification framework for 
+new measurement technologies based on the intrinsic processing 
+phase through which individuals respond to environmental stimuli—
+*CORRESPONDING AUTHOR
+Address: 614 Knowles Building, Pokfulam Road, The 
+University of Hong Kong, Hong Kong 999077, China 
+Email: jiangbin@hku.hk
+Chuzhen WANG
+1,2, Ulrika K. STIGSDOTTER
+3, Bin JIANG
+1,2,4,*
+1 Urban Environments and Human Health Lab, HKUrbanLabs, Faculty of Architecture, The University of Hong Kong, Hong Kong 999077, 
+China
+2 Division of Landscape Architecture, Department of Architecture, The University of Hong Kong, Hong Kong 999077, China
+3 Department of Geosciences and Natural Resource Management, University of Copenhagen, 1958 Frederiksberg C, Denmark
+4 Urban Systems Institute, The University of Hong Kong, Hong Kong 999077, China
+https://doi.org/10.15302/J-LAF-2026-0016
+Volume 14 / Issue 2 / 260016 / 2026
+© Higher Education Press 2026
+Received Date | 2025-08-15 Accepted Date | 2026-01-15
+GRAPHICAL ABSTRACT
+Narrative 
+review
+Implications
+Enhancing methodological precision of future research and supporting practical nature contact interventions
+Future 
+directions
+Applying multimodal measures for 
+mechanistic insight
+Clarifying affective subtype variability in 
+environmental response
+Identifying multilevel mechanisms 
+through embodied big data modelling
+Neural processing phase
+MRI
+fNIRS
+EEG
+Molecular 
+biomarker 
+extraction
+Wearable 
+physiological 
+sensing
+Facial 
+expression 
+analysis
+Eye-tracking
+Physiological adjustment phase
+Behavioral expression phase
+Subjective representation phase
+Subjective semantic profiling
+Central nervous system
+Peripheral autonomic nervous 
+system
+Peripheral somatic nervous 
+system
+Comprehensive output after 
+neural stream processing
+Sequential processing of physiological systems in human responses to environmental stimuli
+
+2
+VOLUME 14 / ISSUE 2 / 260016 / 2026
+1 Introduction
+Mental health disorders have been among the most pressing global 
+health challenges of the 21st century, affecting an estimated 970.1 million 
+people worldwide in 2019, a figure that represents a 48.1% 
+increase over the past two decades
+[1]. Meanwhile, nature contact 
+has gained increasing recognition as a comparatively accessible, 
+low-cost, and non-pharmacological approach to support mental 
+health promotion and secondary prevention
+[2–3]. This demand 
+has driven scholarly interest in healthy landscapes. Underpinned 
+by the therapeutic landscape paradigm, healthy landscapes refer 
+to urban environments intentionally designed to support multi-
+dimensions of human health, including mental, physical, and social 
+and behavioral
+[4–5].
+1.1 Limitations of Traditional Data
+Traditional data sources, such as self-report surveys, interviews, 
+and observational data, have dominated early healthy landscape 
+research in assessing the influence of nature exposure on mental 
+health. Such tools allow the gathering of data from large population 
+samples, place minimal procedural and technical demands, and 
+allow for direct measurement of subjective experiences of mental 
+states and environmental perceptions
+[6–10]. However, they have 
+significant shortcomings in eliciting fine-grained, embodied 
+information about human–environment interactions.
+In particular, the coarse temporal resolution of traditional data 
+masks the fast psycho-physiological fluctuations within the human 
+body during real-world environmental exposure. Conventional data 
+in the form of questionnaire surveys and periodic sampling usually 
+provide information on daily to monthly cycles, whereas autonomic 
+responses to environmental stimuli take place on the millisecond 
+timescale
+[11]. This temporal mismatch limits the ability of traditional 
+data to capture critical dynamics and thus undermines efforts to 
+establish causal relationships. 
+Another concern is reporting bias in psychological states. 
+Retrospective questionnaires rely on memory and are affected 
+by the current mood of the participants, which systematically 
+misestimates longer-term emotion
+[12]. Relying on such measures 
+can hinder causal inference and limit the full spectrum of human–
+environment interactions, particularly at physiological and neural 
+levels.
+Even under conditions of minimal reporting bias, the inherent 
+limitations of the rating scales may serve as another constraint on 
+detectability. An independent yet equally critical limitation that is 
+likely to occur is the presence of floor effects and ceiling effects, 
+neural processing, physiological adjustment, behavioral expression, 
+and subjective representation—each aligned with its corresponding 
+phase of the body’s response. Within each stage, a narrative 
+review then synthesizes current technologies, their key indicators, 
+applications, and potential mechanisms in healthy landscape 
+research. Finally, we identify three emerging healthy landscape 
+research directions based on the current research gaps, following: 
+1) applying multimodal measures for mechanistic insights, 2) 
+clarifying affective subtype variability in environmental response, 
+and 3) identifying multilevel mechanisms through embodied big 
+data modeling. Overall, this work provides a theoretical lens 
+and methodological foundation for probing complex human–
+environment in
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1 Research Framework
+This paper first proposed a response-based framework situated 
+in the human process of receiving and responding to environmental 
+information. Following the framework, it then reviewed emerging 
+technologies, synthesized key indicators, applications, and 
+possible mechanisms to explain human–environment interaction. 
+It concluded by providing three overarching directions for future 
+research.
+2.2 Methodology
+A narrative review approach was adopted to accommodate 
+the interdisciplinary scope of this study, which spans landscape 
+architecture, environmental psychology, cognitive neuroscience, 
+and physiological sensing. This approach is particularly suitable for 
+synthesizing diverse theoretical perspectives and methodological 
+practices, enabling the integration of conceptual insights, 
+comparison of measurement techniques, and identification of 
+emerging research gaps
+[24].
+To guide the literature search, we first outlined a sequential 
+information-processing framework of human responses 
+involving multiple body systems. For each system, we referred 
+to representative measurement reviews to select device families 
+along with quantitative indices that are sensitive to system-specific 
+changes
+[25–29]. This mapping relationship between human systems 
+and measurement indicators guided the keyword strategy for this 
+narrative review, particularly for terms related to measurement 
+technologies and indicators.
+The narrative literature search was conducted across databases 
+of Web of Science, Scopus, Google Scholar, and ScienceDirect, using 
+combinations of keywords from three thematic clusters: research 
+domains (“healthy landscape,” “green space exposure,” “nature 
+exposure,” “nature contact,” and “environmental psychology”); 
+measurement technologies (“EEG,” “MRI,” “fNIRS,” “molecular 
+biomarker extraction,” “PPG,” “EMG,” “facial expression,” “eye 
+tracking,” and “sentiment analysis”), and main indicators (“cortisol,” 
+“CRP,” “IL-6,” “sAA,” “BVP,” and “EDA”)
+①. To ensure specificity 
+and relevance, each cluster was searched independently and 
+iteratively combined. The chosen literature explicitly examined 
+the relationship between nature contact and psychological or 
+physiological outcomes and employed at least one quantifiable 
+human response measurement technique. Moreover, eligible 
+publications were limited to English-language original research 
+articles published between 2010 and 2025. This time frame was 
+chosen to capture the methodological evolution of the most recent 
+years, during which the field has witnessed both the emergence of 
+new digital sensing technologies and the renewed application of 
+earlier physiological methods through advanced data-processing 
+approaches and evolving research questions.
+3 A Narrative Review: Hierarchical Classification 
+of Human Response Measurement With New 
+Technologies
+Building on the sequential flow of information described 
+in Section 1.3, we delineated a temporally ordered framework 
+comprising four functional stages—neural processing, physiological 
+adjustment, behavioral expression, and subjective representation—
+each corresponding to specific measurement approaches detailed 
+below (Fig. 1).
+The neural processing phase, centered on the CNS, primarily 
+takes place in the brain. It captures brain activity through 
+technologies such as EEG, MRI, and fNIRS. These methods quantify 
+electrical signals, levels of cerebral blood oxygenation, and 
+hemodynamic responses.
+The physiological adjustment phase, driven by the ANS and 
+the endocrine system, captures internal adaptive changes from 
+peripheral organs or tissues. It focuses on bodily responses 
+recorded via two primary approaches: molecular biomarker 
+extraction and wearable sensing. The former includes techniques 
+for analyzing multiple physiological biomarkers in blood, hair, and 
+① EEG stands for electroencephalogram; MRI stands for magnetic resonance 
+imaging; fNIRS stands for functional near-Infrared spectroscopy; PPG stands 
+for photoplethysmography; EMG stands for electromyography; CRP stands for 
+C-reactive protein; IL-6 stands for interleukin-6; sAA stands for salivary alpha-
+amylase; BVP stands for blood volume pulse; and EDA stands for electrodermal 
+activity.
+
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+5
+saliva. The latter involves devices that measure EDA and heart rate 
+variability (HRV).
+The behavioral expression phase, driven by the somatic 
+nervous system and motor system, quantifies motor-based outputs 
+and involves the detection of externally observable behaviors 
+using eye-tracking systems and facial expression analysis. These 
+technologies collect data such as gaze fixation duration, saccade 
+frequency, and facial muscle activity.
+The subjective representation phase assesses psychological 
+states through the analysis of individuals’ verbal or written 
+expressions. Emerging techniques such as subjective semantic 
+profiling based on natural language processing (NLP) are used to 
+extract features like emotional tone, word frequency, and thematic 
+patterns from participant narratives.
+3.1 Neural Processing Measures
+Measurement of the neural processing phase focuses on 
+capturing how the brain processes environmental stimuli, reflecting 
+the activity of the central nervous system. This phase includes 
+three main techniques: EEG, MRI, and fNIRS. Although all three 
+techniques can be used to characterize brain activity, EEG captures 
+neural responses through neural electrical activity, whereas MRI 
+and fNIRS rely on hemodynamic signals; moreover, MRI offers 
+whole-brain coverage, while fNIRS is largely restricted to cortical 
+regions.
+3.1.1 EEG
+EEG is a technique that records electrical signals generated by 
+the synchronous firing of cortical neuron populations, collected 
+through electrodes placed on the human scalp
+[30]. Traditional 
+EEG systems rely on stationary installations and thus are usually 
+applied in controlled laboratory settings. Mor
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1).
+Table 1).
+Table 1: EEG frequency bands and their associated psychological states
+Fig. 1 Four functional stages and corresponding measurement.
+
+======================================================================
+
+### RECORD ID=1258 | screening_verdict=INCLUDE | year=2026
+JOURNAL: URBAN SCIENCE
+TITLE: Multisensory Interactions in Greenway Plazas of Differing Openness and Effects on User Behaviors
+DOI: 10.3390/urbansci10010060
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Received: 20 November 2025
+Revised: 26 December 2025
+Accepted: 7 January 2026
+Published: 18 January 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Multisensory Interactions in Greenway Plazas of Differing
+Openness and Effects on User Behaviors
+Zhaohui Peng, Wenping Liu
+, Mingjun Teng, Yangyang Zhang
+, Abdul Baess Keyhani
+and Pengcheng Wang *
+Department of Landscape Architecture, College Horticulture & Forestry Science, Hubei Engineering Technology
+Research Center for Forestry Information, Wuhan Urban Ecosystem Long-Term Observation and Research Station,
+National Forestry and Grassland Administration, Huazhong Agricultural University, Wuhan 430070, China;
+pengzhaohui2022@126.com (Z.P.); liuwenping@mail.hzau.edu.cn (W.L.); tengmingjun@hotmail.com (M.T.);
+yangyangzhang1993@outlook.com (Y.Z.); keyhani2016@webmail.hzau.edu.cn (A.B.K.)
+* Correspondence: pengchengwang@163.com
+Abstract
+Spatial openness affects the subjective evaluation of soundscape, landscape, and thermal
+perceptions, leading to various restoration effects and recreational behaviors. However,
+the literature lacks studies investigating the effects of multisensory interactions under
+different levels of spatial openness in plazas on users’ behaviors in urban greenways. Thus,
+this study contributes to the enhancement of recreational experiences and the environ-
+mental design of urban greenways by examining the interaction between multisensory
+evaluations and recreational behaviors in greenway plazas with different levels of spatial
+openness. Three types of plazas (enclosed, semi-enclosed, open) were selected along an
+urban greenway to analyze interactions through in situ measurements, questionnaires, and
+behavior observation. The results showed that people rated the environment as the quietest
+and coolest in enclosed plazas, although the sound pressure level of these plazas was
+the highest. Furthermore, the visual evaluation (VE) was mostly correlated with acoustic
+evaluation (AE) in plazas with high openness, while the correlation effect between AE
+and thermal evaluation (TE) was only significant in enclosed plazas. In other words, AE
+was the key factor targeting the improvement in comfort in greenway plazas. Secondly,
+improving AE was more effective for stimulating the frequency of interactive activities in
+enclosed plazas, compared to improving TE. However, AE had a negative effect on the
+time that people were willing to spend on interactive activities in semi-enclosed plazas.
+Finally, these findings provide corresponding strategies for creating comfortable audio,
+visual, and thermal environments in greenway plazas with different levels of openness, as
+well as strategies for enhancing the recreational experiences of visitors.
+Keywords: acoustic comfort; landscape openness; outdoor activities; thermal comfort;
+urban greenspace
+1. Introduction
+With the acceleration of urbanization and people’s rising demand for natural green
+spaces in urban areas, greenways not only provide recreational spaces for various activities,
+such as exercising, sightseeing, and social interaction, but they also purify the hazardous
+matter in the city air, creating an eco-friendly environment. The greenway connects natural
+and artificial landscapes, such as forests, wetland parks, mountains, and cultural plazas; it
+provides a linear space for people to be with nature and satisfy different activity needs [1–3].
+Connected natural areas decrease the density of particulate matter, providing natural
+Urban Sci. 2026, 10, 60
+https://doi.org/10.3390/urbansci10010060
+
+Urban Sci. 2026, 10, 60
+2 of 19
+solutions for improving the air quality of greenways [4,5]. Plazas are important nodes
+along a linear greenway; they are spaces where people can rest and carry out leisure
+activities along the greenway. Many studies revealed the restoration effects of such plazas—
+those that had a high percentage of green vegetation and sky visibility, coupled with natural
+sounds, such as birds and wind, induced restoration in people and promoted recreational
+behaviors [6–8]. However, a thermal evaluation significantly influenced the above effect,
+especially during the hot summer climate, which led to negative environmental satisfaction
+and prevented people from participating in activities. In contrast, an increasing number
+of studies started to focus on the integrated effect of physical environments, such as the
+effect of spatial openness on visual, acoustic, and thermal evaluation, and users’ behaviors
+in greenway plazas.
+Previous studies found that spatial openness had a significant effect on the physi-
+cal environment, subjective evaluation, and emotional response. The spatial openness
+of a greenway was defined as the visibility of landscape elements—such as water,
+sky, and vegetation—as well as whether it was affected by surrounding green or grey
+infrastructures—like trees and facilities. It was proven that spatial openness influenced
+visual, acoustic, and thermal evaluations; different perspectives of the above evaluations
+also influenced each other as multisensory evaluations. For visual and acoustic perceptions,
+the densities of trees and enclosing vegetation influenced spatial openness and sound
+pressure levels, which further influenced people’s tranquility and overall comfort [9–11].
+The users of greenways, including cyclists and walkers, preferred views with high levels
+of openness. Cyclists were also affected by changing patterns in the landscape when
+moving positions [12–16]. On the other hand, water and bird sounds, coupled with high
+openness and natural views, made people feel at ease more easily, compared to the effect
+of traffic noise [17,18]. As for acoustic and thermal perceptions, cyclists and walkers both
+felt annoyed by traffic noise in spaces with high openness and felt relieved by natural
+sounds,
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Studied Area
+Wuhan has a typical summer-hot and winter-cold climate with extreme hot temper-
+atures of up to 40.5 ◦C lasting 50 days in the central districts. With the acceleration of
+urbanization in Wuhan, the landscape of Wuhan is facing challenges, such as a lack of
+specificity and degradation of biological diversity. To address the rising demand for natural
+and green spaces and cope with high temperatures, governments have constructed 29 var-
+ious types of greenway walking routes, connecting different types of landscape spaces,
+including wetland parks, forests, water bodies, and mountains. Each walking route has a
+unique topic with specific landscape elements and changing patterns, such as mountain
+forest lines and forests attached to lake lines. The natural and artificial elements, such as
+trees, plants, rocks, historical buildings, and pavilions, vary according to the type of land.
+Moreover, the natural parks, forests, and wetlands along greenways are rich in natural
+sound sources, while squares and historic parks are dominated by the sound of human
+activities. Since bikes and electronic cars are available on the main greenway, traffic noise,
+such as honking and braking, affects the acoustic environment of the total greenway.
+As illustrated in Figure 2, this study selected the walking route from the north entrance
+(Liyuan Square) to the south exit (Yikeshu) of the greenway as the studied route with a high
+density of people, according to their walking patterns and favorable lines. According to
+previous studies, the spatial openness of the greenway plaza could be classified according to
+the percentage of the sky visibility ratio [40]. The measuring points in greenway plazas were
+selected based on the spatial openness and the type of enclosure structure. Six measuring
+points were chosen and divided into three categories (enclosed, semi-enclosed, and open).
+Measuring points R1 and R4 were enclosed plazas with the largest amount of green
+vegetation and historical buildings. People usually stayed and enjoyed the tranquil and
+historical atmosphere. Measuring points R2 and R3 were semi-enclosed plazas surrounded
+by modern structures and natural elements, such as trees, shrubs, and flowers. People
+gathered here to listen to concerts or catch fish. Regarding points R5 and R6, the plazas
+were open plazas with a broad view and less green vegetation. People might stay for a
+while to enjoy the lake view.
+2.2. In Situ Measurement of the Feature of the Visual, Acoustic, and Thermal Environment
+As the urban densification in Wuhan accelerated, the average air temperature in-
+creased by 1.3 degrees from 2008 to 2018 [41]. In order to objectively evaluate the physical
+environment, the percentage of visual elements, LAeq_5min, air temperature, and relative
+humidity were selected as the physical parameters in this study. For the visual environment,
+panoramic images were taken by a digital camera (Sony Alpha 7R V, Sony, Tokyo, Japan) at
+a height of 1.5 m above ground in the time period of 09:00–10:00 a.m. to identify the spatial
+openness of each measuring point. The shooting point was at the center of the sample
+square, where people gathered for activities. Then, the percentage of sky elements was
+calculated based on the panoramic images using the following equation:
+Si = Ps/P × 100%
+(1)
+https://doi.org/10.3390/urbansci10010060
+
+Urban Sci. 2026, 10, 60
+5 of 19
+where Ps represents the area coverage of sky elements in the panoramic image, P indicates
+the whole visibility area in the panoramic image, and Si shows the percentage of sky
+elements in the whole visibility area of human beings as the spatial openness. After the
+calculation, the spatial openness was divided into three categories: enclosed (up to 20%),
+semi-enclosed (20–40%), and open (more than 40%) ranges (Table 1).
+Figure 2. Layout of visitors’ walking routes in the East Lake greenway in Wuhan, China, and six
+measuring points at the plaza with different levels of spatial openness along the greenway. The red
+area represents the province of the study site. The measuring points are as follows: R1, lake shore
+square; R2, musical square; R3, wetland park square; R4, ancient pavilion square; R5, rock island
+square; R6, eyes of lake square.
+Table 1. Area coverage, spatial openness, and percentage of sky ratio of each greenway plaza at each
+measuring point.
+Measuring
+Point
+Covering
+Area/m2
+Spatial Openness
+Percentage of Sky Visibility
+Ratio/%
+R1
+246
+Enclosed
+Up to 20%
+R2
+268
+Semi-enclosed
+20–40%
+R3
+241
+Semi-enclosed
+20–40%
+R4
+310
+Enclosed
+Up to 20%
+R5
+302
+Open
+More than 40%
+R6
+290
+Open
+More than 40%
+For the acoustic environment, LAeq_5min was measured by an Aihua AWA 6228+ sound
+level meter (Hangzhou Aihua Intelligent Technology, Hangzhou, China) at a distance of
+1.2 m away from the reflecting surface continuously for 5 min. The sound level meter
+measured the instant sound pressure level at each second, and LAeq_5min was calculated
+using the equation:
+LAeq,T = 10log10((∑10(LA,i/10))/N)
+(2)
+https://doi.org/10.3390/urbansci10010060
+
+Urban Sci. 2026, 10, 60
+6 of 19
+where LA,i represents the instant sound pressure level at each second. N shows the number
+of times that LA,i was measured. LAeq,T indicates the equivalent sound pressure level when
+T is 5 min. During the measurement, the ambient sound of each measuring point was also
+recorded by a Sony PCM D100 (Sony, Tokyo, Japan). In terms of the thermal environment,
+air temperature (Ta) and relative humidity (RH) were measured for 5 min. The weather
+conditions were clear, and the wind speed was less than 5 m/s when measuring these
+physical parameters. All parameters were measured during people’s activity times from
+morning (8:00–12:00 a.m.) to afternoon (2:00–6:00 p.m.).
+2.3. Data Collection of Visual, Acoustic, and Thermal Evaluation
+The questionnaire design referred to previous studies on the investigation of visual
+landscapes, soundscapes, and thermal environments, consisting of 4 parts, inclu
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). In order to bridge these gaps, this study aimed to explore the interactive
+Figure 1. Conceptual framework of the relationship between spatial openness, multisensory in-
+Figure 2, this study selected the walking route from the north entrance
+Table 1).
+Figure 2. Layout of visitors’ walking routes in the East Lake greenway in Wuhan, China, and six
+Table 1. Area coverage, spatial openness, and percentage of sky ratio of each greenway plaza at each
+Table 2). Single-person behaviors were identified as
+Table 2. Identification of human behaviors as single-person, one-to-one person, and multi-person
+Figure 3). The results indicated that the LAeq,5min and L10 values of the enclosed plazas
+Figure 3a). As the distance away from the
+Figure 3b,c).
+Figure 3. Mean value of visual, acoustic, and thermal environment parameters at each measuring
+Table 3 shows that landscape openness, soundscape
+Figure 4). The VE ratings of the participants were higher than the AE and TE
+Table 3. Main factors representing visual, acoustic, and thermal evaluation from the questionnaire
+Figure 5 illustrates the relationship between the visual, acoustic, and thermal evalua-
+Figure 5a–c all show a red circle for the correlation between VE and AE. This
+Figure 4. Mean value of each subjective evaluation (VE, AE, and TE) of each measuring point across
+Figure 5. Spearman’s correlation for the relationship between visual, acoustic, and thermal evalua-
+Figure 6). Figure 6a
+Figure 6b,c show the regression line between
+Figure 6. Linear regression curve between visual, acoustic, and thermal evaluations of greenway
+Figure 7 illustrates the mean frequency and duration time of differe
+
+======================================================================
+
+### RECORD ID=234 | screening_verdict=BORDERLINE | year=2013
+JOURNAL: ARCHIVES OF ACOUSTICS
+TITLE: Urban Noise Annoyance Between 2001 and 2013-Study in a Romanian City
+DOI: 10.2478/aoa-2013-0024
+PAGES: 6
+
+--- HEAD (title/abstract/intro) ---
+ARCHIVES OF ACOUSTICS
+Vol. 38, No. 2, pp. 205–210 (2013)
+Copyright c
+⃝2013 by PAN – IPPT
+DOI: 10.2478/aoa-2013-0024
+Urban Noise Annoyance Between 2001 and 2013 – Study in a Romanian City
+Diana Ioana POPESCU, Iuliana Fabiola MOHOLEA, Radu Mircea MORARIU-GLIGOR
+Technical University of Cluj-Napoca, Faculty of Machine Building
+B-dul Muncii 103-105, 400641 Cluj-Napoca, Romania; e-mail: Diana.Popescu@mep.utcluj.ro
+(received March 17, 2013; accepted April 24, 2013)
+The paper presents results of three socio-acoustic surveys conducted in an interval of twelve years,
+between 2001 and 2013, in a large Romanian city, Cluj-Napoca. The purpose of the surveys was to assess
+the awareness of residents on urban noise and the extent to which the noise environment aﬀects their
+everyday life, behavior and health. The surveys were conducted in 2001, 2009 and 2013. The questionnaire
+used in the ﬁrst survey had 16 questions and it was veriﬁed prior to study through a pilot survey, being
+corrected and improved. For the second and the third study, the questionnaire was enriched with eight
+more questions, regarding essentially the description of the residential area, criteria for its selection and
+also awareness about the noise map of the city. The analysis of responses deﬁnes the main characteristics
+of the local pattern of annoyance and reaction of the urban population to the environmental noise.
+Keywords: noise annoyance, urban noise, socio-acoustic survey.
+1. Introduction
+Most studies related to the noise annoyance in ur-
+ban environment use two assessment methods, usu-
+ally combined, depending on the speciﬁc situation and
+needs. The ﬁrst method describes the existing noise
+situation by means of noise exposure indicators pro-
+vided by a noise map of the area, with the possibility
+to model other diﬀerent noise scenarios, characterizing
+the development or re-organization of the urban area
+(Sommerhoff et al., 2004; Lee et al., 2008). Noise
+maps are developed within specialized software, result-
+ing in a computer visual model of the noise situation,
+with a precision which depends on the volume and ac-
+curacy of input numerical and graphical data. A map
+must be validated and corrected based on noise mea-
+surements values. With the entry into force of the EU
+Noise Directive, noise mapping methods were merged
+and uniﬁed, action which led to the obtaining of com-
+parable results.
+The second method aims to ﬁnd out the popula-
+tion response to urban noise through a sociological
+study (Klæboe et al., 2004). This approach is im-
+portant for the assessment of exposure-eﬀect relation-
+ship, described by quantiﬁable indicators of the pres-
+ence and intensity of certain features. It is consider-
+ing, in this case, the evaluation and interpretation of
+the subjective side of the issue, by taking into account
+both acoustic and non-acoustic factors, in their inter-
+action, when characterizing the short-term and long–
+term eﬀects of noise pollution on the population in
+diﬀerent urban areas. Non-acoustic factors inﬂuencing
+noise nuisance are numerous and can be grouped into
+three main categories: situational factors (induced by
+the location of noise source and urban context), indi-
+vidual factors (socio-demographic and attitudinal, rel-
+atively stable over time but variable from person to
+person) and social factors (relevant in the context of
+social groups: lifestyle, perception of noise source and
+its time evolution, attitude of responsible persons and
+others). The purpose is to ﬁnd what people think and
+feel about the noise in their residential area, how an-
+noyed they are, how sensitive to noise, how informed
+and warned about its negative eﬀect on health.
+There are studies which combine measurement and
+survey methodology (Skinner, Grimwood, 2005;
+Lam et al., 2009) and others developing new meth-
+ods, models and theories for predicting eﬀects of envi-
+ronmental noise on people and deﬁning exposure-eﬀect
+relationship (Batko, Pawlik, 2012; Kryter, 2009;
+Miedema, Oudshoorn, 2001; Maris et al., 2007)
+or for improvement the urban acoustic environment
+(Kompala, 2011)
+This paper presents parallel results of two socio-
+acoustic surveys undertaken in 2001 and 2009 in the
+city of Cluj-Napoca, Romania and partial results of
+
+206
+Archives of Acoustics – Volume 38, Number 2, 2013
+a third survey which is in progress during the year
+2013. They are related to studies which assess the noise
+environment of the city, in the context of noise map-
+ping actions.
+2. The area of study and the general
+noise context
+The city of Cluj-Napoca is located in the North-
+Western region of Romania, being the capital of Cluj
+County and an important cultural, scientiﬁc and edu-
+cational centre. According to a statistical study made
+in August 2000, the stable population of the city con-
+sisted of 316001 inhabitants. An estimation from July
+2007 indicated 310243 inhabitants with registered res-
+idence in Cluj-Napoca and also more that 100000 stu-
+dents and 50000 non-resident employers. Population
+Census from 2011 showed that the stable population
+has decreased to 309136 inhabitants.
+For the study in 2001, a distribution of population
+in ten districts was considered. In later years, besides
+the existing districts have been developed new ones,
+mainly due to enlargement of the residential area to-
+wards the limits of the city. Some of the new districts
+were formed by reorganizing existing ones. Thus the
+studies in 2009 and 2013 considered the population
+grouped in 19 districts. Ten of them are new districts,
+which concentrate in present about 28% of the city
+population.
+Cluj-Napoca City is the third – in terms of num-
+ber of inhabitants – of the nine Romanian cities that
+have made the noise map and action plans for re-
+ducing ambient noise, as required in the Directive
+2002/49/EC and equivalent Romanian legislation GD
+nr. 321/14.04.2005. The noise mapping action was
+started in the second half of 2006, being coordinated
+by the local public administration. Speciﬁc informa
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 2001
+The purpose of the sociological investigation was
+to know the opinion of the inhabitants on the noise
+levels and sources of noise in Cluj-Napoca city, includ-
+ing the situation in districts, and to ﬁnd if people have
+taken actions to reduce noise and to improve the acous-
+tic comfort of their dwellings. Also, we aimed to ﬁnd
+out the extent to which the environmental noise af-
+fects their daily activities, behavior and health. The
+questionnaire was developed after a preliminary study
+of the existing situation in the city, which included
+the collection of related data necessary to establish
+the sample volume and composition. A pilot study was
+conducted for ﬁeld-testing and reﬁnement of the ques-
+tionnaire.
+The number of questions was set at 16, so that the
+questionnaire was not boring and covered all stated
+subjects. Since the questionnaire was one of opinion,
+following aspects were taken into account: the ques-
+tionnaire contained a series of open questions, to let
+the respondent to formulate his/her own opinion on
+the issue; the respondent had the possibility to moti-
+vate a speciﬁc answer; pre-coded questions were asked
+in order to measure the intensity of subjects’ opinion.
+Among other items, the questionnaire asked about cur-
+rent occupation, ﬁeld of activity, education, age, resi-
+dential district. A number of 238 questionnaires were
+selected form the returned number and their answers
+were structured and analyzed in a database program
+and then compared with objective data collected on
+the preliminary documentation (Popescu, Morariu-
+Gligor, 2004).
+3.2. Methodology 2009
+The aim of the study was to determine the current
+reactions and response of residents related to the ur-
+ban noise and changes in attitudes compared to 2001.
+An improved form of the questionnaire was developed,
+adapted to the intended purpose of establish references
+for: level of knowledge and awareness of environmen-
+tal noise in urban areas, by population; information
+of citizens about the noise mapping action and its re-
+sults; main negative eﬀects and reaction of inhabitants
+to the noise pollution, speciﬁc forms of behavioral; hi-
+erarchy of diﬀerent sources of urban noise, depending
+on the level of perception and disturbance of residents;
+involving of citizens in authorities eﬀort to improve ur-
+ban acoustic environment; citizens options on the most
+eﬀective way of information that should be used by au-
+thorities.
+The survey questionnaire contained 24 questions,
+being dimensioned to require no more that 20 minute
+attention and speciﬁcally design to reﬂect the three
+major classes of non-acoustic factors that inﬂuence
+noise annoyance: situation, individual and social fac-
+tors. Questions were grouped in four categories: res-
+idential zone description in relation with traﬃc and
+environmental noise; annoyance due to diﬀerent noise
+sources and eﬀects on peoples’ habit; information,
+trends and attitudes towards environmental noise;
+identiﬁcation of respondent as occupation, sex, age and
+education.
+The questionnaire was distributed in 19 districts
+of the city, during May-September 2009. A number of
+325 questionnaires were processed, from 348 returned,
+
+D.I. Popescu, I.F. Moholea, R.M. Morariu-Gligor – Urban Noise Annoyance Between 2001 and 2013. . .
+207
+after elimination of those containing improbable or in-
+consistent answers (Popescu, Moholea, 2010).
+3.3. Methodology 2013
+The same questionnaire was used for the study in
+2013, which has started in February. Only partial re-
+sults are available, from the processing of 135 returned
+valid questionnaires, grouped according to age, educa-
+tion and occupational state, as presented in Table 1.
+Table 1. Responses by age, education and occupational
+state (2001; 2009; 2013 – partial).
+Year of the survey
+2001
+2009
+2013
+Age
+18–30
+98
+122
+33
+31–50
+113
+128
+72
+51–70
+21
+70
+25
+over 70
+6
+5
+5
+Education
+≤10 classes
+5
+6
+5
+High school
+132
+114
+45
+University
+101
+205
+85
+Occupational
+state
+Employed
+207
+222
+94
+Retired
+12
+42
+19
+Student
+10
+24
+11
+Unemployed
+4
+6
+9
+Other situation
+5
+31
+2
+4. Results and discussions
+Results obtained from the two sociological studies
+in 2001 and 2009 are presented as follows in combined
+charts. They have been released as percentage, taking
+as basis the total number of valid responses – Fig. 1 to
+Fig. 6. Survey results form 2013 were not included in
+these charts, as they are currently only partial results,
+Fig. 1. Proportion of responses describing the noise level in the residential area (2001, 2009).
+which represents about a quarter of the estimated to-
+tal responses. Only the questions common to the both
+questionnaires were suited for a parallel presentation of
+results. Because there were some changes in the word-
+ing of the noise annoyance questions and quantiﬁca-
+tion between the surveys, there were some situations
+in which it was necessary to re-group the answers on
+common criterions.
+In describing the noise level of their residential
+area (Fig. 1), subjects of the study in 2001 and 2009
+had similar opinion. A lot of them (41.6%, respec-
+tively 37.2%) characterized their noise environment as
+“Medium”, on a ﬁve point answer scale and the other
+answers are equilibrated on the left and right side of
+the scale. Responses recorded in 2013 indicate a de-
+crease in the number of people who are disturbed by
+noise in their residential area: 6.7% “Very low”, 32.6%
+“Low”, 38.5% “Medium”, 19.3% “High”, 2.9% “Very
+high”.
+At the question: “Indicate the main source of noise
+in the vicinity of your home” the percentage of an-
+swers: “Light vehicles” increased from 35.4% in 2001
+to 42.0% in 2009 and 49.8% in 2013 (Fig. 2). The sit-
+uation is explainable, considering the sharp increase
+of the road traﬃc in the last twelve years. Decreased
+percentage of responses: “Heavy vehicles” may be due
+to the fact that some mandatory routes were estab-
+lished for heavy traﬃc through the city in the recent
+years, in the absence of a ring road surrounding the
+city. To note that a si
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1.
+Table 1. Responses by age, education and occupational
+Fig. 1 to
+Fig. 6. Survey results form 2013 were not included in
+Fig. 1. Proportion of responses describing the noise level in the residential area (2001, 2009).
+Fig. 1), subjects of the study in 2001 and 2009
+Fig. 2). The sit-
+Fig. 3). In the ﬁrst study 62.2% of respondents de-
+Fig. 2. Proportion of responses pointing the main source of noise in home vicinity.
+Fig. 3. Proportion of responses describing the annoyance due to the environmental noise.
+Figure 4 presents responses from
+Table 2. Fatigue and nervous-
+Fig. 5). Subjects could choose more
+Fig. 4. Proportion of responses, sorted by age of the subjects, pointing the time of the day most aﬀected
+Fig. 5. Proportion of responses describing harmful eﬀects of the environmental noise.
+Table 2. Harmful eﬀects of the environmental noise
+Figure 6 shows
+Fig. 3) and 35.5% in 2013.
+Fig. 6. Proportion of responses related to actions for reduction of annoying noise.
+
+======================================================================
+
+### RECORD ID=613 | screening_verdict=BORDERLINE | year=2020
+JOURNAL: International Journal of Environmental Research and Public Health
+TITLE: Environmental quality perceptions and health: A cross-sectional study of citizens of Kaunas, Lithuania
+DOI: 10.3390/ijerph17124420
+PAGES: 14
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Environmental Quality Perceptions and Health:
+A Cross-Sectional Study of Citizens of
+Kaunas, Lithuania
+Regina Gražuleviˇcien˙e 1,*
+, Sandra Andrušaityt˙e 1
+, Audrius D˙edel˙e 1
+, Tomas Gražuleviˇcius 1,
+Leonas Valius 2, Violeta Kapustinskien˙e 2 and Inga Bendokien˙e 3
+1
+Department of Environmental Science, Vytautas Magnus University, 44248 Kaunas, Lithuania;
+sandra.andrusaityte@vdu.lt (S.A.); audrius.dedele@vdu.lt (A.D.); t.grazulevicius@gmail.com (T.G.)
+2
+Department of Family Medicine, Lithuanian University of Health Sciences, 48005 Kaunas, Lithuania;
+Leonas.Valius@lsmuni.lt (L.V.); Violeta.Kapustinskiene@lsmuni.lt (V.K.)
+3
+Division of City Planning and Architecture, Kaunas City Municipality, 48005 Kaunas, Lithuania;
+inga.bendokiene@kaunas.lt
+*
+Correspondence: r.grazuleviciene@gmf.vdu.lt; Tel.: +37037734642
+Received: 15 April 2020; Accepted: 15 June 2020; Published: 19 June 2020
+
+
+Abstract: The perception of urban environmental quality is an important contributor when identifying
+local problems in sustainable development and environmental planning policy. This study examined
+the associations between environmental and social residential characteristics, physical activity,
+obesity, and hypertension in Kaunas city, Lithuania. This cross-sectional study analyzed 580 citizens’
+demographic-, socioeconomic-, health-, and lifestyle-related factors, environmental health concerns,
+and environmental quality perceptions. Using Geographic Information Systems and the multivariate
+logistic regression, we found that the less physically active group more often presented lower than
+mean ratings of the quality of pathways and cycling routes (32.9% and 45.6%, p = 0.042) and only
+irregularly visited the natural environment. Obese participants presented poorer ratings of air
+pollution, the quality of pathways and cycling routes, their possibility to reach green spaces by
+walking, and the available relaxing areas. The environmental issues associated with hypertension
+were poor possibilities to reach green spaces by walking (OR 1.94, 95% CI 1.14–3.32) and the availability
+of relaxation areas (OR 2.30, 95% 1.34–3.95). The quality of the neighborhood and individual-level
+characteristics were the factors that inﬂuenced a higher prevalence of health problems at the district
+level. Our ﬁndings suggest that a public health policy to improve the physical and social environment
+of the neighborhood would have a potential to increase citizens’ physical activity and health.
+Keywords:
+citizen science; environmental health; neighborhood perceptions; hypertension;
+physical activity
+1. Introduction
+Public health specialists have been increasingly interested in how the quality of citizens’ residence
+settings is associated with physical activity and health [1,2]. Physical inactivity is a major modiﬁable
+risk factor for many preventable chronic non-communicable diseases, and there is a potential risk
+threshold for health related to the degree of activity or inactivity [3]. The physical environment,
+residential availability of natural outdoor environments, and accessibility and aesthetics are important
+factors that inﬂuence physical activity [2,4]. The researchers who investigate possibilities for the
+promotion of health and physical activity among citizens emphasize the signiﬁcance of the citizens’
+perceptions of the neighborhood’s quality in facilitating physical activity [5,6].
+Int. J. Environ. Res. Public Health 2020, 17, 4420; doi:10.3390/ijerph17124420
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2020, 17, 4420
+2 of 14
+The growing awareness of the importance of the environmental health and social factors for
+human health has led to the participant-approach studies that might more adequately reﬂect the local
+environmental issues, overall health, and the wellbeing of citizens. Citizen science in public health
+might beneﬁt from the citizens’ active contribution with their intellectual eﬀort and surrounding
+knowledge [7,8]. However, to date, citizen science has not relied heavily on the evidence of the
+environmental impact on citizens’ health, and there are opportunities to engage those aﬀected by
+environment-related health problems, such as cardiovascular disease, hypertension, allergies, and other
+chronic diseases.
+Epidemiological studies have shown that contact with green space has beneﬁcial eﬀects such as
+reduced risks of cardiovascular disease, obesity, or diabetes, and lower risks of all-cause mortality [9,10].
+There is growing scientiﬁc evidence that both physical activity and contact with urban green spaces
+have the potential to contribute positively to citizens’ health [11–13]. Meanwhile, urban planning,
+city transport system, and neighborhood characteristics may have a signiﬁcant negative inﬂuence on
+human health and well-being by aﬀecting the environmental quality, or, indirectly, by inﬂuencing
+behaviors such as physical activity—which, in turn, aﬀects chronic disease [14]. Given the complexity
+of the built environment, understanding its inﬂuence on human health requires a community-based,
+multilevel, interdisciplinary research approach [15]. Multi-level and urban system approaches have
+the potential of having larger-scale eﬀects and should be evaluated [16].
+To date, little is known about how people’s perceptions of the quality of residential settings are
+related to their physical activity and health concerns. The idea of this article is to assess the associations
+between the ratings of various environmental (built and social) residential characteristics and health
+indices (blood pressure, obesity, and hypertension), which have numerous common individual and
+environmental risk factors. The results of this study might present possible target areas for interventions
+in physical activity, including the environmental, individual, social, and policy levels.
+The present research reports on the ﬁrst-year ﬁndings f
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Design
+The pilot study of the Urban Environment and Health proposal was conducted between July
+and February of 2020. We conducted a cross-sectional study among 580 adults who lived in Kaunas
+city, Lithuania. Our main engagement methods included radio information, announcements in local
+newspapers and web sites, advertisements at community events, and conferences. Because the citizens’
+response to the invitation via mass media was poor, we also used the list of the participants of the
+scientiﬁc-practical conference Human and Nature Safety to send personal invitations to join the
+study. From the beginning of the project, the participants were involved in discussions to identify
+and prioritize environmental and health issues. The three major environmental concerns the citizens
+expressed are as follows: air pollution, traﬃc noise, and the availability of cycling and smooth walking
+paths. The major health concerns were hypertension, obesity, and cardiac problems. During the ﬁrst
+year of the project, the participants together with scientists were involved in identifying the relevant
+questions, planning the design of the Kaunas pilot study, and discussing the study questionnaire
+
+Int. J. Environ. Res. Public Health 2020, 17, 4420
+3 of 14
+and protocol. Using the interviews, we identiﬁed citizens’ environmental concerns and major health
+concerns and formulated the aim of the study. The participants of the study were volunteers who ﬁlled
+out a questionnaire that had closed-ended and open-ended questions and signet the Informed Consent
+form. In the questionnaire, we asked the participants about the characteristics of the built and the
+social residential environment, the duration of living in the current place of residence, health behavior,
+and chronic or other diseases diagnosed by physicians. In addition, the participants were asked to take
+part in seven-day physical activity measurements with physical activity sensors FitBit Alta. About a
+half of all the participants agreed to take part in these measurements, which were conducted during
+the second year of the project.
+The participants ﬁlled out the questionnaire during face-to-face interviews. We used a seven-point
+Likert rating scale to measure environmental perceptions, and then analyzed the associations with
+the self-reported health status. The Likert scale included a series of questions to be answered and 7
+balanced responses the participants could choose from. Based on survey, and the discussions between
+the participants’ and scientists the following research question was formulated: “Why do citizens
+in my district suﬀer from hypertension more often than in other ones?” We conducted geospatial
+analysis using the ArcGIS mapping (Esri, Redlands, CA, USA) and analytics platform and statistical
+analysis using the SPSS version 25.0 package (IBM Corporation, New York, NY, USA) to assess the
+associations between the perception of the environmental quality, self-reported physical activity,
+and the participants’ health and well-being.
+2.2. Ethics Statement
+Kaunas Regional Committee for Biomedical Research Ethics approved the study protocol,
+the questionnaire, the Subject Information Form, and the Informed Consent Form as well as the consent
+procedure (BE-2-51. 2019-06-10). We informed the participants about the study in detail, and the
+participants signet the Informed Consent Form. At the beginning of the study, all the collected personal
+data were recorded on “paper” documents speciﬁcally designed for biomedical research, and then
+were given numerical values for anonymous storage in electronic media. The personal data of the
+participants were stored in accordance with the “Legal Protection of Personal Data” act. All personal
+data collected were coded by giving them numerical values. The coded anonymous data were stored
+separately from the personal identiﬁcation data. Only depersonalized individual data were used for
+data analysis. Biomedical examination was conducted in accordance with the Declaration of Helsinki
+and other relevant regulatory requirements.
+2.3. Analysis
+We used the addresses provided by the participants to create variables with the residence
+district/community categories.
+We evaluated exposure to major traﬃc ﬂows (more than
+10,000 cars per day) by the geographic information system (GIS). The participants’ perception
+on the characteristics of the quality of the built environment were assessed using questions on the
+infrastructure in the residence neighborhood, public transport, pathways and cycling routes, walking
+distances to the city’s green spaces or parks, areas adapted to exercise and relaxation, public spaces
+to meet people, and neighborhood safety. In addition, we asked questions on problems caused by
+air pollution and noise in the place of residence, and on the average time per day spent outdoors.
+We assessed the diﬀerent environmental variables by using a seven-point Likert rating scale ranging
+from 1 (strongly disagree) to 7 (strongly agree) in order to measure mean environmental perceptions.
+The self-reported health was evaluated using a ﬁve-point Likert rating scale ranging from 1 (great) to
+5 (poor). Higher scores indicated better neighborhood conditions.
+The individual socio-economic status (SES) was assessed by evaluating the respondents’ income,
+educational status, and situation at work. We assessed the participants’ health status by the presence or
+absence of physician-diagnosed chronic diseases, systolic and diastolic blood pressure, and body mass
+index (BMI) calculated using the measures of body weight and body height. We asked the participants
+
+Int. J. Environ. Res. Public Health 2020, 17, 4420
+4 of 14
+about smoking history and the average time per day spent outdoors. We dichotomized personal data
+and used mean values of environmental perception scores as cut points.
+Information on hypertension was obtained by asking the participants to answer the question
+“Have you been diagnosed with hypertens
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1, the majority of the
+Table 1. Characteristics of the participants living in Kaunas city.
+Figure 1). In diﬀerent city districts,
+Figure 1. Spatial distribution of the perception of air pollution and the prevalence of hypertension.
+Table 2).
+Table 2. Self-reported physical activity and health measures in district groups by the prevalence
+Table 3 shows the participants’ perceptions of their neighborhood quality in the districts with
+Table 3 present the participants’
+Table 3. Mean ratings of the perceptions of neighborhood quality and social wellbeing in district
+Table 4 presents odds ratios (OR) and 95% conﬁdence intervals (CI) from the multivariate logistic
+Table 4. Multivariate logistic regression models of neighborhood quality items on physical activity, obesity, and diastolic blood pressure.
+Figure 1). However, in two districts, we found a negative correlation. The comparison of the
+Table 4) revealed that citizens residing in neighborhoods with a better infrastructure for the possibility
+
+======================================================================
+
+### RECORD ID=648 | screening_verdict=BORDERLINE | year=2020
+JOURNAL: SUSTAINABILITY
+TITLE: Residents' Spatial Perceptions of Urban Gardens Based on Soundscape and Landscape Differences
+DOI: 10.3390/su12176809
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+sustainability
+Article
+Residents’ Spatial Perceptions of Urban Gardens
+Based on Soundscape and Landscape Diﬀerences
+Zheng Zhao 1, Yanbin Wang 2 and Yilei Hou 3,*
+1
+College of Tourism, Shanghai Normal University, Shanghai 200234, China; zzshnu@shnu.edu.cn
+2
+Economic Development Research Center, National Forestry and Grassland Administration,
+Beijing 100714, China; wangyanbin@bjfu.edu.cn
+3
+School of Economics and Management, Beijing Forestry University, Beijing 100083, China
+*
+Correspondence: houyilei@bjfu.edu.cn; Tel.: +86-10-62338424
+Received: 13 July 2020; Accepted: 19 August 2020; Published: 21 August 2020
+
+
+Abstract: In this study, four types of urban gardens, namely modern commercial, cultural heritage,
+historical preservation, and natural and ecological areas, were comprehensively described and
+analyzed based on soundscape and landscape diﬀerences, and a multinomial logit model was used
+to explore potential inﬂuencing factors shaping residents’ preferences regarding urban gardens.
+The results suggest that variations in soundscape are closely related to the characteristics of the garden
+areas and the timing of residents’ activities; the noise level measurements at diﬀerent observation
+points varied considerably according to the time of day and displayed diﬀerent trends. Residents
+strongly preferred natural sounds, and traﬃc noise was the most disliked category of sound. Further,
+a negative correlation was found between residents’ subjective perception of loudness and the
+favorability of the area, while a clear positive correlation existed between the degree of favorability
+and the degree of landscape-soundscape coordination. Regarding landscape diﬀerences, residents
+generally preferred urban gardens without artiﬁcial transformation and prioritized the maintenance
+of natural landscaping and the historical and cultural heritage of urban gardens. In particular,
+residents’ preferences reﬂected the trade-oﬀs between natural and artiﬁcial forms of urban gardens.
+These results oﬀer useful information for planners, developers, and governmental organizations
+related to urban gardens by providing data to design urban gardens with increased practical value
+and natural beneﬁts.
+Keywords: urban garden; resident preference; multinomial logit model; Shanghai
+1. Introduction
+Urban gardens, via their internal landscape, environment, and spatial structure, satisfy important
+needs of city residents.
+They are important components of urban environmental construction,
+which serves to improve the quality of urban ecological environments and residents’ quality of life [1,2].
+Urban gardens are deeply involved in the residents’ daily lives, thus embodying the relationship
+between human and nature. Existing research mainly focuses on the functions and services provided by
+urban gardens, including improving the quality of the ecological environment, meeting residents’ daily
+needs, and improving residents’ health [3–5]. Since people express diﬀerent preferences regarding the
+landscape and structure of urban gardens, data-driven approaches to urban garden design should be
+employed to promote residents’ mental and physical health [6,7]. However, residents’ preferences are
+also impacted by the diﬀerent spatial characteristics and usage patterns of urban gardens, which have
+also been addressed by many researchers [8,9]. On the other hand, as residents’ preferences change,
+the planning and decision-making processes related to urban gardens are also changing [10]. Therefore,
+Sustainability 2020, 12, 6809; doi:10.3390/su12176809
+www.mdpi.com/journal/sustainability
+
+Sustainability 2020, 12, 6809
+2 of 21
+it is of great academic and practical signiﬁcance to understand residents’ preferences regarding urban
+gardens and relevant inﬂuencing factors.
+Previous studies have identiﬁed challenges in scientiﬁcally investigating individual preferences.
+For example, many attributes cannot exist and operate independently of each other, and their
+function can exercise cross inﬂuence on other attributes [11,12]. Similarly, individual preferences are
+heterogeneous due to individual and family characteristics and degree of specialization. Regarding
+individual preferences for urban gardens, planners and architects often face trade-oﬀs between various
+elements and styles. First, urban gardens have natural attributes that form the basis for their various
+functions. Contact with nature has been conﬁrmed to positively impact human emotions, cognition,
+behavior, and physical health [13,14]. Accordingly, urban gardens not only function to improve
+urban ecological environments but also as a form of social service. When people interact with nature
+in urban gardens, they are often engaged in some type of recreational activity, which promotes
+their physical and mental health. Thus, the human-engineered forms of urban gardens can also ﬁll
+important roles [15–19]. In a few words, urban garden designs should seek a balance between the
+natural and artiﬁcial environments to achieve optimal results so as to better adapt to the various
+individual preferences.
+Beyond the consideration of landscape diﬀerences in urban gardens, soundscape diﬀerences have
+already received attention in current research. Granö, a Finnish geographer, ﬁrst proposed the word
+soundscape in 1929 as an analogy of the word landscape to describe the sound environment that people
+experience in a physical space [20]. In 1976, Schafer, a Canadian composer and ecologist, proposed the
+concept of a soundscape; that is, a sound environment considered with an emphasis on individual or
+social perceptions and understanding [21]. It is obvious that sound is a constant presence in natural
+and social environments. The existence of some sounds helps to create a comfortable environment
+and positive individual experiences [22,23]. However, adverse factors, such as noise pollution, also
+impact human experiences [24,25]. In summary, existing research frames the soundscape in two ways.
+On
+
+--- METHODS/RESULTS EXCERPT ---
+e is the soundscape produced by human society (the social soundscape), the other is the sum of
+numerous sounds heard by human beings in the natural environment (the natural soundscape). As is
+known to all, human beings cannot exist independently without the natural environment and, similarly,
+individual development is inseparable from society. Therefore, a discussion of the soundscape should
+consider both the natural and social soundscapes and prioritize the essential needs and preferences of
+individuals. Besides, more attention should be paid to fostering harmonious relationships between
+the soundscape and landscape and between the soundscape and people through comprehensive
+and in-depth investigations. In addition, as a reﬂection of diﬀerences between Eastern and Western
+cultures, soundscapes in Chinese classical gardens are designed to express emotion and to embody an
+artistic conception. Therefore, research on the design and optimization of urban garden soundscapes,
+changes in these soundscapes, and the relationship between individuals’ perception of a space and the
+soundscape reﬂect topical concerns in China.
+Existing research topics on soundscape and landscape factors in urban gardens are relatively
+extensive, covering many aspects, such as structure, design and layout [26]. At present, however, most
+existing research has compared and discussed the impact of natural versus artiﬁcial environments; such
+studies are typically descriptive discussions, lacking objective quantitative measurements. Therefore,
+this study arises from the assumption that simply dividing the natural and artiﬁcial environment into
+two parts is unlikely to provide in-depth insights into why a given environment is beneﬁcial to human
+well-being [27]. Meanwhile, in recent years, many studies have investigated individual soundscape
+and landscape preferences, particularly the inﬂuencing factors aﬀecting such individual preferences,
+including age or education level [28–30]. Individual preferences have also been tied to social status
+and to economic, cultural, and social capital [31,32]. Therefore, a study of residents’ preferences
+regarding urban gardens must be combined with a detailed assessment of the interactions between
+their individual characteristics and the qualities and variations of soundscapes and landscapes.
+
+Sustainability 2020, 12, 6809
+3 of 21
+No previous research has comprehensively addressed the relationship between individual
+attributes and the advantages and disadvantages of diﬀerent urban garden forms or the relationship
+between landscape variations, soundscape variations, and residents’ preferences and choices. This study
+addresses the following questions. How can soundscape and landscape diﬀerences be comprehensively
+considered to determine urban garden classiﬁcations? Do residents prefer natural or artiﬁcial urban
+landscapes or both? Given diﬀerent individual characteristics, what are the types and degrees of
+public preferences for urban gardens? In this study, natural and artiﬁcial urban garden forms are
+integrated into four schemes according to soundscape and landscape characteristics to measure
+residents’ preferences. The Yu Garden area in Shanghai was selected as the research area for this
+micro-level study of public cognition and selection. Based on data obtained via a ﬁeld soundscape
+test, questionnaire surveys, and interviews, residents’ spatial perceptions of urban gardens were
+comprehensively analyzed based on soundscape and landscape diﬀerences, and a multivariate logit
+selection model was used to analyze residents’ preferences regarding urban garden types and relevant
+inﬂuencing factors. This study explores the relationship between diﬀerent urban garden types and
+factors, including residents’ individual, family, and professional characteristics; further, the probability
+that given residents will prefer diﬀerent urban garden forms was estimated. This study aimed to
+highlight the important social, economic, and ecological roles of urban gardens and to explore practical
+urban garden designs, thus providing useful information for planners, developers, and governmental
+staﬀ. Furthermore, this study could serve as the basis for the construction of urban gardens with
+greater practical value and natural ecological beneﬁts.
+2. Materials and Survey Design
+2.1. Study Areas and Observation Points
+As this study aimed to heighten understanding of public preferences for diﬀerent urban garden
+types, the selected research site was a typical urban garden located in the downtown area of Shanghai:
+Yu Garden. Yu Garden is located in the northeast of Shanghai’s old city area and is a famous classical
+garden in China’s Yangtze river valley area. It was built during the Ming Dynasty and covers
+more than 30 acres. Yu Garden was opened to the public in 1961 and was listed as a national key
+cultural relic protection unit by China’s State Council in 1982. As the city developed, especially
+through continuous expansion and growth in its downtown area, the Yu Garden and nearby blocks
+have become the most prosperous tourist and shopping area in Shanghai. Today, the Yu Garden
+area mainly includes two parts: the natural landscape area and the historical architectural area.
+The garden has natural functions, such as climate regulation, water resource conservation, and soil and
+water maintenance. The garden also has social functions, including recreation, historical structure
+preservation, and commercial endeavors. These broad functions reﬂect the unity of nature and society
+in the contemporary Yu Garden.
+In terms of landscape variations, two general types of landscapes exist in Yu Garden and nearby
+blocks: the area labeled “A” in Figure 1 depicts a primitive classical garden area. The area has
+higher vegetation coverage, more natural elements, better preservation of historical sites, and lighter
+traces of artiﬁcial transformation compared to the other area. Its main functions include rest and
+relatively passive appreci
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 depicts a primitive classical garden area. The area has
+Figure 1. Natural and artiﬁcial environments. The area labeled “A” in Figure 1 is a primitive classical
+Figure 2. To reveal the trade-oﬀs between residents’ perceptions of artiﬁcial
+Figure 2 [15].
+Figure 2. Photos illustrating urban garden forms. This study further divided the Yu Garden into
+Table 1).
+Figure 3). The sound-level measurement range was 30–130 dBA, and an A-weighted
+Table 1. Inﬂuencing factors of residents’ preferences for urban garden forms.
+Figure 3. Smart Sensor Digital Sound Level Meter AS804.
+Table 2). Among all the respondents, the proportion of males
+Table 2. Descriptive statistics of samples.
+Figure 4).
+Figure 4. Sound levels at diﬀerent observation points in Yu Garden.
+Table 3.
+Table 3. Results of the preference, subjective loudness, and landscape-soundscape coordination analysis
+Table 3 shows that the higher the subjective loudness of artiﬁcial sound,
+Table 4. The proportion of
+Table 4. The residents’ preferences of urban garden forms.
+Figure 5a, the red dotted line indicates the location of the main street outside Yu Garden, while
+Figure 5b, the yellow dotted line indicates the location of
+Figure 5. Spatial characteristics of the modern commercial area and cultural heritage area. In (a),
+Figure 6a, the green dots indicate the location of the main scenic areas in Yu Garden. In Figure 6b,
+Figure 6. Spatial characteristics of the historical preservation area and natural and ecological area.
+Table 5). Options 1, 2, and 3 were set as
+Table 5. Maximum likelihood estimation via multinomial logit regression for four urban garden forms.
+
+======================================================================
+
+### RECORD ID=694 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Associations between Personal Attitudes towards COVID-19 and Public Space Soundscape Assessment: An Example from Antwerp, Belgium
+DOI: 10.3390/ijerph182211774
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Associations between Personal Attitudes towards COVID-19
+and Public Space Soundscape Assessment: An Example from
+Antwerp, Belgium
+Francesco Aletta 1,*
+and Timothy Van Renterghem 2,*
+
+
+Citation: Aletta, F.; Van Renterghem,
+T. Associations between Personal
+Attitudes towards COVID-19 and
+Public Space Soundscape Assessment:
+An Example from Antwerp, Belgium.
+Int. J. Environ. Res. Public Health 2021,
+18, 11774. https://doi.org/10.3390/
+ijerph182211774
+Academic Editor: Takashi Yano
+Received: 21 September 2021
+Accepted: 7 November 2021
+Published: 10 November 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Institute for Environmental Design and Engineering, University College London, The Bartlett,
+14 Upper Woburn Place, London WC1H 0NN, UK
+2
+WAVES Research Group, Department of Information Technology, Ghent University, Technologiepark 126,
+B 9052 Gent, Belgium
+*
+Correspondence: f.aletta@ucl.ac.uk (F.A.); timothy.vanrenterghem@ugent.be (T.V.R.)
+Abstract: The COVID-19 pandemic, and the lockdown events and policies that followed, led to
+signiﬁcant changes in the built environment and how it is experienced by people and communities.
+Among those, variations in the acoustic environments were some of the most noticeable in cities. This
+study investigated the relationships between the perception of the acoustic environment (i.e., sound-
+scape) and different personal factors such as attitudes towards the pandemic and noise sensitivity,
+by performing a survey with 109 participants in an urban green public space in Antwerp (Belgium),
+shortly after most restrictions issued by the government were lifted in September 2020 when the ﬁrst
+contamination wave ended. While preliminary in nature, the results of this data collection campaign
+show that people actively changing their behaviors (using less public transport or cycling more)
+assessed the soundscapes as less vibrant/exciting. People who were more concerned about the
+pandemic tended to notice more natural sounds and noise from trafﬁc on nearby local roads. This
+same subset also put a bigger importance on the environmental quality of the public space than in
+the pre-pandemic period. Noise sensitivity also played a role, as an association was found between
+more-than-average noise sensitive persons and those more worried regarding the pandemic. Overall,
+the ﬁndings of this study conﬁrm that at least part of the people have started to perceive the public
+space, including its soundscape, differently since the start of the pandemic.
+Keywords: environmental noise; noise perception; soundscape; cycling; public space; survey;
+COVID-19
+1. Introduction
+The COVID-19 pandemic events and all the consequent actions and policies imple-
+mented by governments and countries across continents have had (and to a great extent will
+still have in the foreseeable future) drastic impacts on how individuals, groups and commu-
+nities relate to the built environment, and to environmental aspects more broadly [1]. There
+have been considerable changes in how people behave and interact, how social activities
+are performed and how the environment is experienced in cities, which have in turn multi-
+faceted implications in the public health and societal dimensions Osborn, 2020) [2]. Early
+literature reviews of questions related to how people use public spaces in the context of the
+COVID-19 discourse seem to indicate that this pandemic will change public space design
+and use, and most importantly its perceptions, within and between cities [3]. Green areas
+in cities were of course a key public space people resorted to for leisure purposes during
+lockdowns (when allowed by local policy) as well as local commuting, as a preferred option
+to maintain better social distancing [4]. Some studies indeed focused on the role of green
+infrastructures as a public health “asset” during the pandemic. Hanzl observed that the
+pandemic stimulated academic and policy debate about future forms of urban living, and
+Int. J. Environ. Res. Public Health 2021, 18, 11774. https://doi.org/10.3390/ijerph182211774
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 11774
+2 of 15
+that temporary interventions and short-term adjustments introduced in response to the
+pandemic may actually indicate possible pathways for the future [5].
+In particular, among all the environmental variations observed since the onset and
+development of the pandemic, sudden changes in noise levels (especially in urban contexts)
+were reported from different sources around the world (see for instance: [6–11]). In the
+environmental acoustics and soundscape research communities, this led to a growing
+interest to characterize changes in the sound environment of cities, both objectively (i.e.,
+via acoustic measurements) and perceptually (i.e., via socio-acoustic surveys or alike) [12].
+While noise level reductions due to the lockdown and social distancing policies
+imposed to counter the spread of the virus were generally acknowledged, what happened
+in terms of experience and perception of the sound environment as per the soundscape
+concept [13] was less clear. Maggi et al. [14] performed an online survey on the soundscape
+during the lockdown in Argentina and reported that, due to the decrease in mechanical
+sounds and increase in natural sounds, participants were more frequently conveying
+feelings of tranquility and happiness. Likewise, Bartalucci et al. [15] in another online
+survey conducted in Italy during different stages of COVID-19-related lockdowns reported
+an overall reduction in terms of noise anno
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. COVID-19 Situation at the Time of the Study
+The ﬁrst person who ofﬁcially died in Belgium due to COVID-19 was announced by
+the Federal Government on 11 March 2020. Starting from 18 March on, a so-called “soft
+lockdown” was imposed by the Federal Government, including immediate shutdown of
+schools and pubs/restaurants, while only allowing food-related stores to stay open. In
+the Province of Antwerp, where the zone under study is located, the number of newly
+identiﬁed contaminations was at maximum 10 per 100,000 inhabitants per day during
+this ﬁrst wave. Non-essential displacements by car were forbidden for the public at large,
+although walking/cycling outdoors was still allowed and even encouraged. During the
+month of May in 2020, these restrictions were lifted very gradually, and near the end of
+June, public life went more or less back to normal (with less than 1 contamination per
+100,000 inhabitants per day).
+
+Int. J. Environ. Res. Public Health 2021, 18, 11774
+3 of 15
+Near the end of July 2020, local COVID-19 outbreaks in the Province of Antwerp
+(leading to a maximum of 12 new contaminations per 100,000 inhabitants per day), led to
+(moderate) local measures. At the beginning of September, these additional local restrictions
+were again lifted. At the time of the survey, near the end of September 2020, the sound
+pressure levels measured directly near the edge of the highway were almost equal to those
+in 2017 [19], which indicates that public life and economic activity was again at the same
+level as in the pre-pandemic period.
+At the time of the survey, however, the number of contaminations were again exceed-
+ing 10 per 100,000 inhabitants per day in the Antwerp Province, and would lead to the
+peak of the second and more severe contamination wave to be reached early November
+2020 (with 88 per 100,000 inhabitants per day). So, the survey was taken in between the
+ﬁrst and second Belgian COVID-19 wave, after a local outbreak, and during a time window
+of a few weeks where these unprecedented restrictions on the public life were lifted to
+a large extent and daily life more or less normalized, but with the clear threat of a new
+contamination wave about to come.
+2.2. Case Study
+The cycling and walking path considered in this study is located in the Borgerhout
+district in the city of Antwerp (Belgium). It is (visually) immersed in vegetation and
+bordered by a depressed motorway (the Ring road) with a 6.3 m high embankment in
+between. The Ring road is by far the most noticeable source of environmental noise in the
+area, being a highly-trafﬁcked multi-lane motorway, with a high share of heavy vehicles.
+The case study is interesting as it provides a unique context where the Ring road is a
+dominant source of environmental noise, on which trafﬁc volumes were not affected by
+the lockdown policies at the time of the study. This is shown, e.g., by the measured
+difference in exposure level at the edge of the highway (behind the guardrail), relative to
+the pre-pandemic period, of only 0.1 dB (LAeq,1 month) [19].
+The part of the cycling/walking path under study has a length of approximately 560 m
+end to end, and it is comprised between two bridges (Luitenant Lippenslaan and Stenen-
+brug) that cross the Ring road. The area was recently the object of a landscaping renovation
+that made the Ring road invisible from the path, combined with a noise control interven-
+tion consisting of a raised vegetated berm (Figure 1), which was previously discussed in
+other studies [19,20]. This zone is characterized by strong presence of green features that
+play a moderating role in (negative) noise perception [21]. The landscaping/noise control
+intervention was completed at the time the COVID-19 pandemic events were developing,
+both worldwide and locally in Belgium, and the on-site survey was arranged shortly after
+in September 2020.
+ 
+Figure 1. Photographs taken on site: a view towards the berm from the bridge (left), and another one along the path itself
+showing vegetation and the berm (right).
+In Figure 2, detailed measurements of the sound exposure along the path are de-
+picted, using a validated mobile measurement procedure as discussed in detail in Ref. [19].
+
+Int. J. Environ. Res. Public Health 2021, 18, 11774
+4 of 15
+Sound pressure levels, using the LA,50 indicator, range from 62 to 65 dBA in between the
+survey points.
+Figure 2. Spatial distribution of the sound pressure levels measured along the cycling path, using
+the LA,50 indicator during daytime hours in the week when the questionnaires were held. Distances
+are referenced to the bottom left position (x,y) = (0,0). The survey points are marked by the two
+black dots.
+2.3. Survey
+On site surveys were carried out at the cycling path by two research students during
+the weekdays from 21 to 25 September 2020. Data collection sessions lasted approximately
+from 10:00 am to 06:00 pm. There were two survey points, one near the Lippenslaan
+bridge and another one at the path bifurcation towards the Stenenbrug end (Figure 3).
+The surveyors worked simultaneously and approached walkers/cyclists leaving the path
+according to their direction and position, to make sure responses to the questionnaire would
+reﬂect the environment as just experienced by the interviewee. Those who successfully
+completed the questionnaire were rewarded a small bicycle safety gadget as a token of
+appreciation for their time; completing the questionnaire usually took between 10 and
+15 min. The selection of respondents was not targeted: surveyors on site would approach
+all passers-by if not already busy with another interview; the ratio of people deciding
+to participate was approximately one out of four of those approached. People were not
+approached if they were clearly wearing headphones on the assumption that they were not
+exposed to the urban sound environment under study.
+The questionnaire comprised several sections that were proposed to participants who
+had agreed to contribute to the st
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1), which was previously discussed in
+Figure 1. Photographs taken on site: a view towards the berm from the bridge (left), and another one along the path itself
+Figure 2, detailed measurements of the sound exposure along the path are de-
+Figure 2. Spatial distribution of the sound pressure levels measured along the cycling path, using
+Figure 3).
+Table 1) that
+Figure 3. Plan of the case study area with survey points marked by black dots (map adapted from
+Table 1. Summary of the on-site questionnaire items used in this study. The order of categories does not reﬂect the order of
+Table 1. Cont.
+Figure 4 shows the distributions of scores for the
+Figure 5 shows that for the perceived dominance of sound source types, for
+Figure 4. Distributions of the scores for the items of category (a) (top) and category (d) (bottom) of
+Figure 6, for the COVID-related questions in category (e), the sample was more or
+Figure 5. Distributions of the scores for the items of category (c) of the questionnaire (i.e., “Noticed sounds”), each split
+Table 1). Preliminary analysis showed the relationships to be monotonic,
+Figure 7, where it can be seen that people avoiding public
+Figure 8 shows that with increasing concern about COVID-19, people tended
+Figure 6. Distributions of the scores for the items of category (e) of the questionnaire.
+Figure 7. Mean scores for the soundscape attribute “Vibrant” between the two groups avoiding/not-
+Figure 8. Perceived dominance of “Noise from trafﬁc at other roads” (top) and “Natural sounds”
+Figure 9, where it can be observed
+Figure 9. Bar chart
+
+======================================================================
+
+### RECORD ID=726 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Forest Therapy Alone or with a Guide: Is There a Difference between Self-Guided Forest Therapy and Guided Forest Therapy Programs?
+DOI: 10.3390/ijerph18136957
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Forest Therapy Alone or with a Guide: Is There a Difference
+between Self-Guided Forest Therapy and Guided Forest
+Therapy Programs?
+Jin-Gun Kim 1
+and Won-Sop Shin 2,*
+
+
+Citation: Kim, J.-G.; Shin, W.-S.
+Forest Therapy Alone or with a
+Guide: Is There a Difference between
+Self-Guided Forest Therapy and
+Guided Forest Therapy Programs?
+Int. J. Environ. Res. Public Health 2021,
+18, 6957. https://doi.org/10.3390/
+ijerph18136957
+Academic Editor: Paul B. Tchounwou
+Received: 14 May 2021
+Accepted: 28 June 2021
+Published: 29 June 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Korea Forest Therapy Forum Incorporated Association, Cheongju 28644, Korea; K64804171@gmail.com
+2
+Department of Forest Sciences, Chungbuk National University, Cheongju 28644, Korea
+*
+Correspondence: shinwon@chungbuk.ac.kr; Tel.: +82-43-261-2536
+Abstract: There are generally two types of forest therapy. One is to walk or view the forest alone
+without a guide, and the other is to be accompanied by a guide. This study aimed to investigate the
+healing factors and health beneﬁts of self-guided forest therapy and guided forest therapy programs
+and examine the differences in characteristics between interventions. Thirty-seven undergraduate
+students participated in a randomized experiment (19 in the self-guided forest therapy and 18 in
+the guided forest therapy program). Data were collected from 111 self-reported essays after each
+intervention (three essays per person). Results revealed that the forest healing factors contained
+four categories in common: auditory element, visual element, tactile element, and olfaction element.
+Forest therapy’s health beneﬁts included ﬁve categories in common: change of mind and body,
+introspection, change of emotion, cognitive change, and social interaction. Among the typical
+differences, the self-guided forest therapy group mentioned more keywords related to introspection
+than the guided forest therapy program group. On the other hand, the guided forest therapy program
+group mentioned more keywords associated with the change of emotion and social interaction than
+the self-guided forest therapy. Our ﬁndings show that self-guided forest therapy provides an
+opportunity for self-reﬂection to focus on and think about one’s inner self. On the other hand, guided
+forest therapy programs provide positive emotional changes and promoting social bonds through
+interaction with others. Therefore, because the effects that can be obtained vary depending on the
+type of forest therapy, participants can utilize forest healing to suit the desired outcomes.
+Keywords: self-guided forest therapy; guided forest therapy program; healing factor; health beneﬁt
+1. Introduction
+The world has become an urban society, with over half the world’s populations living
+in urbanized areas. Urbanization, deﬁned as the relative increase of the urban population
+as a proportion of the total population [1], is a demographic movement and includes
+social, economic, and psychological changes [2]. Historically, urbanization was related to
+positive economic development and provided many opportunities such as education and
+good infrastructure [3], but overexposure to stress caused mental health problems [4,5].
+Urbanization negatively affects mental health by inﬂuencing increased stressors and factors
+such as overcrowded and polluted environments, high noise levels, higher crime rates,
+reduced social support, and lack of calming scenery [6]. Therefore, it is crucial to ﬁnd ways
+of promoting mental health recovery in daily life.
+Connecting with forests has been increasingly recognized as an effective method of
+dealing with mental problems [7,8]. The term “forest bathing,” derived from Japan, is
+deﬁned as being in a forest environment to restore balance psychologically and physiolog-
+ically and absorb its atmosphere [9]. In later years, the term “forest bathing” developed
+into “forest therapy,” which is the medically proven health effects of exposure to forest
+environment [10]. The Korea Forest Service (KFS) has legitimized the concept of forest
+Int. J. Environ. Res. Public Health 2021, 18, 6957. https://doi.org/10.3390/ijerph18136957
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 6957
+2 of 15
+therapy and deﬁned forest therapy as “immune-strengthening of the human body and
+health-promoting activities by utilizing various elements of nature, such as scent and
+landscape [11].” Based on the empirical research evidence, the Korea Forest Service (KFS)
+facilitated forest therapy to utilize forests for enhancing people’s health and quality of life.
+Many studies demonstrated forest environments promote humans’ mental and phys-
+ical health in many ways. For example, spending time in a forest environment reduces
+pulse rate and blood pressure [12,13], sympathetic nervous activity [14,15], and levels of
+salivary cortisol [16,17], and increases parasympathetic nervous activity [18,19] and NK
+cell activity, which relate to the immune system [20,21]. In addition, many studies have
+shown the beneﬁcial effects on mental health of being in the forest. Those studies indicated
+that being in the forest can reduce negative emotion [22,23], depression [24], anxiety [25],
+and stress [26], and increase positive emotion [22–24] and self-esteem [27].
+There are generally two types of forest therapy. One is to walk or view the forest alone
+without a guide and the other is to be accompanied by a guide. Namely, when people visit
+the forest to improve their health, people participate in forest walking or viewing forests
+individu
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Participants
+Thirty-seven undergraduate students of Chungbuk National University (23 males,
+14 females) participated in this study, and their mean age was 21.4 ± 1.3 years. Participants
+were recruited by posting notices throughout the university building to recruit volunteers.
+No incentives were provided to the volunteers. The inclusion criteria for recruiting the
+participants who were eligible for the study were: (1) no diagnosis of reaction to severe
+stress and/or a depressive episode; and (2) could not be suffering from any drug or
+alcohol abuse. The participants were randomly assigned into two groups (i.e., 19 in the
+self-guided forest therapy group and 18 in the guided forest therapy program group). The
+experiment was conducted during the 2nd semester of 2019 (September–November). A
+total of eight sessions of self-guided forest therapy and guided forest therapy program
+were performed. Before starting the experiments, we explained the aims and procedures
+of the study to the participants and obtained a voluntarily signed agreement. This study
+was approved by the Institutional Review Board of Chungbuk National University (IRB
+number: CBNU-201910-SB-945-01).
+2.2. Experimental Sites
+The ﬁeld experiment site was conducted in the Chungbuk National University campus
+forest in Korea. The size of the campus forest is about 315,000 square meters. The campus
+forest mainly contains metasequoia (Metasequoia glyptostroboides), cypress (Chamaecyparis
+pisifera), and mixed forest species (pitch pine, oak, chestnut), and their ages range from 40
+to 90 years. Therefore, the study area was suitable for conducting forest therapy activities
+regarding accessibility, distribution of various vegetation, and gentle slope. During the
+eight sessions in the experiment, the weather was pleasant and not raining, with a mean
+temperature of 16.2 ◦C ± 1.3 ◦C.
+
+Int. J. Environ. Res. Public Health 2021, 18, 6957
+5 of 15
+2.3. Experimental Design
+2.3.1. Guided Forest Therapy Program
+The guided forest therapy program was provided from September to November of
+2019 and consisted of one hour and a half per week for eight weeks. A trained forest
+therapist delivered each session. The purpose of the guided forest therapy program was to
+reduce stress and improve self-esteem and happiness for participants. During the eight
+sessions of the program, participants engaged in each of the eight sessions together. They
+performed various activities, such as familiar with the forest, clapping exercises, forest folk
+dance, forest orienteering (using natural objects to solve group mission), forest walking,
+photo healing (taking pictures of nature and story-telling), talking to nature, and a rope
+game (see Table 1). The forest therapy activities were developed in consultation with
+researchers in forest therapy/forest recreation and forest therapists.
+Table 1. Themes and activities of the guided forest therapy program.
+Session
+Themes
+Activities
+1
+Rapport building
+•
+Ice breaking introduction; familiarity with
+forest; lecture on stress management
+2
+•
+Clapping exercise; forest folk dance
+3
+Stress reduction
+•
+Forest orienteering (using natural objects to
+solve group mission); physical stimulation
+for relaxation
+4
+•
+Group gaming activities using natural
+objects (drawing natural objects, hit the
+target with an acorn)
+5
+Improvement of sense of
+belonging and self-esteem
+•
+Forest exercise (forest walking, stretching)
+6
+•
+Barefoot walking in forest; talking to nature
+7
+Cooperation and trust
+•
+Natural object ﬁve senses game; photo
+healing (taking pictures of nature and
+story-telling)
+8
+•
+Forest band exercise; rope game
+2.3.2. Self-Guided Forest Therapy
+The participants were instructed to perform forest activities for eight sessions (one
+hour-long session per week). We designed the forest activities road to allow participants to
+perform forest activities voluntarily without guidance by therapists. The forest activities
+interventions were provided from September to November of 2019. During the eight
+sessions of the intervention, participants engaged in each of the eight sessions together.
+They were asked to walk the well-designated route in the campus forest, visit speciﬁc
+locations where explained panels on forest activities were installed, and return to the
+starting point at an appointed time. The length of the route was 1.7 km long and was
+a loop trail. The self-guided forest therapy activities were designed and distributed for
+the same purpose as the forest therapy program described earlier. The self-guided forest
+therapy activities were picked up based on consultation from experts in the forest therapy
+ﬁeld, including researchers and practitioners. Accordingly, ﬁve forest activities were
+selected to apply as the self-guided forest therapy activities: stretching, respiration, walking,
+meditation, and exercise.
+
+Int. J. Environ. Res. Public Health 2021, 18, 6957
+6 of 15
+2.4. Data Analysis
+2.4.1. Data Collection
+The analysis data of this study were self-reported essays written by the subjects after the
+eight-session guided forest therapy program and self-guided forest therapy activities. The
+topics of essays used in this study were related to health benefits or changes that they felt
+after forest therapy. The text format was free prose which was within one page of A4 sheets
+in length. Participants were asked to write the essay on the day each session ended. Each
+participant was asked to submit three essays during the eight sessions. Essays were collected
+three times after completing one to three sessions, four to six sessions, and seven to eight
+sessions. As a result, 111 essays were analyzed, with 57 essays submitted by 19 self-guided
+forest therapy groups and 54 essays submitted by 18 guided forest therapy groups.
+2.4.2. Qualitative Data Analysis
+The collected data were analyzed using NVivo 12.0 to add reliability to the analysis of
+data through transcription, coding, and analysis, and analysis of the discovery contents
+of the topic pres
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). The forest therapy activities were developed in consultation with
+Table 1. Themes and activities of the guided forest therapy program.
+Table 2. As
+Table 2, self-guided forest therapy was signiﬁcantly associated with the auditory
+Table 2. Written response category and frequencies on forest healing factors by type of forest therapy activity.
+Table 3).
+Table 3. Written response category and keywords on health beneﬁts by type of forest therapy activity.
+Table 4. As shown in Table 4,
+Table 4. Written response category and frequencies on health beneﬁts by type of forest therapy activity.
+
+======================================================================
+
+### RECORD ID=729 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Increased Use of Porch or Backyard Nature during COVID-19 Associated with Lower Stress and Better Symptom Experience among Breast Cancer Patients
+DOI: 10.3390/ijerph18179102
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Increased Use of Porch or Backyard Nature during COVID-19
+Associated with Lower Stress and Better Symptom Experience
+among Breast Cancer Patients
+Amber L. Pearson 1,*
+, Victoria Breeze 1, Aaron Reuben 2 and Gwen Wyatt 3
+
+
+Citation: Pearson, A.L.; Breeze, V.;
+Reuben, A.; Wyatt, G. Increased Use
+of Porch or Backyard Nature during
+COVID-19 Associated with Lower
+Stress and Better Symptom
+Experience among Breast Cancer
+Patients. Int. J. Environ. Res. Public
+Health 2021, 18, 9102. https://
+doi.org/10.3390/ijerph18179102
+Academic Editors:
+Derek Clements-Croome and
+Simon Bell
+Received: 21 July 2021
+Accepted: 25 August 2021
+Published: 28 August 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Department of Geography, Environment and Spatial Sciences, Michigan State University, East Lansing,
+MI 48824, USA; breezevi@msu.edu
+2
+Department of Psychology, Duke University, Durham, NC 27708, USA; aaron.reuben@duke.edu
+3
+College of Nursing, Michigan State University, East Lansing, MI 48824, USA; gwyatt@msu.edu
+*
+Correspondence: apearson@msu.edu
+Abstract: Contact with nature has been used to promote both physical and mental health, and is
+increasingly used among cancer patients. However, the COVID-19 pandemic created new challenges
+in both access to nature in public spaces and in cancer care. The purpose of our study was to evaluate
+the change in active and passive use of nature, places of engaging with nature and associations of
+nature contact with respect to improvements to perceived stress and symptom experience among
+breast cancer patients during the pandemic. We conducted a cross-sectional survey of people
+diagnosed with breast cancer using ResearchMatch (n = 56) in July 2020 (the ﬁrst wave of COVID-19).
+In this US-based, predominantly white, afﬂuent, highly educated, female sample, we found that,
+on average, participants were ﬁrst diagnosed with breast cancer at 54 years old and at stage 2 or 3.
+Eighteen percent of participants experienced disruptions in their cancer care due to the pandemic. As
+expected, activities in public places signiﬁcantly decreased as well, including use of parks/trails and
+botanical gardens. In contrast, spending time near home, on the porch or in the backyard signiﬁcantly
+increased. Also observed were signiﬁcant increases in indoor activities involving passive nature
+contact, such as watching birds through a window, listening to birdsong, and smelling rain or
+plants. Decreased usage of parks/trails was signiﬁcantly associated with higher stress (Coef = −2.30,
+p = 0.030) and increased usage of the backyard/porch was signiﬁcantly associated with lower stress
+(Coef = −2.69, p = 0.032), lower symptom distress (Coef = −0.80, p = 0.063) and lower symptom
+severity (Coef = −0.52, p = 0.009). The most commonly reported alternatives to outdoor engagement
+with nature were watching nature through a window (84%), followed by looking at images of nature
+(71%), and listening to nature through a window (66%). The least commonly enjoyed alternative was
+virtual reality of nature scenes (25%). While outdoor contact with nature away from home decreased,
+participants still found ways to experience the restorative beneﬁts of nature in and around their home.
+Of special interest in planning interventions was the fact that actual or real nature was preferred over
+that experienced through technology. This could be an artifact of our sample, or could represent a
+desire to be in touch with the “real world” during a health crisis. Nature contact may represent a
+ﬂexible strategy to decrease stress and improve symptom experience among patients with cancer,
+particularly during public health crises or disruptions to cancer care.
+Keywords: green space; parks; nature-watching; indoor nature; passive nature; stress; cancer symptoms
+1. Introduction
+Despite improvements to cancer diagnosis, treatment, and prognosis, cancer remains a
+highly prevalent health condition, both worldwide and within the United States (US). Glob-
+ally, in 2020, there were an estimated 19+ million new cancer cases and nearly 10 million
+deaths, with female breast cancer as the most commonly diagnosed cancer [1]. In the US,
+cancer is predicted to surpass heart disease as the leading cause of death within the next
+Int. J. Environ. Res. Public Health 2021, 18, 9102. https://doi.org/10.3390/ijerph18179102
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 9102
+2 of 13
+ten years, with new cases expected to increase nearly 45% from 1.6 million to 2.3 million
+annually by 2030 [2]. Cancer also remains a health condition marked by high stress, painful
+symptoms, and, depending on the type and severity of disease, diminished quality of life.
+While conventional medicine, particularly pharmacological intervention, addresses
+symptoms and quality of life, most cancer patients ﬁnd additional beneﬁt from non-
+pharmacological interventions. A survey of breast cancer patients found that more than
+80% turn to complementary, behavioral, and integrative therapies for additional symptom
+management [3]. Among such therapies, “green exercise” or outdoor physical activity
+in nature is gaining attention as a low-cost, ﬂexible activity with emerging evidence of
+effectiveness for symptom and stress management across a wide range of health conditions.
+Physical activity in particular has been linked to improved quality of life among cancer
+patients [4] as well as improved overall survival in the context of breast cancer. The
+proposed mechanisms through which physical activity affects breast cancer incidence and
+survival
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+This cross-sectional design study enrolled people with breast cancer, accessed via
+Research Match https://www.researchmatch.org/researchers/ (accessed on 17 June 2021).
+A RedCap survey was then sent to eligible participants based in the US, including a consent
+form (MSU IRB STUDY00004593), who were 18 years or older on 17 June 2020. From 17
+June to 27 July a total of seven Research Match “searches” for possible participants were
+performed, followed by recruitment invitation e-mails. Follow-up reminder emails were
+sent weekly from 7 July to 30 July. In total, 1049 people from Research Match’s database
+were contacted, 76 (7.24%) of which indicated they were interested participating, and 59
+(5.62%) of which partially completed the survey, with 56 having full data. This national
+sample was predominately well-educated, white and female, with a mean age of 63 years.
+
+Int. J. Environ. Res. Public Health 2021, 18, 9102
+4 of 13
+The survey was registered with PHENX (https://www.phenxtoolkit.org/ (accessed on 27
+August 2021)).
+2.1. Survey Instrument
+The survey was investigator-developed, covering: (1) to what degree (e.g., mildly,
+moderately, completely) and how the locations of active outdoor and passive contact
+with nature changed (e.g., walking in parks versus use of backyard); (2) why behaviors
+changed; (3) how physical activity behaviors changed, to understand the breadth of impacts
+on activities in this population; and (4) what alternative indoor or near-home contact
+with nature was substituted for therapeutic outdoor PA in public places. In addition,
+demographic details were obtained, including age, sex, race/ethnicity, age at diagnosis,
+stage at diagnosis, household composition, income, education, current treatment, and
+COVID-19 status if they had been tested.
+Speciﬁcally, for the time period preceding COVID-19 lockdowns and the past month
+following lockdowns, the survey included questions on types, locations and frequencies of
+outdoor PA activities, and types, locations and frequencies of passive contact with nature.
+Questions about frequency of physical activity and nature engagement behaviors were
+asked on a Likert-type scale from 5 (very often or frequently) to 1 (never) for two time
+points (last month during the pandemic and in a typical month before the pandemic).
+To calculate changes in behaviors, the past frequency was subtracted from the current
+frequency, so that positive values indicated an increase in the behavior and negative values
+indicated a decrease in the behavior. Data on whether participants felt they had access to
+neighborhood public spaces and/or ﬁtness facilities over the past week were also collected,
+as this may have necessitated changes in the behaviors of interest. These were phrased as
+statements (e.g., I can access/use parks) and were anchored on a 5-point Likert-type scale
+from strongly agree to strongly disagree. These two variables were re-coded to agree or
+disagree. Neutral values were coded as disagree.
+Attitude toward nature was assessed using the Nature-relatedness 6 (NR-6) scale [47].
+This scale has been shown to demonstrate good internal consistency, temporal stability,
+and to predict happiness, environmental concern, and nature contact [47]. It involves six
+questions about self-identiﬁcation with nature, connectedness or spirituality, awareness or
+knowledge about nature or local wildlife, and the need for/comfort in nature. Each item
+was measured on a 5-point Likert scale (1 = strongly disagree, 5 = strongly agree). Average
+scores were then calculated where higher scores indicated stronger nature-relatedness.
+Perceived stress was measured using Cohen’s 10-item Perceived Stress Scale [48],
+which rates items such as “In the last month, how often have you felt that you were unable
+to control the important things in your life” and “how often have you felt difﬁculties piling
+up so high that you could not overcome them”. Items were measured on a 5-point scale
+ranging from 0 (Never) to 4 (Very Often). Higher scores indicated greater stress. Reference
+values are 0–13 (low stress), 14–26 (moderate), and 27–40 (high).
+Common cancer-related symptoms and symptom severity was measured using the
+MD Anderson Symptom Inventory (MDASI) [49], which was updated to include symptoms
+experienced by patients undergoing cancer treatments [50], including fatigue, pain, nausea,
+etc. This instrument has established reliability and validity in samples of patients with
+cancer [51]. Participants rated each symptom’s presence and greatest severity on an
+11-point scale, from 0 (“not present”) to 10 (“as bad as you can imagine”) [51]. A mean
+core symptom score was calculated across the 13 core symptoms [50–52]. The MDASI
+also contains six items that describe to what degree the symptoms have interfered with
+different aspects of the patient’s life in the previous 24 h: general activity, mood, walking
+ability, normal work (including work outside the home and housework), relations with
+other people, and enjoyment of life. Each interference item is also rated on an 11-point
+scale from 0 (“does not interfere”) to 10 (“completely interferes”). A total symptom distress
+score was obtained by adding the score for all ten symptoms (range 0–60). The mean of
+
+Int. J. Environ. Res. Public Health 2021, 18, 9102
+5 of 13
+all of these symptom interference items was then used as a measure of overall symptom
+distress (range 0–10).
+Alternatives to outdoor engagement with nature were captured in two ways. First, a
+series of statements were queried for level of agreement. For example, “I enjoy watching
+nature through a window.” Responses were measured on a 5-point Likert-type scale
+from strongly agree to strongly disagree. These were re-coded into agree versus disagree.
+Neutral values were coded as disagree. Second, the survey included open-ended questions
+about alternatives and substitutions for nature experiences.
+2.2. Statistical and Qualitative Data Analyses
+First, to quantify the nature and ext
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1) were to understand among
+Figure 1. Conceptual diagram.
+Table 1). Most participants were married (55%) without children living at
+Table 1. Demographic and health characteristics.
+Figure 2). Frequency using parks/trails and botanical gardens both signiﬁcantly decreased
+Figure 2. Changes in engagement in outdoor physical activity, usage of parks, and at-home contact with nature.
+Table 2). Across most models, age
+Table 2. Regression modeling results: Predicting perceived stress score, overall symptom distress and symptom severity.
+Table 2). Cancer stage at diagnosis
+Table 3). The most commonly enjoyed alternatives were watching nature through
+Table 3. Alternatives to engagement with outdoor nature, by level of symptom distress.
+
+======================================================================
+
+### RECORD ID=762 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: Soundscape in Times of Change: Case Study of a City Neighbourhood During the COVID-19 Lockdown
+DOI: 10.3389/fpsyg.2021.570741
+PAGES: 24
+
+--- HEAD (title/abstract/intro) ---
+ORIGINAL RESEARCH
+published: 24 March 2021
+doi: 10.3389/fpsyg.2021.570741
+Edited by:
+Jose Q. Pinheiro,
+Federal University of Rio Grande do
+Norte, Brazil
+Reviewed by:
+Gustavo Martineli Massola,
+University of São Paulo, Brazil
+Gleice V. M. A. Elali,
+Federal University of Rio Grande do
+Norte, Brazil
+*Correspondence:
+Sara Lenzi
+sara.lenzi@polimi.it
+PerMagnus Lindborg
+pm.lindborg@cityu.edu.hk
+Specialty section:
+This article was submitted to
+Environmental Psychology,
+a section of the journal
+Frontiers in Psychology
+Received: 08 June 2020
+Accepted: 29 January 2021
+Published: 24 March 2021
+Citation:
+Lenzi S, Sádaba J and Lindborg P
+(2021) Soundscape in Times of
+Change: Case Study of a City
+Neighbourhood During the COVID-19
+Lockdown.
+Front. Psychol. 12:570741.
+doi: 10.3389/fpsyg.2021.570741
+Soundscape in Times of Change:
+Case Study of a City Neighbourhood
+During the COVID-19 Lockdown
+Sara Lenzi1*, Juan Sádaba2 and PerMagnus Lindborg3*
+1 DensityDesign Lab, Department of Design, Politecnico di Milano, Milan, Italy, 2 Department of Architecture, Universidad del
+País Vasco, San Sebastián, Spain, 3 School of Creative Media, City University of Hong Kong, Kowloon, Hong Kong
+The coronavirus disease 2019 (COVID-19) lockdown meant a greatly reduced social
+and economic activity. Sound is of major importance to people’s perception of the
+environment, and some remarked that the soundscape was changing for the better. But
+are these anecdotal reports based in truth? Has trafﬁc noise from cars and airplanes
+really gone down, so that more birdsong can be heard? Have socially distanced
+people quietened down? This article presents a case study of the human perception
+of environmental sounds in an urban neighborhood in the Basque Country between 15
+March and 25 May 2020. The social restrictions imposed through national legislation
+divided the 69-day period into three phases. We collected observations, ﬁeld audio
+recordings, photography, and diary notes on 50 days. Experts in soundscape and
+architecture were presented with the recordings, in randomized order, and made
+two separate perceptual analyses. One group (N = 11) rated the recordings for
+pleasantness and eventfulness using an adapted version of the Swedish Soundscape
+Quality Protocol, and a partly overlapping group (N = 12) annotated perceived sound
+events with free-form semantic labels. The labels were systematically classiﬁed into a
+four-level Taxonomy of Sound Sources, allowing an estimation of the relative amounts of
+Natural, Human, and Technological sounds. Loudness and three descriptors developed
+for bioacoustics were extracted computationally. Analysis showed that Eventfulness,
+Acoustic Complexity, and Acoustic Richness increased signiﬁcantly over the time
+period, while the amount of Technological sounds decreased. These observations were
+interpreted as reﬂecting changes in people’s outdoor activities and behavior over the
+whole 69-day period, evidenced in an increased presence of Human sounds of voices
+and walking, and a signiﬁcant shift from motorized vehicles toward personal mobility
+devices, again evidenced by perceived sounds. Quantitative results provided a backdrop
+against which qualitative analyses of diary notes and observations were interpreted
+in relation to the restrictions and the architectural speciﬁcs of the site. An integrated
+analysis of all sources pointed at the temporary suspension of human outdoor activity
+as the main reason for such a change. In the third phase, the progressive return of
+street life and the usage of personal mobility vehicles seemed to be responsible for a
+clear increase in Eventfulness and Loudness even in the context of an overall decrease
+Frontiers in Psychology | www.frontiersin.org
+1
+March 2021 | Volume 12 | Article 570741
+
+Lenzi et al.
+Soundscape During Pandemic
+of Technological sounds. Indoor human activity shared through open windows and
+an increased presence of birdsong emerge as a novel characteristic element of the
+local urban soundscape. We discuss how such changes in the acoustic environment
+of the site, in acoustic measurements and as perceived by humans, point toward the
+soundscape being a crucial component of a comprehensive urban design strategy that
+aims to improve health and quality of life for increasingly large and dense populations in
+the future.
+Keywords: soundscape, urbanism, perception and cognition, COVID-19, pandemic, social response, case study
+INTRODUCTION
+“Media that emphasize space are apt to be less durable and light
+in character. . . such as sounds, for the true character of sound in
+shaping societies is in its spatial spread. . . and the real paradox
+is that although sounds are pronounced in time, they are also
+erased by time” (Schafer, 1977 p. 162). How does the soundscape
+change over time? In The Tuning of the World, Schafer (1977)
+describes measuring a collection of ﬁre engine sirens covering
+seven decades. He found that their signal had gotten louder
+by “nearly half a decibel per year on average” (idem p. 186).
+This observation supported his general thesis that urban noise
+levels have increased in industrialized societies, to the detriment
+of animals and human inhabitants alike. In what may seem
+as a reply, Arana (2010) analyzed a large number (876,480) of
+noise measurements taken in the Spanish cities of Pamplona and
+Madrid between 1999 and 2003. Contrary to Schafer’s results, he
+found a statistically signiﬁcant decrease in the overall sound level.
+The ﬁndings were translated to inspire politicians and designers;
+for example, the “remarkable reduction” of noise that had been
+observed in one district was attributed to the implementation of
+pedestrian areas.
+Such investigations are part of a larger movement. The
+approach to sound and listening that Schafer pioneered in the
+mid-1960s has broadened out, in particular through the World
+Soundscape Project and the World Forum for Acoustic Ecology
+(see Truax, 2019 for a history), and has become a multifaceted
+ﬁeld that is deeply conne
+
+--- METHODS/RESULTS EXCERPT ---
+Methods section in four
+parts; outlining the procedures for collecting audio recordings;
+making diary observations; conducting two analyses by an expert
+group, which allowed the construction of a Taxonomy of Sound
+Sources; and extracting computational soundscape descriptors.
+We report integrated results and make comparisons in relation
+to the lockdown phases. In the Discussion, we return to the ﬁve
+assumptions and attempt to provide answers.
+Pandemic Lockdown Response Phases
+In early March 2020, cases of COVID-19 started to be detected
+in Spain. Within 1 week, there were 589 conﬁrmed cases and 10
+deaths, and within 2 weeks, Spain recorded 7,753 cases and 288
+deaths (Kassam and Burgen, 2020). The accelerating severity of
+the situation pushed the national government to proclaim a state
+of emergency. Learning from nearby countries that were “ahead
+of the curve,” notably Italy, strict measures were introduced on 14
+March. The project presented in this article started immediately
+thereafter, on 15 March at noon, on the ﬁrst day of oﬃcial
+application of conﬁnement measures in Spain. In the following
+weeks, the country moved through diﬀerent phases of restriction
+to activity and mobility (see Table 1). At around noon every
+day, the ﬁrst author made a 5-min audio recording of the
+sonic environment and made observations from the window
+of her residency.
+Undoubtedly, the coronavirus causes death and a great deal of
+psychological suﬀering. The restrictive responses inﬂict traumatic
+changes to human lives, with businesses closing, plans being
+canceled, and the stress of being conﬁned to staying at home.
+These changes tend to aﬀect those most vulnerable in society
+the most. By the end of April 2020, most countries in the world
+had declared partial or total lockdown regimes, causing half of
+the world population to live in conﬁnement (Sandford, 2020).
+These measures impose a drastic reduction in human activity,
+“causing multiple cities across the globe to simultaneously go into
+hibernation” (Weston, 2020).
+There are subtle changes underway that may have less
+dramatic yet deep and long-lasting inﬂuence. The soundscape
+is both an indicator of environmental quality and a component
+of cultural identity. For example, one newspaper stated that
+“life has changed, too: The city no longer sounds the same.
+And that realization is as jarring as the sight of empty
+streets” (Bui and Badger, 2020). Others have commented how
+animals react to the changing environment, such as “birdsong,
+for instance, seems louder than ever before. Some birds are
+actually likely to be lower in pitch than before, since they have
+fewer cars, planes, jackhammers, and leaf-blowers to compete
+with” (Ro, 2020). As for marine life, “evidence of a drop in
+underwater noise pollution has led experts to predict [that]
+the crisis may [. . .] be good news for whales and other sea
+mammals” (McVeigh, 2020). Reduced human activity aﬀects
+not only the living conditions for animals but also might even
+impact the crust of planet Earth itself, as “seismologists are
+reporting less seismic noise, or vibrations in the Earth’s crust”
+(Ro, 2020).
+As mentioned, Spain entered a several-weeks-long sequence
+of diﬀerent lockdown phases on 15 March. Citizens are generally
+conﬁned in their residencies; schools, shops, and other services
+are suspended; leisure and sports activities are forbidden.
+Restrictions to local, national, and international mobility vary.
+In this article, we refer to three phases deﬁned by the severity
+of the restrictions. Table 1 brieﬂy illustrates the restrictions to
+mobility and activity applied in each phase. Phase 1, which
+lasted approximately 2 weeks, initially allowed citizens’ mobility
+to reach their workplace while suspending any other activity.
+Phase 2 saw an increase in the severity of the measures with
+the total suspension of any non-necessary activity. We identify
+the beginning of Phase 3 with the ease of the most restrictive
+measures – notably, the permission for kids to spend up to
+1 h a day outdoors – which preceded the launch of the so-
+called “Plan de Desescalada” (Consejos de Ministros de España,
+2020) on 28 April.
+A detailed analytical overview of the phases with restrictions
+applied in each phase as adapted by the government of
+the Basque Country (Mallo, 2020a,b) is available in the
+Supplementary Material.
+Site of the Case Study
+The case study took place at Plaza de las Escuelas (coordinates
+43.325777, −3.0140461). Our observation point (see Figure 1)
+is located in Las Arenas, a neighborhood in Getxo, which is
+a municipality on the estuary of the River of Bilbao. Getxo, a
+traditionally residential agglomeration with 77,000 inhabitants,
+lies 12 km from Bilbao, the largest town of the Basque
+Country. The area is gentriﬁed with few high-rise buildings.
+Following a trend that is common all over Europe, it is
+home to an aging population where almost a quarter of the
+inhabitants are 65 years old or above. The economy of Getxo is
+essentially based on the third sector (services), which accounts
+for 92.4% of the turnover of the municipality, with a very
+1https://www.google.com/maps/@43.3257696,-3.014469,169m/data=!3m1!1e3
+Frontiers in Psychology | www.frontiersin.org
+3
+March 2021 | Volume 12 | Article 570741
+
+Lenzi et al.
+Soundscape During Pandemic
+TABLE 1 | Description of each phase of lockdown in Spain.
+Phase
+Duration (date)
+Duration (days)
+Outline
+Phase 1
+15-03 to 29-03
+Day 1 to Day 16
+Restrictions to mobility and to activity.
+Phase 2
+30-03 to 22-04
+Day 17 to Day 39
+Further restrictions to mobility, all non-necessary activity suspended.
+Phase 3
+23-04 to 21-06
+Day 40 to Day 100
+Progressive release of mobility and activity restrictions, starting with children allowed outdoors 1 h a day.
+FIGURE 1 | Map of the area surrounding the site.
+weak presence of production from the primary and secondary
+sectors (EUSTAT, 2020).
+In order to be able to analyze the soundscape variations from
+an urban spot that is representative of the city as a wh
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). At around noon every
+Table 1 brieﬂy illustrates the restrictions to
+Figure 1)
+Figure 2),
+Figure 3).
+Figure 4 illustrates, the site is only 250 m from the sea,
+Figure 2) is one block apart. The surrounding larger area is
+Figure 3) with an arcade (echoing sounds) surrounding
+Figure 5.
+Figure 6. While listening to the recordings
+Figure 7, with examples given in
+Table 2. The agreement was very good among the expert raters
+Table 3 gives mean values of the soundscape descriptors
+Table 4,
+Figure 8 plots the development of the variables against the
+Table 5, which shows
+Figure 9).
+Table 3 and Figure 8 (fourth row).
+Figure 8 (second row, right).
+Figure 8
+Figure 10, there was
+Figure 8 (second row, left). As for the computational
+Figure 8, ﬁfth row), and the two NDSIs
+Figure 8, third row, left and middle).
+Table 2 that the former aggregates annotations
+
+======================================================================
+

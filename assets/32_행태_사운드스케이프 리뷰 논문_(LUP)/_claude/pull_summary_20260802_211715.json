@@ -1,0 +1,8 @@
+{
+  "timecode": "20260802_211715",
+  "pubmed_total": 213,
+  "pubmed_term": "(soundscape*[tiab] OR \"acoustic environment\"[tiab] OR \"sound environment\"[tiab] OR \"acoustic comfort\"[tiab] OR \"traffic noise\"[tiab] OR \"environmental noise\"[tiab] OR \"urban noise\"[tiab] OR \"aircraft noise\"[tiab] OR \"natural sound\"[tiab] OR \"natural sounds\"[tiab] OR birdsong*[tiab] OR \"bird song\"[tiab] OR \"bird songs\"[tiab] OR \"water sound\"[tiab] OR \"water sounds\"[tiab] OR \"background music\"[tiab] OR \"added sound\"[tiab] OR \"added sounds\"[tiab]) AND (behavio*[tiab] OR \"walking speed\"[tiab] OR \"pedestrian movement\"[tiab] OR \"route choice\"[tiab] OR wayfinding[tiab] OR \"dwell time\"[tiab] OR linger*[tiab] OR \"time spent\"[tiab] OR sitting[tiab] OR \"space use\"[tiab] OR \"park use\"[tiab] OR visitation[tiab] OR \"physical activity\"[tiab] OR \"social interaction\"[tiab] OR \"social interactions\"[tiab] OR prosocial[tiab] OR antisocial[tiab] OR \"anti-social\"[tiab] OR avoidance[tiab] OR \"crowd behavior\"[tiab] OR \"crowd behaviour\"[tiab]) AND (urban[tiab] OR city[tiab] OR cities[tiab] OR park*[tiab] OR street*[tiab] OR \"public space\"[tiab] OR \"public spaces\"[tiab] OR \"open space\"[tiab] OR \"open spaces\"[tiab] OR square*[tiab] OR plaza*[tiab] OR waterfront*[tiab] OR \"green space\"[tiab] OR \"green spaces\"[tiab] OR greenspace*[tiab] OR \"recreational area\"[tiab] OR \"recreational areas\"[tiab] OR campus[tiab]) AND english[lang] AND journal article[pt]",
+  "openalex_total": 873,
+  "doi_intersection": 178,
+  "pubmed_unique_dois": 33
+}

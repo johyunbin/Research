@@ -1,0 +1,133 @@
+no,verdict,direction,reason
+925,EX5,na,리뷰 논문 — 실증 행태 데이터 없음
+926,EX1,na,새 anti-predator 행동 대상 — 동물 연구
+927,BORDERLINE,forward,소음·녹지 노출과 자기보고 PA·자연방문 시간 동시 측정 — 판단 유보
+928,EX1,na,Lincoln's sparrow 노래 행동 — 동물 연구
+929,EX2,na,시계열 예측 ML 방법론 — 도시 옥외 공공공간 아님
+930,INCLUDE,forward,도심가로 sonic environment와 attendance·활동 분석
+931,INCLUDE,forward,urban park 소리 개입 + 사회적 상호작용 관찰
+932,BORDERLINE,forward,runner의 traffic·noise 회피 경로 실천 — 음환경 변수 부수적
+933,EX4,na,아웃컴이 지각·건강영향(수면·청력) — 행태 측정 없음
+934,EX4,na,아웃컴 비만·지각 — 관찰가능 행태 없음
+935,EX4,na,noise-sensitivity·pleasantness 등 지각만 측정
+936,EX3,na,street network·PM2.5 — 음환경 변수 없음
+937,EX5,na,scoping review — 실증 행태 데이터 없음
+938,EX4,na,VR 복원 반응·지각·생리만 측정
+939,EX1,na,새 행동·분포에 대한 소음 영향 — 동물 연구
+940,EX1,na,수중 vessel noise·동물 소통 맥락 — soundscape ecology
+941,INCLUDE,forward,가로에서 odor·traffic noise와 crowd path·speed 관찰
+942,EX3,na,녹지·대기오염만 — 음환경 변수 없음
+943,EX5,na,systematic review — 실증 1차 연구 아님
+944,EX3,na,대기오염·ASCVD — 음환경 변수 없음
+945,EX5,na,SPL 추정 data mining 방법론 — 행태 분석 없음
+946,EX1,na,swiftlet 유인 음향자극 — 동물 연구
+947,EX4,na,virtual nature 정서·회복만 측정 — 행태 없음
+948,BORDERLINE,reverse,soundwalk path가 soundscape 평가에 미친 영향 — 역방향 여지
+949,EX4,na,소음지도·annoyance·수면방해 — 행태 측정 없음
+950,BORDERLINE,reverse,군중 행태활동·생활리듬과 soundscape 분포 연관 — 역방향
+951,INCLUDE,forward,Strava running intensity와 traffic noise 등 가로환경
+952,EX2,na,green housing 구매행동 — 도시 옥외 공공공간 아님
+953,EX1,na,Chaffinch song 비교 — 동물 연구
+954,EX4,na,항공기 청각탐지 수행(지각)만 — 행태 없음
+955,EX5,na,narrative review — 실증 1차 연구 아님
+956,EX1,na,bird dawn chorus 지표 — 동물 발성 대상
+957,BORDERLINE,unclear,모스크 주변 음환경 특성 + visitor behaviour 관찰 — 정보 부족
+958,EX4,na,HRV 생리반응만 측정
+959,EX5,na,Nord2000 소음예측 방법론 — 행태 분석 없음
+960,EX2,na,수중 해양 환경 — 도시 옥외 공공공간 아님
+961,EX4,na,soundscape·visual quality 지각 평가만 측정
+962,EX5,na,speed bump 소음·대기 모델링 — 행태 분석 없음
+963,EX1,na,gray catbird song — 동물 연구
+964,INCLUDE,forward,urban green space 시청각 속성과 활동 mapping
+965,EX3,na,나무 증산·포장 구조 — 음환경 변수 없음
+966,EX1,na,harbor seal 노래 학습 — 동물 연구
+967,EX5,na,excess commute ABM 시뮬레이션 — 실증 행태 데이터 없음
+968,EX4,na,임대료·quietness WTP — 관찰가능 행태 없음
+969,EX2,na,개인 팟캐스트 청취 맥락 — 도시 옥외 공공공간 아님
+970,EX5,na,skatesound 이론 스펙트럼 제시 — 개념 논문
+971,INCLUDE,forward,urban park 온열-음향 상호작용과 crowd flow·체류 관찰
+972,BORDERLINE,reverse,Open Streets 활동 증가 → 소음민원 — 역방향 여지
+973,EX3,na,철도역 근접성·정신건강 — 음환경 변수 없음
+974,EX1,na,junco flight initiation distance — 동물 연구
+975,EX1,na,도시 조류 적응 진화 — 동물 연구
+976,EX1,na,조류 생존율과 소음·빛 — 동물 연구
+977,EX5,na,미시 교통 시뮬레이션 소음비용 방법론 — 행태 분석 없음
+978,EX1,na,vermilion flycatcher 노래 — 동물 연구
+979,INCLUDE,forward,도시 보행 중 sound·noise와 걷기·대화·시선 상호작용 분석
+980,BORDERLINE,forward,겨울 공원 회복성 — 체류시간 매개 언급·정보 부족
+981,BORDERLINE,reverse,음향지표가 인간 활동·행태 패턴 반영 — 역방향 여지
+982,BORDERLINE,reverse,COVID 활동변화에 따른 도시 음환경 변화 — 행태 데이터 없음
+983,EX4,na,urban exposome·두통 — 행태 아웃컴 없음
+984,INCLUDE,forward,음악테마 경관·soundscape가 체류 등 행동에 영향
+985,EX5,na,역사·이론 에세이 — 실증 연구 아님
+986,EX4,na,소음저감 행동의도만 측정
+987,EX1,na,개구리 음향신호 — 동물 연구
+988,EX1,na,jackdaw 집단행동·울음 — 동물 연구
+989,EX1,na,조류 song frequency — 동물 연구
+990,EX1,na,야생동물 행동에 대한 산업소음 — 동물 연구
+991,EX4,na,아동 인지·운동기능 검사 — 관찰가능 행태 아님
+992,EX2,na,학교 교실 아동 인지 — 옥외 공공공간 세팅 아님
+993,EX3,na,녹지·blue space와 조현병 — 음환경 변수 없음
+994,EX4,na,학생 soundscape 지각만 측정 — 행태 없음
+995,EX2,na,디스크 브레이크 마찰소음 실험 — 도시 옥외 공공공간 아님
+996,EX1,na,oyster toadfish 발성 — 동물 연구
+997,EX4,na,아동 sound disturbance·수면 — 행태 측정 없음
+998,BORDERLINE,forward,소음·건조환경과 walking 시간·정신건강 동시 분석 — 판단 유보
+999,INCLUDE,reverse,인간활동 맥락이 pedestrian space soundscape 평가에 영향 — 역방향
+1000,EX5,na,라스트마일 CO2 시뮬레이션 — 실증 행태 데이터 없음
+1001,EX4,na,perceived·felt emotion 지각만 측정
+1002,BORDERLINE,reverse,통학수단 선택과 traffic noise 산정 — 역방향 여지·정보 부족
+1003,EX4,na,대기오염·소음·녹지와 심근경색 — 행태 아웃컴 없음
+1004,EX1,na,dolphin whistle 탐지 CNN — 동물 연구
+1005,INCLUDE,forward,Strava cycling 소음노출과 시공간적 우회(detour) 행태
+1006,EX1,na,Western Bluebird 양육행동 — 동물 연구
+1007,EX1,na,pied tamarin scent-marking — 동물 연구
+1008,EX4,na,숲 영상·자연음 심리지표만 측정
+1009,BORDERLINE,forward,human sound 구성이 사회적 상호작용 의향에 영향 — 의향 측정
+1010,EX1,na,fulvetta song frequency — 동물 연구
+1011,EX1,na,맹금·명금 소음영향 종합 — 동물 연구
+1012,EX1,na,gibbon 활동예산·울음 — 동물 연구
+1013,BORDERLINE,forward,근린환경과 신체활동 시민과학 — 음환경 변수 불명확
+1014,EX5,na,시장·차고지 소음측정만 — 행태 분석 없음
+1015,EX1,na,magpie 채식·경계행동 — 동물 연구
+1016,BORDERLINE,forward,농촌 관광 soundscape 웰빙 경험 — 행태 측정 불명확
+1017,EX1,na,magpie 인지수행 — 동물 연구
+1018,INCLUDE,reverse,sitting·walking 행태 상태별 음향-시각 지각 차이 — 역방향
+1019,EX4,na,캠퍼스 학습공간 선호·만족만 측정
+1020,INCLUDE,forward,도시공원 시청각 요소와 behavioral vitality 분석
+1021,EX4,na,soundscape 지각과 place attachment만 측정
+1022,EX1,na,박쥐 활동 — 동물 연구
+1023,EX5,na,목재·숲 관리 개념 제안 — 실증 행태 데이터 없음
+1024,EX2,na,C-V2X 이상탐지 — 도시 옥외 공공공간 아님
+1025,EX1,na,사람 존재에 대한 조류 발성 반응 — 동물 아웃컴
+1026,EX4,na,소음·수면과 소아 고혈압 — 행태 아웃컴 없음
+1027,EX4,na,fMRI 뇌활동·인지과제만 측정
+1028,EX4,na,EEG·회복성 등 생리·지각만 측정
+1029,EX2,na,주택 실내 보행진동 감지 — 옥외 공공공간 아님
+1030,EX5,na,sound scenography 실무 에세이 — 실증 연구 아님
+1031,EX4,na,UAS 소음 민원 의도만 측정
+1032,EX1,na,Eastern Bluebird 포란행동 — 동물 연구
+1033,EX3,na,주거지 녹지와 혈압 — 음환경 변수 없음
+1034,EX1,na,도시 박쥐 점유 — 동물 연구
+1035,EX4,na,교통소음과 인지기능 저하 — 행태 아웃컴 없음
+1036,EX3,na,자연노출과 수면시간 — 음환경 변수 없음
+1037,EX1,na,Chiguanco Thrush chorus — 동물 연구
+1038,EX4,na,야간 인공광과 황반변성 — 행태 아웃컴 없음
+1039,EX1,na,개구리 내분비 반응 — 동물 연구
+1040,EX1,na,blue tit 세력권 반응 — 동물 연구
+1041,EX1,na,lapwing·kingfisher 분포 — 동물 연구
+1042,EX1,na,침입종 개구리 음향 — 동물 연구
+1043,EX1,na,모기 wingbeat 음향분류 — 동물 연구
+1044,EX1,na,pied tamarin 발성 — 동물 연구
+1045,EX4,na,eye-tracking·HRV·POMS 등 생리·심리만 측정
+1046,EX5,na,soundscape simulator 설계 논의 — 실증 행태 데이터 없음
+1047,EX2,na,흡음 소재 리뷰 — 도시 옥외 공공공간 아님
+1048,EX2,na,고층 주거 만족도 평가 — 옥외 공공공간 아님
+1049,EX4,na,교통소음과 허혈성 심질환 — 행태 아웃컴 없음
+1050,EX1,na,Savanna Nightjar calling height — 동물 연구
+1051,EX2,na,레스토랑 실내 sensory walk — 옥외 공공공간 아님
+1052,EX1,na,스노모빌 소음과 조류 발성 — 동물 연구
+1053,INCLUDE,forward,공원 iNaturalist 이용·관찰 활동에 noise 등 영향
+1054,EX1,na,Masked Gnatcatcher 노래 — 동물 연구
+1055,EX5,na,sonic crystal 방음벽 실험 — 행태 분석 없음
+1056,EX2,na,요양원 실내 sound augmentation — 옥외 공공공간 아님

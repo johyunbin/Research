@@ -1,0 +1,233 @@
+### RECORD ID=341 | screening_verdict=INCLUDE | year=2016
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Effect of sound-related activities on human behaviours and acoustic comfort in urban open spaces
+DOI: 10.1016/j.scitotenv.2016.08.130
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Effect of sound-related activities on human behaviours and acoustic
+comfort in urban open spaces
+Qi Meng a, Jian Kang a,b,⁎
+a School of Architecture, Harbin Institute of Technology, Harbin 150001, China
+b Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology, Harbin, 150001, China
+H I G H L I G H T S
+• Human behaviours can be changed by
+sound-related activities.
+• Acoustic comfort can be improved by
+changing sound-related activities.
+• Acoustic comfort of visitors and citizens
+can be different with some activities.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 14 June 2016
+Received in revised form 17 August 2016
+Accepted 18 August 2016
+Available online 27 August 2016
+Editor: D. Barcelo
+Human activities are important to landscape design and urban planning; however, the effect of sound-related ac-
+tivities on human behaviours and acoustic comfort has not been considered. The objective of this study is to ex-
+plore how human behaviours and acoustic comfort in urban open spaces can be changed by sound-related
+activities. On-site measurements were performed at a case study site in Harbin, China, and an acoustic comfort
+survey was simultaneously conducted. In terms of effect of sound activities on human behaviours, music-related
+activities caused 5.1–21.5% of persons who pass by the area to stand and watch the activity, while there was a
+little effect on the number of persons who performed excises during the activity. Human activities generally
+have little effect on the behaviour of pedestrians when only 1 to 3 persons are involved in the activities, while
+a deep effect on the behaviour of pedestrians is noted when N6 persons are involved in the activities. In terms
+of effect of activities on acoustic comfort, music-related activities can increase the sound level from 10.8 to
+16.4 dBA, while human activities such RS and PC can increase the sound level from 9.6 to 12.8 dBA; however,
+they lead to very different acoustic comfort. The acoustic comfort of persons can differ with activities, for example
+the acoustic comfort of persons who stand watch can increase by music-related activities, while the acoustic
+comfort of persons who sit and watch can decrease by human sound-related activities. Some sound-related ac-
+tivities can show opposite trend of acoustic comfort between visitors and citizens. Persons with higher income
+prefer music sound-related activities, while those with lower income prefer human sound-related activities.
+© 2016 Elsevier B.V. All rights reserved.
+Keywords:
+Sound-related activities
+Sound environment
+Pedestrian behaviour
+Acoustic comfort
+Urban open space
+Science of the Total Environment 573 (2016) 481–493
+⁎ Corresponding author at: Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology, Harbin, 150001, China.
+E-mail address: j.kang@hit.edu.cn (J. Kang).
+http://dx.doi.org/10.1016/j.scitotenv.2016.08.130
+0048-9697/© 2016 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+1. Introduction
+With the regeneration of city centres, urban open spaces are
+reconceptualised with the new ‘urbanity’ (Thwaites et al., 2005). To cre-
+ate a friendly environment, rethinking the urban landscape from an eco-
+logical viewpoint is important (Yu and Kang, 2010). Sound quality is
+considered as a key part of ecological/sustainable development of
+urban landscape (Zhang et al., 2006). In recent years, the soundscape
+was usually used as a key method to increase the sound quality in
+urban open spaces. The concept of the soundscape is a broad one, ac-
+commodating the complete sound environment in a location and the
+human response to it (Brown et al., 2011; Davies et al., 2013). According
+to ISO, the soundscape is the acoustic environment as perceived or ex-
+perienced and/or understood by a person or people in context (ISO,
+2014). For urban planning and landscape design, one key attraction of
+the soundscape is that it seems to be a better ﬁt than noise level to the
+many factors inﬂuencing human experience in the urban open spaces,
+since previous studies indicated that human reaction to a sound is not
+just physical perception but also an aesthetic sensation that one receives
+from the environment (Aucouturier et al., 2007). Therefore, a thorough
+analysis of the function of soundscape or soundscape characteristics
+such as human behaviours and evaluation of acoustic comfort is very
+important to landscape researches in urban open spaces.
+Human behaviours in urban landscape have been considered in
+many previous studies in relation to sound and soundscape perception,
+since it is important for urban landscape design (Carles et al., 1999;
+Yang and Kang, 2005). Kang (2006) indicated that sound quality of an
+urban area will depend on how long people have been living there. A
+study by soundwalk shows that positive sound such as bird sounds in
+urban spaces may affect the behaviours of people (Davies et al., 2013).
+Meng and Kang (2013) indicated that acoustic comfort is inﬂuenced
+by the reason for visit, frequency of visit, and length of stay with corre-
+lation coefﬁcients of 0.10 to 0.30. The users who were waiting for some-
+one were found to have lower acoustic comfort than those who were
+shopping. The interactions between aural and visual behaviours are
+also an important research topic in soundscape studies (Southworth,
+1969; Forza, 2002). A study under laboratory conditions with controlled
+aural and visual stimuli suggested that the visual parameter was a pre-
+dominant variable with regard to aural–visual interactions (Viollon and
+Lavandier, 2000). All the visual information had different ways and dif-
+ferent efﬁciencies in affecting the auditory judgement. The more urban
+the visual settings were, the more contaminated was the audi
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Survey site
+Since some previous studies indicated that the environment or space
+differences may lead to the different evaluation of soundscape (Lercher
+and Schulte-Fortkamp, 2003; Kang and Zhang, 2010), the effect of
+sound-related activities should be studied generally in the same envi-
+ronment and places; therefore, a typical pedestrian street named Stalin
+park, in Harbin, China, was chosen as the case site, since there are many
+typical sound-related activities that simultaneously occur along the
+street.
+Harbin is a typical international city in China, with long cultural and
+historical background; the sound-related activities in Harbin are com-
+mon in China and most Asian countries and even in some European
+countries; therefore, the results of this case site are likely to be applica-
+ble to not only other areas in China, but also to some similar cases in
+Asian or European countries. The Stalin park, which was built in 1953,
+is nearly 1800 m in length and 30 m in width. A 10-m wide trafﬁc
+road is present on one side of the park, while the Songhua River is pres-
+ent on the other side of the park. The Stalin park is a famous tourist site
+for visitors as well as a leisure place for local citizens; N20,000 users visit
+the park everyday (Yao, 2004). Therefore, there are enough investiga-
+tion samples both on activities and users for this study. The map of Sta-
+lin park and the survey locations are shown in Fig. 1.
+2.2. Sound-related activities
+On the basis of the different sound sources, the activities were divid-
+ed into two groups: one group is music sound-related activities, in
+which the persons perform activities with music, and the other group
+is human sound-related activities, in which the persons perform activi-
+ties by speaking or creating manmade sounds. In the case site, 4 typical
+music-related activities and 3 typical human sound-related activities
+were chosen at different locations at N100-m intervals, since previous
+482
+Q. Meng, J. Kang / Science of the Total Environment 573 (2016) 481–493
+
+studies indicated that there is no inﬂuence of sound-related activities on
+each other at this distance (Hao et al., 2015). Music-related activities in-
+cluded Folk Dancing, Zombie Dancing, Qing Gong and Tai Ji. Human
+sound-related activities included Whip Whipping, Roller Skidding and
+Playing Cards. The details of these activities are shown in Table 1.
+These typical sound-related activities are very common in open
+squares or parks in China and some Asian countries, and now even in
+some European countries.
+2.3. Behaviour measurement
+In these studies, the human behaviours imply some actions and
+mannerisms made by visitors or citizens in the urban open spaces,
+which is the important point in landscape study, since there are some
+relationships between behaviours and landscape design or ecological
+planning (Snowdon et al., 2001; Pearce, 2013). Therefore, the behav-
+iours of pedestrians was also measured at every survey point in an
+area from 0 to 10 m outside the area of activities (Fig. 2), since a previ-
+ous study indicated that behaviours at 10 m away from such activities or
+sound sources might not be generally inﬂuenced by them (Meng and
+Kang, 2015). The areas of activities in this study are the areas in which
+people are performing some activities. Considering that people may
+move all the time during some activities, the area of such activities
+was expanded to include those areas where the people move to.
+In the behaviour measurement, the interviewers shoot some group
+videos with a camera in different situations. To determine the effect of
+aural-visual stimuli in terms of music sound-related activities, 4 types
+of situations were analysed: neither music sound nor activities, activi-
+ties without music, music without activities, and activities with music.
+For human sound-related activities, the videos were shot with different
+persons who are performing the activities. Each video is 3–5 min long,
+and videos for 10–15 groups for every situation were shot to ensure
+the stochastic behaviour in the measurement (Yang and Kang, 2005).
+The behaviours of pedestrians in the survey locations were then classi-
+ﬁed and statistically analysed from the review of videos in the laborato-
+ry. Four main behaviours of pedestrians were analysed in this research:
+standing and watching, passing by, performing exercises, and sitting. In
+this study, performing exercises imply doing some standing exercises,
+while some moving exercises such as running were classiﬁed as passing
+by behaviour.
+2.4. Sound level measurement
+Sound pressure level measurement was conducted immediately
+after each interview. During the measurement, the microphone of the
+sound level meter was positioned approximately 1 m away from any re-
+ﬂective surfaces and 1.2–1.5 m above the ﬂoor to reduce the effect of
+acoustic reﬂection (Zahorik, 2002; Barron, 2009). The sound level me-
+ters were set in slow-mode and A-weight, and reading were acquired
+every 3–5 s. A total of 5 min data were obtained in each survey position.
+Considering that the activities themselves may dynamically change,
+5–7 survey positions were selected randomly around the activity areas,
+and each survey position was 5 m away from the activity areas and main
+sound sources, if any, to avoid any instantaneous error (Eriksson, 1991;
+Vincent et al., 2006); the corresponding LAeq of activities was derived as
+an average from the 5 positions.
+Simultaneously, some other environment factors, for example air
+temperature, relative humidity, and luminance, were also measured
+for other further analysis (Frontczak and Wargocki, 2011).
+2.5. Acoustic comfort survey
+The acoustic comfort survey was conducted immediately after every
+sound pressure level measurement. To study the inﬂuence of the
+Fig. 1. The case site with different sound-related activities.
+Table 1
+The details of typical sound-related activities.
+Activity name
+Abbreviated name
+Details
+Number of persons
+Type 1: Music-related a
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1.
+Table 1.
+Fig. 2), since a previ-
+Fig. 1. The case site with different sound-related activities.
+Table 1
+Table 2), for example gender, education level, age, occupa-
+Fig. 3 shows the effect of music-related activities on human behav-
+Fig. 3, it can be seen that the number of persons who stand
+Fig. 5, it can be seen that the number of persons
+Fig. 5 shows that the pedes-
+Fig. 2. The measurement area of human behaviours.
+Table 2
+Fig. 3. The percentage of behaviours with different music-related activities, where (a) indicates the percentage of standing and watching with RD, ZD, QG, and TJ; (b)
+Fig. 3 (continued).
+Fig. 4. The percentage of behaviours with different human sound-related activities, where (a) indicates the percentage of standing and watching with WW, QS, and PC; (
+Fig. 4 shows the effect of music-related activities on human behav-
+Fig. 4, it can be seen that when the number of persons
+Fig.
+6 shows that when 0–3 persons perform WW or RS activity, 19.1–
+Fig. 5 shows the effect of music-related activities on sound environ-
+Fig. 5, it can be seen that the effect of activities without
+Fig. 6 shows the effect of human sound-related activities on sound
+Fig. 6, it can be seen that
+Fig. 7 shows that the acoustic comfort of persons who stand
+Fig. 5. The sound pressure level with different music-related activities, where (a) indicates
+Fig. 8 shows that the acoustic comfort of persons who stand

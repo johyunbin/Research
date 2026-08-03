@@ -1,0 +1,10 @@
+no,final_verdict,exclude_reason,confidence
+732,FINAL_INCLUDE,,medium
+746,FINAL_INCLUDE,,medium
+760,FINAL_INCLUDE,,medium
+779,UNCERTAIN,미확정: 노출은 주거지 주소 기반 도로교통소음(28개 도시노출 중 1개)이고 행태(부모보고 신체활동·좌식·수면)가 공공 오픈스페이스 내 행태로 특정되지 않음,low
+833,FINAL_INCLUDE,,high
+880,UNCERTAIN,미확정: 노출은 주거지 Lden 도로교통소음이고 보행수·좌식시간이 옥외 공공공간 활동으로 특정되지 않음(소음은 신체활동과 무연관으로 보고),low
+883,FINAL_INCLUDE,,medium
+901,FINAL_INCLUDE,,high
+912,UNCERTAIN,미확정: 지각 음환경질이 SEM 매개변수이고 신체활동도 자기보고 매개경로·음환경→신체활동 경로계수가 발췌에 미확인,low

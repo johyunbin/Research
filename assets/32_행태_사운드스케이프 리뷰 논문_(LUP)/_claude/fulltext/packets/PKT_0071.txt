@@ -1,0 +1,231 @@
+### RECORD ID=71 | screening_verdict=INCLUDE | year=2007
+JOURNAL: LANDSCAPE AND URBAN PLANNING
+TITLE: Noise and well-being in urban residential environments:: The potential role of perceived availability to nearby green areas
+DOI: 10.1016/j.landurbplan.2007.03.003
+PAGES: 12
+
+--- HEAD (title/abstract/intro) ---
+Available online at www.sciencedirect.com
+Landscape and Urban Planning 83 (2007) 115–126
+Noise and well-being in urban residential environments: The potential
+role of perceived availability to nearby green areas
+Anita Gidl¨of-Gunnarsson ∗, Evy ¨Ohrstr¨om
+The Sahlgrenska Academy at G¨oteborg University, Department of Occupational and Environmental Medicine,
+Box 414, SE-405 30 G¨oteborg, Sweden
+Received 7 June 2006; received in revised form 1 March 2007; accepted 28 March 2007
+Available online 10 May 2007
+Abstract
+A growing body of literature indicates that contact with nature inﬂuence people’s health and psychological well-being both directly and by
+moderating processes. A questionnaire study was conducted in urban residential settings with high road-trafﬁc noise exposure (LAeq, 24 h = 60–68 dB).
+Out of 500 residents, 367 lived in dwellings with access to a quiet side (LAeq, 24 h ≤45 dB free ﬁeld value; “noise/quiet”-condition) and 133 had
+no access to a quiet side (“noise/noise”-condition). The present paper examines whether perceived availability to nearby green areas affects
+various aspects of well-being in these two noise-condition groups. For both those with and without access to a quiet side, the results show that
+“better” availability to nearby green areas is important for their well-being and daily behavior by reducing long-term noise annoyances and
+prevalence of stress-related psychosocial symptoms, and by increasing the use of spaces outdoors. In the process of planning health-promoting
+urban environments, it is essential to provide easy access to nearby green areas that can offer relief from environmental stress and opportunities
+for rest and relaxation, to strive for lower sound levels from road trafﬁc, as well as to design “noise-free” sections indoors and outdoors.
+© 2007 Elsevier B.V. All rights reserved.
+Keywords: Road trafﬁc; Noise annoyance; Nature; Green space; Restorative environments
+1. Introduction
+For many urban residents, everyday life is ﬁlled with stressful
+situations. Demands from work and family and harmful/adverse
+environmental conditions raise the needs of restoration peri-
+ods. Increasing empirical evidence indicates that nature provides
+restorative experiences that directly affect people’s psychologi-
+cal well-being and health in a positive way (e.g., Ulrich, 1981;
+Kaplan and Kaplan, 1989; Ulrich et al., 1991; Hartig et al., 1996;
+Herzog et al., 1997; Kaplan, 2001; Hartig et al., 2003). There
+are also indications that access to nearby nature can act as a
+buffer or moderator of adverse conditions (Evans, 2003; Wells
+and Evans, 2003).
+A great and growing environmental problem in urbanized
+areas is noise from transport. It has been estimated that about
+∗Corresponding author. Tel.: +46 31 786 36 78/19 29 11 65.
+E-mail addresses: anita.gidlof@amm.gu.se (A. Gidl¨of-Gunnarsson),
+evy.ohrstrom@amm.gu.se (E. ¨Ohrstr¨om).
+80 million (approximately 20%) of the European Union’s pop-
+ulation suffer from noise levels considered unacceptable (above
+65 dB in so-called “black areas”) and an additional 170 million
+are living in “grey areas” exposed to noise levels between 55
+and 65 dB (EC, 1996). Findings from a large body of studies
+show that trafﬁc noise causes non-auditory stress effects such as
+changes in the physiological systems (e.g., elevated blood pres-
+sure), various cognitive deﬁcits (e.g., poor sustained attention,
+memory/concentration problems), sleep disturbances, modiﬁca-
+tions of social behavior, psychosocial stress-related symptoms,
+and emotional/motivational effects (e.g., annoyance, learned
+helplessness) (e.g., WHO, 2000; ¨Ohrstr¨om, 2004; Babisch et al.,
+2005; Stansfeld et al., 2005; Bluhm et al., 2007). The psycho-
+logical stress construct has helped to identify these stress-related
+outcomes and to improve our understanding of how chronic
+noise exposure from trafﬁc affects human health. However, it is
+necessary to extend current stress models to identify and include
+also environmental factors that may moderate the exposure-
+effect relationship by promoting health and well-being (Evans,
+2001). Some previous studies indicate that presence of natural
+0169-2046/$ – see front matter © 2007 Elsevier B.V. All rights reserved.
+doi:10.1016/j.landurbplan.2007.03.003
+
+116
+A. Gidl¨of-Gunnarsson, E. ¨Ohrstr¨om / Landscape and Urban Planning 83 (2007) 115–126
+elements in noise exposed sites have a moderating inﬂuence on
+people’s noise responses. In a large survey on nearly 3000 people
+in 53 residential sites of the Greater London Council, Langdon
+(1976) found that high neighborhood quality in terms of attrac-
+tive appearance, presence of parks and green spaces lowered
+dissatisfaction with trafﬁc noise to a signiﬁcant degree. Similar
+ﬁndings are reported by Kastka and Noack (1987). Therefore,
+our interest in the present study is to examine the potential role
+of nearby green areas in trafﬁc-noise exposed residential areas.
+In a comprehensive review, Kaplan and Kaplan (1989)
+stressedtheimportanceofnatureinurbansettings.Theavailabil-
+ity of nearby trees, opportunities for gardening, and places for
+taking walks (within 3 min) were highly valued components of
+urban nature and increased satisfaction and well-being in urban
+residents. Findings from recently conducted research programs
+within EU on urban green spaces confer their role as improving
+people’s life quality (BUGS—Beneﬁts of Urban Green Space,
+2003; Priestley et al., 2004). Furthermore, signiﬁcant relation-
+ships exist between urban design and public health (e.g., Handy
+et al., 2002; Frank et al., 2003; Humpel et al., 2004; Hoehner et
+al., 2005). In a longitudinal cohort study, Takano et al. (2002)
+showed that the longevity of urban senior citizens increased if
+they had local availability of walkable green spaces. Findings
+also indicate associations between nature and stress responses.
+More frequent visits to urban open green spaces were signif-
+icantly related to less self-reported experiences of stress in a
+study b
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+2.1. Study design
+A cross-sectional questionnaire study was conducted in resi-
+dential city areas in Stockholm (S¨odermalm and H¨agersten) and
+G¨oteborg (Johanneberg), Sweden. Great care was undertaken
+in designing the empirical ﬁeld studies and in selecting the dif-
+ferent study sites. The latter was based on a number of criteria,
+for example: similar noise exposures, no other dominating noise
+source than road trafﬁc, similar houses according to height and
+
+A. Gidl¨of-Gunnarsson, E. ¨Ohrstr¨om / Landscape and Urban Planning 83 (2007) 115–126
+117
+type (three to ﬁve storied apartment buildings), similar dwellings
+according to layout (at least two rooms in addition to a kitchen,
+access to a balcony/outdoor space), and similar population char-
+acteristics (for more details, please consult Berglund et al., 2004;
+¨Ohrstr¨om et al., 2006).
+2.2. Sound exposure
+Sound levels were determined outside both sides of each
+dwelling by long- and short-term measurements. Calculations of
+trafﬁc noise levels (e.g., LAeq, 24 h = the equivalent A-weighted
+sound pressure level integrated during 24 h) were based on
+trafﬁc input data and geometrical data of the ﬁeld site. Mea-
+surements of trafﬁc data (number of vehicles, %heavy vehicles,
+and motorbikes) were also included. The road trafﬁc speed limit
+was 50 km/h in the study sites (see also Berglund et al., 2004;
+¨Ohrstr¨om et al., 2006).
+Half of the dwellings in the study areas had access to a quiet
+side and the other half of the dwellings had similar sound lev-
+els at the most exposed side but had no access to a quieter side
+of the dwelling. A dwelling with access to a quiet side was
+deﬁned as a dwelling facing at least one side of the building
+where the total LAeq, 24 h sound level dB caused by ground trafﬁc
+and other disturbing noise sources 2 m from the fac¸ade (fac¸ade
+reﬂection included) is less than 48 dB (corresponding to less
+than 45 dB free ﬁeld value, i.e., level on the fac¸ade minus 6 dB;
+for more details, please consult Berglund et al., 2004; Thorsson
+and ¨Ogren, 2004; ¨Ogren and Kropp, 2004; ¨Ohrstr¨om et al.,
+2006).
+2.3. Participants
+The dataset utilized in the present study (n = 500) is based on
+questionnaire data obtained from 956 residents (59% response
+rate). One individual between 18 and 75 years of age in 1625
+households were originally selected. If there were two or more
+persons in the household, the one who was closest to the date
+of the ﬁrst distribution of the questionnaire was chosen. The
+restricted dataset of 500 residents were all exposed to high road-
+trafﬁc noise exposures, i.e., LAeq, 24 h = 60–68 dB at the most
+exposed facade of the dwelling (dB mean = 62, S.D. = 2.14; free
+ﬁeld value). The remaining residents with lower sound levels
+were excluded from further analyses. Out of 500 residents, 367
+lived in dwellings with access to a quiet side (“noise/quiet”-
+condition) and 133 lived in dwellings with no access to a quiet
+side (“noise/noise”-condition).
+2.4. Questionnaire
+The participants answered a questionnaire designed to assess
+adverse health effects of noise (e.g., ¨Ohrstr¨om, 1989) and per-
+ceptions of soundscapes (Berglund and Nilsson, 2001). The
+questionnaires were sent by post together with an introduc-
+tory letter that presented the study as a study on well-being
+and the general living environment. One or two reminder let-
+ters were sent to those who did not answer within 10 days.
+For the present paper, only the following data were utilized
+from the questionnaire (for detailed descriptions of the ques-
+tionnaire, please consult ¨Ohrstr¨om et al., 2006): (1) Perceived
+availability to green areas. According to a Swedish dictionary
+(Malmstr¨om et al., 1991), a green area refers to an area in
+city plans with green surface, trees and so on. In the present
+study perceived availability to green areas was assessed with
+the following question: “Do you have access to green areas
+close to your dwelling?” Three response categories were used:
+“no access”, “rather good access”, and “very good access”; (2)
+Longstanding illness was assessed as frequencies of “yes/no”
+responses; (3) Sensitivity to noise was assessed by asking the
+respondents how they in general describe their sensitivity to
+noise. A four-point category scale was used ranging from “not
+at all sensitive” to “very sensitive” (cf. ¨Ohrstr¨om et al., 1988);
+(4) Noise annoyance. Road trafﬁc noise annoyances when being
+“at home” and “outdoors close to the dwelling” (last 12 months)
+were assessed on numeric 0–10 scales with verbal endpoints
+(“not at all annoyed” and “extremely annoyed”); (5) Percep-
+tion of noise as a problem in the neighborhood was assessed as
+frequencies of “yes/no” responses; (6) Use of outdoor spaces.
+For use of outdoor spaces, the residents were asked to report
+on how often they were walking/exercising in the neighborhood
+(“every day”, “one/few times per week”, “one/few times per
+month”, and “seldom/never”). They also responded to a ques-
+tion on how often (“never”, “sometimes”, and “often”) road
+trafﬁc disturbed their desire to stay outdoors; (7) Identiﬁcation
+of sound sources. Sound-source identiﬁcation is valuable when
+describing perception of soundscapes. The concept of sound-
+scape refers to the sound variations in space and time caused
+by the topography of the natural environment, the buildings
+and their different sound sources. Acoustical soundscapes are
+described with the aid of acoustical variables and perceived
+soundscapes with perceptual variables (Schafer, 1994; Berglund
+and Nilsson, 2001; Axelsson et al., 2005). A list of 14 sound
+sources common outdoors in residential environments was pro-
+vided to the residents (private cars, trucks, buses, motor cycles,
+aircraft, railway, gardening machinery, ventilation, TV/radio,
+sound of steps, dogs/other pets, birds, children playing, and
+people talking). The residents were asked to report on how
+often (during the last 12 months) they usually heard the listed
+sounds when they were outdoors close 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. A conceptual model of the assessed variables and their hypothesized
+Fig. 1 presents a conceptual model of
+Fig. 2. Mean road trafﬁc noise annoyance “at home” (left) and “outdoors close to the dwelling” (right) in relation to perceived availability to green areas (“not at
+Fig. 2). For the “noise/quiet
+Fig. 3. Aerial photographs of the residential settings (marked with white dotted lines): S¨odermalm in the city of Stockholm (left panel), Johanneberg in G¨oteborg
+Fig. 3) and approximately judged the distance
+Table 1 shows the distribution of residents in the
+Table 1
+Table 2). We compared the current sample with the excluded
+Table 2
+Table 3
+Table 3, signiﬁcant multivariate main effects
+Table 4
+Table 4). The non-signiﬁcant interaction effect holds for
+Fig. 4, left and right panels,
+Fig. 5, when residents have “better”
+Fig. 4. Mean road trafﬁc noise annoyance “at home” (left) and “outdoors close to the dwelling” (right) in relation to perceived availability to green areas (“poorer”
+Fig. 5. Frequency of perceiving noise as a problem in the neighborhood in
+Fig. 6. Inﬂuence of noise condition and perceived availability to green areas on
+Fig. 6). Thus, disturbance
+Fig. 7. Prevalence of stress-related psychosocial symptoms in relation to per-
+Table 5 shows the distribution of residents hearing sounds
+Fig.
+7
+Table 5
+Table 6

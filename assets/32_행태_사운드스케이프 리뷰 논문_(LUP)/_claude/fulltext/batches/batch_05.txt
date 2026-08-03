@@ -1,0 +1,2178 @@
+### RECORD ID=791 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: SENSORS
+TITLE: A Low Cost IoT Cyber-Physical System for Vehicle and Pedestrian Tracking in a Smart Campus
+DOI: 10.3390/s22176585
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Citation: Toutouh, J.; Alba, E. A Low
+Cost IoT Cyber-Physical System for
+Vehicle and Pedestrian Tracking in a
+Smart Campus. Sensors 2022, 22, 6585.
+https://doi.org/10.3390/s22176585
+Academic Editors: Seong-eun Yoo,
+Taehong Kim and Youngsoo Kim
+Received: 6 July 2022
+Accepted: 26 August 2022
+Published: 31 August 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sensors
+Article
+A Low Cost IoT Cyber-Physical System for Vehicle and
+Pedestrian Tracking in a Smart Campus
+Jamal Toutouh *
+and Enrique Alba
+Departamento de Lenguajes y Ciencias de la Computación, Universidad de Málaga, 29071 Malaga, Spain
+* Correspondence: jamal@uma.es; Tel.: +34-952-13-33-03
+Abstract: Human tracking and trafﬁc monitoring systems are required to build advanced intelligent,
+innovative mobility services. In this study, we introduce an IoT system based on low-cost hardware
+that has been installed on the campus of the University of Malaga, in Spain. The sensors gather
+smart wireless devices (Bluetooth and Wi-Fi) anonymous information and environmental noise level
+around them. This research studies the spatio-temporal behavior of people and noise pollution in
+the campus as a short-scale Smart City, i.e., a Smart Campus. Applying speciﬁc machine learning
+algorithms, we have analyzed two months of captured data (61 days). The main ﬁndings from
+the analysis show that most university community members move through the campus at similar
+hours, generating congestion problems. In addition, the campus suffers from acoustic pollution
+according to regulations; therefore, we conclude that the proposed system is useful for gathering
+helpful information for the university community members and managers. Thanks to its low cost, it
+can be easily extended and even used in other similar environments, allowing democratic access to
+Smart City services as an excellent added value.
+Keywords: smart mobility; IoT; noise pollution
+1. Introduction
+Today, it is a fact that most of the world’s population lives in cities. This high concen-
+tration of people and vehicles in speciﬁc geographic zones has ampliﬁed the importance
+of issues related to the mobility of the inhabitants and the transportation of goods. In
+this context, smart city initiatives have emerged [1–3]. One of their main aims is to ad-
+dress mobility-centric challenges by applying smart mobility solutions [4–6]. Most of
+the proposed smart mobility services are supported by intelligent systems responsible
+for detecting, predicting, and efﬁciently managing road trafﬁc resources. For example, a
+potential solution to road congestion problems (which increase travel times and greenhouse
+emissions) may be provided by a smart trafﬁc lights management system that reduces the
+waiting time at trafﬁc lights and improves efﬁcient driving.
+These intelligent systems that are applied to mobility challenges require gathering ac-
+curate trafﬁc/mobility data continuously to operate, which is still a big challenge today. Es-
+sential valuable mobility data, such as the number of cars per street, the origin/destination
+(OD) matrices of the city, and pedestrian behavior, are scarce and difﬁcult to obtain. Nowa-
+days, the most common systems of obtaining this type of data only perform vehicle count
+or provide an estimate of the road trafﬁc density in a given area; thus, the most widely
+used means of assessing mobility at present in our cities are: (a) traditional measurement
+on-road hardware (e.g., loop detectors) [7], which is expensive, traumatic to install, scarcely
+available, and only for vehicle detection; (b) cameras, which are also expensive and the
+accuracy of the gathered data may depend on external factors as the meteorology [8];
+(c) ﬂoating cars [9].
+Moreover, the use of cameras to track the movement of vehicles and people requires
+the extraction and identiﬁcation of vehicle license plates and a feature vector of the person’s
+Sensors 2022, 22, 6585. https://doi.org/10.3390/s22176585
+https://www.mdpi.com/journal/sensors
+
+Sensors 2022, 22, 6585
+2 of 17
+face/body, respectively. These data are stored and processed in the system. As these
+data can be used directly to identify vehicles (and their drivers) and persons uniquely, it
+can lead to an invasion of user privacy and provoke General Data Protection Regulation
+(GDPR) issues.
+In recent years, with the proliferation of smart mobile devices (e.g., cellphones), an-
+other manner to obtain vehicles/pedestrians mobility information is by using the cellphone
+location information services [10–12]. Thus, in order to share the location, the user must
+activate a service (or application) in the cellphone to exchange the information retrieved by
+the Global Positioning System (GPS) module. The main beneﬁt of these GPS-based systems
+is that it does not require the installation of sensors or cameras. The main issues of this
+approach are that: (a) the service used to exchange the GPS position consumes a substantial
+amount of energy [11] and (b) the service generally shares private information with a third
+party, usually a private entity, that manages the service [12].
+A promising alternative to gather vehicles/pedestrians mobility is the installation of
+sensors able to detect Bluetooth (BT) signals and identifying vehicles and pedestrians by
+the Media Access Control (MAC) hardware addresses of their smart devices [13]. Thus, the
+sensors detect vehicles and pedestrians by capturing the wave signals generated by the
+smart devices that the people carry, e.g., cellphones and watches, or are located inside the
+vehicles, e.g., on-board units. This choice is experiencing fast development since it is very
+cheap and easy to maintain; however, the 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, J.T.; Project administration, J.T.; Resources, E.A.;
+Software, J.T.; Visualization, J.T.; Writing—review & editing, J.T. and E.A. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research is partially funded by the Universidad de Málaga, Consejería de Economía
+y Conocimiento de la Junta de Andaluía and FEDER under grant number UMA18-FEDERJA-003
+(PRECOG); PID 2020-116727RB-I00 (HUmove) funded by MCIN/AEI/10.13039/501100011033; and
+TAILOR ICT-48 Network (No. 952215) funded by EU Horizon 2020 research and innovation programme.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: The authors thank NEO Lab members for their support in the installation of
+the sensors.
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The views expressed are purely
+those of the writer and may not in any circumstances be regarded as stating an ofﬁcial position of the
+European Commission.
+References
+1.
+Myeong, S.; Park, J.; Lee, M. Research Models and Methodologies on the Smart City: A Systematic Literature Review. Sustainability
+2022, 14, 1687. [CrossRef]
+2.
+Roccotelli, M.; Mangini, A.M. Advances on Smart Cities and Smart Buildings. Appl. Sci. 2022, 12, 631. [CrossRef]
+3.
+McClellan, S.; Jimenez, J.A.; Koutitas, G. Smart Cities: Applications, Technologies, Standards, and Driving Factors; Springer: New York,
+NY, USA, 2017.
+4.
+Paiva, S.; Ahad, M.A.; Tripathi, G.; Feroz, N.; Casalino, G. Enabling technologies for urban smart mobility: Recent trends,
+opportunities and challenges. Sensors 2021, 21, 2143. [CrossRef] [PubMed]
+
+Sensors 2022, 22, 6585
+16 of 17
+5.
+Toutouh, J.; Arellano, J.; Alba, E. BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. Sensors 2018,
+18, 4123. [CrossRef] [PubMed]
+6.
+Toutouh, J.; Alba, E. A swarm algorithm for collaborative trafﬁc in vehicular networks.
+Veh. Commun. 2018, 12, 127–137.
+[CrossRef]
+7.
+Leduc, G. Road trafﬁc data: Collection methods and applications. In Working Papers on Energy, Transport and Climate Change;
+Institute for Prospective Technological Studies (IPTS), Joint Research Centre: Seville, Spain, 2008; Volume 1.
+8.
+Fahmidha, R.; Jose, S.K. Vehicle and Pedestrian Video-tracking: A Review. In Proceedings of the 2020 International Conference
+on Communication and Signal Processing (ICCSP), Chennai, India, 28–30 July 2020; pp. 227–232. [CrossRef]
+9.
+Chen, B.Y.; Yuan, H.; Li, Q.; Lam, W.H.; Shaw, S.L.; Yan, K. Map-matching algorithm for large-scale low-frequency ﬂoating car
+data. Int. J. Geogr. Inf. Sci. 2014, 28, 22–38. [CrossRef]
+10.
+Jimoh, O.D.; Ajao, L.A.; Adeleke, O.O.; Kolo, S.S. A Vehicle Tracking System Using Greedy Forwarding Algorithms for Public
+Transportation in Urban Arterial. IEEE Access 2020, 8, 191706–191725. [CrossRef]
+11.
+Almishari, S.; Ababtein, N.; Dash, P.; Naik, K. An energy efﬁcient real-time vehicle tracking system. In Proceedings of the
+2017 IEEE Paciﬁc Rim Conference on Communications, Computers and Signal Processing (PACRIM), Victoria, BC, Canada,
+21–23 August 2017; pp. 1–6. [CrossRef]
+12.
+Too, W.G.; Thong, C.L.; Chit, S.M.; Chaw, L.Y.; Lee, C.Y. Features of Mobile Tracking Apps: A Review of Literature and Analysis
+f Current Apps Compared Against Travel Agency Requirements.
+In HCII 2020: Design, Operation and Evaluation of Mobile
+Communications, Proceedings of the International Conference on Human-Computer Interaction, Copenhagen, Denmark, 19–24 July 2020;
+Springer: New York, NY, USA, 2020; pp. 107–120.
+13.
+Castillo, P.; Fernández-Ares, A.; García-Fernández, P.; García-Sánchez, P.; Arenas, M.; Mora, A.; Rivas, V.; Asensio, J.; Romero,
+G.; Merelo, J. Studying individualized transit indicators using a new low-cost information system. In Handbook of Research on
+Embedded Systems Design; IGI Global: Hershey, PA, USA, 2014; pp. 388–407.
+14.
+Friesen, M.R.; McLeod, R.D. Bluetooth in intelligent transportation systems: A survey. Int. J. Intell. Transp. Syst. Res. 2015,
+13, 143–153. [CrossRef]
+15.
+Danalet, A.; Farooq, B.; Bierlaire, M. A Bayesian approach to detect pedestrian destination-sequences from WiFi signatures.
+Transp. Res. Part C Emerg. Technol. 2014, 44, 146–170. [CrossRef]
+16.
+Dong, Z.Y.; Zhang, Y.; Yip, C.; Swift, S.; Beswick, K. Smart campus: Deﬁnition, framework, technologies, and services. IET Smart
+Cities 2020, 2, 43–54. [CrossRef]
+17.
+Del-Valle-Soto, C.; Valdivia, L.J.; Velázquez, R.; Rizo-Dominguez, L.; López-Pimentel, J.C. Smart Campus: An Experimental
+Performance Comparison of Collaborative and Cooperative Schemes for Wireless Sensor Network. Energies 2019, 12, 3135.
+[CrossRef]
+18.
+Rico-Bautista, D.; Guerrero, C.D.; Collazos, C.A.; Maestre-Góngora, G.; Hurtado-Alegría, J.A.; Medina-Cárdenas, Y.; Swaminathan,
+J. Smart University: A vision of technology adoption. Rev. Colomb. Comput. 2021, 22, 44–55. [CrossRef]
+19.
+Andres, L. Designing and Doing Survey Research; SAGE: Thousand Oaks, CA, USA, 2012.
+20.
+Jung, I.C.; Kwon, Y. Grocery customer behavior analysis using RFID-based shopping paths data. World Academy of Science.
+Eng. Technol. 2011, 59, 2011.
+21.
+Abedi, N.; Bhaskar, A.; Chung, E. Tracking spatio-temporal movement of human in terms of space utilization using Media-
+Access-Control address data. Appl. Geogr. 2014, 51, 72–81. [CrossRef]
+22.
+Abedi, N.; Bhaskar, A.; Chung, E.; Miska, M. Assessment of antenna characteristic effects on pedestrian and cyclists travel-time
+estimation based on Bluetooth and WiFi MAC addresses. Transp. Res. Part C Emerg. Technol. 2015, 60, 124–141. [CrossRef]
+23.
+Versichele, M.; Neutens, T.; Claeys Bouuaert, M.; Van de Weghe, N. Time-geographic Derivation of Feasible Co-presence
+Opportunities from Network-constrained Episodic Movement Data. Trans. GIS 2014, 18, 687–703. [CrossRef]
+24.
+Bullock, D.M.; Haseman, R.; Wasson, J.S.; Spitler, R. Automated Measurement of Wait Times at Airport Security: Deployment at
+Indianapolis International Airport, Indiana. Transp. Res. Rec. 2010, 2
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1
+Figure 1. Global view of the WSN.
+Table 1 presents the prices of each component.
+Figure 2 shows the block diagram and a real picture of the designed sensor. The sensor
+Figure 2. Different elements and views of the road sensor system: (a) Sensor block diagram; (b) Actual
+Table 1. Price of the components used to deploy the sensors of the proposed IoT system.
+Figure 3a. The sensors use their wireless interfaces to connect to the Internet in order to
+Figure 3b), A set of web
+Figure 3. Communication and data ﬂow of our system: (a) Global view of the WSN; (b) basic data
+Figure 4, the black dots
+Figure 4. Location of the sensors installed in the Campus of Teatinos.
+Table 2 shows the total number of detected devices averaging them in terms of day:
+Figure 5 illustrates the average number of devices captured for all the studied sensors along
+Table 2 and Figure 5, the number of Bluetooth devices detected is negligible
+Table 2. Average number of devices sensed per day grouped by sensor type.
+Figure 5. Average value of the number (#) of devices detected for both Bluetooth and Wi-Fi devices.
+Figure 6 and
+Table 3 summarize the results by averaging the number of sensed devices.
+Figure 6 present three main general patterns:
+Figure 6. Number of devices detected over the day grouped by the week days and holidays.
+Table 3 presents the average of the total amount of devices detected in terms of sensor
+Table 3. Average number of devices sensed per day grouped by sensor id and type of day. The
+Table 3 conﬁrm the main ﬁndings of the patterns discussed
+Table 3, the
+Figure 4). This relatively long distance from the target devices made it
+
+======================================================================
+
+### RECORD ID=799 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: APPLIED SCIENCES-BASEL
+TITLE: Analysis of the Effects and Causes of Driver Horn Use on the Acoustic Environment at Urban Intersections in Taiwan
+DOI: 10.3390/app12125917
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Citation: Takada, M.; Tsunekawa, S.;
+Hashimoto, K.; Inada, T.; Kim, K.-H.;
+Oeda, Y.; Yamauchi, K.; Iwamiya, S.
+Analysis of the Effects and Causes of
+Driver Horn Use on the Acoustic
+Environment at Urban Intersections
+in Taiwan. Appl. Sci. 2022, 12, 5917.
+https://doi.org/10.3390/
+app12125917
+Academic Editor: Lamberto
+Tronchin
+Received: 26 April 2022
+Accepted: 7 June 2022
+Published: 10 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+applied 
+sciences
+Article
+Analysis of the Effects and Causes of Driver Horn Use on the
+Acoustic Environment at Urban Intersections in Taiwan
+Masayuki Takada 1,*, Shoki Tsunekawa 2, Kazuma Hashimoto 2, Tamaki Inada 1, Ki-Hong Kim 3, Yoshinao Oeda 4,
+Katsuya Yamauchi 1
+and Shin-ichiro Iwamiya 5
+1
+Faculty of Design, Kyushu University, 4-9-1 Shiobaru, Minami-ku, Fukuoka 815-8540, Japan;
+t.inada.media@gmail.com (T.I.); yamauchi@design.kyushu-u.ac.jp (K.Y.)
+2
+Former Graduate School of Design, Kyushu University, 4-9-1 Shiobaru, Minami-ku, Fukuoka 815-8540, Japan;
+shoki.tsunekawa@outlook.jp (S.T.); k.hashi.10563@gmail.com (K.H.)
+3
+Faculty of Media and Information Resources, Surugadai University, 698 Azu, Hanno 357-8555, Japan;
+kim.kihong@surugadai.ac.jp
+4
+Faculty of Engineering, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan;
+oeda@doc.kyushu-u.ac.jp
+5
+College of Art, Nihon University, 2-42-1 Asahigaoka, Nerima-ku, Tokyo 176-8525, Japan; iwamiya@kag.bbiq.jp
+*
+Correspondence: takada@design.kyushu-u.ac.jp
+Abstract: Car horns were originally installed in vehicles for safety. However, many urban areas in
+several countries face noise problems related to the use of car and motorbike horns. To propose
+measures to suppress the use of horns, relationships between horn use and factors including driver
+awareness and behavior, trafﬁc environment, and the transportation system should be investigated.
+The present study therefore conducted surveys to grasp the current circumstances of horn use and
+trafﬁc at urban intersections in Taiwan. The relationship between horn use and the trafﬁc volume of
+standard-sized vehicles was found. According to an analysis of horn use during trafﬁc signal cycles,
+in many cases, horns were honked after entering intersections to turn left. In particular, horns were
+honked when the driver waited more than 4 s for the car in front to start moving after the green
+light allowing left turns was turned on. An analysis of noise levels at intersections showed that
+the maximum noise level value (LAmax) could be reduced if vehicle horns were not used. Multiple
+regression analysis also indicated that LAmax values increased with the frequency of horn use. The
+equivalent continuous A-weighted sound pressure level (LAeq,10min) did not change with driver horn
+use, and increased with the trafﬁc volume of motorcycles.
+Keywords: driver horn use; intersection; trafﬁc volume; trafﬁc signal; acoustic environment
+1. Introduction
+The effects of transportation noises such as road trafﬁc noise (RTN), railway noise and
+aircraft noise on humans have long been recognized, and the relationships between noise
+exposure and human responses have been investigated [1,2]. Out of these transportation
+noises, the road trafﬁc noise generated by vehicles was one of the major sources. Many
+studies have revealed that RTN induces adverse effects on human responses such as
+annoyance [3–15], sleep disturbance [14–22], and other non-auditory reactions [23–27].
+Of course, among the RTN, the noise of travelling vehicles is dominant, and it comprises
+honking sounds as well. Several countries face noise problems caused by horn use. A report
+on the RTN in urban areas of Vietnam, for example, showed frequent horn honking as
+a major factor of RTN [28]. A report on the RTN at urban rotaries in India found that
+heavy vehicles and their honking more signiﬁcantly affected the equivalent continuous
+A-weighted sound pressure level (LAeq) than other vehicle types did [29]. Another study in
+India also revealed that frequent honking increased from 2 to 5 dB in LAeq [30]. According
+to research on the RTN in Iran, the model estimating LAeq using factors including trafﬁc
+Appl. Sci. 2022, 12, 5917. https://doi.org/10.3390/app12125917
+https://www.mdpi.com/journal/applsci
+
+Appl. Sci. 2022, 12, 5917
+2 of 17
+ﬂow, vehicle speed, and horn noise indicated that the honking frequency contributed to the
+increasing LAeq and maximum noise level value (LAmax) [31].
+The situations in which drivers should use horns are stated in the trafﬁc regulations
+of various countries. Road Trafﬁc Act in Japan [32], for instance, states that a vehicle horn
+should be used only in an emergency or in dangerous locations where there is a sign
+allowing horn use, such as on a blind curve. However, there are many situations in which
+a horn is used other than those mentioned above. Although this is not a serious problem in
+Japan, such horn use evokes negative reactions from pedestrians and residents.
+Horns were originally installed in vehicles for safety. Horn sounds are therefore
+designed with high sound pressure levels to alert drivers of danger in noisy environments.
+However, vehicle interior and exterior noises are quieter than they used to be when
+standards stating the acoustic characteristics of horn sounds were established. Horn sounds
+should therefore fulﬁl functions even if they have lower sound pressure levels. Concerning
+the current sound pressure level of a horn sound, the Automobile Standard Harmony World
+Forum in 2014 proposed regulations on the acoustic characteristics of horn sounds [33]
+in which the upper limit of the sound pressure level was maintained while the lower
+limit was reduced
+
+--- METHODS/RESULTS EXCERPT ---
+Procedures
+2.1. Surveyed Sites and Equipment
+Measurement surveys were carried out in Taipei City, Taiwan, where we observed
+frequent horn use during an onsite inspection. Motorcycles account for a high proportion
+of the trafﬁc volume in Taiwan. Similar trends have been observed in several areas of
+Southeast Asian countries. In such areas, it has been regarded as being effective to create
+high road transport capacity by means of personal transportation [42]. Taiwanese trafﬁc
+regulations include regulations on vehicle horn use [43]. For instance, when compared with
+Japanese regulations [32], in both countries, a vehicle horn is allowed in an emergency or in
+dangerous situations, such as when taking a blind corner. Additionally, it is necessary for a
+driver to use the horn when overtaking another vehicle in Taiwan. Moreover, the manner
+of honking is mainly limited to short honking. In particular, a horn should be honked twice
+when overtaking and no more than twice in other situations.
+We conducted measurement surveys at three intersections in Taipei City. The surveyed
+intersections are shown in Figure 1. Intersection 1 was located southeast of Taipei main
+station and was the largest intersection of the study subjects. Intersection 2 was located
+near Taipei main station, with a nearby bus terminal and large taxi stop. Intersection 3 was
+located north of Taipei main station and was the smallest intersection of the study subjects.
+Table 1 shows the characteristics of intersections (i.e., the number of lanes in each direction).
+The numbers in parentheses are the numbers of lanes available for turning left. Figure 2
+displays a view of the three intersections. In Taiwan, vehicles drive on the right-hand side
+of the road.
+Figure 1. Map of the surveyed sites.
+
+Appl. Sci. 2022, 12, 5917
+4 of 17
+Table 1. Characteristics of the targeted intersections.
+The Number of Lanes at an Entrance (Lanes Exclusive to Left Turns)/Lanes at an Exit
+North
+South
+West
+East
+Intersection 1
+5(1)/4
+5(2)/4
+4(2)/3
+3(0)/3
+Intersection 2
+5(1)/4
+3(1)/2
+2(0)/2
+2(1)/2
+Intersection 3
+4(1)/4
+6(1)/4
+3(1)/3
+3(1)/3
+ 
+Figure 2. Trafﬁc ﬂow in each of four green light phases (phase I to phase IV) during trafﬁc signal
+cycles and the measurement point at each intersection (black circles).
+Trafﬁc signal timing was analyzed at each intersection. In all three intersections, four
+green light phases (from phase I to IV) were assigned to the trafﬁc signal cycles, as shown
+in Figure 2. For example, at Intersection 2, phases I to IV allowed east–west trafﬁc ﬂow
+and right turn movements to the north (phase I), vehicle trafﬁc from west to east and left
+turn movements to the north (phase II), entry into the intersection from the north only
+(phase III), and entry into the intersection from the south only (phase IV), respectively.
+Table 2 represents the durations of each green light phase and trafﬁc signal cycle at each
+intersection. These durations differed depending on the day (weekday or weekend) and
+time of day.
+
+Appl. Sci. 2022, 12, 5917
+5 of 17
+Table 2. Durations of each green light phase and trafﬁc signal cycle.
+Green Light Duration on Weekdays (S)/on Weekends (S)
+Trafﬁc Signal Cycle Duration (S)
+Phase I
+Phase II
+Phase III
+Phase IV
+Weekday
+Weekend
+Int. 1
+35–45/36–45
+41–46/29–37
+72/41–47
+42–47/30–38
+200
+150
+Int. 2
+70–75/74–84
+11–15/15
+43–48/40
+62–69/61–71
+200
+200
+Int. 3
+15/15
+65–85/45–55
+70–85/50–60
+30–35/25–30
+200
+150
+At each intersection, the A-weighted sound pressure level of the RTN was measured
+with a sound level meter (RION NL-52) over a 12 h period (7:00 a.m.–7:00 p.m.) on
+one weekday and one weekend day. At the same time, all vehicles passing through the
+intersection were recorded by two camcorders (SONY HDR-CX560V and SONY HDR-
+CX370). These instruments were installed on pedestrian bridges near intersections. In
+particular, the sound level meter was installed at a height of 1.5 m on a pedestrian bridge
+that would be directly above the road, as seen in Figure 2.
+2.2. Trafﬁc Volume at Intersections
+We analyzed the trafﬁc volume using video data, which was recorded over 10 min
+spans in every hour by the camcorders. First, we investigated whether the trafﬁc volume
+for 1 h could be estimated from the 10 min recording for each hourly time zone. The total
+trafﬁc volume in each time zone for a weekday (i.e., 12 h) was similar, with values estimated
+from the trafﬁc volume during the 10 min recordings (i.e., 10 min trafﬁc volume × 6) (error
+ratios: 0.48% to 6.23%) [40]. The 10 min trafﬁc volume data thus approximately represent
+the hourly trafﬁc volumes. In the subsequent analysis, therefore, we employed trafﬁc
+volume data recorded over 10 min for each hourly time zone.
+For the purpose of tabulation, we categorized vehicles into motorcycles, standard-
+sized vehicles, and large-sized vehicles. Large-sized vehicles included buses, mixer trucks,
+and other specialized vehicles. Other vehicles, such as mini-buses and light trucks, were
+classiﬁed as standard-sized vehicles.
+Table 3 presents the range of total trafﬁc volumes at each intersection during the
+measurement time period (10 min per h) analyzed in each measurement day. The total
+trafﬁc volumes at Intersection 2 were higher than those at other intersections.
+Table 3. Range of total trafﬁc volumes during the measurement time period analyzed in each
+measurement day.
+Min.–Max. (Number of Vehicles per 10 min)
+Weekday
+Weekend
+Intersection 1
+1020–1648
+531–1135
+Intersection 2
+986–1839
+621–1480
+Intersection 3
+747–1541
+263–944
+2.3. Analysis of Horn Honking
+From the noise data recorded by the sound level meter, the times at which drivers
+used their horns were obtained using an application for data management (RION AS-60).
+Data of horn honking were analyzed for the periods (10 min in each hourly time zone)
+during which the trafﬁc volume was counted.
+3. Results
+Figure 3 shows the total trafﬁc volume at each measured hour in each intersection.
+Table 4 presents similar results for each vehicle type in each int
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. Intersection 1 was located southeast of Taipei main
+Table 1 shows the characteristics of intersections (i.e., the number of lanes in each direction).
+Figure 2
+Figure 1. Map of the surveyed sites.
+Table 1. Characteristics of the targeted intersections.
+Figure 2. Trafﬁc ﬂow in each of four green light phases (phase I to phase IV) during trafﬁc signal
+Figure 2. For example, at Intersection 2, phases I to IV allowed east–west trafﬁc ﬂow
+Table 2 represents the durations of each green light phase and trafﬁc signal cycle at each
+Table 2. Durations of each green light phase and trafﬁc signal cycle.
+Figure 2.
+Table 3 presents the range of total trafﬁc volumes at each intersection during the
+Table 3. Range of total trafﬁc volumes during the measurement time period analyzed in each
+Figure 3 shows the total trafﬁc volume at each measured hour in each intersection.
+Table 4 presents similar results for each vehicle type in each intersection. The results
+Figure 3. Total trafﬁc volume at each measured hour in each intersection.
+Table 4. Temporal variation of trafﬁc volume for each type of vehicle.
+Table 4 indicates that the trafﬁc volume of motorcycles was very high during rush
+Table 5 presents the coefﬁcient of correlation between the trafﬁc volume of each vehicle
+Table 5. Correlation coefﬁcient between the trafﬁc volume of each type of vehicle and the frequency
+Figure 4 shows scatter diagrams of the total trafﬁc volume and the frequency of horn
+Figure 5 shows scatter diagrams for the total trafﬁc volume per lane and the frequency
+Figure 5a, while the result
+Figure 5b.
+Figure 5 show positive relationships between the frequen
+
+======================================================================
+
+### RECORD ID=811 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Comparative Diagnosis of the Urban Noise Problem from Infrastructural and Social Sensing Approaches: A Case Study in Ningbo, China
+DOI: 10.3390/ijerph19052809
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+
+
+Citation: Si, Y.; Xu, L.; Peng, X.;
+Liu, A. Comparative Diagnosis of
+the Urban Noise Problem from
+Infrastructural and Social Sensing
+Approaches: A Case Study in
+Ningbo, China. Int. J. Environ. Res.
+Public Health 2022, 19, 2809. https://
+doi.org/10.3390/ijerph19052809
+Academic Editor: Paul B. Tchounwou
+Received: 25 January 2022
+Accepted: 25 February 2022
+Published: 28 February 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+International Journal of
+Environmental Research
+and Public Health
+Article
+Comparative Diagnosis of the Urban Noise Problem from
+Infrastructural and Social Sensing Approaches: A Case Study
+in Ningbo, China
+Yutian Si 1,2, Liyan Xu 1,*
+, Xiao Peng 1 and Aihan Liu 1,3
+1
+College of Architecture and Landscape Architecture, Peking University, Haidian, Beijing 100871, China;
+1701214565@pku.edu.cn (Y.S.); pkupengxiao@pku.edu.cn (X.P.); aliu685@gwu.edu (A.L.)
+2
+Sichuan Territorial Planning Institute, Chengdu 610081, China
+3
+Department of Data Science, The George Washington University, Washington, DC 20052, USA
+*
+Correspondence: xuliyan@pku.edu.cn
+Abstract: Urban noise causes a variety of health problems, and its prevention and control have
+thus become an important research topic in urban governance. Although existing literature is fairly
+comprehensive in revealing the physical noise patterns, it lacks the concern of people’s perceived
+seriousness, especially at the macroscopic, i.e., citywide scale. In this paper, we borrow from the
+“exposure-perception-behavior” theory in environmental psychology, and propose an analytical
+framework for diagnosing the urban noise problem that integrates the Infrastructural and Social
+Sensing perspectives. Utilizing noise monitoring data that ﬁlls the spatiotemporal granularity gaps
+of ofﬁcial noise monitoring, as well as the “12345” urban complaint hotline records which serve as
+a proxy for residents’ perceived noise levels, we empirically examine the mechanisms for physical
+magnitude and perceived seriousness of urban noise, respectively, by taking the Jiangbei District of
+Ningbo City, China as an example. Results show that the existence of perceptual bias and behavioral
+preference effects did shape people’s perceived noise problem map that is vastly different from that of
+the physical noise magnitude, in which the semantics of urban places, temporal rhythms of life, and
+population demographics signiﬁcantly inﬂuenced people’s tolerance of noise. We conclude the paper
+with suggestions on updating the existing National Standard for urban noise regulation to reﬂect the
+perceptual aspect, and also methodological discussions on possible ways to recognize and utilize the
+perceptual bias in social-sensing big-data to better accommodate urban governance.
+Keywords: urban noise; infrastructure sensing; social sensing; acoustic environmental quality stan-
+dard; “high-frequency” city; Ningbo
+1. Introduction
+Noise poses numerous threats to people’s physical and psychological health and is an
+intrinsic part of environmental pollution [1]. The problem of noise pollution is particularly
+acute in cities of developing countries due to their limited urban governance capacity [2–5].
+In China, for example, the 2013 China Ecological Environment Survey reported that noise is
+one of the four major pollutants in China [6]. The compliance rate to the National Acoustic
+Environmental Quality Standard (GB 3096-2008) [7] (National Standard henceforth) of urban
+noise has been low. In 2020, noise complaints accounted for 41.2% of all environmental-
+problem-related public complaints, assuming a second place among all pollutant sources [8].
+The various negative effects of urban noise have prompted extensive research in the ﬁeld of
+built environment. Currently, studies on the noise patterns of the built environment have
+become fairly established at the mesoscopic (blocks, plazas, and parks) and microscopic
+(buildings, indoor environments) scales [9,10]. In terms of noise governance, there is also
+an abundance of studies on noise reduction technologies, management strategies, and noise
+source control at small and medium scales [11–14]. Based on these academic progresses,
+Int. J. Environ. Res. Public Health 2022, 19, 2809. https://doi.org/10.3390/ijerph19052809
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2022, 19, 2809
+2 of 21
+the International Organization for Standardization (ISO) has formally deﬁned the concept
+of the soundscape [15], and some cities in advanced economies have even established
+institutionalized environmental noise control programs through soundscape-mapping
+tools such as the acoustic map [16,17]. However, at the macroscopic, i.e., citywide scale,
+there is still a lack of research on ﬁne-granularity spatiotemporal patterns, occurrence
+mechanisms, and governance strategies of the noise problem [13,18–20], and it is again
+especially so in developing countries [3].
+This situation is largely caused by the lack of empirical observation data on urban
+noise at the appropriate spatiotemporal granularity. Traditional urban noise studies tend
+to rely on direct monitoring of noise as the data source. In other words, they follow an
+infrastructure-sensing approach. Admittedly, direct monitoring instruments can objectively
+reﬂect the magnitude of noise. China’s National Standard on urban acoustic environmental
+quality (Table A1 in Appendix A), like those of other countries and international organiza-
+tions [15], is based on the physical magnitude of noise. However, one prominent difﬁculty
+in the implementation of this standard lies in the noise monitoring itself. Noise monitoring
+data are incomplete 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodologically, such observation is a reﬂection of the emerging “Social Sensing” ap-
+proach, where, with the aid of the ICT, each person can act as a sensor of social events,
+generating data with individual markers and spatiotemporal semantic information anytime
+and anywhere [34,35]. At the collective level, we can use Social Sensing data to reveal the
+spatiotemporal patterns of the observed objects for this paper, noise, and investigate the
+mechanisms by which they occur [36]. Such analysis helps us to understand the rationale
+of urban residents complaining about noise. And further, by comparing this rationale
+with the physical occurrence mechanisms of noise generation and transmission, we can
+better understand the relationship between physical and psychological processes of the
+noise problem, and develop effective urban noise control policies, which would be of great
+importance in urban environmental governance.
+In summary, we conduct noise monitoring with improved spatiotemporal granularity
+in this study, and compare it with noise complaint records from the “12345” hotline data,
+which allows us to investigate the following two research questions:
+(1)
+What are the ﬁne-grained spatiotemporal patterns of objective, physical magnitude of
+noise, as well as the residents’ subjectively perceived seriousness of noise in typical
+urban settings? And what similarities and differences the two pictures show?
+(2)
+What are the mechanisms that gives rise to the physical and perceptual noise land-
+scape, respectively? And what similarities and differences the two mechanisms have?
+In this paper, we take the Jiangbei district of Ningbo City as an example, and examine
+the above questions. The rest of the paper is organized as follows. Section 2 describes
+the methods and data. Section 3 presents the empirical ﬁndings on the spatiotemporal
+
+Int. J. Environ. Res. Public Health 2022, 19, 2809
+4 of 21
+patterns and mechanisms of the monitored physical magnitude of noise and the perceived
+seriousness of noise. We conclude the paper in Section 4 with a summarizing conclusion,
+and discussions on the methodological and practical implications of the research.
+2. Materials and Methods
+2.1. Study Area and Data Sources
+2.1.1. Study Area
+Jiangbei District, Ningbo City, China, was selected as the case city for this study
+(Figure 2). Speciﬁcally, we chose the urban and peri-urban areas with a high concentration
+of population in the district, i.e., the area east of the bypass highway as the boundary of
+the study area. The area is 102 km2 in size and with a population of about 400,000 by the
+end of 2019. Ningbo is an important port city in East China, and the study area covers the
+central business district, the old town area, and an entire urban-rural gradient, where major
+types of urban noise environments are included, making the area a representative case for
+studying the urban noise problem.
+Figure 2. Study area.
+2.1.2. The “12345” Data
+The “12345” urban problem complaint hotline is an important part of China’s digital
+urban governance system, providing a bottom-up feedback channel for addressing urban
+problems of all sorts. The complaint records in the study area were provided by the Ningbo
+Bureau of Urban Management for the period from 1 January 2017 to 31 July 2019, and the
+sample size is 1116. The record data include the time, location, content, handling status, and
+handling government department of the complaints, and were anonymized as necessary
+
+Int. J. Environ. Res. Public Health 2022, 19, 2809
+5 of 21
+before being provided to the researcher. A sample of typical noise complaint records is
+shown in Table A2 in Appendix B. According to the noise types involved in the complaints,
+the complaint records can be divided into two categories: everyday life-related noise (such
+as dog barking, noise from streetside restaurants, loud advertisement broadcasting, trafﬁc
+noise, etc.), and construction-related noise.
+2.1.3. Noise Magnitude Data Acquisition and Processing
+We obtained the noise monitoring data from government information disclosure by the
+Ningbo Ecological Environment Bureau. The data include two types of records: (1) noise
+monitoring data for the acoustic environment functional areas in the study area. This
+record has only one sample point in the whole area, and is continuously monitored with
+the ﬁxed-point monitoring method as stipulated by the National Acoustic Environmental
+Quality Standard, and the data obtained are the average day and night equivalent sound
+level values for the whole year of 2019; (2) the regional acoustic environment monitoring
+data in the study area, which contains 23 monitoring points. For each monitoring point,
+one day (non-holiday) which meets the general outdoor noise monitoring conditions is
+chosen to conduct a 10 min noise level monitoring, and the monitoring is conducted once
+a year.
+Since the above ofﬁcially provided noise monitoring sampling is very sparse in both
+spatial and temporal terms, in this study we conducted ﬁeld noise monitoring under
+standard measurement conditions to obtain noise magnitude data at higher spatiotemporal
+granularity. For the entire study area, we ﬁrst designated a regular grid system of 1 × 1 km
+(see below for details), and then determined the number of monitoring points needed
+within each grid through stratiﬁed sampling based on the number and distribution of the
+“12345” noise complaint records in each grid, such that the ratio of number of complaint
+records to the number of noise monitoring points to be 10:1. Given the number of sampling
+points (107 in total), random points were generated as locations for noise monitoring
+(Figure 3a). We used the AWA6228+ sound level meter for sound monitoring, which
+complies the National Standards of GB/T3785-2010 (IEC61672) Level 1 and GB/T3241-2010
+(IEC61260) Level 1; and used the AWA6201 sound calibrator, which complies the National
+Standard GB/T 15173-2010 Level 1 [37]. All instruments, as well as the monitori
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1),
+Figure 1. A conceptual framework for understanding the urban noise problem.
+Figure 1, direct observation of ﬁne-granularity noise
+Figure 1.
+Figure 2). Speciﬁcally, we chose the urban and peri-urban areas with a high concentration
+Figure 2. Study area.
+Figure 3a). We used the AWA6228+ sound level meter for sound monitoring, which
+Figure 3. Analysis grids and noise monitoring and complaints. (a) noise monitoring grids and
+Figure 3b, which
+Table 1). As the dependent variable and all independent variables are continuous, we ﬁt
+Table 1. Variables in the physical noise magnitudes model.
+Figure 1. They include land use, POI, functional mixture
+Table 2). Among them, the land use and
+Table 2. Variables in the Perceived Noise Levels Model.
+Figure 3c) demonstrated that
+Figure 4d). On the one hand, there are more
+Figure 4. Spatiotemporal distribution of monitored and complaint noise records. (a) Kernel density
+Figure 4a,b compares the physical noise environment map (a) and the noise
+Figure 4a,c compares the physical noise environment map (a) and the noise
+Table 3. The
+Table 4. The model is statistically valid with a p-value of 0.000. 61.5% of the complaints
+Table 5.
+Table 3. Summary of Physical Noise Model Results.
+Table 4. Summary of the results of the noise complaint model (6:00–19:00) for the everyday-life-related
+Table 5. Partial Marginal Effects of the Variables.
+
+======================================================================
+
+### RECORD ID=821 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: SUSTAINABILITY
+TITLE: Effects of Sound Source Landscape in Urban Forest Park on Alleviating Mental Stress of Visitors: Evidence from Huolu Mountain Forest Park, Guangzhou
+DOI: 10.3390/su142215125
+PAGES: 22
+
+--- HEAD (title/abstract/intro) ---
+Citation: Guo, Y.; Jiang, X.; Zhang, L.;
+Zhang, H.; Jiang, Z. Effects of Sound
+Source Landscape in Urban Forest
+Park on Alleviating Mental Stress of
+Visitors: Evidence from Huolu
+Mountain Forest Park, Guangzhou.
+Sustainability 2022, 14, 15125. https://
+doi.org/10.3390/su142215125
+Academic Editors: Giovanni Zambon,
+Siu-Kit Lau and Roberto Benocci
+Received: 14 October 2022
+Accepted: 10 November 2022
+Published: 15 November 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Effects of Sound Source Landscape in Urban Forest Park on
+Alleviating Mental Stress of Visitors: Evidence from Huolu
+Mountain Forest Park, Guangzhou
+Yanlong Guo 1,*
+, Xuemei Jiang 1, Linfu Zhang 2,*, Han Zhang 3 and Zuoqing Jiang 4
+1
+Social Innovation Design Research Centre, Anhui University, Hefei 203106, China
+2
+Faculty of Arts and Social Sciences, Lancaster University, Lancaster LA14YW, UK
+3
+College of Environmental Science and Engineering, Ocean University of China, Qingdao 266000, China
+4
+Institute of Botany, Chinese Academy of Sciences, Beijing 100000, China
+*
+Correspondence: 20106@ahu.edu.cn (Y.G.); l.zhang47@lancaster.ac.uk (L.Z.); Tel.: +86-152-5655-6306 (Y.G.)
+Abstract: Urban Forest parks are indispensable areas in cities and have ecological and social advan-
+tages, and the quality of their acoustic landscapes is an important factor inﬂuencing visitors’ visiting
+experience. The purpose of this study was to investigate the factors inﬂuencing the acoustic landscape
+on psychological stress relief in selected urban forest parks in China. This study used a questionnaire
+to construct an index system for psychological stress reduction and designed a questionnaire for
+the perceived impact of stress-reducing acoustic sources with user perception and stress-reducing
+restoration evaluation as the entry point. The research team conducted ﬁeld research and online
+questionnaire survey on the questionnaire.com platform from 1–5 July 2022, in Huolu Mountain
+Forest Park, an urban forest park in Guangzhou, and collected 266 valid questionnaires. SPSS26.0 was
+used to analyze the results of the impact of the urban forest park on users’ psychological stress relief.
+Spearman’s rho correlation analysis and a Kruskal–Wallis nonparametric test were used to reveal
+the relationship between social, demographic and behavioral factors of tourism and sound source
+perception, and multiple regression analysis was used to identify the key factors of urban forest park.
+The results showed that, ﬁrst, there were signiﬁcant individual differences and correlations between
+respondents’ age, education level, visit time and frequency on soundscape perceptions; the older the
+respondent or the higher the education level, the higher the psychological stress relief evaluation
+of natural sounds such as birdsong in urban forest parks; the more frequent the visit, the more
+sensitive the users were to sound source perceptions; and the different visit time periods showed that,
+when the frequency of the visit was higher, the more sensitive the users were to the sound source.
+Secondly, natural sounds are important factors for psychological stress relief in soundscape, and
+natural sounds such as birdsong, cicadas, ﬂowing water, and the sound of breeze blowing leaves
+have positive beneﬁts and signiﬁcant contributions to psychological stress relief. Third, the overall
+restorative evaluation of soundscape perception and the separate evaluation of natural, mechanical,
+and human-made sounds had signiﬁcant effects, and the overall restorative evaluation showed
+that the cumulative contribution value of attractiveness was greater than that of compatibility and
+consistency. Fourth, soundscape plays a role in psychological stress relief, as evidenced by signiﬁcant
+differences in pleasure and arousal levels but not in control.
+Keywords: urban forest park; sound source environment; sound source perception; mental stress
+relief; linear regression
+1. Introduction
+In recent years, the health outcomes of the modern urban environment as a primary
+place of residence have come under increasing scrutiny [1]. In the wake of the global
+pandemic of coronavirus disease, the public has ended up increasingly worried about
+mental ﬁtness in the face of “overwhelming” information about the epidemic, the increasing
+Sustainability 2022, 14, 15125. https://doi.org/10.3390/su142215125
+https://www.mdpi.com/journal/sustainability
+
+Sustainability 2022, 14, 15125
+2 of 22
+pressure people feel on a daily basis, the resulting increasing severity of human mental
+illness and environmental problems and the rapid development of urban forest parks. As
+the ‘green lungs’ of cities, urban forest parks play an important role in improving air quality,
+regulating microclimate and protecting biodiversity, among other urban ecosystem services.
+The soundscape is a section of the study of auditory ecology and is an essential factor
+affecting the act of visiting a park, and helping to relieve stress and is one of the key factors
+in achieving psychological and physical rehabilitation and creating a healthy habitat [2].
+Soundscape research is now becoming an international hotspot in the ﬁeld of soundscapes.
+The Canadian composer and environmentalist Schafer was the ﬁrst to introduce the concept
+of ‘soundscape’; he used the time period ”The Music of the Environment” to describe
+soundscapes, deﬁning them as “the auditory elements of the landscape” [3]. He described
+soundscape as ‘the aural properties of the landscape’ and posted two books, European Sound
+Diary and Five Village Soundscape, to promote the concept of soundscape, which also marked
+the establishment of the ﬁeld of
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+3.1. Study Areas
+3.1.1. Site Survey of the Study Area
+In order to have a more comprehensive picture of the changing pattern of the sound-
+scape of the Huofuoshan Forest Park, the research time was determined to be 18:00–21:00
+in the evening, and in July 2022, ﬁve consecutive working days were spent on the case
+study. The study area is in Tianhe District, Guangzhou City and Guangdong Province.
+The study area is in the northeastern part of Tianhe District, Guangzhou City, Guang-
+dong Province, south of Guangzhou Highway, bordered by the South China Botanical
+Garden in the west, Guangdong Tree Park in the north and Da Guan Road in the east.
+The area is about 3 km in length from north to south, covering 4.1 square kilometer, and
+the total area of Huofuoshan Park is about 9000 mu. Topography: The average altitude
+is 150 m, with the highest peak in the central part of the park at 321.8 m above sea level.
+The mountain is rounded and gently sloping, with boulders of various shapes all over the
+mountain, and the soil is mostly red clay. The study area has a subtropical monsoon climate:
+in spring (March to mid-May), there is a temperature and humidity rise and an average
+temperature of 23 ◦C and humidity of 82%. In summer (late May to mid-September),
+temperatures reach up to 33 ◦C and humidity rises to 90%; in autumn (late September
+to early December), the average temperature is 23 ◦C and the average humidity 72%. In
+winter (mid-December to late February), the average temperature is 17 ◦C and humidity
+72%. In addition, the mountain experiences four seasons, rich in plant conﬁgurations and
+water resources, and is a comprehensive urban forest park integrating ecological protection,
+recreational green space and educational research. Therefore, Guangzhou Huofuoshan
+Forest Park was chosen as the study area. The study exploration included the geographical
+location, general layout, components of the sound environment and its spatial distribution,
+as shown in Figure 2. Guangzhou Huofu Mountain Forest Park includes three functional
+areas, namely, plant landscape area, waterfront landscape area and human landscape area,
+as shown in Table 1.
+Figure 2. Study area siting function partition and sampling point distribution.
+
+Sustainability 2022, 14, 15125
+6 of 22
+Table 1. Basic characteristics of the park environment at the sampling site.
+Sampling Point
+Classiﬁcation
+Figure
+Code
+Sampling Point
+Environmental Characteristics
+Park sound
+source
+environment
+E
+Waterfront landscape
+area
+Ea
+Ea1
+According to the moon lake view
+scenic spot
+Rich water, big lawn, camping
+Ea2
+Longdong Reservoir ﬁshing area
+The water is clear and clean
+Ea3
+Colorful jade tan edge playing
+water area
+Stream leisure, water edge entertainment
+Plant landscape area
+Eb
+Eb4
+Zhuyuan View Scenic Spot
+Bamboo forest plants are dense.
+Eb5
+Lotus pond side
+The lotus is open.
+Eb6
+Under the youth
+forest streetlamp
+The dense trees and the level of the
+plant landscape
+Cultural landscape
+area
+Ec
+Ec7
+White frame top stone steps road
+The main peak of the furnace mountain,
+round mountain, gentle slope, natural
+stone slide
+Ec8
+Zhutou stone viewing platform
+Supported by two small boulders, round
+rolling stone, big stones everywhere,
+overlooking the city view, stone steps road
+Ec9
+Jizhen Stone breeze pavilion
+The rocks are composed of black mica
+granite, ladder path, ancient style charm
+3.1.2. Types of Sound Sources in the Study Area
+The source type is the primary acoustic factor inﬂuencing soundscape perception.
+The source type is the primary acoustic factor inﬂuencing the perception of a soundscape
+The deﬁnition of source type is important for the evaluation of soundscape perception,
+and the classiﬁcation of a sound source is important for the quality of the soundscape
+perception [47]. The park contains a rich soundscape, and with reference to previous
+studies [48], nine data sampling points were selected in three functional areas based on the
+principles of accessibility and representativeness before formal data collection. As shown
+in Table 2, natural, artiﬁcial equipment sound and human activity sound sources were
+considered. Speciﬁcally, four typically natural sound sources were chosen for analysis:
+insects chirping, breeze blowing leaves, water ﬂowing and birdsong; four typically artiﬁcial
+equipment sound sources were chosen for analysis: trafﬁc sounds, radio and music sounds,
+aircraft ﬂying over and construction site sounds; and four typically human activity sound
+sources were chosen for analysis: children playing, footsteps, adults communicating and
+cleaners sweeping the ﬂoor.
+Table 2. Urban forest park sound landscape elements.
+Sound Source Type 2
+Sound Source Name 3
+Q: Furnve Mountain Forest Park
+Qa: Natural sound
+Qa1: The sound of the leaves
+Qa2: The sound of water ﬂow
+Qa3: bird song
+Qb: Artiﬁcial equipment sound
+Qb1: trafﬁc sound
+Qb2: Broadcast music sound
+Qb3: construction site construction sound
+Qc: Human activity voice
+Qc1: talk
+Qc2: footsteps
+Qc3: sweeping the ﬂoor
+3.2. The Questionnaire Design
+3.2.1. Basic User Information
+Research has shown that individual characteristics of a user (demographic/social
+factors) have an impact on the evaluation of soundscape stress reduction, with Miedema
+
+Sustainability 2022, 14, 15125
+7 of 22
+and Vos [49] showing that demographic/social factors such as age, gender, occupation
+and educational background are inﬂuential factors in the user’s perception of noise. The
+questionnaire for this study was divided into two parts, so the former part was designed
+to provide information on the social, demographic and behavioral aspects of the users.
+The questionnaire contains information on gender, age group, educational background,
+type of residence and behavioral characteristics, including age (18 and below, 18–30, 31–40,
+41–50, 50 and above), educational (junior high school and below, high school and college,
+undergraduate and postgraduate); behavioral indicators include the frequency of park use
+in a week (1 time and be
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, the speciﬁc
+Figure 1. A conceptual framework of soundscape perception.
+Figure 2. Guangzhou Huofu Mountain Forest Park includes three functional
+Table 1.
+Figure 2. Study area siting function partition and sampling point distribution.
+Table 1. Basic characteristics of the park environment at the sampling site.
+Table 2, natural, artiﬁcial equipment sound and human activity sound sources were
+Table 2. Urban forest park sound landscape elements.
+Figure 3.
+Figure 3. Basic composition of urban forest park users.
+Table 3.
+Table 3. Hierarchy of soundscape perception evaluation systems.
+Table 4, the
+Table 4. Reliability analysis.
+Table 5. The
+Table 5. The KMO test and the Bartlett’s test.
+Table 6. The median compatibility
+Table 6. The mean value and standard deviation of the emotional evaluation of each sound source.
+Figure 4,
+Figure 4. Mean value of the subjective evaluation of each soundscape perception.
+Table 7, where the emotional control scores for each soundscape were less than
+Table 7. Effect of soundscape perception on psychological stress.
+Table 8. This indicates that
+Table 9 shows the correlation
+Table 8. Factor analysis.
+
+======================================================================
+
+### RECORD ID=858 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: ACOUSTICS
+TITLE: Soundscape Approach in the Seaport of Ancona: A Case Study
+DOI: 10.3390/acoustics4020031
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Citation: Di Loreto, S.; Serpilli, F.;
+Lori, V. Soundscape Design in the
+Seaport of Ancona: A Case Study.
+Acoustics 2022, 4, 492–516. https://
+doi.org/10.3390/acoustics4020031
+Academic Editor: Jian Kang
+Received: 23 March 2022
+Revised: 19 May 2022
+Accepted: 2 June 2022
+Published: 14 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+acoustics
+Article
+Soundscape Approach in the Seaport of Ancona: A Case Study
+Samantha Di Loreto *,†
+, Fabio Serpilli †
+and Valter Lori †
+Department of Industrial Engineering and Mathematical Sciences, Università Politecnica delle Marche,
+Brecce Bianche 12, 60131 Ancona, Italy; f.serpilli@univpm.it (F.S.); v.lori@univpm.it (V.L.)
+* Correspondence: s.diloreto@pm.univpm.it; Tel.: +39-071-2204875
+† These authors contributed equally to this work.
+Abstract: Today, the art of knowing how to listen is more urgent than ever. The perceptive sound
+system of the human being is stimulated daily by countless artiﬁcial sounds that dominate natural
+ones. When it comes to the idea of the soundscape, the terminology was initially referred to by
+composer and environmentalist Raymond Murray Shafer, who deﬁned “soundscape” as a relationship
+between the ear, humans, built environments, and society. This paper aims to apply the sound
+landscape approach in the seaport area of Ancona (Italy); a large area, frequented daily by many
+people, which is divided into passenger and ferry terminals, container terminals, plants for solid
+bulk, and commercial and recreational activities. The purpose of the study was to evaluate the
+perception that a human has of the urban layout of the port area by correlating the parameters of
+traditional acoustics with psychoacoustics. To evaluate the subjective parameters, a questionnaire
+was developed and applied, enabling the analysis of demographic and behavioral factors such as
+age, visit frequency, and length of stay of the participants in the clusters of the seaport. This way, it
+was possible to give an indication of the sound quality of the different clusters of the port area, from
+an acoustic and emotional point of view, and this information could be particularly helpful in the
+planning phase of new attractions for the Ancona seaport.
+Keywords: soundscape; urban planning; sound quality; auditory perception
+1. Introduction
+In this historical moment, where there is so much talk of environmental sustainability,
+the study of the sound landscape and the World Soundscape Project by M. Schafer [1]
+are very important aspects of research in terms of acoustic ecology; that is, the balanced
+relationship between sounds and their environment. By accepting this approach, we see
+how the concept of sound landscape is closely related to the deﬁnition of sound ecology,
+since it is able to accommodate various aspects related to practices that deal with studying
+the acoustic habitats of natural or human-generated sounds. The aim of this project is to
+restore dignity to the background noise of the environment, always putting at the center of
+the discussion our relationship with the sound environment.
+1.1. Background
+The theory of soundscape distinguishes three fundamental sound elements [1]:
+1.
+Keynotes: Sounds present more frequently to which we no longer pay attention,
+such as the natural ones of wind, birds, and animals, in general. Furthermore, many
+common urban sounds have to be considered keynotes: for example, sounds produced
+by road trafﬁc, domestic air conditioning systems, and industrial plants.
+2.
+Soundsignal: emergency sirens, bells, alarm clocks, horns, etc., are sounds heard in the
+foreground with a strong semantic character and are easily assimilated to a condition
+of annoyance.
+Acoustics 2022, 4, 492–516. https://doi.org/10.3390/acoustics4020031
+https://www.mdpi.com/journal/acoustics
+
+Acoustics 2022, 4
+493
+3.
+Soundmarks: These are the so-called sound imprints that are closely linked to a
+territory. They represent the acoustic identity of a place and, due to their importance,
+they should be protected alongside animals in danger of extinction and the dignity of
+the human being.
+Among the practical experiences included in the deﬁnition of soundscape, useful for
+identifying the aforementioned soundmarks, an important role is played by the soundwalk.
+Previous studies talk about soundwalk procedures, aimed precisely at investigating the
+subjective reactions of the participants during a walk in the city or in another place [2–4].
+The reactions of the participants can be investigated with due consideration given to the
+type of area, the position chosen for the sound evaluation, and the atmospheric conditions
+at the time of the measurement. Adams et al. [5] describes the development of the sound-
+walking methodology and its use as a tool to engage professionals who work in the area of
+urban design and urban development. Their paper reﬂects on the utility of soundwalking
+as a methodological practice. It has been found that the perceptions of the soundscape
+are varied and diverse. Hyun et al. in [6] investigated the effect of the appropriateness of
+the sound environment on urban soundscape perception through individuals’ subjective
+evaluation in laboratory conditions. Kang [7] considers sound environments to be psycho-
+logical factors because they have an important inﬂuence on the levels of human comfort
+and how human beings can integrate with the landscape. This approach could complement
+decibel-based metrics into existing (national) regulations, shifting the focus from noise
+control to a more holistic approach. The steps to achieve this have to include: soundscape
+characterization, by capturing acoustic environments and establishing 
+
+--- METHODS/RESULTS EXCERPT ---
+Method-B), and a perception survey of the
+users. Landscape factors have been considered in many previous studies in relation to
+sound and soundscape perception [24]. Soundscape is usually interpreted by means of
+identifying and describing different sound sources in a place.
+Kang et al. [7] demonstrated that human evaluation of subjective loudness and acoustic
+comfort depends on a series; for example, a large-scale subjective survey was undertaken
+in underground shopping streets in Harbin, China, to determine how individual sound
+sources inﬂuenced subjective loudness and acoustic comfort evaluation [25]. Yang [26]
+suggested that the background sound level has been found to be an important index in
+evaluating soundscape in urban open public spaces, while a lower background level tends
+to make people feel quieter. Analyses of individual sound elements show that the acoustic
+comfort evaluation is greatly affected by the sound source type. The sound ﬁeld can be
+calculated by summing the individual contribution due to the monopoles and taking the
+limit of a vanishing small separation. The noise sources can be modeled successfully by
+using a dipole. In view of this, the concept of environmental load is relevant, because at a
+given noise level, inhabitants of small towns seem to be less annoyed than those in a large
+urban city [2].
+In order to study the inﬂuence of the interaction between geographic landscape and
+acoustic stimuli on the perception of the environment, several authors have attempted to
+identify the informational, aesthetic, or affective qualities of sound, which help to confer
+quality on a given landscape [27–29].
+In an urban environment, there are different zones, and in each zone there is a domi-
+nant sound. On the basis of a series of case studies in Europe and China and an intensive
+literature review, Zhang [4] evaluated the basic elements for soundscape: sound, space,
+people, and environment. In their work, factors affecting soundscape evaluation in urban
+open spaces included acoustic psychological social characteristics of various sounds and,
+consequently, a system for soundscape description was established. To quantitatively
+describe sound evaluation, such as annoyance, researchers often refer to parameters such as
+the equivalent continuous level, Leqt[dBA], day and night level (Ldn[dBA], Lnight[dBA],
+Levening[dBA]) and, in some cases, the sound exposure level, SEL[dBA]. These parameters
+can be measured and calculated [30]. Ambient noise and soundscape are not synonymous,
+for example a low noise level does not mean that there is good sound quality [3]. Moreover,
+as it considers human perception including cognitive aspects, context, and interaction, it
+goes beyond physics and psychoacoustics. As Smith [31] points out, muteness in cultural
+
+Acoustics 2022, 4
+495
+geography is problematic for a number of reasons. For example, it leads us to underestimate
+the role of all the senses in structuring and experiencing space and place, and it could also
+exclude an important form of expression such as the production of sound. Sound can make
+important contributions to the re-deﬁnition of spaces in a more complete way than the
+classical approaches.
+To investigate the acoustic environment of a urban open space, it is important to
+develop an appropriate description of this. Raimbault [32] suggested that three categories
+of analysis should be considered for urban open public spaces: activities such as human
+presence or transport, spatial attributes, such as location, and time history, including
+moment. A good model for describing the soundscape of urban open spaces is proposed
+by Cain et al. [33].
+Another aspect of a sound source in an urban open space, the psychological and
+social characteristic, is discussed in [34–37]. The results showed that Shaffer’s perspective
+not only encapsulated the sound sources themselves, but viewed the sonic environment
+as a subjective, and somewhat personal, interpretation. Hence, just as important as the
+acoustic signal is the relationship between the individual experience and subjectivity within
+a physical and a cultural context.
+1.2. Contribution of This Work
+The aim of this work is to propose a sound landscape procedure for the evaluation
+of the urban space. Previous studies have adopted group-soundwalk methodologies. In
+this case study, a real acoustic environment was considered and a recorded soundwalk
+procedure was developed. After an in-depth investigation of the area, the assessment
+positions in which any positive or negative characteristics of the urban soundscape could
+be perceived as positive or negative were selected. The evaluation of the relationship
+between the acoustic/auditor environment and the responses of the people who live within
+it turns out to be a very important correlation to characterize the human perception of
+everyday environmental noise. It is an important starting point to develop ways to improve
+the sound of the built environment and, thus, recognize the essence of soundscapes. The
+case study was located in the seaport area of the city of Ancona, Italy. Soundscape data
+collection was carried out in situ by an operator, through binaural recording and video
+recording. Data collected was used to design a listening test. The listening test was created
+on an online platform and shared with people who frequently live this area. Data on how
+people perceive the seaport area acoustic environment were investigated by a questionnaire,
+implemented in the same online platform. The results of the subjective tests were then
+correlated with the acoustic measurements by means of statistical analysis. The study tried
+to move away from the concept of negative noise and identiﬁed a means through which
+the concept of soundscapes could be effectively incorporated into urban planning. In this
+way, the aim is to propose interventions that could be called “acoustic planning” in order
+to increase the environmental quality perceived by humans.
+The paper
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1. Clustering of the seaport of Ancona.
+Figure 2,
+Figure 2
+Figure 2. Acoustic classiﬁcation: seaport area framing.
+Figure 3 shows the site plan, the main function, the main
+Table 1. Acoustic and Psychoacoustic parameters calculated from the binaural recording.
+Table 2. Loudness percentiles, in particular the N5, N50, and N90. These values provide information
+Figure 3. Basic information of the case study sites.
+Figure 4 while the full questionnaire template in English Language is made available in
+Figure 5.
+Figure 6, the trend of the types of
+Table 3 shows
+Figure 4. Contents of the questionnaire.
+Figure 5. Cont.
+Figure 5. Pie chart of general trends.
+Figure 6. Mean score of the perceived quality of the eight clusters.
+Table 3. Mean value (mean) and standard deviation (std) of the subjective attributes related to the
+Table 3. Cont.
+Table 3. Cont.
+Figure 7; later, polynomial regression analysis was used to identify the
+Figure 8.
+Figure 7. Results of polynomial regression between SPL and Loudness. Several noteworthy results
+Figure 8. Results of polynomial regression between pleasantness and loudness. Several noteworthy
+Table 4 summarizes the results of the regression’s coefﬁcient regarding the rank of the
+
+======================================================================
+
+### RECORD ID=909 | screening_verdict=BORDERLINE | year=2023
+JOURNAL: Sustainability (Switzerland)
+TITLE: Designing Public Soundscapes through Social Architecture and Soundscape Approaches: Reflective Review of Architectural Design Studio
+DOI: 10.3390/su151612399
+PAGES: 24
+
+--- HEAD (title/abstract/intro) ---
+Citation: Hong, J.-Y.; Chong, K.H.
+Designing Public Soundscapes
+through Social Architecture and
+Soundscape Approaches: Reﬂective
+Review of Architectural Design
+Studio. Sustainability 2023, 15, 12399.
+https://doi.org/10.3390/
+su151612399
+Academic Editor: Jian Kang
+Received: 29 April 2023
+Revised: 8 August 2023
+Accepted: 11 August 2023
+Published: 15 August 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Designing Public Soundscapes through Social Architecture and
+Soundscape Approaches: Reﬂective Review of Architectural
+Design Studio
+Joo-Young Hong 1,*
+and Keng Hua Chong 2
+1
+Department of Architectural Engineering, Chungnam National University, Daejeon 34134, Republic of Korea
+2
+Architecture and Sustainable Design, Singapore University of Technology and Design, Singapore 487372,
+Singapore; chongkenghua@sutd.edu.sg
+*
+Correspondence: jyhong@cnu.ac.kr; Tel.: +82-42-821-5619
+Abstract: This paper provides a reﬂective review of an architectural design studio that utilized
+both social architecture and soundscape approaches to create human-centered and context-based
+designs for urban public spaces. During ﬁeld research, students in the studio analyzed four different
+public spaces in Marina Central BID, Singapore, employing a combination of social architecture
+(behavioral trace and activity mapping) and soundscape (acoustic measurement and soundwalk)
+methods. Through this process, the students identiﬁed issues related to social architecture and
+soundscapes and developed soundscape design strategies to improve the quality of the public spaces.
+The soundscape design strategies were categorized into three groups: the introduction of desirable
+sounds, the reinforcement of desired sounds, and the reduction in unwanted sounds. This paper
+shows that the integration of social architecture into soundscape design education enables students to
+better comprehend the social–behavioral aspects of the environment and create more comprehensive
+and enjoyable public soundscapes.
+Keywords: soundscape; social architecture; design studio; public spaces; soundscape education
+1. Introduction
+Over the last decades, the importance of soundscapes for enhancing overall environ-
+mental quality has been becoming increasingly recognized in the ﬁeld of architecture and
+urban design [1–3]. According to ISO 12913-1 [4], a soundscape is deﬁned as “an acoustic
+environment as perceived or experienced and/or understood by a person or people, in
+context”. Unlike a conventional noise control approach mainly aiming at reducing or
+eliminating noise levels, the soundscape approach prioritizes improving the perceived
+acoustic environment by considering the interdependence between humans and sounds
+within a speciﬁc context [2,5]. Sound pressure levels alone do not adequately determine the
+acoustic quality of urban public spaces as they do not correlate well with human perception.
+Additionally, solely characterizing sounds based on their intensity poses a problem [2]. The
+soundscape approach emphasizes the importance of considering the types of sound sources
+within its context for a comprehensive evaluation of acoustic quality [6]. Therefore, the
+soundscape approach takes a more holistic view of sounds in the environment and focuses
+on creating perceptually pleasant and appropriate acoustic environments by incorporating
+the desired sounds and minimizing unwanted ones [5,7]. Recently, the increasing signif-
+icance of soundscapes has led to the incorporation of the soundscape approach into the
+noise policies of several countries, such as the UK [8,9], Wales [10], and South Korea [11].
+Despite this growing awareness, there is still a gap between soundscape research and de-
+sign practices [3]. Particularly, current architectural design programs in many universities
+still do not provide comprehensive training and teaching in soundscape design. This is
+because conventional architectural design education focuses mainly on the visual aspects
+Sustainability 2023, 15, 12399. https://doi.org/10.3390/su151612399
+https://www.mdpi.com/journal/sustainability
+
+Sustainability 2023, 15, 12399
+2 of 24
+of design, with less attention given to other sensory experiences such as sound, texture,
+and smell.
+To address this gap, several attempts have been made to incorporate the soundscape
+approach into design education programs [12–14]. Kandemir and Özçevik Bilen [12] con-
+ducted a review of an architectural design studio with a theme of soundscapes that was
+held during the academic year of 2015–2016 at the Department of Architecture at Anadolu
+University, Turkey. They presented a comprehensive approach to the soundscape design
+studio that involved various phases, such as binaural sound recordings, acoustic analyses,
+identiﬁcation of context and issues, and ﬁnal design outcomes. Winne et al. [12] presented
+an overview of the 2019 soundscape hackathon event held during the Urban Sound Sympo-
+sium in Ghent, Belgium, where participants were tasked with designing urban soundscape
+interventions using virtual reality visualization and auralization technologies and present-
+ing their solutions to a professional jury. In their paper, they analyzed the process, results,
+beneﬁts, and shortcomings of the hackathon. Xiao et al. [14] used a reﬂective practice
+approach to compare the educational processes of sound engineering and architectural
+design students across four projects conducted in different UK higher education institu-
+tions between 2015 and 2020. They examined how the soundscape approaches such as
+soundwalks, acoustic measurements, and computational simulations could be integrated
+into teaching building acoustics and design studios, while also discussing potential future
+directions for soundscape design education.
+The previous studies on sou
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+The curriculum of SDOS 2 was 14 weeks long, with design studios twice per week. In
+total, 12 undergraduate students at the ASD SUTD participated in the soundscape design
+studio. The studio adopted a design approach with three phases, as illustrated in Figure 2:
+•
+Phase 1: Lectures on theories of soundscape and social architecture;
+•
+Phase 2: Field research for social architecture and soundscape analyses;
+•
+Phase 3: Development of soundscape design proposals.
+
+Sustainability 2023, 15, 12399
+5 of 24
+Figure 2. Course outlines from Phase 1 to Phase 3 for the SDOS 2.
+During Phase 1 (Weeks 1–3), the students learned the principles of the soundscape
+approach and social architecture and conducted design precedent studies. Instructors gave
+lectures on soundscape theories and design practices. The students learned methods for
+soundscape data collection and analysis, such as soundwalks and acoustic measurements,
+based on ISO/TS 12913-2 [26] and ISO/TS 12913-3 [27]. The students studied the key
+concepts and design processes in social architecture theories and also learned various
+methods, such as counting, mapping, and tracing, to explore public life.
+Throughout Phase 2 (Weeks 4–5), the students observed and analyzed the contexts
+of the selected spaces in terms of activities, space functions, and users by applying social
+architectural methods such as counting, behavioral tracing, and activity mapping during the
+ﬁeldwork. The activity mapping method is a useful tool for identifying and understanding
+patterns of behavior within a speciﬁc place. It visually represents activities, people, and
+points of interest on a map of the study area, using symbols to indicate the type and
+frequency of activities and their speciﬁc locations. This method provides valuable insights
+into how the area is used and experienced by its users. The method of tracing human
+behaviors visualizes information on people’s movements and choices of routes in the study
+area. It involves drawing lines on a map or plan to depict the paths and movements of
+individuals across the study area. This method captures valuable information about the
+spatial patterns of human activity and movement, shedding light on popular routes, areas
+of congestion, and preferred paths. The students visualized the behavioral and tracing
+maps by using Adobe Photoshop and Illustrator.
+The students also conducted on-site soundscape measurements and analyses at the
+selected sites according to ISO/TS 12913-2 [26]. The students utilized the NoiseCapture
+(version 1.2.22 2021) smartphone application [28], an Android application available for free
+as open-source software, to measure the acoustic environments at the chosen sites. The ap-
+plication employs the smartphone’s built-in microphone to measure real-time sound levels
+and noise indicators, including A-weighted equivalent sound levels, spectra, and percentile
+values. However, smartphone microphones are not always calibrated for precise sound
+measurements, resulting in potential uncertainties and inconsistencies in the measurement
+data. Furthermore, the quality of the built-in microphone can vary among different smart-
+phone models, affecting the accuracy and reliability of the sound measurements. Thus, the
+acoustic measurement results were not presented in this paper due to concerns regarding
+the accuracy of the students’ smartphone microphone calibration.
+Meanwhile, a soundwalk, a method involving walking in an area and attentively
+listening to the acoustic environment, was conducted to assess the perceived acoustic
+environment of the sites using the questionnaire protocol Method A, outlined in ISO/TS
+12913-2 [26]. The Method A questionnaire consists of three sections. The ﬁrst section
+evaluates the dominance of the identiﬁed sound source types on a 5-point scale, ranging
+from “1: do not hear at all” to “5: dominates completely”. The sound sources are categorized
+into six groups, including trafﬁc noise, sounds from humans, water sounds, bird sounds,
+
+Sustainability 2023, 15, 12399
+6 of 24
+wind sounds, and ventilation noises. An open-ended option is also provided to capture
+other sounds of interest to the participant. The second section assesses the perceived
+affective quality of the soundscape using eight adjective attributes (pleasant, annoying,
+vibrant, monotonous, calm, chaotic, eventful, and uneventful) on a 5-point scale, ranging
+from “1: Strongly disagree” to “5: Strongly agree”. The adjective attributes include pleasant,
+chaotic, vibrant, uneventful, calm, annoying, eventful, and monotonous. The third section
+evaluates the overall soundscape quality on a 5-point scale, ranging from “1: Very bad”
+to “5: Very good”. Based on the collected soundscape data, the students analyzed the
+soundscape characteristics of the sites using various visual representations, including
+sound source maps and soundscape quality maps [29,30].
+Throughout the ﬁeldwork, the students were divided into four groups, each consisting
+of three or four students, and each group was assigned a speciﬁc target site among the four
+public sites. During the soundwalks, each group of students selected evaluation locations
+within the assigned public space where they experienced distinct acoustic environments.
+The ﬁeldwork, including the behavioral observations and soundwalks, took place from
+08:00 in the morning until 18:00 in the evening. It is important to note that, due to social
+distancing measures during the COVID-19 pandemic, only the students in the design studio
+participated in the soundwalks.
+During Phase 3 (Weeks 6–14), the students focused on developing and elaborating
+soundscape design concepts for selected urban public spaces. The students translated their
+soundscape design strategies into urban public space designs. Throughout the course,
+the students convincingly communicated their sustainable design solutions in the form of
+renderings, drawings, and acoustic simulations. Particularly, a workshop was conducted
+to teach st
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows four public spaces (South Beach, Suntec City, Marina Square, and
+Figure 1. Four urban public spaces identiﬁed within Marina Central Business Improvement District:
+Figure 1a, the ﬁrst public space located in South Beach is currently a transitory area, linking
+Figure 1b.
+Figure 1c, the third public space in
+Figure 1d, the
+Figure 2:
+Figure 2. Course outlines from Phase 1 to Phase 3 for the SDOS 2.
+Figure 3
+Figure 3a, people’s major or minor paths at South Beach are
+Figure 3b, an activity
+Figure 4a shows some
+Figure 4b illustrates the results of the perceived affective quality of the
+Figure 3. Examples of social architecture analysis obtained from the ﬁeld research at South Beach:
+Figure 4. Examples of soundscape analysis from the ﬁeld research: (a) thematic sound maps at Suntec
+Figure 5. In this proposal, two different soundscape approaches were applied. Firstly, water
+Figure 5. Urban Stage: social implications of the stage and soundscape strategies including water
+Figure 6. The ﬁrst strategy was
+Figure 6. Alley: Bamboo wind chimes and street benches (Visual credits: Paris Lau Sherneese, 2020).
+Figure 7. Additionally,
+Figure 7. Suntec Party City: Stepping stones as individual danceﬂoors and waterfall meditation
+Figure 8. Due to its proximity to a busy roadway, the site’s soundscape was char-
+Figure 9. To create a unique sound experience,
+Figure 8. Luncheon with Beneﬁt: Adjustable modular system with green walls and water features
+Figure 9. Collation: Paver design and adjustable urban furniture (visual credits: Clarissa Maharani
+
+======================================================================
+
+### RECORD ID=948 | screening_verdict=BORDERLINE | year=2023
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: Soundwalk path affecting soundscape assessment in urban parks
+DOI: 10.3389/fpsyg.2022.1096952
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Frontiers in Psychology
+01
+frontiersin.org
+Soundwalk path affecting 
+soundscape assessment in urban 
+parks
+Chutian Sun 1,2, Qi Meng 1,2*, Da Yang 1,2* and Yue Wu 1,2
+1 Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and 
+Technology, Ministry of Industry and Information Technology, Harbin, China, 2 School of 
+Architecture, Harbin Institute of Technology, Harbin, China
+Introduction: Previous soundscape studies focused on sound perception 
+and acoustic comfort in sampled sites and ignored the characteristics of the 
+experiential process along the paths. Therefore, the effects of soundwalk 
+paths on soundscape assessment should be explored.
+Methods: In this study, a typical urban park was selected as a case study. The 
+differences, characteristics, and effects of soundwalk paths on the soundscapes 
+were explored, based on a soundwalk survey and laboratory study.
+Results: The results are as follows: first, in the soundwalk, different soundwalk 
+paths in the urban park had significant effects on the perceived extent of individual 
+sound and soundscape assessment. Second, the soundscape assessment was 
+consistent with the peak-end rule. In the laboratory experiments, the peak 
+assessment of soundscape appeared at the end location of the soundwalk 
+paths, it was critical to the overall soundscape assessment. Furthermore, in the 
+soundwalk, the overall perceived extent of individual sound was strongly affected 
+by the perceived extent of dominant sounds at the end location of the soundwalk 
+paths. Third, in the soundwalk, the sound loudness contrast path (noise-quiet/
+quiet-noise) and sound source contrast path (natural-artificial sound/artificial-
+natural sound) were compared. In the noise-quiet path, the assessment of 
+acoustic comfort was higher than that in the quiet-noise path, and the assessment 
+of subjective loudness was lower than that in the quiet-noise path (p < 0.01). The 
+subjective loudness of the artificial-natural sound path was lower than that in the 
+natural-artificial sound path (p < 0.05).
+Discussion: Thus, the design of the soundwalk paths was expected to enhance 
+visitors’ soundscape assessment of urban parks.
+KEYWORDS
+soundwalk path, perceived sounds, soundscape assessment, urban parks, 
+soundscape design
+1. Introduction
+A growing body of evidence suggests that the soundscape’s quality helps define the 
+quality of the visitors’ experience of the park (Downing and Stusnick, 2000). Thus, 
+numerous studies have investigated urban parks’ soundscapes, which, per prior findings, 
+contribute to the improvement of environment’s quality, behavioral activities, and also 
+TYPE  Original Research
+PUBLISHED  09 January 2023
+DOI  10.3389/fpsyg.2022.1096952
+OPEN ACCESS
+EDITED BY
+Hui Ma, 
+Tianjin University, 
+China
+REVIEWED BY
+Thulan Nguyen, 
+Shimane University, 
+Japan
+Jiang Liu, 
+Fuzhou University, 
+China
+Yuan Zhang, 
+Shenyang Jianzhu University, 
+China
+*CORRESPONDENCE
+Qi Meng 
+ mengq@hit.edu.cn 
+Da Yang 
+ da.yang@hit.edu.cn
+SPECIALTY SECTION
+This article was submitted to 
+Environmental Psychology, 
+a section of the journal 
+Frontiers in Psychology
+RECEIVED 13 November 2022
+ACCEPTED 08 December 2022
+PUBLISHED 09 January 2023
+CITATION
+Sun C, Meng Q, Yang D and Wu Y (2023) 
+Soundwalk path affecting soundscape 
+assessment in urban parks.
+Front. Psychol. 13:1096952.
+doi: 10.3389/fpsyg.2022.1096952
+COPYRIGHT
+© 2023 Sun, Meng, Yang and Wu. This is an 
+open-access article distributed under the 
+terms of the Creative Commons Attribution 
+License (CC BY). The use, distribution or 
+reproduction in other forums is permitted, 
+provided the original author(s) and the 
+copyright owner(s) are credited and that 
+the original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution or 
+reproduction is permitted which does not 
+comply with these terms.
+
+Sun et al.
+10.3389/fpsyg.2022.1096952
+Frontiers in Psychology
+02
+frontiersin.org
+impact landscape design (Annerstedt et al., 2013; Liu et al., 2013b; 
+Yue et al., 2022). Payne (2013)—exploring the ‘restorative’ and 
+‘tranquil’ nature provided by soundscapes in typical locations of 
+urban parks—found that soundscapes positively impact quality of 
+life. Moreover, Van Renterghem et al. (2020) found enhancing 
+natural-like sound sources improves users’ perceptual experience 
+of parks’ environment through an experiment of one typical 
+location in an urban park. Pérez-Martínez et al. (2018) reported 
+that different proportions of sound sources exhibit different effects 
+on users in different locations of city parks, and users’ sound 
+preferences affect the perceived quality of the environment. Liu 
+et  al. (2018) conducted a survey in typical landscape nodes, 
+demonstrated that behavioral factors, such as visit frequency and 
+length of stay, related to the soundscape experience in urban 
+parks. Yue et  al. (2022) constructed an urban park design 
+prediction model, which contains sound pressure level (SPL) 
+prediction, sound source prediction, and soundscape assessment 
+prediction, from a soundscape survey of characteristic nodes. The 
+mentioned studies explored the soundscape’s role in sampled sites 
+of urban parks. However, the continuous acoustic perception from 
+a sequential perspective along the paths, which is an essential way 
+to experience soundscape of urban parks, has received scant 
+attention. Owing to the characteristics of users’ visiting behavior 
+in urban parks, the experiential process along the paths—rather 
+than the experience of sampled sites—is considered in this study.
+In terms of urban parks’ paths, most studies have focused on 
+the walking behaviors (Cohen et al., 2007; Kaczynski et al., 2008; 
+Reed et al., 2008), physical activities (Kaczynski and Henderson, 
+2007; Kaczynski et al., 2008; Reed et al., 2008), micro-level design 
+characteristics (Joseph and Zimring, 2007; Lu, 2010), destinations 
+(Chudyk et al., 2015), and environmental comfort (Zhang and 
+
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Experimental design and procedure
+Figure 1 presents the integral experimental design and 
+specific 
+procedures 
+for 
+soundwalk 
+and 
+laboratory 
+experiments. Figure 1A shows a comprehensive experimental 
+design to investigate the three proposed research questions. 
+The soundwalk and laboratory experiment steps are provided 
+in Figures 1B,C, respectively. First, several paired paths were 
+selected for the soundwalk to compare different paths’ effects 
+on perceived extent of individual sound (PEIS) and 
+soundscape assessment. Due to the location of the peak 
+soundscape assessment, whether positive or negative, cannot 
+be controlled in the soundwalk, the laboratory experiments 
+are conducted to effectively control the location where the 
+peak 
+soundscape 
+assessment 
+appear. 
+Thereafter, 
+a 
+combination of soundwalk and laboratory experiments of 
+soundscape assessment, and PEIS in each location, were 
+conducted to verify the peak-end rule’s applicability on the 
+paths. Finally, the paired sound source and sound loudness 
+contrast paths were selected for the soundwalk, to investigate 
+the relationships between locations with overall PEIS and 
+soundscape assessment.
+2.2. Site survey
+A typical urban park (Zhaolin Park) in Harbin, China, was 
+selected as the site for the study (Sun et al., 2022). The park covers 
+an area of 8.4 hectares and is divided into several areas by the park 
+paths. The reasons for selecting the park are as follows: First, it 
+contains different types of acoustics environments. The park 
+contains quiet and noisy spaces, and natural and artificial sounds 
+as the dominant sounds, which allow the investigation of the 
+acoustics environment’s different characteristics. Second, it offers 
+varied paths for visitors, thus providing a spatial contextual basis 
+and various options for different sound environments.
+The site survey contain a sound source and an SPL survey. 
+The sound source questionnaire survey was based on the 
+classification of sounds in urban public spaces (ISO/TS 
+12913–2:2018), and the sounds in the park were categorized 
+into six main categories of sound as follows: human sounds, 
+natural sounds, traffic noise, broadcasting sounds, music, and 
+electro-mechanical sounds. The SPL in the park was assessed 
+using equivalent continuous A-weighted sound pressure 
+levels, measured by BSWA 801. The distance between the 
+measurement location and a wall or other major reflective 
+surfaces was at least 1 m, and the distance between the 
+measurement location and the ground was 1.5 m (Zhang 
+et al., 2016). The SPL was read, and instantaneous data were 
+obtained—every second, for 5 min, in each measurement 
+location. As presented in Figure 2, location 8 is the location 
+with the highest SPL (Leq, 66.8 dBA), and location 17 is the 
+location with the lowest SPL (Leq 55.7 dBA), whereas other 
+locations exhibit SPLs of 57.8–66.1 dBA.
+2.3. Soundwalk
+In this study, the soundwalk was used to investigate the 
+perceived sound and soundscape assessment of soundwalk 
+paths. The soundwalk investigations were usually as a 
+purposeful method of understanding the changing patterns 
+of soundscape (Venot and Sémidor, 2006; Maffei, 2008; Jeon 
+et al., 2011). However, the soundwalk are usually affected by 
+complicated variables—such as seasons (Liisa et al., 2016), 
+visual environment (Ren and Kang, 2015), crowd activity and 
+density (Meng and Kang, 2016), temperature, humidity, wind 
+speed, and illumination (Thwaites et al., 2005; Val et al., 2006; 
+Meng et  al., 2017, 2018). To reduce the effects of the 
+aforementioned variables on the study, the following measures 
+were adopted: the soundwalk was always limited to the same 
+season’s period (Liu et al., 2013a; Jeon and Hong, 2015); thus, 
+a time when the activity and density of crowd in the park tend 
+to be consistent was chosen for the soundwalk (Meng and 
+Kang, 2016).
+According to the comparison of the visual landscape assessment 
+results in the pre-experimental survey, the visual landscape 
+environment of the established paths would not exhibit significant 
+differences. Thus, the visual landscape environment variables’ effects 
+could be  controlled on the soundwalk. Considering the 
+aforementioned variables, the soundwalk was conducted in rain-
+free, sunny weather, with temperatures in the range of 24–28°C, 
+between 14:00–16:00 h, June–July 2021 (Meng et al., 2018; Zhang 
+et al., 2019). Additionally, social factors also affected soundscape’s 
+assessment (Deng et al., 2020). Therefore, in this study, the volunteers 
+are university students of similar ages (min 20, max 28) were selected 
+to participate in soundwalk (Liu et al., 2014b). Furthermore, the 
+control of variables was also considered in the experimental design. 
+Several visitors frequently take paths, which were considered carriers 
+of soundwalk paths. Depending on the different paths’ characteristics, 
+these paths were divided into three groups of two-paired samples for 
+comparison and analysis. The paired path design counteracts the 
+multifactorial variables’ effects in the soundwalk.
+To investigate the effects of different soundwalk paths on the 
+soundscape, two types of typical urban park soundwalk paths 
+were selected: ‘sound loudness contrast paths’ (SL) and ‘sound 
+source contrast paths’ (SS). SL was defined as the path leading 
+from a quiet to noisy location (from Q to N), or vice versa (from 
+N to Q). A subset of SL paired locations, Location 8 (noisy) and 
+location 13 (quiet), were selected because of the differences in SPL, 
+and artificial sounds are dominant in these locations. SS was 
+
+Sun et al.
+10.3389/fpsyg.2022.1096952
+Frontiers in Psychology
+04
+frontiersin.org
+FIGURE 1
+Experimental design and procedure for soundwalk and laboratory experiments: (A) Experimental design for the research question; (B) Procedure 
+for soundwalk; (C) Procedure for laboratory experiments (PEIS, Perceived extent of individual sound; PPAS, Positive peak assessment of 
+s
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 presents the integral experimental design and 
+Figure 1A shows a comprehensive experimental 
+Figure 2, location 8 is the location 
+Figure 1B. To ensure that the volunteers could reflect on tis 
+Figure 3, seven identical general experience 
+Figure 1C, wherein the soundwalk paths are divided into two 
+Figure 4. Figure 4A reveals that 
+Figure 4B shows that perceived extent of both traffic noise and 
+Figure 4C indicates that the perceived extent of 
+Figure 4D shows that the subjective loudness and acoustic 
+Figure 5 analyze whether the location of peak soundscape 
+Figure 5 
+Figure  5 shows that the location of peak soundscape 
+Figure 6).
+Figure  6 presents how the different locations of PPAS/
+Figure 6A, with the PPAS moving toward the end of the path, 
+Figure  6B, the acoustic comfort gradually decreases as the 
+Figure 6C, the subjective loudness gradually 
+Figure 6D, the 
+Figure 7 is to explore the relationship between the location of 
+Figure 7A shows that the perceived extent 
+Figure 4A. Similarly, in Paths 1 and 2, the difference in the perceived 
+Figure 4A) may be due to the perceived extent of 
+Figure 7A).
+Figure 7B shows that the differences in the perceived extent of 
+
+======================================================================
+
+### RECORD ID=980 | screening_verdict=BORDERLINE | year=2023
+JOURNAL: FORESTS
+TITLE: White Spaces Unveiled: Investigating the Restorative Potential of Environmentally Perceived Characteristics in Urban Parks during Winter
+DOI: 10.3390/f14122329
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Citation: Bao, Y.; Gao, M.; Zhao, C.;
+Zhou, X. White Spaces Unveiled:
+Investigating the Restorative
+Potential of Environmentally
+Perceived Characteristics in Urban
+Parks during Winter. Forests 2023, 14,
+2329. https://doi.org/10.3390/
+f14122329
+Academic Editors: Anna
+Maria Palsdottir, Patrik Grahn,
+Jonathan Stoltz and
+Cate Macinnis-Ng
+Received: 11 October 2023
+Revised: 17 November 2023
+Accepted: 23 November 2023
+Published: 28 November 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+White Spaces Unveiled: Investigating the Restorative Potential
+of Environmentally Perceived Characteristics in Urban Parks
+during Winter
+Yu Bao 1
+, Ming Gao 2,3,*
+, Chunli Zhao 1 and Xudan Zhou 1
+1
+College of Forestry and Grassland Science, Jilin Agricultural University, Jilin Provincial Key Laboratory of
+Tree and Grass Genetics and Breeding, Changchun 130118, China; baoyu@jlau.edu.cn (Y.B.);
+zhaochunli@jlau.edu.cn (C.Z.); zhouxudan@jlau.edu.cn (X.Z.)
+2
+School of Architecture, Harbin Institute of Technology, Key Laboratory of Cold Region Urban and Rural
+Human Settlement Environment Science and Technology, Ministry of Industry and Information Technology,
+Harbin 150006, China
+3
+Department of Architecture, College of Design and Engineering, National University of Singapore,
+Singapore 117566, Singapore
+*
+Correspondence: 22b334014@stu.hit.edu.cn
+Abstract: Creating attractive urban green spaces in severely cold and harsh climates is signiﬁcant for
+promoting peoples’ health and perceived restoration. However, there is little evidence regarding the
+urban green spaces in wintery and cold climates and its restorative beneﬁts. This study utilized a
+pixel grid approach to quantify winter landscape characteristics and a self-reporting method to assess
+the restorative beneﬁts of audiovisual interactions. The results show the following: (1) Different
+types of roads in urban parks have signiﬁcant differences in their level of restorativeness, and the
+restorativeness beneﬁts of the primary path in winter parks are the strongest. (2) The presence of
+snowy elements in winter landscapes can enhance park users’ potential to experience restorative
+characteristics in relation to “being away”. Moreover, there exists a noteworthy positive correlation
+between deciduous trees and their restoration beneﬁts. (3) People’s perceptions of the tranquility of
+the soundscape and the duration of environmental exposure are critical mediators in the impact of
+the restorative path effect. (4) Compared with women, men have a higher restorative level in both
+the landscape and soundscape. This elucidates the restorative role of white space landscapes and
+soundscapes in public psychological perception when proposing appropriate forest-based healthcare
+strategies. It also provides theoretical guidance and optimization schemes for the overall planning,
+health planning, and design of white spaces shaped by cold urban green spaces.
+Keywords: urban green space; restorative environment; soundscape; winter season; white space
+1. Introduction
+The concept of urban planning for healthy cities has attracted the attention of all
+countries [1], especially since the outbreak of COVID-19. At the same time, with the spread
+of COVID-19, lockdowns were implemented, and outdoor activities subsequently declined.
+This led to an increase in psychological stress and suicide mortality [2] and a surge in the
+number of patients with depression [3]. In addition, the public’s demand for entertainment
+and activities in outdoor spaces is increasing, especially in high-density cities. Urban green
+space is an important part of urban green infrastructure and a natural place to provide
+relaxation, entertainment, and perceived recovery for the public [4,5]. The sustainable
+construction of cities is increasingly emphasizing social sustainability. The design of urban
+open space supports social sustainability [6]. This design should be combined with the
+promotion of and support for social life, cultural life, entertainment, recovery, and sports
+activities [7]. Well-designed green spaces are critical to the health of residents [8] and have
+Forests 2023, 14, 2329. https://doi.org/10.3390/f14122329
+https://www.mdpi.com/journal/forests
+
+Forests 2023, 14, 2329
+2 of 19
+been recognized as one of the potential environmental determinants that regulate mental
+health [9].
+Considering closeness to nature, social interactions, and leisure activities [10], urban
+green spaces are necessary to maintain the well-being of urban residents in the winter [11].
+However, the harsh climatic conditions in winter not only easily cause environmental
+stress but also limit the occurrence of other outdoor activities [12,13]. Furthermore, they
+exacerbate common mental health problems such as depression and anxiety [14]. In order
+to prevent this from happening, a restorative environment that can restore our bodies
+and minds is required. Research on restorative environments focuses on the physical
+and mental beneﬁts of exposure to nature, emphasizing the opportunities for individuals
+to mitigate negative impacts through their interactions with the natural world [15]. A
+restorative environment has the following four essential characteristics: fascination, being
+away, compatibility, and extent [16]. Kaplan’s attention restoration theory (ART) [16,17]
+and Ulrich’s stress recovery theory (SRT) [18] provide theoretical support for the study of
+environmental perception characteristics and recovery potential. The view of these two
+theories is that the driving force of the recovery effect comes from people’s immediate
+emotional response to the natural environment and the potential cognitive beneﬁts of
+their interaction with the natural environment. At the same time, many studies have
+proposed a scale to measure the r
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Sites
+In this study, in severely cold cities in Northeast China, the winter climate is deﬁned
+as the average daily temperature being below 0 ◦C (32◦F) for more than six consecutive
+months and the average temperature in January being below −10 ◦C [61,62]. Changchun,
+Jilin Province, has a typical cold urban climate [63] and is the only urban park green space
+in Northeast China that won the ASLA 2019 Honorary Award for Comprehensive Design.
+This area was selected as the study site. The site’s location analysis is shown in Figure 1.
+The Changchun Culture of Water Ecology Park is an urban brown land reconstruction
+
+Forests 2023, 14, 2329
+4 of 19
+project with 300,000 square meters of scarce ecological green land in the urban hinterland.
+The vegetation community of this site is rich and growing well, with high species diversity;
+it is adjacent to residential areas, and public recognition is high.
+ 
+Figure 1. Location map of the research site.
+Based on the preliminary ﬁeld survey ﬁndings, it was evident that walking along park
+pathways is the most prevalent and virtually the sole activity during the winter season.
+Consequently, we selected 12 speciﬁc pathways within the green park area. The selection
+process was guided by the design requirements outlined in the “Park Design Speciﬁcations
+(GB51192-2016)”, which encompass the following three distinct types of pathways: primary
+path (PP), secondary path (SP), and walking path (WP). These chosen pathways collectively
+span the entirety of the park, ensuring comprehensive coverage.
+2.2. Measuring Tool
+2.2.1. Landscape
+To quantify the landscape characteristics of winter parks, we employed a method
+similar to that used by H. Nordh [64] to quantify and summarize the spatial landscape char-
+acteristics of each park path element. Each image was consistently framed, maintaining the
+same angle and focusing on a uniform height (approximately 1.6 m above ground) without
+the utilization of ﬂash. Working in Photoshop, a grid pattern measuring (42 × 75) square
+units was laid over each photograph. Each square corresponding to a speciﬁc variable
+was delineated and tallied. Distinct colors were applied for element differentiation within
+the images, and notations were added to facilitate pixel counting and the computation of
+variable percentages in relation to the entire image. The quantiﬁed variables encompassed
+the evaluation of sky, snow, trees, and facilities.
+The Perceived Restorativeness Scale developed by Hartig et al. was adopted to assess
+environmental restorativeness. The PRS is a tool to measure the psychological recovery
+effect of the recovery environment [19]. It has good reliability and validity [36]. This
+scale was developed based on the attention restoration theory (ART) proposed by Kaplan
+and his wife [16,17], which includes the following four aspects: fascination, being away,
+compatibility, and extent. Fascination represents the attractiveness of the environment,
+measuring how attracted individuals are to their surrounding environment and their
+ability to stimulate happy and positive emotions. Being away represents stability in the
+environment and is intended to measure the degree of relaxation in the environment.
+Compatibility represents environmental tolerance and is intended to measure the comfort
+of the surrounding environment. The extent represents the spatial connection in the
+environment, aiming to measure the scale of the environment. Each aspect was measured
+using a 7-point Likert scale, ranging from 1 (strongly disagree) to 7 (strongly agree).
+
+Forests 2023, 14, 2329
+5 of 19
+2.2.2. Soundscape
+Drawing from the study concerning the correlation between sound perception within
+urban parks and the public’s visiting experience [65,66], we employed metrics commonly
+utilized in the research conducted by Hong, J. Y. et al., 2015 [52] and Liu, J. et al., 2019 [67]
+for soundscape perception. The soundscape was evaluated using the following perceptions
+of pleasure and tranquility of sound: cheerful, satisﬁed, happy, and comfortable [52].
+The soundscape tranquility was measured as relaxed, soothed, calm, and sober. These
+items were evaluated using a seven-point scale from “strongly disagree (1)” to “strongly
+agree (7)”.
+The assessment of soundscape perception recovery is in line with the previous research
+design [68] and utilizes the previously developed Perceived Restored Soundscape Scale
+(PRSS), as shown in Table 1, which was originally introduced by the researcher Sarah R.
+Payne [69] for an urban park environment based on Perceived Restored Scales.
+Table 1. Assessment of items of soundscape restorativeness in urban parks [68].
+Components
+Restorative Experience with
+the Soundscape
+Items
+Fascination
+The appeal of the environment
+I ﬁnd this acoustic environment appealing.
+In this place my attention is drawn by many interesting sounds.
+I am engrossed in this acoustic environment.
+Being away
+A sense of relaxation
+When I hear these sounds, I can do something different than usual.
+This acoustic environment is different to what I usually hear.
+This acoustic environment is a refuge from unwanted distractions.
+I feel free from routine and responsibility in this acoustic environment.
+Compatibility
+Exploration of characteristics
+This acoustic environment ﬁts with my preference.
+I can quickly get used to this type of acoustic environment.
+Hearing these sounds hinders what I want to do here.
+Extent
+An intoxicating environment
+All the sounds I am hearing belong here.
+All the sounds merge to form a coherent sonic environment.
+The acoustic environment suggests that the size of this place is limitless.
+2.2.3. Nature Exposure
+For exposure to the outdoor natural environment, more attention is paid to the du-
+ration of park users in this white space. The purpose is to explore whether the duration
+of exposure is related to recovery and, moreover, whether it plays an intermediary role
+in the path of the impact of the landscape and soundscape on restorat
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1. Location map of the research site.
+Table 1, which was originally introduced by the researcher Sarah R.
+Table 1. Assessment of items of soundscape restorativeness in urban parks [68].
+Figure 2. Within the park, we carefully selected 12 pathways
+Figure 2. Field experiment process.
+Figure 3.
+Figure 3. Stress level comparison results before and after recovery.
+Figure 4. In general, primary path 4 (PP4) exhibits
+Figure 5, the results show that the scores for tranquility
+Figure 4. Differences in landscape restoration across various path types within the park.
+Figure 5. Differences in soundscape restoration across various path types within the park.
+Figure 6. The perceptions of soundscape exhibited a higher
+Figure 6. Variations in soundscape restoration in the park.
+Figure 7 that a total of ﬁve data pairs show differences
+Figure 7. Comparison of restorative characteristics in audiovisual interaction (* p < 0.05, ** p < 0.01).
+Figure 8, the 12 paths studied can be divided into the following three types
+Figure 8. Comparison of recovery for different road types (* p < 0.05, ** p < 0.01).
+Table 2,
+Table 2. Pearson correlation between landscape characteristics and restorativeness.
+Table 3 shows the restorative relationship and compactness of the acoustic envi-
+Table 3. Pearson correlation between soundscape characteristics and restorativeness.
+Table 4, it can be seen that the exposure
+Table 4. Results of correlation between the duration of environmental exposure and the mental
+Table 5. Snow, tree branches,
+
+======================================================================
+
+### RECORD ID=981 | screening_verdict=BORDERLINE | year=2024
+JOURNAL: BUILDINGS
+TITLE: A Study on Spatiotemporal Dynamics and Spatial Dependence of Sound Source Perception in Fuzhou Historical and Cultural Districts
+DOI: 10.3390/buildings14061753
+PAGES: 20
+
+--- HEAD (title/abstract/intro) ---
+Citation: Wu, L.; Zhang, Q.; Yan, Y.;
+Lan, T.; Hu, Y.; Zhang, Y.; He, T.; Ye, J.
+A Study on Spatiotemporal Dynamics
+and Spatial Dependence of Sound
+Source Perception in Fuzhou
+Historical and Cultural Districts.
+Buildings 2024, 14, 1753. https://
+doi.org/10.3390/buildings14061753
+Academic Editor: Yupeng Wang
+Received: 21 April 2024
+Revised: 25 May 2024
+Accepted: 31 May 2024
+Published: 11 June 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+buildings
+Article
+A Study on Spatiotemporal Dynamics and Spatial Dependence
+of Sound Source Perception in Fuzhou Historical and
+Cultural Districts
+Lin Wu 1,2, Qiqi Zhang 1,2, Yulan Yan 1,2, Ting Lan 1,2, Yanfang Hu 1,2, Yijing Zhang 1,2, Tianyou He 1,2 and Jing Ye 1,*
+1
+College of Landscape Architecture and Art, Fujian Agriculture and Forestry University,
+Fuzhou 350108, China; 3206619012@stu.fafu.edu.cn (L.W.); zhangqiqi@stu.fafu.edu.cn (Q.Z.);
+3206619008@stu.fafu.edu.cn (Y.Y.); 3206619003@stu.fafu.edu.cn (T.L.); 3206619025@stu.fafu.edu.cn (Y.H.);
+zhangyijing@stu.fafu.edu.cn (Y.Z.); hetianyou@fafu.edu.cn (T.H.)
+2
+Art & Landscape Design Research Center, Fujian Agriculture and Forestry University, Fuzhou 350108, China
+*
+Correspondence: jingye@fafu.edu.cn
+Abstract: As a carrier of cultural characteristics of historic districts, the soundscape has unique
+advantages in shaping regional cultural personality, and mastering its spatiotemporal characteristics
+is crucial for preserving soundscape heritage with natural and humanistic environments as its kernel.
+Focusing on the Three Square and Seven Alleys historic and cultural district in Fuzhou, this paper
+analyzes the spatial and temporal patterns of the physical acoustic indicators of the soundscape, the
+spatial dependence of the sound source harmony, and the spatial relationship between the two. It
+was found that the physical acoustic indicators showed dynamic changes in spatial and temporal
+scales and reflect specific human activity and behavioral patterns; sound source harmony showed
+spatial autocorrelation in both global and local models, with prominent spatial characteristics; and
+the physical acoustic indicators may negatively affect soundscape perception. The study emphasizes
+the importance of the regional cultural connotation of soundscape in urban planning. It provides a
+scientific basis for the planning, designing, and managing of soundscape resources in historic and
+cultural districts and world heritage sites.
+Keywords: soundscape; spatial and temporal characteristics; sound source harmony; physical acoustic
+indicators; spatial autocorrelation; the Three Square and Seven Alleys; historic and cultural district
+1. Introduction
+As an important cultural heritage of the city, the historic and cultural district carries
+the identity and development history of a town [1], and its protection, renewal, and rational
+utilization have always been one of the core topics discussed by academics [2]. The Three
+Square and Seven Alleys in Fuzhou is one of the representative neighborhoods of China’s
+famous historical and cultural cities. Its intact traditional buildings and complete street
+texture [3] constitute a unique space and symbolize the city’s identity. As a living cultural
+heritage [4], soundscape is closely linked to people’s subjective emotions and collective
+memories [5] and is crucial to shaping the cultural personality of a region [6]. In the case of
+historic and cultural districts, soundscape heritage not only maps the spatial quality and
+historical originality [7] but also affects the production and life of residents in a specific
+area [8]. The unique sounds within the Three Square and Seven Alleys, such as the sounds
+of the Fuzhou dialect, hawking, folk activities, and crafts building [9], are part of its unique
+intangible cultural heritage that should be emphasized and protected. However, in the
+modernization process, the soundscape heritage [10] in the historic and cultural districts,
+which is based on the natural and humanistic environment, is facing the crisis of being
+replaced by industrial, traffic, and mechanical sound sources. Therefore, studying how to
+protect and inherit the unique soundscape of historic districts is of great significance for
+maintaining urban cultural heritage [5,11].
+Buildings 2024, 14, 1753. https://doi.org/10.3390/buildings14061753
+https://www.mdpi.com/journal/buildings
+
+Buildings 2024, 14, 1753
+2 of 20
+Nowadays, scholars no longer equate a good soundscape with simply reducing the
+noise level [12,13], but emphasize the importance of the individual’s subjective perception
+of the soundscape [14]. Soundscape perception studies cover sound source identifica-
+tion, evaluation, and characterization [15,16], and this information can be transformed
+into management strategies and become an entry point for cultural heritage conservation.
+In the realization dimension of using soundscape maps to visualize soundscape informa-
+tion [17], spatiotemporal dynamic distribution characterization is one of the critical research
+paths [18]. Wang Yaping et al. evaluated the historical neighborhood environment through
+audio–visual perception experiments to provide a reference for the study of improving the
+preference of sound elements and the satisfaction of sound environment [19]. Rui Qingx-
+uan et al. explored the differences in sound source preferences, the interaction between
+sound sources and soundscape perceptions, and their effects on the evaluation of historical
+perceptions in the Central Avenue historic district in winter and summer, providing new
+ideas for highlighting the landscape features of the historic district [20]. However, most of
+these studies are limited to specific spatial and temporal frameworks and do not explore
+dynamic change characteristics in the spatial and temp
+
+--- METHODS/RESULTS EXCERPT ---
+Methods Med. Res. 2011, 20, 119–129. [CrossRef]
+43.
+Hu, J.; He, P. Spatial and temporal coupling and coordination between new urbanization and agricultural green development in
+China. J. Party Sch. Yunnan Prov. Comm. Communist Party China 2024, 25, 125–139.
+44.
+Zeng, J.; Yin, M.; Xu, J. Study on the spatial coupling relationship between urban residential price distribution and public service
+facilities—A comparative analysis of second-hand and rental housing in central Nanjing as an example. In Proceedings of the
+2022/2023 China Annual Conference on Urban Planning, Wuhan, China, 23–25 September 2023.
+45.
+Gu, Q.; Geng, G.; Zheng, R.; Zhang, B.; He, Z. Analysis of spatial and temporal variation of soil moisture and its influencing
+factors in the Weihe River Basin. Soil Water Conserv. Res. 2024, 1–13. [CrossRef]
+46.
+Zhao, X.; Zhang, S.; Meng, Q.; Kang, J. Influence of Contextual Factors on Soundscape in Urban Open Spaces. Appl. Sci. 2018,
+8, 2524. [CrossRef]
+47.
+Sheng, F.; Guo, S.; Lin, G.; Wen, M. Vibrant Spaces of Historical and Cultural Neighbourhoods Based on Open Big Data—A Case
+Study of Sanfangqixiang in Fuzhou. In Proceedings of the 2022/2023 China Annual Conference on Urban Planning, Wuhan,
+China, 23–25 September 2023; p. 9.
+48.
+Wang, X.; Wang, S.; Xue, Y. Analysis of spatial use and main factors of historic districts: The case of Sanfangqixiang. Res. Nat.
+Cult. Herit. 2023, 8, 13–22. [CrossRef]
+49.
+Weifu, G.; Jian, K.; Hui, M.; Chao, W. The effects of environmental sensitivity and noise sensitivity on soundscape evaluation.
+Build. Environ. 2023, 245, 110945. [CrossRef]
+50.
+Ednie, A.; Gale, T. Soundscapes and protected area conservation: Are noises in nature making people complacent? Nat. Conserv.
+2021, 44, 177–195. [CrossRef]
+51.
+Ye, J.; Zheng, J.; Wang, H.; Zheng, Y. Evaluation of acoustic landscape preferences in wetland parks. Acoust. Technol. 2022, 41,
+734–741.
+52.
+Hong, J.Y.; Jeon, J.Y. Comparing associations among sound sources, human behaviors, and soundscapes on central business and
+commercial streets in Seoul, Korea. Build. Environ. 2020, 186, 107327. [CrossRef]
+53.
+Ye, J.; Li, S.; Chen, Y.; Ma, Y.; Chen, L.; He, T.; Zheng, Y. A Study of the Effects of Historical Block Context on Soundscape
+Perception. Buildings 2024, 14, 621. [CrossRef]
+54.
+Lee, H.M.; Lee, H.P.; Liu, Z. Acoustical Environment Studies in the Modern Urban University Campuses. Acoustics 2022, 4, 14–25.
+[CrossRef]
+55.
+Ye, J.; Chen, L.; Zheng, Y. Effect of an Artificial Sound-Based Index on the Perception of Historical Block Environments. Buildings
+2023, 13, 2372. [CrossRef]
+56.
+Zhao, Z.; Wang, Y.; Hou, Y. Residents’ Spatial Perceptions of Urban Gardens Based on Soundscape and Landscape Differences.
+Sustainability 2020, 12, 6809. [CrossRef]
+57.
+Pérez-Martínez, G.; Torija, A.J.; Ruiz, D.P. Soundscape assessment of a monumental place: A methodology based on the perception
+of dominant sounds. Landsc. Urban Plan 2018, 169, 12–21. [CrossRef]
+58.
+Zhang, D.; Zhang, M.; Liu, D.; Kang, J. Soundscape evaluation in Han Chinese Buddhist temples. Appl. Acoust. 2016, 111, 188–197.
+[CrossRef]
+59.
+Bruce, N.S.; Davies, W.J. The effects of expectation on the perception of soundscapes. Appl. Acoust. 2014, 85, 1–11. [CrossRef]
+60.
+Liu, K.; Behm, L. Landscape spatial pattern indices and soundscape perception in a multi-functional urban area, Germany.
+J. Environ. Eng. Landsc. 2014, 22, 208–218. [CrossRef]
+
+Buildings 2024, 14, 1753
+20 of 20
+61.
+Bittencourt, L.; Barbosa, M.; Bisi, T.L.; Lailson-Brito, J.; Azevedo, A.F. Anthropogenic noise influences on marine soundscape
+variability across coastal areas. Mar. Pollut. Bull. 2020, 160, 111648. [CrossRef] [PubMed]
+62.
+Pelletier, C.; Weladji, R.B.; Lazure, L.; Paré, P. Zoo soundscape: Daily variation of low-to-high-frequency sounds. Zoo. Biol. 2020,
+39, 374–381. [CrossRef] [PubMed]
+63.
+Li, L.; Li, Y.; Li, Z. Efficient missing data imputing for traffic flow by considering temporal and spatial dependence. Transp. Res.
+Part C 2013, 34, 108–120. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1).
+Figure 1. Case study area: (a) location of the Three Square and Seven Alleys in Fuzhou, Fujian
+Table 1) [9].
+Table 1. Typical sound source composition in the historic and cultural district.
+Table 1. Cont.
+Figure 2), with a validity
+Figure 2. Statistics on sample information on social, demographic, and behavioral indicators of
+Figure 3.
+Figure 3. Flow chart for the use of spatial analysis indicators.
+Figure 4. On the whole, the areas with high values of
+Figure 4. Spatial distribution pattern of each physical acoustic indicator in different periods in the
+Figure 5. The overall trend of physical acoustic indicators throughout the day is simi-
+Figure 5. Overall physical acoustic indicators of the Three Square and Seven Alleys time change: the
+Figure 6. The distribution of harmonics of
+Figure 6. Spatial distribution patterns of the six types of sound source harmony in the Three Square
+Table 2. The global Moran’s I index was positive, and all the sound
+Table 2. Results of global spatial autocorrelation analysis of sound source harmony.
+Table 3. HH and LL represent the spatial homogeneity of the sound source harmonies,
+Table 3. Results of local spatial autocorrelation analysis of sound source harmony.
+Table 4. The spatial correlation coefficient
+Table 4. Spatial correlation coefficients between physical acoustic indicators and sound source harmony.
+Figure 4). The high sound pressure level at the end of the main road may be
+Figure 5). The main factor causing changes
+Figure 6). The areas with
+Table 2), which verified that there is
+
+======================================================================
+

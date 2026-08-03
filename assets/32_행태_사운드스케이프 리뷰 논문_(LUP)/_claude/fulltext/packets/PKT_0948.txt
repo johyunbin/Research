@@ -1,0 +1,281 @@
+### RECORD ID=948 | screening_verdict=BORDERLINE | year=2023
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: Soundwalk path affecting soundscape assessment in urban parks
+DOI: 10.3389/fpsyg.2022.1096952
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Frontiers in Psychology
+01
+frontiersin.org
+Soundwalk path affecting 
+soundscape assessment in urban 
+parks
+Chutian Sun 1,2, Qi Meng 1,2*, Da Yang 1,2* and Yue Wu 1,2
+1 Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and 
+Technology, Ministry of Industry and Information Technology, Harbin, China, 2 School of 
+Architecture, Harbin Institute of Technology, Harbin, China
+Introduction: Previous soundscape studies focused on sound perception 
+and acoustic comfort in sampled sites and ignored the characteristics of the 
+experiential process along the paths. Therefore, the effects of soundwalk 
+paths on soundscape assessment should be explored.
+Methods: In this study, a typical urban park was selected as a case study. The 
+differences, characteristics, and effects of soundwalk paths on the soundscapes 
+were explored, based on a soundwalk survey and laboratory study.
+Results: The results are as follows: first, in the soundwalk, different soundwalk 
+paths in the urban park had significant effects on the perceived extent of individual 
+sound and soundscape assessment. Second, the soundscape assessment was 
+consistent with the peak-end rule. In the laboratory experiments, the peak 
+assessment of soundscape appeared at the end location of the soundwalk 
+paths, it was critical to the overall soundscape assessment. Furthermore, in the 
+soundwalk, the overall perceived extent of individual sound was strongly affected 
+by the perceived extent of dominant sounds at the end location of the soundwalk 
+paths. Third, in the soundwalk, the sound loudness contrast path (noise-quiet/
+quiet-noise) and sound source contrast path (natural-artificial sound/artificial-
+natural sound) were compared. In the noise-quiet path, the assessment of 
+acoustic comfort was higher than that in the quiet-noise path, and the assessment 
+of subjective loudness was lower than that in the quiet-noise path (p < 0.01). The 
+subjective loudness of the artificial-natural sound path was lower than that in the 
+natural-artificial sound path (p < 0.05).
+Discussion: Thus, the design of the soundwalk paths was expected to enhance 
+visitors’ soundscape assessment of urban parks.
+KEYWORDS
+soundwalk path, perceived sounds, soundscape assessment, urban parks, 
+soundscape design
+1. Introduction
+A growing body of evidence suggests that the soundscape’s quality helps define the 
+quality of the visitors’ experience of the park (Downing and Stusnick, 2000). Thus, 
+numerous studies have investigated urban parks’ soundscapes, which, per prior findings, 
+contribute to the improvement of environment’s quality, behavioral activities, and also 
+TYPE  Original Research
+PUBLISHED  09 January 2023
+DOI  10.3389/fpsyg.2022.1096952
+OPEN ACCESS
+EDITED BY
+Hui Ma, 
+Tianjin University, 
+China
+REVIEWED BY
+Thulan Nguyen, 
+Shimane University, 
+Japan
+Jiang Liu, 
+Fuzhou University, 
+China
+Yuan Zhang, 
+Shenyang Jianzhu University, 
+China
+*CORRESPONDENCE
+Qi Meng 
+ mengq@hit.edu.cn 
+Da Yang 
+ da.yang@hit.edu.cn
+SPECIALTY SECTION
+This article was submitted to 
+Environmental Psychology, 
+a section of the journal 
+Frontiers in Psychology
+RECEIVED 13 November 2022
+ACCEPTED 08 December 2022
+PUBLISHED 09 January 2023
+CITATION
+Sun C, Meng Q, Yang D and Wu Y (2023) 
+Soundwalk path affecting soundscape 
+assessment in urban parks.
+Front. Psychol. 13:1096952.
+doi: 10.3389/fpsyg.2022.1096952
+COPYRIGHT
+© 2023 Sun, Meng, Yang and Wu. This is an 
+open-access article distributed under the 
+terms of the Creative Commons Attribution 
+License (CC BY). The use, distribution or 
+reproduction in other forums is permitted, 
+provided the original author(s) and the 
+copyright owner(s) are credited and that 
+the original publication in this journal is 
+cited, in accordance with accepted 
+academic practice. No use, distribution or 
+reproduction is permitted which does not 
+comply with these terms.
+
+Sun et al.
+10.3389/fpsyg.2022.1096952
+Frontiers in Psychology
+02
+frontiersin.org
+impact landscape design (Annerstedt et al., 2013; Liu et al., 2013b; 
+Yue et al., 2022). Payne (2013)—exploring the ‘restorative’ and 
+‘tranquil’ nature provided by soundscapes in typical locations of 
+urban parks—found that soundscapes positively impact quality of 
+life. Moreover, Van Renterghem et al. (2020) found enhancing 
+natural-like sound sources improves users’ perceptual experience 
+of parks’ environment through an experiment of one typical 
+location in an urban park. Pérez-Martínez et al. (2018) reported 
+that different proportions of sound sources exhibit different effects 
+on users in different locations of city parks, and users’ sound 
+preferences affect the perceived quality of the environment. Liu 
+et  al. (2018) conducted a survey in typical landscape nodes, 
+demonstrated that behavioral factors, such as visit frequency and 
+length of stay, related to the soundscape experience in urban 
+parks. Yue et  al. (2022) constructed an urban park design 
+prediction model, which contains sound pressure level (SPL) 
+prediction, sound source prediction, and soundscape assessment 
+prediction, from a soundscape survey of characteristic nodes. The 
+mentioned studies explored the soundscape’s role in sampled sites 
+of urban parks. However, the continuous acoustic perception from 
+a sequential perspective along the paths, which is an essential way 
+to experience soundscape of urban parks, has received scant 
+attention. Owing to the characteristics of users’ visiting behavior 
+in urban parks, the experiential process along the paths—rather 
+than the experience of sampled sites—is considered in this study.
+In terms of urban parks’ paths, most studies have focused on 
+the walking behaviors (Cohen et al., 2007; Kaczynski et al., 2008; 
+Reed et al., 2008), physical activities (Kaczynski and Henderson, 
+2007; Kaczynski et al., 2008; Reed et al., 2008), micro-level design 
+characteristics (Joseph and Zimring, 2007; Lu, 2010), destinations 
+(Chudyk et al., 2015), and environmental comfort (Zhang and 
+
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Experimental design and procedure
+Figure 1 presents the integral experimental design and 
+specific 
+procedures 
+for 
+soundwalk 
+and 
+laboratory 
+experiments. Figure 1A shows a comprehensive experimental 
+design to investigate the three proposed research questions. 
+The soundwalk and laboratory experiment steps are provided 
+in Figures 1B,C, respectively. First, several paired paths were 
+selected for the soundwalk to compare different paths’ effects 
+on perceived extent of individual sound (PEIS) and 
+soundscape assessment. Due to the location of the peak 
+soundscape assessment, whether positive or negative, cannot 
+be controlled in the soundwalk, the laboratory experiments 
+are conducted to effectively control the location where the 
+peak 
+soundscape 
+assessment 
+appear. 
+Thereafter, 
+a 
+combination of soundwalk and laboratory experiments of 
+soundscape assessment, and PEIS in each location, were 
+conducted to verify the peak-end rule’s applicability on the 
+paths. Finally, the paired sound source and sound loudness 
+contrast paths were selected for the soundwalk, to investigate 
+the relationships between locations with overall PEIS and 
+soundscape assessment.
+2.2. Site survey
+A typical urban park (Zhaolin Park) in Harbin, China, was 
+selected as the site for the study (Sun et al., 2022). The park covers 
+an area of 8.4 hectares and is divided into several areas by the park 
+paths. The reasons for selecting the park are as follows: First, it 
+contains different types of acoustics environments. The park 
+contains quiet and noisy spaces, and natural and artificial sounds 
+as the dominant sounds, which allow the investigation of the 
+acoustics environment’s different characteristics. Second, it offers 
+varied paths for visitors, thus providing a spatial contextual basis 
+and various options for different sound environments.
+The site survey contain a sound source and an SPL survey. 
+The sound source questionnaire survey was based on the 
+classification of sounds in urban public spaces (ISO/TS 
+12913–2:2018), and the sounds in the park were categorized 
+into six main categories of sound as follows: human sounds, 
+natural sounds, traffic noise, broadcasting sounds, music, and 
+electro-mechanical sounds. The SPL in the park was assessed 
+using equivalent continuous A-weighted sound pressure 
+levels, measured by BSWA 801. The distance between the 
+measurement location and a wall or other major reflective 
+surfaces was at least 1 m, and the distance between the 
+measurement location and the ground was 1.5 m (Zhang 
+et al., 2016). The SPL was read, and instantaneous data were 
+obtained—every second, for 5 min, in each measurement 
+location. As presented in Figure 2, location 8 is the location 
+with the highest SPL (Leq, 66.8 dBA), and location 17 is the 
+location with the lowest SPL (Leq 55.7 dBA), whereas other 
+locations exhibit SPLs of 57.8–66.1 dBA.
+2.3. Soundwalk
+In this study, the soundwalk was used to investigate the 
+perceived sound and soundscape assessment of soundwalk 
+paths. The soundwalk investigations were usually as a 
+purposeful method of understanding the changing patterns 
+of soundscape (Venot and Sémidor, 2006; Maffei, 2008; Jeon 
+et al., 2011). However, the soundwalk are usually affected by 
+complicated variables—such as seasons (Liisa et al., 2016), 
+visual environment (Ren and Kang, 2015), crowd activity and 
+density (Meng and Kang, 2016), temperature, humidity, wind 
+speed, and illumination (Thwaites et al., 2005; Val et al., 2006; 
+Meng et  al., 2017, 2018). To reduce the effects of the 
+aforementioned variables on the study, the following measures 
+were adopted: the soundwalk was always limited to the same 
+season’s period (Liu et al., 2013a; Jeon and Hong, 2015); thus, 
+a time when the activity and density of crowd in the park tend 
+to be consistent was chosen for the soundwalk (Meng and 
+Kang, 2016).
+According to the comparison of the visual landscape assessment 
+results in the pre-experimental survey, the visual landscape 
+environment of the established paths would not exhibit significant 
+differences. Thus, the visual landscape environment variables’ effects 
+could be  controlled on the soundwalk. Considering the 
+aforementioned variables, the soundwalk was conducted in rain-
+free, sunny weather, with temperatures in the range of 24–28°C, 
+between 14:00–16:00 h, June–July 2021 (Meng et al., 2018; Zhang 
+et al., 2019). Additionally, social factors also affected soundscape’s 
+assessment (Deng et al., 2020). Therefore, in this study, the volunteers 
+are university students of similar ages (min 20, max 28) were selected 
+to participate in soundwalk (Liu et al., 2014b). Furthermore, the 
+control of variables was also considered in the experimental design. 
+Several visitors frequently take paths, which were considered carriers 
+of soundwalk paths. Depending on the different paths’ characteristics, 
+these paths were divided into three groups of two-paired samples for 
+comparison and analysis. The paired path design counteracts the 
+multifactorial variables’ effects in the soundwalk.
+To investigate the effects of different soundwalk paths on the 
+soundscape, two types of typical urban park soundwalk paths 
+were selected: ‘sound loudness contrast paths’ (SL) and ‘sound 
+source contrast paths’ (SS). SL was defined as the path leading 
+from a quiet to noisy location (from Q to N), or vice versa (from 
+N to Q). A subset of SL paired locations, Location 8 (noisy) and 
+location 13 (quiet), were selected because of the differences in SPL, 
+and artificial sounds are dominant in these locations. SS was 
+
+Sun et al.
+10.3389/fpsyg.2022.1096952
+Frontiers in Psychology
+04
+frontiersin.org
+FIGURE 1
+Experimental design and procedure for soundwalk and laboratory experiments: (A) Experimental design for the research question; (B) Procedure 
+for soundwalk; (C) Procedure for laboratory experiments (PEIS, Perceived extent of individual sound; PPAS, Positive peak assessment of 
+s
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 presents the integral experimental design and 
+Figure 1A shows a comprehensive experimental 
+Figure 2, location 8 is the location 
+Figure 1B. To ensure that the volunteers could reflect on tis 
+Figure 3, seven identical general experience 
+Figure 1C, wherein the soundwalk paths are divided into two 
+Figure 4. Figure 4A reveals that 
+Figure 4B shows that perceived extent of both traffic noise and 
+Figure 4C indicates that the perceived extent of 
+Figure 4D shows that the subjective loudness and acoustic 
+Figure 5 analyze whether the location of peak soundscape 
+Figure 5 
+Figure  5 shows that the location of peak soundscape 
+Figure 6).
+Figure  6 presents how the different locations of PPAS/
+Figure 6A, with the PPAS moving toward the end of the path, 
+Figure  6B, the acoustic comfort gradually decreases as the 
+Figure 6C, the subjective loudness gradually 
+Figure 6D, the 
+Figure 7 is to explore the relationship between the location of 
+Figure 7A shows that the perceived extent 
+Figure 4A. Similarly, in Paths 1 and 2, the difference in the perceived 
+Figure 4A) may be due to the perceived extent of 
+Figure 7A).
+Figure 7B shows that the differences in the perceived extent of 

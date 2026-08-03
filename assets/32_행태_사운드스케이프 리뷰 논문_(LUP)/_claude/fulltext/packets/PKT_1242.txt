@@ -1,0 +1,296 @@
+### RECORD ID=1242 | screening_verdict=INCLUDE | year=2026
+JOURNAL: LANDSCAPE ARCHITECTURE FRONTIERS
+TITLE: How Individual and Sound Characteristics Interactively Determine Perceived Soundscape Restorativeness in Coastal Urban Spaces -An Empirical Study in a Typical Sea-fronting Context
+DOI: 10.15302/j-laf-2026-0017
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+1
+GRAPHICAL ABSTRACT
+How Individual and Sound Characteristics Interactively Determine 
+Perceived Soundscape Restorativeness in Coastal Urban Spaces
+—An Empirical Study in a Typical Sea-fronting Context
+ABSTRACT 
+The restorative soundscape is an important consideration in 
+the health benefits of coastal environments. However, limited 
+research has examined the perceived restorativeness of coastal 
+soundscapes on site, considering both individual and sound 
+characteristics. This study explores coastal urban spaces as 
+nature-based therapeutic landscapes for public mental well-being 
+and investigates how individual and sound factors interactively 
+determine the perceived soundscape restorativeness (PSR) through 
+theoretical components, using a field questionnaire survey in a 
+typical sea-fronting context in China. The results indicate that the 
+PSR varies depending on both individual and sound characteristics. 
+Sociodemographic factors, behavioral patterns, dominant sounds, 
+and holistic soundscape evaluations significantly influence the 
+PSR. Individual characteristics including occupation, education 
+level, visit duration, frequency, and activity intensity are associated 
+with all four theoretical components: Fascination (F), Being away 
+(A), Compatibility (C), and Extent (E). Moreover, individual factors 
+play an even greater role than sound characteristics in determining 
+F, A, and C components. By integrating theoretical components 
+with individual and sound characteristics, a robust framework 
+*CORRESPONDING AUTHOR
+Address: No.2 Linggong Road, Ganjingzi District, 
+Dalian 116024, China 
+Email: renxinxin@dlut.edu.cn
+Xinxin REN
+1,*, Yunhao LI
+1, Hanmo LIU
+1, Meudjeu TOGNIA
+2
+1 School of Architecture & Fine Art, Dalian University of Technology, Dalian 116024, China
+2 School of Chemical Engineering, Dalian University of Technology, Dalian 116024, China
+https://doi.org/10.15302/J-LAF-2026-0017
+Volume 14 / Issue 2 / 260017 / 2026
+© Higher Education Press 2026
+Received Date | 2025-07-31 Accepted Date | 2025-11-26
+This study explores coastal urban spaces as nature-based therapeutic landscapes and 
+examines perceived soundscape restorativeness (PSR) with all four theoretical components of 
+Fascination, Being away, Compatibility, and Extent on site. The characterization of PSR in coastal 
+urban spaces is understood with reorganized components under individual and sound factors 
+interactions.
+Practical guidance
+PSR
+Fascination
+Extent
+Being away
+Compatibility
+Sound 
+characteristics
+Individual 
+characteristics
+Interactively determinants
+Considering soundscape benefits for psychological restoration
+
+Therapeutic landscape potential could be enhanced 
+considering the characterization of PSR in coastal urban 
+spaces
+People-oriented design
+
+In response to the needs of visitors with different 
+sociodemographic characteristics and behavioural patterns, 
+optimize the adaptability between landscape and soundscape 
+design
+Soundscape optimization
+
+Prioritize the protection of natural soundscapes, focus on 
+safeguarding highly restorative natural sounds such as sea 
+waves and wind sounds, and reduce the interference from 
+mechanical sounds and excessive anthropogenic sounds
+
+2
+VOLUME 14 / ISSUE 2 / 260017 / 2026
+coastal proximity and indicators of general health, mental well-
+being, and physical activity
+[2–4]. Moreover, experimental research on 
+natural and built environments consistently identifies coastal urban 
+spaces as among the most preferred locations for relaxation
+[5], which 
+additionally are highly valued by local residents for enhancing both 
+individual and family well-being
+[6].
+While various theories help explain the relationship between 
+coastal urban spaces, health, and well-being, the Attention 
+Restoration Theory (ART)
+[7] provides a particularly effective 
+framework for understanding this connection. The ART posits 
+that natural environments can alleviate urban stress and facilitate 
+recovery from mental fatigue caused by information overload, 
+environmental stressors, and high ambient noise levels in urban 
+settings
+[7–9]. Empirical evidence suggests that, among different natural 
+environments, coastal visits are associated with the highest levels of 
+psychological restoration
+[10]. Beyond visual aesthetics, the soundscape 
+plays a significant role in sensory perception at the coast
+[11]. The 
+term “soundscape” refers to the aural environment as it is perceived, 
+experienced, and interpreted by individuals in a given context
+[12]. 
+Unlike traditional perspectives that frame environmental sounds 
+primarily in terms of noise pollution (e.g., traffic noise), soundscapes 
+are increasingly recognized as valuable environmental resources that 
+contribute to well-being. Perceived soundscape restorativeness (PSR) 
+has emerged as an important area of study
+[13], highlighting the role of 
+sound environments in promoting mental health.
+Based on the four theoretical components that characterize 
+a restorative environment as outlined in ART—Fascination, 
+Being-away (including Being-away-to and Being-away-from), 
+Compatibility, and Extent (including Coherence and Scope)—
+the Perceived Restorativeness Soundscape Scale (PRSS) was 
+developed to assess psychological restoration within a soundscape 
+context
+[14]. According to PRSS evaluations based on these theoretical 
+components, the dominance of natural sounds has been found 
+to have stronger restorative effects
+[15–16]. PSR is associated with 
+a “high-quality” sound environment, a concept that has been 
+explored through various soundscape descriptors to understand 
+which overall soundscape evaluations may have restorative effects. 
+In addition to soundscape research, sound characteristics have 
+increasingly been recognized as crucial elements that can affect 
+the therapeutic potential of various environments
+[17–18]. A recent 
+study conducted in coastal environments found that both perceived 
+holistic soundscapes a
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1 Study Area
+Dalian, a livable city situated along China’s northern coastline, 
+has been renowned for its coast. A sea-fronting area in the city 
+was selected as the study area, which is typical of coastal urban 
+spaces found in China and other Asian countries, encompassing 
+a central square and its surrounding recreational open spaces. 
+The environmental advantages of coastal landscapes have made 
+it a highly popular destination for recreation. The study area has 
+complex soundscape, incorporating natural, anthropogenic, and 
+mechanical sounds
+[25]. 
+Regarding the environmental advantages of landscapes in 
+the coastal zone
+[26], the study area also has the best climate 
+conditions compared to other coastal areas in the city. Furthermore, 
+surrounded by open spaces, mountains and water bodies, it has 
+become a highly popular destination for recreation. 
+2.2 Questionnaire Design
+Based on the research questions, the field questionnaire was 
+structured into five sections: sociodemographic information, 
+behavioral patterns (i.e., visit purpose, frequency, activity 
+intensity, and duration), identification of dominant sounds, holistic 
+soundscape evaluation, and PRSS responses.
+The standard for soundscapes by International Organization 
+for Standardization has emphasized that evaluating a sound 
+environment requires the identification of individual sounds, 
+where the identification of subjectively dominant sounds plays 
+a crucial role in improving a given soundscape
+[27]. Therefore, the 
+section of identification of dominant sounds was structured to 
+address two key aspects: the types of sounds that can be heard 
+and the perceived dominance of these sounds
+[28]. Each respondent 
+was asked to report the three most prominent sound sources they 
+perceived in the coastal environment in the dominance order. 
+The section of holistic soundscape evaluation included questions 
+on sound appropriateness, subjective loudness, and acoustic 
+comfort, using a five-point scale
+[29–30] with 1 represents highly 
+negative response and 5 represents highly positive response
+①. The 
+inclusion of these soundscape descriptors as indicators for holistic 
+soundscape evaluation was based on two primary reasons: 1) 
+sound appropriateness, subjective loudness, and acoustic comfort 
+provide more objective and accurate measures of perceptual 
+attributes compared with other sound affective quality indicators, 
+and 2) these descriptors are more comprehensible to a broader 
+range of interviewees, regardless of their occupation or educational 
+background, allowing for more effective and reliable responses. 
+The last section was designed to assess residents’ PSR by 
+measuring all “FACE” components: Fascination (F), Being-away-to 
+(A1), Being-away-from (A2), Compatibility (C), Coherence (E1), and 
+Scope (E2)
+[31]. Corresponding to each item, the participants were 
+asked, “How do you experience and agree with the statement?” 
+Their PSR experiences were reported with a five-point scale: 1 
+means “not at all” and 5 means “completely.”
+2.3 Data Collection
+Face-to-face interviews were conducted to gain in-depth insights 
+into participants’ real understanding and perceptions of the sound 
+environment. The field survey was carried out by a research team 
+under supervision between 14:00 and 17:00, when intensified 
+crowd activity level was observed in the study area throughout 
+daytime
+[32], during May and June—a period when outdoor activities 
+① To maintain consistency in scoring, responses to negatively framed items were 
+adjusted so that higher PRSS scores consistently indicated a more positive 
+restorative experience before data analysis.
+
+4
+VOLUME 14 / ISSUE 2 / 260017 / 2026
+are popular due to the favorable climate in Northeast China. 
+Random sampling was employed on both weekdays and weekends 
+to minimize biases arising from daily variations in visitation 
+patterns. 
+Prior to the questionnaire survey, interviewers conducted 
+a series of soundwalks to identify and select four survey zones 
+with representative landscape features (i.e., memorial space, 
+recreational space, sidewalk, and playground) and dominant 
+sounds (Fig. 1). At each selected site, ambient sound levels were 
+measured and recorded five times using BSWA801 sound level 
+meter at the height of 1.5 m. Each measuring time lasted 1 min, with 
+every 10 s recorded once
+[33]. The average measured A-weighted SPLs 
+at the corresponding locations was calculated in Table 1. Then, a 
+brief introduction was provided to randomly invited participants 
+at each location, during which the study’s purpose was explained, 
+and the participants’ habitual residence was verified
+[34], in order to 
+ensure that only local residents (excluding tourists) were included 
+in the formal questionnaire survey. Since an appropriate LAeq (the 
+average level of environmental noise) threshold was required for 
+soundscape quality evaluation, questionnaires collected at locations 
+where ambient sound levels exceeded the threshold (73 dBA) were 
+excluded from the database
+[28]. A total of 230 questionnaires were 
+distributed, of which 201 were valid, yielding an effective response 
+rate of 87%.
+Figure 2 shows the demographic information of the participants. 
+They were approximately balanced across different occupations, 
+with administrative staff representing the largest group (27%). 
+Most participants have received senior middle school education, 
+while as many as 25% of the participants had at least college 
+education. In terms of gender ratio, the male (60%) was higher 
+than the female (40%). These distributions of the samplings were 
+consistent with the report of typical urban residents’ outdoor 
+activities during the survey seasons in China
+[35]. Corresponding to 
+the valid questionnaires, the average measured LAeq at the surveyed 
+Traffic road
+Square
+Square
+Square
+Square
+Square
+Dining 
+area
+Shop
+Bar
+Bar
+Lighthouse
+Bumper cars
+Light entertainment
+Amusement 
+facilities
+Coastal dam
+Ticketi
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). At each selected site, ambient sound levels were 
+Table 1. Then, a 
+Figure 2 shows the demographic information of the participants. 
+Table 1: Average ambient sound level measurements in the study area
+Fig. 1 The 
+Table 2). The Cronbach’s 
+Table 2: Reliability and validity of the questionnaire database for theoretical components of PSR
+Fig. 2 Basic statistics of the sampling composition at the individual level.
+Table 3, the analysis of one-way ANOVA 
+Fig. 3, while higher mean scores were observed 
+Figure 4 highlights the significant differences in PSR across 
+Table 3: Significance levels of the differences in PSR components among sociodemographic factors
+Fig. 3 Average 
+Fig. 4 Average 
+Table 4, the analysis of one-way ANOVA led to the 
+Table 5. Regarding visit 
+Table 4: Significance levels of the differences in PSR components among behavioural factors
+Table 5: Influence of visit duration, purpose, frequency, and activity intensity on PSR components, with post hoc comparison of restorative scores 
+Figure 5 presents six dominant sounds perceived within 
+Fig. 6). Notably, the restoration scores for traffic noise were 
+Fig. 5 Identification 
+Fig. 6 Average 
+Fig. 5, suggesting 
+Figure 7 presents the estimated mean 
+Fig. 7-2), Being-away-from (Fig. 7-3), and 

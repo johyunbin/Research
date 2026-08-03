@@ -1,0 +1,161 @@
+### RECORD ID=1211 | screening_verdict=INCLUDE | year=2026
+JOURNAL: EUROPEAN PHYSICAL JOURNAL-SPECIAL TOPICS
+TITLE: Chromatic recurrences applied to joint walking time series of a blind mother-child dyad
+DOI: 10.1140/epjs/s11734-026-02140-1
+PAGES: 11
+
+--- HEAD (title/abstract/intro) ---
+Eur. Phys. J. Spec. Top.
+https://doi.org/10.1140/epjs/s11734-026-02140-1
+THE EUROPEAN
+PHYSICAL JOURNAL
+SPECIAL TOPICS
+Regular Article
+Chromatic recurrences applied to joint walking time
+series of a blind mother–child dyad
+Mercedes X. H¨ug1,2,a
+, Fabi´an C. Tommasini1
+, Fernando Bermejo1,2
+, Diego A. Evin1,3
+, and Marcia Cano
+Brusa1
+1 Centro de Investigaci´on y Transferencia en Ac´ustica (CINTRA), CONICET, Universidad Tecnol´ogica Nacional Facultad
+Regional C´ordoba, C´ordoba, Argentina
+2 Present Address: Facultad de Psicolog´ıa, Universidad Nacional de C´ordoba, C´ordoba, Argentina
+3 Facultad de Ingenier´ıa, Universidad Nacional de Entre R´ıos, Oro Verde, Entre R´ıos, Argentina
+Received 11 November 2025 / Accepted 12 January 2026
+© The Author(s), under exclusive licence to EDP Sciences, Springer-Verlag GmbH Germany, part of
+Springer Nature 2026
+Abstract The navigation of urban environments by blind adults and children is a complex activity. While
+research on blind people’s navigation has often focused on assistive technologies, less attention has been
+given to the embodied nature of their daily walking experiences. In this study, we apply chromatic
+recurrence-based analysis to characterise the joint walking dynamics of a blind mother–child dyad and
+explore their behaviour in diﬀerent acoustic contexts. Video-recorded sessions were coded, and their walk-
+ing behaviour was characterised across diﬀerent acoustic environments. Results showed that mother and
+child exhibited spontaneous synchronisation of their steps. Recurrence analysis indicated that the syn-
+chronous walking intervals were shorter and more predictable, whereas asynchronous walking was longer
+and less predictable. This case study suggests a ﬂexible use of synchronisation and non-synchronisation
+patterns in a system of unstable coordination that is open to environmental contingencies.
+1 Introduction
+Shared walking among parents and children is a daily practice that has broad implications for child development,
+dyadic dynamics, and interaction with the urban environment. Walking in urban settings provides children with
+opportunities to exercise and consolidate basic motor skills on varying surfaces and along diﬀerent trajectories [1,
+2]. For blind people, independent travel is possible supported by spatial cognition capabilities developed through
+multisensory integration processes, cortical reorganisation, and enhanced spatial hearing [3, 4]. Traﬃc and other
+urban sounds guide locomotion by enabling blind people to locate sound events, identify distant sources, and avoid
+obstacles [5–7]. From infancy to adulthood, travel-related expertise is acquired through both informal practice and
+systematic training in mobility aids such as white canes or guide dogs [8]. Urban street environments have been
+described as ideal laboratories for studying blind people’s mobility-related strategies [9, 10]; however, few studies
+have been conducted in such contexts. Most of the research has addressed urban walking from the viewpoint of
+road safety for the blind [11–13], navigation aids [14, 15], or has examined how the absence of vision aﬀects adult
+walking in controlled laboratory conditions [16].
+Urban navigation requires parents and children to coordinate their steps to cope with changing conditions
+that are not always predictable, for example, stopping when a car approaches a street intersection or resuming
+walking after rounding a billboard located on the sidewalk. Although it is known that people who walk together
+tend to spontaneously generate patterns of synchronised steps, no studies have been found that examine the
+emergence of these types of coordination patterns in blind dyads. Chambers et al. [17] found spontaneous movement
+synchronisation in naturalistic situations extracted from videos of adult people walking in pairs. Hajnal and Durgin
+[18] observed that casual walkers tend to adjust their frequency and step length toward one another without
+deliberate eﬀort. Sylos-Labini et al. [19] demonstrated that this occurs without vision if hand contact is allowed
+between blindfolded adult pairs walking on treadmills placed side by side. Zivotofsky et al. [16] demonstrated that
+participants who walked with tactile and auditory feedback showed greater synchronisation than those who only
+a e-mail: mercehug@unc.edu.ar (corresponding author)
+0123456789().: V,-vol
+123
+
+Eur. Phys. J. Spec. Top.
+had visual feedback. Adult–child walking situations require special consideration of anthropometric aspects, as
+evidence shows that adult pairs with similar leg lengths achieve greater synchronisation than those with diﬀerent
+leg lengths [20]. There is a notable gap in the literature regarding the dynamics of adult–child step coordination
+in daily contexts.
+A dynamic systems approach conceptualizes a dyad as a complex system where each member’s actions and states
+continuously inﬂuence and are inﬂuenced by the other, resulting in emergent, often unpredictable patterns [21,
+22]. This perspective emphasizes the study of aspects such as interdependency, self-organization, emergence, and
+temporal dynamics. Since the focus is on how interactions evolve over time, methods based on time series analysis
+allows to capture these processes. Recurrence plots (RP) and recurrence quantiﬁcation analysis (RQA) are well-
+established methods for measuring the extent to which a nonlinear time series exhibits similar patterns over time
+[23]. These techniques have been increasingly adopted in ﬁelds such as Cognitive Sciences and Psychology [24]. In
+particular, recurrence methods, which do not depend on statistical distribution assumptions or large datasets, are
+particularly useful in psychological studies such as microanalytic developmental studies, where they are employed
+to examine the temporal evolution of dyadic contingency and interactional rhythms [25, 26]. The application of this
+type of analysis on categorical variables allows researchers to characterise the temporal o
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, M.X.H., F.C.T., F.B., D.A.E.; Formal analy-
+sis, M.X.H., F.C.T., F.B., D.A.E., M.C.B.; Software, F.C.T., D.A.E.; Investigation, M.X.H.; Resources, M.X.H.,
+F.C.T.; Data Curation, M.X.H., F.C.T., M.C.B.; Visualization, F.C.T; Writing—Original Draft, M.X.H., F.C.T.,
+F.B., D.A.E., M.C.B.; Writing—Review Editing, M.X.H., F.C.T., F.B., D.A.E., M.C.B.; Project administration,
+M.X.H., F.C.T., F.B.; Funding acquisition, M.X.H., F.C.T., F.B., D.A.E.
+Funding
+The work was partially supported by the Consejo Nacional de Investigaciones Cient´ıﬁcas T´ecnicas, Argentina
+(Grant number PIP CONICET 11220210100187CO); the Agencia Nacional de Promoci´on de la Investigaci´on, el Desarrollo
+Tecnol´ogico y la Innovaci´on, FONCYT, Argentina (Grant numbers PICT 2018–2260 and PICT 2018–4593); the Universidad
+Tecnol´ogica Nacional, Argentina (Grant number PID 8424); the Universidad Nacional de C´ordoba, Argentina (Grant number
+PID 472/2018).
+Data availability The datasets generated during and/or analysed during the current study are available in the Zenodo
+repository, https://doi.org/10.5281/zenodo.17900390.
+Declarations
+Conﬂict of interest The authors declare that they have no conﬂict of interest.
+Ethical approval The study was carried out in accordance with the 1964 Helsinki Declaration guidelines and its later
+amendments and was approved by an Institutional Ethics Committee (CIEIS Hospital Nacional de Cl´ınicas, Universidad
+Nacional de C´ordoba, Argentina).
+References
+1. K.E. Adolph, S.R. Robinson, Motor development, in Handbook of Child Psychology and Developmental Science: Cognitive
+Processes, 7th ed, vol. 2, (Wiley, Hoboken, 2015), pp.113–157. https://doi.org/10.1002/9781118963418.childpsy204
+123
+
+Eur. Phys. J. Spec. Top.
+2. C.M. Hospodar, K.E. Adolph, The development of gait and mobility: form and function in infant locomotion. WIREs
+Cogn. Sci. 15(4), 1677 (2024). https://doi.org/10.1002/wcs.1677
+3. R.W. Emerson, D.H. Ashmead, Visual experience and the concept of compensatory spatial hearing abilities, in Blindness
+and Brain Plasticity in Navigation and Object Perception. ed. by J.J. Rieser, D.H. Ashmead, F. Ebner, A.L. Corn
+(Psychology Press, New York, 2007), pp.367–380
+4. J.J. Rieser, Theory and issues in research on blindness and brain plasticity, in Blindness and Brain Plasticity in Navi-
+gation and Object Perception. (Lawrence Erlbaum Associates Publishers, Mahwah, 2008), pp.3–11
+5. D.H. Ashmead, R.S. Wall, S.B. Eaton, K.A. Ebinger, M.-M. Snook-Hill, D.A. Guth, X. Yang, Echolocation reconsidered:
+using spatial variations in the ambient sound ﬁeld to guide locomotion. J. Vis. Impair. Blind. 92(9), 615–632 (1998).
+https://doi.org/10.1177/0145482X9809200905
+6. T. Graven, Hearing the city without vision: an exploratory study. Brit. J. Vis. Impair. (2025). https://doi.org/10.1177/
+02646196251330184
+7. A. Koutsoklenis, K. Papadopoulos, Auditory cues used for wayﬁnding in urban environments by individuals with visual
+impairments. J. Vis. Impair. Blind. 105(10), 703–714 (2011). https://doi.org/10.1177/0145482X1110501016
+8. A.C. Skellenger, E.W. Hill, Current practices and considerations regarding long cane instruction with preschool children.
+J. Vis. Impair. Blind. 85(3), 101–104 (1991). https://doi.org/10.1177/0145482X9108500304
+9. R.W. Emerson, T. McCarthy, Orientation and mobility for students with visual impairments: priorities for research, in
+International Review of Research in Developmental Disabilities, vol. 46, (Academic Press, Cambridge, 2014), pp.253–280.
+https://doi.org/10.1016/B978-0-12-420039-5.00008-3
+10. Long, R.: Crossing streets without vision: access to information, strategies for traveling, and the impact of technology,
+training, and environmental design. In: Blindness and Brain Plasticity in Navigation and Object Perception. Psychology
+Press, New York (2007)
+11. D.H. Ashmead, D. Guth, R.S. Wall, R.G. Long, P.E. Ponchillia, Street crossing by sighted and blind pedestrians at a
+modern roundabout. J. Transp. Eng. 131(11), 812–821 (2005). https://doi.org/10.1061/(ASCE)0733-947X(2005)131:11
+(812)
+12. E.L. Bowman, L. Liu, Individuals with severely impaired vision can learn useful orientation and mobility skills in virtual
+streets and can use them to improve real street safety. PLoS ONE 12(4), 0176534 (2017). https://doi.org/10.1371/jour
+nalpone.0176534
+13. R.W. Emerson, D.S. Kim, K. Naghshineh, J. Pliskow, K. Myers, Examining the impact of “quiet” vehicles on the
+performance of orientation and mobility tasks by pedestrians who are blind. J. Vis. Impair. Blind. 105(11), 745–759
+(2011). https://doi.org/10.1177/0145482X1110501104
+14. Y. Lian, D.-e Liu, W.-z Ji, Survey and analysis of the current status of research in the ﬁeld of outdoor navigation for
+the blind. Disabil. Rehabil. Assist. Technol. 19(4), 1657–1675 (2024). https://doi.org/10.1080/17483107.2023.2227224
+15. K. Papadopoulos, E. Koustriava, P. Koukourikos, Orientation and mobility aids for individuals with blindness: verbal
+description vs. audio-tactile map. Assist. Technol. 30(4), 191–200 (2018). https://doi.org/10.1080/10400435.2017.13
+07879
+16. A.Z. Zivotofsky, L. Gruendlinger, J.M. Hausdorﬀ, Modality-speciﬁc communication enabling gait synchronization during
+over-ground side-by-side walking. Hum. Mov. Sci. 31(5), 1268–1285 (2012). https://doi.org/10.1016/jhumov.2012.01.003
+17. C. Chambers, G. Kong, K. Wei, K. Kording, Pose estimates from online videos show that side-by-side walkers synchronize
+movement under naturalistic conditions. PLoS ONE 14(6), 0217861 (2019). https://doi.org/10.1371/journal.pone.02
+17861
+18. A. Hajnal, F.H. Durgin, How frequent is the spontaneous occurrence of synchronized walking in daily life? Exp. Brain
+Res. 241(2), 469–478 (2023). https://doi.org/10.1007/s00221-022-06536-y
+19. F. Sylos-Labini, A. d’Avella, F. Lacquaniti, Y. Ivanenko, Human–human interaction forces and interlimb coordination
+during side-by-side walking with hand contact. Front. Physiol. (2018). https://doi.org/10.3389/fphys.2018.0
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows that the speed was modiﬁed according to diﬀerent speech activity
+Fig. 1 Dyad walking speed
+Fig. 2 a Time series of an illustrative segment with the temporal evolution of the joint walking; and b the corresponding
+Figure 2a shows a segment example of a time series with the temporal evolution of the walking behaviour in which
+Figure 2b shows the corresponding chromatic RP. Unlike conventional RP, in which
+Fig. 3, these revealed diﬀerences in REC,
+Fig. 3 Chromatic REC, MaxLV , TT V and ENT V measures for joint walking events. Error bars correspond to 95% CI.

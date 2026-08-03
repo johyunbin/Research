@@ -1,0 +1,2058 @@
+### RECORD ID=941 | screening_verdict=INCLUDE | year=2023
+JOURNAL: LANDSCAPE ARCHITECTURE FRONTIERS
+TITLE: Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments
+DOI: 10.15302/j-laf-1-020106
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+LANDSCAPE ARCHITECTURE FRONTIERS / PAPERS
+047
+https://doi.org/10.15302/J-LAF-1-020106
+Research on the Combined Effects of Plant Odor and Traffic Noise 
+on Crowd Behaviors in Urban Environments
+*CORRESPONDING AUTHOR
+Address: No. 818, Fenghua Road, Jiangbei District, 
+Ningbo 315211, Zhejiang Province, China 
+Email: lizhongzhe@nbu.edu.cn
+Meihui BA
+1, Zhongzhe LI
+1,*, Jian KANG
+2,3
+1 Pan Tianshou College of Architecture, Art and Design, Ningbo University, Ningbo 315211, China
+2 Institute for Environmental Design and Engineering, The Bartlett, University College London (UCL), London WC1H 0NN, United Kingdom
+3 School of Architecture, Tianjin University, Tianjin 300072, China
+© Higher Education Press 2024
+ABSTRACT 
+Traffic noise is a typical negative sound source in urban 
+environments with impacts on crowd behaviors. To explore the 
+combined effects of auditory–olfactory interaction environments 
+on crowd behaviors, this study conducted a covert behavioral 
+observation experiment on a typical urban street uniformly planted 
+with lilacs (Syringa spp.) to investigate the combined effects of 
+plant odor and traffic noise on crowd path and crowd speed. The 
+results showed that: 1) for crowd path, when the sound pressure 
+level (SPL) was high, the path ranges and their mean values under 
+different odor concentrations all showed a tendency to be farther 
+away from the sound source than when it was low; the mean values 
+of path ranges gradually moved towards the odor source as the 
+odor went from none to strong, which was more significant at 
+high SPL, with a maximum longitudinal movement of about 0.3 m. 
+2) For crowd speed, its mean values gradually slowed down from 
+1.24 m/s at high SPL as the odor went from none to strong and 
+then stabilized at 1.18 m/s; however, those at low SPL were almost 
+unaffected. This research puts forward new ideas to alleviate the 
+Received Date | 2023-11-27 Accepted Date | 2024-06-21
+GRAPHICAL ABSTRACT
+Road
+Study area
+Sidewalk
+Lilac trees
+Side of noise source
+Side of odor source
+Side of noise source
+Side of odor source
+Side of noise source
+Side of odor source
+Side of noise source
+Side of odor source
+Low SPL
+High SPL
+Low SPL
+High SPL
+Crowd behavior
+Traffic noise
+Plant odor
+Combined effect on crowd path
+Combined effect on crowd speed
+
+048
+VOLUME 12 / ISSUE 6 / DECEMBER 2024
+1 Introduction
+The Outline of the 14th Five-Year Plan (2021–2025) for National 
+Economic and Social Development and the Long-Range Objectives 
+Through the Year 2035 clearly puts forward the need to strengthen 
+environmental noise pollution control
+[1]. The problems caused 
+by urban noise are becoming increasingly serious, which has 
+greatly affected residents’ daily life and their physical and mental 
+health
+[2][3]. Among them, traffic noise is the main source that is 
+characterized with high intensity, wide influence range, and long 
+duration
+[4]. The negative impacts of it on residents include sleep 
+disorders
+[5], reduction of helpful behaviors, decreased attention to 
+the peripheral elements of the environments passing through
+[6], 
+increase in problematic behaviors of children and adolescents 
+(hyperactivity, inattention, etc.)
+[7][8] and driving violations
+[9], etc.
+At present, in order to better explore urban environmental 
+design strategies to mitigate the negative effects of traffic noise, 
+the research of its impact on psychology and physiology has 
+mainly concerned with the noise annoyance under different 
+conditions
+[10]~[14]. As one of the key components constituting 
+the environment, behavior of spatial users is an outward 
+manifestation of physiological and psychological perceptions
+[15]. 
+In environmental assessment, individual behavior usually refers 
+to the attitude or performance of a person in a given situation, 
+which is greatly influenced by the environment and often tends 
+to be random
+[16]. In contrast, the crowd behavior refers to the 
+performance of the overall crowd in a specific environment, 
+which tends to show a certain regularity
+[17][18]. The latter can be 
+further classified as active and passive behaviors according to 
+motivation
+[16], or participatory and non-participatory behaviors 
+by their purposes
+[19]. In addition, according to the mobility of 
+research objects, it can also be divided into static behavior (sitting, 
+standing, etc.) and movement behavior (walking around, passing 
+by, etc.)
+[20]~[22]. In comparison, movement behaviors can better 
+reflect the overall tendency of the crowd
+[20]. Currently, traffic noise 
+related studies focus more on the effects on individual behaviors, 
+but less on the effects on crowd behaviors.
+Traditional control methods for urban traffic noise often use 
+physical means to reduce the noise level, such as sound barriers 
+and sound-absorbing materials. However, recent studies have 
+shown that only reducing the noise level or the number of 
+noise sources does not necessarily improve human comfort
+[4]. 
+Meanwhile, the research on multisensory interactions provides 
+new possibilities for improving noise control. In recent years, 
+the positive effects of olfactory sensory factors on people’s 
+negative impacts of traffic noise, and the study results can provide 
+guiding significance for the improvement of the evaluation system 
+of urban landscape quality and the optimization of urban design 
+mode.
+KEYWORDS 
+Plant Odor; Traffic Noise; Combined Effect; Crowd Path; Crowd 
+Speed; Auditory–Olfactory Interaction Environment
+HIGHLIGHTS
+· Crowd path tends to move towards the odor source, especially 
+when the sound pressure level of traffic noise is high
+· Crowd speed slows down as the odor concentration increases at 
+high sound pressure level of traffic noise 
+· Crowd speed is almost unaffected by plant odor at low sound 
+pressure level of traffic noise
+EDITED BY Tina TIAN, Xidong MA
+RESEARCH FUNDS
+· Project of “Research on the Optimization Design of Community 
+Public Spaces to Promote the Interactive Perception of Audition 
+and Olfaction Amon
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1 Study Area and the Selection of Plant Odor–Traffic Noise 
+Sources
+When selecting the study area, the following factors were taken 
+into account: 1) traffic noise existed in the area, with varied SPLs 
+at different hours throughout the day; 2) both plant odor and no 
+plant odor conditions existed in the area for the control of odor 
+variables; and 3) no restaurants, cafes, markets, factories, or other 
+odoriferous places existed in the area to emit affecting odors.
+Based on the above considerations, Minsheng Road in Xiangfang 
+District, Harbin City, China was selected as the study area (Fig. 1), 
+where trees of lilac (Syringa amurensis) were planted uniformly 
+along the sidewalks of the road at each 1.5 m. These trees were 
+then used as the odor source in this study. Lilac is a deciduous 
+shrub or small tree that is commonly planted in urban greening in 
+China, due to the pleasant shape and odor. Studies have found that 
+factors such as building layout and edge effect at road intersections 
+can affect people’s olfactory perception, resulting in a stronger 
+plant odor in the central part and gradually decreasing towards 
+the edge
+[23]. Therefore, the study area fits the plant odor and traffic 
+noise conditions for the research.
+2.2 Plant Odor–Traffic Noise Measurement Methods
+Quantitative measurement and recording of odor 
+concentration is difficult. Although specific chemical components 
+can be detected instrumentally, methods that simply measure 
+certain compounds cannot adequately explain or grade odor 
+concentration. Because such measurements are usually of tracer 
+compounds that are present in limited amounts in the gas, it is 
+not possible to directly measure the odor concentration itself 
+or to correlate the odor concentration with its properties
+[27]. 
+Furthermore, in urban environments, measurements within 
+a single time period or location are not representative of the 
+odor situation in the entire area
+[28]. Therefore, this study mainly 
+adopted the method of measuring odor concentration with 
+pedestrians as “sensors,” which is also commonly used in related 
+studies
+[29][30].
+Before the experiment, the study area was first divided 
+into 3 m × 3 m grids, labeled as numbers 1 to 10 from left to right. 
+A questionnaire pre-experiment on plant odor concentration 
+was conducted, which adopted a Likert 7-point scale, with 1 
+indicating no odor and 7 indicating very strong odor. Both the 
+pre-experiment and the formal experiment were performed 
+on 10 June 2019, when lilacs were in full bloom and the odor 
+was noticeable within in the study area. The experimental day 
+was sunny with a wind speed of about 0.3 m/s and a relatively 
+stable odor condition. In the pre-experiment, at least 30 valid 
+questionnaires were collected from each grid and their mean 
+concentrations were calculated. The study used Cronbach’s α 
+coefficient to test the internal consistency of the questionnaire 
+(with a result of 0.925) and KMO coefficient to test the structural 
+validity (with a result of 0.803), which indicated that the 
+questionnaire had a sound reliability and validity. Meanwhile, 
+during the pre-experiment, participants all reported that they did 
+not smell any other odors other than lilac within the study area, 
+suggesting that the plant odor was the only dominant source and 
+Road
+Study area
+Sidewalk
+Lilac trees
+© Meihui Ba, Zhongzhe Li, Jian Kang
+1
+1. Site plan of the study area. 
+
+050
+VOLUME 12 / ISSUE 6 / DECEMBER 2024
+the participants were not affected by other odor sources in the 
+experiment.
+In this study, a portable 4-channel acquisition front-end was 
+used to measure traffic noise
+[31][32]. A 1-min recording was made 
+at the center of each grid, and the SPLs of the recordings were 
+subsequently analyzed using HEAD ArtemiS software. During the 
+recording, the crowd density remained less than 0.05 person/m
+2, 
+thus the interference of pedestrians on the sound environment 
+could be ignored
+[33]. Traffic noise was classified into low and high 
+SPLs according to the actual traffic conditions at different hours: 
+the SPL at the noisier hours within the study area was set as the 
+high SPL, determined based on the field observations and SPL 
+measurements in the pre-experiment; the difference between 
+the high and low SPLs was 10 dB or more to ensure that the 
+participants could clearly distinguish between the two. Through 
+A-weighted SPL analysis, the low SPL was finally defined as 55.6 dB 
+(L10 = 50.3 dB; L50 = 54.6 dB; L90 = 58.5 dB) and the high SPL was 
+70.5 dB (L10 = 68.9 dB; L50 = 70.4 dB; L90 = 71.7 dB). Calculated 
+from the observation videos recorded by drone during the 
+experiment, the average driving speeds in the low and high SPL 
+conditions were 46 km/h and 53 km/h, respectively. The average 
+hourly traffic flow was 1,089 and 696 vehicles, respectively. The 
+evaluation results of odor concentration and SPL distributions 
+within the study area are shown in Fig. 2.
+2.3 Observation of Crowd Behaviors
+This study focused on the movement behavior of crowds. Since 
+the study area was close to an urban road, the crowd behaviors 
+were mostly walking, so pedestrians’ movement path and speed 
+can better reflect the pattern of crowd behaviors, which two 
+thus were selected as the analysis indicators for the research—
+both of them are also common indicators in relevant studies
+[34][35]. 
+Specifically, crowd path refers to the walking trajectory of the 
+participants within the study area, while crowd speed refers to 
+the straight-line displacement of the participant in unit time. 
+It is important to note that pedestrians in both directions were 
+included in the samples in the experiment (Table 1).
+The experimental times for low and high SPLs corresponded 
+to the time periods of 13:00 ~ 15:00 and 15:00 ~ 17:00, 
+respectively. Both time periods were set in the afternoon to 
+minimize the difference in environmental conditions caused 
+by temporal factors. The SPL tests were conducted first i
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1), 
+Fig. 2.
+Table 1).
+Table 1: The sample size of crowd behaviors (unit: person-time)
+Fig. 2-1), and 
+Fig. 2-2) and high SPL (Fig. 2-3) conditions. 
+Fig. 3. The upper and lower boundary lines and mean 
+Table 2. In detail, the effects of odor and odor ∩ noise on crowd 
+Fig. 4). The estimated marginal mean was used to calculate the 
+Fig. 4-1). A two-by-two comparison of the 11 y-values under 
+Fig. 3-1) and high SPL (Fig. 3-2) conditions. The 
+Fig. 4-2. The difference between the 
+Table 3). The effects of odor and odor ∩ noise were both 
+Fig. 5, which had an overall mean of 1.17 m/s. In terms 
+Fig. 5-1). A two-by-two comparison of 
+Table 2: Repeated measures ANOVA of the value y
+Fig. 4-1) and odor 
+Fig. 4-2).
+Fig. 5-2. 
+Fig. 6). Nevertheless, the changes were more significant at high 
+Table 4). 
+Table 3: Repeated measures ANOVA of the crowd speed
+Fig. 5-1) and odor 
+Fig. 5-2).
+Table 4: Correlation analysis of average crowd path and average crowd speed
+
+======================================================================
+
+### RECORD ID=951 | screening_verdict=INCLUDE | year=2023
+JOURNAL: SUSTAINABLE CITIES AND SOCIETY
+TITLE: Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches
+DOI: 10.1016/j.scs.2022.104336
+PAGES: 9
+
+--- HEAD (title/abstract/intro) ---
+Sustainable Cities and Society 89 (2023) 104336
+Available online 5 December 2022
+2210-6707/© 2022 Elsevier Ltd. All rights reserved.
+Sustainable design of running friendly streets: Environmental exposures 
+predict runnability by Volunteered Geographic Information and multilevel 
+model approaches 
+Dengkai Huang 1, Meng Tian 1, Lei Yuan * 
+Lab for Optimizing Design of Built Environment, School of Architecture and Urban Planning, Shenzhen University, Shenzhen, 518060, China 
+A R T I C L E I N F O 
+Keywords: 
+Runnability 
+Street segment 
+GPS-based routes 
+Volunteered Geographic Information 
+Multilevel model 
+Built environment 
+A B S T R A C T 
+Understanding the influence of built environment on running behavior is a significant step towards developing 
+related landscape strategies. This paper adopted a volunteered geographic information (VGI) approach to 
+measure urban runnability by quantifying environmental features that encourage or hinder running activities. 
+The GPS-based routes collected from Strava were used to compute the running intensity of street segments in 
+Helsinki, Finland. We applied multilevel regression models to assess the spatial-varied impacts of street envi­
+ronment on running intensity, so as to elicit runner’s preferences and investigate their associations with socio­
+demographic characteristics at higher hierarchical level (neighbourhood). The results showed street greenery 
+assessed by Green View Index (GVI) represented the greenness exposure to runners better than top-down 
+greenness assessed by Normalized Difference Vegetation Index (NDVI), and thus can be considered as a more 
+reliable predictor for running behaviours. Blue space density was the predominant factor and associated with 
+running intensity positively. Running intensity negatively correlated with urban density, connectivity and traffic 
+accidents, and positively correlated with traffic noise and air pollution. Population density and income level were 
+positively associated with running intensity. These results provide profound insights and boost our capacity to 
+design more attractive and sustainable streets for physical activity. 
+1. Introduction 
+In sustainable city design, making a rational use of the natural and 
+technological resources that its population requires is one of the critical 
+issues. Both natural landscapes and public spaces are vital in the global 
+city to avoid the burden of concrete by means of enhancing the 
+communication between residents and promoting sports. Physical 
+inactivity is one of the most significant contributors to the deterioration 
+of health and wellbeing (Althoff et al., 2017; Kohl et al., 2012). As a 
+convenient, comparatively low-cost and non-organized exercise for all 
+ages (Hodgson & Hitchings, 2018; Janssen et al., 2017), running activity 
+has become one of the most popular sport activities in Europe (Scheerder 
+& Breedveld, 2015). Running exercise is beneficial to reduce risks of 
+chronic diseases, such as type 2 diabetes, obesity and cancers, as well as 
+boosting emotional wellness by releasing stress, avoiding cognitive 
+decline and preventing memory disorders (Lee et al., 2017; Oja et al., 
+2017). Overlapping with the ideas of walkability and cycle-friendly 
+cities, running-friendly cities also require superior accessibility, link­
+ages, safety, esthetic and design considerations (Boakye et al., 2021; 
+Schuurman et al., 2021). However, compared to walking and cycling (Ki 
+& Lee, 2021; Lu et al., 2019), the associations between running activity 
+and environmental features have rarely been investigated (Ettema, 
+2015), leaving a gap on how urban street environment affects running 
+exercise. Moreover, finding the balance between conflicting political 
+and social demands on limited space has become a new challenge in 
+urban design (Meseneva, 2020), which requires both qualitative and 
+quantitative studies focusing on the various effects of natural environ­
+ment and built environment characteristics on residents. 
+1.1. Runnability of the built environment 
+Runnability of the built environment has been largely overlooked in 
+the literature as compared to walkability. Runnability can be defined as 
+a measurement of how much the built environment characteristics can 
+* Corresponding author. 
+E-mail address: yuanlei@szu.edu.cn (L. Yuan). 
+1 Co-first authorship: Dengkai Huang and Meng Tian contribute equally to the article. 
+Contents lists available at ScienceDirect 
+Sustainable Cities and Society 
+journal homepage: www.elsevier.com/locate/scs 
+https://doi.org/10.1016/j.scs.2022.104336 
+Received 28 July 2022; Received in revised form 6 November 2022; Accepted 1 December 2022 
+
+Sustainable Cities and Society 89 (2023) 104336
+2
+encourage and facilitate running exercises (Shashank et al., 2021). In 
+general, recreational runners prefer environments with more nature 
+exposure and smooth surface, and far away from other traffic users, 
+because these environmental features can increase restorative effects 
+(Ettema, 2015), prevent injuries (Hockey & Collinson, 2006) and keep 
+momentum (Huang et al., 2022). Many studies have demonstrated the 
+significant linkages between physical environment features and running 
+exercise (Deelen et al., 2019; Ettema, 2015; Huang et al., 2022; 
+Schuurman et al., 2021; Shashank et al., 2021; Wang et al., 2021). It is 
+widely-known that the exposures to nature – eye-level greenness, 
+top-down greenness and blue space density – promotes running activity. 
+In addition, traffic-related features, building-related features and air 
+pollution exposure are regarded as significant factors affecting the 
+participation of running exercise (Hodgson & Hitchings, 2018; Huang 
+et al., 2022). 
+1.2. GPS-based routes collected from VGI 
+There is a growing consensus that activity-based approach can better 
+reflect the actual exercise environment than the residential buffers 
+approach (Holliday et al., 2017). The activity-path based exercise be­
+haviours and ex
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study area 
+Helsinki, the capital of Finland and the hub of the Helsinki Metro­
+politan Area, covers 217 km2 of land and boasts a population of 658,457 
+residents (Official Statistics of Finland OSF, 2022). Helsinki consists of 
+60 subdistricts, which can be further divided into 137 neighbourhoods 
+(excluding Aluemeri that consists of outer coastal water only). Helsinki 
+offers a total of approximately 2100 outdoor public sports facilities, 
+including sports parks, fields, neighbourhood sports sites, jogging tracks 
+and skiing tracks (City of Helsinki Executive Board, 2018). These out­
+door sports services almost cover every neighbourhood in the city of 
+Helsinki. 
+2.2. Data description 
+2.2.1. Dependent variable: Running intensity of street segments 
+The running activity VGI data for this study were obtained from 
+Strava in March 2021. By the end of May 2022, Strava had more than 
+100 million registered users and 7 billion uploaded sports activities all 
+over the world. It is one of the most popular sports-tracking and social 
+platforms in Finland. The GPS-based routes were collected among run­
+ners who posted their running experiences on Strava between 2018 and 
+2021. We used the geo-referenced data of running routes without per­
+sonal data. The running routes for length less than 1 km were excluded, 
+because they are too short to indicate the segment preferences of 
+runners. 
+The running intensity of street segments were calculated as follows. 
+First, we obtained the street network for city of Helsinki from the public 
+available mapping platform OpenStreetMap, and broke the street 
+network into segments by intersections. Then, we computed a 20 m 
+buffer around each street segment to define the exposure to environ­
+mental conditions as utilized elsewhere (Salazar et al., 2021). Next, we 
+summed up the length of all running routes that are partly overlap or 
+entirely fall within the respective buffer of each street segment. Finally, 
+we calculated the running intensity by dividing the total length of 
+running routes by its buffer zone area, which solved the problem that the 
+total lengths of running routes in large buffers tend to be longer than 
+those in small buffers. Our final sample comprises 13,322 street 
+D. Huang et al. 
+
+Sustainable Cities and Society 89 (2023) 104336
+3
+segments with diverse running intensity ranging from 0.001 to 3.45 
+m/m2. 
+2.2.2. Covariates at street segment level: Environmental predictors 
+2.2.2.1. Natural environment factors. Natural environment factors for 
+explaining running activity intensity were selected based on the previ­
+ously described literature, which include Green View Index (GVI), 
+Normalized Difference Vegetation Index (NDVI), blue space density and 
+terrain slope (Campbell et al., 2019; Huang et al., 2022; Ki & Lee, 2021; 
+Lu et al., 2019). The top-down greenness and blueness were assessed by 
+NDVI and blue space density respectively. The NDVI index was collected 
+from Landsat 8 OLI (Operational Land Imager) and TIRS (Thermal 
+Infrared Sensor) data at 30 m spatial resolution via the United States 
+Geological Survey (USGS) Earth Explorer website (https://earthexplorer 
+.usgs.gov). The all cloud-free images during the period from 6th June to 
+7th July in 2021 were obtained. The NDVI was calculated based on the 
+wavelengths of the light absorbed by green plant canopies. Pixels with a 
+negative NDVI were excluded before computing the average NDVI per 
+street segment as suggested elsewhere (Rugel et al., 2017). The NDVI 
+values range from 0 to 1 with higher values indicating denser vegeta­
+tion. The blue space density was assessed by the ratio of aquatic envi­
+ronmental exposure within the street segment buffers following the 
+approach employed in the previous study (Huang et al., 2022). The slope 
+within a street segment buffer was determined by the average value of a 
+slope map which was created from a GDAL-supported elevation raster 
+(Huang et al., 2022). 
+The GVI, which represents the eye-level greenness exposure to run­
+ners on streets (Huang et al., 2022), was calculated by averaging the GVI 
+values of Google Street View (GSV) images collected within the street 
+segment buffers. First, sample points for generating GSV images were 
+created with a uniform distance of 50 m along street network. The co­
+ordinates of these points were input into a Python script and were uti­
+lized to download six GSV images for each point. The six GSV images 
+contained 0◦(North), 60◦, 120◦, 180◦, 240◦and 300◦headings, and each 
+one was with a 60-degree field of view. Because the amount of street 
+greenery varies by seasons, only the images taken between May and 
+September were utilized. The street view image data for this research 
+were obtained from Google Maps using Python scripts in 2021. The 
+calculation of GVI was performed by a deep learning technique of fully 
+conventional neural network for semantic segmentation (Huang et al., 
+2022; Toikka et al., 2020). The average value of six images for each 
+sample point was used to assess the amount of street greenery of that 
+location. 
+2.2.2.2. Land use and built environment factors. Previous research 
+certified that built environment variables such as air quality, traffic 
+noise, urban density, land use mix and visual enclosure, are significant 
+correlates of running exercise and other physical activities (Hodgson & 
+Hitchings, 2018; Tainio et al., 2021; Wang et al., 2021; Yin & Wang, 
+2016). For example, traffic noise (Dzhambov et al., 2017) and air 
+pollution (Hodgson & Hitchings, 2018) contributed to lower level of 
+physical activity, while urban density (Wang et al., 2021) and visual 
+enclosure (Yin & Wang, 2016) were positively related to physical ac­
+tivity levels. In this study, urban density was assessed by the Floor Area 
+Ratio (FAR), defined as the total amount of built floor area in relation to 
+land area within each street segment buffer. The air quality index and 
+traffic noise of stre
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1. The dataset 
+Fig. 1 shows the spatial distribution of running intensity for each 
+Table 2, with different sets of independent variables 
+Table 1 
+Fig. 1. Running intensity of street segments in the urban areas in Helsinki, Finland. 
+Table 2 
+Table 2 (The full results of 
+
+======================================================================
+
+### RECORD ID=979 | screening_verdict=INCLUDE | year=2023
+JOURNAL: VISUAL COMMUNICATION
+TITLE: Walking through the city soundscape: an audio-visual analysis of sensory experience for people with psychosis
+DOI: 10.1177/14703572211052638
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+https://doi.org/10.1177/14703572211052638
+Visual Communication 2022
+Vol. 22(1) 71–95 
+© The Author(s) 2022 
+Article reuse guidelines: sagepub.com/journals-permissions
+DOI 10.1177/14703572211052638
+v i s u a l c o m m u n i c a t i o n
+ 
+Walking through the city soundscape: 
+an audio-visual analysis of sensory 
+experience for people with psychosis
+S A R A M E R L I N O
+University of Roma Tre, Italy
+L O R E N Z A M O N D A D A
+University of Basel, Switzerland
+O L A S Ö D E R S T R Ö M
+University of Neuchâtel, Switzerland
+A b s t r a c t
+This article discusses how an aspect of urban environments – sound 
+and noise – is experienced by people walking in the city; it particu-
+larly focuses on atypical populations such as people diagnosed with 
+psychosis, who are reported to be particularly sensitive to noisy envi-
+ronments. Through an analysis of video-recordings of naturalistic 
+activities in an urban context and of video-elicitations based on these 
+recordings, the study details the way participants orient to sound and 
+noise in naturalistic settings, and how sound and noise are reported 
+and reexperienced during interviews. By bringing together urban con-
+text, psychosis and social interaction, this study shows that, thanks to 
+video recordings and conversation analysis, it is possible to analyse in 
+detail the multimodal organization of action (talk, gesture, gaze, walk-
+ing bodies) and of the sensory experience(s) of aural factors, as well 
+as the way this organization is affected by the ecology of the situation.
+K e y w o r d s
+conversation analysis • multimodal analysis • multisensoriality 
+• psychosis • sensory aural factors • social interaction • urban 
+environment • video methods
+1052638 VCJ
+Visual CommunicationMerlino et al.: Walking through the city soundscape
+a r t i c l e
+
+72
+V i s u a l C o m m u n i c a t i o n 2 2 ( 1 )
+1 . I n t r o d u c t i o n
+Despite an increasing interest in how local ecology impacts social interactions, 
+the way sensorial features of the environment are oriented to and integrated 
+in social exchanges remains understudied. In particular, surrounding sounds 
+and noise have been neglected in interactional studies. This article offers a 
+video-based approach to aural–visual phenomena characterizing social activi-
+ties in urban contexts, with a special focus on how people walking in the city 
+orient to the sonic ecology of spatial and material surroundings – their sound-
+scape. It focuses on patients with psychosis, who are known to be particularly 
+sensitive to sensory environments, specifically noise. The article contributes to 
+several lines of inquiry. It adds to sound studies in an original way, by includ-
+ing not only sounds but a more holistic view of the soundscape, considering 
+the bodies of those who hear them and their responses to them. It contrib-
+utes to a recent interest of interactional studies in sensoriality, by suggesting 
+that the perception of sounds can be integrated in a multimodal multisenso-
+rial analysis. It also contributes to the study of atypical populations within the 
+city, namely persons living with a diagnosis of psychosis, who are notoriously 
+affected by noise, but who have not yet been observed as they actually experi-
+ence noisy situations. These contributions are developed within the perspec-
+tive of multimodal conversation analysis, where video enables an understand-
+ing of how participants in social interaction mobilize talk and their bodies 
+within particular ecologies.
+2 . S t a t e o f t h e A r t
+The idea of soundscape has been proposed by Schafer (1977) to refer to our 
+sonic environment and our ability of distinguishing nuances of sounds not 
+only in nature but also in cultural and urban spaces. Sound qualities and aural 
+sensoriality have been addressed within sound studies (Pinch and Bijsterveld, 
+2012; Sterne, 2012), including acoustemology, an ethnographic exploration of 
+sonic sensibilities (Feld, 2015). The sound quality of the environment is a fun-
+damental dimension of the world we inhabit and of our sensory experiences. 
+Although cities are often considered as noisy places, the array of sounds that 
+populate them is much larger and can be categorized in many ways (Thibaud, 
+2003), which may be variously considered by citizens: ‘the spaces of the city 
+form an ordered as well as a temporally defined ecology of noise, sound and 
+occasional silence and one which is regularly contested at both the individual 
+and broader political scales’ (Atkinson, 2007: 1908).
+How to capture, then, the ways in which the soundscape actually 
+impacts the details of social interaction? Despite developments in conversa-
+tion analysis concerning multimodality (Goodwin, 2017; Mondada, 2016; 
+Streeck et al., 2011), and multisensoriality (Mondada, 2019), as well as an 
+interest in the spatial surroundings of social interaction (Bergmann, 1990; 
+
+73
+M e r l i n o e t a l . : W a l k i n g t h r o u g h t h e c i t y s o u n d s c a p e
+Haddington et al., 2013), non-linguistic sounds and their sensory appraisal 
+have been largely neglected in this approach. Recent contributions (Keevallik 
+and Ogden, 2020) focus on the sounds of the body (like grunts, sniffs, etc.), 
+rather than sounds of the environment or noisy contexts. An exception are 
+Heinemann and Rauniomaa (2016) and Rauniomaa and Heinemann (2014) 
+examining how participants adjust to ambient noise, by adapting their talk 
+and by turning on or muting auditory objects – in the latter case, displaying 
+prioritizing talk. By focusing on how noise is oriented to and integrated in 
+actual situated practices, we propose an approach of aural sensoriality in con-
+versation analysis.
+Noisy environments have been identified as particularly harmful for 
+the global population in general, and for people with psychosis in particular 
+(Vassos et al., 2012). Noise is a well-documented source of stress in psychiatric 
+research on psychosis. However, research in psychiatry on ‘auditory anoma-
+
+--- METHODS/RESULTS EXCERPT ---
+Participants might orient to sounds as perturbing noise not only by bodily 
+reacting to them (§5.1.1) or explicitly commenting on a noisy event (§5.1.2), 
+but also by showing a change in their verbal and embodied conduct before and 
+after the noise.
+In the next fragment (Excerpt 5), Benoît and Nadia are walking 
+along a sidewalk. Nadia recognizes, on the right side of the sidewalk, the 
+building and signs of a company she works with and she starts to talk 
+about this company. The conversation unfolds in an ordinary way, initi-
+ated by Nadia’s noticing, and collaboratively developed through Benoît’s 
+questions and displays of interest (this part of the transcript is omitted 
+here). Meanwhile, the participants not only continue to walk together, but 
+they also alternatively look together at details of the environment and at 
+each other as they talk.
+The verbal and embodied conduct of Benoît is observably altered a 
+few seconds after, when a series of audible noises occurs. At this precise 
+moment, the participants are walking past a big truck (Figure 9), which 
+not only spatially restricts the way, creating a narrow corridor, but also 
+possibly amplifies the effects of noise. The first two noises occur while 
+Nadia is mentioning some presents the company offered to its customers 
+for Christmas:
+
+82
+V i s u a l C o m m u n i c a t i o n 2 2 ( 1 )
+Excerpt 5a (B_W_013756) 
+The first metallic noise is quite short (2) and seems to capture Benoît’s atten-
+tion (who looks to his right, Figure 10). Nadia continues her turn by represent-
+ing with her hands, in an iconic gesture, the ‘coffret’ (small box) she is talking 
+about: while she increments her turn, by adding more details (4), she gazes at 
+
+83
+M e r l i n o e t a l . : W a l k i n g t h r o u g h t h e c i t y s o u n d s c a p e
+Excerpt 5b 
+Benoît, who is now looking in front and responds with a minimal nod. Another 
+very loud metallic noise occurs (6) that overlaps with Nadia’s turn: while she 
+keeps looking at Benoît, he first looks down (Figure 11), and then to his left 
+(Figure 12). These gaze reorientations are sequentially located during and after 
+the noise occurs. In contrast, the noise does not affect Nadia’s turn who, despite 
+a short hesitation/perturbation, continues to talk and completes her turn with a 
+final falling intonation (7). Following a short pause (8), she increments it again 
+with a new development (9). This shows how Nadia is managing the absence of 
+immediate uptake by Benoît. He only responds later (10), in a quite delayed and 
+minimal way; moreover, his turn is characterized by an irritated prosody (high 
+volume and stretched syllables). He does not gaze at Nadia any more but focuses 
+instead on the street in front of him.
+His posture becomes even more disengaged in what follows: 
+Keeping the focus on the same conversational topic, after a long silence (11), 
+Nadia produces an assessment (12). Assessments project the relevance of an 
+answer/acknowledgement by the interlocutor: Benoît aligns to this projection, 
+but only after a pause and with a minimal ouais (14). The temporality of his 
+
+84
+V i s u a l C o m m u n i c a t i o n 2 2 ( 1 )
+turns and his minimal contributions show a quite different engagement in the 
+conversation, as compared to what he was doing just before this noise occurred.
+The conversation fades out and a very long silence follows (29 seconds: 
+the longest silence in the entire walk-along, 17–21). During this conversa-
+tional gap, other noise occurs: first, a car horn (18), following which Benoît 
+looks down (this shows again a recurrent sequential pattern, in which gazing 
+down follows a noise); then a very strident and long noise (like a screech of 
+tyres, 20). While Nadia does not seem to change her conduct, Benoît looks to 
+his left and squeezes his mouth (Figures 13–14), progressively walking away 
+from his partner (Figure 15). During the following pause (21), Benoît looks 
+to the front again and then from right to left in a circumspect way. This long 
+silence is interrupted by Nadia who finally introduces a new topic (22), for-
+matted as a question (which prompts her interlocutor to respond).
+This excerpt shows how participants might be affected by surround-
+ing noise, even when they do not explicitly turn to or comment on it. The 
+comparison between Benoît’s (patient and hearer) conversational conduct 
+before and after a noisy event – especially a loud and strident one – reveals 
+dramatic changes in his capacity to participate in the conversation. These 
+changes are observable in the form of minimal replies, delayed contribu-
+tions and absence of topic initiation or collaboration. Moreover, they are 
+manifested by a particular solitary gait (distinct from a coordinated walk 
+with the partner), gaze aversion and gaze redirection, browsing the envi-
+ronment and orienting towards the source of the noise. Even if he does 
+not make any comment about the noise, the fine-grained sequential analy-
+sis of his conduct reveals important perturbations, which should be taken 
+into consideration to identify possible behavioural effects of urban audible 
+sources of stress.
+To sum up, video data make accessible not only the sounds character-
+izing the city environment, but first and foremost the participants’ embodied 
+and verbal conduct in reaction to them, making them relevant and meaning-
+ful (or not). This allows the identification of complex, context-dependent fea-
+tures that shape the treatment of the city soundscape among urban dwellers. 
+Moreover, this confirms that persons living with a diagnosis of psychosis are 
+hypersensitive to urban noise, and enables possible differentiation between 
+persons with psychosis and other city users.
+5.2. Talking about noise in video elicitations
+Persons with psychosis often talk about noise as being stressful. However, as 
+shown above, urban noise is treated as a source of perturbation only in cer-
+tain circumstances and not in others. So, how can video-el
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 of Excerpt 1, reproduced here below). 
+Figure 2), while 
+Figure 3), 
+Figure 6), fully engaging in and enjoy-
+Figure 7). She also makes a negative assessment (HE, 6) and 
+Figure 8). He offers an account for that to Irina (8), still joking. 
+Figure 9), which 
+Figure 10). Nadia continues her turn by represent-
+Figure 11), and then to his left 
+Figure 12). These gaze reorientations are sequentially located during and after 
+Figure 15). During the following pause (21), Benoît looks 
+Figure 18). Benoît 
+Figure 19). In this way, the categorization is aligned both 
+
+======================================================================
+
+### RECORD ID=984 | screening_verdict=INCLUDE | year=2024
+JOURNAL: LANDSCAPE RESEARCH
+TITLE: A study on the fusion of musical theme landscape and soundscape in Hefei Feicui Lake scenic spot, China
+DOI: 10.1080/01426397.2024.2307003
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+A study on the fusion of musical theme landscape and 
+soundscape in Hefei Feicui Lake scenic spot, China
+Su Wanga 
+and Qingqing Xiaob 
+aCollege of Art, Anhui University, Hefei, China; bSchool of Biology, Food and Environment, Hefei University, 
+Hefei, China 
+ABSTRACT 
+The health of the urban public can be promoted by shaping ecological 
+landscapes and reducing noise. Visual landscapes and soundscape, con­
+sidered as important components of sustainable urban development, 
+are becoming increasingly concerned. In this study, Hefei Feicui Lake 
+scenic spot in China was regarded as an example. By using question­
+naire survey, soundwalks and acoustic monitoring methods, which 
+aimed to understand people’s sense of identification with musical 
+theme landscape and soundscape in the area, and further explored the 
+effects of the interaction between musical theme landscape and sound­
+scape on the perceived soundscape restoration of visitors. The results 
+showed that musical theme landscape and soundscape could affect 
+people’s emotions on the individual level and their behaviours, such as 
+staying (viewing the scenery or rest) on the social level. On this basis, a 
+strategy for creating urban public space inspired by the art of music 
+was proposed as the topic of this study.
+KEYWORDS 
+Music; soundscape design; 
+landscape; design; 
+sculpture; fountain; 
+perception; the urban 
+public space; acoustics; art 
+Introduction
+From a visual perspective, the impact of urban landscapes on human psychology is gradually 
+receiving attention (Deng et al., 2020; Jeon & Jo, 2020; Tan, Hasegawa, Lau, & Tang, 2022). On 
+the other hand, noise has a negative impact on people’s daily lives from an auditory perspective, 
+and many countries are emphasising the negative impact of noise on public health (Wang, He, 
+Li, & Xiao, 2023). Therefore, the urban landscape and acoustic environment, regarded as impor­
+tant environmental elements in creating the urban overall space, gradually gained increasing 
+attention and have been studied thoroughly (Deng et al., 2020; Jeon & Jo, 2020; Tan et al., 2022; 
+Wang, He, Li, et al., 2023). Although humans shaped landscapes that decorated the environment 
+or eliminated these ‘noise’ in urban spaces, a single type of landscape or soundless city is impos­
+sible to live in and also unacceptable since other possibilities exist. From another perspective, 
+the landscape and the sound of a city are reflections of people’s public life, playing a complex 
+role in the city (Deng et al., 2020; Wang, He, Li, et al., 2023; Wang, He, Xiao, 2023).
+In the academic community, more and more scholars are realising that the study of landscape 
+and sound relied on the physical measurements, especially the study of vision and sound levels 
+(Deng et al., 2020; Jeon & Jo, 2020; Kang, 2023; Tan et al., 2022). The urban landscape includes 
+natural and artificial landscape elements. The elements of natural landscape mainly refer to the 
+natural landscape, such as mountains, ancient trees, stones, rivers, lakes, and oceans. The main 
+CONTACT Su Wang 
+wangsu@ahu.edu.cn; Qingqing Xiao 
+xiaoqq@hfuu.edu.cn 
+ß 2024 Landscape Research Group Ltd
+LANDSCAPE RESEARCH 
+2024, VOL. 49, NO. 3, 410–427 
+https://doi.org/10.1080/01426397.2024.2307003 
+
+elements of artificial landscape include cultural relics and historical sites, landscaping, artistic 
+sketches, commercial markets, buildings and squares (Tan et al., 2022). In the 1960s, Canadian 
+composer R. Murray Schafer proposed the concept of ’soundscape’ (Schafer, 1977). According to 
+International Organization for Standardization (ISO) 12913-1:2014 Acoustics-Soundscape-Part 1: 
+Definition and Conceptual Framework (2014), the soundscape concept focuses on the interrela­
+tionship between sound, person and environment, both in space and time, mainly includes 
+natural sound, artificial sound and historical sound, cultural sound and folk activity sound. The 
+aforementioned standard was further developed in 2018 and 2019 through ISO/TS 12913-2: 2018 
+(data collection and reporting requirements) (2018) and ISO/TS 12913-3:2019 (data analysis) 
+(2019). Another standard (design and intervention) is currently being prepared. The study of 
+soundscape involves multiple disciplines, such as acoustics, musicology, psychology, and main 
+studies of the interrelationships between human hearing, acoustic environment and society. It 
+views the acoustic environment as a resource rather than a physical parameter (Wang, He, Li, 
+et al., 2023; Wang, He, Xiao, 2023; Wang & Xiao, 2023a; Wang, Shao, Duan, et al., 2022).
+Musical theme landscape is the art of landscape created by using relevant musical objects as 
+materials. Musical theme landscape and soundscape in large urban green parks can not only alle­
+viate the pressure of tourists but also establish a certain relationship between tourists and soci­
+ety (Gozalo, Morillas, Gonzalez, & Moraga, 2018; Miterska & Kompała, 2023; Valipour et al., 2020; 
+Zhou, Dai, Zhao, Hao, & Wen, 2022). For example, Jeon and Jo (2020) and Deng et al. (2020) ela­
+borated on the importance of visual and auditory landscapes. A previous study confirmed that 
+the widespread use of ‘pocket parks’ for social activities could benefit the health of the residents 
+with mental health or psychological stress (Stigsdotter & Peschardt, 2014). Consequently, it is 
+necessary to engage healthy residents in social activities that are even more important for the 
+residents with psychological stress. However, the functional research on the soundscape men­
+tioned above was only limited to the evaluation of visual or auditory functions.
+Currently, there are few studies on the integration of visual and auditory functions. Especially, 
+there are few design theories for musical theme landscape, which has led to the blindness in the 
+creation of musical theme landscapes in the urban public space, such as the lack of prominent 
+themes and the singular of landscape. At the same time, as music is
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+Study design
+Feicui scenic spot (11715’ N, 31.86’ E) is located at No. 1 Rongcheng Road, Economic and 
+Technological Development Zone, Hefei, China, and it was a key project in Hefei in 2006 and is 
+also a national 4 A level scenic area (Figure 7(c)). The whole scenic spot covers an area of about 
+135 hm2, including about 63 hm2 of the lake surface, which was reconstructed from the Gugeng 
+Reservoir (Wang, He, Xiao, 2023). The terrain is open and gentle, and the water surface and vari­
+ous trees combine to create a beautiful natural scenery in the spot. Feicui Lake scenic spot is div­
+ided into four districts and one park, ecological leisure and entertainment scenic spots, dam 
+landscape interaction area, Feicui Lake Welcome Hotel Area, and Feicui Park (Wang, He, Li, et al., 
+2023). As an ecological scenic area, it mainly consisted of the green space and water surface 
+Figure 7. Hefei Feicui Lake scenic spot (function partition). (a) Musical Foundation. (b) Violin Island. (c) Feicui Lake Scenic 
+Spot (Su Wang).
+416
+S. WANG AND Q. XIAO
+
+with rich plants, trees, shrubs, and a combination of evergreen and spring, summer, autumn and 
+winter. Visitors can explore it from tree formations, lawns, and study roads appreciate the scen­
+ery, and experience the culture of the scenic area in the reading space. The other landscape ele­
+ments can also make tourists feel as if they are far away from the city, and come to the green 
+countryside villages to completely relax their mood.
+The main areas of this study were marked in Figure 7. The Feicui Lake scenic spot adopts vari­
+ous forms of musical theme landscape construction, and the violin island (Figure 7(b)), located in 
+the centre of Feicui Lake, draws inspiration from the violin body. The two sides of the violin island 
+are curved, and the entire body is like a gourd with symmetrical, uniform and gradual characteris­
+tics. This shape is close to the free curve advocated by modern gardens. There is also a musical 
+fountain in the lake (Figure 7(a)), accompanied by the sound of music, which can dance in differ­
+ent forms in night, to achieve a perfect combination of fountain water type, lighting and colour 
+changes, and melody changes, making the musical theme landscape more vivid and rich in con­
+tent, which can bring shock to the tourists on site. In this study, the visual and auditory of tourists 
+were investigated by determining on-site sounds through sounwalks, which involved in exploring 
+an area through walking, listening to and recording all sounds heard, reflecting on their social and 
+cultural background and significance, improving people’s perception of sound, and the perceptual 
+relationship between people and the environment. This provides a method for studying the cul­
+tural, political, and social significance of urban soundscapes (Xie, Zhang, Lee, Lim, & Lee, 2021). 
+Meanwhile, targeted surveys and questionnaire surveys were conducted to provide certain design 
+strategies for creating musical theme landscapes in the urban public space.
+Questionnaire
+This study adopted a combination of soundscape walking and landscape satisfaction question­
+naire survey. Soundwalks is commonly used in environmental acoustics research, allowing partici­
+pants to carefully listen to the soundscape environment and the sounds they have experienced 
+and make judgments. In order to study the acoustic environment of the Feicui Lake scenic spot, 
+a soundwalks with 10 sampling points (break locations), at the main scenic spots of Feicui Lake 
+was shown in Figure 8. During the research process, 273 Feicui Lake scenic spot tourists were 
+randomly interviewed using the Likert scale. This study was conducted in March 2023 in Hefei 
+Feicui Lake scenic spot. BSWA801 (Beijing Tongde Entrepreneurship Technology Co., Ltd., Beijing, 
+China) sound level metres, the Norsonic Nor121 (Norsonic Co., Ltd., Tranby, Norway) and 
+HUAWEI nova 3i Mobile (Huawei Technologies Co., Ltd., Shenzhen, China) were used for record­
+ing and filming, respectively.
+Based on the environmental characteristics of different locations, an evaluation of the corre­
+sponding urban space and soundscape design was obtained. After detailed measurements, the 
+average sound pressure level (LAeq) was determined on the pedestrian walkway of the violin island 
+in the central area of Feicui Lake scenic spot, and BSWA801 sound level metre (Beijing Tongde 
+Entrepreneurship Technology Co., Ltd., Beijing, China) was used on a tripod 1.5 metres above the 
+ground. The SPL was measured using the Norsonic Nor121 (Norsonic Co., Ltd., Tranby, Norway), and 
+then analysed using 01 dB software (01dBMetravib Co., Ltd., Paris, France). During the measurement 
+process, the temperature was 20 C and the relative humidity of the research area was 60%. The 
+measurements were made according to the ISO sound level standards prepared by the 
+International Organisation for Standardisation (ISO 12913-1:2014 Acoustics—Soundscape—Part 1: 
+Definition and Conceptual Framework). Three project personnels were conducted simultaneously by 
+three graduate students with research experience.
+The questionnaire survey was conducted voluntarily by the respondents and obtained written 
+informed consent from all study participants. Before filling in the questionnaire, it was confirmed 
+that the respondents’ hearing was normal through questioning. The questionnaires were issued 
+LANDSCAPE RESEARCH
+417
+
+on 3 March 2023 and collected on 6 March. A total of 300 questionnaires were distributed using 
+the soundscape stroll and questionnaire survey (Richter scale), and 273 valid questionnaires were 
+collected (Table 1), with a questionnaire recall rate of 91%. After excluding questionnaires with 
+incomplete or obvious errors in answers, a total of 262 valid questionnaires were collected, with 
+an effective rate of 87.33%. The data input is conducted by professionally trained researchers 
+fairly and objectively to ensure the correct process of dat
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, Han Ethnic Barrier, 2020). 
+Figure 2, Ningbo Tourism, 2017). After 
+Figure 3, Dahe Network, 2016), which was mainly composed 
+Figure 1. ‘Tree Array Flower Belt’ scenic area (Han Ethnic Barrier, 2020).
+Figure 2. ‘Water Piano’ sculpture (Ningbo Tourism, 2017).
+Figure 3. Sea Organ (Dahe Network, 2016).
+Figure 4); the total area is 
+Figure 5), and this also showed the 
+Figure 6).
+Figure 4. Wild Goose Pagoda Musical Fountain (Baidu, 2023).
+Figure 5. Decomposition diagram for model building (Su Wang).
+Figure 6. Research procedures (Su Wang).
+Figure 7(c)). The whole scenic spot covers an area of about 
+Figure 7. Hefei Feicui Lake scenic spot (function partition). (a) Musical Foundation. (b) Violin Island. (c) Feicui Lake Scenic 
+Figure 7. The Feicui Lake scenic spot adopts vari­
+Figure 7(b)), located in 
+Figure 7(a)), accompanied by the sound of music, which can dance in differ­
+Figure 8. During the research process, 273 Feicui Lake scenic spot tourists were 
+Table 1), with a questionnaire recall rate of 91%. After excluding questionnaires with 
+Figure 9. In this survey, the proportion 
+Table 1) is about the 
+Figure 8. Ten sampling points in Hefei Feicui Lake scenic spot (image adapted by Su Wang from Baidu Maps).
+Table 1. The visual and auditory scale of Hefei Feicui Lake scenic spot.
+Table 2), showing that the reliability and validity of the questionnaire met the requirements.
+Figure 8), three replicates were used and the following conclusions were 
+
+======================================================================
+
+### RECORD ID=999 | screening_verdict=INCLUDE | year=2024
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Comparative evaluation of soundscapes in human activities spatial contexts of pedestrian spaces adjacent to arterial roads
+DOI: 10.1016/j.scitotenv.2024.172198
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Science of the Total Environment 928 (2024) 172198
+Available online 4 April 2024
+0048-9697/© 2024 Elsevier B.V. All rights reserved.
+Comparative evaluation of soundscapes in human activities spatial contexts 
+of pedestrian spaces adjacent to arterial roads 
+Xiaodong Lu a, Zhuangxiu Xie a, Peisheng Zhu a, Xiaoling Dai b,*, Yuan Zhang c, Wanqi Tao a, 
+Shiyuan Wang a 
+a School of Architecture and Fine Arts, Dalian University of Technology, Dalian 116023, China 
+b School of Design and Architecture, Zhejiang University of Technology, Hangzhou 310023, China 
+c School of Architecture and Urban Planning, Shenyang Jianzhu University, Shengyang 110168, China 
+H I G H L I G H T S 
+G R A P H I C A L A B S T R A C T 
+• Human activities spatial contexts are 
+considered. 
+• The evaluation method includes a sub­
+jective survey of sound clips. 
+• Human activity sounds masked traffic 
+noise and increased acoustic comfort. 
+• Human activity types and intensity 
+played 
+key 
+roles 
+in 
+soundscape 
+evaluations. 
+• High-intensity 
+activities 
+make 
+the 
+soundscape of pedestrian spaces more 
+vibrant. 
+A R T I C L E I N F O 
+Editor: Kai Zhang 
+Keywords: 
+Human activities spatial contexts 
+Traffic noise 
+Human activity sounds 
+Soundscape evaluation 
+A B S T R A C T 
+Pedestrian spaces adjacent to arterial roads are characterized by the dominance of traffic noise alongside various 
+human activities. Research on the impact of traffic noise on the soundscape evaluation of pedestrian spaces has 
+not considered human activities spatial contexts. To address this research gap, the present study constructed 
+auditory environments for pedestrian spaces in the contexts of commuting, residential, and commercial activ­
+ities. A total of seven auditory environments were subjected to laboratory auditory evaluations, including 
+perceived dominance of sound source, acoustic comfort, and perceived affective quality of the soundscape. The 
+results indicated that in pedestrian spaces with constant traffic noise, the presence of significant human activity 
+sounds led to a decreased perceived dominance of traffic noise and an increased acoustic comfort, despite the 
+higher acoustic energy. Thus, pedestrian spaces with a variety of human activity received better soundscape 
+evaluations. The elements that reflected the human activities spatial contexts, including the types and intensity of 
+human activities, played a crucial role in soundscape evaluations. Better acoustic comfort was reported in 
+pedestrian spaces characterized by low-intensity residential activities and high-intensity commercial activities. 
+Additionally, pedestrian spaces with more intense activities offered an actively engaging soundscape. The 
+findings can provide reference for a more accurate evaluation of the soundscape in pedestrian spaces and guide 
+the soundscape design of pedestrian environments. 
+* Corresponding author. 
+E-mail address: dai_xiaoling@hotmail.com (X. Dai). 
+Contents lists available at ScienceDirect 
+Science of the Total Environment 
+journal homepage: www.elsevier.com/locate/scitotenv 
+https://doi.org/10.1016/j.scitotenv.2024.172198 
+Received 31 October 2023; Received in revised form 25 March 2024; Accepted 1 April 2024 
+
+Science of the Total Environment 928 (2024) 172198
+2
+1. Introduction 
+The pedestrian space adjacent to arterial roads refers to the linear 
+public space enclosed by the interfaces on both sides of the road. With 
+the emergence of people-centric concepts, such as the creation of high- 
+quality pedestrian spaces (Burns, 2009), extensive research has been 
+conducted on the environmental comfort of pedestrian spaces. The 
+acoustic environment is a critical environmental factor in judging the 
+urban pedestrian space experience (Appleyard and Lintell, 1986). Ac­
+cording to the United Nations Environment Programme (UNEP), noise 
+pollution has become one of the major environmental issues faced by 
+humanity (United Nations Environment Programme, 2022). Noise 
+pollution also raises numerous issues related to social equity (World 
+Health Organization, 2019). Therefore, in the planning and design of 
+pedestrian spaces, the acoustic environment of these spaces should be 
+taken into consideration (Can et al., 2020; Margaritis and Kang, 2017; 
+Van Kempen et al., 2014). 
+In research on the acoustic environment in pedestrian spaces, 
+particular attention is given to traffic noise (Guski, 1997), as these 
+spaces, owing to their proximity to arterial roads, are predominantly 
+influenced by traffic noise. In China, it was found that one-third of the 
+length of arterial roads had traffic noise levels exceeding 70 dBA. The 
+areas on both sides of the main traffic arteries exhibited higher traffic 
+noise levels due to their proximity to the road noise sources (Ministry of 
+Environmental Protection, 2022). With the emergence of the concept of 
+inclusive cities, urban development has shifted toward a human- 
+centered approach. 
+Soundscape focuses on human perception (Kang, 2017; Kang et al., 
+2016; Zhang et al., 2024). ISO (International Organization for Stan­
+dardization, 2014) defines soundscape as “acoustic environment as 
+perceived or experienced and/or understood by a person or people, in 
+context”. Set out in the previous research (Herranz-Pascual et al., 2010; 
+Tarlao et al., 2021), the context is defined as interrelationships between 
+person, activity, and place. After the soundscape concept was intro­
+duced, soundscape research is interested in and has recently been pro­
+ducing an increasing body of work focusing on – identifying the context 
+and exploring changes in soundscape perception (Kang, 2006, Hong 
+et al., 2020a, 2020b; Jeon, 2015; Zhao et al., 2018). The morphology of 
+the area constitutes the context of a place. Soundscape perception of 
+urban pedestrian areas are affected by the morphology of the area, such 
+as the height-to-width ratios (H/Ws) in urban street canyon (Yilmaz 
+et al., 2023); road characteristics (Lu et al., 2019); 
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Selection and collection of sound sources 
+The study selected pedestrian spaces in three human activities spatial 
+contexts: commuting activities, residential activities and commercial 
+activities. First, pilot investigations were carried out before recording 
+the sound conditions required in the laboratory. We investigated a large 
+number of pedestrian spaces and identified and classified sounds into 
+three categories. First is traffic noise, present in all three human activ­
+ities spatial contexts. Second is conversations and sports sounds, present 
+in the residential activities contexts. Third is hawking and music sounds 
+from shops, present in the commercial activities contexts. In the pilot 
+investigations, we measured the one-minute sound pressure level (SPL) 
+in the pedestrian spaces with AWA6228, and found that the SPL varied 
+from 62 dB to 69 dB if residential activities dominated, and from 66 dB 
+to 74 dB if commercial activities dominated. The SPL of the traffic noise 
+was about 68 dB. Measured data are shown in Appendix A. 
+We then selected pedestrian spaces in Dalian, China to record the 
+X. Lu et al. 
+
+Science of the Total Environment 928 (2024) 172198
+3
+sound and create the corresponding sound source files. The selection of 
+the recording locations corresponded to the types of sound sources. We 
+selected a sidewalk next to a traffic arterial road (Fig. 1a) for recording 
+traffic noise (TN); residential pedestrian spaces with frequent human 
+interaction and a high occurrence of public activities (Fig. 1b) for 
+recording residential activity sounds (RS), primarily including conver­
+sations and sports sounds; and commercial pedestrian spaces with high 
+storefront openness and dense crowds (Fig. 1c) for recording commer­
+cial activity sounds (CS), primarily including sales calls and broadcasts. 
+All recorded activity sounds effectively captured a particular acoustic 
+atmosphere. The recording time was from 9:00 AM to 11:00 AM on a 
+bright and sunny weekend, ensuring a higher density of people while 
+avoiding peak traffic hours. 
+Previous studies have demonstrated that human sounds can effec­
+tively mask noise (Meng et al., 2017). However, if the recorded sounds 
+include the spatial properties of the sound, the overlaying and repro­
+duction may introduce confounding effects of spatial unmasking(Jones 
+and Macken, 1995; Hong et al., 2017). For this reason, we used 
+monaural recordings, which has been widely used in the study of 
+soundscape augmentation of natural scenes. Simultaneous, monaural 
+recording methods have been comparable to binaural on most sound­
+scape evaluation indicators (Xu and Kang, 2019). We recorded monaural 
+audio samples using NTI XL2. The recording levels were calibrated using 
+the B&K 4231 sound calibrator. We set the sampling rate and bit depth 
+to 48 kHz and 24 bits. In each recording location, we selected a site 
+where we could capture a “pure” sound source and then captured a six- 
+minute audio recording of the sound environment. For example, when 
+recording traffic noise, we positioned the microphone facing the main 
+road. When capturing activity sounds, we made recordings on the side 
+away from the main road. During recording, we mounted the NTi 
+Acoustic Analyzer on a stand at a height of 1.5 m above the ground. The 
+sound parameters measured in the field are shown in Table 1. 
+Fig. 1. Activity contexts in pedestrian spaces. (a) commuting activity. (b) residential activity. (c) commercial activity. 
+Table 1 
+The sound parameters measured in the field. 
+Type 
+LAeq,6min(dBA) 
+LCeq,6min(dBA) 
+LAF5,6min(dBA) 
+LAF95,6min(dBA) 
+TN 
+68.3 
+77.3 
+74.7 
+63.0 
+RS 
+66.2 
+74.8 
+70.1 
+61.6 
+CS 
+67.8 
+73.2 
+71.4 
+62.6 
+Fig. 2. Spectrograms of sound. (a) Traffic noise. (b) Residential activity sound. (c) Commercial activity sound. Note. The vertical axis represents frequency; the 
+horizontal axis represents change over time. 
+X. Lu et al. 
+
+Science of the Total Environment 928 (2024) 172198
+4
+2.2. Auditory environments 
+We used the recorded sound clips to construct auditory environments 
+of pedestrian spaces with different human activities spatial contexts. In 
+pedestrian spaces predominantly characterized by commuting activities 
+(PSCTA), the primary noise source was TN, with a relatively low average 
+human activity intensity, making human activity sounds negligible. In 
+pedestrian spaces were predominantly characterized by residential ac­
+tivities (PSRA), the main sounds included TN and RS. In pedestrian 
+spaces predominantly characterized by commercial activities (PSCA), 
+the primary sounds were TN and CS. We all know that the more intensity 
+of human activity in a pedestrian space, the higher SPL of RS or CS. 
+As such, we extracted a one-minute audio sample from the TN, RS 
+and CS, and Fig. 2 shows the spectrograms of the sound samples. In 
+particular, RS and CS fluctuated less in the high frequency range and the 
+overall frequency was relatively homogeneous compared to TN. The 
+concentration frequency of the high SPL of RS was lower than that of CS. 
+When studying the influence of natural elements on soundscape 
+perception, natural sounds have been found to mask noise, the signal-to- 
+noise ratio (SNR) between natural sounds and target noise is used to 
+characterize the level of natural elements (Coensel et al., 2011; Hong 
+et al., 2020b; Jeon et al., 2012), The more natural elements present, the 
+louder are the natural sounds, and then the greater is the SNR. Human 
+sounds also have a masking effect on noise (Meng et al., 2017; Meng and 
+Kang, 2015), Therefore, we utilized the SNR between activity sounds 
+(signal) and traffic noise (noise) to represent the intensity of activities. 
+The equivalent sound pressure level of traffic noise in the selected 
+one-minute audio file was 68 dB, which is consistent with the sound 
+pressure level of traffic noise in most spaces. We used the 68 dB level of 
+traffic noise as background noise, while the sound o
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1a) for recording 
+Fig. 1b) for 
+Fig. 1c) for recording commer­
+Table 1. 
+Fig. 1. Activity contexts in pedestrian spaces. (a) commuting activity. (b) residential activity. (c) commercial activity. 
+Table 1 
+Fig. 2. Spectrograms of sound. (a) Traffic noise. (b) Residential activity sound. (c) Commercial activity sound. Note. The vertical axis represents frequency; the 
+Fig. 2 shows the spectrograms of the sound samples. In 
+Table 2. 
+Table 2 
+Table 3 
+Fig. 3. Mean scores for the perceived dominance of sound source of the different auditory environments. (a) Traffic noise, (b) human activity sounds. 
+Table 2) indicated the significant 
+Table 3 summarizes 
+Fig. 3 plots the mean values of the 
+Table 4 summarizes the output of the RM ANOVA on whether 
+Fig. 4; the evaluation data on the 
+Fig. 5 presents the perceived affective quality of the soundscape for 
+Table 4 
+Fig. 4. Mean acoustic comfort scores of the different auditory environments. 
+Table 4) indicated that the main 
+Table 5 summarizes the output of the RM ANOVA on whether the types 
+Fig. 5. Density plots of subjective evaluation data from 30 participants projected onto the soundscape circumplex model. (a) commuting activities, (b) residential 
+Fig. 6; the evalu­
+Fig. 7. 
+
+======================================================================
+
+### RECORD ID=1005 | screening_verdict=INCLUDE | year=2024
+JOURNAL: HELIYON
+TITLE: Crowdsourced cycling data applications to estimate noise pollution exposure during urban cycling
+DOI: 10.1016/j.heliyon.2024.e27918
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Heliyon 10 (2024) e27918
+Available online 17 March 2024
+2405-8440/©
+2024
+The
+Authors.
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY
+license
+(http://creativecommons.org/licenses/by/4.0/).
+Research article 
+Crowdsourced cycling data applications to estimate noise 
+pollution exposure during urban cycling 
+Rebecca Wogan , John Kennedy * 
+Department of Mechanical, Manufacturing and Biomedical Engineering, Trinity College Dublin, University of Dublin, D02 PN40 Dublin, Ireland 
+A R T I C L E I N F O 
+Keywords: 
+Noise pollution exposure 
+Cyclist experiences 
+Cyclist behaviors 
+Strava 
+Environmental health data 
+A B S T R A C T 
+This research demonstrates a methodology to integrate freely available datasets to understand the 
+relationship between road traffic noise and cycling experiences in a medium sized city. An 
+illustrative example of the methodology was drawn from data for Dublin, Ireland. We aggregate 
+local environmental data with 81,403 Strava cycle trips, contextualised by feedback from 335 
+cyclists to estimate exposure levels and infer impacts on experiences and behaviours. Results 
+demonstrate that cyclists recognise that they are subjected to increased noise levels and experi­
+ence negative psychophysical consequences as a result, but they tend to downplay the impact of 
+noise as merely a minor annoyance. Noise also impacts behaviour, most noticeably through 
+temporal and spatial detours. Geospatial mapping was used to visualise the relationship between 
+noise pollution and cycling activity. Estimating traffic noise levels across two cycle routes, direct 
+vs popular detour, revealed a +10 dB(A) increase in exposure for a saving of approximately 4 min 
+on the direct route compared to the detour. Spatial inequities in exposure levels may have serious 
+health consequences for cyclists in a city such as Dublin. The methodology is demonstrated as 
+suitable for policy level interventions and planning purposes. 
+1. Introduction 
+An essential aspect of urban life is mobility [1], and with one-third of the world’s population expected to reside in cities by 2030 
+[2], decisions regarding how we move in cities are pressing. Cycling is the most energy-efficient mode of transport, with unmistakable 
+individual and societal health and well-being benefits due to physical exercise, space efficiency, no production of greenhouse gas 
+emissions, air or noise pollution [3]. In contrast, motorised vehicles exert grossly negative consequences on society, including but not 
+limited to traffic congestion, severe accidents, air and noise pollution [4]. Transitioning from driving a car to cycling can amount to a 
+9-fold benefit to the health of an individual [5], in the Irish context active travel saves the Health Service €29.2 m every year [6]. 
+Importantly, greater numbers of people cycling and walking bring greater safety and enjoyment, unlike vehicular transport [7]. Not 
+surprisingly, there are renewed drives towards increasing the numbers of people choosing to cycle as urban transportation [8]. 
+However, a risk factor to achieving this modal shift may be noise pollution, of which motorised road traffic is the most severe source 
+in cities [9]. The World Health Organisation recommends a limit of 53 dB Lden average exposure, with levels exceeding this associated 
+with harmful health effects. Others argue that these WHO limits underestimate the detriments to health and wellbeing that can result 
+from much lower levels [10]. In contrast to other stressors (such as exposures to second-hand smoke) which are falling, noise exposure 
+is rising in Europe [11]. With traffic noise frequently exceeding 60 dB (dBA), exposure levels are highest among active travel users due 
+* Corresponding author. 
+E-mail address: john.kennedy@tcd.ie (J. Kennedy). 
+Contents lists available at ScienceDirect 
+Heliyon 
+journal homepage: www.cell.com/heliyon 
+https://doi.org/10.1016/j.heliyon.2024.e27918 
+Received 25 October 2023; Received in revised form 28 February 2024; Accepted 8 March 2024 
+
+Heliyon 10 (2024) e27918
+2
+to their proximity to traffic and lack of protection [12,13]. 
+The detrimental and far-reaching impacts of noise on public health are becoming increasingly hard to ignore [14]. While re­
+searchers have long been aware of the dangers of noise induced hearing loss, more recently it has been shown that elevated or pro­
+longed exposure can result in serious psychological and physiological impacts [15]. Physiologically, this can involve the release of 
+stress hormones, arousal of the endocrine and autonomic nervous system, increased blood pressure, and heart rate fluctuations [16, 
+17]. As a result people experience feelings of irritability, anxiety, nervousness, and mood swings [18]. Far from being a mere irritant, 
+traffic noise is independently associated with increased morbidity and mortality risks including obesity [19], immune system 
+dysfunction [20], cognitive impairment [21], attention disorders in children [22], and diabetes [23] among a myriad of others [10]. 
+According to one survey, 44% of Europeans recognise the large impact noise exerts on people’s health. However, Ireland featured the 
+lowest recognition rate of any country at 16%, indicating that Irish citizens are significantly less informed than their EU peers on this 
+matter [24]. 
+While cycling facilitates building cardiovascular fitness, mental health, and improvements to quality of life [25,26], average noise 
+levels cyclists experience have reportedly reached 71–75 dB, effectively acting as a “barrier effect”, harming and further deterring 
+people from riding bicycles [13]. Research into cyclist noise exposure has begun to gain ground but is far from mature or mainstream. 
+The majority of research on this subject has been published since 2015, suggesting an increase in concern for environmental factors 
+related to cycling perhaps due to renewed global drives to increase the modal share [8] or advances in the development 
+
+--- METHODS/RESULTS EXCERPT ---
+Method­
+ology, Investigation, Formal analysis, Data curation, Conceptualization. John Kennedy: Writing – review & editing, Supervision, 
+Resources, Funding acquisition, Formal analysis, Data curation, Conceptualization. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Acknowledgments 
+The authors would like to thank Strava for providing a Research Partnership within their active travel promotion initiative. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.heliyon.2024.e27918. 
+References 
+[1] C.J. Matz, D.M. Stieb, M. Egyed, O. Brion, M. Johnson, Evaluation of daily time spent in transportation and traffic-influenced microenvironments by urban 
+Canadians, Mar, Air Qual. Atmosphere Health 11 (2) (2018) 209–220, https://doi.org/10.1007/s11869-017-0532-6. 
+[2] U. Nations, The World’s Cities in 2016, United Nations, 2016, https://doi.org/10.18356/8519891f-en. 
+[3] T. G¨otschi, et al., Integrated impact assessment of active travel: Expanding the Scope of the health economic assessment tool (HEAT) for walking and cycling, 
+Int. J. Environ. Res. Public. Health 17 (Jan. 2020) 20, https://doi.org/10.3390/ijerph17207361. Art. no. 20. 
+[4] D. Heinrichs, J. Jarass, Alltagsmobilit¨at in St¨adten gesund gestalten: wie Stadtplanung Fuß- und Radverkehr f¨ordern kann, Bundesgesundheitsblatt - 
+Gesundheitsforsch. - Gesundheitsschutz 63 (8) (Aug. 2020) 945–952, https://doi.org/10.1007/s00103-020-03180-1. 
+[5] J.J. de Hartog, H. Boogaard, H. Nijland, G. Hoek, Do the health benefits of cycling outweigh the risks? Environ. Health Perspect. 118 (8) (Aug. 2010) 
+1109–1116, https://doi.org/10.1289/ehp.0901747. 
+[6] P. Collins, “Walking and Cycling Index 2021,” National Transport. Accessed: January. 16, 2024. [Online]. Available: https://www.nationaltransport.ie/news/ 
+bike-life-dublin-2021-walking-and-cycling-index/. 
+[7] P.L. Jacobsen, Safety in numbers: more walkers and bicyclists, safer walking and bicycling, Inj. Prev. 21 (4) (Aug. 2015) 271–275, https://doi.org/10.1136/ 
+ip.9.3.205rep. 
+[8] A. Nikitas, S. Tsigdinos, C. Karolemeas, E. Kourmpa, E. Bakogiannis, Cycling in the era of COVID-19: lessons learnt and best practice policy recommendations for 
+a more bike-centric future, Sustainability 13 (9) (Jan. 2021), https://doi.org/10.3390/su13094620. Art. no. 9. 
+[9] Environmental noise guidelines for the European Region.” Accessed: January. 16, 2024. [Online]. Available: https://www.who.int/europe/publications/i/ 
+item/9789289053563. 
+[10] J.-P. Faulkner, E. Murphy, Estimating the harmful effects of environmental transport noise: an EU study, Sci. Total Environ. 811 (Mar. 2022) 152313, https:// 
+doi.org/10.1016/j.scitotenv.2021.152313. 
+[11] Burden of disease from environmental noise - Quantification of healthy life years lost in Europe.” Accessed: January. 16, 2024. [Online]. Available: https:// 
+www.who.int/publications-detail-redirect/9789289002295. 
+[12] H. Boogaard, F. Borgman, J. Kamminga, G. Hoek, Exposure to ultrafine and fine particles and noise during cycling and driving in 11 Dutch cities, Atmos. 
+Environ. 43 (27) (Sep. 2009) 4234–4242, https://doi.org/10.1016/j.atmosenv.2009.05.035. 
+[13] E.O. Okokon, et al., Particulates and noise exposure during bicycle, bus and car commuting: a study in three European cities, Environ. Res. 154 (Apr. 2017) 
+181–189, https://doi.org/10.1016/j.envres.2016.12.012. 
+[14] H. Marquart, K. Stark, J. Jarass, How are air pollution and noise perceived en route? Investigating cyclists’ and pedestrians’ personal exposure, wellbeing and 
+practices during commute, J. Transp. Health 24 (Mar. 2022) 101325, https://doi.org/10.1016/j.jth.2021.101325. 
+[15] M. Basner, et al., Auditory and non-auditory effects of noise on health, Lancet 383 (9925) (Apr. 2014) 1325–1332, https://doi.org/10.1016/S0140-6736(13) 
+61613-X. 
+[16] W. Babisch, Cardiovascular effects of noise, Noise Health 13 (52) (Jun. 2011) 201, https://doi.org/10.4103/1463-1741.80148. 
+R. Wogan and J. Kennedy 
+
+Heliyon 10 (2024) e27918
+16
+[17] S.L. Lusk, B. Gillespie, B.M. Hagerty, R.A. Ziemba, Acute effects of noise on blood pressure and heart rate, Arch. Environ. Health Int. J. 59 (8) (Aug. 2004) 
+392–399, https://doi.org/10.3200/AEOH.59.8.392-399. 
+[18] S. G¨ossling, A. Humpe, T. Litman, D. Metzler, Effects of perceived traffic risks, noise, and exhaust smells on bicyclist behaviour: an economic evaluation, 
+Sustainability 11 (2) (Jan. 2019), https://doi.org/10.3390/su11020408. Art. no. 2. 
+[19] B. Oftedal, et al., Road traffic noise and markers of obesity – a population-based study, Environ. Res. 138 (Apr. 2015) 144–153, https://doi.org/10.1016/j. 
+envres.2015.01.011. 
+[20] A. Kim, J.H. Sung, J.-H. Bang, S.W. Cho, J. Lee, C.S. Sim, Effects of self-reported sensitivity and road-traffic noise levels on the immune system, PLoS One 12 (10) 
+(Oct. 2017) e0187084, https://doi.org/10.1371/journal.pone.0187084. 
+[21] L. Tzivian, et al., Associations of long-term exposure to air pollution and road traffic noise with cognitive function—an analysis of effect measure modification, 
+Environ. Int. 103 (Jun. 2017) 30–38, https://doi.org/10.1016/j.envint.2017.03.018. 
+[22] M. Skrzypek, M. Kowalska, E.M. Czech, E. Niewiadomska, J.E. Zejda, Impact of road traffic noise on sleep disturbances and attention disorders amongst school 
+children living in Upper Silesian Industrial Zone, Poland, Int. J. Occup. Med. Environ. Health 30 (3) (May 2017) 511–520, https://doi.org/10.13075/ 
+ijomeh.1896.00823. 
+[23] C. Clark, H. Sbihi, L. Tamburic, M. Brauer, L.D. Frank, H.W. Davies, Association of long-term exposure to transportation noise and traffic-related air pollution 
+with the incidence of diabetes: a prospective cohort study, Environ. Health Perspect. 125 (8) (Aug. 2017) 087025, https://doi.org/10.1289/EHP1279. 
+[24] E.
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1) [50]. 
+Fig. 2 for a visualisation of the data collection sources and 
+Fig. 1. An overview of the region of interest featuring the five local administrative areas of Dublin City Council [51]. 
+Fig. 2. Data collection and analysis pipeline. a EPA, Environmental Protection Agency; b GIS, Geographical Information Systems; c ROI, Region 
+Fig. 3. Considering that many local authorities lack the resources for extensive data collection campaigns of cyclist noise exposure 
+Table 1 
+Fig. 3. Locations of the 17 noise monitoring stations in the Dublin City Council region. 
+Fig. 7a). Along this segment, noise values were extracted and an average equivalent noise exposure 
+Table 1). 
+Table 1. 
+Fig. 4 a). The ubiquity of cycling during rush hours was reflected in 83.9% of respondents stating 
+Fig. 4 b). When asked about their motivations for choosing to cycle, the majority stated time 
+Fig. 4 c). 
+Table 2). Closer investigation into specific emotional states revealed a majority of the sample have been left feeling irritable/angry 
+Table 2). While this is a minority, it is noteworthy that it is unlikely that bus or car users would factor noise 
+Table 2). These detours 
+Fig. 4. Summary of responses to survey questions enquiring into the time of day usually cycled, purpose, and reasons behind choosing to cycle as 
+Table 2). 
+Table 2 
+Fig. 5. Strava cycling trips across Dublin City administrative areas for the month of May 2022. 
+Fig. 5). See Table 3 for a brief summary of Strava cycling records for May 2022 and the previous May of 2021. In Table 3, there is a 
+Fig. 6) we can see that city noise levels are often predicted 
+Fig. 7a. The direct segment on t
+
+======================================================================
+
+### RECORD ID=1018 | screening_verdict=INCLUDE | year=2024
+JOURNAL: ECOLOGICAL INDICATORS
+TITLE: Exploring Acoustic-Visual perception and satisfaction in urban Parks: Based on behavioral analysis
+DOI: 10.1016/j.ecolind.2024.112022
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Ecological Indicators 162 (2024) 112022
+Available online 18 April 2024
+1470-160X/© 2024 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-
+nc/4.0/).
+Original Articles 
+Exploring Acoustic-Visual perception and satisfaction in urban Parks: Based 
+on behavioral analysis 
+Pengcheng Lai a, Dayi Ou a,*, Hanqing Zheng b 
+a School of Architecture, Huaqiao University, Xiamen 361021, PR China 
+b Fujian Academy of Agricultural Sciences, Fuzhou 350005, PR China 
+A R T I C L E I N F O 
+Keywords: 
+Urban parks 
+Soundscape 
+Acoustic-visual perception 
+Behavioral states 
+Satisfaction 
+Indicators 
+A B S T R A C T 
+Urban parks are vital green spaces where people can participate in various activities. A favorable acoustic-visual 
+environment is crucial for satisfaction, and acoustic-visual perception may vary depending on the behavioral 
+state. This study aimed to examine the acoustic-visual perception of people undertaking different behaviors 
+(sitting, walking, and acoustic) and explore the relationship between acoustic and visual perceptions and 
+satisfaction. The study was conducted using questionnaire surveys (N = 1044) in three urban parks in Quanzhou, 
+China. The results showed that (1) respondents undertaking different behaviors had different acoustic-visual 
+perceptions, (2) satisfaction was influenced by acoustic-visual perception, (3) overall satisfaction was influ­
+enced by both acoustic and visual satisfaction, and (4) acoustic, visual, and overall satisfaction could be pre­
+dicted via multiple linear regression. Based on the results and design strategies of this study, a more comfortable 
+activity environment for people in urban parks is proposed. 
+1. Introduction 
+With the rapid growth of cities, the density of buildings and popu­
+lation in built-up areas is increasing (Liu et al., 2020; Ning et al., 2022) 
+while the amount of vegetated area is declining (Lin and Wu, 2019; Yu 
+et al., 2022). China, the world’s largest developing country, has un­
+dergone rapid urbanization over the past 20 years (Wei et al., 2022), and 
+the importance of green spaces is attracting considerable attention in the 
+country (Lee and Maheswaran, 2011). Urban parks offer residents the 
+opportunity to connect with nature while promoting physical activity 
+(Feng et al., 2021; Marquet et al., 2022; Niu et al., 2022; Sun et al., 
+2023), and the environmental conditions of urban parks influence the 
+perception (Wu and Chen, 2023) and feelings (Chiesura, 2004) of resi­
+dents, particularly the acoustic (Gozalo et al., 2018) and visual (Xiang 
+et al., 2022) environmental conditions, for which changes may influence 
+the overall environmental perception (Ta et al., 2021). 
+People’s perceptions of a given context are shaped by the informa­
+tion received through their visual, auditory, and olfactory senses (Stein, 
+2012). Studies investigating the perception of acoustic and visual en­
+vironments have been performed from multiple perspectives. In terms of 
+the acoustic environment, the International Standard Organization has 
+defined the soundscape as “the acoustic environment as perceived or 
+experienced and/or understood by a person or people, in context” 
+(Schulte-Fortkamp et al., 2023). Currently, the subjective perception of 
+an acoustic environment includes annoyance (Nang Li et al., 2012), 
+sound characteristic descriptions (Nitidara et al., 2022), personal noise 
+sensitivity (Van Renterghem and Botteldooren, 2016), and personal 
+sound source preferences (Yong Jeon et al., 2011). To intuitively 
+determine the influence of the acoustic environment, one study 
+continuously measured the sound pressure level for an acoustic comfort 
+survey (Yang and Kang, 2005), while to better describe the perceived 
+acoustic environment, other studies have investigated the type of sound 
+(Kang et al., 2017), acoustic indicators (Yang and Kang, 2005) or 
+perceived affective qualities (Xiang et al., 2022). Liu et al. (2018) con­
+ducted field surveys in Fuzhou and found that the type of sound in­
+fluences the tranquility of a soundscape, while Hasegawa et al. (2022) 
+evaluated the perceived affective quality (PAQ) of soundscapes based on 
+guidance provided by the soundscape indicators in (ISO 12913-2: 2018). 
+Although PAQ has been a standard for many years, relatively few studies 
+have applied this scale to the evaluation of soundscapes. In addition, 
+sound-related activities generate diverse sound-level environments, 
+leading to different levels of acoustic comfort for respondents (Meng and 
+Kang, 2016). Hence, it is imperative that perception is classified into 
+different activity groups. The development of soundscape research has 
+* Corresponding author. 
+E-mail address: oudayi@hqu.edu.cn (D. Ou). 
+Contents lists available at ScienceDirect 
+Ecological Indicators 
+journal homepage: www.elsevier.com/locate/ecolind 
+https://doi.org/10.1016/j.ecolind.2024.112022 
+Received 4 February 2024; Received in revised form 28 March 2024; Accepted 9 April 2024 
+
+Ecological Indicators 162 (2024) 112022
+2
+been accompanied by an increase in the number of research methods 
+such as public surveys (Herranz-Pascual et al., 2019) and post-test and 
+control experiments with stimulus materials (Jeon and Jo, 2020). The 
+visual environment is also important, with light intensity (Tan and 
+Ismail, 2014) and visual aesthetic quality (Gungor et al., 2018) repre­
+senting the foci of most studies in this area, and although application 
+scenarios of the two generally differ, both are important. Light intensity 
+perception is typically considered in indoor environments and its rela­
+tionship with other human perceptions has been extensively explored. 
+Yang and Jeon (2023) set up two lighting conditions (illuminance and 
+color temperature) in a classroom and combined them with five sound 
+conditions to measure the cognitive performance of subjects, while Du 
+et al. (2022) explored the in
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study design 
+The proposed framework for assessing acoustic-visual perception 
+and its relationship with satisfaction based on different behaviors in 
+urban parks is illustrated in Fig. 1. The research framework was based on 
+the conceptual framework of the soundscape (ISO 12913-1:2014)and 
+consisted of five parts focused on three research questions based on 
+different behavioral states. Respondents were categorized into behav­
+ioral types based on their behavioral states in the first part, 
+acoustic-visual perception was evaluated in the second part, and the 
+relationship between acoustic and visual perception and satisfaction was 
+investigated in the third part. The relationships between acoustic satis­
+faction (AS), visual satisfaction (VS), and overall satisfaction (OS) were 
+also explored. The construction of prediction models for AS, VS, and OS 
+based on acoustic-visual perception was performed in the fourth part. 
+Finally, variations in perceptions associated with different behaviors 
+were discussed in the fifth part. 
+2.2. Study areas 
+The research was conducted in Quanzhou (24
+◦30′~25
+◦56′ N, 
+117
+◦25′~119
+◦05′ E), southeastern China, which is renowned as the 
+hometown of overseas Chinese (Brown, 2023). Quanzhou has an 
+extensive green landscape comprising over 40.59 % of its urban area, 
+with 40 urban parks. Three typical public urban parks were selected as 
+P. Lai et al. 
+
+Ecological Indicators 162 (2024) 112022
+3
+the study sites: Citong Park (3.7 ha), East Lake Park (20.5 ha), and West 
+Lake Park (100 ha) (Fig. 2). Citong Park is a district-level leisure park 
+that features Erythrina as its main tree species and is located in the city 
+center, thus attracting a large number of visitors. East Lake Park is 
+located in the center of the old city, and is the site of “Star Lake Lotus 
+Fragrance.” This park has a rich cultural and historical heritage and was 
+one of the top ten scenic spots in the original Quanzhou, rendering it the 
+main tourist garden within ancient Quanzhou. West Lake Park is a 
+classic Chinese garden in which almost four-fifths are in the form of 
+water features, and it is close to Qingyuan Mountain, which is a national 
+scenic spot. 
+The three parks include a variety of soundscapes and green spaces 
+and thus provide a variety of functional activities such as leisure, 
+entertainment, and exercise. Additionally, they vary in size and design 
+style, each with its own characteristics. In general, the selected parks are 
+popular and reflect the characteristics of most urban parks in Quanzhou. 
+The number of sampling sites varied according to the size of the park 
+(Fig. 2) and were categorized into four representative types of green 
+spaces: fitness trails (FNT), open squares (OPS), tree-shaded squares 
+(TRE), and pavilions (PVL), as proposed by Niu et al. (2022) (Table 1). 
+Fig. 1. Acoustic-visual perception and its relationship with satisfaction under different behaviors. 
+Fig. 2. Site locations and measured spaces (numbers represent LAeq). 
+P. Lai et al. 
+
+Ecological Indicators 162 (2024) 112022
+4
+2.3. Questionnaire design 
+The questionnaire consisted of four sections, with the first part used 
+to collect personal information, including gender (male, female), age 
+(≤18, 19–35, 36–50, 51–65, and 65 + ), and behavioral states (sitting, 
+walking, and acoustic behavior). In the second part, eight indicators 
+from previous studies (Grahn and Stigsdotter, 2010; Kytt¨a and Kahila, 
+2005; Stigsdotter and Corazon, 2017; Appleton, 1996): ‘nature,’ ‘beauty,’ 
+‘absorb,’ ‘open,’ ‘coordinate, ‘gradation,’ ‘diversity,’ and ‘order’ were 
+selected to evaluate the perceived visual quality (PVQ). International 
+Standards (ISO, 2018) were used to evaluate the soundscape in the third 
+section. This evaluation encompasses two aspects: sound source identi­
+fication (SSI) and PAQ for the surrounding acoustic environment, with 
+sound sources including cars, buses, trains, and airplanes included as 
+traffic noise; live, broadcast, and cellphone music as music; conversa­
+tion, laughter, and footsteps as human sounds; and singing birds, flow­
+ing water, and wind as natural sounds. The PAQ included ‘pleasant,’ 
+‘chaotic,’ ‘vibrant,’ ‘uneventful,’ ‘calm,’ ‘annoying,’ ‘eventful,’ and ‘monot­
+onous.’ The fourth section addressed participant satisfaction with the 
+acoustic, visual, and overall environments (Jeon and Jo, 2020). All 
+questions were based on a five-point Likert scale ranging from 1 to 5. 
+2.4. Data collection 
+Sound pressure measurements were taken using a BSWA 308 sound 
+level meter used to record LAeq. The microphone was pointed approx­
+imately 1 m away from any reflective surfaces and 1.2–1.5 m above the 
+ground to reduce the effects of acoustic reflection (Meng and Kang, 
+2016). Measurements were continued for 10 min at each study site 
+following the methodology of previous studies (Axelsson et al., 2014; Liu 
+et al., 2014; Jabben et al., 2015; Lobo Soares and Bento Coelho, 2016). 
+Fig. 2 shows the locations and LAeq values obtained at each sampling 
+point. 
+Behavioral data were collected concurrently with sound levels. Based 
+on the specific activities and number of people in the park, the activities 
+were divided into three distinct behavior groups: sitting, walking, and 
+acoustic (Table 2). The behavior of the respondents in each space was 
+recorded via both questioning and observation. Only tourists who 
+engaged in one of the studied behaviors for over 15 min were included. 
+Questionnaire collection, behavioral observations, and sound level 
+measurements were conducted in autumn of 2022 at Citong Park 
+(November 17, 18, 19, and 20), East Lake Park (November 26, 27, 28, 
+29, and 30), and West Lake Park (December 3, 4, 5, 8, 9, and 10). Data 
+collection spanned both weekdays and weekends from 8:00 am to 6:00 
+pm and was performed under favorable weather conditions with no rain. 
+The air temperature ranged from 16.2 to 27.0 ◦C, and the relative hu­
+midity ranged 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. The research framework was based on 
+Fig. 2). Citong Park is a district-level leisure park 
+Fig. 2) and were categorized into four representative types of green 
+Table 1). 
+Fig. 1. Acoustic-visual perception and its relationship with satisfaction under different behaviors. 
+Fig. 2. Site locations and measured spaces (numbers represent LAeq). 
+Fig. 2 shows the locations and LAeq values obtained at each sampling 
+Table 2). The behavior of the respondents in each space was 
+Fig. 2 for details). Less 
+Table 3). 
+Table 1 
+Table 2 
+Table 4. Regarding PVQ, both VS and OS were signif­
+Table 5, OS was significantly influenced by both AS 
+Table 6), 
+Table 3 
+Fig. 3). 
+Fig. 3(a), upon experiencing satisfaction with the vi­
+Fig. 4), with gender and age included as control var­
+Table 4 
+Table 5 
+Table 6 
+Table 3. In terms of PVQ, the respondents most strongly recognized the 
+Table 4. For PVQ, both VS and OS were 
+Fig. 3. Percentage of dissatisfaction with the overall environment for various combinations of acoustic and visual satisfaction under the three behaviors. 
+
+======================================================================
+
+### RECORD ID=1053 | screening_verdict=INCLUDE | year=2024
+JOURNAL: URBAN ECOSYSTEMS
+TITLE: Socio-environmental drivers of human-nature interactions in urban green spaces
+DOI: 10.1007/s11252-024-01593-3
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Urban Ecosystems (2024) 27:2397–2413
+https://doi.org/10.1007/s11252-024-01593-3
+green spaces (Kondratyeva et al. 2020; Puplampu and Boafo 
+2021), resulting in potential loss of habitat for over 30,000 
+species in various development scenarios by 2050 (Simkin 
+et al. 2022). To compensate for the loss of nature in urban 
+environments, people have created or preserved green spaces 
+within and around urbanizing areas by creating parks, gar­
+dens, areas for street trees, and other spaces (Aronson et al. 
+2017). Among these efforts, urban parks offer several types 
+of direct and indirect ecosystem service benefits, including 
+providing places for recreational and social activities (Koni­
+jnendijk et al. 2013), increasing property values (Nicholls 
+and Crompton 2005), improving health and physical well-
+being (Abraham et al. 2010; Douglas 2012), and enhancing 
+biodiversity conservation (see Aronson et al. 2017; Lepczyk 
+et al. 2017). These benefits are closely linked to the various 
+levels of experiences and interactions that take place in the 
+natural spaces in urbanizing areas, or human-nature interac­
+tions (Soga and Gaston 2020).
+Introduction
+By 2030, 60% of the global population is projected to live 
+in urban areas (United Nations 2018). Studies suggest that 
+urbanization is a key driver to the loss of biodiversity and 
+ 
+ Myla F. J. Aronson
+myla.aronson@rutgers.edu
+1 
+Graduate Program in Ecology and Evolution, Rutgers, The 
+State University of New Jersey, New Brunswick, NJ 
+08901, USA
+2 
+Natural Areas Conservancy, New York, NY 10029, USA
+3 
+Department of Geography and the Environment, Villanova 
+University, Villanova, PA 19085, USA
+4 
+Department of Ecology, Evolution, and Natural Resources, 
+Rutgers, The State University of New Jersey, New 
+Brunswick, NJ 08901, USA
+Abstract
+Online platforms have broadened the opportunities of people to interact with nature through community/citizen science, 
+especially in urban areas. However, there is a lack of comprehensive understanding of the social and environmental factors 
+that influence nature interactions in cities. Here, we aim to identify the social and environmental predictors that impact 
+nature interactions, by combining citizen science data with environmental and demographic data in New York City. We 
+applied generalized linear models to identify which of 12 social and environmental factors influence nature interactions in 
+public parks (n = 355) in the Borough of Queens, New York, New York (USA) in two scenarios, small-medium sized parks 
+only (n = 355) and all parks (n = 359). We used iNaturalist records, including the number of users (Observers), Observa­
+tions, Observed Biodiversity, and a calculated interaction effect (number of users × observations, Interaction), as metrics 
+of nature interactions. For small-medium parks, all nature interactions were significantly influenced by park area, canopy 
+cover, percent population with blood pressure and asthma conditions, noise, and summer mean temperature. Observers and 
+Interaction were positively associated with median income. Observers, Observations, and Interaction were predicted by 
+percent water cover, impervious cover, distance to public transportation, and ethnic diversity. In the analysis that included 
+all parks, the results were similar with minor differences. This study demonstrates a holistic approach to a very specific 
+type of human-nature interaction newly made available with technological advances, seen through an interdisciplinary 
+lens and will help inform planners, residents, and city government on creating more interactive and socio-environmentally 
+beneficial urban green spaces.
+Keywords  Citizen science · Human-nature interaction · iNaturalist · Urban green spaces
+Accepted: 29 July 2024 / Published online: 19 August 2024
+© The Author(s) 2024
+Socio-environmental drivers of human-nature interactions in urban 
+green spaces
+Hogyeum Evan Joo1 · Jeffrey A. G. Clark2 · Peleg Kremer3 · Myla F. J. Aronson4
+1 3
+
+Urban Ecosystems (2024) 27:2397–2413
+Understanding human-nature interactions helps us 
+develop strategies to maximize ecosystem services (Kluger 
+et al. 2020), increase public health (Keniger et al. 2013), 
+engage people with the surrounding environment, and raise 
+awareness of environmental issues (van Noordwijk et al. 
+2021). There are many ways of assessing the level and types 
+of interaction people make with nature (Auyeung et al. 
+2016). One of the ways of interacting with nature, enabled 
+through technological advances (Arts et al. 2021), is uti­
+lizing citizen science platforms. iNaturalist and eBird are 
+considered the most popular and globalized citizen science 
+data platforms. iNaturalist allows users to record the loca­
+tion, time, and picture (or sound) of organisms they encoun­
+ter, of 11 taxa from fauna and flora to an online database 
+(Callaghan et al. 2022). eBird has similar features with taxa 
+specialized to avifauna. Once observations are made, other 
+users may share their opinion or confirm the identification 
+of the species. These platforms enable users to interact eas­
+ily and quickly with local biodiversity and discuss findings 
+with other users (Altrudi 2020; Silk et al. 2021; Callaghan 
+et al. 2022; Zhao et al. 2023).
+Many attempts have been made to examine the spatial 
+patterns of citizen science users and data. Studies have 
+found that the locations of citizen science data were closely 
+related to density of paths (Tiago et al. 2017), distance to 
+human settlement (Cretois et al. 2021), population density 
+(Mair and Ruete 2016), or the knowledge of rare species 
+sightings (Tulloch et al. 2013). Studies such as Tiago et al. 
+(2017), also found that accessibility and landscape charac­
+teristics of a location, such as habitat type and presence of 
+water features, impacted the type of taxa observed. Some 
+studies argue that these patterns of participation for citizen 
+science are a result of bias (Cretois et al. 2021; Tang et al. 
+2021). However, o
+
+--- METHODS/RESULTS EXCERPT ---
+Methods Primers 
+2(1):1–20. https://doi.org/10.1038/s43586-022-00144-4
+Fung CKW, Jim CY (2020) Influence of blue infrastructure on lawn 
+thermal microclimate in a subtropical green space. Sustain Cities 
+Soc 52:101858. https://doi.org/10.1016/j.scs.2019.101858
+Galbrun L, Ali TT (2013) Acoustical and perceptual assessment of 
+water sounds and their use over road traffic noise. J Acoust Soc 
+Am 133(1):227–237. https://doi.org/10.1121/1.4770242
+Gamio L (2019) Axios: where America’s diversity is increasing the 
+fastest. Axios Newstext, Arlington, ProQuest. https://www.pro­
+quest.com/docview/2428620614
+Gaudon JM, McTavish MJ, Hamberg J, Cray HA, Murphy SD (2022) 
+Noise attenuation varies by interactions of land cover and season 
+in an urban/peri-urban landscape. Urban Ecosyst 25(3):811–818. 
+https://doi.org/10.1007/s11252-021-01194-4
+Ghiani A, Aina R, Asero R, Bellotto E, Citterio S (2012) Ragweed pol­
+len collected along high-traffic roads shows a higher allergenicity 
+than pollen sampled in vegetated areas. Allergy 67(7):887–894. 
+https://doi.org/10.1111/j.1398-9995.2012.02846.x
+Giles-Corti B, Broomhall MH, Knuiman M et al (2005) Increasing 
+walking: how important is distance to, attractiveness, and size of 
+public open space? Am J Prev Med 28(2, Supplement 2):169–
+176. https://doi.org/10.1016/j.amepre.2004.10.018
+Gillings S, Harris SJ (2022) Estimating the carbon footprint of citi­
+zen science biodiversity monitoring. People Nat 4(4):996–1006. 
+https://doi.org/10.1002/pan3.10333
+Gozalo GR, Morillas JMB, Gozalez DM (2019) Perceptions and use 
+of urban green spaces on the basis of size. Urban Urban Green 
+46:126470
+Hamada S, Ohta T (2010) Seasonal variations in the cooling effect 
+of urban green areas on surrounding urban areas. Urban Urban 
+Green 9(1):15–24. https://doi.org/10.1016/j.ufug.2009.10.002
+Hamstead ZA, Fisher D, Ilieva RT et al (2018) Geolocated social media 
+as a rapid indicator of park visitation and equitable park access. 
+Comput Environ Urban Syst 72:38–50. https://doi.org/10.1016/j.
+compenvurbsys.2018.01.007
+Hartley W, Uffindell L, Plumb A, Rawlinson HA, Putwain P, Dick­
+inson NM (2008) Assessing biological indicators for remediated 
+anthropogenic urban soils. Sci Total Environ 405(1–3):358–369. 
+https://doi.org/10.1016/j.scitotenv.2008.06.004
+Ho CH, Sasidharan V, Elmendorf W, Willits FK, Graefe A, Godbey G 
+(2005) Gender and ethnic variations in Urban Park preferences, 
+Visitation, and Perceived benefits. J Leis Res 37(3):281–306. 
+https://doi.org/10.1080/00222216.2005.11950054
+Hobbs SJ, White PCL (2012) Motivations and barriers in relation to 
+community participation in biodiversity recording. J Nat Conserv 
+20(6):364–373. https://doi.org/10.1016/j.jnc.2012.08.002
+Holman CD, Donovan RJ, Corti B (1996) Factors influencing the use 
+of physical activity facilities: results from qualitative research. 
+Health Promot J Austr 6(1):16–21
+iNaturalist (2023a) Help · Frequently Asked Questions. iNaturalist.
+org. https://www.inaturalist.org/pages/help#quality Accessed 13 
+July 2023
+iNaturalist (2023b) iNaturalist Research-grade Observations. iNatu­
+ralist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x 
+accessed via GBIF.org on 2023-07-13
+Jennings DB, Jarnagin ST (2002) Changes in Anthropogenic Imper­
+vious surfaces, Precipitation, and Daily Streamflow Discharge: 
+a historical perspective in a Mid-atlantic sub-watershed. Landsc 
+Ecol 17(5):417–489
+Jeon JY, Lee PJ, You J, Kang J (2012) Acoustical characteris­
+tics of water sounds for soundscape enhancement in urban 
+1 3
+2411
+
+Urban Ecosystems (2024) 27:2397–2413
+greenspaces. Landsc Urban Plan 230:104633. https://doi.
+org/10.1016/j.landurbplan.2022.104633
+Nolte AC, Buchholz S, Pernat N, Egerer M (2022) Temporal Tem­
+perature Variation in Urban Gardens Is Mediated by Local and 
+Landscape Land Cover and Is Linked to Environmental Justice. 
+Frontiers in Sustainable Food Systems 6. Accessed June 5, 2023. 
+https://www.frontiersin.org/articles/https://doi.org/10.3389/
+fsufs.2022.826437
+Nordh H, Hartig T, Hagerhall CM, Fry G (2009) Components of 
+small urban parks that predict the possibility for restoration. 
+Urban Urban Green 8(4):225–235. https://doi.org/10.1016/j.
+ufug.2009.06.003
+Office of Technology and Innovation (2018) Land Cover Ras­
+ter Data(2017) – 6in Resolution. Accessed on Decem­
+ber 
+2023.https://data.cityofnewyork.us/Environment/
+Land-Cover-Raster-Data-2017-6in-Resolution/he6d-2qns/data
+Özgüner H (2011) Cultural differences in attitudes towards Urban 
+Parks and Green spaces. Landsc Res 36(5):599–620. https://doi.
+org/10.1080/01426397.2011.560474
+Paschalis A, Chakraborty TC, Fatichi S et al (2021) Urban forests as 
+Main Regulator of the Evaporative cooling Effect in cities AGU 
+adv. 2(2):e2020AV000303
+Pateman R, Dyke A, West S (2021) The diversity of participants in 
+Environmental. Citiz Sci CSTP 6(1):9. https://doi.org/10.5334/
+cstp.369
+Pena JCC, Martello F, Ribeiro MC, Armitage RA, Young RJ et al 
+(2017) Street trees reduce the negative effects of urbanization on 
+birds. PLoS ONE 12(3):e0174484. https://doi.org/10.1371/jour­
+nal.pone.0174484
+PLACES (2022) 500 Cities Project, PLACES. Center for Disease 
+Control and Prevention (accessed 3 January 2023)
+Preston FW (1962) The canonical distribution of common­
+ness and rarity: part I. Ecology 43(2):185–215. https://doi.
+org/10.2307/1931976
+Puplampu DA, Boafo YA (2021) Exploring the impacts of urban 
+expansion on green spaces availability and delivery of ecosystem 
+services in the Accra metropolis. Environ Chall 5:100283. https://
+doi.org/10.1016/j.envc.2021.100283
+Rigolon A (2016) A complex landscape of inequity in access to urban 
+parks: a literature review. Landsc Urban Plan 153:160–169. 
+https://doi.org/10.1016/j.landurbplan.2016.05.017
+Rigolon A, Browning MHEM et al (2021) Green Space and Health 
+Equity: a systematic review on the potential of Green Space 
+to Reduce Health disparities. Int J Environ Res Public Health 
+18(5):2563. https://doi.org/10.3390%2Fijerph18052563
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1).
+Table 1).
+Table  2). Ten vari­
+Fig. 1  Urban green spaces examined in this study (green; n = 359), 
+Table 1  Definition and descrip­
+Table 2  References and data sources of the social and environmental predictor variables used in this study
+Table 2). Of variables that showed cor­
+Fig. 3; Table 3; Supplementary Fig. 1).
+Fig. 3; Table 4; Supplementary Fig. 1).
+Fig. 2). The number of iNaturalist observations fol­
+Fig. 2  Map of four measures of interaction - (a) Observer, (b) Observation, (c) Interaction, and (d) Observed Biodiversity - in each study site in 
+Fig. 3  (a) Coefficient estimates of social/
+Table 3  Results (estimates, standard deviation, P values, and McFadden pseudo-R-squared value) of the GLM (generalized Linear Model) with 
+Table 4  Results (estimates, standard deviation, P values, and McFadden pseudo-R-squared value) of the GLM(generalized Linear Model) with 
+
+======================================================================
+
+### RECORD ID=1069 | screening_verdict=INCLUDE | year=2024
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: The impact of the community's ' s sound environment on social interactions among residents
+DOI: 10.1016/j.buildenv.2024.112094
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+The impact of the community’s sound environment on social interactions 
+among residents
+Xiaochao Chen a, Jian Kang a,*, Mincong Wang b
+a Institute for Environmental Design and Engineering, The Bartlett, University College London, London, WC1H 0NN, United Kingdom
+b School of Architecture and Landscape, University of Sheffield, Sheffield, S10 2TN, United Kingdom
+A R T I C L E I N F O
+Keywords:
+Urban community
+Built environment
+Soundscape
+Acoustic environment
+Social interaction
+A B S T R A C T
+The built environment significantly influences social interactions, which are crucial for residents, but little is 
+known about how these interactions are affected by the community’s sound environment. This study conducted 
+sound intervention experiments in the community to investigate the impact of alterations in the sound envi­
+ronment on residents’ social behaviours. The social interaction situations under five sound intervention condi­
+tions were recorded and evaluated from three dimensions: participation, occurrence, and depth. The results 
+indicated that a more natural sound environment in the community leads to a higher proportion of socially 
+interactive residents and an increased occurrence of social interactions among residents. Birdsong interventions 
+increased paired social interactions by 16.3 % compared to traffic noise, while water sound interventions 
+increased grouped social interactions by 16.6 % compared to the control. Compared to the frequency in the 
+lowest group, individual prolonged pair social interactions increased by 0.26 occurrences with birdsong inter­
+vention, and prolonged group social interactions increased by 0.19 occurrences with water sounds intervention. 
+The findings can inform community designers about the strategic use of sound to enhance the environment and 
+promote social interactions among residents.
+1. Introduction
+1.1. Environmental characteristics of communities
+Over half of the global population resides in urban areas, and this 
+proportion is estimated to reach 68 % by mid-century [1]. Rapid pop­
+ulation growth and urbanization are considered global health challenges 
+faced in the 21st century [2]. As more urban residents live in 
+high-density residential communities, interest in the connection be­
+tween environmental quality and residents’ health has grown in recent 
+decades [3]. Numerous studies have identified the residential environ­
+ment as a critical factor influencing the health of residents [4], including 
+subjective perception and mental health, such as perceived density, 
+depression and self-rated general health [5–7], as well as physical 
+health, such as cardiovascular risk, outdoor activities, and social be­
+haviours [8–11]. With regard to the built environment of the residential 
+communities, existing studies have been focused on the green area, 
+walkability, and physical attributes such as thermal comfort and 
+acoustic environment ([5]; Y. [12–14]). Investigating the environmental 
+characteristics of residential communities may reveal potential health 
+risks for residents and provide a theoretical basis for planners and de­
+signers to create better living environments.
+1.2. Sound environments in residential areas: beyond quietness
+The sound environment is essential for residential communities, as 
+noise exposure has been proven to affect mental and physical health 
+adversely [15,16]. Existing studies have investigated the link between 
+the residential environment and noise annoyance [17], as well as the 
+adverse effects of community noise, including sleep disturbance, phys­
+iological disorders, hearing impairment, and overall well-being [13,18]. 
+Thus, controlling noise levels and human exposure is crucial for creating 
+a high-quality community sound environment [19,20]. Quietness is 
+crucial for residential environments, as evidenced by global regulations 
+on noise and the establishment of quiet areas in cities. Additionally, the 
+positive effects of certain beneficial sounds on quality of life should be 
+Abbreviations: SP, Social Participation; OSI-B, Occurrence of Brief Social Interactions; OSI-P, Occurrence of Prolonged Social Interactions; DSI, Depth of Social 
+Interactions.
+* Corresponding author.
+E-mail addresses: xiaochao.chen.20@ucl.ac.uk (X. Chen), j.kang@ucl.ac.uk (J. Kang), mwang58@sheffield.ac.uk (M. Wang). 
+Contents lists available at ScienceDirect
+Building and Environment
+journal homepage: www.elsevier.com/locate/buildenv
+https://doi.org/10.1016/j.buildenv.2024.112094
+Received 10 June 2024; Received in revised form 9 August 2024; Accepted 14 September 2024 
+Building and Environment 266 (2024) 112094 
+Available online 14 September 2024 
+0360-1323/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+considered [21]. In recent decades, the development of the soundscape 
+discipline has promoted a comprehensive understanding of the sound 
+environment, soundscape evaluation and planning [22]. Unlike tradi­
+tional noise control methods that focus on merely reducing the volume 
+of unwanted sounds, the soundscape approach views environmental 
+sounds as resources and explores their positive effects [21], making it a 
+valuable tool for urban space design [23]. The positive effects of sound 
+resources on people’s perception and health have been investigated, 
+such as providing better experience of the site, mood recovery, mental 
+restoration and behaviour encouragement ([24]; J. [25–27]). Therefore, 
+in a community setting, considering only the quietness of the sound 
+environment is insufficient to fully reflect its quality.
+1.3. Behavioural impacts of sound environments
+Human behaviour is influenced by the acoustic environment, a 
+phenomenon rooted in the mammalian auditory system’s innate ability 
+to gather and process environmental information, thereby affecting 
+behaviour [28]. This characteristic is extensively utilized in the com­
+merc
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+Sound intervention experiments were implemented in two public 
+activity spaces within a residential community in Daqing, China. 
+Loudspeakers introduced various interventional sounds to provide 
+different acoustic environment conditions, and the changes after in­
+terventions were assessed and visualized by grid measurements. Resi­
+dents’ social behaviours under different conditions were observed and 
+recorded by cameras. Subsequently, the coded data from the video re­
+cordings were analyzed to examine how residents’ social behaviours 
+were affected by the community acoustic environment. Fig. 1 illustrates 
+the complete procedure of the sound intervention experiments.
+2.1. Experimental site and participants
+In recent decades, rapid urbanization in China has significantly 
+increased urban populations. Consequently, residential communities 
+with high-rise buildings have become the most common living envi­
+ronments for urban residents. A preliminary survey was conducted to 
+identify representative communities suitable for sound intervention 
+experiments. Satellite maps were initially used to select a series of 
+community activity spaces of approximately 30 m by 30 m (around 1000 
+square meters) as potential experimental sites for further field obser­
+vations. After on-site investigations, spaces with few users or those used 
+exclusively by the elderly were excluded. Additionally, sites with un­
+stable sound environments, such as those with frequent noise distur­
+bances from construction, broadcasts, or sirens, were also excluded. 
+Ultimately, two outdoor activity areas (Site A and Site B) within the 
+Yinyi Community in Daqing City were chosen as experimental sites 
+(Fig. 2). Yinyi Community is centrally located in Daqing City, sur­
+rounded by diverse land uses, and divided by a major urban road into 
+North Area A and South Area B. Despite being constructed at different 
+times, both areas share a similar design style. Site A, the primary out­
+door activity area of Area A, measures approximately 40 m in length and 
+30 m in width (coordinates: 46◦36′09″N 124◦53′07″E, irregular shape). 
+Site B, the primary outdoor activity area of Area B, measures approxi­
+mately 45 m in length and 25 m in width (coordinates: 46◦35′46″N 
+124◦53′09″E, oval shape). Both sites are suitably sized, feature green 
+vegetation and artificial ponds, and have relatively stable acoustic en­
+vironments, meeting the conditions necessary for sound intervention 
+experiments.
+The demographic characteristics of Yinyi Community residents are 
+shown in Table 1. Both areas have similar population compositions, with 
+63.3 % aged 20–59 years and 20.4 % elderly, comparable to Daqing 
+City’s 2020 census data (18–59: 64.4 %, 60 and above: 22.6 %). Due to 
+X. Chen et al. 
+Building and Environment 266 (2024) 112094 
+2 
+
+Fig. 1. The procedure of the sound intervention experiments.
+Fig. 2. The Location of the YinYi community and the study areas, with on-site pictures.
+X. Chen et al. 
+Building and Environment 266 (2024) 112094 
+3 
+
+the similarities in the environment and population compositions, data 
+from both experimental sites were combined. The experiment involved 
+adult participants who were treated uniformly. Observations of their 
+social behaviours indicated the impact of environmental factors on their 
+interactions. Notably, although the target participants of our experiment 
+were intended to be community residents, it is inevitable that some 
+participants were not actual residents. To emphasize that our research 
+site is a community activity space, we broadly refer to its users as 
+“residents."
+2.2. Interventional sound resources
+During the sound intervention experiment, four distinct types of 
+sounds were used to create varied community sound environments: 
+mixed birdsong, water sound, traffic noise, and construction noise. 
+Traffic and construction noises are common in urban residential areas. 
+Given the site’s vegetation and pond, birdsong and water sounds were 
+also appropriate. To avoid creating a discordant experience, contextu­
+ally suitable sounds were selected for the community setting. The mixed 
+birdsong comprised various bird songs recorded in urban parks, and the 
+water sound was derived from natural streams, matching the com­
+munity’s artificial stream. Traffic noise was recorded from the road near 
+Yinyi Community, and construction noise consisted of electric drills 
+typically heard at construction sites.
+Fig. 3 presents the spectrograms of the four intervention sounds. 
+These sounds were edited to achieve the same equivalent sound pressure 
+level (SPL). The original sound files were at least 10 min long, with any 
+prominent segments removed to ensure the looping sounds went un­
+noticed. Unlike urban public open spaces, the community’s original 
+sound environment is relatively quiet. Therefore, the volume of the 
+intervention sounds was controlled to significantly alter the sound 
+environment without impeding normal conversation and activities (see 
+more detail in 2.4).
+2.3. Equipment and layout for experimental setup
+The equipment used in this experiment comprised three main com­
+ponents: an array of loudspeakers to modify the acoustic environment, 
+two video cameras to record human activities, and a Class 1 sound level 
+meter to monitor the site’s acoustic conditions. Several loudspeakers 
+were modified by placing multidirectional wireless speakers (SAST T39, 
+5W) into rock-shaped outdoor speaker enclosures (20 × 30 × 40 cm). 
+This type of enclosure is widely used for lawn speakers in parks, 
+allowing the speaker to blend into the surrounding environment. The 
+enclosure has sound holes around it to ensure that the sound can be 
+transmitted in all directions. The frequency response of the modified 
+loudspeakers was measured, and seven with the best and most similar 
+frequency responses were selected as sound input devices. As shown in 
+Figs. 4 and 5, the loudspeakers were evenly distributed on the ground 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1 illustrates 
+Fig. 2). Yinyi Community is centrally located in Daqing City, sur­
+Table 1. Both areas have similar population compositions, with 
+Fig. 1. The procedure of the sound intervention experiments.
+Fig. 2. The Location of the YinYi community and the study areas, with on-site pictures.
+Fig. 3 presents the spectrograms of the four intervention sounds. 
+Table 1 
+Fig. 3. The spectrograms of sound sources in intervention experiments (50 ms time resolution, 50 % overlap, 48.0 kHz sample frequency, 24 bits).
+Fig. 4. Layout plan and a section for experimental equipment in community activity space, Site A.
+Fig. 5. Layout plan and a section for experimental equipment in community activity space, Site B.
+Fig. 6 visualizes the grid measurement results. Under quiet condi­
+Fig. 6, A0, B0). Sound interventions significantly 
+Fig. 6, A1-A4, B1-B4), but the envi­
+Fig. 6. Characteristics of the sound environment in two study areas under quiet and four intervention conditions based on grid measurements.
+Fig. 7 outlines the procedure of video recording analysis, 
+Fig. 7. The procedure of behaviour identification and recording based on video recordings.
+Table 2
+Table 3). For grouped social 
+Table 4).
+Table 2 
+Fig. 8. Boxplot for SP(P) under five sound intervention conditions.
+Fig. 9. Boxplot for SP(G) under five sound intervention conditions.
+Table 5 presents 
+Table 6). Regarding prolonged group social interactions, the follow-up 
+Table 3 
+
+======================================================================
+

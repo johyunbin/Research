@@ -1,0 +1,56 @@
+no,item,verdict,rationale
+7,S.1 study design category not determinable,CT,"본문 텍스트 없이 저작권 고지 3줄만 존재, 연구설계 판정 불가"
+7,S.2 study design category not determinable,CT,"본문 텍스트 없이 저작권 고지 3줄만 존재, 측정 정보 확인 불가"
+7,S.3 study design category not determinable,CT,"본문 텍스트 없이 저작권 고지 3줄만 존재, 결과자료 확인 불가"
+7,S.4 study design category not determinable,CT,"본문 텍스트 없이 저작권 고지 3줄만 존재, 교란 통제 확인 불가"
+7,S.5 study design category not determinable,CT,"본문 텍스트 없이 저작권 고지 3줄만 존재, 노출 시행 확인 불가"
+14,3.1 participants representative of the target population,Y,"Procedure-The subjects: 20-45세 단독 보행자 포괄 선정, 거주·통행빈도 사후 점검으로 대표성 확보"
+14,3.2 measurements appropriate regarding outcome and exposure,Y,"Table 1-2: dBA·보행·교통량 실측, 4개 요청별 관찰지침으로 행동 코딩"
+14,3.3 complete outcome data,Y,"Table 3-5: 450+450+365=1265로 본문 총관찰수와 일치, 탈락 없음"
+14,3.4 confounders accounted for in design and analysis,CT,성별·연령·단독 여부는 설계 통제하나 요일·시간대·기상 언급 없음
+14,3.5 exposure/intervention administered as intended,Y,"Choice of sites: 공사 소음 85-95 dBA 실측 확인, 3조건 명확히 구현"
+53,3.1 participants representative of the target population,CT,"2.1.1 Participants: 시각장애 6·5·7명 등 소표본, 모집 절차·표집틀 미기술"
+53,3.2 measurements appropriate regarding outcome and exposure,Y,"2.1.2 Apparatus: 신호 72 dB-C·교통소음 70 dBA 교정, 측방편차 0.1 m 단위 기록"
+53,3.3 complete outcome data,N,3.2 Results: 실험2 평행횡단 좌우 정보가 다수 시행에서 미기록되어 사후 대체분석 사용
+53,3.4 confounders accounted for in design and analysis,Y,"2.2: 연령차를 ANCOVA로 보정, 청력 스크리닝·블록 순서 균형 배치"
+53,3.5 exposure/intervention administered as intended,Y,"4.1.2: 보행신호 7초·로케이터톤 사양 규정대로 재생, 초기 정렬 ±15도 통제"
+71,4.1 sampling strategy relevant to address research question,Y,"2.3 Participants: 1625가구서 18-75세 1인 선정 후 60-68 dB 노출자로 한정, 질문에 부합"
+71,4.2 sample representative of the target population,CT,"2.3: 956명 중 500명만 사용하고 3개 지역 한정, 비응답자 특성 미제시"
+71,4.3 measurements appropriate,Y,"2.2/2.4: LAeq,24h 실측·계산, 0-10 소음성가심 척도 등 기존 검증 문항 사용"
+71,4.4 risk of nonresponse bias low,N,"2.3 Participants: 응답률 59%, 무응답자 대비 분석 없어 편의 배제 불가"
+71,4.5 statistical analysis appropriate to answer research question,Y,3.2: MANOVA 가정검정(Box's M·Bartlett) 후 ANOVA·효과크기 제시
+121,3.1 participants representative of the target population,Y,2.3 Dropouts: 최종 방문자 표본이 성별·연령·학력에서 현장조사 표본과 일치함을 확인
+121,3.2 measurements appropriate regarding outcome and exposure,N,"4.7 Discussion: 개인 소음노출 확보 불가 명시, 성가심도 4점 척도로 축소"
+121,3.3 complete outcome data,N,"Table 1: 방문자 1600->900, 1620->971 등 40% 이상 탈락, 탈락자 체계적 차이 확인"
+121,3.4 confounders accounted for in design and analysis,Y,"2.4: 비이용 사유·지역품질 지수·이전경험을 다변량 모형에 통제, 계절은 조사시기 일치로 통제"
+121,3.5 exposure/intervention administered as intended,Y,2.1 Study Areas: 구공항 폐쇄·신공항 확장이라는 실제 노출 변화가 계획대로 발생
+123,4.1 sampling strategy relevant to address research question,CT,2.1 Field survey: 19개 사이트 선정은 기술되나 응답자 표집 절차·규모 전혀 미보고
+123,4.2 sample representative of the target population,CT,"2.1: 다양한 사회집단 포함이라고만 서술, 표본 규모·인구 대비 비교 자료 없음"
+123,4.3 measurements appropriate,N,"2.1: 선호를 3점 척도로 측정, 일부 사이트는 미청취 음원까지 평가해 측정 비일관"
+123,4.4 risk of nonresponse bias low,CT,2.1: 접촉·거절 건수 및 응답률이 논문 전체에 보고되지 않음
+123,4.5 statistical analysis appropriate to answer research question,N,"3장-6장: 사이트x음원x요인 수백 회 상관·t검정을 보정 없이 반복, 다변량 모형 부재"
+271,5.1 adequate rationale for using a mixed methods design,Y,Research Methodology: 학제간 연구질문 특성으로 혼합설계 채택을 명시적으로 정당화
+271,5.2 components effectively integrated to answer research question,N,"Findings: 물리·소리·행동 매핑 결과를 각각 분리 제시, 소음자료와 행동자료 연계 없음"
+271,5.3 outputs of integration adequately interpreted,N,Discussion: 소음이 원인으로 보인다는 서술적 해석만 있고 통합 산출물 부재
+271,5.4 divergences and inconsistencies adequately addressed,N,정성·정량 결과 간 불일치에 대한 검토가 논문 어디에도 없음
+271,5.5 components adhere to quality criteria of each tradition,N,"Findings: 관찰자 신뢰도·행동 조작정의·음압레벨 수치 모두 미보고, 정성 분석절차 부재"
+323,3.1 participants representative of the target population,Y,"2.1 Study Area: 은닉관찰로 해당 공간 이용자 전수를 포착, 자기선택 편의 없음"
+323,3.2 measurements appropriate regarding outcome and exposure,Y,"2.2-2.3: 배경소음 10지점 실측 60.7 dBA·SPL 시뮬레이션, BORIS 에소그램으로 체류시간 코딩"
+323,3.3 complete outcome data,Y,"Table 1: 4조건 각 180분·72개 슬롯 전량 분석, 결측 보고 없음"
+323,3.4 confounders accounted for in design and analysis,Y,"3.2.1-3.2.2: 활동·동반·자세 공변량 검정 후 이원 ANOVA, 자극은 요일·시간대 순환 배치"
+323,3.5 exposure/intervention administered as intended,CT,4. Discussion: 실험 중 신호대잡음비를 정밀 모니터링하지 못했다고 명시
+341,4.1 sampling strategy relevant to address research question,CT,"2.5: 무작위 선정이라 기술하나 절차 미제시, 30분 미만 체류자 제외로 통과 보행자 배제"
+341,4.2 sample representative of the target population,CT,"2.5: 선행연구 인용으로 대표성 주장, 단일 사이트이며 인구 대비 비교자료 없음"
+341,4.3 measurements appropriate,Y,"2.4-2.5: LAeq 5-7지점 5분 실측, 음향쾌적성 5점 척도 사전 신뢰도·타당도 검토"
+341,4.4 risk of nonresponse bias low,CT,"2.5: 유효 설문 1223부만 제시, 접촉·거절 건수와 응답률 미보고"
+341,4.5 statistical analysis appropriate to answer research question,N,"3-4장: 행동 백분율에 검정·분모 없음, RS와 PC 회귀의 R2가 동일값으로 중복 보고"
+372,1.1 qualitative approach appropriate to answer research question,Y,2.4 Data Analysis: 체험의 의미 탐색에 IPA 등 현상학적 접근이 질문에 부합
+372,1.2 qualitative data collection methods adequate,N,"2.3/5. Conclusions: 사운드 목적이 아닌 기존 인터뷰의 2차분석, 59명 중 27명만 언급"
+372,1.3 findings adequately derived from the data,Y,3. Results: 3개 소리 주제와 교차차원마다 축어적 인용으로 근거 제시
+372,1.4 interpretation of results sufficiently substantiated by data,Y,"3.1-3.2: 각 해석이 인용문에 연결, 다만 4.3 설계제언은 상당부분 외부 문헌 근거"
+372,"1.5 coherence between data sources, collection, analysis and interpretation",CT,"2.4: IPA 표방하나 14개 키워드 검색 추출과 사전 정의 범주로 연역 진행, 성찰성 미기술"
+379,5.1 adequate rationale for using a mixed methods design,Y,1. Introduction: 객관·주관 요소 관계를 문헌 공백으로 지목해 혼합 접근의 근거 제시
+379,5.2 components effectively integrated to answer research question,N,"3. Methods and Results: 음압도·가청도·설문 결과를 순차 제시, 가청지도와 설문 미연계"
+379,5.3 outputs of integration adequately interpreted,N,4. Discussion: 사회 불안정·경제성장 등 미측정 요인에 기댄 서술적 해석 다수
+379,5.4 divergences and inconsistencies adequately addressed,N,측정 음압과 주관 평가 간 국가별 차이 등 불일치를 체계적으로 검토하지 않음
+379,5.5 components adhere to quality criteria of each tradition,N,"3. Methods: 공원당 20명·총 180명에 통계검정 부재, ISO 1996 단축 적용, 사운드워크 절차 미기술"

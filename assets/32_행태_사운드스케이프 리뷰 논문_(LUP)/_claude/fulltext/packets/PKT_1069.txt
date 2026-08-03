@@ -1,0 +1,222 @@
+### RECORD ID=1069 | screening_verdict=INCLUDE | year=2024
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: The impact of the community's ' s sound environment on social interactions among residents
+DOI: 10.1016/j.buildenv.2024.112094
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+The impact of the community’s sound environment on social interactions 
+among residents
+Xiaochao Chen a, Jian Kang a,*, Mincong Wang b
+a Institute for Environmental Design and Engineering, The Bartlett, University College London, London, WC1H 0NN, United Kingdom
+b School of Architecture and Landscape, University of Sheffield, Sheffield, S10 2TN, United Kingdom
+A R T I C L E I N F O
+Keywords:
+Urban community
+Built environment
+Soundscape
+Acoustic environment
+Social interaction
+A B S T R A C T
+The built environment significantly influences social interactions, which are crucial for residents, but little is 
+known about how these interactions are affected by the community’s sound environment. This study conducted 
+sound intervention experiments in the community to investigate the impact of alterations in the sound envi­
+ronment on residents’ social behaviours. The social interaction situations under five sound intervention condi­
+tions were recorded and evaluated from three dimensions: participation, occurrence, and depth. The results 
+indicated that a more natural sound environment in the community leads to a higher proportion of socially 
+interactive residents and an increased occurrence of social interactions among residents. Birdsong interventions 
+increased paired social interactions by 16.3 % compared to traffic noise, while water sound interventions 
+increased grouped social interactions by 16.6 % compared to the control. Compared to the frequency in the 
+lowest group, individual prolonged pair social interactions increased by 0.26 occurrences with birdsong inter­
+vention, and prolonged group social interactions increased by 0.19 occurrences with water sounds intervention. 
+The findings can inform community designers about the strategic use of sound to enhance the environment and 
+promote social interactions among residents.
+1. Introduction
+1.1. Environmental characteristics of communities
+Over half of the global population resides in urban areas, and this 
+proportion is estimated to reach 68 % by mid-century [1]. Rapid pop­
+ulation growth and urbanization are considered global health challenges 
+faced in the 21st century [2]. As more urban residents live in 
+high-density residential communities, interest in the connection be­
+tween environmental quality and residents’ health has grown in recent 
+decades [3]. Numerous studies have identified the residential environ­
+ment as a critical factor influencing the health of residents [4], including 
+subjective perception and mental health, such as perceived density, 
+depression and self-rated general health [5–7], as well as physical 
+health, such as cardiovascular risk, outdoor activities, and social be­
+haviours [8–11]. With regard to the built environment of the residential 
+communities, existing studies have been focused on the green area, 
+walkability, and physical attributes such as thermal comfort and 
+acoustic environment ([5]; Y. [12–14]). Investigating the environmental 
+characteristics of residential communities may reveal potential health 
+risks for residents and provide a theoretical basis for planners and de­
+signers to create better living environments.
+1.2. Sound environments in residential areas: beyond quietness
+The sound environment is essential for residential communities, as 
+noise exposure has been proven to affect mental and physical health 
+adversely [15,16]. Existing studies have investigated the link between 
+the residential environment and noise annoyance [17], as well as the 
+adverse effects of community noise, including sleep disturbance, phys­
+iological disorders, hearing impairment, and overall well-being [13,18]. 
+Thus, controlling noise levels and human exposure is crucial for creating 
+a high-quality community sound environment [19,20]. Quietness is 
+crucial for residential environments, as evidenced by global regulations 
+on noise and the establishment of quiet areas in cities. Additionally, the 
+positive effects of certain beneficial sounds on quality of life should be 
+Abbreviations: SP, Social Participation; OSI-B, Occurrence of Brief Social Interactions; OSI-P, Occurrence of Prolonged Social Interactions; DSI, Depth of Social 
+Interactions.
+* Corresponding author.
+E-mail addresses: xiaochao.chen.20@ucl.ac.uk (X. Chen), j.kang@ucl.ac.uk (J. Kang), mwang58@sheffield.ac.uk (M. Wang). 
+Contents lists available at ScienceDirect
+Building and Environment
+journal homepage: www.elsevier.com/locate/buildenv
+https://doi.org/10.1016/j.buildenv.2024.112094
+Received 10 June 2024; Received in revised form 9 August 2024; Accepted 14 September 2024 
+Building and Environment 266 (2024) 112094 
+Available online 14 September 2024 
+0360-1323/© 2024 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+considered [21]. In recent decades, the development of the soundscape 
+discipline has promoted a comprehensive understanding of the sound 
+environment, soundscape evaluation and planning [22]. Unlike tradi­
+tional noise control methods that focus on merely reducing the volume 
+of unwanted sounds, the soundscape approach views environmental 
+sounds as resources and explores their positive effects [21], making it a 
+valuable tool for urban space design [23]. The positive effects of sound 
+resources on people’s perception and health have been investigated, 
+such as providing better experience of the site, mood recovery, mental 
+restoration and behaviour encouragement ([24]; J. [25–27]). Therefore, 
+in a community setting, considering only the quietness of the sound 
+environment is insufficient to fully reflect its quality.
+1.3. Behavioural impacts of sound environments
+Human behaviour is influenced by the acoustic environment, a 
+phenomenon rooted in the mammalian auditory system’s innate ability 
+to gather and process environmental information, thereby affecting 
+behaviour [28]. This characteristic is extensively utilized in the com­
+merc
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+Sound intervention experiments were implemented in two public 
+activity spaces within a residential community in Daqing, China. 
+Loudspeakers introduced various interventional sounds to provide 
+different acoustic environment conditions, and the changes after in­
+terventions were assessed and visualized by grid measurements. Resi­
+dents’ social behaviours under different conditions were observed and 
+recorded by cameras. Subsequently, the coded data from the video re­
+cordings were analyzed to examine how residents’ social behaviours 
+were affected by the community acoustic environment. Fig. 1 illustrates 
+the complete procedure of the sound intervention experiments.
+2.1. Experimental site and participants
+In recent decades, rapid urbanization in China has significantly 
+increased urban populations. Consequently, residential communities 
+with high-rise buildings have become the most common living envi­
+ronments for urban residents. A preliminary survey was conducted to 
+identify representative communities suitable for sound intervention 
+experiments. Satellite maps were initially used to select a series of 
+community activity spaces of approximately 30 m by 30 m (around 1000 
+square meters) as potential experimental sites for further field obser­
+vations. After on-site investigations, spaces with few users or those used 
+exclusively by the elderly were excluded. Additionally, sites with un­
+stable sound environments, such as those with frequent noise distur­
+bances from construction, broadcasts, or sirens, were also excluded. 
+Ultimately, two outdoor activity areas (Site A and Site B) within the 
+Yinyi Community in Daqing City were chosen as experimental sites 
+(Fig. 2). Yinyi Community is centrally located in Daqing City, sur­
+rounded by diverse land uses, and divided by a major urban road into 
+North Area A and South Area B. Despite being constructed at different 
+times, both areas share a similar design style. Site A, the primary out­
+door activity area of Area A, measures approximately 40 m in length and 
+30 m in width (coordinates: 46◦36′09″N 124◦53′07″E, irregular shape). 
+Site B, the primary outdoor activity area of Area B, measures approxi­
+mately 45 m in length and 25 m in width (coordinates: 46◦35′46″N 
+124◦53′09″E, oval shape). Both sites are suitably sized, feature green 
+vegetation and artificial ponds, and have relatively stable acoustic en­
+vironments, meeting the conditions necessary for sound intervention 
+experiments.
+The demographic characteristics of Yinyi Community residents are 
+shown in Table 1. Both areas have similar population compositions, with 
+63.3 % aged 20–59 years and 20.4 % elderly, comparable to Daqing 
+City’s 2020 census data (18–59: 64.4 %, 60 and above: 22.6 %). Due to 
+X. Chen et al. 
+Building and Environment 266 (2024) 112094 
+2 
+
+Fig. 1. The procedure of the sound intervention experiments.
+Fig. 2. The Location of the YinYi community and the study areas, with on-site pictures.
+X. Chen et al. 
+Building and Environment 266 (2024) 112094 
+3 
+
+the similarities in the environment and population compositions, data 
+from both experimental sites were combined. The experiment involved 
+adult participants who were treated uniformly. Observations of their 
+social behaviours indicated the impact of environmental factors on their 
+interactions. Notably, although the target participants of our experiment 
+were intended to be community residents, it is inevitable that some 
+participants were not actual residents. To emphasize that our research 
+site is a community activity space, we broadly refer to its users as 
+“residents."
+2.2. Interventional sound resources
+During the sound intervention experiment, four distinct types of 
+sounds were used to create varied community sound environments: 
+mixed birdsong, water sound, traffic noise, and construction noise. 
+Traffic and construction noises are common in urban residential areas. 
+Given the site’s vegetation and pond, birdsong and water sounds were 
+also appropriate. To avoid creating a discordant experience, contextu­
+ally suitable sounds were selected for the community setting. The mixed 
+birdsong comprised various bird songs recorded in urban parks, and the 
+water sound was derived from natural streams, matching the com­
+munity’s artificial stream. Traffic noise was recorded from the road near 
+Yinyi Community, and construction noise consisted of electric drills 
+typically heard at construction sites.
+Fig. 3 presents the spectrograms of the four intervention sounds. 
+These sounds were edited to achieve the same equivalent sound pressure 
+level (SPL). The original sound files were at least 10 min long, with any 
+prominent segments removed to ensure the looping sounds went un­
+noticed. Unlike urban public open spaces, the community’s original 
+sound environment is relatively quiet. Therefore, the volume of the 
+intervention sounds was controlled to significantly alter the sound 
+environment without impeding normal conversation and activities (see 
+more detail in 2.4).
+2.3. Equipment and layout for experimental setup
+The equipment used in this experiment comprised three main com­
+ponents: an array of loudspeakers to modify the acoustic environment, 
+two video cameras to record human activities, and a Class 1 sound level 
+meter to monitor the site’s acoustic conditions. Several loudspeakers 
+were modified by placing multidirectional wireless speakers (SAST T39, 
+5W) into rock-shaped outdoor speaker enclosures (20 × 30 × 40 cm). 
+This type of enclosure is widely used for lawn speakers in parks, 
+allowing the speaker to blend into the surrounding environment. The 
+enclosure has sound holes around it to ensure that the sound can be 
+transmitted in all directions. The frequency response of the modified 
+loudspeakers was measured, and seven with the best and most similar 
+frequency responses were selected as sound input devices. As shown in 
+Figs. 4 and 5, the loudspeakers were evenly distributed on the ground 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1 illustrates 
+Fig. 2). Yinyi Community is centrally located in Daqing City, sur­
+Table 1. Both areas have similar population compositions, with 
+Fig. 1. The procedure of the sound intervention experiments.
+Fig. 2. The Location of the YinYi community and the study areas, with on-site pictures.
+Fig. 3 presents the spectrograms of the four intervention sounds. 
+Table 1 
+Fig. 3. The spectrograms of sound sources in intervention experiments (50 ms time resolution, 50 % overlap, 48.0 kHz sample frequency, 24 bits).
+Fig. 4. Layout plan and a section for experimental equipment in community activity space, Site A.
+Fig. 5. Layout plan and a section for experimental equipment in community activity space, Site B.
+Fig. 6 visualizes the grid measurement results. Under quiet condi­
+Fig. 6, A0, B0). Sound interventions significantly 
+Fig. 6, A1-A4, B1-B4), but the envi­
+Fig. 6. Characteristics of the sound environment in two study areas under quiet and four intervention conditions based on grid measurements.
+Fig. 7 outlines the procedure of video recording analysis, 
+Fig. 7. The procedure of behaviour identification and recording based on video recordings.
+Table 2
+Table 3). For grouped social 
+Table 4).
+Table 2 
+Fig. 8. Boxplot for SP(P) under five sound intervention conditions.
+Fig. 9. Boxplot for SP(G) under five sound intervention conditions.
+Table 5 presents 
+Table 6). Regarding prolonged group social interactions, the follow-up 
+Table 3 

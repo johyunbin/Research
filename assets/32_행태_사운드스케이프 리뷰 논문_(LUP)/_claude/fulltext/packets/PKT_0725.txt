@@ -1,0 +1,269 @@
+### RECORD ID=725 | screening_verdict=INCLUDE | year=2021
+JOURNAL: FRONTIERS IN PUBLIC HEALTH
+TITLE: Factors Affecting Perceived Health Benefits and Use Behaviors in Urban Green Spaces During the COVID-19 Pandemic in Southern China Megacities
+DOI: 10.3389/fpubh.2021.759444
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+ORIGINAL RESEARCH
+published: 28 October 2021
+doi: 10.3389/fpubh.2021.759444
+Frontiers in Public Health | www.frontiersin.org
+1
+October 2021 | Volume 9 | Article 759444
+Edited by:
+Durg Vijai Singh,
+Central University of South Bihar, India
+Reviewed by:
+Zhoupeng Ren,
+Chinese Academy of Sciences
+(CAS), China
+Liliana Cori,
+Italian National Research Council, Italy
+*Correspondence:
+Hu Sun
+13503079158@163.com
+Chongxian Chen
+chongxian@scau.edu.cn
+Specialty section:
+This article was submitted to
+Environmental health and Exposome,
+a section of the journal
+Frontiers in Public Health
+Received: 16 August 2021
+Accepted: 01 October 2021
+Published: 28 October 2021
+Citation:
+Li H, Luo W, Hou Y, Xia Y, Yao J,
+Kang N, Deng C, Sun H and Chen C
+(2021) Factors Affecting Perceived
+Health Beneﬁts and Use Behaviors in
+Urban Green Spaces During the
+COVID-19 Pandemic in Southern
+China Megacities.
+Front. Public Health 9:759444.
+doi: 10.3389/fpubh.2021.759444
+Factors Affecting Perceived Health
+Beneﬁts and Use Behaviors in Urban
+Green Spaces During the COVID-19
+Pandemic in Southern China
+Megacities
+Haiwei Li 1, Weijing Luo 1, Yongqi Hou 1, Yu Xia 1, Jing Yao 2, Ning Kang 3,
+Congshuang Deng 4, Hu Sun 4* and Chongxian Chen 1*
+1 College of Forestry and Landscape Architecture, South China Agricultural University, Guangzhou, China, 2 Urban Big Data
+Centre, School of Social and Political Sciences, University of Glasgow, Glasgow, United Kingdom, 3 School of Architecture,
+Tsinghua University, Beijing, China, 4 Guangzhou Sun & Partners Incorporation Design Co., Ltd., Guangzhou, China
+Background: The COVID-19 pandemic has alienated people from urban green spaces
+(UGSs) that have various health outcomes for humans. However, little is known about
+the inﬂuential factors of perceived health beneﬁts and use behaviors in UGSs during the
+COVID-19 pandemic. This study aims to explore the key factors that inﬂuence perceived
+health beneﬁts and use behaviors in UGSs and to assess the mediating role of place
+attachment in relationships during the COVID-19 pandemic in Chinese megacities.
+Methods:
+We conducted an online questionnaire survey from December 2020 to
+March 2021 in Guangzhou and Shenzhen, China. Six multiple regression models were
+constructed to investigate the main factors by which UGSs inﬂuence citizens’ perceived
+health beneﬁts and use behaviors. Four mediation models were established using
+the structural equation modeling (SEM) method to explore the mediating effect of
+place attachment.
+Results: A total of 628 questionnaires were included in the analysis. The results revealed
+that some UGS components (green space access, maintenance, and soundscape)
+signiﬁcantly affected perceived health beneﬁts for citizens (physical, mental, and social
+health) during the COVID-19 pandemic. Conversely, use behaviors (frequency of visits,
+duration of visits, and activity intensity) were mainly affected by the sociodemographic
+context but less affected by UGS components. In addition, UGS components were found
+to signiﬁcantly predict place attachment, which in turn inﬂuenced the perceived health
+beneﬁts, frequency, and duration of visits.
+Conclusions:
+This study distinguished the key factors that affect perceived health
+beneﬁts and use behaviors during the COVID-19 pandemic: green space access,
+maintenance, soundscape, and sociodemographic characteristics. Place attachment still
+needs to be considered when discussing how to encourage citizens to visit UGSs during
+the pandemic. These ﬁndings provide implications for policymakers and landscape
+planners regarding design and management measures for UGSs that are conducive to
+coping with pandemics.
+Keywords: green spaces, health, use behaviors, place attachment, citizens
+
+Li et al.
+Factors Affecting Health and Use
+INTRODUCTION
+COVID-19 has caused unprecedented disruption to human
+health and well-being worldwide (1). Isolation measures have
+further alienated people from urban green spaces (UGSs),
+changing their perceptions and use behaviors of these spaces (2)
+after the World Health Organization (WHO) declared COVID-
+19 a public health emergency on 30 January 2020 (3). Moreover,
+the drastic changes produced by rapid urban sprawl in megacities
+make residents feel a lack of connection with UGSs. Unhealthy
+lifestyles, including a reduction in outdoor activities involving
+contact with nature, have further deteriorated people’s health (4).
+Green infrastructure, a network composed of diﬀerent types of
+green spaces (5), has been proven to have many beneﬁts (6)
+and has been one of the most vital and eﬀective infrastructures
+to improve health in response to previous pandemics (7).
+Therefore, exploring how people perceive the relationships
+between UGSs and health of great interest for researchers and
+policymakers to improve people’s visitation of UGSs for health
+purposes in the context of the normalization of the pandemic
+and urbanization.
+Previous
+studies
+have
+demonstrated
+that
+exposure
+to
+UGSs is beneﬁcial for residents’ health. UGSs may exert an
+inﬂuence on positive health outcomes, such as lower rates
+of heart disease, stroke, obesity, stress, and depression (4),
+by encouraging physical activity (8), relieving mental fatigue
+(9, 10), and facilitating social interaction (11). Numerous
+studies during non-pandemic periods have conﬁrmed that
+the
+sociodemographic
+context,
+individual
+perceptions
+of
+UGSs, and the perceived beneﬁts of UGSs may aﬀect UGS
+visitation and human health (8, 12). Green spaces with
+diverse characteristics inﬂuence people’s use experiences and
+perceptions and thus inﬂuence their use behaviors, such as
+visiting duration and frequency (12, 13). In turn, improving
+people’s green space utilization increases perceived health
+beneﬁts (11). Psychological factors are also worth noting
+(14–16). For example, studies have shown the potential of
+place attachment to contribute to perceived health beneﬁts
+and
+behavioral
+intentions,
+including
+promoting
+positive
+emotion, enhancing social cohesion, and rais
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+Study Areas and Participants
+We conducted the study in Guangzhou and Shenzhen (Figure 3),
+two pioneering, high-density cities located in Guangdong
+Province in the Pearl River Delta and the Greater Bay Area.
+They are two of the most representative megacities and
+are important transportation hubs in southern China that
+face high risks from the COVID-19 pandemic. Guangzhou,
+the capital city of Guangdong, is regarded as the political,
+economic, and technological center of Guangdong Province and
+southern China. Estimates from 2019 suggest that over 15.30
+million people inhabit the city’s 7,434.4 km2 area, including 11
+districts. Shenzhen, the ﬁrst special economic zone in China, is
+an international information communications technology hub
+with many high-tech industries. By 2019, with 13.44 million
+permanent people, Shenzhen occupied a total area of 1,997.47
+km2 and included 11 districts. With an urbanization rate of
+Frontiers in Public Health | www.frontiersin.org
+4
+October 2021 | Volume 9 | Article 759444
+
+Li et al.
+Factors Affecting Health and Use
+FIGURE 3 | Location of the study area.
+86.46%, the vegetation in the downtown, suburban and outer
+suburbs of Guangzhou has been strongly disturbed, and the
+vegetation coverage rate has been decreasing continuously (65).
+By the end of 2019, Guangzhou had 247 public parks covering
+5,198 hectares with a per capita public green area of 17.96
+m2. Although Shenzhen has 1,090 public parks covering 20,077
+hectares, between 2014 and 2019, the per capita public green
+areas decreased from 16.80 to 14.90 m2. Drastic urban expansion
+and land use changes have caused heavy chronic disease burdens
+for the two cities in recent years (66). Additionally, from January
+2020 to March 2020, the local government imposed severe
+restrictions on epidemic prevention and control (20), which may
+have changed local people’s views and habits of using UGSs.
+Although the emergency response level of COVID-19 prevention
+and control has been adjusted from level two to level three
+since May 2020, prevention and control of the pandemic have
+become normal in both cities (67). These cities’ economic status,
+demographics, green space distribution, and special signiﬁcance
+for the COVID-19 pandemic make them ideal places to study
+the associations among UGSs, perceived health beneﬁts, use
+behaviors, and place attachment.
+We conducted a structured online questionnaire after the
+ﬁrst COVID-19 outbreak was eﬀectively controlled in these two
+cities from December 2020 to March 2021 on the Wenjuanxing
+website (https://www.wjx.cn/), a convenient and frequently used
+online data-collection platform in China. During the COVID-19
+pandemic, it has been diﬃcult to conduct a ﬁeld investigation
+in the aﬀected areas in China. An online survey provided a
+cost-eﬀective way to quickly investigate in diﬀerent regions and
+reduce the risk of exposure to COVID-19. Through social media,
+questionnaires were randomly sent to potential participants. For
+this study, we limited the participants to those aged 18–65 years
+old and those who were likely to have access to the internet and
+beneﬁt from green spaces. The participants were also told that
+they must answer the questions based on their perceptions during
+the COVID-19 pandemic and must have lived in Guangzhou
+or Shenzhen for more than 6 months. All information was
+guaranteed to be kept anonymous and used for academic research
+purposes only.
+Survey Instrument
+The questionnaire included ﬁve sections: (1) demographic
+information (ﬁve questions on gender, age, education level,
+income, and place of residence); (2) perception of the quality or
+quantity of UGS components (15 questions); (3) perceived health
+beneﬁts (3 questions); (4) use behaviors (3 questions); and (5)
+place attachment (10 questions). We developed the questionnaire
+Frontiers in Public Health | www.frontiersin.org
+5
+October 2021 | Volume 9 | Article 759444
+
+Li et al.
+Factors Affecting Health and Use
+based on valid, reliable studies. It contained a total of 36 questions
+and took ∼10 min to complete.
+UGS Components
+The UGS components included green space attributes (four
+items), landscape characteristics (seven items), and facilities (four
+items). The three constructs were key factors that were likely
+to aﬀect people’s use of green spaces. We measured green space
+attributes, which describe how people perceive the accessibility,
+scale, types, and management of the green space with four
+statements: “My frequently used urban green spaces are not far
+from me and are easily accessible,” “My frequently used urban
+green spaces are very large (e.g., very small = <1 hectare and
+very large = more than 10 hectares),” “My frequently used
+urban green spaces have many diﬀerent multifunctional spaces
+types (e.g., rest area and activity square),” and “My frequently
+used urban green spaces are well-maintained and managed
+(e.g., clean and unbroken facilities).” Landscape characteristics
+were measured by asking people about their perception of the
+quality or quantity of roads, terrain, water, plants, microclimate
+environments, soundscapes, and smellscapes. Facilities were also
+evaluated by asking how people perceived the quality or quantity
+of amenity facilities (e.g., seesaws, swings, and slides), rest
+facilities (e.g., seats and lawns), wayﬁnding (e.g., guide board
+and map), and garden ornaments (e.g., sculpture and rockery).
+Participants rated their level of agreement with the description of
+UGS components on a ﬁve-point Likert scale (from 1 = strongly
+disagree to 5 = strongly agree).
+Perceived Health Beneﬁts
+Perceived health beneﬁts are one of the main outcome variables
+in this study. Health is the absence of disease or inﬁrmity
+and a state of complete physical, mental, and social well-being
+(68). Therefore, we applied three items to measure people’s
+perceptions of health beneﬁts, including physical (e.g., somatic
+function, blood pressure, and heart rate), mental (e.g., emotional
+regulation, attention recovery, an
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1):
+Figure 2
+Figure 3),
+Figure 1. To test the hypotheses, we
+Table 1 shows the
+Table 3 for UGS components,
+Table 4 displays the results of bivariate correlation analyses of
+Table 5 shows the results of the multiple linear regression. All
+Table 6, Models 7–10 proposed in this study ﬁt
+Table 7 and Figure 4 report the results of the path analysis
+Table 8). UGS components

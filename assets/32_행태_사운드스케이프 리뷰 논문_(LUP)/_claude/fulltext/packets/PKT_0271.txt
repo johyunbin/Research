@@ -1,0 +1,208 @@
+### RECORD ID=271 | screening_verdict=INCLUDE | year=2014
+JOURNAL: International Journal of Interdisciplinary Social and Community Studies
+TITLE: Towards an evidence-based model for assessing urban squares as social places
+DOI: 10.18848/2324-7576/cgp/v09i01/53520
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+The International Journal of
+Interdisciplinary Social 
+and Community Studies
+THESOCIALSCIENCES.COM
+VOLUME 9 ISSUE 1
+__________________________________________________________________________
+Towards an Evidence–Based Model 
+for Assessing Urban Squares as Social 
+Places
+KATE BISHOP AND NANCY MARSHALL
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+THE INTERNATIONAL JOURNAL OF INTERDISCIPLINARY SOCIAL AND COMMUNITY STUDIES 
+thesocialsciences.com 
+First published in 2014 in Champaign, Illinois, USA 
+by Common Ground Publishing LLC 
+www.commongroundpublishing.com 
+ISSN: 2324-7576 
+© 2014 (individual papers), the author(s) 
+© 2014 (selection and editorial matter) Common Ground 
+All rights reserved. Apart from fair dealing for the purposes 
+of study, research, criticism or review as permitted under the 
+applicable copyright legislation, no part of this work may be 
+reproduced by any process without written permission from the 
+publisher. For permissions and other inquiries, please contact 
+cg-support@commongroundpublishing.com. 
+The International Journal of Interdisciplinary Social and Community Studies 
+is peer-reviewed, supported by rigorous processes of criterion- 
+referenced article ranking and qualitative commentary, 
+ensuring that only intellectual work of the greatest substance 
+and highest significance is published. 
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+The International Journal of Interdisciplinary Social and Community Studies 
+Volume 9, 2014, www.thesocialsciences.com, ISSN 2324-7576 
+© Common Ground, Kate Bishop, Nancy Marshall, All Rights Reserved 
+Permissions: cg-support@commongroundpublishing.com 
+Towards an Evidence–Based Model for Assessing 
+Urban Squares as Social Places 
+Kate Bishop, University of New South Wales, Australia 
+Nancy Marshall, University of New South Wales, Australia 
+Abstract: The nature of the problems in cities are increasingly interdisciplinary, as are the solutions and the research 
+needed to address them. Understanding the intersection between modern urban life and its implications for the built form 
+requires research on many aspects of contemporary human experience in cities. Urban squares are a central component 
+of the urban fabric. They provide respite from the intensity of the built form, public spaces for recreation, entertainment 
+and trade. However, the efficacy of their design and the inherent experience available to the public is seldom evaluated. 
+The aim of this study was to begin developing a collection of cross-disciplinary assessment tools that could be used to 
+evaluate urban squares and their social value. In 2012, a pilot study was completed exploring the major influences on the 
+social success of Oxford Square, Sydney, Australia. A mixed methods approach was used which included three methods: 
+Behaviour Mapping, Physical Mapping, and a Soundscape Analysis assessment. The instruments and methods used 
+revealed that the physical and sensory characteristics of the Square substantially influence the social use of the Square. 
+Keywords: Urban Squares, Social Places, Place-Making 
+Introduction 
+he interest in urban squares as social places is part of a post-modern planning approach.
+Place-based planning and the practice of place-making are key postmodern frameworks
+for the disciplines of planning and built environment design. No longer is planning done 
+at a meta-level, but rather it is done at the local or place level. In support of this recent approach, 
+the practice of place-making, as noted by scholars and practitioners such as Landry (2008), 
+Sandercock (2003), Cuthbert (2011) is both an art form and a professional science. Both concepts 
+have become common in planning and design discourse and praxis. However, the social success 
+of urban planning and design is increasingly of interest to social sciences. In particular, 
+environment-behaviour research is fundamentally interested in the relationship between people 
+and place (Gifford 2014), recognising that the social success of any place is much more complex 
+than providing well designed physical form. 
+Place-making policies, programs and projects (not to mention consultancies) abound and are 
+attempting to design, plan for and retrofit cities to be animated, vibrant and socioeconomically 
+viable, people-based activity centres. Convivial public places like urban squares are used to 
+reflect a community’s identity, ambitions and values and have been shown to support greater 
+physical activity, social interaction and social connection amongst community members (Frank, 
+Andresen and Schmid 2004; Frank and Engelke 2001; Giles-Corti 2006a, 2006b). Improving the 
+quality of community places, resources and opportunities for community life are topics of 
+increasing interest and focus in the developed world, by all levels of government. This is in 
+response to growing concerns over community health issues such as increasing obesity and the 
+rise in mental health problems; youth disenfranchisement; the ageing population and the need for 
+equitable, sustainable communities. Supporting the development of socially inclusive, physically 
+supportive environments, both built and natural, is essential for the success and health of any 
+community. Increasingly, individual and community well-being and health are understood as 
+being intricately linked with the quality of the places in their lives (Kent, Thompson and 
+Jalaludin 2011). 
+What is lacking in the debates associated with place-making is a rigorous evidence-based 
+approach and an appreciation of the interdisciplinary nature of the challenges and solutions 
+needed to create socially successful cities. In 2012, in recognition of this, the authors and a 
+T
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+THE INTERNATIONAL JOURNAL OF INTERDISCIPLINARY SOCIAL AND COMMUNITY STUDIES 
+colleague Jon Lang completed a pilot study which looked at the major social, physical and 
+sensor
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology and Methods 
+In response to the literature discussed and the contextual challenges surrounding Oxford 
+Square, the focus of this pilot study was on identifying correlations between the characteristics of 
+Oxford Square and the social patterns of use and behaviour that occur in the Square. The 
+overarching research question included: How do the physical and sensory characteristics of 
+urban squares influence the use and behaviour in an urban square? What relationships can be 
+identified? 
+A mixed methods approach was appropriate for this research because of the interdisciplinary 
+nature of the research question (Tashakkori and Teddlie 2003). The benefit of this 
+methodological approach was that multiple sources and types of data can be used to describe, 
+define and delineate the subject in focus, drawing on a number of disciplinary perspectives. 
+These sources of data can then be analysed individually for their particular contribution to the 
+research as well as triangulated (Lincoln and Guba 1985) with all other data to support a more 
+extensive, theoretical discussion. In this study qualitative methods are employed to establish a 
+rich description of the research site across time. The quantitative methods are employed to 
+establish patterns of use and behaviour and the key characteristics influencing these. In order to 
+answer the overarching research question for the project it was necessary to understand: 
+1.
+The physical and sensory characteristics and environments of the square
+2.
+The social use of the Square and the behaviour within the square
+The characteristics of the Square and its use patterns were measured using a number of 
+place-based research tools designed to explore the physical, sensory and social features of 
+a ‘place’. These were developed from the literature (Cooper- Marcus1998; Gehl 2010; Whyte 
+1980; Zeisel 2006). Three methods were used which provided the basis of the findings and 
+the discussion of the research questions: 
+1.
+Behaviour Mapping – to establish patterns and volumes of pedestrian traffic and
+behaviours on site. (Zeisel 2006)
+2.
+Physical Mapping – to assess the physical characteristics, activities and amenities
+on-site against Whyte’s (1980) criteria for a ‘successful public space.’
+3.
+Soundscape Analysis – to record and evaluate the volume and intensity of noise and
+overall quality of the sonic environment of the site. (Schafer 1977)
+Findings 
+The Physical Characteristics and Function of the Square 
+The physical mapping tool assessed the topography and natural elements of the Square, its 
+context, its built form, its amenities and sensory elements. The Square provides a break in the 
+line of shop windows and walls that are built to the property line on the south side of the 
+street. The Square illustrates the difficulty of making a sunken plaza an active one. This is 
+especially the case in the face of the sensory conditions that this square experiences. It is a 
+cold, dark square that often smells unpleasant and is surrounded by high levels of noise 
+most of the time. These conditions are not conducive for encouraging people to stay in the 
+Square for long periods. Key findings included: 
+
+The Square serves primarily as a link between the three streets with a slow but
+steady flow of pedestrians passing through it for much of the day.
+36
+Downloaded by ProQuest Content on Mon Apr 03 2023 at 09:17:09 AM CDT
+
+BISHOP AND MARSHALL: TOWARDS AN EVIDENCE–BASED MODEL 
+
+A café opens off the square and a couple of its tables are placed in it. People sit
+there from time to time but they do not turn the Square into a highly active place.
+
+People do sit on the steps and ledges during the day but they seldom linger. The
+drinking fountain is a small scale landmark but is not used as a place to meet; there
+is no seating there.
+
+A night club is also located on the north side of it and the Square comes to life late
+at night and in the early hours of the morning as patrons spill out from the club into
+the Square.
+
+A ‘pop-up’ DJ often activates the Square at 2 am on Saturday nights/early mornings
+– locals and passers-by contribute to the spontaneous dance party.
+General Analysis 
+
+The Square was not designed as a typical urban square. It is a closed-off junction in
+the road. It does act as a pedestrian link between three streets; the steps are not easy
+to negotiate but they do follow the desire lines of pedestrian travel.
+
+The Square is in shadow too much of the day to be an attractive spot even on hot
+summer days.
+
+Although a café is located in the square, it does not attract a large clientele at any
+time other than lunch time so it does not activate the square to any significant
+degree.
+
+The windows in the buildings surrounding the square do afford opportunities for
+natural surveillance but these spaces are not heavily occupied during the day.
+
+Although the rims of the planter boxes afford places to sit, they are seldom sat on.
+In contrast a single place on the edge of a planter box on Oxford Street is quite
+frequently used; it provides a better view. It is also a sunnier spot than the edges of
+the planter boxes in the Square itself.
+
+Although the people walking through the Square provide some potential interest to
+others sitting in it, there is not really much to engage the user in the Square.
+
+The paving is greatly stained with the residue of chewing gum – an unobtrusive
+indicator of the people who frequent the night club. These concrete pavers are not
+easy to clean.
+
+The area smells bad a lot of the time due to the lack of nearby public toilets.
+Soundscape Analysis 
+The soundscape of the Square is the most significant sensory consideration which impacts its use. 
+The tool used physical measures (acoustic recording) and perceptive measures (descriptive, 
+experiential and psychoacoustic). Both the physical and perceptive measures found that sound 
+levels at the site are high. The site contains a range of man-made, natural and mechanical sounds.
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1, a number of ‘keynote sounds’ and 
+Table 1 
+Table 1. Categorisation of Sounds by Contribution to Soundscape 
+Figure 1 illustrates these. The line width is 
+Figure 1: Pedestrian pathways through Oxford Square (source: Authors) 
+Figure 2 indicates the volume of foot traffic through the site and at what time of the day. The 
+Figure 2: Main activities (# of observations) and time of day 
+Figure 3 below indicates exact numbers of site users over the three week data collection period. 
+Figure 3: Total observations by gender and group size 

@@ -1,0 +1,164 @@
+### RECORD ID=1174 | screening_verdict=INCLUDE | year=2025
+JOURNAL: TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+TITLE: Synergistic role of audio-visual perceptions in promoting bikeshare for active travel
+DOI: 10.1016/j.trd.2025.104806
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Synergistic role of audio-visual perceptions in promoting 
+bikeshare for active travel
+Kaihan Zhang a, Qiwei Song b, Haoran Ma c, Waishan Qiu d, Meikang Li e, Inhi Kim a,*
+a Cho Chun Shik Graduate School of Mobility, Korea Advanced Institute of Science and Technology, Republic of Korea
+b School of Architecture, The Chinese University of Hong Kong, Hong Kong SAR, China
+c Institute of Space and Earth Information Science, The Chinese University of Hong Kong, Hong Kong SAR, China
+d Department of Urban Planning and Design, The University of Hong Kong, Hong Kong SAR, China
+e School of Design and Innovation, Shenzhen Technology University, China
+A R T I C L E I N F O
+Keywords:
+Bikeshare
+Urban perception
+Soundscape
+Streetscape
+Nonlinear
+Spatial analysis
+A B S T R A C T
+This study examines factors beyond macroscale built environments (BE) influencing cycling 
+behavior, integrating both microscale visual and auditory perceptions, especially soundscapes, 
+while their impacts on cycling have not been explicitly investigated. Leveraging massive bike­
+share trip data in Shenzhen, China, this study employs spatial explainable machine learning to 
+uncover the associations among these three dimensions and cycling behavior using a multi-scale 
+analytical framework. The results show that: (1) Macroscale BE remains dominant, while micro- 
+scale soundscapes outweigh visual perceptions in explaining cycling usage. (2) Both perceived 
+streetscape and soundscape indicators exhibit significant nonlinear effects on cycling behavior. 
+(3) Synergistic interactions between visual streetscape and soundscape are observed, where 
+maintaining audio-visual consistency (e.g., high perceived safety with high natural sounds 
+perception) can positively affect cycling more substantially. Our findings encourage planners to 
+prioritize strategic micro-level modifications targeting perceived street visual and auditory as­
+pects over conventional macroscale BE interventions as cost-effective alternatives.
+1. Introduction
+Cycling offers numerous advantages, notably promoting sustainability by reducing car travel dependent on fossil fuels, thereby 
+supporting environmentally conscious mobility. It fosters healthier lifestyles, and its affordability improves urban inclusivity, aligning 
+with human-centric planning concepts such as the 15-minute city (Pozoukidou and Chatziyiannaki, 2021). Moreover, as an indis­
+pensable multimodal travel component, cycling, particularly bikeshare systems can complement public transit as a feeder mode, 
+addressing the “first and last mile” challenge and thereby effectively enhancing public transit efficiency and fostering interconnected 
+urban environments (Bullock et al., 2017). Additionally, bicycling is gaining popularity and expanding rapidly in densely populated 
+countries like China (Zhou and Schwanen, 2024), offering significant daily travel benefits by providing a flexible, efficient, and cost- 
+effective means of urban mobility, such as commuting to work. However, the low usage rates (T. Gu et al., 2019) present profitability 
+challenges for operators, jeopardizing the long-term sustainability of these systems. To fully harvest these benefits, it is imperative to 
+* Corresponding author.
+E-mail addresses: kaihn@kaist.ac.kr (K. Zhang), qiwei.song@link.cuhk.edu.hk (Q. Song), haoranma@cuhk.edu.hk (H. Ma), waishanq@hku.hk
+(W. Qiu), limeikang@sztu.edu.cn (M. Li), inhi.kim@kaist.ac.kr (I. Kim). 
+Contents lists available at ScienceDirect
+Transportation Research Part D
+journal homepage: www.elsevier.com/locate/trd
+https://doi.org/10.1016/j.trd.2025.104806
+Received 2 January 2025; Received in revised form 10 April 2025; Accepted 8 May 2025 
+Transportation Research Part D 145 (2025) 104806 
+Available online 21 May 2025 
+1361-9209/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+examine urban environmental factors affecting cycling behavior for devising cost-effective interventions that promote bikesharing 
+(Duran-Rodas et al., 2019; Guo and He, 2020; Wang et al., 2023). Integrating these insights into urban planning enables more effective 
+operations, scheduling strategies and informed decision-making.
+Extensive empirical evidence highlights the significant impact of the built environment (BE) on cycling behavior (Etminani- 
+Ghasrodashti et al., 2018; Wang et al., 2023; Yang et al., 2019). While earlier studies primarily focused on macro-scale BE, including 
+cycling infrastructure (Mateo-Babiano et al., 2016) and land use types like recreational areas (Etminani-Ghasrodashti et al., 2018), 
+recent research also revealed the non-negligible effects of micro-level, human-perceived environmental features, such as fine-grained 
+streetscape elements (Gao and Fang, 2025; Song et al., 2024c). According to environmental psychology theory (Mehrabian, 1974), 
+these perceptions could influence emotions and consequently shape on-route behavioral decisions.
+Leveraging advanced modeling and urban imagery data, emerging research attempted to assess the effect of micro-level streetscape 
+perceptions using street view images (SVI) on cycling behaviors (Yang et al., 2024). However, these studies objectively quantified 
+image pixel ratios through “machine-style” segmentation and focused on features like trees and sky, failing to account for compre­
+hensive human-perceived streetscape qualities that are inherently subjective and vary among individuals (Ramírez et al., 2021). 
+Moreover, the potential nuanced non-linear influence of these subjective perceptions (e.g., perceived aesthetics, safety, lively) on 
+cycling behavior remains poorly understood (Gao and Fang, 2025; Song et al., 2024c).
+Moreover, focusing solely on perceived visual perceptions draws an incomplete perspective, as visual and auditory (i.e., sound­
+scape) elements interplay in shaping environmental perceptions (Echevarria Sanchez et al., 2017; Li and Lau, 2020). Meanwhile, 
+eme
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Formal analysis, 
+Conceptualization. Qiwei Song: Writing – review & editing, Resources, Methodology, Data curation, Conceptualization. Haoran Ma: 
+Writing – review & editing, Resources, Methodology, Investigation. Waishan Qiu: Conceptualization. Meikang Li: Data curation, 
+Investigation, Resources. Inhi Kim: Writing – review & editing, Supervision, Resources.
+K. Zhang et al. 
+Transportation Research Part D 145 (2025) 104806 
+16 
+
+Acknowledgement
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government(MSIT) (No. 
+2021R1C1C1006405)
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.trd.2025.104806.
+References
+Akers, A., Barton, J., Cossey, R., Gainsford, P., Griffin, M., Micklewright, D., 2012. Visual color perception in green exercise: positive effects on mood and perceived 
+exertion. Environ. Sci. Tech. 46, 8661–8666. https://doi.org/10.1021/es301685g.
+Aletta, F., Astolfi, A., Kang, J., Oberman, T., Mitchell, A., 2025. Soundscape attributes translation: Current projects and challenges. Appl. Acoust. 228, 110305. 
+https://doi.org/10.1016/j.apacoust.2024.110305.
+Basner, M., Babisch, W., Davis, A., Brink, M., Clark, C., Janssen, S., Stansfeld, S., 2014. Auditory and non-auditory effects of noise on health. Lancet 383, 1325–1332. 
+https://doi.org/10.1016/S0140-6736(13)61613-X.
+Biljecki, F., Ito, K., 2021. Street view imagery in urban analytics and GIS: A review. Landsc. Urban Plan. 215, 104217. https://doi.org/10.1016/j. 
+landurbplan.2021.104217.
+Blitz, A., 2021. How does the individual perception of local conditions affect cycling? An analysis of the impact of built and non-built environment factors on cycling 
+behaviour and attitudes in an urban setting. Travel Behav. Soc. 25, 27–40. https://doi.org/10.1016/j.tbs.2021.05.006.
+B¨ocker, L., Anderson, E., Uteng, T.P., Throndsen, T., 2020. Bike sharing use in conjunction to public transport: Exploring spatiotemporal, age and gender dimensions 
+in Oslo, Norway. Transp. Res Part A Policy Pract. 138, 389–401. https://doi.org/10.1016/j.tra.2020.06.009.
+Bullock, C., Brereton, F., Bailey, S., 2017. The economic contribution of public bike-share to the sustainability and efficient functioning of cities. Sustain. Cities Soc. 
+28, 76–87. https://doi.org/10.1016/j.scs.2016.08.024.
+Campos Ferreira, M., Dias Costa, P., Abrantes, D., Hora, J., Felício, S., Coimbra, M., Galv˜ao Dias, T., 2022. Identifying the determinants and understanding their effect 
+on the perception of safety, security, and comfort by pedestrians and cyclists: A systematic review. Transp. Res. Part F Traffic Psychol. Behav. 91, 136–163. 
+https://doi.org/10.1016/j.trf.2022.10.004.
+Christiansen, L.B., Cerin, E., Badland, H., Kerr, J., Davey, R., Troelsen, J., van Dyck, D., Mit´aˇs, J., Schofield, G., Sugiyama, T., Salvo, D., Sarmiento, O.L., Reis, R., 
+Adams, M., Frank, L., Sallis, J.F., 2016. International comparisons of the associations between objective measures of the built environment and transport-related 
+walking and cycling: IPEN adult study. J. Transp. Health 3, 467–478. https://doi.org/10.1016/j.jth.2016.02.010.
+Davies, W.J., Adams, M.D., Bruce, N.S., Cain, R., Carlyle, A., Cusack, P., Hall, D.A., Hume, K.I., Irwin, A., Jennings, P., Marselle, M., Plack, C.J., Poxon, J., 2013. 
+Perception of soundscapes: An interdisciplinary approach. Appl. Acoust. 74, 224–231. https://doi.org/10.1016/j.apacoust.2012.05.010.
+Ding, C., Cao, X., Dong, M., Zhang, Y., Yang, J., 2019. Non-linear relationships between built environment characteristics and electric-bike ownership in Zhongshan, 
+China. Transp. Res. D Transp. Environ. 75, 286–296. https://doi.org/10.1016/j.trd.2019.09.005.
+Dong, L., Jiang, H., Li, W., Qiu, B., Wang, H., Qiu, W., 2023. Assessing impacts of objective features and subjective perceptions of street environment on running 
+amount: A case study of Boston. Landsc. Urban Plan. 235, 104756. https://doi.org/10.1016/j.landurbplan.2023.104756.
+Dubey, A., Naik, N., Parikh, D., Raskar, R., Hidalgo, C.A., 2016. Deep Learning the City: Quantifying Urban Perception at a Global Scale. pp. 196–212. Doi: 10.1007/ 
+978-3-319-46448-0_12.
+Duran-Rodas, D., Chaniotakis, E., Antoniou, C., 2019. Built environment factors affecting bike sharing ridership: data-driven approach for multiple cities. Transp. Res. 
+Rec.: J. Transp. Res. Board 2673, 55–68. https://doi.org/10.1177/0361198119849908.
+Echevarria Sanchez, G.M., Van Renterghem, T., Sun, K., De Coensel, B., Botteldooren, D., 2017. Using Virtual Reality for assessing the role of noise in the audio-visual 
+design of an urban public space. Landsc. Urban Plan. 167, 98–107. https://doi.org/10.1016/j.landurbplan.2017.05.018.
+Edworthy, J., Waring, H., 2006. The effects of music tempo and loudness level on treadmill exercise. Ergonomics 49, 1597–1610. https://doi.org/10.1080/ 
+00140130600899104.
+Etminani-Ghasrodashti, R., Paydar, M., Ardeshiri, A., 2018. Recreational cycling in a coastal city: Investigating lifestyle, attitudes and built environment in cycling 
+behavior. Sustain. Cities Soc. 39, 241–251. https://doi.org/10.1016/j.scs.2018.02.037.
+Ewing, R., Cervero, R., 2010. Travel and the Built Environment. J. Am. Plann. Assoc. 76, 265–294. https://doi.org/10.1080/01944361003766766.
+Ewing, R., Handy, S., 2009. Measuring the unmeasurable: urban design qualities related to walkability. J. Urban Des. (Abingdon) 14, 65–84. https://doi.org/10.1080/ 
+13574800802451155.
+Feng, G., Zou, G., Piga, B.E.A., Hu, H., 2021. The Validity of Street View Service Applied to Ambiance Perception of Street: A Comparison of Assessment in Real Site 
+and Baidu Street View. pp. 740–748. Doi: 10.1007/978-3-030-80829-7_91.
+Gao, M., Fang, C., 2025. Pedaling through the cityscape: Unveiling the association of urban environment and cycling volume through street view imagery analysis. 
+Cities 156, 105573. https://doi.org/10.1016/j.cities.2024.105573.
+
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. 
+Fig. 2), spans 1,997 km2 and had over 17 million 
+Fig. 1. Research framework.
+Table 1 provides a comprehensive 
+Fig. 2. Bike share usage distribution (a), temporal usage pattern (b), example of OD pattern.
+Table 1 
+Fig. 3. Soundscape mapping.
+Fig. 3, with clear spatial disparity observed in 
+Fig. 4). The collected data is made freely available (https://drive.google.com/ 
+Fig. 4. Correlation between predicted and field site-measured sound intensity.
+Fig. 5. Streetscape indicators mapping.
+Fig. 6. Bivariate map of generalized soundscape quality and streetscape quality.
+Fig. 5) contribute positively and are assigned a value of 1, while “Boring” and “Depressing” detract and are assigned −1. It 
+Fig. 6 indicates areas with high soundscape and streetscape quality, 
+Table 2, Model 4, which additionally included soundscape features, explained 
+Fig. 7 illustrate the impact of three distinct feature groups on bikesharing volume, each represented by a distinct 
+Fig. 8A). A 
+Fig. 8B), with a critical threshold of around 42 bus stations per km2, where the SHAP values turn 
+Fig. 8C&D). 
+Fig. 8D), offering diminishing returns from overly accessible 
+Table 2 
+Fig. 8F and 8H exhibit local dependence plots for perceived pleasant sound and sound quality, both initially correlating positively 
+Fig. 8 illustrates the effects of visual streetscape features. Positive perceptions of streets, particularly when 
+Fig. 7. Feature importance of different groups.
+Fig. 8. Nonlinear impact of selected features showing high importance on cycling.

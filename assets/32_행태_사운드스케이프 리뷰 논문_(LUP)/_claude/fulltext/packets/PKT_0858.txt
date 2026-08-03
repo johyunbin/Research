@@ -1,0 +1,215 @@
+### RECORD ID=858 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: ACOUSTICS
+TITLE: Soundscape Approach in the Seaport of Ancona: A Case Study
+DOI: 10.3390/acoustics4020031
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Citation: Di Loreto, S.; Serpilli, F.;
+Lori, V. Soundscape Design in the
+Seaport of Ancona: A Case Study.
+Acoustics 2022, 4, 492–516. https://
+doi.org/10.3390/acoustics4020031
+Academic Editor: Jian Kang
+Received: 23 March 2022
+Revised: 19 May 2022
+Accepted: 2 June 2022
+Published: 14 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+acoustics
+Article
+Soundscape Approach in the Seaport of Ancona: A Case Study
+Samantha Di Loreto *,†
+, Fabio Serpilli †
+and Valter Lori †
+Department of Industrial Engineering and Mathematical Sciences, Università Politecnica delle Marche,
+Brecce Bianche 12, 60131 Ancona, Italy; f.serpilli@univpm.it (F.S.); v.lori@univpm.it (V.L.)
+* Correspondence: s.diloreto@pm.univpm.it; Tel.: +39-071-2204875
+† These authors contributed equally to this work.
+Abstract: Today, the art of knowing how to listen is more urgent than ever. The perceptive sound
+system of the human being is stimulated daily by countless artiﬁcial sounds that dominate natural
+ones. When it comes to the idea of the soundscape, the terminology was initially referred to by
+composer and environmentalist Raymond Murray Shafer, who deﬁned “soundscape” as a relationship
+between the ear, humans, built environments, and society. This paper aims to apply the sound
+landscape approach in the seaport area of Ancona (Italy); a large area, frequented daily by many
+people, which is divided into passenger and ferry terminals, container terminals, plants for solid
+bulk, and commercial and recreational activities. The purpose of the study was to evaluate the
+perception that a human has of the urban layout of the port area by correlating the parameters of
+traditional acoustics with psychoacoustics. To evaluate the subjective parameters, a questionnaire
+was developed and applied, enabling the analysis of demographic and behavioral factors such as
+age, visit frequency, and length of stay of the participants in the clusters of the seaport. This way, it
+was possible to give an indication of the sound quality of the different clusters of the port area, from
+an acoustic and emotional point of view, and this information could be particularly helpful in the
+planning phase of new attractions for the Ancona seaport.
+Keywords: soundscape; urban planning; sound quality; auditory perception
+1. Introduction
+In this historical moment, where there is so much talk of environmental sustainability,
+the study of the sound landscape and the World Soundscape Project by M. Schafer [1]
+are very important aspects of research in terms of acoustic ecology; that is, the balanced
+relationship between sounds and their environment. By accepting this approach, we see
+how the concept of sound landscape is closely related to the deﬁnition of sound ecology,
+since it is able to accommodate various aspects related to practices that deal with studying
+the acoustic habitats of natural or human-generated sounds. The aim of this project is to
+restore dignity to the background noise of the environment, always putting at the center of
+the discussion our relationship with the sound environment.
+1.1. Background
+The theory of soundscape distinguishes three fundamental sound elements [1]:
+1.
+Keynotes: Sounds present more frequently to which we no longer pay attention,
+such as the natural ones of wind, birds, and animals, in general. Furthermore, many
+common urban sounds have to be considered keynotes: for example, sounds produced
+by road trafﬁc, domestic air conditioning systems, and industrial plants.
+2.
+Soundsignal: emergency sirens, bells, alarm clocks, horns, etc., are sounds heard in the
+foreground with a strong semantic character and are easily assimilated to a condition
+of annoyance.
+Acoustics 2022, 4, 492–516. https://doi.org/10.3390/acoustics4020031
+https://www.mdpi.com/journal/acoustics
+
+Acoustics 2022, 4
+493
+3.
+Soundmarks: These are the so-called sound imprints that are closely linked to a
+territory. They represent the acoustic identity of a place and, due to their importance,
+they should be protected alongside animals in danger of extinction and the dignity of
+the human being.
+Among the practical experiences included in the deﬁnition of soundscape, useful for
+identifying the aforementioned soundmarks, an important role is played by the soundwalk.
+Previous studies talk about soundwalk procedures, aimed precisely at investigating the
+subjective reactions of the participants during a walk in the city or in another place [2–4].
+The reactions of the participants can be investigated with due consideration given to the
+type of area, the position chosen for the sound evaluation, and the atmospheric conditions
+at the time of the measurement. Adams et al. [5] describes the development of the sound-
+walking methodology and its use as a tool to engage professionals who work in the area of
+urban design and urban development. Their paper reﬂects on the utility of soundwalking
+as a methodological practice. It has been found that the perceptions of the soundscape
+are varied and diverse. Hyun et al. in [6] investigated the effect of the appropriateness of
+the sound environment on urban soundscape perception through individuals’ subjective
+evaluation in laboratory conditions. Kang [7] considers sound environments to be psycho-
+logical factors because they have an important inﬂuence on the levels of human comfort
+and how human beings can integrate with the landscape. This approach could complement
+decibel-based metrics into existing (national) regulations, shifting the focus from noise
+control to a more holistic approach. The steps to achieve this have to include: soundscape
+characterization, by capturing acoustic environments and establishing 
+
+--- METHODS/RESULTS EXCERPT ---
+Method-B), and a perception survey of the
+users. Landscape factors have been considered in many previous studies in relation to
+sound and soundscape perception [24]. Soundscape is usually interpreted by means of
+identifying and describing different sound sources in a place.
+Kang et al. [7] demonstrated that human evaluation of subjective loudness and acoustic
+comfort depends on a series; for example, a large-scale subjective survey was undertaken
+in underground shopping streets in Harbin, China, to determine how individual sound
+sources inﬂuenced subjective loudness and acoustic comfort evaluation [25]. Yang [26]
+suggested that the background sound level has been found to be an important index in
+evaluating soundscape in urban open public spaces, while a lower background level tends
+to make people feel quieter. Analyses of individual sound elements show that the acoustic
+comfort evaluation is greatly affected by the sound source type. The sound ﬁeld can be
+calculated by summing the individual contribution due to the monopoles and taking the
+limit of a vanishing small separation. The noise sources can be modeled successfully by
+using a dipole. In view of this, the concept of environmental load is relevant, because at a
+given noise level, inhabitants of small towns seem to be less annoyed than those in a large
+urban city [2].
+In order to study the inﬂuence of the interaction between geographic landscape and
+acoustic stimuli on the perception of the environment, several authors have attempted to
+identify the informational, aesthetic, or affective qualities of sound, which help to confer
+quality on a given landscape [27–29].
+In an urban environment, there are different zones, and in each zone there is a domi-
+nant sound. On the basis of a series of case studies in Europe and China and an intensive
+literature review, Zhang [4] evaluated the basic elements for soundscape: sound, space,
+people, and environment. In their work, factors affecting soundscape evaluation in urban
+open spaces included acoustic psychological social characteristics of various sounds and,
+consequently, a system for soundscape description was established. To quantitatively
+describe sound evaluation, such as annoyance, researchers often refer to parameters such as
+the equivalent continuous level, Leqt[dBA], day and night level (Ldn[dBA], Lnight[dBA],
+Levening[dBA]) and, in some cases, the sound exposure level, SEL[dBA]. These parameters
+can be measured and calculated [30]. Ambient noise and soundscape are not synonymous,
+for example a low noise level does not mean that there is good sound quality [3]. Moreover,
+as it considers human perception including cognitive aspects, context, and interaction, it
+goes beyond physics and psychoacoustics. As Smith [31] points out, muteness in cultural
+
+Acoustics 2022, 4
+495
+geography is problematic for a number of reasons. For example, it leads us to underestimate
+the role of all the senses in structuring and experiencing space and place, and it could also
+exclude an important form of expression such as the production of sound. Sound can make
+important contributions to the re-deﬁnition of spaces in a more complete way than the
+classical approaches.
+To investigate the acoustic environment of a urban open space, it is important to
+develop an appropriate description of this. Raimbault [32] suggested that three categories
+of analysis should be considered for urban open public spaces: activities such as human
+presence or transport, spatial attributes, such as location, and time history, including
+moment. A good model for describing the soundscape of urban open spaces is proposed
+by Cain et al. [33].
+Another aspect of a sound source in an urban open space, the psychological and
+social characteristic, is discussed in [34–37]. The results showed that Shaffer’s perspective
+not only encapsulated the sound sources themselves, but viewed the sonic environment
+as a subjective, and somewhat personal, interpretation. Hence, just as important as the
+acoustic signal is the relationship between the individual experience and subjectivity within
+a physical and a cultural context.
+1.2. Contribution of This Work
+The aim of this work is to propose a sound landscape procedure for the evaluation
+of the urban space. Previous studies have adopted group-soundwalk methodologies. In
+this case study, a real acoustic environment was considered and a recorded soundwalk
+procedure was developed. After an in-depth investigation of the area, the assessment
+positions in which any positive or negative characteristics of the urban soundscape could
+be perceived as positive or negative were selected. The evaluation of the relationship
+between the acoustic/auditor environment and the responses of the people who live within
+it turns out to be a very important correlation to characterize the human perception of
+everyday environmental noise. It is an important starting point to develop ways to improve
+the sound of the built environment and, thus, recognize the essence of soundscapes. The
+case study was located in the seaport area of the city of Ancona, Italy. Soundscape data
+collection was carried out in situ by an operator, through binaural recording and video
+recording. Data collected was used to design a listening test. The listening test was created
+on an online platform and shared with people who frequently live this area. Data on how
+people perceive the seaport area acoustic environment were investigated by a questionnaire,
+implemented in the same online platform. The results of the subjective tests were then
+correlated with the acoustic measurements by means of statistical analysis. The study tried
+to move away from the concept of negative noise and identiﬁed a means through which
+the concept of soundscapes could be effectively incorporated into urban planning. In this
+way, the aim is to propose interventions that could be called “acoustic planning” in order
+to increase the environmental quality perceived by humans.
+The paper
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1. Clustering of the seaport of Ancona.
+Figure 2,
+Figure 2
+Figure 2. Acoustic classiﬁcation: seaport area framing.
+Figure 3 shows the site plan, the main function, the main
+Table 1. Acoustic and Psychoacoustic parameters calculated from the binaural recording.
+Table 2. Loudness percentiles, in particular the N5, N50, and N90. These values provide information
+Figure 3. Basic information of the case study sites.
+Figure 4 while the full questionnaire template in English Language is made available in
+Figure 5.
+Figure 6, the trend of the types of
+Table 3 shows
+Figure 4. Contents of the questionnaire.
+Figure 5. Cont.
+Figure 5. Pie chart of general trends.
+Figure 6. Mean score of the perceived quality of the eight clusters.
+Table 3. Mean value (mean) and standard deviation (std) of the subjective attributes related to the
+Table 3. Cont.
+Table 3. Cont.
+Figure 7; later, polynomial regression analysis was used to identify the
+Figure 8.
+Figure 7. Results of polynomial regression between SPL and Loudness. Several noteworthy results
+Figure 8. Results of polynomial regression between pleasantness and loudness. Several noteworthy
+Table 4 summarizes the results of the regression’s coefﬁcient regarding the rank of the

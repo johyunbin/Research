@@ -1,0 +1,184 @@
+### RECORD ID=1253 | screening_verdict=BORDERLINE | year=2026
+JOURNAL: PLOS ONE
+TITLE: Mapping urban soundscape patterns using user-generated content: A place model approach to acoustic environment perception
+DOI: 10.1371/journal.pone.0343393
+PAGES: 23
+
+--- HEAD (title/abstract/intro) ---
+PLOS One | https://doi.org/10.1371/journal.pone.0343393  February 24, 2026
+1 / 23
+ 
+ OPEN ACCESS
+Citation: Lee H, Kim Y (2026) Mapping urban 
+soundscape patterns using user-generated 
+content: A place model approach to acoustic 
+environment perception. PLoS One 21(2): 
+e0343393. https://doi.org/10.1371/journal.
+pone.0343393
+Editor: Yuan Zhang, Shenyang Jianzhu 
+University, CHINA
+Received: June 2, 2025
+Accepted: February 4, 2026
+Published: February 24, 2026
+Copyright: © 2026 Lee, Kim. This is an open 
+access article distributed under the terms of 
+the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original author and source are credited.
+Data availability statement: https://figshare.
+com/s/670148adaad3d5595291.
+Funding: This research was supported by 
+the grant for the KAIST Grand Challenge 
+30 Program funded by the Korea Advanced 
+Institute of Science and Technology 
+(N11250046), the National Research 
+RESEARCH ARTICLE
+Mapping urban soundscape patterns using 
+user-generated content: A place model approach 
+to acoustic environment perception
+Haneul Lee
+1, Youngchul Kim
+2*
+1  KAIST Urban Design Lab, KAIST Smart City Research Center, Department of Civil and Environmental 
+Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea, 
+2  KAIST Urban Design Lab, KAIST Smart City Research Center, Department of Civil and Environmental 
+Engineering, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea 
+* youngchulkim@kaist.ac.kr
+Abstract 
+Urban acoustic environments significantly influence quality of life, prompting a para­
+digm shift from noise reduction to soundscape design that considers human percep­
+tion. This study investigates urban soundscape perceptions using social media data 
+to understand how acoustic environments reflect urban spatial characteristics. We 
+collected Korean-language Twitter texts from 156 points of interest in Seoul’s central 
+and southeastern neighborhoods from October to November 2020. The collected 
+texts were preprocessed through text cleaning and morphological analysis, then 
+classified using an urban soundscape taxonomy based on Canter’s place model that 
+integrates physical setting, activity, and meaning dimensions. The results revealed 
+that activity-related soundscapes (79.4%) dominated all target areas, and strong neg­
+ative correlations between indoor, mechanical, and behavioral soundscapes suggest 
+a spatial separation of acoustic zones by urban function. Especially, historical central 
+districts (22.0%) showed a higher proportion of meaning-related soundscapes com­
+pared to modern commercial districts (13.4%). K-means clustering further identified 
+three soundscape types: infrastructure-dominated, socially vibrant, and commercial 
+indoor-focused zones. By combining social media analysis with spatial patterns, the 
+study provides a scalable tool for urban planners to understand how citizens expe­
+rience urban soundscapes, offering data-driven insights for contextualized urban 
+design.
+1.  Introduction
+Noise is commonly defined as unwanted sound that can cause physiological and psy­
+chological disturbances to humans [1]. Long-term exposure to urban noise is related 
+to various health issues, including stress and cardiovascular disease [2–4]. Tradi­
+tionally, urban acoustic environment management has focused on reducing sound 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0343393  February 24, 2026
+2 / 23
+pressure levels (dB) [5,6]. However, this approach is limited as it does not consider 
+the quality of the acoustic environment, where a low sound pressure level does not 
+always correlate with human well-being [7].
+Recognizing these limitations, the EU has sought solutions based on soundscapes 
+[8]. A soundscape is the perceived acoustic environment in context by an individual, 
+group, or society [9]. Unlike traditional noise management that focuses solely on 
+quantitative reduction, the soundscape approach emphasizes qualitative acous­
+tic environments that distinguish between wanted and unwanted sounds, utilizing 
+preferred sounds to stimulate human senses [5,8]. At the urban scale, soundscape 
+characteristics are influenced by individual attributes, sociocultural factors, physical 
+environment, and geographic features [8,11–15], making them indicators of urban 
+identity. Therefore, analyzing urban soundscapes is essential for creating pleasant 
+acoustic environments through urban planning [8].
+R. Murray Schafer [10] established an initial classification derived from historical 
+and literary documents and classified soundscape elements into six functional cate­
+gories: natural sounds, human sounds, society, mechanical sounds, indicators, quiet, 
+and silence. This led to empirical standardization for managing the acoustic envi­
+ronment. Brown et al. [16] proposed a framework to ensure research comparability, 
+categorizing sources by their origin (e.g., sounds generated by human activity) rather 
+than their perceived quality. Aiello et al. [17] used social media data to derive taxon­
+omies based on public perception (e.g., transport, music, and indoors), while Sal­
+amon et al. [18] developed an application-oriented taxonomy for machine learning, 
+focusing on urban sound issues identified from noise complaints (e.g., jackhammer 
+and siren). Recent studies have moved from classifying sound sources to evaluating 
+perceptual experience with the two-dimensional model of pleasantness and eventful­
+ness [19,20]. Several taxonomies have emerged including functional classifications 
+distinguishing disruptive and supportive sounds [21], cognitive process models pro­
+gressing from sound classification to judgment [22], and activity-based frameworks 
+measuring soundscape appropriateness for specific contexts such as working and 
+relaxing [23].
+However, these studies reveal limitations in covering various urban characteristics.
+
+--- METHODS/RESULTS EXCERPT ---
+Methodological contributions and limitations
+These interpretations require consideration of methodological constraints and cultural context. Most critically, reliance 
+on Twitter as the sole data source introduces substantial limitations. Twitter’s declining user base and demographic bias 
+toward younger, urban populations may not represent the full spectrum of urban soundscape experiences [34,35]. The 
+platform’s text-based nature and character limitations may also discourage detailed acoustic descriptions, potentially 
+explaining the low frequency of natural soundscapes even in areas with parks and green spaces.
+The data collection period (October-November 2020) coincided with the COVID-19 pandemic, introducing a temporal 
+specificity that limits generalizability. Lee & Jeong [62] demonstrated significant changes in urban noise perception during 
+lockdowns, with outdoor environments becoming quieter while neighbor noise gained prominence. The high proportion of 
+indoor soundscapes in our data may reflect pandemic-related behavioral changes than typical urban acoustic patterns. 
+Furthermore, restrictions on social gatherings during this period have likely changed the acoustic characteristics of public 
+spaces, potentially not reflecting the vibrancy of social activities in Type 2 areas.
+Cultural context presents additional consideration. Aletta et al. [63] demonstrated significant differences in soundscape 
+perception between European and Chinese populations, where Europeans associated vibrancy with human sounds while 
+Chinese participants linked it to natural sounds. Korean urban culture, with its unique combination of traditional and mod­
+ern elements, may produce distinct soundscape preferences not captured by Western contexts. The high proportion of 
+indoor soundscapes in commercial areas might reflect Korean café culture and the social importance of indoor gathering 
+spaces, instead of universal patterns. Future applications of Canter’s place model [25] should consider such cultural varia­
+tions, potentially requiring regional adaptations of the taxonomy to capture culturally specific acoustic meanings.
+The absence of memory-type soundscapes among all neighborhoods and the limited presence of natural sounds 
+confirms fundamental limitations of social media-based soundscape research. Unlike standardized soundwalk 
+methodologies [29,32] or the comprehensive PHS (Physical, Historical, Social) approach proposed by Maffei et al. 
+[61], social media data reflects selective sharing behaviors. Users appear to prioritize documenting socially engaged 
+experiences over ambient environmental sounds. While this selectivity provides insights into which sounds people 
+find meaningful enough to share, it cannot replace systematic acoustic assessment methods that capture the full 
+spectrum of urban soundscapes.
+Despite these limitations, this study contributes methodologically by demonstrating scalable soundscape assessment 
+beyond traditional point-based measurement. Previous studies struggled with limited geotagged data, often restricting 
+analysis to small areas or specific locations [17,35,38]. Our POI-based georeferencing approach, linking texts to 156 
+POIs across seven districts, expanded spatial coverage while maintaining location specificity. The significant correlation 
+between POI density and soundscape frequency (Spearman ρ = 0.43, p < 0.001) validates this method’s effectiveness in 
+capturing localized acoustic perceptions. This statistical relationship serves as an indirect validation of our core assump­
+tion that not all posts may reflect direct experiences. While this provides confidence in our large-scale approach, further 
+research employing manual validation or sampling would be beneficial to directly prove the context of individual posts. 
+This scalability of a POI-based approach supports the need for area-wide soundscape characterization in urban planning, 
+though it sacrifices the acoustic precision of ISO 12913 standard methods.
+Applying Canter’s place model [25] to soundscape taxonomy provides another contribution, integrating physical, 
+behavioral, and semantic dimensions in a unified framework. While previous classifications focused on sound sources 
+[10,16–18] or perceptual dimensions such as pleasantness-eventfulness models [19,20], our approach captures the 
+contextual nature of soundscape perception. This framework particularly complements the holistic approach advocated by 
+Aletta et al. [64], which emphasizes that soundscape quality depends on acoustic factors and visual, spatial, and social 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0343393  February 24, 2026
+20 / 23
+contexts. The relationships between visual quality and soundscape satisfaction shown in tourist sites support our finding 
+that ­meaning-related soundscapes concentrate in visually distinctive heritage areas [64].
+The clustering analysis revealing three distinct patterns provides a data-driven typology that could serve as a potential 
+screening tool for urban planners. Rather than replacing detailed acoustic measurements, this approach could identify 
+areas requiring focused investigation using standardized methods such as soundwalks or the Management Plan for her­
+itage sites [61]. For instance, Type 1 areas with high mechanical soundscapes would benefit from objective noise mea­
+surements and psychoacoustic analysis to quantify the actual impact on residents’ wellbeing [40]. Similarly, the vibrancy 
+characteristics identified in Type 2 areas should be validated through on-site soundwalks following ISO/TS 12913−2 pro­
+tocols, combining binaural recordings with perceptual assessments to confirm whether social media-derived patterns align 
+with in-situ experiences [26,63,65]. The discrepancy between high indoor soundscape proportions in Type 3 commercial 
+areas and low sensory engagement particularly warrants acoustic simulation studies to understand how architectural and 
+acoustic design influenc
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig 1 for data collection, text analysis for the measurement of urban 
+Fig 2). These two areas are located in the northern and southern parts of Seoul, and have different urban development 
+Fig 1.  Research process.
+Table 1.
+Fig 2.  Target sites of this study. (a) Central and Southeastern districts in Seoul. (1) Jongro-gu; (2) Jung-gu; (3) Yongsan-gu; (4) Seocho-gu; (5) 
+Fig 3 shows the proposed soundscape taxonomy, including sound sources and semantic categories. The ‘Physical 
+Table 1.  Acquired texts by district.
+Table 1, percentage refers to the number of posts from each district compared to the total number of posts.
+Fig 3.  Urban soundscape taxonomy adapted from the place model. This consists of a sense of place, including physical setting, activity, and mean­
+Fig 4 showed that three clusters (K =3) were the optimal number, as this is the elbow point where 
+Fig 4.  The result of Elbow method and silhouette measurement. (a) Elbow method shows that the rate of decrease in WCSS (inertia) slows signifi­
+Table 2 shows the descriptive statistics of the target areas. A total of 143,100 soundscape frequencies of target sites were 
+Fig 5). A significant positive 
+Table 3, the presence of a high-ranking soundscape frequency is associated with human activities (e.g., 
+Table 2.  Descriptive statistics of the target areas.
+Table 2, percentage refers to the frequency of the soundscape keywords in the number of posts by each district.
+Fig 5.  POIs type distribution by neighborhood group. This illustrates the difference in POI types between the central area and the southeastern 
+Table 3.  Soundscape keyword ranking (Top 20) in

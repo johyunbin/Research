@@ -1,0 +1,291 @@
+### RECORD ID=761 | screening_verdict=INCLUDE | year=2021
+JOURNAL: FORESTS
+TITLE: Soundscape Perceptions and Preferences for Different Groups of Users in Urban Recreational Forest Parks
+DOI: 10.3390/f12040468
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Article
+Soundscape Perceptions and Preferences for Different Groups
+of Users in Urban Recreational Forest Parks
+Xingyue Fang 1,†, Tian Gao 1,†
+, Marcus Hedblom 2
+, Naisheng Xu 1, Yi Xiang 1, Mengyao Hu 1, Yuxuan Chen 1
+and Ling Qiu 1,*
+
+
+Citation: Fang, X.; Gao, T.; Hedblom,
+M.; Xu, N.; Xiang, Y.; Hu, M.; Chen,
+Y.; Qiu, L. Soundscape Perceptions
+and Preferences for Different Groups
+of Users in Urban Recreational Forest
+Parks. Forests 2021, 12, 468. https://
+doi.org/10.3390/f12040468
+Academic Editors: Michael Andreu
+and Robert J. Northrop
+Received: 12 March 2021
+Accepted: 9 April 2021
+Published: 12 April 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+College of Landscape Architecture and Arts, Northwest A&F University, Xianyang 712100, China;
+fangxingyue@nwafu.edu.cn (X.F.); tian.gao@nwsuaf.edu.cn (T.G.); xunaisheng@nwafu.edu.cn (N.X.);
+2018051384@nwafu.edu.cn (Y.X.); HMYao@nwafu.edu.cn (M.H.); cyx0724@nwafu.edu.cn (Y.C.)
+2
+Department of Urban and Rural Development, Swedish University of Agricultural Sciences, P.O. Box 7012,
+SE-75007 Uppsala, Sweden; marcus.hedblom@slu.se
+*
+Correspondence: qiu.ling@nwsuaf.edu.cn; Tel.: +86-29-87080269
+†
+These two authors contribute equally to this work.
+Abstract: Although the soundscape in cities is receiving increased attention in urban planning, there
+is still a lack of knowledge of how personal factors inﬂuence the perception of and preference for
+soundscapes. Most present studies are linked to one or a few speciﬁc soundscapes and do not have a
+holistic approach exploring the pros and cons of all soundscapes in a place. This study surveyed
+individuals to assess how soundscape perceptions and preferences may differ among various atten-
+dees of typical urban forest recreational parks in Xi’an, China, using an on-site questionnaire. The
+respondents (N = 2034) revealed that rare natural sounds were perceived more positively than the
+dominating artiﬁcial sounds. Five main dimensions of social, demographic, and behavioral attributes
+were found to be linked to the soundscape perceptions and preferences: (1) familiarity of the park
+and attendees’ age made people more tolerant towards sounds that others ﬁnd annoying; (2) higher
+education and higher socio-economic status showed lower tolerance towards sounds; (3) having
+companions and speciﬁc types of recreational use increased the frequent perception of artiﬁcial
+sounds; (4) females generally showed higher sensitivity and lower tolerance than males towards
+several sounds; and (5) the longer attendees remained in the park, the more positive the overall
+soundscape preference was. The results indicate that numerous sounds are affecting people’s overall
+experience in the parks. These ﬁndings could help decision-makers and urban forest recreational
+park designers to formulate relevant strategies for park design that are in tune with varying public
+needs and expectations towards soundscape. The implementation of human-oriented soundscape
+design can therefore enhance people’s well-being.
+Keywords: soundscape experience; personal differences; social demographical factors; human
+behavior; urban forest
+1. Introduction
+Urban recreational forest parks, ensuring people’s relaxation and recreation, are im-
+portant urban public spaces that provide environmental and social beneﬁts [1–3] and
+improve people’s health [4]. At present, many countries have actively developed a variety
+of programs for sustainable urban planning concerning urban recreational forest parks;
+however, the conventional approaches in park design and management processes are
+mostly based on landscape visual characteristics, whereas the aural (sound) aspect is often
+neglected [5,6]. Yet the soundscape (acoustic environment as perceived or experienced
+and/or understood by a person or people, in context; International Organization for Stan-
+dardization, 2014) is highly linked to people’s health. Noise pollution has been identiﬁed
+as one of the most signiﬁcant factors of environmental stressors [7]. The dominant focus
+Forests 2021, 12, 468. https://doi.org/10.3390/f12040468
+https://www.mdpi.com/journal/forests
+
+Forests 2021, 12, 468
+2 of 18
+has been on mechanical ways of reducing negative sound in cities by lowering noise and
+speciﬁc decibel levels [8,9].
+However, recent studies revealed that the perception of soundscapes is not specif-
+ically linked to levels of decibels but to the type of soundscape and people’s personal
+preferences and sensitivity, as well as demography linked to soundscape [10–16]. For
+example, natural sounds such as birds, water, and rustling leaves have been highlighted
+as positive sounds [17,18], while road trafﬁc has been proved to be perceived as nega-
+tive [19–21]. However, there is an intricate interplay between positive natural sounds
+and noise in soundscape perceptions and preferences; for example, people can perceive a
+noisy environment more positively if a bird’s song is added, which would thereby mask
+the noise [11]. Additionally, there is interdependence between sound and visual stimuli.
+For example, Viollon et al. (2002) found that the more urban a visual setting is, the more
+negative sounds will be perceived. This ﬁnding did, however, depend on the type of sound
+heard, as well [22]. Thus, the quality and type of sound is—according to Liu and Kang
+(2015), Liu et al. (2014; 2013), Nilsson and Berglund (2006), and Zhang and Kang (2007)—a
+critical factor in creating sustainable urban recreational forest parks [15,23–26]. Further-
+more, the impacts of demographic factors and behavioral aspects on outdoor soundscape
+perception have been increasingly discussed [21,27,28]. Age and gender
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Area
+Similar to other Chinese cities, Xi’an, which has more than 10 million urban inhabitants,
+has been going through a drastic urban expansion. This change could have a signiﬁcant
+impact on the experience in urban recreational forest parks for the local people. Based on
+the electronic map of Xi’an in 2019, there are 16 existing urban recreational forest parks in
+Xi’an city. The six urban recreational forests parks distributed throughout Xi’an were ﬁnally
+selected according to location, freedom of access, landscape characteristics, number of
+visitors, and the shape of the site (Table 1 and Figure 1). Each of these parks is popular and
+freely accessible, having many visitors, and thus provides a vast heterogeneity of sounds.
+All parks are rather new, and all but one were built within the last 12 years. As each park
+is of different size, the different number of sampling sites in each park was selected for
+the investigation according to the size and the characteristics of landscape, and all the
+sampling sites have similar size within 2 hectares (Figure 1).
+Through pilot investigations prior to the completion of the main survey, 22 different
+sounds were found to be regularly heard in all of the parks. These were natural sounds
+(birds, insects, dogs, ducks, leaves rustling, wind, and water), artiﬁcial sounds (lawn
+mowing, construction sounds, engine sounds, bicycle riding, surrounding speech, playing
+children, footsteps, diabolo, trains, automobiles, and motorbikes) and musical sounds
+(square dancing, broadcast music, singing, and instruments). It is worth mentioning that
+diablo is a game in which an hourglass-shaped top is balanced and spun on a string
+stretched between the tips of two sticks, and square dancing is a popular music-related
+group physical exercise for health beneﬁts in China, generally held at the urban parks.
+All respondents were asked to provide their perceptions of these sounds in the digital
+app questionnaire.
+Table 1. Information of the six urban recreational forest parks in Xi’an, China.
+Surveyed Parks
+Location
+Free of
+Charge
+Characteristics
+Number of
+Daily Visits
+(per Year)
+Shape of Site
+Development
+Area
+(Hectares)
+Xi’an exposition
+(EXPO) park
+Northern
+suburb
+Yes
+Theme of ornamental
+horticulture
+1.8 million
+Regular
+trapezoid
+Opened for
+free in 2012
+Around 418
+Daming palace
+national heritage
+park
+City centre
+Yes
+Theme of historical and
+cultural heritage
+5.5 million
+Regular rectangle
+Opened in
+2010
+Around 320
+The park of
+Xingqing palace
+City centre
+Yes
+Theme of historical and
+cultural heritage
+9.0 million
+Regular square
+Opened in
+2006
+Around 52
+The yanming lake
+wetland park
+Eastern
+suburb
+Yes
+Theme of the wetland
+1.5 million
+Approximate
+triangle
+Opened in
+2016
+Around 44
+Qujiang pond
+heritage park
+City centre
+Yes
+Theme of waterscape
+1.5 million
+Approximate
+triangle
+Opened in
+2008
+Around 31
+Yinghua park
+Southern
+suburb
+Yes
+Theme of cherry
+blossoms
+1.0 million
+Regular
+trapezoid
+Reopened in
+2019
+Around 5
+
+Forests 2021, 12, 468
+4 of 18
+Figure 1. Location of the six urban recreational forest parks in Xi’an, China (Source: elaborated by
+authors by Google earth 2020).
+2.2. Questionnaire Structure
+The questionnaire survey was conducted on site, as participants were asked to use a
+tablet provided to them to ﬁll the online questionnaire generated in advance through the
+“Wen Juan Xing” application—a professional online questionnaire survey platform. The
+questionnaire consisted of three sections (Supplementary Materials, Figure S1). The ﬁrst
+section of the questionnaire was designed to collect the respondents’ demography such as
+age, gender, companion, educational background, occupation, monthly income, dwelling
+place, residential status, distance to the park, visit frequency, length of stay, and potential
+recreational activities.
+The second section focused on individual soundscape perception, and included the
+rating of 22 individual sounds on a ﬁve-point scale, linking them to perceived occurrences
+(PO) of each sound (from never heard (1) to heard all the time (5)), the perceived loudness
+(PL; from very quiet (1) to very loud (5)), and the preference (PR) for each sound (from very
+negative (1) to very positive (5)). In addition, the respondents were asked to evaluate if
+they could visually perceive the source (VS) of each individual sound (except wind) (from
+see (1) to not see it (2)). It is worth noting that if the occurrence (PO) of an individual sound
+cannot be perceived, its PL, PR, and VS will no longer be assessed.
+In the third section, respondents were asked to indicate their overall preference (OPR)
+for the soundscape using a ﬁve-point rating scale (from very unsatisﬁed (1) to very satisﬁed
+(5)), perceived loudness (OPL; from very low (1) to very loud (5)), and annoyance (OPA;
+from not annoyed at all (1) to extremely annoyed (5)).
+
+Forests 2021, 12, 468
+5 of 18
+2.3. Field Survey
+The ﬁeld survey was conducted from September to October in 2019. All respondents
+were randomly selected among visitors in each sampling site of the park. The approached
+park visitors were ﬁrst informed about the survey’s objectives and answering procedures
+without any mention of positive or negative sounds, noise pollution, etc. They then were
+informed that their answers would be anonymous. Those willing to participate were given
+a tablet containing the questionnaire and invited to ﬁll it in individually in order to avoid
+interference from other participants during their stay in the site. In order to reduce any
+deviation caused by the selection of respondents within a particular time, each sampling
+site was surveyed twice over different days, all with sunny and windless weather. Each
+survey lasted eight hours (approximately from 9:00 a.m. to 5:00 p.m.). Since the duration
+of the questionnaire survey was short and only limited sounds might have appeared
+during a particular period, the participants were asked to respond based on their long-term
+experiences in the parks within the leng
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1 and Figure 1). Each of these parks is popular and
+Figure 1).
+Table 1. Information of the six urban recreational forest parks in Xi’an, China.
+Figure 1. Location of the six urban recreational forest parks in Xi’an, China (Source: elaborated by
+Table 2). Signiﬁcant differences were
+Figure 2). Commonly occurring sounds with a high degree of
+Figure 2a,b). Perceived lower
+Figure 2c,d). Birds (PR = 4.08 ± 0.02) and broadcasted
+Table 2. Numbers of study participants per personal attributes’ grouping.
+Figure 2. Perception of and preference for individual sounds (±standard error) in urban recreational forest parks. Note: All
+Figure 3).
+Figure 3. Overall soundscape perception in urban recreational forest parks. OPL = Perceived
+Table 3). The collinearity diagnostics also showed that
+Table 4).
+Table 3. Spearman’s rho correlation coefﬁcients for the relationship between twelve respondents’ attributes.
+Table 4. Component scores of respondents’ attributes. Extraction method: factor analysis; rotation
+Table 5).
+Table 5. Generalized linear models for the impact of respondents’ factors on overall soundscape perception, with “-”
+Table 4
+Table 6).
+Table 6). Speciﬁcally, this dimension positively
+Table 5). Specifically, participants with a greater income and
+Table 6). Speciﬁcally, a negative inﬂuence
+Table 6). The PO
+Table 6. Perception parameters of individual sounds that were signiﬁcantly inﬂuenced (p < 0.001) by respondents’ factors.

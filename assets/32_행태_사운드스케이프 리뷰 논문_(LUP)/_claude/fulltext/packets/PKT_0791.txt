@@ -1,0 +1,229 @@
+### RECORD ID=791 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: SENSORS
+TITLE: A Low Cost IoT Cyber-Physical System for Vehicle and Pedestrian Tracking in a Smart Campus
+DOI: 10.3390/s22176585
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Citation: Toutouh, J.; Alba, E. A Low
+Cost IoT Cyber-Physical System for
+Vehicle and Pedestrian Tracking in a
+Smart Campus. Sensors 2022, 22, 6585.
+https://doi.org/10.3390/s22176585
+Academic Editors: Seong-eun Yoo,
+Taehong Kim and Youngsoo Kim
+Received: 6 July 2022
+Accepted: 26 August 2022
+Published: 31 August 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sensors
+Article
+A Low Cost IoT Cyber-Physical System for Vehicle and
+Pedestrian Tracking in a Smart Campus
+Jamal Toutouh *
+and Enrique Alba
+Departamento de Lenguajes y Ciencias de la Computación, Universidad de Málaga, 29071 Malaga, Spain
+* Correspondence: jamal@uma.es; Tel.: +34-952-13-33-03
+Abstract: Human tracking and trafﬁc monitoring systems are required to build advanced intelligent,
+innovative mobility services. In this study, we introduce an IoT system based on low-cost hardware
+that has been installed on the campus of the University of Malaga, in Spain. The sensors gather
+smart wireless devices (Bluetooth and Wi-Fi) anonymous information and environmental noise level
+around them. This research studies the spatio-temporal behavior of people and noise pollution in
+the campus as a short-scale Smart City, i.e., a Smart Campus. Applying speciﬁc machine learning
+algorithms, we have analyzed two months of captured data (61 days). The main ﬁndings from
+the analysis show that most university community members move through the campus at similar
+hours, generating congestion problems. In addition, the campus suffers from acoustic pollution
+according to regulations; therefore, we conclude that the proposed system is useful for gathering
+helpful information for the university community members and managers. Thanks to its low cost, it
+can be easily extended and even used in other similar environments, allowing democratic access to
+Smart City services as an excellent added value.
+Keywords: smart mobility; IoT; noise pollution
+1. Introduction
+Today, it is a fact that most of the world’s population lives in cities. This high concen-
+tration of people and vehicles in speciﬁc geographic zones has ampliﬁed the importance
+of issues related to the mobility of the inhabitants and the transportation of goods. In
+this context, smart city initiatives have emerged [1–3]. One of their main aims is to ad-
+dress mobility-centric challenges by applying smart mobility solutions [4–6]. Most of
+the proposed smart mobility services are supported by intelligent systems responsible
+for detecting, predicting, and efﬁciently managing road trafﬁc resources. For example, a
+potential solution to road congestion problems (which increase travel times and greenhouse
+emissions) may be provided by a smart trafﬁc lights management system that reduces the
+waiting time at trafﬁc lights and improves efﬁcient driving.
+These intelligent systems that are applied to mobility challenges require gathering ac-
+curate trafﬁc/mobility data continuously to operate, which is still a big challenge today. Es-
+sential valuable mobility data, such as the number of cars per street, the origin/destination
+(OD) matrices of the city, and pedestrian behavior, are scarce and difﬁcult to obtain. Nowa-
+days, the most common systems of obtaining this type of data only perform vehicle count
+or provide an estimate of the road trafﬁc density in a given area; thus, the most widely
+used means of assessing mobility at present in our cities are: (a) traditional measurement
+on-road hardware (e.g., loop detectors) [7], which is expensive, traumatic to install, scarcely
+available, and only for vehicle detection; (b) cameras, which are also expensive and the
+accuracy of the gathered data may depend on external factors as the meteorology [8];
+(c) ﬂoating cars [9].
+Moreover, the use of cameras to track the movement of vehicles and people requires
+the extraction and identiﬁcation of vehicle license plates and a feature vector of the person’s
+Sensors 2022, 22, 6585. https://doi.org/10.3390/s22176585
+https://www.mdpi.com/journal/sensors
+
+Sensors 2022, 22, 6585
+2 of 17
+face/body, respectively. These data are stored and processed in the system. As these
+data can be used directly to identify vehicles (and their drivers) and persons uniquely, it
+can lead to an invasion of user privacy and provoke General Data Protection Regulation
+(GDPR) issues.
+In recent years, with the proliferation of smart mobile devices (e.g., cellphones), an-
+other manner to obtain vehicles/pedestrians mobility information is by using the cellphone
+location information services [10–12]. Thus, in order to share the location, the user must
+activate a service (or application) in the cellphone to exchange the information retrieved by
+the Global Positioning System (GPS) module. The main beneﬁt of these GPS-based systems
+is that it does not require the installation of sensors or cameras. The main issues of this
+approach are that: (a) the service used to exchange the GPS position consumes a substantial
+amount of energy [11] and (b) the service generally shares private information with a third
+party, usually a private entity, that manages the service [12].
+A promising alternative to gather vehicles/pedestrians mobility is the installation of
+sensors able to detect Bluetooth (BT) signals and identifying vehicles and pedestrians by
+the Media Access Control (MAC) hardware addresses of their smart devices [13]. Thus, the
+sensors detect vehicles and pedestrians by capturing the wave signals generated by the
+smart devices that the people carry, e.g., cellphones and watches, or are located inside the
+vehicles, e.g., on-board units. This choice is experiencing fast development since it is very
+cheap and easy to maintain; however, the 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, J.T.; Project administration, J.T.; Resources, E.A.;
+Software, J.T.; Visualization, J.T.; Writing—review & editing, J.T. and E.A. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research is partially funded by the Universidad de Málaga, Consejería de Economía
+y Conocimiento de la Junta de Andaluía and FEDER under grant number UMA18-FEDERJA-003
+(PRECOG); PID 2020-116727RB-I00 (HUmove) funded by MCIN/AEI/10.13039/501100011033; and
+TAILOR ICT-48 Network (No. 952215) funded by EU Horizon 2020 research and innovation programme.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Not applicable.
+Acknowledgments: The authors thank NEO Lab members for their support in the installation of
+the sensors.
+Conﬂicts of Interest: The authors declare no conﬂict of interest. The views expressed are purely
+those of the writer and may not in any circumstances be regarded as stating an ofﬁcial position of the
+European Commission.
+References
+1.
+Myeong, S.; Park, J.; Lee, M. Research Models and Methodologies on the Smart City: A Systematic Literature Review. Sustainability
+2022, 14, 1687. [CrossRef]
+2.
+Roccotelli, M.; Mangini, A.M. Advances on Smart Cities and Smart Buildings. Appl. Sci. 2022, 12, 631. [CrossRef]
+3.
+McClellan, S.; Jimenez, J.A.; Koutitas, G. Smart Cities: Applications, Technologies, Standards, and Driving Factors; Springer: New York,
+NY, USA, 2017.
+4.
+Paiva, S.; Ahad, M.A.; Tripathi, G.; Feroz, N.; Casalino, G. Enabling technologies for urban smart mobility: Recent trends,
+opportunities and challenges. Sensors 2021, 21, 2143. [CrossRef] [PubMed]
+
+Sensors 2022, 22, 6585
+16 of 17
+5.
+Toutouh, J.; Arellano, J.; Alba, E. BiPred: A Bilevel Evolutionary Algorithm for Prediction in Smart Mobility. Sensors 2018,
+18, 4123. [CrossRef] [PubMed]
+6.
+Toutouh, J.; Alba, E. A swarm algorithm for collaborative trafﬁc in vehicular networks.
+Veh. Commun. 2018, 12, 127–137.
+[CrossRef]
+7.
+Leduc, G. Road trafﬁc data: Collection methods and applications. In Working Papers on Energy, Transport and Climate Change;
+Institute for Prospective Technological Studies (IPTS), Joint Research Centre: Seville, Spain, 2008; Volume 1.
+8.
+Fahmidha, R.; Jose, S.K. Vehicle and Pedestrian Video-tracking: A Review. In Proceedings of the 2020 International Conference
+on Communication and Signal Processing (ICCSP), Chennai, India, 28–30 July 2020; pp. 227–232. [CrossRef]
+9.
+Chen, B.Y.; Yuan, H.; Li, Q.; Lam, W.H.; Shaw, S.L.; Yan, K. Map-matching algorithm for large-scale low-frequency ﬂoating car
+data. Int. J. Geogr. Inf. Sci. 2014, 28, 22–38. [CrossRef]
+10.
+Jimoh, O.D.; Ajao, L.A.; Adeleke, O.O.; Kolo, S.S. A Vehicle Tracking System Using Greedy Forwarding Algorithms for Public
+Transportation in Urban Arterial. IEEE Access 2020, 8, 191706–191725. [CrossRef]
+11.
+Almishari, S.; Ababtein, N.; Dash, P.; Naik, K. An energy efﬁcient real-time vehicle tracking system. In Proceedings of the
+2017 IEEE Paciﬁc Rim Conference on Communications, Computers and Signal Processing (PACRIM), Victoria, BC, Canada,
+21–23 August 2017; pp. 1–6. [CrossRef]
+12.
+Too, W.G.; Thong, C.L.; Chit, S.M.; Chaw, L.Y.; Lee, C.Y. Features of Mobile Tracking Apps: A Review of Literature and Analysis
+f Current Apps Compared Against Travel Agency Requirements.
+In HCII 2020: Design, Operation and Evaluation of Mobile
+Communications, Proceedings of the International Conference on Human-Computer Interaction, Copenhagen, Denmark, 19–24 July 2020;
+Springer: New York, NY, USA, 2020; pp. 107–120.
+13.
+Castillo, P.; Fernández-Ares, A.; García-Fernández, P.; García-Sánchez, P.; Arenas, M.; Mora, A.; Rivas, V.; Asensio, J.; Romero,
+G.; Merelo, J. Studying individualized transit indicators using a new low-cost information system. In Handbook of Research on
+Embedded Systems Design; IGI Global: Hershey, PA, USA, 2014; pp. 388–407.
+14.
+Friesen, M.R.; McLeod, R.D. Bluetooth in intelligent transportation systems: A survey. Int. J. Intell. Transp. Syst. Res. 2015,
+13, 143–153. [CrossRef]
+15.
+Danalet, A.; Farooq, B.; Bierlaire, M. A Bayesian approach to detect pedestrian destination-sequences from WiFi signatures.
+Transp. Res. Part C Emerg. Technol. 2014, 44, 146–170. [CrossRef]
+16.
+Dong, Z.Y.; Zhang, Y.; Yip, C.; Swift, S.; Beswick, K. Smart campus: Deﬁnition, framework, technologies, and services. IET Smart
+Cities 2020, 2, 43–54. [CrossRef]
+17.
+Del-Valle-Soto, C.; Valdivia, L.J.; Velázquez, R.; Rizo-Dominguez, L.; López-Pimentel, J.C. Smart Campus: An Experimental
+Performance Comparison of Collaborative and Cooperative Schemes for Wireless Sensor Network. Energies 2019, 12, 3135.
+[CrossRef]
+18.
+Rico-Bautista, D.; Guerrero, C.D.; Collazos, C.A.; Maestre-Góngora, G.; Hurtado-Alegría, J.A.; Medina-Cárdenas, Y.; Swaminathan,
+J. Smart University: A vision of technology adoption. Rev. Colomb. Comput. 2021, 22, 44–55. [CrossRef]
+19.
+Andres, L. Designing and Doing Survey Research; SAGE: Thousand Oaks, CA, USA, 2012.
+20.
+Jung, I.C.; Kwon, Y. Grocery customer behavior analysis using RFID-based shopping paths data. World Academy of Science.
+Eng. Technol. 2011, 59, 2011.
+21.
+Abedi, N.; Bhaskar, A.; Chung, E. Tracking spatio-temporal movement of human in terms of space utilization using Media-
+Access-Control address data. Appl. Geogr. 2014, 51, 72–81. [CrossRef]
+22.
+Abedi, N.; Bhaskar, A.; Chung, E.; Miska, M. Assessment of antenna characteristic effects on pedestrian and cyclists travel-time
+estimation based on Bluetooth and WiFi MAC addresses. Transp. Res. Part C Emerg. Technol. 2015, 60, 124–141. [CrossRef]
+23.
+Versichele, M.; Neutens, T.; Claeys Bouuaert, M.; Van de Weghe, N. Time-geographic Derivation of Feasible Co-presence
+Opportunities from Network-constrained Episodic Movement Data. Trans. GIS 2014, 18, 687–703. [CrossRef]
+24.
+Bullock, D.M.; Haseman, R.; Wasson, J.S.; Spitler, R. Automated Measurement of Wait Times at Airport Security: Deployment at
+Indianapolis International Airport, Indiana. Transp. Res. Rec. 2010, 2
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1
+Figure 1. Global view of the WSN.
+Table 1 presents the prices of each component.
+Figure 2 shows the block diagram and a real picture of the designed sensor. The sensor
+Figure 2. Different elements and views of the road sensor system: (a) Sensor block diagram; (b) Actual
+Table 1. Price of the components used to deploy the sensors of the proposed IoT system.
+Figure 3a. The sensors use their wireless interfaces to connect to the Internet in order to
+Figure 3b), A set of web
+Figure 3. Communication and data ﬂow of our system: (a) Global view of the WSN; (b) basic data
+Figure 4, the black dots
+Figure 4. Location of the sensors installed in the Campus of Teatinos.
+Table 2 shows the total number of detected devices averaging them in terms of day:
+Figure 5 illustrates the average number of devices captured for all the studied sensors along
+Table 2 and Figure 5, the number of Bluetooth devices detected is negligible
+Table 2. Average number of devices sensed per day grouped by sensor type.
+Figure 5. Average value of the number (#) of devices detected for both Bluetooth and Wi-Fi devices.
+Figure 6 and
+Table 3 summarize the results by averaging the number of sensed devices.
+Figure 6 present three main general patterns:
+Figure 6. Number of devices detected over the day grouped by the week days and holidays.
+Table 3 presents the average of the total amount of devices detected in terms of sensor
+Table 3. Average number of devices sensed per day grouped by sensor id and type of day. The
+Table 3 conﬁrm the main ﬁndings of the patterns discussed
+Table 3, the
+Figure 4). This relatively long distance from the target devices made it

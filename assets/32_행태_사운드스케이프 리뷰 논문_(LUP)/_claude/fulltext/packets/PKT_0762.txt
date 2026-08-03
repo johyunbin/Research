@@ -1,0 +1,264 @@
+### RECORD ID=762 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: Soundscape in Times of Change: Case Study of a City Neighbourhood During the COVID-19 Lockdown
+DOI: 10.3389/fpsyg.2021.570741
+PAGES: 24
+
+--- HEAD (title/abstract/intro) ---
+ORIGINAL RESEARCH
+published: 24 March 2021
+doi: 10.3389/fpsyg.2021.570741
+Edited by:
+Jose Q. Pinheiro,
+Federal University of Rio Grande do
+Norte, Brazil
+Reviewed by:
+Gustavo Martineli Massola,
+University of São Paulo, Brazil
+Gleice V. M. A. Elali,
+Federal University of Rio Grande do
+Norte, Brazil
+*Correspondence:
+Sara Lenzi
+sara.lenzi@polimi.it
+PerMagnus Lindborg
+pm.lindborg@cityu.edu.hk
+Specialty section:
+This article was submitted to
+Environmental Psychology,
+a section of the journal
+Frontiers in Psychology
+Received: 08 June 2020
+Accepted: 29 January 2021
+Published: 24 March 2021
+Citation:
+Lenzi S, Sádaba J and Lindborg P
+(2021) Soundscape in Times of
+Change: Case Study of a City
+Neighbourhood During the COVID-19
+Lockdown.
+Front. Psychol. 12:570741.
+doi: 10.3389/fpsyg.2021.570741
+Soundscape in Times of Change:
+Case Study of a City Neighbourhood
+During the COVID-19 Lockdown
+Sara Lenzi1*, Juan Sádaba2 and PerMagnus Lindborg3*
+1 DensityDesign Lab, Department of Design, Politecnico di Milano, Milan, Italy, 2 Department of Architecture, Universidad del
+País Vasco, San Sebastián, Spain, 3 School of Creative Media, City University of Hong Kong, Kowloon, Hong Kong
+The coronavirus disease 2019 (COVID-19) lockdown meant a greatly reduced social
+and economic activity. Sound is of major importance to people’s perception of the
+environment, and some remarked that the soundscape was changing for the better. But
+are these anecdotal reports based in truth? Has trafﬁc noise from cars and airplanes
+really gone down, so that more birdsong can be heard? Have socially distanced
+people quietened down? This article presents a case study of the human perception
+of environmental sounds in an urban neighborhood in the Basque Country between 15
+March and 25 May 2020. The social restrictions imposed through national legislation
+divided the 69-day period into three phases. We collected observations, ﬁeld audio
+recordings, photography, and diary notes on 50 days. Experts in soundscape and
+architecture were presented with the recordings, in randomized order, and made
+two separate perceptual analyses. One group (N = 11) rated the recordings for
+pleasantness and eventfulness using an adapted version of the Swedish Soundscape
+Quality Protocol, and a partly overlapping group (N = 12) annotated perceived sound
+events with free-form semantic labels. The labels were systematically classiﬁed into a
+four-level Taxonomy of Sound Sources, allowing an estimation of the relative amounts of
+Natural, Human, and Technological sounds. Loudness and three descriptors developed
+for bioacoustics were extracted computationally. Analysis showed that Eventfulness,
+Acoustic Complexity, and Acoustic Richness increased signiﬁcantly over the time
+period, while the amount of Technological sounds decreased. These observations were
+interpreted as reﬂecting changes in people’s outdoor activities and behavior over the
+whole 69-day period, evidenced in an increased presence of Human sounds of voices
+and walking, and a signiﬁcant shift from motorized vehicles toward personal mobility
+devices, again evidenced by perceived sounds. Quantitative results provided a backdrop
+against which qualitative analyses of diary notes and observations were interpreted
+in relation to the restrictions and the architectural speciﬁcs of the site. An integrated
+analysis of all sources pointed at the temporary suspension of human outdoor activity
+as the main reason for such a change. In the third phase, the progressive return of
+street life and the usage of personal mobility vehicles seemed to be responsible for a
+clear increase in Eventfulness and Loudness even in the context of an overall decrease
+Frontiers in Psychology | www.frontiersin.org
+1
+March 2021 | Volume 12 | Article 570741
+
+Lenzi et al.
+Soundscape During Pandemic
+of Technological sounds. Indoor human activity shared through open windows and
+an increased presence of birdsong emerge as a novel characteristic element of the
+local urban soundscape. We discuss how such changes in the acoustic environment
+of the site, in acoustic measurements and as perceived by humans, point toward the
+soundscape being a crucial component of a comprehensive urban design strategy that
+aims to improve health and quality of life for increasingly large and dense populations in
+the future.
+Keywords: soundscape, urbanism, perception and cognition, COVID-19, pandemic, social response, case study
+INTRODUCTION
+“Media that emphasize space are apt to be less durable and light
+in character. . . such as sounds, for the true character of sound in
+shaping societies is in its spatial spread. . . and the real paradox
+is that although sounds are pronounced in time, they are also
+erased by time” (Schafer, 1977 p. 162). How does the soundscape
+change over time? In The Tuning of the World, Schafer (1977)
+describes measuring a collection of ﬁre engine sirens covering
+seven decades. He found that their signal had gotten louder
+by “nearly half a decibel per year on average” (idem p. 186).
+This observation supported his general thesis that urban noise
+levels have increased in industrialized societies, to the detriment
+of animals and human inhabitants alike. In what may seem
+as a reply, Arana (2010) analyzed a large number (876,480) of
+noise measurements taken in the Spanish cities of Pamplona and
+Madrid between 1999 and 2003. Contrary to Schafer’s results, he
+found a statistically signiﬁcant decrease in the overall sound level.
+The ﬁndings were translated to inspire politicians and designers;
+for example, the “remarkable reduction” of noise that had been
+observed in one district was attributed to the implementation of
+pedestrian areas.
+Such investigations are part of a larger movement. The
+approach to sound and listening that Schafer pioneered in the
+mid-1960s has broadened out, in particular through the World
+Soundscape Project and the World Forum for Acoustic Ecology
+(see Truax, 2019 for a history), and has become a multifaceted
+ﬁeld that is deeply conne
+
+--- METHODS/RESULTS EXCERPT ---
+Methods section in four
+parts; outlining the procedures for collecting audio recordings;
+making diary observations; conducting two analyses by an expert
+group, which allowed the construction of a Taxonomy of Sound
+Sources; and extracting computational soundscape descriptors.
+We report integrated results and make comparisons in relation
+to the lockdown phases. In the Discussion, we return to the ﬁve
+assumptions and attempt to provide answers.
+Pandemic Lockdown Response Phases
+In early March 2020, cases of COVID-19 started to be detected
+in Spain. Within 1 week, there were 589 conﬁrmed cases and 10
+deaths, and within 2 weeks, Spain recorded 7,753 cases and 288
+deaths (Kassam and Burgen, 2020). The accelerating severity of
+the situation pushed the national government to proclaim a state
+of emergency. Learning from nearby countries that were “ahead
+of the curve,” notably Italy, strict measures were introduced on 14
+March. The project presented in this article started immediately
+thereafter, on 15 March at noon, on the ﬁrst day of oﬃcial
+application of conﬁnement measures in Spain. In the following
+weeks, the country moved through diﬀerent phases of restriction
+to activity and mobility (see Table 1). At around noon every
+day, the ﬁrst author made a 5-min audio recording of the
+sonic environment and made observations from the window
+of her residency.
+Undoubtedly, the coronavirus causes death and a great deal of
+psychological suﬀering. The restrictive responses inﬂict traumatic
+changes to human lives, with businesses closing, plans being
+canceled, and the stress of being conﬁned to staying at home.
+These changes tend to aﬀect those most vulnerable in society
+the most. By the end of April 2020, most countries in the world
+had declared partial or total lockdown regimes, causing half of
+the world population to live in conﬁnement (Sandford, 2020).
+These measures impose a drastic reduction in human activity,
+“causing multiple cities across the globe to simultaneously go into
+hibernation” (Weston, 2020).
+There are subtle changes underway that may have less
+dramatic yet deep and long-lasting inﬂuence. The soundscape
+is both an indicator of environmental quality and a component
+of cultural identity. For example, one newspaper stated that
+“life has changed, too: The city no longer sounds the same.
+And that realization is as jarring as the sight of empty
+streets” (Bui and Badger, 2020). Others have commented how
+animals react to the changing environment, such as “birdsong,
+for instance, seems louder than ever before. Some birds are
+actually likely to be lower in pitch than before, since they have
+fewer cars, planes, jackhammers, and leaf-blowers to compete
+with” (Ro, 2020). As for marine life, “evidence of a drop in
+underwater noise pollution has led experts to predict [that]
+the crisis may [. . .] be good news for whales and other sea
+mammals” (McVeigh, 2020). Reduced human activity aﬀects
+not only the living conditions for animals but also might even
+impact the crust of planet Earth itself, as “seismologists are
+reporting less seismic noise, or vibrations in the Earth’s crust”
+(Ro, 2020).
+As mentioned, Spain entered a several-weeks-long sequence
+of diﬀerent lockdown phases on 15 March. Citizens are generally
+conﬁned in their residencies; schools, shops, and other services
+are suspended; leisure and sports activities are forbidden.
+Restrictions to local, national, and international mobility vary.
+In this article, we refer to three phases deﬁned by the severity
+of the restrictions. Table 1 brieﬂy illustrates the restrictions to
+mobility and activity applied in each phase. Phase 1, which
+lasted approximately 2 weeks, initially allowed citizens’ mobility
+to reach their workplace while suspending any other activity.
+Phase 2 saw an increase in the severity of the measures with
+the total suspension of any non-necessary activity. We identify
+the beginning of Phase 3 with the ease of the most restrictive
+measures – notably, the permission for kids to spend up to
+1 h a day outdoors – which preceded the launch of the so-
+called “Plan de Desescalada” (Consejos de Ministros de España,
+2020) on 28 April.
+A detailed analytical overview of the phases with restrictions
+applied in each phase as adapted by the government of
+the Basque Country (Mallo, 2020a,b) is available in the
+Supplementary Material.
+Site of the Case Study
+The case study took place at Plaza de las Escuelas (coordinates
+43.325777, −3.0140461). Our observation point (see Figure 1)
+is located in Las Arenas, a neighborhood in Getxo, which is
+a municipality on the estuary of the River of Bilbao. Getxo, a
+traditionally residential agglomeration with 77,000 inhabitants,
+lies 12 km from Bilbao, the largest town of the Basque
+Country. The area is gentriﬁed with few high-rise buildings.
+Following a trend that is common all over Europe, it is
+home to an aging population where almost a quarter of the
+inhabitants are 65 years old or above. The economy of Getxo is
+essentially based on the third sector (services), which accounts
+for 92.4% of the turnover of the municipality, with a very
+1https://www.google.com/maps/@43.3257696,-3.014469,169m/data=!3m1!1e3
+Frontiers in Psychology | www.frontiersin.org
+3
+March 2021 | Volume 12 | Article 570741
+
+Lenzi et al.
+Soundscape During Pandemic
+TABLE 1 | Description of each phase of lockdown in Spain.
+Phase
+Duration (date)
+Duration (days)
+Outline
+Phase 1
+15-03 to 29-03
+Day 1 to Day 16
+Restrictions to mobility and to activity.
+Phase 2
+30-03 to 22-04
+Day 17 to Day 39
+Further restrictions to mobility, all non-necessary activity suspended.
+Phase 3
+23-04 to 21-06
+Day 40 to Day 100
+Progressive release of mobility and activity restrictions, starting with children allowed outdoors 1 h a day.
+FIGURE 1 | Map of the area surrounding the site.
+weak presence of production from the primary and secondary
+sectors (EUSTAT, 2020).
+In order to be able to analyze the soundscape variations from
+an urban spot that is representative of the city as a wh
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). At around noon every
+Table 1 brieﬂy illustrates the restrictions to
+Figure 1)
+Figure 2),
+Figure 3).
+Figure 4 illustrates, the site is only 250 m from the sea,
+Figure 2) is one block apart. The surrounding larger area is
+Figure 3) with an arcade (echoing sounds) surrounding
+Figure 5.
+Figure 6. While listening to the recordings
+Figure 7, with examples given in
+Table 2. The agreement was very good among the expert raters
+Table 3 gives mean values of the soundscape descriptors
+Table 4,
+Figure 8 plots the development of the variables against the
+Table 5, which shows
+Figure 9).
+Table 3 and Figure 8 (fourth row).
+Figure 8 (second row, right).
+Figure 8
+Figure 10, there was
+Figure 8 (second row, left). As for the computational
+Figure 8, ﬁfth row), and the two NDSIs
+Figure 8, third row, left and middle).
+Table 2 that the former aggregates annotations

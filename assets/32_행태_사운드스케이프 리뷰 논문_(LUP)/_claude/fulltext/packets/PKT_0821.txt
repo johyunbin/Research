@@ -1,0 +1,270 @@
+### RECORD ID=821 | screening_verdict=BORDERLINE | year=2022
+JOURNAL: SUSTAINABILITY
+TITLE: Effects of Sound Source Landscape in Urban Forest Park on Alleviating Mental Stress of Visitors: Evidence from Huolu Mountain Forest Park, Guangzhou
+DOI: 10.3390/su142215125
+PAGES: 22
+
+--- HEAD (title/abstract/intro) ---
+Citation: Guo, Y.; Jiang, X.; Zhang, L.;
+Zhang, H.; Jiang, Z. Effects of Sound
+Source Landscape in Urban Forest
+Park on Alleviating Mental Stress of
+Visitors: Evidence from Huolu
+Mountain Forest Park, Guangzhou.
+Sustainability 2022, 14, 15125. https://
+doi.org/10.3390/su142215125
+Academic Editors: Giovanni Zambon,
+Siu-Kit Lau and Roberto Benocci
+Received: 14 October 2022
+Accepted: 10 November 2022
+Published: 15 November 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+sustainability
+Article
+Effects of Sound Source Landscape in Urban Forest Park on
+Alleviating Mental Stress of Visitors: Evidence from Huolu
+Mountain Forest Park, Guangzhou
+Yanlong Guo 1,*
+, Xuemei Jiang 1, Linfu Zhang 2,*, Han Zhang 3 and Zuoqing Jiang 4
+1
+Social Innovation Design Research Centre, Anhui University, Hefei 203106, China
+2
+Faculty of Arts and Social Sciences, Lancaster University, Lancaster LA14YW, UK
+3
+College of Environmental Science and Engineering, Ocean University of China, Qingdao 266000, China
+4
+Institute of Botany, Chinese Academy of Sciences, Beijing 100000, China
+*
+Correspondence: 20106@ahu.edu.cn (Y.G.); l.zhang47@lancaster.ac.uk (L.Z.); Tel.: +86-152-5655-6306 (Y.G.)
+Abstract: Urban Forest parks are indispensable areas in cities and have ecological and social advan-
+tages, and the quality of their acoustic landscapes is an important factor inﬂuencing visitors’ visiting
+experience. The purpose of this study was to investigate the factors inﬂuencing the acoustic landscape
+on psychological stress relief in selected urban forest parks in China. This study used a questionnaire
+to construct an index system for psychological stress reduction and designed a questionnaire for
+the perceived impact of stress-reducing acoustic sources with user perception and stress-reducing
+restoration evaluation as the entry point. The research team conducted ﬁeld research and online
+questionnaire survey on the questionnaire.com platform from 1–5 July 2022, in Huolu Mountain
+Forest Park, an urban forest park in Guangzhou, and collected 266 valid questionnaires. SPSS26.0 was
+used to analyze the results of the impact of the urban forest park on users’ psychological stress relief.
+Spearman’s rho correlation analysis and a Kruskal–Wallis nonparametric test were used to reveal
+the relationship between social, demographic and behavioral factors of tourism and sound source
+perception, and multiple regression analysis was used to identify the key factors of urban forest park.
+The results showed that, ﬁrst, there were signiﬁcant individual differences and correlations between
+respondents’ age, education level, visit time and frequency on soundscape perceptions; the older the
+respondent or the higher the education level, the higher the psychological stress relief evaluation
+of natural sounds such as birdsong in urban forest parks; the more frequent the visit, the more
+sensitive the users were to sound source perceptions; and the different visit time periods showed that,
+when the frequency of the visit was higher, the more sensitive the users were to the sound source.
+Secondly, natural sounds are important factors for psychological stress relief in soundscape, and
+natural sounds such as birdsong, cicadas, ﬂowing water, and the sound of breeze blowing leaves
+have positive beneﬁts and signiﬁcant contributions to psychological stress relief. Third, the overall
+restorative evaluation of soundscape perception and the separate evaluation of natural, mechanical,
+and human-made sounds had signiﬁcant effects, and the overall restorative evaluation showed
+that the cumulative contribution value of attractiveness was greater than that of compatibility and
+consistency. Fourth, soundscape plays a role in psychological stress relief, as evidenced by signiﬁcant
+differences in pleasure and arousal levels but not in control.
+Keywords: urban forest park; sound source environment; sound source perception; mental stress
+relief; linear regression
+1. Introduction
+In recent years, the health outcomes of the modern urban environment as a primary
+place of residence have come under increasing scrutiny [1]. In the wake of the global
+pandemic of coronavirus disease, the public has ended up increasingly worried about
+mental ﬁtness in the face of “overwhelming” information about the epidemic, the increasing
+Sustainability 2022, 14, 15125. https://doi.org/10.3390/su142215125
+https://www.mdpi.com/journal/sustainability
+
+Sustainability 2022, 14, 15125
+2 of 22
+pressure people feel on a daily basis, the resulting increasing severity of human mental
+illness and environmental problems and the rapid development of urban forest parks. As
+the ‘green lungs’ of cities, urban forest parks play an important role in improving air quality,
+regulating microclimate and protecting biodiversity, among other urban ecosystem services.
+The soundscape is a section of the study of auditory ecology and is an essential factor
+affecting the act of visiting a park, and helping to relieve stress and is one of the key factors
+in achieving psychological and physical rehabilitation and creating a healthy habitat [2].
+Soundscape research is now becoming an international hotspot in the ﬁeld of soundscapes.
+The Canadian composer and environmentalist Schafer was the ﬁrst to introduce the concept
+of ‘soundscape’; he used the time period ”The Music of the Environment” to describe
+soundscapes, deﬁning them as “the auditory elements of the landscape” [3]. He described
+soundscape as ‘the aural properties of the landscape’ and posted two books, European Sound
+Diary and Five Village Soundscape, to promote the concept of soundscape, which also marked
+the establishment of the ﬁeld of
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+3.1. Study Areas
+3.1.1. Site Survey of the Study Area
+In order to have a more comprehensive picture of the changing pattern of the sound-
+scape of the Huofuoshan Forest Park, the research time was determined to be 18:00–21:00
+in the evening, and in July 2022, ﬁve consecutive working days were spent on the case
+study. The study area is in Tianhe District, Guangzhou City and Guangdong Province.
+The study area is in the northeastern part of Tianhe District, Guangzhou City, Guang-
+dong Province, south of Guangzhou Highway, bordered by the South China Botanical
+Garden in the west, Guangdong Tree Park in the north and Da Guan Road in the east.
+The area is about 3 km in length from north to south, covering 4.1 square kilometer, and
+the total area of Huofuoshan Park is about 9000 mu. Topography: The average altitude
+is 150 m, with the highest peak in the central part of the park at 321.8 m above sea level.
+The mountain is rounded and gently sloping, with boulders of various shapes all over the
+mountain, and the soil is mostly red clay. The study area has a subtropical monsoon climate:
+in spring (March to mid-May), there is a temperature and humidity rise and an average
+temperature of 23 ◦C and humidity of 82%. In summer (late May to mid-September),
+temperatures reach up to 33 ◦C and humidity rises to 90%; in autumn (late September
+to early December), the average temperature is 23 ◦C and the average humidity 72%. In
+winter (mid-December to late February), the average temperature is 17 ◦C and humidity
+72%. In addition, the mountain experiences four seasons, rich in plant conﬁgurations and
+water resources, and is a comprehensive urban forest park integrating ecological protection,
+recreational green space and educational research. Therefore, Guangzhou Huofuoshan
+Forest Park was chosen as the study area. The study exploration included the geographical
+location, general layout, components of the sound environment and its spatial distribution,
+as shown in Figure 2. Guangzhou Huofu Mountain Forest Park includes three functional
+areas, namely, plant landscape area, waterfront landscape area and human landscape area,
+as shown in Table 1.
+Figure 2. Study area siting function partition and sampling point distribution.
+
+Sustainability 2022, 14, 15125
+6 of 22
+Table 1. Basic characteristics of the park environment at the sampling site.
+Sampling Point
+Classiﬁcation
+Figure
+Code
+Sampling Point
+Environmental Characteristics
+Park sound
+source
+environment
+E
+Waterfront landscape
+area
+Ea
+Ea1
+According to the moon lake view
+scenic spot
+Rich water, big lawn, camping
+Ea2
+Longdong Reservoir ﬁshing area
+The water is clear and clean
+Ea3
+Colorful jade tan edge playing
+water area
+Stream leisure, water edge entertainment
+Plant landscape area
+Eb
+Eb4
+Zhuyuan View Scenic Spot
+Bamboo forest plants are dense.
+Eb5
+Lotus pond side
+The lotus is open.
+Eb6
+Under the youth
+forest streetlamp
+The dense trees and the level of the
+plant landscape
+Cultural landscape
+area
+Ec
+Ec7
+White frame top stone steps road
+The main peak of the furnace mountain,
+round mountain, gentle slope, natural
+stone slide
+Ec8
+Zhutou stone viewing platform
+Supported by two small boulders, round
+rolling stone, big stones everywhere,
+overlooking the city view, stone steps road
+Ec9
+Jizhen Stone breeze pavilion
+The rocks are composed of black mica
+granite, ladder path, ancient style charm
+3.1.2. Types of Sound Sources in the Study Area
+The source type is the primary acoustic factor inﬂuencing soundscape perception.
+The source type is the primary acoustic factor inﬂuencing the perception of a soundscape
+The deﬁnition of source type is important for the evaluation of soundscape perception,
+and the classiﬁcation of a sound source is important for the quality of the soundscape
+perception [47]. The park contains a rich soundscape, and with reference to previous
+studies [48], nine data sampling points were selected in three functional areas based on the
+principles of accessibility and representativeness before formal data collection. As shown
+in Table 2, natural, artiﬁcial equipment sound and human activity sound sources were
+considered. Speciﬁcally, four typically natural sound sources were chosen for analysis:
+insects chirping, breeze blowing leaves, water ﬂowing and birdsong; four typically artiﬁcial
+equipment sound sources were chosen for analysis: trafﬁc sounds, radio and music sounds,
+aircraft ﬂying over and construction site sounds; and four typically human activity sound
+sources were chosen for analysis: children playing, footsteps, adults communicating and
+cleaners sweeping the ﬂoor.
+Table 2. Urban forest park sound landscape elements.
+Sound Source Type 2
+Sound Source Name 3
+Q: Furnve Mountain Forest Park
+Qa: Natural sound
+Qa1: The sound of the leaves
+Qa2: The sound of water ﬂow
+Qa3: bird song
+Qb: Artiﬁcial equipment sound
+Qb1: trafﬁc sound
+Qb2: Broadcast music sound
+Qb3: construction site construction sound
+Qc: Human activity voice
+Qc1: talk
+Qc2: footsteps
+Qc3: sweeping the ﬂoor
+3.2. The Questionnaire Design
+3.2.1. Basic User Information
+Research has shown that individual characteristics of a user (demographic/social
+factors) have an impact on the evaluation of soundscape stress reduction, with Miedema
+
+Sustainability 2022, 14, 15125
+7 of 22
+and Vos [49] showing that demographic/social factors such as age, gender, occupation
+and educational background are inﬂuential factors in the user’s perception of noise. The
+questionnaire for this study was divided into two parts, so the former part was designed
+to provide information on the social, demographic and behavioral aspects of the users.
+The questionnaire contains information on gender, age group, educational background,
+type of residence and behavioral characteristics, including age (18 and below, 18–30, 31–40,
+41–50, 50 and above), educational (junior high school and below, high school and college,
+undergraduate and postgraduate); behavioral indicators include the frequency of park use
+in a week (1 time and be
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, the speciﬁc
+Figure 1. A conceptual framework of soundscape perception.
+Figure 2. Guangzhou Huofu Mountain Forest Park includes three functional
+Table 1.
+Figure 2. Study area siting function partition and sampling point distribution.
+Table 1. Basic characteristics of the park environment at the sampling site.
+Table 2, natural, artiﬁcial equipment sound and human activity sound sources were
+Table 2. Urban forest park sound landscape elements.
+Figure 3.
+Figure 3. Basic composition of urban forest park users.
+Table 3.
+Table 3. Hierarchy of soundscape perception evaluation systems.
+Table 4, the
+Table 4. Reliability analysis.
+Table 5. The
+Table 5. The KMO test and the Bartlett’s test.
+Table 6. The median compatibility
+Table 6. The mean value and standard deviation of the emotional evaluation of each sound source.
+Figure 4,
+Figure 4. Mean value of the subjective evaluation of each soundscape perception.
+Table 7, where the emotional control scores for each soundscape were less than
+Table 7. Effect of soundscape perception on psychological stress.
+Table 8. This indicates that
+Table 9 shows the correlation
+Table 8. Factor analysis.

@@ -1,0 +1,10 @@
+no,final_verdict,exclude_reason,confidence
+791,UNCERTAIN,"소음·통행량 병렬 측정만, 음환경-행태 결합분석 발췌에 미확인",low
+799,FINAL_INCLUDE,,medium
+811,FINAL_EXCLUDE,"행태 아웃컴 없음; 민원기록은 지각 대리지표, 도시 전역 스케일",medium
+821,FINAL_INCLUDE,,medium
+858,UNCERTAIN,방문빈도·체류시간 수집되나 사운드스케이프와의 분석 발췌에 미확인,medium
+909,UNCERTAIN,설계스튜디오 교육 리뷰; 행태지도·soundwalk 병행하나 정량 관계분석 없음,medium
+948,FINAL_EXCLUDE,아웃컴이 사운드스케이프 지각·평가뿐; 경로는 배정된 노출조건,medium
+980,UNCERTAIN,"노출 지속시간이 매개변수로만 등장, 소리-행태 관계 발췌에 미확인",medium
+981,UNCERTAIN,"행태 지표는 표본기술 수준, 인간활동-음향 연계는 해석적 서술",medium

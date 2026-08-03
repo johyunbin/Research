@@ -1,0 +1,2385 @@
+### RECORD ID=617 | screening_verdict=INCLUDE | year=2020
+JOURNAL: SUSTAINABILITY
+TITLE: Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?
+DOI: 10.3390/su12114619
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+sustainability
+Article
+Examining the Associations between Oases
+Soundscape Components and Walking Speed:
+Correlation or Causation?
+Djihed Berkouk 1,*
+, Tallal Abdel Karim Bouzir 2
+, Luigi Maﬀei 3
+and
+Massimiliano Masullo 3
+1
+Department of Architecture, Biskra University, Biskra 07000, Algeria
+2
+Institute of Architecture and Urban Planning, Blida University, Blida 09000, Algeria; bouzirtallal@gmail.com
+3
+Department of Architecture and Industrial Design, Università degli Studi della Campania “Luigi Vanvitelli”,
+81031 Aversa (CE), Italy; luigi.maﬀei@unicampania.it (L.M.); massimiliano.masullo@unicampania.it (M.M.)
+*
+Correspondence: d.berkouk.dz@gmail.com or d.berkouk@univ-biskra.dz
+Received: 7 May 2020; Accepted: 3 June 2020; Published: 5 June 2020
+
+
+Abstract: The feeling of calm and tranquillity provided by the oases of Algeria can disappear
+because of the outdated urbanization strategy which is based on the vehicle as a mode of transport.
+Walkability is one of the most adoptable sustainable strategies to reduce the negative mechanical
+transportation eﬀects on the quality of life. This paper aimed to examine the correlation and the
+causation between oases soundscape components and walking speed. The methodology of this
+ﬁeld study was based on an empirical approach at the urban settlements in three oases in Algeria.
+The correlation between walking speed and soundscape components was obtained through the use
+of the Spearman correlation test. A one-way ANOVA analysis was conducted to assess the eﬀect
+of the soundscape components on walking speed. A post hoc Tukey test was adopted to explore
+the sound component that causes increased walking speed. In this study, no signiﬁcant correlation
+was explored between the walking speed and the anthrophonical sounds. In contrast, the statistical
+analysis of the sound walks experience suggests a moderate and signiﬁcant negative correlation
+between geophonical and biophonical sounds, with mean walking speed. The results showed that,
+the cause of the increase in the mean walking speed of the pedestrians is human sound. The ﬁndings
+suggest that further research is needed to focus on the long-term subjective investigation to explore
+the correlations and the eﬀects between soundscape, walkability and walking speed.
+Keywords: soundscape; walking speed; oases; sound walk; walk for leisure
+1. Introduction
+The Saharan Oases are often perceived as a place in contrast with their environment. They are a
+particular landscape, composed mainly of water and palm trees surrounded by a sandy desert [1]. They
+are located above the largest underground water supplies in the world [2]. In arid and semi-arid regions,
+water [3] and palm trees are necessary conditions but are insuﬃcient to explain the creation of oases.
+The oases are also considered as small agglomerations created by the natives’ people. Hence, they are
+deﬁned as socio-spatial establishments in the middle of the desert, with cultural identities characterizing
+particular human settlements [4]. In Algeria, rapid, strong and poorly managed urbanization has
+gradually transformed most oases into Saharan cities, which leads to radical changes in the luminous
+and thermal atmospheres, in addition to the urban soundscapes [5]. Due to the challenging weather
+conditions characterizing Saharan cities as well as Saharan Oases, decision makers and urban planners
+favour a transport planning policy which is principally based on using the vehicle [6], instead of
+relying on walking which is considered a sustainable transport mode [7]. This strategy can gradually
+Sustainability 2020, 12, 4619; doi:10.3390/su12114619
+www.mdpi.com/journal/sustainability
+
+Sustainability 2020, 12, 4619
+2 of 16
+decrease walking as a mode of transport in urban settlements around oases and create a car-dependent
+society. Indeed, this problem of transport through the vehicle is not limited to the Saharan cities, it is
+considered as a larger problem aﬀecting city lifestyle in modern environments.
+Sustainability is receiving the attention of the scientiﬁc community in many ﬁelds [8]. In urban
+study, walkability is considered a key concept toward sustainable urban development [9]. It is also
+the underlying characteristic of healthy and sustainable cities [10]. Governments following walkable
+city development policies and projects demonstrate the importance of walkability [11], where people
+living in high walkable areas often spend long periods of time walking, compared to those living in
+low walkable areas [12]. They are also more likely to be physically active, regardless of their income
+level in their neighbourhood [13], since walkable neighbourhood environments have the potential to
+raise utilitarian walking [14]. As a result of this policy, people are becoming increasingly interested in
+walking [15]. The relationship between walking and health is frequently emphasized [11] and thus,
+walking has turned out to be one of the most favoured and widespread types of physical activity [16–18].
+Furthermore, neighbourhood walkability promotes walking, regardless of the inhabitants’ age group
+(adult or small) [19]. In addition, walkable and sustainable neighbourhoods can minimize the crime
+rate [20], moreover, walking brings life to the streets and lively streets contribute to safer urban
+environments [21].
+Through the crucial combination of information that derives from different sensory channels,
+people can perceive and orient themselves in the surrounding environment [22]. A growing body
+of literature can be found on the study of the association of particular variables with walkability
+in urban spaces, such as connectivity, land-use, density, traffic safety, surveillance, community,
+green space, parking [23], convenience, conviviality, conspicuousness, coexistence, commitment [21],
+comfort, legibility, way-finding, feasibility [24], pleasantness and practicability [25]. Along with built
+environments, social conditions and individual reactions are r
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+In the present paper, two ﬁeld studies were carried out in two stages to understand the association
+between the oasis soundscapes components and walking speed. At stage one, the spatial analysis of
+the soundscape was performed to identify the soundscape components of the oases. At stage two,
+individual sound walks were conducted by twenty-seven visitor participants (non-resident). An
+analysis of the behaviour of pedestrians according to the perception of soundscapes was conducted to
+verify whether there was a correlation between the mean walking speed and the soundscapes dominant
+sounds; to determine whether the components of soundscapes aﬀect the mean walking speed.
+3.1. Data Collection
+In order to evaluate and identify soundscapes, binaural recordings [54–56] were used in both
+study stages as a spatial audio recording technique, although there are others such as the monaural,
+
+Sustainability 2020, 12, 4619
+4 of 16
+stereo, array and ambisonic techniques. It is considered to be the more useful that the other [57],
+due to the possibility of recreating the spatial characteristics of the sound environment [58]. At stage
+one, sound recordings were performed in 738 measurement stations distributed in the streets and
+alleys of the studied areas. Stage two was started by using the sound walk method based on binaural
+recordings [57,59,60] in six preselected routes, Figure 2. To record the sound experience as perceived
+by a pedestrian, sound recordings were made along the selected routes using a binaural microphone
+placed in the ears of the participant. To keep a visual track of the studied routes, the recordings
+were associated with photos along these paths. At stage two, the soundscapes were identiﬁed after
+performing an analysis of the spectrogram data which were extracted from the recorded soundtracks;
+this is consistent with previous research [61,62]. The sampling of spectrograms that are representative
+of real soundscapes was based on the results of stage one.
+ 
+Figure 2. The trajectory of the sound walks in (a,b) Branis, (c,d) Chetma and (e,f) M’Chouneche oases.
+The calculation of the mean walking speed of pedestrians was carried out in (m/s) [40], in several
+sections for each sound walk to explore the cause of the increase in the walkers’ speed. The participants’
+speed was calculated by dividing the distance travelled by the duration of the route. The route duration
+was measured using a professional stopwatch.
+The experiment (individual sound walk) and data acquisition (sound recording and mean walking
+speed calculation) were realized under similar climatic conditions (see Table 1), because unstable
+climatic conditions can inﬂuence the sound propagation [63], walkability, and mean walking speed.
+Table 1. Climatic conditions during data acquisition.
+Air Temperature (C◦)
+Relative Humidity (%)
+Wind Speed (m/s)
+18–26
+27–50
+0.4–3.2
+3.1.1. Morphological Characteristics of the Studied Routes
+The sampling of routes sections was mainly based on the reason for having a variation in the
+morphological characteristics, with diverging routes in terms of the soundscape. From this, the sky
+view factor (SVF) and the height/width ratio (H/W) were calculated at 70 measuring stations. Table 2
+shows the codes used to present the routes, stations and sections. The SVF was calculated using the
+modiﬁed method of Steyn [64–66], based on ﬁsheye photography (see Equation (1)). Each ﬁsheye was
+divided into n annular rings (by default n = 36) to calculate the SVF by adding the contribution of each
+
+Sustainability 2020, 12, 4619
+5 of 16
+ring [67]. Figures 3 and 4 respectively show that the urban geometries of these routes are characterized
+by divergent values of SVF and the H/W ratio, with a value of 0.29 ± 0.18 concerning the mean SVF
+of the diﬀerent measurement stations, and a mean value of 0.51 ± 0.41 for the H/W ratio. Figure 5
+represents the variations of the morphological characteristics SVF and H/W, concerning the diﬀerent
+sections of each route:
+SVF = π
+2nΣn
+i=1 sin
+ π(2i −1)
+2n
+! pi
+ti
+!
+(1)
+where (Pi/ti) is the ratio between the number of pixels in the sky and the total number of pixels in the
+ring i.
+Figure 3. Sky view factor (SVF) values for the studied routes stations with examples of ﬁsh-eye images.
+Figure 4. Height/width ratio (H/W) values for the studied routes stations.
+Figure 5. (a) Sky view factor and (b) H/W ratio values for the studied routes sections.
+
+Sustainability 2020, 12, 4619
+6 of 16
+Table 2. The codes of routes, stations and sections.
+Routes
+Stations
+Sections
+Route A_Branis
+A1–A4
+S1
+A4–A7
+S2
+A7–A10
+S3
+Route B_Branis
+B1–B4
+S4
+B4–B8
+S5
+Route C_Chetma
+C1–C5
+S6
+C5–C9
+S7
+C9–C12
+S8
+C12–C16
+S9
+Route D_Chetma
+D1–D4
+S10
+D4–D8
+S11
+D8–D12
+S12
+Route E_M’Chouneche
+E1–E4
+S13
+E4–E7
+S14
+E7–E10
+S15
+Route F_M’Chouneche
+F1–F6
+S16
+F6–F10
+S17
+F10–F14
+S18
+3.1.2. Selection Criteria of the Participants
+The individual sound walks were conducted by twenty-seven participants, belonging to the same
+age category (see Table 3). The participants were architecture students. They were considered as visitor
+walkers because they were not residents of the studied areas. In order to respect the strong traditions
+of the studied areas, where young women do not walk alone in the streets; the choice of participants
+was based only on males. As the body mass index (BMI) may aﬀect the walking level [68], the choice of
+non-athlete participants was mainly based on their body homogeneity in order to overlook the impact
+of this variable on the results of this study. Table 3 illustrates the bodily uniformity of the participants
+by a BMI of 23.34 ± 1.54 kg/m2. This indicates that all participants have a normal BMI. The BMI [69]
+was calculated according to Equation (2):
+BMI = Weight/Height 2
+(2)
+Table 3. Body characteristics of the participants.
+Participant (no.)
+Gender
+Age (year)
+Weight (kg)
+Height (m)
+BMI (kg/m2)
+27
+Male
+24.81 ± 2.42
+73.75 ± 3.49
+1.78 ± 0.04
+23.34 ± 1.54
+The values are presented as follows: average ± standard
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. These three oases have common characteristics, where the main activity
+Figure 1. Location of the studied oases.
+Figure 2. To record the sound experience as perceived
+Figure 2. The trajectory of the sound walks in (a,b) Branis, (c,d) Chetma and (e,f) M’Chouneche oases.
+Table 1), because unstable
+Table 1. Climatic conditions during data acquisition.
+Table 2
+Figure 5
+Figure 3. Sky view factor (SVF) values for the studied routes stations with examples of ﬁsh-eye images.
+Figure 4. Height/width ratio (H/W) values for the studied routes stations.
+Figure 5. (a) Sky view factor and (b) H/W ratio values for the studied routes sections.
+Table 2. The codes of routes, stations and sections.
+Table 3). The participants were architecture students. They were considered as visitor
+Table 3 illustrates the bodily uniformity of the participants
+Table 3. Body characteristics of the participants.
+Figure 6 presents the spatial identiﬁcation of the soundscapes of the studied areas. As seen in
+Figure 6, biological and geophysical sounds generally predominate over the studied areas’ soundscapes.
+Figure 6.
+Figure 7 presents the spectrograms of the sound recordings of the studied routes, divided by
+Figure 5), three main sound
+Figure 7. Spectrograms of the soundscapes for the six studied zones: (a,b) Branis, (c,d) Chetma and
+Figure 7a). Analysing the spectrogram
+Figure 7b shows the spectrogram of route B (Branis), which consists of two main sections, S4
+Figure 7c. This route consists of four sections
+Figure 7d. Section S10 is characterized
+
+======================================================================
+
+### RECORD ID=661 | screening_verdict=INCLUDE | year=2020
+JOURNAL: APPLIED SCIENCES-BASEL
+TITLE: The Influence of Noise Emitted by Vehicles on Pedestrian Crossing Decision-Making: A Study in a Virtual Environment
+DOI: 10.3390/app10082913
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+applied 
+sciences
+Article
+The Inﬂuence of Noise Emitted by Vehicles on
+Pedestrian Crossing Decision-Making: A Study in a
+Virtual Environment
+Francisco Soares 1,*, Emanuel Silva 1, Frederico Pereira 2, Carlos Silva 2, Emanuel Sousa 2
+and
+Elisabete Freitas 1,*
+1
+Department of Civil Engineering, School of Engineering, University of Minho, Campus de Azurém,
+4800 058 Guimarães, Portugal; emanuel_silva_456@hotmail.com
+2
+Perception, Interaction and Usability Domain, Centre of Computer Graphics, Campus de Azurém,
+4800 058 Guimarães, Portugal; frederico.pereira@ccg.pt (F.P.); carlos.silva@ccg.pt (C.S.);
+emanuel.sousa@ccg.pt (E.S.)
+*
+Correspondence: a61864@alunos.uminho.pt (F.S.); efreitas@civil.uminho.pt (E.F.);
+Tel.: +351-253-510-200 (E.F.)
+Received: 28 February 2020; Accepted: 20 April 2020; Published: 23 April 2020
+
+
+Abstract: When crossing a road, pedestrians must detect traﬃc, combine data coming from diﬀerent
+perceptual modalities, evaluate the time envelope for safely cross the street, and monitor the position
+of oncoming vehicles to perform corrective actions if needed. This study analyzed the inﬂuence of
+noise emitted by vehicles, or its absence, on pedestrians’ crossing decision-making. Experiments were
+performed in a virtual environment using two road scenarios. Participants were presented with stimuli
+of approaching vehicles that varied regarding speed, movement patterns, and auditory condition: one
+concerning the approaching of an electric vehicle, another regarding the approaching of a gasoline
+combustion vehicle, and, ﬁnally, a condition regarding the absence of auditory cues. Participants
+were tasked with indicating the moment when they decided to cross the street. The results show
+that, despite the noise variations caused by the type of vehicle and its speed pattern, the participants’
+decision to cross was mostly based on vehicle distance. When a vehicle approaches the crosswalk
+from a short distance and with no occlusion to the pedestrian’s visibility, the sound does not seem to
+inﬂuence the pedestrians’ crossing decision-making.
+Keywords: pedestrian behavior; crossing decision-making; road noise; virtual environments;
+electric vehicles
+1. Introduction
+Cars are inherently noisy machines. This noise may come from its internal components, such as the
+engine, exhaust, and, to a lesser extent, fan and structural vibration, and from external sources, namely
+tire–road contact and air turbulence. The former are the primary source of noise at lower speeds, which
+are usually observed in urban contexts. The latter become relevant at higher speeds, more often seen
+on rural roads or highways. Despite several technical developments on noise attenuation technology
+both within the vehicle and outside it, motorized vehicles are currently one of the most important
+sources of noise pollution [1]. Noise disturbs sleep, interferes in complex task performance such as
+school performance, modiﬁes social behavior, and causes emotional annoyance [2–5]. This problem
+is well acknowledged by public authorities, vehicle manufacturers, and road industries that have
+continuously tried to ﬁnd ways to eliminate or at least attenuate the noise emissions [1–5].
+While vehicle noise is often regarded as an undesirable sub-product of transportation, it also has
+an important role in the interaction between vehicles and other road users, most notably, pedestrians
+Appl. Sci. 2020, 10, 2913; doi:10.3390/app10082913
+www.mdpi.com/journal/applsci
+
+Appl. Sci. 2020, 10, 2913
+2 of 15
+and cyclists. Particularly in urban areas, vehicular noise often acts as a cue for vulnerable road users,
+improving their perception of speed and distance and calling their attention to approaching traﬃc.
+This dual nature of vehicular noise in relation to other agents raises some concerns regarding the
+increasing introduction of hybrid/electric vehicles that are considerably quieter than their combustion
+counterparts are. On the one hand, hybrid and electrical vehicles emit less or no engine noise. At speeds
+below 30 km/h, they can produce a noise almost 4 dB(A) lower than a combustion engine-powered
+vehicle [6,7]. Thus, generalized adoption can signiﬁcantly reduce the levels of environmental noise
+and related subjective annoyance. However, there is the risk of an increase in the number of accidents
+involving vulnerable road users—which already make up for a large part of the number of road deaths
+and injuries [8–10]—due to misperception of approaching vehicles.
+Understanding how low noise emission aﬀects the vehicles’ detection and localization by
+pedestrians [11,12], particularly those who are blind or visually impaired [13–16], has been a challenge.
+When crossing a road, pedestrians must detect traﬃc, combine data coming from various directions,
+determine whether the time remaining before a vehicle reaches them is long enough for crossing, and
+adapt their action to the continuous perception of oncoming vehicles. The way they can determine the
+available time to cross and relate it to the time needed to cross is a behavioral indicator. Theoretically,
+the crossing is possible if the available time is higher than the crossing time, but pedestrians usually
+allow for a safety margin [17].
+Oxley et al. [18] stated that crossing decision-making is mainly based on the visual information
+received by pedestrians, ﬁrstly, concerning the distance between the vehicles and the crosswalk or a
+front car, agreeing with the conclusions obtained by Simpson et al. [19] and Cavallo et al. [20], and
+then about the vehicles speed, in order to estimate its time of arrival. Despite the importance of the
+visual information on pedestrians’ crossing decision-making, the auditory cues are also relevant for
+the detection and location of approaching vehicles [6,11–14,16]. Thus, sometimes, the approach of
+quieter vehicles can be noticed later than needed to ensure a safe crossing, especially at lower speeds.
+The level of noise also inﬂuences the pedestrians’ a
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Participants
+Ten adults aged 24–43 years old (m = 30.70; sd = 6.15; 50% male) were recruited from the
+University of Minho community, in Portugal. Before the experiment, all participants answered a
+questionnaire regarding their hearing, visual, and mobility conditions. None of them reported any
+
+Appl. Sci. 2020, 10, 2913
+3 of 15
+impairing condition. All participants gave their written informed consent. The experiments were
+conducted in accordance with the principles stated in the 1964 Declaration of Helsinki.
+2.2. Virtual Environment
+Two existing real-world streets were modeled in two diﬀerent virtual scenarios: Rua 25 de Abril,
+in Braga, and Rua Teixeira de Pascoais, in Guimarães. Each one followed a similar development
+process. First, dimension and distance measurements were taken from the streets, including the length
+and width of the crosswalks and its markings, the road width, the width of the sidewalks, the length
+and width of the parking sites, and the sizes of the road. Afterward, the two scenarios were modeled in
+Blender 2.79a, an open-source 3D computer graphics software that uses Python as a scripting language.
+Several architectural details such as buildings, vertical signalization, and vegetation were modeled,
+and textures from pavements and buildings were added to provide participants with a more realistic
+depiction of the roads (Figure 1a,b).
+ 
+ 
+(a) 
+(b) 
+Figure 1. The two virtual scenarios: Rua 25 de Abril (a); and Rua Teixeira de Pascoais (b).
+The next step was to model the movement of a vehicle, which approached the participants
+throughout the experiment. To do so, the traﬃc on the two streets was ﬁrstly analyzed, recording
+vehicle speeds and trajectories when approaching the crosswalk in situations in which pedestrians
+were crossing the road. Then, noise recordings of real vehicles were carried out in a closed urban road
+to obtain a realistic depiction of the vehicles’ noise resulting from similar trajectories.
+To collect the speeds and trajectories of the vehicles, a 2-h video was recorded in each street
+and then analyzed using the Traﬃc Intelligence software [24,25]. The several trajectories collected
+were clustered into three distinct categories: (1) the vehicle maintained its speed without any or with
+very subtle changes (Constant Speed); (2) the vehicle slowed down before reaching the crosswalk,
+but continued its trajectory without stopping (Slow Down); and (3) the vehicle slowed down and
+completely stopped before reaching the crosswalk (Stop). For each speed pattern, the mean (m),
+maximum (max), minimum (min), and standard deviation (sd) of the distances between vehicle and
+pedestrians at the beginning (Vi and Di) and the end (Vf and Df) of the braking, in the cases where
+it occurred, were calculated. These values (Table 1) were used as a reference to deﬁne the vehicles’
+trajectories to be used in the simulator. Contrary to other studies that usually assume constant speed
+(e.g., [19,20,22,26–29]), the three types of speed proﬁles recorded in the observational study were
+implemented in the simulator.
+
+Appl. Sci. 2020, 10, 2913
+4 of 15
+Table 1. Mean, maximum, minimum, and standard deviation of vehicle distance to the crosswalk for
+stop and slow down movement patterns.
+Stop
+Slow Down
+Di
+(m)
+Df
+(m)
+Di
+(m)
+Df
+(m)
+m
+15.80
+5.71
+16.72
+7.01
+sd
+5.62
+2.40
+6.21
+4.14
+max
+27.37
+14.06
+28.20
+22.04
+min
+6.58
+1.26
+2.94
+2.69
+Speeds above 30 km/h were not considered since the study intended to evaluate the pedestrians’
+crossing decision-making, considering the approach of a vehicle at short distances from the crosswalk.
+In addition, above that speed, the noise emitted by a vehicle is predominantly produced by the tire–road
+interaction, and engine noise diﬀerences (electric and gasoline combustion) are of little relevance to the
+crossing decision [6].
+From the values in Table 1, three diﬀerent conditions for the simulator experiment were deﬁned
+(Table 2). The distance at which the vehicle was shown on the screen and started its approaching
+movement (Di, mov) was kept the same in all conditions.
+Table 2. Characteristics of vehicle movement in the diﬀerent conditions presented in the experiment.
+Conditions
+Vi
+(km/h)
+Vf
+(km/h)
+Di. mov
+(m)
+Di
+(m)
+Df
+(m)
+Speed
+Pattern
+1
+30
+30
+30
+-
+-
+Constant
+2
+30
+10
+30
+25
+5
+Slow Down
+3
+30
+0
+30
+20
+5.50
+Stop
+The vehicle approaching sounds were recorded using as test vehicles: (1) a Kia Ceed SW, with
+a gasoline combustion engine, equipped with ContiEcoContact3 195/65-R15 tires; and (2) a Renault
+Zoe ZE, with electric engine, equipped with Michelin Primacy 3 205/45-R17 tires. Controlled Pass-By
+(CPB) measurements were performed with a Brüel & Kjaer Pulse Analyzer type 3560-C and a Brüel &
+Kjaer Head and Torso Simulator (HATS) Type 4128-C equipped with Ear Simulators Type 4158-C and
+4159-C. The HATS was placed at 1.55 m from the road center, at the height of 1.66 m (corresponding
+to the Portuguese population average height) with its head turned 35◦counterclockwise from the
+road perpendicular.
+To minimize the environmental noise interference all recording sessions were performed with dry
+pavements, wind speed below 5 m/s, atmospheric temperature between 5 ◦C and 30 ◦C, and pavement
+temperature between 5 ◦C and 50 ◦C as recommended in ISO Standard 11819-1:1997 [4], between 20:00
+and 24:00.
+To generate the sound for each sample, the two vehicles completed the trajectories deﬁned by the
+parameters in Table 2. To gather real speed, time, and distance data from the vehicles, their position was
+registered at each 0.125 s at the same time the sound recordings were performed. The sound and vehicles’
+positions ﬁles were later synchronized, calibrated, and implemented in the virtual environment.
+2.3. Stimuli
+Three diﬀerent auditory conditions were used: (i) the vehicle emitted the noise of a car with a
+gasoline combustion engine; (ii) the vehicle emitted the noise of a car with an electric engine; and (iii)
+the vehicle emitted no sound. The third type of stimu
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1a,b).
+Figure 1. The two virtual scenarios: Rua 25 de Abril (a); and Rua Teixeira de Pascoais (b).
+Table 1) were used as a reference to deﬁne the vehicles’
+Table 1. Mean, maximum, minimum, and standard deviation of vehicle distance to the crosswalk for
+Table 1, three diﬀerent conditions for the simulator experiment were deﬁned
+Table 2). The distance at which the vehicle was shown on the screen and started its approaching
+Table 2. Characteristics of vehicle movement in the diﬀerent conditions presented in the experiment.
+Table 2. To gather real speed, time, and distance data from the vehicles, their position was
+Table 3 presents the main characteristics of the stimuli audio component. The measurement time
+Table 3. Acoustic characteristics of the stimuli regarding the electric and gasoline combustion vehicles.
+Figure 2a) and a Renault Zoe ZE (Boulogne,
+Figure 2b). For the no sound, the visual aspect of the
+Figure 2. Visual models of the vehicle used in the experiment: (a) Kia Ceed SW; and (b) Renault Zoe ZE.
+Table 3), the participants would be able to better estimate the vehicle’s trajectory
+Figure 3 shows the percentage of crossings for all experimental conditions. In general, participants
+Figure 3. Percentage of crossings and respective mean, standard error as a function of auditory
+Figure 3, the eﬀect of this interaction was mainly due to the great relevance of the speed pattern
+Figure 4 shows the aggregated cumulative percentage of crossings as a function of time. It is
+Figure 4.
+Figure 5 shows the number of crossings and corresponding response time per participant in each
+Figure 5 exhibits the low variability in
+
+======================================================================
+
+### RECORD ID=665 | screening_verdict=INCLUDE | year=2020
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: The effects of sounds and food odour on crowd behaviours in urban public open spaces
+DOI: 10.1016/j.buildenv.2020.107104
+PAGES: 23
+
+--- HEAD (title/abstract/intro) ---
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+The effects of sounds and food odour on crowd behaviours in urban public open
+spaces
+Meihui BAa*, Jian KANGb*, Zhongzhe LIa
+aKey Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and
+Technology, Ministry of Industry and Information Technology, School of Architecture, Harbin Institute of
+Technology, Harbin, China.
+bUCL Institute for Environmental Design and Engineering, University College London (UCL), London,
+United Kingdom.
+*Corresponding author: Meihui BA, bameihui@hotmail.com, School of Architecture, Harbin Institute of
+Technology, NO.66 Xi Da Zhi Street, Harbin, China; Jian KANG, J.kang@ucl.ac.uk, UCL Institute for
+Environmental Design and Engineering, The Bartlett, University College London (UCL), London WC1H
+0NN, United Kingdom. Tel: +44 (0)20 3108 7338.
+Abstract: Few studies have investigated the integrated effects of sound and odour on people with the purpose of
+improving the use of urban spaces. Therefore, this study aimed to provide further insight into such effects from the
+perspective of crowd behaviour. A covert behavioural observation experiment was conducted in a typical urban
+commercial pedestrian street, using the smell of a bakery as the odour source, while reproducing typical urban sound
+sources of music and fan sound (along with a condition where no sound was played) with and without odour. The present
+results show that for crowd path, in the no-odour condition, playing music significantly attracted the crowd, while fan
+sound tended to make the crowd path farther away from the sensory sources. With the bakery odour, individuals
+approached the sensory sources closer when playing the sound, whether it was music or fan sound. With regard to crowd
+speed, music significantly reduced it and the greater the proximity to the sound source, the slower the crowd speed. Fan
+sound increased the crowd speed, which was significantly higher in the presence rather than absence of bakery odour,
+and the average speed decreased gradually as proximity to the sensory sources increased. Finally, with regard to the
+duration time of the crowd, it increased with music and decreased with fan sound. The bakery odour also significantly
+increased the duration time. However, the interaction effect between sound and odour on crowd speed and duration time
+was not significant.
+Keywords: sounds; food odour; crowd behaviour; urban public open spaces
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+1 Introduction
+Urban public open spaces are fundamental to the existence, operation, and development of a city [1]. Different
+sensory stimuli constantly affect people’s way of life. Therefore, increasing attention has been paid to the sensory design
+of urban public open spaces. However, particularly prominent at present is the problem of overemphasizing visual
+perception while overlooking other sensory aspects, which leads to the fulfilment of appearance requirements and
+neglect of users’ other sensory and psychological needs [2].
+Among the five senses, vision, audition, and olfaction have features that are diametric to those of taste and touch in
+experiencing the outside world. The former three often involve unconscious behaviour and cannot always be avoided at
+the beginning of an experience; the latter two are more dependent on people’s subjective will [3]. Taste and touch are
+somewhat limited in their ability to grasp the external environment, whereas vision, audition, and olfaction are important
+for perceiving the environment [4]; further, the use of multiple senses allows one to receive more profound and
+comprehensive information [5]. A large number of previous studies on multi-senses have mainly focused on audio-visual
+[6-11] and visual-olfactory interactions [12-16]; however, research on the interaction between audition and olfaction is
+limited. For example, Jiang et al. examined the influence of rose odour and visual factors on the perception of traffic
+noise [17], and Ba and Kang studied the interaction between sound and odour in an urban environment both in a
+laboratory setting and in the field [18,19]. These experiments confirm that different combinations of auditory and
+olfactory factors can influence individuals’ psychological parameters and thereby affect their subjective evaluation.
+Changes in the sensory environment affect individuals psychologically, and changes in psychological perception
+inevitably result in behavioural changes. Behaviour constitutes a key component of the sensory environment and plays
+an important role in assessing it. However, because of the lack of research on crowd behaviour in urban sensory
+environments, the design of public open spaces is unsatisfactory [20]. Therefore, it is necessary to study crowd behaviour
+in urban sensory environments.
+According to the object of study, behaviours can be divided into individual and crowd behaviours. Individual
+behaviour generally refers to a person’s attitude or performance under specific circumstances, which is largely random
+under the influence of the environment [21]. Crowd behaviour refers to a crowd’s attitude or performance, which can be
+composed of certain regularities under the influence of the environment [22,23]. Therefore, crowd behaviour, rather than
+individual behaviour, is often studied in research on urban public open spaces [24,25]. Depending on its characteristics,
+crowd behaviour also includes movement and action [26]. Movement behaviour is categorized as movement or
+non-movement. The path and speed reflect the change rules of movement while duration time reflects the change rules of
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Buildin
+
+--- METHODS/RESULTS EXCERPT ---
+Materials and methods
+2.1 Case study site and odour source selection
+In real-life situations, sound sources are abundant in urban public open spaces, and a situation involving a single
+sound source or silence almost never exists. In comparison, an odour source is easier to control. Moreover, in practice, it
+is difficult to find comparable natural conditions in which the sound sources are the same but the odour sources are
+different or vice versa. Thus, the experimental site in the field was selected such that the presence or absence of the
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+odour source could be controlled. Different sound sources were played artificially through a loudspeaker to allow
+variable control of the sensory factors. Considering the availability of food odour and the actual situation at the site that
+met the conditions, the smell of a bakery was selected as the odour variable. Research has showed that people’s
+preference for bakery smell is relatively consistent and ranges from moderate to high [18].
+Fig. 1 The study area and scope
+The bakery was located in Nansandao Street, Daowai District in the city of Harbin, China. Nansandao Street is a
+commercial pedestrian street, located in a historic district, where most pedestrians come to stroll without purpose. A pilot
+investigation showed that the proportion of men and women in the area was almost balanced; further, because (unlike in
+parks and squares) there are no sitting areas or recreational facilities, Nansandao Street attracts more young and
+middle-aged people compared to senior citizens and children. The pilot investigation also revealed that bread fresh out of
+the bakery’s oven had a strong aroma with a wide distribution area. Baking consecutive batches released the aroma
+evenly. Subsequently, the odour gradually faded as the quantity of bread decreased with consumer purchases, and when
+there was little bread left, the odour could not be perceived. After consulting with the shopkeeper, he agreed to bake
+bread at a fixed time and play sound through a loudspeaker as well as inform the researcher in advance of the
+bread-making time. The study area is shown in Fig. 1—the bakery was located in the middle of the longer side of the
+area. When the smell of baked bread was present, it would cover the entire area; in its absence, the odour could not be
+perceived in the area.
+2.2 Sound source selection
+In this study, sounds played through a loudspeaker were used as the sound sources; therefore, artificial sounds were
+chosen, and their impact on people involved both positive and negative aspects. Typical sound sources of fan and music
+sounds in urban public open spaces were chosen.
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+Cooling fans control the ambient temperature of equipment—from construction machinery, vehicle engines, and air
+conditioners to electronic equipment used in daily life—and are necessary for their normal operation; thus, the sound
+produced by cooling fans is a typical sound source in daily life [34]. The fan sounds were selected before conducting the
+experiment. Fan sounds of several urban environments were selected, 30 individuals were randomly selected to evaluate
+the degree of annoyance of these sounds (on a 7-point scale ranging from ‘not annoying’ to ‘annoying’). The fan sound
+with the highest score (more than 6) was chosen as the sound source for this experiment.
+Urban public open spaces should induce a feeling of relaxation and comfort, and therefore, light music was selected.
+The speed of the music (beats per minutes or bpm) is an important characteristic. Studies have shown that 40–70 bpm is
+defined as slow speed; 85–110 bpm, medium speed; and over 120 bpm, fast speed [35]. Furthermore, music below 80
+bpm was associated with negative emotions and a decrease in heart rate, whereas music above 120 bpm was associated
+with positive emotions and increased heart and respiratory rates [36]. Therefore, the chosen music should not be too fast
+or slow, that is, it should have a medium speed. The chosen track, Annie’s Wonderland by Bandari, has a speed of 100.99
+bpm and a high ranking online in terms of listening pleasure.
+Fig. 2 Frequency spectrums of the experimental sounds
+Therefore, the sound variables in this study were divided across three conditions: without played sound (natural
+
+Meihui Ba, Jian Kang, Zhongzhe Li: Building and Environment
+[https://doi.org/10.1016/j.buildenv.2020.107104]
+Building and Environment, Volume 182, September 2020, 107104
+condition), with fan sound, and with music. For playing sounds, the location of the loudspeaker should be taken into
+account: sound could be heard anywhere in the study area and the distance between the front of the loudspeaker and the
+wall or any other reflectors was at least 1.5 m [37]. The loudspeaker was hidden in the study area to avoid any visual
+impact [27]. The frequency spectrums of the played sounds in the experiment are shown in Fig. 2. The fan sound had
+more low-frequency components and the variability in time was not obvious; on the other hand, the music had more
+intermediate-frequency components and the variability in time was high.
+2.3 Objective measurement of the sensory environment
+Before conducting the experiment, the study area was meshed for later measurement and analysis, with each grid
+measuring 3 m × 3 m. In this study, changes in the odour variable were divided into those in the presence or absence of
+sound. Odour is an important characteristic of air quality and its concentration measurement is very complex. Therefore,
+odour concentration was measured through pedestrians’ subjective perception. Before the experiment, a questionnaire
+survey of odour intensity was conducted in the study a
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1 The study area and scope
+Fig. 1—the bakery was located in the middle of the longer side of the
+Fig. 2 Frequency spectrums of the experimental sounds
+Fig. 2. The fan sound had
+Fig. 3a.
+Fig. 3 Distribution of subjective intensity of odour and SPL in the case site (O = odour source, S = sound source): a) with
+Fig. 3b, 3c, and 3d. During the experiment, the crowd density was less than
+Table 1 shows the numbers of samples in each condition.
+Table 1 Number of behavioural observation samples across conditions
+Fig. 4. Taking the point
+Fig. 4 Schematic diagram of the grid corresponding to the coordinates
+Fig. 4). Tg is the total time of a path in a grid and its formula is: Tg
+Fig. 5. When there was no bakery odour,
+Fig. 5 Distribution of crowd paths in the case site under the combination of bakery odour and sounds (S = sound source,
+Fig. 6. The blue block on the left represents the
+Fig. 6 Scope of crowd paths in the case site under the combination of bakery odour and sounds (S = sound source, O =
+Table 2, demonstrate that there were significant differences in the ordinate
+Table 2 Repeated measurement ANOVA of the ordinate value y at the intersections of the paths and longitudinal lines of
+Fig. 7 shows the estimated marginal mean of the ordinate value y under the presence or absence of odour, type of
+Fig. 7a shows the estimated marginal mean of the ordinate value y only under the influence of sound. The values
+Fig. 7b shows the estimated marginal mean value of the
+Fig. 7c shows the
+Fig. 7 Estimated marginal mean value of the ordinate value y at the intersections of the paths and longitudinal lines of
+Table 3. The effects of sound and odour on
+
+======================================================================
+
+### RECORD ID=725 | screening_verdict=INCLUDE | year=2021
+JOURNAL: FRONTIERS IN PUBLIC HEALTH
+TITLE: Factors Affecting Perceived Health Benefits and Use Behaviors in Urban Green Spaces During the COVID-19 Pandemic in Southern China Megacities
+DOI: 10.3389/fpubh.2021.759444
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+ORIGINAL RESEARCH
+published: 28 October 2021
+doi: 10.3389/fpubh.2021.759444
+Frontiers in Public Health | www.frontiersin.org
+1
+October 2021 | Volume 9 | Article 759444
+Edited by:
+Durg Vijai Singh,
+Central University of South Bihar, India
+Reviewed by:
+Zhoupeng Ren,
+Chinese Academy of Sciences
+(CAS), China
+Liliana Cori,
+Italian National Research Council, Italy
+*Correspondence:
+Hu Sun
+13503079158@163.com
+Chongxian Chen
+chongxian@scau.edu.cn
+Specialty section:
+This article was submitted to
+Environmental health and Exposome,
+a section of the journal
+Frontiers in Public Health
+Received: 16 August 2021
+Accepted: 01 October 2021
+Published: 28 October 2021
+Citation:
+Li H, Luo W, Hou Y, Xia Y, Yao J,
+Kang N, Deng C, Sun H and Chen C
+(2021) Factors Affecting Perceived
+Health Beneﬁts and Use Behaviors in
+Urban Green Spaces During the
+COVID-19 Pandemic in Southern
+China Megacities.
+Front. Public Health 9:759444.
+doi: 10.3389/fpubh.2021.759444
+Factors Affecting Perceived Health
+Beneﬁts and Use Behaviors in Urban
+Green Spaces During the COVID-19
+Pandemic in Southern China
+Megacities
+Haiwei Li 1, Weijing Luo 1, Yongqi Hou 1, Yu Xia 1, Jing Yao 2, Ning Kang 3,
+Congshuang Deng 4, Hu Sun 4* and Chongxian Chen 1*
+1 College of Forestry and Landscape Architecture, South China Agricultural University, Guangzhou, China, 2 Urban Big Data
+Centre, School of Social and Political Sciences, University of Glasgow, Glasgow, United Kingdom, 3 School of Architecture,
+Tsinghua University, Beijing, China, 4 Guangzhou Sun & Partners Incorporation Design Co., Ltd., Guangzhou, China
+Background: The COVID-19 pandemic has alienated people from urban green spaces
+(UGSs) that have various health outcomes for humans. However, little is known about
+the inﬂuential factors of perceived health beneﬁts and use behaviors in UGSs during the
+COVID-19 pandemic. This study aims to explore the key factors that inﬂuence perceived
+health beneﬁts and use behaviors in UGSs and to assess the mediating role of place
+attachment in relationships during the COVID-19 pandemic in Chinese megacities.
+Methods:
+We conducted an online questionnaire survey from December 2020 to
+March 2021 in Guangzhou and Shenzhen, China. Six multiple regression models were
+constructed to investigate the main factors by which UGSs inﬂuence citizens’ perceived
+health beneﬁts and use behaviors. Four mediation models were established using
+the structural equation modeling (SEM) method to explore the mediating effect of
+place attachment.
+Results: A total of 628 questionnaires were included in the analysis. The results revealed
+that some UGS components (green space access, maintenance, and soundscape)
+signiﬁcantly affected perceived health beneﬁts for citizens (physical, mental, and social
+health) during the COVID-19 pandemic. Conversely, use behaviors (frequency of visits,
+duration of visits, and activity intensity) were mainly affected by the sociodemographic
+context but less affected by UGS components. In addition, UGS components were found
+to signiﬁcantly predict place attachment, which in turn inﬂuenced the perceived health
+beneﬁts, frequency, and duration of visits.
+Conclusions:
+This study distinguished the key factors that affect perceived health
+beneﬁts and use behaviors during the COVID-19 pandemic: green space access,
+maintenance, soundscape, and sociodemographic characteristics. Place attachment still
+needs to be considered when discussing how to encourage citizens to visit UGSs during
+the pandemic. These ﬁndings provide implications for policymakers and landscape
+planners regarding design and management measures for UGSs that are conducive to
+coping with pandemics.
+Keywords: green spaces, health, use behaviors, place attachment, citizens
+
+Li et al.
+Factors Affecting Health and Use
+INTRODUCTION
+COVID-19 has caused unprecedented disruption to human
+health and well-being worldwide (1). Isolation measures have
+further alienated people from urban green spaces (UGSs),
+changing their perceptions and use behaviors of these spaces (2)
+after the World Health Organization (WHO) declared COVID-
+19 a public health emergency on 30 January 2020 (3). Moreover,
+the drastic changes produced by rapid urban sprawl in megacities
+make residents feel a lack of connection with UGSs. Unhealthy
+lifestyles, including a reduction in outdoor activities involving
+contact with nature, have further deteriorated people’s health (4).
+Green infrastructure, a network composed of diﬀerent types of
+green spaces (5), has been proven to have many beneﬁts (6)
+and has been one of the most vital and eﬀective infrastructures
+to improve health in response to previous pandemics (7).
+Therefore, exploring how people perceive the relationships
+between UGSs and health of great interest for researchers and
+policymakers to improve people’s visitation of UGSs for health
+purposes in the context of the normalization of the pandemic
+and urbanization.
+Previous
+studies
+have
+demonstrated
+that
+exposure
+to
+UGSs is beneﬁcial for residents’ health. UGSs may exert an
+inﬂuence on positive health outcomes, such as lower rates
+of heart disease, stroke, obesity, stress, and depression (4),
+by encouraging physical activity (8), relieving mental fatigue
+(9, 10), and facilitating social interaction (11). Numerous
+studies during non-pandemic periods have conﬁrmed that
+the
+sociodemographic
+context,
+individual
+perceptions
+of
+UGSs, and the perceived beneﬁts of UGSs may aﬀect UGS
+visitation and human health (8, 12). Green spaces with
+diverse characteristics inﬂuence people’s use experiences and
+perceptions and thus inﬂuence their use behaviors, such as
+visiting duration and frequency (12, 13). In turn, improving
+people’s green space utilization increases perceived health
+beneﬁts (11). Psychological factors are also worth noting
+(14–16). For example, studies have shown the potential of
+place attachment to contribute to perceived health beneﬁts
+and
+behavioral
+intentions,
+including
+promoting
+positive
+emotion, enhancing social cohesion, and rais
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+Study Areas and Participants
+We conducted the study in Guangzhou and Shenzhen (Figure 3),
+two pioneering, high-density cities located in Guangdong
+Province in the Pearl River Delta and the Greater Bay Area.
+They are two of the most representative megacities and
+are important transportation hubs in southern China that
+face high risks from the COVID-19 pandemic. Guangzhou,
+the capital city of Guangdong, is regarded as the political,
+economic, and technological center of Guangdong Province and
+southern China. Estimates from 2019 suggest that over 15.30
+million people inhabit the city’s 7,434.4 km2 area, including 11
+districts. Shenzhen, the ﬁrst special economic zone in China, is
+an international information communications technology hub
+with many high-tech industries. By 2019, with 13.44 million
+permanent people, Shenzhen occupied a total area of 1,997.47
+km2 and included 11 districts. With an urbanization rate of
+Frontiers in Public Health | www.frontiersin.org
+4
+October 2021 | Volume 9 | Article 759444
+
+Li et al.
+Factors Affecting Health and Use
+FIGURE 3 | Location of the study area.
+86.46%, the vegetation in the downtown, suburban and outer
+suburbs of Guangzhou has been strongly disturbed, and the
+vegetation coverage rate has been decreasing continuously (65).
+By the end of 2019, Guangzhou had 247 public parks covering
+5,198 hectares with a per capita public green area of 17.96
+m2. Although Shenzhen has 1,090 public parks covering 20,077
+hectares, between 2014 and 2019, the per capita public green
+areas decreased from 16.80 to 14.90 m2. Drastic urban expansion
+and land use changes have caused heavy chronic disease burdens
+for the two cities in recent years (66). Additionally, from January
+2020 to March 2020, the local government imposed severe
+restrictions on epidemic prevention and control (20), which may
+have changed local people’s views and habits of using UGSs.
+Although the emergency response level of COVID-19 prevention
+and control has been adjusted from level two to level three
+since May 2020, prevention and control of the pandemic have
+become normal in both cities (67). These cities’ economic status,
+demographics, green space distribution, and special signiﬁcance
+for the COVID-19 pandemic make them ideal places to study
+the associations among UGSs, perceived health beneﬁts, use
+behaviors, and place attachment.
+We conducted a structured online questionnaire after the
+ﬁrst COVID-19 outbreak was eﬀectively controlled in these two
+cities from December 2020 to March 2021 on the Wenjuanxing
+website (https://www.wjx.cn/), a convenient and frequently used
+online data-collection platform in China. During the COVID-19
+pandemic, it has been diﬃcult to conduct a ﬁeld investigation
+in the aﬀected areas in China. An online survey provided a
+cost-eﬀective way to quickly investigate in diﬀerent regions and
+reduce the risk of exposure to COVID-19. Through social media,
+questionnaires were randomly sent to potential participants. For
+this study, we limited the participants to those aged 18–65 years
+old and those who were likely to have access to the internet and
+beneﬁt from green spaces. The participants were also told that
+they must answer the questions based on their perceptions during
+the COVID-19 pandemic and must have lived in Guangzhou
+or Shenzhen for more than 6 months. All information was
+guaranteed to be kept anonymous and used for academic research
+purposes only.
+Survey Instrument
+The questionnaire included ﬁve sections: (1) demographic
+information (ﬁve questions on gender, age, education level,
+income, and place of residence); (2) perception of the quality or
+quantity of UGS components (15 questions); (3) perceived health
+beneﬁts (3 questions); (4) use behaviors (3 questions); and (5)
+place attachment (10 questions). We developed the questionnaire
+Frontiers in Public Health | www.frontiersin.org
+5
+October 2021 | Volume 9 | Article 759444
+
+Li et al.
+Factors Affecting Health and Use
+based on valid, reliable studies. It contained a total of 36 questions
+and took ∼10 min to complete.
+UGS Components
+The UGS components included green space attributes (four
+items), landscape characteristics (seven items), and facilities (four
+items). The three constructs were key factors that were likely
+to aﬀect people’s use of green spaces. We measured green space
+attributes, which describe how people perceive the accessibility,
+scale, types, and management of the green space with four
+statements: “My frequently used urban green spaces are not far
+from me and are easily accessible,” “My frequently used urban
+green spaces are very large (e.g., very small = <1 hectare and
+very large = more than 10 hectares),” “My frequently used
+urban green spaces have many diﬀerent multifunctional spaces
+types (e.g., rest area and activity square),” and “My frequently
+used urban green spaces are well-maintained and managed
+(e.g., clean and unbroken facilities).” Landscape characteristics
+were measured by asking people about their perception of the
+quality or quantity of roads, terrain, water, plants, microclimate
+environments, soundscapes, and smellscapes. Facilities were also
+evaluated by asking how people perceived the quality or quantity
+of amenity facilities (e.g., seesaws, swings, and slides), rest
+facilities (e.g., seats and lawns), wayﬁnding (e.g., guide board
+and map), and garden ornaments (e.g., sculpture and rockery).
+Participants rated their level of agreement with the description of
+UGS components on a ﬁve-point Likert scale (from 1 = strongly
+disagree to 5 = strongly agree).
+Perceived Health Beneﬁts
+Perceived health beneﬁts are one of the main outcome variables
+in this study. Health is the absence of disease or inﬁrmity
+and a state of complete physical, mental, and social well-being
+(68). Therefore, we applied three items to measure people’s
+perceptions of health beneﬁts, including physical (e.g., somatic
+function, blood pressure, and heart rate), mental (e.g., emotional
+regulation, attention recovery, an
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1):
+Figure 2
+Figure 3),
+Figure 1. To test the hypotheses, we
+Table 1 shows the
+Table 3 for UGS components,
+Table 4 displays the results of bivariate correlation analyses of
+Table 5 shows the results of the multiple linear regression. All
+Table 6, Models 7–10 proposed in this study ﬁt
+Table 7 and Figure 4 report the results of the path analysis
+Table 8). UGS components
+
+======================================================================
+
+### RECORD ID=761 | screening_verdict=INCLUDE | year=2021
+JOURNAL: FORESTS
+TITLE: Soundscape Perceptions and Preferences for Different Groups of Users in Urban Recreational Forest Parks
+DOI: 10.3390/f12040468
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Article
+Soundscape Perceptions and Preferences for Different Groups
+of Users in Urban Recreational Forest Parks
+Xingyue Fang 1,†, Tian Gao 1,†
+, Marcus Hedblom 2
+, Naisheng Xu 1, Yi Xiang 1, Mengyao Hu 1, Yuxuan Chen 1
+and Ling Qiu 1,*
+
+
+Citation: Fang, X.; Gao, T.; Hedblom,
+M.; Xu, N.; Xiang, Y.; Hu, M.; Chen,
+Y.; Qiu, L. Soundscape Perceptions
+and Preferences for Different Groups
+of Users in Urban Recreational Forest
+Parks. Forests 2021, 12, 468. https://
+doi.org/10.3390/f12040468
+Academic Editors: Michael Andreu
+and Robert J. Northrop
+Received: 12 March 2021
+Accepted: 9 April 2021
+Published: 12 April 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+College of Landscape Architecture and Arts, Northwest A&F University, Xianyang 712100, China;
+fangxingyue@nwafu.edu.cn (X.F.); tian.gao@nwsuaf.edu.cn (T.G.); xunaisheng@nwafu.edu.cn (N.X.);
+2018051384@nwafu.edu.cn (Y.X.); HMYao@nwafu.edu.cn (M.H.); cyx0724@nwafu.edu.cn (Y.C.)
+2
+Department of Urban and Rural Development, Swedish University of Agricultural Sciences, P.O. Box 7012,
+SE-75007 Uppsala, Sweden; marcus.hedblom@slu.se
+*
+Correspondence: qiu.ling@nwsuaf.edu.cn; Tel.: +86-29-87080269
+†
+These two authors contribute equally to this work.
+Abstract: Although the soundscape in cities is receiving increased attention in urban planning, there
+is still a lack of knowledge of how personal factors inﬂuence the perception of and preference for
+soundscapes. Most present studies are linked to one or a few speciﬁc soundscapes and do not have a
+holistic approach exploring the pros and cons of all soundscapes in a place. This study surveyed
+individuals to assess how soundscape perceptions and preferences may differ among various atten-
+dees of typical urban forest recreational parks in Xi’an, China, using an on-site questionnaire. The
+respondents (N = 2034) revealed that rare natural sounds were perceived more positively than the
+dominating artiﬁcial sounds. Five main dimensions of social, demographic, and behavioral attributes
+were found to be linked to the soundscape perceptions and preferences: (1) familiarity of the park
+and attendees’ age made people more tolerant towards sounds that others ﬁnd annoying; (2) higher
+education and higher socio-economic status showed lower tolerance towards sounds; (3) having
+companions and speciﬁc types of recreational use increased the frequent perception of artiﬁcial
+sounds; (4) females generally showed higher sensitivity and lower tolerance than males towards
+several sounds; and (5) the longer attendees remained in the park, the more positive the overall
+soundscape preference was. The results indicate that numerous sounds are affecting people’s overall
+experience in the parks. These ﬁndings could help decision-makers and urban forest recreational
+park designers to formulate relevant strategies for park design that are in tune with varying public
+needs and expectations towards soundscape. The implementation of human-oriented soundscape
+design can therefore enhance people’s well-being.
+Keywords: soundscape experience; personal differences; social demographical factors; human
+behavior; urban forest
+1. Introduction
+Urban recreational forest parks, ensuring people’s relaxation and recreation, are im-
+portant urban public spaces that provide environmental and social beneﬁts [1–3] and
+improve people’s health [4]. At present, many countries have actively developed a variety
+of programs for sustainable urban planning concerning urban recreational forest parks;
+however, the conventional approaches in park design and management processes are
+mostly based on landscape visual characteristics, whereas the aural (sound) aspect is often
+neglected [5,6]. Yet the soundscape (acoustic environment as perceived or experienced
+and/or understood by a person or people, in context; International Organization for Stan-
+dardization, 2014) is highly linked to people’s health. Noise pollution has been identiﬁed
+as one of the most signiﬁcant factors of environmental stressors [7]. The dominant focus
+Forests 2021, 12, 468. https://doi.org/10.3390/f12040468
+https://www.mdpi.com/journal/forests
+
+Forests 2021, 12, 468
+2 of 18
+has been on mechanical ways of reducing negative sound in cities by lowering noise and
+speciﬁc decibel levels [8,9].
+However, recent studies revealed that the perception of soundscapes is not specif-
+ically linked to levels of decibels but to the type of soundscape and people’s personal
+preferences and sensitivity, as well as demography linked to soundscape [10–16]. For
+example, natural sounds such as birds, water, and rustling leaves have been highlighted
+as positive sounds [17,18], while road trafﬁc has been proved to be perceived as nega-
+tive [19–21]. However, there is an intricate interplay between positive natural sounds
+and noise in soundscape perceptions and preferences; for example, people can perceive a
+noisy environment more positively if a bird’s song is added, which would thereby mask
+the noise [11]. Additionally, there is interdependence between sound and visual stimuli.
+For example, Viollon et al. (2002) found that the more urban a visual setting is, the more
+negative sounds will be perceived. This ﬁnding did, however, depend on the type of sound
+heard, as well [22]. Thus, the quality and type of sound is—according to Liu and Kang
+(2015), Liu et al. (2014; 2013), Nilsson and Berglund (2006), and Zhang and Kang (2007)—a
+critical factor in creating sustainable urban recreational forest parks [15,23–26]. Further-
+more, the impacts of demographic factors and behavioral aspects on outdoor soundscape
+perception have been increasingly discussed [21,27,28]. Age and gender
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Area
+Similar to other Chinese cities, Xi’an, which has more than 10 million urban inhabitants,
+has been going through a drastic urban expansion. This change could have a signiﬁcant
+impact on the experience in urban recreational forest parks for the local people. Based on
+the electronic map of Xi’an in 2019, there are 16 existing urban recreational forest parks in
+Xi’an city. The six urban recreational forests parks distributed throughout Xi’an were ﬁnally
+selected according to location, freedom of access, landscape characteristics, number of
+visitors, and the shape of the site (Table 1 and Figure 1). Each of these parks is popular and
+freely accessible, having many visitors, and thus provides a vast heterogeneity of sounds.
+All parks are rather new, and all but one were built within the last 12 years. As each park
+is of different size, the different number of sampling sites in each park was selected for
+the investigation according to the size and the characteristics of landscape, and all the
+sampling sites have similar size within 2 hectares (Figure 1).
+Through pilot investigations prior to the completion of the main survey, 22 different
+sounds were found to be regularly heard in all of the parks. These were natural sounds
+(birds, insects, dogs, ducks, leaves rustling, wind, and water), artiﬁcial sounds (lawn
+mowing, construction sounds, engine sounds, bicycle riding, surrounding speech, playing
+children, footsteps, diabolo, trains, automobiles, and motorbikes) and musical sounds
+(square dancing, broadcast music, singing, and instruments). It is worth mentioning that
+diablo is a game in which an hourglass-shaped top is balanced and spun on a string
+stretched between the tips of two sticks, and square dancing is a popular music-related
+group physical exercise for health beneﬁts in China, generally held at the urban parks.
+All respondents were asked to provide their perceptions of these sounds in the digital
+app questionnaire.
+Table 1. Information of the six urban recreational forest parks in Xi’an, China.
+Surveyed Parks
+Location
+Free of
+Charge
+Characteristics
+Number of
+Daily Visits
+(per Year)
+Shape of Site
+Development
+Area
+(Hectares)
+Xi’an exposition
+(EXPO) park
+Northern
+suburb
+Yes
+Theme of ornamental
+horticulture
+1.8 million
+Regular
+trapezoid
+Opened for
+free in 2012
+Around 418
+Daming palace
+national heritage
+park
+City centre
+Yes
+Theme of historical and
+cultural heritage
+5.5 million
+Regular rectangle
+Opened in
+2010
+Around 320
+The park of
+Xingqing palace
+City centre
+Yes
+Theme of historical and
+cultural heritage
+9.0 million
+Regular square
+Opened in
+2006
+Around 52
+The yanming lake
+wetland park
+Eastern
+suburb
+Yes
+Theme of the wetland
+1.5 million
+Approximate
+triangle
+Opened in
+2016
+Around 44
+Qujiang pond
+heritage park
+City centre
+Yes
+Theme of waterscape
+1.5 million
+Approximate
+triangle
+Opened in
+2008
+Around 31
+Yinghua park
+Southern
+suburb
+Yes
+Theme of cherry
+blossoms
+1.0 million
+Regular
+trapezoid
+Reopened in
+2019
+Around 5
+
+Forests 2021, 12, 468
+4 of 18
+Figure 1. Location of the six urban recreational forest parks in Xi’an, China (Source: elaborated by
+authors by Google earth 2020).
+2.2. Questionnaire Structure
+The questionnaire survey was conducted on site, as participants were asked to use a
+tablet provided to them to ﬁll the online questionnaire generated in advance through the
+“Wen Juan Xing” application—a professional online questionnaire survey platform. The
+questionnaire consisted of three sections (Supplementary Materials, Figure S1). The ﬁrst
+section of the questionnaire was designed to collect the respondents’ demography such as
+age, gender, companion, educational background, occupation, monthly income, dwelling
+place, residential status, distance to the park, visit frequency, length of stay, and potential
+recreational activities.
+The second section focused on individual soundscape perception, and included the
+rating of 22 individual sounds on a ﬁve-point scale, linking them to perceived occurrences
+(PO) of each sound (from never heard (1) to heard all the time (5)), the perceived loudness
+(PL; from very quiet (1) to very loud (5)), and the preference (PR) for each sound (from very
+negative (1) to very positive (5)). In addition, the respondents were asked to evaluate if
+they could visually perceive the source (VS) of each individual sound (except wind) (from
+see (1) to not see it (2)). It is worth noting that if the occurrence (PO) of an individual sound
+cannot be perceived, its PL, PR, and VS will no longer be assessed.
+In the third section, respondents were asked to indicate their overall preference (OPR)
+for the soundscape using a ﬁve-point rating scale (from very unsatisﬁed (1) to very satisﬁed
+(5)), perceived loudness (OPL; from very low (1) to very loud (5)), and annoyance (OPA;
+from not annoyed at all (1) to extremely annoyed (5)).
+
+Forests 2021, 12, 468
+5 of 18
+2.3. Field Survey
+The ﬁeld survey was conducted from September to October in 2019. All respondents
+were randomly selected among visitors in each sampling site of the park. The approached
+park visitors were ﬁrst informed about the survey’s objectives and answering procedures
+without any mention of positive or negative sounds, noise pollution, etc. They then were
+informed that their answers would be anonymous. Those willing to participate were given
+a tablet containing the questionnaire and invited to ﬁll it in individually in order to avoid
+interference from other participants during their stay in the site. In order to reduce any
+deviation caused by the selection of respondents within a particular time, each sampling
+site was surveyed twice over different days, all with sunny and windless weather. Each
+survey lasted eight hours (approximately from 9:00 a.m. to 5:00 p.m.). Since the duration
+of the questionnaire survey was short and only limited sounds might have appeared
+during a particular period, the participants were asked to respond based on their long-term
+experiences in the parks within the leng
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1 and Figure 1). Each of these parks is popular and
+Figure 1).
+Table 1. Information of the six urban recreational forest parks in Xi’an, China.
+Figure 1. Location of the six urban recreational forest parks in Xi’an, China (Source: elaborated by
+Table 2). Signiﬁcant differences were
+Figure 2). Commonly occurring sounds with a high degree of
+Figure 2a,b). Perceived lower
+Figure 2c,d). Birds (PR = 4.08 ± 0.02) and broadcasted
+Table 2. Numbers of study participants per personal attributes’ grouping.
+Figure 2. Perception of and preference for individual sounds (±standard error) in urban recreational forest parks. Note: All
+Figure 3).
+Figure 3. Overall soundscape perception in urban recreational forest parks. OPL = Perceived
+Table 3). The collinearity diagnostics also showed that
+Table 4).
+Table 3. Spearman’s rho correlation coefﬁcients for the relationship between twelve respondents’ attributes.
+Table 4. Component scores of respondents’ attributes. Extraction method: factor analysis; rotation
+Table 5).
+Table 5. Generalized linear models for the impact of respondents’ factors on overall soundscape perception, with “-”
+Table 4
+Table 6).
+Table 6). Speciﬁcally, this dimension positively
+Table 5). Specifically, participants with a greater income and
+Table 6). Speciﬁcally, a negative inﬂuence
+Table 6). The PO
+Table 6. Perception parameters of individual sounds that were signiﬁcantly inﬂuenced (p < 0.001) by respondents’ factors.
+
+======================================================================
+
+### RECORD ID=770 | screening_verdict=INCLUDE | year=2021
+JOURNAL: International Journal of Environmental Research and Public Health
+TITLE: The influence of emotional health on the activity characteristics of the elderly and the selection of environmental quality factors in residential areas
+DOI: 10.3390/ijerph182312618
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+The Inﬂuence of Emotional Health on the Activity
+Characteristics of the Elderly and the Selection of
+Environmental Quality Factors in Residential Areas
+Wen Zhong
+, Jian Suo *, Xinxin Ren and Guopeng Li
+
+
+Citation: Zhong, W.; Suo, J.; Ren, X.;
+Li, G. The Inﬂuence of Emotional
+Health on the Activity Characteristics
+of the Elderly and the Selection of
+Environmental Quality Factors in
+Residential Areas. Int. J. Environ. Res.
+Public Health 2021, 18, 12618. https://
+doi.org/10.3390/ijerph182312618
+Academic Editor: Paul B. Tchounwou
+Received: 22 October 2021
+Accepted: 28 November 2021
+Published: 30 November 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Department of Architecture, School of Architecture and Fine Art, Dalian University of Technology, Dalian 116081,
+China; zwynlycg@163.com (W.Z.); renxinxin@dlut.edu.cn (X.R.); liguopeng@dlut.edu.cn (G.L.)
+* Correspondence: suojian727@dlut.edu.cn; Tel.: +86-138-4090-7234
+Abstract: The environment in urban residential areas is the main ﬁeld of daily activity for the elderly.
+Environmental renewal has played a signiﬁcant role in improving residents’ quality of life and
+promoting physical and mental health. However, there is a general tendency that more attention
+has been focused on the environment during environmental renewal but not the residents. There
+is a continued lack of discussion on the emotional status of the elderly and its impact on outdoor
+activities. Based on the investigation of four types of typical residential environments in the Dalian
+residential area, a hierarchical linear model (HLM) has been constructed to reveal the inﬂuence of the
+emotional status of elderly persons on their activity characteristics and the selection of environmental
+quality factors. The results show that the distribution of older people with different emotional
+statuses varies among different residential types. The proportion of positive emotion is relatively
+high in the ﬂat land in rows category, and the activity characteristics are signiﬁcantly different under
+different emotional statuses. Among the four kinds of residential environments, which are (ﬂat
+land in rows, ﬂat land enclosed, slope, and mountainous) the environmental quality factors that
+have the highest impact on the emotional status of the elderly are greening quality (0.395), acoustic
+environment (0.167), environmental cleanliness (0.269), and greening quality (0.230), respectively. In
+the mountainous type, the impact of environmental quality factors on the emotional status of the
+elderly is the highest (39.7%), and the impact contributions of the other three environmental types are
+23.3%, 8.9% and 20.1%, respectively. These research results provide helpful guidance for the scientiﬁc
+community about practical implementation of residential environmental renewal for the elderly.
+Keywords: residential area; the elderly; emotional health; activity characteristic; environmental
+quality factor
+1. Introduction
+With the aggravation of ageing, the mental health problems of the elderly have
+aroused widespread concern in society. As the last stage of the life process, ageing is its
+most prominent feature, manifested in the degradation of physical function and the decline
+of cognitive ability and psychological changes at such different levels as emotion and
+personality [1]. Especially after retirement, the elderly are gradually separated from their
+original social roles and their living space and communication scope becomes narrowed.
+They easily fall into negative psychological states such as depression and anxiety, which
+reduce their quality of life and happiness index. Approximately 97% [2] of the elderly
+in China rely on the residential area and its service system to support their elderly care
+requirements [3]. Among them, the elderly population in residences built in the 1980s and
+1990s is relatively concentrated, and the elderly population in many residences accounts
+for about one third [4]. In recent years, residential environment renewal carried out in
+various parts of China has improved residents’ quality of life. During residential renewal,
+reasonable allocation of environmental elements can provide nearby places for exercise
+Int. J. Environ. Res. Public Health 2021, 18, 12618. https://doi.org/10.3390/ijerph182312618
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+2 of 18
+and social networking for the elderly, and reduce their sense of loneliness and isolation [1].
+After the outbreak of COVID-19, many older people chose to move into the neighbourhood
+space, which has a positive effect on improving their physical and mental health.
+Studies report that the health status and life satisfaction of the elderly are highly
+related to emotional status [5,6]. Individuals with high emotional status often experience
+more positive emotions, while individuals with low emotional status often experience more
+negative emotions, which is not conducive to health. Many studies have investigated the
+relationship between environment and human emotion in Europe, America and other coun-
+tries [7–13]. Guitea reported that residents’ dissatisfaction with social and entertainment
+facilities reduced their mental health levels [7]. In contrast, Carlson J.A. and others found
+that the built environment of the residential area has a synergistic effect with the social and
+psychological factors of elderly residents. A high-quality environment can promote the
+physical activities of the elderly [8]. Pacione analyzed the impact of personal and family
+characteristics such as a
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Design and Participants
+The research data collection began in April 2021 and sampled four administrative
+locations in Dalian. As Dalian includes hilly landforms, in order to more comprehen-
+sively reﬂect the impact of the residential environment on the elderly, the study selected
+four distinct topographic environmental areas. Through measurement and observation,
+a total of 98 spaces between residential buildings were deﬁned and categorized into four
+types: ﬂat land in rows, ﬂat land enclosed, sloped, and mountainous (Table 1). Flat land in
+rows and slope residences were generally outside the central urban area, while enclosed
+residences and mountainous residences were within the central urban area. Using typo-
+logical methods, we subdivided the four types of residential environments studied into
+the 18 typical types with the highest proportions. Elderly residents over 60 years old who
+have lived in the study area for more than half a year and who could understand the
+questionnaire and provide responses were randomly selected. The purpose was introduced
+to the respondents during the survey, followed by simple questions about their age and
+residence time to determine whether they were eligible to participate. The survey interview
+was undertaken anonymously, with oral, informed consent obtained from each participant
+before commencing the study.
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+3 of 18
+Table 1. Four types of typical residential areas in Dalian.
+X Community
+J Community
+ 
+ 
+ 
+ 
+Construction year
+Space type
+Number of
+households
+Construction year
+Space type
+Number of
+households
+1979–1988
+Flat-land Row Type
+672
+1982–2000
+Flat-land Enclosed Type
+2797
+W Community
+S Community
+ 
+ 
+ 
+Construction year
+Space type
+Number of
+households
+Construction year
+Space type
+Number of
+households
+1980–1989
+Slope Type
+984
+1986–1987
+Mountainous Type
+3577
+Additionally, in order to scientiﬁcally set the question option intervals, two sunny
+days were selected to record the behavioural trajectories of three residential samples of
+the elderly over 60 years old. This was done every half an hour in the early stage of the
+formal survey, with the behaviour trajectories of the two days superimposed (Table 2) [23]
+and the visual presentation of the trajectories adopted using ArcMap (version 10.7, ESRI,
+Redlands, CA, USA). The observation results showed that the number of older people who
+undertake outdoor activities was highest between 10:00–11:00 a.m. and 15:00–17:00. The
+activity duration was primarily in the range of 0.5 h–3 h, the activity frequency 1–2 times
+a day, and activity content varied according to the residence environment. The main
+activities included walking, sitting idle, basking in the sun, chatting, watching children,
+playing chess and cards, walking dogs, and sightseeing. A total of 312 questionnaires
+were distributed (85 from Wencuixuan Community, 81 from Shidaojie Community, 76 from
+Jixian Community, and 70 from Xigou Community). The questionnaire efﬁciency was 98%,
+with 306 valid questionnaires returned.
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+4 of 18
+Table 2. Characteristics of residential activities of the elderly on sunny days (overlapping two-day data 8:00–18:00).
+Sample 1
+ 
+Sample2
+ 
+Sample 3
+ 
+2.2. Measures
+2.2.1. Elderly Self-Assessment of Emotions and Health
+The Newfoundland Memorial University Happiness Scale (MUNSH) was selected.
+This scale is based on the emotional status theory, that is, the status between positive and
+negative emotions. The design is divided into four dimensions: positive emotion (PA),
+negative emotion (NA), and positive Experience (PE) and Negative Experience (NE), for a
+total of 24 questions. An answer of “yes” to an item scores 2 points, “don’t know” scores
+1 point and “no” scores 0 points. For item 19, an answer of “Current residence” scored
+2 points and "Other residence" scored 0 points. An answer of “satisﬁed” on item 23 scored
+2 points and “unsatisﬁed” scored 0 points. Total score=PA-NA+PE-NE, and the score range
+was −24~+24. In order to facilitate the calculation, the constant 24 is often added, for a
+score range of 0–48 (Table 3).
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+5 of 18
+Table 3. Index system.
+Index System
+Inﬂuence Variable
+Variable Level and Assignment
+The basic attributes of
+individual society
+gender
+2 Categories (1 = male; 2 = female)
+age
+3 Levels (60–69 years old, 70–79 years old, over 80 years old)
+education level
+5 Levels (primary school or below, junior high school, senior
+high school or vocational high school, Associate degree,
+Bachelor’s Degree)
+Family annual income
+6 Levels (below 10,000, 10,000 to 30,000, 30,000 to 80,000,
+80,000 to 120,000, 120,000 to 200,000, more than 200,000)
+Housing area
+3 Levels (below 50 m2, 50–80 m2, above 80 m2)
+Family structure
+4 Categories (living alone, with spouse, second generation,
+third generation)
+Individual social relations
+Physical condition
+5 levels (assign 1 = very bad~5 = Very good)
+Family relationships
+5 levels (assign 1 = very bad~5 = Very good)
+neighborhood
+5 levels (assign 1 = very bad~5 = Very good)
+Activity characteristics
+Activity frequency
+4 levels (1–2 times, 3–4 times, 5–6 times, 7 times or more)
+Activity duration
+5 Levels (less than 0.5 h, 0.5–1 h, 1–2 h, 2–3 h, 3 h and above)
+The activity type
+Record the content of the activity, and count the number of types
+Multiple quality
+variables in the
+residential
+environment
+Functional
+Quality
+Activity and Rest facilities
+5 levels (1 = very inconsistent~5 = very in conformity)
+Environmental cleanliness
+5 levels (1 = very inconsistent~5 = very in conformity)
+Spatial scale
+5 levels (1 = very inconsistent~5 = very in conformity)
+Place
+Quality
+Greening quality
+5 levels (1 = very inconsistent~5 = very in conformity)
+Vegetation type
+5 levels (1 = very inconsistent~5 = very in conformity)
+Degree of sky openness
+5 levels (1 = very inconsistent~5 = very in conformity)
+Spatial scale
+5 levels (1 = very incon
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). Flat land in
+Table 1. Four types of typical residential areas in Dalian.
+Table 2) [23]
+Table 2. Characteristics of residential activities of the elderly on sunny days (overlapping two-day data 8:00–18:00).
+Table 3).
+Table 3. Index system.
+Table 3).
+Table 3).
+Table 4. A gender distribution of 42.8% males and 57.2% females made up the participants.
+Table 4).
+Table 4. Basic information statistics of the elderly interviewed (n = 306).
+Figure 1), for ﬂat land in rows-type residential participants,
+Table 5. Comparison of emotional state and activity characteristics among different types of residential environments.
+Table 6. Comparison of Environmental quality assessment among different types of residential environments.
+Table 6. Cont.
+Figure 1. Emotional assessment of different types of residential environments. Note: *, ** indicate
+Figure 2a shows the differences in activity characteristics between
+Figure 2b). In a horizontal comparison, the frequency,
+Figure 2. Activity characteristics of elderly people with different emotions. (a) positive emotion.
+Figure 3. The elderly’s choice of environmental quality by two emotional types in different residential environments.
+Figure 3. The elderly in the
+Table 7). According to the regression model’s collinearity and the
+Table 7. Multi-factor hierarchical regression analysis of the same type of residential environments.
+Table 7. Cont.
+
+======================================================================
+
+### RECORD ID=804 | screening_verdict=INCLUDE | year=2022
+JOURNAL: FORESTS
+TITLE: Audio-Visual Preferences for the Exercise-Oriented Population in Urban Forest Parks in China
+DOI: 10.3390/f13060948
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Citation: Xu, J.; Li, M.; Gu, Z.; Xie, Y.;
+Jia, N. Audio-Visual Preferences for
+the Exercise-Oriented Population in
+Urban Forest Parks in China. Forests
+2022, 13, 948. https://doi.org/
+10.3390/f13060948
+Academic Editors: Xin-Chen Hong,
+Jiang Liu and Guang-Yu Wang
+Received: 21 May 2022
+Accepted: 14 June 2022
+Published: 17 June 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Audio-Visual Preferences for the Exercise-Oriented Population
+in Urban Forest Parks in China
+Jian Xu 1,2,3,4, Muchun Li 1,*, Ziyang Gu 1
+, Yongle Xie 1 and Ningrui Jia 1
+1
+Department of Tourism Management, South China University of Technology, Guangzhou 510006, China;
+jianxu@scut.edu.cn (J.X.); 201930460128@mail.scut.edu.cn (Z.G.); 201930460463@mail.scut.edu.cn (Y.X.);
+201930460203@mail.scut.edu.cn (N.J.)
+2
+State Key Laboratory of Subtropical Building Science, Guangzhou 510641, China
+3
+Key Laboratory of Digital Village and Sustainable Development of Culture and Tourism,
+Guangzhou 510641, China
+4
+Guangdong Tourism Strategy and Policy Research Center, Guangzhou 510641, China
+*
+Correspondence: limch@scut.edu.cn; Tel.: +86-181-288-6885
+Abstract: The purpose of this study is to explore the audio-visual preferences of exercisers in urban
+forest parks in China and to make practical suggestions for park landscape design. Taking Beigushan
+Forest Park in Lianyungang City, Jiangsu Province as a case, based on ﬁeld research and question-
+naire survey, this study analyzed the audio-visual preference characteristics of exercisers in the park,
+revealed the correlation between audio-visual preference and exercisers’ behaviors and individual
+characteristics, and explored the inﬂuence of audio-visual preferences on exercise feelings by estab-
+lishing a structural equation model. It was found that (1) the forest and its avenue landscape and
+birdsong are most preferred by exercisers; (2) the audio-visual preferences of people with different
+exercise forms differ, for example, people who slowly walk, run, and briskly walk have stronger
+preferences for natural soundscape and visual landscape, while people who use ﬁtness equipment
+have stronger inclusiveness for human activity sound and prefer public facility-based landscapes.
+In addition, some individual characteristics such as exercise intensity and exercise frequency signif-
+icantly affect exercisers’ audio-visual preferences; (3) visual landscape preferences have a greater
+direct impact on exercise feelings, with natural waterscape having the greatest direct impact, but
+overall soundscape preferences do not have a high degree of direct impact on exercise feelings, with
+natural sound still having a strong positive impact. These ﬁndings provide a more quantitative basis
+for the landscape design of urban forest parks from the perspective of exercise behavior.
+Keywords: urban forest park; exercise behaviors; audio-visual preferences; correlation analysis
+1. Introduction
+As a new type of park arising from urbanization in the era of ecological civilization [1],
+urban forest parks have multiple functions such as recreation, recuperation, and avoiding
+the heat, which help improve air quality [2], reduce noise [3], and provide a pleasant
+environment for people to promote physical and mental health development [4]. Forest
+parks can meet the needs of urban residents for environment, leisure, and sports, thus
+attracting an increasing number of urban residents for physical exercise close to nature [5].
+In China, where urbanization is accelerating, the relationship between the health level
+and quality of life of urban residents and urban forest parks has become increasingly
+important [6], especially in the context of COVID-19, where the demand for parks and
+outdoor green spaces has increased rather than decreased [7]. Studies have shown that
+physical exercise in green spaces can release stress and enhance the body’s ability to ﬁght
+infectious diseases [7–9]. Therefore, it can be predicted that in the future, the demand for
+forest parks and exercise activities will continue to grow and more urban residents can
+Forests 2022, 13, 948. https://doi.org/10.3390/f13060948
+https://www.mdpi.com/journal/forests
+
+Forests 2022, 13, 948
+2 of 25
+beneﬁt from the services of forests and parks [10]. In this context, exercisers in urban forest
+parks and their audio-visual preferences become the focus of this study.
+In the studies on exercise behavior in urban forest parks, many scholars have devoted
+their research to exploring the main factors that inﬂuence the attractiveness and satisfaction
+of exercise in parks. For example, Li et al. found that open activity space with waterscape,
+landscape sketch, can attract more people toward exercise activities [11]; McCormack et al.
+summarized qualitative studies about the relationship between park use and physical
+exercise and found that safety, aesthetics, park facilities, and landscape maintenance were
+important factors inﬂuencing satisfaction with park use [12]. Although some scholars
+have also emphasized the importance of individual perceptual factors in inﬂuencing park
+use satisfaction [13,14], the majority of scholars have focused on objective factors such as
+facilities and public services provided by parks, and have not paid enough attention to
+people’s underlying psychological motivations and preferences. Therefore, an investigation
+of people’s exercise satisfaction from the perspective of their visual and auditory preferences
+at the psychological level would provide a relevant complement to the current research on
+the factors inﬂuencing exercise satisfaction in parks.
+People’s perceptions of the landscape initially originate from h
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Area
+Beigushan Forest Park in Lianyungang City, Jiangsu Province, China, was selected as
+the case site for the study. The location map of Beigushan Forest Park is shown in Figure 1.
+The park has three major ecosystems: marine, forest, and wetland, with a forest coverage of
+86.3%. Beigushan Forest Park is a mountainous forest park, which is the most common type
+of forest park in China. The average annual temperature is 14 ◦C, which is similar to China’s
+
+Forests 2022, 13, 948
+4 of 25
+average annual temperature of 13 ◦C. The park has good accessibility and experiences
+strong demand from residents; the trail around the mountain was ofﬁcially opened to
+the public in March 2017 with new facilities. It is 5000 m in length, which circles around
+Beigu Mountain, and won the “2017 Jiangsu Most Beautiful Running Route” award. The
+exercisers account for 19% of visitors to this park, which is comparable to the percentage of
+Chinese nationals exercising in urban forest parks [38], and is highly representative as a
+case study for this study.
+Figure 1. Geographical location of Beigushan Forest Park in Lianyungang.
+Before conducting the questionnaire survey, through ﬁeldwork, Beigushan Forest Park
+can be divided into a plaza and artiﬁcial building area, a hillside and waterscape area,
+and a mountain rim trail area. There are 17 main types of landscapes in Beigushan Forest
+Park, including natural waterscape (streams, ponds, and lakes), topographic landscape
+
+Forests 2022, 13, 948
+5 of 25
+(lawns, avenues, hillsides, and lakesides), natural vegetation (shrubs, ornamental ﬂowers,
+and forests), artiﬁcial landscape (rockery, parterres, fountains, sculptures, bridges, and
+pavilions), artiﬁcial facilities (ﬁtness equipment, squares, and public buildings). We often
+hear 16 different kinds of sounds, including natural sounds (sound of wind, birdsong, cry
+of insects, rustle of leaves, and water ﬂow sound), human activity sounds (conversational
+voice, sound of children playing, footstep, and exercise sound), and artiﬁcial sounds
+(trafﬁc sound, entertainment sound, device music, construction noise, machine noise,
+and broadcast).
+2.2. Questionnaire Design
+Respondents were asked to ﬁll out the questionnaires created by “Questionnaire
+Star” using the tablet PCs provided to them by the researchers (“Questionnaire Star” is a
+professional, unlimited free online questionnaire, assessment, voting platform, focusing on
+providing users with a powerful, user-friendly online questionnaire design; free to use the
+program, it provides powerful, fast, easy to use, and low-cost obvious advantages [39]. The
+questionnaire star program has released a total of 154 million questionnaires, which can
+fully meet the number of questionnaire research and question type setting requirements;
+https://www.wjx.cn/, accessed on 25 January 2022). In addition, the researchers also
+prepared a certain number of paper questionnaires for the elderly who cannot use electronic
+devices skillfully.
+The questionnaire consisted of four parts, with 18 questions in total. The ﬁrst part
+was designed to collect demographic information about the respondents, such as age,
+gender, number of participants in exercise activities, distance of residence from the target
+park, and activities performed in the park other than exercise; the second part focused on
+the exercise proﬁle of the respondents, including exercise mode, exercise time, exercise
+duration, exercise frequency, driving factors for exercising, reasons for choosing the park
+as an exercise site, speciﬁc location of exercise, and exercise frequency. The second part
+focused on the respondents’ exercise patterns, exercise time, exercise duration, exercise
+frequency, exercise site, exercise intensity, overall feelings of exercise, and willingness
+to exercise in parks in the future. In the third and fourth sections, the three types that
+constitute a soundscape as deﬁned by Kraus [40] (abiotic natural sounds from the physical
+environment, nonhuman biological sounds emitted by all organisms in a given habitat, and
+anthropomorphic sounds emitted by stationary and moving man-made objects) were used
+as the basis for classifying the types of soundscapes in the questionnaire. On this basis, the
+scales used in the study of landscape perception by scholars such as Zheng Zhao [41] and
+the scales involved in the study of urban forest park soundscape by Wei Zhao [42] and Banu
+Chitra [43], respectively, were used, and the scales used in this study were appropriately
+adjusted and modiﬁed by combining the ISO [44] deﬁnition and classiﬁcation of soundscape
+and the actual situation of Beigushan Forest Park in Lianyungang. The third part focused
+on the understanding of individual visual landscape preferences, mainly using a ﬁve-point
+Likert scale (strongly dislike (−2), dislike (−1), average (0), like (1), and like very much (2))
+to illustrate their overall preferences for visual landscapes. In the fourth section, a selection
+of the frequency of occurrence of 16 soundscapes and a ﬁve-point rating of the soundscapes
+(from very dislike (−2) to very like (2)) were included to illustrate the overall preference
+of respondents for common soundscapes. After a pre-research test with 20 people, the
+average response time was 4 min and 39 s, all of whom had no objections to answer the
+questionnaire questions. The relevant contents of the questionnaire are shown in Table 1.
+
+Forests 2022, 13, 948
+6 of 25
+Table 1. Exerciser landscape and soundscape preference system.
+Question
+Sub-Factors
+Type
+Key Findings
+Reference
+Q5 Activities other
+than exercise
+Family bonding
+type activities
+Activity type
+Exercisers may engage in activities in the park other
+than those related to exercise activities, and these
+activities may inﬂuence, to some extent, exercisers’
+preferences for landscape and soundscape.
+[33]
+Social activities
+Leisure activities
+Quiet-type activities
+Group activities
+Just exercise
+Q6 Based on different
+types of exercise
+Slow
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1. Geographical location of Beigushan Forest Park in Lianyungang.
+Table 1.
+Table 1. Exerciser landscape and soundscape preference system.
+Figure 2. The survey was conducted during the
+Figure 2. Sampling point distribution map.
+Figure 3.
+Figure 3. Research framework.
+Figure 4. The proportions
+Figure 4a), but there were fewer respondents over the age of 60, and the respondents
+Figure 4b). In terms of travel mode
+Figure 4c), respondents traveled in a variety of ways, and exercising with three to ﬁve
+Figure 4d), 500–3000 m (36% for 500–1500 m
+Figure 4e) About 58% of the respondents exercised for 1–2 h, and the
+Figure 4f), generally concentrated on once a month,
+Figure 4g), with 61% of respondents only exercising lightly
+Figure 4h), exercisers generally exercised less intensely.
+Figure 4. Statistical results of respondents’ personal characteristics (a–h): gender, age, compan-
+Figure 5, the most preferred visual landscapes for people exercising in
+Figure 5. Average landscape preferences of exercisers in urban forest park.
+Figure 6, the most preferred sounds for the exercisers were birdsong,
+Figure 6. Average soundscape preferences of exercisers in urban forest park.
+Table 2) show, different exercise methods
+Table 2. Correlation between different exercise forms and soundscape preferences.
+Table 3 indicate that there is a positive correlation between the choice of
+
+======================================================================
+
+### RECORD ID=818 | screening_verdict=INCLUDE | year=2022
+JOURNAL: LAND
+TITLE: Does Soundscape Perception Lead to Environmentally Responsible Behavior? A Case Study in Longcanggou Forest Park, China
+DOI: 10.3390/land11091505
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+Citation: Li, N.; Wen, Y.; Wang, Y.; Li,
+Y.; Chen, Q.; Li, X.; Lv, B. Does
+Soundscape Perception Lead to
+Environmentally Responsible
+Behavior? A Case Study in
+Longcanggou Forest Park, China.
+Land 2022, 11, 1505. https://doi.org/
+10.3390/land11091505
+Academic Editors: Zhonghua Gou,
+Xiaohuan Xie and Karine Dupre
+Received: 16 August 2022
+Accepted: 4 September 2022
+Published: 7 September 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+land
+Article
+Does Soundscape Perception Lead to Environmentally Responsible
+Behavior? A Case Study in Longcanggou Forest Park, China
+Nian Li, Ya Wen, Yanxin Wang, Yifei Li, Qibing Chen, Xi Li and Bingyang Lv *
+College of Landscape Architecture, Sichuan Agricultural University, Chengdu 611130, China
+* Correspondence: 14579@sicau.edu.cn
+Abstract: Soundscape perception (SP) plays an important role in promoting tourist-place interaction
+and enhancing tourists’ environmentally responsible behavior (ERB). In this study, we deﬁned SP
+as a second-order factor and investigated its relationships with place attachment (PA) and tourists’
+ERB using structural equation modeling (SEM). Our aim was to identify how a soundscape could be
+improved to enhance the ERB of forest park tourists. Our results conﬁrm the multidimensionality of
+SP, i.e., the three subdimensions of physical soundscape perception (PSP), psychological soundscape
+perception (SSP), and regional soundscape perception (RSP). Furthermore, our SEM results show that
+PA mediates the effect of the three subdimensions of SP on high-effort ERB (HERB). Our empirical
+results also reveal that the enhancement of tourists’ SSP will foster their ERB. This study therefore
+extends the multisensory landscape literature by offering insights into the relationship between SP,
+PA, and tourists’ ERB. Our ﬁndings provide empirical evidence for understanding the inﬂuence of SP
+on tourists’ ERB in forest parks and demonstrate that PA should be considered an important context
+for soundscape design.
+Keywords: soundscape perception; place attachment; tourists’ environmentally responsible behavior;
+structural equation modeling
+1. Introduction
+Forest parks play an important role in improving air quality, maintaining biodiversity,
+and providing recreation destinations. However, as an increasing number of tourists visit
+parks for leisure and recreation, the contradiction between tourists and the park environ-
+ment is becoming more prominent, as improper tourist behavior has adverse effects on the
+environment [1,2]. At present, the adoption of various restrictive regulations to regulate
+tourists’ behavior may aggravate the conﬂicts between tourists and park ofﬁcials. Instead
+of adopting restrictive rules to restrict tourists’ behavior, it is better to stimulate tourists’
+environmentally responsible behavior (ERB) to promote the sustainable development of
+forest parks [3].
+Many scholars have conducted detailed studies on the mechanisms and inﬂuenc-
+ing factors of ERB. For example, Vaske et al. [4] suggested that encouraging an individ-
+ual’s connection to a natural setting facilitates the development of general ERB. Likewise,
+Halpenny et al. [5] studied visitors to a Canadian national park and conﬁrmed that place
+attachment (PA) could predict ERB. Stedman [6] found that a positive emotional and
+identity-based attachment to a place strongly inﬂuences the intentions of seasonal and
+full-time lake district residents to engage in place protective behaviors. A similar ﬁnding
+was reported by Kelly [7], who found that PA is positively linked to behaviors such as
+volunteering and environmental conservation in Western Australia.
+Although existing research has suggested that PA is a potentially useful concept to
+promote ERB, few scholars have used PA as a mediator to study the effects of soundscape
+perception (SP) on tourists’ ERB. The sensory dimension of the landscape has drawn
+increasing attention in recent years. Soundscapes, composed mainly of sound and its
+Land 2022, 11, 1505. https://doi.org/10.3390/land11091505
+https://www.mdpi.com/journal/land
+
+Land 2022, 11, 1505
+2 of 15
+related environmental elements, can be directly perceived by humans and are a determinant
+factor in how tourists perceive a place [8]. As an important component of forest landscape
+elements, the soundscape has important comprehensive value for spatial cognition and
+landscape experience. Tourists are able to perceive a landscape, evaluate their experience,
+form attitudes, and strengthen or create values from the soundscape that they experience [9].
+These values can inﬂuence the form of human behavior regarding a soundscape. Thus,
+soundscapes are vital for research on the ERB of tourists and may undermine “the tyranny
+of the visual” in the ﬁeld of landscape architecture research. However, previous studies
+have lacked theoretical research on tourists’ SP and an in-depth understanding of how
+soundscapes affect ERB in forest parks. Thus, it is still unclear whether the inﬂuence of
+each dimension of SP on ERB is different. Studies that incorporate the three subdimensions
+of SP and their inﬂuence on ERB in a single theoretical model are therefore needed.
+To address this need, we considered SP a second-order factor comprising physical
+perception, psychological perception, and regional perception. Based on the above back-
+ground, we attempted to construct a causal relationship model of “SP-PA-ERB” based on
+the theory of PA and a “cognition-attitude-behavior” model. The relationships among the
+theoretical constructs of interest in this study is presented in Figure 1. The model was tested
+using data collected from tourists to Longcanggou Forest Park, China. We
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+3.1. Study Area
+The area selected for this study was Longcanggou National Forest Park (Figure 2).
+The park is located in Ya’an on the western edge of the Sichuan Basin, China. As a well-
+known tourist destination in China, it enjoys a reputation as a great resort and is one of
+the popular tourism destinations in the Giant Panda National Park area. Longcanggou
+National Forest Park is an ecological national park with a diversity of forest plants and
+water scenery, integrating ecological tourism, vacations, cultural entertainment, and science
+education. The park has distinctive landscape features and is attractive to tourists from the
+surrounding cities. A natural soundscape and humanistic soundscape are both available in
+the park, constituting a comprehensive soundscape.
+Figure 2. Location of the study area.
+3.2. Data Collection
+The measurement items of the three subdimensions of SP, PA, and ERB were adopted from
+previous literature. The questionnaire was composed of four parts: part one—demographic
+information on tourists; part two—measurement of the three latent variables of SP; part
+three—measurement of PA; and part four—measurement of tourists’ ERB. All measurement
+items are shown in Appendix A. For all constructs, a ﬁve-point Likert scale was adopted,
+ranging from 1 for “strongly disagree” to 5 for “strongly agree”. The questions regarding PA
+and ERB were employed based on the protocols of Williams [16] and Cheng [24]. As there is
+no standardized scale for SP, the SP scales used in this study were modeled on preexisting
+SP scales and modiﬁed to ﬁt the current study’s objectives, setting, and population. Thus,
+it was necessary to conduct a small sample pretest (100 valid questionnaires) to verify the
+reliability and validity of the SP scale. The results are shown in Table 1.
+During 26 April–3 May 2022, the research team distributed questionnaires to 550 park
+tourists through random sampling in Longcanggou National Forest Park. A total of
+550 questionnaires were distributed, and 510 valid questionnaires were returned, for a
+return rate of 92.7%. The demographic information is shown in Table 2.
+
+Land 2022, 11, 1505
+6 of 15
+Table 1. Results of the EFA for soundscape perception.
+Latent
+Construct
+Indicator
+Components
+Cumulative
+(%)
+Cronbach’s α
+1
+2
+3
+PSP
+PSP1
+0.735 *
+0.201
+0.000
+26.230
+0.828
+PSP2
+0.829 *
+0.080
+0.193
+PSP3
+0.784 *
+0.362
+0.052
+PSP4
+0.684 *
+0.081
+0.348
+SSP
+SSP1
+0.361
+0.704 *
+0.202
+49.621
+0.814
+SSP2
+0.418
+0.510 *
+0.304
+SSP3
+0.432
+0.757 *
+0.131
+SSP4
+0.161
+0.843 *
+0.153
+SSP5
+−0.077
+0.676 *
+0.329
+RSP
+RSP1
+0.408
+0.183
+0.701 *
+67.966
+0.788
+RSP2
+0.406
+0.269
+0.671 *
+RSP3
+0.388
+0.296
+0.679 *
+RSP4
+−0.190
+0.170
+0.782 *
+Note: * Extraction method: principal component analysis; rotation method: Varimax with Kaiser normalization;
+rotation converged in 6 iterations.
+Table 2. Demographic proﬁle of the respondents.
+Demographic Trait
+Frequency (n = 510)
+Percentage (%)
+Gender
+Male
+240
+47.1
+Female
+270
+52.9
+Age
+≤18
+24
+4.7
+19–34
+252
+49.4
+35–49
+118
+23.1
+50–64
+85
+16.7
+≥65
+31
+6.1
+Educational level
+High school or below
+53
+10.4
+Junior college
+59
+11.6
+University
+312
+61.1
+Graduate school
+86
+16.9
+Previous visits
+First time
+352
+69.0
+Two times
+83
+16.3
+Three times
+25
+4.9
+Four times and above
+50
+9.8
+Tour duration
+<2 h
+72
+14.1
+2–5 h
+350
+68.6
+>5 h
+88
+17.3
+Soundscape satisfaction
+Strongly dissatisﬁed
+0
+0
+Dissatisﬁed
+2
+0.4
+General
+92
+18.1
+Satisﬁed
+273
+53.5
+Strongly satisﬁed
+143
+28.0
+3.3. Data Analysis
+The data were analyzed using SPSS (version 27.0) and AMOS 26.0. Frequency analysis
+of demographic characteristics and reliability analysis were conducted. SEM is a multivari-
+
+Land 2022, 11, 1505
+7 of 15
+ate statistical method often used to verify the relationship among latent variables. SEM has
+two components: the measurement model and the structural model. SEM was performed
+with a three-step approach in this study. First, conﬁrmatory factor analysis (CFA) was
+conducted to test the goodness of ﬁt and convergent and discriminatory validities of the
+measurement model. Second, SEM was employed to identify the causal relationships
+among the constructs and test the hypotheses of the research model [29]. Third, the boot-
+strap method was used to analyze the sampling distribution of indirect effects, and the
+number of bootstrap samples was set to 2000 [30].
+4. Results
+4.1. Constructs of Soundscape Perception
+The ﬁrst stage was to test the second-order factor model to determine whether the
+three subdimensions (PSP, SSP, and RSP) can be considered appropriate indicators of SP.
+Exploratory factor analysis (EFA) with SPSS was performed to determine the subdimensions
+of SP. These results are shown in Table 1. Principal component analysis of the 13-item SP
+responses provided support for the existence of the three factors. The three-component
+solution explained a total of 67.966% of the variance, which meets the normal requirement
+of 60% needed for social science [31]. The Cronbach’s alpha of each factor lay between
+0.788 and 0.828, larger than the required threshold of 0.70, which means the credibility of
+the scale was high [32].
+4.2. Measurement Model
+To measure correlation among the dimensions, we conducted CFA and tested the
+validity and reliability of the returned valid questionnaires. In this study, the internal
+consistency reliability was examined by Cronbach’s alpha and composite reliability (CR).
+As shown in Table 3, the minimum of Cronbach’s alpha was greater than 0.70, and the
+CR values for all the constructs were above the 0.7 threshold value [33], indicating the
+internal consistency of the indicators. These results show that the internal consistency of
+the measurement items was good and the reliability was acceptable.
+Validating scales requires observation of convergent validity and discriminant validity.
+We assessed convergent validity by examining the standardized factor loadings (Std.)
+and average variance extracted (AVE) for each item. As shown in Table 3, the factor
+loadings ranged from 0.536 to 0.918,
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. The model was tested
+Figure 1. The theoretical framework.
+Figure 1.
+Figure 2).
+Figure 2. Location of the study area.
+Table 1.
+Table 2.
+Table 1. Results of the EFA for soundscape perception.
+Table 2. Demographic proﬁle of the respondents.
+Table 1. Principal component analysis of the 13-item SP
+Table 3, the minimum of Cronbach’s alpha was greater than 0.70, and the
+Table 3, the factor
+Table 4, all latent constructs with the square root of AVE were greater than their correlation
+Table 3. Results of reliability and validity analysis.
+Table 3. Cont.
+Table 4. Results of discriminant validity analysis.
+Table 5) are as follows: χ2 = 654.856
+Table 6 and Figure 3, the path coefﬁcients of the three subdimensions of SP
+Table 5. Goodness-of-ﬁt test for the structural model.
+Table 6. Path coefﬁcients and hypothesis results.
+Figure 3. Structure diagram of load and path coefﬁcient.
+Table 7 show that SSP has a signiﬁcant indirect effect
+Table 7. Results of the mediation effect.
+
+======================================================================
+
+### RECORD ID=862 | screening_verdict=INCLUDE | year=2022
+JOURNAL: FORESTS
+TITLE: Temporal and Spatial Characteristics of Soundscape Ecology in Urban Forest Areas and Its Landscape Spatial Influencing Factors
+DOI: 10.3390/f13111751
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Citation: Zhao, Y.; Xu, S.; Huang, Z.;
+Fang, W.; Huang, S.; Huang, P.;
+Zheng, D.; Dong, J.; Chen, Z.; Yan, C.;
+et al. Temporal and Spatial
+Characteristics of Soundscape
+Ecology in Urban Forest Areas and
+Its Landscape Spatial Inﬂuencing
+Factors. Forests 2022, 13, 1751.
+https://doi.org/10.3390/f13111751
+Academic Editor: Paloma
+Cariñanos
+Received: 30 September 2022
+Accepted: 19 October 2022
+Published: 24 October 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Temporal and Spatial Characteristics of Soundscape Ecology in
+Urban Forest Areas and Its Landscape Spatial
+Inﬂuencing Factors
+Yujie Zhao 1, Shaowei Xu 1, Ziluo Huang 1, Wenqiang Fang 1, Shanjun Huang 1, Peilin Huang 1, Dulai Zheng 1,
+Jiaying Dong 2
+, Ziru Chen 3, Chen Yan 1, Yukun Zhong 1 and Weicong Fu 1,4,*
+1
+College of Landscape Architecture and Art, Fujian Agriculture and Forestry University, 15 Shangxiadian Rd.,
+Fuzhou 350000, China
+2
+School of Architecture, Clemson University, Clemson, SC 29634, USA
+3
+College of Architecture and Urban Planning, Fujian University of Technology, 33 Xuefunan Rd.,
+Fuzhou 350118, China
+4
+Collaborative for Advanced Landscape Planning, Faculty of Forestry, The University of British Columbia,
+Vancouver, BC V6T 1Z4, Canada
+*
+Correspondence: weicongfufj@163.com
+Abstract: We explored the spatial and temporal characteristics of the urban forest area soundscape by
+setting up monitoring points (70 × 70 m grid) covering the study area, recorded a total of 52 sound
+sources, and the results showed that: (1) The soundscape composition of the park is dominated by
+natural sounds and recreational sounds. (2) The diurnal variation of sound sources is opposite to
+that of temperature, 6:00–9:00 is the best time for the public to perceive birdsong, and after 18:00, the
+park is dominated by insect chirps. (3) The PSD (power spectral density) and the SDI (soundscape
+diversity index) of the park are greatly affected by public recreation behaviors, and some recreation
+behaviors may affect the vocal behavior of organisms such as birds. (4) Spaces with high canopy
+density can attract more birdsong and recreational sounds in summer, and the combination of
+“tree + lake” can attract more birdsong. Vegetation has a signiﬁcant dampening effect on trafﬁc sound.
+(5) Landscape spatial elements, such as the proportion of hard ground, sky, trees, and shrubs, have a
+signiﬁcant impact on changes in the PSD, the SDI and different kinds of sound sources. The research
+results provide effective data support for improving the soundscape of urban forests.
+Keywords: sound source composition; ecosystem acoustics; temporal and spatial change; land-
+scape space
+1. Introduction
+Urban forests are important places for the public to get a close experience with nature,
+and the ways to improve the quality of urban forest recreation have received increasing
+attention and become the focus of many scholars [1,2]. As the construction of urban forests
+has entered the stage of quality improvement, managers have shifted from the creation of
+visual landscapes to a comprehensive improvement of the sensory experience [3–6], and
+soundscape is an important part of the senses. Ecosystem sounds create a soundscape com-
+prised of acoustic periodicities and frequencies emitted from the ecosystem’s biophysical
+entities. These sounds are acoustic signals that reﬂect the dynamics of biological, social,
+and physical systems of a landscape. Soundscape ecology is “the study of systematic
+relationships between humans, organisms, and their sonic environment”. As an important
+resource ranked only second to the visual landscape, the soundscape has gradually received
+attention in the optimization design of urban forests [7,8]. Understanding and making
+proper use of the sounds in the environment around us are directly related to the livability
+of living environments and the quality of life of residents.
+Forests 2022, 13, 1751. https://doi.org/10.3390/f13111751
+https://www.mdpi.com/journal/forests
+
+Forests 2022, 13, 1751
+2 of 18
+The soundscape varies in different landscape spaces. Scholars have conducted various
+studies on urban forests and other public open spaces, which mainly focused on soundscape
+changes [9–13] and quality evaluation [14–20]. Ali Jahani et al. assessed the role of birdsong
+components in the psychological recovery of urban visitors and developed a decision
+support system as a practical tool [21]. Hong Xinchen et al. explored the impact of
+soundscape-driving factors on the perception of birdsong and established a perceived
+birdsongs model (PBM) that effectively simulated the process from soundscape information
+to perceived birdsongs in urban forests. The methodology developed could be useful for
+soundscape assessment and conservation in urban forests [22]. Liu Jiang et al. showed that
+landscape features greatly affect the public’s perception of soundscapes and human-made
+sounds dominate urban soundscapes in the time-space dimension, but birdsongs and
+certain geophysical sounds also play an important role in soundscape [23]. Hao Zezhou
+et al. studied the variation characteristics and inﬂuencing factors of birdsongs and insect
+chirps in urban forests, as well as analyzed the activity patterns of urban biomes based on
+soundscape records [24]. Scholars have achieved fruitful achievements in the protection of
+green space biodiversity, improvement of public recreational beneﬁts, and the reduction
+in noise; however, the existing research mainly uses the soundwalk method or sets up
+monitoring points in typical recreational areas to collect and analyze the acoustic data, and
+therefore, the results of studies are of weak guiding signiﬁca
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Location
+Fuzhou was awarded the title of the “Chinese National Forest City” in 2017 and
+the “National Forest Tourism Model City” in 2018. Hot Spring Park is located in the city
+center of the intersection of “Riding Greenway” and “Inner River Greenway” in Fuzhou,
+which belongs to the core of urban forest [25]. The Hot Spring Park covers an area of
+about 10 hm2(119◦18′34′′ E~119◦18′55′′ E, 26◦5′43′′ N~26◦5′59′′ N). The park contains
+high species richness, with over 2000 big trees and 200 kinds of plants being planted
+here, and contains dozens of plant community structures, such as palm forest, evergreen
+coniferous forest, evergreen broad-leaved forest and deciduous broad-leaved forest [26].
+With the increase in development in the city, Hot Spring Park has become a place for
+exercise, leisure, and entertainment for the public. In recent years, Hot Spring Park has
+undergone continuous upgrades and transformations, which provides the possibility for
+future soundscape integration.
+2.2. Soundscape Monitoring and Data Acquisition
+2.2.1. Soundscape Monitoring
+According to previous studies, the feasible distance between recording equipment
+is 100 m [27–29]. We divided Hot Spring Park into grids that were equally distanced at
+70 × 70 m [27] and selected 31 monitoring points (Figure 1). After our pre-experiment
+in July 2021, we randomly selected 3 sunny and breezy days for acoustic data collection
+(contains the weekend) so that our experiment would be more consistent with the actual
+
+Forests 2022, 13, 1751
+3 of 18
+situation of the park soundscape. Monitoring points were collected by placing a Sony
+PCM-D100 recording device in the center of a grid; if the monitoring point was inaccessible,
+an appropriate offset was made. Sampling occurred between 6:00 and 22:00 (park opening
+hours), and the sampling frequency was set to 44,100 Hz. The data resolution is set to 16 bit
+and the audio format was WAV. After sampling, we randomly intercepted 2 min of sound
+ﬁles within one hour [11], and had an average of 992 min of sound clips per day.
+Figure 1. Grid and location of monitoring points (the numbers represent our monitoring points).
+2.2.2. Panoramic Photos Collection
+To analyze the landscape spatial characteristics of the monitoring site, a panoramic
+camera (Insta360 One X, panoramic image example shown in Figure 2) was placed during
+sound collection.
+ 
+Figure 2. Panoramic overview of 31 monitoring point.
+
+Forests 2022, 13, 1751
+4 of 18
+2.3. Data Processing and Analysis
+2.3.1. Sound Source Analysis
+To identify and classify the types of sound sources in urban parks, Adobe Audition
+was used in combination with spectrograms. Sound events can be visualized through
+the spectrogram, where brighter and more intense colors indicate a sound with greater
+power [30]. In our experiment, each acoustic signal appeared at the end of vocalization as
+one vocalization event [31] (Figure 3). In the statistics of audio, different kinds of sound
+sources in the same audio can be counted separately in frequency and time length, and
+sound types can overlap with each other.
+ 
+Figure 3. Schematic diagram of sound spectrum recognition in each frequency band.
+2.3.2. Power Spectral Density
+Different entities in the soundscape produce sounds at different frequencies [11].
+Sound signals depict frequency on the vertical axis of the spectrum and time on the
+horizontal axis. The shading indicates the intensity (the power spectral density, PSD)
+of the sound signal at a particular frequency and time. Calculating the power spectral
+density can reﬂect the intensity of all the collected sound signals more objectively, and
+can also calculate the intensity of sound signals in different frequency intervals. The PSD,
+measured in w/kHz, was created by Welch in 1967 and represents the physical quantity of
+the power of an acoustic signal in relation to its frequency [32]. It is usually used to study
+acoustic signals of random vibration. The power of the sound can reﬂect the change of
+sound amplitude; that is, the greater the power, the greater the amplitude, the greater the
+amplitude, the greater the loudness, the greater the loudness, the stronger the sound is
+perceived by people [33]. Matlab was used to calculate the PSD in the range of 1–11 kHz
+to explore its temporal and spatial variations. In this study, the frequency of the sound
+sources observed was concentrated above 1 kHz, and data in the lowest interval, 0–1 kHz,
+was excluded as this can be largely attributed to human operation.
+2.3.3. The Soundscape Diversity Index
+The soundscape diversity index (SDI), used to evaluate the diversity of sound elements
+in the environment, was developed as an improved Simpson Diversity Index by scholars [34,35].
+The main expression is as follows:
+SDI = 1 −
+S
+∑
+i=1
+( n
+N )
+2
+(1)
+
+Forests 2022, 13, 1751
+5 of 18
+where n and N are the total number of perceived occurrences of a particular sound, I, and
+all sounds, S, in the soundscape sample, respectively. The SDI ranges between 0 and 1, and
+the greater the value, the more diverse the soundscape.
+The SDI could “objectively” reflect soundscape characteristics and illustrates the overall
+soundscape perception characteristics [34], we calculated the SDI of each monitoring point
+to explore the spatial and temporal variation characteristics of park soundscape diversity.
+2.3.4. Image Semantic Segmentation
+To begin image semantic segmentation, a total of 770 pictures of Fuzhou city park
+were collected by camera (Contains both regular and panoramic photos) and randomly
+divided into training and test set according to the ratio of 10:1. Based on the classiﬁcation
+of ADE20K dataset, images (including ordinary images and panoramic images) were
+manually annotated and input into DeeplabV3+ for training. The segmentation accuracy of
+the model reached 66.022% (MIoU = 66.022%), among which the segmentation accuracy
+of the water surface reached 84.53%. DeeplabV3+ is a mainstream network model in the
+ﬁeld of image sem
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). After our pre-experiment
+Figure 1. Grid and location of monitoring points (the numbers represent our monitoring points).
+Figure 2) was placed during
+Figure 2. Panoramic overview of 31 monitoring point.
+Figure 3). In the statistics of audio, different kinds of sound
+Figure 3. Schematic diagram of sound spectrum recognition in each frequency band.
+Figure 4 [38].
+Figure 4. DeepLab V3+ model structure diagram [36].
+Table 1.) [2,39–41]. The
+Table 1. Classiﬁcation of park sound source types.
+Figure 5). Natural
+Figure 5. Diurnal variation characteristics of duration, frequency and relative proportion of various
+Figure 6). Except for the sounds from birds, insects, horns,
+Figure 6. Diurnal variation of acoustic power spectral density in 10 frequency ranges.
+Figure 7. Sound power decreases with the increase in the frequency. The
+Figure 7. Daily variation of the relative proportion of sound power in each frequency band.
+Figure 8).
+Figure 8. Characteristics of daily variation of the SDI.
+Figure 9.
+Figure 9. Spatial distribution of natural, trafﬁc, management, and recreational sounds.
+Figure 10 shows the distribution of the PSD in Hot Spring Park during the summer.
+Figure 10. (a) Spatial distribution characteristics of the PSD; (b) spatial distribution characteristics of
+Figure 10, monitoring points 12 and 13 were in open spaces with a
+Table 2., the proportion of hard ground had a signiﬁcant positive correla-
+Table 3). Our results showed that the proportion of hard ground, sky, trees, and shrubs had
+
+======================================================================
+

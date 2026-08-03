@@ -1,0 +1,262 @@
+### RECORD ID=617 | screening_verdict=INCLUDE | year=2020
+JOURNAL: SUSTAINABILITY
+TITLE: Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?
+DOI: 10.3390/su12114619
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+sustainability
+Article
+Examining the Associations between Oases
+Soundscape Components and Walking Speed:
+Correlation or Causation?
+Djihed Berkouk 1,*
+, Tallal Abdel Karim Bouzir 2
+, Luigi Maﬀei 3
+and
+Massimiliano Masullo 3
+1
+Department of Architecture, Biskra University, Biskra 07000, Algeria
+2
+Institute of Architecture and Urban Planning, Blida University, Blida 09000, Algeria; bouzirtallal@gmail.com
+3
+Department of Architecture and Industrial Design, Università degli Studi della Campania “Luigi Vanvitelli”,
+81031 Aversa (CE), Italy; luigi.maﬀei@unicampania.it (L.M.); massimiliano.masullo@unicampania.it (M.M.)
+*
+Correspondence: d.berkouk.dz@gmail.com or d.berkouk@univ-biskra.dz
+Received: 7 May 2020; Accepted: 3 June 2020; Published: 5 June 2020
+
+
+Abstract: The feeling of calm and tranquillity provided by the oases of Algeria can disappear
+because of the outdated urbanization strategy which is based on the vehicle as a mode of transport.
+Walkability is one of the most adoptable sustainable strategies to reduce the negative mechanical
+transportation eﬀects on the quality of life. This paper aimed to examine the correlation and the
+causation between oases soundscape components and walking speed. The methodology of this
+ﬁeld study was based on an empirical approach at the urban settlements in three oases in Algeria.
+The correlation between walking speed and soundscape components was obtained through the use
+of the Spearman correlation test. A one-way ANOVA analysis was conducted to assess the eﬀect
+of the soundscape components on walking speed. A post hoc Tukey test was adopted to explore
+the sound component that causes increased walking speed. In this study, no signiﬁcant correlation
+was explored between the walking speed and the anthrophonical sounds. In contrast, the statistical
+analysis of the sound walks experience suggests a moderate and signiﬁcant negative correlation
+between geophonical and biophonical sounds, with mean walking speed. The results showed that,
+the cause of the increase in the mean walking speed of the pedestrians is human sound. The ﬁndings
+suggest that further research is needed to focus on the long-term subjective investigation to explore
+the correlations and the eﬀects between soundscape, walkability and walking speed.
+Keywords: soundscape; walking speed; oases; sound walk; walk for leisure
+1. Introduction
+The Saharan Oases are often perceived as a place in contrast with their environment. They are a
+particular landscape, composed mainly of water and palm trees surrounded by a sandy desert [1]. They
+are located above the largest underground water supplies in the world [2]. In arid and semi-arid regions,
+water [3] and palm trees are necessary conditions but are insuﬃcient to explain the creation of oases.
+The oases are also considered as small agglomerations created by the natives’ people. Hence, they are
+deﬁned as socio-spatial establishments in the middle of the desert, with cultural identities characterizing
+particular human settlements [4]. In Algeria, rapid, strong and poorly managed urbanization has
+gradually transformed most oases into Saharan cities, which leads to radical changes in the luminous
+and thermal atmospheres, in addition to the urban soundscapes [5]. Due to the challenging weather
+conditions characterizing Saharan cities as well as Saharan Oases, decision makers and urban planners
+favour a transport planning policy which is principally based on using the vehicle [6], instead of
+relying on walking which is considered a sustainable transport mode [7]. This strategy can gradually
+Sustainability 2020, 12, 4619; doi:10.3390/su12114619
+www.mdpi.com/journal/sustainability
+
+Sustainability 2020, 12, 4619
+2 of 16
+decrease walking as a mode of transport in urban settlements around oases and create a car-dependent
+society. Indeed, this problem of transport through the vehicle is not limited to the Saharan cities, it is
+considered as a larger problem aﬀecting city lifestyle in modern environments.
+Sustainability is receiving the attention of the scientiﬁc community in many ﬁelds [8]. In urban
+study, walkability is considered a key concept toward sustainable urban development [9]. It is also
+the underlying characteristic of healthy and sustainable cities [10]. Governments following walkable
+city development policies and projects demonstrate the importance of walkability [11], where people
+living in high walkable areas often spend long periods of time walking, compared to those living in
+low walkable areas [12]. They are also more likely to be physically active, regardless of their income
+level in their neighbourhood [13], since walkable neighbourhood environments have the potential to
+raise utilitarian walking [14]. As a result of this policy, people are becoming increasingly interested in
+walking [15]. The relationship between walking and health is frequently emphasized [11] and thus,
+walking has turned out to be one of the most favoured and widespread types of physical activity [16–18].
+Furthermore, neighbourhood walkability promotes walking, regardless of the inhabitants’ age group
+(adult or small) [19]. In addition, walkable and sustainable neighbourhoods can minimize the crime
+rate [20], moreover, walking brings life to the streets and lively streets contribute to safer urban
+environments [21].
+Through the crucial combination of information that derives from different sensory channels,
+people can perceive and orient themselves in the surrounding environment [22]. A growing body
+of literature can be found on the study of the association of particular variables with walkability
+in urban spaces, such as connectivity, land-use, density, traffic safety, surveillance, community,
+green space, parking [23], convenience, conviviality, conspicuousness, coexistence, commitment [21],
+comfort, legibility, way-finding, feasibility [24], pleasantness and practicability [25]. Along with built
+environments, social conditions and individual reactions are r
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+In the present paper, two ﬁeld studies were carried out in two stages to understand the association
+between the oasis soundscapes components and walking speed. At stage one, the spatial analysis of
+the soundscape was performed to identify the soundscape components of the oases. At stage two,
+individual sound walks were conducted by twenty-seven visitor participants (non-resident). An
+analysis of the behaviour of pedestrians according to the perception of soundscapes was conducted to
+verify whether there was a correlation between the mean walking speed and the soundscapes dominant
+sounds; to determine whether the components of soundscapes aﬀect the mean walking speed.
+3.1. Data Collection
+In order to evaluate and identify soundscapes, binaural recordings [54–56] were used in both
+study stages as a spatial audio recording technique, although there are others such as the monaural,
+
+Sustainability 2020, 12, 4619
+4 of 16
+stereo, array and ambisonic techniques. It is considered to be the more useful that the other [57],
+due to the possibility of recreating the spatial characteristics of the sound environment [58]. At stage
+one, sound recordings were performed in 738 measurement stations distributed in the streets and
+alleys of the studied areas. Stage two was started by using the sound walk method based on binaural
+recordings [57,59,60] in six preselected routes, Figure 2. To record the sound experience as perceived
+by a pedestrian, sound recordings were made along the selected routes using a binaural microphone
+placed in the ears of the participant. To keep a visual track of the studied routes, the recordings
+were associated with photos along these paths. At stage two, the soundscapes were identiﬁed after
+performing an analysis of the spectrogram data which were extracted from the recorded soundtracks;
+this is consistent with previous research [61,62]. The sampling of spectrograms that are representative
+of real soundscapes was based on the results of stage one.
+ 
+Figure 2. The trajectory of the sound walks in (a,b) Branis, (c,d) Chetma and (e,f) M’Chouneche oases.
+The calculation of the mean walking speed of pedestrians was carried out in (m/s) [40], in several
+sections for each sound walk to explore the cause of the increase in the walkers’ speed. The participants’
+speed was calculated by dividing the distance travelled by the duration of the route. The route duration
+was measured using a professional stopwatch.
+The experiment (individual sound walk) and data acquisition (sound recording and mean walking
+speed calculation) were realized under similar climatic conditions (see Table 1), because unstable
+climatic conditions can inﬂuence the sound propagation [63], walkability, and mean walking speed.
+Table 1. Climatic conditions during data acquisition.
+Air Temperature (C◦)
+Relative Humidity (%)
+Wind Speed (m/s)
+18–26
+27–50
+0.4–3.2
+3.1.1. Morphological Characteristics of the Studied Routes
+The sampling of routes sections was mainly based on the reason for having a variation in the
+morphological characteristics, with diverging routes in terms of the soundscape. From this, the sky
+view factor (SVF) and the height/width ratio (H/W) were calculated at 70 measuring stations. Table 2
+shows the codes used to present the routes, stations and sections. The SVF was calculated using the
+modiﬁed method of Steyn [64–66], based on ﬁsheye photography (see Equation (1)). Each ﬁsheye was
+divided into n annular rings (by default n = 36) to calculate the SVF by adding the contribution of each
+
+Sustainability 2020, 12, 4619
+5 of 16
+ring [67]. Figures 3 and 4 respectively show that the urban geometries of these routes are characterized
+by divergent values of SVF and the H/W ratio, with a value of 0.29 ± 0.18 concerning the mean SVF
+of the diﬀerent measurement stations, and a mean value of 0.51 ± 0.41 for the H/W ratio. Figure 5
+represents the variations of the morphological characteristics SVF and H/W, concerning the diﬀerent
+sections of each route:
+SVF = π
+2nΣn
+i=1 sin
+ π(2i −1)
+2n
+! pi
+ti
+!
+(1)
+where (Pi/ti) is the ratio between the number of pixels in the sky and the total number of pixels in the
+ring i.
+Figure 3. Sky view factor (SVF) values for the studied routes stations with examples of ﬁsh-eye images.
+Figure 4. Height/width ratio (H/W) values for the studied routes stations.
+Figure 5. (a) Sky view factor and (b) H/W ratio values for the studied routes sections.
+
+Sustainability 2020, 12, 4619
+6 of 16
+Table 2. The codes of routes, stations and sections.
+Routes
+Stations
+Sections
+Route A_Branis
+A1–A4
+S1
+A4–A7
+S2
+A7–A10
+S3
+Route B_Branis
+B1–B4
+S4
+B4–B8
+S5
+Route C_Chetma
+C1–C5
+S6
+C5–C9
+S7
+C9–C12
+S8
+C12–C16
+S9
+Route D_Chetma
+D1–D4
+S10
+D4–D8
+S11
+D8–D12
+S12
+Route E_M’Chouneche
+E1–E4
+S13
+E4–E7
+S14
+E7–E10
+S15
+Route F_M’Chouneche
+F1–F6
+S16
+F6–F10
+S17
+F10–F14
+S18
+3.1.2. Selection Criteria of the Participants
+The individual sound walks were conducted by twenty-seven participants, belonging to the same
+age category (see Table 3). The participants were architecture students. They were considered as visitor
+walkers because they were not residents of the studied areas. In order to respect the strong traditions
+of the studied areas, where young women do not walk alone in the streets; the choice of participants
+was based only on males. As the body mass index (BMI) may aﬀect the walking level [68], the choice of
+non-athlete participants was mainly based on their body homogeneity in order to overlook the impact
+of this variable on the results of this study. Table 3 illustrates the bodily uniformity of the participants
+by a BMI of 23.34 ± 1.54 kg/m2. This indicates that all participants have a normal BMI. The BMI [69]
+was calculated according to Equation (2):
+BMI = Weight/Height 2
+(2)
+Table 3. Body characteristics of the participants.
+Participant (no.)
+Gender
+Age (year)
+Weight (kg)
+Height (m)
+BMI (kg/m2)
+27
+Male
+24.81 ± 2.42
+73.75 ± 3.49
+1.78 ± 0.04
+23.34 ± 1.54
+The values are presented as follows: average ± standard
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. These three oases have common characteristics, where the main activity
+Figure 1. Location of the studied oases.
+Figure 2. To record the sound experience as perceived
+Figure 2. The trajectory of the sound walks in (a,b) Branis, (c,d) Chetma and (e,f) M’Chouneche oases.
+Table 1), because unstable
+Table 1. Climatic conditions during data acquisition.
+Table 2
+Figure 5
+Figure 3. Sky view factor (SVF) values for the studied routes stations with examples of ﬁsh-eye images.
+Figure 4. Height/width ratio (H/W) values for the studied routes stations.
+Figure 5. (a) Sky view factor and (b) H/W ratio values for the studied routes sections.
+Table 2. The codes of routes, stations and sections.
+Table 3). The participants were architecture students. They were considered as visitor
+Table 3 illustrates the bodily uniformity of the participants
+Table 3. Body characteristics of the participants.
+Figure 6 presents the spatial identiﬁcation of the soundscapes of the studied areas. As seen in
+Figure 6, biological and geophysical sounds generally predominate over the studied areas’ soundscapes.
+Figure 6.
+Figure 7 presents the spectrograms of the sound recordings of the studied routes, divided by
+Figure 5), three main sound
+Figure 7. Spectrograms of the soundscapes for the six studied zones: (a,b) Branis, (c,d) Chetma and
+Figure 7a). Analysing the spectrogram
+Figure 7b shows the spectrogram of route B (Branis), which consists of two main sections, S4
+Figure 7c. This route consists of four sections
+Figure 7d. Section S10 is characterized

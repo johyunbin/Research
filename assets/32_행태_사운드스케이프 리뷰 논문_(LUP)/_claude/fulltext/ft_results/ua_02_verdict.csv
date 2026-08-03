@@ -1,0 +1,5 @@
+no,final_verdict,reason,confidence
+770,FINAL_EXCLUDE,음환경은 정서상태 예측변수일 뿐 활동특성과의 연결 분석 없음 — 사운드스케이프-행태 링크 부재,medium
+791,FINAL_INCLUDE,캠퍼스 옥외 통행 플로우·소음 동시 계측; 사람 이동이 소음 형성 주원인이라는 역방향 결론,medium
+858,FINAL_INCLUDE,항만 옥외재현 청취테스트; 방문빈도·체류시간 행태변수를 평가 데이터 정규화에 투입한 역방향,low
+862,FINAL_INCLUDE,도시숲 공원 레크리에이션 행태가 PSD·SDI·자연음 지속시간 좌우 — 역방향 실증,high

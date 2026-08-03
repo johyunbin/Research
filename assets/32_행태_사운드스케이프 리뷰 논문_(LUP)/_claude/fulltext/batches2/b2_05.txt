@@ -1,0 +1,1858 @@
+### RECORD ID=1110 | screening_verdict=INCLUDE | year=2025
+JOURNAL: TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+TITLE: Decoding the impact of audiovisual street environment features on cycling volumes: Insights from street view imagery and machine learning
+DOI: 10.1016/j.tra.2025.104586
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Decoding the impact of audiovisual street environment features on 
+cycling volumes: Insights from street view imagery and 
+machine learning
+Ming Gao a,b, Congying Fang c,*
+a School of Architecture and Design, Harbin Institute of Technology; Key Laboratory of Cold Region Urban and Rural Human Settlement Environment 
+Science and Technology, Ministry of Industry and Information Technology, Harbin 150006, China
+b Department of Architecture, College of Design and Engineering, National University of Singapore, Singapore 117566 Singapore
+c Graduate School of Science and Technology, Kumamoto University, Kumamoto 860-8555, Japan
+A R T I C L E I N F O
+Keywords:
+Cycling volume
+Spatial quality
+Street view images
+Machine learning
+A B S T R A C T
+Understanding the relationship between the audiovisual environment of streets and cycling 
+behavior is crucial for designing more inclusive and responsive transport environments. However, 
+most previous studies have concentrated on the macro-level aspects of the built environment, 
+such as land-use mix, while overlooking the street-space quality characteristics that influence 
+cyclists’ on-site perceptions. Although research has explored the role of objective visual features, 
+studies on the audiovisual environment of streets and its perceived impact remain scarce. This 
+study combines street view imagery, Strava Heatmap data, and interpretable machine learning to 
+investigate the nonlinear and interactive effects of street-level spatial quality on cycling volumes. 
+The results indicate that (1) auditory characteristics—especially noise intensity and sound 
+quality—exert a significant and often stronger influence on cycling volume than visual features 
+alone, challenging visual-centric planning assumptions; (2) several spatial features show 
+nonlinear or threshold effects (e.g., green view index and soundscape eventfulness exhibit 
+inverted U-shaped curves), indicating that excessive environmental richness may reduce cycling 
+appeal (3) synergistic and antagonistic interactions exist between visual and auditory ele­
+ments—for instance, natural sounds can mitigate the negative impact of high noise, while 
+enclosed visual environments amplify it. These findings provide empirical evidence that opti­
+mizing—rather than maximizing—street-level sensory stimuli is essential for promoting active 
+travel. Building on this insight, our study offers practical guidance for policymakers and urban 
+designers to implement more targeted and context-sensitive interventions, and underscores the 
+potential of integrating audiovisual design into sustainable transport planning.
+1. Introduction
+Urban bicycle transportation planning has become a central component of global urban and regional development strategies 
+(Hoffmann, 2016), aimed at addressing pressing issues such as traffic congestion, environmental degradation, and energy consumption 
+(Zhang and Mi, 2018). Cycling, whether for leisure or daily commuting, is both convenient and cost-effective, and has been widely 
+* Corresponding author.
+E-mail addresses: 22B334014@stu.hit.edu.cn (M. Gao), 219d9241@st.kumamoto-u.ac.jp (C. Fang). 
+Contents lists available at ScienceDirect
+Transportation Research Part A
+journal homepage: www.elsevier.com/locate/tra
+https://doi.org/10.1016/j.tra.2025.104586
+Received 28 August 2024; Received in revised form 26 June 2025; Accepted 29 June 2025 
+Transportation Research Part A 199 (2025) 104586 
+Available online 5 July 2025 
+0965-8564/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+integrated into everyday life (Rabl and De Nazelle, 2012). However, deteriorating and low-quality street environments may negatively 
+affect cycling behaviors (Rui and Xu, 2024), despite cycling being a key indicator of sustainable urban mobility (Pucher and Buehler, 
+2017). While numerous studies have explored the influence of macro-scale built environment attributes—such as land use mix and 
+building density—on cycling (Yang, Shi and Tao, 2025), much less attention has been paid to the role of micro-scale streetscape 
+qualities, particularly the audiovisual environment, in shaping cyclists’ on-site perceptions (Song et al., 2024). Although features such 
+as greenery, visual openness, and perceived safety are increasingly recognized as influential for promoting cycling (Zhang et al., 
+2024c), most empirical analyses still rely on linear assumptions and rarely incorporate auditory conditions or subjective perceptual 
+factors into comprehensive cycling behavior models. From a micro-environmental perspective, poor-quality audiovisual environments 
+may diminish cyclists’ comfort (Gelb and Apparicio, 2022), thereby limiting the sustainability of cycling as a mode of transport 
+(Caigang et al., 2022). Consequently, planners and policymakers worldwide are committed to maximizing cycling activity, even with 
+limited resources, through initiatives such as promoting bike-sharing schemes and designing effective cycling infrastructure (Cai et al., 
+2024; Song et al., 2024). To fully realize the health and environmental benefits of cycling, it is crucial to better understand the key 
+streetscape attributes that influence public cycling behavior.
+This study addresses these gaps by utilizing street view image analysis and machine learning applied to data collected from the 
+central district of Melbourne, Australia. Specifically, we aim to answer three research questions: 
+• Research Question 1: Are there differences in public cycling volumes across different types of urban streets?
+• Research Question 2: What are the key spatial quality factors influencing cycling volumes, and how do they affect cycling behavior?
+• Research Question 3: How can the nonlinear effects of spatial quality on cycling volumes be quantified and interpreted?
+This research contributes threefold to the literature on bicycle-friendly urban planning and the practice of optimizing s
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+3.1. Study area
+In this study, we selected the inner city of Melbourne, Australia, as our case study area, based on official boundary data (Ma et al., 
+2023). This selection is justified by Melbourne’s status as one of the regions with the highest cycling frequency in Australia (Pistoll and 
+Goodman, 2014). The area is characterized by a high-density, mixed-use core surrounded by significant urban expansion (Pistoll and 
+Goodman, 2014). Additionally, the flat terrain and mild climate of the inner city provide ideal conditions for year-round cycling 
+(Pucher, Garrard and Greaves, 2011). Therefore, Melbourne offers an attractive case for studying the relationship between urban 
+environments and public cycling behavior.
+We utilized the City of Melbourne TravelSmart map, provided by the official Melbourne government (https://www.melbourne.vic. 
+gov.au/), to select three types of cycling paths as our samples: off-road shared paths, on-road bike lanes, and informal bike routes. 
+Furthermore, since cycling activities are also observed on other types of roads in the Strava Heatmap, we categorized these as 
+miscellaneous bike paths and included them in our study sample (Fig. 1).
+3.2. Data collection and preprocessing
+3.2.1. Cycling volume
+Cycling volumes were estimated using the Strava Heatmap, a GPS-based crowdsourced platform widely used by millions of cyclists 
+who track their activities via smartphones or GPS devices (e.g., GPS watches). The heatmap aggregates cumulative GPS traces and 
+visualizes them through raster tiles, where varying levels of color brightness represent relative cycling frequency (Dong et al., 2023a). 
+Although these raster tiles do not provide absolute trip counts, they serve as a practical proxy for cycling volume, and have been widely 
+used in urban mobility studies (Fischer, Nelson and Winters, 2022; Gao and Fang, 2025a; Hong, McArthur and Stewart, 2020). We 
+extracted raster values using 20-meter buffers around each sample point, following prior work showing that this resolution offers 
+strong explanatory performance in spatial modeling (Dong et al., 2023a). Raster values are classified into discrete categories corre­
+sponding to brightness intensity, with brighter tiles indicating higher levels of cycling activity. While this classification scheme limits 
+the precision of volume estimation, it enables consistent spatial comparison across urban areas.
+To construct the cycling volume layer, we used Python to download and mosaic 72 high-resolution tiles (512 × 512 pixels each), 
+covering the sampled districts in inner Melbourne. As shown in Fig. 2a, the resulting raster surface allowed us to approximate spatial 
+M. Gao and C. Fang 
+Transportation Research Part A 199 (2025) 104586 
+4 
+
+variation in cycling intensity across the street network. We acknowledge that this method reflects relative, not absolute, cycling 
+volumes, and may be influenced by the demographic and behavioral characteristics of Strava users (Gao and Fang, 2025a). None­
+theless, its high spatial resolution and proven utility make it a valuable tool for investigating street-level cycling patterns, particularly 
+in the absence of administrative count data.
+3.2.2. Street view image
+We acquired street view imagery data through the Google Street View Image (SVI) API to extract spatial quality features of streets. 
+First, sample points were extracted at 50 m intervals along street segments from OpenStreetMap. The 50 m sampling interval was 
+chosen for its representativeness and better model fit, as demonstrated in previous studies (Jiang et al., 2021; Yang et al., 2024c). For 
+each sample point, SVI was downloaded in four directions (headings 0◦, 90◦, 180◦, and 270◦) to cover the complete field of view of 
+cyclists. After filtering out missing points or indoor images, we obtained 35,416 valid SVIs from a total of 8,854 sample points. Next, 
+the acquired SVI was classified and analyzed using DeepLabV3+ (Chen et al., 2017a,b), an advanced convolutional neural network 
+architecture trained on the Cityscape dataset (Jiang et al., 2021). This model is widely used for accurately and efficiently extracting 
+and measuring objective visual indicators (Qiu et al., 2022) and has shown excellent performance in urban street scene analysis (Jiang 
+et al., 2021). Finally, the pixel ratio of each objective feature in the four-directional SVI for each sample point was calculated, as 
+illustrated in Fig. 3.
+3.3. Measure
+Based on existing research (Song et al., 2024; Zhou, Feng and Kemperman, 2023), spatial qualities are considered potential pre­
+dictors that may influence cycling volumes. These features are detailed in Table 1 and are categorized by their nature into visual, 
+auditory, and perceptual characteristics. The objective of our study is to explore the relationship between cycling volumes and the 
+spatial qualities of streets by evaluating these qualities. Specifically, the spatial qualities of streets encompass landscape features, 
+soundscape features, and the perception features of the street environment.
+3.3.1. Landscape features
+Landscape features are commonly defined as the pixel ratio of visual elements within Street View Imagery (SVI), widely used to 
+represent the importance of eye-level perspective in activity studies (Ito and Biljecki, 2021). We selected 5 visual landscape indicators 
+as the variables according to prior works (Rui, 2023; Yang et al., 2024c), including green view index (GVI), sky view factor (SVF), 
+visual enclosure (VE), visual bikeability (VB), visual humanization index (VHI), and imageability (IMA). Specifically, the GVI aims to 
+actively increase awareness of street vegetation distribution, which is well-documented to significantly influence cycling and jogging 
+(Liu et al., 2023; Salon et al., 2019). The GVI for an image is defined as follows: 
+GVIi = Pgreen
+Pi
+(1) 
+where Pgreen denotes the proportion of green pixels, including plant, tree and grass; Pi is the total number of p
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Locations of the sampled districts in inner city of Melbourne, Australia. (Source: https://www.melbourne.vic.gov.au/city-maps).
+Fig. 1).
+Fig. 2a, the resulting raster surface allowed us to approximate spatial 
+Fig. 3.
+Table 1 and are categorized by their nature into visual, 
+Fig. 2. (a) the samples of cycling Strava Heatmap tiles; (b) the cycling volume along the street networks in Melbourne inner city.
+Fig. 3. (a) Samples of four-direction SVIs for one sample point and (b) semantic segmentation results.
+Table 1 
+Fig. 4). Instead of relying on costly and labor-intensive ground-based acoustic measurements, this method enables large-scale, 
+Fig. 4. A comprehensive workflow overview for perceiving soundscapes from SVI (Zhao et al., 2023).
+Fig. 2), we examined the variations in 
+Fig. 5 presents the results derived from an Analysis of Variance, which was employed to 
+Fig. 6). We discovered that the 
+Fig. 5. Comparison of cycling volume differences across different street types (***p < 0.001). (Three types of bike routes planned in the City of 
+Fig. 7, the landscape characteristics of streets exhibit nonlinear effects on cycling. The GVI and VHI generally show a 
+Fig. 6. The importance of spatial qualities factors based on SHAP values. Global (a) and local (b) feature importance.
+Fig. 7. Local impact of street landscape features on cycling volumes.
+Fig. 8 illustrates the nonlinear associations between street soundscape characteristics and cycling volumes. Noise intensity on 
+Fig. 9 illustrates the associations between perceived street environment characteristics a
+
+======================================================================
+
+### RECORD ID=1121 | screening_verdict=INCLUDE | year=2025
+JOURNAL: JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+TITLE: Effects of interactions between thermal and acoustic environments on subjective comfort evaluations in outdoor public spaces
+DOI: 10.1080/13467581.2023.2292069
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Journal of Asian Architecture and Building Engineering
+ISSN: 1346-7581 (Print) 1347-2852 (Online) Journal homepage: www.tandfonline.com/journals/tabe20
+Eﬀects of interactions between thermal and
+acoustic environments on subjective comfort
+evaluations in outdoor public spaces
+Dahu Lin, Tingjun Li, Zilin Chen & Lei Li
+To cite this article: Dahu Lin, Tingjun Li, Zilin Chen & Lei Li (2025) Eﬀects of interactions
+between thermal and acoustic environments on subjective comfort evaluations in outdoor
+public spaces, Journal of Asian Architecture and Building Engineering, 24:1, 367-382, DOI:
+10.1080/13467581.2023.2292069
+To link to this article: https://doi.org/10.1080/13467581.2023.2292069
+© 2023 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group on behalf of the Architectural
+Institute of Japan, Architectural Institute of
+Korea and Architectural Society of China.
+Published online: 19 Dec 2023.
+Submit your article to this journal 
+Article views: 2118
+View related articles 
+View Crossmark data
+Citing articles: 6 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tabe20
+
+ENVIRONMENTAL ENGINEERING
+Effects of interactions between thermal and acoustic environments on 
+subjective comfort evaluations in outdoor public spaces
+Dahu Lina, Tingjun Lia, Zilin Chenb and Lei Lia
+aSchool of Architecture and Art, Hebei University of Architecture, Zhangjiakou, Hebei, China; bSchool of Management, Xi’an Jiaotong 
+University, Xi’an, China
+ABSTRACT
+In this study, five outdoor open areas were selected as the study sites to investigate the effects 
+of thermal and acoustic environments, physical activity levels, and pleasantness on evaluations 
+of the thermal and acoustic comfort in outdoor open spaces. Survey questionnaires and on-site 
+measurements were used to quantitatively assess human thermal and acoustic comfort in 
+outdoor spaces. The following findings were obtained in this study. The acoustic environment 
+affected the thermal sensation, where reducing excessive outdoor noise levels could enhance 
+thermal comfort. Increasing the physiological equivalent temperature amplified the acoustic 
+sensation. Individuals reported the most comfortable acoustic perception outdoors at 
+a physiological equivalent temperature of 30.1°C. Reducing both the thermal and acoustic 
+indices improved the overall comfort to some extent. Decreasing physical activity levels by an 
+appropriate amount enhanced the thermal comfort, acoustic comfort, and overall comfort. 
+Finally, maintaining a sense of pleasantness was conducive to increasing the thermal comfort, 
+acoustic comfort, and overall comfort. In states of moderate and pleasurable feelings (pleasant­
+ness level = 0, 1, 2, 3), increased acoustic comfort and pleasantness combined significantly 
+enhanced the thermal comfort.
+ARTICLE HISTORY 
+Received 8 May 2023 
+Accepted 4 December 2023 
+KEYWORDS 
+Outdoor thermal comfort; 
+interaction between thermal 
+and acoustic environments; 
+physical activity level; 
+pleasantness; cold region
+1. Introduction
+People often experience discomfort under various 
+environmental conditions due to the constantly chan­
+ging climate and local temperature, humidity, air con­
+vection, and other factors that affect urban surfaces, as 
+well as the urban heat island effect. Studies of these 
+issues have generally focused on the thermal environ­
+ment (Lai et al. 2014), acoustic environment (Zhang and 
+Kang 2007), lighting environment (Shi et al. 2022), air 
+quality (Lin et al. 2022), and interactions between multi­
+ple environmental factors (Astolfi, Corgnati, and Verso 
+2003; Du et al. 2023; Ricciardi and Buratti 2018; Wu et al. 
+2020). These studies encompassed a wide range of sites 
+and subjects, including indoor and outdoor spaces, such 
+as offices (Bourikas et al. 2021), hospitals (Abd Rahman 
+et al. 2022), libraries (Tang et al. 2023), sports stadiums 
+(Huang, Ma, and Zhang 2019), and urban squares (Ren 
+2023). Campus open spaces (Khalili, Fayaz, and 
+Zolfaghari 2022) have a diverse array of spatial typolo­
+gies and they are important research sites for investigat­
+ing individuals from various age groups, educational 
+backgrounds, and occupations, including students, tea­
+chers, administrative personnel, and certain family 
+members (Kang and Zhang 2010). Climate laboratories, 
+questionnaires, and field tests are commonly employed 
+as methods in this type of research. Climate laboratories 
+allow active control and restriction of the research con­
+ditions by eliminating most interference (Zhang et al. 
+2018). Combining questionnaire surveys with field tests 
+allows basic information and subjective experiences to 
+be collected from respondents’ (Wu et al. 2023), as well 
+as providing real-time measurements of the physical 
+environment at the survey location (Mohammadzadeh, 
+Karimi, and Brown 2023). However, a single environ­
+ment is not sufficient to meet the needs of some 
+research, and sites where multiple environmental fac­
+tors interact are more similar to real-world scenarios 
+(Astolfi, Corgnati, and Verso 2003; Du et al. 2023; 
+Ricciardi and Buratti 2018; Wu et al. 2020).
+In a study of the thermal environment, Chen et al. 
+found that the thermal comfort was influenced by the 
+climate and regional diversity, and the thermal sensa­
+tion was mainly related to the air temperature. In 
+Harbin, China, the acceptable range for the physiolo­
+gical equivalent temperature (PET) was determined as 
+2.5–30.9°C, and the neutral temperatures for PET in 
+spring, summer, autumn, and winter were obtained 
+as 18.7°C, 20.0°C, 21.9°C, and 18.0°C, respectively 
+(Chen et al. 2018). A study of the outdoor thermal 
+comfort in two ethnic groups with different thermal 
+perception and adaptation backgrounds found cross- 
+cultural differences in the thermal comfort between 
+CONTACT Lei Li 
+LL1924@hebiace.edu.cn 
+School of Architecture and Art, Hebei Univers
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study area
+The study was conducted in Xi’an City, which has 
+a warm temperate semi-humid continental monsoon 
+climate. The winter is cold and the spring is warm and 
+dry, with a hot and rainy summer, and a cool autumn. 
+In the study area, the average annual temperature 
+ranges from 13.1°C to 14.3°C, with average tempera­
+tures of −1.2°C to 0.5°C in January and 26.5°C to 27.0°C 
+in July. The extreme lowest and highest annual tem­
+peratures are −21.2°C and 43.4°C, respectively. The 
+annual precipitation ranges from 528.3 mm to 716.5 
+mm. The annual sunshine hours range from 1595.6 h to 
+2035.8 h. The prevailing wind in the Xi’an urban area is 
+the northeast wind throughout the year.
+The field measurements and other investigations in 
+this study were conducted at Xingqing Campus, Xi’an 
+Jiaotong University, Xi’an, Shaanxi Province (108.9902° 
+E, 34.2524°N). The campus is 1538 m wide and 1084 m 
+long, with diverse landscapes and acoustic environ­
+ments that are suitable for studying thermal – acoustic 
+interactions. Initially, a preliminary investigation was 
+conducted in the campus environment by considering 
+different environmental types and seasonal features. 
+As shown in Figure 1, we then selected five outdoor 
+spaces as the study sites comprising Cherry Blossom 
+East Road (CR), Phoenix Tree East Road (PR), Four Great 
+Inventions Square (IS), beside the Pool at Tengfei 
+Tower (TP), and East Garden Lawn (GL).
+2.2. Experimental design
+2.2.1. Meteorological measurements
+The survey was conducted during the spring in May 
+and June, 2022. The investigators collected physical 
+environment measurements in five survey areas, and 
+recorded meteorological parameters at a height of 
+1.2 m from the ground. Meteorological parameters 
+such as Ta, RH, Va, G, and Tg were measured 
+every minute, and the acoustic levels were measured 
+simultaneously. Table 1 shows the abbreviation. 
+Table 2 shows the equipment model, measurement 
+range, and accuracy for the instruments applied.
+2.2.2. Questionnaire survey
+Two investigators conducted a random survey of 
+pedestrians at the five study locations, where the 
+meteorological data and acoustic levels were simul­
+taneously measured, and relevant records were 
+made. The research questions were divided into 
+three parts. The first part collected general informa­
+tion about the respondents, including their demo­
+graphic characteristics (gender, age, ethnicity, place 
+Figure 1. Study area and selected sites.
+JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+369
+
+of origin, health status, clothing combinations, etc.), 
+social attributes (education level, occupation, 
+monthly income, whether they were local residents 
+of Xi’an, length of time living in Xi’an, etc.), and 
+status attributes (current or recent physical and 
+mental states, PAL, pleasantness, etc.). The second 
+part collected the thermal and acoustic perceptions 
+of respondents, as well as their overall perceptions, 
+including the thermal and acoustic sensation, ther­
+mal and acoustic comfort, and overall comfort. The 
+third part of the questionnaire was completed by 
+the investigators and it comprised details of the 
+weather conditions, temperature, relative humidity, 
+wind speed, black globe temperature, solar radia­
+tion, noise level, survey location, and specific time. 
+Seven-point Likert scales were used to measure the 
+thermal and acoustic sensation, thermal and acous­
+tic comfort, and overall comfort.
+2.3. Thermal and acoustic indices
+Several heat indices have been formulated and the 
+most commonly used validated indices include PET, 
+predicted mean vote, UTCI, and standard effective 
+temperature (Yin et al. 2022). PET is utilized as a tool 
+for assessing thermal comfort, and it allows compar­
+isons and evaluations of thermal comfort in various 
+environments. In recent years, PET has been applied 
+increasingly widely in research (Chen et al. 2018; 
+Mohammadzadeh, 
+Karimi, 
+and 
+Brown 
+2023). 
+Therefore, we calculated PET by using the RayMan 
+model as a thermal indicator to predict the thermal 
+comfort. Figure 2 shows the RayMan software calcula­
+tion interface. The RayMan model was developed 
+under the guidance of the Association of German 
+Table 1. Abbreviations used in the text.
+Abbreviation
+Definition
+TSV
+Thermal Sensation Vote
+MTSV
+Mean Thermal Sensation Vote
+TCV
+Thermal Comfort Vote
+MTCV
+Mean Thermal Comfort Vote
+ASV
+Acoustic Sensation Vote
+MASV
+Mean Acoustic Sensation Vote
+ACV
+Acoustic Comfort Vote
+MACV
+Mean Acoustic Comfort Vote
+OCV
+Overall Comfort Vote
+MOCV
+Mean Overall Comfort Vote
+PET
+Physiological Equivalent Temperature
+LAeq
+Weighted Equivalent Continuous Acoustic Level
+SD
+Standard Deviation
+PAL
+Physical Activity Level
+Table 2. Information about the instrument.
+Instrument
+Meteorological parameters
+Measurement range
+Measurement accuracy
+2020 multi-function tester (temperature and humidity sensor)
+Temperature
+−20°C to 125°C
+± 0.5°C
+JT2020 
+omnidirectional wind speed sensor
+Relative humidity
+0–100%
+± 3%
+Wind speed
+0.05–5 m/s
+± 0.03 m/s
+JT2020 globe temperature sensor
+Globe temperature
+−20°C to 85°C
+± 0.5°C
+AR844 digital noise meter
+Sound pressure levels
+30–130 dBA
+± 1.5 dB
+Figure 2. RayMan software calculation interface.
+370
+D. LIN ET AL.
+
+Engineers and it is suitable for various complex urban 
+spaces, including urban planning and design. The 
+RayMan model uses the most important meteorologi­
+cal parameter that affects the human energy balance 
+during clear weather comprising the mean radiant 
+temperature (which was calculated following ISO 
+7726 standards), as well as other meteorological para­
+meters (Ta, RH, Va, and G) and the individual character­
+istics of the respondents (such as their height, weight, 
+age, gender, clothing insulation, and metabolic rate). 
+The final output PET was used as a thermal comfort 
+evaluation indicator for urban bioclimate assessment 
+(Matzarakis, Rutz, and Mayer 2007). 
+To obtain thermal environment evaluation indicators, 
+we calculated the av
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, we then selected five outdoor 
+Table 1 shows the abbreviation. 
+Table 2 shows the equipment model, measurement 
+Figure 1. Study area and selected sites.
+Figure 2 shows the RayMan software calcula­
+Table 1. Abbreviations used in the text.
+Table 2. Information about the instrument.
+Figure 2. RayMan software calculation interface.
+Table 3. The respondents included 
+Figure 3 shows the thermal and acoustic perceptions 
+Figure 3(a) shows that 
+Figure 3(b) shows the TCVs given by the respon­
+Table 3. Basic information for the respondents.
+Figure 4(a) shows that the sum of the ASVs given 
+Figure 4(b) shows that the 
+Figure 3. TSV and TCV ratings for different open spaces on the 
+Figure 4. ASV and ACV ratings for different open spaces on the 
+Table 4. Standard deviation (SD), median (MED), and average (AVG) PET values (°C) 
+Table 4 shows that the average PET values varied 
+Figure 5 shows the rela­
+Figure 5. Effects of PET on MTSV and MTCV in different 
+Figure 6. Effects of PET on MASV and MACV in different 
+Figure 6 shows the relationships between PET and 
+Figure 7. The MTSV values mainly ranged 
+Figure 8 shows that significant correlations were 
+
+======================================================================
+
+### RECORD ID=1122 | screening_verdict=INCLUDE | year=2025
+JOURNAL: JOURNAL OF ENVIRONMENTAL PSYCHOLOGY
+TITLE: Effects of natural sound tempo and social conditions on social Interaction: An interactive virtual experiment
+DOI: 10.1016/j.jenvp.2025.102630
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Effects of natural sound tempo and social conditions on social Interaction: 
+An interactive virtual experiment
+Xiaochao Chen
+, Jian Kang *
+Institute for Environmental Design and Engineering, The Bartlett, University College London, London, WC1H 0NN, UK
+A R T I C L E I N F O
+Keywords:
+Natural sound
+Sound tempo
+Social interaction
+Urban park
+Environmental influence
+A B S T R A C T
+Although natural sounds are widely known to positively affect human well-being, the influence of natural sound 
+tempo, a potentially significant factor in shaping emotional and behavioral responses, remains underexplored 
+within environmental psychology. This study examines the impact of the tempo of natural sounds on individuals’ 
+willingness for social interaction using a virtual site tour approach. Scenarios were created in Unity 3D, incor­
+porating environmental sounds like birdsong and water fountains typically found in urban parks. Participants 
+freely explored the simulated site and interacted with non-player characters, with their behaviors recorded. Their 
+personal social condition, evaluations of the sound environment, and willingness for social interaction were 
+assessed through questionnaires. This study found that faster water sound tempos significantly increased the 
+willingness for social interaction among individuals with medium to high levels of personal social condition. 
+However, changes in birdsong tempo had no significant effect on social interaction willingness. Participants with 
+higher levels of social condition showed over 11 % greater willingness for social interaction and more positive 
+evaluations of the sound environment. These findings highlight the role of sound tempo in influencing social 
+behaviors, which may contribute to the development of environmental psychology and offer practical insights for 
+urban soundscape design.
+1. Introduction
+As urbanization continues to expand globally, urban planners and 
+environmental designers face increasing challenges in creating healthy 
+and livable cities. Among the various factors influencing urban life 
+quality, the sound environment plays a vital role. Research shows that 
+natural sounds in urban spaces not only enhance individual well-being 
+and health but also improve the overall urban experience and foster 
+social interactions (Alvarsson et al., 2010; X. Chen & Kang, 2023; Fisher 
+et al., 2021). Further exploring the specific effects of different natural 
+sounds can offer valuable insights for shaping future urban design 
+practices. This paper investigates the relationship between the tempo of 
+natural sounds and people’s willingness for social interaction, aiming to 
+integrate well-paced natural sounds into urban spaces to promote more 
+meaningful social engagement.
+1.1. Urban sound environment and social interaction
+The global urbanization process has rapidly increased urban 
+populations, making the creation of better urban living environments a 
+significant and enduring focus (Ventriglio et al., 2021). The sound 
+environment, a critical component of urban settings, significantly im­
+pacts human health, psychology, and behavior (Andringa & Lanser, 
+2013; Kang & Schulte-Fortkamp, 2016; Stansfeld et al., 2000). Urban 
+noise from sources like traffic, construction, and human activities is 
+considered a major threat to the quality of life and health of urban 
+residents (Passchier-Vermeer & Passchier, 2000; Salomons & Pont, 
+2012). Extensive research has linked prolonged exposure to excessive 
+urban noise with numerous health issues, including hearing loss, car­
+diovascular diseases, and increased psychological stress (Beutel et al., 
+2016; Daniel, 2007; Münzel et al., 2021). Furthermore, noise pollution 
+significantly affects work and daily life by reducing work efficiency, 
+impairing sleep quality, diminishing life satisfaction, and weakening 
+cognitive functions, which can adversely affect children’s development 
+and language acquisition (Klatte et al., 2013; Muzet, 2007; Orru et al., 
+2016; Pal & Bhattacharya, 2012).
+In addition to these health concerns, social interaction is a vital 
+component of psychological well-being and social functioning, and it is 
+* Corresponding author. Central House, 14 Upper Woburn Pl, London, WC1H 0NN, UK.
+E-mail addresses: xiaochao.chen.20@ucl.ac.uk (X. Chen), j.kang@ucl.ac.uk (J. Kang). 
+Contents lists available at ScienceDirect
+Journal of Environmental Psychology
+journal homepage: www.elsevier.com/locate/jep
+https://doi.org/10.1016/j.jenvp.2025.102630
+Received 27 September 2024; Received in revised form 13 May 2025; Accepted 14 May 2025 
+Journal of Environmental Psychology 104 (2025) 102630 
+Available online 15 May 2025 
+0272-4944/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+receiving increasing attention in modern society (Sun et al., 2020). For 
+individuals, social interaction provides emotional support and reduces 
+loneliness, with substantial research demonstrating the connection be­
+tween social engagement and personal health (Fiorillo & Sabatini, 2011; 
+Kuczynski et al., 2022). At the societal level, robust social networks and 
+neighborhood integration contribute to social stability (German & Lat­
+kin, 2012). However, poor urban environments often negatively impact 
+social interactions. High urban density with insufficient public spaces 
+and noisy environments can lead to mental health deterioration (Wei 
+et al., 2021), and reduced opportunities for social interaction. Emerging 
+soundscape research has increasingly highlighted the beneficial impacts 
+of a well-designed urban sound environment, particularly in shaping 
+human behavior and fostering social cohesion (Kang et al., 2016). It was 
+found that natural sounds such as birdsong and water features 
+encourage social interactions in urban parks and residential areas (X. 
+Chen, Kang, & Wang, 2024; X. Chen & Kang, 2023) while personal social 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+This study developed a novel virtual site interactive tour method to 
+investigate how sound tempo influences individuals’ willingness to 
+engage in social interactions among individuals with varying social 
+conditions. Traditional methods for studying the influence of sound 
+environments on individuals primarily include laboratory experiments, 
+field surveys, and online questionnaires. However, these methods are 
+insufficient to meet the objectives of this study. Participation in labo­
+ratory experiments or surveys inherently involves social interaction, 
+which may attract individuals already inclined towards social 
+engagement. Since this study also seeks to explore the influence of sound 
+environment changes on individuals with lower social interaction levels, 
+an online method that avoids direct human contact may reduce partic­
+ipant bias. A virtual city park scenario was developed using Unity3D, 
+incorporating a social interaction system for participants to explore 
+online. During the tour, participants control a character to move freely 
+and interact with non-player characters. After the tour, participants 
+were asked to complete a questionnaire covering their personal social 
+conditions, tour experiences, sound environment evaluations, and per­
+sonal information such as gender and age.
+2.1. Sound sources
+This study selected birdsong and water sounds as sound sources due 
+to their prevalence in urban environments and their potential to 
+enhance social interactions. Research has identified water sounds, 
+birdsong, and music as the three preferred types of sounds in urban 
+environments. Surveys indicate that over 75 % of respondents express a 
+positive attitude toward water and bird sounds, whereas fewer than 10 
+% find these sounds disturbing (Carles et al., 1999; Yang & Kang, 
+2005b). This highlights the widespread public preference for natural 
+sounds in urban settings. Studies have also shown that different types of 
+birdsong exhibit varying effects on perceived restorativeness, but 
+overall, the introduction of multiple bird species’ vocalizations tends to 
+enhance the perceived restorativeness of a site (Zhao et al., 2020). Given 
+that birdsong in natural environments is typically not singular, this 
+study selected a mixed birdsong recorded in an urban park as the sound 
+source. This mixed birdsong more closely replicates real ecological en­
+vironments, providing a better simulation of the actual auditory expe­
+rience in urban parks. Regarding water sounds, different types of water 
+sounds may evoke distinct feelings. Some research has found that nat­
+ural water sounds are more calming than artificial ones (G. R. Watts 
+et al., 2009), while other studies have revealed that fountain sounds are 
+preferred over waterfall sounds (Galbrun & Ali, 2013). This study 
+selected fountain sound as the water sound source, as fountains are 
+common landscape elements in urban parks, and their volume and 
+tempo can be controlled by adjusting water pressure and flow. It is 
+important to note that although both birdsong and water sound are 
+categorized as natural sounds, they exhibit significant differences in 
+signal characteristics and should be considered distinct auditory stimuli. 
+As such, they cannot collectively represent the overall characteristics of 
+natural sounds. This study simulated these two sound environments 
+separately, and data from each condition were analyzed independently.
+As natural sounds differ from music, specific BPM (beats per minute) 
+values are not applicable. Therefore, the duration of a selected bird 
+sound and a water sound was adjusted by shortening or extending them 
+using audio editing software, without altering the pitch, to modify the 
+tempo. A preliminary study was conducted to establish the acceptable 
+Fig. 1. Key variables in this study.
+X. Chen and J. Kang 
+Journal of Environmental Psychology 104 (2025) 102630 
+3 
+
+range of tempo variations to avoid unrealistic sound effects from 
+excessive tempo adjustments. In this preliminary study, the tempo of a 
+mixed birdsong sound and a water sound was adjusted ranging from a 
+70 % compression to a 70 % extension, with a 10 % change per segment, 
+resulting in 15 different tempo segments per sound. Ten participants 
+without hearing problems were invited to identify the range of tempo 
+variations they perceived as natural. The preliminary study concluded 
+that a 30 % tempo variation fell within the acceptable range. Conse­
+quently, in this study, the tempo of birdsong and water sounds was 
+adjusted by 30 %, producing slow (30 % compression), medium (initial), 
+and fast (30 % extension) tempo variations. Fig. 2 shows the spectro­
+grams of the sound sources used in this study.
+2.2. Virtual scene reproduction
+This study employed Unity3D to develop a virtual city park scene to 
+ensure consistency between the auditory stimuli and the environment. 
+Introducing natural sounds into an artificial setting lacking natural el­
+ements could potentially create a sense of incongruity between the 
+auditory stimuli and the visual context, thereby influencing partici­
+pants’ authentic responses. It is acknowledged that some studies have 
+demonstrated the positive impacts of introducing natural sounds into 
+artificial or urbanized environments (Coensel et al., 2011; Hong et al., 
+2020; Van Renterghem et al., 2020). However, to minimize confounding 
+factors and ensure a focused assessment of sound effects on social 
+interaction, the present study employed a park environment as the 
+experimental setting. The scene design primarily consists of four mod­
+ules: physical environment, non-player character system, character 
+control and dialogue system, and acoustic environment.
+Urban parks provide opportunities for individuals to connect with 
+others, particularly through the use of specific locations within the park, 
+thereby enhancing social cohesion (Peters et al., 2010). Social in­
+teractions are more likely to occur in certa
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. 
+Fig. 1. Key variables in this study.
+Fig. 2 shows the spectro­
+Fig. 3. The site is enclosed by vegetation and undulating grassy 
+Fig. 3, A 
+Fig. 2. Spectrograms of the slow, medium, and fast-tempo sound sources used in this study.
+Fig. 4.
+Fig. 3. The plan and the aerial view of the virtual scene.
+Fig. 5, ensuring that participants experience a 
+Fig. 5. As participants 
+Table 1). Participants were 
+Fig. 4. The started location for non-player characters and three paths in low-density and high-density scenarios.
+Fig. 5. The location of birdsong and water sound sources in the scenarios.
+Table 1 
+Fig. 6 presents the distribution of social support scores 
+Table 2. Similarly, Fig. 7 illustrates the distribution of social 
+Table 3. The results indicate that the distribution of these scores 
+Table 4). The sound tempos 
+Fig. 6. The violin plot shows the social support score distribution among all participants and participants in 12 different scenarios.
+Fig. 8 shows the boxplots of participants’ willingness to 
+Table 2 
+Fig. 7. The violin plot shows the distribution of social connection score among all participants and participants in 12 different scenarios.
+Table 3 
+Fig. 9 shows the boxplots of participants’ 
+Table 4 
+
+======================================================================
+
+### RECORD ID=1141 | screening_verdict=INCLUDE | year=2025
+JOURNAL: URBAN FORESTRY & URBAN GREENING
+TITLE: How objective and subjective greenspace, combined with air and noise pollution, impacts mental health through the mediation of physical activity
+DOI: 10.1016/j.ufug.2025.128683
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+How objective and subjective greenspace, combined with air and noise 
+pollution, impacts mental health through the mediation of physical activity
+Zhenchuan Yang a,1, Mei-Po Kwan a,b,*,2
+, Dong Liu a,c,3, Jianwei Huang a,4
+a Institute of Space and Earth Information Science, Fok Ying Tung Remote Sensing Science Building, The Chinese University of Hong Kong, Shatin, Hong Kong, China
+b Department of Geography and Resource Management, Wong Foo Yuan Building, The Chinese University of Hong Kong, Shatin, Hong Kong, China
+c School of Humanities and Social Science, Teaching Complex B, The Chinese University of Hong Kong, Shenzhen, China
+A R T I C L E I N F O
+Handling Editor: Dr Cecil Konijnendijk van den 
+Bosch
+Keywords:
+Greenspace
+Air pollution
+Noise pollution
+Physical activity
+Mental health
+Combined effects
+Mediation
+A B S T R A C T
+Global mental health is facing challenges. Environmental factors, such as enhanced greenspace and reduced air 
+and noise pollution, alongside physical activity, are assumed to be significant promoters of mental health. 
+However, previous studies have not thoroughly investigated the combined effects of greenspace, air pollution, 
+noise pollution, and physical activity regarding their impact on mental health. Moreover, there is a scant 
+consideration of the subjective versus objective assessments of greenspace exposure. Therefore, this study aims to 
+bridge these gaps by systematically exploring how objective and subjective greenspace, combined with air and 
+noise pollution, impacts mental health through the mediation of physical activity. Data were gathered from 683 
+participants in Hong Kong between November 19, 2021 and April 6, 2023, supplemented by NDVI data from 
+Sentinel-2. Structural equation modeling and mediation analyses were employed. The findings indicated that (1) 
+Objective greenspace does not necessarily affect perceived and real usage of greenspace; rather, the quality of 
+greenspace plays a more critical role; (2) Physical activity significantly mediates the relationships between 
+greenspace, air pollution, and noise pollution and mental health, with a more pronounced effect for greenspace; 
+(3) Combined effects showed that greenspace has the most substantial total effect on mental health, followed by 
+air pollution and noise pollution. Our study enriches the existing literature and suggests the necessity of inte­
+grating urban greenspace planning with environmental governance, focusing particularly on greenspace quality.
+1. Introduction
+Mental health, recognized as a fundamental human right, has 
+attracted increasing attention from scholars, practitioners, and policy­
+makers (Patel et al., 2018). The Lancet and World Health Organization 
+(WHO) emphasized that “there is no health without mental health” 
+(Prince et al., 2007; WHO, 2021). Despite this recognition, the global 
+mental health situation remains challenging, with approximately 970 
+million individuals suffering from mental disorders in 2019, facing a 
+reduced life expectancy of 10–20 years compared to the general popu­
+lation (WHO, 2024). Therefore, addressing this crisis through effective 
+and efficient interventions to improve mental health is imperative.
+Scholars have documented the solid effects of environmental factors 
+on mental health, which allows us to protect citizens’ mental health by 
+carefully constructing and managing urban environments, including 
+greenspace, air pollution, and noise pollution. Specifically, the role of 
+neighborhood greenspace has been extensively investigated, with a 
+consensus emerging that well-maintained greenspace is beneficial for 
+mental health through two prominent mechanistic pathways: attention 
+restoration theory (ART) and stress reduction theory (SRT) (Collins 
+et al., 2020; Dzhambov et al., 2018; Nutsford et al., 2013). Objective 
+greenspace metrics, including neighborhood greenness and greenspace 
+* Corresponding author at: Institute of Space and Earth Information Science, Fok Ying Tung Remote Sensing Science Building, The Chinese University of Hong 
+Kong, Shatin, Hong Kong, China.
+E-mail addresses: zhenchuan.yang@link.cuhk.edu.hk (Z. Yang), mpk654@gmail.com (M.-P. Kwan), dongliu@cuhk.edu.cn (D. Liu), jianwei.huang@link.cuhk.edu. 
+hk (J. Huang). 
+1 ORCID: 0000–0002-0802–7510
+2 ORCID: 0000–0001-8602–9258
+3 ORCID: 0000–0001-9090–5732
+4 ORCID: 0000–0002-2230–3446
+Contents lists available at ScienceDirect
+Urban Forestry & Urban Greening
+journal homepage: www.elsevier.com/locate/ufug
+https://doi.org/10.1016/j.ufug.2025.128683
+Received 6 September 2024; Received in revised form 6 January 2025; Accepted 16 January 2025 
+Urban Forestry & Urban Greening 105 (2025) 128683 
+Available online 21 January 2025 
+1618-8667/© 
+2025 
+The 
+Author(s). 
+Published 
+by 
+Elsevier 
+GmbH. 
+This 
+is 
+an 
+open 
+access 
+article 
+under 
+the 
+CC 
+BY-NC-ND 
+license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ ). 
+
+accessibility, have been linked to mental health. Empirical studies in 
+Beijing and Guangzhou, China, have demonstrated positive associations 
+between neighborhood greenness–quantified using the Normalized 
+Difference Vegetation Index (NDVI) and street view imagery–and 
+mental health (Qin et al., 2021; Wang et al., 2022). Furthermore, 
+greenspace accessibility, defined as access to open greenspace, has been 
+associated with reductions in self-reported depression and anxiety, 
+although this association is weaker and less certain (Houlden et al., 
+2018; Triguero-Mas et al., 2015). Recent research has also emphasized 
+the significance of self-perceived neighborhood greenspace (i.e., the 
+quality of greenspace), which encompasses factors such as aesthetics 
+and safety. For example, Wu et al. (2023) suggested that both quantity 
+(availability and accessibility) and quality (attractiveness and natural 
+aesthetics) of greenspace positively influence life satisfaction, with 
+quality having a more pronounced effect. According to socio-ecological 
+models of health, bot
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Funding acquisition, 
+Conceptualization. Dong Liu: Writing – review & editing, Methodology, 
+Conceptualization. Jianwei Huang: Writing – review & editing, 
+Methodology.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgments
+We thank the editor and the reviewers for their helpful comments. In 
+addition, we would also like to express our gratitude to all the partici­
+pants who generously devoted their time to the study.
+Informed consent statement
+Informed consent was obtained from all participants before data 
+were collected from them.
+Appendix A. Supporting information
+Supplementary data associated with this article can be found in the 
+online version at doi:10.1016/j.ufug.2025.128683.
+References
+Althubaiti, A., 2016. Information bias in health research: definition, pitfalls, and 
+adjustment methods. J. Multidiscip. Healthc. 9, 211–217. https://doi.org/10.2147/ 
+JMDH.S104807.
+An, R., Shen, J., Ying, B., Tainio, M., Andersen, Z.J., de Nazelle, A., 2019. Impact of 
+ambient air pollution on physical activity and sedentary behavior in China: a 
+systematic review, 2 Environ. Res. 176, 108545. https://doi.org/10.1016/j. 
+envres.2019.108545.
+An, R., Zhang, S., Ji, M., Guan, C., 2018. Impact of ambient air pollution on physical 
+activity among adults: a systematic review and meta-analysis. Perspect. Public 
+Health 138 (2), 111–121. https://doi.org/10.1177/1757913917726567.
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a review 
+and recommended two-step approach. Psychol. Bull. 103 (3), 411–423. https://doi. 
+org/10.1037/0033-2909.103.3.411.
+Bentler, P.M., Bonett, D.G., 1980. Significance tests and goodness of fit in the analysis of 
+covariance structures. Psychol. Bull. 88 (3), 588–606. https://doi.org/10.1037/ 
+0033-2909.88.3.588.
+Brindley, P., Cameron, R.W., Ersoy, E., Jorgensen, A., Maheswaran, R., 2019. Is more 
+always better? Exploring field survey and social media indicators of quality of urban 
+greenspace, in relation to health. Urban For. Urban Green. 39, 45–54. https://doi. 
+org/10.1016/j.ufug.2019.01.015.
+Chen, M., Dai, F., Yang, B., Zhu, S., 2019. Effects of neighborhood green space on PM2.5 
+mitigation: evidence from five megacities in China. Build. Environ. 156, 33–45. 
+https://doi.org/10.1016/j.buildenv.2019.03.007.
+Cobbold, A.T., Crane, M.A., Knibbs, L.D., Hanigan, I.C., Greaves, S.P., Rissel, C.E., 2022. 
+Perceptions of air quality and concern for health in relation to long-term air 
+pollution exposure, bushfires, and COVID-19 lockdown: a before-and-after study. 
+J. Clim. Change Health 6, 100137. https://doi.org/10.1016/j.joclim.2022.100137.
+Collier, J., 2020. Applied Structural Equation Modeling using AMOS: Basic to Advanced 
+Techniques. Routledge. https://doi.org/10.4324/9781003018414.
+Collins, R.M., Spake, R., Brown, K.A., Ogutu, B.O., Smith, D., Eigenbrod, F., 2020. 
+A systematic map of research exploring the effect of greenspace on mental health. 
+Landsc. Urban Plan. 201, 103823. https://doi.org/10.1016/j. 
+landurbplan.2020.103823.
+Craig, C.L., Marshall, A.L., Sj¨ostr¨om, M., Bauman, A.E., Booth, M.L., Ainsworth, B.E., 
+Pratt, M., Ekelund, U.L.F., Yngve, A., Sallis, J.F., 2003. International physical activity 
+questionnaire: 12-country reliability and validity. Med. Sci. Sports Exerc. 35 (8), 
+1381–1395.
+Cunningham, C., O’ Sullivan, R., Caserotti, P., Tully, M.A., 2020. Consequences of 
+physical inactivity in older adults: a systematic review of reviews and meta-analyses. 
+Scand. J. Med. Sci. Sports 30 (5), 816–827. https://doi.org/10.1111/sms.13616.
+de Vries, S., van Dillen, S.M.E., Groenewegen, P.P., Spreeuwenberg, P., 2013. Streetscape 
+greenery and health: stress, social cohesion and physical activity as mediators. Soc. 
+Sci. Med. 94, 26–33. https://doi.org/10.1016/j.socscimed.2013.06.030.
+Dillen, S.M.E. van, Vries, S. de, Groenewegen, P.P., Spreeuwenberg, P., 2012. Greenspace 
+in urban neighbourhoods and residents’ health: adding quality to quantity. e8–e8 
+J. Epidemiol. Community Health 66 (6). https://doi.org/10.1136/ 
+jech.2009.104695.
+Dzhambov, A., Hartig, T., Markevych, I., Tilov, B., Dimitrova, D., 2018. Urban residential 
+greenspace and mental health in youth: Different approaches to testing multiple 
+pathways yield different conclusions. Environ. Res. 160, 47–59. https://doi.org/ 
+10.1016/j.envres.2017.09.015.
+Dzhambov, A.M., Dimitrova, D.D., 2014. Urban green spaces′ effectiveness as a 
+psychological buffer for the negative health impact of noise pollution: a systematic 
+review. Noise Health 16 (70), 157. https://doi.org/10.4103/1463-1741.134916.
+Dzhambov, A.M., Dimitrova, D.D., 2015. Green spaces and environmental noise 
+perception. Urban For. Urban Green. 14 (4), 1000–1008. https://doi.org/10.1016/j. 
+ufug.2015.09.006.
+Dzhambov, A.M., Markevych, I., Tilov, B., Arabadzhiev, Z., Stoyanov, D., Gatseva, P., 
+Dimitrova, D.D., 2018. Pathways linking residential noise and air pollution to mental 
+ill-health in young adults. Environ. Res. 166, 458–465. https://doi.org/10.1016/j. 
+envres.2018.06.031.
+Dzhambov, A., Tilov, B., Markevych, I., Dimitrova, D., 2017. Residential road traffic 
+noise and general mental health in youth: the role of noise annoyance, neighborhood 
+restorative quality, physical activity, and social cohesion as potential mediators. 
+Environ. Int. 109, 1–9. https://doi.org/10.1016/j.envint.2017.09.009.
+Echeverría, S., Diez-Roux, A.V., Shea, S., Borrell, L.N., Jackson, S., 2008. Associations of 
+neighborhood problems and neighborhood social cohesion with mental health and 
+health behaviors: the multi-ethnic study of atherosclerosis. Health Place 14 (4), 
+853–865. https://doi.org/10.1016/j.healthplace.2008.01.004.
+Z. Yang et al. 
+Urban Forestry & Urban Greening 105 (2025) 128683 
+11 
+
+Foraster, M., Eze, I.C., Vienneau, D., Brink, M., Cajochen
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. This study collected survey data 
+Fig. 1 signify observed variables that can be 
+Fig. 2). The participant 
+Table 1. The average 
+Fig. 1. A conceptual framework of the relationships among greenspace, air pollution, noise pollution, physical activity, and mental health.
+Fig. 2. The four research communities in New Territories West, New Territories East, Kowloon, and Hong Kong Island regions of Hong Kong.
+Table 1 
+Table 2. The p-value column 
+Fig. 1. The estimated SEM had an adequate fit to the data, with most fit 
+Fig. 3, and the results of the full structural model with cova­
+Table 2 
+Table 2 (continued)
+Table 3 reported observed and standardized direct, indirect, and 
+Fig. 3. Estimated standardized coefficients (β) of the full structural equation model, adjusted for all covariates. Values in parentheses are bootstrap standard error
+Table 3 
+Fig. 3). Nevertheless, our sensitivity analysis revealed that objective 
+Table 2). However, these mediation effects were modest. These results 
+Table 2). This finding lends support to the prevailing view 
+Fig. 3) indicated that 
+
+======================================================================
+
+### RECORD ID=1149 | screening_verdict=INCLUDE | year=2025
+JOURNAL: ARTS & HEALTH
+TITLE: Landscapes of silence: designing quiet art spaces for inner peace in urban chaos
+DOI: 10.1080/17533015.2025.2593865
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Landscapes of silence: designing quiet art spaces for inner 
+peace in urban chaos
+Hang Yu
+Faculty of Design and Architecture, University Putra Malaysia, Serdang, Selangor, Malaysia
+ABSTRACT
+Background: Urban environments increasingly cause sensory over­
+load and psychological fatigue. Green spaces offer some relief, but 
+few designs use silence as a therapeutic tool.
+Aims: This study introduces Silent Art Landscapes (SALs), urban 
+spaces that combine art and sound-moderating features. It explores 
+how contemplative, acoustically sensitive landscapes can support 
+inner peace and mental well-being in cities.
+Methods: Using a mixed-methods approach, we conducted envir­
+onmental soundscape assessments, on-site behavioral observa­
+tions, and semi-structured interviews at three quiet urban art 
+installations in dense metropolitan areas.
+Results: Participants reported reduced anxiety, heightened emo­
+tional clarity, and a sense of “mental refuge.” Reflective surfaces, 
+sound-dampening topography, and interactive light-and-shadow 
+installations contributed to a sense of tranquility.
+Conclusions: This research demonstrates the potential of SALs as 
+non-pharmacological multisensory interventions. This approach 
+offers valuable implications for future urban planning, therapeutic 
+design, and public health policy.
+ARTICLE HISTORY 
+Received 21 July 2025 
+Accepted 18 November 2025 
+KEYWORDS 
+Silent art landscapes (SALs); 
+urban mental well-being; 
+soundscape design; 
+contemplative spaces; 
+therapeutic landscape 
+interventions
+Introduction
+The urban condition and the rise of sensory overload
+Modern urban settings bombard residents with constant noise, visual clutter, and infor­
+mation overload. These factors cause ongoing psychological strain and emotional imbal­
+ance (Fan et al., 2025; Stansfeld & Clark, 2015; Xu et al., 2023). Research shows that noise 
+from traffic and construction, especially, increases stress, worsens sleep, and lowers focus 
+(Basner et al., 2013; WHO, 2018).
+Green spaces in cities are known for their restorative effects (Hartig et al., 2014; Zhao 
+et al., 2023). However, designers do not always prioritize tranquility and silence. Outdoor 
+fitness zones, playgrounds, and visual installations often turn these spaces into busy hubs. 
+They rarely become quiet places for retreat or contemplation. This highlights a design 
+gap: cities need quiet refuges that combine art and landscape to enable healing through 
+silence.
+CONTACT Hang Yu 
+380412925@qq.com 
+Faculty of Design and Architecture, University Putra Malaysia, No. 62 
+Baita Road, Dadong District, Shenyang City, Liaoning Province, China
+ARTS & HEALTH 
+https://doi.org/10.1080/17533015.2025.2593865
+© 2025 Informa UK Limited, trading as Taylor & Francis Group 
+
+Urban sensory overload limits emotional recovery, especially in poorer neighborhoods. 
+Urban theorists argue that restorative spaces should be available to everyone (Low, 2016). 
+The SALs in this study offer public quiet havens that support mental health for all social 
+groups. This aligns with the idea that daily urban interactions shape identity (Lin et al., 
+2022).
+Silence as a therapeutic medium
+Silence is not just the absence of sound. It has cognitive, emotional, and even spiritual 
+implications (Walkikar, 2024). The health literature links silence to lower cortisol levels and 
+better autonomic balance. It is also tied to greater introspective awareness (Bernardi et al., 
+2009). Neurologically, quiet environments stimulate the brain’s default mode network. 
+This network helps with self-reflection and mental restoration (Raichle, 2015).
+Few designers intentionally set silence as a design goal. Most healing landscapes 
+emphasize appearance or ecology, using plants and visuals to calm visitors (Bell et al., 
+2022; Marcus & Sachs, 2013). SALs differ by using art to enhance quiet rather than just 
+blocking noise, as in parks. Designers consciously blend art and sound design to support 
+well-being (Kang & Schulte-Fortkamp, 2016). Hosseini and Kowkabi (2023) showed that 
+sound shapes well-being, but many urban designers neglect this need.
+From soundscapes to silent art landscapes
+SALs are small city landscapes that combine art and sound control. These spaces reduce 
+noise and feature art that encourages calm and emotional recovery. 
+These spaces may include elements such as: 
+Sound-dampening topography (e.g. berms, earth mounds) 
+Reflective surfaces that direct light but diffuse sound 
+Art installations that create minimal, ambient, or meditative sounds 
+Visual and spatial cues that encourage stillness and introspection
+SALs embody a design philosophy that combines quiet landscapes with sound ecol­
+ogy. Designers use earth mounds to block external noise, surfaces to reflect beneficial 
+sounds, and calming sound art installations. These elements aim to create peaceful 
+environments (Marcus & Sachs, 2013; Paraskevopoulou & Kamperi, 2018). Sound design 
+in landscape projects directly reduces stress and improves well-being (Aletta, Kang, et al., 
+2016; Payne, 2012).
+Art as environmental intervention in public health
+Art projects now promote mental health, such as through murals or workshops (Del Río 
+Diéguez et al., 2024; Fancourt & Finn, 2019). These activities lower anxiety, help people 
+manage emotions, and build connections (Camic & Chatterjee, 2013; Guo et al., 2025). 
+2
+H. YU
+
+Most projects remain temporary, which limits their long-term benefits. Without lasting 
+structures, these projects become harder to sustain and cannot deliver lasting mental 
+health help.
+Short-term art projects like earthworks engage people, but SALs differ. They last, 
+connect to their locations, and offer calm. Unlike temporary art, SALs create steady, 
+peaceful “third spaces” – sites that are neither home nor work but support emotional 
+health (Oldenburg, 1999). This study treats SALs as spaces that help people manage 
+emotions and recover mentally in cities.
+Research shows that even small urban art 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Project administration, Resources, Software, Supervision, Validation, 
+Visualization, Writing – original draft, Writing – review & editing.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+ORCID
+Hang Yu 
+http://orcid.org/0009-0000-8477-3358
+Data availability statement
+Due to the nature of this research, participants did not agree to have their data shared publicly, so 
+supporting data is not available.
+Ethics statement
+This study received ethical approved from Universiti Putra Malaysia.
+20
+H. YU
+
+References
+Abdelmoula, E., Abdelmoula, B., & Abdelmoula, N. B. (2024). Natural soundscapes, urban design and 
+psychological well-being. European Psychiatry, 67(S1), S680. https://doi.org/10.1192/j.eurpsy. 
+2024.1414 
+Aletta, F., Kang, J., & Axelsson, Ö. (2016). Soundscape descriptors and a conceptual framework for 
+developing predictive soundscape models. Landscape and Urban Planning, 149, 65–74. https:// 
+doi.org/10.1016/j.landurbplan.2016.02.001 
+Aletta, F., Oberman, T., & Kang, J. (2018). Associations between positive health-related effects and 
+soundscapes perceptual constructs: A systematic review. International Journal of Environmental 
+Research and Public Health, 15(11), 2392. https://doi.org/10.3390/ijerph15112392 
+Antonovsky, A. (1996). The salutogenic model as a theory to guide health promotion. Health 
+Promotion International, 11(1), 11–18. https://doi.org/10.1093/heapro/11.1.11 
+Axelsson, Ö., Nilsson, M. E., & Berglund, B. (2010). A principal components model of soundscape 
+perception. Journal of the Acoustical Society of America, 128(5), 2836–2846. https://doi.org/10. 
+1121/1.3493436 
+Basner, M., Babisch, W., Davis, A., Brink, M., Clark, C., Janssen, S., & Stansfeld, S. (2013). Auditory and 
+non-auditory effects of noise on health. Lancet, 383(9925), 1325–1332. https://doi.org/10.1016/ 
+s0140-6736(13)61613-x 
+Bell, S., Hickman, C., & Houghton, F. (2022). From therapeutic landscape to therapeutic ‘sensescape’ 
+experiences with nature? A scoping review. Wellbeing, Space and Society, 4, 100126. https://doi. 
+org/10.1016/j.wss.2022.100126 
+Bell, S. L., Wheeler, B. W., & Phoenix, C. (2016). Using geonarratives to explore the diverse tempor­
+alities of therapeutic landscapes: Perspectives from “green” and “blue” settings. Annals of the 
+American Association of Geographers, 107(1), 93–108. https://doi.org/10.1080/24694452.2016. 
+1218269 
+Berleant, A. (2013). What is aesthetic engagement? DOAJ (DOAJ: Directory of Open Access Journals). 
+https://doaj.org/article/c7e225dc654f4c1da0547bebdd14d421 
+Berman, M. G., Kross, E., Krpan, K. M., Askren, M. K., Burson, A., Deldin, P. J., Kaplan, S., Sherdell, L., 
+Gotlib, I. H., & Jonides, J. (2012). Interacting with nature improves cognition and affect for 
+individuals with depression. Journal of Affective Disorders, 140(3), 300–305. https://doi.org/10. 
+1016/j.jad.2012.03.012 
+Bernardi, L., Porta, C., Casucci, G., Balsamo, R., Bernardi, N. F., Fogari, R., & Sleight, P. (2009). Dynamic 
+interactions between musical, cardiovascular, and cerebral rhythms in humans. Circulation, 119 
+(25), 3171–3180. https://doi.org/10.1161/circulationaha.108.806174 
+Bishop, F. L. (2014). Using mixed methods research designs in health psychology: An illustrated 
+discussion from a pragmatist perspective. British Journal of Health Psychology, 20(1), 5–20. https:// 
+doi.org/10.1111/bjhp.12122 
+Bratman, G. N., Anderson, C. B., Berman, M. G., Cochran, B., De Vries, S., Flanders, J., Folke, C., 
+Frumkin, H., Gross, J. J., Hartig, T., Kahn, P. H., Kuo, M., Lawler, J. J., Levin, P. S., Lindahl, T., Meyer- 
+Lindenberg, A., Mitchell, R., Ouyang, Z.Roe, J. . . . Zheng, H. (2019). Nature and mental health: An 
+ecosystem service perspective. Science Advances, 5(7). https://doi.org/10.1126/sciadv.aax0903 
+Braun, V., & Clarke, V. (2021). Thematic analysis: A practical guide. SAGE.
+Brown, D. K., Barton, J. L., & Gladwell, V. F. (2013). Viewing nature scenes positively affects recovery of 
+autonomic function following acute-mental stress. Environmental Science and Technology, 47(11), 
+5562–5569. https://doi.org/10.1021/es305019p 
+Camic, P. M., & Chatterjee, H. J. (2013). Museums and art galleries as partners for public health 
+interventions. Perspectives 
+in 
+Public 
+Health, 133(1), 66–71. https://doi.org/10.1177/ 
+1757913912468523 
+Carhart-Harris, R. L., Bolstridge, M., Day, C. M. J., Rucker, J., Watts, R., Erritzoe, D. E., Kaelen, M., 
+Giribaldi, B., Bloomfield, M., Pilling, S., Rickard, J. A., Forbes, B., Feilding, A., Taylor, D., Curran, H. V., 
+& Nutt, D. J. (2017). Psilocybin with psychological support for treatment-resistant depression: 
+Six-month follow-up. Psychopharmacology, 235(2), 399–408. https://doi.org/10.1007/s00213-017- 
+4771-x 
+ARTS & HEALTH
+21
+
+Carlson, A., & Lintott, S. (2008). Nature, aesthetics, and environmentalism: From beauty to duty. 
+Columbia University Press.
+Chatterjee, A., & Vartanian, O. (2016). Neuroscience of aesthetics. Annals of the New York Academy of 
+Sciences, 1369(1), 172–194. https://doi.org/10.1111/nyas.13035 
+Coburn, A., Vartanian, O., Kenett, Y. N., Nadal, M., Hartung, F., Hayn-Leichsenring, G., Navarrete, G., 
+González-Mora, J. L., & Chatterjee, A. (2020). Psychological and neural responses to architectural 
+interiors. Cortex, 126, 217–241. https://doi.org/10.1016/j.cortex.2020.01.009 
+Daykin, N., Mansfield, L., Meads, C., Julier, G., Tomlinson, A., Payne, A., Duffy, L. G., Lane, J., 
+D’Innocenzo, G., Burnett, A., Kay, T., Dolan, P., Testoni, S., & Victor, C. (2017). What works for 
+wellbeing? A systematic review of wellbeing outcomes for music and singing in adults. 
+Perspectives in Public Health, 138(1), 39–46. https://doi.org/10.1177/1757913917740391 
+Del Río Diéguez, M., Jiménez, C. P., Ávila, B. S., & Pérez, Y. C. B. (2024). Art therapy as a therapeutic 
+resource integrated into mental health programmes: Components, effects and integration 
+pathways. Arts in Psychotherapy, 91, 102215. https:
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 illustrates the mixed-methods framework used in this study, which combines 
+Figure 1. Mixed-method framework for evaluating SALs.
+Figure 2. Soundscape heatmaps for 
+Figure 2. Soundscape heatmaps of three study sites with overlaid vegetation and art zones.
+Figure 3 elucidates the emotional 
+Figure 3. Thematic coding tree of interview data reflecting emotional responses to quiet art 
+Figure 4, comparative sound measure­
+Figure 4. Comparative sound levels in intervention vs. Control zones.
+Table 1 summarizes these PRS scores, highlighting significantly higher restorative out­
+Table 1. PRS Score comparison across site types.
+Table 2, highlight the differ­
+Table 2. Emotional response ratings by age group and neurological profile.
+Figure 5 documents participant 
+Figure 6 presents the visual representation 
+Figure 5. Participant art interaction frequencies across installations.
+Figure 6. Spatial views and key design elements of the three SALs sites.
+
+======================================================================
+
+### RECORD ID=1174 | screening_verdict=INCLUDE | year=2025
+JOURNAL: TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT
+TITLE: Synergistic role of audio-visual perceptions in promoting bikeshare for active travel
+DOI: 10.1016/j.trd.2025.104806
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Synergistic role of audio-visual perceptions in promoting 
+bikeshare for active travel
+Kaihan Zhang a, Qiwei Song b, Haoran Ma c, Waishan Qiu d, Meikang Li e, Inhi Kim a,*
+a Cho Chun Shik Graduate School of Mobility, Korea Advanced Institute of Science and Technology, Republic of Korea
+b School of Architecture, The Chinese University of Hong Kong, Hong Kong SAR, China
+c Institute of Space and Earth Information Science, The Chinese University of Hong Kong, Hong Kong SAR, China
+d Department of Urban Planning and Design, The University of Hong Kong, Hong Kong SAR, China
+e School of Design and Innovation, Shenzhen Technology University, China
+A R T I C L E I N F O
+Keywords:
+Bikeshare
+Urban perception
+Soundscape
+Streetscape
+Nonlinear
+Spatial analysis
+A B S T R A C T
+This study examines factors beyond macroscale built environments (BE) influencing cycling 
+behavior, integrating both microscale visual and auditory perceptions, especially soundscapes, 
+while their impacts on cycling have not been explicitly investigated. Leveraging massive bike­
+share trip data in Shenzhen, China, this study employs spatial explainable machine learning to 
+uncover the associations among these three dimensions and cycling behavior using a multi-scale 
+analytical framework. The results show that: (1) Macroscale BE remains dominant, while micro- 
+scale soundscapes outweigh visual perceptions in explaining cycling usage. (2) Both perceived 
+streetscape and soundscape indicators exhibit significant nonlinear effects on cycling behavior. 
+(3) Synergistic interactions between visual streetscape and soundscape are observed, where 
+maintaining audio-visual consistency (e.g., high perceived safety with high natural sounds 
+perception) can positively affect cycling more substantially. Our findings encourage planners to 
+prioritize strategic micro-level modifications targeting perceived street visual and auditory as­
+pects over conventional macroscale BE interventions as cost-effective alternatives.
+1. Introduction
+Cycling offers numerous advantages, notably promoting sustainability by reducing car travel dependent on fossil fuels, thereby 
+supporting environmentally conscious mobility. It fosters healthier lifestyles, and its affordability improves urban inclusivity, aligning 
+with human-centric planning concepts such as the 15-minute city (Pozoukidou and Chatziyiannaki, 2021). Moreover, as an indis­
+pensable multimodal travel component, cycling, particularly bikeshare systems can complement public transit as a feeder mode, 
+addressing the “first and last mile” challenge and thereby effectively enhancing public transit efficiency and fostering interconnected 
+urban environments (Bullock et al., 2017). Additionally, bicycling is gaining popularity and expanding rapidly in densely populated 
+countries like China (Zhou and Schwanen, 2024), offering significant daily travel benefits by providing a flexible, efficient, and cost- 
+effective means of urban mobility, such as commuting to work. However, the low usage rates (T. Gu et al., 2019) present profitability 
+challenges for operators, jeopardizing the long-term sustainability of these systems. To fully harvest these benefits, it is imperative to 
+* Corresponding author.
+E-mail addresses: kaihn@kaist.ac.kr (K. Zhang), qiwei.song@link.cuhk.edu.hk (Q. Song), haoranma@cuhk.edu.hk (H. Ma), waishanq@hku.hk
+(W. Qiu), limeikang@sztu.edu.cn (M. Li), inhi.kim@kaist.ac.kr (I. Kim). 
+Contents lists available at ScienceDirect
+Transportation Research Part D
+journal homepage: www.elsevier.com/locate/trd
+https://doi.org/10.1016/j.trd.2025.104806
+Received 2 January 2025; Received in revised form 10 April 2025; Accepted 8 May 2025 
+Transportation Research Part D 145 (2025) 104806 
+Available online 21 May 2025 
+1361-9209/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+examine urban environmental factors affecting cycling behavior for devising cost-effective interventions that promote bikesharing 
+(Duran-Rodas et al., 2019; Guo and He, 2020; Wang et al., 2023). Integrating these insights into urban planning enables more effective 
+operations, scheduling strategies and informed decision-making.
+Extensive empirical evidence highlights the significant impact of the built environment (BE) on cycling behavior (Etminani- 
+Ghasrodashti et al., 2018; Wang et al., 2023; Yang et al., 2019). While earlier studies primarily focused on macro-scale BE, including 
+cycling infrastructure (Mateo-Babiano et al., 2016) and land use types like recreational areas (Etminani-Ghasrodashti et al., 2018), 
+recent research also revealed the non-negligible effects of micro-level, human-perceived environmental features, such as fine-grained 
+streetscape elements (Gao and Fang, 2025; Song et al., 2024c). According to environmental psychology theory (Mehrabian, 1974), 
+these perceptions could influence emotions and consequently shape on-route behavioral decisions.
+Leveraging advanced modeling and urban imagery data, emerging research attempted to assess the effect of micro-level streetscape 
+perceptions using street view images (SVI) on cycling behaviors (Yang et al., 2024). However, these studies objectively quantified 
+image pixel ratios through “machine-style” segmentation and focused on features like trees and sky, failing to account for compre­
+hensive human-perceived streetscape qualities that are inherently subjective and vary among individuals (Ramírez et al., 2021). 
+Moreover, the potential nuanced non-linear influence of these subjective perceptions (e.g., perceived aesthetics, safety, lively) on 
+cycling behavior remains poorly understood (Gao and Fang, 2025; Song et al., 2024c).
+Moreover, focusing solely on perceived visual perceptions draws an incomplete perspective, as visual and auditory (i.e., sound­
+scape) elements interplay in shaping environmental perceptions (Echevarria Sanchez et al., 2017; Li and Lau, 2020). Meanwhile, 
+eme
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Formal analysis, 
+Conceptualization. Qiwei Song: Writing – review & editing, Resources, Methodology, Data curation, Conceptualization. Haoran Ma: 
+Writing – review & editing, Resources, Methodology, Investigation. Waishan Qiu: Conceptualization. Meikang Li: Data curation, 
+Investigation, Resources. Inhi Kim: Writing – review & editing, Supervision, Resources.
+K. Zhang et al. 
+Transportation Research Part D 145 (2025) 104806 
+16 
+
+Acknowledgement
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government(MSIT) (No. 
+2021R1C1C1006405)
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.trd.2025.104806.
+References
+Akers, A., Barton, J., Cossey, R., Gainsford, P., Griffin, M., Micklewright, D., 2012. Visual color perception in green exercise: positive effects on mood and perceived 
+exertion. Environ. Sci. Tech. 46, 8661–8666. https://doi.org/10.1021/es301685g.
+Aletta, F., Astolfi, A., Kang, J., Oberman, T., Mitchell, A., 2025. Soundscape attributes translation: Current projects and challenges. Appl. Acoust. 228, 110305. 
+https://doi.org/10.1016/j.apacoust.2024.110305.
+Basner, M., Babisch, W., Davis, A., Brink, M., Clark, C., Janssen, S., Stansfeld, S., 2014. Auditory and non-auditory effects of noise on health. Lancet 383, 1325–1332. 
+https://doi.org/10.1016/S0140-6736(13)61613-X.
+Biljecki, F., Ito, K., 2021. Street view imagery in urban analytics and GIS: A review. Landsc. Urban Plan. 215, 104217. https://doi.org/10.1016/j. 
+landurbplan.2021.104217.
+Blitz, A., 2021. How does the individual perception of local conditions affect cycling? An analysis of the impact of built and non-built environment factors on cycling 
+behaviour and attitudes in an urban setting. Travel Behav. Soc. 25, 27–40. https://doi.org/10.1016/j.tbs.2021.05.006.
+B¨ocker, L., Anderson, E., Uteng, T.P., Throndsen, T., 2020. Bike sharing use in conjunction to public transport: Exploring spatiotemporal, age and gender dimensions 
+in Oslo, Norway. Transp. Res Part A Policy Pract. 138, 389–401. https://doi.org/10.1016/j.tra.2020.06.009.
+Bullock, C., Brereton, F., Bailey, S., 2017. The economic contribution of public bike-share to the sustainability and efficient functioning of cities. Sustain. Cities Soc. 
+28, 76–87. https://doi.org/10.1016/j.scs.2016.08.024.
+Campos Ferreira, M., Dias Costa, P., Abrantes, D., Hora, J., Felício, S., Coimbra, M., Galv˜ao Dias, T., 2022. Identifying the determinants and understanding their effect 
+on the perception of safety, security, and comfort by pedestrians and cyclists: A systematic review. Transp. Res. Part F Traffic Psychol. Behav. 91, 136–163. 
+https://doi.org/10.1016/j.trf.2022.10.004.
+Christiansen, L.B., Cerin, E., Badland, H., Kerr, J., Davey, R., Troelsen, J., van Dyck, D., Mit´aˇs, J., Schofield, G., Sugiyama, T., Salvo, D., Sarmiento, O.L., Reis, R., 
+Adams, M., Frank, L., Sallis, J.F., 2016. International comparisons of the associations between objective measures of the built environment and transport-related 
+walking and cycling: IPEN adult study. J. Transp. Health 3, 467–478. https://doi.org/10.1016/j.jth.2016.02.010.
+Davies, W.J., Adams, M.D., Bruce, N.S., Cain, R., Carlyle, A., Cusack, P., Hall, D.A., Hume, K.I., Irwin, A., Jennings, P., Marselle, M., Plack, C.J., Poxon, J., 2013. 
+Perception of soundscapes: An interdisciplinary approach. Appl. Acoust. 74, 224–231. https://doi.org/10.1016/j.apacoust.2012.05.010.
+Ding, C., Cao, X., Dong, M., Zhang, Y., Yang, J., 2019. Non-linear relationships between built environment characteristics and electric-bike ownership in Zhongshan, 
+China. Transp. Res. D Transp. Environ. 75, 286–296. https://doi.org/10.1016/j.trd.2019.09.005.
+Dong, L., Jiang, H., Li, W., Qiu, B., Wang, H., Qiu, W., 2023. Assessing impacts of objective features and subjective perceptions of street environment on running 
+amount: A case study of Boston. Landsc. Urban Plan. 235, 104756. https://doi.org/10.1016/j.landurbplan.2023.104756.
+Dubey, A., Naik, N., Parikh, D., Raskar, R., Hidalgo, C.A., 2016. Deep Learning the City: Quantifying Urban Perception at a Global Scale. pp. 196–212. Doi: 10.1007/ 
+978-3-319-46448-0_12.
+Duran-Rodas, D., Chaniotakis, E., Antoniou, C., 2019. Built environment factors affecting bike sharing ridership: data-driven approach for multiple cities. Transp. Res. 
+Rec.: J. Transp. Res. Board 2673, 55–68. https://doi.org/10.1177/0361198119849908.
+Echevarria Sanchez, G.M., Van Renterghem, T., Sun, K., De Coensel, B., Botteldooren, D., 2017. Using Virtual Reality for assessing the role of noise in the audio-visual 
+design of an urban public space. Landsc. Urban Plan. 167, 98–107. https://doi.org/10.1016/j.landurbplan.2017.05.018.
+Edworthy, J., Waring, H., 2006. The effects of music tempo and loudness level on treadmill exercise. Ergonomics 49, 1597–1610. https://doi.org/10.1080/ 
+00140130600899104.
+Etminani-Ghasrodashti, R., Paydar, M., Ardeshiri, A., 2018. Recreational cycling in a coastal city: Investigating lifestyle, attitudes and built environment in cycling 
+behavior. Sustain. Cities Soc. 39, 241–251. https://doi.org/10.1016/j.scs.2018.02.037.
+Ewing, R., Cervero, R., 2010. Travel and the Built Environment. J. Am. Plann. Assoc. 76, 265–294. https://doi.org/10.1080/01944361003766766.
+Ewing, R., Handy, S., 2009. Measuring the unmeasurable: urban design qualities related to walkability. J. Urban Des. (Abingdon) 14, 65–84. https://doi.org/10.1080/ 
+13574800802451155.
+Feng, G., Zou, G., Piga, B.E.A., Hu, H., 2021. The Validity of Street View Service Applied to Ambiance Perception of Street: A Comparison of Assessment in Real Site 
+and Baidu Street View. pp. 740–748. Doi: 10.1007/978-3-030-80829-7_91.
+Gao, M., Fang, C., 2025. Pedaling through the cityscape: Unveiling the association of urban environment and cycling volume through street view imagery analysis. 
+Cities 156, 105573. https://doi.org/10.1016/j.cities.2024.105573.
+
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. 
+Fig. 2), spans 1,997 km2 and had over 17 million 
+Fig. 1. Research framework.
+Table 1 provides a comprehensive 
+Fig. 2. Bike share usage distribution (a), temporal usage pattern (b), example of OD pattern.
+Table 1 
+Fig. 3. Soundscape mapping.
+Fig. 3, with clear spatial disparity observed in 
+Fig. 4). The collected data is made freely available (https://drive.google.com/ 
+Fig. 4. Correlation between predicted and field site-measured sound intensity.
+Fig. 5. Streetscape indicators mapping.
+Fig. 6. Bivariate map of generalized soundscape quality and streetscape quality.
+Fig. 5) contribute positively and are assigned a value of 1, while “Boring” and “Depressing” detract and are assigned −1. It 
+Fig. 6 indicates areas with high soundscape and streetscape quality, 
+Table 2, Model 4, which additionally included soundscape features, explained 
+Fig. 7 illustrate the impact of three distinct feature groups on bikesharing volume, each represented by a distinct 
+Fig. 8A). A 
+Fig. 8B), with a critical threshold of around 42 bus stations per km2, where the SHAP values turn 
+Fig. 8C&D). 
+Fig. 8D), offering diminishing returns from overly accessible 
+Table 2 
+Fig. 8F and 8H exhibit local dependence plots for perceived pleasant sound and sound quality, both initially correlating positively 
+Fig. 8 illustrates the effects of visual streetscape features. Positive perceptions of streets, particularly when 
+Fig. 7. Feature importance of different groups.
+Fig. 8. Nonlinear impact of selected features showing high importance on cycling.
+
+======================================================================
+
+### RECORD ID=1202 | screening_verdict=INCLUDE | year=2026
+JOURNAL: Journal of Urban Management
+TITLE: Assessing the impact of landscape context on soundscape quality in multifunctional urban open spaces
+DOI: 10.1016/j.jum.2026.04.003
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Research Article
+Assessing the impact of landscape context on soundscape quality 
+in multifunctional urban open spaces
+Minqi Lin a , Chi Kwan Chau a , Huiying (Cynthia) Hou a,* , Shiu Keung Tang b ,
+Wai Kit Chung a , Ho Man Yu a
+a Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hong Kong, China 
+b Department of Mechanical and Aerospace Engineering, United Arab Emirates University, Al Ain, United Arab Emirates
+A R T I C L E I N F O
+Keywords:
+Multifunctional open space 
+landscape
+Soundwalk
+Soundscape quality
+A B S T R A C T
+This study demonstrates the critical role of landscape contextual factors in shaping the acoustic 
+environment and investigates their influences on soundscape quality of microscale functional 
+open spaces in densely populated cities. Specifically, this study aims to reveal the impacts of 
+microscale functional space types, their interactions with specific types of ongoing activities or 
+events, greenery and visual openness on soundscape quality evaluations. To achieve a more 
+comprehensive understanding, panoramic images from a pedestrian perspective were recorded 
+alongside subjective responses collected during soundwalks, advancing the traditional soundwalk 
+methodology integrating objective visual metrics. Microscale functional space type was found to 
+greatly alter perceptions and soundscape evaluations. This effect is particularly pronounced when 
+sound types harmonize with specific functional spaces, resulting in a markedly better soundscape 
+experience. For instance, children playing sounds in play areas enhance vibrancy and improve 
+soundscape quality, while the rustling of leaves in sitting-out areas enhances the overall sound-
+scape quality. Visual openness, encompassing sky view and open area size, is also identified as a 
+crucial factor in shaping the soundscape quality in compact urban open spaces. Its positive impact 
+is as important as greenery visibility, but its net influence is significantly smaller compared to 
+aural factors. Above all, landscape contextual factors mitigate the adverse effects of noise and 
+enhance natural sound perception, balancing the asymmetry between positive and negative sound 
+impacts. The findings emphasize the importance of integrating microscale functional space 
+design, visual landscape, and sound source management to enhance soundscape quality of 
+multifunctional space.
+1. Introduction
+In cities where land resources are scarce, there is an urgent need for multifunctional open spaces that can meet the diverse needs of 
+individual city inhabitants, enhancing their well-being and health. Landscape design plays a crucial role when designing these spaces 
+to foster sustainable and healthy urban environments (Jackson, 2003; Li & Liu, 2024). It involves designing and planning of visible 
+elements such as vegetation, amenities, and landforms, ensuring they harmoniously integrate with natural or man-made elements to
+* Corresponding author. Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hung Hom, 
+Kowloon, Hong Kong, China.
+E-mail addresses: minqi.lin@connect.polyu.hk (M. Lin), beckchau@gmail.com (C.K. Chau), cynthia.hou@polyu.edu.hk (H.(C. Hou), sktang@ 
+uaeu.ac.ae (S.K. Tang), wai-kit.chung@connect.polyu.hk (W.K. Chung), louisyu125@hotmail.com.hk (H.M. Yu).
+HOSTED BY
+Contents lists available at ScienceDirect
+Journal of Urban Management
+journal homepage: www.elsevier.com/locate/jum
+https://doi.org/10.1016/j.jum.2026.04.003
+Received 24 January 2026; Received in revised form 18 March 2026; Accepted 8 April 2026
+Available online xxxx
+2226-5856/© 2026 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Chinese Association of Urban Management. This is 
+an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Journal of Urban Management xxx (xxxx) xxx
+Please cite this article as: Lin, M. et al., Assessing the impact of landscape context on soundscape quality in multifunctional urban 
+open spaces, Journal of Urban Management, https://doi.org/10.1016/j.jum.2026.04.003
+
+achieve high aesthetic appeal. Beyond visual aspects, soundscape - an auditory counterpart to landscape - also influences people's 
+preference for open spaces (Pijanowski, 2011). Pleasant soundscape can attract more visitors and encourage them to stay, while poor 
+soundscapes may discourage people from visiting and lingering (Filipan et al., 2017; Liu et al., 2018), particularly in densely populated 
+urban areas with heavy pedestrian and road traffic. Soundscape can be enhanced by altering certain design attributes of open space. 
+Attributes like geographic location, spatial function, natural and artificial elements, and enclosure and cover can influence one or more 
+key soundscape attributes: the sound environment, people's perception, and context.
+Geographic location of open spaces determines the type and intensity level of external sound sources. The sound environment of 
+open spaces is influenced by their surrounding context and dominant sound sources (Liu et al., 2019). While urban open spaces are 
+often associated with higher exposure to anthropogenic sounds such as road traffic, and rural areas are more likely to feature natural 
+sound sources, considerable variability exists within both settings depending on local conditions such as proximity to infrastructure, 
+land use, and activity patterns. Within a given open space—defined in this study as publicly accessible outdoor areas within residential 
+housing estates (e.g., sitting-out areas, playgrounds, and circulation spaces)—the sound environment may vary considerably due to 
+differences in on-site sound source types, sound pressure levels (SPL), site topography, and the degree of spatial enclosure and visual 
+cover. In addition to altering the physical sound environment, the presence of specific types of sound source can influence how people 
+per
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Soundwalk
+Soundwalk approach was adopted in this study to collect field data capturing the participants’ perceptual responses to various 
+attributes of the acoustical environment, including loudness, sound source dominance, affective qualities, and compatibility between 
+soundscape and landscape (Jo & Jeon, 2021). Soundwalk can be regarded as a semi-controlled form of on-site surveys, having many 
+advantages over traditional crowdsourced perceptual surveys and on-site investigation methods or controlled laboratory experiments. 
+Typically, guided by a moderator, soundwalks lead individual participants or groups along a predefined route or asks them to walk 
+within a predefined area to their preferred spots for in-situ collection of their feedback responses and descriptions of the audio-visual 
+environment. Soundwalks provide context-rich and ecologically valid insights by capturing in-situ acoustic experiences, although they 
+inherently involve less control over confounding factors related to site conditions and individual differences. Despite this, the 
+soundwalk approach allows for the inclusion of a broader range of real-world variables than controlled laboratory experiments, 
+making it particularly suitable for investigating complex, everyday acoustic environments. Furthermore, soundwalks offer a practical 
+balance between methodological depth and time–cost efficiency.
+In this study, the soundwalk protocol was informed by the assessment principles outlined in Section 5.2 of ISO/TS 12913-2:2018 
+(ISO/TS 12913–2, 2018), with methodological adaptations made to suit the specific objectives and constraints of the research. The 
+soundwalk trips were conducted during favourable weather conditions to minimize the influence of environmental disturbances such
+M. Lin et al. 
+Journal of Urban Management xxx (xxxx) xxx
+3
+
+as rain or strong winds. To capture temporal variations in the acoustic environment associated with daily activity patterns, each 
+soundwalk route was conducted across three time sessions: morning (am), afternoon (pm), and evening (eve). Each soundwalk session 
+lasted approximately 40 min. During each session, a research staff member acted as the moderator and guided a group of four to six 
+participants along a predefined route within the study area. Participants were instructed to walk at a comfortable pace while paying 
+attention to the surrounding acoustic and visual environment. At several predetermined observation points along the route, the group 
+paused briefly to allow participants to focus on the sound environment. At each stop, participants were asked to listen to the sur-
+rounding acoustic environment for approximately 1 min before completing a structured questionnaire evaluating their perception of 
+the soundscape and associated environmental attributes. The moderator ensured that participants followed the same procedure at each 
+stop and avoided discussing their evaluations with one another during the survey in order to minimize potential bias.
+Participants who took part in the soundwalks were mainly students or acquaintances recruited from one university in Hong Kong. 
+The participant selection was informed by observations from a pilot soundwalk conducted prior to the formal survey. Local residents of 
+the public housing estates were found to be highly familiar with the surroundings and frequently interacted with ongoing activities in 
+the area. During the pilot soundwalk, several residents greeted acquaintances or engaged in casual conversations, which distracted 
+their attention from the auditory environment and shifted their focus toward social or visual interactions. To ensure that participants 
+could concentrate on evaluating the acoustic environment during the soundwalk, local residents were therefore excluded from the 
+formal survey. University students were considered appropriate participants because the objective of the study was to examine general 
+perceptual relationships between soundscape quality and landscape contextual factors rather than long-term residential experiences or 
+place attachment. Participants who were less familiar with the sites could provide more neutral evaluations of the environmental 
+soundscape. In addition, students are commonly used in soundscape perception studies as they can follow structured soundwalk 
+protocols and rating procedures consistently. Using a relatively homogeneous participant group also helps reduce variability caused by 
+demographic differences, allowing the analysis to focus more clearly on the relationships between sound sources, spatial functions, and 
+visual environmental factors. The group walked to and from specific locations, stopping at several selected points along the way. 
+During the soundwalk trips, the moderator of the soundwalk group recorded 1-min binaural audio samples at each stop of the 
+soundwalk route using two in-ear microphones (Brüel & Kjær Type 4101) connected to a hand-held sound level meter (Brüel & Kjær 
+Type 2270). At each stop along the two-way soundwalk route, two audio samples were collected.
+While traditional soundwalk methods primarily emphasize subjective auditory and visual perception (ISO/TS 12913–2, 2018), this 
+study builds on existing approaches by incorporating objective visual data through panoramic imaging to support a more compre-
+hensive analysis of audio–visual relationships. Panoramic images capturing the views experienced by participants at the selected 
+locations were recorded using a GoPro Max 360 Action Camera. This camera features dual lenses capable of capturing 360-degree 
+images and videos with a resolution of up to 16.6 megapixels for photos and 5.6K at 30fps for videos. Although the camera recor-
+ded the full 360 ◦ visual environment, the analysis focused on the 180 ◦ forward-facing field of view, which corresponds to the primary 
+visual scene experienced by participants during the soundwalk. As participants walked along the route, their at
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. These routes 
+Table 1 show a summary of 
+Fig. 1. Four soundwalk routes and stops selected in four residential housing estates.
+Table 1
+Table 2 shows a summary statistic of the participants' characteristics. Table 3 presents the mean sound environment quality ratings 
+Table 3 provide a more detailed understanding of intra-site variability, complementing the subsequent 
+Table 4 summarizes the independent variables 
+Table 5 below lists the estimated values of non-standardized and standardized coefficient of all the statistically significant 
+Table 2
+Table 3
+Table 4
+Table 5
+Table 4 further illustrate this difference: 
+
+======================================================================
+
+### RECORD ID=1211 | screening_verdict=INCLUDE | year=2026
+JOURNAL: EUROPEAN PHYSICAL JOURNAL-SPECIAL TOPICS
+TITLE: Chromatic recurrences applied to joint walking time series of a blind mother-child dyad
+DOI: 10.1140/epjs/s11734-026-02140-1
+PAGES: 11
+
+--- HEAD (title/abstract/intro) ---
+Eur. Phys. J. Spec. Top.
+https://doi.org/10.1140/epjs/s11734-026-02140-1
+THE EUROPEAN
+PHYSICAL JOURNAL
+SPECIAL TOPICS
+Regular Article
+Chromatic recurrences applied to joint walking time
+series of a blind mother–child dyad
+Mercedes X. H¨ug1,2,a
+, Fabi´an C. Tommasini1
+, Fernando Bermejo1,2
+, Diego A. Evin1,3
+, and Marcia Cano
+Brusa1
+1 Centro de Investigaci´on y Transferencia en Ac´ustica (CINTRA), CONICET, Universidad Tecnol´ogica Nacional Facultad
+Regional C´ordoba, C´ordoba, Argentina
+2 Present Address: Facultad de Psicolog´ıa, Universidad Nacional de C´ordoba, C´ordoba, Argentina
+3 Facultad de Ingenier´ıa, Universidad Nacional de Entre R´ıos, Oro Verde, Entre R´ıos, Argentina
+Received 11 November 2025 / Accepted 12 January 2026
+© The Author(s), under exclusive licence to EDP Sciences, Springer-Verlag GmbH Germany, part of
+Springer Nature 2026
+Abstract The navigation of urban environments by blind adults and children is a complex activity. While
+research on blind people’s navigation has often focused on assistive technologies, less attention has been
+given to the embodied nature of their daily walking experiences. In this study, we apply chromatic
+recurrence-based analysis to characterise the joint walking dynamics of a blind mother–child dyad and
+explore their behaviour in diﬀerent acoustic contexts. Video-recorded sessions were coded, and their walk-
+ing behaviour was characterised across diﬀerent acoustic environments. Results showed that mother and
+child exhibited spontaneous synchronisation of their steps. Recurrence analysis indicated that the syn-
+chronous walking intervals were shorter and more predictable, whereas asynchronous walking was longer
+and less predictable. This case study suggests a ﬂexible use of synchronisation and non-synchronisation
+patterns in a system of unstable coordination that is open to environmental contingencies.
+1 Introduction
+Shared walking among parents and children is a daily practice that has broad implications for child development,
+dyadic dynamics, and interaction with the urban environment. Walking in urban settings provides children with
+opportunities to exercise and consolidate basic motor skills on varying surfaces and along diﬀerent trajectories [1,
+2]. For blind people, independent travel is possible supported by spatial cognition capabilities developed through
+multisensory integration processes, cortical reorganisation, and enhanced spatial hearing [3, 4]. Traﬃc and other
+urban sounds guide locomotion by enabling blind people to locate sound events, identify distant sources, and avoid
+obstacles [5–7]. From infancy to adulthood, travel-related expertise is acquired through both informal practice and
+systematic training in mobility aids such as white canes or guide dogs [8]. Urban street environments have been
+described as ideal laboratories for studying blind people’s mobility-related strategies [9, 10]; however, few studies
+have been conducted in such contexts. Most of the research has addressed urban walking from the viewpoint of
+road safety for the blind [11–13], navigation aids [14, 15], or has examined how the absence of vision aﬀects adult
+walking in controlled laboratory conditions [16].
+Urban navigation requires parents and children to coordinate their steps to cope with changing conditions
+that are not always predictable, for example, stopping when a car approaches a street intersection or resuming
+walking after rounding a billboard located on the sidewalk. Although it is known that people who walk together
+tend to spontaneously generate patterns of synchronised steps, no studies have been found that examine the
+emergence of these types of coordination patterns in blind dyads. Chambers et al. [17] found spontaneous movement
+synchronisation in naturalistic situations extracted from videos of adult people walking in pairs. Hajnal and Durgin
+[18] observed that casual walkers tend to adjust their frequency and step length toward one another without
+deliberate eﬀort. Sylos-Labini et al. [19] demonstrated that this occurs without vision if hand contact is allowed
+between blindfolded adult pairs walking on treadmills placed side by side. Zivotofsky et al. [16] demonstrated that
+participants who walked with tactile and auditory feedback showed greater synchronisation than those who only
+a e-mail: mercehug@unc.edu.ar (corresponding author)
+0123456789().: V,-vol
+123
+
+Eur. Phys. J. Spec. Top.
+had visual feedback. Adult–child walking situations require special consideration of anthropometric aspects, as
+evidence shows that adult pairs with similar leg lengths achieve greater synchronisation than those with diﬀerent
+leg lengths [20]. There is a notable gap in the literature regarding the dynamics of adult–child step coordination
+in daily contexts.
+A dynamic systems approach conceptualizes a dyad as a complex system where each member’s actions and states
+continuously inﬂuence and are inﬂuenced by the other, resulting in emergent, often unpredictable patterns [21,
+22]. This perspective emphasizes the study of aspects such as interdependency, self-organization, emergence, and
+temporal dynamics. Since the focus is on how interactions evolve over time, methods based on time series analysis
+allows to capture these processes. Recurrence plots (RP) and recurrence quantiﬁcation analysis (RQA) are well-
+established methods for measuring the extent to which a nonlinear time series exhibits similar patterns over time
+[23]. These techniques have been increasingly adopted in ﬁelds such as Cognitive Sciences and Psychology [24]. In
+particular, recurrence methods, which do not depend on statistical distribution assumptions or large datasets, are
+particularly useful in psychological studies such as microanalytic developmental studies, where they are employed
+to examine the temporal evolution of dyadic contingency and interactional rhythms [25, 26]. The application of this
+type of analysis on categorical variables allows researchers to characterise the temporal o
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, M.X.H., F.C.T., F.B., D.A.E.; Formal analy-
+sis, M.X.H., F.C.T., F.B., D.A.E., M.C.B.; Software, F.C.T., D.A.E.; Investigation, M.X.H.; Resources, M.X.H.,
+F.C.T.; Data Curation, M.X.H., F.C.T., M.C.B.; Visualization, F.C.T; Writing—Original Draft, M.X.H., F.C.T.,
+F.B., D.A.E., M.C.B.; Writing—Review Editing, M.X.H., F.C.T., F.B., D.A.E., M.C.B.; Project administration,
+M.X.H., F.C.T., F.B.; Funding acquisition, M.X.H., F.C.T., F.B., D.A.E.
+Funding
+The work was partially supported by the Consejo Nacional de Investigaciones Cient´ıﬁcas T´ecnicas, Argentina
+(Grant number PIP CONICET 11220210100187CO); the Agencia Nacional de Promoci´on de la Investigaci´on, el Desarrollo
+Tecnol´ogico y la Innovaci´on, FONCYT, Argentina (Grant numbers PICT 2018–2260 and PICT 2018–4593); the Universidad
+Tecnol´ogica Nacional, Argentina (Grant number PID 8424); the Universidad Nacional de C´ordoba, Argentina (Grant number
+PID 472/2018).
+Data availability The datasets generated during and/or analysed during the current study are available in the Zenodo
+repository, https://doi.org/10.5281/zenodo.17900390.
+Declarations
+Conﬂict of interest The authors declare that they have no conﬂict of interest.
+Ethical approval The study was carried out in accordance with the 1964 Helsinki Declaration guidelines and its later
+amendments and was approved by an Institutional Ethics Committee (CIEIS Hospital Nacional de Cl´ınicas, Universidad
+Nacional de C´ordoba, Argentina).
+References
+1. K.E. Adolph, S.R. Robinson, Motor development, in Handbook of Child Psychology and Developmental Science: Cognitive
+Processes, 7th ed, vol. 2, (Wiley, Hoboken, 2015), pp.113–157. https://doi.org/10.1002/9781118963418.childpsy204
+123
+
+Eur. Phys. J. Spec. Top.
+2. C.M. Hospodar, K.E. Adolph, The development of gait and mobility: form and function in infant locomotion. WIREs
+Cogn. Sci. 15(4), 1677 (2024). https://doi.org/10.1002/wcs.1677
+3. R.W. Emerson, D.H. Ashmead, Visual experience and the concept of compensatory spatial hearing abilities, in Blindness
+and Brain Plasticity in Navigation and Object Perception. ed. by J.J. Rieser, D.H. Ashmead, F. Ebner, A.L. Corn
+(Psychology Press, New York, 2007), pp.367–380
+4. J.J. Rieser, Theory and issues in research on blindness and brain plasticity, in Blindness and Brain Plasticity in Navi-
+gation and Object Perception. (Lawrence Erlbaum Associates Publishers, Mahwah, 2008), pp.3–11
+5. D.H. Ashmead, R.S. Wall, S.B. Eaton, K.A. Ebinger, M.-M. Snook-Hill, D.A. Guth, X. Yang, Echolocation reconsidered:
+using spatial variations in the ambient sound ﬁeld to guide locomotion. J. Vis. Impair. Blind. 92(9), 615–632 (1998).
+https://doi.org/10.1177/0145482X9809200905
+6. T. Graven, Hearing the city without vision: an exploratory study. Brit. J. Vis. Impair. (2025). https://doi.org/10.1177/
+02646196251330184
+7. A. Koutsoklenis, K. Papadopoulos, Auditory cues used for wayﬁnding in urban environments by individuals with visual
+impairments. J. Vis. Impair. Blind. 105(10), 703–714 (2011). https://doi.org/10.1177/0145482X1110501016
+8. A.C. Skellenger, E.W. Hill, Current practices and considerations regarding long cane instruction with preschool children.
+J. Vis. Impair. Blind. 85(3), 101–104 (1991). https://doi.org/10.1177/0145482X9108500304
+9. R.W. Emerson, T. McCarthy, Orientation and mobility for students with visual impairments: priorities for research, in
+International Review of Research in Developmental Disabilities, vol. 46, (Academic Press, Cambridge, 2014), pp.253–280.
+https://doi.org/10.1016/B978-0-12-420039-5.00008-3
+10. Long, R.: Crossing streets without vision: access to information, strategies for traveling, and the impact of technology,
+training, and environmental design. In: Blindness and Brain Plasticity in Navigation and Object Perception. Psychology
+Press, New York (2007)
+11. D.H. Ashmead, D. Guth, R.S. Wall, R.G. Long, P.E. Ponchillia, Street crossing by sighted and blind pedestrians at a
+modern roundabout. J. Transp. Eng. 131(11), 812–821 (2005). https://doi.org/10.1061/(ASCE)0733-947X(2005)131:11
+(812)
+12. E.L. Bowman, L. Liu, Individuals with severely impaired vision can learn useful orientation and mobility skills in virtual
+streets and can use them to improve real street safety. PLoS ONE 12(4), 0176534 (2017). https://doi.org/10.1371/jour
+nalpone.0176534
+13. R.W. Emerson, D.S. Kim, K. Naghshineh, J. Pliskow, K. Myers, Examining the impact of “quiet” vehicles on the
+performance of orientation and mobility tasks by pedestrians who are blind. J. Vis. Impair. Blind. 105(11), 745–759
+(2011). https://doi.org/10.1177/0145482X1110501104
+14. Y. Lian, D.-e Liu, W.-z Ji, Survey and analysis of the current status of research in the ﬁeld of outdoor navigation for
+the blind. Disabil. Rehabil. Assist. Technol. 19(4), 1657–1675 (2024). https://doi.org/10.1080/17483107.2023.2227224
+15. K. Papadopoulos, E. Koustriava, P. Koukourikos, Orientation and mobility aids for individuals with blindness: verbal
+description vs. audio-tactile map. Assist. Technol. 30(4), 191–200 (2018). https://doi.org/10.1080/10400435.2017.13
+07879
+16. A.Z. Zivotofsky, L. Gruendlinger, J.M. Hausdorﬀ, Modality-speciﬁc communication enabling gait synchronization during
+over-ground side-by-side walking. Hum. Mov. Sci. 31(5), 1268–1285 (2012). https://doi.org/10.1016/jhumov.2012.01.003
+17. C. Chambers, G. Kong, K. Wei, K. Kording, Pose estimates from online videos show that side-by-side walkers synchronize
+movement under naturalistic conditions. PLoS ONE 14(6), 0217861 (2019). https://doi.org/10.1371/journal.pone.02
+17861
+18. A. Hajnal, F.H. Durgin, How frequent is the spontaneous occurrence of synchronized walking in daily life? Exp. Brain
+Res. 241(2), 469–478 (2023). https://doi.org/10.1007/s00221-022-06536-y
+19. F. Sylos-Labini, A. d’Avella, F. Lacquaniti, Y. Ivanenko, Human–human interaction forces and interlimb coordination
+during side-by-side walking with hand contact. Front. Physiol. (2018). https://doi.org/10.3389/fphys.2018.0
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 shows that the speed was modiﬁed according to diﬀerent speech activity
+Fig. 1 Dyad walking speed
+Fig. 2 a Time series of an illustrative segment with the temporal evolution of the joint walking; and b the corresponding
+Figure 2a shows a segment example of a time series with the temporal evolution of the walking behaviour in which
+Figure 2b shows the corresponding chromatic RP. Unlike conventional RP, in which
+Fig. 3, these revealed diﬀerences in REC,
+Fig. 3 Chromatic REC, MaxLV , TT V and ENT V measures for joint walking events. Error bars correspond to 95% CI.
+
+======================================================================
+
+### RECORD ID=1221 | screening_verdict=INCLUDE | year=2026
+JOURNAL: APPLIED ACOUSTICS
+TITLE: Effect of soundscapes and crowd density on economic behavior in commercial streets
+DOI: 10.1016/j.apacoust.2025.111101
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Effect of soundscapes and crowd density on economic behavior in 
+commercial streets
+Linjie Zhou, Wenluo Yu *, Yan Zhang, Wen Zhou, Tao Wu
+College of Horticulture and Landscape Architecture, Yangzhou University, Yangzhou, China
+A R T I C L E I N F O
+Keywords:
+Architectural acoustic environment
+Soundscape
+Urban commercial street
+Economic behavior
+Crowd density
+A B S T R A C T
+Urban commercial streets, as critical nodes of economic activity, exert substantial influence on consumer 
+behavior and commercial performance. However, empirical research investigating how soundscape character­
+istics and crowd density interact to shape economic behaviors in complex urban open spaces remains limited. 
+This study addresses this gap through a case analysis of a typical commercial district in Yangzhou, China, 
+constructing two integrated indicator systems. From a behavioral economics perspective, five economic behavior 
+metrics are developed: Consumption intention intensity (CII), Affective consumption willingness (ACW), 
+Queuing time (QT), Recommendation to friends (RTF), and Revisit intention (RE). Results reveal that both 
+objective acoustic indicators (e.g., LAeq, L10, L50, L90) and perceptual dimensions of the soundscape (eventfulness, 
+calmness, chaoticness) are significantly associated with these behavioral outcomes. Sound source typologies 
+further moderate behavioral responses via perceived loudness, event frequency, and preference. In terms of 
+spatial social density, the study introduces both planar crowd densities (CPD4, CPD8, CPD12) and façade crowd 
+density (CFD) to capture horizontal and vertical perceptions of crowding. Among these, CFD demonstrates strong 
+and consistent correlations with all economic behavior indicators. Based on these findings, the 
+“Sound–Human–Economic (SHE)” model is proposed and validated to conceptualize the interaction mechanisms 
+among acoustic environment, social density, and consumer economic behavior. Sudden sound pressure (SSP), 
+CFD, and Educational level emerge as robust predictors. This research contributes to theoretical advancement in 
+urban acoustic-behavior studies and offers practical implications for evidence-based soundscape design, crowd 
+management, and consumer-centered urban commercial planning.
+1. Introduction
+Urban commercial streets serve as critical spatial infrastructures that 
+support economic development and contribute to the reconfiguration of 
+urban identity [1]. Their researches is shaped by a range of factors, 
+including infrastructure development [2], consumer spatial planning 
+[3], adaptive reuse of historic buildings [4] and supportive policies.
+However, existing research has predominantly concentrated on the 
+physical and spatial characteristics of commercial streets, while 
+comparatively little attention has been paid to the perceptual environ­
+mental factors that influence consumer economic behavior. Defined as 
+the decision-making patterns of individuals or groups regarding 
+resource acquisition, consumption, and investment, economic behavior 
+is highly sensitive to contextual environmental stimuli [5]. Non-visual 
+environmental variables such as soundscape characteristics and crowd 
+density may exert more pronounced effects on consumer cognition, 
+emotional responses, and behavioral intentions, particularly in semi- 
+enclosed or linear spatial typologies. Despite their potential impact, 
+the complex interplay between these environmental dimensions and 
+economic behavior in urban commercial streets remains underexplored 
+and warrants systematic empirical investigation.
+Previous studies have demonstrated that sound environments influ­
+ence consumer decisions by shaping perception and affective states. For 
+example, In tourism settings, integrating incentive-based soundscapes 
+with tour routes has been demonstrated to enhance visitor experiences 
+[6]. Moreover, soundscape quality indirectly influences visitors’ will­
+ingness to return by affecting their satisfaction levels [7]. In indoor 
+commercial environments, the impact of soundscape on consumer 
+behavior in commercial settings has been well-documented. Studies 
+indicate that noise levels in restaurants directly affect consumer 
+* Corresponding author at: College of Horticulture and Landscape Architecture, Yangzhou University, 88 South University Avenue, Yangzhou 225009, China.
+E-mail addresses: mz120231534@stu.yzu.edu.cn (L. Zhou), yu_wenluo@yzu.edu.cn (W. Yu), qinwuxiang41@gmail.com (Y. Zhang), wenzhou0305@hotmail.com
+(W. Zhou), wutao@yzu.edu.cn (T. Wu). 
+Contents lists available at ScienceDirect
+Applied Acoustics
+journal homepage: www.elsevier.com/locate/apacoust
+https://doi.org/10.1016/j.apacoust.2025.111101
+Received 6 June 2025; Received in revised form 28 August 2025; Accepted 22 September 2025 
+Applied Acoustics 242 (2026) 111101 
+Available online 13 October 2025 
+0003-682X/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+spending behavior: at 52 dB(A), elevated anxiety levels lead to reduced 
+time spent dining and lower expenditure, while at 57 dB(A), this effect 
+becomes even more pronounced [8]. Conversely, positive soundscape 
+elements, such as well-curated background music, have been shown to 
+enhance consumer purchasing intent. For instance, research has found 
+that positive background music increases advertisement response rates 
+by 37 % compared to negative music [9], Additionally, the presence of 
+background music in shopping malls is significantly associated with an 
+increase in impulsive purchasing behavior [10].
+Crowd density, as a critical environmental variable, plays a pivotal 
+role in shaping economic behavior within commercial environments, 
+particularly in tourism, retail, and food consumption contexts. Studies 
+indicate that perceived crowding significantly impacts visitor satisfac­
+tion [11]. When social density increases, tourists tend to focus more on 
+the presence o
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study area
+This study selects Dongguan Street in Yangzhou as the research site, 
+primarily due to its vibrant commercial activity and its representative 
+characteristics as an urban commercial street. As one of the core com­
+mercial corridors in Yangzhou, Dongguan Street accommodates more 
+than 200 businesses, featuring a highly diverse commercial profile that 
+includes artisanal crafts, food and beverage services, fashion retail, and 
+well-established brands rooted in intangible cultural heritage [27]. 
+Furthermore, according to official reports from the Yangzhou Daily, 
+Dongguan Street received approximately 434,000 visitors during the 
+2025 May Day holiday alone, underscoring its exemplary status in terms 
+of commercial vitality and pedestrian density. These attributes make it a 
+suitable and ideal case for soundscape studies in urban commercial 
+environments [28].
+Based on a preliminary field investigation of dominant sound sources 
+in the area [29], five typical experimental zones (S1–S5) were identified 
+to assess acoustic and crowd-related interventions, as illustrated in Fig. 2
+and Fig. 3.
+2.2. Date collection
+To collect data on soundscape and crowd density, on-site question­
+naire surveys were conducted. The research was carried out from 
+September to November 2023, during weekdays between 9:00 AM and 
+11:00 AM and 2:00 PM and 4:00 PM, which are peak times for outdoor 
+activities. A sound level meter (BSWA308) was used to measure physical 
+sound indicators, and a wind heat detector (HDD32.3TC) was employed 
+Fig. 2. Basic layout of the Dongguan Street historic and cultural block, showing the locations of the five experimental zones.
+L. Zhou et al. 
+Applied Acoustics 242 (2026) 111101 
+3 
+
+Fig. 3. Surrounding environment and physical characteristics of each site.
+L. Zhou et al. 
+Applied Acoustics 242 (2026) 111101 
+4 
+
+to measure environmental factors such as wind and temperature [30]. 
+To capture crowd density, a 360◦panoramic camera (Insta360 ONE X2) 
+was used to record the entire experiment [31]. Each measurement point 
+was recorded for five minutes [32].
+During the experiment, the questionnaire survey and 360◦pano­
+ramic camera recording were conducted simultaneously. Upon 
+completing the questionnaire, a five-minute physical sound index 
+measurement was immediately performed. To ensure randomization, 
+passersby were selected every ten minutes for participation in the sur­
+vey. Additionally, a brief training session was conducted prior to the 
+survey to help participants understand the questionnaire items and 
+soundscape attributes, thereby minimizing observation bias.
+This study was conducted in strict accordance with established 
+standards for long-term audiovisual environmental monitoring [33], 
+protocols for soundscape data collection [32], and relevant ethical 
+guidelines. During fieldwork, conspicuous signage was displayed to 
+inform the public of the equipment in use and the experimental pro­
+cedures, thereby ensuring compliance with local legislation and insti­
+tutional ethical requirements.
+All data were anonymized throughout the processing stage and 
+securely deleted after the completion of the study. No identity recog­
+nition algorithms were applied, and the data were not used for any 
+commercial purposes. Microphones and cameras were employed 
+exclusively for academic research, with a primary emphasis on the 
+analysis of spatial crowd behavior.
+Visual data were processed using a pixel-grid approach to quantify 
+crowd density, with all facial features blurred to safeguard anonymity. 
+Audio data were restricted to environmental acoustic indicators (e.g., 
+LAeq), with speech and other potentially identifiable content systemati­
+cally excluded.
+At the start of each measurement session, the wind heat detector 
+(HDD32.3TC) was used to measure ambient temperature and wind 
+speed. The average ambient temperature was found to be 20.33 ◦C, with 
+an average wind speed of 0.54 m/s. No significant differences were 
+observed in the environmental conditions across the measurement 
+sessions.
+As summarized in Table 1, a total of 315 participants were included 
+in the study. Regarding age distribution, most of the participants were 
+between 18 and 30 years old. In terms of gender, the proportion of male 
+and female participants was approximately equal, although females 
+slightly outnumbered males by 13 %. Concerning educational 
+background, a large proportion of the respondents (81.3 %) had at least 
+a bachelor’s degree, indicating a highly educated sample. Regarding 
+residential identity, the majority of respondents (79.7 %) were tourists 
+or part of the floating population. In terms of economic status, a sig­
+nificant number of respondents (49.5 %) had no fixed income. Finally, 
+regarding travel budgets, the largest group of participants (31.7 %) re­
+ported a budget range of 1,000 (CNY) to 3,000 (CNY).
+2.3. Questionnaire design
+The questionnaire covered three aspects of perception (Appendix 
+A.1): demographic variables, soundscape perception [32], economic 
+behavior. The first section gathered demographic data, including age, 
+gender, education, identity, income, travel budget, and occupational 
+[34]. The second section employed a 5-point Likert scale to assess par­
+ticipants’ on-site soundscape perception [35], this included evaluations 
+of dominant sound source loudness, event frequency (the number of 
+occurrences in which an individual perceives a particular sound source), 
+preference, and overall soundscape quality. Perceptions of the overall 
+environment and sound expectations were also assessed. For instance, 
+the following scale was used to evaluate subjective loudness [36]: 1-very 
+soft, 2-soft, 3-neither soft nor loud, 4-loud, and 5-very loud. Soundscape 
+perceived affective quality was evaluated using an 8-item semantic 
+differential scale [23]: 1-pleasant, 2- annoying, 3-eventful, 4-uneventful, 
+5-chaotic, 6-calm, 7-vibrant, and 8-monotonous. The third sect
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1.
+Fig. 1. The foundational framework of this study.
+Fig. 2
+Fig. 3.
+Fig. 2. Basic layout of the Dongguan Street historic and cultural block, showing the locations of the five experimental zones.
+Fig. 3. Surrounding environment and physical characteristics of each site.
+Table 1, a total of 315 participants were included 
+Table 1 
+Fig. 4).
+Fig. 5). This method has been widely applied in urban visual density 
+Fig. 4. Crowd Plane Density (CPD) measurement, taking Site 3 as an Example: (a) Current situation photo, (b) the symbol extraction has been calculated.
+Fig. 6 presents the results of the Spearman 
+Fig. 5. Crowd Facade Density (CFD) measurement, taking Site 1 as an Example: (a) Current situation photo, (b) pixel grid extraction of human features.
+Fig. 6. Spearman’s rank correlation coefficients between physical acoustic in­
+Fig. 7. The analysis revealed that among all perceived 
+Table 2, the associations between psychoacoustic parameters and 
+Fig. 7. Spearman’s rank correlation coefficients between perceived affective 
+Fig. 8), revealed that the 
+Fig. 9, indicated that both CFD and 
+Table 3). Factor 1 (33.96 %) and Factor 3 (8.62 %) were associated 
+Table 2 
+Fig. 8. Spearman’s rank correlation coefficients between crowd density and 
+Table 4 presents the results of the categorical regression (CATREG) 
+Fig. 9. Relationships between the CFD, CPD4, and economic behavior, with the corresponding linear trend curves, coefficients of determination (R2), and signif­
+Table 3 
+
+======================================================================
+

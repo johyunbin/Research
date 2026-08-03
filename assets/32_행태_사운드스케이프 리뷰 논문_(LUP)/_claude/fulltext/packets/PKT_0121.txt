@@ -1,0 +1,328 @@
+### RECORD ID=121 | screening_verdict=INCLUDE | year=2010
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Effects of Changed Aircraft Noise Exposure on the Use of Outdoor Recreational Areas
+DOI: 10.3390/ijerph7113890
+PAGES: 26
+
+--- HEAD (title/abstract/intro) ---
+Int. J. Environ. Res. Public Health 2010, 7, 3890-3915; doi:10.3390/ijerph7113890 
+ 
+International Journal of 
+Environmental Research and 
+Public Health 
+ISSN 1660-4601 
+www.mdpi.com/journal/ijerph 
+Article 
+Effects of Changed Aircraft Noise Exposure on the Use of 
+Outdoor Recreational Areas 
+Norun Hjertager Krog 1,*, Bo Engdahl 2 and Kristian Tambs 2 
+1 Department of Air Pollution and Noise, Division of Environmental Medicine, Norwegian Institute 
+of Public Health, PO Box 4404 Nydalen, N-0403 Oslo, Norway 
+2 Division of Mental Health, Norwegian Institute of Public Health, PO Box 4404 Nydalen, 
+N-0403 Oslo, Norway; E-Mails: bo.engdahl@fhi.no (B.E.); kristian.tambs@fhi.no (K.T.) 
+* Author to whom correspondence should be addressed; E-Mail: norun.krog@fhi.no; 
+Tel.: +47-21-07-83-62, Fax: +47-21-07-81-01. 
+Received: 24 September 2010; in revised form: 27 October 2010 / Accepted: 28 October 2010 / 
+Published: 3 November 2010 
+ 
+Abstract: This paper examines behavioural responses to changes in aircraft noise exposure 
+in local outdoor recreational areas near airports. Results from a panel study conducted in 
+conjunction with the relocation of Norway’s main airport in 1998 are presented. One 
+recreational area was studied at each airport site. The samples (n = 1,264/1,370) were 
+telephone interviewed about their use of the area before and after the change. Results 
+indicate that changed aircraft noise exposure may influence individual choices to use local 
+outdoor recreational areas, suggesting that careful considerations are needed in the 
+planning of air routes over local outdoor recreational areas. However, considerable 
+stability in use, and also fluctuations in use unrelated to the changes in noise conditions 
+were found. Future studies of noise impacts should examine a broader set of coping 
+mechanisms, like intra- and temporal displacement. Also, the role of place attachment, and 
+the substitutability of local areas should be studied. 
+Keywords: aircraft noise; annoyance; behavioural effects; constraints; displacement; panel 
+study; place attachment; outdoor recreation; telephone survey 
+ 
+OPEN ACCESS
+
+Int. J. Environ. Res. Public Health 2010, 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3891
+1. Introduction and Review of the Literature 
+The purpose of this paper is to examine the influence of noise from commercial air traffic on 
+individual choices to visit specific local outdoor recreational areas. Although the experience of natural 
+quiet and the absence of noise are indicated to be among the most important motivations for visiting 
+outdoor recreational areas [1,2], studies on behavioural consequences of noise on outdoor recreation 
+are largely lacking. In a qualitative explorative study of hypothetical site choices [3] peacefulness and 
+seclusion were attributes that strongly attracted several subjects, while the presence of motorized 
+vehicles was rated negatively because of the noise that follows. In evaluating the single aircraft 
+overflight they remembered best, almost 10 percent of the visitors to four wilderness areas responded 
+that “it made me (slightly to extremely) feel like changing my travel plans” [4]. Fidell et al. [5] found 
+no significant relationships between intention to revisit and annoyance due to sight or sound of aircraft 
+in two studies of effects of aircraft overflights on wilderness recreationists. But none of these cross 
+sectional studies examined actual revisit behaviour. 
+Various kinds of adverse experiential effects of aircraft noise on outdoor recreationists, like 
+annoyance or being bothered, have been demonstrated in field studies [5-14]. Other effects found are 
+interference with natural quiet [6,8,14] or detraction from the recreational experience [9]. Studies of 
+conflict between different user groups in outdoor recreational areas have often focused on motorized 
+versus non-motorized use [15-20]. An asymmetrical relationship has been found where motorized use 
+interferes with the goals of other recreationists. The word “noise” is not always mentioned in these 
+studies, but may more or less be an implicit or underlying issue. However, examining reactions to 
+different aspects of snowmobiles, both Jackson and Wong [19] and Vittersø et al. [20] found noise to 
+be the most salient problem. 
+Factors that adversely influence the participation in and enjoyment of recreational activities have 
+been studied within constraints research. Jackson [21] offers the following description of constraints 
+research: “Leisure constraints research aims to investigate “factors that are assumed by researchers 
+and/or perceived or experienced by individuals to limit the formation of leisure preferences and/or to 
+inhibit or prohibit participation and enjoyment in leisure” (modified from Jackson, 1991, 1997)” 
+[22,23]. McClaskie et al. [24] recommended that qualitative aspects of available recreation 
+opportunities should be investigated as barriers to participation in outdoor recreational activities. 
+“Facilities” was one of the six dimensions of constraints identified by Jackson [25]. However, the 
+facility related items that have been measured are few and general. Commonly, the items included 
+describing qualitative aspects of the recreational resources are “facilities or areas are overcrowded” 
+and/or “facilities or areas are poorly kept or maintained” [25-36]. McGuire [26] included an item “The 
+places to do the activity have pollution problems”, but we have not found any study within this area of 
+leisure research that examined noise as a possible constraint to the use of specific outdoor recreational 
+areas. Overall, the focus of the constraints literature seems to be more on the formation of leisure 
+choices in general, or the participation in special activities, than on the choice of specific facilities 
+(or recreational areas) for performing the activity. 
+A relationship between the experience of adverse environmental factors at specific recreational sites 
+and behavioural responses ha
+
+--- METHODS/RESULTS EXCERPT ---
+Method 
+2.1. Study Areas 
+The two forest areas studied were Bygdøy, near the old main airport, and Romeriksåsen near the 
+new airport. The forest area at Bygdøy is about 2.6 km2, while Romeriksåsen is about 7,600 km2. The 
+areas were chosen on grounds of their location relative to the airports, and because they were much 
+used by the local communities. Figures 1 and 2 show maps of the areas, and their location relative to 
+
+Int. J. Environ. Res. Public Health 2010, 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3894
+the old and the new airport, respectively. Neither Bygdøy nor Romeriksåsen is situated more than 
+about 11 kilometers from the homes of any of the respondents in the respective samples, which means 
+that it is theoretically possible for them to use the area regularly. The air traffic over both areas was 
+dominated by jet aircraft in route traffic both before and after the change. The change in exposure 
+levels was largest at the old airport, since this airport was totally closed down. What remained after the 
+change were overflights at high altitudes, and helicopter traffic. The new main airport was an existing 
+airport, which was expanded. The areas and the aircraft noise levels are described at more detail 
+elsewhere [10,11,53,54]. 
+Figure 1. Map of the recreational area at the peninsula Bygdøy and its location relative to 
+the old airport. Based on the Norwegian Mapping Authority—NE12000-271010SAS and 
+walking map, Oslo West [55], published with permission from the Agency for Outdoor 
+Recreation and Nature Management, City of Oslo. 
+ 
+
+Int. J. Environ. Res. Public Health 2010, 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3895
+Figure 2. Map of the recreational area Romeriksåsen and its location relative to the new 
+airport. Based on the Norwegian Mapping Authority—NE12000-271010SAS and walking 
+map, Akershus [56], published with permission from Akershus County Council. 
+ 
+
+Int. J. Environ. Res. Public Health 2010, 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3896
+2.2. Procedure 
+Telephone interviews were conducted with the same people at the same time of the year before and 
+after the moving of the airport, in November 1997 and 1999 for Romeriksåsen, and in May–June 1998 
+and 1999 for Bygdøy. Throughout the paper we will use the term t1 (time 1) whenever referring to data 
+from the “before” situation in each of the areas, and t2 (time 2) whenever referring to the “after” 
+situation. Because the data collection period each time lasted for about four weeks, people interviewed 
+during the first half of the period the first time would also be interviewed during the first half of the 
+period the second time, and vice versa. This was done to secure that changes in frequency of use were 
+not due to seasonal changes. 
+The main part of the questionnaire was presented only to the visitors of the areas [visitors should 
+have visited the area at least once during the past three months, and at least two times during the past 
+six months (Romeriksåsen), or two times during the past 12 months (Bygdøy)]. Another set of 
+questions was posed to a sub-sample of non-visitors. Visitors were interviewed about their use of the 
+area the past three months, while non-visitors were asked why they had not visited the area during the 
+same period. At the start of the second interview the respondents were filtered with the same filter 
+questions as before into one visitor- and one non-visitor-group, regardless of their status in the first 
+interview. Details about the data collection are presented elsewhere [53]. 
+2.3. Dropouts 
+Table 1 shows the number of interviews made at t1 and t2 as well as the number of dropouts (those 
+who could not be interviewed twice, regardless of reason) at each point in time. Nine calls were made 
+to reach the respondents at t2. A comparison with field study samples from the same areas [10,11] 
+indicated that the final visitor samples were representative of the users of the respective area in terms 
+of gender, age, and educational level. To test whether the dropouts differed from the remaining 
+samples of visitors from t1 regarding the central variable annoyance with sound from aircraft, t-tests 
+were conducted. The t-test assesses whether the means of two groups are statistically different from 
+each other. No systematic differences were found. Multivariate logistic regression analyses were 
+conducted to test whether the dropouts from the initial non-visitor group differed systematically from 
+the remaining sample regarding reasons for non-use and earlier experience with the area (see the 
+section “Analyses and Variables” for a description of the variables). Respondents who indicated that a 
+reason for not visiting Bygdøy at t1 was that they were not interested in outdoor recreational activities, 
+or they had just moved in, or their health was too bad, were less likely to participate in the second 
+survey than other non-visitors. Non-visitors who preferred other outdoor recreational areas at t1, were 
+less likely to drop out of the Bygdøy sample than other non-visitors. Lack of interest in outdoor 
+recreational activities and bad health as reasons for being non-visitors at t1 were also associated with a 
+heightened probability to drop out of the Romeriksåsen sample. In addition, the non-visitors at t1, who 
+had visited the area earlier, were more likely to be in the final sample than subjects with no earlier 
+experience with the area. 
+
+Int. J. Environ. Res. Public Health 2010, 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3897
+Table 1. Interviews and dropouts at t1 and t2, Bygdøy and Romeriksåsen. 
+ 
+Bygdøy 
+Romeriksåsen 
+ 
+Visitors t1 
+Non-visitors t1 
+Visitors t1 
+Non-visitors t1 
+ 
+ 
+1,600
+ 
+ 
+700
+ 
+ 
+1,620
+ 
+ 
+700
+ 
+ 
+Vis. t2 
+1 
+Non-vis. t2 
+Vis. t2 
+Non-vis. t2 
+Vis. t2 
+Non-vis. t2 
+Vis. t2 
+Non-vis. t2 
+ 
+591 
+309 
+69 
+295 
+641 
+330 
+86 
+313 
+Sum t2 
+ 
+900
+ 
+ 
+364
+ 
+ 
+971
+ 
+ 
+399
+ 
+Dropouts: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Refused t1 
+2 
+ 
+216
+ 
+ 
+145
+ 
+ 
+85
+ 
+ 
+73
+ 
+Lost t2 
+3 
+ 
+434
+ 
+ 
+157
+ 
+ 
+483
+ 
+ 
+167
+ 
+Refused t2 
+4 
+ 
+50
+ 
+ 
+34
+ 
+ 
+81
+ 
+ 
+61
+ 
+1 Vis. = Visitors; N
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. Map of the recreational area at the peninsula Bygdøy and its location relative to 
+Figure 2. Map of the recreational area Romeriksåsen and its location relative to the new 
+Table 1 shows the number of interviews made at t1 and t2 as well as the number of dropouts (those 
+Table 1. Interviews and dropouts at t1 and t2, Bygdøy and Romeriksåsen. 
+Table 2 shows the results of the logistic regression analysis of the relationship 
+Table 2. Probability of becoming a visitor at t2 dependent on reasons for not visiting 
+Table 3 shows the results of the multivariate linear regression analysis of the relationship between 
+Table 3. Frequency of use of Bygdøy at t2 dependent on reasons for not visiting at t1, and 
+Table 4. The 
+Table 4. Annoyance with sound from aircraft at t1, Romeriksåsen, dependent on 
+Table 5 (n = 971). 
+Table 5. Non-use at t2, dependent on activities, reasons for participation, frequency of use, 
+Table 6 shows the relationship between the situational variables measured 
+Table 6. Aircraft noise as a reported reason for not visiting Romeriksåsen at t2 dependent 

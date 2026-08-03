@@ -1,0 +1,230 @@
+### RECORD ID=1141 | screening_verdict=INCLUDE | year=2025
+JOURNAL: URBAN FORESTRY & URBAN GREENING
+TITLE: How objective and subjective greenspace, combined with air and noise pollution, impacts mental health through the mediation of physical activity
+DOI: 10.1016/j.ufug.2025.128683
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+How objective and subjective greenspace, combined with air and noise 
+pollution, impacts mental health through the mediation of physical activity
+Zhenchuan Yang a,1, Mei-Po Kwan a,b,*,2
+, Dong Liu a,c,3, Jianwei Huang a,4
+a Institute of Space and Earth Information Science, Fok Ying Tung Remote Sensing Science Building, The Chinese University of Hong Kong, Shatin, Hong Kong, China
+b Department of Geography and Resource Management, Wong Foo Yuan Building, The Chinese University of Hong Kong, Shatin, Hong Kong, China
+c School of Humanities and Social Science, Teaching Complex B, The Chinese University of Hong Kong, Shenzhen, China
+A R T I C L E I N F O
+Handling Editor: Dr Cecil Konijnendijk van den 
+Bosch
+Keywords:
+Greenspace
+Air pollution
+Noise pollution
+Physical activity
+Mental health
+Combined effects
+Mediation
+A B S T R A C T
+Global mental health is facing challenges. Environmental factors, such as enhanced greenspace and reduced air 
+and noise pollution, alongside physical activity, are assumed to be significant promoters of mental health. 
+However, previous studies have not thoroughly investigated the combined effects of greenspace, air pollution, 
+noise pollution, and physical activity regarding their impact on mental health. Moreover, there is a scant 
+consideration of the subjective versus objective assessments of greenspace exposure. Therefore, this study aims to 
+bridge these gaps by systematically exploring how objective and subjective greenspace, combined with air and 
+noise pollution, impacts mental health through the mediation of physical activity. Data were gathered from 683 
+participants in Hong Kong between November 19, 2021 and April 6, 2023, supplemented by NDVI data from 
+Sentinel-2. Structural equation modeling and mediation analyses were employed. The findings indicated that (1) 
+Objective greenspace does not necessarily affect perceived and real usage of greenspace; rather, the quality of 
+greenspace plays a more critical role; (2) Physical activity significantly mediates the relationships between 
+greenspace, air pollution, and noise pollution and mental health, with a more pronounced effect for greenspace; 
+(3) Combined effects showed that greenspace has the most substantial total effect on mental health, followed by 
+air pollution and noise pollution. Our study enriches the existing literature and suggests the necessity of inte­
+grating urban greenspace planning with environmental governance, focusing particularly on greenspace quality.
+1. Introduction
+Mental health, recognized as a fundamental human right, has 
+attracted increasing attention from scholars, practitioners, and policy­
+makers (Patel et al., 2018). The Lancet and World Health Organization 
+(WHO) emphasized that “there is no health without mental health” 
+(Prince et al., 2007; WHO, 2021). Despite this recognition, the global 
+mental health situation remains challenging, with approximately 970 
+million individuals suffering from mental disorders in 2019, facing a 
+reduced life expectancy of 10–20 years compared to the general popu­
+lation (WHO, 2024). Therefore, addressing this crisis through effective 
+and efficient interventions to improve mental health is imperative.
+Scholars have documented the solid effects of environmental factors 
+on mental health, which allows us to protect citizens’ mental health by 
+carefully constructing and managing urban environments, including 
+greenspace, air pollution, and noise pollution. Specifically, the role of 
+neighborhood greenspace has been extensively investigated, with a 
+consensus emerging that well-maintained greenspace is beneficial for 
+mental health through two prominent mechanistic pathways: attention 
+restoration theory (ART) and stress reduction theory (SRT) (Collins 
+et al., 2020; Dzhambov et al., 2018; Nutsford et al., 2013). Objective 
+greenspace metrics, including neighborhood greenness and greenspace 
+* Corresponding author at: Institute of Space and Earth Information Science, Fok Ying Tung Remote Sensing Science Building, The Chinese University of Hong 
+Kong, Shatin, Hong Kong, China.
+E-mail addresses: zhenchuan.yang@link.cuhk.edu.hk (Z. Yang), mpk654@gmail.com (M.-P. Kwan), dongliu@cuhk.edu.cn (D. Liu), jianwei.huang@link.cuhk.edu. 
+hk (J. Huang). 
+1 ORCID: 0000–0002-0802–7510
+2 ORCID: 0000–0001-8602–9258
+3 ORCID: 0000–0001-9090–5732
+4 ORCID: 0000–0002-2230–3446
+Contents lists available at ScienceDirect
+Urban Forestry & Urban Greening
+journal homepage: www.elsevier.com/locate/ufug
+https://doi.org/10.1016/j.ufug.2025.128683
+Received 6 September 2024; Received in revised form 6 January 2025; Accepted 16 January 2025 
+Urban Forestry & Urban Greening 105 (2025) 128683 
+Available online 21 January 2025 
+1618-8667/© 
+2025 
+The 
+Author(s). 
+Published 
+by 
+Elsevier 
+GmbH. 
+This 
+is 
+an 
+open 
+access 
+article 
+under 
+the 
+CC 
+BY-NC-ND 
+license 
+( http://creativecommons.org/licenses/by-nc-nd/4.0/ ). 
+
+accessibility, have been linked to mental health. Empirical studies in 
+Beijing and Guangzhou, China, have demonstrated positive associations 
+between neighborhood greenness–quantified using the Normalized 
+Difference Vegetation Index (NDVI) and street view imagery–and 
+mental health (Qin et al., 2021; Wang et al., 2022). Furthermore, 
+greenspace accessibility, defined as access to open greenspace, has been 
+associated with reductions in self-reported depression and anxiety, 
+although this association is weaker and less certain (Houlden et al., 
+2018; Triguero-Mas et al., 2015). Recent research has also emphasized 
+the significance of self-perceived neighborhood greenspace (i.e., the 
+quality of greenspace), which encompasses factors such as aesthetics 
+and safety. For example, Wu et al. (2023) suggested that both quantity 
+(availability and accessibility) and quality (attractiveness and natural 
+aesthetics) of greenspace positively influence life satisfaction, with 
+quality having a more pronounced effect. According to socio-ecological 
+models of health, bot
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Funding acquisition, 
+Conceptualization. Dong Liu: Writing – review & editing, Methodology, 
+Conceptualization. Jianwei Huang: Writing – review & editing, 
+Methodology.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgments
+We thank the editor and the reviewers for their helpful comments. In 
+addition, we would also like to express our gratitude to all the partici­
+pants who generously devoted their time to the study.
+Informed consent statement
+Informed consent was obtained from all participants before data 
+were collected from them.
+Appendix A. Supporting information
+Supplementary data associated with this article can be found in the 
+online version at doi:10.1016/j.ufug.2025.128683.
+References
+Althubaiti, A., 2016. Information bias in health research: definition, pitfalls, and 
+adjustment methods. J. Multidiscip. Healthc. 9, 211–217. https://doi.org/10.2147/ 
+JMDH.S104807.
+An, R., Shen, J., Ying, B., Tainio, M., Andersen, Z.J., de Nazelle, A., 2019. Impact of 
+ambient air pollution on physical activity and sedentary behavior in China: a 
+systematic review, 2 Environ. Res. 176, 108545. https://doi.org/10.1016/j. 
+envres.2019.108545.
+An, R., Zhang, S., Ji, M., Guan, C., 2018. Impact of ambient air pollution on physical 
+activity among adults: a systematic review and meta-analysis. Perspect. Public 
+Health 138 (2), 111–121. https://doi.org/10.1177/1757913917726567.
+Anderson, J.C., Gerbing, D.W., 1988. Structural equation modeling in practice: a review 
+and recommended two-step approach. Psychol. Bull. 103 (3), 411–423. https://doi. 
+org/10.1037/0033-2909.103.3.411.
+Bentler, P.M., Bonett, D.G., 1980. Significance tests and goodness of fit in the analysis of 
+covariance structures. Psychol. Bull. 88 (3), 588–606. https://doi.org/10.1037/ 
+0033-2909.88.3.588.
+Brindley, P., Cameron, R.W., Ersoy, E., Jorgensen, A., Maheswaran, R., 2019. Is more 
+always better? Exploring field survey and social media indicators of quality of urban 
+greenspace, in relation to health. Urban For. Urban Green. 39, 45–54. https://doi. 
+org/10.1016/j.ufug.2019.01.015.
+Chen, M., Dai, F., Yang, B., Zhu, S., 2019. Effects of neighborhood green space on PM2.5 
+mitigation: evidence from five megacities in China. Build. Environ. 156, 33–45. 
+https://doi.org/10.1016/j.buildenv.2019.03.007.
+Cobbold, A.T., Crane, M.A., Knibbs, L.D., Hanigan, I.C., Greaves, S.P., Rissel, C.E., 2022. 
+Perceptions of air quality and concern for health in relation to long-term air 
+pollution exposure, bushfires, and COVID-19 lockdown: a before-and-after study. 
+J. Clim. Change Health 6, 100137. https://doi.org/10.1016/j.joclim.2022.100137.
+Collier, J., 2020. Applied Structural Equation Modeling using AMOS: Basic to Advanced 
+Techniques. Routledge. https://doi.org/10.4324/9781003018414.
+Collins, R.M., Spake, R., Brown, K.A., Ogutu, B.O., Smith, D., Eigenbrod, F., 2020. 
+A systematic map of research exploring the effect of greenspace on mental health. 
+Landsc. Urban Plan. 201, 103823. https://doi.org/10.1016/j. 
+landurbplan.2020.103823.
+Craig, C.L., Marshall, A.L., Sj¨ostr¨om, M., Bauman, A.E., Booth, M.L., Ainsworth, B.E., 
+Pratt, M., Ekelund, U.L.F., Yngve, A., Sallis, J.F., 2003. International physical activity 
+questionnaire: 12-country reliability and validity. Med. Sci. Sports Exerc. 35 (8), 
+1381–1395.
+Cunningham, C., O’ Sullivan, R., Caserotti, P., Tully, M.A., 2020. Consequences of 
+physical inactivity in older adults: a systematic review of reviews and meta-analyses. 
+Scand. J. Med. Sci. Sports 30 (5), 816–827. https://doi.org/10.1111/sms.13616.
+de Vries, S., van Dillen, S.M.E., Groenewegen, P.P., Spreeuwenberg, P., 2013. Streetscape 
+greenery and health: stress, social cohesion and physical activity as mediators. Soc. 
+Sci. Med. 94, 26–33. https://doi.org/10.1016/j.socscimed.2013.06.030.
+Dillen, S.M.E. van, Vries, S. de, Groenewegen, P.P., Spreeuwenberg, P., 2012. Greenspace 
+in urban neighbourhoods and residents’ health: adding quality to quantity. e8–e8 
+J. Epidemiol. Community Health 66 (6). https://doi.org/10.1136/ 
+jech.2009.104695.
+Dzhambov, A., Hartig, T., Markevych, I., Tilov, B., Dimitrova, D., 2018. Urban residential 
+greenspace and mental health in youth: Different approaches to testing multiple 
+pathways yield different conclusions. Environ. Res. 160, 47–59. https://doi.org/ 
+10.1016/j.envres.2017.09.015.
+Dzhambov, A.M., Dimitrova, D.D., 2014. Urban green spaces′ effectiveness as a 
+psychological buffer for the negative health impact of noise pollution: a systematic 
+review. Noise Health 16 (70), 157. https://doi.org/10.4103/1463-1741.134916.
+Dzhambov, A.M., Dimitrova, D.D., 2015. Green spaces and environmental noise 
+perception. Urban For. Urban Green. 14 (4), 1000–1008. https://doi.org/10.1016/j. 
+ufug.2015.09.006.
+Dzhambov, A.M., Markevych, I., Tilov, B., Arabadzhiev, Z., Stoyanov, D., Gatseva, P., 
+Dimitrova, D.D., 2018. Pathways linking residential noise and air pollution to mental 
+ill-health in young adults. Environ. Res. 166, 458–465. https://doi.org/10.1016/j. 
+envres.2018.06.031.
+Dzhambov, A., Tilov, B., Markevych, I., Dimitrova, D., 2017. Residential road traffic 
+noise and general mental health in youth: the role of noise annoyance, neighborhood 
+restorative quality, physical activity, and social cohesion as potential mediators. 
+Environ. Int. 109, 1–9. https://doi.org/10.1016/j.envint.2017.09.009.
+Echeverría, S., Diez-Roux, A.V., Shea, S., Borrell, L.N., Jackson, S., 2008. Associations of 
+neighborhood problems and neighborhood social cohesion with mental health and 
+health behaviors: the multi-ethnic study of atherosclerosis. Health Place 14 (4), 
+853–865. https://doi.org/10.1016/j.healthplace.2008.01.004.
+Z. Yang et al. 
+Urban Forestry & Urban Greening 105 (2025) 128683 
+11 
+
+Foraster, M., Eze, I.C., Vienneau, D., Brink, M., Cajochen
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. This study collected survey data 
+Fig. 1 signify observed variables that can be 
+Fig. 2). The participant 
+Table 1. The average 
+Fig. 1. A conceptual framework of the relationships among greenspace, air pollution, noise pollution, physical activity, and mental health.
+Fig. 2. The four research communities in New Territories West, New Territories East, Kowloon, and Hong Kong Island regions of Hong Kong.
+Table 1 
+Table 2. The p-value column 
+Fig. 1. The estimated SEM had an adequate fit to the data, with most fit 
+Fig. 3, and the results of the full structural model with cova­
+Table 2 
+Table 2 (continued)
+Table 3 reported observed and standardized direct, indirect, and 
+Fig. 3. Estimated standardized coefficients (β) of the full structural equation model, adjusted for all covariates. Values in parentheses are bootstrap standard error
+Table 3 
+Fig. 3). Nevertheless, our sensitivity analysis revealed that objective 
+Table 2). However, these mediation effects were modest. These results 
+Table 2). This finding lends support to the prevailing view 
+Fig. 3) indicated that 

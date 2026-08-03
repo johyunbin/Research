@@ -1,0 +1,15 @@
+### RECORD ID=7 | screening_verdict=INCLUDE | year=1978
+JOURNAL: Journal of Social Psychology
+TITLE: Effects of urban noise and sidewalk density upon pedestrian cooperation and tempo
+DOI: 10.1080/00224545.1978.9924035
+PAGES: 8
+
+--- HEAD (title/abstract/intro) ---
+Copyright of Journal of Social Psychology is the property of Taylor & Francis Ltd and its content may not be
+copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written
+permission. However, users may print, download, or email articles for individual use.
+
+--- METHODS/RESULTS EXCERPT ---
+
+
+--- TABLE/FIGURE CAPTIONS ---

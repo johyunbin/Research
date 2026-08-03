@@ -1,0 +1,195 @@
+### RECORD ID=1226 | screening_verdict=INCLUDE | year=2026
+JOURNAL: INTERNATIONAL JOURNAL OF HYGIENE AND ENVIRONMENTAL HEALTH
+TITLE: Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities
+DOI: 10.1016/j.ijheh.2026.114816
+PAGES: 11
+
+--- HEAD (title/abstract/intro) ---
+Environmental characteristics and physical activity: A cross-sectional study 
+in Bulgaria's five largest cities
+Angel M. Dzhambov a,b,*
+, Angel Burov a,b,c, Iana Markevych a,b,d
+, 
+Kostadin R. Kostadinov a,b,e, Donka Dimitrova a,b,f
+, Marco Helbich a,b,g, 
+Mark J. Nieuwenhuijsen h,i,j
+a Health and Quality of Life in a Green and Sustainable Environment Research Group, Strategic Research and Innovation Program for the Development of Medical 
+University of Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria
+b Environmental Health Division, Research Institute at Medical University of Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria
+c Department of Urban Planning, Faculty of Architecture, University of Architecture, Civil Engineering and Geodesy, Sofia, Bulgaria
+d Institute of Psychology, Jagiellonian University, Krakow, Poland
+e Department of Social Medicine and Public Health, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria
+f Department of Health Management and Health Economics, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria
+g Department of Human Geography and Spatial Planning, Faculty of Geosciences, Utrecht University, Utrecht, the Netherlands
+h Barcelona Institute for Global Health, Barcelona, Spain
+i Universitat Pompeu Fabra, Barcelona, Spain
+j CIBERESP, Madrid, Spain
+A R T I C L E I N F O
+Keywords:
+Air pollution
+Bikeability
+Bluespace
+Greenspace
+Traffic noise
+Walkability
+A B S T R A C T
+Urban characteristics can shape physical activity, but evidence regarding their joint role alongside individual 
+perceptions remains limited. This study examined the combined associations of multiple environmental char­
+acteristics with physical activity across the five most populous cities in Bulgaria. A cross-sectional survey of 4640 
+adults was conducted in 2023. Physical activity across different intensity levels was measured with the short 
+form of the International Physical Activity Questionnaire and linked to objective measures of neighborhood 
+walkability, fine particulate matter, road traffic noise, area-level socioeconomic status (SES), and availability of 
+greenspace and bluespace within 300 m and 1000 m buffers. Presence of a home garden was self-reported, along 
+with perceived walkability, bikeability, greenspace, bluespace, and sociodemographic factors. Results showed 
+that walkability, greenspace, area-level SES, home gardens, perceived bluespace, high/low perceived greenspace 
+(vs. medium), and bikeability were positively associated with time spent in vigorous physical activity. Walk­
+ability, greenspace, perceived bluespace, low/high perceived greenspace, home gardens, and bluespace were 
+positively associated with moderate-to-vigorous physical activity. Objective and perceived walkability, medium/ 
+high levels of greenspace, low/high area-level SES, and home gardens were positively associated with walking. 
+Associations remained robust after accounting for air pollution and noise, which were unexpectedly positively 
+associated with certain forms of physical activity. These findings appear meaningful from a preventive 
+perspective and may provide arguments for improving urban design conducive to physical activity and urban 
+planning initiatives.
+1. Introduction
+Globally, both developed and developing countries are experiencing 
+declining levels of physical activity, with one in three adults being 
+insufficiently active in 2022 (Strain et al., 2024). This trend reflects 
+structural effects of the larger political, economic and sociocultural 
+context, which influences living conditions and lifestyle (Dahlgren and 
+Whitehead, 2021), including increased sedentary leisure activities, 
+overreliance on motorized transportation, environmental degradation, 
+and unhealthy urban design (Buscemi and Giordano, 2017). At the same 
+* Corresponding author. Environmental Health Division, Research Institute at Medical University of Plovdiv, Medical University of Plovdiv, 15A Vassil Aprilov 
+Blvd., 4002, Plovdiv, Bulgaria.
+E-mail addresses: angelleloti@gmail.com, angel.dzhambov@mu-plovdiv.bg (A.M. Dzhambov). 
+Contents lists available at ScienceDirect
+International Journal of Hygiene and Environmental Health
+journal homepage: www.elsevier.com/locate/ijheh
+https://doi.org/10.1016/j.ijheh.2026.114816
+Received 22 February 2026; Received in revised form 15 April 2026; Accepted 4 May 2026 
+International Journal of Hygiene and Environmental Health 275 (2026) 114816 
+Available online 8 May 2026 
+1438-4639/© 2026 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+time, regular physical activity has emerged as a key behavioral pathway 
+to prevent disease onset, slow progression, and facilitate recovery in 
+affected individuals by reducing inflammation and improving metabolic 
+control among other benefits (Silverman and Deuster, 2014; Posadzki 
+et al., 2020; Dhuli et al., 2022; Bourke et al., 2024). Beyond physical 
+fitness, physical activity provides a foundation for psychological 
+well-being and cognitive performance (Lubans et al., 2016; White et al., 
+2024).
+Outdoor environments can either facilitate or discourage recrea­
+tional walking and more intense forms of physical activity (Dzhambov 
+et al., 2023). Access to services, mixed land use, pedestrian infrastruc­
+ture, and shorter distances between homes and locations of interest are 
+strong predictors of time spent daily walking (Hajna et al., 2015) and 
+bicycling (Frank et al., 2006). Conversely, air pollution and traffic noise 
+diminish satisfaction with the environment and reduce willingness to 
+spend time outdoors (Andersson et al., 2023; Li et al., 2025). These 
+factors can also negatively impact physical and mental health, lowering 
+vitality, physiological stamina, and endurance (cf. Roswall et al., 2017; 
+Tainio et al., 2021). Much of the appeal of streetscapes for walking and 
+bicycling is as
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Survey design and sampling
+Between August and October 2023, a representative quota sample of 
+the general population was collected from the five most populous cities 
+in Bulgaria. The study areas included the capital, Sofia (~1.2 million 
+inhabitants), as well as Plovdiv (~330 000), Varna (~320 000), Burgas 
+(~190 000), and Ruse (~120 000). Sofia, Plovdiv, and Ruse are land­
+locked with varying access to rivers (e.g., Iskar, Maritsa, and the Dan­
+ube), whereas Varna and Burgas are located on the Black Sea coast. A 
+map of the study areas is shown in Fig. S1 in Supplementary File 1.
+A detailed description of the Bulgarian Healthy Urban Environment 
+study is provided elsewhere (Dzhambov et al., 2025). Briefly, partici­
+pants were approached at their homes by trained interviewers from a 
+professional survey company. Bulgarian-speaking adults aged ≥18 years 
+residing at their current address for at least one year were included. 
+Participants were sampled according to quotas from predefined spatial 
+typologies within each city to improve spatial contrast and thus, in­
+crease analytical power. A total of 4640 participants were included, with 
+response rates ranging from 30% in Sofia to 58% in Plovdiv.
+Participants provided informed consent verbally. All procedures 
+followed relevant EU data protection regulations. The study was 
+approved by the Scientific Ethics Committee at the Medical University of 
+Plovdiv (Protocol No. 4/May 04, 2023; Opinion No. P-1253/May 17, 
+2023).
+2.2. Physical activity
+The International Physical Activity Questionnaire-Short Form 
+(IPAQ-SF) was used to assess participants’ physical activity across 
+different intensity levels (Craig et al., 2003). Participants were instruc­
+ted to recall a typical most recent week, during which they were neither 
+sick nor travelling out of the city. Vigorous physical activity (VPA) was 
+defined as activity performed for at least 10 min at a time that required 
+substantial physical effort and resulted in breathing much harder than 
+normal (e.g., lifting heavy weights, fast running, or fast cycling). 
+Moderate-intensity physical activity (MPA) was defined as activity 
+lasting at least 10 min that required moderate physical effort and caused 
+A.M. Dzhambov et al. 
+International Journal of Hygiene and Environmental Health 275 (2026) 114816 
+2 
+
+breathing somewhat harder than normal (e.g., carrying light loads or 
+cycling at a normal pace). Walking was defined as any walking for at 
+least 10 min at a time, including walking at work or at home, for 
+transportation, during leisure time, or while engaging in sports.
+Data processing involved converting all reported activity durations 
+to minutes and excluding implausible values in accordance with IPAQ 
+scoring guidelines (IPAQ Research Committee). Participants reporting 
+total physical activity that exceeded 960 min per day were excluded. 
+Reported activity durations of less than 10 min were recoded to 0 min 
+because very short bouts of physical activity are less likely to activate 
+metabolic pathways, and durations greater than 180 min were truncated 
+to 180 min because they were considered unlikely.
+Outcome variables were constructed from self-reported frequency 
+(days per week) and duration (minutes per day) of physical activity. 
+Compliance with established physical activity guidelines (WHO, 2020) 
+was operationalized with dichotomous indicators: ≥75 min per week of 
+VPA, and ≥150 min per week of moderate-to-vigorous physical activity 
+(MPA + 2*VPA = MVPA), and walking for ≥150 min per week. MVPA 
+was calculated as the sum of MPA plus twice the time spent in VPA, 
+consistent with the WHO equivalence assumption (WHO, 2020) and 
+IPAQ MET-based scoring (IPAQ Research Committee). Additionally, 
+continuous measures of VPA, MPA, and walking time were computed in 
+minutes per week among participants reporting non-zero activity levels.
+2.3. Environmental characteristics
+Participants’ residential environment was characterized using both 
+objective measures and self-reported perceptions, as these provide 
+complementary information. The literature and data availability 
+informed the choice of physical environmental characteristics (Smith 
+et al., 2017).
+2.3.1. Objective neighborhood characteristics
+Walkability refers to the extent to which the built environment en­
+courages walking (Gao et al., 2020). It was calculated using 2021 census 
+population density data, Shannon's index for land use diversity derived 
+from 2018 European Urban Atlas (Copernicus Land Monitoring Service, 
+2021), land use/land cover and cadastral data (GCCA, 2016), and 
+OpenStreetMap-derived (OpenStreetMap contributors, 2023) four-way 
+intersection density (Dzhambov et al., 2025). The z-scores of these 
+three input variables were summarized within circular buffers of 300 m 
+and 1000 m. These buffer sizes correspond to typical walking distances 
+near one's home, considering the size of the study areas, and fall within a 
+range deemed relevant to physical activity (Browning and Lee, 2017; 
+Wang et al., 2021; Zare Sakhvidi et al., 2025).
+Mean annual concentrations of particulate matter with aerodynamic 
+diameter ≤2.5 μm (PM2.5) were obtained for the year 2019 at a 25 m 
+spatial resolution from a geographically weighted land use regression 
+model based on measured pollutants at monitoring stations across 
+Europe within the EXPANSE project (Shen et al., 2022). PM2.5 levels 
+were predicted from road and land use variables, satellite retrievals, and 
+chemical transport model estimates, with a five-fold cross-validation R2 
+of 0.77 (Shen et al., 2022). PM2.5 was used as an indicator of air 
+pollution rather than NO2 because the latter showed a strong correlation 
+with walkability and road traffic noise. Road traffic noise (Lden; 
+A-weighted day-evening-night average sound level) was available on a 
+50 m grid, derived from a supervised extreme gradient boosting machine 
+learning model. The model was trained on 232 short-term m
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1 presents a summary of participants’ characteristics. Table S1
+Fig. 1). Both low and high perceived greenspace were positively 
+Table 1 
+Fig. 1. Associations between urban environmental characteristics and compliance with recommended durations of physical activity across different intensity levels 

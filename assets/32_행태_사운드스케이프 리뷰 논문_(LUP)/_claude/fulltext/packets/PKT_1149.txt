@@ -1,0 +1,217 @@
+### RECORD ID=1149 | screening_verdict=INCLUDE | year=2025
+JOURNAL: ARTS & HEALTH
+TITLE: Landscapes of silence: designing quiet art spaces for inner peace in urban chaos
+DOI: 10.1080/17533015.2025.2593865
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+Landscapes of silence: designing quiet art spaces for inner 
+peace in urban chaos
+Hang Yu
+Faculty of Design and Architecture, University Putra Malaysia, Serdang, Selangor, Malaysia
+ABSTRACT
+Background: Urban environments increasingly cause sensory over­
+load and psychological fatigue. Green spaces offer some relief, but 
+few designs use silence as a therapeutic tool.
+Aims: This study introduces Silent Art Landscapes (SALs), urban 
+spaces that combine art and sound-moderating features. It explores 
+how contemplative, acoustically sensitive landscapes can support 
+inner peace and mental well-being in cities.
+Methods: Using a mixed-methods approach, we conducted envir­
+onmental soundscape assessments, on-site behavioral observa­
+tions, and semi-structured interviews at three quiet urban art 
+installations in dense metropolitan areas.
+Results: Participants reported reduced anxiety, heightened emo­
+tional clarity, and a sense of “mental refuge.” Reflective surfaces, 
+sound-dampening topography, and interactive light-and-shadow 
+installations contributed to a sense of tranquility.
+Conclusions: This research demonstrates the potential of SALs as 
+non-pharmacological multisensory interventions. This approach 
+offers valuable implications for future urban planning, therapeutic 
+design, and public health policy.
+ARTICLE HISTORY 
+Received 21 July 2025 
+Accepted 18 November 2025 
+KEYWORDS 
+Silent art landscapes (SALs); 
+urban mental well-being; 
+soundscape design; 
+contemplative spaces; 
+therapeutic landscape 
+interventions
+Introduction
+The urban condition and the rise of sensory overload
+Modern urban settings bombard residents with constant noise, visual clutter, and infor­
+mation overload. These factors cause ongoing psychological strain and emotional imbal­
+ance (Fan et al., 2025; Stansfeld & Clark, 2015; Xu et al., 2023). Research shows that noise 
+from traffic and construction, especially, increases stress, worsens sleep, and lowers focus 
+(Basner et al., 2013; WHO, 2018).
+Green spaces in cities are known for their restorative effects (Hartig et al., 2014; Zhao 
+et al., 2023). However, designers do not always prioritize tranquility and silence. Outdoor 
+fitness zones, playgrounds, and visual installations often turn these spaces into busy hubs. 
+They rarely become quiet places for retreat or contemplation. This highlights a design 
+gap: cities need quiet refuges that combine art and landscape to enable healing through 
+silence.
+CONTACT Hang Yu 
+380412925@qq.com 
+Faculty of Design and Architecture, University Putra Malaysia, No. 62 
+Baita Road, Dadong District, Shenyang City, Liaoning Province, China
+ARTS & HEALTH 
+https://doi.org/10.1080/17533015.2025.2593865
+© 2025 Informa UK Limited, trading as Taylor & Francis Group 
+
+Urban sensory overload limits emotional recovery, especially in poorer neighborhoods. 
+Urban theorists argue that restorative spaces should be available to everyone (Low, 2016). 
+The SALs in this study offer public quiet havens that support mental health for all social 
+groups. This aligns with the idea that daily urban interactions shape identity (Lin et al., 
+2022).
+Silence as a therapeutic medium
+Silence is not just the absence of sound. It has cognitive, emotional, and even spiritual 
+implications (Walkikar, 2024). The health literature links silence to lower cortisol levels and 
+better autonomic balance. It is also tied to greater introspective awareness (Bernardi et al., 
+2009). Neurologically, quiet environments stimulate the brain’s default mode network. 
+This network helps with self-reflection and mental restoration (Raichle, 2015).
+Few designers intentionally set silence as a design goal. Most healing landscapes 
+emphasize appearance or ecology, using plants and visuals to calm visitors (Bell et al., 
+2022; Marcus & Sachs, 2013). SALs differ by using art to enhance quiet rather than just 
+blocking noise, as in parks. Designers consciously blend art and sound design to support 
+well-being (Kang & Schulte-Fortkamp, 2016). Hosseini and Kowkabi (2023) showed that 
+sound shapes well-being, but many urban designers neglect this need.
+From soundscapes to silent art landscapes
+SALs are small city landscapes that combine art and sound control. These spaces reduce 
+noise and feature art that encourages calm and emotional recovery. 
+These spaces may include elements such as: 
+Sound-dampening topography (e.g. berms, earth mounds) 
+Reflective surfaces that direct light but diffuse sound 
+Art installations that create minimal, ambient, or meditative sounds 
+Visual and spatial cues that encourage stillness and introspection
+SALs embody a design philosophy that combines quiet landscapes with sound ecol­
+ogy. Designers use earth mounds to block external noise, surfaces to reflect beneficial 
+sounds, and calming sound art installations. These elements aim to create peaceful 
+environments (Marcus & Sachs, 2013; Paraskevopoulou & Kamperi, 2018). Sound design 
+in landscape projects directly reduces stress and improves well-being (Aletta, Kang, et al., 
+2016; Payne, 2012).
+Art as environmental intervention in public health
+Art projects now promote mental health, such as through murals or workshops (Del Río 
+Diéguez et al., 2024; Fancourt & Finn, 2019). These activities lower anxiety, help people 
+manage emotions, and build connections (Camic & Chatterjee, 2013; Guo et al., 2025). 
+2
+H. YU
+
+Most projects remain temporary, which limits their long-term benefits. Without lasting 
+structures, these projects become harder to sustain and cannot deliver lasting mental 
+health help.
+Short-term art projects like earthworks engage people, but SALs differ. They last, 
+connect to their locations, and offer calm. Unlike temporary art, SALs create steady, 
+peaceful “third spaces” – sites that are neither home nor work but support emotional 
+health (Oldenburg, 1999). This study treats SALs as spaces that help people manage 
+emotions and recover mentally in cities.
+Research shows that even small urban art 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Project administration, Resources, Software, Supervision, Validation, 
+Visualization, Writing – original draft, Writing – review & editing.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+ORCID
+Hang Yu 
+http://orcid.org/0009-0000-8477-3358
+Data availability statement
+Due to the nature of this research, participants did not agree to have their data shared publicly, so 
+supporting data is not available.
+Ethics statement
+This study received ethical approved from Universiti Putra Malaysia.
+20
+H. YU
+
+References
+Abdelmoula, E., Abdelmoula, B., & Abdelmoula, N. B. (2024). Natural soundscapes, urban design and 
+psychological well-being. European Psychiatry, 67(S1), S680. https://doi.org/10.1192/j.eurpsy. 
+2024.1414 
+Aletta, F., Kang, J., & Axelsson, Ö. (2016). Soundscape descriptors and a conceptual framework for 
+developing predictive soundscape models. Landscape and Urban Planning, 149, 65–74. https:// 
+doi.org/10.1016/j.landurbplan.2016.02.001 
+Aletta, F., Oberman, T., & Kang, J. (2018). Associations between positive health-related effects and 
+soundscapes perceptual constructs: A systematic review. International Journal of Environmental 
+Research and Public Health, 15(11), 2392. https://doi.org/10.3390/ijerph15112392 
+Antonovsky, A. (1996). The salutogenic model as a theory to guide health promotion. Health 
+Promotion International, 11(1), 11–18. https://doi.org/10.1093/heapro/11.1.11 
+Axelsson, Ö., Nilsson, M. E., & Berglund, B. (2010). A principal components model of soundscape 
+perception. Journal of the Acoustical Society of America, 128(5), 2836–2846. https://doi.org/10. 
+1121/1.3493436 
+Basner, M., Babisch, W., Davis, A., Brink, M., Clark, C., Janssen, S., & Stansfeld, S. (2013). Auditory and 
+non-auditory effects of noise on health. Lancet, 383(9925), 1325–1332. https://doi.org/10.1016/ 
+s0140-6736(13)61613-x 
+Bell, S., Hickman, C., & Houghton, F. (2022). From therapeutic landscape to therapeutic ‘sensescape’ 
+experiences with nature? A scoping review. Wellbeing, Space and Society, 4, 100126. https://doi. 
+org/10.1016/j.wss.2022.100126 
+Bell, S. L., Wheeler, B. W., & Phoenix, C. (2016). Using geonarratives to explore the diverse tempor­
+alities of therapeutic landscapes: Perspectives from “green” and “blue” settings. Annals of the 
+American Association of Geographers, 107(1), 93–108. https://doi.org/10.1080/24694452.2016. 
+1218269 
+Berleant, A. (2013). What is aesthetic engagement? DOAJ (DOAJ: Directory of Open Access Journals). 
+https://doaj.org/article/c7e225dc654f4c1da0547bebdd14d421 
+Berman, M. G., Kross, E., Krpan, K. M., Askren, M. K., Burson, A., Deldin, P. J., Kaplan, S., Sherdell, L., 
+Gotlib, I. H., & Jonides, J. (2012). Interacting with nature improves cognition and affect for 
+individuals with depression. Journal of Affective Disorders, 140(3), 300–305. https://doi.org/10. 
+1016/j.jad.2012.03.012 
+Bernardi, L., Porta, C., Casucci, G., Balsamo, R., Bernardi, N. F., Fogari, R., & Sleight, P. (2009). Dynamic 
+interactions between musical, cardiovascular, and cerebral rhythms in humans. Circulation, 119 
+(25), 3171–3180. https://doi.org/10.1161/circulationaha.108.806174 
+Bishop, F. L. (2014). Using mixed methods research designs in health psychology: An illustrated 
+discussion from a pragmatist perspective. British Journal of Health Psychology, 20(1), 5–20. https:// 
+doi.org/10.1111/bjhp.12122 
+Bratman, G. N., Anderson, C. B., Berman, M. G., Cochran, B., De Vries, S., Flanders, J., Folke, C., 
+Frumkin, H., Gross, J. J., Hartig, T., Kahn, P. H., Kuo, M., Lawler, J. J., Levin, P. S., Lindahl, T., Meyer- 
+Lindenberg, A., Mitchell, R., Ouyang, Z.Roe, J. . . . Zheng, H. (2019). Nature and mental health: An 
+ecosystem service perspective. Science Advances, 5(7). https://doi.org/10.1126/sciadv.aax0903 
+Braun, V., & Clarke, V. (2021). Thematic analysis: A practical guide. SAGE.
+Brown, D. K., Barton, J. L., & Gladwell, V. F. (2013). Viewing nature scenes positively affects recovery of 
+autonomic function following acute-mental stress. Environmental Science and Technology, 47(11), 
+5562–5569. https://doi.org/10.1021/es305019p 
+Camic, P. M., & Chatterjee, H. J. (2013). Museums and art galleries as partners for public health 
+interventions. Perspectives 
+in 
+Public 
+Health, 133(1), 66–71. https://doi.org/10.1177/ 
+1757913912468523 
+Carhart-Harris, R. L., Bolstridge, M., Day, C. M. J., Rucker, J., Watts, R., Erritzoe, D. E., Kaelen, M., 
+Giribaldi, B., Bloomfield, M., Pilling, S., Rickard, J. A., Forbes, B., Feilding, A., Taylor, D., Curran, H. V., 
+& Nutt, D. J. (2017). Psilocybin with psychological support for treatment-resistant depression: 
+Six-month follow-up. Psychopharmacology, 235(2), 399–408. https://doi.org/10.1007/s00213-017- 
+4771-x 
+ARTS & HEALTH
+21
+
+Carlson, A., & Lintott, S. (2008). Nature, aesthetics, and environmentalism: From beauty to duty. 
+Columbia University Press.
+Chatterjee, A., & Vartanian, O. (2016). Neuroscience of aesthetics. Annals of the New York Academy of 
+Sciences, 1369(1), 172–194. https://doi.org/10.1111/nyas.13035 
+Coburn, A., Vartanian, O., Kenett, Y. N., Nadal, M., Hartung, F., Hayn-Leichsenring, G., Navarrete, G., 
+González-Mora, J. L., & Chatterjee, A. (2020). Psychological and neural responses to architectural 
+interiors. Cortex, 126, 217–241. https://doi.org/10.1016/j.cortex.2020.01.009 
+Daykin, N., Mansfield, L., Meads, C., Julier, G., Tomlinson, A., Payne, A., Duffy, L. G., Lane, J., 
+D’Innocenzo, G., Burnett, A., Kay, T., Dolan, P., Testoni, S., & Victor, C. (2017). What works for 
+wellbeing? A systematic review of wellbeing outcomes for music and singing in adults. 
+Perspectives in Public Health, 138(1), 39–46. https://doi.org/10.1177/1757913917740391 
+Del Río Diéguez, M., Jiménez, C. P., Ávila, B. S., & Pérez, Y. C. B. (2024). Art therapy as a therapeutic 
+resource integrated into mental health programmes: Components, effects and integration 
+pathways. Arts in Psychotherapy, 91, 102215. https:
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 illustrates the mixed-methods framework used in this study, which combines 
+Figure 1. Mixed-method framework for evaluating SALs.
+Figure 2. Soundscape heatmaps for 
+Figure 2. Soundscape heatmaps of three study sites with overlaid vegetation and art zones.
+Figure 3 elucidates the emotional 
+Figure 3. Thematic coding tree of interview data reflecting emotional responses to quiet art 
+Figure 4, comparative sound measure­
+Figure 4. Comparative sound levels in intervention vs. Control zones.
+Table 1 summarizes these PRS scores, highlighting significantly higher restorative out­
+Table 1. PRS Score comparison across site types.
+Table 2, highlight the differ­
+Table 2. Emotional response ratings by age group and neurological profile.
+Figure 5 documents participant 
+Figure 6 presents the visual representation 
+Figure 5. Participant art interaction frequencies across installations.
+Figure 6. Spatial views and key design elements of the three SALs sites.

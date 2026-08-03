@@ -1,0 +1,232 @@
+### RECORD ID=1258 | screening_verdict=INCLUDE | year=2026
+JOURNAL: URBAN SCIENCE
+TITLE: Multisensory Interactions in Greenway Plazas of Differing Openness and Effects on User Behaviors
+DOI: 10.3390/urbansci10010060
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Received: 20 November 2025
+Revised: 26 December 2025
+Accepted: 7 January 2026
+Published: 18 January 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Multisensory Interactions in Greenway Plazas of Differing
+Openness and Effects on User Behaviors
+Zhaohui Peng, Wenping Liu
+, Mingjun Teng, Yangyang Zhang
+, Abdul Baess Keyhani
+and Pengcheng Wang *
+Department of Landscape Architecture, College Horticulture & Forestry Science, Hubei Engineering Technology
+Research Center for Forestry Information, Wuhan Urban Ecosystem Long-Term Observation and Research Station,
+National Forestry and Grassland Administration, Huazhong Agricultural University, Wuhan 430070, China;
+pengzhaohui2022@126.com (Z.P.); liuwenping@mail.hzau.edu.cn (W.L.); tengmingjun@hotmail.com (M.T.);
+yangyangzhang1993@outlook.com (Y.Z.); keyhani2016@webmail.hzau.edu.cn (A.B.K.)
+* Correspondence: pengchengwang@163.com
+Abstract
+Spatial openness affects the subjective evaluation of soundscape, landscape, and thermal
+perceptions, leading to various restoration effects and recreational behaviors. However,
+the literature lacks studies investigating the effects of multisensory interactions under
+different levels of spatial openness in plazas on users’ behaviors in urban greenways. Thus,
+this study contributes to the enhancement of recreational experiences and the environ-
+mental design of urban greenways by examining the interaction between multisensory
+evaluations and recreational behaviors in greenway plazas with different levels of spatial
+openness. Three types of plazas (enclosed, semi-enclosed, open) were selected along an
+urban greenway to analyze interactions through in situ measurements, questionnaires, and
+behavior observation. The results showed that people rated the environment as the quietest
+and coolest in enclosed plazas, although the sound pressure level of these plazas was
+the highest. Furthermore, the visual evaluation (VE) was mostly correlated with acoustic
+evaluation (AE) in plazas with high openness, while the correlation effect between AE
+and thermal evaluation (TE) was only significant in enclosed plazas. In other words, AE
+was the key factor targeting the improvement in comfort in greenway plazas. Secondly,
+improving AE was more effective for stimulating the frequency of interactive activities in
+enclosed plazas, compared to improving TE. However, AE had a negative effect on the
+time that people were willing to spend on interactive activities in semi-enclosed plazas.
+Finally, these findings provide corresponding strategies for creating comfortable audio,
+visual, and thermal environments in greenway plazas with different levels of openness, as
+well as strategies for enhancing the recreational experiences of visitors.
+Keywords: acoustic comfort; landscape openness; outdoor activities; thermal comfort;
+urban greenspace
+1. Introduction
+With the acceleration of urbanization and people’s rising demand for natural green
+spaces in urban areas, greenways not only provide recreational spaces for various activities,
+such as exercising, sightseeing, and social interaction, but they also purify the hazardous
+matter in the city air, creating an eco-friendly environment. The greenway connects natural
+and artificial landscapes, such as forests, wetland parks, mountains, and cultural plazas; it
+provides a linear space for people to be with nature and satisfy different activity needs [1–3].
+Connected natural areas decrease the density of particulate matter, providing natural
+Urban Sci. 2026, 10, 60
+https://doi.org/10.3390/urbansci10010060
+
+Urban Sci. 2026, 10, 60
+2 of 19
+solutions for improving the air quality of greenways [4,5]. Plazas are important nodes
+along a linear greenway; they are spaces where people can rest and carry out leisure
+activities along the greenway. Many studies revealed the restoration effects of such plazas—
+those that had a high percentage of green vegetation and sky visibility, coupled with natural
+sounds, such as birds and wind, induced restoration in people and promoted recreational
+behaviors [6–8]. However, a thermal evaluation significantly influenced the above effect,
+especially during the hot summer climate, which led to negative environmental satisfaction
+and prevented people from participating in activities. In contrast, an increasing number
+of studies started to focus on the integrated effect of physical environments, such as the
+effect of spatial openness on visual, acoustic, and thermal evaluation, and users’ behaviors
+in greenway plazas.
+Previous studies found that spatial openness had a significant effect on the physi-
+cal environment, subjective evaluation, and emotional response. The spatial openness
+of a greenway was defined as the visibility of landscape elements—such as water,
+sky, and vegetation—as well as whether it was affected by surrounding green or grey
+infrastructures—like trees and facilities. It was proven that spatial openness influenced
+visual, acoustic, and thermal evaluations; different perspectives of the above evaluations
+also influenced each other as multisensory evaluations. For visual and acoustic perceptions,
+the densities of trees and enclosing vegetation influenced spatial openness and sound
+pressure levels, which further influenced people’s tranquility and overall comfort [9–11].
+The users of greenways, including cyclists and walkers, preferred views with high levels
+of openness. Cyclists were also affected by changing patterns in the landscape when
+moving positions [12–16]. On the other hand, water and bird sounds, coupled with high
+openness and natural views, made people feel at ease more easily, compared to the effect
+of traffic noise [17,18]. As for acoustic and thermal perceptions, cyclists and walkers both
+felt annoyed by traffic noise in spaces with high openness and felt relieved by natural
+sounds,
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Studied Area
+Wuhan has a typical summer-hot and winter-cold climate with extreme hot temper-
+atures of up to 40.5 ◦C lasting 50 days in the central districts. With the acceleration of
+urbanization in Wuhan, the landscape of Wuhan is facing challenges, such as a lack of
+specificity and degradation of biological diversity. To address the rising demand for natural
+and green spaces and cope with high temperatures, governments have constructed 29 var-
+ious types of greenway walking routes, connecting different types of landscape spaces,
+including wetland parks, forests, water bodies, and mountains. Each walking route has a
+unique topic with specific landscape elements and changing patterns, such as mountain
+forest lines and forests attached to lake lines. The natural and artificial elements, such as
+trees, plants, rocks, historical buildings, and pavilions, vary according to the type of land.
+Moreover, the natural parks, forests, and wetlands along greenways are rich in natural
+sound sources, while squares and historic parks are dominated by the sound of human
+activities. Since bikes and electronic cars are available on the main greenway, traffic noise,
+such as honking and braking, affects the acoustic environment of the total greenway.
+As illustrated in Figure 2, this study selected the walking route from the north entrance
+(Liyuan Square) to the south exit (Yikeshu) of the greenway as the studied route with a high
+density of people, according to their walking patterns and favorable lines. According to
+previous studies, the spatial openness of the greenway plaza could be classified according to
+the percentage of the sky visibility ratio [40]. The measuring points in greenway plazas were
+selected based on the spatial openness and the type of enclosure structure. Six measuring
+points were chosen and divided into three categories (enclosed, semi-enclosed, and open).
+Measuring points R1 and R4 were enclosed plazas with the largest amount of green
+vegetation and historical buildings. People usually stayed and enjoyed the tranquil and
+historical atmosphere. Measuring points R2 and R3 were semi-enclosed plazas surrounded
+by modern structures and natural elements, such as trees, shrubs, and flowers. People
+gathered here to listen to concerts or catch fish. Regarding points R5 and R6, the plazas
+were open plazas with a broad view and less green vegetation. People might stay for a
+while to enjoy the lake view.
+2.2. In Situ Measurement of the Feature of the Visual, Acoustic, and Thermal Environment
+As the urban densification in Wuhan accelerated, the average air temperature in-
+creased by 1.3 degrees from 2008 to 2018 [41]. In order to objectively evaluate the physical
+environment, the percentage of visual elements, LAeq_5min, air temperature, and relative
+humidity were selected as the physical parameters in this study. For the visual environment,
+panoramic images were taken by a digital camera (Sony Alpha 7R V, Sony, Tokyo, Japan) at
+a height of 1.5 m above ground in the time period of 09:00–10:00 a.m. to identify the spatial
+openness of each measuring point. The shooting point was at the center of the sample
+square, where people gathered for activities. Then, the percentage of sky elements was
+calculated based on the panoramic images using the following equation:
+Si = Ps/P × 100%
+(1)
+https://doi.org/10.3390/urbansci10010060
+
+Urban Sci. 2026, 10, 60
+5 of 19
+where Ps represents the area coverage of sky elements in the panoramic image, P indicates
+the whole visibility area in the panoramic image, and Si shows the percentage of sky
+elements in the whole visibility area of human beings as the spatial openness. After the
+calculation, the spatial openness was divided into three categories: enclosed (up to 20%),
+semi-enclosed (20–40%), and open (more than 40%) ranges (Table 1).
+Figure 2. Layout of visitors’ walking routes in the East Lake greenway in Wuhan, China, and six
+measuring points at the plaza with different levels of spatial openness along the greenway. The red
+area represents the province of the study site. The measuring points are as follows: R1, lake shore
+square; R2, musical square; R3, wetland park square; R4, ancient pavilion square; R5, rock island
+square; R6, eyes of lake square.
+Table 1. Area coverage, spatial openness, and percentage of sky ratio of each greenway plaza at each
+measuring point.
+Measuring
+Point
+Covering
+Area/m2
+Spatial Openness
+Percentage of Sky Visibility
+Ratio/%
+R1
+246
+Enclosed
+Up to 20%
+R2
+268
+Semi-enclosed
+20–40%
+R3
+241
+Semi-enclosed
+20–40%
+R4
+310
+Enclosed
+Up to 20%
+R5
+302
+Open
+More than 40%
+R6
+290
+Open
+More than 40%
+For the acoustic environment, LAeq_5min was measured by an Aihua AWA 6228+ sound
+level meter (Hangzhou Aihua Intelligent Technology, Hangzhou, China) at a distance of
+1.2 m away from the reflecting surface continuously for 5 min. The sound level meter
+measured the instant sound pressure level at each second, and LAeq_5min was calculated
+using the equation:
+LAeq,T = 10log10((∑10(LA,i/10))/N)
+(2)
+https://doi.org/10.3390/urbansci10010060
+
+Urban Sci. 2026, 10, 60
+6 of 19
+where LA,i represents the instant sound pressure level at each second. N shows the number
+of times that LA,i was measured. LAeq,T indicates the equivalent sound pressure level when
+T is 5 min. During the measurement, the ambient sound of each measuring point was also
+recorded by a Sony PCM D100 (Sony, Tokyo, Japan). In terms of the thermal environment,
+air temperature (Ta) and relative humidity (RH) were measured for 5 min. The weather
+conditions were clear, and the wind speed was less than 5 m/s when measuring these
+physical parameters. All parameters were measured during people’s activity times from
+morning (8:00–12:00 a.m.) to afternoon (2:00–6:00 p.m.).
+2.3. Data Collection of Visual, Acoustic, and Thermal Evaluation
+The questionnaire design referred to previous studies on the investigation of visual
+landscapes, soundscapes, and thermal environments, consisting of 4 parts, inclu
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). In order to bridge these gaps, this study aimed to explore the interactive
+Figure 1. Conceptual framework of the relationship between spatial openness, multisensory in-
+Figure 2, this study selected the walking route from the north entrance
+Table 1).
+Figure 2. Layout of visitors’ walking routes in the East Lake greenway in Wuhan, China, and six
+Table 1. Area coverage, spatial openness, and percentage of sky ratio of each greenway plaza at each
+Table 2). Single-person behaviors were identified as
+Table 2. Identification of human behaviors as single-person, one-to-one person, and multi-person
+Figure 3). The results indicated that the LAeq,5min and L10 values of the enclosed plazas
+Figure 3a). As the distance away from the
+Figure 3b,c).
+Figure 3. Mean value of visual, acoustic, and thermal environment parameters at each measuring
+Table 3 shows that landscape openness, soundscape
+Figure 4). The VE ratings of the participants were higher than the AE and TE
+Table 3. Main factors representing visual, acoustic, and thermal evaluation from the questionnaire
+Figure 5 illustrates the relationship between the visual, acoustic, and thermal evalua-
+Figure 5a–c all show a red circle for the correlation between VE and AE. This
+Figure 4. Mean value of each subjective evaluation (VE, AE, and TE) of each measuring point across
+Figure 5. Spearman’s correlation for the relationship between visual, acoustic, and thermal evalua-
+Figure 6). Figure 6a
+Figure 6b,c show the regression line between
+Figure 6. Linear regression curve between visual, acoustic, and thermal evaluations of greenway
+Figure 7 illustrates the mean frequency and duration time of differe

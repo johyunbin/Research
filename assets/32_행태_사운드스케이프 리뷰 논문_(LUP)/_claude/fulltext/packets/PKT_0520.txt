@@ -1,0 +1,252 @@
+### RECORD ID=520 | screening_verdict=INCLUDE | year=2019
+JOURNAL: ACTA ACUSTICA UNITED WITH ACUSTICA
+TITLE: An Exploratory Study on the Influence of Activities on Public Space Users' Descriptions of Their Auditory Environments on Site: The Case of Amsterdam
+DOI: 10.3813/aaa.919327
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+COVER PAGE
+Document downloaded by @DAEL
+Sun Aug 2 15:00:19 2026
+For personal use
+When automatic English translation is provided, only the original document
+is authentic.
+The EAA cannot be held responsible of any translation error
+Bibliographical reference
+An Exploratory Study on the Influence of Activities on Public Space Users’
+Descriptions of Their Auditory Environments on Site: The Case of
+Amsterdam, Edda Bild, Karin Pfeffer, Matt Coler and Luca Bertolini, Acta
+Acustica vol. 105 (Number 3), 2019, pp. 449-463
+DOI
+https://doi.org/10.3813/AAA.919327
+
+ACTA ACUSTICA UNITED WITH ACUSTICA
+Vol. 105 (2019) 449 – 463
+DOI 10.3813/AAA.919327
+An Exploratory Study on the Inﬂuence of
+Activities on Public Space Users’ Descriptions of
+Their Auditory Environments on Site: The Case
+of Amsterdam
+Edda Bild1), Karin Pfeﬀer2), Matt Coler3), Luca Bertolini1)
+1) Urban Planning, Department of Geography, Planning and International Development,
+University of Amsterdam, 1018 WV Amsterdam, Amsterdam. a.e.bild@uva.nl
+2) Department of Urban and Regional Planning and Geo-Information Management,
+University of Twente, Drienerlolaan 5, 7522 NB Enschede, The Netherlands
+3) University of Groningen, Campus Fryslân, Sophialaan 1, 8911 AE Leeuwarden, The Netherlands
+Summary
+This paper is an exploration into whether public space users performing diﬀerent activities describe their auditory
+environments in noticeably diﬀerent ways. Building on soundscape and psycholinguistic literature, a question-
+naire study was conducted in a large park in Amsterdam (NL), where 92 park users described, in writing, their
+activities and auditory environments. Users’ self-reported activities were categorized based on their level of social
+interaction (solitary vs. socially interactive), and using open coding, generating categories of activities grouped
+by semantic range. The written corpus on auditory environment descriptions was analysed through a proposed
+classiﬁcatory framework, coding descriptions at three semantic and one syntactic level. We preliminarily tested
+whether there are associations between various categories of activities and of auditory environment descriptions,
+categorized at diﬀerent levels. Our results suggest that, while for detailed levels of activity categorization there
+were no non-distinct patterns, the level of social interaction of users’ activities has an observable eﬀect over
+users’ descriptions of their auditory environments. This holds particularly in relation to types of sounds listed, as
+well as for diﬀerences in descriptions at a syntactic level. These ﬁndings point towards subtly diﬀerent auditory
+experiences in the same public space for users performing solitary or socially interactive activities.
+PACS no. 43.66.Lj
+1.
+Introduction
+The ways urban public spaces are used are intimately con-
+nected with their users’ multisensory experiences of the
+spaces. The activities that they perform in public spaces
+are inﬂuenced by and inﬂuence, in turn, how their envi-
+ronments appear, sound or feel. Repeated calls have been
+made to acknowledge the importance of a sensual / sensu-
+ous understanding of the city, both in practices for investi-
+gating and “making” the city, driven by growing recogni-
+tion of the relevance of the other senses for the urban ex-
+perience ([1, 2, 3, 4, 5] inter alios). However, mainstream
+research and design initiatives remain overwhelmingly fo-
+cused on visual aspects (see e.g. Ibid., [6]). In this con-
+text, soundscape studies focus speciﬁcally on sound and
+the auditory dimensions of urban experiences, aiming to
+understand the ways public space users describe, interpret,
+evaluate and overall relate to and act upon their auditory
+Received 1 May 2018,
+accepted 6 April 2019.
+environments ([7, 8], see [9] and [10] for reviews). Build-
+ing upon the latter, we base our paper on a question that
+arises from everyday situations: to what extent does a pub-
+lic space user’s activity inﬂuence how they describe what
+they hears?
+Human beings are rather quick to evaluate auditory en-
+vironments as “good enough” (suitable) for the activities
+they want to perform, even if this evaluation could be
+unintentional or unconscious. How many times have you
+thought: “This park is too loud for me to read, I can’t focus
+with all this noise around me”, or “This park is perfect for
+our barbecue, it’s so wonderfully lively”. In communicat-
+ing auditory experiences to each other, the “same” park be-
+comes, then, both “too loud” and “wonderfully lively”. We
+have diﬀerent auditory needs, expectations and, ultimately,
+experiences that depend, among others, on social, cultural,
+personal or contextual factors, on our activities and the
+ways in which we engage with our spaces. We contend that
+these diﬀerences are apparent in the ways we describe our
+auditory environments. Understanding how users of public
+spaces talk about their auditory experiences in context and
+in relation to their activities can yield valuable insights for
+© S. Hirzel Verlag · EAA
+449
+Document downloaded by @DAEL, 2026-08-02 15:00:22 - personal use only
+
+ACTA ACUSTICA UNITED WITH ACUSTICA
+Bild et al.: An exploratory study
+Vol. 105 (2019)
+researchers and urban designers, as it might be closer to
+users’ experiences than when they are asked to complete
+a survey with closed-ended questions or to participate in a
+controlled laboratory study.
+Soundscape research has indicated that activities play
+an important role in inﬂuencing users’ auditory environ-
+ment evaluations [11, 12, 13, 14, 15] as well as their spon-
+taneous descriptions or categorizations, both on site and
+in laboratory conditions [26, 17]. Despite this sparse sci-
+entiﬁc evidence, studies explicitly and systematically fo-
+cusing on the role of activity as potentially mediating au-
+ditory environment descriptions have yet to be conducted
+(see [18, 19] for a pilot study using an experimental setting
+and [20] for a proposed larger scale experimental setup;
+[21]). This paper proposes an exploratory investi
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+Soundscape research oﬀers a variety of data collec-
+tion methods to study the auditory experience by rely-
+ing on qualitative, free verbalizations (including open-
+ended questions in questionnaires, interviews, commented
+soundwalks – see [56, 10] for reviews), as well as ap-
+proaches for analysing the resulting written corpus (e.g.
+grounded theory methodology [57] or content analysis
+451
+Document downloaded by @DAEL, 2026-08-02 15:00:22 - personal use only
+
+ACTA ACUSTICA UNITED WITH ACUSTICA
+Bild et al.: An exploratory study
+Vol. 105 (2019)
+Table I. Selection of questions from original questionnaire. Original Dutch, and English translation (by authors).
+Question (NL)
+Question (EN)
+Denk terug aan uw activiteiten in dit park vandaag en
+beschrijf deze zo uitgebreid mogelijk. Wat viel u op
+tijdens het uitvoeren van uw activiteiten in dit park?
+Think back at your activities in this park today and describe
+them in as much detail as possible. What caught your atten-
+tion during the activities that you performed in this park?
+Beschrijf wat u hoorde tijdens het uitvoeren van uw
+activiteiten in dit park.
+Please describe what you heard during the activities that you
+performed in the park.
+Hoe zou u wat u hoorde tijdens het uitvoeren van de
+activiteiten omschrijven aan een kennis die niet bekend
+is met dit park?
+How would you describe what you heard during the
+activities that you performed to someone you know
+that is not familiar with this park?
+Waarom bent u vandaag naar dit park gekomen?
+Why did you come to this park today?
+method [58]; for a diﬀerence between the two, see [59]). In
+this study, we developed a questionnaire with a set of four
+open-ended questions, to study the potential relationships
+between categories of activities emerging from the data
+and the descriptions of auditory environments coded at se-
+mantic and syntactic levels. We tested whether users per-
+forming diﬀerent activities have diﬀerent auditory experi-
+ences outside laboratory conditions; moving outside of the
+lab meaning sacriﬁcing environmental control in favour of
+investigating users’ experiences in a real-life context, un-
+der everyday life conditions, thus trading a decrease in in-
+ternal validity with an increase in ecological validity (for
+a discussion on the value of ecological validity, see [51]).
+3.1.
+Data collection
+3.1.1.
+Questionnaire
+The questionnaire included a mix of closed and open-
+ended questions and tasks. The design of the question-
+naire was based on previous research instruments that re-
+lied on open-ended questioning and free verbalizations
+[60, 25, 26]. Its aim was to access users’ individual ex-
+periences of public space and their auditory environments,
+at the time of the data collection, and how they shared their
+experiences through language. The 16 questions, alternat-
+ing between closed and open-ended, were phrased to mini-
+mize negative connotations of terms used and to avoid im-
+posing a specialized terminology (see [38] for an overview
+of the closed ended questions). This, we contend, allowed
+users to describe their experience in a manner as similar
+to their everyday language as possible [60]. To those ends,
+we also put particular emphasis on the order of questions
+(see [26] p. 115–116 for a review).
+The questionnaire started with a general description of
+users’ experiences (both of the space and their auditory
+environments), progressively going into more detail on
+their evaluations of their auditory environments in rela-
+tion to their activity and their expectations, and ended with
+users’ personal details (expectations, familiarity with the
+space and with what they heard, and demographic charac-
+teristics). The questionnaire was part of a larger research
+project and, in here we focus on the responses to four
+open-ended questions, listed in Table I (the original Dutch
+formulation alongside the English translation). First, for
+the description of activity, we asked users to describe their
+activities in the park and afterwards why they came to
+the park that day. Second, for their descriptions of their
+auditory environments, we asked them to complete two
+tasks: to describe their auditory environments during their
+time in the park (referred to as “description to researcher”
+hereinafter – “DR”) and to imagine how they would de-
+scribe that to someone else who is not familiar with that
+park (referred to as “description to others” hereinafter –
+“DO”). The idea behind using two diﬀerently phrased
+tasks was based on the assumption that users would expect
+researchers and other potential users of the park to look for
+diﬀerent insights on their on-site auditory experiences, as
+they would be using and collecting this information for
+diﬀerent purposes.
+3.1.2.
+Location
+Oosterpark is a busy urban park in the East of Amster-
+dam, which recently doubled in size as part of a large-
+scale renovation project3; it hosts a number of festivals on
+its large grass ﬁelds on a regular basis4. The park is de-
+signed to be predominantly green (with a large number of
+trees and grass ﬁelds) and due to its size, it can be split
+in sub-sections. For this preliminary study, we selected an
+urban park because of the likelihood of a large number of
+users conducting a relatively small number of types of ac-
+tivities. In addition, urban parks oﬀer a clearer boundary
+between those performing activities that engage the space
+for extended periods of time (that we consider here public
+space users) and passers-by, when compared to e.g. urban
+squares, where the distinction is less clear-cut.
+We completed our data collection in two sub-sections,
+marked in the plan in Figure 2 as S1 (Figure 1, left) and
+S2 (Figure 1, right). The sub-sections have diﬀerent de-
+signs, available amenities and green-to-built ratios. Sub-
+section S1 Oosterpark is a large open space with minimal
+amenities: a central oval-shaped grass ﬁeld, surrounded by
+a pavement-based pathway lined with sparsely distributed
+3 Information available online, in Dutch, on 
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 2 as S1 (Figure 1, left) and
+Figure 1, right). The sub-sections have diﬀerent de-
+Figure 1. Sub-sections S1 (left) and S2 (right) of Oosterpark. Source image left: ﬁrst author. Source image right: Newspaper “Het
+Figure 2. Plan of the Oosterpark and data collection sub-sections
+Figure 3. Classiﬁcatory framework to analyse users’ descriptions of their auditory environments Semantic analysis.
+Figure 3) in-
+Figure 4. Level 1 of semantic analysis. Type of description. So-
+Figure 4, we observe that, for their DRs, SI users (upper
+Figure 5 illustrates the coding of responses per detailed
+Figure 6 also shows that direct human sounds dominated
+Figure 5. Level 1 of semantic analysis. Type of description. De-
+Figure 6. Level 2 of semantic analysis. Type of sounds listed. SI
+Figure 7 shows the trend in the types of sounds that users
+Figure 8 showed that
+Figure 7. Level 3 of semantic analysis. Detailed types of sound
+Figure 8. Syntactic analysis. Phrases used in descriptions. SI vs.

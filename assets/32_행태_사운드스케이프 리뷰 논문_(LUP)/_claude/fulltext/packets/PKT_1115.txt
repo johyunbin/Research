@@ -1,0 +1,197 @@
+### RECORD ID=1115 | screening_verdict=INCLUDE | year=2025
+JOURNAL: PLOS ONE
+TITLE: Does noise pollution influence modal choices? A random forest application
+DOI: 10.1371/journal.pone.0325249
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+PLOS One | https://doi.org/10.1371/journal.pone.0325249  June 23, 2025
+1 / 16
+ 
+ OPEN ACCESS
+Citation: Calafiore A, Tong K (2025) Does noise 
+pollution influence modal choices? A random 
+forest application. PLoS One 20(6): e0325249. 
+https://doi.org/10.1371/journal.pone.0325249
+Editor: Walid Al-Shaar, AUM: American 
+University of the Middle East, KUWAIT
+Received: August 29, 2024
+Accepted: May 9, 2025
+Published: June 23, 2025
+Copyright: © 2025 Calafiore, Tong. This is an 
+open access article distributed under the terms 
+of the Creative Commons Attribution License, 
+which permits unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original author and source are credited.
+Data availability statement: All files to 
+reproduce the study for Greater London, 
+including commuting data, are available in the 
+public repository accessible at the following 
+link https://figshare.com/articles/dataset/
+Research_Data_-_Does_noise_pollution_influ­
+ence_modal_choices_A_random_forest_appli­
+cation_/28676180 Commuting data to repro­
+duce the study for Brisbane cannot be shared 
+RESEARCH ARTICLE
+Does noise pollution influence modal choices? 
+A random forest application
+Alessia Calafiore
+*, Ki Tong
+Edinburgh School of Architecture and Landscape Architecture, University of Edinburgh, Edinburgh, United 
+Kingdom 
+* acalafio@ed.ac.uk
+Abstract 
+This work investigates the relationship between noise pollution and modal choices 
+exploring and comparing two different urban contexts: Greater London and Bris­
+bane. To achieve this, data on commuting flows by mode of transport and estimated 
+noise pollution have been obtained and combined with measures to characterise 
+the built environment which demonstrated to have an influence on modal choices. 
+Random forest models have shown very good performances in solving classification 
+problems to predict transport modes and allow the exploration of non-linear relation­
+ships between the predicted classes and explanatory variables. Two random forest 
+models have been tuned, trained and tested to investigate the association between 
+modal choices and contextual variables, including noise pollution, in Greater London 
+and Brisbane. Results have shown that noise levels play a role in predicting modal 
+choices in Greater London, while the characteristics of the built environment are 
+more relevant when predicting modal choices in Brisbane. Furthermore, we find that 
+walking and cycling, despite being both active travel modes, are influenced by very 
+different factors, with cycling displaying patterns more similar to those characterising 
+driving. Evidence showing the varying relationships between walking and cycling with 
+contextual variables, e.g. noise levels, building and street density, presence of ameni­
+ties can inform more targeted policies to encourage active travel.
+Introduction
+Encouraging modal shifts towards active travel is central to making cities healthier 
+and more sustainable (e.g. [1]). Increased walking and cycling are demonstrated to 
+bring about several benefits to both our physical and mental health [2–5] and play a 
+key role in reducing air pollution in cities [6].
+In the last decades, data-driven approaches have been developed to measure 
+the level of walkability and bikeability in cities [7–9] with the ambition to inform urban 
+planning [10–12]. Evidence shows that higher accessibility, a greater number of 
+destinations, and a higher land use mix [13–17] can determine people’s willingness 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0325249  June 23, 2025
+2 / 16
+to walk or cycle. This work builds upon these studies and investigates, along with 
+known determinants of active travel, the role of noise pollution [18,19].
+Until now, noise pollution has gained little attention in the context of charac­
+terising how walkable or bikeable places are [19,20], despite people walking and 
+cycling are significantly exposed to noise pollution [21–23]. Leveraging travel 
+behaviour data on commuting obtained from the UK and Australian Censuses, this 
+research aims to provide new insights into the role noise pollution plays in influ­
+encing modal choices.
+The association between noise, urban forms and functions and travel 
+behaviours is explored with a random forest model, a machine learning approach 
+that has shown to be performing extremely well in the context of identifying the 
+likelihood of modal choices [24,25]. Notably, the appeal in using a random forest 
+model compared to multinomial logistic regression for multiclass classification 
+comes from its ability to capture more complex and non-linear relationships 
+between variables, which are very common while describing human behaviours. 
+Models have been trained, tuned and tested to predict the mode of transport 
+choices learning from commuting patterns, where each trip is classified by trans­
+port mode and summarises the level of noise and the main characteristics of the 
+built environment commuters have been exposed to during the trip. The relation­
+ships between the probabilities of classifying a trip as being travelled by walk, 
+bicycle or car and the level of noise exposure can be explored based on two 
+measures: the variable importance, which shows how relevant each variable is 
+in order for the model to make the final prediction; and partial dependence plots, 
+which enable a more in-depth interpretation of how the model associates prob­
+abilities to a mode of transport in relation to contextual variables, such as noise 
+levels, urban forms and function [26,27].
+Comparing to existing works this study develops novel theoretical and method­
+ological angles, providing a new set of evidence to inform context-dependent urban 
+active transport policies. From a theoretical perspective most of the existing studies 
+have either focused solely on walking [28] or cycling [29], or have considered them 
+the same mode under the definition of active travel [30–32]. In this study walking and 
+cyc
+
+--- METHODS/RESULTS EXCERPT ---
+Method of Travel 
+to Work as described in the data dictionary 
+(https://www.abs.gov.au/ausstats/abs@.nsf/
+Lookup/2901.0Chapter7702016)
+Funding: The author(s) received no specific 
+funding for this work.
+Competing interests: The authors have 
+declared that no competing interests exist.
+
+PLOS One | https://doi.org/10.1371/journal.pone.0325249  June 23, 2025
+3 / 16
+urban planners can tailor interventions to prioritise effectively factors promoting active transport, considering the interplay 
+of noise, urban form, and function.
+In this paper, firstly known evidence on the relationships between active travel choices and contextual variables, such 
+as noise pollution and the form and functions of the built environment are presented. Secondly, the methodology devel­
+oped to investigate and compare non-linear associations between modal choices and contextual variables in the two cities 
+is introduced. Finally, results are shown and discussed to then conclude by highlighting the core contributions of this work 
+and avenues for future research.
+Literature review
+Existing literature that explores what aspects of the urban context may encourage or discourage active travel has been 
+reviewed, with a specific focus on noise pollution and the features of the built environment.
+Active travel and noise pollution
+Traffic noise is common in urbanised environments and is harmful to human beings. Whilst denser neighbourhoods 
+promote active travel, urbanisation pressure intensifies transportation needs. This contributes to adverse environment 
+impacts where noise pollution is one of them [36].
+Direct evidence suggesting noise to be a determinant of whether or not to travel actively is limited. Participants in 
+one study identified noise to influence their route preferences but only a few indicated noise was important to them [37]. 
+A more recent study showed a similar result but participants rated noise level to be the third most important attribute 
+to affect comfort, which encourages or discourages active travel [38]. Pedestrians perceive traffic noise, as a result of 
+inadequate segregation from heavy traffic to be a nuisance that reduces comfort and the motivation to walk [39]. Partic­
+ipants in another study perceived traffic noise to be intrusive and one of them found noise to be disrupting, which lim­
+ited conversations along the journey [40]. Traffic noise decreases the willingness to walk because it makes the walking 
+environment less attractive [41] and less pleasurable [42]. Similarly, more than half of the participants reported traffic 
+noise to be an unpleasant factor, although the effect of noise was insufficient to determine the choice of walking routes 
+[43]. Nonetheless, noise seems to compromise walking experience and therefore, a potential determinant.
+Exposure to traffic noise could impact the quality of active travel and the travelling behaviour but evidence is indirect 
+to relate to the choice of active travel. Pedestrians, cyclists and public transport users are frequently exposed to higher 
+noise level compared with car users [44,45]. In an experiment, participants who were exposed to traffic noise walked rela­
+tively faster compared with those who were in the control group or listening to bird songs [46]. Assessing the relationship 
+between noise exposure and the choice of active transportation mode is challenging because pedestrians and cyclists are 
+typically unaware of their noise exposure level [18,47,48] as people will be habituated with decreased annoyances when 
+exposed to noise over a longer period of time [49]. Nonetheless, a systematic review shows that cyclists are exposed 
+to more noise than other transportation modes and in some studies of the review, cyclists perceive noise pollution as a 
+deterrent and develop avoidance strategies [19]. Noise is perceived as a form of disturbance of comfort. Individuals with 
+high noise sensitivity are likely to amplify stress and discomfort in noisy environments [50], making them less likely to 
+choose transportation options that increase their noise exposure. Whilst pedestrians are more flexible with their routes to 
+destination, cyclists could be more vulnerable to traffic noise. A quieter en-route experience available by talking could be 
+a motivation for walking instead of cycling or commuting even by cars. Therefore, understanding the role of noise in the 
+mode of active transportation warrants attention in research.
+Active travel and the built environment
+A number of built environment attributes are identified in research to impact active travel. Higher density and diversity in 
+urbanised settings were recurrently found to increase the likelihood of active travel [51,52]. These settings, with higher 
+
+PLOS One | https://doi.org/10.1371/journal.pone.0325249  June 23, 2025
+4 / 16
+accessibility to access a number of destinations for work, shopping, leisure, and transportation in shorter distances, are 
+associated with a higher probability of walking and cycling [53].
+For results specific to the relationship between the built environment and walking, land-use diversity was the stron­
+gest predictor for walking when examining the effects of density, diversity and design on transportation modes [54]. A 
+meta-analysis concluded that land-use diversity, intersection density and destination accessibility were the most influential 
+factors in encouraging walking [55].
+Density also plays a part in influencing cycling patterns, but the evidence is more indirect. A higher population density 
+is associated with a higher probability of cycling [56,57]. The observation could be due to the need for greater diversity in 
+local destinations and reduced distances between places to support the dense population. Similarly, mixed land use tends 
+to shorten trip distances by bringing origins and destinations closer together [56,58]. Thereby, neighbourhoods with a 
+greater mix of land uses make commuting by bike more convenient [59]. In terms of urban d
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig 1 shows an exemplary itinerary intersected with the 
+Fig 2 shows the correlation plots of the input data for the two 
+Fig 1.  Exemplary itinerary intersecting the hexagonal grid in Greater London (anonymised) © OpenStreetMap contributors.
+Fig 2.  Correlation plots of trips variables in Greater London (A) and Brisbane (B).
+Fig 3, while Fig 4 shows the partial plots for 
+Fig 3) with a clear trend that 
+Fig 
+4). We note that noise levels are more relevant to the mode of travel prediction in Greater London than in Brisbane (Fig 
+Fig 4). Crossing higher levels of noise does not seem to be as important as crossing quieter roads, with the excep­
+Fig 3). For this class, patterns are similar to the exposure to low levels 
+Fig 3.  Variable importance plots for Greater London (A) and Brisbane (B). Distance is the most important variable in both cities and noise is more 
+Fig 4.  Partial plots for Greater London (A) and Brisbane (B). The log odds of predicting a trip to be made by different mode of transportations (car, 
+Fig 4). In the Brisbane model, variables 
+Fig 3). Crossing retail areas across the trip is the second most significant predictor 
+Fig 3). In particular, when commuters cross more than 10 retail points of interest on 
+Fig 4 shows that the associations between these two variables and the predicted 
+Fig 3). In Greater London, the 
+Fig 4). Furthermore, Fig 4 high­
+Fig 4). While results highlight that noise 
+Fig 
+2). Although, it is important to mention that the correlation between building density and noise takes a different sign with 

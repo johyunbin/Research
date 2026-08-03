@@ -1,0 +1,237 @@
+### RECORD ID=1053 | screening_verdict=INCLUDE | year=2024
+JOURNAL: URBAN ECOSYSTEMS
+TITLE: Socio-environmental drivers of human-nature interactions in urban green spaces
+DOI: 10.1007/s11252-024-01593-3
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Urban Ecosystems (2024) 27:2397–2413
+https://doi.org/10.1007/s11252-024-01593-3
+green spaces (Kondratyeva et al. 2020; Puplampu and Boafo 
+2021), resulting in potential loss of habitat for over 30,000 
+species in various development scenarios by 2050 (Simkin 
+et al. 2022). To compensate for the loss of nature in urban 
+environments, people have created or preserved green spaces 
+within and around urbanizing areas by creating parks, gar­
+dens, areas for street trees, and other spaces (Aronson et al. 
+2017). Among these efforts, urban parks offer several types 
+of direct and indirect ecosystem service benefits, including 
+providing places for recreational and social activities (Koni­
+jnendijk et al. 2013), increasing property values (Nicholls 
+and Crompton 2005), improving health and physical well-
+being (Abraham et al. 2010; Douglas 2012), and enhancing 
+biodiversity conservation (see Aronson et al. 2017; Lepczyk 
+et al. 2017). These benefits are closely linked to the various 
+levels of experiences and interactions that take place in the 
+natural spaces in urbanizing areas, or human-nature interac­
+tions (Soga and Gaston 2020).
+Introduction
+By 2030, 60% of the global population is projected to live 
+in urban areas (United Nations 2018). Studies suggest that 
+urbanization is a key driver to the loss of biodiversity and 
+ 
+ Myla F. J. Aronson
+myla.aronson@rutgers.edu
+1 
+Graduate Program in Ecology and Evolution, Rutgers, The 
+State University of New Jersey, New Brunswick, NJ 
+08901, USA
+2 
+Natural Areas Conservancy, New York, NY 10029, USA
+3 
+Department of Geography and the Environment, Villanova 
+University, Villanova, PA 19085, USA
+4 
+Department of Ecology, Evolution, and Natural Resources, 
+Rutgers, The State University of New Jersey, New 
+Brunswick, NJ 08901, USA
+Abstract
+Online platforms have broadened the opportunities of people to interact with nature through community/citizen science, 
+especially in urban areas. However, there is a lack of comprehensive understanding of the social and environmental factors 
+that influence nature interactions in cities. Here, we aim to identify the social and environmental predictors that impact 
+nature interactions, by combining citizen science data with environmental and demographic data in New York City. We 
+applied generalized linear models to identify which of 12 social and environmental factors influence nature interactions in 
+public parks (n = 355) in the Borough of Queens, New York, New York (USA) in two scenarios, small-medium sized parks 
+only (n = 355) and all parks (n = 359). We used iNaturalist records, including the number of users (Observers), Observa­
+tions, Observed Biodiversity, and a calculated interaction effect (number of users × observations, Interaction), as metrics 
+of nature interactions. For small-medium parks, all nature interactions were significantly influenced by park area, canopy 
+cover, percent population with blood pressure and asthma conditions, noise, and summer mean temperature. Observers and 
+Interaction were positively associated with median income. Observers, Observations, and Interaction were predicted by 
+percent water cover, impervious cover, distance to public transportation, and ethnic diversity. In the analysis that included 
+all parks, the results were similar with minor differences. This study demonstrates a holistic approach to a very specific 
+type of human-nature interaction newly made available with technological advances, seen through an interdisciplinary 
+lens and will help inform planners, residents, and city government on creating more interactive and socio-environmentally 
+beneficial urban green spaces.
+Keywords  Citizen science · Human-nature interaction · iNaturalist · Urban green spaces
+Accepted: 29 July 2024 / Published online: 19 August 2024
+© The Author(s) 2024
+Socio-environmental drivers of human-nature interactions in urban 
+green spaces
+Hogyeum Evan Joo1 · Jeffrey A. G. Clark2 · Peleg Kremer3 · Myla F. J. Aronson4
+1 3
+
+Urban Ecosystems (2024) 27:2397–2413
+Understanding human-nature interactions helps us 
+develop strategies to maximize ecosystem services (Kluger 
+et al. 2020), increase public health (Keniger et al. 2013), 
+engage people with the surrounding environment, and raise 
+awareness of environmental issues (van Noordwijk et al. 
+2021). There are many ways of assessing the level and types 
+of interaction people make with nature (Auyeung et al. 
+2016). One of the ways of interacting with nature, enabled 
+through technological advances (Arts et al. 2021), is uti­
+lizing citizen science platforms. iNaturalist and eBird are 
+considered the most popular and globalized citizen science 
+data platforms. iNaturalist allows users to record the loca­
+tion, time, and picture (or sound) of organisms they encoun­
+ter, of 11 taxa from fauna and flora to an online database 
+(Callaghan et al. 2022). eBird has similar features with taxa 
+specialized to avifauna. Once observations are made, other 
+users may share their opinion or confirm the identification 
+of the species. These platforms enable users to interact eas­
+ily and quickly with local biodiversity and discuss findings 
+with other users (Altrudi 2020; Silk et al. 2021; Callaghan 
+et al. 2022; Zhao et al. 2023).
+Many attempts have been made to examine the spatial 
+patterns of citizen science users and data. Studies have 
+found that the locations of citizen science data were closely 
+related to density of paths (Tiago et al. 2017), distance to 
+human settlement (Cretois et al. 2021), population density 
+(Mair and Ruete 2016), or the knowledge of rare species 
+sightings (Tulloch et al. 2013). Studies such as Tiago et al. 
+(2017), also found that accessibility and landscape charac­
+teristics of a location, such as habitat type and presence of 
+water features, impacted the type of taxa observed. Some 
+studies argue that these patterns of participation for citizen 
+science are a result of bias (Cretois et al. 2021; Tang et al. 
+2021). However, o
+
+--- METHODS/RESULTS EXCERPT ---
+Methods Primers 
+2(1):1–20. https://doi.org/10.1038/s43586-022-00144-4
+Fung CKW, Jim CY (2020) Influence of blue infrastructure on lawn 
+thermal microclimate in a subtropical green space. Sustain Cities 
+Soc 52:101858. https://doi.org/10.1016/j.scs.2019.101858
+Galbrun L, Ali TT (2013) Acoustical and perceptual assessment of 
+water sounds and their use over road traffic noise. J Acoust Soc 
+Am 133(1):227–237. https://doi.org/10.1121/1.4770242
+Gamio L (2019) Axios: where America’s diversity is increasing the 
+fastest. Axios Newstext, Arlington, ProQuest. https://www.pro­
+quest.com/docview/2428620614
+Gaudon JM, McTavish MJ, Hamberg J, Cray HA, Murphy SD (2022) 
+Noise attenuation varies by interactions of land cover and season 
+in an urban/peri-urban landscape. Urban Ecosyst 25(3):811–818. 
+https://doi.org/10.1007/s11252-021-01194-4
+Ghiani A, Aina R, Asero R, Bellotto E, Citterio S (2012) Ragweed pol­
+len collected along high-traffic roads shows a higher allergenicity 
+than pollen sampled in vegetated areas. Allergy 67(7):887–894. 
+https://doi.org/10.1111/j.1398-9995.2012.02846.x
+Giles-Corti B, Broomhall MH, Knuiman M et al (2005) Increasing 
+walking: how important is distance to, attractiveness, and size of 
+public open space? Am J Prev Med 28(2, Supplement 2):169–
+176. https://doi.org/10.1016/j.amepre.2004.10.018
+Gillings S, Harris SJ (2022) Estimating the carbon footprint of citi­
+zen science biodiversity monitoring. People Nat 4(4):996–1006. 
+https://doi.org/10.1002/pan3.10333
+Gozalo GR, Morillas JMB, Gozalez DM (2019) Perceptions and use 
+of urban green spaces on the basis of size. Urban Urban Green 
+46:126470
+Hamada S, Ohta T (2010) Seasonal variations in the cooling effect 
+of urban green areas on surrounding urban areas. Urban Urban 
+Green 9(1):15–24. https://doi.org/10.1016/j.ufug.2009.10.002
+Hamstead ZA, Fisher D, Ilieva RT et al (2018) Geolocated social media 
+as a rapid indicator of park visitation and equitable park access. 
+Comput Environ Urban Syst 72:38–50. https://doi.org/10.1016/j.
+compenvurbsys.2018.01.007
+Hartley W, Uffindell L, Plumb A, Rawlinson HA, Putwain P, Dick­
+inson NM (2008) Assessing biological indicators for remediated 
+anthropogenic urban soils. Sci Total Environ 405(1–3):358–369. 
+https://doi.org/10.1016/j.scitotenv.2008.06.004
+Ho CH, Sasidharan V, Elmendorf W, Willits FK, Graefe A, Godbey G 
+(2005) Gender and ethnic variations in Urban Park preferences, 
+Visitation, and Perceived benefits. J Leis Res 37(3):281–306. 
+https://doi.org/10.1080/00222216.2005.11950054
+Hobbs SJ, White PCL (2012) Motivations and barriers in relation to 
+community participation in biodiversity recording. J Nat Conserv 
+20(6):364–373. https://doi.org/10.1016/j.jnc.2012.08.002
+Holman CD, Donovan RJ, Corti B (1996) Factors influencing the use 
+of physical activity facilities: results from qualitative research. 
+Health Promot J Austr 6(1):16–21
+iNaturalist (2023a) Help · Frequently Asked Questions. iNaturalist.
+org. https://www.inaturalist.org/pages/help#quality Accessed 13 
+July 2023
+iNaturalist (2023b) iNaturalist Research-grade Observations. iNatu­
+ralist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x 
+accessed via GBIF.org on 2023-07-13
+Jennings DB, Jarnagin ST (2002) Changes in Anthropogenic Imper­
+vious surfaces, Precipitation, and Daily Streamflow Discharge: 
+a historical perspective in a Mid-atlantic sub-watershed. Landsc 
+Ecol 17(5):417–489
+Jeon JY, Lee PJ, You J, Kang J (2012) Acoustical characteris­
+tics of water sounds for soundscape enhancement in urban 
+1 3
+2411
+
+Urban Ecosystems (2024) 27:2397–2413
+greenspaces. Landsc Urban Plan 230:104633. https://doi.
+org/10.1016/j.landurbplan.2022.104633
+Nolte AC, Buchholz S, Pernat N, Egerer M (2022) Temporal Tem­
+perature Variation in Urban Gardens Is Mediated by Local and 
+Landscape Land Cover and Is Linked to Environmental Justice. 
+Frontiers in Sustainable Food Systems 6. Accessed June 5, 2023. 
+https://www.frontiersin.org/articles/https://doi.org/10.3389/
+fsufs.2022.826437
+Nordh H, Hartig T, Hagerhall CM, Fry G (2009) Components of 
+small urban parks that predict the possibility for restoration. 
+Urban Urban Green 8(4):225–235. https://doi.org/10.1016/j.
+ufug.2009.06.003
+Office of Technology and Innovation (2018) Land Cover Ras­
+ter Data(2017) – 6in Resolution. Accessed on Decem­
+ber 
+2023.https://data.cityofnewyork.us/Environment/
+Land-Cover-Raster-Data-2017-6in-Resolution/he6d-2qns/data
+Özgüner H (2011) Cultural differences in attitudes towards Urban 
+Parks and Green spaces. Landsc Res 36(5):599–620. https://doi.
+org/10.1080/01426397.2011.560474
+Paschalis A, Chakraborty TC, Fatichi S et al (2021) Urban forests as 
+Main Regulator of the Evaporative cooling Effect in cities AGU 
+adv. 2(2):e2020AV000303
+Pateman R, Dyke A, West S (2021) The diversity of participants in 
+Environmental. Citiz Sci CSTP 6(1):9. https://doi.org/10.5334/
+cstp.369
+Pena JCC, Martello F, Ribeiro MC, Armitage RA, Young RJ et al 
+(2017) Street trees reduce the negative effects of urbanization on 
+birds. PLoS ONE 12(3):e0174484. https://doi.org/10.1371/jour­
+nal.pone.0174484
+PLACES (2022) 500 Cities Project, PLACES. Center for Disease 
+Control and Prevention (accessed 3 January 2023)
+Preston FW (1962) The canonical distribution of common­
+ness and rarity: part I. Ecology 43(2):185–215. https://doi.
+org/10.2307/1931976
+Puplampu DA, Boafo YA (2021) Exploring the impacts of urban 
+expansion on green spaces availability and delivery of ecosystem 
+services in the Accra metropolis. Environ Chall 5:100283. https://
+doi.org/10.1016/j.envc.2021.100283
+Rigolon A (2016) A complex landscape of inequity in access to urban 
+parks: a literature review. Landsc Urban Plan 153:160–169. 
+https://doi.org/10.1016/j.landurbplan.2016.05.017
+Rigolon A, Browning MHEM et al (2021) Green Space and Health 
+Equity: a systematic review on the potential of Green Space 
+to Reduce Health disparities. Int J Environ Res Public Health 
+18(5):2563. https://doi.org/10.3390%2Fijerph18052563
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1).
+Table 1).
+Table  2). Ten vari­
+Fig. 1  Urban green spaces examined in this study (green; n = 359), 
+Table 1  Definition and descrip­
+Table 2  References and data sources of the social and environmental predictor variables used in this study
+Table 2). Of variables that showed cor­
+Fig. 3; Table 3; Supplementary Fig. 1).
+Fig. 3; Table 4; Supplementary Fig. 1).
+Fig. 2). The number of iNaturalist observations fol­
+Fig. 2  Map of four measures of interaction - (a) Observer, (b) Observation, (c) Interaction, and (d) Observed Biodiversity - in each study site in 
+Fig. 3  (a) Coefficient estimates of social/
+Table 3  Results (estimates, standard deviation, P values, and McFadden pseudo-R-squared value) of the GLM (generalized Linear Model) with 
+Table 4  Results (estimates, standard deviation, P values, and McFadden pseudo-R-squared value) of the GLM(generalized Linear Model) with 

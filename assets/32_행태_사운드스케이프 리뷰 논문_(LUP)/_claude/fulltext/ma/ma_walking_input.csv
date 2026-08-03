@@ -1,0 +1,7 @@
+﻿no,label,contrast,m_pos,sd_pos,n_pos,m_neg,sd_neg,n_neg,g,var,se,source,note
+461,Franek 2018,birdsong vs traffic noise,1.53,0.12,31,1.65,0.11,26,-1.0242,0.07992,0.2827,"Table/본문 Results; F2,80=7.759","field walk 1.8km, between-subjects"
+461,Franek 2018 (vs control),birdsong vs control(no sound),1.53,0.12,31,1.58,0.13,26,-0.3956,0.07209,0.2685,동일 표,민감도용 — 대조군 비교
+532,Franek 2019 Exp1,birdsong vs crowded city noise,1.56,0.17,29,1.62,0.16,29,-0.3586,0.07007,0.2647,Exp1 fall N=87 3군 균등 가정(29/29/29),"3군 N=87 → 군당 n 미보고, 균등분할 가정(민감도 대상)"
+532,Franek 2019 Exp2,birdsong vs crowded city noise,1.49,0.11,22,1.61,0.15,22,-0.896,0.10003,0.3163,"Exp2 spring N=65 3군 균등 가정(22/22/21); F2,62=3.290, p=.044",동일
+617,Oases soundscape,bird/nature vs traffic noise,0.84,0.13,27,0.81,0.13,27,0.2274,0.07455,0.273,Table 6; F=7.558 df=485,유사반복 — 참가자 n=27 사용(관측 n 189/108 아님)
+481,Meng 2018 (music),background music vs no music,1.14,0.17839,40,1.43,0.16733,40,-1.6606,0.06724,0.2593,Table 1 S1 vs S0,walking-around 행태; 음악=긍정음 프레임

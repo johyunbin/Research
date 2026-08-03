@@ -1,0 +1,217 @@
+### RECORD ID=602 | screening_verdict=INCLUDE | year=2020
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: Comparing associations among sound sources, human behaviors, and soundscapes on central business and commercial streets in Seoul, Korea
+DOI: 10.1016/j.buildenv.2020.107327
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Building and Environment 186 (2020) 107327
+Available online 25 September 2020
+0360-1323/© 2020 Elsevier Ltd. All rights reserved.
+Comparing associations among sound sources, human behaviors, and 
+soundscapes on central business and commercial streets in Seoul, Korea 
+Joo Young Hong, Jin Yong Jeon * 
+Architecture and Sustainable Design, Singapore University of Technology and Design, 487372, Singapore 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape 
+Urban street 
+Human behavior 
+Acoustic environment 
+Survey 
+A B S T R A C T 
+This study focuses on how urban functions influence the soundscape in streets by exploring associations among 
+human behaviors, soundscape, acoustic indicators. On-site soundscape assessments were conducted in eight 
+urban streets located in Seoul employing a soundwalk method. The eight streets were classified into two place 
+functions: central business district (CBD) and commercial areas. Through the soundwalks, acoustic recordings 
+and perceptual responses to soundscapes in the streets were collected. As a human behavioral indicator, crowd 
+density was calculated in the streets. The results showed that place function plays a critical role in soundscape 
+evaluation in urban streets. Pleasantness decreased with increasing Eventfulness on streets in CBD. In contrast, 
+Pleasantness had a positive correlation with Eventfulness on commercial streets. This difference in the correlation 
+could be attributed to the difference in the compositions of sound sources between central business and com­
+mercial areas. Traffic noise was the most dominant sound source in CBD, which increased Eventfulness and 
+decreased Pleasantness of the soundscape in the streets. Meanwhile, sounds from human activities contributed to 
+an increase in both Pleasantness and Eventfulness in commercial streets. Predictive models of soundscape 
+reflecting the contexts of CBD and commercial streets were developed using acoustic parameters and crowd 
+density. In the context of CBD, acoustic parameters describing spectro-temporal characteristics of traffic noise 
+were important indicators, whereas crowd density was found to be a critical indicator to predict soundscape in 
+the commercial streets. These findings could help in better understanding the relationships between the 
+soundscape and place functions in urban streets. 
+1. Introduction 
+Urban streets are common open spaces that citizens usually experi­
+ence in their daily lives. According to the report of the United Nations 
+Human Settlements Programme in 2013, the proportion of land allo­
+cated to a street in the urban core area ranged from 18% to 33% in cities 
+in Europe, North America, Oceania, and Asia [1]. Because they play a 
+multi-faceted role in urban environments by enhancing community ac­
+tivities [2], fostering urban economies [3], and providing vibrant urban 
+environments [4], urban streets have been recognized as vital compo­
+nents of sustainable development and the improvement of quality of life. 
+Sound environment in urban streets is one of the critical environ­
+mental factors in judging the experience of the urban streetscape. 
+Several studies have identified that the perception of the streetscape is 
+affected not only by visual but also acoustic components [5–8]. Hong 
+and Jeon [5] investigated the effects of audio and visual components on 
+perceptions of streetscape quality and found that acoustic comfort plays 
+a significant role in the assessment of the perceived streetscape quality 
+when A (weighted traffic noise level) is high (i.e., 70 dB). Echevarria 
+Sanchez et al. [6] also showed that the pleasantness rating of urban 
+streetscapes increased with decreasing noise levels. Aside from traffic 
+noise levels in urban streets, Meng et al. [7,8] revealed that sounds from 
+human activities in urban commercial streets could positively or nega­
+tively affect acoustic comfort of urban streets depending on crowd 
+density. They observed that acoustic comfort in commercial streets 
+exhibited a parabolic change trend of increase followed by a decrease as 
+a function of crowd density. These studies have stressed the importance 
+of soundscape design for creating a sustainable urban street 
+environment. 
+As emphasized in ISO 12913-1 [9], context plays a key role in 
+soundscape evaluation and design. Herranz-Pascual et al. [10] have 
+proposed a holistic model that illustrates how the context interacts with 
+* Corresponding author. Architectural Acoustics Lab (Room 605–1), Department of Architectural Engineering, Hanyang University, 222 Wangsimni-ro, Seongdong- 
+gu, Seoul, 04763, South Korea. 
+E-mail addresses: jooyoung_hong@sutd.edu.sg (J. Young Hong), jyjeon@hanyang.ac.kr (J. Yong Jeon). 
+Contents lists available at ScienceDirect 
+Building and Environment 
+journal homepage: http://www.elsevier.com/locate/buildenv 
+https://doi.org/10.1016/j.buildenv.2020.107327 
+Received 27 May 2020; Received in revised form 8 September 2020; Accepted 19 September 2020 
+
+Building and Environment 186 (2020) 107327
+2
+the soundscape. In the model, the context is defined as interrelationships 
+among person, activity, and place. 
+Many studies [11–16] have addressed the premise that soundscapes 
+in urban public spaces largely depend on the place function because it 
+determines the sound sources constituting the acoustic environment, 
+other physical environmental conditions, and behavioral characteristics 
+of users in the place. Regarding the effect of the place function on 
+soundscape, Lavia et al. [11–13] and Margaritis et al. [14] have inves­
+tigated the associations between soundscape and place functions in 
+urban public spaces. They found that there were statistically significant 
+relationships between the place functions and the soundscapes in urban 
+public places. Hong and Jeon [15] found that dominant sound sources 
+influencing soundscapes differed in accordance with the main functions 
+of the urban spaces. Steele et al. [16] also revealed that the role of ac­
+tivit
+
+--- METHODS/RESULTS EXCERPT ---
+Method 
+2.1. Study area 
+As shown in Fig. 1, eight urban streets in Seoul, Korea, were selected 
+across the north (Joong-Gu and Jongro-Gu area) and south (Gangnam- 
+Gu) parts of Seoul for this field study. Two factors, main street function 
+[12,15,24] and street morphology [25–27], which were found to affect 
+urban soundscapes in previous studies, were considered for choosing the 
+study areas. The eight streets were classified into two urban functions, 
+central business district (CBD) and commercial areas, to explore the 
+effect of the place function on soundscapes in urban streets. Three urban 
+streets were selected in the CBD in Seoul. Since the streets mainly consist 
+of office buildings with major roads, they were labelled O1–O3. Spe­
+cifically, O1 (Teheran-daero) and O3 (Secho-daero) are located in the 
+representative central business district in Gangnam-Gu, while O2 
+(Jongno 1ga) is situated in Jongno-Gu which is Seoul’s traditional 
+business district. 
+Five urban streets were selected in commercial districts in Seoul. 
+Since the commercial streets are located in shopping areas primarily 
+composed of retail stores and restaurants, they were labelled S1–S5. The 
+selected commercial shopping streets are popular places in Seoul, where 
+both residents and tourists frequently visit. S1 (Gangnam-daero) and S4 
+(Garosoo gil) are popular shopping and entertainment areas in Gangnam 
+District. Meanwhile, S2 (Myeong-dong gil) is the main street of Myeong- 
+dong district which is one of the primary shopping districts in Joong-Gu 
+area. S3 (Insa-dong gil) is a popular street where galleries and traditional 
+restaurants, teahouses, and cafes are located. S5, located in Euljiro 4ga 
+area, is an old commercial space of Seoul. S5 mainly consists of small 
+metal workshops, print shops, and lighting stores, with relatively fewer 
+restaurants and retail stores along the street compared with other 
+commercial streets (S1-4). 
+In terms of street morphology, road width and building height varied 
+across the selected urban streets. The width of the streets varied from 10 
+to 42 m, while the mean building height in the streets ranged from 12 to 
+115 m. Overall, the streets in CBD had wider street width and higher 
+mean building height than the commercial streets except for O3 and S1; 
+the width of O3 was 12 m, which was narrower than those of other 
+streets in CBD. Meanwhile, the street width of S1 was 40 m which was 
+much wider as compared to those of the other commercial streets. The 
+street length of the eight streets was approximately 300 m. Mean height- 
+to-width ratios (H/W) of the urban streets ranged from 0.5 (S5) to 6.1 
+(S3), which is within the range of H/W in high-density cities [28,29]. 
+Since some of the eight urban streets were located too far from each 
+other, the urban streets were grouped into two soundwalk routes A (O2, 
+S2, S3, and S5) and B (O1, O3, S1, and S4) to save on traveling time 
+between the locations. Each soundwalk route consisted of urban streets 
+within a radius of 2 km. 
+2.2. Soundscape and human behavior data collection 
+Subjective responses to acoustic environments (Section 2.2.1) and 
+physical acoustic measurement (Section 2.2.2) were measured based on 
+on-site soundwalk method. In addition, human behavior data in urban 
+streets were collected based on the observation method described in 
+Section 2.2.3. Procedure and data analyses were delineated in Section 
+2.3 and 2.4, respectively. 
+2.2.1. Questionnaire 
+A questionnaire survey based on Swedish Soundscape-Quality Pro­
+tocol [30] was conducted for collecting data on how people perceive an 
+acoustic environment. The questionnaires were translated into Korean. 
+In the first part of the questionnaire, the dominance of different sound 
+source types was assessed using a 5- point scale (0: do not hear at all; 1: 
+hear a little; 2: hear moderately; 3: hear a lot; 4: dominates completely). 
+In the questionnaire, sound sources were classified into five categories: 
+traffic noises (cars, buses, motorcycles, etc.), sounds from human beings 
+(conversations, footsteps, laughter, etc.), natural sounds (water, birds 
+chirping, wind sounds, etc.), music (music sounds from shops, street 
+busking music sounds, etc.), others (construction noise, mechanical 
+noise, etc.). 
+The second part of the questionnaire dealt with the perceived af­
+fective quality of soundscape. The perceived affective quality of 
+soundscape was assessed using the eight unidirectional attributes: 
+pleasant, annoying, eventful, uneventful, chaotic, calm, vibrant, and 
+monotonous with the following question, “To what extent do you agree 
+with the eight attributes below on how you experience the present surrounding 
+sound environment?”. A five-point scale (0: strongly disagree, 1: slightly 
+disagree, 2: neither disagree nor agree, 3: slightly agree, and 4: strongly 
+agree) was used to evaluate the eight adjective attributes. 
+2.2.2. Binaural measurement and acoustic indicators 
+The binaural measurement is recommended in the soundscape 
+assessment to capture the acoustic environment as close as possible to 
+the human auditory sensation [31]. While the participants were 
+assessing the soundscape using the questionnaire, 5-min binaural re­
+cordings were conducted by a non-participatory operator using a 
+binaural microphone (Type 4101, B&K) and a portable field recorder 
+(Zoom, H4n). The sampling frequency and the bit depth of the binaural 
+recording were 44.1 kHz and 24 bits, respectively. During the binaural 
+measurement, the operator wearing the binaural microphone with a 
+windshield was standing at the most typical listener positions and the 
+operator’s head was facing toward the participant group without 
+rotating his head to conduct the recording in a stationary condition. The 
+height of the binaural microphone was approximately 1.6 m above the 
+ground. 
+Various acoustic parameters describing the sound level, spectral and 
+temporal characteristics of the sound enviro
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Study locations and photos: the eight urban streets in Seoul, Korea consisting of three streets (O1-3) in CBD and five streets (S1-5) in commercial areas. Two
+Fig. 1, eight urban streets in Seoul, Korea, were selected 
+Fig. 2. However, it is worth noting 
+Table 1, 
+Table 1, a total of 120 soundscape data sets (42 and 78 data 
+Fig. 2. Photos of on-site soundscape measurement sessions. The participants assessed soundscape using the questionnaire, while the binaural and video recordings 
+Table 1 
+Fig. 3(a) and (b), respectively. Interestingly, Spearman’s correlations 
+Fig. 3(a), a clear inverse correla­
+Fig. 3(b). Overall, the soundscapes in S5 were eval­
+Fig. 4. 
+Table 2. Traffic noise showed negative 
+Fig. 3(a) and (b), respectively. These results also support the findings in 
+Table 3 presents the mean acoustic parameters of both the left 
+Fig. 3. Median Pleasantness and Eventfulness scores of 120 soundscape measurement sessions. Streets in (a) CBD (48 sessions) and (b) commercial (72 sessions) areas. 
+Fig. 4. For instance, the acoustic environments in S2 and S3 consisted 
+Table 4 shows the correlation coefficients between acoustic in­
+Fig. 4. Percentage of the identified sound source types in the selected urban streets. The values in the bar graphs refer to the percentages of respondents who heard 
+Table 2 
+Table 3 
+Fig. 5 shows the mean crowd density of observed 
+Fig. 6(a) and (b) show the Pleasantness and Eventfulness scores as a 
+Fig. 6(a), Pleasantness in the streets in CBD was not affected by 
+Table 2. 
+Fig. 6(b), Eventfulness scores in the streets in CBD were 

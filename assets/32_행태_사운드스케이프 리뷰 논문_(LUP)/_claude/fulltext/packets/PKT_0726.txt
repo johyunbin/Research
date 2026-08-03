@@ -1,0 +1,235 @@
+### RECORD ID=726 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Forest Therapy Alone or with a Guide: Is There a Difference between Self-Guided Forest Therapy and Guided Forest Therapy Programs?
+DOI: 10.3390/ijerph18136957
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Forest Therapy Alone or with a Guide: Is There a Difference
+between Self-Guided Forest Therapy and Guided Forest
+Therapy Programs?
+Jin-Gun Kim 1
+and Won-Sop Shin 2,*
+
+
+Citation: Kim, J.-G.; Shin, W.-S.
+Forest Therapy Alone or with a
+Guide: Is There a Difference between
+Self-Guided Forest Therapy and
+Guided Forest Therapy Programs?
+Int. J. Environ. Res. Public Health 2021,
+18, 6957. https://doi.org/10.3390/
+ijerph18136957
+Academic Editor: Paul B. Tchounwou
+Received: 14 May 2021
+Accepted: 28 June 2021
+Published: 29 June 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Korea Forest Therapy Forum Incorporated Association, Cheongju 28644, Korea; K64804171@gmail.com
+2
+Department of Forest Sciences, Chungbuk National University, Cheongju 28644, Korea
+*
+Correspondence: shinwon@chungbuk.ac.kr; Tel.: +82-43-261-2536
+Abstract: There are generally two types of forest therapy. One is to walk or view the forest alone
+without a guide, and the other is to be accompanied by a guide. This study aimed to investigate the
+healing factors and health beneﬁts of self-guided forest therapy and guided forest therapy programs
+and examine the differences in characteristics between interventions. Thirty-seven undergraduate
+students participated in a randomized experiment (19 in the self-guided forest therapy and 18 in
+the guided forest therapy program). Data were collected from 111 self-reported essays after each
+intervention (three essays per person). Results revealed that the forest healing factors contained
+four categories in common: auditory element, visual element, tactile element, and olfaction element.
+Forest therapy’s health beneﬁts included ﬁve categories in common: change of mind and body,
+introspection, change of emotion, cognitive change, and social interaction. Among the typical
+differences, the self-guided forest therapy group mentioned more keywords related to introspection
+than the guided forest therapy program group. On the other hand, the guided forest therapy program
+group mentioned more keywords associated with the change of emotion and social interaction than
+the self-guided forest therapy. Our ﬁndings show that self-guided forest therapy provides an
+opportunity for self-reﬂection to focus on and think about one’s inner self. On the other hand, guided
+forest therapy programs provide positive emotional changes and promoting social bonds through
+interaction with others. Therefore, because the effects that can be obtained vary depending on the
+type of forest therapy, participants can utilize forest healing to suit the desired outcomes.
+Keywords: self-guided forest therapy; guided forest therapy program; healing factor; health beneﬁt
+1. Introduction
+The world has become an urban society, with over half the world’s populations living
+in urbanized areas. Urbanization, deﬁned as the relative increase of the urban population
+as a proportion of the total population [1], is a demographic movement and includes
+social, economic, and psychological changes [2]. Historically, urbanization was related to
+positive economic development and provided many opportunities such as education and
+good infrastructure [3], but overexposure to stress caused mental health problems [4,5].
+Urbanization negatively affects mental health by inﬂuencing increased stressors and factors
+such as overcrowded and polluted environments, high noise levels, higher crime rates,
+reduced social support, and lack of calming scenery [6]. Therefore, it is crucial to ﬁnd ways
+of promoting mental health recovery in daily life.
+Connecting with forests has been increasingly recognized as an effective method of
+dealing with mental problems [7,8]. The term “forest bathing,” derived from Japan, is
+deﬁned as being in a forest environment to restore balance psychologically and physiolog-
+ically and absorb its atmosphere [9]. In later years, the term “forest bathing” developed
+into “forest therapy,” which is the medically proven health effects of exposure to forest
+environment [10]. The Korea Forest Service (KFS) has legitimized the concept of forest
+Int. J. Environ. Res. Public Health 2021, 18, 6957. https://doi.org/10.3390/ijerph18136957
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 6957
+2 of 15
+therapy and deﬁned forest therapy as “immune-strengthening of the human body and
+health-promoting activities by utilizing various elements of nature, such as scent and
+landscape [11].” Based on the empirical research evidence, the Korea Forest Service (KFS)
+facilitated forest therapy to utilize forests for enhancing people’s health and quality of life.
+Many studies demonstrated forest environments promote humans’ mental and phys-
+ical health in many ways. For example, spending time in a forest environment reduces
+pulse rate and blood pressure [12,13], sympathetic nervous activity [14,15], and levels of
+salivary cortisol [16,17], and increases parasympathetic nervous activity [18,19] and NK
+cell activity, which relate to the immune system [20,21]. In addition, many studies have
+shown the beneﬁcial effects on mental health of being in the forest. Those studies indicated
+that being in the forest can reduce negative emotion [22,23], depression [24], anxiety [25],
+and stress [26], and increase positive emotion [22–24] and self-esteem [27].
+There are generally two types of forest therapy. One is to walk or view the forest alone
+without a guide and the other is to be accompanied by a guide. Namely, when people visit
+the forest to improve their health, people participate in forest walking or viewing forests
+individu
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Participants
+Thirty-seven undergraduate students of Chungbuk National University (23 males,
+14 females) participated in this study, and their mean age was 21.4 ± 1.3 years. Participants
+were recruited by posting notices throughout the university building to recruit volunteers.
+No incentives were provided to the volunteers. The inclusion criteria for recruiting the
+participants who were eligible for the study were: (1) no diagnosis of reaction to severe
+stress and/or a depressive episode; and (2) could not be suffering from any drug or
+alcohol abuse. The participants were randomly assigned into two groups (i.e., 19 in the
+self-guided forest therapy group and 18 in the guided forest therapy program group). The
+experiment was conducted during the 2nd semester of 2019 (September–November). A
+total of eight sessions of self-guided forest therapy and guided forest therapy program
+were performed. Before starting the experiments, we explained the aims and procedures
+of the study to the participants and obtained a voluntarily signed agreement. This study
+was approved by the Institutional Review Board of Chungbuk National University (IRB
+number: CBNU-201910-SB-945-01).
+2.2. Experimental Sites
+The ﬁeld experiment site was conducted in the Chungbuk National University campus
+forest in Korea. The size of the campus forest is about 315,000 square meters. The campus
+forest mainly contains metasequoia (Metasequoia glyptostroboides), cypress (Chamaecyparis
+pisifera), and mixed forest species (pitch pine, oak, chestnut), and their ages range from 40
+to 90 years. Therefore, the study area was suitable for conducting forest therapy activities
+regarding accessibility, distribution of various vegetation, and gentle slope. During the
+eight sessions in the experiment, the weather was pleasant and not raining, with a mean
+temperature of 16.2 ◦C ± 1.3 ◦C.
+
+Int. J. Environ. Res. Public Health 2021, 18, 6957
+5 of 15
+2.3. Experimental Design
+2.3.1. Guided Forest Therapy Program
+The guided forest therapy program was provided from September to November of
+2019 and consisted of one hour and a half per week for eight weeks. A trained forest
+therapist delivered each session. The purpose of the guided forest therapy program was to
+reduce stress and improve self-esteem and happiness for participants. During the eight
+sessions of the program, participants engaged in each of the eight sessions together. They
+performed various activities, such as familiar with the forest, clapping exercises, forest folk
+dance, forest orienteering (using natural objects to solve group mission), forest walking,
+photo healing (taking pictures of nature and story-telling), talking to nature, and a rope
+game (see Table 1). The forest therapy activities were developed in consultation with
+researchers in forest therapy/forest recreation and forest therapists.
+Table 1. Themes and activities of the guided forest therapy program.
+Session
+Themes
+Activities
+1
+Rapport building
+•
+Ice breaking introduction; familiarity with
+forest; lecture on stress management
+2
+•
+Clapping exercise; forest folk dance
+3
+Stress reduction
+•
+Forest orienteering (using natural objects to
+solve group mission); physical stimulation
+for relaxation
+4
+•
+Group gaming activities using natural
+objects (drawing natural objects, hit the
+target with an acorn)
+5
+Improvement of sense of
+belonging and self-esteem
+•
+Forest exercise (forest walking, stretching)
+6
+•
+Barefoot walking in forest; talking to nature
+7
+Cooperation and trust
+•
+Natural object ﬁve senses game; photo
+healing (taking pictures of nature and
+story-telling)
+8
+•
+Forest band exercise; rope game
+2.3.2. Self-Guided Forest Therapy
+The participants were instructed to perform forest activities for eight sessions (one
+hour-long session per week). We designed the forest activities road to allow participants to
+perform forest activities voluntarily without guidance by therapists. The forest activities
+interventions were provided from September to November of 2019. During the eight
+sessions of the intervention, participants engaged in each of the eight sessions together.
+They were asked to walk the well-designated route in the campus forest, visit speciﬁc
+locations where explained panels on forest activities were installed, and return to the
+starting point at an appointed time. The length of the route was 1.7 km long and was
+a loop trail. The self-guided forest therapy activities were designed and distributed for
+the same purpose as the forest therapy program described earlier. The self-guided forest
+therapy activities were picked up based on consultation from experts in the forest therapy
+ﬁeld, including researchers and practitioners. Accordingly, ﬁve forest activities were
+selected to apply as the self-guided forest therapy activities: stretching, respiration, walking,
+meditation, and exercise.
+
+Int. J. Environ. Res. Public Health 2021, 18, 6957
+6 of 15
+2.4. Data Analysis
+2.4.1. Data Collection
+The analysis data of this study were self-reported essays written by the subjects after the
+eight-session guided forest therapy program and self-guided forest therapy activities. The
+topics of essays used in this study were related to health benefits or changes that they felt
+after forest therapy. The text format was free prose which was within one page of A4 sheets
+in length. Participants were asked to write the essay on the day each session ended. Each
+participant was asked to submit three essays during the eight sessions. Essays were collected
+three times after completing one to three sessions, four to six sessions, and seven to eight
+sessions. As a result, 111 essays were analyzed, with 57 essays submitted by 19 self-guided
+forest therapy groups and 54 essays submitted by 18 guided forest therapy groups.
+2.4.2. Qualitative Data Analysis
+The collected data were analyzed using NVivo 12.0 to add reliability to the analysis of
+data through transcription, coding, and analysis, and analysis of the discovery contents
+of the topic pres
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). The forest therapy activities were developed in consultation with
+Table 1. Themes and activities of the guided forest therapy program.
+Table 2. As
+Table 2, self-guided forest therapy was signiﬁcantly associated with the auditory
+Table 2. Written response category and frequencies on forest healing factors by type of forest therapy activity.
+Table 3).
+Table 3. Written response category and keywords on health beneﬁts by type of forest therapy activity.
+Table 4. As shown in Table 4,
+Table 4. Written response category and frequencies on health beneﬁts by type of forest therapy activity.

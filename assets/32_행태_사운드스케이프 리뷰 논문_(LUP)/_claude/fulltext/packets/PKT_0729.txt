@@ -1,0 +1,205 @@
+### RECORD ID=729 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Increased Use of Porch or Backyard Nature during COVID-19 Associated with Lower Stress and Better Symptom Experience among Breast Cancer Patients
+DOI: 10.3390/ijerph18179102
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Increased Use of Porch or Backyard Nature during COVID-19
+Associated with Lower Stress and Better Symptom Experience
+among Breast Cancer Patients
+Amber L. Pearson 1,*
+, Victoria Breeze 1, Aaron Reuben 2 and Gwen Wyatt 3
+
+
+Citation: Pearson, A.L.; Breeze, V.;
+Reuben, A.; Wyatt, G. Increased Use
+of Porch or Backyard Nature during
+COVID-19 Associated with Lower
+Stress and Better Symptom
+Experience among Breast Cancer
+Patients. Int. J. Environ. Res. Public
+Health 2021, 18, 9102. https://
+doi.org/10.3390/ijerph18179102
+Academic Editors:
+Derek Clements-Croome and
+Simon Bell
+Received: 21 July 2021
+Accepted: 25 August 2021
+Published: 28 August 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Department of Geography, Environment and Spatial Sciences, Michigan State University, East Lansing,
+MI 48824, USA; breezevi@msu.edu
+2
+Department of Psychology, Duke University, Durham, NC 27708, USA; aaron.reuben@duke.edu
+3
+College of Nursing, Michigan State University, East Lansing, MI 48824, USA; gwyatt@msu.edu
+*
+Correspondence: apearson@msu.edu
+Abstract: Contact with nature has been used to promote both physical and mental health, and is
+increasingly used among cancer patients. However, the COVID-19 pandemic created new challenges
+in both access to nature in public spaces and in cancer care. The purpose of our study was to evaluate
+the change in active and passive use of nature, places of engaging with nature and associations of
+nature contact with respect to improvements to perceived stress and symptom experience among
+breast cancer patients during the pandemic. We conducted a cross-sectional survey of people
+diagnosed with breast cancer using ResearchMatch (n = 56) in July 2020 (the ﬁrst wave of COVID-19).
+In this US-based, predominantly white, afﬂuent, highly educated, female sample, we found that,
+on average, participants were ﬁrst diagnosed with breast cancer at 54 years old and at stage 2 or 3.
+Eighteen percent of participants experienced disruptions in their cancer care due to the pandemic. As
+expected, activities in public places signiﬁcantly decreased as well, including use of parks/trails and
+botanical gardens. In contrast, spending time near home, on the porch or in the backyard signiﬁcantly
+increased. Also observed were signiﬁcant increases in indoor activities involving passive nature
+contact, such as watching birds through a window, listening to birdsong, and smelling rain or
+plants. Decreased usage of parks/trails was signiﬁcantly associated with higher stress (Coef = −2.30,
+p = 0.030) and increased usage of the backyard/porch was signiﬁcantly associated with lower stress
+(Coef = −2.69, p = 0.032), lower symptom distress (Coef = −0.80, p = 0.063) and lower symptom
+severity (Coef = −0.52, p = 0.009). The most commonly reported alternatives to outdoor engagement
+with nature were watching nature through a window (84%), followed by looking at images of nature
+(71%), and listening to nature through a window (66%). The least commonly enjoyed alternative was
+virtual reality of nature scenes (25%). While outdoor contact with nature away from home decreased,
+participants still found ways to experience the restorative beneﬁts of nature in and around their home.
+Of special interest in planning interventions was the fact that actual or real nature was preferred over
+that experienced through technology. This could be an artifact of our sample, or could represent a
+desire to be in touch with the “real world” during a health crisis. Nature contact may represent a
+ﬂexible strategy to decrease stress and improve symptom experience among patients with cancer,
+particularly during public health crises or disruptions to cancer care.
+Keywords: green space; parks; nature-watching; indoor nature; passive nature; stress; cancer symptoms
+1. Introduction
+Despite improvements to cancer diagnosis, treatment, and prognosis, cancer remains a
+highly prevalent health condition, both worldwide and within the United States (US). Glob-
+ally, in 2020, there were an estimated 19+ million new cancer cases and nearly 10 million
+deaths, with female breast cancer as the most commonly diagnosed cancer [1]. In the US,
+cancer is predicted to surpass heart disease as the leading cause of death within the next
+Int. J. Environ. Res. Public Health 2021, 18, 9102. https://doi.org/10.3390/ijerph18179102
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 9102
+2 of 13
+ten years, with new cases expected to increase nearly 45% from 1.6 million to 2.3 million
+annually by 2030 [2]. Cancer also remains a health condition marked by high stress, painful
+symptoms, and, depending on the type and severity of disease, diminished quality of life.
+While conventional medicine, particularly pharmacological intervention, addresses
+symptoms and quality of life, most cancer patients ﬁnd additional beneﬁt from non-
+pharmacological interventions. A survey of breast cancer patients found that more than
+80% turn to complementary, behavioral, and integrative therapies for additional symptom
+management [3]. Among such therapies, “green exercise” or outdoor physical activity
+in nature is gaining attention as a low-cost, ﬂexible activity with emerging evidence of
+effectiveness for symptom and stress management across a wide range of health conditions.
+Physical activity in particular has been linked to improved quality of life among cancer
+patients [4] as well as improved overall survival in the context of breast cancer. The
+proposed mechanisms through which physical activity affects breast cancer incidence and
+survival
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+This cross-sectional design study enrolled people with breast cancer, accessed via
+Research Match https://www.researchmatch.org/researchers/ (accessed on 17 June 2021).
+A RedCap survey was then sent to eligible participants based in the US, including a consent
+form (MSU IRB STUDY00004593), who were 18 years or older on 17 June 2020. From 17
+June to 27 July a total of seven Research Match “searches” for possible participants were
+performed, followed by recruitment invitation e-mails. Follow-up reminder emails were
+sent weekly from 7 July to 30 July. In total, 1049 people from Research Match’s database
+were contacted, 76 (7.24%) of which indicated they were interested participating, and 59
+(5.62%) of which partially completed the survey, with 56 having full data. This national
+sample was predominately well-educated, white and female, with a mean age of 63 years.
+
+Int. J. Environ. Res. Public Health 2021, 18, 9102
+4 of 13
+The survey was registered with PHENX (https://www.phenxtoolkit.org/ (accessed on 27
+August 2021)).
+2.1. Survey Instrument
+The survey was investigator-developed, covering: (1) to what degree (e.g., mildly,
+moderately, completely) and how the locations of active outdoor and passive contact
+with nature changed (e.g., walking in parks versus use of backyard); (2) why behaviors
+changed; (3) how physical activity behaviors changed, to understand the breadth of impacts
+on activities in this population; and (4) what alternative indoor or near-home contact
+with nature was substituted for therapeutic outdoor PA in public places. In addition,
+demographic details were obtained, including age, sex, race/ethnicity, age at diagnosis,
+stage at diagnosis, household composition, income, education, current treatment, and
+COVID-19 status if they had been tested.
+Speciﬁcally, for the time period preceding COVID-19 lockdowns and the past month
+following lockdowns, the survey included questions on types, locations and frequencies of
+outdoor PA activities, and types, locations and frequencies of passive contact with nature.
+Questions about frequency of physical activity and nature engagement behaviors were
+asked on a Likert-type scale from 5 (very often or frequently) to 1 (never) for two time
+points (last month during the pandemic and in a typical month before the pandemic).
+To calculate changes in behaviors, the past frequency was subtracted from the current
+frequency, so that positive values indicated an increase in the behavior and negative values
+indicated a decrease in the behavior. Data on whether participants felt they had access to
+neighborhood public spaces and/or ﬁtness facilities over the past week were also collected,
+as this may have necessitated changes in the behaviors of interest. These were phrased as
+statements (e.g., I can access/use parks) and were anchored on a 5-point Likert-type scale
+from strongly agree to strongly disagree. These two variables were re-coded to agree or
+disagree. Neutral values were coded as disagree.
+Attitude toward nature was assessed using the Nature-relatedness 6 (NR-6) scale [47].
+This scale has been shown to demonstrate good internal consistency, temporal stability,
+and to predict happiness, environmental concern, and nature contact [47]. It involves six
+questions about self-identiﬁcation with nature, connectedness or spirituality, awareness or
+knowledge about nature or local wildlife, and the need for/comfort in nature. Each item
+was measured on a 5-point Likert scale (1 = strongly disagree, 5 = strongly agree). Average
+scores were then calculated where higher scores indicated stronger nature-relatedness.
+Perceived stress was measured using Cohen’s 10-item Perceived Stress Scale [48],
+which rates items such as “In the last month, how often have you felt that you were unable
+to control the important things in your life” and “how often have you felt difﬁculties piling
+up so high that you could not overcome them”. Items were measured on a 5-point scale
+ranging from 0 (Never) to 4 (Very Often). Higher scores indicated greater stress. Reference
+values are 0–13 (low stress), 14–26 (moderate), and 27–40 (high).
+Common cancer-related symptoms and symptom severity was measured using the
+MD Anderson Symptom Inventory (MDASI) [49], which was updated to include symptoms
+experienced by patients undergoing cancer treatments [50], including fatigue, pain, nausea,
+etc. This instrument has established reliability and validity in samples of patients with
+cancer [51]. Participants rated each symptom’s presence and greatest severity on an
+11-point scale, from 0 (“not present”) to 10 (“as bad as you can imagine”) [51]. A mean
+core symptom score was calculated across the 13 core symptoms [50–52]. The MDASI
+also contains six items that describe to what degree the symptoms have interfered with
+different aspects of the patient’s life in the previous 24 h: general activity, mood, walking
+ability, normal work (including work outside the home and housework), relations with
+other people, and enjoyment of life. Each interference item is also rated on an 11-point
+scale from 0 (“does not interfere”) to 10 (“completely interferes”). A total symptom distress
+score was obtained by adding the score for all ten symptoms (range 0–60). The mean of
+
+Int. J. Environ. Res. Public Health 2021, 18, 9102
+5 of 13
+all of these symptom interference items was then used as a measure of overall symptom
+distress (range 0–10).
+Alternatives to outdoor engagement with nature were captured in two ways. First, a
+series of statements were queried for level of agreement. For example, “I enjoy watching
+nature through a window.” Responses were measured on a 5-point Likert-type scale
+from strongly agree to strongly disagree. These were re-coded into agree versus disagree.
+Neutral values were coded as disagree. Second, the survey included open-ended questions
+about alternatives and substitutions for nature experiences.
+2.2. Statistical and Qualitative Data Analyses
+First, to quantify the nature and ext
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1) were to understand among
+Figure 1. Conceptual diagram.
+Table 1). Most participants were married (55%) without children living at
+Table 1. Demographic and health characteristics.
+Figure 2). Frequency using parks/trails and botanical gardens both signiﬁcantly decreased
+Figure 2. Changes in engagement in outdoor physical activity, usage of parks, and at-home contact with nature.
+Table 2). Across most models, age
+Table 2. Regression modeling results: Predicting perceived stress score, overall symptom distress and symptom severity.
+Table 2). Cancer stage at diagnosis
+Table 3). The most commonly enjoyed alternatives were watching nature through
+Table 3. Alternatives to engagement with outdoor nature, by level of symptom distress.

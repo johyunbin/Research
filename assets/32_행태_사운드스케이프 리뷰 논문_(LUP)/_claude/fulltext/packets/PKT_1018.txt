@@ -1,0 +1,232 @@
+### RECORD ID=1018 | screening_verdict=INCLUDE | year=2024
+JOURNAL: ECOLOGICAL INDICATORS
+TITLE: Exploring Acoustic-Visual perception and satisfaction in urban Parks: Based on behavioral analysis
+DOI: 10.1016/j.ecolind.2024.112022
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Ecological Indicators 162 (2024) 112022
+Available online 18 April 2024
+1470-160X/© 2024 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-
+nc/4.0/).
+Original Articles 
+Exploring Acoustic-Visual perception and satisfaction in urban Parks: Based 
+on behavioral analysis 
+Pengcheng Lai a, Dayi Ou a,*, Hanqing Zheng b 
+a School of Architecture, Huaqiao University, Xiamen 361021, PR China 
+b Fujian Academy of Agricultural Sciences, Fuzhou 350005, PR China 
+A R T I C L E I N F O 
+Keywords: 
+Urban parks 
+Soundscape 
+Acoustic-visual perception 
+Behavioral states 
+Satisfaction 
+Indicators 
+A B S T R A C T 
+Urban parks are vital green spaces where people can participate in various activities. A favorable acoustic-visual 
+environment is crucial for satisfaction, and acoustic-visual perception may vary depending on the behavioral 
+state. This study aimed to examine the acoustic-visual perception of people undertaking different behaviors 
+(sitting, walking, and acoustic) and explore the relationship between acoustic and visual perceptions and 
+satisfaction. The study was conducted using questionnaire surveys (N = 1044) in three urban parks in Quanzhou, 
+China. The results showed that (1) respondents undertaking different behaviors had different acoustic-visual 
+perceptions, (2) satisfaction was influenced by acoustic-visual perception, (3) overall satisfaction was influ­
+enced by both acoustic and visual satisfaction, and (4) acoustic, visual, and overall satisfaction could be pre­
+dicted via multiple linear regression. Based on the results and design strategies of this study, a more comfortable 
+activity environment for people in urban parks is proposed. 
+1. Introduction 
+With the rapid growth of cities, the density of buildings and popu­
+lation in built-up areas is increasing (Liu et al., 2020; Ning et al., 2022) 
+while the amount of vegetated area is declining (Lin and Wu, 2019; Yu 
+et al., 2022). China, the world’s largest developing country, has un­
+dergone rapid urbanization over the past 20 years (Wei et al., 2022), and 
+the importance of green spaces is attracting considerable attention in the 
+country (Lee and Maheswaran, 2011). Urban parks offer residents the 
+opportunity to connect with nature while promoting physical activity 
+(Feng et al., 2021; Marquet et al., 2022; Niu et al., 2022; Sun et al., 
+2023), and the environmental conditions of urban parks influence the 
+perception (Wu and Chen, 2023) and feelings (Chiesura, 2004) of resi­
+dents, particularly the acoustic (Gozalo et al., 2018) and visual (Xiang 
+et al., 2022) environmental conditions, for which changes may influence 
+the overall environmental perception (Ta et al., 2021). 
+People’s perceptions of a given context are shaped by the informa­
+tion received through their visual, auditory, and olfactory senses (Stein, 
+2012). Studies investigating the perception of acoustic and visual en­
+vironments have been performed from multiple perspectives. In terms of 
+the acoustic environment, the International Standard Organization has 
+defined the soundscape as “the acoustic environment as perceived or 
+experienced and/or understood by a person or people, in context” 
+(Schulte-Fortkamp et al., 2023). Currently, the subjective perception of 
+an acoustic environment includes annoyance (Nang Li et al., 2012), 
+sound characteristic descriptions (Nitidara et al., 2022), personal noise 
+sensitivity (Van Renterghem and Botteldooren, 2016), and personal 
+sound source preferences (Yong Jeon et al., 2011). To intuitively 
+determine the influence of the acoustic environment, one study 
+continuously measured the sound pressure level for an acoustic comfort 
+survey (Yang and Kang, 2005), while to better describe the perceived 
+acoustic environment, other studies have investigated the type of sound 
+(Kang et al., 2017), acoustic indicators (Yang and Kang, 2005) or 
+perceived affective qualities (Xiang et al., 2022). Liu et al. (2018) con­
+ducted field surveys in Fuzhou and found that the type of sound in­
+fluences the tranquility of a soundscape, while Hasegawa et al. (2022) 
+evaluated the perceived affective quality (PAQ) of soundscapes based on 
+guidance provided by the soundscape indicators in (ISO 12913-2: 2018). 
+Although PAQ has been a standard for many years, relatively few studies 
+have applied this scale to the evaluation of soundscapes. In addition, 
+sound-related activities generate diverse sound-level environments, 
+leading to different levels of acoustic comfort for respondents (Meng and 
+Kang, 2016). Hence, it is imperative that perception is classified into 
+different activity groups. The development of soundscape research has 
+* Corresponding author. 
+E-mail address: oudayi@hqu.edu.cn (D. Ou). 
+Contents lists available at ScienceDirect 
+Ecological Indicators 
+journal homepage: www.elsevier.com/locate/ecolind 
+https://doi.org/10.1016/j.ecolind.2024.112022 
+Received 4 February 2024; Received in revised form 28 March 2024; Accepted 9 April 2024 
+
+Ecological Indicators 162 (2024) 112022
+2
+been accompanied by an increase in the number of research methods 
+such as public surveys (Herranz-Pascual et al., 2019) and post-test and 
+control experiments with stimulus materials (Jeon and Jo, 2020). The 
+visual environment is also important, with light intensity (Tan and 
+Ismail, 2014) and visual aesthetic quality (Gungor et al., 2018) repre­
+senting the foci of most studies in this area, and although application 
+scenarios of the two generally differ, both are important. Light intensity 
+perception is typically considered in indoor environments and its rela­
+tionship with other human perceptions has been extensively explored. 
+Yang and Jeon (2023) set up two lighting conditions (illuminance and 
+color temperature) in a classroom and combined them with five sound 
+conditions to measure the cognitive performance of subjects, while Du 
+et al. (2022) explored the in
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study design 
+The proposed framework for assessing acoustic-visual perception 
+and its relationship with satisfaction based on different behaviors in 
+urban parks is illustrated in Fig. 1. The research framework was based on 
+the conceptual framework of the soundscape (ISO 12913-1:2014)and 
+consisted of five parts focused on three research questions based on 
+different behavioral states. Respondents were categorized into behav­
+ioral types based on their behavioral states in the first part, 
+acoustic-visual perception was evaluated in the second part, and the 
+relationship between acoustic and visual perception and satisfaction was 
+investigated in the third part. The relationships between acoustic satis­
+faction (AS), visual satisfaction (VS), and overall satisfaction (OS) were 
+also explored. The construction of prediction models for AS, VS, and OS 
+based on acoustic-visual perception was performed in the fourth part. 
+Finally, variations in perceptions associated with different behaviors 
+were discussed in the fifth part. 
+2.2. Study areas 
+The research was conducted in Quanzhou (24
+◦30′~25
+◦56′ N, 
+117
+◦25′~119
+◦05′ E), southeastern China, which is renowned as the 
+hometown of overseas Chinese (Brown, 2023). Quanzhou has an 
+extensive green landscape comprising over 40.59 % of its urban area, 
+with 40 urban parks. Three typical public urban parks were selected as 
+P. Lai et al. 
+
+Ecological Indicators 162 (2024) 112022
+3
+the study sites: Citong Park (3.7 ha), East Lake Park (20.5 ha), and West 
+Lake Park (100 ha) (Fig. 2). Citong Park is a district-level leisure park 
+that features Erythrina as its main tree species and is located in the city 
+center, thus attracting a large number of visitors. East Lake Park is 
+located in the center of the old city, and is the site of “Star Lake Lotus 
+Fragrance.” This park has a rich cultural and historical heritage and was 
+one of the top ten scenic spots in the original Quanzhou, rendering it the 
+main tourist garden within ancient Quanzhou. West Lake Park is a 
+classic Chinese garden in which almost four-fifths are in the form of 
+water features, and it is close to Qingyuan Mountain, which is a national 
+scenic spot. 
+The three parks include a variety of soundscapes and green spaces 
+and thus provide a variety of functional activities such as leisure, 
+entertainment, and exercise. Additionally, they vary in size and design 
+style, each with its own characteristics. In general, the selected parks are 
+popular and reflect the characteristics of most urban parks in Quanzhou. 
+The number of sampling sites varied according to the size of the park 
+(Fig. 2) and were categorized into four representative types of green 
+spaces: fitness trails (FNT), open squares (OPS), tree-shaded squares 
+(TRE), and pavilions (PVL), as proposed by Niu et al. (2022) (Table 1). 
+Fig. 1. Acoustic-visual perception and its relationship with satisfaction under different behaviors. 
+Fig. 2. Site locations and measured spaces (numbers represent LAeq). 
+P. Lai et al. 
+
+Ecological Indicators 162 (2024) 112022
+4
+2.3. Questionnaire design 
+The questionnaire consisted of four sections, with the first part used 
+to collect personal information, including gender (male, female), age 
+(≤18, 19–35, 36–50, 51–65, and 65 + ), and behavioral states (sitting, 
+walking, and acoustic behavior). In the second part, eight indicators 
+from previous studies (Grahn and Stigsdotter, 2010; Kytt¨a and Kahila, 
+2005; Stigsdotter and Corazon, 2017; Appleton, 1996): ‘nature,’ ‘beauty,’ 
+‘absorb,’ ‘open,’ ‘coordinate, ‘gradation,’ ‘diversity,’ and ‘order’ were 
+selected to evaluate the perceived visual quality (PVQ). International 
+Standards (ISO, 2018) were used to evaluate the soundscape in the third 
+section. This evaluation encompasses two aspects: sound source identi­
+fication (SSI) and PAQ for the surrounding acoustic environment, with 
+sound sources including cars, buses, trains, and airplanes included as 
+traffic noise; live, broadcast, and cellphone music as music; conversa­
+tion, laughter, and footsteps as human sounds; and singing birds, flow­
+ing water, and wind as natural sounds. The PAQ included ‘pleasant,’ 
+‘chaotic,’ ‘vibrant,’ ‘uneventful,’ ‘calm,’ ‘annoying,’ ‘eventful,’ and ‘monot­
+onous.’ The fourth section addressed participant satisfaction with the 
+acoustic, visual, and overall environments (Jeon and Jo, 2020). All 
+questions were based on a five-point Likert scale ranging from 1 to 5. 
+2.4. Data collection 
+Sound pressure measurements were taken using a BSWA 308 sound 
+level meter used to record LAeq. The microphone was pointed approx­
+imately 1 m away from any reflective surfaces and 1.2–1.5 m above the 
+ground to reduce the effects of acoustic reflection (Meng and Kang, 
+2016). Measurements were continued for 10 min at each study site 
+following the methodology of previous studies (Axelsson et al., 2014; Liu 
+et al., 2014; Jabben et al., 2015; Lobo Soares and Bento Coelho, 2016). 
+Fig. 2 shows the locations and LAeq values obtained at each sampling 
+point. 
+Behavioral data were collected concurrently with sound levels. Based 
+on the specific activities and number of people in the park, the activities 
+were divided into three distinct behavior groups: sitting, walking, and 
+acoustic (Table 2). The behavior of the respondents in each space was 
+recorded via both questioning and observation. Only tourists who 
+engaged in one of the studied behaviors for over 15 min were included. 
+Questionnaire collection, behavioral observations, and sound level 
+measurements were conducted in autumn of 2022 at Citong Park 
+(November 17, 18, 19, and 20), East Lake Park (November 26, 27, 28, 
+29, and 30), and West Lake Park (December 3, 4, 5, 8, 9, and 10). Data 
+collection spanned both weekdays and weekends from 8:00 am to 6:00 
+pm and was performed under favorable weather conditions with no rain. 
+The air temperature ranged from 16.2 to 27.0 ◦C, and the relative hu­
+midity ranged 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. The research framework was based on 
+Fig. 2). Citong Park is a district-level leisure park 
+Fig. 2) and were categorized into four representative types of green 
+Table 1). 
+Fig. 1. Acoustic-visual perception and its relationship with satisfaction under different behaviors. 
+Fig. 2. Site locations and measured spaces (numbers represent LAeq). 
+Fig. 2 shows the locations and LAeq values obtained at each sampling 
+Table 2). The behavior of the respondents in each space was 
+Fig. 2 for details). Less 
+Table 3). 
+Table 1 
+Table 2 
+Table 4. Regarding PVQ, both VS and OS were signif­
+Table 5, OS was significantly influenced by both AS 
+Table 6), 
+Table 3 
+Fig. 3). 
+Fig. 3(a), upon experiencing satisfaction with the vi­
+Fig. 4), with gender and age included as control var­
+Table 4 
+Table 5 
+Table 6 
+Table 3. In terms of PVQ, the respondents most strongly recognized the 
+Table 4. For PVQ, both VS and OS were 
+Fig. 3. Percentage of dissatisfaction with the overall environment for various combinations of acoustic and visual satisfaction under the three behaviors. 

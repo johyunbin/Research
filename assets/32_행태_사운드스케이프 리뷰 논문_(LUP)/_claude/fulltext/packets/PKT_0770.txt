@@ -1,0 +1,290 @@
+### RECORD ID=770 | screening_verdict=INCLUDE | year=2021
+JOURNAL: International Journal of Environmental Research and Public Health
+TITLE: The influence of emotional health on the activity characteristics of the elderly and the selection of environmental quality factors in residential areas
+DOI: 10.3390/ijerph182312618
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+The Inﬂuence of Emotional Health on the Activity
+Characteristics of the Elderly and the Selection of
+Environmental Quality Factors in Residential Areas
+Wen Zhong
+, Jian Suo *, Xinxin Ren and Guopeng Li
+
+
+Citation: Zhong, W.; Suo, J.; Ren, X.;
+Li, G. The Inﬂuence of Emotional
+Health on the Activity Characteristics
+of the Elderly and the Selection of
+Environmental Quality Factors in
+Residential Areas. Int. J. Environ. Res.
+Public Health 2021, 18, 12618. https://
+doi.org/10.3390/ijerph182312618
+Academic Editor: Paul B. Tchounwou
+Received: 22 October 2021
+Accepted: 28 November 2021
+Published: 30 November 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Department of Architecture, School of Architecture and Fine Art, Dalian University of Technology, Dalian 116081,
+China; zwynlycg@163.com (W.Z.); renxinxin@dlut.edu.cn (X.R.); liguopeng@dlut.edu.cn (G.L.)
+* Correspondence: suojian727@dlut.edu.cn; Tel.: +86-138-4090-7234
+Abstract: The environment in urban residential areas is the main ﬁeld of daily activity for the elderly.
+Environmental renewal has played a signiﬁcant role in improving residents’ quality of life and
+promoting physical and mental health. However, there is a general tendency that more attention
+has been focused on the environment during environmental renewal but not the residents. There
+is a continued lack of discussion on the emotional status of the elderly and its impact on outdoor
+activities. Based on the investigation of four types of typical residential environments in the Dalian
+residential area, a hierarchical linear model (HLM) has been constructed to reveal the inﬂuence of the
+emotional status of elderly persons on their activity characteristics and the selection of environmental
+quality factors. The results show that the distribution of older people with different emotional
+statuses varies among different residential types. The proportion of positive emotion is relatively
+high in the ﬂat land in rows category, and the activity characteristics are signiﬁcantly different under
+different emotional statuses. Among the four kinds of residential environments, which are (ﬂat
+land in rows, ﬂat land enclosed, slope, and mountainous) the environmental quality factors that
+have the highest impact on the emotional status of the elderly are greening quality (0.395), acoustic
+environment (0.167), environmental cleanliness (0.269), and greening quality (0.230), respectively. In
+the mountainous type, the impact of environmental quality factors on the emotional status of the
+elderly is the highest (39.7%), and the impact contributions of the other three environmental types are
+23.3%, 8.9% and 20.1%, respectively. These research results provide helpful guidance for the scientiﬁc
+community about practical implementation of residential environmental renewal for the elderly.
+Keywords: residential area; the elderly; emotional health; activity characteristic; environmental
+quality factor
+1. Introduction
+With the aggravation of ageing, the mental health problems of the elderly have
+aroused widespread concern in society. As the last stage of the life process, ageing is its
+most prominent feature, manifested in the degradation of physical function and the decline
+of cognitive ability and psychological changes at such different levels as emotion and
+personality [1]. Especially after retirement, the elderly are gradually separated from their
+original social roles and their living space and communication scope becomes narrowed.
+They easily fall into negative psychological states such as depression and anxiety, which
+reduce their quality of life and happiness index. Approximately 97% [2] of the elderly
+in China rely on the residential area and its service system to support their elderly care
+requirements [3]. Among them, the elderly population in residences built in the 1980s and
+1990s is relatively concentrated, and the elderly population in many residences accounts
+for about one third [4]. In recent years, residential environment renewal carried out in
+various parts of China has improved residents’ quality of life. During residential renewal,
+reasonable allocation of environmental elements can provide nearby places for exercise
+Int. J. Environ. Res. Public Health 2021, 18, 12618. https://doi.org/10.3390/ijerph182312618
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+2 of 18
+and social networking for the elderly, and reduce their sense of loneliness and isolation [1].
+After the outbreak of COVID-19, many older people chose to move into the neighbourhood
+space, which has a positive effect on improving their physical and mental health.
+Studies report that the health status and life satisfaction of the elderly are highly
+related to emotional status [5,6]. Individuals with high emotional status often experience
+more positive emotions, while individuals with low emotional status often experience more
+negative emotions, which is not conducive to health. Many studies have investigated the
+relationship between environment and human emotion in Europe, America and other coun-
+tries [7–13]. Guitea reported that residents’ dissatisfaction with social and entertainment
+facilities reduced their mental health levels [7]. In contrast, Carlson J.A. and others found
+that the built environment of the residential area has a synergistic effect with the social and
+psychological factors of elderly residents. A high-quality environment can promote the
+physical activities of the elderly [8]. Pacione analyzed the impact of personal and family
+characteristics such as a
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Design and Participants
+The research data collection began in April 2021 and sampled four administrative
+locations in Dalian. As Dalian includes hilly landforms, in order to more comprehen-
+sively reﬂect the impact of the residential environment on the elderly, the study selected
+four distinct topographic environmental areas. Through measurement and observation,
+a total of 98 spaces between residential buildings were deﬁned and categorized into four
+types: ﬂat land in rows, ﬂat land enclosed, sloped, and mountainous (Table 1). Flat land in
+rows and slope residences were generally outside the central urban area, while enclosed
+residences and mountainous residences were within the central urban area. Using typo-
+logical methods, we subdivided the four types of residential environments studied into
+the 18 typical types with the highest proportions. Elderly residents over 60 years old who
+have lived in the study area for more than half a year and who could understand the
+questionnaire and provide responses were randomly selected. The purpose was introduced
+to the respondents during the survey, followed by simple questions about their age and
+residence time to determine whether they were eligible to participate. The survey interview
+was undertaken anonymously, with oral, informed consent obtained from each participant
+before commencing the study.
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+3 of 18
+Table 1. Four types of typical residential areas in Dalian.
+X Community
+J Community
+ 
+ 
+ 
+ 
+Construction year
+Space type
+Number of
+households
+Construction year
+Space type
+Number of
+households
+1979–1988
+Flat-land Row Type
+672
+1982–2000
+Flat-land Enclosed Type
+2797
+W Community
+S Community
+ 
+ 
+ 
+Construction year
+Space type
+Number of
+households
+Construction year
+Space type
+Number of
+households
+1980–1989
+Slope Type
+984
+1986–1987
+Mountainous Type
+3577
+Additionally, in order to scientiﬁcally set the question option intervals, two sunny
+days were selected to record the behavioural trajectories of three residential samples of
+the elderly over 60 years old. This was done every half an hour in the early stage of the
+formal survey, with the behaviour trajectories of the two days superimposed (Table 2) [23]
+and the visual presentation of the trajectories adopted using ArcMap (version 10.7, ESRI,
+Redlands, CA, USA). The observation results showed that the number of older people who
+undertake outdoor activities was highest between 10:00–11:00 a.m. and 15:00–17:00. The
+activity duration was primarily in the range of 0.5 h–3 h, the activity frequency 1–2 times
+a day, and activity content varied according to the residence environment. The main
+activities included walking, sitting idle, basking in the sun, chatting, watching children,
+playing chess and cards, walking dogs, and sightseeing. A total of 312 questionnaires
+were distributed (85 from Wencuixuan Community, 81 from Shidaojie Community, 76 from
+Jixian Community, and 70 from Xigou Community). The questionnaire efﬁciency was 98%,
+with 306 valid questionnaires returned.
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+4 of 18
+Table 2. Characteristics of residential activities of the elderly on sunny days (overlapping two-day data 8:00–18:00).
+Sample 1
+ 
+Sample2
+ 
+Sample 3
+ 
+2.2. Measures
+2.2.1. Elderly Self-Assessment of Emotions and Health
+The Newfoundland Memorial University Happiness Scale (MUNSH) was selected.
+This scale is based on the emotional status theory, that is, the status between positive and
+negative emotions. The design is divided into four dimensions: positive emotion (PA),
+negative emotion (NA), and positive Experience (PE) and Negative Experience (NE), for a
+total of 24 questions. An answer of “yes” to an item scores 2 points, “don’t know” scores
+1 point and “no” scores 0 points. For item 19, an answer of “Current residence” scored
+2 points and "Other residence" scored 0 points. An answer of “satisﬁed” on item 23 scored
+2 points and “unsatisﬁed” scored 0 points. Total score=PA-NA+PE-NE, and the score range
+was −24~+24. In order to facilitate the calculation, the constant 24 is often added, for a
+score range of 0–48 (Table 3).
+
+Int. J. Environ. Res. Public Health 2021, 18, 12618
+5 of 18
+Table 3. Index system.
+Index System
+Inﬂuence Variable
+Variable Level and Assignment
+The basic attributes of
+individual society
+gender
+2 Categories (1 = male; 2 = female)
+age
+3 Levels (60–69 years old, 70–79 years old, over 80 years old)
+education level
+5 Levels (primary school or below, junior high school, senior
+high school or vocational high school, Associate degree,
+Bachelor’s Degree)
+Family annual income
+6 Levels (below 10,000, 10,000 to 30,000, 30,000 to 80,000,
+80,000 to 120,000, 120,000 to 200,000, more than 200,000)
+Housing area
+3 Levels (below 50 m2, 50–80 m2, above 80 m2)
+Family structure
+4 Categories (living alone, with spouse, second generation,
+third generation)
+Individual social relations
+Physical condition
+5 levels (assign 1 = very bad~5 = Very good)
+Family relationships
+5 levels (assign 1 = very bad~5 = Very good)
+neighborhood
+5 levels (assign 1 = very bad~5 = Very good)
+Activity characteristics
+Activity frequency
+4 levels (1–2 times, 3–4 times, 5–6 times, 7 times or more)
+Activity duration
+5 Levels (less than 0.5 h, 0.5–1 h, 1–2 h, 2–3 h, 3 h and above)
+The activity type
+Record the content of the activity, and count the number of types
+Multiple quality
+variables in the
+residential
+environment
+Functional
+Quality
+Activity and Rest facilities
+5 levels (1 = very inconsistent~5 = very in conformity)
+Environmental cleanliness
+5 levels (1 = very inconsistent~5 = very in conformity)
+Spatial scale
+5 levels (1 = very inconsistent~5 = very in conformity)
+Place
+Quality
+Greening quality
+5 levels (1 = very inconsistent~5 = very in conformity)
+Vegetation type
+5 levels (1 = very inconsistent~5 = very in conformity)
+Degree of sky openness
+5 levels (1 = very inconsistent~5 = very in conformity)
+Spatial scale
+5 levels (1 = very incon
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). Flat land in
+Table 1. Four types of typical residential areas in Dalian.
+Table 2) [23]
+Table 2. Characteristics of residential activities of the elderly on sunny days (overlapping two-day data 8:00–18:00).
+Table 3).
+Table 3. Index system.
+Table 3).
+Table 3).
+Table 4. A gender distribution of 42.8% males and 57.2% females made up the participants.
+Table 4).
+Table 4. Basic information statistics of the elderly interviewed (n = 306).
+Figure 1), for ﬂat land in rows-type residential participants,
+Table 5. Comparison of emotional state and activity characteristics among different types of residential environments.
+Table 6. Comparison of Environmental quality assessment among different types of residential environments.
+Table 6. Cont.
+Figure 1. Emotional assessment of different types of residential environments. Note: *, ** indicate
+Figure 2a shows the differences in activity characteristics between
+Figure 2b). In a horizontal comparison, the frequency,
+Figure 2. Activity characteristics of elderly people with different emotions. (a) positive emotion.
+Figure 3. The elderly’s choice of environmental quality by two emotional types in different residential environments.
+Figure 3. The elderly in the
+Table 7). According to the regression model’s collinearity and the
+Table 7. Multi-factor hierarchical regression analysis of the same type of residential environments.
+Table 7. Cont.

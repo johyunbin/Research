@@ -1,0 +1,219 @@
+### RECORD ID=694 | screening_verdict=BORDERLINE | year=2021
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Associations between Personal Attitudes towards COVID-19 and Public Space Soundscape Assessment: An Example from Antwerp, Belgium
+DOI: 10.3390/ijerph182211774
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Associations between Personal Attitudes towards COVID-19
+and Public Space Soundscape Assessment: An Example from
+Antwerp, Belgium
+Francesco Aletta 1,*
+and Timothy Van Renterghem 2,*
+
+
+Citation: Aletta, F.; Van Renterghem,
+T. Associations between Personal
+Attitudes towards COVID-19 and
+Public Space Soundscape Assessment:
+An Example from Antwerp, Belgium.
+Int. J. Environ. Res. Public Health 2021,
+18, 11774. https://doi.org/10.3390/
+ijerph182211774
+Academic Editor: Takashi Yano
+Received: 21 September 2021
+Accepted: 7 November 2021
+Published: 10 November 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Institute for Environmental Design and Engineering, University College London, The Bartlett,
+14 Upper Woburn Place, London WC1H 0NN, UK
+2
+WAVES Research Group, Department of Information Technology, Ghent University, Technologiepark 126,
+B 9052 Gent, Belgium
+*
+Correspondence: f.aletta@ucl.ac.uk (F.A.); timothy.vanrenterghem@ugent.be (T.V.R.)
+Abstract: The COVID-19 pandemic, and the lockdown events and policies that followed, led to
+signiﬁcant changes in the built environment and how it is experienced by people and communities.
+Among those, variations in the acoustic environments were some of the most noticeable in cities. This
+study investigated the relationships between the perception of the acoustic environment (i.e., sound-
+scape) and different personal factors such as attitudes towards the pandemic and noise sensitivity,
+by performing a survey with 109 participants in an urban green public space in Antwerp (Belgium),
+shortly after most restrictions issued by the government were lifted in September 2020 when the ﬁrst
+contamination wave ended. While preliminary in nature, the results of this data collection campaign
+show that people actively changing their behaviors (using less public transport or cycling more)
+assessed the soundscapes as less vibrant/exciting. People who were more concerned about the
+pandemic tended to notice more natural sounds and noise from trafﬁc on nearby local roads. This
+same subset also put a bigger importance on the environmental quality of the public space than in
+the pre-pandemic period. Noise sensitivity also played a role, as an association was found between
+more-than-average noise sensitive persons and those more worried regarding the pandemic. Overall,
+the ﬁndings of this study conﬁrm that at least part of the people have started to perceive the public
+space, including its soundscape, differently since the start of the pandemic.
+Keywords: environmental noise; noise perception; soundscape; cycling; public space; survey;
+COVID-19
+1. Introduction
+The COVID-19 pandemic events and all the consequent actions and policies imple-
+mented by governments and countries across continents have had (and to a great extent will
+still have in the foreseeable future) drastic impacts on how individuals, groups and commu-
+nities relate to the built environment, and to environmental aspects more broadly [1]. There
+have been considerable changes in how people behave and interact, how social activities
+are performed and how the environment is experienced in cities, which have in turn multi-
+faceted implications in the public health and societal dimensions Osborn, 2020) [2]. Early
+literature reviews of questions related to how people use public spaces in the context of the
+COVID-19 discourse seem to indicate that this pandemic will change public space design
+and use, and most importantly its perceptions, within and between cities [3]. Green areas
+in cities were of course a key public space people resorted to for leisure purposes during
+lockdowns (when allowed by local policy) as well as local commuting, as a preferred option
+to maintain better social distancing [4]. Some studies indeed focused on the role of green
+infrastructures as a public health “asset” during the pandemic. Hanzl observed that the
+pandemic stimulated academic and policy debate about future forms of urban living, and
+Int. J. Environ. Res. Public Health 2021, 18, 11774. https://doi.org/10.3390/ijerph182211774
+https://www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2021, 18, 11774
+2 of 15
+that temporary interventions and short-term adjustments introduced in response to the
+pandemic may actually indicate possible pathways for the future [5].
+In particular, among all the environmental variations observed since the onset and
+development of the pandemic, sudden changes in noise levels (especially in urban contexts)
+were reported from different sources around the world (see for instance: [6–11]). In the
+environmental acoustics and soundscape research communities, this led to a growing
+interest to characterize changes in the sound environment of cities, both objectively (i.e.,
+via acoustic measurements) and perceptually (i.e., via socio-acoustic surveys or alike) [12].
+While noise level reductions due to the lockdown and social distancing policies
+imposed to counter the spread of the virus were generally acknowledged, what happened
+in terms of experience and perception of the sound environment as per the soundscape
+concept [13] was less clear. Maggi et al. [14] performed an online survey on the soundscape
+during the lockdown in Argentina and reported that, due to the decrease in mechanical
+sounds and increase in natural sounds, participants were more frequently conveying
+feelings of tranquility and happiness. Likewise, Bartalucci et al. [15] in another online
+survey conducted in Italy during different stages of COVID-19-related lockdowns reported
+an overall reduction in terms of noise anno
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. COVID-19 Situation at the Time of the Study
+The ﬁrst person who ofﬁcially died in Belgium due to COVID-19 was announced by
+the Federal Government on 11 March 2020. Starting from 18 March on, a so-called “soft
+lockdown” was imposed by the Federal Government, including immediate shutdown of
+schools and pubs/restaurants, while only allowing food-related stores to stay open. In
+the Province of Antwerp, where the zone under study is located, the number of newly
+identiﬁed contaminations was at maximum 10 per 100,000 inhabitants per day during
+this ﬁrst wave. Non-essential displacements by car were forbidden for the public at large,
+although walking/cycling outdoors was still allowed and even encouraged. During the
+month of May in 2020, these restrictions were lifted very gradually, and near the end of
+June, public life went more or less back to normal (with less than 1 contamination per
+100,000 inhabitants per day).
+
+Int. J. Environ. Res. Public Health 2021, 18, 11774
+3 of 15
+Near the end of July 2020, local COVID-19 outbreaks in the Province of Antwerp
+(leading to a maximum of 12 new contaminations per 100,000 inhabitants per day), led to
+(moderate) local measures. At the beginning of September, these additional local restrictions
+were again lifted. At the time of the survey, near the end of September 2020, the sound
+pressure levels measured directly near the edge of the highway were almost equal to those
+in 2017 [19], which indicates that public life and economic activity was again at the same
+level as in the pre-pandemic period.
+At the time of the survey, however, the number of contaminations were again exceed-
+ing 10 per 100,000 inhabitants per day in the Antwerp Province, and would lead to the
+peak of the second and more severe contamination wave to be reached early November
+2020 (with 88 per 100,000 inhabitants per day). So, the survey was taken in between the
+ﬁrst and second Belgian COVID-19 wave, after a local outbreak, and during a time window
+of a few weeks where these unprecedented restrictions on the public life were lifted to
+a large extent and daily life more or less normalized, but with the clear threat of a new
+contamination wave about to come.
+2.2. Case Study
+The cycling and walking path considered in this study is located in the Borgerhout
+district in the city of Antwerp (Belgium). It is (visually) immersed in vegetation and
+bordered by a depressed motorway (the Ring road) with a 6.3 m high embankment in
+between. The Ring road is by far the most noticeable source of environmental noise in the
+area, being a highly-trafﬁcked multi-lane motorway, with a high share of heavy vehicles.
+The case study is interesting as it provides a unique context where the Ring road is a
+dominant source of environmental noise, on which trafﬁc volumes were not affected by
+the lockdown policies at the time of the study. This is shown, e.g., by the measured
+difference in exposure level at the edge of the highway (behind the guardrail), relative to
+the pre-pandemic period, of only 0.1 dB (LAeq,1 month) [19].
+The part of the cycling/walking path under study has a length of approximately 560 m
+end to end, and it is comprised between two bridges (Luitenant Lippenslaan and Stenen-
+brug) that cross the Ring road. The area was recently the object of a landscaping renovation
+that made the Ring road invisible from the path, combined with a noise control interven-
+tion consisting of a raised vegetated berm (Figure 1), which was previously discussed in
+other studies [19,20]. This zone is characterized by strong presence of green features that
+play a moderating role in (negative) noise perception [21]. The landscaping/noise control
+intervention was completed at the time the COVID-19 pandemic events were developing,
+both worldwide and locally in Belgium, and the on-site survey was arranged shortly after
+in September 2020.
+ 
+Figure 1. Photographs taken on site: a view towards the berm from the bridge (left), and another one along the path itself
+showing vegetation and the berm (right).
+In Figure 2, detailed measurements of the sound exposure along the path are de-
+picted, using a validated mobile measurement procedure as discussed in detail in Ref. [19].
+
+Int. J. Environ. Res. Public Health 2021, 18, 11774
+4 of 15
+Sound pressure levels, using the LA,50 indicator, range from 62 to 65 dBA in between the
+survey points.
+Figure 2. Spatial distribution of the sound pressure levels measured along the cycling path, using
+the LA,50 indicator during daytime hours in the week when the questionnaires were held. Distances
+are referenced to the bottom left position (x,y) = (0,0). The survey points are marked by the two
+black dots.
+2.3. Survey
+On site surveys were carried out at the cycling path by two research students during
+the weekdays from 21 to 25 September 2020. Data collection sessions lasted approximately
+from 10:00 am to 06:00 pm. There were two survey points, one near the Lippenslaan
+bridge and another one at the path bifurcation towards the Stenenbrug end (Figure 3).
+The surveyors worked simultaneously and approached walkers/cyclists leaving the path
+according to their direction and position, to make sure responses to the questionnaire would
+reﬂect the environment as just experienced by the interviewee. Those who successfully
+completed the questionnaire were rewarded a small bicycle safety gadget as a token of
+appreciation for their time; completing the questionnaire usually took between 10 and
+15 min. The selection of respondents was not targeted: surveyors on site would approach
+all passers-by if not already busy with another interview; the ratio of people deciding
+to participate was approximately one out of four of those approached. People were not
+approached if they were clearly wearing headphones on the assumption that they were not
+exposed to the urban sound environment under study.
+The questionnaire comprised several sections that were proposed to participants who
+had agreed to contribute to the st
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1), which was previously discussed in
+Figure 1. Photographs taken on site: a view towards the berm from the bridge (left), and another one along the path itself
+Figure 2, detailed measurements of the sound exposure along the path are de-
+Figure 2. Spatial distribution of the sound pressure levels measured along the cycling path, using
+Figure 3).
+Table 1) that
+Figure 3. Plan of the case study area with survey points marked by black dots (map adapted from
+Table 1. Summary of the on-site questionnaire items used in this study. The order of categories does not reﬂect the order of
+Table 1. Cont.
+Figure 4 shows the distributions of scores for the
+Figure 5 shows that for the perceived dominance of sound source types, for
+Figure 4. Distributions of the scores for the items of category (a) (top) and category (d) (bottom) of
+Figure 6, for the COVID-related questions in category (e), the sample was more or
+Figure 5. Distributions of the scores for the items of category (c) of the questionnaire (i.e., “Noticed sounds”), each split
+Table 1). Preliminary analysis showed the relationships to be monotonic,
+Figure 7, where it can be seen that people avoiding public
+Figure 8 shows that with increasing concern about COVID-19, people tended
+Figure 6. Distributions of the scores for the items of category (e) of the questionnaire.
+Figure 7. Mean scores for the soundscape attribute “Vibrant” between the two groups avoiding/not-
+Figure 8. Perceived dominance of “Noise from trafﬁc at other roads” (top) and “Natural sounds”
+Figure 9, where it can be observed
+Figure 9. Bar chart

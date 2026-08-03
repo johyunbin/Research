@@ -1,0 +1,252 @@
+### RECORD ID=999 | screening_verdict=INCLUDE | year=2024
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Comparative evaluation of soundscapes in human activities spatial contexts of pedestrian spaces adjacent to arterial roads
+DOI: 10.1016/j.scitotenv.2024.172198
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Science of the Total Environment 928 (2024) 172198
+Available online 4 April 2024
+0048-9697/© 2024 Elsevier B.V. All rights reserved.
+Comparative evaluation of soundscapes in human activities spatial contexts 
+of pedestrian spaces adjacent to arterial roads 
+Xiaodong Lu a, Zhuangxiu Xie a, Peisheng Zhu a, Xiaoling Dai b,*, Yuan Zhang c, Wanqi Tao a, 
+Shiyuan Wang a 
+a School of Architecture and Fine Arts, Dalian University of Technology, Dalian 116023, China 
+b School of Design and Architecture, Zhejiang University of Technology, Hangzhou 310023, China 
+c School of Architecture and Urban Planning, Shenyang Jianzhu University, Shengyang 110168, China 
+H I G H L I G H T S 
+G R A P H I C A L A B S T R A C T 
+• Human activities spatial contexts are 
+considered. 
+• The evaluation method includes a sub­
+jective survey of sound clips. 
+• Human activity sounds masked traffic 
+noise and increased acoustic comfort. 
+• Human activity types and intensity 
+played 
+key 
+roles 
+in 
+soundscape 
+evaluations. 
+• High-intensity 
+activities 
+make 
+the 
+soundscape of pedestrian spaces more 
+vibrant. 
+A R T I C L E I N F O 
+Editor: Kai Zhang 
+Keywords: 
+Human activities spatial contexts 
+Traffic noise 
+Human activity sounds 
+Soundscape evaluation 
+A B S T R A C T 
+Pedestrian spaces adjacent to arterial roads are characterized by the dominance of traffic noise alongside various 
+human activities. Research on the impact of traffic noise on the soundscape evaluation of pedestrian spaces has 
+not considered human activities spatial contexts. To address this research gap, the present study constructed 
+auditory environments for pedestrian spaces in the contexts of commuting, residential, and commercial activ­
+ities. A total of seven auditory environments were subjected to laboratory auditory evaluations, including 
+perceived dominance of sound source, acoustic comfort, and perceived affective quality of the soundscape. The 
+results indicated that in pedestrian spaces with constant traffic noise, the presence of significant human activity 
+sounds led to a decreased perceived dominance of traffic noise and an increased acoustic comfort, despite the 
+higher acoustic energy. Thus, pedestrian spaces with a variety of human activity received better soundscape 
+evaluations. The elements that reflected the human activities spatial contexts, including the types and intensity of 
+human activities, played a crucial role in soundscape evaluations. Better acoustic comfort was reported in 
+pedestrian spaces characterized by low-intensity residential activities and high-intensity commercial activities. 
+Additionally, pedestrian spaces with more intense activities offered an actively engaging soundscape. The 
+findings can provide reference for a more accurate evaluation of the soundscape in pedestrian spaces and guide 
+the soundscape design of pedestrian environments. 
+* Corresponding author. 
+E-mail address: dai_xiaoling@hotmail.com (X. Dai). 
+Contents lists available at ScienceDirect 
+Science of the Total Environment 
+journal homepage: www.elsevier.com/locate/scitotenv 
+https://doi.org/10.1016/j.scitotenv.2024.172198 
+Received 31 October 2023; Received in revised form 25 March 2024; Accepted 1 April 2024 
+
+Science of the Total Environment 928 (2024) 172198
+2
+1. Introduction 
+The pedestrian space adjacent to arterial roads refers to the linear 
+public space enclosed by the interfaces on both sides of the road. With 
+the emergence of people-centric concepts, such as the creation of high- 
+quality pedestrian spaces (Burns, 2009), extensive research has been 
+conducted on the environmental comfort of pedestrian spaces. The 
+acoustic environment is a critical environmental factor in judging the 
+urban pedestrian space experience (Appleyard and Lintell, 1986). Ac­
+cording to the United Nations Environment Programme (UNEP), noise 
+pollution has become one of the major environmental issues faced by 
+humanity (United Nations Environment Programme, 2022). Noise 
+pollution also raises numerous issues related to social equity (World 
+Health Organization, 2019). Therefore, in the planning and design of 
+pedestrian spaces, the acoustic environment of these spaces should be 
+taken into consideration (Can et al., 2020; Margaritis and Kang, 2017; 
+Van Kempen et al., 2014). 
+In research on the acoustic environment in pedestrian spaces, 
+particular attention is given to traffic noise (Guski, 1997), as these 
+spaces, owing to their proximity to arterial roads, are predominantly 
+influenced by traffic noise. In China, it was found that one-third of the 
+length of arterial roads had traffic noise levels exceeding 70 dBA. The 
+areas on both sides of the main traffic arteries exhibited higher traffic 
+noise levels due to their proximity to the road noise sources (Ministry of 
+Environmental Protection, 2022). With the emergence of the concept of 
+inclusive cities, urban development has shifted toward a human- 
+centered approach. 
+Soundscape focuses on human perception (Kang, 2017; Kang et al., 
+2016; Zhang et al., 2024). ISO (International Organization for Stan­
+dardization, 2014) defines soundscape as “acoustic environment as 
+perceived or experienced and/or understood by a person or people, in 
+context”. Set out in the previous research (Herranz-Pascual et al., 2010; 
+Tarlao et al., 2021), the context is defined as interrelationships between 
+person, activity, and place. After the soundscape concept was intro­
+duced, soundscape research is interested in and has recently been pro­
+ducing an increasing body of work focusing on – identifying the context 
+and exploring changes in soundscape perception (Kang, 2006, Hong 
+et al., 2020a, 2020b; Jeon, 2015; Zhao et al., 2018). The morphology of 
+the area constitutes the context of a place. Soundscape perception of 
+urban pedestrian areas are affected by the morphology of the area, such 
+as the height-to-width ratios (H/Ws) in urban street canyon (Yilmaz 
+et al., 2023); road characteristics (Lu et al., 2019); 
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Selection and collection of sound sources 
+The study selected pedestrian spaces in three human activities spatial 
+contexts: commuting activities, residential activities and commercial 
+activities. First, pilot investigations were carried out before recording 
+the sound conditions required in the laboratory. We investigated a large 
+number of pedestrian spaces and identified and classified sounds into 
+three categories. First is traffic noise, present in all three human activ­
+ities spatial contexts. Second is conversations and sports sounds, present 
+in the residential activities contexts. Third is hawking and music sounds 
+from shops, present in the commercial activities contexts. In the pilot 
+investigations, we measured the one-minute sound pressure level (SPL) 
+in the pedestrian spaces with AWA6228, and found that the SPL varied 
+from 62 dB to 69 dB if residential activities dominated, and from 66 dB 
+to 74 dB if commercial activities dominated. The SPL of the traffic noise 
+was about 68 dB. Measured data are shown in Appendix A. 
+We then selected pedestrian spaces in Dalian, China to record the 
+X. Lu et al. 
+
+Science of the Total Environment 928 (2024) 172198
+3
+sound and create the corresponding sound source files. The selection of 
+the recording locations corresponded to the types of sound sources. We 
+selected a sidewalk next to a traffic arterial road (Fig. 1a) for recording 
+traffic noise (TN); residential pedestrian spaces with frequent human 
+interaction and a high occurrence of public activities (Fig. 1b) for 
+recording residential activity sounds (RS), primarily including conver­
+sations and sports sounds; and commercial pedestrian spaces with high 
+storefront openness and dense crowds (Fig. 1c) for recording commer­
+cial activity sounds (CS), primarily including sales calls and broadcasts. 
+All recorded activity sounds effectively captured a particular acoustic 
+atmosphere. The recording time was from 9:00 AM to 11:00 AM on a 
+bright and sunny weekend, ensuring a higher density of people while 
+avoiding peak traffic hours. 
+Previous studies have demonstrated that human sounds can effec­
+tively mask noise (Meng et al., 2017). However, if the recorded sounds 
+include the spatial properties of the sound, the overlaying and repro­
+duction may introduce confounding effects of spatial unmasking(Jones 
+and Macken, 1995; Hong et al., 2017). For this reason, we used 
+monaural recordings, which has been widely used in the study of 
+soundscape augmentation of natural scenes. Simultaneous, monaural 
+recording methods have been comparable to binaural on most sound­
+scape evaluation indicators (Xu and Kang, 2019). We recorded monaural 
+audio samples using NTI XL2. The recording levels were calibrated using 
+the B&K 4231 sound calibrator. We set the sampling rate and bit depth 
+to 48 kHz and 24 bits. In each recording location, we selected a site 
+where we could capture a “pure” sound source and then captured a six- 
+minute audio recording of the sound environment. For example, when 
+recording traffic noise, we positioned the microphone facing the main 
+road. When capturing activity sounds, we made recordings on the side 
+away from the main road. During recording, we mounted the NTi 
+Acoustic Analyzer on a stand at a height of 1.5 m above the ground. The 
+sound parameters measured in the field are shown in Table 1. 
+Fig. 1. Activity contexts in pedestrian spaces. (a) commuting activity. (b) residential activity. (c) commercial activity. 
+Table 1 
+The sound parameters measured in the field. 
+Type 
+LAeq,6min(dBA) 
+LCeq,6min(dBA) 
+LAF5,6min(dBA) 
+LAF95,6min(dBA) 
+TN 
+68.3 
+77.3 
+74.7 
+63.0 
+RS 
+66.2 
+74.8 
+70.1 
+61.6 
+CS 
+67.8 
+73.2 
+71.4 
+62.6 
+Fig. 2. Spectrograms of sound. (a) Traffic noise. (b) Residential activity sound. (c) Commercial activity sound. Note. The vertical axis represents frequency; the 
+horizontal axis represents change over time. 
+X. Lu et al. 
+
+Science of the Total Environment 928 (2024) 172198
+4
+2.2. Auditory environments 
+We used the recorded sound clips to construct auditory environments 
+of pedestrian spaces with different human activities spatial contexts. In 
+pedestrian spaces predominantly characterized by commuting activities 
+(PSCTA), the primary noise source was TN, with a relatively low average 
+human activity intensity, making human activity sounds negligible. In 
+pedestrian spaces were predominantly characterized by residential ac­
+tivities (PSRA), the main sounds included TN and RS. In pedestrian 
+spaces predominantly characterized by commercial activities (PSCA), 
+the primary sounds were TN and CS. We all know that the more intensity 
+of human activity in a pedestrian space, the higher SPL of RS or CS. 
+As such, we extracted a one-minute audio sample from the TN, RS 
+and CS, and Fig. 2 shows the spectrograms of the sound samples. In 
+particular, RS and CS fluctuated less in the high frequency range and the 
+overall frequency was relatively homogeneous compared to TN. The 
+concentration frequency of the high SPL of RS was lower than that of CS. 
+When studying the influence of natural elements on soundscape 
+perception, natural sounds have been found to mask noise, the signal-to- 
+noise ratio (SNR) between natural sounds and target noise is used to 
+characterize the level of natural elements (Coensel et al., 2011; Hong 
+et al., 2020b; Jeon et al., 2012), The more natural elements present, the 
+louder are the natural sounds, and then the greater is the SNR. Human 
+sounds also have a masking effect on noise (Meng et al., 2017; Meng and 
+Kang, 2015), Therefore, we utilized the SNR between activity sounds 
+(signal) and traffic noise (noise) to represent the intensity of activities. 
+The equivalent sound pressure level of traffic noise in the selected 
+one-minute audio file was 68 dB, which is consistent with the sound 
+pressure level of traffic noise in most spaces. We used the 68 dB level of 
+traffic noise as background noise, while the sound o
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1a) for recording 
+Fig. 1b) for 
+Fig. 1c) for recording commer­
+Table 1. 
+Fig. 1. Activity contexts in pedestrian spaces. (a) commuting activity. (b) residential activity. (c) commercial activity. 
+Table 1 
+Fig. 2. Spectrograms of sound. (a) Traffic noise. (b) Residential activity sound. (c) Commercial activity sound. Note. The vertical axis represents frequency; the 
+Fig. 2 shows the spectrograms of the sound samples. In 
+Table 2. 
+Table 2 
+Table 3 
+Fig. 3. Mean scores for the perceived dominance of sound source of the different auditory environments. (a) Traffic noise, (b) human activity sounds. 
+Table 2) indicated the significant 
+Table 3 summarizes 
+Fig. 3 plots the mean values of the 
+Table 4 summarizes the output of the RM ANOVA on whether 
+Fig. 4; the evaluation data on the 
+Fig. 5 presents the perceived affective quality of the soundscape for 
+Table 4 
+Fig. 4. Mean acoustic comfort scores of the different auditory environments. 
+Table 4) indicated that the main 
+Table 5 summarizes the output of the RM ANOVA on whether the types 
+Fig. 5. Density plots of subjective evaluation data from 30 participants projected onto the soundscape circumplex model. (a) commuting activities, (b) residential 
+Fig. 6; the evalu­
+Fig. 7. 

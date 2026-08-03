@@ -1,0 +1,208 @@
+### RECORD ID=724 | screening_verdict=INCLUDE | year=2021
+JOURNAL: EMOTION SPACE AND SOCIETY
+TITLE: Exploring the soundscape and the atmosphere of the Gigli di Nola cultural festival in Italy
+DOI: 10.1016/j.emospa.2021.100848
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Emotion, Space and Society 41 (2021) 100848
+Available online 10 November 2021
+1755-4586/© 2021 Elsevier Ltd. All rights reserved.
+Exploring the soundscape and the atmosphere of the Gigli di Nola cultural 
+festival in Italy 
+Susana Alves a,*, Maria Di Gabriele b, Saverio Carillo b, Massimiliano Masullo b, Luigi Maffei b 
+a Sapienza University of Rome, Department of Social and Developmental Psychology, Via Dei Marsi, 78, 00185, Rome, Italy 
+b Universit`a Degli Studi Della Campania “Luigi Vanvitelli”, Department of Architecture and Industrial Design, Abazia San Lorenzo Ad Septimum, 81031, Aversa, Italy 
+A R T I C L E I N F O 
+Keywords: 
+Gigli di Nola 
+Soundscape 
+Atmosphere 
+Cultural festival 
+Intangible and tangible heritage 
+Rhythmanalysis 
+A B S T R A C T 
+The Gigli di Nola is an Italian folk ceremony featuring a shoulder-borne procession celebrating the feast of Saint 
+Paulinus. Despite its cultural significance as a UNESCO site, the soundscape and atmosphere of the festival has 
+scarcely been explored. This study examines how the physical and spatial arrangement of Nola shapes the 
+enactment of the festival’s soundscape, atmosphere, and behavior of its participants. It further investigates how 
+the rhythmic qualities of the music are related to bearers’ spatial maneuvers and to non-bearers’ participation in 
+the festival. Through the use of rhythmanalysis and a mixed method approach, the results reveal the festival to be 
+deeply connected to Nola’s urban fabric and community life. The spatial arrangement of the historic streets with 
+their nodes and boundaries, forge body–space relationships that indicates place, people, and music, are inter­
+connected in the Gigli festival. The soundscape dominates the atmosphere of the festival, which in turn affects 
+non-bearers and bearers’ behavior. These rhythmic qualities also guide the parading of the Gigli festival for its 
+participants. We conclude by pointing to a lively view of culture to promote UNESCO’s management of cultural 
+festivals. 
+1. Introduction 
+The United Nations Educational, Scientific and Cultural Organiza­
+tion’s (UNESCO) recognition of the intangible aspects of heritage led to 
+the inclusion of diverse ceremonies in the Representative List of the 
+Intangible Cultural Heritage of Humanity (UNESCO, 2019a, 2019b). 
+Amongst these are the “Feste delle grandi macchine a spalla” or celebra­
+tions of big shoulder-borne processional structures. The shoulder-borne 
+processional ceremonies (SBPC) comprise of a network of four Italian 
+religious feasts: La Festa dei Gigli di Nola, Il Trasporto della Macchina di 
+Santa Rosa, La Faradda dei Candelieri di Sassari, and La Varia di Palmi 
+(UNESCO, 2019b). Overall, SBPC replicate ancient Mediterranean rit­
+uals practiced in the central and southern regions of Italy. A common 
+feature appertaining to the ceremonies is the presence of machines 
+(Macchine) transported on men’s shoulders according to a specific rite, 
+along the paths of the historical city centers where they take place. The 
+Gigli festival is a popular Catholic feast held every year in Nola to 
+commemorate the return of Saint Paulinus. The festival features eight 
+obelisks which are called Gigli (lilies). 
+A significant amount of the ceremonies included on the Represen­
+tative List of the Intangible Cultural Heritage of Humanity are related to 
+festivals, feasts, and religious celebrations. Even though one of UNES­
+CO’s five domains of intangible heritage includes the “practices, repre­
+sentations, expressions, knowledge, skills” and “instruments, objects, 
+artefacts and cultural spaces” associated with intangible cultural heri­
+tage (ICH), little is known about how ICH is maintained through the 
+interplay of physical and non-physical qualities. Inspired by critical 
+approaches to heritage studies (e.g., Duffy, 2014; Crociani-Windland, 
+2011; Waterton and Watson, 2013; Smith, 2006; Smith and Campbell, 
+2017), we argue that festivals are social activities whose affective dy­
+namics need to be studied by considering both structure and fluidity. 
+The soundscape of festivals such as shoulder-borne processional 
+ceremonies are particularly relevant to a critical approach to heritage, as 
+soundscapes affect people’s perception of the event, its atmosphere, and 
+is strongly connected to the social and cultural heritage of the commu­
+nity (Maffei et al., 2015). Communities enact a ‘reinvention of tradition’ 
+that is filtered through the needs of the present, where tangible and 
+intangible properties of cultural heritage are intertwined. The perfor­
+mative quality of festivals, their soundscape, and atmosphere are valu­
+able frames through which to promote heritage-in-the-making rather 
+than heritage as an unchanging tradition (Wulf, 2017). Community 
+engagement in heritage should consider local narratives of tradition and 
+* Corresponding author. 
+E-mail address: s.alves@uniroma1.it (S. Alves). 
+Contents lists available at ScienceDirect 
+Emotion, Space and Society 
+journal homepage: www.elsevier.com/locate/emospa 
+https://doi.org/10.1016/j.emospa.2021.100848 
+Received 7 April 2020; Received in revised form 29 September 2021; Accepted 21 October 2021 
+
+Emotion, Space and Society 41 (2021) 100848
+2
+mediation of agencies within the community itself (Waterton and Smith, 
+2010). 
+The soundscape of festivals is crucial to understanding how places 
+are unfolding, dynamic ‘vibratory immersive fields’ that continuously 
+affect experience (Lacey, 2016). The International Organization for 
+Standardization defines soundscape as ‘[the] acoustic environment as 
+perceived or experienced and/or understood by a person or people, in 
+context’ ISO (2014). Ingold (2007) stresses an ecological view of 
+soundscape perception where sounds are understood in a network of 
+relationships. Specifically, soundscapes can be seen in a relational way 
+brought about by people’s experience and engagement with everyday 
+settings. Solomos (2018), indicates that one must “
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 
+Fieldwork took place through multiple visits to Nola spreading from 
+2011 to 2019 and involved innumerable meetings with informants from 
+the city. Interviews and sound recordings were done in 2011. Further 
+fieldwork in 2019 involved attending the festival and registering its 
+different components through photographs and field notes, as well as 
+talking to participants from Nola directly involved in the festival. 
+Participants could be categorized as bearers and non-bearers. The 
+bearers were usually residents of Nola whose families are part of the 
+local guilds (e.g., greengrocers, butchers, innkeepers, bakers, boat 
+builders, shoemakers, blacksmiths, and tailors) for which the obelisks 
+are created. Bearers are the groups of men who follow the religious 
+tradition of carrying the Gigli and making them dance during the day of 
+the parade. The non-bearers are not directly involved in carrying the 
+obelisks or overseeing the Gigli parade. Non-bearers were either resi­
+dents of Nola or tourists from other parts of Italy or abroad. 
+After receiving consent, 120 participants were interviewed briefly on 
+the day of the ceremony in 2011. It was not feasible to conduct in-depth 
+interviews on the day of the festival due to the loudness of the streets, 
+lack of private places to invite participants to sit and answer questions, 
+and participants’ desire to continue attending the festival. The in­
+terviews were semi-structured and later analyzed through content 
+analysis (Krippendorff, 2019). A purposive sampling approach was used 
+to collect the interview data with non-bearers. 
+Participants were asked about their overall perception of the festival 
+in terms of their satisfaction with it and if it was something they enjoyed 
+or disliked. Participants were also asked about their motivation (e.g., 
+curiosity, passion, tradition, or habit) for participating in the ceremony, 
+their perception of the different senses (e.g., hearing, sight and smell) 
+affecting the atmosphere, and their experience of the festival and 
+procession. 
+Sound was recorded to understand how music and related rhythms 
+were associated with bearers’ movements during the procession. Sound 
+was measured in two situations: close to the Macchine (where musicians 
+were placed) and along the pathways (where the public was gathered) 
+during different phases of the parade to account for the circulation of the 
+procession in Nola’s streets. 
+In the days prior to the ceremony in 2011, the Gigli di Nola organizing 
+committee was informed of the research project and granted consent to 
+take audio binaural sound and video recordings. The audio recordings 
+were made by employing binaural headphones (Sennheiser HDC 451) 
+connected to a portable recorder (M-Audio Microtrack 24/96). Before 
+recording, a pure tone of 94 dB at 1 kHz was taken as reference and used 
+in post-processing to calibrate all in-situ recordings. The files were 
+elaborated using the software ‘dB Sonic’. This software makes it possible 
+to analyze acoustic descriptors, to apply specific filters to the original 
+audio recordings to isolate the sounds in a specific frequency range, and 
+to recognize the rhythmic scan. For example, the bass drum was done by 
+applying a bass pass filter with a lower (120 Hz) and higher cutoff fre­
+quency (150 Hz). Fig. 3–6 show the spectrograms of the audio re­
+cordings. They are a graphical representation of the sound pressure 
+levels over time in frequency. 
+The use of spectrograms allowed us to identify the specific beats that 
+guided the movement of the cradles. In order to identify the beats per 
+minute (bpm) and characterize the rhythm and adaptation of the cra­
+dles, files of length equal to 1 min or fractions were considered. Through 
+listening to the files filtered at the frequencies of the bass drum, a cor­
+respondence was found between the ’peaks’ of the history of the tem­
+poral trend of the sound pressure level and the beats which followed one 
+another at regular intervals. Therefore, it was possible to identify the 
+beats corresponding to the 2/4 rhythmic scan both in its musical 
+composition of two quarter notes (minimum value = 1/4) and of a 
+quarter note and two eighth notes (quaver value = 1/8) or four eighth 
+notes. As shown in Fig. 3–7, the different recordings taken as a sample 
+for analysis show approximately 108 bpm, which in terms of musical 
+trend correspond to an Andante tempo. 
+Photographs were taken by researchers in 2019 to document key 
+features of the parade and its atmosphere. Fig. 1 shows the Gigli before 
+(a-d) and after (e-h) the parade. Photograph ‘a’ shows the assembly of 
+the central pole of the Giglio (called borda) in Corso Tommaso Vitale. It is 
+resting on the ground, ready with ropes to be raised by the people in 
+Nola (both bearers and non-bearers). The borda is used to support the 
+Giglio. Photograph ‘b’ shows the edge of the Giglio, which once hoisted, 
+is placed on the balconies of the buildings for people to build the Giglio 
+around it. Photographs ‘c’ and ‘d’ are in Vicolo del Duomo and depict the 
+wooden structure of the Giglio as seen from the rear front in all its ver­
+tical development. It also details of the arrangement of the eight fixed 
+bars that are used to lift the Giglio on men’s shoulders. 
+Photograph ‘e-h’ are in Piazza Duomo. The first photo shows the 
+morning of the Festival as the Gigli machines gather in the square to 
+receive the blessing of the bishop of Nola. This is followed by photo­
+graphs ‘f’ and ‘g’ also taken during the morning of the festival. They 
+show the procession of the silver bust of Saint Paulinus for the blessing of 
+the Gigli by the bishop. This happens when the eight Gigli and the boat 
+arrive at the piazza. Finally, photograph ‘h’ shows Piazza Duomo in the 
+afternoon of the festival when the Gigli are waiting in their respective 
+positions to start the afternoon procession through the streets of Nola. 
+S. Alves et al. 
+
+Emotion, Space and Society
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 3–6 show the spectrograms of the audio re­
+Fig. 3–7, the different recordings taken as a sample 
+Fig. 1 shows the Gigli before 
+Fig. 1. The Gigli di Nola before (photographs a-d) and during the parade (photographs e-h). 
+Fig. 2 shows a map with the route 
+Fig. 2. Map of Nola with the route taken during the parade. 
+Fig. 3. Shows the “Aizata” spectrograms of the first (a–b) and second (c–d) parts of the song, in the frequency range where the percussion instruments are clearly 
+Fig. 4. Shows the spectrograms of songs pieces accompanying the marcia and the mezzo which are maneuvers carried out by the Gigli to move forward along the path. 
+Fig. 5. Shows the spectrograms of songs pieces accompanying the “marcia and the mezzo” which are maneuvers carried out by the Gigli to move forward along the 
+Fig. 3–6). 
+Table 1 
+Fig. 7 shows the variability of the levels LAmin, LAeq, 
+Fig. 6. Shows the spectrograms of song pieces accompanying the girata. The song accompanying this maneuver is in 6/8 time and with a constant execution speed of 
+Table 1 
+Fig. 7. Shows the variability of the levels LAmin, LAeq, LAmax and percentile 

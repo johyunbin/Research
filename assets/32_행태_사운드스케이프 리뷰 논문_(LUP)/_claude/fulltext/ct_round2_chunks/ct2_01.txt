@@ -1,0 +1,179 @@
+### REC 1 | 1차=CANDIDATE | 2014 | The Science of The Total Environment | backward
+TITLE: The influence of crowd density on the sound environment of commercial pedestrian streets
+DOI: 10.1016/j.scitotenv.2014.12.060
+1차메모: 군중밀도가 보행가로 음환경 형성 — 역방향 행태-음환경
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 7 | 1차=CANDIDATE | 2023 | Journal of Outdoor Recreation and Tourism | forward
+TITLE: Do soundscape perceptions vary over length of stay within urban parks?
+DOI: 10.1016/j.jort.2023.100728
+1차메모: 공원 체류시간(길이)과 음환경 지각 연계
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 10 | 1차=MAYBE | 2025 | Building and Environment | forward
+TITLE: Percentile-level examination of ten acoustic indicators pinpoints urban noise factors affecting noise effects on pedestrians
+DOI: 10.1016/j.buildenv.2025.113572
+1차메모: 보행자 대상 소음영향 — 결과변수 성격 불명
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 17 | 1차=MAYBE | 2004 | Applied Acoustics | backward
+TITLE: Acoustic comfort evaluation in urban open public spaces
+DOI: 10.1016/j.apacoust.2004.07.011
+1차메모: 도시 공개공간 음향쾌적성 — 이용행태 병기 가능
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 18 | 1차=MAYBE | 1969 | Environment and Behavior | backward
+TITLE: The Sonic Environment of Cities
+DOI: 10.1177/001391656900100104
+1차메모: 초기 도시 음환경 실증 — 행태 측정 여부 불확실
+ABSTRACT: Massachusetts Institute of Technology. Dept. of City and Regional Planning. Thesis. 1967. M.C.P.
+
+### REC 21 | 1차=MAYBE | 2005 | Journal of Urban Design | backward
+TITLE: Soundscape and Sound Preferences in Urban Squares: A Case Study in Sheffield
+DOI: 10.1080/13574800500062395
+1차메모: 셰필드 광장 음선호 — 이용행태 자료 포함 가능
+ABSTRACT: The general aim of this paper is to demonstrate the significance of intentional soundscape design in urban squares by investigating people's general perceptions of urban soundscape and sound preferences, and the effects of demographic factors. An intensive questionnaire survey was carried out in two urban squares in Sheffield. Sound identification and classification were both considered. The results show that natural sounds as a group were generally preferred to urban sounds; the preferences of soundscape elements influenced people's choice of using an urban square; and in terms of sound preference, the differences amongst age groups were rather significant, whereas between males and females only slight differences were found. Finally, some suggestions on soundscape design in urban squares are given.
+
+### REC 25 | 1차=CANDIDATE | 1975 | Journal of Personality and Social Psychology | backward
+TITLE: Environmental noise level as a determinant of helping behavior.
+DOI: 10.1037/0022-3514.32.4.571
+1차메모: 소음수준이 도움행동에 미친 야외 현장실험
+ABSTRACT: The results of research dealing with the effects of nois, on intrapersonal behavior suggest a variety of possible consequences for interpersonal functiDning. The effects of various levels of on simple helping behavior were explored in a laboratory and a field setting for a total of 132 subjects. In botb experiments, subjects exposed to 8S-db. white were less likely than those in lower conditions to offer assistance to a person in need. The results were interpreted on the basis of prior research suggesting that noiseproduced arousal leads to a restriction in attention deployment or cue utilization. Alternative accounts in terms of the effect of on moDd and on drive level were also considered. The effect of on intrapersonal behavior has long been of interest to general experimental and physiological psyebologists, and tbe publicatian in recent years of a number of volumes on this topic (e.g., Broadbent, 1971; Kry ter, 1970; Welch & Weleb, 1970) attests to the significance tbat these issues are currently accorded. Public cancern over noise pollution, congressiona1 legislatian dealing with permissible exposure levels in industrial settings, and work sueb as that at' Cameron, Robertson, and Zaks (1972), suggesting tbat may be associated with tbe incidence of <hronie and acute illness, provide further impetus for researCh of this sort. Investigations of tbe interpersonal impact of ambient noise, however, are much less in evidence, tbough Glass and Singer (1972) have provided a nice bridge between these two . complementary focuses, and there has been work on the relationship between and conformity (Dustin, 1968), aggression (Geen & O'N eal, 1969; Geen & Powers, 1971), and verbal disinhibition (Holmes & Holzman, 1966).
+
+### REC 34 | 1차=MAYBE | 2013 | Landscape and Urban Planning | backward
+TITLE: Spatiotemporal variability of soundscapes in a multiple functional urban area
+DOI: 10.1016/j.landurbplan.2013.03.008
+1차메모: 음환경 시공간 변동 — 활동·용도 연계 가능
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 40 | 1차=MAYBE | 2016 | Landscape and Urban Planning | backward
+TITLE: Staying in touch with nature and well-being in different income groups: The experience of urban parks in Bogotá
+DOI: 10.1016/j.landurbplan.2015.11.002
+1차메모: 공원 자연접촉 경험 — 음환경 포함 여부 불확실
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 42 | 1차=MAYBE | 2013 | Environment and Behavior | backward
+TITLE: Park Use Among Youth and Adults
+DOI: 10.1177/0013916512470134
+1차메모: 공원 이용행태 실측 — 음환경 변수 불확실
+ABSTRACT: This article examines park use in relation to neighborhood social (safety and poverty) and urban form (pedestrian infrastructure and street network pattern) characteristics among youth and adult subpopulations defined by age and gender. We utilized System for Observing Play and Recreation in Communities (SOPARC) and Geographic Information Systems to objectively measure park use and park and neighborhood characteristics in 20 neighborhood parks. Heterogeneous negative binomial regression models indicated that the relationship between park use and types of activity settings, and park use and neighborhood attributes vary by age and gender. In general, the study found that park and activity setting size; activity settings such as playgrounds, basketball courts, pool and water features, shelters, and picnic areas; and availability of sidewalks and intersections in the park’s neighborhood were positively associated with park use, whereas crime, poverty, and racial heterogeneity of the surrounding neighborhood were negatively associated with park use.
+
+### REC 61 | 1차=CANDIDATE | 2018 | International Journal of Environmental Research and Public Health | backward
+TITLE: Towards an Urban Vibrancy Model: A Soundscape Approach
+DOI: 10.3390/ijerph15081712
+1차메모: 도시 활력(활동)을 사운드스케이프로 모델링 — 역방향
+ABSTRACT: Soundscape research needs to develop predictive tools for environmental design. A number of descriptor-indicator(s) models have been proposed so far, particularly for the "tranquility" dimension to manage "quiet areas" in urban contexts. However, there is a current lack of models addressing environments offering actively engaging soundscapes, i.e., the "vibrancy" dimension. The main aim of this study was to establish a predictive model for a vibrancy descriptor based on physical parameters, which could be used by designers and practitioners. A group interview was carried out to formulate a hypothesis on what elements would be influential for vibrancy perception. Afterwards, data on vibrancy perception were collected for different locations in the UK and China through a laboratory experiment and their physical parameters were used as indicators to establish a predictive model. Such indicators included both aural and visual parameters. The model, based on Roughness, Presence of People, Fluctuation Strength, Loudness and Presence of Music as predictors, explained 76% of the variance in the mean individual vibrancy scores. A statistically significant correlation was found between vibrancy scores and eventfulness scores, but not between vibrancy scores and pleasantness scores. Overall results showed that vibrancy is contextual and depends both on the soundscape and on the visual scenery.
+
+### REC 63 | 1차=MAYBE | 2017 | Landscape and Urban Planning | backward
+TITLE: Park attributes that encourage park visitation among adolescents: A conjoint analysis
+DOI: 10.1016/j.landurbplan.2016.12.004
+1차메모: 청소년 공원방문 유인 속성 — 음환경 속성 가능
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 67 | 1차=MAYBE | 2017 | Journal of Urban Health | forward
+TITLE: The Aging Urban Brain: Analyzing Outdoor Physical Activity Using the Emotiv Affectiv Suite in Older People
+DOI: 10.1007/s11524-017-0191-9
+1차메모: 고령자 옥외 신체활동 측정 — 음환경 변수 불확실
+ABSTRACT: This research directly assesses older people's neural activation in response to a changing urban environment while walking, as measured by electroencephalography (EEG). The study builds on previous research that shows changes in cortical activity while moving through different urban settings. The current study extends this methodology to explore previously unstudied outcomes in older people aged 65 years or more (n = 95). Participants were recruited to walk one of six scenarios pairing urban busy (a commercial street with traffic), urban quiet (a residential street) and urban green (a public park) spaces in a counterbalanced design, wearing a mobile Emotiv EEG headset to record real-time neural responses to place. Each walk lasted around 15 min and was undertaken at the pace of the participant. We report on the outputs for these responses derived from the Emotiv Affectiv Suite software, which creates emotional parameters ('excitement', 'frustration', 'engagement' and 'meditation') with a real-time value assigned to them. The six walking scenarios were compared using a form of high dimensional correlated component regression (CCR) on difference data, capturing the change between one setting and another. The results showed that levels of 'engagement' were higher in the urban green space compared to those of the urban busy and urban quiet spaces, whereas levels of 'excitement' were higher in the urban busy environment compared with those of the urban green space and quiet urban space. In both cases, this effect is shown regardless of the order of exposure to these different environments. These results suggest that there are neural signatures associated with the experience of different urban spaces which may reflect the older age of the sample as well as the condition of the spaces themselves. The urban green space appears to have a restorative effect on this group of older adults.
+
+### REC 76 | 1차=MAYBE | 2014 | International Journal of Health Geographics | backward
+TITLE: How do changes to the built environment influence walking behaviors? a longitudinal study within a university campus in Hong Kong
+DOI: 10.1186/1476-072x-13-28
+1차메모: 캠퍼스 보행행태 종단연구 — 음환경 변수 불확실
+ABSTRACT: BACKGROUND: Previous studies testing the association between the built environment and walking behavior have been largely cross-sectional and have yielded mixed results. This study reports on a natural experiment in which changes to the built environment were implemented at a university campus in Hong Kong. Longitudinal data on walking behaviors were collected using surveys, one before and one after changes to the built environment, to test the influence of changes to the built environment on walking behavior. METHODS: Built environment data are from a university campus in Hong Kong, and include land use, campus bus services, pedestrian network, and population density data collected from campus maps, the university developmental office, and field surveys. Walking behavior data were collected at baseline in March 2012 (n = 198) and after changes to the built environment from the same cohort of subjects in December 2012 (n = 169) using a walking diary. Geographic information systems (GIS) was used to map walking routes and built environment variables, and compare each subject's walking behaviors and built environment exposure before and after the changes to the built environment. Walking behavior outcomes were changes in: i) walking distance, ii) destination-oriented walking, and iii) walked altitude range. Multivariable linear regression models were used to test for associations between changes to the built environment and changes in walking behaviors. RESULTS: Greater pedestrian network connectivity predicted longer walking distances and an increased likelihood of walking as a means of transportation. The increased use of recreational (vs. work) buildings, largely located at mid-range altitudes, as well as increased population density predicted greater walking distances.Having more bus services and a greater population density encouraged people to increase their walked altitude range. CONCLUSIONS: In this longitudinal study, changes to the built environment were associated with changes in walking behaviors. Use of GIS combined with walking diaries presents a practical method for mapping and measuring changes in the built environment and walking behaviors, respectively. Additional longitudinal studies can help clarify the relationships between the built environment and walking behaviors identified in this natural experiment.
+
+### REC 80 | 1차=CANDIDATE | 2010 | International Journal of Environmental Research and Public Health | forward
+TITLE: Attractive "Quiet" Courtyards: A Potential Modifier of Urban Residents' Responses to Road Traffic Noise?
+DOI: 10.3390/ijerph7093359
+1차메모: 조용한 중정 이용(옥외 이용행태)과 소음반응
+ABSTRACT: The present paper explores the influence of the physical environmental qualities of "quiet". courtyards (degree of naturalness and utilization) on residents' noise responses. A questionnaire study was conducted in urban residential areas with road-traffic noise exposure between L(Aeq,24h) 58 to 68 dB at the most exposed façade. The dwellings had "quiet" indoor section/s and faced a "quiet" outdoor courtyard (L(Aeq,24h) < 48 dB façade reflex included). Data were collected from 385 residents and four groups were formed based on sound-level categories (58-62 and 63-68 dB) and classification of the "quiet" courtyards into groups with low and high physical environmental quality. At both sound-level categories, the results indicate that access to high-quality "quiet" courtyards is associated with less noise annoyance and noise-disturbed outdoor activities among the residents. Compared to low-quality "quiet" courtyards, high-quality courtyards can function as an attractive restorative environment providing residents with a positive soundscape, opportunities for rest, relaxation and play as well as social relations that potentially reduce the adverse effects of noise. However, access to quietness and a high-quality courtyard can only compensate partly for high sound levels at façades facing the streets, thus, 16% and 29% were still noise annoyed at 58-62 and 63-68 dB, respectively. Implications of the "quiet"-side concept are discussed.
+
+### REC 88 | 1차=MAYBE | 2023 | Cities | backward
+TITLE: Measuring streetscape perceptions from driveways and sidewalks to inform pedestrian-oriented street renewal in Düsseldorf
+DOI: 10.1016/j.cities.2023.104472
+1차메모: 보행자 중심 가로 지각 측정 — 음환경·행태 불확실
+ABSTRACT: The measurement of urban streetscape quality facilitates the identification of street regeneration. The emerging Street View image and semantic segmentation techniques have recently proven considerable assistance for investigating urban spatial quality. However, current studies using Google Street View (GSV) cannot explicitly reflect pedestrian perceptions, as GSVs are taken from a driveway perspective, which differs significantly from the pedestrian view. This study aims to elucidate the variance in quantitative measurements of streetscape perceptual qualities under different viewpoints and to identify the priority of street renewal based on a combined analysis between street perceptual quality and walking potential. We collected GSVs and self-photographed pedestrian views in the city center of Düsseldorf. 5300 images are gathered, and their semantic information at the pixel level is extracted by the segmentation technique DeepLab V3+. The results indicate that perspective differences have varying geographic effects on street perceptions, with the most significant effect on walkability. In addition, the combined analysis identifies renewal areas and provides planning techniques and operational standards for urban functional zones, streets, and street segments, respectively. The joint spatial syntax and image segmentation-driven approach offers a feasible paradigm for identifying fine-grained street renewal. In short, this study promotes pedestrian-centered urban measurement.
+
+### REC 90 | 1차=CANDIDATE | 2014 | Frontiers in Psychology | backward
+TITLE: Tempo and walking speed with music in the urban context
+DOI: 10.3389/fpsyg.2014.01361
+1차메모: 음악 템포와 도시 보행속도 실증
+ABSTRACT: The study explored the effect of music on the temporal aspects of walking behavior in a real outdoor urban setting. First, spontaneous synchronization between the beat of the music and step tempo was explored. The effect of motivational and non-motivational music (Karageorghis et al., 1999) on the walking speed was also studied. Finally, we investigated whether music can mask the effects of visual aspects of the walking route environment, which involve fluctuation of walking speed as a response to particular environmental settings. In two experiments, we asked participants to walk around an urban route that was 1.8 km in length through various environments in the downtown area of Hradec Králové. In Experiment 1, the participants listened to a musical track consisting of world pop music with a clear beat. In Experiment 2, participants were walking either with motivational music, which had a fast tempo and a strong rhythm, or with non-motivational music, which was slower, nice music, but with no strong implication to movement. Musical beat, as well as the sonic character of the music listened to while walking, influenced walking speed but did not lead to precise synchronization. It was found that many subjects did not spontaneously synchronize with the beat of the music at all, and some subjects synchronized only part of the time. The fast, energetic music increases the speed of the walking tempo, while slower, relaxing music makes the walking tempo slower. Further, it was found that listening to music with headphones while walking can mask the influence of the surrounding environment to some extent. Both motivational music and non-motivational music had a larger effect than the world pop music from Experiment 1. Individual differences in responses to the music listened to while walking that were linked to extraversion and neuroticism were also observed. The findings described here could be useful in rhythmic stimulation for enhancing or recovering the features of movement performance.
+
+### REC 92 | 1차=MAYBE | 2018 | Sensors | forward
+TITLE: A System for Generating Customized Pleasant Pedestrian Routes Based on OpenStreetMap Data
+DOI: 10.3390/s18113794
+1차메모: 쾌적 보행경로 생성 시스템 — 실증·소음변수 불확실
+ABSTRACT: In this work, we present a system that generates customized pedestrian routes entirely based on data from OpenStreetMap (OSM). The system enables users to define to what extent they would like the route to have green areas (e.g., parks, squares, trees), social places (e.g., cafes, restaurants, shops) and quieter streets (i.e., with less road traffic). We present how the greenness, sociability, and quietness factors are defined and extracted from OSM as well as how they are integrated into a routing cost function. We intrinsically evaluate customized routes from one-thousand trips, i.e., origin⁻destination pairs, and observe that these are, in general, as we intended-slightly longer but significantly more social, greener, and quieter than the respective shortest routes. Based on a survey taken by 156 individuals, we also evaluate the system's usefulness, usability, controlability, and transparency. The majority of the survey participants agree that the system is useful and easy to use and that it gives them the feeling of being in control regarding the extraction of routes in accordance with their greenness, sociability, and quietness preferences. The survey also provides valuable insights into users requirements and wishes regarding a tool for interactively generating customized pedestrian routes.
+
+### REC 98 | 1차=MAYBE | 2018 | International Journal of Environmental Research and Public Health | backward
+TITLE: Influence of Personal Factors on Sound Perception and Overall Experience in Urban Green Areas. A Case Study of a Cycling Path Highly Exposed to Road Traffic Noise
+DOI: 10.3390/ijerph15061118
+1차메모: 자전거도로 이용자 음지각·경험 — 활동 연계 가능
+ABSTRACT: In contemporary urban design, green public areas play a vital role. They have great societal value, but if exposed to undue environmental noise their restorative potential might be compromised. On the other hand, research has shown that the presence of greenery can moderate noise annoyance in areas with high sound levels, while personal factors are expected to play an important role too. A cycling path bordered by vegetation, but highly exposed to road traffic noise, was here considered as a case study. A sound perception survey was submitted to participants on site and they were subsequently sorted into groups according to their noise sensitivity, visual attention and attitude towards greenery. The aim of this study was testing whether these three personal factors could affect their noise perception and overall experience of the place. Results showed that people highly sensitive to noise and more sceptical towards greenery's potential as an environmental moderator reported worse soundscape quality, while visually attentive people reported better quality. These three personal factors were found to be statistically independent. This study shows that several person-related factors impact the assessment of the sound environment in green areas. Although the majority of the respondents benefit from the presence of visual green, policy-makers and planners should be aware that for a significant subset of the population, it should be accompanied by a tranquil soundscape to be fully appreciated.
+
+### REC 100 | 1차=MAYBE | 2023 | Journal of Outdoor Recreation and Tourism | forward
+TITLE: National forest park visitors’ connectedness to nature and pro-environmental behavior: The effects of cultural ecosystem service, place and event attachment
+DOI: 10.1016/j.jort.2023.100621
+1차메모: 산림공원 방문객 친환경행동 — 음환경 포함 불확실
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 105 | 1차=MAYBE | 1989 | Environment and Behavior | backward
+TITLE: The Pace of Pedestrian Flows in Cities
+DOI: 10.1177/0013916589212001
+1차메모: 도시 보행속도 실측 — 음환경 변수 불확실
+ABSTRACT: The article discusses the proposition that the pace of life in big cities is faster than in other sizes of settlement, thus creating conditions conducive to the high levels of social pathology found in those cities. Observation of over 1,300 pedestrians at 10 places in Australia and England revealed that walking speed is a function of city size in that pedestrians move more quickly in big cities than in small towns. The influence of city size was, however, found to be more gradual than had been suggested in some earlier studies. In addition, the age and sex of the pedestrian, the degree of congestion in the areas under study, the time of day, and possibly even the weather had an influence on walking speed.
+
+### REC 106 | 1차=MAYBE | 2016 | Sustainable Cities and Society | backward
+TITLE: Differences in soundscape appreciation of walking sounds from different footpath materials in urban parks
+DOI: 10.1016/j.scs.2016.03.002
+1차메모: 포장재별 발소리 — 행태 유발음이나 결과는 평가
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 108 | 1차=MAYBE | 2010 | URBAN DESIGN International | backward
+TITLE: Analysis of patterns of spatial occupancy in urban open space using behaviour maps and GIS
+DOI: 10.1057/udi.2010.20
+1차메모: 행태맵 기반 공간점유 관찰, 음환경 변수 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 112 | 1차=MAYBE | 2022 | Landscape and Urban Planning | forward
+TITLE: Developing a Multi-sensory Public Participation GIS (MSPPGIS) method for integrating landscape values and soundscapes of urban green infrastructure
+DOI: 10.1016/j.landurbplan.2022.104617
+1차메모: PPGIS 경관가치·사운드스케이프 매핑, 이용행태 확인 필요
+ABSTRACT: This paper develops, tests and validates a Multi-sensory Public Participation GIS (MSPPGIS) method combining the qualities of soundscapes and landscape values mapping. The development of the method involved: a) Public Participation GIS survey design; b) three-phase evaluation of survey addressing analytical, applicability and usability criteria; c) survey refinement; d) sampling and data collection, and; e) spatial data analysis. The analysis consisted of hotspot mapping involving Kernel Density Estimation, spatial overlap assessment using Jaccard coefficients and value compatibility analysis showing the level of spatial compatibility between positive landscape values and positive and negative soundscapes. Results indicated very low to low spatial overlap between the different landscape values and pleasant/unpleasant sound hotspots, suggesting that landscape values do not necessarily reflect sonic perception of urban green and blue spaces. Pleasant and unpleasant sounds were located closer to home than landscape values (except for urban life values), indicating that respondents’ soundscape ‘cognitive map’ is smaller in spatial range. The MSPPGIS method enables the elicitation of a more dynamic and diverse set of sounds compared to previous soundscape mapping which tend to focus on 'noise' instead of multiple experiences of different sounds. Also, the combination of landscape values and soundscapes in MSPPGIS provides for a more integrated assessment of ‘where’ and ‘how’ to design urban green infrastructure.
+
+### REC 123 | 1차=MAYBE | 2021 | The Journal of the Acoustical Society of America | forward
+TITLE: Investigating urban soundscapes of the COVID-19 lockdown: A predictive soundscape modeling approach
+DOI: 10.1121/10.0008928
+1차메모: 봉쇄기 사운드스케이프 모델링, 이동행태 연계 확인 필요
+ABSTRACT: The unprecedented lockdowns resulting from COVID-19 in spring 2020 triggered changes in human activities in public spaces. A predictive modeling approach was developed to characterize the changes in the perception of the sound environment when people could not be surveyed. Building on a database of soundscape questionnaires (N = 1,136) and binaural recordings (N = 687) collected in 13 locations across London and Venice during 2019, new recordings (N = 571) were made in the same locations during the 2020 lockdowns. Using these 30-s-long recordings, linear multilevel models were developed to predict the soundscape pleasantness (R2=0.85) and eventfulness (R2=0.715) during the lockdown and compare the changes for each location. The performance was above average for comparable models. An online listening study also investigated the change in the sound sources within the spaces. Results indicate (1) human sounds were less dominant and natural sounds more dominant across all locations; (2) contextual information is important for predicting pleasantness but not for eventfulness; (3) perception shifted toward less eventful soundscapes and to more pleasant soundscapes for previously traffic-dominated locations but not for human- and natural-dominated locations. This study demonstrates the usefulness of predictive modeling and the importance of considering contextual information when discussing the impact of sound level reductions on the soundscape.
+
+### REC 125 | 1차=MAYBE | 2022 | Journal of Transport Geography | forward
+TITLE: Residential and workplace neighborhood environments and life satisfaction: Exploring chain-mediation effects of activity and place satisfaction
+DOI: 10.1016/j.jtrangeo.2022.103435
+1차메모: 근린환경·활동 매개 생활만족도, 음환경 포함 확인 필요
+ABSTRACT: (초록 미확보 — 제목·서지로만 판단)
+
+### REC 126 | 1차=CANDIDATE | 2022 | The Science of The Total Environment | forward
+TITLE: Effects of noise on pedestrians in urban environments where road traffic is the main source of sound
+DOI: 10.1016/j.scitotenv.2022.159406
+1차메모: 도로교통소음이 보행자에 미치는 영향, 가로 세팅 적합
+ABSTRACT: Research combining the measurement of objective variables with surveys of people's perception of noise on city streets is useful in terms of understanding the impact of urban noise on the population and improving the environment. Although previous investigations have analysed the factors that may influence the noise annoyance of citizens, it is usually considered as a global aspect. This paper presents research based on in situ surveys and objective variables (urban, meteorological and noise indicators) to evaluate some specific effects of noise on pedestrians in urban environments where road traffic is the main source of sound. The results show significant relationships of the effects of noise and perceptions of how noisy urban environments are with variables such as building height, road category and temperature, with correlation coefficients ranging from 0.37 to 0.64. Significant correlations between these subjective variables and the acoustic variables were also found, with explanations of variability that reached values of up to 50 %. A multivariate analysis revealed that both urban variables (especially the category of street) and environmental variables can be an alternative or a complement to models predicting the effects and perception of environmental noise based only on acoustic variables.
+
+### REC 128 | 1차=MAYBE | 2021 | Travel Behaviour and Society | backward
+TITLE: How does the individual perception of local conditions affect cycling? An analysis of the impact of built and non-built environment factors on cycling behaviour and attitudes in an urban setting
+DOI: 10.1016/j.tbs.2021.05.006
+1차메모: 자전거 이용행태와 환경요인, 소음 변수 확인 필요
+ABSTRACT: The impact of local environment characteristics on individual cycling behaviour has been discussed in transport research for several years. Many previous studies have, however, primarily focused on the presence and distribution of built environment elements, considered using georeferenced or census data. This paper argues that not only is the objectively measured environment an influencing factor, but also the individual perception of this environment. Furthermore, besides built elements, the evaluation of perceived non-built attributes, such as discourses and policies, as well as the environment’s impact on cycling attitudes, should be taken into account for a more comprehensive view. For this purpose, this study examines the responses to a household survey in the German city of Offenbach am Main (n = 701). The impact of the perceived local environment on cycling behaviour and cycling attitudes has been analysed using 21 perception items as well as socio-demographics, travel mode availability and general travel attitudes. For a more detailed view on cycling behaviour, this study applies the stage model of self-regulated behavioural change (SSBC) indicating a level of openness to use a bicycle frequently in everyday life. The results of the multivariate analysis show that the perceptions of built and non-built environment characteristics interrelate. Furthermore, certain perceptions encourage bicycle use and positive attitudes towards cycling, such as perceived cycling safety and pleasure. Primarily, these perceptions are safe and appropriate cycling infrastructures, cycling as a common practice and the absence of vandalism, dirt and high car pressure.
+
+### REC 137 | 1차=CANDIDATE | 2019 | International Journal of Environmental Research and Public Health | forward
+TITLE: An Investigation of Soundscape Factors Influencing Perceptions of Square Dancing in Urban Streets: A Case Study in a County Level City in China
+DOI: 10.3390/ijerph16050840
+1차메모: 가로 광장무 활동이 형성한 사운드스케이프, 역방향 적합
+ABSTRACT: Square dancing is a popular music-related group physical exercise for health benefits in China mainly participated by mid-aged women and elderly people. This paper investigates the soundscape and enjoyment of the square dancing in urban streets through a case study in Lichuan, a county level city in southwest China, in December 2017. It examines the impact of gender, age, participation and places on perceptions of square dancing soundscape. Two sites along two main urban streets in the city were selected to conduct onsite investigations where residents spontaneously perform square dancing on a daily basis. Ethnographical observations were conducted to identify the social-physical features and sounds of both sites during the dance and without dance. Sound pressure measurements (LAeq and LAmax) were also conducted under the two conditions. An off-site survey was distributed through the local social media groups to understand residents' everyday experiences and perceptions of square dancing in the city; 106 responses were received for the off-site survey. T-tests and Chi-squared tests were used for statistical analysis of the survey data. The results show gender does appear to be a factor influencing the regularity of participation in square dancing, with a bias towards more female participants. Participation frequency of square dance has an impact on the enjoyment of square dancing. There is no correlation between the dislike of watching square dancing, or dislike of the music and a desire to restrict locations for square dancing.
+
+### REC 140 | 1차=MAYBE | 2024 | Sustainable Cities and Society | backward
+TITLE: Beyond built environment: Unveiling the interplay of streetscape perceptions and cycling behavior
+DOI: 10.1016/j.scs.2024.105525
+1차메모: 가로경관 지각과 자전거 행태, 음환경 확인 필요
+ABSTRACT: As an important means of shared micro-mobility, shared bicycles have become a crucial component of urban transportation in China. The impact of the built environment on bicycling has been widely acknowledged. However, can streetscape perceptions influence bicycle-sharing volume (BSV) and supplement the built environment? We first obtained millions of pieces of shared-cycling data from the Shenzhen Open Data Platform and carried out geographical quantification of BSV. As for streetscape, we improved the classification of subjective streetscape perception based on street view images using the k-means clustering algorithm and conducted predictions using XGBoost. Through the application of different regression models, we unveiled the nonlinear spatial interdependencies between BSV and streetscape perceptions as a complement to the built environment. Our findings indicate that greenery, vivid street-front facades, and diverse street facilities can promote BSV. Targeted strategies are proposed for different districts. For instance, urban planners can provide incentives for high-income groups in central urban areas to adopt active travel, and increase the supply of shared bicycles in suburban areas with high building density, particularly in industrial urban villages. As a supplement to the long-term planning recommendations derived from the macro-built environment analysis, an in-depth spatial perception quantitative assessment proffers a human-centric, flexible blueprint for urban street design.

@@ -1,0 +1,10 @@
+no,final_verdict,exclude_reason,confidence
+617,FINAL_INCLUDE,,high
+661,FINAL_INCLUDE,,medium
+665,FINAL_INCLUDE,,high
+725,FINAL_INCLUDE,,medium
+761,FINAL_INCLUDE,,high
+770,UNCERTAIN,음환경-행태 직접 연결 불명확: 음환경은 정서에만 연결됨,low
+804,FINAL_INCLUDE,,high
+818,UNCERTAIN,ERB 측정문항 미제시: 실행태 대 의도 구분 불가,medium
+862,UNCERTAIN,인간 행태 직접 측정 없음: 여가 음원 비율로만 추론,low

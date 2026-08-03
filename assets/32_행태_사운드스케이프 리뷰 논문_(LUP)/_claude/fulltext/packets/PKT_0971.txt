@@ -1,0 +1,217 @@
+### RECORD ID=971 | screening_verdict=INCLUDE | year=2023
+JOURNAL: FORESTS
+TITLE: Thermal-Acoustic Interaction Impacts on Crowd Behaviors in an Urban Park
+DOI: 10.3390/f14091758
+PAGES: 20
+
+--- HEAD (title/abstract/intro) ---
+Citation: Chen, Y.; Chen, Z.; Lin, S.;
+Lin, X.; Li, S.; Li, T.; Dong, J.
+Thermal–Acoustic Interaction
+Impacts on Crowd Behaviors in an
+Urban Park. Forests 2023, 14, 1758.
+https://doi.org/10.3390/f14091758
+Academic Editors: Guangyu Wang,
+Chi Yung Jim, Jiang Liu,
+Xin-Chen Hong, Jinda Qi, Baojie He
+and Shi Cheng
+Received: 4 August 2023
+Revised: 23 August 2023
+Accepted: 29 August 2023
+Published: 30 August 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Thermal–Acoustic Interaction Impacts on Crowd Behaviors in
+an Urban Park
+Ye Chen 1,2
+, Ziyi Chen 1,2, Shumeng Lin 1,2, Xiaoqian Lin 1,2, Shuting Li 3, Taoyu Li 4 and Jianwen Dong 1,2,*
+1
+College of Landscape Architecture and Art, Fujian Agriculture and Forestry University, 15 Shangxiadian Rd.,
+Fuzhou 350000, China; 2191775001@fafu.edu.cn (Y.C.); 3211726008@fafu.edu.cn (Z.C.);
+1221775066@fafu.edu.cn (S.L.); 1221775002@fafu.edu.cn (X.L.)
+2
+Engineering Research Center for Forest Park of National Forestry and Grassland Administration,
+63 Xiyuangong Rd., Fuzhou 350002, China
+3
+College of Economics and Management, Fujian Agriculture and Forestry University, 15 Shangxiadian Rd.,
+Fuzhou 350000, China; 000q822019@fafu.edu.cn
+4
+Xiamen Tobacco Industry Co., Ltd., 1 Xinyang Rd., Xiamen 361000, China; lty23208@fjtic.cn
+*
+Correspondence: fjdjw@fafu.edn.cn
+Abstract: As urbanization accelerates, parks, as vital urban public open spaces, and their acoustic
+and thermal ambience directly impact visitors’ comfort and the sustainability of parks. Selecting
+Xihu Park in Fuzhou, China located in the subtropical region as a typical example, this study
+utilizes covert observational experiments with different typical sounds (grass cutting, music, and no
+sound source) across temperature levels to examine the inﬂuence of thermal–acoustic interactions
+on crowd behaviors in the park. The ﬁndings are as follows: (1) melodious music can attract more
+tourists, while strong stimulating grass cutting noises under high temperatures reduce crowd ﬂow.
+Excluding unpleasant audio sources, park soundscapes across temperatures have a relatively limited
+inﬂuence on attractiveness to people ﬂow. (2) High temperatures diminish tourists’ interest in
+landscape experiences and persons staying, especially when the soundscape quality is poorer. Under
+non-high temperatures, audio environments have a minor impact on the staying time. (3) The
+soundscape quality plays a role by affecting people’s path choices of approaching or avoiding sound
+sources, where grass cutting noise has the most negative inﬂuence. Music, grass cutting sounds,
+and natural sounds demonstrate conspicuous differences in their effects under varied temperatures.
+(4) Comfortable acoustic environments can draw larger crowds and decrease the walking pace. High
+temperatures make crowds take slower steps. Different sound types have signiﬁcant inﬂuences
+on crowd movement velocity under three typical temperature levels. This study comprehensively
+investigates the mechanisms of typical thermal–acoustic environments’ impacts on park crowd
+behaviors, providing important references for optimizing the acoustic and thermal environments of
+urban parks, while also enriching related research on landscape design and environmental psychology.
+Future studies can conduct in-depth explorations by creating more abundant thermal–acoustic
+combinations and probe differences across diverse populations.
+Keywords: urban park; crowd behavior; temperature; acoustic; Fuzhou city; soundscape
+1. Introduction
+The breakneck urbanization of the 21st century has spawned manifold environmental
+predicaments, including water scarcity [1,2], waste accumulation [3], soil contamination [4],
+overpopulation [5], noise pollution [6], and the specter of climate change [7]. Of particular
+concern is the pernicious impact of outdoor noise on human health [8–11]. Scientiﬁc re-
+search corroborates that chronic exposure to cacophony can precipitate hearing impairment,
+disrupted sleep, and heightened risks of cardiovascular and mental illness. Moreover, the
+direct repercussions of climate change and the emergence of the urban heat island effect
+Forests 2023, 14, 1758. https://doi.org/10.3390/f14091758
+https://www.mdpi.com/journal/forests
+
+Forests 2023, 14, 1758
+2 of 20
+have bred thermal discomfort in urban areas [12–14]. Nevertheless, urban parks have mate-
+rialized as an indispensable component of the comprehensive urban ecosystem network,
+proffering a myriad of beneﬁts for city dwellers [15]. The abundance of sprawling greenery
+within these parks works to bolster physical and mental well-being, effectively mitigating
+exposure to air and noise pollution, as well as extreme temperatures. Furthermore, they
+furnish a sanctuary for psychological relaxation and stress relief [16,17].
+Furthermore, urban parks are the cornerstone for the existence, function, and growth
+of cities [18]. Diverse sensory cues continuously shape people’s lifestyles. Thus, the sensory
+design of municipal green spaces is garnering mounting attention. However, the prevailing
+issue is the disproportionate prioritization of visual appeal over other sensory modalities.
+This results in the satisfaction of aesthetic preferences at the sacriﬁce of visitors’ holistic
+sensory and psychological well-being [19–21].
+Moreover perceiving various attributes of the external world makes important con-
+tributions to humans’ complex cognitive processes, as perception is the cornerstone of
+many psychological processes [22]. All understanding of the world stems from perception.
+Moreover, multi-sensory integration can garner richer, more comprehensive information.
+Existing multi-sensory research has focused primarily on audiovisual [23] and visual–
+olfactory [24] interactions, while research on thermal–acoustic envi
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Site Overview
+This research was conducted in Fuzhou, a typical city in the humid subtropical region
+of China. Fuzhou has a pleasant and humid climate with evergreen seasons, abundant
+sunshine, and rainfall, as well as a short winter and long summer. The frost-free pe-
+riod reaches up to 326 days annually. The average annual sunshine hours are between
+1700 and 1980, and the average annual rainfall is between 900 and 2100 mm. The average
+annual temperature is 20–25 ◦C, with the coldest month being December, with an average
+temperature of 6–10 ◦C, and the hottest month being July and August, with an average
+temperature of 33–37 ◦C. The extreme temperatures range from 2.5 to 42.3 ◦C annually.
+The average relative humidity is about 77%, and the city often experiences the urban heat
+island effect due to its basin topography, where the temperature can reach over 36 ◦C at
+noon in the summer. The dominant wind direction is northeast, with south wind prevailing
+in summer [37]. The research site was selected based on whether it had the common sound
+sources and thermal environments found in urban parks. To investigate the effect of the
+thermal acoustic environment on subjective evaluations of urban parks, taking into account
+factors, such as the park area and its accessibility, the Xihu Park located in the city center
+was ﬁnally chosen.
+Xihu Park is located in the northwest part of Gulou District, Fuzhou City, and is
+situated at the city’s center, adjacent to residential, commercial, and ofﬁce areas in the
+city center. It is only a 700 m away from the main transportation artery Yangqiao East
+Road and can be reached by a 10 min walk. With a history of more than 1700 years, it
+is the most well-preserved classical garden in Fuzhou, and it is renowned as the “Pearl
+of Fujian Gardens”, ranking among the top 36 West Lakes in the country. Currently, it
+covers an area of 42.51 hectares, with a land area of 12.21 hectares and a water area of
+30.3 hectares. The vegetation composition in Xihu Park is complex, dominated by forests,
+grasslands, shrub beds and ﬂower gardens. The forest area is relatively large, consisting
+primarily of deciduous and mixed coniferous forests. The deciduous broad-leaved forest in
+the Huxin Mountain is the most typical, characterized by dominant tree species, such as
+nanmu, camphor, banyan, and paulownia, forming a natural, primitive and spectacular
+ecosystem. The grasslands consist of common lawn grass and some wildﬂowers, while the
+shrubs are composed of ﬂower bushes and some climbing plants. The rich and diverse
+vegetation composition of Xihu Park is functionally complete, providing an ideal place
+for urban ecological construction, as well as for citizens to relax, exercise, and enjoy their
+leisure time [38].
+There were a total of 2 sample sites in Xihu Park. The panoramic view of these sites
+can be seen in the accompanying Figure 1. On a representative summer day (a weekday in
+September), crowd behavior observation and thermal acoustic monitoring was conducted.
+
+Forests 2023, 14, 1758
+4 of 20
+Figure 1. (a) Location of Fuzhou city in the China map; (b) Xihu Park in Fuzhou city; (c) S1 and S2
+sample sites within Xihu Park.
+
+Forests 2023, 14, 1758
+5 of 20
+2.2. Procedures
+For objective acoustic indicators, this study has selected LAeq (A-weighted equivalent
+continuous sound level) as the primary monitoring metric owing to the discontinuity of
+park soundscapes [39]. For thermal environment metrics, the Universal Thermal Climate
+Index (UTCI) was chosen given the instability of outdoor thermal conditions [40]. UTCI
+denotes the equivalent temperature of a reference environment eliciting identical physiolog-
+ical responses as a standard individual in the actual environment. This index synthesizes
+subjective factors and objective environmental parameters, accounting for human thermal
+adaptability [32,41]. The UTCI value is derived from thermal environmental parameters
+gathered via the questionnaire. Once data on the radiation temperature, air temperature,
+relative humidity, wind speed, and mean radiant temperature are prepared, the UTCI can
+be calculated using either the BioKlima2.6 software or the Fortran program from the ofﬁcial
+website (http://www.utci.org accessed on 3 August 2023).The deviation of the UTCI from
+air temperature is determined by the actual air temperature (Ta), mean radiant temperature
+(Tmrt), wind speed (Va), and relative humidity (Rh). This can be expressed as follows [42]:
+UTCI = Ta + Offset(Ta, Tmrt, Va, Rh) = f(Ta, Tmrt, Va, Rh)
+(1)
+where Ta denotes the temperature of a 2 m air column, Va denotes the wind speed at 10 ms,
+Pa denotes the relative humidity, and Tmrt denotes the average radiative temperature.
+2.3. Selection of the Thermal–Acoustic Environment
+In terms of urban parks, there is a rich variety of sounds, including natural sounds
+from the plant kingdom, such as birds singing, frogs croaking, insects chirping, and the
+rustling of leaves in the wind, among others. In addition, due to the extensive activities
+of people in the park, artiﬁcial noise is almost everywhere. Furthermore, maintenance
+work also generates noise, such as construction sounds, trafﬁc noise, and the sound of
+machinery operating, among others. Therefore, it is rare for urban parks to have a single
+sound environment or to be completely silent. In comparison, controlling the thermal
+environment is relatively easier. However, in practical situations, it is difﬁcult to ﬁnd
+natural conditions that can simultaneously maintain sound consistency but vary in thermal
+conditions or maintain thermal consistency but vary in sound. Therefore, a ﬁeld site with a
+controllable thermal environment was selected as the research area, and the combination of
+sound and thermal factors was controlled by playing sounds.
+2.3.1. Thermal Environment
+Given the differences in lifestyles and urban environments among tourists, there
+are certain limitations to the soundscape experiment. This study prima
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. On a representative summer day (a weekday in
+Figure 1. (a) Location of Fuzhou city in the China map; (b) Xihu Park in Fuzhou city; (c) S1 and S2
+Table 1. Before the experiments, the
+Table 1. Measuring instruments and uses.
+Figure 2a for the low-heat area, Figure 2b for the moderate-heat area, and
+Figure 2c for the high-heat area. The observation sites in the low- and moderate-heat areas
+Figure 2. Thermal environment situation. (a) Low-heat area; (b) moderate-heat area; (c) high-heat
+Figure 3a–c display the positions and sound pressure level variations for low- and
+Figure 3d–f exhibit the positions and varia-
+Table 2 provides sample
+Figure 3. Cont.
+Figure 3. Acoustical environment situation: (a) without sound played in a low-heat and moderate-
+Table 2. The research samples of behavior observations.
+Figure 4 shows the number of people under thermal–acoustic interactions. It can
+Figure 4. The number of people under the thermal–acoustic interaction.
+Table 3), indicating that good acoustics attract more people
+Table 4), implying that high temperatures reduce
+Table 3. Correlation between the thermal–acoustic environment and the number of people.
+Table 4. Correlation between the number of people and temperature under different sound types.
+Figure 5 shows the number of persons staying under thermal–acoustic interactions.
+Figure 5. The number of persons staying under the thermal–acoustic interaction.
+Table 5, the correlation coefﬁcient between temperature levels and the
+Table 6 shows that the correlation coefﬁcient between
+Table 5. Correlation between the thermal–acoustic environment and the number of persons staying.
+Table 6. Correlation between the number of persons staying and

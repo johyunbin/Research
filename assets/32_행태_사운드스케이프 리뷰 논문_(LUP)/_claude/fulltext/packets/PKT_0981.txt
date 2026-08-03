@@ -1,0 +1,202 @@
+### RECORD ID=981 | screening_verdict=BORDERLINE | year=2024
+JOURNAL: BUILDINGS
+TITLE: A Study on Spatiotemporal Dynamics and Spatial Dependence of Sound Source Perception in Fuzhou Historical and Cultural Districts
+DOI: 10.3390/buildings14061753
+PAGES: 20
+
+--- HEAD (title/abstract/intro) ---
+Citation: Wu, L.; Zhang, Q.; Yan, Y.;
+Lan, T.; Hu, Y.; Zhang, Y.; He, T.; Ye, J.
+A Study on Spatiotemporal Dynamics
+and Spatial Dependence of Sound
+Source Perception in Fuzhou
+Historical and Cultural Districts.
+Buildings 2024, 14, 1753. https://
+doi.org/10.3390/buildings14061753
+Academic Editor: Yupeng Wang
+Received: 21 April 2024
+Revised: 25 May 2024
+Accepted: 31 May 2024
+Published: 11 June 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+buildings
+Article
+A Study on Spatiotemporal Dynamics and Spatial Dependence
+of Sound Source Perception in Fuzhou Historical and
+Cultural Districts
+Lin Wu 1,2, Qiqi Zhang 1,2, Yulan Yan 1,2, Ting Lan 1,2, Yanfang Hu 1,2, Yijing Zhang 1,2, Tianyou He 1,2 and Jing Ye 1,*
+1
+College of Landscape Architecture and Art, Fujian Agriculture and Forestry University,
+Fuzhou 350108, China; 3206619012@stu.fafu.edu.cn (L.W.); zhangqiqi@stu.fafu.edu.cn (Q.Z.);
+3206619008@stu.fafu.edu.cn (Y.Y.); 3206619003@stu.fafu.edu.cn (T.L.); 3206619025@stu.fafu.edu.cn (Y.H.);
+zhangyijing@stu.fafu.edu.cn (Y.Z.); hetianyou@fafu.edu.cn (T.H.)
+2
+Art & Landscape Design Research Center, Fujian Agriculture and Forestry University, Fuzhou 350108, China
+*
+Correspondence: jingye@fafu.edu.cn
+Abstract: As a carrier of cultural characteristics of historic districts, the soundscape has unique
+advantages in shaping regional cultural personality, and mastering its spatiotemporal characteristics
+is crucial for preserving soundscape heritage with natural and humanistic environments as its kernel.
+Focusing on the Three Square and Seven Alleys historic and cultural district in Fuzhou, this paper
+analyzes the spatial and temporal patterns of the physical acoustic indicators of the soundscape, the
+spatial dependence of the sound source harmony, and the spatial relationship between the two. It
+was found that the physical acoustic indicators showed dynamic changes in spatial and temporal
+scales and reflect specific human activity and behavioral patterns; sound source harmony showed
+spatial autocorrelation in both global and local models, with prominent spatial characteristics; and
+the physical acoustic indicators may negatively affect soundscape perception. The study emphasizes
+the importance of the regional cultural connotation of soundscape in urban planning. It provides a
+scientific basis for the planning, designing, and managing of soundscape resources in historic and
+cultural districts and world heritage sites.
+Keywords: soundscape; spatial and temporal characteristics; sound source harmony; physical acoustic
+indicators; spatial autocorrelation; the Three Square and Seven Alleys; historic and cultural district
+1. Introduction
+As an important cultural heritage of the city, the historic and cultural district carries
+the identity and development history of a town [1], and its protection, renewal, and rational
+utilization have always been one of the core topics discussed by academics [2]. The Three
+Square and Seven Alleys in Fuzhou is one of the representative neighborhoods of China’s
+famous historical and cultural cities. Its intact traditional buildings and complete street
+texture [3] constitute a unique space and symbolize the city’s identity. As a living cultural
+heritage [4], soundscape is closely linked to people’s subjective emotions and collective
+memories [5] and is crucial to shaping the cultural personality of a region [6]. In the case of
+historic and cultural districts, soundscape heritage not only maps the spatial quality and
+historical originality [7] but also affects the production and life of residents in a specific
+area [8]. The unique sounds within the Three Square and Seven Alleys, such as the sounds
+of the Fuzhou dialect, hawking, folk activities, and crafts building [9], are part of its unique
+intangible cultural heritage that should be emphasized and protected. However, in the
+modernization process, the soundscape heritage [10] in the historic and cultural districts,
+which is based on the natural and humanistic environment, is facing the crisis of being
+replaced by industrial, traffic, and mechanical sound sources. Therefore, studying how to
+protect and inherit the unique soundscape of historic districts is of great significance for
+maintaining urban cultural heritage [5,11].
+Buildings 2024, 14, 1753. https://doi.org/10.3390/buildings14061753
+https://www.mdpi.com/journal/buildings
+
+Buildings 2024, 14, 1753
+2 of 20
+Nowadays, scholars no longer equate a good soundscape with simply reducing the
+noise level [12,13], but emphasize the importance of the individual’s subjective perception
+of the soundscape [14]. Soundscape perception studies cover sound source identifica-
+tion, evaluation, and characterization [15,16], and this information can be transformed
+into management strategies and become an entry point for cultural heritage conservation.
+In the realization dimension of using soundscape maps to visualize soundscape informa-
+tion [17], spatiotemporal dynamic distribution characterization is one of the critical research
+paths [18]. Wang Yaping et al. evaluated the historical neighborhood environment through
+audio–visual perception experiments to provide a reference for the study of improving the
+preference of sound elements and the satisfaction of sound environment [19]. Rui Qingx-
+uan et al. explored the differences in sound source preferences, the interaction between
+sound sources and soundscape perceptions, and their effects on the evaluation of historical
+perceptions in the Central Avenue historic district in winter and summer, providing new
+ideas for highlighting the landscape features of the historic district [20]. However, most of
+these studies are limited to specific spatial and temporal frameworks and do not explore
+dynamic change characteristics in the spatial and temp
+
+--- METHODS/RESULTS EXCERPT ---
+Methods Med. Res. 2011, 20, 119–129. [CrossRef]
+43.
+Hu, J.; He, P. Spatial and temporal coupling and coordination between new urbanization and agricultural green development in
+China. J. Party Sch. Yunnan Prov. Comm. Communist Party China 2024, 25, 125–139.
+44.
+Zeng, J.; Yin, M.; Xu, J. Study on the spatial coupling relationship between urban residential price distribution and public service
+facilities—A comparative analysis of second-hand and rental housing in central Nanjing as an example. In Proceedings of the
+2022/2023 China Annual Conference on Urban Planning, Wuhan, China, 23–25 September 2023.
+45.
+Gu, Q.; Geng, G.; Zheng, R.; Zhang, B.; He, Z. Analysis of spatial and temporal variation of soil moisture and its influencing
+factors in the Weihe River Basin. Soil Water Conserv. Res. 2024, 1–13. [CrossRef]
+46.
+Zhao, X.; Zhang, S.; Meng, Q.; Kang, J. Influence of Contextual Factors on Soundscape in Urban Open Spaces. Appl. Sci. 2018,
+8, 2524. [CrossRef]
+47.
+Sheng, F.; Guo, S.; Lin, G.; Wen, M. Vibrant Spaces of Historical and Cultural Neighbourhoods Based on Open Big Data—A Case
+Study of Sanfangqixiang in Fuzhou. In Proceedings of the 2022/2023 China Annual Conference on Urban Planning, Wuhan,
+China, 23–25 September 2023; p. 9.
+48.
+Wang, X.; Wang, S.; Xue, Y. Analysis of spatial use and main factors of historic districts: The case of Sanfangqixiang. Res. Nat.
+Cult. Herit. 2023, 8, 13–22. [CrossRef]
+49.
+Weifu, G.; Jian, K.; Hui, M.; Chao, W. The effects of environmental sensitivity and noise sensitivity on soundscape evaluation.
+Build. Environ. 2023, 245, 110945. [CrossRef]
+50.
+Ednie, A.; Gale, T. Soundscapes and protected area conservation: Are noises in nature making people complacent? Nat. Conserv.
+2021, 44, 177–195. [CrossRef]
+51.
+Ye, J.; Zheng, J.; Wang, H.; Zheng, Y. Evaluation of acoustic landscape preferences in wetland parks. Acoust. Technol. 2022, 41,
+734–741.
+52.
+Hong, J.Y.; Jeon, J.Y. Comparing associations among sound sources, human behaviors, and soundscapes on central business and
+commercial streets in Seoul, Korea. Build. Environ. 2020, 186, 107327. [CrossRef]
+53.
+Ye, J.; Li, S.; Chen, Y.; Ma, Y.; Chen, L.; He, T.; Zheng, Y. A Study of the Effects of Historical Block Context on Soundscape
+Perception. Buildings 2024, 14, 621. [CrossRef]
+54.
+Lee, H.M.; Lee, H.P.; Liu, Z. Acoustical Environment Studies in the Modern Urban University Campuses. Acoustics 2022, 4, 14–25.
+[CrossRef]
+55.
+Ye, J.; Chen, L.; Zheng, Y. Effect of an Artificial Sound-Based Index on the Perception of Historical Block Environments. Buildings
+2023, 13, 2372. [CrossRef]
+56.
+Zhao, Z.; Wang, Y.; Hou, Y. Residents’ Spatial Perceptions of Urban Gardens Based on Soundscape and Landscape Differences.
+Sustainability 2020, 12, 6809. [CrossRef]
+57.
+Pérez-Martínez, G.; Torija, A.J.; Ruiz, D.P. Soundscape assessment of a monumental place: A methodology based on the perception
+of dominant sounds. Landsc. Urban Plan 2018, 169, 12–21. [CrossRef]
+58.
+Zhang, D.; Zhang, M.; Liu, D.; Kang, J. Soundscape evaluation in Han Chinese Buddhist temples. Appl. Acoust. 2016, 111, 188–197.
+[CrossRef]
+59.
+Bruce, N.S.; Davies, W.J. The effects of expectation on the perception of soundscapes. Appl. Acoust. 2014, 85, 1–11. [CrossRef]
+60.
+Liu, K.; Behm, L. Landscape spatial pattern indices and soundscape perception in a multi-functional urban area, Germany.
+J. Environ. Eng. Landsc. 2014, 22, 208–218. [CrossRef]
+
+Buildings 2024, 14, 1753
+20 of 20
+61.
+Bittencourt, L.; Barbosa, M.; Bisi, T.L.; Lailson-Brito, J.; Azevedo, A.F. Anthropogenic noise influences on marine soundscape
+variability across coastal areas. Mar. Pollut. Bull. 2020, 160, 111648. [CrossRef] [PubMed]
+62.
+Pelletier, C.; Weladji, R.B.; Lazure, L.; Paré, P. Zoo soundscape: Daily variation of low-to-high-frequency sounds. Zoo. Biol. 2020,
+39, 374–381. [CrossRef] [PubMed]
+63.
+Li, L.; Li, Y.; Li, Z. Efficient missing data imputing for traffic flow by considering temporal and spatial dependence. Transp. Res.
+Part C 2013, 34, 108–120. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1).
+Figure 1. Case study area: (a) location of the Three Square and Seven Alleys in Fuzhou, Fujian
+Table 1) [9].
+Table 1. Typical sound source composition in the historic and cultural district.
+Table 1. Cont.
+Figure 2), with a validity
+Figure 2. Statistics on sample information on social, demographic, and behavioral indicators of
+Figure 3.
+Figure 3. Flow chart for the use of spatial analysis indicators.
+Figure 4. On the whole, the areas with high values of
+Figure 4. Spatial distribution pattern of each physical acoustic indicator in different periods in the
+Figure 5. The overall trend of physical acoustic indicators throughout the day is simi-
+Figure 5. Overall physical acoustic indicators of the Three Square and Seven Alleys time change: the
+Figure 6. The distribution of harmonics of
+Figure 6. Spatial distribution patterns of the six types of sound source harmony in the Three Square
+Table 2. The global Moran’s I index was positive, and all the sound
+Table 2. Results of global spatial autocorrelation analysis of sound source harmony.
+Table 3. HH and LL represent the spatial homogeneity of the sound source harmonies,
+Table 3. Results of local spatial autocorrelation analysis of sound source harmony.
+Table 4. The spatial correlation coefficient
+Table 4. Spatial correlation coefficients between physical acoustic indicators and sound source harmony.
+Figure 4). The high sound pressure level at the end of the main road may be
+Figure 5). The main factor causing changes
+Figure 6). The areas with
+Table 2), which verified that there is

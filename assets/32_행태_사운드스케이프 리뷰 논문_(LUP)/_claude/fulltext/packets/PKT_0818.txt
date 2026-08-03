@@ -1,0 +1,353 @@
+### RECORD ID=818 | screening_verdict=INCLUDE | year=2022
+JOURNAL: LAND
+TITLE: Does Soundscape Perception Lead to Environmentally Responsible Behavior? A Case Study in Longcanggou Forest Park, China
+DOI: 10.3390/land11091505
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+Citation: Li, N.; Wen, Y.; Wang, Y.; Li,
+Y.; Chen, Q.; Li, X.; Lv, B. Does
+Soundscape Perception Lead to
+Environmentally Responsible
+Behavior? A Case Study in
+Longcanggou Forest Park, China.
+Land 2022, 11, 1505. https://doi.org/
+10.3390/land11091505
+Academic Editors: Zhonghua Gou,
+Xiaohuan Xie and Karine Dupre
+Received: 16 August 2022
+Accepted: 4 September 2022
+Published: 7 September 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+land
+Article
+Does Soundscape Perception Lead to Environmentally Responsible
+Behavior? A Case Study in Longcanggou Forest Park, China
+Nian Li, Ya Wen, Yanxin Wang, Yifei Li, Qibing Chen, Xi Li and Bingyang Lv *
+College of Landscape Architecture, Sichuan Agricultural University, Chengdu 611130, China
+* Correspondence: 14579@sicau.edu.cn
+Abstract: Soundscape perception (SP) plays an important role in promoting tourist-place interaction
+and enhancing tourists’ environmentally responsible behavior (ERB). In this study, we deﬁned SP
+as a second-order factor and investigated its relationships with place attachment (PA) and tourists’
+ERB using structural equation modeling (SEM). Our aim was to identify how a soundscape could be
+improved to enhance the ERB of forest park tourists. Our results conﬁrm the multidimensionality of
+SP, i.e., the three subdimensions of physical soundscape perception (PSP), psychological soundscape
+perception (SSP), and regional soundscape perception (RSP). Furthermore, our SEM results show that
+PA mediates the effect of the three subdimensions of SP on high-effort ERB (HERB). Our empirical
+results also reveal that the enhancement of tourists’ SSP will foster their ERB. This study therefore
+extends the multisensory landscape literature by offering insights into the relationship between SP,
+PA, and tourists’ ERB. Our ﬁndings provide empirical evidence for understanding the inﬂuence of SP
+on tourists’ ERB in forest parks and demonstrate that PA should be considered an important context
+for soundscape design.
+Keywords: soundscape perception; place attachment; tourists’ environmentally responsible behavior;
+structural equation modeling
+1. Introduction
+Forest parks play an important role in improving air quality, maintaining biodiversity,
+and providing recreation destinations. However, as an increasing number of tourists visit
+parks for leisure and recreation, the contradiction between tourists and the park environ-
+ment is becoming more prominent, as improper tourist behavior has adverse effects on the
+environment [1,2]. At present, the adoption of various restrictive regulations to regulate
+tourists’ behavior may aggravate the conﬂicts between tourists and park ofﬁcials. Instead
+of adopting restrictive rules to restrict tourists’ behavior, it is better to stimulate tourists’
+environmentally responsible behavior (ERB) to promote the sustainable development of
+forest parks [3].
+Many scholars have conducted detailed studies on the mechanisms and inﬂuenc-
+ing factors of ERB. For example, Vaske et al. [4] suggested that encouraging an individ-
+ual’s connection to a natural setting facilitates the development of general ERB. Likewise,
+Halpenny et al. [5] studied visitors to a Canadian national park and conﬁrmed that place
+attachment (PA) could predict ERB. Stedman [6] found that a positive emotional and
+identity-based attachment to a place strongly inﬂuences the intentions of seasonal and
+full-time lake district residents to engage in place protective behaviors. A similar ﬁnding
+was reported by Kelly [7], who found that PA is positively linked to behaviors such as
+volunteering and environmental conservation in Western Australia.
+Although existing research has suggested that PA is a potentially useful concept to
+promote ERB, few scholars have used PA as a mediator to study the effects of soundscape
+perception (SP) on tourists’ ERB. The sensory dimension of the landscape has drawn
+increasing attention in recent years. Soundscapes, composed mainly of sound and its
+Land 2022, 11, 1505. https://doi.org/10.3390/land11091505
+https://www.mdpi.com/journal/land
+
+Land 2022, 11, 1505
+2 of 15
+related environmental elements, can be directly perceived by humans and are a determinant
+factor in how tourists perceive a place [8]. As an important component of forest landscape
+elements, the soundscape has important comprehensive value for spatial cognition and
+landscape experience. Tourists are able to perceive a landscape, evaluate their experience,
+form attitudes, and strengthen or create values from the soundscape that they experience [9].
+These values can inﬂuence the form of human behavior regarding a soundscape. Thus,
+soundscapes are vital for research on the ERB of tourists and may undermine “the tyranny
+of the visual” in the ﬁeld of landscape architecture research. However, previous studies
+have lacked theoretical research on tourists’ SP and an in-depth understanding of how
+soundscapes affect ERB in forest parks. Thus, it is still unclear whether the inﬂuence of
+each dimension of SP on ERB is different. Studies that incorporate the three subdimensions
+of SP and their inﬂuence on ERB in a single theoretical model are therefore needed.
+To address this need, we considered SP a second-order factor comprising physical
+perception, psychological perception, and regional perception. Based on the above back-
+ground, we attempted to construct a causal relationship model of “SP-PA-ERB” based on
+the theory of PA and a “cognition-attitude-behavior” model. The relationships among the
+theoretical constructs of interest in this study is presented in Figure 1. The model was tested
+using data collected from tourists to Longcanggou Forest Park, China. We
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+3.1. Study Area
+The area selected for this study was Longcanggou National Forest Park (Figure 2).
+The park is located in Ya’an on the western edge of the Sichuan Basin, China. As a well-
+known tourist destination in China, it enjoys a reputation as a great resort and is one of
+the popular tourism destinations in the Giant Panda National Park area. Longcanggou
+National Forest Park is an ecological national park with a diversity of forest plants and
+water scenery, integrating ecological tourism, vacations, cultural entertainment, and science
+education. The park has distinctive landscape features and is attractive to tourists from the
+surrounding cities. A natural soundscape and humanistic soundscape are both available in
+the park, constituting a comprehensive soundscape.
+Figure 2. Location of the study area.
+3.2. Data Collection
+The measurement items of the three subdimensions of SP, PA, and ERB were adopted from
+previous literature. The questionnaire was composed of four parts: part one—demographic
+information on tourists; part two—measurement of the three latent variables of SP; part
+three—measurement of PA; and part four—measurement of tourists’ ERB. All measurement
+items are shown in Appendix A. For all constructs, a ﬁve-point Likert scale was adopted,
+ranging from 1 for “strongly disagree” to 5 for “strongly agree”. The questions regarding PA
+and ERB were employed based on the protocols of Williams [16] and Cheng [24]. As there is
+no standardized scale for SP, the SP scales used in this study were modeled on preexisting
+SP scales and modiﬁed to ﬁt the current study’s objectives, setting, and population. Thus,
+it was necessary to conduct a small sample pretest (100 valid questionnaires) to verify the
+reliability and validity of the SP scale. The results are shown in Table 1.
+During 26 April–3 May 2022, the research team distributed questionnaires to 550 park
+tourists through random sampling in Longcanggou National Forest Park. A total of
+550 questionnaires were distributed, and 510 valid questionnaires were returned, for a
+return rate of 92.7%. The demographic information is shown in Table 2.
+
+Land 2022, 11, 1505
+6 of 15
+Table 1. Results of the EFA for soundscape perception.
+Latent
+Construct
+Indicator
+Components
+Cumulative
+(%)
+Cronbach’s α
+1
+2
+3
+PSP
+PSP1
+0.735 *
+0.201
+0.000
+26.230
+0.828
+PSP2
+0.829 *
+0.080
+0.193
+PSP3
+0.784 *
+0.362
+0.052
+PSP4
+0.684 *
+0.081
+0.348
+SSP
+SSP1
+0.361
+0.704 *
+0.202
+49.621
+0.814
+SSP2
+0.418
+0.510 *
+0.304
+SSP3
+0.432
+0.757 *
+0.131
+SSP4
+0.161
+0.843 *
+0.153
+SSP5
+−0.077
+0.676 *
+0.329
+RSP
+RSP1
+0.408
+0.183
+0.701 *
+67.966
+0.788
+RSP2
+0.406
+0.269
+0.671 *
+RSP3
+0.388
+0.296
+0.679 *
+RSP4
+−0.190
+0.170
+0.782 *
+Note: * Extraction method: principal component analysis; rotation method: Varimax with Kaiser normalization;
+rotation converged in 6 iterations.
+Table 2. Demographic proﬁle of the respondents.
+Demographic Trait
+Frequency (n = 510)
+Percentage (%)
+Gender
+Male
+240
+47.1
+Female
+270
+52.9
+Age
+≤18
+24
+4.7
+19–34
+252
+49.4
+35–49
+118
+23.1
+50–64
+85
+16.7
+≥65
+31
+6.1
+Educational level
+High school or below
+53
+10.4
+Junior college
+59
+11.6
+University
+312
+61.1
+Graduate school
+86
+16.9
+Previous visits
+First time
+352
+69.0
+Two times
+83
+16.3
+Three times
+25
+4.9
+Four times and above
+50
+9.8
+Tour duration
+<2 h
+72
+14.1
+2–5 h
+350
+68.6
+>5 h
+88
+17.3
+Soundscape satisfaction
+Strongly dissatisﬁed
+0
+0
+Dissatisﬁed
+2
+0.4
+General
+92
+18.1
+Satisﬁed
+273
+53.5
+Strongly satisﬁed
+143
+28.0
+3.3. Data Analysis
+The data were analyzed using SPSS (version 27.0) and AMOS 26.0. Frequency analysis
+of demographic characteristics and reliability analysis were conducted. SEM is a multivari-
+
+Land 2022, 11, 1505
+7 of 15
+ate statistical method often used to verify the relationship among latent variables. SEM has
+two components: the measurement model and the structural model. SEM was performed
+with a three-step approach in this study. First, conﬁrmatory factor analysis (CFA) was
+conducted to test the goodness of ﬁt and convergent and discriminatory validities of the
+measurement model. Second, SEM was employed to identify the causal relationships
+among the constructs and test the hypotheses of the research model [29]. Third, the boot-
+strap method was used to analyze the sampling distribution of indirect effects, and the
+number of bootstrap samples was set to 2000 [30].
+4. Results
+4.1. Constructs of Soundscape Perception
+The ﬁrst stage was to test the second-order factor model to determine whether the
+three subdimensions (PSP, SSP, and RSP) can be considered appropriate indicators of SP.
+Exploratory factor analysis (EFA) with SPSS was performed to determine the subdimensions
+of SP. These results are shown in Table 1. Principal component analysis of the 13-item SP
+responses provided support for the existence of the three factors. The three-component
+solution explained a total of 67.966% of the variance, which meets the normal requirement
+of 60% needed for social science [31]. The Cronbach’s alpha of each factor lay between
+0.788 and 0.828, larger than the required threshold of 0.70, which means the credibility of
+the scale was high [32].
+4.2. Measurement Model
+To measure correlation among the dimensions, we conducted CFA and tested the
+validity and reliability of the returned valid questionnaires. In this study, the internal
+consistency reliability was examined by Cronbach’s alpha and composite reliability (CR).
+As shown in Table 3, the minimum of Cronbach’s alpha was greater than 0.70, and the
+CR values for all the constructs were above the 0.7 threshold value [33], indicating the
+internal consistency of the indicators. These results show that the internal consistency of
+the measurement items was good and the reliability was acceptable.
+Validating scales requires observation of convergent validity and discriminant validity.
+We assessed convergent validity by examining the standardized factor loadings (Std.)
+and average variance extracted (AVE) for each item. As shown in Table 3, the factor
+loadings ranged from 0.536 to 0.918,
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1. The model was tested
+Figure 1. The theoretical framework.
+Figure 1.
+Figure 2).
+Figure 2. Location of the study area.
+Table 1.
+Table 2.
+Table 1. Results of the EFA for soundscape perception.
+Table 2. Demographic proﬁle of the respondents.
+Table 1. Principal component analysis of the 13-item SP
+Table 3, the minimum of Cronbach’s alpha was greater than 0.70, and the
+Table 3, the factor
+Table 4, all latent constructs with the square root of AVE were greater than their correlation
+Table 3. Results of reliability and validity analysis.
+Table 3. Cont.
+Table 4. Results of discriminant validity analysis.
+Table 5) are as follows: χ2 = 654.856
+Table 6 and Figure 3, the path coefﬁcients of the three subdimensions of SP
+Table 5. Goodness-of-ﬁt test for the structural model.
+Table 6. Path coefﬁcients and hypothesis results.
+Figure 3. Structure diagram of load and path coefﬁcient.
+Table 7 show that SSP has a signiﬁcant indirect effect
+Table 7. Results of the mediation effect.

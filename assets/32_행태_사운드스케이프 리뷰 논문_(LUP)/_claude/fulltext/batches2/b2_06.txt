@@ -1,0 +1,834 @@
+### RECORD ID=1226 | screening_verdict=INCLUDE | year=2026
+JOURNAL: INTERNATIONAL JOURNAL OF HYGIENE AND ENVIRONMENTAL HEALTH
+TITLE: Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities
+DOI: 10.1016/j.ijheh.2026.114816
+PAGES: 11
+
+--- HEAD (title/abstract/intro) ---
+Environmental characteristics and physical activity: A cross-sectional study 
+in Bulgaria's five largest cities
+Angel M. Dzhambov a,b,*
+, Angel Burov a,b,c, Iana Markevych a,b,d
+, 
+Kostadin R. Kostadinov a,b,e, Donka Dimitrova a,b,f
+, Marco Helbich a,b,g, 
+Mark J. Nieuwenhuijsen h,i,j
+a Health and Quality of Life in a Green and Sustainable Environment Research Group, Strategic Research and Innovation Program for the Development of Medical 
+University of Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria
+b Environmental Health Division, Research Institute at Medical University of Plovdiv, Medical University of Plovdiv, Plovdiv, Bulgaria
+c Department of Urban Planning, Faculty of Architecture, University of Architecture, Civil Engineering and Geodesy, Sofia, Bulgaria
+d Institute of Psychology, Jagiellonian University, Krakow, Poland
+e Department of Social Medicine and Public Health, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria
+f Department of Health Management and Health Economics, Faculty of Public Health, Medical University of Plovdiv, Plovdiv, Bulgaria
+g Department of Human Geography and Spatial Planning, Faculty of Geosciences, Utrecht University, Utrecht, the Netherlands
+h Barcelona Institute for Global Health, Barcelona, Spain
+i Universitat Pompeu Fabra, Barcelona, Spain
+j CIBERESP, Madrid, Spain
+A R T I C L E I N F O
+Keywords:
+Air pollution
+Bikeability
+Bluespace
+Greenspace
+Traffic noise
+Walkability
+A B S T R A C T
+Urban characteristics can shape physical activity, but evidence regarding their joint role alongside individual 
+perceptions remains limited. This study examined the combined associations of multiple environmental char­
+acteristics with physical activity across the five most populous cities in Bulgaria. A cross-sectional survey of 4640 
+adults was conducted in 2023. Physical activity across different intensity levels was measured with the short 
+form of the International Physical Activity Questionnaire and linked to objective measures of neighborhood 
+walkability, fine particulate matter, road traffic noise, area-level socioeconomic status (SES), and availability of 
+greenspace and bluespace within 300 m and 1000 m buffers. Presence of a home garden was self-reported, along 
+with perceived walkability, bikeability, greenspace, bluespace, and sociodemographic factors. Results showed 
+that walkability, greenspace, area-level SES, home gardens, perceived bluespace, high/low perceived greenspace 
+(vs. medium), and bikeability were positively associated with time spent in vigorous physical activity. Walk­
+ability, greenspace, perceived bluespace, low/high perceived greenspace, home gardens, and bluespace were 
+positively associated with moderate-to-vigorous physical activity. Objective and perceived walkability, medium/ 
+high levels of greenspace, low/high area-level SES, and home gardens were positively associated with walking. 
+Associations remained robust after accounting for air pollution and noise, which were unexpectedly positively 
+associated with certain forms of physical activity. These findings appear meaningful from a preventive 
+perspective and may provide arguments for improving urban design conducive to physical activity and urban 
+planning initiatives.
+1. Introduction
+Globally, both developed and developing countries are experiencing 
+declining levels of physical activity, with one in three adults being 
+insufficiently active in 2022 (Strain et al., 2024). This trend reflects 
+structural effects of the larger political, economic and sociocultural 
+context, which influences living conditions and lifestyle (Dahlgren and 
+Whitehead, 2021), including increased sedentary leisure activities, 
+overreliance on motorized transportation, environmental degradation, 
+and unhealthy urban design (Buscemi and Giordano, 2017). At the same 
+* Corresponding author. Environmental Health Division, Research Institute at Medical University of Plovdiv, Medical University of Plovdiv, 15A Vassil Aprilov 
+Blvd., 4002, Plovdiv, Bulgaria.
+E-mail addresses: angelleloti@gmail.com, angel.dzhambov@mu-plovdiv.bg (A.M. Dzhambov). 
+Contents lists available at ScienceDirect
+International Journal of Hygiene and Environmental Health
+journal homepage: www.elsevier.com/locate/ijheh
+https://doi.org/10.1016/j.ijheh.2026.114816
+Received 22 February 2026; Received in revised form 15 April 2026; Accepted 4 May 2026 
+International Journal of Hygiene and Environmental Health 275 (2026) 114816 
+Available online 8 May 2026 
+1438-4639/© 2026 The Authors. Published by Elsevier GmbH. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+time, regular physical activity has emerged as a key behavioral pathway 
+to prevent disease onset, slow progression, and facilitate recovery in 
+affected individuals by reducing inflammation and improving metabolic 
+control among other benefits (Silverman and Deuster, 2014; Posadzki 
+et al., 2020; Dhuli et al., 2022; Bourke et al., 2024). Beyond physical 
+fitness, physical activity provides a foundation for psychological 
+well-being and cognitive performance (Lubans et al., 2016; White et al., 
+2024).
+Outdoor environments can either facilitate or discourage recrea­
+tional walking and more intense forms of physical activity (Dzhambov 
+et al., 2023). Access to services, mixed land use, pedestrian infrastruc­
+ture, and shorter distances between homes and locations of interest are 
+strong predictors of time spent daily walking (Hajna et al., 2015) and 
+bicycling (Frank et al., 2006). Conversely, air pollution and traffic noise 
+diminish satisfaction with the environment and reduce willingness to 
+spend time outdoors (Andersson et al., 2023; Li et al., 2025). These 
+factors can also negatively impact physical and mental health, lowering 
+vitality, physiological stamina, and endurance (cf. Roswall et al., 2017; 
+Tainio et al., 2021). Much of the appeal of streetscapes for walking and 
+bicycling is as
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Survey design and sampling
+Between August and October 2023, a representative quota sample of 
+the general population was collected from the five most populous cities 
+in Bulgaria. The study areas included the capital, Sofia (~1.2 million 
+inhabitants), as well as Plovdiv (~330 000), Varna (~320 000), Burgas 
+(~190 000), and Ruse (~120 000). Sofia, Plovdiv, and Ruse are land­
+locked with varying access to rivers (e.g., Iskar, Maritsa, and the Dan­
+ube), whereas Varna and Burgas are located on the Black Sea coast. A 
+map of the study areas is shown in Fig. S1 in Supplementary File 1.
+A detailed description of the Bulgarian Healthy Urban Environment 
+study is provided elsewhere (Dzhambov et al., 2025). Briefly, partici­
+pants were approached at their homes by trained interviewers from a 
+professional survey company. Bulgarian-speaking adults aged ≥18 years 
+residing at their current address for at least one year were included. 
+Participants were sampled according to quotas from predefined spatial 
+typologies within each city to improve spatial contrast and thus, in­
+crease analytical power. A total of 4640 participants were included, with 
+response rates ranging from 30% in Sofia to 58% in Plovdiv.
+Participants provided informed consent verbally. All procedures 
+followed relevant EU data protection regulations. The study was 
+approved by the Scientific Ethics Committee at the Medical University of 
+Plovdiv (Protocol No. 4/May 04, 2023; Opinion No. P-1253/May 17, 
+2023).
+2.2. Physical activity
+The International Physical Activity Questionnaire-Short Form 
+(IPAQ-SF) was used to assess participants’ physical activity across 
+different intensity levels (Craig et al., 2003). Participants were instruc­
+ted to recall a typical most recent week, during which they were neither 
+sick nor travelling out of the city. Vigorous physical activity (VPA) was 
+defined as activity performed for at least 10 min at a time that required 
+substantial physical effort and resulted in breathing much harder than 
+normal (e.g., lifting heavy weights, fast running, or fast cycling). 
+Moderate-intensity physical activity (MPA) was defined as activity 
+lasting at least 10 min that required moderate physical effort and caused 
+A.M. Dzhambov et al. 
+International Journal of Hygiene and Environmental Health 275 (2026) 114816 
+2 
+
+breathing somewhat harder than normal (e.g., carrying light loads or 
+cycling at a normal pace). Walking was defined as any walking for at 
+least 10 min at a time, including walking at work or at home, for 
+transportation, during leisure time, or while engaging in sports.
+Data processing involved converting all reported activity durations 
+to minutes and excluding implausible values in accordance with IPAQ 
+scoring guidelines (IPAQ Research Committee). Participants reporting 
+total physical activity that exceeded 960 min per day were excluded. 
+Reported activity durations of less than 10 min were recoded to 0 min 
+because very short bouts of physical activity are less likely to activate 
+metabolic pathways, and durations greater than 180 min were truncated 
+to 180 min because they were considered unlikely.
+Outcome variables were constructed from self-reported frequency 
+(days per week) and duration (minutes per day) of physical activity. 
+Compliance with established physical activity guidelines (WHO, 2020) 
+was operationalized with dichotomous indicators: ≥75 min per week of 
+VPA, and ≥150 min per week of moderate-to-vigorous physical activity 
+(MPA + 2*VPA = MVPA), and walking for ≥150 min per week. MVPA 
+was calculated as the sum of MPA plus twice the time spent in VPA, 
+consistent with the WHO equivalence assumption (WHO, 2020) and 
+IPAQ MET-based scoring (IPAQ Research Committee). Additionally, 
+continuous measures of VPA, MPA, and walking time were computed in 
+minutes per week among participants reporting non-zero activity levels.
+2.3. Environmental characteristics
+Participants’ residential environment was characterized using both 
+objective measures and self-reported perceptions, as these provide 
+complementary information. The literature and data availability 
+informed the choice of physical environmental characteristics (Smith 
+et al., 2017).
+2.3.1. Objective neighborhood characteristics
+Walkability refers to the extent to which the built environment en­
+courages walking (Gao et al., 2020). It was calculated using 2021 census 
+population density data, Shannon's index for land use diversity derived 
+from 2018 European Urban Atlas (Copernicus Land Monitoring Service, 
+2021), land use/land cover and cadastral data (GCCA, 2016), and 
+OpenStreetMap-derived (OpenStreetMap contributors, 2023) four-way 
+intersection density (Dzhambov et al., 2025). The z-scores of these 
+three input variables were summarized within circular buffers of 300 m 
+and 1000 m. These buffer sizes correspond to typical walking distances 
+near one's home, considering the size of the study areas, and fall within a 
+range deemed relevant to physical activity (Browning and Lee, 2017; 
+Wang et al., 2021; Zare Sakhvidi et al., 2025).
+Mean annual concentrations of particulate matter with aerodynamic 
+diameter ≤2.5 μm (PM2.5) were obtained for the year 2019 at a 25 m 
+spatial resolution from a geographically weighted land use regression 
+model based on measured pollutants at monitoring stations across 
+Europe within the EXPANSE project (Shen et al., 2022). PM2.5 levels 
+were predicted from road and land use variables, satellite retrievals, and 
+chemical transport model estimates, with a five-fold cross-validation R2 
+of 0.77 (Shen et al., 2022). PM2.5 was used as an indicator of air 
+pollution rather than NO2 because the latter showed a strong correlation 
+with walkability and road traffic noise. Road traffic noise (Lden; 
+A-weighted day-evening-night average sound level) was available on a 
+50 m grid, derived from a supervised extreme gradient boosting machine 
+learning model. The model was trained on 232 short-term m
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1 presents a summary of participants’ characteristics. Table S1
+Fig. 1). Both low and high perceived greenspace were positively 
+Table 1 
+Fig. 1. Associations between urban environmental characteristics and compliance with recommended durations of physical activity across different intensity levels 
+
+======================================================================
+
+### RECORD ID=1272 | screening_verdict=INCLUDE | year=2026
+JOURNAL: TRANSPORTATION RESEARCH PART F-TRAFFIC PSYCHOLOGY AND BEHAVIOUR
+TITLE: Perception and response of cyclists interacting with autonomous electric vehicles - a virtual reality study
+DOI: 10.1016/j.trf.2026.103707
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Perception and response of cyclists interacting with autonomous 
+electric vehicles - a virtual reality study☆
+Yixin Sun , Haneen Farah , Yan Feng *
+Department of Transport & Planning, Faculty of Civil Engineering and Geosciences, Delft University of Technology (TU Delft), Stevinweg 1, 2628, 
+CN, Delft, the Netherlands
+A R T I C L E I N F O
+Keywords:
+Cyclist
+Autonomous electric vehicles
+External human-machine Interface
+Acoustic vehicle alerting system
+Virtual reality
+A B S T R A C T
+Autonomous electric vehicles (AEVs) will increasingly characterize future motorized traffic in 
+urban areas. These vehicles are often silent and can be driverless. Therefore, understanding the 
+interactions between these vehicles and vulnerable road users (VRUs) is crucial for traffic safety. 
+This study explores the impact of an additional auditory alert system and external human- 
+machine interfaces (eHMIs) on AEVs on cyclists' interaction behavior, comfort, and safety 
+under varying vehicle–signal conditions and environmental noise levels. This study employed 
+immersive Virtual Reality (VR) technology to simulate cycling across 18 traffic scenarios, using a 
+within-subjects design with 40 participants. These scenarios included two vehicle types: auton­
+omous conventional vehicles (ACVs) and autonomous electric vehicles (AEVs), two levels of 
+ambient noise levels (quiet residential areas; noisier streets), and three levels of eHMI signal 
+trigger distances (15, 20, 25 m). Data regarding cycling behavior (e.g., response distance, speed 
+variation, gaze direction) and cyclists' perceptions (e.g., realism, simulator sickness, presence, 
+trust, and perceived safety) were collected through VR and post-experiment questionnaires, 
+respectively. We found that compared to vehicles equipped only with an eHMI, AEVs with 
+auditory alerts significantly enhanced cyclists' perceptions and responses, with cyclists detecting 
+the vehicles earlier and responding faster. Subjective feedback also indicated a stronger sense of 
+safety and comfort, such as smoother deceleration that indicated natural responses and reduced 
+stress. Participants also reported a more comfortable interaction experience with AEVs with 
+auditory alerts. These findings provide evidence that equipping AEVs with additional auditory 
+alerts improves the safety and comfort of cyclists in their interactions with AEVs in urban envi­
+ronments. Therefore, policymakers are advised to consider this when setting regulations for the 
+deployment of AEVs in urban areas.
+1. Introduction
+With the rapid development of autonomous vehicle (AVs) technology and electric vehicle (EVs) technology, autonomous electric 
+vehicles (AEVs) are emerging as a new trend in the future of transportation. AEVs combine the significant potential of AVs to improve 
+energy efficiency (Bachute and Subhedar, 2021; Fu et al., 2022; Muhammad et al., 2021), optimize traffic flow (Chen et al., 2023; Garg 
+☆This article is part of a Special issue entitled: ‘ICTCT 2024- TRF’ published in Transportation Research Part F: Psychology and Behaviour.
+* Corresponding author.
+E-mail addresses: h.farah@tudelft.nl (H. Farah), y.feng@tudelft.nl (Y. Feng). 
+Contents lists available at ScienceDirect
+Transportation Research Part F: 
+Psychology and Behaviour
+journal homepage: www.elsevier.com/locate/trf
+https://doi.org/10.1016/j.trf.2026.103707
+Received 23 July 2025; Received in revised form 15 April 2026; Accepted 11 June 2026 
+Transportation Research Part F: Psychology and Behaviour 121 (2026) 103707 
+Available online 18 June 2026 
+1369-8478/© 2026 The Author(s). 
+Published by Elsevier Ltd. 
+This is an open access article under the CC BY license 
+( http://creativecommons.org/licenses/by/4.0/ ). 
+
+et al., 2021; He et al., 2022), and reduce traffic crashes by minimizing human error (Shimanuki et al., 2025). Similarly, EVs offer 
+advantages in reducing carbon emissions and promoting environmental sustainability (Sadek, 2012; Verheijen and Jabben, 2010). 
+However, a major challenge to the widespread adoption of AEVs lies in ensuring the safe interaction between AEVs and other road 
+users, especially vulnerable road users (VRUs) in urban areas.
+Despite the promising advancements in autonomous driving technology, there remain substantial challenges in practical 
+applications—particularly in the interaction with vulnerable road users (VRUs). A core issue stems from the potential lack of human 
+drivers in AVs, which eliminates traditional implicit communication cues such as eye contact, hand gestures, or head nods (Rasouli 
+et al., 2017). As a result, VRUs can no longer rely on these subtle signals to infer the vehicle's intentions or anticipate its move­
+ments, making interaction more uncertain and potentially unsafe (Rezwana and Lownes, 2024; Rothenbücher et al., 2016). To address 
+this challenge, many researchers have proposed using external human-machine interfaces (eHMIs), which aim to convey vehicle in­
+tentions through intuitive signals, such as lights, text, or sounds, to improve the interactions between AVs and VRUs (Feng et al., 2025; 
+Wilbrink et al., 2021). Some studies suggest that eHMIs can help VRUs (e.g., pedestrians and cyclists) better understand vehicle in­
+tentions, thereby improving perceived safety and trust in automated vehicles (Dey et al., 2020; Feng et al., 2023). However, current 
+findings on the effectiveness of eHMIs remain mixed. Other studies indicate that their effects may be limited or highly dependent on 
+factors such as interface design, traffic context, environmental conditions, and users' interpretation of the signals (Yang et al., 2024). In 
+recent years, multimodal eHMI systems combining signals such as visual and auditory cues have gained increasing attention and are 
+considered more promising in complex traffic environments (Berge et al., 2023). This is because auditory eHMI signals can partially 
+compensate for the limitations of visual cues, providing VRUs with different types 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Experiment design
+This study employed immersive VR experiments to investigate the effects of environmental noise level, vehicle–signal condition, 
+and eHMI signal trigger distance on cyclists' behavior. A within-subject design approach was adopted to eliminate individual differ­
+ences for comparison across different scenarios. The main variables that were considered in the experiment and their definitions, 
+including independent variables, intermediate variables, and dependent variables, are presented in Table 1.
+This study focused on three primary independent variables and their effects on cyclists' behavior, namely environmental noise 
+level, vehicle–signal condition (a categorical variable with three levels), and eHMI signal trigger distance. These variables were 
+designed to simulate various conditions that cyclists may encounter in real traffic environments and to analyze their impact on cyclists' 
+behavioral and perceptual responses. This study systematically manipulated these three independent variables, generating a total of 
+eighteen experimental scenarios. These scenarios were evenly divided into two levels of environmental noise, representing quieter and 
+noisier ambient sound conditions within the same roadside street context. Within each level, the scenarios were further subdivided into 
+nine distinct conditions determined by variations in the eHMI signal trigger distance (i.e., 15 m, 20 m, 25 m) and vehicle–signal 
+condition (i.e., ACV with visual eHMI, AEV with visual eHMI, and AEV with visual eHMI and additional auditory alert).
+The selected eHMI trigger distances were determined based on both a behavioral design reference and pilot testing in the VR 
+simulator. The AASHTO Guide for the Development of Bicycle Facilities assumes a bicyclist perception–reaction time of 2.5 s when 
+determining minimum stopping sight distance (American Association of State Highway and Transportation Officials (AASHTO), 
+1999). In the pilot sessions, participants typically cycled at approximately 5 m/s in the simulator. On this basis, 15 m was selected 
+as the minimum trigger distance, corresponding to approximately 3 s of advance warning, which is slightly above the 2.5-s reference 
+Table 1 
+Main variables and their definitions.
+Independent variables
+Variable
+Definition
+Levels and indicators
+Environment noise 
+level
+The level of ambient noise in the environment
+Quiet residential areas; More noisy streets
+Vehicle–signal 
+condition
+Vehicle configurations combining vehicle powertrain type and 
+communication modality
+ACV with visual eHMI; AEV with visual eHMI; AEV with visual 
+eHMI and additional auditory alert
+eHMI signal trigger 
+distance
+The distance at which the eHMI signal is activated
+Short (15 m); medium (20 m); and long trigger activation 
+distances (25 m)
+Intermediary variables
+Noise
+Combines ambient noise level and idle engine noise from vehicles
+Simulates real-world road environments with varying 
+background noise levels to test cyclist perception
+Warning signal
+Determined by the combination of trigger distance and vehicle–signal 
+condition
+Assesses how signal strength and vehicle configuration affect 
+cyclists' responses
+Dependent variables
+Response position
+The distance between the cyclist and the vehicle at the time of 
+response
+Measures how fast the cyclist reacts under different 
+experimental conditions
+Response completion 
+position
+The distance between the cyclist and the vehicle when the cyclist 
+completes their response
+Measures the cyclist's complete response behavior under 
+different conditions
+Max deceleration
+The max deceleration applied by the cyclist when responding
+Reflects the cyclist's perception of the urgency of the signal
+Roadside attention
+The direction and duration of the cyclist's head orientation towards 
+the roadside parked vehicles or auditory signal sources
+Indicates the cyclist's sensitivity to warning signals and ability 
+to focus on information in complex environments
+Y. Sun et al. 
+Transportation Research Part F: Psychology and Behaviour 121 (2026) 103707 
+3 
+
+and still allowed participants sufficient time to perceive the signal and produce a measurable response. The other two distances, 20 m 
+and 25 m, were then added in roughly 1-s increments to represent progressively earlier warning onset.
+These vehicle–signal conditions were not intended to represent a fully crossed vehicle-type factor; rather, they were designed to 
+reflect three practically relevant communication configurations. Specifically, the comparison between ACV with visual eHMI and AEV 
+with visual eHMI was intended to examine whether the much lower vehicle noise of AEVs, compared with ACVs, may make them less 
+detectable to cyclists. On this basis, the AEV with visual eHMI and additional auditory alert condition was included to test whether an 
+extra auditory cue could compensate for this potential detectability disadvantage. In each scenario, only one variable was changed, 
+while all other variables remained constant.
+The current study included three intermediate variables to help explain how the independent variables influenced cyclists' 
+behavior. The first intermediate variable is noise level, which is jointly determined by environmental noise level (i.e., the surrounding 
+ambient sound conditions) and vehicle–signal condition (i.e., different engine-noise characteristics of ACVs and AEVs). The second 
+intermediate variable is the warning signal, which is determined by the combination of trigger distance and vehicle–signal condition. 
+Specifically, the vehicle–signal condition determines the configuration of visual and/or auditory signals (e.g., ACVs were equipped 
+with visual eHMI only, whereas AEVs were presented either with visual eHMI alone or with visual eHMI plus an additional auditory 
+alert), and the eHMI signal trigger distance determines when the signal is activated. Together, these two factors form the basis for the 
+warning signal that the cyclist receives.
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1.
+Table 1 
+Fig. 1). This simulated road is 1400 m long and 4.5 m wide, representing a standard 
+Fig. 1. Illustration of the virtual environment.
+Fig. 2. Each parking zone represented an experimental segment, where all vehicles 
+Fig. 2).
+Fig. 2).
+Fig. 3 or additional auditory 
+Fig. 2. Top View of the Experimental Scenario.
+Fig. 4). The VR bicycle simulator was developed by the 
+Fig. 3. Roof-mounted eHMI light signals emitted from the point of view of the cyclist.
+Fig. 4. A participant using the VR bicycle simulator.
+Fig. 5. The experiment received ethical approval 
+Fig. 5. Overview of the experimental procedure
+Fig. 6, the marked reaction point accurately reflects the participant's initial response to the warning signal.
+Fig. 6. Speed profile illustrating the point where the cyclist's reaction begins and the response completion position relative to the vehicle position.
+Table 2.
+Table 2 
+Table 3.
+Table 4, indicated that Immersion and Sensory Fidelity received the highest scores, suggesting that participants 
+Table 5.
+Table 5 presents the fixed effects and interaction effects of environmental noise level, vehicle–signal condition, and signal trigger 
+Table 3 
+Table 5. Significant main effects were found for envi­
+Table 4 
+
+======================================================================
+
+### RECORD ID=1280 | screening_verdict=INCLUDE | year=2026
+JOURNAL: BUILDINGS
+TITLE: Research on the Effect of Rural Composite Environments on the Spatiotemporal Behavior and Perception of the Elderly: A Case Study of Qingdao, China
+DOI: 10.3390/buildings16101973
+PAGES: 21
+
+--- HEAD (title/abstract/intro) ---
+Academic Editor: Adrian Pitts
+Received: 24 March 2026
+Revised: 10 May 2026
+Accepted: 15 May 2026
+Published: 16 May 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Research on the Effect of Rural Composite Environments on the
+Spatiotemporal Behavior and Perception of the Elderly:
+A Case Study of Qingdao, China
+Yan Fu 1,2, Nan Zhang 1,2,*
+, Qijie Gao 1, Haoru Dai 1, Qingliang Chen 1 and Weijun Gao 1,2
+1
+Innovation Institute for Sustainable Maritime Architecture Research and Technology, Qingdao University of
+Technology, Qingdao 266033, China; fuyan202510@163.com (Y.F.); 15689987079@163.com (Q.G.);
+13281598752@163.com (H.D.)
+2
+Faculty of Environmental Engineering, The University of Kitakyushu, Kitakyushu 808-0135, Japan
+*
+Correspondence: n-zhang@kitakyu-u.ac.jp
+Abstract
+Rural public spaces are crucial to the daily activities of older adults; however, limited
+research has examined the effects of their environmental characteristics on older adults’
+spatiotemporal behavior and perception from a multisensory perspective. This study
+hypothesizes that composite sensory environments have significant nonlinear predictive
+effects on older adults’ behavior types and satisfaction. In this study, 10 sample spaces
+were selected in Qingdao, China. Multi-source data were collected through a two-week
+period of unobtrusive observation and subjective questionnaire surveys (N = 241). Multiple
+logistic regression was used to analyze the main effects of environmental characteristics,
+and an MLP model with a single hidden layer of 100 units was constructed to predict dwell
+time and satisfaction. The results show that, in the investigated rural context, older adults’
+dominant behavior was social activity (81.12%), which mainly occurred in built spaces such
+as squares. Multiple logistic regression indicated that, among the various environmental
+factors, visual aesthetics had a statistically significant effect on behavior types (p = 0.013).
+The MLP model achieved prediction accuracies of 85.3% for dwell time and 93.1% for
+satisfaction. The key predictive variables were volume perception (100% importance), the
+Natural Sound Index (NSI) (92.1%), and visual aesthetics (89.3%). Subgroup heterogeneity
+analysis further showed that older-old adults and those with poorer health conditions
+were more sensitive to pavement quality and physical comfort, whereas older adults living
+alone or with limited household companionship were more strongly influenced by visual
+aesthetics and natural soundscape quality. The theoretical significance of this study lies in
+proposing quantitative measures of natural sound and odor indices and revealing that, in
+the specific northern rural built environment, the coordinated design of visual and auditory
+environments plays an important role in improving spatial quality. The findings provide
+empirical support for the age-friendly micro-renewal of rural public spaces in specific
+regions. However, due to the limitations of single-season data and a relatively small sample
+size, their generalizability needs to be further verified across regions.
+Keywords: older adults; spatiotemporal behavior; perception; composite environment;
+rural public space
+Buildings 2026, 16, 1973
+https://doi.org/10.3390/buildings16101973
+
+Buildings 2026, 16, 1973
+2 of 20
+1. Introduction
+The intensification of rapid urbanization and population mobility has led rural China
+to face more severe aging challenges than urban areas [1]. Data from the Seventh National
+Population Census show that the proportion of people aged 60 years and above in ru-
+ral China has reached 23.81%, which is significantly higher than that in urban areas [2].
+Against this background, rural public spaces serve as core settings for older adults’ daily
+social interaction, emotional attachment, and physical exercise. Their age-friendly envi-
+ronmental quality is directly related to the health and well-being of rural residents and
+the quality of aging in place [3,4]. However, due to long-standing “urban-biased” poli-
+cies, the theory and practice of age-friendly public spaces have mainly focused on urban
+communities [5,6], while the micro-environmental construction of rural public spaces has
+often been marginalized [7–9].
+In recent years, some scholars have begun to focus on age-friendliness in rural spaces,
+but existing studies still show clear dimensional limitations [3]. A large body of literature
+mainly focuses on the construction of older adults’ life circles at the macro level, the
+spatial allocation of elderly care service facilities, or neighborhood network support from a
+sociological perspective [8,9]. Although these studies emphasize the macro-level necessity
+of rural age-friendliness, most of them overlook the specific mechanisms through which
+the physical characteristics of the micro-scale built environment influence older adults’
+high-frequency daily spatiotemporal behavior [10]. Rural society is essentially a typical
+“acquaintance society”, and the outdoor activities of older adults often arise from the
+need for functional gathering [7]. Therefore, analyzing the mapping relationship between
+objective physical environmental characteristics, older adults’ spatiotemporal behavior,
+and subjective perception at the micro-spatial scale remains an important blind spot that
+urgently needs to be addressed in current rural living environment research [11,12].
+In the field of micro-environmental behavior, human spatial perception is not based
+on information received through a single dimension, but is a composite process formed
+by the coordinated action of multiple sensory channels, including vision, hearing, smell,
+and touch [13,14]. Environmental stimuli, as independent variables, trigger different
+receptors in the cerebral cortex, regulate older adults’ psychological emotions and cognitive
+
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Case Study Area
+This study selected two typical rural villages, Xiaolingzi Village and Xishiling Village,
+in the West Coast New Area of Qingdao, China, as the study area (Figure 1). The aging
+rate in rural Qingdao has reached 20.28% [23]. Due to the traditional concept of “aging
+in place”, older adults in these areas have a very low willingness to migrate, making the
+study area highly typical and representative [24].
+In terms of sample selection, five public spaces were selected in each village, resulting
+in a total of 10 sample spaces. These included spaces under trees, squares, areas in front of
+service centers, roadways, and spaces surrounding houses. The selection criteria were as
+follows: (1) full public accessibility; and (2) the presence of regular daily activities by older
+adults. Although the number of spatial samples (N = 10) was relatively small in terms of ge-
+ographic scale, this study adopted high-frequency and long-term behavioral tracking over
+14 consecutive days, with observations conducted for 14 h per day. Dense time-series data
+were used to compensate for the limited number of spatial samples, thereby ensuring that
+the study could capture high-resolution micro-scale environment–behavior relationships.
+The target group of this study was defined as middle-aged and older adults in rural
+areas. The inclusion of some participants aged 55–60 was based on the practical considera-
+tion that this “young-old” group has already entered an aging-in-place lifestyle under the
+changing rural labor structure in China.
+The data collection process of this study, including unobtrusive behavioral observation
+and questionnaire surveys, was approved by the Ethics Committee of Qingdao University
+(QDU-HEC-2022150). All questionnaire surveys were conducted with informed consent
+from the participants. The unobtrusive observation recorded only group behavioral charac-
+https://doi.org/10.3390/buildings16101973
+
+Buildings 2026, 16, 1973
+4 of 20
+teristics and did not collect identifiable personal information, such as facial data, thereby
+ensuring the anonymization of all participant information.
+ 
+Figure 1. Location map of the venue.
+2.2. Data and Variables
+The data collection period was from 11–24 September 2022, excluding rainy days
+and other extreme weather conditions. During this period, environmental monitoring,
+behavioral recording, and subjective questionnaire surveys were conducted simultaneously.
+2.2.1. Rural Environmental Characteristics
+The rural built environment is composite in nature and can be categorized into
+four types according to sensory stimulation: tactile, auditory, visual, and olfactory
+environments [25]. Based on this classification, 11 representative environmental character-
+istics were selected. These indicators were chosen because they are relatively easy to obtain,
+have high reliability, and may affect the emotions and activities of older adults, as shown
+in Table 1.
+Table 1. Environmental characteristics of the rural public spaces.
+Environment Types
+Characteristics
+Tactile environment
+Air temperature, relative humidity, wind speed, pavement material
+Sound environment
+Sound types, equivalent noise level
+Visual environment
+SVI, GVI, quality of leisure facilities
+Odor environment
+Odor type, odor concentration
+To ensure the scientific validity and reliability of the data, all environmental moni-
+toring equipment was calibrated before daily measurements. Air temperature, relative
+humidity, and wind speed were measured using a Testo 480 multifunctional instrument.
+The monitoring points were uniformly set at a height of 1.5 m above the ground, corre-
+sponding to the breathing zone of older adults. A 5-min average value was used to smooth
+short-term fluctuations. Acoustic data were collected using an AWA5636 sound level meter
+to measure the equivalent continuous A-weighted sound pressure level (LAeq) over 5 min.
+https://doi.org/10.3390/buildings16101973
+
+Buildings 2026, 16, 1973
+5 of 20
+The visual environment was captured using a fisheye lens, and the green view index (GVI)
+and sky view index (SVI) were extracted using Python 3.10 OpenCV.
+To quantitatively capture the dominance of natural elements within the compos-
+ite sensory environment, the Natural Sound Index (NSI) and Natural Odor Index (OI)
+were used [26].
+The NSI is defined as the difference between the proportion of natural sounds (envi-
+ronmental sounds and biological sounds) and the proportion of noise (Equation (1)).
+NSI = SP1 + SP2 −
+7
+∑
+i=5
+SPi
+(1)
+where SPi represents the proportion of each type of sound (Table 2).
+The OI is defined as the difference between the proportion of natural odors (fruit,
+plant, and earthy smells) and the proportion of unpleasant odors (Equation (2)).
+OI = OP1 + OP2 + OP3 −
+7
+∑
+i=4
+OPi
+(2)
+where OPi represents the proportion of each type of odor (Table 3).
+Table 2. Sound types in rural environments.
+Sound Types
+Special Sound
+1
+Environmental sounds
+River sound, rustling leaves
+2
+Biological sounds
+Birdsong, insect chirping, dog barking, rooster crowing
+3
+Human sounds
+Talking, shouting
+4
+Music sounds
+Singing, musical instruments, theatrical sounds
+5
+Traffic noise
+Car, motorcycle noises
+6
+Construction noise
+Construction-related sounds
+7
+Others
+In addition to the aforementioned types of sounds
+Table 3. Odor types in rural environments.
+Odor Types
+Special Odor
+1
+Fruit fragrance
+Fragrance of fruits such as watermelon and apple
+2
+Plant scent
+Scent of fresh grass, flowers, and trees
+3
+Earthy smell
+Smell of earth, marshy odor
+4
+Fishy odor
+Odor of fish and shrimp, aroma of clams
+5
+Chemical scent
+Exhaust fumes, kerosene smell, burning scent, smoke odor
+6
+Putrid odor
+Garbage smell, feces and urine stench, sewer odor
+7
+Others
+In addition to the aforementioned types of odors
+2.2.2. Daily Activities of the Rural Elderly
+The behavioral observation period covered the entire day from 6:00 to 20:00. Fixed-
+point photographs were taken at 10-min intervals, resulting in a total of 9000 valid be-
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). The aging
+Figure 1. Location map of the venue.
+Table 1.
+Table 1. Environmental characteristics of the rural public spaces.
+Table 2).
+Table 3).
+Table 2. Sound types in rural environments.
+Table 3. Odor types in rural environments.
+Table 4) [27]. To control subjective bias, observation and image cod-
+Table 4. Behavior types of the rural elderly.
+Table 5). The questionnaire
+Table 5. Subjective questionnaire.
+Table 6 presents the basic demographic characteristics of the valid sample (N = 241).
+Table 6. Sample descriptive statistics (N = 241).
+Figure 2 illustrates
+Figure 2. The spatiotemporal characteristics of various behavior types in a day.
+Table 7). “Behavior type” was treated as the nominal dependent
+Table 8).
+Table 7. Multicollinearity test.
+Table 8. The outcomes of the multiple logistic regression analysis.
+Table 9) indicate that, after controlling for multidimensional
+Table 9. The significant effect of individual characteristics on the MLR model.
+Figure 3) verified
+Figure 3. A correlation analysis of environmental characteristics and satisfaction of the rural elderly.
+Table 10 presents
+
+======================================================================
+
+### RECORD ID=1306 | screening_verdict=INCLUDE | year=2026
+JOURNAL: JOURNAL OF TRANSPORT & HEALTH
+TITLE: Unveiling the nonlinear effects of street-level audiovisual environments on urban cycling volume
+DOI: 10.1016/j.jth.2026.102313
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Unveiling the nonlinear effects of street-level audiovisual 
+environments on urban cycling volume
+Ming Gao a, Congying Fang b,*
+a Institute of Creativity and Innovation, Xiamen University, Xiamen, 361005, China
+b College of Architecture and Urban Planning, Tongji University, Shanghai, 200092, China
+A R T I C L E I N F O
+Keywords:
+Cycling amount
+Built environment
+Nonlinear effect
+Sustainable transportation
+A B S T R A C T
+Introduction: Built environment attributes are widely recognized as key levers for promoting 
+cycling. However, their implementation is often limited by the spatial and economic constraints 
+of large-scale urban redevelopment. Existing research has largely overlooked the nonlinear and 
+potentially threshold-based relationships between environmental features and cycling behavior. 
+Moreover, cyclists’ sensory perceptions of street-level audiovisual environments remain insuffi­
+ciently considered, despite their importance for environmental comfort and perceived safety.
+Method: This study integrates interpretable machine learning and computer vision techniques to 
+examine how the perceived audiovisual environment influences cycling volume at the street level. 
+Using large-scale crowdsourced cycling trajectory data from a fitness tracking application and 
+street-level imagery, we derived audiovisual and built-environment indicators to train an 
+XGBoost model. Partial dependence analysis was employed to visualize and interpret the 
+nonlinear effects of key environmental features.
+Results: The findings reveal that both built and audiovisual factors exhibit complex nonlinear 
+associations with cycling volume, characterized by variable-specific thresholds and saturation 
+effects. Streets with greater visual openness, stronger presence of natural sounds, lower noise 
+intensity, and higher perceived safety were associated with substantially higher cycling volumes. 
+Acoustic attributes, particularly natural and mechanical sound components, showed distinct 
+nonlinear responses.
+Conclusion: This study provides new empirical evidence that street-level sensory environments 
+significantly influence cycling behavior in nonlinear ways. The results indicate that relatively 
+low-cost design interventions, including enhancing visual openness, using vegetation to reduce 
+noise, and strengthening perceived safety, can support the retrofitting of existing streetscapes. 
+These insights can support planners and policymakers in advancing more inclusive and sustain­
+able urban mobility.
+1. Introduction
+Bicycle-friendly urban design has long been a central topic in both transportation planning literature and practice across the globe 
+(Adam et al., 2020; Colville-Andersen, 2018). The deterioration of urban transport environments and the poor quality of associated 
+micro-scale streetscapes can discourage cycling and negatively impact public engagement in active travel modes (Rui and Xu, 2024; 
+* Corresponding author.
+E-mail address: congying_fang@tongji.edu.cn (C. Fang). 
+Contents lists available at ScienceDirect
+Journal of Transport & Health
+journal homepage: www.elsevier.com/locate/jth
+https://doi.org/10.1016/j.jth.2026.102313
+Received 5 November 2025; Received in revised form 27 February 2026; Accepted 26 March 2026 
+Journal of Transport & Health 49 (2026) 102313 
+Available online 3 April 2026 
+2214-1405/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Song et al., 2024). Perception plays a critical role in linking objective environmental attributes with cycling preferences and behaviors, 
+serving as a key mediator between physical conditions and travel outcomes (Qi et al., 2025; Zhang, Q. et al., 2024). Among these 
+perceptual dimensions, perceived safety has been shown to significantly encourage cycling in urban contexts (Song et al., 2024). From 
+a perceptual-environmental perspective, low-quality street-level audiovisual environments may undermine cyclists’ sense of trust and 
+comfort in the setting (Gelb and Apparicio, 2022; Sanchez et al., 2017), thereby limiting the sustainability of cycling as a mode of 
+transport and potentially reinforcing a downward cycle of low ridership (Zhuang et al., 2022). As an integral component of transport 
+environmental quality, the audiovisual dimension is crucial to understanding how urban environments shape cycling behavior. 
+Therefore, planners and policymakers around the world are increasingly interested in using limited resources to maximize the pro­
+motion of cycling as a mode of transport, whether through bikeshare systems or the design of dedicated cycling infrastructure (Gong 
+et al., 2024; Van Veghel and Scott, 2024). To foster more efficient and bicycle-friendly urban development, it is essential to identify the 
+key environmental attributes that influence cycling volume.
+This study draws on street view imagery, machine learning, and computer vision techniques to analyze data collected from the 
+central urban area of Shanghai, China. It addresses the following three research questions: 
+● Research question 1 (RQ1): Which street attributes are associated with higher cycling volume?
+● Research question 2 (RQ2): Which audiovisual features of the street environment play a more significant role in shaping cycling 
+volume?
+● Research question 3 (RQ3): Do nonlinear relationships exist between street-level audiovisual environments and cycling volume?
+This study makes three key contributions to the literature on bicycle-friendly urban planning and to the practice of improving and 
+transforming the quality of transport environments. First, it adopts a rarely used machine learning approach to examine the traffic 
+sound environment in the context of active transport. More importantly, by applying a machine learning method, the study generates 
+geospatially precise estimations of the street-level soundscape using street view imagery. This enables detailed auditory assessments at 
+the
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+3.1. Study area
+In this study, the central urban area of Shanghai, China, was selected as the case study site (Fig. 1). As one of China's highest-density 
+cities, Shanghai has in recent years strongly promoted green mobility and the development of non-motorized transport systems, with 
+continued improvements to cycling infrastructure. Under the planning framework of the “15-min community life circle,” cycling has 
+been repositioned as a key mode of sustainable urban mobility. The rapid expansion of the bikeshare system and the implementation of 
+cycling-friendly street retrofitting projects have contributed to a noticeable resurgence in cycling, with an increasing share of daily 
+trips now made by bicycle. The city's flat topography and well-connected road network further support short-distance urban cycling. In 
+addition, recent policies promoting low-carbon transport and sustainable development provide a policy-driven context for studying 
+cycling behavior. Together, these factors make Shanghai a compelling case for examining how street-level audiovisual environments 
+influence cycling activity in dense urban settings.
+3.2. Analytical framework
+This study proposes an analytical framework to assess the influence of street environments on cycling, as illustrated in Fig. 2. The 
+framework consists of four distinct steps aimed at enhancing our understanding of the environmental relationships between audio­
+visual characteristics of urban streets and cycling volume. First, Baidu Street View imagery, Points of Interest (POIs), and Open­
+StreetMap (OSM) road network data were collected and processed (Section 3.3). Built environment (BE) features were derived by 
+integrating POI distributions and street network metrics within a GIS-based framework. Second, cycling volume data were obtained at 
+the street segment level using cycling trajectory records from the KEEP platform (Section 3.4). Third, street-level audiovisual features 
+were quantified using machine learning and street view imagery (Section 3.5). These features included streetscape elements, 
+soundscape characteristics, and perceived environmental qualities. Specifically, streetscape refers to the objective visual character­
+istics of the street, while soundscape and perceived quality represent the predicted acoustic environment (Zhao et al., 2023) and 
+subjective impressions (Gao and Fang, 2025c; Rui and Xu, 2024), respectively, derived from computer vision-based assessments. 
+Finally, an XGBoost model was employed to capture the nonlinear relationships between environmental features and cycling volume. 
+Fig. 1. Locations of the sampled districts in the central urban area of Shanghai, China.
+M. Gao and C. Fang 
+Journal of Transport & Health 49 (2026) 102313 
+4 
+
+Partial dependence plots (PDPs) were used to interpret feature importance and visualize marginal effects (Section 3.6).
+3.3. Data collection
+Street view imagery (SVI) was obtained through the Baidu Maps Application Programming Interface (API), which provides access 
+to an extensive repository of panoramic images captured across China. To ensure spatial coverage and adequately represent the visual 
+characteristics of the study area, street-level imagery was sampled at 100-m intervals along all streets within the defined urban 
+boundary. A total of 24,529 sampling points were included, and image acquisition was completed by the end of 2024. Although 
+seasonal variation in vegetation exists in Shanghai, the majority of dominant street trees are evergreen species, and the spatial 
+configuration of greenery remains relatively stable across seasons. Therefore, the captured imagery primarily reflects structural 
+streetscape characteristics rather than short-term phenological fluctuations. Baidu's street view system typically captures imagery 
+under clear and temperate weather conditions, ensuring relatively consistent visual quality. Following established practices from 
+previous studies, API parameters were specified as follows: image resolution was set to 1024 × 1024 pixels, and four images were 
+retrieved from each sampling point at horizontal field-of-view angles of 0◦, 90◦, 180◦, and 270◦, respectively. This approach enabled a 
+comprehensive panoramic representation of each streetscape. The resulting imagery served as the basis for estimating street-level 
+audiovisual environments using machine learning and computer vision techniques (see Sections 3.5.1, 3.5.2, and 3.5.3).
+3.4. Dependent variable
+Cycling GPS trajectory data were obtained from the KEEP fitness application, one of the most widely used sports tracking apps in 
+China and comparable to Strava in the United States. KEEP has more than 300 million registered users, including office workers, and 
+cycling enthusiasts (Li et al., 2025). The trajectory data used in this study were collected from users who recorded and uploaded their 
+cycling activities to the KEEP platform during July 2023. The platform generates structured volunteered geographic information (VGI), 
+including detailed ride-level information such as trajectory ID, trip duration, distance, and start and end times. KEEP-based trajectory 
+data have been increasingly applied across various research fields, including trajectory pattern mining (Li et al., 2025), the relationship 
+between the built environment and active travel (Zhang, S. et al., 2024), and exercise intensity analysis (Qiu et al., 2024), underscoring 
+their growing value and potential for urban cycling behavior research. Trips recorded on KEEP are more likely to reflect exercise, 
+leisure, or discretionary cycling behaviors. This potential sampling bias is common to many fitness-tracking datasets (e.g., Strava) and 
+Fig. 2. Analytical framework.
+M. Gao and C. Fang 
+Journal of Transport & Health 49 (2026) 102313 
+5 
+
+should be considered when interpreting the results.
+To ensure data anonymity, personally identifiable information (e.g., names, age, or gender) was not accessible. Each ride wa
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). As one of China's highest-density 
+Fig. 2. The 
+Fig. 1. Locations of the sampled districts in the central urban area of Shanghai, China.
+Fig. 2. Analytical framework.
+Table 1. These features are commonly operationalized as pixel ratios of specific visual elements extracted 
+Fig. 3. Specifically, soundscape feature extraction was conducted through three types of pre-trained deep learning models. At the pixel 
+Fig. 4).
+Table 1 
+Fig. 3. Soundscape indicators (Zhao et al., 2023).
+Fig. 4. Workflow of the XGBoost-based modeling approach.
+Fig. 5. Relative contribution of predictor variables.
+Fig. 5 presents the relative importance of environmental variables in predicting cycling volume. Overall, built environment features 
+Fig. 6. Nonlinear effects of acoustic environment features on cycling volume.
+Fig. 6, different types of soundscape features exhibit significant and nonlinear effects on cycling volume. While most 
+Fig. 7. Nonlinear effects of visual environment features on cycling volume.
+Fig. 7 presents the PDPs for visual environmental features. The effect of openness on cycling volume demonstrates a pronounced 
+Fig. 8 presents the PDPs for perceptual environmental features. Both perceived beauty and perceived safety exhibit positive as­
+Fig. 9 presents the partial dependence plots (PDPs) for key built environment features and their nonlinear effects on cycling 
+Fig. 8. Nonlinear effects of perceived environmental qualities on cycling volume.
+Fig. 9. Nonlinear effects of built environment features on cycling volume.
+
+======================================================================
+

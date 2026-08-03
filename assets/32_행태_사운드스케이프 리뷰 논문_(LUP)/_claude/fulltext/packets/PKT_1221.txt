@@ -1,0 +1,222 @@
+### RECORD ID=1221 | screening_verdict=INCLUDE | year=2026
+JOURNAL: APPLIED ACOUSTICS
+TITLE: Effect of soundscapes and crowd density on economic behavior in commercial streets
+DOI: 10.1016/j.apacoust.2025.111101
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Effect of soundscapes and crowd density on economic behavior in 
+commercial streets
+Linjie Zhou, Wenluo Yu *, Yan Zhang, Wen Zhou, Tao Wu
+College of Horticulture and Landscape Architecture, Yangzhou University, Yangzhou, China
+A R T I C L E I N F O
+Keywords:
+Architectural acoustic environment
+Soundscape
+Urban commercial street
+Economic behavior
+Crowd density
+A B S T R A C T
+Urban commercial streets, as critical nodes of economic activity, exert substantial influence on consumer 
+behavior and commercial performance. However, empirical research investigating how soundscape character­
+istics and crowd density interact to shape economic behaviors in complex urban open spaces remains limited. 
+This study addresses this gap through a case analysis of a typical commercial district in Yangzhou, China, 
+constructing two integrated indicator systems. From a behavioral economics perspective, five economic behavior 
+metrics are developed: Consumption intention intensity (CII), Affective consumption willingness (ACW), 
+Queuing time (QT), Recommendation to friends (RTF), and Revisit intention (RE). Results reveal that both 
+objective acoustic indicators (e.g., LAeq, L10, L50, L90) and perceptual dimensions of the soundscape (eventfulness, 
+calmness, chaoticness) are significantly associated with these behavioral outcomes. Sound source typologies 
+further moderate behavioral responses via perceived loudness, event frequency, and preference. In terms of 
+spatial social density, the study introduces both planar crowd densities (CPD4, CPD8, CPD12) and façade crowd 
+density (CFD) to capture horizontal and vertical perceptions of crowding. Among these, CFD demonstrates strong 
+and consistent correlations with all economic behavior indicators. Based on these findings, the 
+“Sound–Human–Economic (SHE)” model is proposed and validated to conceptualize the interaction mechanisms 
+among acoustic environment, social density, and consumer economic behavior. Sudden sound pressure (SSP), 
+CFD, and Educational level emerge as robust predictors. This research contributes to theoretical advancement in 
+urban acoustic-behavior studies and offers practical implications for evidence-based soundscape design, crowd 
+management, and consumer-centered urban commercial planning.
+1. Introduction
+Urban commercial streets serve as critical spatial infrastructures that 
+support economic development and contribute to the reconfiguration of 
+urban identity [1]. Their researches is shaped by a range of factors, 
+including infrastructure development [2], consumer spatial planning 
+[3], adaptive reuse of historic buildings [4] and supportive policies.
+However, existing research has predominantly concentrated on the 
+physical and spatial characteristics of commercial streets, while 
+comparatively little attention has been paid to the perceptual environ­
+mental factors that influence consumer economic behavior. Defined as 
+the decision-making patterns of individuals or groups regarding 
+resource acquisition, consumption, and investment, economic behavior 
+is highly sensitive to contextual environmental stimuli [5]. Non-visual 
+environmental variables such as soundscape characteristics and crowd 
+density may exert more pronounced effects on consumer cognition, 
+emotional responses, and behavioral intentions, particularly in semi- 
+enclosed or linear spatial typologies. Despite their potential impact, 
+the complex interplay between these environmental dimensions and 
+economic behavior in urban commercial streets remains underexplored 
+and warrants systematic empirical investigation.
+Previous studies have demonstrated that sound environments influ­
+ence consumer decisions by shaping perception and affective states. For 
+example, In tourism settings, integrating incentive-based soundscapes 
+with tour routes has been demonstrated to enhance visitor experiences 
+[6]. Moreover, soundscape quality indirectly influences visitors’ will­
+ingness to return by affecting their satisfaction levels [7]. In indoor 
+commercial environments, the impact of soundscape on consumer 
+behavior in commercial settings has been well-documented. Studies 
+indicate that noise levels in restaurants directly affect consumer 
+* Corresponding author at: College of Horticulture and Landscape Architecture, Yangzhou University, 88 South University Avenue, Yangzhou 225009, China.
+E-mail addresses: mz120231534@stu.yzu.edu.cn (L. Zhou), yu_wenluo@yzu.edu.cn (W. Yu), qinwuxiang41@gmail.com (Y. Zhang), wenzhou0305@hotmail.com
+(W. Zhou), wutao@yzu.edu.cn (T. Wu). 
+Contents lists available at ScienceDirect
+Applied Acoustics
+journal homepage: www.elsevier.com/locate/apacoust
+https://doi.org/10.1016/j.apacoust.2025.111101
+Received 6 June 2025; Received in revised form 28 August 2025; Accepted 22 September 2025 
+Applied Acoustics 242 (2026) 111101 
+Available online 13 October 2025 
+0003-682X/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+spending behavior: at 52 dB(A), elevated anxiety levels lead to reduced 
+time spent dining and lower expenditure, while at 57 dB(A), this effect 
+becomes even more pronounced [8]. Conversely, positive soundscape 
+elements, such as well-curated background music, have been shown to 
+enhance consumer purchasing intent. For instance, research has found 
+that positive background music increases advertisement response rates 
+by 37 % compared to negative music [9], Additionally, the presence of 
+background music in shopping malls is significantly associated with an 
+increase in impulsive purchasing behavior [10].
+Crowd density, as a critical environmental variable, plays a pivotal 
+role in shaping economic behavior within commercial environments, 
+particularly in tourism, retail, and food consumption contexts. Studies 
+indicate that perceived crowding significantly impacts visitor satisfac­
+tion [11]. When social density increases, tourists tend to focus more on 
+the presence o
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study area
+This study selects Dongguan Street in Yangzhou as the research site, 
+primarily due to its vibrant commercial activity and its representative 
+characteristics as an urban commercial street. As one of the core com­
+mercial corridors in Yangzhou, Dongguan Street accommodates more 
+than 200 businesses, featuring a highly diverse commercial profile that 
+includes artisanal crafts, food and beverage services, fashion retail, and 
+well-established brands rooted in intangible cultural heritage [27]. 
+Furthermore, according to official reports from the Yangzhou Daily, 
+Dongguan Street received approximately 434,000 visitors during the 
+2025 May Day holiday alone, underscoring its exemplary status in terms 
+of commercial vitality and pedestrian density. These attributes make it a 
+suitable and ideal case for soundscape studies in urban commercial 
+environments [28].
+Based on a preliminary field investigation of dominant sound sources 
+in the area [29], five typical experimental zones (S1–S5) were identified 
+to assess acoustic and crowd-related interventions, as illustrated in Fig. 2
+and Fig. 3.
+2.2. Date collection
+To collect data on soundscape and crowd density, on-site question­
+naire surveys were conducted. The research was carried out from 
+September to November 2023, during weekdays between 9:00 AM and 
+11:00 AM and 2:00 PM and 4:00 PM, which are peak times for outdoor 
+activities. A sound level meter (BSWA308) was used to measure physical 
+sound indicators, and a wind heat detector (HDD32.3TC) was employed 
+Fig. 2. Basic layout of the Dongguan Street historic and cultural block, showing the locations of the five experimental zones.
+L. Zhou et al. 
+Applied Acoustics 242 (2026) 111101 
+3 
+
+Fig. 3. Surrounding environment and physical characteristics of each site.
+L. Zhou et al. 
+Applied Acoustics 242 (2026) 111101 
+4 
+
+to measure environmental factors such as wind and temperature [30]. 
+To capture crowd density, a 360◦panoramic camera (Insta360 ONE X2) 
+was used to record the entire experiment [31]. Each measurement point 
+was recorded for five minutes [32].
+During the experiment, the questionnaire survey and 360◦pano­
+ramic camera recording were conducted simultaneously. Upon 
+completing the questionnaire, a five-minute physical sound index 
+measurement was immediately performed. To ensure randomization, 
+passersby were selected every ten minutes for participation in the sur­
+vey. Additionally, a brief training session was conducted prior to the 
+survey to help participants understand the questionnaire items and 
+soundscape attributes, thereby minimizing observation bias.
+This study was conducted in strict accordance with established 
+standards for long-term audiovisual environmental monitoring [33], 
+protocols for soundscape data collection [32], and relevant ethical 
+guidelines. During fieldwork, conspicuous signage was displayed to 
+inform the public of the equipment in use and the experimental pro­
+cedures, thereby ensuring compliance with local legislation and insti­
+tutional ethical requirements.
+All data were anonymized throughout the processing stage and 
+securely deleted after the completion of the study. No identity recog­
+nition algorithms were applied, and the data were not used for any 
+commercial purposes. Microphones and cameras were employed 
+exclusively for academic research, with a primary emphasis on the 
+analysis of spatial crowd behavior.
+Visual data were processed using a pixel-grid approach to quantify 
+crowd density, with all facial features blurred to safeguard anonymity. 
+Audio data were restricted to environmental acoustic indicators (e.g., 
+LAeq), with speech and other potentially identifiable content systemati­
+cally excluded.
+At the start of each measurement session, the wind heat detector 
+(HDD32.3TC) was used to measure ambient temperature and wind 
+speed. The average ambient temperature was found to be 20.33 ◦C, with 
+an average wind speed of 0.54 m/s. No significant differences were 
+observed in the environmental conditions across the measurement 
+sessions.
+As summarized in Table 1, a total of 315 participants were included 
+in the study. Regarding age distribution, most of the participants were 
+between 18 and 30 years old. In terms of gender, the proportion of male 
+and female participants was approximately equal, although females 
+slightly outnumbered males by 13 %. Concerning educational 
+background, a large proportion of the respondents (81.3 %) had at least 
+a bachelor’s degree, indicating a highly educated sample. Regarding 
+residential identity, the majority of respondents (79.7 %) were tourists 
+or part of the floating population. In terms of economic status, a sig­
+nificant number of respondents (49.5 %) had no fixed income. Finally, 
+regarding travel budgets, the largest group of participants (31.7 %) re­
+ported a budget range of 1,000 (CNY) to 3,000 (CNY).
+2.3. Questionnaire design
+The questionnaire covered three aspects of perception (Appendix 
+A.1): demographic variables, soundscape perception [32], economic 
+behavior. The first section gathered demographic data, including age, 
+gender, education, identity, income, travel budget, and occupational 
+[34]. The second section employed a 5-point Likert scale to assess par­
+ticipants’ on-site soundscape perception [35], this included evaluations 
+of dominant sound source loudness, event frequency (the number of 
+occurrences in which an individual perceives a particular sound source), 
+preference, and overall soundscape quality. Perceptions of the overall 
+environment and sound expectations were also assessed. For instance, 
+the following scale was used to evaluate subjective loudness [36]: 1-very 
+soft, 2-soft, 3-neither soft nor loud, 4-loud, and 5-very loud. Soundscape 
+perceived affective quality was evaluated using an 8-item semantic 
+differential scale [23]: 1-pleasant, 2- annoying, 3-eventful, 4-uneventful, 
+5-chaotic, 6-calm, 7-vibrant, and 8-monotonous. The third sect
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1.
+Fig. 1. The foundational framework of this study.
+Fig. 2
+Fig. 3.
+Fig. 2. Basic layout of the Dongguan Street historic and cultural block, showing the locations of the five experimental zones.
+Fig. 3. Surrounding environment and physical characteristics of each site.
+Table 1, a total of 315 participants were included 
+Table 1 
+Fig. 4).
+Fig. 5). This method has been widely applied in urban visual density 
+Fig. 4. Crowd Plane Density (CPD) measurement, taking Site 3 as an Example: (a) Current situation photo, (b) the symbol extraction has been calculated.
+Fig. 6 presents the results of the Spearman 
+Fig. 5. Crowd Facade Density (CFD) measurement, taking Site 1 as an Example: (a) Current situation photo, (b) pixel grid extraction of human features.
+Fig. 6. Spearman’s rank correlation coefficients between physical acoustic in­
+Fig. 7. The analysis revealed that among all perceived 
+Table 2, the associations between psychoacoustic parameters and 
+Fig. 7. Spearman’s rank correlation coefficients between perceived affective 
+Fig. 8), revealed that the 
+Fig. 9, indicated that both CFD and 
+Table 3). Factor 1 (33.96 %) and Factor 3 (8.62 %) were associated 
+Table 2 
+Fig. 8. Spearman’s rank correlation coefficients between crowd density and 
+Table 4 presents the results of the categorical regression (CATREG) 
+Fig. 9. Relationships between the CFD, CPD4, and economic behavior, with the corresponding linear trend curves, coefficients of determination (R2), and signif­
+Table 3 

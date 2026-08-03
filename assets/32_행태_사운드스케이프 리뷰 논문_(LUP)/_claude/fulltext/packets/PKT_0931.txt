@@ -1,0 +1,212 @@
+### RECORD ID=931 | screening_verdict=INCLUDE | year=2023
+JOURNAL: LANDSCAPE AND URBAN PLANNING
+TITLE: Natural sounds can encourage social interactions in urban parks
+DOI: 10.1016/j.landurbplan.2023.104870
+PAGES: 14
+
+--- HEAD (title/abstract/intro) ---
+Landscape and Urban Planning 239 (2023) 104870
+Available online 25 August 2023
+0169-2046/© 2023 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Natural sounds can encourage social interactions in urban parks 
+Xiaochao Chen, Jian Kang * 
+Institute for Environmental Design and Engineering, The Bartlett, University College London, London WC1H 0NN, United Kingdom 
+H I G H L I G H T S 
+• Natural sounds increase about 10% of people engaging in social interactions. 
+• Natural sounds increase the frequency of group social interactions. 
+• Natural sounds increase the total duration of social interactions by about 10%. 
+• Natural sounds affect group interactions more than one-to-one interactions. 
+A R T I C L E I N F O 
+Keywords: 
+Urban parks 
+Sound environment 
+Sound interventions 
+Soundscape 
+Social interaction 
+A B S T R A C T 
+Urban parks play an essential role in hosting social activities and providing spaces for social interactions. Pre­
+vious studies have examined the effects of the sound environment on individuals, particularly in terms of 
+perception and behavior; however, few studies have investigated the impact of the sound environment on social 
+interactions in urban parks. In this study, an experiment was conducted involving sound interventions and covert 
+behavioral observations in a typical urban park activity space to determine whether different interventional 
+sounds influence social interaction behaviors. In this experiment, four sound intervention groups and a control 
+group were established and three variables describing the social interaction situation in the study area were 
+defined: proportion of people engaging in social interaction, frequency of social interaction, and percentage of 
+time spent on social interaction. These findings indicate that changes in the sound environment have a significant 
+impact on social interactions. The natural sound intervention was found to increase the proportion of people 
+engaged in social interactions and the frequency and time spent on social interactions. The positive effects of 
+natural sounds primarily promoted social interactions within groups. In addition, the noise interventions in this 
+experiment had no significant negative effects. These findings suggest that protecting and augmenting positive 
+sounds are sometimes more important than noise control and that design strategies that focus on the sound 
+environment could facilitate social interactions in urban park spaces and long-term social cohesion. 
+1. Introduction 
+Urban parks represent a key component of the green infrastructure of 
+cities and are essential for ensuring the sustainability of urban envi­
+ronments (Chiesura, 2004), particularly in terms of providing ecosystem 
+services, mitigating the negative effects of climate change, and pro­
+moting public health (Toth, 2003; Wolch, Byrne, & Newell, 2014). 
+Numerous studies have found that urban parks provide residents with a 
+wide range of benefits, which include contributing to physical and 
+mental health (Han, Cohen, & McKenzie, 2013; Sturm & Cohen, 2014) 
+and encouraging social interactions (Maas, van Dillen, Verheij, & 
+Groenewegen, 2009). Among the characteristics that a well-designed 
+urban park should possess, a high-quality sound environment is essen­
+tial because environmental and mechanical noise can diminish the 
+positive impacts of parks on citizens (Nilsson & Berglund, 2006). 
+Previous studies have focused on assessing the quality of the sound 
+environment in urban parks (Brambilla, Gallo, Asdrubali, & D’Alessan­
+dro, 2013; Nilsson & Berglund, 2006) and the impact of different sounds 
+on people (Axelsson, Nilsson, Hellstr¨om, & Lund´en, 2014; Fuda, Aletta, 
+Kang, & Astolfi, 2015). In consideration of the relationship of physio­
+logical, psychological, and social factors to the soundscape in urban 
+open public spaces, Kang and Zhang (2010) identified four major 
+soundscape factors: relaxation, communication, spatiality, and dy­
+namics. Growing evidence has shown that the park visitor experience is 
+* Corresponding author at: Institute for Environmental Design and Engineering, The Bartlett, University College London, London WC1H 0NN, United Kingdom. 
+E-mail addresses: xiaochao.chen.20@ucl.ac.uk (X. Chen), j.kang@ucl.ac.uk (J. Kang). 
+Contents lists available at ScienceDirect 
+Landscape and Urban Planning 
+journal homepage: www.elsevier.com/locate/landurbplan 
+https://doi.org/10.1016/j.landurbplan.2023.104870 
+Received 21 February 2023; Received in revised form 14 August 2023; Accepted 18 August 2023 
+
+Landscape and Urban Planning 239 (2023) 104870
+2
+influenced by the quality of the soundscape (Liu, Xiong, Wang, & Luo, 
+2018; Tse et al., 2012) and that some natural sounds have beneficial 
+effects on people, for example, in terms of mood recovery and perceived 
+level of mental restoration (Benfield, Taff, Newman, & Smyth, 2014; 
+Zhu, Gao, Zhao, & Ge, 2020). These studies focused primarily on the 
+effects of sound on people’s subjective evaluations and perceptions at 
+the individual level. 
+The auditory system is an important sensory system for mammals 
+and many other animal species; it receives and processes sound infor­
+mation and thereby influences behavior (Richardson, Greene Jr, Malme, 
+& Thomson, 2013). Research has shown that sound influences various 
+aspects of human behavior (Forns et al., 2016; Young Hong & Yong 
+Jeon, 2020). In recent years, investigations have focused on the influ­
+ence of sound on people’s behavior in urban parks and public spaces. 
+Meng and Kang (2016) investigated how park visitors’ behavior is 
+affected by sound-related activities and discovered that when music and 
+activities are simultaneously present, people are significantly more 
+likely to be attracted to the area. An experimental study conducted by 
+Aletta et al. (2016) found that the presence of background music pro­
+longs the averag
+
+--- METHODS/RESULTS EXCERPT ---
+Methods of noise elimination that simply reduce sound levels do not 
+always show improvements for quality of life (Aletta & Kang, 2019; 
+Kang, 2017). Compared with such noise control approaches, the 
+soundscape approach considers environmental sound as a resource and 
+explores the positive effects of sound rather than just reducing the vol­
+ume of unwanted sound (Kang et al., 2016; Kang & Schulte-Fortkamp, 
+2016). The addition of pleasant sounds to a public space not only 
+masks unwanted sounds but can also enhance the existing soundscape 
+(Van Renterghem et al., 2020). A number of studies in urban parks and 
+public spaces have examined the positive effects of interventional 
+sounds on people’s perceptions (Van Renterghem et al., 2020; Yang & 
+Kang, 2005), with several exploring how human behavior can be 
+changed through soundscape interventions (Aletta et al., 2016; Lavia, 
+Dixon, Witchel, & Goldsmith, 2016; Steele, Bild, Tarlao, & Guastavino, 
+2019). Meanwhile, some studies have found that person-related vari­
+ables such as age, gender, personality traits, and participation, or a lack 
+of such, in social interactions can influence individuals’ evaluation of 
+soundscapes (Steffens, Steele, & Guastavino, 2017; Tarlao, Steffens, & 
+Guastavino, 2021). In consequence, a cycle of positive feedback is made 
+possible, in that once individuals perceive changes in the sound envi­
+ronment, this can interact with specific personal factors, which subse­
+quently influences their evaluation of the overall soundscape. Although 
+the potential connection between the acoustic environment and social 
+interactions might be recognized, the existing literature has not 
+adequately studied the impact of different sound sources on social in­
+teractions in parks. 
+Social interaction is a fundamental aspect of human behavior 
+because humans are a highly social species with complex social char­
+acteristics (Adolphs, 2003). There is substantial evidence that social 
+interactions are essential to human well-being and are strongly corre­
+lated with human health (Cohen, Gottlieb, & Underwood, 2001; 
+Umberson, Crosnoe, & Reczek, 2010). In addition, interest in promoting 
+social interactions is growing (Matsuoka & Kaplan, 2008; Peters et al., 
+2010). Many sound-related studies have explored the effects of the 
+sound environment on various aspects of human experience, but there 
+has been little research on its impact on social behavior. Thus, the effect 
+of acoustic environments on social interaction behaviors is a valid 
+subject of investigation. Given the significance of urban parks as sites of 
+social interaction, this study aimed to investigate whether sound in­
+terventions alter the social behavior of individuals in urban parks. 
+The following research questions were addressed by conducting on- 
+site interventional soundscape experiments in urban parks. Do inter­
+ventional sounds change a) the proportion of people engaging in social 
+interactions, b) the frequency of social interactions between individuals, 
+and c) the duration of social interactions between individuals? Specif­
+ically, the interventional sounds deployed in the experiment consisted 
+on the one hand, of environmental noise, and on the other hand, of 
+natural sounds typical of urban parks. Accordingly, this study deter­
+mined whether natural sounds facilitate people’s social interactions in 
+urban parks and whether noise inhibits such interactions. 
+2. Methods 
+The sound intervention experiment was conducted in Tieren Park, 
+Daqing, China. Using loudspeakers, the experiment altered the site’s 
+acoustic environment by introducing interventional sounds. Remote 
+behavioral observations were conducted by using hidden cameras to 
+record the actual responses of park visitors to different sound conditions. 
+The participants’ behavior was observed and coded based on these video 
+recordings, and the resulting data were analyzed to determine whether 
+the sound environment influences social interactions. 
+2.1. Study area and participants 
+The selection of our experimental site was primarily based on two 
+considerations: the feasibility of conducting sound intervention experi­
+ments and the representativeness of the location. In terms of feasibility, 
+we took into account the size of the site and its acoustic environment. As 
+for representativeness, we chose an urban park activity space that is 
+surrounded by greenery and used by a diverse range of people. While it 
+may not represent all park spaces, it is a common type of activity space 
+in urban environments. As a result, a rectangular recreational area 
+(approximately 30 m wide and 35 m long, with central coordinates of 
+46◦36′42.1′’N, 124◦52′45.6′’E) in the southwest corner of Tieren Park 
+was selected as the experimental site (Fig. 1). Given the diverse land uses 
+surrounding the site, including residential, commercial, and office 
+space, and based on preliminary observations during our site survey, we 
+discovered that the users of the site represent a range of ages and 
+different occupations. The participants in our study were adults, and all 
+were treated equitably in the course of the experiment. Their social 
+behaviors over a period of time reflected the possibilities for social 
+interaction afforded by the site. To limit to a minimum the study’s 
+interference with the participants’ behavior on the site, we did not 
+directly interact with them; this, unfortunately, constrained our ability 
+to gather detailed information on all participants. The site included a 
+central soft play area for children and outdoor gym equipment and 
+benches at the perimeter. According to a preliminary survey, the site had 
+a stable acoustic environment. 
+2.2. Interventional sound files 
+Four sounds were selected as the intervention sounds for this 
+experiment. Of these, two were natural sounds, namely, bird song and 
+the sound of water; and two were artificial sounds, namely, traffic noise 
+and construction noise. To avoid the
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). Given the diverse land uses 
+Fig. 2. The 
+Fig. 1. Location of Tieren Park and the area of the experiment (Daqing, Heilongjiang Province, China). 
+Fig. 2. Spectrograms of the interventional sounds in this experiment (50 ms time resolution, 50% overlap, 48.0 kHz sample frequency, 24 bits). 
+Fig. 3 shows the frequency responses of all 
+Fig. 4, the loudspeakers were placed mainly on the grass around the 
+Fig. 4). The small, portable video recorders (M980, 93 × 36 × 15 mm, 
+Fig. 4, 
+Fig. 5 indicate a relatively uni­
+Fig. 5. a). The 
+Fig. 5. b). 
+Fig. 5, 
+Fig. 5. c, d, e, f). 
+Fig. 3. Frequency response of loudspeakers. 
+Fig. 6 presents the sound pressure levels in the experimental area for 
+Fig. 6, the overall mean sound pressure level 
+Fig. 4. Plan and panorama photo of the study area. 
+Fig. 7 shows a 30 min period of recorded 
+Fig. 8 de­
+Table 1). Recording involved 
+Fig. 5. Sound environment characteristics of the study area in quiet and white noise conditions, and in four types of interventional sound conditions. 
+Table 2 reports the number of video excerpts, the 
+Fig. 6. Sound pressure level (SPL) during the experiment in the five comparison groups. 
+Fig. 7. Example of a behavioral recording (with the mixed bird song sound intervention, 30 min). 
+Table 3). 

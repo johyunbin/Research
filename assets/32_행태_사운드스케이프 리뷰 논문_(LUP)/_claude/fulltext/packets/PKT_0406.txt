@@ -1,0 +1,234 @@
+### RECORD ID=406 | screening_verdict=INCLUDE | year=2017
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Effect of temporary open-air markets on the sound environment and acoustic perception based on the crowd density characteristics
+DOI: 10.1016/j.scitotenv.2017.06.017
+PAGES: 8
+
+--- HEAD (title/abstract/intro) ---
+Effect of temporary open-air markets on the sound environment and
+acoustic perception based on the crowd density characteristics
+Qi Meng a,b, Yang Sun a, Jian Kang a,b,⁎
+a Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology, Harbin 150001, China
+b School of Architecture, University of Shefﬁeld, Western Bank, Shefﬁeld S10 2TN, UK
+H I G H L I G H T S
+• Sound environment can be changed by
+temporary open-air markets planning.
+• Acoustic perception can be affected by
+temporary open-air markets zoning.
+• Acoustic comfort can be improved by
+temporary open-air markets zoning.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 28 April 2017
+Received in revised form 31 May 2017
+Accepted 2 June 2017
+Available online 9 June 2017
+Editor: D. Barcelo
+The sound environment and acoustic perception of open-air markets, which are very common in high-density
+urban open spaces, play important roles in terms of the urban soundscape. Based on objective and subjective
+measurements of a typical temporary open-air market in Harbin city, China, the effects of the temporary open-
+air market on the sound environment and acoustic perception were studied, considering different crowd densi-
+ties. It was observed that a temporary open-air market without zoning increases the sound pressure level and
+subjective loudness by 2.4 dBA and 0.21 dBA, respectively, compared to the absence of a temporary market. Dif-
+ferent from the sound pressure level and subjective loudness, the relationship between crowd density and the
+perceived acoustic comfort is parabolic. Regarding the effect of a temporary open-air market with different
+zones on the sound environment and acoustic perception, when the crowd densities were the same, subjective
+loudness in the fruit and vegetable sales area was always higher than in the food sales area and the clothing
+sales area. In terms of acoustic comfort, with an increase in crowd density, acoustic comfort in the fruit and veg-
+etable sales area decreased, and acoustic comfort in the food sales area and the clothing sales area exhibited a par-
+abolic change trend of increase followed by decrease. Overall, acoustic comfort can be effectively improved by
+better planning temporary open-air markets in high-density urban open spaces.
+© 2017 Elsevier B.V. All rights reserved.
+Keywords:
+Temporary open-air market
+Crowd density
+Acoustic perception
+Sound pressure level
+Acoustic comfort
+1. Introduction
+“Temporary open-air markets” refers to a business type that is pres-
+ent in public spaces, such as streets, squares, or speciﬁc buildings, during
+a certain time period under effective control (Tangires, 2008). Such
+Science of the Total Environment 601–602 (2017) 1488–1495
+⁎ Corresponding author at: School of Architecture, Harbin Institute of Technology,
+Harbin 150001, China; School of Architecture, University of Shefﬁeld, Western Bank,
+Shefﬁeld S10 2TN, UK.
+E-mail addresses: j.kang@hit.edu.cn, j.kang@shefﬁeld.ac.uk (J. Kang).
+http://dx.doi.org/10.1016/j.scitotenv.2017.06.017
+0048-9697/© 2017 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+markets have a long history in time. Their earliest recorded appearance
+can be traced back to the sixth century BC (Hsieh and Chang, 2006). In
+high-density cities in Asian countries such as China and Japan, tempo-
+rary open-air markets are common: nearly every 10 blocks has (or
+once had) a temporary open-air market (Suminski et al., 2008). Studies
+indicate that 75% of all residents in these countries visit a temporary
+open-air market weekly (Susskind and Chan, 2000). Temporary open-
+air markets are also places where tourists can experience a local area's
+characteristic cultural life (Zakariya, 2010, 2011a, 2011b). However, be-
+cause of negligent management, the perception by nearby residents of
+the sound environment of temporary open-air markets is not ideal
+(Carles et al., 1999; Guéguen et al., 2007). Therefore, how to improve
+the sound environment in temporary open-air markets has become an
+issue that must be addressed by urban planners and the government.
+The sound environment and acoustic perception in urban open
+spaces exhibit typical and variant features. For example, studies have
+demonstrated that the chirping of birds, church bells, the sound of run-
+ning water, and the joyful shouts of children are sounds that people
+enjoy hearing in squares with recreational functions. In squares with
+commercial functions, the sound of music being played outdoors and in-
+side shops is appreciated (Kang, 2007). Bruce and Davies (2011) dem-
+onstrated that the function of the soundscapes of religious spaces,
+commercial spaces, distribution spaces, and trafﬁc spaces in historical
+districts exhibits clear differences. In commercial spaces, the design of
+the sound environment plays an important role in the creation of a com-
+mercial atmosphere (So and Kimura, 1998; Hao et al., 2015). In addition,
+background music in shopping spaces effectively increases the acoustic
+comfort of shoppers. In contrast, the sound of hawkers promoting their
+wares decreases acoustic comfort (Song et al., 2011). Meng and Kang
+(2015) found that human acoustic comfort is associated with the type
+of sound source. The acoustic comfort created by natural sounds is the
+most preferable, whereas the acoustic comfort of trafﬁc sounds and me-
+chanical sounds is the least preferable. Several researchers have begun
+to utilise the typicality and variance of sound sources in soundscape de-
+sign (Song and Ma, 2012; Song et al., 2012). Different from general
+urban open spaces, temporary open-air markets are characterised by
+temporariness (Pottiesherman, 2013) and cannot exist independently.
+They are the product of human behavioural activity (Zakariya, 2010,
+2011a, 2011b; Mohamad et al., 2015). Therefore, stu
+
+--- METHODS/RESULTS EXCERPT ---
+Method
+The study methods included selection of a survey site, crowd density
+measurement,
+a
+questionnaire-based
+survey,
+and
+sound-level
+measurement.
+2.1. Survey site
+A typical temporary open-air market on Wenxing Street in Harbin,
+China, was selected as the survey site (Fig. 1). The decision to study
+this location was based on the following 3 reasons. First, the mean
+height-to-width ratio of the street on which the market was located is
+3:1; which is typical for high-density cities (Shan, 2008; Ng et al.,
+2011). Next, the temporary open-air market had a large scale and a
+long history. Therefore, a large number of local residents as well as do-
+mestic and international tourists visit the market. Thus, the market pro-
+vides convenient conditions in which to study the sound environment
+and acoustic perception under different crowd densities. Finally, the
+market's business model (i.e., its scale and format) resembles that of
+markets encountered in Europe and Japan (Zakariya, 2010) and thus
+has typicality. Booths in this market are distributed on both sides of
+the road. The market operates Saturday to Wednesday from 17:00–
+22:00. The market's width is approximately 10 m, and its total length
+is approximately 600 m. Previous studies indicate that any area of a
+market within 25–35 m of a road might be affected by trafﬁc noise
+(Meng and Kang, 2015). In addition, areas close (i.e., 10–15 m) to the
+end of the road on which the market is located experience highly unsta-
+ble crowd-ﬂow changes (Raimbault and Dubois, 2005; Yu and Kang,
+2006). Therefore, both ends of the road on which the study object was
+located, which were 35 m from road trafﬁc, were not included in the
+measurement range.
+Prior to August 2016, this temporary open-air market primarily sold
+fruits and vegetables, other food, and clothing. The other food items
+primarily consisted of specialty snacks and drinks as well as groceries
+(Fig. 1a). These 3 categories accounted for 96% of the market's business
+(Sun et al., 2017). The booth types were randomly distributed through-
+out the market. However, in August 2016, to facilitate improved man-
+agement, the market management authority divided the market into 3
+independent zones (Fig. 1b): a fruit and vegetable sales area, a food
+sales area, and a clothing sales area. The booth distribution was not
+changed with zoning and is shown in Fig. 1c. Therefore, to study the ef-
+fects of the temporary open-air market on the sound environment and
+sound-source perception, measurements were performed twice: once
+before and once after the market was zoned.
+Studies indicate that environmental changes, such as changes in
+temperature and humidity, inﬂuence subjective acoustic perception
+(Thwaites et al., 2005; Val et al., 2006). To avoid the effects of these en-
+vironmental factors, measurements were performed in July and
+1489
+Q. Meng et al. / Science of the Total Environment 601–602 (2017) 1488–1495
+
+September 2016. The mean monthly temperatures and relative humid-
+ity of these months are approximately the same. To avoid the effects on
+the environment of the time of day, measurements were performed
+from 17:00–18:00 daily for 1 continuous month (Liu et al., 2013). The
+conditions that prevailed when the temporary open-air market was in
+operation were measured from Monday to Wednesday. The conditions
+that prevailed when the market was closed were measured from Thurs-
+day to Friday.
+Some previous studies have indicated that the differences in behav-
+ioural characteristics may also inﬂuence the sound environment and
+users' acoustic perception in urban open spaces (Aletta et al., 2016;
+Meng and Kang, 2016). A pilot study of temporary open-air markets
+suggested that, although the proportions of behaviours, such as shop-
+ping, passing by, standing by, and talking to others, vary in different
+market zonings, they are generally not changed with crowd density
+(Li and Meng, 2015). Therefore, the differences in behavioural charac-
+teristics were not considered in this study.
+2.2. Measurement of crowd density
+To study the effect of a crowd on the sound environment and acous-
+tic perception in the temporary open-air market, crowd density was
+measured using a photography method (Oakes and North, 2008).
+Study areas of 40 m × 10 m in the 3 zones were used to measure the
+temporary open-air market both prior to zoning and after zoning was
+instituted. To avoid interference among the areas, the distance between
+them was at least 80 m (Yu and Kang, 2008). Photos were taken from an
+elevated position at each of the areas (Fig. 2). One photograph was
+taken every 30 s for a continuous 5 min (Westover, 1989; Meng and
+Kang, 2015). In the laboratory, the locations of the pedestrians who ap-
+peared in each picture were labelled with round dots, and a 5 m × 5 m
+grid was used to calculate the mean value of the total number of individ-
+uals in the photographed area within a 5-min period. This value was di-
+vided by the measurement area to obtain a mean value of the crowd
+density as the average number of persons per square metre. The unit
+was person/m2 (Zhang et al., 2016; Yu and Kang, 2017).
+2.3. Questionnaire survey
+For acoustic perception in urban open spaces, subjective loudness
+and acoustic comfort are two important evaluation indicators
+(Chartier and Semidor, 2005; Kang and Zhang, 2010). The sound prefer-
+ence is typically used to explain the differences among these subjective
+feelings (Ren et al., 2016). Therefore, this study used the questionnaire
+survey method to establish the subjective loudness, acoustic comfort,
+and sound preferences of individuals in the survey locations. Individuals
+in the measurement areas were randomly selected to complete the
+questionnaire. In the questionnaire, respondents were ﬁrst asked to
+list at least three of the sounds they heard and then to evaluate their
+preferences regarding the three sound sources using the following
+Fig. 1. The basic information about the case site: (a) market without zoning; (b) 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). The decision to study
+Fig. 1a). These 3 categories accounted for 96% of the market's business
+Fig. 1b): a fruit and vegetable sales area, a food
+Fig. 1c. Therefore, to study the ef-
+Fig. 2). One photograph was
+Fig. 1. The basic information about the case site: (a) market without zoning; (b) market with zoning; (c) the basic information about booth.
+Fig. 3). The results indicated that
+Fig. 4). When the crowd
+Fig. 5. When the market was absent,
+Fig. 2. Crowd density measurement, using the survey area as an example.
+Fig. 3. Relationships between the crowd density and the measured sound pressure level at
+Fig. 6. The sound
+Fig. 7. In the fruit and vegetable sales area, the re-
+Fig. 8.
+Fig. 3, when the crowd density increased from 0 to
+Fig. 4. Relationships between the crowd density and the subjective loudness at the case
+Fig. 5. Relationships between the crowd density and the acoustic comfort at the case site
+Fig. 3, a possible reason
+Fig. 9, with an increase in
+Fig. 4), and a temporary open-air market with
+Fig. 9) shows that the subjective loudness in the
+Fig. 6. Relationships between the crowd density and the sound perception at the case site.
+Fig. 7. Sound preference at the case site.
+Fig. 8. Relationships between the crowd density and the measured sound pressure level in
+Fig. 10. In the fruit and vegetable sales area, when the crowd density

@@ -1,0 +1,198 @@
+### RECORD ID=461 | screening_verdict=INCLUDE | year=2018
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed
+DOI: 10.3390/ijerph15040752
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Effect of Trafﬁc Noise and Relaxations Sounds on
+Pedestrian Walking Speed
+Marek Franˇek * ID , Lukáš Režný ID , Denis Šefara and Jiˇrí Cabal
+Faculty of Informatics and Management, University of Hradec Králové, Rokitanského 62,
+500 03 Hradec Králové, Czech Republic; lukas.rezny@uhk.cz (L.R.); denis.sefara@uhk.cz (D.Š.);
+jiri.cabal@uhk.cz (J.C.)
+* Correspondence: marek.franek@uhk.cz; Tel.: +420-49-333-2374
+Received: 7 February 2018; Accepted: 12 April 2018; Published: 14 April 2018
+
+
+Abstract: Exposure to noise in everyday urban life is considered to be an environmental stressor.
+A speciﬁc outcome of reactions to environmental stress is a fast pace of life that also includes a
+faster pedestrian walking speed. The present study examined the effect of listening to annoying
+acoustical stimuli (trafﬁc noise) compared with relaxation sounds (forest birdsong) on walking speed
+in a real outdoor urban environment. The participants (N = 83) walked along an urban route of
+1.8 km. They listened to either trafﬁc noise or forest birdsong, or they walked without listening to
+any acoustical stimuli in the control condition. The results showed that participants listening to
+trafﬁc noise walked signiﬁcantly faster on the route than both the participants listening to forest
+birdsong sounds and the participants in the control condition. Participants who listened to forest
+birdsong walked slightly slower than those under control conditions; however, this difference was
+not signiﬁcant. Analysis of the walk experience showed that participants who listened to forest
+birdsong during the walk liked the route more than those who listened to trafﬁc sounds. The study
+demonstrated that exposure to trafﬁc noise led to an immediate increase in walking speed. It was also
+shown that exposure to noise may inﬂuence participants’ perception of an environment. The same
+environment may be more liked in the absence of noise or in the presence of relaxation sounds.
+The study also documented the positive effect of listening to various kinds of relaxation sounds while
+walking in an outdoor environment with trafﬁc noise.
+Keywords: noise exposure; walking speed; stress; relaxation; urban nature
+1. Introduction
+The negative health consequences of noise exposure have been studied frequently [1–5].
+The non-auditory effects of noise on humans have been intensively studied in the last four
+decades.
+These effects include noise annoyance, and are linked with various psychological
+symptoms (headaches, argumentativeness, changes in mood and anxiety). They also impair cognitive
+performance. Moreover, chronic exposure to noise can cause sleep disturbance or cardiovascular
+diseases (e.g., Basner et al. [6]. Seidman and Standring [7], Stansfeld and Matheson [8]). Exposure
+to noise in everyday urban life is considered an environmental stressor [9]. One speciﬁc reaction to
+environmental stress is a fast pace of life, which was deﬁned several decades ago by Werner, Altman,
+and Oxley ([10], p. 14) to be the “relative rapidity or density of experiences, meanings, perceptions
+and activities”. Researchers have analyzed the temporal aspects of various urban behaviors and
+have calculated a value that expresses an overall pace of life. A fast pace of life also includes a
+faster pedestrian walking speed, which may be a response to stimulatory overload and various urban
+stressors, including crowding and trafﬁc noise [11]. Some studies showed that people walk faster in
+large cities compared with smaller towns [12]. A more detailed analysis showed that people tend
+Int. J. Environ. Res. Public Health 2018, 15, 752 ; doi:10.3390/ijerph15040752
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2018, 15, 752
+2 of 13
+to walk faster in urban streets with dense trafﬁc and trafﬁc noise [13] compared with calmer streets.
+This suggests that the fast pedestrian walking pace may be a spontaneous reaction to trafﬁc noise.
+The present study examined the effect on walking speed of listening to annoying acoustical stimuli
+(trafﬁc noise) compared to relaxation sounds (forest birdsong) in a real outdoor environment.
+Investigations of pedestrian walking speed documented the phenomenon of a fast pedestrian
+speed in main downtown areas, as well as the negative health consequences of the fast pace of life in
+large cities. A pioneering study by Bornstein and Bornstein [11] reported high positive correlations
+between the walking speed of pedestrians and the size of the city. This ﬁnding repeatedly was
+supported in subsequent studies [14,15]. There is also evidence that the faster pace of life in large cities
+is associated with a greater likelihood of heart attacks (e.g., Levine and Norenzayan [12], Levine and
+Bartlett [16]). Levine, Lynch, and Lucia [17] interpreted movement speed and the speed of other daily
+activities as being parallel to Type A behavior patterns (which are a potential risk factor for heart
+disease) and even suggested using the term “Type A city”. More recently, Wiseman [18] compared
+the walking speeds of the inhabitants of 32 capital cities. Surprisingly, the walking speed in large
+cities increased by approximately 10% when compared with previous data found by Levine and
+Norenzayan [12] in the early 1990s. Thus, a fast pace of life in today’s cities, one of whose symptoms is
+a faster walking speed, could represent a potential risk factor that may negatively affect the well-being
+and health of city dwellers.
+Although some authors suggested (e.g., Bornstein and Bornstein [11]) that trafﬁc noise may be one
+factor that inﬂuences walking speed, this proposition has not been tested adequately. In our previous
+studies, we examined the effects of the visual and acoustical environmental features of surrounding
+environments on walking speed [13,19,20]. It was observed that participants walked faster in areas
+without urban greenery and with more trafﬁc, higher noise, and
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Ethics Statement
+Ethical approval (1/2017 FIM KM) was obtained from the Department of Management at the
+University of Hradec Králové for the experiment. All of the participants provided written informed
+consent. The participants signed a consent declaration in which they declared that they voluntarily
+agreed to participate in the experiment, and that they were informed about the experimental procedure.
+They could decide to stop being a part of the research study at any time without explanation.
+There were no known risks for participants in this study. The collected data will be anonymized,
+and used for the research purposes only.
+2.2. Participants
+Eighty-three undergraduates participated in the study. The students were young adults aged
+from 19 to 25 years (M age = 21.36 years, SD = 1.48); 48 were men and 35 were women. They were
+recruited from a range of ﬁelds of study (informatics, ﬁnancial management, and tourism) at the
+University of Hradec Králové. They were compensated by partial course credit. Participants walked
+under three conditions: forest birdsong, trafﬁc noise, and a control condition without hearing any
+(surrogate) sound. Each participant did only one condition.
+
+Int. J. Environ. Res. Public Health 2018, 15, 752
+4 of 13
+2.3. Stimulus Material
+There were two conditions with diverse sounds; the participants did not listen to any sound under
+the control condition. A track with relaxation sounds or a track with trafﬁc noise was selected as the
+acoustical stimuli. The soundtrack from the video “Forest Birdsong—Relaxing Nature Sounds—Birds
+Chirping”, which is available on YouTube (https://www.youtube.com/watch?v=Qm846KdZN_c),
+was selected as the relaxation sound. The track consists of the sound of birds singing (Nightingale,
+Blackbird, Chafﬁnch, Cuckoo, and others), and a calm forest river. The soundtrack from the video
+“Hectic Kolkata (Calcutta)—India”, which is also available on YouTube (https://www.youtube.com/
+watch?v=IFc2KhKLiho), was selected as the trafﬁc noise. The track contains trafﬁc noise and noise
+from motorized vehicles, engine sounds, intense automobile horns, and human voices. The second
+track had to be modiﬁed because of its short length (9 min and 40 s), which did not correspond with
+the length of the participants’ walk. The track was modiﬁed using the software Audacity to have
+the length of 38 min by repeating it four times in succession. The sound levels of the tracks were
+adjusted to a comfortable level, and did not differ between participants. The mean sound pressure
+level was: crowded city noise—53 dBA, forest birdsong—56 dBA (the magnitude of the mean sound
+pressure level reﬂects the higher differences between the sound levels of a calm river and the birdsong).
+Participants listened to the tracks, which were played on a Nokia Lumia 520 (Nokia, Helsinky, Finland)
+with a Windows Phone 8.1 operating system, using the Nokia Music application, version 3.10.822.0
+(Nokia, Helsinky, Finland).
+The sounds were listened to through lightweight Genius HS-M200C headphones (KYE Systems
+Corporation, New Taipei City, Taiwan). For safety reasons, the headphones did not entirely mask
+sounds from the outside. Participants assigned to the control condition did not wear headphones
+while walking. Trafﬁc noise in sections 1–4 of the walking route (Table 1) was about Lday = 55–60 dBA,
+and the trafﬁc noise in sections 5–7 was about Lday = 50–55 dBA [46].
+Table 1. Walking route. The description of particular sections where walking speed was measured.
+For additional route details, see https://maps.google.com, location: Hradec Kralove, Czech Republic,
+Orlicke nabrezi.
+Section
+Length (m)
+Environmental Layout
+Street
+1
+60
+grass, trees, buildings, trafﬁc,
+Brno Street—Technical High School
+2
+55
+grass, trees, buildings, trafﬁc
+Brno Street—Business High School
+3
+100
+grass, trees, trafﬁc,
+Brno Street—Business Center
+4
+100
+grass, trees, trafﬁc
+Brno Street—Botanical Garden
+5
+60
+dense oak alley, no trafﬁc
+Brno Street—Malšovická Street
+6
+75
+dense oak alley, no trafﬁc
+Flošna—tree alley
+7
+90
+dense oak alley, no trafﬁc
+Flošna—parking
+The participants were randomly assigned to a speciﬁc condition. The experiment was divided
+into one-hour blocks. Gender and the condition were balanced over each block in order to prevent
+effects of immediate changes of atmospheric conditions or trafﬁc density. There were 17 males and
+14 females in the forest birdsong condition. In the trafﬁc noise condition, there were 14 males and
+12 females, and in the control condition, there were 17 males and 9 females.
+2.4. Walking Route
+The experiment was conducted in the central area of Hradec Králové. This city has approximately
+100,000 inhabitants. The walking route was a circuit with a length of 1.8 km. The ﬁrst part of the
+route was a street with driving cars; the second part was a dense oak alley that led out into a noisy
+street with trafﬁc. The walking route was situated to the area, where there were very few pedestrians
+walking. Thus, the movement of other pedestrians did not signiﬁcantly affect the walking speed of the
+participants in the experiment. We chose seven sections for the analysis of walking speed (Table 1).
+
+Int. J. Environ. Res. Public Health 2018, 15, 752
+5 of 13
+The sections were chosen to provide a direct route and avoid crossing crossroads or other obstacles.
+The participants ﬁrst moved from the university building to the starting point, which was about 300 m
+from the building. When they reached the end of section 7, they returned back and went along the
+same route in the opposite direction.
+2.5. Measurement of Walking Speed
+The participants walked with a small video camera Sony Bloggie MHS-PM5K (Sony, Tokyo, Japan)
+on a belt around their waist (size 19 mm × 108 mm × 55 mm, weight 110 g). The environment, the
+participant’s feet, and the participant’s arms were captured through a ﬁsh eye lens. The beginning and
+end of each section of the route was indicated by a line that was drawn on the side
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1) was about Lday = 55–60 dBA,
+Table 1. Walking route. The description of particular sections where walking speed was measured.
+Table 1).
+Figure 1). Differences between reported evaluations of
+Figure 1. Average walking speeds (m/s) in particular groups of sections of the route. (a) The direction
+Table 2.
+Table 2. The average walking speeds (m/s) in speciﬁc sections of the route for the two experimental
+Table 3. It was examined how the agreement with the
+Table 3. Evaluation of the walk experience. The level of agreement with particular items. The scale

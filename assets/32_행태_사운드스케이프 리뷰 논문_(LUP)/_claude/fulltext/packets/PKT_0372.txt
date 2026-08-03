@@ -1,0 +1,179 @@
+### RECORD ID=372 | screening_verdict=INCLUDE | year=2016
+JOURNAL: INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH
+TITLE: The Role of Soundscape in Nature-Based Rehabilitation: A Patient Perspective
+DOI: 10.3390/ijerph13121229
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+The Role of Soundscape in Nature-Based
+Rehabilitation: A Patient Perspective
+Gunnar Cerwén 1,*, Eja Pedersen 2 and Anna María Pálsdóttir 3
+1
+Department of Landscape Architecture, Planning and Management, Swedish University of Agricultural
+Sciences, SLU, SE-230 53 Alnarp, Sweden
+2
+Environmental Psychology, Department of Architecture and Built Environment, LTH, Lund University,
+SE-221 00 Lund, Sweden; eja.pedersen@arkitektur.lth.se
+3
+Department of Work Science, Business Economics and Environmental Psychology, Swedish University of
+Agricultural Sciences, SLU, SE-230 53 Alnarp, Sweden; anna.maria.palsdottir@slu.se
+*
+Correspondence: gunnar.cerwen@slu.se; Tel.: +46-40-415-538
+Academic Editors: William C. Sullivan and Chun-Yen Chang
+Received: 29 September 2016; Accepted: 1 December 2016; Published: 11 December 2016
+Abstract: Nature-based rehabilitation (NBR) has convincing support in research, yet the underlying
+mechanisms are not fully understood. The present study sought to increase understanding of the role
+of soundscapes in NBR, an aspect paid little attention thus far. Transcribed interviews with 59 patients
+suffering from stress-related mental disorders and undergoing a 12-week therapy programme in
+the rehabilitation garden in Alnarp, Sweden, were analysed using Interpretative Phenomenology
+Analysis (IPA). Described sounds were categorised as natural, technological or human. The results
+showed that patients frequently referred to natural sounds as being part of a pleasant and “quiet”
+experience that supported recovery and induced “soft fascination”. Technological sounds were
+experienced as disturbing, while perception of human sounds varied depending on loudness and
+the social context. The study further uncovered how sound inﬂuenced patients’ behaviour and
+experiences in the garden, through examination of three cross-theme dimensions that materialised in
+the study; sound in relation to overall perception, sound in relation to garden usage, and increased
+susceptibility to sound. The ﬁndings are discussed in relation to NBR; the need for a more nuanced
+understanding of susceptibility to sound among people suffering from mental fatigue was identiﬁed
+and design considerations for future rehabilitation gardens were formulated.
+Keywords:
+garden therapy; soundscape; design; health; mental restoration; nature-based
+rehabilitation; soft fascination; horticulture therapy; therapeutic landscape
+1. Introduction
+1.1. Soundscape Research
+Research on soundscapes—as in the study of the experience of the acoustic environment [1,2]—
+was ﬁrst initiated in the late 1960s [3,4]. In recent years, there have been substantial developments in the
+ﬁeld [5,6]. There is now an increased understanding of the contextual experience of sound, and also of
+how the sonic environment can be inﬂuenced in a strategic manner to improve the overall soundscape.
+Previously, such environmental considerations had been limited to a “defensive” approach [7,8].
+In a defensive strategy, the main intention is to protect human beings from unwanted sounds (noise).
+However, while the defensive strategy has been a dominant and useful approach in environmental
+planning for many years, it has failed to pay attention to the actual experience of sound. In the
+opposite and more positive approach to sound, sometimes referred to as “offensive”, the focus shifts
+from noise to consideration of what people want to hear. These approaches, together with a third
+Int. J. Environ. Res. Public Health 2016, 13, 1229; doi:10.3390/ijerph13121229
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2016, 13, 1229
+2 of 18
+(“creative” approach), may be used interchangeably in order to improve the sonic environment [9].
+In such a holistic soundscape approach, consideration of unwanted sounds (noise abatement) is
+combined with consideration of wanted sounds for improved experience and/or masking effects [10].
+For instance, soundscapes can be inﬂuenced through noise screening [11], localisation of functions [12],
+creation of biotopes for birds [13], consideration of walking material [14], introduction of water
+features [15,16], rustling vegetation [17] or sound art [8,18].
+The relationship between sound and mental health has mainly been studied from the perspective
+of the adverse effects of noise on humans, either directly or through stress reactions induced by
+negative associations [19–21]. There are clear indications of an enhanced risk of impaired mental health
+after long-term noise exposure. It has been suggested that greenery could mitigate the negative impact,
+so that the sound is perceived as less annoying if green urban areas are provided. Several studies
+have found that this is the case sometimes, but not always [22,23]. The provision of sound in green
+environments intended for psycho-physiological restoration purposes and whether this has an impact
+on the link between the physical environment and possible curative effects is less well studied, but an
+increasing number of recent studies point to such connections. In an investigation in which subjects
+were exposed to a psychological stressor [24], it was shown that stress recovery was faster during
+exposure to nature sounds at 50 dBA rather than to three different types of noises (40–80 dBA). Similar
+ﬁndings were reported in a study [25] where subjects exposed to virtual reality nature (including
+sound) recovered faster after stress than subjects exposed to virtual reality without sound. It has also
+been shown that sounds perceived as pleasant (most typically birdsong, music and ocean sounds)
+can reduce skin conductance level for subjects at rest [26]. In healthcare, studies have shown that
+sounds of nature from speakers can have positive effects during difﬁcult procedures, reducing stress
+and anxiety [27,28] as well as experienced pain [29].
+In order to understand the experiential dimension of sound, it is necessary to go
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+The study was based on 59 semi-structured interviews with individuals recovering from
+stress-related mental disorders after 12 weeks of NBR. The interviews were initially part of a previous
+study focusing on the role of nature in the NBR context [42]. In the present study, the same material
+was re-analysed, but with the focus on sound. The data collection procedure is summarised in the
+following paragraphs (for more details see [42,43]). The speciﬁc analysis procedure used in the present
+study is then described.
+2.1. The Informants
+All informants (n = 59) had participated in a 12-week NBR programme at the Alnarp Rehabilitation
+Garden (Lomma, Sweden). The inclusion criterion for participating in the programme was one of the
+following International Classiﬁcation of Disease (ICD-10) codes as the primary diagnosis: psychiatric
+diagnosis of adjustment disorder and reaction to severe stress (ICD-F43), such as exhaustion disorder
+(ICD-F43.8a) or depression (ICD-F32.0 and F32.1). The deﬁnition of exhaustion disorder includes,
+amongst other impairments, sensitivity to sound [33,44]. The informants, 50 females and nine males,
+were all Swedish citizens and varied in age between 25–62 years. The relatively high proportion of
+female informants (85%) can to a great extent be explained by an overrepresentation of females among
+people that are sick-listed for stress-related mental disorders in Sweden [45].
+2.2. The Venue and Nature-Based Rehabilitation Programme
+The NBR took place in a designed garden (Figure 1 and [46–48]) located at the campus of the
+Swedish University of Agricultural Sciences in Alnarp. The garden contains rooms for rest and
+recovery as well as work and social interaction. The 2-ha garden is divided into two main areas,
+a nature-like area in the north and an area for cultivation and gardening in the south.
+Figure 1. 3D sketch depicting the Alnarp rehabilitation garden. Image rendered by: Gunnar Cerwén.
+
+Int. J. Environ. Res. Public Health 2016, 13, 1229
+4 of 18
+The garden design includes health-promoting characteristics such as sensory experience through
+sight, smell, taste and sound [46]. For instance, the wild area contains rustling trees and fruits, while
+there is a small waterfall in the south-east end of the garden and a pond with a small stream near the
+entrance. A motorway (E6) runs around 0.6 km east of the garden, exposing it to some trafﬁc noise,
+especially in the south-eastern parts (Figure 2). The NBR programme was carried out as group therapy
+with eight participants each, supported by a multimodal rehabilitation team. The programme was
+provided four hours a day, four days per week, throughout its 12-week duration [43], thus ensuring
+frequency and length of nature exposure [49].
+ 
+Figure 2. Noise map, illustrating A-weighted equivalent sound pressure levels in dB (LAeq, 24 h), in and
+around the garden. Calculations are for 2 m above ground level and include all state- and municipal
+roads. The map was extracted from a noise survey commissioned by the Lomma municipality [50].
+2.3. Data Collection
+The interviews were conducted during 2007–2012, after the 12 weeks of NBR ended. All subjects
+who participated in the programme (n = 103) were invited for a follow-up interview. Altogether,
+59 individuals accepted the invitation and participated in the study. The subjects that accepted the
+invitation were representative for the group as a whole in terms of age and gender. The interviews were
+conducted with an informal approach that was aided through incorporation of an interview guide that
+focused on the patient’s experience of the rehabilitation and the natural environments in the garden.
+Each interview lasted about one hour and was recorded and verbally transcribed. The interviews
+were conducted over a period of ﬁve years covering all seasons, i.e., spring, summer, autumn and
+winter. As recommended by the Board of Science Ethics, Lund, all participants were asked to give
+their written consent before voluntarily entering the study.
+2.4. Data Analysis
+A systematic search was conducted through all the transcribed interviews in order to extract
+information on perceived sound and soundscape.
+Altogether, 14 keywords describing sounds
+(Appendix A, Table A1) were used to search through the interview material. Each interview was
+treated individually. If a keyword was found in the interview, the whole section in which sound was
+discussed was cut and pasted in one document.
+Once the search was completed, each of the three authors separately analysed the collected
+interview text in four steps, using Interpretative Phenomenological Analysis (IPA) [51] as a framework.
+
+Int. J. Environ. Res. Public Health 2016, 13, 1229
+5 of 18
+•
+Step 1:
+Categorisation of the sounds mentioned into natural, technological and human
+sounds [52,53] (hereafter denoted ‘sonic themes’).
+•
+Step 2: Identiﬁcation of cross-theme dimensions emerging from the text.
+•
+Step 3: Agreement on identiﬁed themes and categorisations, reached through discussions among
+the three researchers based on their individual ﬁndings.
+•
+Step 4: In-depth analysis allocating meaning to the themes.
+3. Results
+The systematic search resulted in a text document consisting of around 9000 words and including
+descriptions of sound from 27 of the 59 participants. The descriptions referred mainly to sounds
+in the rehabilitation garden, but also included recollections of other contexts and environments.
+The descriptions were approximately evenly distributed among the three sonic themes; natural,
+technological and human sounds. The ﬁndings in each of these themes constitute the ﬁrst set of results
+(Section 3.1), while the second Section (3.2) deals with the cross-theme dimensions that emerged in
+the analysis.
+3.1. Sonic Themes
+3.1.1. Natural Sounds
+Stories about natural sounds in the rehabilitation garden were generally positive and were
+dominated by wind-induced sounds from vegetation and the sound of running water and of singing
+birds. Participant
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 and [46–48]) located at the campus of the
+Figure 1. 3D sketch depicting the Alnarp rehabilitation garden. Image rendered by: Gunnar Cerwén.
+Figure 2). The NBR programme was carried out as group therapy
+Figure 2. Noise map, illustrating A-weighted equivalent sound pressure levels in dB (LAeq, 24 h), in and

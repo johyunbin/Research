@@ -1,0 +1,12 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+858,quantitative descriptive,Y,Y,CT,N,Y,CT,N,1,low,온라인 편의표본·전공 편중에 8개 클러스터 집계 회귀로 통계 근거 취약
+862,quantitative descriptive,Y,Y,Y,Y,CT,Y,N,3,moderate,"여름 3일 단일 공원, 31개 지점에 9변수 회귀로 과적합·다중검정 미보정"
+883,quantitative descriptive,Y,Y,Y,Y,CT,CT,Y,3,moderate,대규모 전국 표본이나 단일문항 회상 측정·응답률 미보고와 신뢰구간 표기 오류
+901,quantitative descriptive,Y,Y,Y,CT,Y,Y,N,3,moderate,2일 단일 공원 관측이며 Table 4-5의 t·p값 불일치로 모형 결과 신뢰 제한
+930,quantitative descriptive,Y,Y,CT,N,Y,CT,N,1,low,"표본 수 불일치와 남성 편중, 회귀식 오기와 낮은 설명력"
+931,non-randomised,Y,Y,CT,Y,Y,CT,Y,3,moderate,설계·측정은 견고하나 인구학 정보 부재와 기온·요일 교란 미보정
+941,non-randomised,Y,Y,CT,Y,CT,N,Y,2,low,노출이 시간대·교차로 거리와 교란되고 보행자 특성 미수집으로 인과 해석 제한
+951,quantitative descriptive,Y,Y,Y,N,Y,CT,Y,3,moderate,다층모형은 적절하나 Strava 표본이 남성·경쟁러너에 편중돼 일반화 제한
+964,quantitative descriptive,Y,Y,CT,N,CT,Y,N,1,low,청년 20명 표본에 9개 지점 값의 유사반복 회귀와 계수 표기 불일치
+971,non-randomised,Y,Y,CT,Y,CT,N,Y,2,low,온도 수준이 관측 장소와 교란되고 n=3 상관계수 사용으로 결과 해석 취약
+979,qualitative,Y,Y,Y,Y,Y,CT,Y,4,high,"자료·분석 일관성은 높으나 소수 발췌로 정신증 과민성 일반화, 비교군 없음"

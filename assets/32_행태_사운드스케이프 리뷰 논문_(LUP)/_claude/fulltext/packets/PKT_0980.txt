@@ -1,0 +1,235 @@
+### RECORD ID=980 | screening_verdict=BORDERLINE | year=2023
+JOURNAL: FORESTS
+TITLE: White Spaces Unveiled: Investigating the Restorative Potential of Environmentally Perceived Characteristics in Urban Parks during Winter
+DOI: 10.3390/f14122329
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Citation: Bao, Y.; Gao, M.; Zhao, C.;
+Zhou, X. White Spaces Unveiled:
+Investigating the Restorative
+Potential of Environmentally
+Perceived Characteristics in Urban
+Parks during Winter. Forests 2023, 14,
+2329. https://doi.org/10.3390/
+f14122329
+Academic Editors: Anna
+Maria Palsdottir, Patrik Grahn,
+Jonathan Stoltz and
+Cate Macinnis-Ng
+Received: 11 October 2023
+Revised: 17 November 2023
+Accepted: 23 November 2023
+Published: 28 November 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+White Spaces Unveiled: Investigating the Restorative Potential
+of Environmentally Perceived Characteristics in Urban Parks
+during Winter
+Yu Bao 1
+, Ming Gao 2,3,*
+, Chunli Zhao 1 and Xudan Zhou 1
+1
+College of Forestry and Grassland Science, Jilin Agricultural University, Jilin Provincial Key Laboratory of
+Tree and Grass Genetics and Breeding, Changchun 130118, China; baoyu@jlau.edu.cn (Y.B.);
+zhaochunli@jlau.edu.cn (C.Z.); zhouxudan@jlau.edu.cn (X.Z.)
+2
+School of Architecture, Harbin Institute of Technology, Key Laboratory of Cold Region Urban and Rural
+Human Settlement Environment Science and Technology, Ministry of Industry and Information Technology,
+Harbin 150006, China
+3
+Department of Architecture, College of Design and Engineering, National University of Singapore,
+Singapore 117566, Singapore
+*
+Correspondence: 22b334014@stu.hit.edu.cn
+Abstract: Creating attractive urban green spaces in severely cold and harsh climates is signiﬁcant for
+promoting peoples’ health and perceived restoration. However, there is little evidence regarding the
+urban green spaces in wintery and cold climates and its restorative beneﬁts. This study utilized a
+pixel grid approach to quantify winter landscape characteristics and a self-reporting method to assess
+the restorative beneﬁts of audiovisual interactions. The results show the following: (1) Different
+types of roads in urban parks have signiﬁcant differences in their level of restorativeness, and the
+restorativeness beneﬁts of the primary path in winter parks are the strongest. (2) The presence of
+snowy elements in winter landscapes can enhance park users’ potential to experience restorative
+characteristics in relation to “being away”. Moreover, there exists a noteworthy positive correlation
+between deciduous trees and their restoration beneﬁts. (3) People’s perceptions of the tranquility of
+the soundscape and the duration of environmental exposure are critical mediators in the impact of
+the restorative path effect. (4) Compared with women, men have a higher restorative level in both
+the landscape and soundscape. This elucidates the restorative role of white space landscapes and
+soundscapes in public psychological perception when proposing appropriate forest-based healthcare
+strategies. It also provides theoretical guidance and optimization schemes for the overall planning,
+health planning, and design of white spaces shaped by cold urban green spaces.
+Keywords: urban green space; restorative environment; soundscape; winter season; white space
+1. Introduction
+The concept of urban planning for healthy cities has attracted the attention of all
+countries [1], especially since the outbreak of COVID-19. At the same time, with the spread
+of COVID-19, lockdowns were implemented, and outdoor activities subsequently declined.
+This led to an increase in psychological stress and suicide mortality [2] and a surge in the
+number of patients with depression [3]. In addition, the public’s demand for entertainment
+and activities in outdoor spaces is increasing, especially in high-density cities. Urban green
+space is an important part of urban green infrastructure and a natural place to provide
+relaxation, entertainment, and perceived recovery for the public [4,5]. The sustainable
+construction of cities is increasingly emphasizing social sustainability. The design of urban
+open space supports social sustainability [6]. This design should be combined with the
+promotion of and support for social life, cultural life, entertainment, recovery, and sports
+activities [7]. Well-designed green spaces are critical to the health of residents [8] and have
+Forests 2023, 14, 2329. https://doi.org/10.3390/f14122329
+https://www.mdpi.com/journal/forests
+
+Forests 2023, 14, 2329
+2 of 19
+been recognized as one of the potential environmental determinants that regulate mental
+health [9].
+Considering closeness to nature, social interactions, and leisure activities [10], urban
+green spaces are necessary to maintain the well-being of urban residents in the winter [11].
+However, the harsh climatic conditions in winter not only easily cause environmental
+stress but also limit the occurrence of other outdoor activities [12,13]. Furthermore, they
+exacerbate common mental health problems such as depression and anxiety [14]. In order
+to prevent this from happening, a restorative environment that can restore our bodies
+and minds is required. Research on restorative environments focuses on the physical
+and mental beneﬁts of exposure to nature, emphasizing the opportunities for individuals
+to mitigate negative impacts through their interactions with the natural world [15]. A
+restorative environment has the following four essential characteristics: fascination, being
+away, compatibility, and extent [16]. Kaplan’s attention restoration theory (ART) [16,17]
+and Ulrich’s stress recovery theory (SRT) [18] provide theoretical support for the study of
+environmental perception characteristics and recovery potential. The view of these two
+theories is that the driving force of the recovery effect comes from people’s immediate
+emotional response to the natural environment and the potential cognitive beneﬁts of
+their interaction with the natural environment. At the same time, many studies have
+proposed a scale to measure the r
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Sites
+In this study, in severely cold cities in Northeast China, the winter climate is deﬁned
+as the average daily temperature being below 0 ◦C (32◦F) for more than six consecutive
+months and the average temperature in January being below −10 ◦C [61,62]. Changchun,
+Jilin Province, has a typical cold urban climate [63] and is the only urban park green space
+in Northeast China that won the ASLA 2019 Honorary Award for Comprehensive Design.
+This area was selected as the study site. The site’s location analysis is shown in Figure 1.
+The Changchun Culture of Water Ecology Park is an urban brown land reconstruction
+
+Forests 2023, 14, 2329
+4 of 19
+project with 300,000 square meters of scarce ecological green land in the urban hinterland.
+The vegetation community of this site is rich and growing well, with high species diversity;
+it is adjacent to residential areas, and public recognition is high.
+ 
+Figure 1. Location map of the research site.
+Based on the preliminary ﬁeld survey ﬁndings, it was evident that walking along park
+pathways is the most prevalent and virtually the sole activity during the winter season.
+Consequently, we selected 12 speciﬁc pathways within the green park area. The selection
+process was guided by the design requirements outlined in the “Park Design Speciﬁcations
+(GB51192-2016)”, which encompass the following three distinct types of pathways: primary
+path (PP), secondary path (SP), and walking path (WP). These chosen pathways collectively
+span the entirety of the park, ensuring comprehensive coverage.
+2.2. Measuring Tool
+2.2.1. Landscape
+To quantify the landscape characteristics of winter parks, we employed a method
+similar to that used by H. Nordh [64] to quantify and summarize the spatial landscape char-
+acteristics of each park path element. Each image was consistently framed, maintaining the
+same angle and focusing on a uniform height (approximately 1.6 m above ground) without
+the utilization of ﬂash. Working in Photoshop, a grid pattern measuring (42 × 75) square
+units was laid over each photograph. Each square corresponding to a speciﬁc variable
+was delineated and tallied. Distinct colors were applied for element differentiation within
+the images, and notations were added to facilitate pixel counting and the computation of
+variable percentages in relation to the entire image. The quantiﬁed variables encompassed
+the evaluation of sky, snow, trees, and facilities.
+The Perceived Restorativeness Scale developed by Hartig et al. was adopted to assess
+environmental restorativeness. The PRS is a tool to measure the psychological recovery
+effect of the recovery environment [19]. It has good reliability and validity [36]. This
+scale was developed based on the attention restoration theory (ART) proposed by Kaplan
+and his wife [16,17], which includes the following four aspects: fascination, being away,
+compatibility, and extent. Fascination represents the attractiveness of the environment,
+measuring how attracted individuals are to their surrounding environment and their
+ability to stimulate happy and positive emotions. Being away represents stability in the
+environment and is intended to measure the degree of relaxation in the environment.
+Compatibility represents environmental tolerance and is intended to measure the comfort
+of the surrounding environment. The extent represents the spatial connection in the
+environment, aiming to measure the scale of the environment. Each aspect was measured
+using a 7-point Likert scale, ranging from 1 (strongly disagree) to 7 (strongly agree).
+
+Forests 2023, 14, 2329
+5 of 19
+2.2.2. Soundscape
+Drawing from the study concerning the correlation between sound perception within
+urban parks and the public’s visiting experience [65,66], we employed metrics commonly
+utilized in the research conducted by Hong, J. Y. et al., 2015 [52] and Liu, J. et al., 2019 [67]
+for soundscape perception. The soundscape was evaluated using the following perceptions
+of pleasure and tranquility of sound: cheerful, satisﬁed, happy, and comfortable [52].
+The soundscape tranquility was measured as relaxed, soothed, calm, and sober. These
+items were evaluated using a seven-point scale from “strongly disagree (1)” to “strongly
+agree (7)”.
+The assessment of soundscape perception recovery is in line with the previous research
+design [68] and utilizes the previously developed Perceived Restored Soundscape Scale
+(PRSS), as shown in Table 1, which was originally introduced by the researcher Sarah R.
+Payne [69] for an urban park environment based on Perceived Restored Scales.
+Table 1. Assessment of items of soundscape restorativeness in urban parks [68].
+Components
+Restorative Experience with
+the Soundscape
+Items
+Fascination
+The appeal of the environment
+I ﬁnd this acoustic environment appealing.
+In this place my attention is drawn by many interesting sounds.
+I am engrossed in this acoustic environment.
+Being away
+A sense of relaxation
+When I hear these sounds, I can do something different than usual.
+This acoustic environment is different to what I usually hear.
+This acoustic environment is a refuge from unwanted distractions.
+I feel free from routine and responsibility in this acoustic environment.
+Compatibility
+Exploration of characteristics
+This acoustic environment ﬁts with my preference.
+I can quickly get used to this type of acoustic environment.
+Hearing these sounds hinders what I want to do here.
+Extent
+An intoxicating environment
+All the sounds I am hearing belong here.
+All the sounds merge to form a coherent sonic environment.
+The acoustic environment suggests that the size of this place is limitless.
+2.2.3. Nature Exposure
+For exposure to the outdoor natural environment, more attention is paid to the du-
+ration of park users in this white space. The purpose is to explore whether the duration
+of exposure is related to recovery and, moreover, whether it plays an intermediary role
+in the path of the impact of the landscape and soundscape on restorat
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1. Location map of the research site.
+Table 1, which was originally introduced by the researcher Sarah R.
+Table 1. Assessment of items of soundscape restorativeness in urban parks [68].
+Figure 2. Within the park, we carefully selected 12 pathways
+Figure 2. Field experiment process.
+Figure 3.
+Figure 3. Stress level comparison results before and after recovery.
+Figure 4. In general, primary path 4 (PP4) exhibits
+Figure 5, the results show that the scores for tranquility
+Figure 4. Differences in landscape restoration across various path types within the park.
+Figure 5. Differences in soundscape restoration across various path types within the park.
+Figure 6. The perceptions of soundscape exhibited a higher
+Figure 6. Variations in soundscape restoration in the park.
+Figure 7 that a total of ﬁve data pairs show differences
+Figure 7. Comparison of restorative characteristics in audiovisual interaction (* p < 0.05, ** p < 0.01).
+Figure 8, the 12 paths studied can be divided into the following three types
+Figure 8. Comparison of recovery for different road types (* p < 0.05, ** p < 0.01).
+Table 2,
+Table 2. Pearson correlation between landscape characteristics and restorativeness.
+Table 3 shows the restorative relationship and compactness of the acoustic envi-
+Table 3. Pearson correlation between soundscape characteristics and restorativeness.
+Table 4, it can be seen that the exposure
+Table 4. Results of correlation between the duration of environmental exposure and the mental
+Table 5. Snow, tree branches,

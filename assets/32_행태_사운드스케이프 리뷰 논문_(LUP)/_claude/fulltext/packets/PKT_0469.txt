@@ -1,0 +1,299 @@
+### RECORD ID=469 | screening_verdict=INCLUDE | year=2018
+JOURNAL: ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+TITLE: Exploring tourists' soundscape emotion and its impact on sustainable tourism development
+DOI: 10.1080/10941665.2018.1494614
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Asia Paciﬁc Journal of Tourism Research
+ISSN: 1094-1665 (Print) 1741-6507 (Online) Journal homepage: www.tandfonline.com/journals/rapt20
+Exploring tourists’ soundscape emotion and its
+impact on sustainable tourism development
+Mengyuan Qiu, Jie Zhang & Chunhui Zheng
+To cite this article: Mengyuan Qiu, Jie Zhang & Chunhui Zheng (2018) Exploring tourists’
+soundscape emotion and its impact on sustainable tourism development, Asia Paciﬁc Journal
+of Tourism Research, 23:9, 862-879, DOI: 10.1080/10941665.2018.1494614
+To link to this article: https://doi.org/10.1080/10941665.2018.1494614
+Published online: 05 Jul 2018.
+Submit your article to this journal 
+Article views: 1903
+View related articles 
+View Crossmark data
+Citing articles: 19 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rapt20
+
+Exploring tourists’ soundscape emotion and its impact on sustainable
+tourism development
+Mengyuan Qiua, Jie Zhanga and Chunhui Zhengb
+aDepartment of Land Resources and Tourism Sciences, Nanjing University, Nanjing, Jiangsu, People’s Republic of China; bSchool
+of Tourism, Guangzhou University, Guangzhou, Guangdong, People’s Republic of China
+ABSTRACT
+Despite the long-standing appeal for tourism researchers to pay more attention to the
+eﬀects of soundscape, there remains a serious lack of in-depth studies on the topic.
+Drawing on moderating eﬀects of tourists’ soundscape emotion, this study
+examines certain determinants of tourists’ pro-environmental behaviour. Kulangsu
+was used as a source of empirical data for its abundant soundscape resources. The
+results revealed the explicit connections of human-environmental relationships to
+pro-environmental behaviour. All the paths are more signiﬁcant when grouped with
+positive
+soundscape
+emotions
+than
+with
+their
+negative
+counterparts.
+This
+demonstrates the importance of soundscape to promote sustainable development
+in tourist destinations.
+KEYWORDS
+Soundscape; pro-
+environmental behaviour;
+connectedness to nature;
+place attachment; Kulangsu
+Introduction
+A critical part of the tourist experience is associated
+with sounds in their environment (Waitt & Duﬀy,
+2010; Weinzimmer et al., 2014). For example, the sen-
+sation of listening to the sounds at the Kulangsu—a
+famous Chinese destination—whether they are the
+piano tone, pop music, birds cackling, crowd noise, or
+even the natural quiet may initially appear too
+mundane. However, if the radio is switched oﬀ, the
+acoustical environment changes, or if the tranquillity
+is gone, a known and viscerally sensed displacement
+occurs, and the destination may become less attractive
+(Bernat, 2014). As an attractive tourist destination, the
+outstanding universal value of Kulangsu is not just
+limited to visual stimuli (Dann, 2002). In fact, the
+“soundscape” which is deﬁned as the acoustic environ-
+ment that can be perceived by humans (ISO, 2014) is at
+least equally important (Son & Pearce, 2005). This gen-
+erates several questions: “What is so visceral about
+tourists’ perceptions of their auditory environment?”
+Moreover, “what are the implications of the visceral
+connection and disconnection in terms of tourists’
+pro-environmental behaviour in certain destinations”?
+Previous studies have shown that tourists’ PEB safe-
+guards the lasting attractiveness and economic vitality
+of a tourist destination (e.g. Harrington, Lane, & Mercer,
+2006; Seabrook, McAlpine, & Fensham, 2008; Smith,
+2008). More recently, research has shown that the
+human ties to nature and place, which encompass con-
+nectedness to nature (CTN) and place attachment
+(TPA), are important drivers of environmental actions
+(e.g. Kals, Schumacher, & Montada, 1999; Scannell &
+Giﬀord, 2010; Vaske & Kobrin, 2001). Given that tourists’
+visual experiences have been emphasized more recently
+over other experiences in tourism studies (Urry, 2008),
+these studies seem to assume that tourists’ perceptions
+and behaviour largely rely on visual factors and, thus,
+they failed to consider the importance of the sounds-
+cape. As argued by Ulrich (1983), as well as Conniﬀand
+Craig
+(2016),
+concentrating
+exclusively
+on
+visual
+sensory channel limits our understanding of often
+complex
+environments
+because
+visualisation
+only
+depicts a fragment of a given setting (Nordh, Hartig,
+Hagerhall, & Fry, 2009). The soundscape, by contrast,
+can induce some speciﬁc perceptions not experienced
+throughvisualstimuli,helpingpeopleactmorerationally
+© 2018 Asia Paciﬁc Tourism Association
+CONTACT Mengyuan Qiu
+qiumengyuan1123@126.com
+Department of Land Resources and Tourism Sciences, Nanjing University,
+Nanjing, Jiangsu 210023, People’s Republic of China
+ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+2018, VOL. 23, NO. 9, 862–879
+https://doi.org/10.1080/10941665.2018.1494614
+
+through a more comprehensive understanding of their
+environment (Alvarsson, Wiens, & Nilsson, 2010).
+To address this, our study aims to identify further
+relationships among tourists’ connectedness to nature,
+place attachment, and PEB from the soundscape per-
+spective so that new non-visual factors at tourist desti-
+nations can be protected as well. We empirically test
+the
+moderating
+power
+of
+tourists’
+soundscape
+emotion (TSE) through a mediation model, which
+describes the eﬀects of tourists’ connectedness to
+nature and place attachment on PEB. The rest of the
+paper is organized as follows. Section 2 presents our
+theoretical framework and our hypotheses. Section 3
+presents our methodology include our data sources,
+the tourist sites and our survey instrument, Section 3
+describes the results of empirical studies while Section
+4 discusses our theoretical and managerial implications.
+Theoretical framework
+The relationship between tourists’
+connectedness to nature and PEB
+A substantial body of literature has proved that tourist
+connectedness to nature is an important driver of
+environmental actions. Connectedness to nature is
+deﬁned as the extent to which people feel
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+Study sites, participants, and data collection
+Kulangsu is a tiny island located on the estuary of the
+Chiu-lung River, facing the city of Xiamen. As a well-
+known tourist destination in China, Kulangsu enjoys
+the reputation of a great resort. On 9 July 2017, the
+UNESCO added Kulangsu to its list of world heritage
+sites in recognition of the site’s outstanding value to
+humanity. It is a destination that typiﬁes a soundscape
+environment. Its name is also believed to have audi-
+tory origins. Ku means drumbeat, Lang means the
+tide, and Su refers to the island. It is said that when
+the tide hits the huge rocks on the southwest coast,
+it sounds like the beating of several drums. Thus, the
+rock is named the “drum wave stone” and the island
+is also named after the rock as “Kulangsu.” Moreover,
+as a unique place, which has witnessed multicultural
+exchanges and integration, it contains a traditional
+soundscape rich in southern Fujian culture (e.g. the
+tranquillity of classical gardens), a typical soundscape
+representing Western culture (e.g. piano music), the
+unique soundscape of its white beaches and oddly
+shaped rocks (e.g. the drumming when rocks are
+lashed by waves), and the soundscape of tourists
+(e.g.
+tourists’
+voices).
+The
+various
+soundscapes
+enamour tourists with the island (see Figure 2).
+According to the administration of Kulangsu, it
+attracted over 348 million tourists and generated
+more than 10 million RMB in tourism revenue in
+2015. However, UNESCO has shown great concern
+for the sustainable development of Kulangsu, and
+the organization has pointed out that tourism press-
+ures present signiﬁcant threats to the integrity of the
+island and, hence, require strict controls. Further, this
+is a universal phenomenon at other tourist desti-
+nations, especially in developing countries (Chubchu-
+wong, Beise-Zee, & Speece, 2015). Therefore, Kulangsu
+is appropriately suited to the exploration of the char-
+acter of a soundscape in alleviating tourism-posed
+environmental pressures by motivating a change in
+tourists’ behaviour.
+The target research population included all dom-
+estic adult tourists who visited any of the most impor-
+tant scenic areas in Kulangsu (e.g. Sunlight Rock, Piano
+Museum, and Shu Zhuang Garden) between 13
+January and 19 January 2016. This special period is
+Kiangsu’s peak winter season and data collection
+during this time ensures the inclusion of tourists
+diverse in age, profession, province of origin, and
+length of stay. Keeping the sample size requirements
+of all the analyses in mind, trained research assistants
+distributed 700 questionnaires on the island. The
+research assistants made contact with domestic tour-
+ists who were resting or relaxing and recruited them
+for participation, selecting one in every 10 people.
+The 10-person interval was designed to improve data
+reliability by reducing the possibility of accumulating
+ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+865
+
+surveys from the same tourist groups (Ritter, Rendle, &
+Coughlin, 2002). Qualiﬁed participants received a
+designed questionnaire, which they completed in
+sequence under the supervision of the research assist-
+ant (on average, respondents spent 17 minutes).
+Through this method, we were able to collect 566
+usable surveys with a valid rate of response of 80.9%.
+The direct face-to-face survey approach, along with
+the provision of a small gift as remuneration for partici-
+pation, account for the survey’s high validity rate.
+Instrument development
+The questionnaire consisted of ﬁve parts: participants’
+demographics, PEB, connectedness to nature, place
+attachment, and TSE. The items used to measure con-
+nectedness to nature were from the studies by
+Gosling and Williams (2010) and Nisbet, Zelenski, and
+Murphy (2009). These two studies are very similar in
+how they capture subjective connectedness with
+nature. The scale from Gosling and Williams (2010) con-
+tains seven items and has been well tested in empirical
+studies. However, the study of Nisbet et al. (2009) adds
+one more item to measure how participants’ actions
+aﬀect the natural world. Therefore, we borrowed this
+item as well (‘I have a deep understanding of how my
+actions aﬀect the natural world’) from their study. A
+scale with eight items was developed to measure the
+extent to which tourists connect with nature.
+The Place attachment dimensions were measured
+by 11 items (six items for place dependence and ﬁve
+items for place identity). To distinguish from the con-
+struct of connectedness to nature, items that reﬂected
+the inﬂuence of social bonding were intentionally
+incorporated. Speciﬁcally, in addition to the three
+items borrowed from Williams & Vaske (2003), the
+measures of place dependence also included two
+items of social bonding (“If I were to stop visiting
+Kulangsu, I would lose contact with a number of
+friends” and “My friends/family would be disap-
+pointed if I were to start visiting other costal desti-
+nations”) and one item of “everybody’s happy” (I rely
+on Kulangsu to provide an enjoyable experience for
+my family/group of friends), ﬁne-tuned, respectively,
+from Ramkissoon et al. (2013) and Tonge, Ryan,
+Moore, and Beckley (2015). The latter three items
+were merged, as they best reﬂected place depen-
+dence based on social relationships and/or reference
+group norms. Similarly, the measures of place identity
+borrowed two items of social bonding (“The friend-
+ships and associations I have with other people here
+at Kulangsu mean a lot to me” and “A feeling of com-
+munity runs between me and other leisure tourists
+here at Kulangsu”) from Tonge et al. (2015) to inte-
+grate the identiﬁcation with place derived from inter-
+personal interaction and resonance in addition to the
+three items borrowed from Ramkissoon et al. (2013).
+PEB was measured from six items from Halpenny
+(2010). This scale explores how much value tourists
+assign to environment protection. According to the
+degree of awareness, motivation, and engagement,
+tourists’ PEB can be divide
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, the model of our hypotheses, outlines the
+Figure 2).
+Figure 1. Hypotheses model
+Figure 2. (a) The core heritage attractions in Kulangsu. (b) The Drum Waves Stone. (c) The Shuzhuang Garden. (d) The Piano Museum. (e) The
+Table 1. The total
+Table 1, the
+Table 2, the mean value of each item,
+Table 2). Moreover, every
+Table 1. Proﬁle of respondents.
+Figure 3. The estimated structural model for the entire sample.
+Table 3, the largest score of
+Table 2 shows no Q2
+Table 2. Individual item reliability and construct validity.
+Figure 3, H1 was not supported (β =
+Table 4
+Figure 4). Therefore, there are signiﬁcant
+Table 5 illustrates the results of the MGA using 5000
+Table 3. Discriminate validity with HTMT
+Figure 4. The estimated structural model for the positive and negative tourists’ soundscape emotion model.
+Table 1 indicates that the majority of
+Table 5, tourists in the posi-
+Table 4. Results of invariance measurement testing
+Table 5. Results of multi-group analysis

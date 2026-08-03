@@ -1,0 +1,181 @@
+### RECORD ID=613 | screening_verdict=BORDERLINE | year=2020
+JOURNAL: International Journal of Environmental Research and Public Health
+TITLE: Environmental quality perceptions and health: A cross-sectional study of citizens of Kaunas, Lithuania
+DOI: 10.3390/ijerph17124420
+PAGES: 14
+
+--- HEAD (title/abstract/intro) ---
+International Journal of
+Environmental Research
+and Public Health
+Article
+Environmental Quality Perceptions and Health:
+A Cross-Sectional Study of Citizens of
+Kaunas, Lithuania
+Regina Gražuleviˇcien˙e 1,*
+, Sandra Andrušaityt˙e 1
+, Audrius D˙edel˙e 1
+, Tomas Gražuleviˇcius 1,
+Leonas Valius 2, Violeta Kapustinskien˙e 2 and Inga Bendokien˙e 3
+1
+Department of Environmental Science, Vytautas Magnus University, 44248 Kaunas, Lithuania;
+sandra.andrusaityte@vdu.lt (S.A.); audrius.dedele@vdu.lt (A.D.); t.grazulevicius@gmail.com (T.G.)
+2
+Department of Family Medicine, Lithuanian University of Health Sciences, 48005 Kaunas, Lithuania;
+Leonas.Valius@lsmuni.lt (L.V.); Violeta.Kapustinskiene@lsmuni.lt (V.K.)
+3
+Division of City Planning and Architecture, Kaunas City Municipality, 48005 Kaunas, Lithuania;
+inga.bendokiene@kaunas.lt
+*
+Correspondence: r.grazuleviciene@gmf.vdu.lt; Tel.: +37037734642
+Received: 15 April 2020; Accepted: 15 June 2020; Published: 19 June 2020
+
+
+Abstract: The perception of urban environmental quality is an important contributor when identifying
+local problems in sustainable development and environmental planning policy. This study examined
+the associations between environmental and social residential characteristics, physical activity,
+obesity, and hypertension in Kaunas city, Lithuania. This cross-sectional study analyzed 580 citizens’
+demographic-, socioeconomic-, health-, and lifestyle-related factors, environmental health concerns,
+and environmental quality perceptions. Using Geographic Information Systems and the multivariate
+logistic regression, we found that the less physically active group more often presented lower than
+mean ratings of the quality of pathways and cycling routes (32.9% and 45.6%, p = 0.042) and only
+irregularly visited the natural environment. Obese participants presented poorer ratings of air
+pollution, the quality of pathways and cycling routes, their possibility to reach green spaces by
+walking, and the available relaxing areas. The environmental issues associated with hypertension
+were poor possibilities to reach green spaces by walking (OR 1.94, 95% CI 1.14–3.32) and the availability
+of relaxation areas (OR 2.30, 95% 1.34–3.95). The quality of the neighborhood and individual-level
+characteristics were the factors that inﬂuenced a higher prevalence of health problems at the district
+level. Our ﬁndings suggest that a public health policy to improve the physical and social environment
+of the neighborhood would have a potential to increase citizens’ physical activity and health.
+Keywords:
+citizen science; environmental health; neighborhood perceptions; hypertension;
+physical activity
+1. Introduction
+Public health specialists have been increasingly interested in how the quality of citizens’ residence
+settings is associated with physical activity and health [1,2]. Physical inactivity is a major modiﬁable
+risk factor for many preventable chronic non-communicable diseases, and there is a potential risk
+threshold for health related to the degree of activity or inactivity [3]. The physical environment,
+residential availability of natural outdoor environments, and accessibility and aesthetics are important
+factors that inﬂuence physical activity [2,4]. The researchers who investigate possibilities for the
+promotion of health and physical activity among citizens emphasize the signiﬁcance of the citizens’
+perceptions of the neighborhood’s quality in facilitating physical activity [5,6].
+Int. J. Environ. Res. Public Health 2020, 17, 4420; doi:10.3390/ijerph17124420
+www.mdpi.com/journal/ijerph
+
+Int. J. Environ. Res. Public Health 2020, 17, 4420
+2 of 14
+The growing awareness of the importance of the environmental health and social factors for
+human health has led to the participant-approach studies that might more adequately reﬂect the local
+environmental issues, overall health, and the wellbeing of citizens. Citizen science in public health
+might beneﬁt from the citizens’ active contribution with their intellectual eﬀort and surrounding
+knowledge [7,8]. However, to date, citizen science has not relied heavily on the evidence of the
+environmental impact on citizens’ health, and there are opportunities to engage those aﬀected by
+environment-related health problems, such as cardiovascular disease, hypertension, allergies, and other
+chronic diseases.
+Epidemiological studies have shown that contact with green space has beneﬁcial eﬀects such as
+reduced risks of cardiovascular disease, obesity, or diabetes, and lower risks of all-cause mortality [9,10].
+There is growing scientiﬁc evidence that both physical activity and contact with urban green spaces
+have the potential to contribute positively to citizens’ health [11–13]. Meanwhile, urban planning,
+city transport system, and neighborhood characteristics may have a signiﬁcant negative inﬂuence on
+human health and well-being by aﬀecting the environmental quality, or, indirectly, by inﬂuencing
+behaviors such as physical activity—which, in turn, aﬀects chronic disease [14]. Given the complexity
+of the built environment, understanding its inﬂuence on human health requires a community-based,
+multilevel, interdisciplinary research approach [15]. Multi-level and urban system approaches have
+the potential of having larger-scale eﬀects and should be evaluated [16].
+To date, little is known about how people’s perceptions of the quality of residential settings are
+related to their physical activity and health concerns. The idea of this article is to assess the associations
+between the ratings of various environmental (built and social) residential characteristics and health
+indices (blood pressure, obesity, and hypertension), which have numerous common individual and
+environmental risk factors. The results of this study might present possible target areas for interventions
+in physical activity, including the environmental, individual, social, and policy levels.
+The present research reports on the ﬁrst-year ﬁndings f
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Design
+The pilot study of the Urban Environment and Health proposal was conducted between July
+and February of 2020. We conducted a cross-sectional study among 580 adults who lived in Kaunas
+city, Lithuania. Our main engagement methods included radio information, announcements in local
+newspapers and web sites, advertisements at community events, and conferences. Because the citizens’
+response to the invitation via mass media was poor, we also used the list of the participants of the
+scientiﬁc-practical conference Human and Nature Safety to send personal invitations to join the
+study. From the beginning of the project, the participants were involved in discussions to identify
+and prioritize environmental and health issues. The three major environmental concerns the citizens
+expressed are as follows: air pollution, traﬃc noise, and the availability of cycling and smooth walking
+paths. The major health concerns were hypertension, obesity, and cardiac problems. During the ﬁrst
+year of the project, the participants together with scientists were involved in identifying the relevant
+questions, planning the design of the Kaunas pilot study, and discussing the study questionnaire
+
+Int. J. Environ. Res. Public Health 2020, 17, 4420
+3 of 14
+and protocol. Using the interviews, we identiﬁed citizens’ environmental concerns and major health
+concerns and formulated the aim of the study. The participants of the study were volunteers who ﬁlled
+out a questionnaire that had closed-ended and open-ended questions and signet the Informed Consent
+form. In the questionnaire, we asked the participants about the characteristics of the built and the
+social residential environment, the duration of living in the current place of residence, health behavior,
+and chronic or other diseases diagnosed by physicians. In addition, the participants were asked to take
+part in seven-day physical activity measurements with physical activity sensors FitBit Alta. About a
+half of all the participants agreed to take part in these measurements, which were conducted during
+the second year of the project.
+The participants ﬁlled out the questionnaire during face-to-face interviews. We used a seven-point
+Likert rating scale to measure environmental perceptions, and then analyzed the associations with
+the self-reported health status. The Likert scale included a series of questions to be answered and 7
+balanced responses the participants could choose from. Based on survey, and the discussions between
+the participants’ and scientists the following research question was formulated: “Why do citizens
+in my district suﬀer from hypertension more often than in other ones?” We conducted geospatial
+analysis using the ArcGIS mapping (Esri, Redlands, CA, USA) and analytics platform and statistical
+analysis using the SPSS version 25.0 package (IBM Corporation, New York, NY, USA) to assess the
+associations between the perception of the environmental quality, self-reported physical activity,
+and the participants’ health and well-being.
+2.2. Ethics Statement
+Kaunas Regional Committee for Biomedical Research Ethics approved the study protocol,
+the questionnaire, the Subject Information Form, and the Informed Consent Form as well as the consent
+procedure (BE-2-51. 2019-06-10). We informed the participants about the study in detail, and the
+participants signet the Informed Consent Form. At the beginning of the study, all the collected personal
+data were recorded on “paper” documents speciﬁcally designed for biomedical research, and then
+were given numerical values for anonymous storage in electronic media. The personal data of the
+participants were stored in accordance with the “Legal Protection of Personal Data” act. All personal
+data collected were coded by giving them numerical values. The coded anonymous data were stored
+separately from the personal identiﬁcation data. Only depersonalized individual data were used for
+data analysis. Biomedical examination was conducted in accordance with the Declaration of Helsinki
+and other relevant regulatory requirements.
+2.3. Analysis
+We used the addresses provided by the participants to create variables with the residence
+district/community categories.
+We evaluated exposure to major traﬃc ﬂows (more than
+10,000 cars per day) by the geographic information system (GIS). The participants’ perception
+on the characteristics of the quality of the built environment were assessed using questions on the
+infrastructure in the residence neighborhood, public transport, pathways and cycling routes, walking
+distances to the city’s green spaces or parks, areas adapted to exercise and relaxation, public spaces
+to meet people, and neighborhood safety. In addition, we asked questions on problems caused by
+air pollution and noise in the place of residence, and on the average time per day spent outdoors.
+We assessed the diﬀerent environmental variables by using a seven-point Likert rating scale ranging
+from 1 (strongly disagree) to 7 (strongly agree) in order to measure mean environmental perceptions.
+The self-reported health was evaluated using a ﬁve-point Likert rating scale ranging from 1 (great) to
+5 (poor). Higher scores indicated better neighborhood conditions.
+The individual socio-economic status (SES) was assessed by evaluating the respondents’ income,
+educational status, and situation at work. We assessed the participants’ health status by the presence or
+absence of physician-diagnosed chronic diseases, systolic and diastolic blood pressure, and body mass
+index (BMI) calculated using the measures of body weight and body height. We asked the participants
+
+Int. J. Environ. Res. Public Health 2020, 17, 4420
+4 of 14
+about smoking history and the average time per day spent outdoors. We dichotomized personal data
+and used mean values of environmental perception scores as cut points.
+Information on hypertension was obtained by asking the participants to answer the question
+“Have you been diagnosed with hypertens
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1, the majority of the
+Table 1. Characteristics of the participants living in Kaunas city.
+Figure 1). In diﬀerent city districts,
+Figure 1. Spatial distribution of the perception of air pollution and the prevalence of hypertension.
+Table 2).
+Table 2. Self-reported physical activity and health measures in district groups by the prevalence
+Table 3 shows the participants’ perceptions of their neighborhood quality in the districts with
+Table 3 present the participants’
+Table 3. Mean ratings of the perceptions of neighborhood quality and social wellbeing in district
+Table 4 presents odds ratios (OR) and 95% conﬁdence intervals (CI) from the multivariate logistic
+Table 4. Multivariate logistic regression models of neighborhood quality items on physical activity, obesity, and diastolic blood pressure.
+Figure 1). However, in two districts, we found a negative correlation. The comparison of the
+Table 4) revealed that citizens residing in neighborhoods with a better infrastructure for the possibility

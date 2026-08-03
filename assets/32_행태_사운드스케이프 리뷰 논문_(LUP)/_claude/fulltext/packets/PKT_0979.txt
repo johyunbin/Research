@@ -1,0 +1,215 @@
+### RECORD ID=979 | screening_verdict=INCLUDE | year=2023
+JOURNAL: VISUAL COMMUNICATION
+TITLE: Walking through the city soundscape: an audio-visual analysis of sensory experience for people with psychosis
+DOI: 10.1177/14703572211052638
+PAGES: 25
+
+--- HEAD (title/abstract/intro) ---
+https://doi.org/10.1177/14703572211052638
+Visual Communication 2022
+Vol. 22(1) 71–95 
+© The Author(s) 2022 
+Article reuse guidelines: sagepub.com/journals-permissions
+DOI 10.1177/14703572211052638
+v i s u a l c o m m u n i c a t i o n
+ 
+Walking through the city soundscape: 
+an audio-visual analysis of sensory 
+experience for people with psychosis
+S A R A M E R L I N O
+University of Roma Tre, Italy
+L O R E N Z A M O N D A D A
+University of Basel, Switzerland
+O L A S Ö D E R S T R Ö M
+University of Neuchâtel, Switzerland
+A b s t r a c t
+This article discusses how an aspect of urban environments – sound 
+and noise – is experienced by people walking in the city; it particu-
+larly focuses on atypical populations such as people diagnosed with 
+psychosis, who are reported to be particularly sensitive to noisy envi-
+ronments. Through an analysis of video-recordings of naturalistic 
+activities in an urban context and of video-elicitations based on these 
+recordings, the study details the way participants orient to sound and 
+noise in naturalistic settings, and how sound and noise are reported 
+and reexperienced during interviews. By bringing together urban con-
+text, psychosis and social interaction, this study shows that, thanks to 
+video recordings and conversation analysis, it is possible to analyse in 
+detail the multimodal organization of action (talk, gesture, gaze, walk-
+ing bodies) and of the sensory experience(s) of aural factors, as well 
+as the way this organization is affected by the ecology of the situation.
+K e y w o r d s
+conversation analysis • multimodal analysis • multisensoriality 
+• psychosis • sensory aural factors • social interaction • urban 
+environment • video methods
+1052638 VCJ
+Visual CommunicationMerlino et al.: Walking through the city soundscape
+a r t i c l e
+
+72
+V i s u a l C o m m u n i c a t i o n 2 2 ( 1 )
+1 . I n t r o d u c t i o n
+Despite an increasing interest in how local ecology impacts social interactions, 
+the way sensorial features of the environment are oriented to and integrated 
+in social exchanges remains understudied. In particular, surrounding sounds 
+and noise have been neglected in interactional studies. This article offers a 
+video-based approach to aural–visual phenomena characterizing social activi-
+ties in urban contexts, with a special focus on how people walking in the city 
+orient to the sonic ecology of spatial and material surroundings – their sound-
+scape. It focuses on patients with psychosis, who are known to be particularly 
+sensitive to sensory environments, specifically noise. The article contributes to 
+several lines of inquiry. It adds to sound studies in an original way, by includ-
+ing not only sounds but a more holistic view of the soundscape, considering 
+the bodies of those who hear them and their responses to them. It contrib-
+utes to a recent interest of interactional studies in sensoriality, by suggesting 
+that the perception of sounds can be integrated in a multimodal multisenso-
+rial analysis. It also contributes to the study of atypical populations within the 
+city, namely persons living with a diagnosis of psychosis, who are notoriously 
+affected by noise, but who have not yet been observed as they actually experi-
+ence noisy situations. These contributions are developed within the perspec-
+tive of multimodal conversation analysis, where video enables an understand-
+ing of how participants in social interaction mobilize talk and their bodies 
+within particular ecologies.
+2 . S t a t e o f t h e A r t
+The idea of soundscape has been proposed by Schafer (1977) to refer to our 
+sonic environment and our ability of distinguishing nuances of sounds not 
+only in nature but also in cultural and urban spaces. Sound qualities and aural 
+sensoriality have been addressed within sound studies (Pinch and Bijsterveld, 
+2012; Sterne, 2012), including acoustemology, an ethnographic exploration of 
+sonic sensibilities (Feld, 2015). The sound quality of the environment is a fun-
+damental dimension of the world we inhabit and of our sensory experiences. 
+Although cities are often considered as noisy places, the array of sounds that 
+populate them is much larger and can be categorized in many ways (Thibaud, 
+2003), which may be variously considered by citizens: ‘the spaces of the city 
+form an ordered as well as a temporally defined ecology of noise, sound and 
+occasional silence and one which is regularly contested at both the individual 
+and broader political scales’ (Atkinson, 2007: 1908).
+How to capture, then, the ways in which the soundscape actually 
+impacts the details of social interaction? Despite developments in conversa-
+tion analysis concerning multimodality (Goodwin, 2017; Mondada, 2016; 
+Streeck et al., 2011), and multisensoriality (Mondada, 2019), as well as an 
+interest in the spatial surroundings of social interaction (Bergmann, 1990; 
+
+73
+M e r l i n o e t a l . : W a l k i n g t h r o u g h t h e c i t y s o u n d s c a p e
+Haddington et al., 2013), non-linguistic sounds and their sensory appraisal 
+have been largely neglected in this approach. Recent contributions (Keevallik 
+and Ogden, 2020) focus on the sounds of the body (like grunts, sniffs, etc.), 
+rather than sounds of the environment or noisy contexts. An exception are 
+Heinemann and Rauniomaa (2016) and Rauniomaa and Heinemann (2014) 
+examining how participants adjust to ambient noise, by adapting their talk 
+and by turning on or muting auditory objects – in the latter case, displaying 
+prioritizing talk. By focusing on how noise is oriented to and integrated in 
+actual situated practices, we propose an approach of aural sensoriality in con-
+versation analysis.
+Noisy environments have been identified as particularly harmful for 
+the global population in general, and for people with psychosis in particular 
+(Vassos et al., 2012). Noise is a well-documented source of stress in psychiatric 
+research on psychosis. However, research in psychiatry on ‘auditory anoma-
+
+--- METHODS/RESULTS EXCERPT ---
+Participants might orient to sounds as perturbing noise not only by bodily 
+reacting to them (§5.1.1) or explicitly commenting on a noisy event (§5.1.2), 
+but also by showing a change in their verbal and embodied conduct before and 
+after the noise.
+In the next fragment (Excerpt 5), Benoît and Nadia are walking 
+along a sidewalk. Nadia recognizes, on the right side of the sidewalk, the 
+building and signs of a company she works with and she starts to talk 
+about this company. The conversation unfolds in an ordinary way, initi-
+ated by Nadia’s noticing, and collaboratively developed through Benoît’s 
+questions and displays of interest (this part of the transcript is omitted 
+here). Meanwhile, the participants not only continue to walk together, but 
+they also alternatively look together at details of the environment and at 
+each other as they talk.
+The verbal and embodied conduct of Benoît is observably altered a 
+few seconds after, when a series of audible noises occurs. At this precise 
+moment, the participants are walking past a big truck (Figure 9), which 
+not only spatially restricts the way, creating a narrow corridor, but also 
+possibly amplifies the effects of noise. The first two noises occur while 
+Nadia is mentioning some presents the company offered to its customers 
+for Christmas:
+
+82
+V i s u a l C o m m u n i c a t i o n 2 2 ( 1 )
+Excerpt 5a (B_W_013756) 
+The first metallic noise is quite short (2) and seems to capture Benoît’s atten-
+tion (who looks to his right, Figure 10). Nadia continues her turn by represent-
+ing with her hands, in an iconic gesture, the ‘coffret’ (small box) she is talking 
+about: while she increments her turn, by adding more details (4), she gazes at 
+
+83
+M e r l i n o e t a l . : W a l k i n g t h r o u g h t h e c i t y s o u n d s c a p e
+Excerpt 5b 
+Benoît, who is now looking in front and responds with a minimal nod. Another 
+very loud metallic noise occurs (6) that overlaps with Nadia’s turn: while she 
+keeps looking at Benoît, he first looks down (Figure 11), and then to his left 
+(Figure 12). These gaze reorientations are sequentially located during and after 
+the noise occurs. In contrast, the noise does not affect Nadia’s turn who, despite 
+a short hesitation/perturbation, continues to talk and completes her turn with a 
+final falling intonation (7). Following a short pause (8), she increments it again 
+with a new development (9). This shows how Nadia is managing the absence of 
+immediate uptake by Benoît. He only responds later (10), in a quite delayed and 
+minimal way; moreover, his turn is characterized by an irritated prosody (high 
+volume and stretched syllables). He does not gaze at Nadia any more but focuses 
+instead on the street in front of him.
+His posture becomes even more disengaged in what follows: 
+Keeping the focus on the same conversational topic, after a long silence (11), 
+Nadia produces an assessment (12). Assessments project the relevance of an 
+answer/acknowledgement by the interlocutor: Benoît aligns to this projection, 
+but only after a pause and with a minimal ouais (14). The temporality of his 
+
+84
+V i s u a l C o m m u n i c a t i o n 2 2 ( 1 )
+turns and his minimal contributions show a quite different engagement in the 
+conversation, as compared to what he was doing just before this noise occurred.
+The conversation fades out and a very long silence follows (29 seconds: 
+the longest silence in the entire walk-along, 17–21). During this conversa-
+tional gap, other noise occurs: first, a car horn (18), following which Benoît 
+looks down (this shows again a recurrent sequential pattern, in which gazing 
+down follows a noise); then a very strident and long noise (like a screech of 
+tyres, 20). While Nadia does not seem to change her conduct, Benoît looks to 
+his left and squeezes his mouth (Figures 13–14), progressively walking away 
+from his partner (Figure 15). During the following pause (21), Benoît looks 
+to the front again and then from right to left in a circumspect way. This long 
+silence is interrupted by Nadia who finally introduces a new topic (22), for-
+matted as a question (which prompts her interlocutor to respond).
+This excerpt shows how participants might be affected by surround-
+ing noise, even when they do not explicitly turn to or comment on it. The 
+comparison between Benoît’s (patient and hearer) conversational conduct 
+before and after a noisy event – especially a loud and strident one – reveals 
+dramatic changes in his capacity to participate in the conversation. These 
+changes are observable in the form of minimal replies, delayed contribu-
+tions and absence of topic initiation or collaboration. Moreover, they are 
+manifested by a particular solitary gait (distinct from a coordinated walk 
+with the partner), gaze aversion and gaze redirection, browsing the envi-
+ronment and orienting towards the source of the noise. Even if he does 
+not make any comment about the noise, the fine-grained sequential analy-
+sis of his conduct reveals important perturbations, which should be taken 
+into consideration to identify possible behavioural effects of urban audible 
+sources of stress.
+To sum up, video data make accessible not only the sounds character-
+izing the city environment, but first and foremost the participants’ embodied 
+and verbal conduct in reaction to them, making them relevant and meaning-
+ful (or not). This allows the identification of complex, context-dependent fea-
+tures that shape the treatment of the city soundscape among urban dwellers. 
+Moreover, this confirms that persons living with a diagnosis of psychosis are 
+hypersensitive to urban noise, and enables possible differentiation between 
+persons with psychosis and other city users.
+5.2. Talking about noise in video elicitations
+Persons with psychosis often talk about noise as being stressful. However, as 
+shown above, urban noise is treated as a source of perturbation only in cer-
+tain circumstances and not in others. So, how can video-el
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1 of Excerpt 1, reproduced here below). 
+Figure 2), while 
+Figure 3), 
+Figure 6), fully engaging in and enjoy-
+Figure 7). She also makes a negative assessment (HE, 6) and 
+Figure 8). He offers an account for that to Irina (8), still joking. 
+Figure 9), which 
+Figure 10). Nadia continues her turn by represent-
+Figure 11), and then to his left 
+Figure 12). These gaze reorientations are sequentially located during and after 
+Figure 15). During the following pause (21), Benoît looks 
+Figure 18). Benoît 
+Figure 19). In this way, the categorization is aligned both 

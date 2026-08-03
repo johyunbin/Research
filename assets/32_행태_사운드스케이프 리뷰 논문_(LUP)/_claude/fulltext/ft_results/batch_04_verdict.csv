@@ -1,0 +1,10 @@
+no,final_verdict,exclude_reason,confidence
+1243,FINAL_EXCLUDE,서술적 리뷰(비실증)·관찰 행태 아웃컴 없음,high
+1258,FINAL_INCLUDE,,high
+234,FINAL_EXCLUDE,주거지 소음 짜증·건강 설문·공공 옥외공간 행태 아웃컴 없음,high
+613,UNCERTAIN,미확정: 소음 지각-신체활동 연관 발췌 미확인·환경지각 종합 연구,low
+648,FINAL_EXCLUDE,선호·주관적 지각만 측정·관찰 행태 아웃컴 없음,medium
+694,FINAL_INCLUDE,,medium
+726,UNCERTAIN,미확정: 음환경 측정 없음·활동유형과 청각요소 언급 연관만 존재,low
+729,FINAL_EXCLUDE,음환경 노출 측정 없음·사적 주택 마당 자연접촉 연구,medium
+762,FINAL_INCLUDE,,medium

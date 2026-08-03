@@ -1,0 +1,238 @@
+### RECORD ID=862 | screening_verdict=INCLUDE | year=2022
+JOURNAL: FORESTS
+TITLE: Temporal and Spatial Characteristics of Soundscape Ecology in Urban Forest Areas and Its Landscape Spatial Influencing Factors
+DOI: 10.3390/f13111751
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Citation: Zhao, Y.; Xu, S.; Huang, Z.;
+Fang, W.; Huang, S.; Huang, P.;
+Zheng, D.; Dong, J.; Chen, Z.; Yan, C.;
+et al. Temporal and Spatial
+Characteristics of Soundscape
+Ecology in Urban Forest Areas and
+Its Landscape Spatial Inﬂuencing
+Factors. Forests 2022, 13, 1751.
+https://doi.org/10.3390/f13111751
+Academic Editor: Paloma
+Cariñanos
+Received: 30 September 2022
+Accepted: 19 October 2022
+Published: 24 October 2022
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright:
+© 2022 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Temporal and Spatial Characteristics of Soundscape Ecology in
+Urban Forest Areas and Its Landscape Spatial
+Inﬂuencing Factors
+Yujie Zhao 1, Shaowei Xu 1, Ziluo Huang 1, Wenqiang Fang 1, Shanjun Huang 1, Peilin Huang 1, Dulai Zheng 1,
+Jiaying Dong 2
+, Ziru Chen 3, Chen Yan 1, Yukun Zhong 1 and Weicong Fu 1,4,*
+1
+College of Landscape Architecture and Art, Fujian Agriculture and Forestry University, 15 Shangxiadian Rd.,
+Fuzhou 350000, China
+2
+School of Architecture, Clemson University, Clemson, SC 29634, USA
+3
+College of Architecture and Urban Planning, Fujian University of Technology, 33 Xuefunan Rd.,
+Fuzhou 350118, China
+4
+Collaborative for Advanced Landscape Planning, Faculty of Forestry, The University of British Columbia,
+Vancouver, BC V6T 1Z4, Canada
+*
+Correspondence: weicongfufj@163.com
+Abstract: We explored the spatial and temporal characteristics of the urban forest area soundscape by
+setting up monitoring points (70 × 70 m grid) covering the study area, recorded a total of 52 sound
+sources, and the results showed that: (1) The soundscape composition of the park is dominated by
+natural sounds and recreational sounds. (2) The diurnal variation of sound sources is opposite to
+that of temperature, 6:00–9:00 is the best time for the public to perceive birdsong, and after 18:00, the
+park is dominated by insect chirps. (3) The PSD (power spectral density) and the SDI (soundscape
+diversity index) of the park are greatly affected by public recreation behaviors, and some recreation
+behaviors may affect the vocal behavior of organisms such as birds. (4) Spaces with high canopy
+density can attract more birdsong and recreational sounds in summer, and the combination of
+“tree + lake” can attract more birdsong. Vegetation has a signiﬁcant dampening effect on trafﬁc sound.
+(5) Landscape spatial elements, such as the proportion of hard ground, sky, trees, and shrubs, have a
+signiﬁcant impact on changes in the PSD, the SDI and different kinds of sound sources. The research
+results provide effective data support for improving the soundscape of urban forests.
+Keywords: sound source composition; ecosystem acoustics; temporal and spatial change; land-
+scape space
+1. Introduction
+Urban forests are important places for the public to get a close experience with nature,
+and the ways to improve the quality of urban forest recreation have received increasing
+attention and become the focus of many scholars [1,2]. As the construction of urban forests
+has entered the stage of quality improvement, managers have shifted from the creation of
+visual landscapes to a comprehensive improvement of the sensory experience [3–6], and
+soundscape is an important part of the senses. Ecosystem sounds create a soundscape com-
+prised of acoustic periodicities and frequencies emitted from the ecosystem’s biophysical
+entities. These sounds are acoustic signals that reﬂect the dynamics of biological, social,
+and physical systems of a landscape. Soundscape ecology is “the study of systematic
+relationships between humans, organisms, and their sonic environment”. As an important
+resource ranked only second to the visual landscape, the soundscape has gradually received
+attention in the optimization design of urban forests [7,8]. Understanding and making
+proper use of the sounds in the environment around us are directly related to the livability
+of living environments and the quality of life of residents.
+Forests 2022, 13, 1751. https://doi.org/10.3390/f13111751
+https://www.mdpi.com/journal/forests
+
+Forests 2022, 13, 1751
+2 of 18
+The soundscape varies in different landscape spaces. Scholars have conducted various
+studies on urban forests and other public open spaces, which mainly focused on soundscape
+changes [9–13] and quality evaluation [14–20]. Ali Jahani et al. assessed the role of birdsong
+components in the psychological recovery of urban visitors and developed a decision
+support system as a practical tool [21]. Hong Xinchen et al. explored the impact of
+soundscape-driving factors on the perception of birdsong and established a perceived
+birdsongs model (PBM) that effectively simulated the process from soundscape information
+to perceived birdsongs in urban forests. The methodology developed could be useful for
+soundscape assessment and conservation in urban forests [22]. Liu Jiang et al. showed that
+landscape features greatly affect the public’s perception of soundscapes and human-made
+sounds dominate urban soundscapes in the time-space dimension, but birdsongs and
+certain geophysical sounds also play an important role in soundscape [23]. Hao Zezhou
+et al. studied the variation characteristics and inﬂuencing factors of birdsongs and insect
+chirps in urban forests, as well as analyzed the activity patterns of urban biomes based on
+soundscape records [24]. Scholars have achieved fruitful achievements in the protection of
+green space biodiversity, improvement of public recreational beneﬁts, and the reduction
+in noise; however, the existing research mainly uses the soundwalk method or sets up
+monitoring points in typical recreational areas to collect and analyze the acoustic data, and
+therefore, the results of studies are of weak guiding signiﬁca
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study Location
+Fuzhou was awarded the title of the “Chinese National Forest City” in 2017 and
+the “National Forest Tourism Model City” in 2018. Hot Spring Park is located in the city
+center of the intersection of “Riding Greenway” and “Inner River Greenway” in Fuzhou,
+which belongs to the core of urban forest [25]. The Hot Spring Park covers an area of
+about 10 hm2(119◦18′34′′ E~119◦18′55′′ E, 26◦5′43′′ N~26◦5′59′′ N). The park contains
+high species richness, with over 2000 big trees and 200 kinds of plants being planted
+here, and contains dozens of plant community structures, such as palm forest, evergreen
+coniferous forest, evergreen broad-leaved forest and deciduous broad-leaved forest [26].
+With the increase in development in the city, Hot Spring Park has become a place for
+exercise, leisure, and entertainment for the public. In recent years, Hot Spring Park has
+undergone continuous upgrades and transformations, which provides the possibility for
+future soundscape integration.
+2.2. Soundscape Monitoring and Data Acquisition
+2.2.1. Soundscape Monitoring
+According to previous studies, the feasible distance between recording equipment
+is 100 m [27–29]. We divided Hot Spring Park into grids that were equally distanced at
+70 × 70 m [27] and selected 31 monitoring points (Figure 1). After our pre-experiment
+in July 2021, we randomly selected 3 sunny and breezy days for acoustic data collection
+(contains the weekend) so that our experiment would be more consistent with the actual
+
+Forests 2022, 13, 1751
+3 of 18
+situation of the park soundscape. Monitoring points were collected by placing a Sony
+PCM-D100 recording device in the center of a grid; if the monitoring point was inaccessible,
+an appropriate offset was made. Sampling occurred between 6:00 and 22:00 (park opening
+hours), and the sampling frequency was set to 44,100 Hz. The data resolution is set to 16 bit
+and the audio format was WAV. After sampling, we randomly intercepted 2 min of sound
+ﬁles within one hour [11], and had an average of 992 min of sound clips per day.
+Figure 1. Grid and location of monitoring points (the numbers represent our monitoring points).
+2.2.2. Panoramic Photos Collection
+To analyze the landscape spatial characteristics of the monitoring site, a panoramic
+camera (Insta360 One X, panoramic image example shown in Figure 2) was placed during
+sound collection.
+ 
+Figure 2. Panoramic overview of 31 monitoring point.
+
+Forests 2022, 13, 1751
+4 of 18
+2.3. Data Processing and Analysis
+2.3.1. Sound Source Analysis
+To identify and classify the types of sound sources in urban parks, Adobe Audition
+was used in combination with spectrograms. Sound events can be visualized through
+the spectrogram, where brighter and more intense colors indicate a sound with greater
+power [30]. In our experiment, each acoustic signal appeared at the end of vocalization as
+one vocalization event [31] (Figure 3). In the statistics of audio, different kinds of sound
+sources in the same audio can be counted separately in frequency and time length, and
+sound types can overlap with each other.
+ 
+Figure 3. Schematic diagram of sound spectrum recognition in each frequency band.
+2.3.2. Power Spectral Density
+Different entities in the soundscape produce sounds at different frequencies [11].
+Sound signals depict frequency on the vertical axis of the spectrum and time on the
+horizontal axis. The shading indicates the intensity (the power spectral density, PSD)
+of the sound signal at a particular frequency and time. Calculating the power spectral
+density can reﬂect the intensity of all the collected sound signals more objectively, and
+can also calculate the intensity of sound signals in different frequency intervals. The PSD,
+measured in w/kHz, was created by Welch in 1967 and represents the physical quantity of
+the power of an acoustic signal in relation to its frequency [32]. It is usually used to study
+acoustic signals of random vibration. The power of the sound can reﬂect the change of
+sound amplitude; that is, the greater the power, the greater the amplitude, the greater the
+amplitude, the greater the loudness, the greater the loudness, the stronger the sound is
+perceived by people [33]. Matlab was used to calculate the PSD in the range of 1–11 kHz
+to explore its temporal and spatial variations. In this study, the frequency of the sound
+sources observed was concentrated above 1 kHz, and data in the lowest interval, 0–1 kHz,
+was excluded as this can be largely attributed to human operation.
+2.3.3. The Soundscape Diversity Index
+The soundscape diversity index (SDI), used to evaluate the diversity of sound elements
+in the environment, was developed as an improved Simpson Diversity Index by scholars [34,35].
+The main expression is as follows:
+SDI = 1 −
+S
+∑
+i=1
+( n
+N )
+2
+(1)
+
+Forests 2022, 13, 1751
+5 of 18
+where n and N are the total number of perceived occurrences of a particular sound, I, and
+all sounds, S, in the soundscape sample, respectively. The SDI ranges between 0 and 1, and
+the greater the value, the more diverse the soundscape.
+The SDI could “objectively” reflect soundscape characteristics and illustrates the overall
+soundscape perception characteristics [34], we calculated the SDI of each monitoring point
+to explore the spatial and temporal variation characteristics of park soundscape diversity.
+2.3.4. Image Semantic Segmentation
+To begin image semantic segmentation, a total of 770 pictures of Fuzhou city park
+were collected by camera (Contains both regular and panoramic photos) and randomly
+divided into training and test set according to the ratio of 10:1. Based on the classiﬁcation
+of ADE20K dataset, images (including ordinary images and panoramic images) were
+manually annotated and input into DeeplabV3+ for training. The segmentation accuracy of
+the model reached 66.022% (MIoU = 66.022%), among which the segmentation accuracy
+of the water surface reached 84.53%. DeeplabV3+ is a mainstream network model in the
+ﬁeld of image sem
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). After our pre-experiment
+Figure 1. Grid and location of monitoring points (the numbers represent our monitoring points).
+Figure 2) was placed during
+Figure 2. Panoramic overview of 31 monitoring point.
+Figure 3). In the statistics of audio, different kinds of sound
+Figure 3. Schematic diagram of sound spectrum recognition in each frequency band.
+Figure 4 [38].
+Figure 4. DeepLab V3+ model structure diagram [36].
+Table 1.) [2,39–41]. The
+Table 1. Classiﬁcation of park sound source types.
+Figure 5). Natural
+Figure 5. Diurnal variation characteristics of duration, frequency and relative proportion of various
+Figure 6). Except for the sounds from birds, insects, horns,
+Figure 6. Diurnal variation of acoustic power spectral density in 10 frequency ranges.
+Figure 7. Sound power decreases with the increase in the frequency. The
+Figure 7. Daily variation of the relative proportion of sound power in each frequency band.
+Figure 8).
+Figure 8. Characteristics of daily variation of the SDI.
+Figure 9.
+Figure 9. Spatial distribution of natural, trafﬁc, management, and recreational sounds.
+Figure 10 shows the distribution of the PSD in Hot Spring Park during the summer.
+Figure 10. (a) Spatial distribution characteristics of the PSD; (b) spatial distribution characteristics of
+Figure 10, monitoring points 12 and 13 were in open spaces with a
+Table 2., the proportion of hard ground had a signiﬁcant positive correla-
+Table 3). Our results showed that the proportion of hard ground, sky, trees, and shrubs had

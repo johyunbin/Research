@@ -1,0 +1,206 @@
+### RECORD ID=833 | screening_verdict=INCLUDE | year=2022
+JOURNAL: JOURNAL OF TRANSPORT & HEALTH
+TITLE: How are air pollution and noise perceived en route? Investigating cyclists' and pedestrians' personal exposure, wellbeing and practices during commute
+DOI: 10.1016/j.jth.2021.101325
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Journal of Transport & Health 24 (2022) 101325
+Available online 22 January 2022
+2214-1405/© 2022 Elsevier Ltd. All rights reserved.
+How are air pollution and noise perceived en route? Investigating 
+cyclists’ and pedestrians’ personal exposure, wellbeing and 
+practices during commute 
+Heike Marquart a,b,*, Kerstin Stark a, Julia Jarass a 
+a Institute of Transport Research, German Aerospace Center (DLR), Berlin, Germany 
+b Geography Department, Humboldt University Berlin, Berlin, Germany 
+A R T I C L E I N F O 
+Keywords: 
+Ride-along 
+Go-along 
+Sensory awareness 
+Perception 
+Air pollution 
+Noise 
+A B S T R A C T 
+Background: Commuting by bicycle or on foot is beneficial for health and wellbeing. However, 
+cycling and walking alongside road traffic poses the risk of air pollution and noise exposure. 
+Traditionally, exposure research is based on objective measurements. Only recently have sub­
+jective perceptions gained attention. The perceived exposure to air pollution and noise en route 
+and the momentary sensory awareness in traffic has rarely been investigated. This study addresses 
+this research gap. The aim was to examine cyclists’/pedestrians’ sensory awareness, perceived 
+and measured exposure, and practices to reduce health risks and improve wellbeing en route. 
+Methods: A mixed-methods approach was applied: (1) go-/ride-alongs with 28 participants in 
+Berlin, Germany, were conducted. Cyclists/pedestrians were accompanied on their commute 
+home from work. Meanwhile, a semi-structured qualitative interview during cycling/walking was 
+applied to discover experiences, practices and perceptions on-site. (2) Simultaneously, noise (dB 
+(A)), GPS and air pollution (particulate matter) were registered with wearable sensors. 
+Results: Measured exposure was partly in line with perceived exposure. However, some situations 
+with high exposure were evaluated as positive due to sensory awareness (greenery/water, urban 
+aesthetics) or social cues (other people, neighborhood areas). Community feelings, aesthetic/ 
+interesting urban form and passing people who perform leisure activities and, thus, take 
+ownership of their city, improved a pleasant commute. Using hidden paths to include greenery 
+and protective practices (e.g., increasing the distance from emitters) were examined. 
+Conclusions: Cyclists and pedestrians are directly exposed to their environment, which jointly 
+influences health and wellbeing. Air pollution and noise need to be addressed, as do exposure 
+perceptions and other sensory experiences. Passing community areas, having an interesting trip, 
+seeing/smelling blue and green spaces, and the quietness associated with these experiences 
+improve a cyclist’s/pedestrian’s wellbeing during their commute. Further research on how to 
+plan for and communicate about healthy and pleasant routes is needed. 
+1. Introduction 
+Urban transport plays a key role in improving health and wellbeing in cities (Nieuwenhuijsen and Khreis, 2019). Motorized 
+* Corresponding author. Institute of Transport Research German Aerospace Center (DLR), 12489, Berlin, Germany. 
+E-mail address: heike.marquart@dlr.de (H. Marquart). 
+Contents lists available at ScienceDirect 
+Journal of Transport & Health 
+journal homepage: www.elsevier.com/locate/jth 
+https://doi.org/10.1016/j.jth.2021.101325 
+Received 8 September 2021; Received in revised form 8 December 2021; Accepted 31 December 2021 
+
+Journal of Transport & Health 24 (2022) 101325
+2
+transport is responsible for harmful air pollutants and high noise levels, which adversely impact urban dwellers’ physical and mental 
+health (Li et al., 2018; Nieuwenhuijsen, 2016; WHO, 2018). In European cities, traffic noise and airborne particulate matter are two of 
+the leading environmental health risk factors and are especially high alongside high-density road traffic (Okokon et al., 2017; 
+H¨anninen et al., 2014). Next to physical health impacts, wellbeing is highly related to transport and is influenced during the travel 
+itself or in the long-term (Chatterjee et al., 2020; Nordbakke and Schwanen, 2013; Reardon and Abdallah, 2013). 
+In particular, cyclists and pedestrians face high levels of air pollution and noise alongside road traffic (Apparicio et al., 2016; 
+Chaney et al., 2017). Then again, active mobility promotes physical and mental health, increases wellbeing and the overall satisfaction 
+of travel (Chatterjee et al., 2020; Mouratidis et al., 2019; Mytton et al., 2016; Synek and Koenigstorfer, 2019). To enhance active 
+mobility, it is, therefore, important to improve cyclists’/pedestrians’ experience during travel and minimize their exposure, leading to 
+improved wellbeing and health. 
+Research on air pollution or noise exposure during travel and its relation to travel behavior, and its social and health impacts are 
+still limited (Poom et al., 2021). Most exposure studies see exposure as being stable over space and time (stationarity bias) and refer to 
+measured exposure and its physical health impacts, whereas research on the perceived exposure from a nonstationary perspective is 
+lacking (Kwan, 2021; Marquart et al., 2021; Noel et al., 2021). This is important, because travelers, such as cyclists and pedestrians, 
+have different places they pass; therefore, they have unique exposure profiles which vary in time and space (Borbet et al., 2018; Park, 
+2020; Heydon and Chakraborty, 2020; Kou et al., 2020; Marquart et al., 2021). These can be captured by wearable sensors (Helbig 
+et al., 2021). Recently, research explored the subjectively perceived exposure, which is not always in line with measured exposure (Kou 
+et al., 2020; Marquart et al., 2021; Nikolopoulou et al., 2011; Ueberham et al., 2019; Verbeek, 2018). Hence, there is a need to 
+investigate perceived exposure. Qualitative research can be beneficial, because it allows in-depths investigations into the discrepancies 
+in measured and perceived exposure and the situational, contextual or local elements that infl
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+To explore exposure and perceptions simultaneously, a mixed-methods approach was applied using qualitative interviews on the 
+move (so called “walking interviews” or “go-/ride-alongs”) and parallel measurements with wearable sensors. Go-/ride-alongs are 
+based on ethnography as well as practice theory; they reveal subjective perceptions, sensory awareness and practices by discussing 
+them in an explorative way while moving (Degen and Rose, 2012; Evans and Jones, 2011; Kusenbach, 2003; Kühl 2016; Pink, 2015). 
+Based on a qualitative research design, the interviewee is understood as an ‘expert’ of his/her own life. Interacting with or ‘following’ a 
+person in different familiar sites provides an understanding of how and why a person perceives, acts in and navigates through his/her 
+environment (Büscher, 2011; Carpiano, 2009; Marcus, 1995). The qualitative research design is complemented by quantitative 
+exposure measurements on the move using wearable sensors. These are beneficial to assess the dynamic exposure situations of moving 
+people (Ma et al., 2020b; Schlink and Ueberham, 2020). 
+3.1. Sampling and procedure 
+The study took place in Berlin, Germany. Berlin is the capital of Germany with 3.6 million inhabitants (2020). The study had three 
+recruiting phases: I. October–December 2019, II. August–October 2020 and III. October–November 2020.1 Interviewees were recruited 
+through social media (Twitter and snowballing), newsletters, flyers, direct contact with offices and online neighborhood networks. 
+Therefore, different commuting routes were ensured. As an incentive, interviewees were offered personal feedback on air pollution and 
+noise. Requirements for taking part were commuting to work with a bicycle, on foot and/or by public transport and living and working 
+in Berlin. The participants were selected allowing for a balanced gender and age ratio. After each phase, a group discussion about 
+experiences, measurements and risk communication was held (group discussions are the topic of a forthcoming article). We conducted 
+three pre-tests. 
+In total, 28 people participated in the study. Most of them commuted by bicycle. All interviewees had a driver’s license and a 
+bicycle available, followed by public transport tickets and car-sharing. Most had flexible working hours and no children, which made it 
+easier to choose routes and times freely. A total of 21 interviews were conducted by bicycle, five on foot (and public transport, i.e., bus, 
+commuter train or subway) and two by bicycle and commuter train. Table 1 provides an overview. 
+3.2. Interview procedure 
+The go-/ride-along interview took place directly after work. Interviewees decided a time and place close to their work. Firstly, a 
+sedentary introductory interview, which helped to familiarize with the situation, was conducted. The interviewee gave an overview of 
+his/her route, health/wellbeing status and perceived air pollution and noise. Consequently, the interviewer could refer back to these 
+Table 1 
+Overview of the sample. 
+Mode of transport used during the study (n) 
+Gender 
+(n) 
+Age (n) 
+Mode of transport available 
+(household) (n) 
+Employment (n) 
+Integrate children in 
+route (n) 
+Bicycle (21) 
+Walking þ public transport (5) 
+Cycling þ public transport (only 
+commuter train) (2) 
+Female 
+(16) 
+Male (12) 
+21–30 
+(9) 
+31–40 
+(8) 
+41–50 
+(4) 
+51–60 
+(5) 
+61–70 
+(1) 
+n/a (1) 
+Bicycle (28) 
+Public transport ticket (15) 
+Car-sharing (13) 
+Car (7) 
+Bicycle-sharing (4) 
+Scooter-sharing (2) 
+Motorbike (1) 
+Full-time (9) 
+Part-time (flexible) 
+(12) 
+Part-time (non- 
+flexible) (2) 
+Self-employed (2) 
+Student (7) 
+No (21) 
+Yes, sometimes (5) 
+Yes, always (2) 
+1 The longer break in between phase I and phase II and III was due to the corona pandemic in early 2020. Interview phase II and III were after the 
+corona pandemic outbreak, phase I before. 
+H. Marquart et al. 
+
+Journal of Transport & Health 24 (2022) 101325
+5
+statements later on and become familiar with the forthcoming route. Directly following this, the interviewer accompanied the 
+interviewee on the commute. The after-work commute was chosen because exposure is perceived as severe during late afternoon 
+hours, in which relaxed activities are supposed to take place (Schreckenberg and Guski, 2005). 
+The go-/ride-along was conducted by bicycle or on foot (incl. public transport), as preferred by the interviewee. Meanwhile, a semi- 
+structured interview guideline based on elements of risk perception and PADM (Lindell and Perry, 2012) (section 2) covered four 
+topics: (1) practices while cycling/walking and route choices (past experiences, protective actions, social cues), (2) perception and ex­
+periences of the immediate environment (sensorial awareness: auditive, visual, olfactory), (3) health perception, mood and situational 
+wellbeing (threat perception, attitudes, personal characteristics) and (4) authority arguments, air pollution and noise in general or in situ 
+(information, warning messages). This stimulated the interviewees to actively think about exposure. Ad-hoc questions were asked based 
+on the immediate environment, sudden incidents or referring to the introductory interview. The interviewer recorded her own 
+observations. 
+3.3. Technical equipment 
+The interview questions were well known by the trained interviewer and were attached to her bicycle. For safety reasons, the 
+interviewee and interviewer received an audio recorder and a microphone attached to the collar; hence, they could cycle/walk freely. 
+The time that the recording started was noted. During the go-/ride-alongs, the interviewer carried wearable sensors measuring noise 
+(dB(A), interval: 2 s, device: Motorola G3 with an external microphone and pre-installed sensing application based on Ueberham et al., 
+2018) and particle number count (PNC) (0.5–2.5 μm, #/ft3, interval: 1 min, sensor: DylosLogger 1700). The devices were previously 
+applied and validated (Ueberham and Schlink, 2018; Ueberham e
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Conceptual framework (based on Marquart et al., 2021): Interaction of personal exposure, health and wellbeing en route. Physical/mental 
+Fig. 1). This paper draws attention to wellbeing and pleasure during 
+Table 1 provides an overview. 
+Table 1 
+Fig. 2 shows the 
+Fig. 2. Study design. 
+Table 2 
+Fig. 3. Left: Comparing measured (sensors) air pollution data with perceived air pollution (interview statements on momentary noticeable air 
+Table 2 shows the categories we developed from the data. 
+Fig. 3). There is no clear tendency when comparing 
+Fig. 3). 
+Fig. 4). Reasons for these discrepancies are, for example, vegetation/ 
+Fig. 4). 
+Fig. 4. Coded interview statements (“codes”) during extremely high/very high and extremely low/very low measured particle number counts (for 
+Fig. 4). 
+Fig. 5). Fountains made busy roads pleasant (RA11, RA22, GA8). 
+Fig. 5. Differences in perceived and measured exposure and the importance of the surrounding environment, i.e., bodies of water (RA11).3 
+Fig. 6). 
+Fig. 6. Example of two pedestrians living in the same neighborhood. The train station with high PNCs is perceived as unpleasant, whereas the 
+Fig. 7). The knowledge of hidden paths was important and gained through peers, 
+Fig. 7) (RA12, RA19, RA20, RA21). 
+Fig. 7. Example of "hidden paths", made by Ride-Along 21. The PNC level in the hidden paths was comparably extremely low, and the interviewee 
+Fig. 8). 
+Fig. 8. Extended conceptual framework for personal exposure, health and wellbeing en route (based on Fig. 1), enriched with the results obtained in 

@@ -1,0 +1,230 @@
+### RECORD ID=779 | screening_verdict=INCLUDE | year=2021
+JOURNAL: ENVIRONMENT INTERNATIONAL
+TITLE: Urban environment and obesity and weight-related behaviours in primary school children
+DOI: 10.1016/j.envint.2021.106700
+PAGES: 14
+
+--- HEAD (title/abstract/intro) ---
+Environment International 155 (2021) 106700
+Available online 15 June 2021
+0160-4120/©
+2021
+The
+Authors.
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY-NC-ND
+license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Urban environment and obesity and weight-related behaviours in primary 
+school children 
+Jeroen de Bont a,b,c,d,e, Sandra M´arquez a,b,c, Sílvia Fern´andez-Barr´es a,b,c, 
+Charline Warembourg a,b,c, Sarah Koch a,b,c, Cecilia Persavento a,b,c, Silvia Fochs a,b,c, 
+Núria Pey a,b,c, Montserrat de Castro a,b,c, Serena Fossati a,b,c, Mark Nieuwenhuijsen a,b,c, 
+Xavier Basaga˜na a,b,c, Maribel Casas a,b,c, Talita Duarte-Salles d, Martine Vrijheid a,b,c,* 
+a ISGlobal, Barcelona, Spain 
+b Spanish Consortium for Research on Epidemiology and Public Health (CIBERESP), Spain 
+c Universitat Pompeu Fabra, Barcelona, Spain 
+d Fundaci´o Institut Universitari per a la recerca a l’Atenci´o Prim`aria de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, Spain 
+e Universitat Aut`onoma de Barcelona, Bellaterra (Cerdanyola del Vall`es), Spain 
+A R T I C L E I N F O 
+Handling Editor: Olga-Ioanna Kalantzi 
+Keywords: 
+Urban environment 
+Body mass index 
+Childhood obesity 
+Weight-related behaviours 
+Cluster analyses 
+A B S T R A C T 
+Background: Urban environments are characterised by many factors that may influence children’s lifestyle and 
+increase the risk of childhood obesity, but multiple urban exposures have scarcely been studied. 
+Objective: We evaluated the association between multiple urban exposures and childhood obesity outcomes and 
+weight-related behaviours. 
+Methods: We conducted a cross-sectional study including 2213 children aged 9–12 years in Sabadell, Spain. We 
+estimated ambient air pollution, green spaces, built and food environment, road traffic and road traffic noise at 
+residential addresses through a total of 28 exposure variables in various buffers. Childhood obesity outcomes 
+included body mass index (BMI), waist circumference and body fat. Weight-related behaviours included diet (fast 
+food and sugar-sweetened beverage consumption), physical activity, sedentary behaviour, sleep duration and 
+well-being. Associations between exposures (urban environment) and outcomes (obesity and behaviours) were 
+estimated in single and multiple-exposure regression models and in a hierarchical clustering on principal com­
+ponents (HCPC) analysis. 
+Results: Forty percent of children were overweight or obese. In single exposure models, very few associations 
+were observed between the urban exposures and obesity outcomes or weight-related behaviours after correction 
+for multiple testing. In multiple exposure models, PMcoarse, denser unhealthy food environment and land use mix 
+were statistically significant associated with childhood obesity outcomes (e.g 17.7 facilities/km2 increase of 
+unhealthy food environment (OR overweight/obesity status) = 1.20 [95% CI: 1.01; 1.44]). Cluster analysis 
+identified 5 clusters of urban exposures. Compared to the most neutral cluster, the cluster with high air pollution, 
+road traffic, and road noise levels was associated with a higher BMI and higher odds of overweight and obesity (β 
+(zBMI) = 0.17, [95% CI: 0.01, 0.17]; OR (overweight/obesity) = 1.36, [95% CI: 0.99, 1.85]); the clusters were 
+not associated with the weight-related behaviours. 
+Conclusions: This systematic study of many exposures in the urban environment suggests that an exposure pattern 
+characterised by higher levels of ambient air pollution, road traffic and road traffic noise is associated with 
+increased childhood obesity risk and that PMcoarse, land use mix and food environment are separately associated 
+with obesity risk. These findings require follow-up in longitudinal studies and different settings. 
+* Corresponding author at: Barcelona Institute for Global Health, C/Doctor Aiguader, 88, 08003 Barcelona, Spain. 
+E-mail address: martine.vrijheid@isglobal.org (M. Vrijheid). 
+Contents lists available at ScienceDirect 
+Environment International 
+journal homepage: www.elsevier.com/locate/envint 
+https://doi.org/10.1016/j.envint.2021.106700 
+Received 22 December 2020; Received in revised form 3 June 2021; Accepted 5 June 2021 
+
+Environment International 155 (2021) 106700
+2
+1. Introduction 
+Increasing trends of childhood obesity seem to have plateaued or 
+even slightly decreased in high-income countries in the last decade, but 
+levels are still alarmingly high, especially in Spain which has the second 
+highest prevalence levels of childhood obesity in Europe ((NCD-RisC), 
+2017; de Bont et al., 2020a; WHO, 2018). Childhood obesity has been 
+associated with type 2 diabetes mellitus, hypertension, obstructive sleep 
+apnoea, dyslipidemia and mental health problems (Kumar and Kelly, 
+2017). Excessive weight status is a consequence of a chronic imbalance 
+between excessive energy intake and/or reduced energy expenditure 
+(Kipping et al., 2008; Trasande et al., 2010). The interaction of genetics, 
+lifestyle behaviours and environmental exposures are likely to 
+contribute to this imbalance (Kipping et al., 2008; Trasande et al., 2010). 
+Additionally, the rapid growth of urban areas worldwide has greatly 
+increased the levels of environmental stressors such as higher levels of 
+air pollution, noise and lack of green spaces. This increasing degree of 
+global urbanisation can influence personal behaviours of urban resi­
+dents, such as physical activity levels and sedentary behaviour (Nieu­
+wenhuijsen, 2016), and ultimately contribute to the energy imbalance 
+(Gascon et al., 2016; Nieuwenhuijsen, 2016). 
+A number of studies have recently reported associations between 
+increased levels of air pollution, road traffic, and traffic noise, and 
+increased childhood growth and obesity (Christensen et al., 2016; de 
+Bont et al., 2020b, 2019; Jerrett et al., 2010; Wang et al., 2020; Weyde 
+et al., 2018). Increased levels of green spaces, access to facilities, more 
+diversity of land u
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study design and study population 
+We conducted a cross-sectional school-based study between October 
+2017 and January 2019 in the city of Sabadell, Spain (approximately 
+200,000 inhabitants) within the ECHOCAT (Urban built environment 
+and childhood obesity in Catalonia) project. We aimed to recruit all 
+children in the 4th, 5th and 6th year of primary school (between 9 and 
+12 years old) in Sabadell. Of the 37 Sabadell primary schools that were 
+contacted, 30 schools agreed to join the study. Out of all children and 
+their families contacted at these schools (n = 3542), 1970 (56%) agreed 
+to participate. Participating schools were similar to the remaining 
+schools in Sabadell in terms of urban exposure levels (i.e NO2 levels 
+[38.1 versus 39.8 μg/m3, Kruskal-Wallis test, p = 0.54)], except for noise 
+levels (60.1 versus 63.0 dB(A), p = 0.02). Additionally, we included 
+children participating in the longitudinal INMA (INfancia y Medio 
+Ambiente, Environment and Childhood) Sabadell birth-cohort study. In 
+INMA, 778 pregnant women were recruited in the first trimester of 
+pregnancy between 2004 and 2006, and were followed from then on­
+wards (Guxens et al., 2012). In this study, we included the INMA chil­
+dren who participated in the follow-up visit at age 10–12 and attended 
+Sabadell primary schools in the 4th, 5th and 6th years (n = 481) during 
+the same period of the ECHOCAT study. Similar protocols for data 
+collection, outcome assessment and exposure assessment were used in 
+ECHOCAT and INMA. In both studies, all parents or tutors/guardians 
+signed a consent form and the studies were approved by the Clinical 
+Research Ethical Committee (ECHOCAT N◦= 2016/6635/I, INMA N◦=
+2016/6708/I) of the IMIM-Parc de Salut MAR, Barcelona, Spain. 
+2.2. Childhood obesity outcomes 
+Child anthropometric measurements (height, weight, waist circum­
+ference and body fat percentage) were measured following the same 
+standardized protocol in ECHOCAT and INMA at schools. All measure­
+ments were taken without shoes and in light clothing by specially 
+trained personnel. Child height (nearest 0.1 cm) and weight (nearest 0.1 
+kg) were used to calculate age-and-sex specific BMI z-scores (zBMI, in 
+standard deviation units) following the World Health Organization 
+Growth Reference (de Onis et al., 2007). Children with a zBMI higher 
+than +1 were defined as overweight including obesity, and children 
+below this cut off were considered normal weight, including under­
+weight. We focused on children with overweight rather than only chil­
+dren with obesity because the large number of children that have excess 
+weight and are known to be at an increased risk of multiple adverse 
+health outcomes. Additionally, waist circumference (nearest 0.1 cm) 
+was measured at the high point of the iliac crest and with minimal 
+respiration using an inelastic tape (model 201; SECA, Hamburg, Ger­
+many). Percentage body fat was measured using bioelectrical impedance 
+analyses (TANITA DC-360 and Bodystat 1500 instruments were used in 
+ECHOCAT and INMA, respectively). For INMA we calculated body fat 
+percentage using validated bioimpedance formulas as these are vali­
+dated for the Bodystat instrument (Clasey et al., 2011). For ECHOCAT 
+we used the body fat percentage values directly obtained from the 
+TANITA instrument (McCarthy et al., 2006), because the Clasey equa­
+tion is not validated for this instrument. The values from the TANITA 
+were highly correlated with the values from the Clasey equation 
+(Pearson correlation rs = 0.94). Finally, we obtained waist circumfer­
+ence and body fat percentage z-scores by calculating standardized re­
+siduals from a regression model of waist circumference and body fat 
+percentage as dependent variable, with age, sex and study (ECHOCAT, 
+J. de Bont et al. 
+
+Environment International 155 (2021) 106700
+3
+INMA) as predictors (Eisenmann, 2008). Overall, the outcomes were 
+highly correlated with each other, zBMI and waist circumference z- 
+scores had a Pearson correlation of 0.86, and zBMI and body fat per­
+centage z-scores of 0.79. Therefore, we decided to keep zBMI and 
+overweight/obesity status (normal weight vs overweight/obesity) as our 
+main outcome, and waist circumference and body fat percentage z- 
+scores as sensitivity analyses. zBMI, waist circumference and bio­
+impedance measures are considered as markers of adiposity, intra- 
+abdominal obesity and body composition, respectively (Moreno et al., 
+2011). 
+2.3. Weight-related behaviours 
+Weight-related behaviours including diet, physical activity, seden­
+tary behaviour, and sleeping duration were collected from parents 
+through questionnaires. Psychological well-being was collected directly 
+from the children. 
+Data about dietary intake and dietary behaviours were obtained 
+through a specific questionnaire and a modified version of a validated 
+food-frequency questionnaire (FFQ) (Vioque et al., 2019). The food 
+frequency questionnaire referred to the child intake in the previous year, 
+and it was completed by the parents, and the responses were trans­
+formed to times/week of intake. We selected two items as indicators of 
+unhealthy diet: fast food consumption in restaurants and consumption of 
+sugar-sweetened beverages. The fast food consumption in fast food 
+restaurants was obtained from this question “How often does your child 
+eat fast food (eg. burger, french fries, hot dogs, pizza) in fast food res­
+taurants?”. From the FFQ we obtained the sugar-sweetened beverage 
+consumption. Both variables were categorised (<1 time/week, ≥1 
+times/week) as studies suggests that more frequent users (more than 
+once weekly) are at higher risk (Tambalis et al., 2018). 
+Minutes of physical activity per week were obtained through an 
+adapted version of the Children’s Leisure Activities Study Survey 
+(CLASS) (Telford et al., 2005, 2004). We summed the total amount of 
+time (in hours) of all physical activities performed in an average week. 
+Addition
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1. The expo­
+Table 1 
+Table 2). The prevalence of overweight including obesity was 39.9%. 
+Table 2 
+Table 2 (continued) 
+Table 2). 
+Fig. 1 and S7, and 
+Fig. 1 and S7, 
+Fig. 1 and S7, Table S3). 
+Fig. 2). PMcoarse remained 
+Fig. 2). 
+Fig. 2). Unhealthy food environment also showed associations with 
+Fig. 2) were essentially the same as those from the 
+Fig. 3). Cluster 1 represented very high levels of green spaces and 
+Table 2 (continued) 
+Table 3). We did not observe 
+Table 3) 
+Fig. 1. Association between the urban environment and childhood obesity outcomes in single-exposure ExWAS model (N = 2213). Beta estimates and ORs for all 
+Fig. 2. Associations between urban environment and childhood obesity outcomes in multiple exposure models (N = 2213). Beta estimates for change in zBMI, waist 
+Fig. 3. Description of the clusters obtained from 
+Table 3 

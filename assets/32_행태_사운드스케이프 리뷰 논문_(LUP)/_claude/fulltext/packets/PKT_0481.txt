@@ -1,0 +1,250 @@
+### RECORD ID=481 | screening_verdict=INCLUDE | year=2018
+JOURNAL: FRONTIERS IN PSYCHOLOGY
+TITLE: Influence of Music on the Behaviors of Crowd in Urban Open Public Spaces
+DOI: 10.3389/fpsyg.2018.00596
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+ORIGINAL RESEARCH
+published: 27 April 2018
+doi: 10.3389/fpsyg.2018.00596
+Edited by:
+Catherine Guastavino,
+McGill University, Canada
+Reviewed by:
+William Jonathan Davies,
+University of Salford Manchester,
+United Kingdom
+Simona Sacchi,
+Università degli Studi di Milano-
+Bicocca, Italy
+*Correspondence:
+Jian Kang
+j.kang@hit.edu.cn;
+J.kang@ucl.ac.uk
+Specialty section:
+This article was submitted to
+Environmental Psychology,
+a section of the journal
+Frontiers in Psychology
+Received: 09 November 2017
+Accepted: 09 April 2018
+Published: 27 April 2018
+Citation:
+Meng Q, Zhao T and Kang J (2018)
+Inﬂuence of Music on the Behaviors of
+Crowd in Urban Open Public Spaces.
+Front. Psychol. 9:596.
+doi: 10.3389/fpsyg.2018.00596
+Inﬂuence of Music on the Behaviors
+of Crowd in Urban Open Public
+Spaces
+Qi Meng1,2, Tingting Zhao1 and Jian Kang1,2*
+1 Heilongjiang Cold Region Architectural Science Key Laboratory, School of Architecture, Harbin Institute of Technology,
+Harbin, China, 2 UCL Institute for Environmental Design and Engineering, University College London, London,
+United Kingdom
+Sound environment plays an important role in urban open spaces, yet studies on the
+effects of perception of the sound environment on crowd behaviors have been limited.
+The aim of this study, therefore, is to explore how music, which is considered an
+important soundscape element, affects crowd behaviors in urban open spaces. On-site
+observations were performed at a 100 m × 70 m urban leisure square in Harbin, China.
+Typical music was used to study the effects of perception of the sound environment
+on crowd behaviors; then, these behaviors were classiﬁed into movement (passing by
+and walking around) and non-movement behaviors (sitting). The results show that the
+path of passing by in an urban leisure square with music was more centralized than
+without music. Without music, 8.3% of people passing by walked near the edge of the
+square, whereas with music, this percentage was zero. In terms of the speed of passing
+by behavior, no signiﬁcant difference was observed with the presence or absence of
+background music. Regarding the effect of music on walking around behavior in the
+square, the mean area and perimeter when background music was played were smaller
+than without background music. The mean speed of those exhibiting walking around
+behavior with background music in the square was 0.296 m/s slower than when no
+background music was played. For those exhibiting sitting behavior, when background
+music was not present, crowd density showed no variation based on the distance from
+the sound source. When music was present, it was observed that as the distance
+from the sound source increased, crowd density of those sitting behavior decreased
+accordingly.
+Keywords: music, crowd behavior, movement, soundscape, urban open space
+INTRODUCTION
+The phrase “urban open space” can describe many types of open areas (Marcus and Francis,
+1998). One deﬁnition holds that, as the counterpart of development, urban open space is a
+natural and cultural resource, synonymous with neither unused land nor park and recreation
+areas. Another deﬁnition is that open space is land and/or water area with its surface open
+to the sky which has been consciously acquired or publicly regulated to serve conservation
+and urban shaping functions in addition to providing recreational opportunities (Myers, 1975;
+Thompson, 2002). In modern cities, the beneﬁts that urban open space provides to citizens can be
+separated into three basic categories: recreation, ecology, and esthetic value (Brander and Koetse,
+2011). Sound quality is considered to be a key part of the ecological/sustainable development
+of urban open spaces (Zhang et al., 2006). However, the sound environment of urban open
+Frontiers in Psychology | www.frontiersin.org
+1
+April 2018 | Volume 9 | Article 596
+
+Meng et al.
+Behaviors Affected by Sound
+spaces is often not satisfactory because of a lack of consideration
+for human behavior during the planning and managing of the
+spaces (Meng and Kang, 2016). Therefore, research on the eﬀect
+of perception of the sound environment on crowd behavior will
+be of importance to landscape research in this ﬁeld. According
+to the International Standards Organization, a “soundscape” is
+deﬁned as an acoustic environment as perceived/experienced
+in context (ISO 12913-1, 2014). Behavior comes into play in
+soundscape assessment in that the activities and behaviors of
+surrounding people form a key facet of context.
+Individual behaviors generally refer to the attitude or
+performance of a person in certain situations; their actions can
+be largely random, subject to the eﬀect of the environment
+(Jia, 2012). In contrast, crowd behaviors refer to the attitude
+or performance of a crowd in an environment; they can be
+composed of certain regularities, subject to the eﬀect of the
+environment (Yuan and Tan, 2011; Xie et al., 2013). Thus,
+instead of individual behaviors, crowd behaviors are usually
+examined in studies on urban open spaces (Maruši´c, 2011;
+Lepore et al., 2016; Meng and Kang, 2016). Lewin et al.
+(1936) presented the following formula, which indicates the
+interaction between an individual and his/her environment:
+B = f (P, E), in which B represents behavior; P represents
+persons, including individuals and groups; and E represents the
+environment in which those persons live. Based on this formula,
+both users’ social characteristics and local environment must be
+considered in human behavior studies. Previous studies pointed
+out that recreational behavior can be aﬀected by users’ cultural
+background, age, and diﬀerent local areas (Floyd, 1998; Payne
+et al., 2002; Guéguen et al., 2008).
+Many diﬀerent aspects of crowd behavior can be examined to
+draw conclusions. These can include characteristics of behaviors,
+such as movement and action (Wang, 2014); characteristics of
+movement, for example, characterized as movement or non-
+movement, with the former including passing by and walking
+around and t
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+Survey Site
+Previous studies have indicated that an urban street is a kind of
+linear space, where people have little choice but for their paths
+to be conﬁned to the pavement by buildings or motor vehicles
+(Hwang et al., 2011). In contrast, an urban square is an “areal”
+type of space, where people are free to choose their direction and
+path of travel (Marcus and Francis, 1998; Zakariya et al., 2014). In
+this study, a typical urban leisure square named “LANDSCAPE”
+square, located in Harbin, in Northeast China, was selected as
+the case site. Maps of the square and survey site can be found
+in Figure 1.
+This site was chosen for the following three reasons. First, it is
+located at the crossing of Changjiang Road and Hongxiang Road;
+roads are present on three sides of the square, and vegetation is
+found on the fourth side. The square’s surrounding environment
+(determining its scale and format) resembles that of squares
+encountered in Europe and Japan (Ashihara, 1985; Whitlock,
+2004), and thus has typicality. Next, the urban leisure square is
+nearly 100 m long and 70 m wide and covers an area of about
+7000 m2, which is typical for modern cities (Dai, 2014). Finally,
+the square has various sports facilities and lush vegetation; thus,
+a large number of local residents visit the square and it is an
+important urban open space in this area for people to relax and
+interact. Overall, the square provides convenient conditions and
+the opportunity to gather a large number of samples to study
+crowd movement behaviors as well as non-movement behaviors.
+Studies indicate that environmental changes, such as changes
+in temperature and humidity, inﬂuence subjective acoustic
+perception (Thwaites et al., 2005; dela Fuente de Val et al.,
+2006). To avoid the eﬀects of these environmental factors,
+measurements were performed on workdays in May and
+September 2017. The mean monthly temperatures (18–26◦C) and
+the relative humidities of these months are approximately the
+same. Other studies indicate that illuminance, which may also
+aﬀect the perception or behaviors of users, changes with the time
+of day (Liu et al., 2013; Meng et al., 2017b). Thus, in the present
+study, measurements were performed between 9:00–11:00 a.m.
+and 14:00–16:00 p.m. daily on workdays to avoid the eﬀects of
+time of day on the light environment (Meng et al., 2017a).
+Sound Source
+In previous music studies, musical sound can be classiﬁed by
+sound level, tempo, genre, context, familiarity, and so on (Husain
+et al., 2002; Sakharov et al., 2005; Kang, 2017). Based on the
+method used in the experiment by Lavia et al. (2016), the music
+excerpts were designed to be “inclusive,” “non-aversive,” and
+sound good in a highly reverberant environment. In this study,
+a typically familiar pop song with lyrics, named “Free to Fly,”
+was selected as the stimulus for intervention in the acoustic
+environment of the square; the tempo of this song is 120 bpm.
+A loudspeaker was used as the sound source; its location is
+shown in Figure 1C (S means sound source). The loudspeaker
+location was chosen for the following three reasons. First, the
+music played by the loudspeaker can be clearly heard at any point
+in the square. Second, the distance between the loudspeaker and
+the walls and other major reﬂective surfaces was ensured to be
+at least 20 m (Zahorik, 2002). Finally, to avoid any inﬂuence
+caused by the visual presence of the loudspeaker, it was placed
+near the water feature fence to avoid identiﬁcation. During the
+experiment, the musical excerpt and silence were reproduced
+cyclically (Husain et al., 2002; Carpentier and Potter, 2007).
+The sound level was 88–90 dBA, exceeding background sound
+level.
+Measurement of Sound Environment
+Previous studies indicate that acoustic perception of urban open
+spaces can be aﬀected by sound pressure level (Yu and Kang,
+2010; Xie et al., 2012). Since the measurement time for the
+current study was 9:00–11:00 a.m. and 14:00–16:00 p.m., its
+crowd density was less than 0.05/m2; thus, the inﬂuence of the
+number of people on the square on the acoustic environment
+could be ignored (Meng and Kang, 2015). Therefore, acoustic
+environmental measurement was carried out point by point, not
+simultaneously.
+To measure the sound environment, the area was divided into
+6 m × 6 m units (Li and Meng, 2015). The equivalent continuous
+A-weighted sound pressure level (LAeq) was immediately
+recorded using an 801 sound-level meter after each observation
+was completed. During the measurement, the sound-level meter
+was adjusted to the slow speed (Kang and Zhang, 2010).
+Additionally, the distance between the measurement location and
+walls and other major reﬂective surfaces was ensured to be at least
+1 m, and the distance between the measurement location and the
+ground was 1.2–1.5 m (Barron and Foulkes, 1994; Zahorik, 2002).
+One measurement was performed every 10 s. The data for each
+location were recorded for 5 min. A mean value was calculated to
+obtain the corresponding LAeq (Zhang et al., 2016).
+The sound ﬁeld in the urban open space can be seen in
+Figure 2 (S means sound source). When there was no music
+sound source in the square, the background sound pressure level
+was 56.7 dB. When music was present, the sound pressure level
+at 2 m away from the music sound source was 88.3, or 31.6 dB
+higher than that without music. With the eﬀect of musical sound
+source considered, the equivalent A-weighted sound pressure
+level reduced constantly with increasing distance in the square.
+From 2 to 12 m away from the sound source, the sound pressure
+level reduced at 18.3 dB; from 12 to 24 m away from the sound
+source, the sound pressure level reduced at 6.4 dB; and from
+24 to 36 m away from the sound source, the sound pressure
+level reduced at 3.4 dB. The attenuation degree of the equivalent
+A-weighted sound level was mainly determined by the degree of
+enclosure for the space.
+Observation of Crowd Behaviors
+In previous soundscape research, the investigation methods
+were 
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1.
+Figure 1C (S means sound source). The loudspeaker
+Figure 2 (S means sound source). When there was no music
+Figure 3. In previous studies,
+Figure 3A using passing by behavior as
+Figure 3B shows,
+Figure 4, both with and
+Figure 4A shows, 79.2% of people with passing by behavior
+Figure 4B shows, 0% of people with passing by behavior
+Figure 4C, for the number of
+Figure 4D, with music.
+Figure 5 shows, path “a” represents walking around the
+Figure 6A shows, the mean areas of the paths from walking
+Figure 6B shows, the mean perimeters of the
+Figure 6A shows, the mean areas of the paths from walking
+Figure 6B shows, the mean perimeters of the
+Table 1.
+Table 1, that the speed
+Figure 7 shows
+Figure 8,
+Figure 8A shows, there were no signiﬁcant diﬀerences in
+Figure 8B that the crowd of persons engaged in sitting behavior

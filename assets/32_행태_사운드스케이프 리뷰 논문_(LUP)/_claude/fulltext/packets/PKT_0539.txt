@@ -1,0 +1,284 @@
+### RECORD ID=539 | screening_verdict=INCLUDE | year=2019
+JOURNAL: URBAN FORESTRY & URBAN GREENING
+TITLE: Factors associated with soundscape experiences in urban green spaces: A case study in Rostock, Germany
+DOI: 10.1016/j.ufug.2017.11.003
+PAGES: 23
+
+--- HEAD (title/abstract/intro) ---
+Jiang Liu, et.al.: Urban Forestry & Urban Greening [DOI: 10.1016/j.ufug.2017.11.003] 
+Urban Forestry & Urban Greening, 2017, DOI: 10.1016/j.ufug.2017.11.003 
+ Page 1 
+ 
+Factors associated with soundscape experiences in urban green spaces: 
+a case study in Rostock, Germany 
+Jiang Liu a, Yajun Wanga,*, Carolin Zimmerb, Jian Kangc, Tianhong Yub 
+aSchool of Architecture, Fuzhou University, Fuzhou, China； 
+bLandscape planning and landscape design, Faculty of Agricultural and Environmental Sciences, 
+University of Rostock, Rostock, Germany； 
+cSchool of Architecture, University of Sheffield, Sheffield, United Kingdom 
+* Corresponding author. 
+ 
+Abstract 
+Urban green spaces could play a more prominent role than other types of urban open space in 
+providing high quality soundscapes. The main objective of this study was to examine the 
+relationships between people’s visit motivation, along with other social/demographical/behavioral 
+as well as visual landscape factors and soundscape experiences in terms of the perceived 
+occurrences and loudness of individual sounds, the preference for individual sounds, as well as 
+overall soundscape preference in urban green spaces. This was based on a questionnaire survey of 
+400 users in four urban green spaces in Rostock, Germany. The results showed that street traffic 
+sounds were the least preferred, but in a dominating position either in perceived occurrences or 
+loudness, while bird song and water sound were the most preferred sounds. Among the 
+social/demographical/behavioral factors length of stay was the most associated one with 
+soundscape experiences, especially the perception of street traffic sound and bird song. All the five 
+visit motivations were positively related to overall soundscape preference, with “Enjoy a quiet 
+environment” showing the highest correlation coefficient (0.323). “Enjoy the scenery or 
+atmosphere” showed the most significant relationships with perception of individual sounds, with 
+totally 10 different perception parameters. The perception of street traffic sound, motorcycle noise, 
+bird song and water sounds were more associated with visual landscape preference than other 
+kinds of sound. Besides, overall soundscape preference could be affected by visual landscape 
+preference indirectly through the perceived occurrences and loudness of certain sounds. The 
+results suggested that sound sensibility indicated by perceived occurrences of individual sounds 
+was more associated with the examined factors. These findings could be instructive in the 
+soundscape and landscape planning and designing process of urban green spaces. 
+ 
+ 
+Key words: soundscape experience; visit motivation; visual landscape; green space 
+ 
+2018 Urban Forestry & Urban Greening 
+Date Received:25 July 2017 Date Accepted: 1 November 2017 
+Published on line: 4 November 2017 
+ 
+ 
+
+Jiang Liu, et.al.: Urban Forestry & Urban Greening [DOI: 10.1016/j.ufug.2017.11.003] 
+Urban Forestry & Urban Greening, 2017, DOI: 10.1016/j.ufug.2017.11.003 
+ Page 2 
+ 
+1. Introduction 
+Urban green spaces refers to public and private open spaces in urban areas covered by vegetation 
+directly or indirectly available for the users (Haq, 2011). They usually play a crucial role in 
+providing various kinds of ecosystem service, such as air and water cleaning (De Ridder et al., 
+2004; Jim and Chen, 2008), preserving biodiversity (Mörtberg and Wallentinus, 2000), providing 
+spaces with high restorative and aesthetic values (De Vries et al., 2003; Hillsdon et al., 2006; Jiang 
+et al., 2015; Jim and Chen, 2006). Besides, green spaces are important “quiet areas” because of 
+noise reduction function and providing other positive soundscape experiences (Fang and Ling, 
+2003; Van Renterghem et al., 2012). Especially, tranquillity experienced in green spaces was 
+reported associated with levels of relaxation, reduced anxiety, lower noise sensitivity and 
+annoyance, as well as release of the noise-induced stress (Dzhambov and Dimitrova, 2014; Watts 
+et al., 2013). 
+ 
+In the research area of urban acoustics, soundscape approach has been advocated by many 
+researchers to cope with noise problems. Soundscape has been defined by the International 
+Organization for Standardization (ISO) as “[the] acoustic environment as perceived or experienced 
+and/or understood by a person or people, in context” (ISO, 2014). It has been pointed out that 
+soundscape experience could differaccordingly to places’ main functions (Hong and Jeon, 2015). 
+Many soundscape studies have been conducted in urban open spaces, such as city parks (Liu and 
+Kang, 2015; Liu et al., 2014; Liu et al., 2013a; Nilsson and Berglund, 2006; Zhang and Kang, 
+2007), squares (Yang and Kang, 2005a), and commercial streets (Meng and Kang, 2015), etc. The 
+focuses were on soundscape experiences such as sound level, perceived occurrences and loudness, 
+acoustic comfort, preference for soundscape and sound, etc. As for the factors associated with 
+soundscape experiences in urban open spaces, the focuses have been on the subjects 
+social/demographical/behavioral characteristics (Liu et al., 2013a), landscape factors (Hong and 
+Jeon, 2017; Liu et al., 2013b), people’s expectations of a place (Bruce and Davies, 2014), and the 
+crowd density (Meng and Kang, 2015; Meng and Kang, 2016), etc. Specifically, in urban green 
+spaces, the noise reduction effect has been drawing increasing attention. The focuses were on 
+either the effects of vegetation on physical reduction of noise, such as traffic noise reduction by 
+single plants, green walls, and hedges (Fang and Ling, 2003; Horoshenkov et al., 2013; Van 
+Renterghem et al., 2014; Wong et al., 2010; Yamada, 2006), or by land use parameters 
+emphasizing on green spaces (Margaritis and Kang, 2016), or the psychological noise attenuation 
+(Dzhambov and Dimitrova, 2014; Dzhambov and Dimitrova, 2015). In practical aspect, 
+tranquillity rating prediction tool has been proposed for urban green areas (Watts et al., 201
+
+--- METHODS/RESULTS EXCERPT ---
+Method 
+ 
+2.1. Field survey 
+ 
+This study was based on a questionnaire investigation carried out in Rostock, a costal and touristic 
+city with a population of about 0.2 million residents in Germany. And the city has conducted the 
+noise action plan called “Rostock will be quieter” in response to the Environmental Noise 
+Directive (END) (2002/49/EC) (Rostock-wird-leiser, 2013). 
+ 
+Four typical green spaces, which were recognized as quiet areas (L den ≪ 50 dB) according to the 
+noise action plan for Rostock, were chosen as case study sites (Fig. 1), including city park 
+complex (Aranka park, Stephan-Jantzen park, Kur park) located in the coastal tourist resort 
+Warnemünde, Schwanenteich park and Botanical garden located in Reutershagen, and Rosen 
+garden located in the downtown Rostock. Besides their different locations and shapes, these green 
+spaces differ also in terms of the vegetation type and percentage area covered by trees, grass or 
+water surface (Table 1), which could generate a variety of soundscapes with different 
+characteristics, and provide diverse soundscape experiences for people. However, the relationships 
+between diverse soundscapes and underlying landscapes were not discussed in depth, as the major 
+purpose of the study was to examine the general relationships between visitor-related factors and 
+soundscape experience, rather than to examine the differences among individual case study sites. 
+ 
+Through pilot investigations before the main survey, 12 different sounds regularly appearing in the 
+parks were identified and introduced into the questionnaire to characterize the general 
+soundscapes in the green spaces. As shown in Table 2, these sounds, including natural and 
+artificial sounds, were further classified into five sub-class sound categories (Liu et al., 2014). 
+ 
+The field survey was carried out by a group of students from the Faculty of Agricultural and 
+Environmental Science in the University of Rostock under sunny and stable weather conditions 
+during June and July 2013. The interviewees were selected randomly on the study sites. On each 
+site, 100 effective questionnaires were collected, and totally 400 questionnaires were available for 
+analysis, according to a previously suggested sample size for soundscape evaluation in urban open 
+public spaces (Kang and Zhang, 2010). 
+ 
+ 
+
+Jiang Liu, et.al.: Urban Forestry & Urban Greening [DOI: 10.1016/j.ufug.2017.11.003] 
+Urban Forestry & Urban Greening, 2017, DOI: 10.1016/j.ufug.2017.11.003 
+ Page 4 
+ 
+ 
+Figure 1. Location of the case study sites, and major green landscape elements in the four case study 
+sites．A: City park complex (Aranka park, Stephan-Jantzen park, Kur park), B: Schwanenteich 
+park, C: Botanical garden, D: Rosen garden. 
+ 
+2.2. Social/demographical/behavioral factors 
+ 
+The 
+first 
+part 
+of 
+the 
+questionnaire 
+was 
+designed 
+to 
+collect 
+the 
+interviewee’s 
+social/demographical/behavioral information, including age (≤24, 25–30, 31–40, 41–50, 51–59, 
+≥60), education background (primary school, secondary school, and higher), occupation (student, 
+working person, and others (including retired, unemployed and full-time housewife)), residential 
+
+Jiang Liu, et.al.: Urban Forestry & Urban Greening [DOI: 10.1016/j.ufug.2017.11.003] 
+Urban Forestry & Urban Greening, 2017, DOI: 10.1016/j.ufug.2017.11.003 
+ Page 5 
+ 
+status (community resident, local resident, tourist), visit frequency (low frequency (≤1 x in a month), 
+medium (≤1 x in week), high frequency (≫> 1 x in week)), and length of stay (short time (≪1 h), 
+medium (1–3 h), long time (≫>3 h)), referring to a similar research in city parks (Liu et al., 2013a). 
+Fig. 2 shows percentage of the interviewees categorized by different characteristics. As most of the 
+interviewees have higher education background, the data showed large skewness. Thus, the 
+significance of this factor on soundscape experience might be limited. Fig. 3 shows the ratio 
+between the standard deviations (SDT) of social, demographical and behavioral characteristics of 
+the interviewees and the respective SDT averages among the four green spaces. For most of the 
+factors, the range of the ratio is no more than 0.32, except for education background. Thus a holistic 
+analysis could be carried out based on the database. 
+ 
+Table 1. Major characteristics of the four case study sites. 
+ 
+City park complex Schwanenteich 
+park 
+Botanical Park 
+Rosen garden 
+Total Area (ha) 
+11.33 
+10.24 
+8.43 
+9 
+Percentage of trees 
+(%LAND) 
+92.9 
+41 
+42 
+63.3 
+Percentage of 
+grass (%LAND) 
+7.1 
+45.8 
+55.4 
+25.1 
+Percentage of 
+water (%LAND) 
+0 
+14 
+2.7 
+12.4 
+Description 
+Former cemetery, 
+forest-like park 
+with paths and play 
+area (e.g. children 
+playground, 
+minigolf). 
+Oldest residential 
+park with large 
+lake, play areas, 
+integrated art hall 
+and youth club. 
+Park with the function 
+of popular science for 
+education on 
+biodiversity and 
+conservation of rare 
+plant species and 
+research. 
+Oldest park in 
+Rostock, with 
+play areas and 
+historical 
+architectures. 
+ 
+Table 2. Recognized sound sources in the green spaces and respective categories. 
+Main-class sound 
+category 
+Sub-class sound category 
+Sound source 
+Artificial sounds 
+Human sound 
+surrounding speech, 
+playing children, 
+footsteps 
+Traffic sound 
+street traffic, 
+motorcycle noise 
+Mechanical sound 
+bicycle riding 
+Natural sounds 
+Biological sound 
+bird song, 
+insects, 
+dog barking 
+Geophysical sound 
+tree rustling, 
+wind blowing, 
+water sound 
+
+Jiang Liu, et.al.: Urban Forestry & Urban Greening [DOI: 10.1016/j.ufug.2017.11.003] 
+Urban Forestry & Urban Greening, 2017, DOI: 10.1016/j.ufug.2017.11.003 
+ Page 6 
+ 
+2.3. Visit motivations 
+ 
+Visit motivations are the reasons people come to a place for certain activities, and could be treated as 
+behavioral related factors. With different visit motivations, people may have different expectations 
+of the environment, which could affect soundscape perception (Bruce and Davies, 2014). Therefore, 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1), including city park 
+Table 1), which could generate a variety of soundscapes with different 
+Table 2, these sounds, including natural and 
+Figure 1. Location of the case study sites, and major green landscape elements in the four case study 
+Fig. 2 shows percentage of the interviewees categorized by different characteristics. As most of the 
+Fig. 3 shows the ratio 
+Table 1. Major characteristics of the four case study sites. 
+Table 2. Recognized sound sources in the green spaces and respective categories. 
+Figure 2. Percentage of the interviewees categorized by different characteristics. 
+Figure 3. Ratio between the standard deviation (SDT) of social/demographical/behavioral 
+Fig. 4 shows the distribution of the interviewees' perceived occurrences of different 
+Figure 4. Distribution of the interviewees' perceived occurrences of different sounds. 
+Fig. 5 shows the distribution of the interviewees' perceived loudness of different 
+Figure 5. Distribution of the interviewees' perceived loudness of different sounds. 
+Fig. 6 shows the distribution of the interviewees' preference for different sounds. 
+Figure 6. Distribution of the interviewees' preference for different sounds. 
+Table 3, these relationships 
+Table 4. 
+Table 3. Spearman’s rho correlation coefficient for the relationships among the social, 
+Table 4 indicate that, visit frequency was the most strongly associated with the 
+Table 4. Spearman’s rho correlation coefficients of the relationships between each of the perception 
+Table 5. Obviously, age and 
+Table 3, except that there was 
+Table 5. Spearman’s rho correlation coefficients between each of the 
+T

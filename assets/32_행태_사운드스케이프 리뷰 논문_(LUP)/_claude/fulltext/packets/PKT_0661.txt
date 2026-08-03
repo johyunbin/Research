@@ -1,0 +1,253 @@
+### RECORD ID=661 | screening_verdict=INCLUDE | year=2020
+JOURNAL: APPLIED SCIENCES-BASEL
+TITLE: The Influence of Noise Emitted by Vehicles on Pedestrian Crossing Decision-Making: A Study in a Virtual Environment
+DOI: 10.3390/app10082913
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+applied 
+sciences
+Article
+The Inﬂuence of Noise Emitted by Vehicles on
+Pedestrian Crossing Decision-Making: A Study in a
+Virtual Environment
+Francisco Soares 1,*, Emanuel Silva 1, Frederico Pereira 2, Carlos Silva 2, Emanuel Sousa 2
+and
+Elisabete Freitas 1,*
+1
+Department of Civil Engineering, School of Engineering, University of Minho, Campus de Azurém,
+4800 058 Guimarães, Portugal; emanuel_silva_456@hotmail.com
+2
+Perception, Interaction and Usability Domain, Centre of Computer Graphics, Campus de Azurém,
+4800 058 Guimarães, Portugal; frederico.pereira@ccg.pt (F.P.); carlos.silva@ccg.pt (C.S.);
+emanuel.sousa@ccg.pt (E.S.)
+*
+Correspondence: a61864@alunos.uminho.pt (F.S.); efreitas@civil.uminho.pt (E.F.);
+Tel.: +351-253-510-200 (E.F.)
+Received: 28 February 2020; Accepted: 20 April 2020; Published: 23 April 2020
+
+
+Abstract: When crossing a road, pedestrians must detect traﬃc, combine data coming from diﬀerent
+perceptual modalities, evaluate the time envelope for safely cross the street, and monitor the position
+of oncoming vehicles to perform corrective actions if needed. This study analyzed the inﬂuence of
+noise emitted by vehicles, or its absence, on pedestrians’ crossing decision-making. Experiments were
+performed in a virtual environment using two road scenarios. Participants were presented with stimuli
+of approaching vehicles that varied regarding speed, movement patterns, and auditory condition: one
+concerning the approaching of an electric vehicle, another regarding the approaching of a gasoline
+combustion vehicle, and, ﬁnally, a condition regarding the absence of auditory cues. Participants
+were tasked with indicating the moment when they decided to cross the street. The results show
+that, despite the noise variations caused by the type of vehicle and its speed pattern, the participants’
+decision to cross was mostly based on vehicle distance. When a vehicle approaches the crosswalk
+from a short distance and with no occlusion to the pedestrian’s visibility, the sound does not seem to
+inﬂuence the pedestrians’ crossing decision-making.
+Keywords: pedestrian behavior; crossing decision-making; road noise; virtual environments;
+electric vehicles
+1. Introduction
+Cars are inherently noisy machines. This noise may come from its internal components, such as the
+engine, exhaust, and, to a lesser extent, fan and structural vibration, and from external sources, namely
+tire–road contact and air turbulence. The former are the primary source of noise at lower speeds, which
+are usually observed in urban contexts. The latter become relevant at higher speeds, more often seen
+on rural roads or highways. Despite several technical developments on noise attenuation technology
+both within the vehicle and outside it, motorized vehicles are currently one of the most important
+sources of noise pollution [1]. Noise disturbs sleep, interferes in complex task performance such as
+school performance, modiﬁes social behavior, and causes emotional annoyance [2–5]. This problem
+is well acknowledged by public authorities, vehicle manufacturers, and road industries that have
+continuously tried to ﬁnd ways to eliminate or at least attenuate the noise emissions [1–5].
+While vehicle noise is often regarded as an undesirable sub-product of transportation, it also has
+an important role in the interaction between vehicles and other road users, most notably, pedestrians
+Appl. Sci. 2020, 10, 2913; doi:10.3390/app10082913
+www.mdpi.com/journal/applsci
+
+Appl. Sci. 2020, 10, 2913
+2 of 15
+and cyclists. Particularly in urban areas, vehicular noise often acts as a cue for vulnerable road users,
+improving their perception of speed and distance and calling their attention to approaching traﬃc.
+This dual nature of vehicular noise in relation to other agents raises some concerns regarding the
+increasing introduction of hybrid/electric vehicles that are considerably quieter than their combustion
+counterparts are. On the one hand, hybrid and electrical vehicles emit less or no engine noise. At speeds
+below 30 km/h, they can produce a noise almost 4 dB(A) lower than a combustion engine-powered
+vehicle [6,7]. Thus, generalized adoption can signiﬁcantly reduce the levels of environmental noise
+and related subjective annoyance. However, there is the risk of an increase in the number of accidents
+involving vulnerable road users—which already make up for a large part of the number of road deaths
+and injuries [8–10]—due to misperception of approaching vehicles.
+Understanding how low noise emission aﬀects the vehicles’ detection and localization by
+pedestrians [11,12], particularly those who are blind or visually impaired [13–16], has been a challenge.
+When crossing a road, pedestrians must detect traﬃc, combine data coming from various directions,
+determine whether the time remaining before a vehicle reaches them is long enough for crossing, and
+adapt their action to the continuous perception of oncoming vehicles. The way they can determine the
+available time to cross and relate it to the time needed to cross is a behavioral indicator. Theoretically,
+the crossing is possible if the available time is higher than the crossing time, but pedestrians usually
+allow for a safety margin [17].
+Oxley et al. [18] stated that crossing decision-making is mainly based on the visual information
+received by pedestrians, ﬁrstly, concerning the distance between the vehicles and the crosswalk or a
+front car, agreeing with the conclusions obtained by Simpson et al. [19] and Cavallo et al. [20], and
+then about the vehicles speed, in order to estimate its time of arrival. Despite the importance of the
+visual information on pedestrians’ crossing decision-making, the auditory cues are also relevant for
+the detection and location of approaching vehicles [6,11–14,16]. Thus, sometimes, the approach of
+quieter vehicles can be noticed later than needed to ensure a safe crossing, especially at lower speeds.
+The level of noise also inﬂuences the pedestrians’ a
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Participants
+Ten adults aged 24–43 years old (m = 30.70; sd = 6.15; 50% male) were recruited from the
+University of Minho community, in Portugal. Before the experiment, all participants answered a
+questionnaire regarding their hearing, visual, and mobility conditions. None of them reported any
+
+Appl. Sci. 2020, 10, 2913
+3 of 15
+impairing condition. All participants gave their written informed consent. The experiments were
+conducted in accordance with the principles stated in the 1964 Declaration of Helsinki.
+2.2. Virtual Environment
+Two existing real-world streets were modeled in two diﬀerent virtual scenarios: Rua 25 de Abril,
+in Braga, and Rua Teixeira de Pascoais, in Guimarães. Each one followed a similar development
+process. First, dimension and distance measurements were taken from the streets, including the length
+and width of the crosswalks and its markings, the road width, the width of the sidewalks, the length
+and width of the parking sites, and the sizes of the road. Afterward, the two scenarios were modeled in
+Blender 2.79a, an open-source 3D computer graphics software that uses Python as a scripting language.
+Several architectural details such as buildings, vertical signalization, and vegetation were modeled,
+and textures from pavements and buildings were added to provide participants with a more realistic
+depiction of the roads (Figure 1a,b).
+ 
+ 
+(a) 
+(b) 
+Figure 1. The two virtual scenarios: Rua 25 de Abril (a); and Rua Teixeira de Pascoais (b).
+The next step was to model the movement of a vehicle, which approached the participants
+throughout the experiment. To do so, the traﬃc on the two streets was ﬁrstly analyzed, recording
+vehicle speeds and trajectories when approaching the crosswalk in situations in which pedestrians
+were crossing the road. Then, noise recordings of real vehicles were carried out in a closed urban road
+to obtain a realistic depiction of the vehicles’ noise resulting from similar trajectories.
+To collect the speeds and trajectories of the vehicles, a 2-h video was recorded in each street
+and then analyzed using the Traﬃc Intelligence software [24,25]. The several trajectories collected
+were clustered into three distinct categories: (1) the vehicle maintained its speed without any or with
+very subtle changes (Constant Speed); (2) the vehicle slowed down before reaching the crosswalk,
+but continued its trajectory without stopping (Slow Down); and (3) the vehicle slowed down and
+completely stopped before reaching the crosswalk (Stop). For each speed pattern, the mean (m),
+maximum (max), minimum (min), and standard deviation (sd) of the distances between vehicle and
+pedestrians at the beginning (Vi and Di) and the end (Vf and Df) of the braking, in the cases where
+it occurred, were calculated. These values (Table 1) were used as a reference to deﬁne the vehicles’
+trajectories to be used in the simulator. Contrary to other studies that usually assume constant speed
+(e.g., [19,20,22,26–29]), the three types of speed proﬁles recorded in the observational study were
+implemented in the simulator.
+
+Appl. Sci. 2020, 10, 2913
+4 of 15
+Table 1. Mean, maximum, minimum, and standard deviation of vehicle distance to the crosswalk for
+stop and slow down movement patterns.
+Stop
+Slow Down
+Di
+(m)
+Df
+(m)
+Di
+(m)
+Df
+(m)
+m
+15.80
+5.71
+16.72
+7.01
+sd
+5.62
+2.40
+6.21
+4.14
+max
+27.37
+14.06
+28.20
+22.04
+min
+6.58
+1.26
+2.94
+2.69
+Speeds above 30 km/h were not considered since the study intended to evaluate the pedestrians’
+crossing decision-making, considering the approach of a vehicle at short distances from the crosswalk.
+In addition, above that speed, the noise emitted by a vehicle is predominantly produced by the tire–road
+interaction, and engine noise diﬀerences (electric and gasoline combustion) are of little relevance to the
+crossing decision [6].
+From the values in Table 1, three diﬀerent conditions for the simulator experiment were deﬁned
+(Table 2). The distance at which the vehicle was shown on the screen and started its approaching
+movement (Di, mov) was kept the same in all conditions.
+Table 2. Characteristics of vehicle movement in the diﬀerent conditions presented in the experiment.
+Conditions
+Vi
+(km/h)
+Vf
+(km/h)
+Di. mov
+(m)
+Di
+(m)
+Df
+(m)
+Speed
+Pattern
+1
+30
+30
+30
+-
+-
+Constant
+2
+30
+10
+30
+25
+5
+Slow Down
+3
+30
+0
+30
+20
+5.50
+Stop
+The vehicle approaching sounds were recorded using as test vehicles: (1) a Kia Ceed SW, with
+a gasoline combustion engine, equipped with ContiEcoContact3 195/65-R15 tires; and (2) a Renault
+Zoe ZE, with electric engine, equipped with Michelin Primacy 3 205/45-R17 tires. Controlled Pass-By
+(CPB) measurements were performed with a Brüel & Kjaer Pulse Analyzer type 3560-C and a Brüel &
+Kjaer Head and Torso Simulator (HATS) Type 4128-C equipped with Ear Simulators Type 4158-C and
+4159-C. The HATS was placed at 1.55 m from the road center, at the height of 1.66 m (corresponding
+to the Portuguese population average height) with its head turned 35◦counterclockwise from the
+road perpendicular.
+To minimize the environmental noise interference all recording sessions were performed with dry
+pavements, wind speed below 5 m/s, atmospheric temperature between 5 ◦C and 30 ◦C, and pavement
+temperature between 5 ◦C and 50 ◦C as recommended in ISO Standard 11819-1:1997 [4], between 20:00
+and 24:00.
+To generate the sound for each sample, the two vehicles completed the trajectories deﬁned by the
+parameters in Table 2. To gather real speed, time, and distance data from the vehicles, their position was
+registered at each 0.125 s at the same time the sound recordings were performed. The sound and vehicles’
+positions ﬁles were later synchronized, calibrated, and implemented in the virtual environment.
+2.3. Stimuli
+Three diﬀerent auditory conditions were used: (i) the vehicle emitted the noise of a car with a
+gasoline combustion engine; (ii) the vehicle emitted the noise of a car with an electric engine; and (iii)
+the vehicle emitted no sound. The third type of stimu
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1a,b).
+Figure 1. The two virtual scenarios: Rua 25 de Abril (a); and Rua Teixeira de Pascoais (b).
+Table 1) were used as a reference to deﬁne the vehicles’
+Table 1. Mean, maximum, minimum, and standard deviation of vehicle distance to the crosswalk for
+Table 1, three diﬀerent conditions for the simulator experiment were deﬁned
+Table 2). The distance at which the vehicle was shown on the screen and started its approaching
+Table 2. Characteristics of vehicle movement in the diﬀerent conditions presented in the experiment.
+Table 2. To gather real speed, time, and distance data from the vehicles, their position was
+Table 3 presents the main characteristics of the stimuli audio component. The measurement time
+Table 3. Acoustic characteristics of the stimuli regarding the electric and gasoline combustion vehicles.
+Figure 2a) and a Renault Zoe ZE (Boulogne,
+Figure 2b). For the no sound, the visual aspect of the
+Figure 2. Visual models of the vehicle used in the experiment: (a) Kia Ceed SW; and (b) Renault Zoe ZE.
+Table 3), the participants would be able to better estimate the vehicle’s trajectory
+Figure 3 shows the percentage of crossings for all experimental conditions. In general, participants
+Figure 3. Percentage of crossings and respective mean, standard error as a function of auditory
+Figure 3, the eﬀect of this interaction was mainly due to the great relevance of the speed pattern
+Figure 4 shows the aggregated cumulative percentage of crossings as a function of time. It is
+Figure 4.
+Figure 5 shows the number of crossings and corresponding response time per participant in each
+Figure 5 exhibits the low variability in

@@ -1,0 +1,2246 @@
+### RECORD ID=732 | screening_verdict=INCLUDE | year=2021
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: Investigating contextual influences on urban soundscape evaluations with structural equation modeling
+DOI: 10.1016/j.buildenv.2020.107490
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Building and Environment 188 (2021) 107490
+Available online 28 November 2020
+0360-1323/© 2020 Elsevier Ltd. All rights reserved.
+Investigating contextual influences on urban soundscape evaluations with 
+structural equation modeling 
+Cynthia Tarlao a,b,*, Jochen Steffens c, Catherine Guastavino a,b 
+a School of Information Studies, Multimodal Interaction Lab, McGill University, 3661 Peel Street, Montreal, QC, H3A1X1, Canada 
+b Centre for Interdisciplinary Research in Music Media and Technology, 527 Sherbrooke St. West, Montreal, QC, H3A1E3, Canada 
+c University of Applied Sciences, Institute of Sound and Vibration Engineering, Münsterstraße 156, 40476, Düsseldorf, Germany 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape 
+Structural equation modeling 
+Measurement invariance 
+French translation 
+Social interaction 
+Extraversion 
+A B S T R A C T 
+Previous soundscape research has shown a complex relationship between soundscapes, public space usage and 
+contexts of users’ visits to the space. Yet many of these findings are restricted to one study site at a time and may 
+not generalize to a global understanding of urban sound environments. The present study is a comparative 
+analysis of in situ questionnaires collected over four study sites in Montreal (N = 1429) in both French and 
+English. At each site, the questionnaire included items from the Swedish Soundscape Quality Protocol and other 
+soundscape variables, as well as person-related (age, gender, extraversion, noise sensitivity) and situation-related 
+(social interaction) variables. We first tested measurement invariance between the French and English versions of 
+the used soundscape questionnaire. We then investigated the influence of contextual factors (combining person- 
+related and situation-related variables) on soundscape evaluations. The analyses confirmed the underlying 
+conceptualizations of proposed soundscape assessment questionnaires, confirmed metric invariance between 
+French and English questionnaires, and revealed significant influences of contextual factors on soundscape di­
+mensions. Our analysis further suggests that younger people, women, and extraverted people occupy the public 
+space more in groups, and that people in groups rate the soundscape as more pleasant and less eventful. Older 
+people and women were found to be more sensitive to noise, and more sensitive people tended to perceive the 
+soundscape as less pleasant and less monotonous. This research represents a critical step in rigorously assessing 
+soundscape evaluation methods and establishes solid groundwork to build more complex models of contextual 
+influences on soundscape evaluation. 
+1. Introduction 
+1.1. Soundscape 
+Urban public spaces play an essential role in the everyday life of city 
+users. The use of such spaces and the benefits for users is contingent on 
+an array of factors, including the experience of the sound environment. 
+Soundscape research investigates the “acoustic environment as 
+perceived or experienced and/or understood by a person or people, in 
+context” [1], often using interdisciplinary and mixed-methods ap­
+proaches to characterize sound environments, with an emphasis on 
+measures of human perception (in addition to purely physical mea­
+surements, such as sound level measurements). One of the essential tools 
+when researching everyday life auditory experiences is questionnaires – 
+which can include both scale ratings and open- and close-ended 
+questions. 
+In the last decade, several soundscape scales have been developed 
+and refined to measure the human perception of acoustic environments 
+(see Ref. [2] for a methodological review). Axelsson and colleagues [3] 
+created and validated the Swedish Soundscape Quality Protocol (SSQP) 
+– one of the most widely used soundscape questionnaires, comprised of 
+eight unipolar scales, in Swedish and English – and which led in part to 
+the ISO standard on soundscape procedures [4]. The SSQP measures 
+soundscape evaluations along three dimensions underlining people’s 
+perception of the sound environment: pleasantness, eventfulness, and fa­
+miliarity; with pleasantness and eventfulness constituting an orthogonal 
+space, along the four complementary unipolar scales of “pleasant” and 
+“unpleasant”, and “eventful” and “uneventful” with the four other scales 
+forming their diagonals (“monotonous” to “vibrant” and “calm” to 
+“chaotic”). Translations of the SSPQ have been used in other languages. 
+* Corresponding author. School of Information Studies, McGill University, 3661 Peel Street, Montreal, QC, H3A1X1, Canada. 
+E-mail address: cynthia.tarlao@mail.mcgill.ca (C. Tarlao). 
+Contents lists available at ScienceDirect 
+Building and Environment 
+journal homepage: http://www.elsevier.com/locate/buildenv 
+https://doi.org/10.1016/j.buildenv.2020.107490 
+Received 1 September 2020; Received in revised form 29 October 2020; Accepted 25 November 2020 
+
+Building and Environment 188 (2021) 107490
+2
+In our own work, we proposed and tested a translation of the SSQP [5] in 
+Qu´ebec French, with the same first and second dimensions of pleasant­
+ness and eventfulness (the dimensions of agr´eable and anim´e, respectively, 
+in French), but that does not follow the exact proposed orthogonality in 
+both French and English [5,6] (see sections 4.1 and 4.2 for a short dis­
+cussion). Other French translations have been developed in France [7], 
+confirming the same first and second dimensions of pleasantness and 
+eventfulness. However, no statistical confirmation of those translations 
+has been undertaken yet. 
+In subsequent work and in response to comments by researchers from 
+urban studies (e.g. Ref. [8]), Axelsson [9] recommended adding the 
+assessment of the appropriateness of the soundscape to the space as an 
+orthogonal dimension to the pleasantness and eventfulness dimensions 
+previously established. Appropriateness of the soundscape for the space 
+can cover multiple aspects, for instance the harmony between the visual 
+
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Sites 
+Questionnaires were collected over four study sites in Montreal 
+during the summer months from 2015 to 2019 (N = 1429). We capi­
+talized on our team’s collection of a large dataset over multiple sites of 
+varied types in the same dual linguistic context and using the same 
+questionnaire methodology. The different sites, all located in downtown 
+Montreal in the trendy Plateau neighborhood, were selected to represent 
+a variety of morphologies and sound environments. Specifically: 
+1. Public Square (PS), a small (about 1800 m2) public square right 
+next to one of the main commercial streets of that area, with shops 
+and restaurants along with two traffic lanes also used by bus lines 
+operating regularly (every 10 min or less in both directions) during 
+the day (Place Fleurs-de-Macadam, N = 1130), 
+2. Pocket Park (PP), a slightly larger (almost 2000 m2) pocket park in a 
+lively, musical area that has become one of the centers of Montreal 
+nightlife. On one side, it borders a commercial artery, active almost 
+24/7, with shops, cafes, bars, and companies along with heavy one- 
+way traffic, and a bus line. On the other side, it borders a quieter 
+residential area with low buildings – 2 to 3 floors high (Parc du 
+Portugal, N = 155), 
+3. Green Park (GP), a big (340,000 m2) green park located at the heart 
+of the neighborhood and bordered by major arteries on all four sides. 
+It is surrounded by restaurants and bars and offers mixed functions 
+for residents and non-residents, with a very quiet center and more 
+lively edges (Parc LaFontaine, N = 41), 
+4. Pedestrian Zone (PZ), the pedestrianization project (almost 1000 
+m2) of a semi-commercial, semi-residential street with addition of 
+furniture and greenery. It is surrounded by small shops, some res­
+taurants and residential apartments. The streets are mostly one-way 
+streets and relatively quiet, one of the main routes with more dense 
+traffic is a block away, behind a row of buildings (Roy street, N =
+103). 
+2.2. Questionnaires 
+The questionnaire was offered in French or English (see Appendix 
+Fig. A1), entirely in one language or the other, as preferred by each 
+respondent. Common questions (see Table 1) between all sites in the 
+questionnaire were soundscape-related (Sound sources heard, Swedish 
+Soundscape Quality Protocol [SSQP], Appropriateness, Loudness, 
+Restorativeness), personality- and person-related (Age, Gender, Extra­
+version, Noise Sensitivity), and situation-related (Activity conducted, 
+Social Interaction). This paper focuses on the quantitative analysis of the 
+15 common close-ended questions, the qualitative analysis of the free- 
+Table 1 
+Variables in common between the four sites’ questionnaires (5-letter abbrevia­
+tions used in model figures for legibility). 
+Section 
+Variable 
+Abbr. 
+Type 
+Soundscape- 
+related 
+Sound sources (Pleasant, Unpleasant, 
+Neutral) 
+– 
+Free 
+response 
+Pleasantness 
+plsnt 
+Likert scale 
+Monotony 
+mntns 
+Likert scale 
+Vibrancy 
+vbrnt 
+Likert scale 
+Chaoticness 
+chatc 
+Likert scale 
+Calmness 
+calm 
+Likert scale 
+Eventfulness 
+evntf 
+Likert scale 
+Appropriateness 
+apprp 
+Likert scale 
+Loudness 
+loud 
+Likert scale 
+Restorativeness (Being-away) 
+rstrt 
+Likert scale 
+Person-related 
+Extraversion 
+extrv 
+Likert scale 
+Noise Sensitivity 
+snstv 
+Likert scale 
+Age 
+age 
+Free 
+response 
+Gender 
+gendr 
+Binary 
+Situation-related 
+Activity 
+– 
+Free 
+response 
+Social Interaction (alone or in a 
+group) 
+alone 
+Binary 
+C. Tarlao et al. 
+
+Building and Environment 188 (2021) 107490
+4
+format responses is beyond the scope of this paper. Note that restor­
+ativeness has been operationalized in various ways in previous research 
+[35,36], but in this study, we focus on the ability of the soundscape to 
+offer a break from the daily routine, which measures the Being-away 
+component of Attention Restoration Theory as part of the Perceived 
+Restoratives Soundscape Scale (proposed by Payne [35] and validated 
+by Payne and Guastavino [36]). Additionally, as the data collected in the 
+Pocket Park (PP) and Green Park (GP) was rated on 7-point Likert scales, 
+we standardized all Likert scale data with Z-scores. Z-scores are mea­
+sures of how many standard deviations a data point is away from the 
+mean. They are obtained by subtracting the mean from each data point 
+and dividing the result by the standard deviation. 
+2.3. Respondents 
+Of the 1429 respondents, 74.2% chose to fill the questionnaire in 
+French, and 25.8% in English. They were 52.2% women, and 44.9% men 
+(2.9% others or unspecified), ranging in age from 19 to 98 (mean age: 
+34.7, SD: 14.0 years). 
+2.4. Statistical analysis 
+We conducted Confirmatory Factor Analyses (CFA) and Structural 
+Equation Modeling (SEM) in R 3.5.3 for Mac OS X and RStudio® 
+1.2.1335 with the lavaan [37] package. Figures were created using the 
+package semPlot [38]. A CFA attempts to determine if the researcher’s 
+hypotheses about the constructs (i.e. factors, or latent variables) un­
+derlying the data fit the dataset, and considers that the total variance is 
+the sum of the variance in common between the measured variables (i.e. 
+indicators) and of the variance unique to each indicator.1 SEM builds on 
+CFA models and allows for the use of mediation analyses involving both 
+latent and measured variables. 
+Missing values for Likert scales were replaced by the mean for each 
+site, as proportions of missing values were 6.1% or less (1.3–6.1% – see 
+Appendix Table A1). Because of this, we considered the Likert variables 
+as continuous in the following analyses. Our data was non-normal, both 
+for univariate and multivariate normality. For this reason, and due to 
+our large sample size, we used a robust estimation method, namely 
+Maximum Likelihood with Satorra-Bentler correction (MLM) [40] for 
+both parameter estimates and goodness-of-fit statistics. 
+Note that, due to their nature, missing values (total NA = 85) for the 
+variables “age” (NA = 32–2.2%), which can hardly be imputed,
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). In this study, we refer to 
+Fig. 1. Activity-centered framework for the integration of sound research and practice. Reproduced from Ref. [19] with permission. 
+Table 1) between all sites in the 
+Table 1 
+Fig. 2), that is 
+Fig. 3 for the original CFA model): a pleasantness (“PL”) factor and 
+Fig. 4), retain this 2-factor structure. In 
+Fig. 5). 
+Fig. 3): 
+Fig. 4) yielded 
+Table 2 and Fig. 4) were middling to large (0.28–0.75) and statistically 
+Table 3). This test is, however, 
+Fig. 2. Distribution of each Likert variable over all sites (outliers shown with black dots). 
+Fig. 3. Theoretical structure of the originally-hypothesized CFA model of soundscape ratings, before improvement. 
+Table 3) for each model comparison, because we have large samples 
+Table 3). 
+Table 3). Thus retaining the metric invariance hypothesis 
+Table 3). To understand which indicator(s) were poten­
+Table 3) was 
+Table 3). 
+Fig. 4), presented in section 3.1. 
+Fig. 5). 
+Table 4 
+Fig. 6) had a good fit, with χ2
+Table 4). The 
+
+======================================================================
+
+### RECORD ID=746 | screening_verdict=INCLUDE | year=2021
+JOURNAL: TRAVEL BEHAVIOUR AND SOCIETY
+TITLE: Perception of the built environment and walking in pericentral neighbourhoods in Santiago, Chile
+DOI: 10.1016/j.tbs.2021.01.002
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+Travel Behaviour and Society 23 (2021) 192–206
+Available online 3 February 2021
+2214-367X/© 2021 Hong Kong Society for Transportation Studies. Published by Elsevier Ltd. All rights reserved.
+Perception of the built environment and walking in pericentral 
+neighbourhoods in Santiago, Chile 
+Marie Geraldine Herrmann-Lunecke a,*, Rodrigo Mora a, Paloma Vejares b 
+a Universidad de Chile, Portugal 84, Santiago, Chile 
+b Universidad Diego Portales, República 180, Santiago, Chile 
+A R T I C L E I N F O 
+Keywords: 
+Walking 
+Perception 
+Built environment 
+Walking interviews 
+Walkability 
+Chile 
+A B S T R A C T 
+Walking is important as a sustainable and healthy transport mode. Yet, walking is strongly influenced by the built 
+environment and the socio-cultural characteristics of the walker. However, the impact of the built environment 
+on walking and “walkers” has scarcely been studied in a Latin American context, such as Chile. This research 
+explores which elements of the built environment ease and, contrarily, which elements hinder walking in six 
+pericentral neighbourhoods in Santiago, Chile, according to self-reported walking experiences of local residents 
+of different socioeconomic backgrounds, ages and genders. Through “walking interviews” with one hundred and 
+twenty residents conducted during spring 2018, this article examines how walkers perceive elements of the built 
+environment and how those elements elicit emotions, affecting people’s travel behaviour. Self-reports from 
+walkers reveal that the presence of trees, wide sidewalks and active uses ease walking, eliciting wellbeing and 
+happiness. On the contrary, residents declare that traffic noise, motorized traffic, narrow and deteriorated 
+sidewalks, and difficult crossings hinder walking, especially for older adults and women, causing them stress, 
+fear and anger. Finally, this article reflects upon how walking can be promoted through a more pedestrian- 
+friendly design of the built environment, by considering self-reported walking experiences of local residents. 
+1. Introduction 
+Walking is a sustainable and healthy transport mode. Studies show 
+that walking improves the physical and mental health of urban pop­
+ulations (D’Haese et al., 2015; Hill et al., 2003; Morgan et al., 2010; 
+Siqueira Reis et al., 2013; Williams and Thompson, 2013), reducing 
+obesity and enhancing cardiovascular health. Moderate to vigorous 
+walking can reduce tension and stress, and even improve sleep (CDC, 
+2012). Walking is also crucial for urban vitality and social interaction 
+(Jacobs, 1961; Hermann and Mora, 2017), enhances “citizenship” 
+(Loukaitou-Sideris and Ehrenfeucht, 2009) and contributes to the se­
+curity of urban spaces (Hillier, 1996). 
+For these reasons, walking has received worldwide attention since 
+the mid-1990s. For example, in the United States and United Kingdom, 
+walking has been promoted as an effective strategy to enhance physical 
+activity and mitigate obesity (CDC, 2012; Lean et al., 2006). Meanwhile, 
+in Chile, the recent National Urban Development Policy has set out that 
+walking should be promoted in urban environments (MINVU, 2014). 
+It has been argued that walking is strongly conditioned by the socio- 
+cultural characteristics of the walker (e.g. gender, age, income, culture) 
+and environmental conditions such as noise, motorized traffic, weather 
+and topography, among others (Solnit, 2000). Furthermore, a prominent 
+role has been given to the built environment, since the urban form and 
+the presence of certain physical elements along streets—and their 
+characteristics—seem to ease or, on the contrary, make it difficult to 
+travel by foot (Valenzuela-Montes and Talavera-García, 2015). 
+The term “walkability” was introduced into planning literature 
+during the nineties, arguing that increased walkability could lead to 
+more walking. However, no clear definition of walkability exists among 
+practitioners and urban planners. Some definitions relate walkability to 
+the built environment and its characteristics linked, either positively or 
+negatively, to walking, while others focus on the social or health-related 
+outcomes of walkable places (Forsyth, 2015; Dovey and Pafka, 2019). In 
+other cases, walkability has even been used as a proxy for good urban 
+design (Forsyth, 2015; Speck, 2012). It is important to point out that 
+most approaches to walkability have focused on meso-scale, rather than 
+micro-scale attributes of the built environment such as sidewalk width 
+or the presence of trees in a given block (Arellana et al., 2019). 
+Walkability has further been related to the idea that urban envi­
+ronments can elicit subjective perceptions in individuals. This is what 
+* Corresponding author. 
+E-mail addresses: mherrmann@uchile.cl (M.G. Herrmann-Lunecke), rodrigomora@uchile.cl (R. Mora), paloma.vejares@mail.udp.cl (P. Vejares). 
+Contents lists available at ScienceDirect 
+Travel Behaviour and Society 
+journal homepage: www.elsevier.com/locate/tbs 
+https://doi.org/10.1016/j.tbs.2021.01.002 
+Received 12 January 2020; Received in revised form 15 August 2020; Accepted 6 January 2021 
+
+Travel Behaviour and Society 23 (2021) 192–206
+193
+D¨orrzapf et al. (2019) considers as a wider definition of walkability, in 
+the sense that it incorporates perceptions of the built environment, more 
+difficult to register or quantify, such as perception of safety (Ewing et al., 
+2006) or aesthetic variables (Borst et al., 2009), which might affect 
+travel behaviour (D¨orrzapf et al., 2019). 
+Although there is a growing interest among Latin American re­
+searchers on this subject (Arellana et al., 2019; Herrmann-Lunecke et al., 
+2020b), most of the literature addressing the built environment and 
+walking has been developed in Europe and the United States. Indeed, the 
+impact of the built environment on walking and “walkers” has scarcely 
+been studied in a Latin American context, including Chile. The majority 
+of the Latin American literature has focused 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Writing - original draft. Paloma Vejares: Methodology, 
+Formal analysis, Investigation, Visualization. 
+Acknowledgements 
+This work was supported by ANID under grant Fondecyt Regular 
+N◦1200527 and by CONICYT under grant Fondecyt Regular N◦1170292. 
+Thanks are extended to Alemka Tomicic and to the research assis­
+tants Soledad Monsalve and Carla Morales. 
+Declaration of Interest Statement 
+Declarations of interest: none. 
+References 
+Adkins, A., Makarewicz, C., Scanze, M., Ingram, M., Luhr, G., 2017. Contextualizing 
+walkability: do relationships between built environments and walking vary by 
+socioeconomic context? J. Am. Plann. Assoc. 83 (3), 296–314. 
+Akyelken, N., 2013. Development and gendered mobilities: Narratives from the women 
+of Mardin, Turkey. Mobilities 8 (3), 424–439. 
+Alcaíno, P., Guti´errez, P., 2005. Santas o Mundanas: Paradojas y coerciones en el 
+consumo de las mujeres. Fundaci´on Instituto de la Mujer. 
+Alfonzo, M.A., 2005. To Walk or Not to Walk? The hierarchy of walking needs. Environ. 
+Behav. 37 (6), 808–836. https://doi.org/10.1177/0013916504274016. 
+Allen, H., C´ardenas, G., Pereyra, L. and Sagaris, L. 2019. Ella se mueve segura. Un estudio 
+sobre la seguridad personal de las mujeres y el transporte público en tres ciudades de 
+Am´erica Latina. Caracas: CAF y FIA Foundation. Retrieved from http://scioteca.caf. 
+com/handle/123456789/1405. 
+Anderson, J., 2004. Talking whilst walking: a geographical archaeology of knowledge. 
+Area 36 (3), 254–261. 
+Andrews, G.J., Hall, E., Evans, B., Colls, R., 2012. Moving beyond walkability: On the 
+potential of health geography. Soc. Sci. Med. 75 (11), 1925–1932. 
+Arellana, J., Saltarin, M., Larra˜naga, A.M., Alvarez, V., Henao, C., 2019. Urban 
+walkability considering pedestrians’ perceptions of the built environment: a 10-year 
+9 Sidewalks in residential areas should have a minimum width of 2.50 m, 
+which allows two wheelchairs to pass by simultaneously (Herrmann-Lunecke, 
+2016). 
+10 The General Ordinance of Urbanism and Construction sets out that two-lane 
+roads must be 7 m wide, irrespective of the speed limit, or if it is a local or main 
+street (MINVU, 2010). On the contrary, the minimum width for sidewalks is 
+only 1.2 m in residential streets and 2 m in commercial streets, which is 
+insufficient (Herrmann-Lunecke et al., 2020b). 
+M.G. Herrmann-Lunecke et al. 
+
+Travel Behaviour and Society 23 (2021) 192–206
+205
+review and a case study in a medium-sized city in Latin America. Transp. Rev. 
+(forthcoming). 
+Avila, M., Martínez-Ferrer, B., Vera, J., Bahena, A., Musitu, G., 2015. Victimizaci´on, 
+miedo al delito y cambios en las rutinas cotidianas en un contexto de alta 
+criminalidad, en funci´on del g´enero. Revista Espa˜nola de Investigaci´on 
+Criminol´ogica: REIC 13, 4–22. 
+Benediktsson, M.O., 2018. Where inequality takes place: A programmatic argument for 
+urban sociology. City Commun. 17 (2), pp. 
+Berding, U., Kulinski, O., y Selle, K., 2003. St¨adte als Standortfaktor: ¨Offentlicher Raum. 
+Bundesamt für Bauwesen und Raumordnung, Bonn. 
+Bergeron, J., Paquette, S., Poullaouec-Gonidec, P., 2014. Uncovering landscape values 
+and micro-geographies of meanings with the go-along method. Landscape Urban 
+Plann. 122, 108–121. 
+Bilal, U., Alazraqui, M., Caiaffa, W.T., Lopez-Olmedo, N., Martinez-Folgar, K., 
+Miranda, J.J., Rodriguez, D.A., Vives, A., Diez-Roux, A.V., 2019. Inequalities in life 
+expectancy in six large Latin American cities from the SALURBAL study: an 
+ecological analysis. Lancet Planet. Health 3 (12), e503–e510. 
+Berto, R. 2014. The role of nature in coping with psycho-physiological stress: a literature 
+review on restorativeness. Behavioral sciences, 4(4), pp.394-409.394-417. 
+Borst, H.C., de Vries, S.I., Graham, J.M., van Dongen, J.E., Bakker, I., Miedema, H.M., 
+2009. Influence of environmental street characteristics on choice of elderly people. 
+J. Environ. Psychol. 29 (4), 477–484. 
+Bostock, L., 2001. Pathways of disadvantage? Walking as a mode of transport among 
+low-income mothers. Health Soc. Care Community 9 (1), 11–18. 
+Butler, M., Derrett, S., 2014. The walking interview: An ethnographic approach to 
+understanding disability. Internet J. Allied Health Sci. Pract. 12 (3), 6. 
+Carpiano, R.M., 2009. Come take a walk with me: The “Go-Along” interview as a novel 
+method for studying the implications of place for health and well-being. Health Place 
+15 (1), 263–272. 
+CEAD, Centro de Estudios y An´alisis del Delito. 2019. Estadísticas delictuales. Accesed 
+from http://cead.spd.gov.cl/estadisticas-delictuales/. 
+Center for Disease Control (CDC-USA), 2012. Vital signs: walking among adults, United 
+States, 2005 and 2010. MMWR Morb. Mortal. Wkly Rep. 61 (31), 595–601. 
+Cepal, 2015. Sexual harassment in public spaces: the city in debt with the rights of 
+women. Eclac, United Nations. Accessed from https://www.cepal.org/en/notas/ 
+acoso-sexual-espacio-publico-la-ciudad-deuda-derechos-mujeres. 
+Cervero, R., Kockelman, K., 1997. Travel demand and the 3Ds: Density, diversity, and 
+design. Transp. Res. Part D: Transp. Environ. 2 (3), 199–219. 
+Cilliers, E.J., Timmermans, W., Van den Goorbergh, F., Slijkhuis, J., 2015. Green place- 
+making in practice: From temporary spaces to permanent places. J. Urban Des. 20 
+(3), 349–366. 
+Clement, S., Waitt, G., 2017. Walking, mothering and care: a sensory ethnography of 
+journeying on-foot with children in Wollongong, Australia. Gender Place Cult. 24 
+(8), 1185–1203. 
+Conaset,, 2017. Observatorio de Datos. Accessed from. https://www.conaset.cl/pro 
+grama/observatorio-datos-estadistica/. 
+Contrucci, P., 2011. Vivienda en altura en zonas de renovaci´on urbana: Desafíos para 
+mantener su vigencia. EURE 3 (111), 185–189. https://doi.org/10.4067/S0250- 
+71612011000200010. 
+Corbin, J., Strauss, A., 2008. Basics of qualitative research: Techniques and procedures 
+for developing grounded theory, 3rd ed. Sage, Thousand Oaks, CA. 
+Damasio, A., Carvalho, G., 2013. The nature of fe
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). Indeed, 60% of the participants 
+Fig. 1. Elements of the built environment which elicit wellbeing according to walkers. Source: Authors. 
+Fig. 2). Indeed, negative self-reported experiences 
+Fig. 3). As a 34-year-old woman (low-income neigh­
+Fig. 4). This was especially highlighted by women and older 
+Fig. 2. Elements of the built environment which cause stress according to walkers. Source: Authors. 
+Fig. 3. Streetscape in a low-income neighbourhood (Comuna de Estaci´on Central), middle-income neighbourhood (Comuna de Santiago), and high-income 
+Fig. 5). Particularly for older 
+Fig. 4. Elements of the built environment which enhance security according to walkers. Source: Authors. 
+Fig. 6). Fear was also triggered by high 
+Fig. 5. Elements of the built environment which cause insecurity according to walkers. Source: Authors. 
+Fig. 7). Remarkably, other elements which triggered anger 
+Fig. 8). 
+Fig. 9). As a 74-year-old woman (high-income 
+Fig. 10). 
+Fig. 6. Elements of the built environment which cause fear according to walkers. Source: Authors. 
+Fig. 7. Elements of the built environment which cause anger according to walkers. Source: Authors. 
+Fig. 8. Elements of the built environment which cause sadness according to walkers. Source: Authors. 
+Fig. 9. Elements of the built environment which elicit happiness according to walkers. Source: Authors. 
+Fig. 10. Elements of the built environment which cause disgust according to walkers. Source: Authors. 
+
+======================================================================
+
+### RECORD ID=760 | screening_verdict=INCLUDE | year=2021
+JOURNAL: International Journal of Human Capital in Urban Management
+TITLE: Soundscape Assessment in Historical Urban Spaces Using Sound Walk Method and Kano Model
+DOI: 10.22034/ijhcum.2021.01.02
+PAGES: 18
+
+--- HEAD (title/abstract/intro) ---
+Int. J. Hum. Capital Urban Manage., 6(1): 11-28, Winter 2021
+*Corresponding Author:
+Email: arsadeghi.shirazu@gmail.com
+Phone: +989173146514 
+Fax: +9871-36131070
+International Journal of Human Capital in Urban Management 
+(IJHCUM)
+Homepage: http://www.ijhcum.net/
+ORIGINAL RESEARCH PAPER
+Soundscape Assessment in Historical Urban Spaces Using Sound Walk Method and 
+Kano Model
+R. Alishahi, A.R. Sadeghi*, M. Sholeh
+Department of Urban Design and Planning, Faculty of Art and Architecture, Shiraz University, Shiraz, Iran
+BACKGROUND AND OBJECTIVES: Sound is one of the most important tools for 
+recognizing urban spaces. Zandieh area of Shiraz as one of the historic context shaped 
+during the ages hase been chosen in order to obtain a proper response to the individual’s 
+perception of urban historic spaces soundscape. The main object of this manuscript 
+achieves a sufficient way in order to organize urban soundscape by utilizing assessments 
+and perception data perceived by users.
+METHODS: The narrative interview method (a sample group of 129 users who were 
+active in space for more than 30 minutes) and behavior observation which are subsets 
+of the sound walking technique have been used; Also, the data which were collected in 
+the previous stage, based on the components of the Kano model, were categorized into 
+three categories of basic, performance and attractiveness. 
+FINDINGS: With regard to the findings and assessments in the case study, it can be 
+inferred that 69% of the urban space’s users perceive noises such as underpass fans’ 
+noise more than any others; Consequently, this has led to the lack of acceptance by 
+space users; Also, it was cleared by interviewing listeners in urban space that 59% of 
+the interviewees have preferred natural Sounds to human and 76% preferred tranquility 
+at the urban environment While only 11% of the users preferred the development of a 
+vibrant space.
+CONCLUSION: Base on that strategies such as planting vegetation in order to prevent 
+the street noise, allocating water bodies in order to have water sound with proper 
+shading and a Desirable view of historical spaces to increase the sense of richness 
+have been presented. Also, in order to achieve an efficient method to improve the 
+soundscapes of urban environments, basic strategies, performance strategies and at last 
+strategies for increasing the attractiveness of urban environments’ soundscape should 
+be implemented.
+©2021 IJHCUM. All rights reserved.
+ARTICLE INFO 
+Article History:
+Received 05 June 2020
+Reviewed 10 July 2020
+Revised 22 August 2020
+Accepted 08 September 2020 
+Keywords:
+Historic Zandieh Area
+Kano Model
+Soundscape
+Sound Walking
+Urban Space
+ABSTRACT
+DOI: 10.22034/IJHCUM.2021.01.02
+NUMBER OF REFERENCES
+44
+NUMBER OF FIGURES
+8
+NUMBER OF TABLES
+5
+Note: Discussion period for this manuscript open until April 1, 2021 on IJHCUM website at the “Show Article.
+Archive of SID
+www.SID.ir
+
+12
+R. Alishahi et al.
+INTRODUCTION
+Cultural spaces are composed of socio-cultural, 
+functional, physical, and sonic environments in their 
+heart (Fig.1, Leus et al, 2015; Hong et al., 2017). In this 
+regard, “sound” and “noise” as two members of the 
+subsets forming sonic environment are of great 
+importance, that majorly due to misconception of 
+their 
+meaning, 
+they 
+are 
+mistakenly 
+used 
+interchangeably in the literature dealing with them 
+(Brambilla et al., 2013; Leus and Herssens, 2015; 
+Carvalho et al., 2019). Therefore, the need to study 
+soundscape as a process based on how citizens 
+perceive sonic environment is important in order to 
+better recognize it (Jennings and Cain, 2013; Steele et 
+al., 2019; Jo and Jeon, 2020). With a quick look at the 
+literature on this subject we can see that designers in 
+the past decades have only sought to eliminate noise 
+based on physical criteria such as sound volume and 
+level, and a purely quantitative and technical look has 
+overshadowed the concept. This became a reality 
+while users’ perception of urban spaces, which is one 
+of the basic pillars of their structure, has been 
+neglected 
+in 
+these 
+studies. 
+Meanwhile, 
+the 
+contradiction between urban spaces, and especially 
+historical environments, with the sonic environment 
+existing in them and lack of a disciplinary method in 
+the form of a coherent framework for properly 
+recognizing, evaluating and analyzing the elements of 
+soundscape in accordance with their context have 
+caused quality degradation of these spaces (Berglund 
+and Nilsson, 2006; Axelsson et al., 2010; Cobianchi et 
+al., 2019; Hong and Jeon, 2017; Liu et al., 2020). 
+Therefore, the present study majorly aims to identify 
+the main components of soundscape and understand 
+it as a generality related to users’ perception of urban 
+space and to provide a disciplined framework and 
+style in order to identify, evaluate, and design 
+soundscape of historical spaces of Islamic-Iranian 
+cities. The issue of soundscape has been ignored in the 
+field of urban studies for many years. Thomas Schafer, 
+for the first time under the World Soundscape Project 
+published in 1977, emphasizing examination of how 
+users perceive urban spaces using interview method, 
+concluded that just by reducing the volume of sound, 
+an ideal sonic environment cannot be achieved 
+(Schafer, 1977). Regarding the different perceptions of 
+professionals and users from soundscape of urban 
+space, Kang in his study entitled “Urban sound 
+environment” published in 2006 concluded that 
+designers’ understanding of soundscape differs from 
+users’ perceptions and this has caused failure of the 
+activities performed in relation to soundscape (Kang, 
+2006). Regarding the executive plans prepared by 
+government agencies, the “Westminster Sound 
+Strategy” guideline was published in 2015 by 
+Westminster Municipality. In this study, given the 
+unique features of the historical heart of this city, the 
+main emphasis has been on creation of calm 
+environments and elimination of noise pollutions 
+(Westminste
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 
+Data 
+collection 
+Data 
+analysis 
+Guideline for 
+prioritization of 
+preferences 
+in the soundscape 
+Narrative 
+interview 
+Recognition 
+of Sonic 
+Environment 
+Soundscape 
+preferences 
+guidelineline 
+Sound 
+Mapping 
+Noise 
+Mapping 
+Kano 
+Model 
+Sound 
+Walking 
+Method 
+Narrative 
+interview 
+Recognition 
+of Sonic 
+Environment 
+Fig. 3: The process of soundscape data collection and analysis
+Archive of SID
+www.SID.ir
+
+18
+Soundscape Assessment in Historical Urban Spaces
+urban space in order to recognize how users perceive 
+soundscape of urban space. Authors believe that 
+each group of questions can indicate the features 
+affecting how users perceive soundscape of urban 
+spaces. Therefore, the questions were evaluated in 
+three natural, artificial, and human levels based on 
+the nature of the sounds existing in urban space. It 
+should be noted that validity of the questions was 
+determined by content validity method (verification 
+by experts) and reliability was determined by 
+Cronbach’s alpha method. In this study, Cronbach’s 
+alpha for all questions of the questionnaire was 0.805. 
+In order to recognize subconscious perception of 
+users, behavioral observation method has been used. 
+In this regard, in the first step, sound sources were 
+identified based on the classification into artificial, 
+human, and natural groups using users’ perceptions 
+and sounds heard by them in narrative interviews, 
+and users’ behaviors were evaluated based on 
+proximity to these sources. The obtained data in this 
+stage was analyzed by content analysis method and 
+was analyzed in comparison with the data obtained 
+from narrative interviews. For this purpose, some 
+points in the case study space were selected for 
+placement of the observer in a way that they do not 
+interfere in the process of users’ behavior. Given the 
+limitations in selecting the sample population in this 
+method, the behavior of users was examined in three 
+twenty-minute intervals in the morning, noon, and 
+night in a working day.
+Evaluation of citizens’ preferences using Kano model
+Due to the complexity of the perception of 
+soundscapes and the diverse perspectives of the 
+various stakeholders, a single approach to assessing 
+interventions is therefore not likely. In fact, a variety 
+of approaches should be considered. As a result, 
+Kano model can be used to facilitate categorization 
+of users’ perceptions of soundscape (Kano, 1984). 
+Given its features and experiences of its being used in 
+world literature (Positive Soundscape Project of the 
+University of Salford), this model can be very effective 
+in providing a suitable framework for designing 
+soundscape of urban spaces (Jennings and Cain, 
+2013). This model consists of a diagram and three 
+main level (Fig. 4). The horizontal axis shows service 
+provision aspects and the vertical axis indicates 
+the level of customer satisfaction. The constituting 
+components are divided into six categories:
+Performance (One-dimensional): 
+This component is a linear characteristic, such 
+that the higher it is, the more satisfaction exists. 
+For example, this component is used in automotive 
+industry in relation to the components of fuel, 
+economy, etc (Jennings and Cain, 2013; Dace et al., 
+2020).
+Basic (Must be): 
+This component works very differently such that 
+its presence does not increase satisfaction much, 
+but in its absence, there will be lack of satisfaction 
+(Jennings and Cain, 2013; Dace et al., 2020; Inayah 
+and Indrawati, 2020).
+Excitement (Attractive): 
+This component is in the opposite point of the 
+basic component such that its absence does not cause 
+much dissatisfaction, but its presence will greatly 
+increase satisfaction. For example, in automotive 
+industry, heating systems and seat quality can be 
+mentioned as examples of this feature (Jennings and 
+Cain, 2013; Inayah and Indrawati, 2020).
+Indifferent: 
+The 
+attributes 
+towards 
+which 
+customers 
+feel indifferent. Fulfillment or absence of these 
+attributes has no effect on customers’ satisfaction or 
+dissatisfaction (Chen and Chuang, 2008; Dace et al., 
+2020).
+Reversal: 
+This attribute brings more satisfaction, if absent, 
+and vice versa (Chen and Chuang, 2008; Dace et al., 
+2020). 
+Questionable: 
+The questionable quality is the one that cannot be 
+mapped because any level of its performance can lead 
+to the customers’ satisfaction or dissatisfaction (Min 
+et al., 2018). In the formal usage of Kano’s methods, 
+questionnaires and other tools are used to categorize 
+the various aspects of a product or service. As a result, 
+the relationship or the attributes are translated into 
+five categories of perceived quality: attractive quality 
+(A), must‐be quality (M), one‐dimensional quality 
+(O), reverse quality (R), and indifferent quality (Min 
+et al., 2018; Dace et al., 2020)(Fig.4). The categories 
+of perceived quality are based on two feelings of 
+Archive of SID
+www.SID.ir
+
+19
+Int. J. Hum. Capital Urban Manage., 6(1): 11-28, Winter 2021
+customers, namely, a feeling experienced when 
+a product has the attribute and a feeling when a 
+product does not have the attribute (Finster et 
+al., 2001), resulting as satisfaction, dissatisfaction, 
+or indifference. The relationship between various 
+quality attributes is nonlinear. In addition, attributes 
+are dynamic—the perception of an attribute by 
+customers will change over time. The attribute can 
+change, for example, from being satisfier (being 
+exciting) to dissatisfier (being expected by default), 
+because once introduced, this attribute initially being 
+exciting will soon be imitated by competitors and 
+expected by customers from every provider (Fig. 4). 
+The methodology uses a structured questionnaire 
+ 
+Fig. 4: Kano Model componentes (Chen and Chuang, 2008)
+How do you feel about water sound in the urban space? 
+1. 
+I like it that way 
+2. 
+I expect it that way 
+3. 
+I am neutral 
+4. 
+I can accept it to be that way 
+5. 
+I dislike it that way 
+How do you feel about absent of water
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig.1, Leus et al, 2015; Hong et al., 2017). In this 
+Table 1) components 
+Table 1: Categorization of urban soundscapes (Dubois et al., 2006; Davies et al., 2013; Liu et al., 2014; Gale et al., 2020; Jeon and Jo, 2020)
+Fig. 1: The status of soundscape studies in the studies on historical spaces of Islamic-Iranian cities (Hong and Jeon, 2017; Leus and 
+Fig. 2: Situation of the urban environment of the case study; source: authors: a) and b) are maps of Shiraz and Zandieh area, respectively 
+Fig. 2) is one of the most important 
+Fig. 2: Situation of the urban environment of the case study; source: authors: a) and b) are maps of Shiraz and Zandieh area, 
+Fig. 3). 
+Fig. 3: The process of soundscape data collection and analysis
+Fig. 4). The horizontal axis shows service 
+Fig.4). The categories 
+Fig. 4). 
+Fig. 4: Kano Model componentes (Chen and Chuang, 2008)
+Table 2: Survey Questions and Analysis method base on the Kano model (Mikulić and Prebežac, 2011)
+Fig. 4) that results in the 
+Table 2). Finally, the frequencies of the correspondent 
+Fig. 5: Soundscape map of the case study
+Fig. 5: Soundscape map of the case study
+Fig. 5), it was found that users have faced 
+Fig. 
+6). In recognizing the behaviors of users, it was 
+Fig. 6: Behavioral patterns of the case study
+Fig. 7) (Table 3).
+Table 3: Kano Model Questionnaire Results
+Fig. 7: Sonic Environment Structure of the case study
+Table 4, and then given the existing 
+
+======================================================================
+
+### RECORD ID=779 | screening_verdict=INCLUDE | year=2021
+JOURNAL: ENVIRONMENT INTERNATIONAL
+TITLE: Urban environment and obesity and weight-related behaviours in primary school children
+DOI: 10.1016/j.envint.2021.106700
+PAGES: 14
+
+--- HEAD (title/abstract/intro) ---
+Environment International 155 (2021) 106700
+Available online 15 June 2021
+0160-4120/©
+2021
+The
+Authors.
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY-NC-ND
+license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Urban environment and obesity and weight-related behaviours in primary 
+school children 
+Jeroen de Bont a,b,c,d,e, Sandra M´arquez a,b,c, Sílvia Fern´andez-Barr´es a,b,c, 
+Charline Warembourg a,b,c, Sarah Koch a,b,c, Cecilia Persavento a,b,c, Silvia Fochs a,b,c, 
+Núria Pey a,b,c, Montserrat de Castro a,b,c, Serena Fossati a,b,c, Mark Nieuwenhuijsen a,b,c, 
+Xavier Basaga˜na a,b,c, Maribel Casas a,b,c, Talita Duarte-Salles d, Martine Vrijheid a,b,c,* 
+a ISGlobal, Barcelona, Spain 
+b Spanish Consortium for Research on Epidemiology and Public Health (CIBERESP), Spain 
+c Universitat Pompeu Fabra, Barcelona, Spain 
+d Fundaci´o Institut Universitari per a la recerca a l’Atenci´o Prim`aria de Salut Jordi Gol i Gurina (IDIAPJGol), Barcelona, Spain 
+e Universitat Aut`onoma de Barcelona, Bellaterra (Cerdanyola del Vall`es), Spain 
+A R T I C L E I N F O 
+Handling Editor: Olga-Ioanna Kalantzi 
+Keywords: 
+Urban environment 
+Body mass index 
+Childhood obesity 
+Weight-related behaviours 
+Cluster analyses 
+A B S T R A C T 
+Background: Urban environments are characterised by many factors that may influence children’s lifestyle and 
+increase the risk of childhood obesity, but multiple urban exposures have scarcely been studied. 
+Objective: We evaluated the association between multiple urban exposures and childhood obesity outcomes and 
+weight-related behaviours. 
+Methods: We conducted a cross-sectional study including 2213 children aged 9–12 years in Sabadell, Spain. We 
+estimated ambient air pollution, green spaces, built and food environment, road traffic and road traffic noise at 
+residential addresses through a total of 28 exposure variables in various buffers. Childhood obesity outcomes 
+included body mass index (BMI), waist circumference and body fat. Weight-related behaviours included diet (fast 
+food and sugar-sweetened beverage consumption), physical activity, sedentary behaviour, sleep duration and 
+well-being. Associations between exposures (urban environment) and outcomes (obesity and behaviours) were 
+estimated in single and multiple-exposure regression models and in a hierarchical clustering on principal com­
+ponents (HCPC) analysis. 
+Results: Forty percent of children were overweight or obese. In single exposure models, very few associations 
+were observed between the urban exposures and obesity outcomes or weight-related behaviours after correction 
+for multiple testing. In multiple exposure models, PMcoarse, denser unhealthy food environment and land use mix 
+were statistically significant associated with childhood obesity outcomes (e.g 17.7 facilities/km2 increase of 
+unhealthy food environment (OR overweight/obesity status) = 1.20 [95% CI: 1.01; 1.44]). Cluster analysis 
+identified 5 clusters of urban exposures. Compared to the most neutral cluster, the cluster with high air pollution, 
+road traffic, and road noise levels was associated with a higher BMI and higher odds of overweight and obesity (β 
+(zBMI) = 0.17, [95% CI: 0.01, 0.17]; OR (overweight/obesity) = 1.36, [95% CI: 0.99, 1.85]); the clusters were 
+not associated with the weight-related behaviours. 
+Conclusions: This systematic study of many exposures in the urban environment suggests that an exposure pattern 
+characterised by higher levels of ambient air pollution, road traffic and road traffic noise is associated with 
+increased childhood obesity risk and that PMcoarse, land use mix and food environment are separately associated 
+with obesity risk. These findings require follow-up in longitudinal studies and different settings. 
+* Corresponding author at: Barcelona Institute for Global Health, C/Doctor Aiguader, 88, 08003 Barcelona, Spain. 
+E-mail address: martine.vrijheid@isglobal.org (M. Vrijheid). 
+Contents lists available at ScienceDirect 
+Environment International 
+journal homepage: www.elsevier.com/locate/envint 
+https://doi.org/10.1016/j.envint.2021.106700 
+Received 22 December 2020; Received in revised form 3 June 2021; Accepted 5 June 2021 
+
+Environment International 155 (2021) 106700
+2
+1. Introduction 
+Increasing trends of childhood obesity seem to have plateaued or 
+even slightly decreased in high-income countries in the last decade, but 
+levels are still alarmingly high, especially in Spain which has the second 
+highest prevalence levels of childhood obesity in Europe ((NCD-RisC), 
+2017; de Bont et al., 2020a; WHO, 2018). Childhood obesity has been 
+associated with type 2 diabetes mellitus, hypertension, obstructive sleep 
+apnoea, dyslipidemia and mental health problems (Kumar and Kelly, 
+2017). Excessive weight status is a consequence of a chronic imbalance 
+between excessive energy intake and/or reduced energy expenditure 
+(Kipping et al., 2008; Trasande et al., 2010). The interaction of genetics, 
+lifestyle behaviours and environmental exposures are likely to 
+contribute to this imbalance (Kipping et al., 2008; Trasande et al., 2010). 
+Additionally, the rapid growth of urban areas worldwide has greatly 
+increased the levels of environmental stressors such as higher levels of 
+air pollution, noise and lack of green spaces. This increasing degree of 
+global urbanisation can influence personal behaviours of urban resi­
+dents, such as physical activity levels and sedentary behaviour (Nieu­
+wenhuijsen, 2016), and ultimately contribute to the energy imbalance 
+(Gascon et al., 2016; Nieuwenhuijsen, 2016). 
+A number of studies have recently reported associations between 
+increased levels of air pollution, road traffic, and traffic noise, and 
+increased childhood growth and obesity (Christensen et al., 2016; de 
+Bont et al., 2020b, 2019; Jerrett et al., 2010; Wang et al., 2020; Weyde 
+et al., 2018). Increased levels of green spaces, access to facilities, more 
+diversity of land u
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study design and study population 
+We conducted a cross-sectional school-based study between October 
+2017 and January 2019 in the city of Sabadell, Spain (approximately 
+200,000 inhabitants) within the ECHOCAT (Urban built environment 
+and childhood obesity in Catalonia) project. We aimed to recruit all 
+children in the 4th, 5th and 6th year of primary school (between 9 and 
+12 years old) in Sabadell. Of the 37 Sabadell primary schools that were 
+contacted, 30 schools agreed to join the study. Out of all children and 
+their families contacted at these schools (n = 3542), 1970 (56%) agreed 
+to participate. Participating schools were similar to the remaining 
+schools in Sabadell in terms of urban exposure levels (i.e NO2 levels 
+[38.1 versus 39.8 μg/m3, Kruskal-Wallis test, p = 0.54)], except for noise 
+levels (60.1 versus 63.0 dB(A), p = 0.02). Additionally, we included 
+children participating in the longitudinal INMA (INfancia y Medio 
+Ambiente, Environment and Childhood) Sabadell birth-cohort study. In 
+INMA, 778 pregnant women were recruited in the first trimester of 
+pregnancy between 2004 and 2006, and were followed from then on­
+wards (Guxens et al., 2012). In this study, we included the INMA chil­
+dren who participated in the follow-up visit at age 10–12 and attended 
+Sabadell primary schools in the 4th, 5th and 6th years (n = 481) during 
+the same period of the ECHOCAT study. Similar protocols for data 
+collection, outcome assessment and exposure assessment were used in 
+ECHOCAT and INMA. In both studies, all parents or tutors/guardians 
+signed a consent form and the studies were approved by the Clinical 
+Research Ethical Committee (ECHOCAT N◦= 2016/6635/I, INMA N◦=
+2016/6708/I) of the IMIM-Parc de Salut MAR, Barcelona, Spain. 
+2.2. Childhood obesity outcomes 
+Child anthropometric measurements (height, weight, waist circum­
+ference and body fat percentage) were measured following the same 
+standardized protocol in ECHOCAT and INMA at schools. All measure­
+ments were taken without shoes and in light clothing by specially 
+trained personnel. Child height (nearest 0.1 cm) and weight (nearest 0.1 
+kg) were used to calculate age-and-sex specific BMI z-scores (zBMI, in 
+standard deviation units) following the World Health Organization 
+Growth Reference (de Onis et al., 2007). Children with a zBMI higher 
+than +1 were defined as overweight including obesity, and children 
+below this cut off were considered normal weight, including under­
+weight. We focused on children with overweight rather than only chil­
+dren with obesity because the large number of children that have excess 
+weight and are known to be at an increased risk of multiple adverse 
+health outcomes. Additionally, waist circumference (nearest 0.1 cm) 
+was measured at the high point of the iliac crest and with minimal 
+respiration using an inelastic tape (model 201; SECA, Hamburg, Ger­
+many). Percentage body fat was measured using bioelectrical impedance 
+analyses (TANITA DC-360 and Bodystat 1500 instruments were used in 
+ECHOCAT and INMA, respectively). For INMA we calculated body fat 
+percentage using validated bioimpedance formulas as these are vali­
+dated for the Bodystat instrument (Clasey et al., 2011). For ECHOCAT 
+we used the body fat percentage values directly obtained from the 
+TANITA instrument (McCarthy et al., 2006), because the Clasey equa­
+tion is not validated for this instrument. The values from the TANITA 
+were highly correlated with the values from the Clasey equation 
+(Pearson correlation rs = 0.94). Finally, we obtained waist circumfer­
+ence and body fat percentage z-scores by calculating standardized re­
+siduals from a regression model of waist circumference and body fat 
+percentage as dependent variable, with age, sex and study (ECHOCAT, 
+J. de Bont et al. 
+
+Environment International 155 (2021) 106700
+3
+INMA) as predictors (Eisenmann, 2008). Overall, the outcomes were 
+highly correlated with each other, zBMI and waist circumference z- 
+scores had a Pearson correlation of 0.86, and zBMI and body fat per­
+centage z-scores of 0.79. Therefore, we decided to keep zBMI and 
+overweight/obesity status (normal weight vs overweight/obesity) as our 
+main outcome, and waist circumference and body fat percentage z- 
+scores as sensitivity analyses. zBMI, waist circumference and bio­
+impedance measures are considered as markers of adiposity, intra- 
+abdominal obesity and body composition, respectively (Moreno et al., 
+2011). 
+2.3. Weight-related behaviours 
+Weight-related behaviours including diet, physical activity, seden­
+tary behaviour, and sleeping duration were collected from parents 
+through questionnaires. Psychological well-being was collected directly 
+from the children. 
+Data about dietary intake and dietary behaviours were obtained 
+through a specific questionnaire and a modified version of a validated 
+food-frequency questionnaire (FFQ) (Vioque et al., 2019). The food 
+frequency questionnaire referred to the child intake in the previous year, 
+and it was completed by the parents, and the responses were trans­
+formed to times/week of intake. We selected two items as indicators of 
+unhealthy diet: fast food consumption in restaurants and consumption of 
+sugar-sweetened beverages. The fast food consumption in fast food 
+restaurants was obtained from this question “How often does your child 
+eat fast food (eg. burger, french fries, hot dogs, pizza) in fast food res­
+taurants?”. From the FFQ we obtained the sugar-sweetened beverage 
+consumption. Both variables were categorised (<1 time/week, ≥1 
+times/week) as studies suggests that more frequent users (more than 
+once weekly) are at higher risk (Tambalis et al., 2018). 
+Minutes of physical activity per week were obtained through an 
+adapted version of the Children’s Leisure Activities Study Survey 
+(CLASS) (Telford et al., 2005, 2004). We summed the total amount of 
+time (in hours) of all physical activities performed in an average week. 
+Addition
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1. The expo­
+Table 1 
+Table 2). The prevalence of overweight including obesity was 39.9%. 
+Table 2 
+Table 2 (continued) 
+Table 2). 
+Fig. 1 and S7, and 
+Fig. 1 and S7, 
+Fig. 1 and S7, Table S3). 
+Fig. 2). PMcoarse remained 
+Fig. 2). 
+Fig. 2). Unhealthy food environment also showed associations with 
+Fig. 2) were essentially the same as those from the 
+Fig. 3). Cluster 1 represented very high levels of green spaces and 
+Table 2 (continued) 
+Table 3). We did not observe 
+Table 3) 
+Fig. 1. Association between the urban environment and childhood obesity outcomes in single-exposure ExWAS model (N = 2213). Beta estimates and ORs for all 
+Fig. 2. Associations between urban environment and childhood obesity outcomes in multiple exposure models (N = 2213). Beta estimates for change in zBMI, waist 
+Fig. 3. Description of the clusters obtained from 
+Table 3 
+
+======================================================================
+
+### RECORD ID=833 | screening_verdict=INCLUDE | year=2022
+JOURNAL: JOURNAL OF TRANSPORT & HEALTH
+TITLE: How are air pollution and noise perceived en route? Investigating cyclists' and pedestrians' personal exposure, wellbeing and practices during commute
+DOI: 10.1016/j.jth.2021.101325
+PAGES: 17
+
+--- HEAD (title/abstract/intro) ---
+Journal of Transport & Health 24 (2022) 101325
+Available online 22 January 2022
+2214-1405/© 2022 Elsevier Ltd. All rights reserved.
+How are air pollution and noise perceived en route? Investigating 
+cyclists’ and pedestrians’ personal exposure, wellbeing and 
+practices during commute 
+Heike Marquart a,b,*, Kerstin Stark a, Julia Jarass a 
+a Institute of Transport Research, German Aerospace Center (DLR), Berlin, Germany 
+b Geography Department, Humboldt University Berlin, Berlin, Germany 
+A R T I C L E I N F O 
+Keywords: 
+Ride-along 
+Go-along 
+Sensory awareness 
+Perception 
+Air pollution 
+Noise 
+A B S T R A C T 
+Background: Commuting by bicycle or on foot is beneficial for health and wellbeing. However, 
+cycling and walking alongside road traffic poses the risk of air pollution and noise exposure. 
+Traditionally, exposure research is based on objective measurements. Only recently have sub­
+jective perceptions gained attention. The perceived exposure to air pollution and noise en route 
+and the momentary sensory awareness in traffic has rarely been investigated. This study addresses 
+this research gap. The aim was to examine cyclists’/pedestrians’ sensory awareness, perceived 
+and measured exposure, and practices to reduce health risks and improve wellbeing en route. 
+Methods: A mixed-methods approach was applied: (1) go-/ride-alongs with 28 participants in 
+Berlin, Germany, were conducted. Cyclists/pedestrians were accompanied on their commute 
+home from work. Meanwhile, a semi-structured qualitative interview during cycling/walking was 
+applied to discover experiences, practices and perceptions on-site. (2) Simultaneously, noise (dB 
+(A)), GPS and air pollution (particulate matter) were registered with wearable sensors. 
+Results: Measured exposure was partly in line with perceived exposure. However, some situations 
+with high exposure were evaluated as positive due to sensory awareness (greenery/water, urban 
+aesthetics) or social cues (other people, neighborhood areas). Community feelings, aesthetic/ 
+interesting urban form and passing people who perform leisure activities and, thus, take 
+ownership of their city, improved a pleasant commute. Using hidden paths to include greenery 
+and protective practices (e.g., increasing the distance from emitters) were examined. 
+Conclusions: Cyclists and pedestrians are directly exposed to their environment, which jointly 
+influences health and wellbeing. Air pollution and noise need to be addressed, as do exposure 
+perceptions and other sensory experiences. Passing community areas, having an interesting trip, 
+seeing/smelling blue and green spaces, and the quietness associated with these experiences 
+improve a cyclist’s/pedestrian’s wellbeing during their commute. Further research on how to 
+plan for and communicate about healthy and pleasant routes is needed. 
+1. Introduction 
+Urban transport plays a key role in improving health and wellbeing in cities (Nieuwenhuijsen and Khreis, 2019). Motorized 
+* Corresponding author. Institute of Transport Research German Aerospace Center (DLR), 12489, Berlin, Germany. 
+E-mail address: heike.marquart@dlr.de (H. Marquart). 
+Contents lists available at ScienceDirect 
+Journal of Transport & Health 
+journal homepage: www.elsevier.com/locate/jth 
+https://doi.org/10.1016/j.jth.2021.101325 
+Received 8 September 2021; Received in revised form 8 December 2021; Accepted 31 December 2021 
+
+Journal of Transport & Health 24 (2022) 101325
+2
+transport is responsible for harmful air pollutants and high noise levels, which adversely impact urban dwellers’ physical and mental 
+health (Li et al., 2018; Nieuwenhuijsen, 2016; WHO, 2018). In European cities, traffic noise and airborne particulate matter are two of 
+the leading environmental health risk factors and are especially high alongside high-density road traffic (Okokon et al., 2017; 
+H¨anninen et al., 2014). Next to physical health impacts, wellbeing is highly related to transport and is influenced during the travel 
+itself or in the long-term (Chatterjee et al., 2020; Nordbakke and Schwanen, 2013; Reardon and Abdallah, 2013). 
+In particular, cyclists and pedestrians face high levels of air pollution and noise alongside road traffic (Apparicio et al., 2016; 
+Chaney et al., 2017). Then again, active mobility promotes physical and mental health, increases wellbeing and the overall satisfaction 
+of travel (Chatterjee et al., 2020; Mouratidis et al., 2019; Mytton et al., 2016; Synek and Koenigstorfer, 2019). To enhance active 
+mobility, it is, therefore, important to improve cyclists’/pedestrians’ experience during travel and minimize their exposure, leading to 
+improved wellbeing and health. 
+Research on air pollution or noise exposure during travel and its relation to travel behavior, and its social and health impacts are 
+still limited (Poom et al., 2021). Most exposure studies see exposure as being stable over space and time (stationarity bias) and refer to 
+measured exposure and its physical health impacts, whereas research on the perceived exposure from a nonstationary perspective is 
+lacking (Kwan, 2021; Marquart et al., 2021; Noel et al., 2021). This is important, because travelers, such as cyclists and pedestrians, 
+have different places they pass; therefore, they have unique exposure profiles which vary in time and space (Borbet et al., 2018; Park, 
+2020; Heydon and Chakraborty, 2020; Kou et al., 2020; Marquart et al., 2021). These can be captured by wearable sensors (Helbig 
+et al., 2021). Recently, research explored the subjectively perceived exposure, which is not always in line with measured exposure (Kou 
+et al., 2020; Marquart et al., 2021; Nikolopoulou et al., 2011; Ueberham et al., 2019; Verbeek, 2018). Hence, there is a need to 
+investigate perceived exposure. Qualitative research can be beneficial, because it allows in-depths investigations into the discrepancies 
+in measured and perceived exposure and the situational, contextual or local elements that infl
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+To explore exposure and perceptions simultaneously, a mixed-methods approach was applied using qualitative interviews on the 
+move (so called “walking interviews” or “go-/ride-alongs”) and parallel measurements with wearable sensors. Go-/ride-alongs are 
+based on ethnography as well as practice theory; they reveal subjective perceptions, sensory awareness and practices by discussing 
+them in an explorative way while moving (Degen and Rose, 2012; Evans and Jones, 2011; Kusenbach, 2003; Kühl 2016; Pink, 2015). 
+Based on a qualitative research design, the interviewee is understood as an ‘expert’ of his/her own life. Interacting with or ‘following’ a 
+person in different familiar sites provides an understanding of how and why a person perceives, acts in and navigates through his/her 
+environment (Büscher, 2011; Carpiano, 2009; Marcus, 1995). The qualitative research design is complemented by quantitative 
+exposure measurements on the move using wearable sensors. These are beneficial to assess the dynamic exposure situations of moving 
+people (Ma et al., 2020b; Schlink and Ueberham, 2020). 
+3.1. Sampling and procedure 
+The study took place in Berlin, Germany. Berlin is the capital of Germany with 3.6 million inhabitants (2020). The study had three 
+recruiting phases: I. October–December 2019, II. August–October 2020 and III. October–November 2020.1 Interviewees were recruited 
+through social media (Twitter and snowballing), newsletters, flyers, direct contact with offices and online neighborhood networks. 
+Therefore, different commuting routes were ensured. As an incentive, interviewees were offered personal feedback on air pollution and 
+noise. Requirements for taking part were commuting to work with a bicycle, on foot and/or by public transport and living and working 
+in Berlin. The participants were selected allowing for a balanced gender and age ratio. After each phase, a group discussion about 
+experiences, measurements and risk communication was held (group discussions are the topic of a forthcoming article). We conducted 
+three pre-tests. 
+In total, 28 people participated in the study. Most of them commuted by bicycle. All interviewees had a driver’s license and a 
+bicycle available, followed by public transport tickets and car-sharing. Most had flexible working hours and no children, which made it 
+easier to choose routes and times freely. A total of 21 interviews were conducted by bicycle, five on foot (and public transport, i.e., bus, 
+commuter train or subway) and two by bicycle and commuter train. Table 1 provides an overview. 
+3.2. Interview procedure 
+The go-/ride-along interview took place directly after work. Interviewees decided a time and place close to their work. Firstly, a 
+sedentary introductory interview, which helped to familiarize with the situation, was conducted. The interviewee gave an overview of 
+his/her route, health/wellbeing status and perceived air pollution and noise. Consequently, the interviewer could refer back to these 
+Table 1 
+Overview of the sample. 
+Mode of transport used during the study (n) 
+Gender 
+(n) 
+Age (n) 
+Mode of transport available 
+(household) (n) 
+Employment (n) 
+Integrate children in 
+route (n) 
+Bicycle (21) 
+Walking þ public transport (5) 
+Cycling þ public transport (only 
+commuter train) (2) 
+Female 
+(16) 
+Male (12) 
+21–30 
+(9) 
+31–40 
+(8) 
+41–50 
+(4) 
+51–60 
+(5) 
+61–70 
+(1) 
+n/a (1) 
+Bicycle (28) 
+Public transport ticket (15) 
+Car-sharing (13) 
+Car (7) 
+Bicycle-sharing (4) 
+Scooter-sharing (2) 
+Motorbike (1) 
+Full-time (9) 
+Part-time (flexible) 
+(12) 
+Part-time (non- 
+flexible) (2) 
+Self-employed (2) 
+Student (7) 
+No (21) 
+Yes, sometimes (5) 
+Yes, always (2) 
+1 The longer break in between phase I and phase II and III was due to the corona pandemic in early 2020. Interview phase II and III were after the 
+corona pandemic outbreak, phase I before. 
+H. Marquart et al. 
+
+Journal of Transport & Health 24 (2022) 101325
+5
+statements later on and become familiar with the forthcoming route. Directly following this, the interviewer accompanied the 
+interviewee on the commute. The after-work commute was chosen because exposure is perceived as severe during late afternoon 
+hours, in which relaxed activities are supposed to take place (Schreckenberg and Guski, 2005). 
+The go-/ride-along was conducted by bicycle or on foot (incl. public transport), as preferred by the interviewee. Meanwhile, a semi- 
+structured interview guideline based on elements of risk perception and PADM (Lindell and Perry, 2012) (section 2) covered four 
+topics: (1) practices while cycling/walking and route choices (past experiences, protective actions, social cues), (2) perception and ex­
+periences of the immediate environment (sensorial awareness: auditive, visual, olfactory), (3) health perception, mood and situational 
+wellbeing (threat perception, attitudes, personal characteristics) and (4) authority arguments, air pollution and noise in general or in situ 
+(information, warning messages). This stimulated the interviewees to actively think about exposure. Ad-hoc questions were asked based 
+on the immediate environment, sudden incidents or referring to the introductory interview. The interviewer recorded her own 
+observations. 
+3.3. Technical equipment 
+The interview questions were well known by the trained interviewer and were attached to her bicycle. For safety reasons, the 
+interviewee and interviewer received an audio recorder and a microphone attached to the collar; hence, they could cycle/walk freely. 
+The time that the recording started was noted. During the go-/ride-alongs, the interviewer carried wearable sensors measuring noise 
+(dB(A), interval: 2 s, device: Motorola G3 with an external microphone and pre-installed sensing application based on Ueberham et al., 
+2018) and particle number count (PNC) (0.5–2.5 μm, #/ft3, interval: 1 min, sensor: DylosLogger 1700). The devices were previously 
+applied and validated (Ueberham and Schlink, 2018; Ueberham e
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Conceptual framework (based on Marquart et al., 2021): Interaction of personal exposure, health and wellbeing en route. Physical/mental 
+Fig. 1). This paper draws attention to wellbeing and pleasure during 
+Table 1 provides an overview. 
+Table 1 
+Fig. 2 shows the 
+Fig. 2. Study design. 
+Table 2 
+Fig. 3. Left: Comparing measured (sensors) air pollution data with perceived air pollution (interview statements on momentary noticeable air 
+Table 2 shows the categories we developed from the data. 
+Fig. 3). There is no clear tendency when comparing 
+Fig. 3). 
+Fig. 4). Reasons for these discrepancies are, for example, vegetation/ 
+Fig. 4). 
+Fig. 4. Coded interview statements (“codes”) during extremely high/very high and extremely low/very low measured particle number counts (for 
+Fig. 4). 
+Fig. 5). Fountains made busy roads pleasant (RA11, RA22, GA8). 
+Fig. 5. Differences in perceived and measured exposure and the importance of the surrounding environment, i.e., bodies of water (RA11).3 
+Fig. 6). 
+Fig. 6. Example of two pedestrians living in the same neighborhood. The train station with high PNCs is perceived as unpleasant, whereas the 
+Fig. 7). The knowledge of hidden paths was important and gained through peers, 
+Fig. 7) (RA12, RA19, RA20, RA21). 
+Fig. 7. Example of "hidden paths", made by Ride-Along 21. The PNC level in the hidden paths was comparably extremely low, and the interviewee 
+Fig. 8). 
+Fig. 8. Extended conceptual framework for personal exposure, health and wellbeing en route (based on Fig. 1), enriched with the results obtained in 
+
+======================================================================
+
+### RECORD ID=880 | screening_verdict=INCLUDE | year=2022
+JOURNAL: ENVIRONMENTAL RESEARCH
+TITLE: Urban environment and physical activity and capacity in patients with chronic obstructive pulmonary disease
+DOI: 10.1016/j.envres.2022.113956
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Environmental Research 214 (2022) 113956
+Available online 22 July 2022
+0013-9351/© 2022 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-
+nc-nd/4.0/).
+Urban environment and physical activity and capacity in patients with 
+chronic obstructive pulmonary disease 
+Maria Koreny a,b,c, Ane Arbillaga-Etxarri d, Magda Bosch de Basea a,b,c, Maria Foraster a,b,c,e, 
+Anne-Elie Carsin a,b,c,f, Marta Cirach a,b,c, Elena Gimeno-Santos a,b,c,g, Anael Barberan-Garcia h, 
+Mark Nieuwenhuijsen a,b,c, Pere Vall-Casas i, Robert Rodriguez-Roisín h, 
+Judith Garcia-Aymerich a,b,c,* 
+a ISGlobal, Barcelona, Spain 
+b Pompeu Fabra University (UPF), Barcelona, Spain 
+c CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain 
+d Physiotherapy Department, Faculty of Health Sciences, University of Deusto, Donostia-San Sebasti´an, Spain 
+e PHAGEX Research Group, Blanquerna School of Health Science, Universitat Ramon Llull (URL), Barcelona, Spain 
+f IMIM (Hospital Del Mar Medical Research Institute), Spain 
+g Hospital Clínic de Barcelona, Universitat de Barcelona, Barcelona, Spain 
+h University of Barcelona, Institut D’Investigaci´o Biom`edica August Pi I Sunyer (IDIBAPS), CIBER Enfermedades Respiratorias (CIBERES), Hospital Clínic, Barcelona, 
+Spain 
+i Universitat Internacional de Catalunya (UIC), Barcelona, Spain 
+A R T I C L E I N F O 
+Keywords: 
+Urban environment 
+Noise 
+Air pollution 
+Physical activity 
+Exercise capacity 
+Chronic obstructive pulmonary disease 
+A B S T R A C T 
+Background: Physical activity and exercise capacity are key prognostic factors in chronic obstructive pulmonary 
+disease (COPD) but their environmental determinants are unknown. 
+Objectives: To test the association between urban environment and objective physical activity, physical activity 
+experience and exercise capacity in COPD. 
+Methods: We studied 404 patients with mild-to-very severe COPD from a multi-city study in Catalonia, Spain. We 
+measured objective physical activity (step count and sedentary time) by the Dynaport MoveMonitor, physical 
+activity experience (difficulty with physical activity) by the Clinical visit-PROactive (C-PPAC) instrument, and 
+exercise capacity by the 6-min walk distance (6MWD). We estimated individually (geocoded to the residential 
+address) population density, pedestrian street length, slope of terrain, and long-term (i.e., annual) exposure to 
+road traffic noise, nitrogen dioxide (NO2) and particulate matter (PM2.5). We built single- and multi-exposure 
+mixed-effects linear regressions with a random intercept for city, adjusting for confounders. 
+Results: Patients were 85% male, had mean (SD) age 69 (9) years and walked 7524 (4045) steps/day. In multi- 
+exposure models, higher population density was associated with fewer steps, more sedentary time and worse 
+exercise capacity (−507 [95% CI: 1135, 121] steps, +0.2 [0.0, 0.4] h/day and −13 [-25, 0] m per IQR). 
+Pedestrian street length related with more steps and less sedentary time (156 [9, 304] steps and −0.1 [-0.1, 0.0] 
+h/day per IQR). Steeper slope was associated with better exercise capacity (15 [3, 27] m per IQR). Higher NO2 
+levels related with more sedentary time and more difficulty in physical activity. PM2.5 and noise were not 
+associated with physical activity or exercise capacity. 
+Discussion: Population density, pedestrian street length, slope and NO2 exposure relate to physical activity and 
+capacity of COPD patients living in highly populated areas. These findings support the consideration of neigh­
+bourhood environmental factors during COPD management and the attention to patients with chronic diseases 
+when developing urban and transport planning policies. 
+* Corresponding author. Barcelona Institute for Global Health (ISGlobal), C/ Doctor Aiguader 88, 08003, Barcelona, Spain. 
+E-mail addresses: maria.koreny@gmx.com (M. Koreny), ane.arbillaga@deusto.es (A. Arbillaga-Etxarri), magda.boschdebasea@isglobal.org (M. Bosch de Basea), 
+maria.foraster@isglobal.org (M. Foraster), anneelie.carsin@isglobal.org (A.-E. Carsin), marta.cirach@isglobal.org (M. Cirach), elena.gimeno@isglobal.org 
+(E. Gimeno-Santos), anaelbg@gmail.com (A. Barberan-Garcia), mark.nieuwenhuijsen@isglobal.org (M. Nieuwenhuijsen), perevall@uic.es (P. Vall-Casas), 
+RORORO@clinic.cat (R. Rodriguez-Roisín), judith.garcia@isglobal.org (J. Garcia-Aymerich). 
+Contents lists available at ScienceDirect 
+Environmental Research 
+journal homepage: www.elsevier.com/locate/envres 
+https://doi.org/10.1016/j.envres.2022.113956 
+Received 9 March 2022; Received in revised form 9 July 2022; Accepted 19 July 2022 
+
+Environmental Research 214 (2022) 113956
+2
+1. Introduction 
+Chronic obstructive pulmonary disease (COPD) is an important cause 
+of morbidity and mortality worldwide (Soriano et al., 2017). The global 
+burden of disease study estimated that COPD affected more than 174 
+million patients and caused 3.2 million deaths in 2015 (Soriano et al., 
+2017). COPD is characterised by a progressive airflow limitation leading 
+to breathlessness that often limits the ability to carry out daily activities, 
+including physical activities. Patients are typically less active than 
+healthy controls from the early stages of the disease onwards (Pitta et al., 
+2005; Shrikrishna et al., 2012; Van Remoortel et al., 2013) and this 
+inactivity affects COPD prognosis. Indeed, COPD patients who maintain 
+regular levels of physical activity have lower risk of exacerbations of the 
+disease, attenuated lung function decline and lower mortality (Demeyer 
+et al., 2019; Gimeno-Santos et al., 2014). Thus, COPD guidelines such as 
+those provided by the Global Initiative for Chronic Obstructive Lung 
+Disease (GOLD) recommend physical activity for all COPD patients 
+(Vestbo et al., 2013). To provide adequate support to physical activity 
+interventions, knowing and understanding which factors other than the 
+disease itself may i
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study design and patient population 
+This is a cross-sectional analysis of baseline pre-randomisation data 
+from the multi-centre Urban Training study (NCT01897298) (Arbilla­
+ga-Etxarri et al., 2018) that enrolled 407 patients from five Catalan 
+seaside municipalities (Badalona, Barcelona [centre and shore areas], 
+Matar´o, Viladecans and Gav`a) at 33 primary care centres and 5 tertiary 
+hospitals between October 2013 and February 2015. All patients had a 
+diagnosis of COPD, according to American Thoracic Society 
+(ATS)/European 
+Respiratory 
+Society 
+(ERS) 
+guidelines 
+(post-­
+bronchodilator forced expiratory volume in 1 s [FEV1] to forced vital 
+capacity [FVC] ratio <0.70) (Celli et al., 2004). For the present analysis 
+we used the data collected at baseline only and included patients if they 
+had valid data on objective physical activity, physical activity experi­
+ence, functional exercise capacity, and environmental variables (n =
+404, 99% of the total). 
+The study was approved by all local institutional ethic boards and 
+written informed consent was obtained from all patients. 
+2.2. Physical activity and capacity outcomes 
+Objective physical activity was recorded during 24 h of 7 consecutive 
+days using the Dynaport MoveMonitor (McRoberts BV, The Hague, The 
+Netherlands) (Rabinovich et al., 2013; Van Remoortel et al., 2012). Data 
+during waking hours (from 07:00 h to 22:00 h) were retrieved. A valid 
+physical activity measurement was defined as a minimum of three days 
+with at least 8 h of wearing time within waking hours; details have been 
+previously published (Arbillaga-Etxarri et al., 2018). For the present 
+Abbreviations 
+BMI 
+body mass index 
+CAT 
+COPD assessment test 
+CCQ 
+clinical COPD questionnaire 
+COPD 
+chronic obstructive pulmonary disease 
+C-PPAC 
+Clinical visit—PROactive Physical Activity in COPD 
+dB 
+decibels 
+FEV1 
+forced expiratory volume in 1 s 
+FFMI 
+fat free mass index 
+FVC 
+forced vital capacity 
+GIS 
+Geographic Information Systems 
+GOLD 
+Global Initiative for Chronic Obstructive Lung Disease 
+HADS-A: hospital anxiety and depression scale – anxiety 
+HADS-D: hospital anxiety and depression scale – depression 
+INE 
+Instituto Nacional de Estadística 
+ICGC 
+Institut Cartogr`afic i Geol`ogic de Catalunya 
+IQR 
+interquartile range 
+Lden 
+day evening night sound level 
+LUR 
+land-use regression 
+mMRC 
+modified Medical Research Council 
+6MWD 
+6-min walk distance 
+6MWT 
+6-min walk test 
+NO2 
+nitrogen dioxide 
+PM 
+particulate matter 
+P25 
+25th percentile 
+P75 
+75th percentile 
+SD 
+standard deviation 
+VIF 
+variance inflation factor 
+˙VO2 
+oxygen uptake 
+M. Koreny et al. 
+
+Environmental Research 214 (2022) 113956
+3
+study, we obtained information on daily step count and sedentary time 
+(sum of lying and sitting time, in hours/day). 
+Experience with physical activity was assessed by the Clinical visit 
+version of the PROactive physical activity in COPD (C-PPAC) instru­
+ment. Briefly, the C-PPAC combines a short patient-reported outcome 
+questionnaire with data from an activity monitor to assess the physical 
+activity experience in three scores: amount of physical activity, diffi­
+culty with physical activity, and total physical activity experience, all 
+ranging from 0 (worse physical activity experience, i.e., less amount, 
+more difficulty) to 100 (better physical activity experience, i.e., more 
+amount, less difficulty) (Garcia-Aymerich et al., 2021; Gimeno-Santos 
+et al., 2015). For the present study, we used the difficulty score as an 
+outcome, as the amount score was highly correlated with the objective 
+physical activity variables in our sample (Spearman correlation coeffi­
+cient [ρ] of amount score with step count ρ = 0.75, p-value <0.001, and 
+with sedentary time ρ = −0.62, p-value <0.001). 
+Functional exercise capacity was assessed using the 6-min walk test 
+(6MWT) following published recommendations (ATS Committee on 
+Proficiency Standards for Clinical Pulmonary Function Laboratories 
+2002; Manual de Procedimientos SEPAR, 4; Erratum in ATS statement: 
+Guidelines for the six-minute walk test 2016), determining the 6MWD 
+for each patient. Patients completed two 6MWTs with at least a 30-min 
+rest between, and the longer of the two distances was used for analysis. 
+2.3. Urban environmental exposures 
+We estimated the exposure to urban environmental factors individ­
+ually using Geographic Information Systems (GIS) for each patient at 
+his/her geocoded residential address. We obtained population density 
+(habitants per square kilometre within the census area) from the Spanish 
+National Statistics Institute (Instituto Nacional de Estadística, INE) for 
+the year 2016 (INE, 2016). We obtained pedestrian street length (sum of 
+pedestrian street length [metres] within a 300-m buffer around the 
+residence) from Navteq (licensed data under ArcGIS software, ESRI 
+ArcMap ™ 10.0, ArcGIS Desktop 10 Service Pack 4) (ESRI, 2012). We 
+obtained slope of terrain from now on ‘slope’ (average slope [degrees] 
+within a 300-m buffer around the residence) from the topographic map 
+of the Cartographic Institute of Catalonia (Institut Cartogr`afic i Geol`ogic 
+de Catalunya, ICGC) (ICGC, 2012). We obtained road traffic noise from 
+now on ‘noise’ (annual residential average levels of road traffic noise in 
+the nearest street from the residence [24 h day-evening-night level (Lden) 
+EU indicator in decibels (dB)]) from the official strategic noise maps for 
+the year 2012, except for Matar´o for which only the 2017 map was 
+available, developed under the EU Directive 2002/49/EC as described 
+previously (Dadvand et al., 2014b; Mapes estrat`egics del soroll, 2012). 
+Finally, we estimated the annual residential averages of NO2 and PM2.5 
+(μg/m3) temporarily adjusted for each patient (i.e., 12 months prior to 
+data collection). To do that we applied land-use regression (LUR) models 
+from 2009 that were corrected to 2013 levels using daily time series 
+from fixed air quality monitors as descr
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). 
+Table 2). There were no differences in physical activity, 
+Table 2). 
+Fig. 1). Due to the lack of strong correlations 
+Fig. 2, 
+Table 1 
+Fig. 1) does not 
+Table 2 
+Fig. 1. Correlations between the environmental factors (Spearman cor­
+Fig. 2. Associations between the urban environmental factors, and objective physical activity, physical activity experience and functional exercise ca­
+
+======================================================================
+
+### RECORD ID=883 | screening_verdict=INCLUDE | year=2022
+JOURNAL: PEOPLE AND NATURE
+TITLE: Urban park soundscapes: Spatial and social factors influencing bird and traffic sound experiences
+DOI: 10.1002/pan3.10409
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+1616 |  
+﻿
+People and Nature. 2022;4:1616–1628.
+wileyonlinelibrary.com/journal/pan3
+Received: 21 November 2021 | Accepted: 8 September 2022
+DOI: 10.1002/pan3.10409 
+R E S E A R C H A R T I C L E
+Urban park soundscapes: Spatial and social factors influencing 
+bird and traffic sound experiences
+Konrad Uebel1,2
+ | Jonathan R. Rhodes1
+ | Kerrie Wilson3 | Angela J. Dean4
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, 
+provided the original work is properly cited.
+© 2022 The Authors. People and Nature published by John Wiley & Sons Ltd on behalf of British Ecological Society.
+1School of Earth and Environmental 
+Sciences, The University of Queensland, 
+Brisbane, Queensland, Australia
+2German Centre for Integrative 
+Biodiversity Research (iDiv) Halle-­Jena-­
+Leipzig, Leipzig, Germany
+3School of Biology and Environmental 
+Science, Queensland University of 
+Technology, Brisbane, Queensland, 
+Australia
+4School of Agriculture and Food Sciences, 
+The University of Queensland, Brisbane, 
+Queensland, Australia
+Correspondence
+Konrad Uebel
+Email: konrad.uebel@uq.net.au
+Handling Editor: Martin Dallimer
+Abstract
+1. Natural soundscapes experienced in parks are increasingly recognised as a valu-
+able ecosystem service, yet urban parks soundscapes also commonly contain 
+anthropogenic noise.
+2. While studies show bird calls can promote psychological restoration, the factors 
+that might influence actual experiences of these sounds by individuals in urban 
+parks are less clear. Equally, continual exposure to anthropogenic noise, such as 
+vehicle traffic, is associated with negative health outcomes, but determinants 
+influencing negative experiences of such sounds within a park soundscape are 
+poorly understood.
+3. To address this gap we used an ex situ survey of over 4000 Australian residents 
+and examined a range of spatial and social factors in influencing perceptions 
+towards noticing and pleasantness of bird sounds and traffic noise within urban 
+parks.
+4. The results indicate older age, recent park use, and valuing parks for uses such as 
+exercising, socialising and to hear nature, were positively associated with pleas-
+ant bird sound experiences in parks. For traffic sounds, we found indicators of 
+disadvantage, such as renting a home were associated with a higher likelihood of 
+unpleasant experiences of traffic noise within parks. Notably, individuals using 
+parks for social activities were still positively associated with pleasant bird sound 
+experiences and less likely to perceive traffic sounds as unpleasant. Conversely, 
+whilst those with greater nature-­relatedness had a strong positive association 
+with pleasant bird sound experiences, they were more likely to perceive traffic 
+as unpleasant.
+5. Overall, these findings suggest that whilst many types of park users can poten-
+tially experience the beneficial effects from bird sounds, the detrimental effects 
+of traffic noise may constrain these benefits in certain social groups, particularly 
+those of greater socio-­economic disadvantage. We discuss strategies to pro-
+mote greater equity of therapeutic experiences of bird sounds in parks, whilst 
+outlining traffic mitigation measures within urban parks.
+
+    |  1617
+People and Nature
+UEBEL et al.
+1  |  INTRODUCTION
+Urbanisation is an ongoing phenomenon around the world with 
+over half the world's population now residing in cities (United 
+Nations,  2018). As this number continues to rise, green and blue 
+spaces are of key importance in promoting the social and ecologi-
+cal sustainability of cities, and critical in providing a range of bene-
+fits to urban residents that can improve physical and psychological 
+well-­being (Benedict & McMahon, 2012; Chiesura, 2004; Elmqvist 
+et al., 2013; Xie et al., 2020). Increasingly, natural sounds and sound-
+scapes, such as bird calls, have been shown to promote greater 
+mental well-­being amongst people (Chuengsatiansup, 1999; Francis 
+et al., 2017; Frumkin et al., 2017; Yang & Kang, 2005). Yet, compared 
+to visual experiences, factors influencing restorative nature interac-
+tions experienced through the auditory pathway are poorly under-
+stood (Pijanowski, Farina, et al., 2011; Ratcliffe, 2021).
+Ecosystem services are defined as the benefits human pop-
+ulations derive, directly or indirectly, from ecosystem functions 
+(Costanza et al., 1997) and have become a key framework for link-
+ing ecosystem function and human welfare (Fisher et al., 2009). The 
+Common International Classification of Ecosystem Services (CICES; 
+Maes et al., 2013; Potschin & Haines-­Young, 2016) defines cultural 
+ecosystem services as intangible ecosystem outputs that can facilitate 
+a range of experiential and intellectual activities, such as recreation, 
+proximity to wildlife, social interaction, spiritual inspiration and reflec-
+tion (Potschin & Haines-­Young, 2016). Given their potential to pro-
+mote stress recovery (Aletta et al., 2018; Alvarsson et al., 2010) and 
+attention restoration (Krzywicka & Byrka, 2017; Payne, 2013; Ratcliffe 
+et al., 2013; Uebel et al., 2021), natural soundscapes commonly ex-
+perienced in urban parks, are increasingly recognised as important 
+cultural ecosystem services in their own right (Francis et al., 2017). 
+There is also growing evidence of an important interplay between 
+visual and auditory experiences of nature (Zhang et al., 2019), with 
+studies showing visual stimuli of nature settings (i.e. photographs) are 
+perceived more positively when accompanied by congruent natural 
+sounds (Hedblom et al., 2014; Zhao et al., 2018). Yet, while this re-
+search is becoming established, less attention has focussed on who is 
+most likely to experience these sounds within urban parks (Pijanowski, 
+Villanueva-­Rivera, et al., 2011). This is a crucial gap given that urban 
+populations and the spatial characteristics of where people live are 
+heterogeneous (Kenig
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+2.1  |  Participants and procedure
+Our primary research questions involved investigating how peo-
+ple across social and spatial gradient notice and perceive bird and 
+traffic sounds in park soundscapes. Given this, we favoured an 
+ex situ survey over an in situ approach for its ability to sample a 
+much greater number of participants in cities and regions through-
+out Australia across a wide sociodemographic and socioeconomic 
+spectrum. Further, in situ approaches utilising intercept techniques 
+can sometimes result in samples biased towards over-­representing 
+participants with greater interest in the survey topic, reducing rep-
+resentation of groups with lower rates of park use or nature appre-
+ciation. An ex situ approach also followed methodologies of similar 
+studies, such as Shanahan et al. (2015) and Lin et al. (2017).
+Prior to survey deployment, we conducted internal pilot testing 
+to assess the clarity and suitability of questions; a number of minor 
+changes were made to improve the clarity of questions. We col-
+lected data as part of a national survey, conducted in January 2019 
+on Australian residents in urban, peri-­urban and rural locations, and 
+recruited by a social research company (PureProfile). Participants 
+were provided with standard incentives, accruing points that could 
+later be redeemed as cash payments or giftcards to the value of a 
+few dollars. All participant voluntarily enrolled and provided writ-
+ten consent. We targeted a broad sample of Australians, based on 
+gender, age and state of residence, covering a range of demographic 
+groups to assess our research questions across a broad spectrum 
+of the population. The survey was conducted in accordance with 
+approved guidelines and following Institutional Human Research 
+Ethics Approval by The University of Queensland (Approval 
+#2018002524). Participants provided informed written consent.
+In total there were 4105 respondents, with just over half (52.7%) 
+male and a mean age of 48.24 years (SD = 16.9). Most participants 
+lived in urban areas (75.4%), which are largely found in coastal areas 
+of Australia (Figure 1). Almost three-­quarters (74.0%) were Australia 
+born and the overwhelming majority (87.5%) only spoke English at 
+home. Just under a third (30.7%) had completed up to Year 12 or 
+equivalent, a similar amount (30.2%) held a professional diploma or 
+certificate and over a third (37.8%) held a university degree. Just 
+over a third (34.1%) earned above an income of $80,000, and almost 
+two-­thirds (64.2%) owned or were buying their residence. Whilst not 
+a true representative sample given the median age in Australia is 
+38 years with 50.7% female, this still represented a broad sample 
+of the Australia public (ABS, 2016). Differing education levels were 
+also close to national breakdowns between these three categories 
+(ABS, 2016).
+ 25758314, 2022, 6, Downloaded from https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10409, Wiley Online Library on [02/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+    |  1619
+People and Nature
+UEBEL et al.
+The sample size was comfortably large enough for robust statis-
+tical analyses, with a priori power calculations for logistic regression 
+analyses with an α = 0.05, odds ratio of 1.49 and statistical power 
+of 95% indicating that a minimum sample size of 1316 was required.
+2.2  |  Survey content
+The survey questioned participants about various aspects of their 
+use, appreciation and subjective proximity to green and blue spaces, 
+as well as noticing and perceived pleasantness of bird sounds and 
+traffic sounds within a local park they last visited. There were also 
+a range of sociodemographic and socioeconomic questions which 
+included age, gender, education level, income level, home owner-
+ship status and language other than English (LOTE) spoken at home 
+(Table S1).
+2.3  |  Measures
+2.3.1  |  Dependent variables—­noticing and 
+perceived pleasantness of bird sounds
+Both noticing birds and perceiving them as pleasant have been asso-
+ciated with a greater potential for psychological restoration (Uebel 
+et al., 2021) and, as such, both of these measures were included in 
+the survey.
+• Noticing bird sounds: based on Payne (2008) and evaluated with a 
+single item (‘Thinking about your last visit to a park, please rate how 
+often you had the following experiences: I noticed bird sounds’), with 
+4 response options (Not at all; A little; A lot; I do not remember). 
+A binary variable was created with (1 = A little or A lot) responses 
+and (0 = Not at all) options.
+• Perceived pleasantness of bird sounds: based on Payne (2008), was 
+assessed with a single item (‘During this recent visit, how pleasant 
+or annoying were these experiences?’), on a 6-­point scale (1 = Very 
+unpleasant, 6 = Very pleasant) with an additional option (I did not 
+have this experience). A binary variable was created with (1 = Very 
+pleasant or pleasant) responses and (0 = all other options).
+2.3.2  |  Dependent variables—­Noticing and 
+perceived unpleasantness of traffic sounds
+Both noticing and perceived unpleasantness of traffic sounds are as-
+sociated with reduced perceived restorative potential of park sound-
+scapes (Uebel et al., 2021) and, as such, both of these measures were 
+also included in the survey.
+• Noticing traffic sounds: based on Payne (2008) and modified to a 
+four-­point scale to reflect the more binary nature of noticing a 
+sound. Evaluated with a single item (‘Thinking about your last visit 
+to a park, please rate how often you had the following experiences: I 
+noticed traffic sounds’), with 4 response options (Not at all; A lit-
+tle; A lot; I do not remember). A binary variable was created with 
+(1 = A little or A lot) responses and (0 = Not at all) options.
+• Perceived unpleasantness of traffic sounds: based 
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1). Almost three-­quarters (74.0%) were Australia 
+Figure 2), whilst 41.2% reported traffic sounds to be 
+Figure 2).
+Table 1).
+Table 2).
+
+======================================================================
+
+### RECORD ID=901 | screening_verdict=INCLUDE | year=2023
+JOURNAL: ECOLOGICAL INDICATORS
+TITLE: Can acoustic indices reflect the characteristics of public recreational behavioral in urban green spaces?
+DOI: 10.1016/j.ecolind.2023.110729
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Ecological Indicators 154 (2023) 110729
+Available online 8 August 2023
+1470-160X/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Can acoustic indices reflect the characteristics of public recreational 
+behavioral in urban green spaces? 
+Weicong Fu a,b, Chengyu Ran a, Jingkai Huang a, Zhu Chen c, Shiyuan Fan a, Wenqiang Fang a, 
+Miaojun Ye a, Jiaying Dong d, Xiong Yao e, Ziru Chen a,e,* 
+a College of Landscape Architecture and Art, Fujian Agriculture and Forestry University, Fuzhou 350002, China 
+b Collaborative for Advanced Landscape Planning, The University of British Columbia, Vancouver V6T 1Z4, BC, Canada 
+c Institute of Environmental Planning, Leibniz University Hannover, Herrenh¨auser Str. 2, 30419 Hanover, Germany 
+d College of Architecture, Arts and Humanities, Clemson University, Clemson 29630, SC, United States 
+e College of Architecture and Urban Planning, Fujian University of Technology, Fuzhou 350118, China 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape 
+Acoustic index 
+Recreational behavior 
+Spatial and temporal variation 
+A B S T R A C T 
+Acoustic indicators serve as an effective means of assessing the quality of urban green space soundscape. The 
+informative, easy accessibility and non-invasive nature of acoustic monitoring renders it an excellent tool for 
+studying the interaction among the natural environment, wildlife, and human activities. Urban green space is 
+essential in the urban ecosystem and constitutes the primary location for public outdoor recreation. However, the 
+existing methods for monitoring public recreational behavior, such as on-site observation, drone observation, or 
+questionnaire interviews, require significant labor or professional expertise. All of these methods have their 
+limitations, so there is still much to be researched in the acoustic indices and recreational behavior. As a result, 
+the potential for using acoustic characteristics to monitor public recreational behavior remains underexplored. 
+To address this gap, this study investigates the potential of 5 widely used acoustic indices and acoustic intensity 
+for monitoring public recreational behavior: Acoustic Complexity Index (ACI), Acoustic Diversity Index (ADI), 
+Acoustic Richness (AR), Normalized Difference Soundscape Index (NDSI), and Power Spectral Density (PSD). 
+Data were collected from 35 monitoring points in urban green spaces during the opening hours (6:00–22:00) to 
+analyze the relationship between these indices and public recreational behavior. The findings indicate that (1) 
+ACI, ADI, and AR daily exhibited multi-peak daily variation characteristics similar to those of public recreational 
+behavior, displaying a “W” shape, while NDSI exhibits opposite variation characteristics; (2) the spatial variation 
+characteristics of ACI, ADI, and AR change in response to the green space, and these changes align with public 
+recreational behavior; (3) the correlation analysis and generalized linear mixed model construction further 
+demonstrate that acoustic indices are effective in capturing the dynamic activities of visitor behavior; and (4) 
+PSD undergoes significant temporal dynamic changes along the frequency gradient, with different frequency 
+intervals reflecting the activity information of different recreational behaviors. In conclusion, this research 
+highlights the effectiveness of using acoustic indices to analyze both the spatial and temporal variation char­
+acteristics of public recreational behavior in urban green spaces. The results can provide valuable data support 
+for the enhancement and renovation of urban green spaces. 
+1. Introduction 
+Recreational behavior is crucial for promoting physical and mental 
+health of urban populations. Studies have demonstrated that an increase 
+in public use of green spaces can effectively reduce the risk of public 
+illness. As a result, improving urban public space to meet the recrea­
+tional needs of individuals has become a popular research topic as well 
+as a key strategy for planning and design. Direct observation of recrea­
+tional behavior is considered the most reliable and accurate method for 
+obtaining information about recreational behavior for designers and 
+managers. SOPARC (System for Observing Play and Recreation in 
+Communities) is a scientific and effective observation system that has 
+been validated by research experiments (Baran et al. 2014). However, 
+direct observation has high requirements for observers, who must be 
+* Corresponding author at: College of Architecture and Urban Planning, Fujian University of Technology, Fuzhou 350118, China. 
+E-mail address: fjchenziru@fjut.edu.cn (Z. Chen). 
+Contents lists available at ScienceDirect 
+Ecological Indicators 
+journal homepage: www.elsevier.com/locate/ecolind 
+https://doi.org/10.1016/j.ecolind.2023.110729 
+Received 5 May 2023; Received in revised form 1 July 2023; Accepted 24 July 2023 
+
+Ecological Indicators 154 (2023) 110729
+2
+trained to collect various data from visitors and must be able to record 
+large amounts of visitor data instantly into text or images (Marquet et al. 
+2019). To improve the effectiveness of public recreation observation, 
+new methods have been developed, such as video recording, GPS 
+tracking, and drone observation (Arnberger et al. 2005; Engelhard et al. 
+2001; Park and Ewing 2017). These methods align with the development 
+of science and technology. However, each method has its limitations. 
+For instance, video recording has a limited observation area (Guill´en 
+et al. 2008); GPS tracking method requires high capital investment 
+(Matisziw et al. 2016), and often yields a small sample size (Zhao et al. 
+2019); and drone observation is subject to regulations restricting its use 
+and is limited by rainy day (Park and Ewing 2017). Most research on 
+observing visitors’ recreational behavior focused on daytime observa­
+tion periods, with little attentio
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, 
+Data curation, Investigation. Zhu Chen: Methodology, Data curation. 
+Shiyuan Fan: Data curation, Writing – review & editing. Wenqiang 
+Fang: Writing – review & editing. Miaojun Ye: Writing – review & 
+Table 6 
+Comparison of traditional observation and acoustic monitoring. 
+Traditional 
+observation 
+Acoustic monitoring 
+Reference 
+Advantage 
+One of the most 
+commonly used 
+recreational behavior 
+survey methods. Easy to 
+implement and easy to 
+randomize or 
+systematize. 
+The observation 
+process provides direct 
+access to the type of 
+entertainment and the 
+specific number of each 
+behavior of visitors, 
+with efficiency and 
+flexibility. 
+Suitable for complex 
+or fragmented research 
+sites 
+The operation is simple 
+and repeatable, and 
+supports simultaneous 
+large-scale, long-term, 
+continuous dynamic 
+monitoring and 
+tracking. 
+Recordings are 
+permanently stored and 
+can be monitored 
+repeatedly to reduce 
+recognition bias. The 
+continuous develop­
+ment of acoustic 
+indices and machine 
+learning helps to 
+quickly assess recrea­
+tional behavior. 
+Spectrograms can 
+visualize sound, can 
+effectively assist in 
+identification, and their 
+results are objective 
+It is also possible to 
+record the duration of 
+recreational behavior 
+at the same time, 
+providing data refer­
+ence for more in-depth 
+study of public recrea­
+tion preferences. 
+Darras et al. 
+2019; Zhao 
+et al. 2022; 
+Zhang et al. 
+2018 
+Weakness 
+The limited number of 
+observations does not 
+guarantee the 
+synchronization of 
+multiple points, and the 
+period affects the 
+reliability of the results. 
+When visibility is low 
+or obstructions obscure, 
+it makes it difficult to 
+identify the behavior of 
+the visitors and can lead 
+to speculative results. 
+When the number of 
+visitors is too high, the 
+limited energy of the 
+observer may lead to 
+some missing records. 
+Observers, especially 
+those with equipment, 
+entering the study site 
+can affect visitors’ 
+recreational behavior. 
+The challenge of big 
+data. Long-term 
+recording generates 
+huge audio files, 
+requiring consideration 
+of big data storage and 
+processing, battery ca­
+pacity and replacement 
+costs, etc. 
+Manual recognition 
+takes a lot of time, and 
+current automatic 
+recognition techniques 
+are still subject to 
+interference from 
+background noise and 
+sound overlap, leading 
+to biased results. 
+Behavior in exces­
+sively noisy areas and 
+non-vocal behavior 
+cannot be recognized. 
+Darras et al. 
+2019; Huang 
+et al. 2022; 
+Bian et al. 
+2023 
+W. Fu et al. 
+
+Ecological Indicators 154 (2023) 110729
+13
+editing. Jiaying Dong: Writing – review & editing, Supervision. Xiong 
+Yao: Writing – review & editing, Supervision. Ziru Chen: Conceptual­
+ization, Validation, Writing – review & editing, Supervision. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+References 
+Arnberger, A., Haider, W., Brandenburg, C., 2005. Evaluating visitor-monitoring 
+techniques: A comparison of counting and video observation data. Environ. Manag. 
+36 (2), 317–327. 
+Bai, Z., Wang, C., Zhao, Y., Hao, Z., Sun, Z., 2021. Characteristics and temporal variation 
+of spring anthrophony in urban park in Beijing. Chinese Landscape Architecture 37 
+(04), 99–104. 
+Baran, P.K., Smith, W.R., Moore, R.C., Floyd, M.F., Bocarro, J.N., Cosco, N.G., 
+Danninger, T.M., 2014. Park use among youth and adults: examination of individual, 
+social, and urban form factors. Environ. Behav. 46 (6), 768–800. 
+Bian, Q., Wang, C., Cheng, H., Han, D., Zhao, Y., Yin, L., 2023. Exploring the application 
+of acoustic indices in the assessment of bird diversity in urban forests. Biodivers. Sci. 
+31 (1), 22080. 
+Bobryk, C.W., Rega-Brodsky, C.C., Bardhan, S., Farina, A., He, H.S., Jose, S., 2016. 
+A rapid soundscape analysis to quantify conservation benefits of temperate 
+agroforestry systems using low-cost technology. Agrofor. Syst. 90 (6), 997–1008. 
+Bradbury, J.W., Vehrencamp, S.L., 1998. Principles of animal communication. Sinauer 
+Associates. 
+Buxton, R.T., McKenna, M.F., Clapp, M., Meyer, E., Stabenau, E., Angeloni, L.M., 
+Crooks, K., Wittemyer, G., 2018. Efficacy of extracting indices from large-scale 
+acoustic recordings to monitor biodiversity. Conserv. Biol. 32 (5), 1174–1184. 
+Darras, K., Bat´ary, P., Furnas, B., Grass, I., Mulyani, Y., Tscharntke, T., 2019. 
+Autonomous sound recording outperforms human observation for sampling birds: a 
+systematic map and user guide. Ecol. Appl. 29, e01954. 
+Depraetere, M., Pavoine, S., Jiguet, F., Gasc, A., Duvail, S., Sueur, J., 2012. Monitoring 
+animal diversity using acoustic indices: implementation in a temperate woodland. 
+Ecol. Ind. 13 (1), 46–54. 
+Engelhard, S., Stubbs, J., Weston, P., Fitzgerald, S., Giles Corti, B., Milat, A.J., 
+Honeysett, D., 2001. Methodological considerations when conducting direct 
+observation in an outdoor environment: our experience in local parks. Aust. N. Z. J. 
+Public Health 25 (2), 149–151. 
+Farina, A., Pieretti, N., Piccioli, L., 2011. The soundscape methodology for long-term bird 
+monitoring: a Mediterranean Europe case-study. Eco. Inform. 6 (6), 354–363. 
+Gage, S., Axel, A., 2014. Visualization of temporal change in soundscape power of a 
+Michigan lake habitat over a 4-year period. Ecological Information 21, 100–109. 
+G´omez, W.E., Isaza, C.V., Daza, J.M., 2018. Identifying disturbed habitats: a new method 
+from acoustic indices. Eco. Inform. 45, 16–25. 
+Grueber, C.E., Nakagawa, S., Laws, R.J., Jamieson, I.G., 2011. Multimodel inference in 
+ecology and evolution: challenges and solutions. J. Evol. Biol. 24 (4), 699–711. 
+Guill´en, J., García-Olivares, A., Ojeda, E., Osorio, A., Chic, O., Gonz´alez, R., 2008. Long- 
+term quantification of beach users using video monitoring. J. Coast. Res. 24 (6), 
+1612–1619. 
+Hao, Z., Wang, C., Su
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1). 
+Table 2). 
+Table 1 
+Table 2 
+Fig. 1). Data were collected in two clear and 
+Fig. 2. For each two-minute period of 
+Fig. 1. Grid and sampling sites location. 
+Table 3) for further calculation and analysis (Huang et al. 
+Fig. 2. Panoramic overview of monitoring sites. 
+Fig. 3 depicts the temporal variation patterns of four acoustic indices 
+Table 3 
+Fig. 3. Temporal variation characteristics of each acoustic index after 
+Fig. 4, 
+Fig. 7. Moreover, the temporal variation 
+Fig. 5 displays the overall temporal variation characteristics of visi­
+Fig. 6. Specifically, the diurnal 
+Fig. 7, areas with high vegetation coverage, such as 
+Fig. 8, passing-by behavior emerges as the most prev­
+Fig. 7 and Fig. 8. Results showed a consis­
+Fig. 4. Temporal variation characteristics of power spectral density in 10 fre­
+Fig. 9 illustrates strong positive correlations between ACI, ADI, AR, 
+Fig. 10, the PSD values in the 5–6 kHz, 6–7 kHz, 9–10 
+Table 4, showing the significance 
+Table 5 displays the correlation coefficients between the PSD values 
+Fig. 5. Temporal variation characteristics of recreational behavior. 
+
+======================================================================
+
+### RECORD ID=912 | screening_verdict=INCLUDE | year=2023
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Do objective and subjective traffic-related pollution, physical activity and nature exposure affect mental wellbeing? Evidence from Shenzhen, China
+DOI: 10.1016/j.scitotenv.2023.161819
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Do objective and subjective trafﬁc-related pollution, physical activity and
+nature exposure affect mental wellbeing? Evidence from Shenzhen, China
+Dengkai Huang, Meng Tian, Lei Yuan ⁎
+Lab for Optimizing Design of Built Environment, School of Architecture and Urban Planning, Shenzhen University, Shenzhen 518060, China
+H I G H L I G H T S
+G R A P H I C A L
+A B S T R A C T
+• Motorised vehicle density was used as a
+proxy for trafﬁc-related pollution.
+• Relationships between environment attri-
+butes and human behaviours were de-
+tected.
+• Perceived air quality exerts stronger ef-
+fects than perceived acoustic quality.
+• Mediating effect from physical activity
+path is the smallest.
+• Mental health was modiﬁed by alcohol
+usage, but not smoking behaviours.
+A B S T R A C T
+A R T I C L E
+I N F O
+Editor: Pavlos Kassomenos
+Keywords:
+Mental health
+Nature exposure
+Trafﬁc-related pollution
+Physical activity
+Structural equation modelling
+Street view images
+Urban environment (e.g. greenspaces, air pollution and trafﬁc noise) and individuals' behaviours (e.g. physical activ-
+ity) have all been associated with mental wellbeing. The large majority of studies on the inﬂuence of nature exposure
+on mental wellbeing assumed that multiple pathways act independently, ignoring the interactions among potential
+correlated pathways that engage simultaneously. The parallel mediation approach fails to explore the complex associ-
+ations of combined exposure to air pollution, trafﬁc noise and nature exposure with physical activity, which in turn
+affect mental wellbeing. Hence, the interest of understanding the sophisticated interactions among different pathways
+is warranted. We utilized structural equation modelling to simultaneously evaluate whether actual and perceived
+trafﬁc-related pollution and physical activity mediate the associations between mental wellbeing and nature exposure,
+which was assessed by Normalized Difference Vegetation Index (NDVI), green view index (GVI), green space density
+and park accessibility. In summer 2022, we conducted questionnaires from 1772 adults residing in 117
+neighbourhoods in Shenzhen, China. Nature exposure was positively and directly associated with mental wellbeing
+in the single mediator model that considered physical activity only. The indirect effects of nature exposure on mental
+wellbeing were observed through all pathways in all models, except through the perceived acoustic quality pathway in
+the serial mediation model. In addition, the percentage mediated by perceived air quality was higher than that of per-
+ceived acoustic quality. The inﬂuence of nature exposure on mental wellbeing was only for a small proportion medi-
+ated by the physical activity pathway. The associations between nature exposure and mental wellbeing were modiﬁed
+by individual characteristics, such as gender, age, income level and alcohol usage, but not employment status and
+smoking behaviour. These ﬁndings point out the importance of both objective and subjective environmental features
+and human behaviours on mental wellbeing, as well as the necessity of considering multiple pathways simultaneously.
+Science of the Total Environment 869 (2023) 161819
+⁎ Corresponding author at: 3688 Nanhai Road, Shenzhen University, Shenzhen 518060, China.
+E-mail address: yuanlei@szu.edu.cn (L. Yuan).
+http://dx.doi.org/10.1016/j.scitotenv.2023.161819
+Received 14 December 2022; Received in revised form 17 January 2023; Accepted 20 January 2023
+Available online 25 January 2023
+0048-9697/© 2023 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+1. Introduction
+1.1. Mental health beneﬁts of nature exposure: What are the pathways
+Green spaces, which provide a multitude of physical and mental beneﬁts
+to the urban population (Diener and Mudu, 2021; Hartig et al., 2014), are in-
+valuable natural resources. Natural outdoor environments offer solutions to
+the adverse inﬂuence of rapid urbanization on human health and wellbeing.
+Contacting with nature (e.g. urban parks, forests and street greenery) exerts
+various beneﬁcial inﬂuence on mental health, including stress recovery
+(Kajosaari and Pasanen, 2021; Markevych et al., 2017), attention restoration
+(Bijnens et al., 2022), depression prevention (Liu et al., 2019b) and mood en-
+hancement (Tyrväinen et al., 2014), as well as alleviating mental fatigue
+(Jiang et al., 2020). Pathways through which nature exposure relates to men-
+tal health include reducing harm (i.e. mitigating trafﬁc-related pollution), re-
+storing capacities (i.e. physiological stress recovery) and building capacities
+(i.e. promoting physical activity and facilitating social cohesion) (Hartig
+et al., 2014; Liu et al., 2019a; Markevych et al., 2017; Roberts et al., 2021).
+Trafﬁc-related noise and air pollution are two crucial environmental
+risk factors which are detrimental to mental health (Bloemsma et al.,
+2022; Dzhambov et al., 2017; Klompmaker et al., 2019; Wang et al.,
+2020) and were suggested to be considered together on health issues
+(Tezel et al., 2019). Mounting evidence indicates that urban greenness
+can not only greatly improve air quality by inhibiting the dispersion of pol-
+lutants (Diener and Mudu, 2021), but also mitigate noise pollution by
+damping trafﬁc and vehicle noise (Oquendo-Di Cosola et al., 2022). A vari-
+ety of cross-sectional studies have demonstrated that more residential expo-
+sure to pollution may present barriers to physical activity and discourage
+social interactions among neighbours in the outdoor settings (Dzhambov
+et al., 2017). Therefore, less nature exposure and greater exposure to air
+and noise pollution may exert negative inﬂuence on the mental health of
+urban populations (Wang et al., 2020). The impacts of air pollution and
+trafﬁc noise on psychological wellbeing have been distinguished, the re-
+sults of which are ambiguous (Hao et al., 2022; Klompmaker et al., 2019;
+Li 
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Data collection
+A questionnaire survey was carried out in Shenzhen between May and
+June 2022. With a population of 17.68 million, Shenzhen is a modern inter-
+national mega city in South China covering a land of 1997.47 km2. Data
+D. Huang et al.
+Science of the Total Environment 869 (2023) 161819
+2
+
+were collected from 117 residential neighbourhoods (see Appendix Fig. S1)
+which were randomly selected from four inner-city districts (including
+Baoan, Nanshan, Futian and Luohu) utilizing a multi-stage stratiﬁed proba-
+bility proportionate to size (population density) sampling technique (Gardi
+et al., 2008). These neighbourhoods include various housing types, includ-
+ing urban villages (N = 31), multi-storey housing (N = 30), high-rise hous-
+ing (N = 33) and apartments (N = 23). In the second stage, an approximate
+number of 15 adults from each neighbourhood were randomly selected.
+The survey yielded a total of 1772 valid participants and a response rate
+of 98 %. The study protocol was approved by the Shenzhen University Re-
+search Ethics Committee.
+2.2. Mental wellbeing assessment
+Self-reported mental wellbeing outcomes were measured by happiness,
+the 5-item World Health Organization Wellbeing Index (WHO-5) and the
+Short Warwick-Edinburgh Mental Wellbeing Scale (SWEMWBS). These
+three existing instruments have been validated in previous nature-health
+research (Davison et al., 2021; Fisher et al., 2022; Wang et al., 2020). Hap-
+piness was assessed with a single item (Fordyce, 1988) by asking “In gen-
+eral, how happy would you say you are on a scale from 1 (extremely
+unhappy) to 10 (extremely happy)?” The WHO-5 is one of the most sensi-
+tive and valid instruments to evaluate respondents' subjective wellbeing
+over the previous two weeks (Topp et al., 2015). Each item (including “I
+have felt cheerful and in good spirits”, “I have felt calm and relaxed”, “I
+have felt active and vigorous”, “I woke up feeling fresh and rested” and
+“My daily life has been ﬁlled with things that interest me”) is scored on a
+6-point Likert scale, ranging from 0 (never) to 5 (always). The total score
+ranges from 0 to 25, with higher values representing better mental
+wellbeing. The SWEMWBS is a 7-item scale evaluating respondents' posi-
+tive mental wellbeing over the previous two weeks. These items contain
+both hedonic (e.g. pleasure and satisfaction) and eudemonic (e.g. meaning-
+fulness and cultivation of personal strengths) elements of mental health
+(Melin et al., 2022). The SWEMWBS questions use positive wording, in-
+cluding feeling optimistic about the future, useful, relaxed, able to deal
+with problems, think clearly, close to others, and make up ones' mind
+about things. Each item is scored 1 (none of the time) through 5 (all of
+the time). Summing item scores leads to an initial raw score, which was
+then transformed to a ﬁnal metric score to improve scaling properties
+(Stewart-Brown et al., 2009). The ﬁnal score ranges from 7 to 35, with
+lower values indicating poorer psychological wellbeing. The WHO-5 and
+SWEMWBS both indicated excellent internal consistency, with the
+Cronbach's α coefﬁcients of 0.948 and 0.915, respectively.
+2.3. Nature exposure assessment
+2.3.1. NDVI, green space density and park accessibility
+Following previous studies, we employed Normalized Difference Vege-
+tation Index (NDVI), green space density, park accessibility and green view
+index (GVI) to assess residents' exposure to nature (Wang et al., 2020;
+Zhang et al., 2022). The top-down greenness was quantiﬁed by NDVI, a
+classic satellite-based measurement of vegetation density. The index was
+extracted from Landsat 8 OLI (Operational Land Imager) and TIRS (Ther-
+mal Infrared Sensor) data at 30 m spatial resolution via the United States
+Geological Survey (USGS) Earth Explorer website (https://earthexplorer.
+usgs.gov). The all cloud-free images during the period from 3rd to 13th Sep-
+tember in 2022 were acquired. The NDVI was calculated as the following
+equation: NDVI = (NIR −RED) / (NIR + RED), where NIR and RED are
+the near-infrared and red visible radiation, respectively. Pixels with nega-
+tive NDVI value were excluded as recommended elsewhere (Rugel et al.,
+2017). The range of NDVI was between 0 and 1, with higher values repre-
+senting denser vegetation. Residential exposure to top-down greenness was
+measured by the mean NDVI value within 1 km buffer around the geo-
+graphic centroid of each neighbourhood. The green space density was
+quantiﬁed by the proportion of green environmental exposure within the
+buffers. Park accessibility was deﬁned as the network distance from each
+neighbourhood to the nearest park. The QGIS network analysis toolbox
+(QNEAT3) was applied to calculated the shortest network distance, with
+higher values indicating poorer park accessibility.
+2.3.2. Green view index
+The eye-level greenness was assessed by GVI utilizing street view imag-
+ery data. The sample sites for collecting street view images (SVI) were set
+up at 50 m intervals along the road network (excluding motorways, high-
+ways and tunnels) in Shenzhen which were obtained from OpenStreetMap
+(Haklay and Weber, 2008). The GVI was calculated based on the SVI from
+Baidu (Zhang et al., 2022), which were collected in August 2021. All pic-
+tures were taken between March and September in 2019–2021. The coordi-
+nates of the sample sites were utilized to generate the IDs of the respective
+SVI, which were then entered into a Python script to download the street
+view panoramas from Baidu API (Application Programming Interface).
+We set the size of each SVI to 4096 by 1152 pixels. Finally, 127,181 street
+view panoramas were attained for semantic segmentation which was con-
+ducted by adopting a scene-parsing approach based on DeepLabV3+
+(Chen et al., 2018). This model has outperformed several commonly-used
+semantic segmentation networks, including U-Net, SegNet and PSPNet
+(Xia et al., 2021). Our training model was based on the Cityscapes dataset
+which contains 5000 im
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). The
+Fig. 1. Visualization result of segmentation by the DeepLabV3+ model.
+Fig. 2. We assumed that nature exposure could
+Fig. 2). The data analysis
+Fig. 2. Conceptual diagrams of four models to be tested in the study. Dashed arrows indicate direct effects while solid arrows indicate indirect effects.
+Table 1 (The
+Table 2).
+Fig. 3 (A) indicates path coefﬁcients and 95 % conﬁdence intervals (CI)
+Fig. 3 (B) shows that nature exposure was not only positively and di-
+Table 1
+Table 2
+Fig. 3 (C) also indicates that nature exposure was negatively associated
+Fig. 3 (D) suggests that nature exposure was negatively associated with
+Fig. 3. Path coefﬁcients and 95 % conﬁdence intervals (CI) of the four structural equation models. Solid lines indicate signiﬁcant pathways. Dashed lines indicate ins
+
+======================================================================
+

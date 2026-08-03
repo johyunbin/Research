@@ -1,0 +1,206 @@
+### RECORD ID=951 | screening_verdict=INCLUDE | year=2023
+JOURNAL: SUSTAINABLE CITIES AND SOCIETY
+TITLE: Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches
+DOI: 10.1016/j.scs.2022.104336
+PAGES: 9
+
+--- HEAD (title/abstract/intro) ---
+Sustainable Cities and Society 89 (2023) 104336
+Available online 5 December 2022
+2210-6707/© 2022 Elsevier Ltd. All rights reserved.
+Sustainable design of running friendly streets: Environmental exposures 
+predict runnability by Volunteered Geographic Information and multilevel 
+model approaches 
+Dengkai Huang 1, Meng Tian 1, Lei Yuan * 
+Lab for Optimizing Design of Built Environment, School of Architecture and Urban Planning, Shenzhen University, Shenzhen, 518060, China 
+A R T I C L E I N F O 
+Keywords: 
+Runnability 
+Street segment 
+GPS-based routes 
+Volunteered Geographic Information 
+Multilevel model 
+Built environment 
+A B S T R A C T 
+Understanding the influence of built environment on running behavior is a significant step towards developing 
+related landscape strategies. This paper adopted a volunteered geographic information (VGI) approach to 
+measure urban runnability by quantifying environmental features that encourage or hinder running activities. 
+The GPS-based routes collected from Strava were used to compute the running intensity of street segments in 
+Helsinki, Finland. We applied multilevel regression models to assess the spatial-varied impacts of street envi­
+ronment on running intensity, so as to elicit runner’s preferences and investigate their associations with socio­
+demographic characteristics at higher hierarchical level (neighbourhood). The results showed street greenery 
+assessed by Green View Index (GVI) represented the greenness exposure to runners better than top-down 
+greenness assessed by Normalized Difference Vegetation Index (NDVI), and thus can be considered as a more 
+reliable predictor for running behaviours. Blue space density was the predominant factor and associated with 
+running intensity positively. Running intensity negatively correlated with urban density, connectivity and traffic 
+accidents, and positively correlated with traffic noise and air pollution. Population density and income level were 
+positively associated with running intensity. These results provide profound insights and boost our capacity to 
+design more attractive and sustainable streets for physical activity. 
+1. Introduction 
+In sustainable city design, making a rational use of the natural and 
+technological resources that its population requires is one of the critical 
+issues. Both natural landscapes and public spaces are vital in the global 
+city to avoid the burden of concrete by means of enhancing the 
+communication between residents and promoting sports. Physical 
+inactivity is one of the most significant contributors to the deterioration 
+of health and wellbeing (Althoff et al., 2017; Kohl et al., 2012). As a 
+convenient, comparatively low-cost and non-organized exercise for all 
+ages (Hodgson & Hitchings, 2018; Janssen et al., 2017), running activity 
+has become one of the most popular sport activities in Europe (Scheerder 
+& Breedveld, 2015). Running exercise is beneficial to reduce risks of 
+chronic diseases, such as type 2 diabetes, obesity and cancers, as well as 
+boosting emotional wellness by releasing stress, avoiding cognitive 
+decline and preventing memory disorders (Lee et al., 2017; Oja et al., 
+2017). Overlapping with the ideas of walkability and cycle-friendly 
+cities, running-friendly cities also require superior accessibility, link­
+ages, safety, esthetic and design considerations (Boakye et al., 2021; 
+Schuurman et al., 2021). However, compared to walking and cycling (Ki 
+& Lee, 2021; Lu et al., 2019), the associations between running activity 
+and environmental features have rarely been investigated (Ettema, 
+2015), leaving a gap on how urban street environment affects running 
+exercise. Moreover, finding the balance between conflicting political 
+and social demands on limited space has become a new challenge in 
+urban design (Meseneva, 2020), which requires both qualitative and 
+quantitative studies focusing on the various effects of natural environ­
+ment and built environment characteristics on residents. 
+1.1. Runnability of the built environment 
+Runnability of the built environment has been largely overlooked in 
+the literature as compared to walkability. Runnability can be defined as 
+a measurement of how much the built environment characteristics can 
+* Corresponding author. 
+E-mail address: yuanlei@szu.edu.cn (L. Yuan). 
+1 Co-first authorship: Dengkai Huang and Meng Tian contribute equally to the article. 
+Contents lists available at ScienceDirect 
+Sustainable Cities and Society 
+journal homepage: www.elsevier.com/locate/scs 
+https://doi.org/10.1016/j.scs.2022.104336 
+Received 28 July 2022; Received in revised form 6 November 2022; Accepted 1 December 2022 
+
+Sustainable Cities and Society 89 (2023) 104336
+2
+encourage and facilitate running exercises (Shashank et al., 2021). In 
+general, recreational runners prefer environments with more nature 
+exposure and smooth surface, and far away from other traffic users, 
+because these environmental features can increase restorative effects 
+(Ettema, 2015), prevent injuries (Hockey & Collinson, 2006) and keep 
+momentum (Huang et al., 2022). Many studies have demonstrated the 
+significant linkages between physical environment features and running 
+exercise (Deelen et al., 2019; Ettema, 2015; Huang et al., 2022; 
+Schuurman et al., 2021; Shashank et al., 2021; Wang et al., 2021). It is 
+widely-known that the exposures to nature – eye-level greenness, 
+top-down greenness and blue space density – promotes running activity. 
+In addition, traffic-related features, building-related features and air 
+pollution exposure are regarded as significant factors affecting the 
+participation of running exercise (Hodgson & Hitchings, 2018; Huang 
+et al., 2022). 
+1.2. GPS-based routes collected from VGI 
+There is a growing consensus that activity-based approach can better 
+reflect the actual exercise environment than the residential buffers 
+approach (Holliday et al., 2017). The activity-path based exercise be­
+haviours and ex
+
+--- METHODS/RESULTS EXCERPT ---
+Methods 
+2.1. Study area 
+Helsinki, the capital of Finland and the hub of the Helsinki Metro­
+politan Area, covers 217 km2 of land and boasts a population of 658,457 
+residents (Official Statistics of Finland OSF, 2022). Helsinki consists of 
+60 subdistricts, which can be further divided into 137 neighbourhoods 
+(excluding Aluemeri that consists of outer coastal water only). Helsinki 
+offers a total of approximately 2100 outdoor public sports facilities, 
+including sports parks, fields, neighbourhood sports sites, jogging tracks 
+and skiing tracks (City of Helsinki Executive Board, 2018). These out­
+door sports services almost cover every neighbourhood in the city of 
+Helsinki. 
+2.2. Data description 
+2.2.1. Dependent variable: Running intensity of street segments 
+The running activity VGI data for this study were obtained from 
+Strava in March 2021. By the end of May 2022, Strava had more than 
+100 million registered users and 7 billion uploaded sports activities all 
+over the world. It is one of the most popular sports-tracking and social 
+platforms in Finland. The GPS-based routes were collected among run­
+ners who posted their running experiences on Strava between 2018 and 
+2021. We used the geo-referenced data of running routes without per­
+sonal data. The running routes for length less than 1 km were excluded, 
+because they are too short to indicate the segment preferences of 
+runners. 
+The running intensity of street segments were calculated as follows. 
+First, we obtained the street network for city of Helsinki from the public 
+available mapping platform OpenStreetMap, and broke the street 
+network into segments by intersections. Then, we computed a 20 m 
+buffer around each street segment to define the exposure to environ­
+mental conditions as utilized elsewhere (Salazar et al., 2021). Next, we 
+summed up the length of all running routes that are partly overlap or 
+entirely fall within the respective buffer of each street segment. Finally, 
+we calculated the running intensity by dividing the total length of 
+running routes by its buffer zone area, which solved the problem that the 
+total lengths of running routes in large buffers tend to be longer than 
+those in small buffers. Our final sample comprises 13,322 street 
+D. Huang et al. 
+
+Sustainable Cities and Society 89 (2023) 104336
+3
+segments with diverse running intensity ranging from 0.001 to 3.45 
+m/m2. 
+2.2.2. Covariates at street segment level: Environmental predictors 
+2.2.2.1. Natural environment factors. Natural environment factors for 
+explaining running activity intensity were selected based on the previ­
+ously described literature, which include Green View Index (GVI), 
+Normalized Difference Vegetation Index (NDVI), blue space density and 
+terrain slope (Campbell et al., 2019; Huang et al., 2022; Ki & Lee, 2021; 
+Lu et al., 2019). The top-down greenness and blueness were assessed by 
+NDVI and blue space density respectively. The NDVI index was collected 
+from Landsat 8 OLI (Operational Land Imager) and TIRS (Thermal 
+Infrared Sensor) data at 30 m spatial resolution via the United States 
+Geological Survey (USGS) Earth Explorer website (https://earthexplorer 
+.usgs.gov). The all cloud-free images during the period from 6th June to 
+7th July in 2021 were obtained. The NDVI was calculated based on the 
+wavelengths of the light absorbed by green plant canopies. Pixels with a 
+negative NDVI were excluded before computing the average NDVI per 
+street segment as suggested elsewhere (Rugel et al., 2017). The NDVI 
+values range from 0 to 1 with higher values indicating denser vegeta­
+tion. The blue space density was assessed by the ratio of aquatic envi­
+ronmental exposure within the street segment buffers following the 
+approach employed in the previous study (Huang et al., 2022). The slope 
+within a street segment buffer was determined by the average value of a 
+slope map which was created from a GDAL-supported elevation raster 
+(Huang et al., 2022). 
+The GVI, which represents the eye-level greenness exposure to run­
+ners on streets (Huang et al., 2022), was calculated by averaging the GVI 
+values of Google Street View (GSV) images collected within the street 
+segment buffers. First, sample points for generating GSV images were 
+created with a uniform distance of 50 m along street network. The co­
+ordinates of these points were input into a Python script and were uti­
+lized to download six GSV images for each point. The six GSV images 
+contained 0◦(North), 60◦, 120◦, 180◦, 240◦and 300◦headings, and each 
+one was with a 60-degree field of view. Because the amount of street 
+greenery varies by seasons, only the images taken between May and 
+September were utilized. The street view image data for this research 
+were obtained from Google Maps using Python scripts in 2021. The 
+calculation of GVI was performed by a deep learning technique of fully 
+conventional neural network for semantic segmentation (Huang et al., 
+2022; Toikka et al., 2020). The average value of six images for each 
+sample point was used to assess the amount of street greenery of that 
+location. 
+2.2.2.2. Land use and built environment factors. Previous research 
+certified that built environment variables such as air quality, traffic 
+noise, urban density, land use mix and visual enclosure, are significant 
+correlates of running exercise and other physical activities (Hodgson & 
+Hitchings, 2018; Tainio et al., 2021; Wang et al., 2021; Yin & Wang, 
+2016). For example, traffic noise (Dzhambov et al., 2017) and air 
+pollution (Hodgson & Hitchings, 2018) contributed to lower level of 
+physical activity, while urban density (Wang et al., 2021) and visual 
+enclosure (Yin & Wang, 2016) were positively related to physical ac­
+tivity levels. In this study, urban density was assessed by the Floor Area 
+Ratio (FAR), defined as the total amount of built floor area in relation to 
+land area within each street segment buffer. The air quality index and 
+traffic noise of stre
+
+--- TABLE/FIGURE CAPTIONS ---
+Table 1. The dataset 
+Fig. 1 shows the spatial distribution of running intensity for each 
+Table 2, with different sets of independent variables 
+Table 1 
+Fig. 1. Running intensity of street segments in the urban areas in Helsinki, Finland. 
+Table 2 
+Table 2 (The full results of 

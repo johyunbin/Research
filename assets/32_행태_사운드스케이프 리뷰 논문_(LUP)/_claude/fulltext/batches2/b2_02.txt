@@ -1,0 +1,2225 @@
+### RECORD ID=435 | screening_verdict=INCLUDE | year=2017
+JOURNAL: Sound Studies
+TITLE: Soundscape and sonic memory: dynamics of Jewish and Muslim day-to-day social interactions in Udlajan, Tehran
+DOI: 10.1080/20551940.2018.1451221
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Sound Studies, 2017
+VOL. 3, NO. 2, 134–151
+https://doi.org/10.1080/20551940.2018.1451221
+Soundscape and sonic memory: dynamics of Jewish and 
+Muslim day-to-day social interactions in Udlajan, Tehran
+Mahsa Pakravan
+Music Department, University of Alberta, Edmonton, Canada
+ABSTRACT
+Being home to a majority of Jews before the Iranian Islamic Revolution 
+of 1979, Udlajan is one of the oldest neighbourhoods in Tehran. 
+Through interviews with a select group of its past Jewish and Muslim 
+residents, this research considers Udlajan’s past soundscape and its 
+former residents’ sonic recollections in order to examine the role of 
+sounds and silences in the social construction of space. By narrating 
+sound memories together with other ones, Udlajan former residents 
+express their understanding of space, communications with others, 
+sense of identity, self and otherness, and norms of inclusion and 
+exclusion. This paper illustrates how the Jewish residents, despite 
+aspects of their everyday lives being circumscribed, are not mute 
+victims but exercise agency in appropriating, negotiating and using 
+public space.
+Introduction
+Udlajan,1 an old neighbourhood in Tehran, Iran, was home to a majority of Jews2 before the 
+Islamic Revolution of 1979. Following the Revolution, Ayatollah Ruhollah Khomeini’s political 
+and religious doctrines shaped the post-revolutionary policies. Such state-sponsored poli-
+cies suppressed the possibility of plural and co-existent cultural identities for almost all reli-
+gious minorities. This situation led to the emigration of a large number of Iranian citizens 
+from minority religious groups, including the Jews.3 Emigration of the majority of Udlajan 
+Jews, closure of Jewish shops, baths, synagogues and music stores4 following the Revolution 
+brought about a recognisable transformation in the lifestyle of the area, ultimately changing 
+the everyday soundscape of the neighbourhood. In other words, sounds in the neighbour-
+hood “narrate changing histories of power as well as contemporary realities” (Wood 2013, 
+289). While the visual and built environment of Udlajan has received some academic atten-
+tion, the soundscape of the neighbourhood has featured little in the academic literature on 
+Tehran to date.
+Barry Truax (2001) describes soundscape5 as a system of organised acoustic communi-
+cation that emphasises “the way in which the sonic environment is understood” (50). In 
+everyday soundscapes, all acoustic fields, including street noise, the sound of people trading 
+© 2018 Informa UK Limited, trading as Taylor & Francis Group
+KEYWORDS
+Soundscape; Udlajan; 
+Tehran; neighbourhood; Jew; 
+Muslim; sonic; memory
+ARTICLE HISTORY
+Received 11 May 2017 
+Accepted 8 March 2018
+CONTACT  Mahsa Pakravan 
+ pakravan@ualberta.ca
+
+SOUND STUDIES﻿ 
+  135
+and calls for prayer, can be considered a part of the cultural frame of people’s daily life.6 Daily 
+experiences of a neighbourhood’s residents and the meaning the surrounding environment 
+has for them can provide a suitable context to explore and compare the dynamics of 
+self-identification. Identification, an amalgam of social construction and psychodynamic 
+processes (Bennett 2008, 510), is formed based on the recognition of some shared charac-
+teristics with another individual or a group (Hall 1996, 2). This study considers identity as an 
+aspect of everyday life and an always in-process construction (Frith 1996; Hall 1996). Yet, as 
+Wood (2013) has observed, “the politics of everyday life is also embedded, textured, felt and 
+articulated through narration, sensation and memory, through which identities are negoti-
+ated in real time” (288). In the context of Iranian history, the country’s pre-Islamic culture, 
+Islamic heritage and its relations with the West play a pivotal role in shaping the main markers 
+of national identity (Holliday 2011). Based on my interviews and observations of everyday 
+life in Udlajan, I argue that a combination of elements from Judaism, nationalism and Shiism 
+worked historically to shape the Jewish residents’ sense of identity in Udlajan. The Jewish 
+residents practiced certain cultural activities and rituals, but this did not stop them from 
+participating in national ceremonies and events, including Nowruz (Iranian new year). Some 
+of them also attended events in the neighbourhood that were specifically related to Shiism 
+(such as Muharram7 rituals). The Muslim residents had similar experiences when it came to 
+public events and occasions. Of course the Jewish and Muslim residents did not agree entirely 
+on the values expressed in all Iranian-Shia rituals, nor did they share similar feelings towards 
+them, but they came to know themselves as groups and identified as residents of the neigh-
+bourhood through a combination of similarities and differences which were reflected in 
+their various cultural activities.
+As Bruner (2001) reminds us, “a sense of commitment to a set of beliefs and values” is 
+what remains relatively stable about the self over time (35). People’s stories and narratives 
+are a product of culture that can also be considered as their “building-blocks of identity, their 
+way of understanding who they are and what they are in relation to the rest of existence” 
+(DeVereaux and Griffin 2013, 1). Individuals convey their memories through narrating the 
+lived historical, social and political context, and narratives highlight the active and self-shap-
+ing quality of their thoughts (Labov and Waletzky 1967; Elliott 2005; Squire 2013). “By inter-
+preting how peoples of the past sensorially experienced their world, a richer, more holistic 
+grasp of historical events is possible” (Fahmy 2013, 306). Diverse cultural backgrounds create 
+different ways of perceiving the world and “culture operates as a lens that directs attention 
+and filters the processing of the environment into memory” (Gutchess and Indeck 2009, 
+137). Remembering past events of daily life cannot be understood apart from concepts such 
+
+--- METHODS/RESULTS EXCERPT ---
+
+as religion, class and family affiliations. Memory synthesises time and identity, while identity 
+supports human beings in adjusting individually and collectively to the future, the past or 
+both (Assmann 2006, 15–18). Studying the Muslims’ and Jews’ day-to-day sonic interactions 
+and sonic memories makes possible a better understanding of the complexity of changes 
+in the soundscape and the dynamics of people’s social interactions within diverse sonic 
+environments.
+Research methodology
+My field research focuses on 10 interviewees’ sound memory narratives within the last two 
+decades of Mohammad Reza Shah reign (1959–1979) and investigates how the distinction 
+
+136 
+  ﻿M. PAKRAVAN
+in power relations between Muslims and Jews affected their everyday sounds. Interviewing 
+five Jews and five Muslims, who were former residents of the neighbourhood, and examining 
+the dynamics of their everyday interactions, I illustrate how Jewish residents, despite aspects 
+of their everyday lives being circumscribed, are not mute victims but exercise agency in 
+appropriating, negotiating and using public space. This fieldwork, which I call the 
+“Ethnography of Sonic Recollections”,8 is neither strictly ethnography, nor memory and nar-
+rative analysis, but rather a combination of both. This field research is ethnographic as it 
+involves observations as well as in-depth semi-structured interviews with former residents. 
+However, at the same time it is a memory analysis, as it focuses on stories lived and narrated 
+by former residents of Udlajan. During my observations, I use informal or conversational 
+interviews, which let me discuss, probe unexpected rising issues or ask detailed questions 
+in an informal manner. The casual nature of my interview sessions helps me in eliciting highly 
+candid accounts from interviewees. My ethnographic research and interview transcriptions9 
+provide not only my informants’ memories of the past but also their emotions, feelings, 
+subtle nuances of how each of them responded to their surrounding environment and how 
+they narrated and interpreted their life experiences. The majority of the Jewish population 
+of Udlajan has immigrated to the USA or Israel since 1979; thus, searching for former Jewish 
+residents of the neighbourhood in Iran was challenging.10 I was able to interview three Jews 
+in Iran and two in the US.11 The interviewees chose to include or to exclude certain things 
+in certain ways; thus, information in their narratives is not raw data but cautiously chosen 
+and presented. I analyse individual stories to develop a deeper contextual understanding 
+of their everyday lives through memory recounting. I have also collected information about 
+the context of these stories in order to situate the stories within the interviewees’ personal 
+experiences and cultural backgrounds. Reframing the narratives of research participants, I 
+investigate the neighbourhood’s everyday soundscape. In this study, I see myself as a narrator 
+who shares stories of her own experiences in Udlajan, typically in relation to the study’s 
+participants. It is important to address my position in the field as the interviewee’s answers 
+and demeanour might have been different depending on the person they interacted with. 
+This proved to be particularly relevant for me as a secular non-Jewish young female scholar. 
+In order to develop rapport with my research participants,12 I deemed it essential to actively 
+participate in community events and occasions as well as share my background and history. 
+Being a native Farsi speaker helped me connect with my interviewees more easily.
+Public and private spaces: inclusion or exclusion
+In this research, the acoustic information was gathered through the recorded interviews, 
+which provided information about the community’s perception and understanding of the 
+various sound signals and keynotes13 that would be barely available to a passer-by spending 
+only a few hours in the neighbourhood. Drawing on examples from my ethnographic 
+research, I observed that sonic memories of Muslim and Jewish residents contain descriptions 
+about different levels of inclusion and exclusion in the day-to-day life of the neighbourhood. 
+As I followed the sonic clues in the interviewees’ conversations, I found out that my inform-
+ants make clear distinctions between public and private spaces including indoors and out-
+doors, homes, shops, mosques and synagogues. The borders between public and private 
+spaces can be blurred, and one space can turn to the other under certain circumstances. 
+Also, the rules of admission into places are not fixed and can be changed.14 According to 
+
+SOUND STUDIES﻿ 
+  137
+Madanipour (2003), “[i]n cultural and social terms, the distinction between the public and 
+private determines the routines of daily life and is crucial in the relations between self and 
+other, individual and society” (2). My interviews indicate that the defining lines between 
+public and private in each community are closely linked to people’s understanding of self-
+hood and otherness, and markers such as religion, ethnicity and gender are influential in 
+defining self and other. These factors reveal themselves in the interviewees’ descriptions of 
+sound and the sonic space of the neighbourhood. We occasionally find ourselves in transition 
+spaces that are neither private nor public. As a result, we experience the loss of a clear dis-
+tinction between public and private spaces (Nissen 2008) that one may call semi-public or 
+semi-private. As Akkar (2005) argues, public or private spaces do not exist absolutely in urban 
+areas (76), which can also suggest that, as opposed to the commonly held view, a public 
+space is not always open or accessible to all members of a community. People may have 
+different understandings of one particular public or private space; in fact, they react to their 
+surroundings based on their socio-cultural role(s) and their interactions with other members.
+
+--- TABLE/FIGURE CAPTIONS ---
+
+
+======================================================================
+
+### RECORD ID=469 | screening_verdict=INCLUDE | year=2018
+JOURNAL: ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+TITLE: Exploring tourists' soundscape emotion and its impact on sustainable tourism development
+DOI: 10.1080/10941665.2018.1494614
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+Asia Paciﬁc Journal of Tourism Research
+ISSN: 1094-1665 (Print) 1741-6507 (Online) Journal homepage: www.tandfonline.com/journals/rapt20
+Exploring tourists’ soundscape emotion and its
+impact on sustainable tourism development
+Mengyuan Qiu, Jie Zhang & Chunhui Zheng
+To cite this article: Mengyuan Qiu, Jie Zhang & Chunhui Zheng (2018) Exploring tourists’
+soundscape emotion and its impact on sustainable tourism development, Asia Paciﬁc Journal
+of Tourism Research, 23:9, 862-879, DOI: 10.1080/10941665.2018.1494614
+To link to this article: https://doi.org/10.1080/10941665.2018.1494614
+Published online: 05 Jul 2018.
+Submit your article to this journal 
+Article views: 1903
+View related articles 
+View Crossmark data
+Citing articles: 19 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rapt20
+
+Exploring tourists’ soundscape emotion and its impact on sustainable
+tourism development
+Mengyuan Qiua, Jie Zhanga and Chunhui Zhengb
+aDepartment of Land Resources and Tourism Sciences, Nanjing University, Nanjing, Jiangsu, People’s Republic of China; bSchool
+of Tourism, Guangzhou University, Guangzhou, Guangdong, People’s Republic of China
+ABSTRACT
+Despite the long-standing appeal for tourism researchers to pay more attention to the
+eﬀects of soundscape, there remains a serious lack of in-depth studies on the topic.
+Drawing on moderating eﬀects of tourists’ soundscape emotion, this study
+examines certain determinants of tourists’ pro-environmental behaviour. Kulangsu
+was used as a source of empirical data for its abundant soundscape resources. The
+results revealed the explicit connections of human-environmental relationships to
+pro-environmental behaviour. All the paths are more signiﬁcant when grouped with
+positive
+soundscape
+emotions
+than
+with
+their
+negative
+counterparts.
+This
+demonstrates the importance of soundscape to promote sustainable development
+in tourist destinations.
+KEYWORDS
+Soundscape; pro-
+environmental behaviour;
+connectedness to nature;
+place attachment; Kulangsu
+Introduction
+A critical part of the tourist experience is associated
+with sounds in their environment (Waitt & Duﬀy,
+2010; Weinzimmer et al., 2014). For example, the sen-
+sation of listening to the sounds at the Kulangsu—a
+famous Chinese destination—whether they are the
+piano tone, pop music, birds cackling, crowd noise, or
+even the natural quiet may initially appear too
+mundane. However, if the radio is switched oﬀ, the
+acoustical environment changes, or if the tranquillity
+is gone, a known and viscerally sensed displacement
+occurs, and the destination may become less attractive
+(Bernat, 2014). As an attractive tourist destination, the
+outstanding universal value of Kulangsu is not just
+limited to visual stimuli (Dann, 2002). In fact, the
+“soundscape” which is deﬁned as the acoustic environ-
+ment that can be perceived by humans (ISO, 2014) is at
+least equally important (Son & Pearce, 2005). This gen-
+erates several questions: “What is so visceral about
+tourists’ perceptions of their auditory environment?”
+Moreover, “what are the implications of the visceral
+connection and disconnection in terms of tourists’
+pro-environmental behaviour in certain destinations”?
+Previous studies have shown that tourists’ PEB safe-
+guards the lasting attractiveness and economic vitality
+of a tourist destination (e.g. Harrington, Lane, & Mercer,
+2006; Seabrook, McAlpine, & Fensham, 2008; Smith,
+2008). More recently, research has shown that the
+human ties to nature and place, which encompass con-
+nectedness to nature (CTN) and place attachment
+(TPA), are important drivers of environmental actions
+(e.g. Kals, Schumacher, & Montada, 1999; Scannell &
+Giﬀord, 2010; Vaske & Kobrin, 2001). Given that tourists’
+visual experiences have been emphasized more recently
+over other experiences in tourism studies (Urry, 2008),
+these studies seem to assume that tourists’ perceptions
+and behaviour largely rely on visual factors and, thus,
+they failed to consider the importance of the sounds-
+cape. As argued by Ulrich (1983), as well as Conniﬀand
+Craig
+(2016),
+concentrating
+exclusively
+on
+visual
+sensory channel limits our understanding of often
+complex
+environments
+because
+visualisation
+only
+depicts a fragment of a given setting (Nordh, Hartig,
+Hagerhall, & Fry, 2009). The soundscape, by contrast,
+can induce some speciﬁc perceptions not experienced
+throughvisualstimuli,helpingpeopleactmorerationally
+© 2018 Asia Paciﬁc Tourism Association
+CONTACT Mengyuan Qiu
+qiumengyuan1123@126.com
+Department of Land Resources and Tourism Sciences, Nanjing University,
+Nanjing, Jiangsu 210023, People’s Republic of China
+ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+2018, VOL. 23, NO. 9, 862–879
+https://doi.org/10.1080/10941665.2018.1494614
+
+through a more comprehensive understanding of their
+environment (Alvarsson, Wiens, & Nilsson, 2010).
+To address this, our study aims to identify further
+relationships among tourists’ connectedness to nature,
+place attachment, and PEB from the soundscape per-
+spective so that new non-visual factors at tourist desti-
+nations can be protected as well. We empirically test
+the
+moderating
+power
+of
+tourists’
+soundscape
+emotion (TSE) through a mediation model, which
+describes the eﬀects of tourists’ connectedness to
+nature and place attachment on PEB. The rest of the
+paper is organized as follows. Section 2 presents our
+theoretical framework and our hypotheses. Section 3
+presents our methodology include our data sources,
+the tourist sites and our survey instrument, Section 3
+describes the results of empirical studies while Section
+4 discusses our theoretical and managerial implications.
+Theoretical framework
+The relationship between tourists’
+connectedness to nature and PEB
+A substantial body of literature has proved that tourist
+connectedness to nature is an important driver of
+environmental actions. Connectedness to nature is
+deﬁned as the extent to which people feel
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+Study sites, participants, and data collection
+Kulangsu is a tiny island located on the estuary of the
+Chiu-lung River, facing the city of Xiamen. As a well-
+known tourist destination in China, Kulangsu enjoys
+the reputation of a great resort. On 9 July 2017, the
+UNESCO added Kulangsu to its list of world heritage
+sites in recognition of the site’s outstanding value to
+humanity. It is a destination that typiﬁes a soundscape
+environment. Its name is also believed to have audi-
+tory origins. Ku means drumbeat, Lang means the
+tide, and Su refers to the island. It is said that when
+the tide hits the huge rocks on the southwest coast,
+it sounds like the beating of several drums. Thus, the
+rock is named the “drum wave stone” and the island
+is also named after the rock as “Kulangsu.” Moreover,
+as a unique place, which has witnessed multicultural
+exchanges and integration, it contains a traditional
+soundscape rich in southern Fujian culture (e.g. the
+tranquillity of classical gardens), a typical soundscape
+representing Western culture (e.g. piano music), the
+unique soundscape of its white beaches and oddly
+shaped rocks (e.g. the drumming when rocks are
+lashed by waves), and the soundscape of tourists
+(e.g.
+tourists’
+voices).
+The
+various
+soundscapes
+enamour tourists with the island (see Figure 2).
+According to the administration of Kulangsu, it
+attracted over 348 million tourists and generated
+more than 10 million RMB in tourism revenue in
+2015. However, UNESCO has shown great concern
+for the sustainable development of Kulangsu, and
+the organization has pointed out that tourism press-
+ures present signiﬁcant threats to the integrity of the
+island and, hence, require strict controls. Further, this
+is a universal phenomenon at other tourist desti-
+nations, especially in developing countries (Chubchu-
+wong, Beise-Zee, & Speece, 2015). Therefore, Kulangsu
+is appropriately suited to the exploration of the char-
+acter of a soundscape in alleviating tourism-posed
+environmental pressures by motivating a change in
+tourists’ behaviour.
+The target research population included all dom-
+estic adult tourists who visited any of the most impor-
+tant scenic areas in Kulangsu (e.g. Sunlight Rock, Piano
+Museum, and Shu Zhuang Garden) between 13
+January and 19 January 2016. This special period is
+Kiangsu’s peak winter season and data collection
+during this time ensures the inclusion of tourists
+diverse in age, profession, province of origin, and
+length of stay. Keeping the sample size requirements
+of all the analyses in mind, trained research assistants
+distributed 700 questionnaires on the island. The
+research assistants made contact with domestic tour-
+ists who were resting or relaxing and recruited them
+for participation, selecting one in every 10 people.
+The 10-person interval was designed to improve data
+reliability by reducing the possibility of accumulating
+ASIA PACIFIC JOURNAL OF TOURISM RESEARCH
+865
+
+surveys from the same tourist groups (Ritter, Rendle, &
+Coughlin, 2002). Qualiﬁed participants received a
+designed questionnaire, which they completed in
+sequence under the supervision of the research assist-
+ant (on average, respondents spent 17 minutes).
+Through this method, we were able to collect 566
+usable surveys with a valid rate of response of 80.9%.
+The direct face-to-face survey approach, along with
+the provision of a small gift as remuneration for partici-
+pation, account for the survey’s high validity rate.
+Instrument development
+The questionnaire consisted of ﬁve parts: participants’
+demographics, PEB, connectedness to nature, place
+attachment, and TSE. The items used to measure con-
+nectedness to nature were from the studies by
+Gosling and Williams (2010) and Nisbet, Zelenski, and
+Murphy (2009). These two studies are very similar in
+how they capture subjective connectedness with
+nature. The scale from Gosling and Williams (2010) con-
+tains seven items and has been well tested in empirical
+studies. However, the study of Nisbet et al. (2009) adds
+one more item to measure how participants’ actions
+aﬀect the natural world. Therefore, we borrowed this
+item as well (‘I have a deep understanding of how my
+actions aﬀect the natural world’) from their study. A
+scale with eight items was developed to measure the
+extent to which tourists connect with nature.
+The Place attachment dimensions were measured
+by 11 items (six items for place dependence and ﬁve
+items for place identity). To distinguish from the con-
+struct of connectedness to nature, items that reﬂected
+the inﬂuence of social bonding were intentionally
+incorporated. Speciﬁcally, in addition to the three
+items borrowed from Williams & Vaske (2003), the
+measures of place dependence also included two
+items of social bonding (“If I were to stop visiting
+Kulangsu, I would lose contact with a number of
+friends” and “My friends/family would be disap-
+pointed if I were to start visiting other costal desti-
+nations”) and one item of “everybody’s happy” (I rely
+on Kulangsu to provide an enjoyable experience for
+my family/group of friends), ﬁne-tuned, respectively,
+from Ramkissoon et al. (2013) and Tonge, Ryan,
+Moore, and Beckley (2015). The latter three items
+were merged, as they best reﬂected place depen-
+dence based on social relationships and/or reference
+group norms. Similarly, the measures of place identity
+borrowed two items of social bonding (“The friend-
+ships and associations I have with other people here
+at Kulangsu mean a lot to me” and “A feeling of com-
+munity runs between me and other leisure tourists
+here at Kulangsu”) from Tonge et al. (2015) to inte-
+grate the identiﬁcation with place derived from inter-
+personal interaction and resonance in addition to the
+three items borrowed from Ramkissoon et al. (2013).
+PEB was measured from six items from Halpenny
+(2010). This scale explores how much value tourists
+assign to environment protection. According to the
+degree of awareness, motivation, and engagement,
+tourists’ PEB can be divide
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, the model of our hypotheses, outlines the
+Figure 2).
+Figure 1. Hypotheses model
+Figure 2. (a) The core heritage attractions in Kulangsu. (b) The Drum Waves Stone. (c) The Shuzhuang Garden. (d) The Piano Museum. (e) The
+Table 1. The total
+Table 1, the
+Table 2, the mean value of each item,
+Table 2). Moreover, every
+Table 1. Proﬁle of respondents.
+Figure 3. The estimated structural model for the entire sample.
+Table 3, the largest score of
+Table 2 shows no Q2
+Table 2. Individual item reliability and construct validity.
+Figure 3, H1 was not supported (β =
+Table 4
+Figure 4). Therefore, there are signiﬁcant
+Table 5 illustrates the results of the MGA using 5000
+Table 3. Discriminate validity with HTMT
+Figure 4. The estimated structural model for the positive and negative tourists’ soundscape emotion model.
+Table 1 indicates that the majority of
+Table 5, tourists in the posi-
+Table 4. Results of invariance measurement testing
+Table 5. Results of multi-group analysis
+
+======================================================================
+
+### RECORD ID=494 | screening_verdict=INCLUDE | year=2018
+JOURNAL: SCIENCE OF THE TOTAL ENVIRONMENT
+TITLE: Relationships among satisfaction, noise perception, and use of urban green spaces
+DOI: 10.1016/j.scitotenv.2017.12.148
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Relationships among satisfaction, noise perception, and use of urban
+green spaces
+Guillermo Rey Gozalo a,⁎, Juan Miguel Barrigón Morillas b, David Montes González b, Pedro Atanasio Moraga b
+a Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, 5 Poniente 1670, 3460000 Talca, Chile
+b Departamento de Física Aplicada, Escuela Politécnica, Universidad de Extremadura, Avda. de la Universidad s/n, 10003 Cáceres, Spain
+H I G H L I G H T S
+• Noise is the most inﬂuential factor in the
+evaluation of an urban green space.
+• Road trafﬁc remains the fundamental
+source of noise in urban green spaces.
+• For the same sound level, noise annoy-
+ance is lower than in other urban areas.
+• Leq (dB) and sharpness proved to be
+good estimators of noise perception.
+• The lower the noise, the higher the
+frequency of relaxation and walking
+activities.
+G R A P H I C A L
+A B S T R A C T
+a b s t r a c t
+a r t i c l e
+i n f o
+Article history:
+Received 30 July 2017
+Received in revised form 15 November 2017
+Accepted 13 December 2017
+Available online 27 December 2017
+Editor: P. Kassomenos
+Nowadays, urban design without green spaces is inconceivable. Environmental, social, and economic beneﬁts gen-
+erated by green spaces are essential to maintain the health and quality of life of the population and to control pol-
+lution. Therefore, urban planners and city leaders should know the interactions between the features of green
+spaces, the sociodemographic characteristics of users, and the type of use. In addition, in some studies, noise was
+found to be an essential factor in the perception of these green spaces. For this purpose, surveys and sound
+measurements were carried out simultaneously in different locations of the main green spaces of Cáceres city.
+The results of this study show that noise satisfaction has the greatest signiﬁcant relationship with overall satisfaction
+with green spaces. Different features, including satisfaction with the absence of noise, can explain 71.4% of the over-
+all satisfaction. Road trafﬁc is the most annoying sound source, but the degree of noise annoyance is lower than that
+estimated for other urban environments with similar sound levels. Walking and talking activities, emotions of fear
+and irritability, and interruptions to conversation are most often affected by noise in these urban environments. An-
+other conclusion obtained is that the highest signiﬁcant correlation coefﬁcients are between noise perception by
+users and both the equivalent continuous linear weighted sound level and sharpness. Lastly, the green-space use
+determines differences and signiﬁcant relationships with the sociodemographic characteristics. Also, the places
+in green spaces where people frequently perform walking and relaxation activities have the lowest sound levels.
+Therefore, noise is a statistically relevant factor to be considered in the design of green spaces.
+© 2017 Elsevier B.V. All rights reserved.
+Keywords:
+Urban green spaces
+Noise annoyance
+Noise effects
+Noise perception
+Acoustic environment
+Urban planning
+1. Introduction
+In the last decades, there has been a clear trend toward the depopu-
+lation of rural areas and increasing concentration of human beings in
+Science of the Total Environment 624 (2018) 438–450
+⁎ Corresponding author.
+E-mail address: guille@unex.es (G. Rey Gozalo).
+https://doi.org/10.1016/j.scitotenv.2017.12.148
+0048-9697/© 2017 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+cities. Currently 57% of the population live in agglomerations having
+populations in excess of 300,000 people, and it is estimated that
+by the year 2030, 62% of the global population will live in cities
+(UN, 2014).
+The rapid growth of cities has brought social, economic, and envi-
+ronmental challenges (EC, 2000). Five objectives in the environmental
+dimension have been deﬁned for a European vision of tomorrow's cit-
+ies: mitigate and adapt to climate change; protect, restore, and enhance
+biodiversity and ecosystems; reduce pollution; manage natural mate-
+rials resources sustainably and prevent waste; and protect, preserve,
+and manage water resources (RFSC, 2016). Populations are living in
+environments with increasing pollution, intense heat, habitat loss, de-
+clining biodiversity, and noise (EEA, 2014, 2016; IEAGHG, 2016; RFSC,
+2016). Approximately seven million people died in 2012 due to expo-
+sure to air pollution (WHO, 2014), and 60,000 disability-adjusted life
+years are lost through ischaemic heart disease due to environmental
+noise (WHO, 2011). There is a critical need to ﬁnd ways to reduce health
+risks and improve the wellbeing of citizens.
+Studies from numerous ﬁelds have analysed the beneﬁts provided
+by urban green spaces in cities and they are related with three key
+values: social, economic, and environmental (Chiesura, 2011; Sander,
+2015; Scopelliti et al., 2016; Szeremeta and Zannin, 2013). Urban
+green spaces play an important role from a social perspective by
+promoting physical activity, allowing rest or relaxation and increasing
+social interaction (Dadvand et al., 2016; Kaczynski et al., 2008; Maas
+et al., 2009; Peters et al., 2010). They therefore help to facilitate active
+lifestyles and emotions of restoration while reducing stress and social
+isolation in urban environments (Coombes et al., 2010; Grahn and
+Stigsdotter, 2003, 2010; Jay and Schraml, 2009). Urban green spaces
+also beneﬁt local residents and communities economically. Aesthetic
+and recreational values of urban green spaces increase the attractive-
+ness of a city and promote it as a tourist destination, thus generating
+employment and revenue (Jim and Chen, 2006). Water and vegetation
+also increase property values (Luttik, 2000; Sander and Haight, 2012).
+The other key value of urban green spaces is environmental beneﬁts,
+such as counteracting the urban heat island effect (Doick et al., 2014;
+Feyisa et al., 2014), reducin
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Study area
+The study was carried out in green spaces of Cáceres, a medium-
+sized city located in the southwest of Spain, whose proportion of
+green area per inhabitant is approximately 16.6 m2 per inhabitant.
+This proportion is one of the highest in the country and is greater than
+the range of 10–15 m2 per inhabitant recommended by the World
+Health Organization (Brebbia et al., 2010).
+The following urban green areas were selected for this study:
+Cánovas, Principe, Valhondo, Fernando Turégano, Fray Pacíﬁco, Perú,
+and Rodeo. Locations and aerial photos of the green spaces are shown
+in Fig. 1. The green spaces were chosen on the basis of location, size,
+and year of inauguration (see Table 1).
+These green spaces are located in densely populated urban areas and
+are representative of the different districts. They are popular green
+spaces frequently visited by citizens in Cáceres. The selected green
+spaces were large enough for the activities analysed later in the survey.
+The age of the green spaces made it possible to analyse the evolution of
+satisfaction regarding the features evaluated in previous studies.
+2.2. Surveys
+A cross-sectional study was carried out during 2014 by means of
+questionnaires administered during daytime to a random sample of
+adult visitors to the seven urban green spaces selected. Face-to-face
+interviews were conducted by trained interviewers. During the survey,
+respondents were informed about the objectives of the study and the
+time required to complete the questionnaire (about 10 min). A total of
+182 completed questionnaires were used for this study. The percentage
+of respondents compared to the total number of citizens was similar to
+that used in recent studies (Dzhambov and Dimitrova, 2015; Kaczynski
+et al., 2008) with a sufﬁcient statistical power (Fritz and Mackinnon,
+2007). The questionnaires were well distributed in terms of district,
+sampling points, size of green space, and number of visitors. In this
+way, the sample presented sociodemographic characteristics represen-
+tative of the population resident in Cáceres (see Table 2).
+In each urban green space, the sites most frequented by visitors
+were selected to conduct the surveys and the acoustic measurements
+(see Fig. 1). Interviews and acoustics measurements were carried out
+simultaneously.
+In the survey, three dimensions were analysed: satisfaction (12
+items, αCronbach = 0.79), noise annoyance (8 items, αCronbach = 0.70),
+and effects of noise (14 items, αCronbach = 0.81). The items were rated
+on a ﬁve-point Likert scale ranging from 0 (“not at all” or “never”) to 4
+(“a lot” or “very often”).
+In the ﬁrst dimension, the satisfaction with the features of urban
+green spaces was analysed. The following items were evaluated: clean-
+liness, air quality, noise, aesthetics, safety, users, conservation, location,
+size, groves, and shade. These features were selected due to their rela-
+tionship with social, economic, or environmental aspects that inﬂuence
+the overall satisfaction with green spaces. Overall satisfaction was also
+evaluated in one item. The cleanliness, aesthetics, and conservation
+along with environmental features such as groves have an inﬂuence
+on the visual assessment of the green space. In turn, these features inﬂu-
+ence the overall valuation and can inﬂuence the valuation of other
+439
+G. Rey Gozalo et al. / Science of the Total Environment 624 (2018) 438–450
+
+environmental features such as noise (Carles et al., 1999; Preis et al.,
+2015). Noise, air quality, groves, and shade are features to be considered
+in assessing the environmental beneﬁt of green spaces, as recent studies
+have shown (Jabben et al., 2015; Shen and Candice Lung, 2016). Besides,
+social and design aspects such as security, users, size, and location
+should be considered. Recent studies show that the locations and pro-
+portion of green spaces have a signiﬁcant inﬂuence on healthy habits
+(Dadvand et al., 2016; Scopelliti et al., 2016; Shen and Candice Lung,
+2016). However, the function and assessment of these features may
+be inﬂuenced by social characteristics, such as the relationship with
+users or security (López Barrios, 2001).
+Fig. 1. Map of Cáceres city (Spain) with location of the selected green spaces and sampled sites (images from Google Earth).
+Table 1
+Year of inauguration, area, and distance from the city centre of the green spaces.
+Urban green spaces
+Year of inauguration
+Area (hm2)
+Distance from the
+city centre (km)
+Cánovas
+1895
+2.1
+Downtown
+Príncipe
+1970
+22.0
+0.5
+Valhondo
+2001
+2.2
+1.3
+Fernando Turégano
+2000
+3.2
+2.0
+Fray Pacíﬁco
+1998
+1.6
+1.0
+Perú
+2002
+1.5
+0.8
+Rodeo
+2001
+10.6
+0.8
+440
+G. Rey Gozalo et al. / Science of the Total Environment 624 (2018) 438–450
+
+Also, in 2007–2008, the satisfaction dimension was studied in the
+same green spaces using the sampling procedure employed in this
+study and interviewing 234 users. The results of that analysis showed
+that noise was one of the environmental features with which users
+were less satisﬁed (see Table 3). Therefore, because of these results
+and the current interest in this environmental pollutant, in the present
+study, noise annoyance and noise effect dimensions were analysed.
+On the noise-annoyance dimension, the annoyance caused by the
+main sound sources in urban green spaces, such as road trafﬁc and
+sounds from people (voices, children, construction sites, maintenance
+services), was evaluated (Benﬁeld et al., 2010; Szeremeta and Zannin,
+2009; Torija et al., 2014). In addition, sounds from animals and water,
+which are features of these urban spaces, were evaluated (Barrigón
+Morillas et al., 2013). Lastly in this dimension, users were asked about
+the overall noise annoyance in urban green spaces.
+With regard to the noise effects dimension, the frequency of noise-
+induced emotions (irritability, anxiety, disorientation, fear, earache),
+the frequency with which the activities carried out in green spaces
+(talking, reading, relaxing, walking, exercising) were disturbed
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. The green spaces were chosen on the basis of location, size,
+Table 1).
+Table 2).
+Fig. 1). Interviews and acoustics measurements were carried out
+Fig. 1. Map of Cáceres city (Spain) with location of the selected green spaces and sampled sites (images from Google Earth).
+Table 1
+Table 3). Therefore, because of these results
+Fig. 1 shows the locations of sampling points in each urban green space.
+Table 2
+Table 3
+Fig. 2). The separation between the stages of the merger is
+Fig. 2(a) and it was 15 in Fig. 2(b).
+Table 3 shows the development of the level of user satisfaction with
+Table 3). Noise was also the worst feature valuated
+Fig. 2. Dendrograms obtained from hierarchical cluster analysis (Ward's method). The inputs to the analysis were the satisfaction with the features of urban green spa
+Fig. 2(a)]. However, the mean satisfaction with
+Table 3). Therefore, user satisfac-
+Fig. 3. In this partial correlation analysis, the possible inﬂuence of the
+Fig. 2(a)].
+Fig. 3 shows that groves, safety, location, aesthetic and size do not
+Fig. 3).
+Table 4). These features also have
+Table 5. The values 0, 1, 2, 3 and 4 shown in Tables 5 and 6
+Table 6 shows the practical results of using the multinomial logistic
+Table 6).
+
+======================================================================
+
+### RECORD ID=520 | screening_verdict=INCLUDE | year=2019
+JOURNAL: ACTA ACUSTICA UNITED WITH ACUSTICA
+TITLE: An Exploratory Study on the Influence of Activities on Public Space Users' Descriptions of Their Auditory Environments on Site: The Case of Amsterdam
+DOI: 10.3813/aaa.919327
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+COVER PAGE
+Document downloaded by @DAEL
+Sun Aug 2 15:00:19 2026
+For personal use
+When automatic English translation is provided, only the original document
+is authentic.
+The EAA cannot be held responsible of any translation error
+Bibliographical reference
+An Exploratory Study on the Influence of Activities on Public Space Users’
+Descriptions of Their Auditory Environments on Site: The Case of
+Amsterdam, Edda Bild, Karin Pfeffer, Matt Coler and Luca Bertolini, Acta
+Acustica vol. 105 (Number 3), 2019, pp. 449-463
+DOI
+https://doi.org/10.3813/AAA.919327
+
+ACTA ACUSTICA UNITED WITH ACUSTICA
+Vol. 105 (2019) 449 – 463
+DOI 10.3813/AAA.919327
+An Exploratory Study on the Inﬂuence of
+Activities on Public Space Users’ Descriptions of
+Their Auditory Environments on Site: The Case
+of Amsterdam
+Edda Bild1), Karin Pfeﬀer2), Matt Coler3), Luca Bertolini1)
+1) Urban Planning, Department of Geography, Planning and International Development,
+University of Amsterdam, 1018 WV Amsterdam, Amsterdam. a.e.bild@uva.nl
+2) Department of Urban and Regional Planning and Geo-Information Management,
+University of Twente, Drienerlolaan 5, 7522 NB Enschede, The Netherlands
+3) University of Groningen, Campus Fryslân, Sophialaan 1, 8911 AE Leeuwarden, The Netherlands
+Summary
+This paper is an exploration into whether public space users performing diﬀerent activities describe their auditory
+environments in noticeably diﬀerent ways. Building on soundscape and psycholinguistic literature, a question-
+naire study was conducted in a large park in Amsterdam (NL), where 92 park users described, in writing, their
+activities and auditory environments. Users’ self-reported activities were categorized based on their level of social
+interaction (solitary vs. socially interactive), and using open coding, generating categories of activities grouped
+by semantic range. The written corpus on auditory environment descriptions was analysed through a proposed
+classiﬁcatory framework, coding descriptions at three semantic and one syntactic level. We preliminarily tested
+whether there are associations between various categories of activities and of auditory environment descriptions,
+categorized at diﬀerent levels. Our results suggest that, while for detailed levels of activity categorization there
+were no non-distinct patterns, the level of social interaction of users’ activities has an observable eﬀect over
+users’ descriptions of their auditory environments. This holds particularly in relation to types of sounds listed, as
+well as for diﬀerences in descriptions at a syntactic level. These ﬁndings point towards subtly diﬀerent auditory
+experiences in the same public space for users performing solitary or socially interactive activities.
+PACS no. 43.66.Lj
+1.
+Introduction
+The ways urban public spaces are used are intimately con-
+nected with their users’ multisensory experiences of the
+spaces. The activities that they perform in public spaces
+are inﬂuenced by and inﬂuence, in turn, how their envi-
+ronments appear, sound or feel. Repeated calls have been
+made to acknowledge the importance of a sensual / sensu-
+ous understanding of the city, both in practices for investi-
+gating and “making” the city, driven by growing recogni-
+tion of the relevance of the other senses for the urban ex-
+perience ([1, 2, 3, 4, 5] inter alios). However, mainstream
+research and design initiatives remain overwhelmingly fo-
+cused on visual aspects (see e.g. Ibid., [6]). In this con-
+text, soundscape studies focus speciﬁcally on sound and
+the auditory dimensions of urban experiences, aiming to
+understand the ways public space users describe, interpret,
+evaluate and overall relate to and act upon their auditory
+Received 1 May 2018,
+accepted 6 April 2019.
+environments ([7, 8], see [9] and [10] for reviews). Build-
+ing upon the latter, we base our paper on a question that
+arises from everyday situations: to what extent does a pub-
+lic space user’s activity inﬂuence how they describe what
+they hears?
+Human beings are rather quick to evaluate auditory en-
+vironments as “good enough” (suitable) for the activities
+they want to perform, even if this evaluation could be
+unintentional or unconscious. How many times have you
+thought: “This park is too loud for me to read, I can’t focus
+with all this noise around me”, or “This park is perfect for
+our barbecue, it’s so wonderfully lively”. In communicat-
+ing auditory experiences to each other, the “same” park be-
+comes, then, both “too loud” and “wonderfully lively”. We
+have diﬀerent auditory needs, expectations and, ultimately,
+experiences that depend, among others, on social, cultural,
+personal or contextual factors, on our activities and the
+ways in which we engage with our spaces. We contend that
+these diﬀerences are apparent in the ways we describe our
+auditory environments. Understanding how users of public
+spaces talk about their auditory experiences in context and
+in relation to their activities can yield valuable insights for
+© S. Hirzel Verlag · EAA
+449
+Document downloaded by @DAEL, 2026-08-02 15:00:22 - personal use only
+
+ACTA ACUSTICA UNITED WITH ACUSTICA
+Bild et al.: An exploratory study
+Vol. 105 (2019)
+researchers and urban designers, as it might be closer to
+users’ experiences than when they are asked to complete
+a survey with closed-ended questions or to participate in a
+controlled laboratory study.
+Soundscape research has indicated that activities play
+an important role in inﬂuencing users’ auditory environ-
+ment evaluations [11, 12, 13, 14, 15] as well as their spon-
+taneous descriptions or categorizations, both on site and
+in laboratory conditions [26, 17]. Despite this sparse sci-
+entiﬁc evidence, studies explicitly and systematically fo-
+cusing on the role of activity as potentially mediating au-
+ditory environment descriptions have yet to be conducted
+(see [18, 19] for a pilot study using an experimental setting
+and [20] for a proposed larger scale experimental setup;
+[21]). This paper proposes an exploratory investi
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+Soundscape research oﬀers a variety of data collec-
+tion methods to study the auditory experience by rely-
+ing on qualitative, free verbalizations (including open-
+ended questions in questionnaires, interviews, commented
+soundwalks – see [56, 10] for reviews), as well as ap-
+proaches for analysing the resulting written corpus (e.g.
+grounded theory methodology [57] or content analysis
+451
+Document downloaded by @DAEL, 2026-08-02 15:00:22 - personal use only
+
+ACTA ACUSTICA UNITED WITH ACUSTICA
+Bild et al.: An exploratory study
+Vol. 105 (2019)
+Table I. Selection of questions from original questionnaire. Original Dutch, and English translation (by authors).
+Question (NL)
+Question (EN)
+Denk terug aan uw activiteiten in dit park vandaag en
+beschrijf deze zo uitgebreid mogelijk. Wat viel u op
+tijdens het uitvoeren van uw activiteiten in dit park?
+Think back at your activities in this park today and describe
+them in as much detail as possible. What caught your atten-
+tion during the activities that you performed in this park?
+Beschrijf wat u hoorde tijdens het uitvoeren van uw
+activiteiten in dit park.
+Please describe what you heard during the activities that you
+performed in the park.
+Hoe zou u wat u hoorde tijdens het uitvoeren van de
+activiteiten omschrijven aan een kennis die niet bekend
+is met dit park?
+How would you describe what you heard during the
+activities that you performed to someone you know
+that is not familiar with this park?
+Waarom bent u vandaag naar dit park gekomen?
+Why did you come to this park today?
+method [58]; for a diﬀerence between the two, see [59]). In
+this study, we developed a questionnaire with a set of four
+open-ended questions, to study the potential relationships
+between categories of activities emerging from the data
+and the descriptions of auditory environments coded at se-
+mantic and syntactic levels. We tested whether users per-
+forming diﬀerent activities have diﬀerent auditory experi-
+ences outside laboratory conditions; moving outside of the
+lab meaning sacriﬁcing environmental control in favour of
+investigating users’ experiences in a real-life context, un-
+der everyday life conditions, thus trading a decrease in in-
+ternal validity with an increase in ecological validity (for
+a discussion on the value of ecological validity, see [51]).
+3.1.
+Data collection
+3.1.1.
+Questionnaire
+The questionnaire included a mix of closed and open-
+ended questions and tasks. The design of the question-
+naire was based on previous research instruments that re-
+lied on open-ended questioning and free verbalizations
+[60, 25, 26]. Its aim was to access users’ individual ex-
+periences of public space and their auditory environments,
+at the time of the data collection, and how they shared their
+experiences through language. The 16 questions, alternat-
+ing between closed and open-ended, were phrased to mini-
+mize negative connotations of terms used and to avoid im-
+posing a specialized terminology (see [38] for an overview
+of the closed ended questions). This, we contend, allowed
+users to describe their experience in a manner as similar
+to their everyday language as possible [60]. To those ends,
+we also put particular emphasis on the order of questions
+(see [26] p. 115–116 for a review).
+The questionnaire started with a general description of
+users’ experiences (both of the space and their auditory
+environments), progressively going into more detail on
+their evaluations of their auditory environments in rela-
+tion to their activity and their expectations, and ended with
+users’ personal details (expectations, familiarity with the
+space and with what they heard, and demographic charac-
+teristics). The questionnaire was part of a larger research
+project and, in here we focus on the responses to four
+open-ended questions, listed in Table I (the original Dutch
+formulation alongside the English translation). First, for
+the description of activity, we asked users to describe their
+activities in the park and afterwards why they came to
+the park that day. Second, for their descriptions of their
+auditory environments, we asked them to complete two
+tasks: to describe their auditory environments during their
+time in the park (referred to as “description to researcher”
+hereinafter – “DR”) and to imagine how they would de-
+scribe that to someone else who is not familiar with that
+park (referred to as “description to others” hereinafter –
+“DO”). The idea behind using two diﬀerently phrased
+tasks was based on the assumption that users would expect
+researchers and other potential users of the park to look for
+diﬀerent insights on their on-site auditory experiences, as
+they would be using and collecting this information for
+diﬀerent purposes.
+3.1.2.
+Location
+Oosterpark is a busy urban park in the East of Amster-
+dam, which recently doubled in size as part of a large-
+scale renovation project3; it hosts a number of festivals on
+its large grass ﬁelds on a regular basis4. The park is de-
+signed to be predominantly green (with a large number of
+trees and grass ﬁelds) and due to its size, it can be split
+in sub-sections. For this preliminary study, we selected an
+urban park because of the likelihood of a large number of
+users conducting a relatively small number of types of ac-
+tivities. In addition, urban parks oﬀer a clearer boundary
+between those performing activities that engage the space
+for extended periods of time (that we consider here public
+space users) and passers-by, when compared to e.g. urban
+squares, where the distinction is less clear-cut.
+We completed our data collection in two sub-sections,
+marked in the plan in Figure 2 as S1 (Figure 1, left) and
+S2 (Figure 1, right). The sub-sections have diﬀerent de-
+signs, available amenities and green-to-built ratios. Sub-
+section S1 Oosterpark is a large open space with minimal
+amenities: a central oval-shaped grass ﬁeld, surrounded by
+a pavement-based pathway lined with sparsely distributed
+3 Information available online, in Dutch, on 
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 2 as S1 (Figure 1, left) and
+Figure 1, right). The sub-sections have diﬀerent de-
+Figure 1. Sub-sections S1 (left) and S2 (right) of Oosterpark. Source image left: ﬁrst author. Source image right: Newspaper “Het
+Figure 2. Plan of the Oosterpark and data collection sub-sections
+Figure 3. Classiﬁcatory framework to analyse users’ descriptions of their auditory environments Semantic analysis.
+Figure 3) in-
+Figure 4. Level 1 of semantic analysis. Type of description. So-
+Figure 4, we observe that, for their DRs, SI users (upper
+Figure 5 illustrates the coding of responses per detailed
+Figure 6 also shows that direct human sounds dominated
+Figure 5. Level 1 of semantic analysis. Type of description. De-
+Figure 6. Level 2 of semantic analysis. Type of sounds listed. SI
+Figure 7 shows the trend in the types of sounds that users
+Figure 8 showed that
+Figure 7. Level 3 of semantic analysis. Detailed types of sound
+Figure 8. Syntactic analysis. Phrases used in descriptions. SI vs.
+
+======================================================================
+
+### RECORD ID=532 | screening_verdict=INCLUDE | year=2019
+JOURNAL: PEERJ
+TITLE: Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons
+DOI: 10.7717/peerj.7711
+PAGES: 42
+
+--- HEAD (title/abstract/intro) ---
+Eﬀect of Birdsongs and Traﬃc Noise on Pedestrian Walking
+Speed during Diﬀerent Seasons
+Marek Franek 
+Corresp., 1 , Lukáš Režný 
+1 , Denis Šefara 
+1 , Jiří Cabal 
+1
+1 Faculty of Informatics and Management, University of Hradec Králové, Hradec Králové, Czech Republic
+Corresponding Author: Marek Franek
+Email address: marek.franek@uhk.cz
+Many studies have explored the eﬀects of auditory and visual stimuli on the perception of
+an environment. However, there is a lack of investigations examining direct behavioral
+responses to noise in speciﬁc environments. In this study, a behavioral variable, walking
+speed, was analyzed, as a response to the sounds and visual features of a speciﬁc
+environment. The study examined the eﬀects of birdsongs compared to traﬃc noise on
+walking speed in a real outdoor urban environment. It was supposed that the interaction of
+audition and vision in the perception of an environment may also be shaped by the
+perceived congruence of the visual and auditory features of the environment. The
+participants (N = 87 and N = 65), young university students, walked along a 1.8-km urban
+route. They listened to a soundtrack of crowded city noise or birdsongs, or they walked in
+the real outdoor environment without listening to any acoustic stimuli. To investigate the
+eﬀect of the congruence between acoustic and visual stimuli, the experiment was
+conducted in two diﬀerent seasons (fall and spring). The results did not show signiﬁcant
+diﬀerences between the crowded city noise condition and the real outdoor condition.
+Listening to the soundtrack with birdsongs decreased walking speed, but this eﬀect was
+signiﬁcant only in the experiment conducted in spring. These ﬁndings can be explained in
+terms of the congruence between the sounds and the visual environment. The ﬁndings
+raise questions regarding the restorative function of urban greenery during diﬀerent
+seasons.
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+1
+ Effect of Birdsongs and Traffic Noise on 
+2
+Pedestrian Walking Speed during Different 
+3
+Seasons 
+4
+5
+Marek Franěk1, Lukáš Režný1, Denis Šefara1, Jiří Cabal1
+6
+7
+1 Faculty of Informatics and Management, University of Hradec Králové, Hradec Králové, Czech 
+8
+Republic
+9
+10
+ 
+11
+Corresponding Author:
+12
+Marek Franěk1
+13
+Rokitanského 62, Hradec Králové, 500 03, Czech Republic
+14
+Email address: marek.franek@uhk.cz
+15
+16
+ABSTRACT
+17
+Many studies have explored the effects of auditory and visual stimuli on the perception of an 
+18
+environment. However, there is a lack of investigations examining direct behavioral responses 
+19
+to noise in specific environments. In this study, a behavioral variable, walking speed, was 
+20
+analyzed as a response to the sounds and visual features of a specific environment. The study 
+21
+examined the effects of birdsongs in comparison to traffic noise on walking speed in a real 
+22
+outdoor urban environment. It was supposed that the interaction of audition and vision in the 
+23
+perception of an environment may also be shaped by the perceived congruence of the visual and 
+24
+auditory features of the environment. The participants (N = 87 and N = 65), young university 
+25
+students, walked along a 1.8-km urban route. They listened to a soundtrack of crowded city 
+26
+noise or birdsongs, or they walked in the real outdoor environment without listening to any 
+27
+acoustic stimuli. To investigate the effect of the congruence between acoustic and visual 
+28
+stimuli, the experiment was conducted in two different seasons (fall and spring). The results did 
+29
+not show significant differences between the crowded city noise condition and the real outdoor 
+30
+condition. Listening to the soundtrack with birdsongs decreased walking speed, but this effect 
+31
+was significant only in the experiment conducted in spring. These findings can be explained in 
+32
+terms of the congruence between the sounds and the visual environment. The findings raise 
+33
+questions regarding the restorative function of urban greenery during different seasons.
+34
+35
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+36
+INTRODUCTION
+37
+38
+Several decades ago, some cultural anthropologists created the concept of pace of life. This 
+39
+concept proposes that daily life follows a certain rhythm. The pace of life has been studied in 
+40
+large cities across geographic locations, operationalized as the temporal aspect of various daily 
+41
+behaviors and activities. Early research examined walking speed, the speed with which postal 
+42
+clerks completed a simple request, time punctuality, etc., in downtown areas of large cities 
+43
+(Werner, Altman, and Oxley, 1985). More recent studies searched, for instance, for a rate of 
+44
+tweets on the social media platform Twitter as a function of population density (Gross, Murthy, 
+45
+and Varshney, 2017). A fast pace of life may be a response to stimulatory overload and various 
+46
+urban stressors, including crowding and traffic noise (e.g., Bornstein & Bornstein, 1976). There 
+47
+is evidence that stressful sounds increase arousal, which activates the internal clock. They may 
+48
+also result in the acceleration of walking speed (Ozel, Larue, and Dosseville, 2004).
+49
+50
+Urban pedestrian walking speed was investigated mainly in the 1970s and the 1980s 
+51
+(Bornstein and Bornstein, 1976; Kirkcaldy, Furnham, Levine, 2001; Levine and Bartlett, 1984; 
+52
+Lowin et al., 1971; Walmsley and Lewis,1989). Importantly, the results of more recent research 
+53
+suggest that the walking speed in large cities may gradually increase (Wiseman, 2007). Previous 
+54
+investigations also documented the negative health consequences of a fast pace of life, including 
+55
+walking speed. It was shown that a fast pace of life is associated with a high likelihood of heart 
+56
+attacks (e.g., Evans, 1984; Levine and Bartlett, 1984). A fast movement speed and speed of other 
+57
+daily activities has been interpreted in parallel to
+
+--- METHODS/RESULTS EXCERPT ---
+METHODS
+282
+283
+Stimulus material
+284
+285
+There were three conditions. The participants listened to a soundtrack with relaxation 
+286
+nature sounds or a track with traffic noise; they did not listen to any soundtrack under the real 
+287
+outdoor noise condition. The soundtrack from the video “Forest Birdsong - Relaxing Nature 
+288
+Sounds - Birds Chirping”, available on YouTube 
+289
+(https://www.youtube.com/watch?v=Qm846KdZN_c), was selected as the nature sound. The 
+290
+track consists of the sound of birds singing. The track lasted approximately 2 hours. The 
+291
+soundtrack from the video “Hectic Kolkata (Calcutta) – India”, available on YouTube 
+292
+(https://www.youtube.com/watch?v=IFc2KhKLiho), was selected as the crowded city noise. The 
+293
+track contains noise from motorized vehicles, engine sounds, automobile horns, and human 
+294
+voices. The track was modified using the software Audacity because of its short length to have a 
+295
+length of 38 minutes and 43 seconds, corresponding to the length of the participants’ walk. The 
+296
+sound levels of the tracks were adjusted to a comfortable level and did not differ among 
+297
+participants. The mean sound pressure levels were as follows: forest birdsong - 56 dB(A) (a 
+298
+relatively high magnitude of the mean sound pressure level reflects higher differences between 
+299
+thesound levels of a silent background and the birdsongs), and crowded city noise - 53 dB(A). 
+300
+The participants listened to the tracks, which were played on a cell phone.
+301
+302
+The sounds were listened to through lightweight headphones Genius HS-M200C. For 
+303
+safety reasons, headphones did not entirely mask sounds from the outside. Participants assigned 
+304
+to the real outdoor noise condition did not wear headphones while walking. 
+305
+306
+Walking route
+307
+308
+The experiment was conducted in Hradec Králové in the Czech Republic. This city is 
+309
+located in the northeastern part of the Czech Republic and has approximately 100,000 
+310
+inhabitants. The walking route was a circuit with a length of approximately 1.8 km (see Figure 
+311
+1). The route was located in areas with minimal movement of other pedestrians; thus, walking 
+312
+speed was not affected by the flow of other pedestrians. Eight sections were chosen for the 
+313
+analysis of walking speed. The sections were chosen to provide a direct route and avoid 
+314
+crossroads or other obstacles. The lengths of the sections ranged from 45 to 100 meters. The first 
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+315
+part of the route was an oak alley along a river (sections 1 - 3). There was no street with traffic 
+316
+close to this area. Traffic noise in these sections was approximately Lday = 55 - 60 dB(A) 
+317
+(Hlukové mapy, 2012). Section 4 was located still in the oak alley, but it was closer to a road 
+318
+with dense traffic. Traffic noise was approximately Lday = 60 - 65 dB(A) (Hlukové mapy, 
+319
+2012). Sections 5 and 6 went along a busy road, where cars, buses, and trucks were driving. On 
+320
+one side of the route, there was a busy road, while on the other side, there were low trees and 
+321
+open areas with a lawn. Traffic noise in these sections was approximately Lday = 75-80 dB(A) 
+322
+(Hlukové mapy, 2012). The final part of the route (sections 7 and 8) went along a different street 
+323
+with less traffic. On one side of the route was a street, while on the other side, there were low 
+324
+trees and open areas with a lawn. The traffic noise in section 7 was approximately Lday = 65 - 70 
+325
+dB(A), and in section 8, it was approximately Lday = 55 - 60 dB(A) (Hlukové mapy, 2012).
+326
+327
+Measurement of walking speed
+328
+329
+The participants walked with a small video camera (i.e., a Sony Bloggie MHS-PM5K) on 
+330
+a belt around their waist (size 19 x 108 x 55 mm, weight 110 g). The environment, the 
+331
+participant’s feet, and the participant’s arms were captured through a fish eye lens. Beginning 
+332
+and end of each section of the route was indicated by a line drawn on the sidewalk. An evaluator 
+333
+marked two frames of the video recording to create the beginning and end of the annotation for 
+334
+each particular track section in the software Elan (see https://tla.mpi.nl/tools/tla-tools/elan/). 
+335
+Every annotation represented the entire section of the track, so that the extent of time subjects 
+336
+spent there could be determined. This enabled to calculate the average speed reached by the 
+337
+participants in all sections. 
+338
+339
+ Evaluation of walk experience
+340
+341
+The participants rated their experience during their walk and their enjoyment of the 
+342
+environment using the following four items: (1) I was fine during the walk, (2) It was a pleasant 
+343
+time, (3) I liked the route I went through, and (4) The sounds I listened to from my headphones 
+344
+bothered me. They were required to rate agreement or disagreement with these items using a 7-
+345
+point Likert-type scale with anchors 1 = absolutely disagree and 7 = absolutely agree.
+346
+347
+Data analysis
+348
+349
+The mean walking speeds were calculated for specific sections of the route. A two-way 
+350
+mixed analysis of variance (ANOVA) was conducted to access the effects of the condition 
+351
+(forest birdsong, crowded city noise, real outdoor noise), and the section of the route (1-8) on 
+352
+walking speed. Greenhouse-Geisser correction was applied based on the test's Epsilon (ε) where 
+353
+assumption of sphericity was violated as assessed by Mauchly’s test of sphericity. Differences 
+354
+between reported evaluations of the walk experience under particular conditions were compared 
+PeerJ reviewing PDF | (2019:01:34371:2:0:NEW 13 Aug 2019)
+Manuscript to be reviewed
+
+355
+by using a one-way ANOVA or t-test for independent samples. Some participants did not answer 
+356
+to questions related to the evaluations of the walk experience. They were excluded from the 
+357
+statistical analysis. Statistical analyses were co
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 
+311
+Table 1). The 
+Table 2 and Figure 2.
+Table 3. It was examined how the agreement 
+Figure 2), the post hoc test did not indicate statistical 
+Table 1). The grass was bright green, and the trees had leaves
+Table 4 and Figure 2. 
+Table 5. It was examined how the agreement 
+Figure 2 show clear differences between Experiment 1 and 
+Table 1(on next page)
+Table 2(on next page)
+Table 3(on next page)
+Table 4(on next page)
+Table 5(on next page)
+Figure 1
+Figure 1
+Figure 2
+Figure 2
+
+======================================================================
+
+### RECORD ID=560 | screening_verdict=INCLUDE | year=2019
+JOURNAL: URBAN FORESTRY & URBAN GREENING
+TITLE: Perceptions and use of urban green spaces on the basis of size
+DOI: 10.1016/j.ufug.2019.126470
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Contents lists available at ScienceDirect
+Urban Forestry & Urban Greening
+journal homepage: www.elsevier.com/locate/ufug
+Perceptions and use of urban green spaces on the basis of size
+Guillermo Rey Gozaloa,b, Juan Miguel Barrigón Morillasa,⁎, David Montes Gonzálezc,a
+a Departamento de Física Aplicada, Escuela Politécnica, Universidad de Extremadura, Avda. de la Universidad s/n, 10003 Cáceres, Spain
+b Facultad de Ciencias de la Salud, Universidad Autónoma de Chile, 5 Poniente 1670, 3460000 Talca, Chile
+c ISISE, Departamento de Engenharia Civil, Universidade de Coimbra, Luis Reis dos Santos 290, Coimbra, Portugal
+A R T I C L E I N F O
+Handling Editor: Dobbs Cynnamon
+Keywords:
+Health
+Noise
+Park features
+Small parks
+Social and physical activities
+Urban management
+A B S T R A C T
+Urban green spaces have a beneficial effect on the health and well-being of citizens. The features of such spaces
+and users’ satisfaction with them determine the type and frequency of activities conducted inside parks.
+Understanding the relationships among these aspects is important for promoting adequate designs for these
+spaces. On the other hand, the limited availability of urban surface area in many cities determines the size of
+parks. The effect of size on people’s satisfaction and their use of parks is an aspect that has not been studied in
+depth in the scientific literature. Therefore, this study aimed to examine the relationships between citizens’
+perceptions of the parks’ features and their uses as a function of their size. For this purpose, surveys were
+conducted in large and small green spaces. The results showed the importance of considering noise in the
+management of both types of parks to improve overall satisfaction. In addition, overall satisfaction was related to
+visual aspects (conservation) in large parks, and social aspects (safety and users) in small parks. Suitably de-
+signed canine and play areas in large parks and functionality for the streets surrounding small parks can con-
+tribute to reducing noise annoyance. This study showed that the size of green spaces has a positive correlation
+with the frequency of walking, exercising and relaxing. Furthermore, improving some environmental features
+would also help to increase the frequency of these activities. In this regard, the existence of groves played an
+important role in promoting physical activity in both types of parks, and the quality of the air and the absence of
+noise contributed to relaxation in large parks.
+1. Introduction
+Population growth in cities will bring environmental, social and
+health challenges (UN, 2017). Green spaces play an important role in
+modulating human health and social well-being in the urban environ-
+ment (Bedimo-Rung et al., 2005).
+The presence of urban green spaces in cities generates economic and
+environmental benefits. Urban green spaces help to improve air quality
+(Escobedo et al., 2011; James et al., 2015), reduce the urban heat island
+effect (Shisegar, 2014), mitigate runoff (Zhang et al., 2015), reduce
+healthcare costs (Cox et al., 2017), increase property values for homes
+that are nearby or overlook them (Morancho, 2003), maintain urban
+biodiversity (Fontana et al., 2011), promote green spaces as tourist
+destinations, and generate revenue (Jim and Chen, 2006).
+Specifically analysing the direct benefits of green spaces to citizens,
+numerous studies show that the presence of parks in residential areas
+increases social contact and cohesion (Peters et al., 2010; Dadvand
+et al., 2016) and decreases stress (Nieuwenhuijsen et al., 2017). Their
+presence also promotes physical activity and may be linked with greater
+health benefits than in other settings (Mitchell and Popham, 2008;
+Vujcic et al., 2018).
+Research has shown the positive influence of quiet urban areas as a
+possible measure to mitigate the effect of noise (Öhrström et al., 2006).
+However, some studies (Cohen et al., 2014; Tse et al., 2012) show that
+noise levels in urban green spaces are significantly higher than values
+recommended by the European Environmental Agency (EEA) for quiet
+areas (EEA, 2014). Koprowska et al. (2018) conclude that noise levels
+have the biggest influence on noise perception, even though people feel
+less annoyed by noise when surrounded by greenery (Cassina et al.,
+2017; Dzhambov et al., 2018). Although there are different sources of
+urban noise (Bunn and Zannin, 2016; Gagliardi et al., 2018; Bernardini
+et al., 2019), road traffic is the largest source of noise pollution (WHO,
+2018). Prolonged exposure to noise can have negative effects on health,
+such as sleep disturbances (Halperin, 2014), annoyance (Miedema and
+Oudshoorn,
+2001),
+cardiovascular diseases
+(Babisch, 2014),
+and
+learning impairment (Klatte et al., 2013). Thus, noise studies have been
+conducted around different aspects in urban environments: sampling
+strategies (Barrigón Morillas et al., 2018), sound sources (Barrigón
+https://doi.org/10.1016/j.ufug.2019.126470
+Received 17 May 2019; Received in revised form 19 August 2019; Accepted 27 September 2019
+⁎ Corresponding author.
+E-mail addresses: guille@unex.es (G. Rey Gozalo), barrigon@unex.es (J.M. Barrigón Morillas), davidmg@unex.es (D. Montes González).
+Urban Forestry & Urban Greening 46 (2019) 126470
+Available online 30 September 2019
+1618-8667/ © 2019 Elsevier GmbH. All rights reserved.
+T
+
+Morillas et al., 2013), noise monitoring (Zambon et al., 2018), action
+plans (Licitra et al., 2017) or noise mitigation (Fredianelli et al., 2019).
+Literature reviews conducted by Bedimo-Rung et al. (2005) and
+McCormack et al. (2010) show that the relationship between green-
+space use and health is well established, but research establishing a
+relationship between features of green spaces and the frequency of their
+use is lacking. These literature reviews have been cited recently,
+highlighting this deficiency in the literature (Triguero-Mas et al., 2015;
+Vujcic et al., 2018). Determination of green-space features that influ-
+ence how 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology
+2.1. Selection of urban green spaces
+The city of Cáceres was an optimal place for this study. Cáceres is
+located in southwest Spain and has 19.8 m2 of green space per capita
+(http://sig.caceres.es/?lang=en). This value is one of the highest in the
+country
+(Fuller
+and
+Gaston,
+2009).
+In
+2014,
+Cáceres
+had
+an
+Fig. 1. Location of the selected green spaces in the city of Cáceres (a) and
+sampling points within the studied green spaces (b) (For interpretation of the
+references to colour in this figure legend, the reader is referred to the web
+version of this article.).
+G. Rey Gozalo, et al.
+Urban Forestry & Urban Greening 46 (2019) 126470
+2
+
+approximate population of 96,500.
+Parks of different sizes close to the city centre (distance < 1.5 km)
+and emblematic of each district were selected for this study (Fig. 1).
+These green spaces are close to the population residing in the districts
+(distance < 1 km). The accessibility of green spaces is taken into ac-
+count when considering their use (Schipperijn et al., 2017; Wang et al.,
+2015).
+The green spaces were classified into two groups based on their size:
+- Large urban green spaces: Príncipe (22.0 ha) and Rodeo (10.6 ha).
+- Small urban green spaces: Valhondo (2.2 ha), Fernando Turégano
+(3.2 ha), Fray Pacífico (1.6 ha), Perú (1.5 ha) and, Antonio Canales
+(0.5 ha).
+Parks with an area greater than 10 ha were considered large urban
+green spaces, considering that the total land area of Cáceres is ap-
+proximately 17.7 km2.
+2.2. Questionnaire
+This study was based on a questionnaire conducted in 2014 at se-
+lected sampling points within green spaces. These points were selec-
+tively located in frequented areas that contain different features and
+accommodate different uses, and collectively they cover approximately
+the whole surface of the park (Fig. 1b). A similar number of ques-
+tionnaires were administered at each sampling site. The interviewers
+walked to the sampling point of the green space and users were asked to
+participate in the survey. If one user refused to participate, a new
+person was requested. Once the user was surveyed, the interviewers
+moved to another sampling point. All selected interviewees were over
+18 years old. During the face-to-face questionnaire, interviewees were
+informed about the objectives of the study and, they voluntarily agreed
+to participate. Each interview lasted approximately 10–15 min. The
+response rate was 53%. Two hundred and ten questionnaires were
+completed in large and small green spaces. Recent studies in urban
+green spaces have used a similar sample size (Kothencz and Blaschke,
+2017; Vujcic et al., 2018). The power of the subsequent statistical tests
+was at least 0.8 for the sample size obtained in this study (Cohen,
+1988). The demographic characteristics of the respondents were similar
+in both types of parks. The share of males and females was close to even
+(53% females in large parks and 51% females in small parks). In ad-
+dition, the age structure did not present significant differences between
+the two types of green spaces (p > 0.05 according to a Chi-squared
+test) as shown in Fig. 2.
+Three categories were analysed in the questionnaire: satisfaction
+with green space features (12 items), noise annoyance (8 items), and
+use of green spaces (6 items). All items were evaluated using a 5-point
+Likert scale (0 – ‘not at all’ or ‘never’, 1 – ‘a little’ or ‘rarely’, 2 –
+‘moderately’ or ‘sometimes’, 3 – ‘quite’ or ‘often’, 4 – ‘a lot’ or ‘very
+often’).
+The following features were evaluated in the first category: clean-
+liness, air quality, absence of noise, aesthetics, safety, users, conserva-
+tion, location, size, shade, and groves. Overall satisfaction was also
+assessed in one item. The level of user satisfaction with these features
+was questioned in this first category. These features were selected for
+their relationship with social, environmental, or design aspects that
+influence overall satisfaction with green spaces. Cleanliness, aesthetics,
+conservation, and groves influence the visual assessment of a green
+space. Some studies include all of these features within the aesthetic
+characteristic (McCormack et al., 2010). Absence of noise, air quality,
+groves, and shade are features considered when assessing the en-
+vironmental benefits of green spaces (James et al., 2015). Location and
+size are design aspects that can influence the use of green spaces
+(Schipperijn et al., 2010). Social aspects, such as the relationship with
+users or security, were also considered. Crime and anti-social behaviour
+are perceived risks from urban green spaces (WHO, 2016).
+Parks are potentially quiet areas. Conserving quiet areas is an ob-
+jective given priority by the WHO (WHO, 2018). Rey Gozalo and
+Barrigón Morillas (2017) indicate that the absence of noise is the most
+influential environmental feature determining the overall perception of
+a quiet urban area. Thus, the degree of annoyance caused by the main
+sound sources in these green spaces (road traffic, children, screams,
+construction sites, maintenance services, animals, and water) was
+questioned in the second category of the questionnaire. Users were also
+questioned about overall noise annoyance in urban green parks.
+Moreover, sound levels were measured. Interviews and sound mea-
+surements were carried out simultaneously. Equivalent sound level
+(Leq) recorded with a binaural recording device (Noise Book from Head
+Acoustics) was analysed for this study. The guidelines of the ISO 1996-2
+standard were followed for measuring during favourable meteor-
+ological conditions and for locating the microphone (ISO 1996-2,
+2007ISO 1996-2, 2007).
+The frequency at which users conducted activities in these green
+spaces was analysed in the last category of the questionnaire. The fol-
+lowing activities were analysed: reading, taking children outside, re-
+laxing, exercising, walking, and talking.
+2.3. Statistical analysis
+The users' perception of the different variables was evaluated with 
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Location of the selected green spaces in the city of Cáceres (a) and
+Fig. 1).
+Fig. 1b). A similar number of ques-
+Fig. 2.
+Fig. 2. Age structure of the selected samples in the two types of green spaces.
+Table 1. The average and median ratings given to
+Table 1). In contrast, the location of
+Table 1).
+Table 1). The
+Fig. 3; p > 0.05 according to a
+Table 1. The difference in size
+Fig. 4. NDVI was taken from the open-access web
+Fig. 4). The 2015 map of tree-cover
+Table 1
+Fig. 3. Equivalent continuous sound levels (dBA) measured in the small and
+Table 1).
+Table 2). Therefore, features
+Fig. 4. Normalised difference vegetation index (NDVI) obtained from the parks studied. This image was taken from the open-access web interface Land Viewer
+Fig. 3). Furthermore, satisfaction with the absence of noise
+Table 2).
+Table 3). The selection of independent variables was performed using
+Table 3 are the values of the 5-point Likert scale used in the
+Table 3 because it was the
+Table 3). Therefore, these fea-
+Table 4. This result was predictable
+
+======================================================================
+
+### RECORD ID=602 | screening_verdict=INCLUDE | year=2020
+JOURNAL: BUILDING AND ENVIRONMENT
+TITLE: Comparing associations among sound sources, human behaviors, and soundscapes on central business and commercial streets in Seoul, Korea
+DOI: 10.1016/j.buildenv.2020.107327
+PAGES: 13
+
+--- HEAD (title/abstract/intro) ---
+Building and Environment 186 (2020) 107327
+Available online 25 September 2020
+0360-1323/© 2020 Elsevier Ltd. All rights reserved.
+Comparing associations among sound sources, human behaviors, and 
+soundscapes on central business and commercial streets in Seoul, Korea 
+Joo Young Hong, Jin Yong Jeon * 
+Architecture and Sustainable Design, Singapore University of Technology and Design, 487372, Singapore 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape 
+Urban street 
+Human behavior 
+Acoustic environment 
+Survey 
+A B S T R A C T 
+This study focuses on how urban functions influence the soundscape in streets by exploring associations among 
+human behaviors, soundscape, acoustic indicators. On-site soundscape assessments were conducted in eight 
+urban streets located in Seoul employing a soundwalk method. The eight streets were classified into two place 
+functions: central business district (CBD) and commercial areas. Through the soundwalks, acoustic recordings 
+and perceptual responses to soundscapes in the streets were collected. As a human behavioral indicator, crowd 
+density was calculated in the streets. The results showed that place function plays a critical role in soundscape 
+evaluation in urban streets. Pleasantness decreased with increasing Eventfulness on streets in CBD. In contrast, 
+Pleasantness had a positive correlation with Eventfulness on commercial streets. This difference in the correlation 
+could be attributed to the difference in the compositions of sound sources between central business and com­
+mercial areas. Traffic noise was the most dominant sound source in CBD, which increased Eventfulness and 
+decreased Pleasantness of the soundscape in the streets. Meanwhile, sounds from human activities contributed to 
+an increase in both Pleasantness and Eventfulness in commercial streets. Predictive models of soundscape 
+reflecting the contexts of CBD and commercial streets were developed using acoustic parameters and crowd 
+density. In the context of CBD, acoustic parameters describing spectro-temporal characteristics of traffic noise 
+were important indicators, whereas crowd density was found to be a critical indicator to predict soundscape in 
+the commercial streets. These findings could help in better understanding the relationships between the 
+soundscape and place functions in urban streets. 
+1. Introduction 
+Urban streets are common open spaces that citizens usually experi­
+ence in their daily lives. According to the report of the United Nations 
+Human Settlements Programme in 2013, the proportion of land allo­
+cated to a street in the urban core area ranged from 18% to 33% in cities 
+in Europe, North America, Oceania, and Asia [1]. Because they play a 
+multi-faceted role in urban environments by enhancing community ac­
+tivities [2], fostering urban economies [3], and providing vibrant urban 
+environments [4], urban streets have been recognized as vital compo­
+nents of sustainable development and the improvement of quality of life. 
+Sound environment in urban streets is one of the critical environ­
+mental factors in judging the experience of the urban streetscape. 
+Several studies have identified that the perception of the streetscape is 
+affected not only by visual but also acoustic components [5–8]. Hong 
+and Jeon [5] investigated the effects of audio and visual components on 
+perceptions of streetscape quality and found that acoustic comfort plays 
+a significant role in the assessment of the perceived streetscape quality 
+when A (weighted traffic noise level) is high (i.e., 70 dB). Echevarria 
+Sanchez et al. [6] also showed that the pleasantness rating of urban 
+streetscapes increased with decreasing noise levels. Aside from traffic 
+noise levels in urban streets, Meng et al. [7,8] revealed that sounds from 
+human activities in urban commercial streets could positively or nega­
+tively affect acoustic comfort of urban streets depending on crowd 
+density. They observed that acoustic comfort in commercial streets 
+exhibited a parabolic change trend of increase followed by a decrease as 
+a function of crowd density. These studies have stressed the importance 
+of soundscape design for creating a sustainable urban street 
+environment. 
+As emphasized in ISO 12913-1 [9], context plays a key role in 
+soundscape evaluation and design. Herranz-Pascual et al. [10] have 
+proposed a holistic model that illustrates how the context interacts with 
+* Corresponding author. Architectural Acoustics Lab (Room 605–1), Department of Architectural Engineering, Hanyang University, 222 Wangsimni-ro, Seongdong- 
+gu, Seoul, 04763, South Korea. 
+E-mail addresses: jooyoung_hong@sutd.edu.sg (J. Young Hong), jyjeon@hanyang.ac.kr (J. Yong Jeon). 
+Contents lists available at ScienceDirect 
+Building and Environment 
+journal homepage: http://www.elsevier.com/locate/buildenv 
+https://doi.org/10.1016/j.buildenv.2020.107327 
+Received 27 May 2020; Received in revised form 8 September 2020; Accepted 19 September 2020 
+
+Building and Environment 186 (2020) 107327
+2
+the soundscape. In the model, the context is defined as interrelationships 
+among person, activity, and place. 
+Many studies [11–16] have addressed the premise that soundscapes 
+in urban public spaces largely depend on the place function because it 
+determines the sound sources constituting the acoustic environment, 
+other physical environmental conditions, and behavioral characteristics 
+of users in the place. Regarding the effect of the place function on 
+soundscape, Lavia et al. [11–13] and Margaritis et al. [14] have inves­
+tigated the associations between soundscape and place functions in 
+urban public spaces. They found that there were statistically significant 
+relationships between the place functions and the soundscapes in urban 
+public places. Hong and Jeon [15] found that dominant sound sources 
+influencing soundscapes differed in accordance with the main functions 
+of the urban spaces. Steele et al. [16] also revealed that the role of ac­
+tivit
+
+--- METHODS/RESULTS EXCERPT ---
+Method 
+2.1. Study area 
+As shown in Fig. 1, eight urban streets in Seoul, Korea, were selected 
+across the north (Joong-Gu and Jongro-Gu area) and south (Gangnam- 
+Gu) parts of Seoul for this field study. Two factors, main street function 
+[12,15,24] and street morphology [25–27], which were found to affect 
+urban soundscapes in previous studies, were considered for choosing the 
+study areas. The eight streets were classified into two urban functions, 
+central business district (CBD) and commercial areas, to explore the 
+effect of the place function on soundscapes in urban streets. Three urban 
+streets were selected in the CBD in Seoul. Since the streets mainly consist 
+of office buildings with major roads, they were labelled O1–O3. Spe­
+cifically, O1 (Teheran-daero) and O3 (Secho-daero) are located in the 
+representative central business district in Gangnam-Gu, while O2 
+(Jongno 1ga) is situated in Jongno-Gu which is Seoul’s traditional 
+business district. 
+Five urban streets were selected in commercial districts in Seoul. 
+Since the commercial streets are located in shopping areas primarily 
+composed of retail stores and restaurants, they were labelled S1–S5. The 
+selected commercial shopping streets are popular places in Seoul, where 
+both residents and tourists frequently visit. S1 (Gangnam-daero) and S4 
+(Garosoo gil) are popular shopping and entertainment areas in Gangnam 
+District. Meanwhile, S2 (Myeong-dong gil) is the main street of Myeong- 
+dong district which is one of the primary shopping districts in Joong-Gu 
+area. S3 (Insa-dong gil) is a popular street where galleries and traditional 
+restaurants, teahouses, and cafes are located. S5, located in Euljiro 4ga 
+area, is an old commercial space of Seoul. S5 mainly consists of small 
+metal workshops, print shops, and lighting stores, with relatively fewer 
+restaurants and retail stores along the street compared with other 
+commercial streets (S1-4). 
+In terms of street morphology, road width and building height varied 
+across the selected urban streets. The width of the streets varied from 10 
+to 42 m, while the mean building height in the streets ranged from 12 to 
+115 m. Overall, the streets in CBD had wider street width and higher 
+mean building height than the commercial streets except for O3 and S1; 
+the width of O3 was 12 m, which was narrower than those of other 
+streets in CBD. Meanwhile, the street width of S1 was 40 m which was 
+much wider as compared to those of the other commercial streets. The 
+street length of the eight streets was approximately 300 m. Mean height- 
+to-width ratios (H/W) of the urban streets ranged from 0.5 (S5) to 6.1 
+(S3), which is within the range of H/W in high-density cities [28,29]. 
+Since some of the eight urban streets were located too far from each 
+other, the urban streets were grouped into two soundwalk routes A (O2, 
+S2, S3, and S5) and B (O1, O3, S1, and S4) to save on traveling time 
+between the locations. Each soundwalk route consisted of urban streets 
+within a radius of 2 km. 
+2.2. Soundscape and human behavior data collection 
+Subjective responses to acoustic environments (Section 2.2.1) and 
+physical acoustic measurement (Section 2.2.2) were measured based on 
+on-site soundwalk method. In addition, human behavior data in urban 
+streets were collected based on the observation method described in 
+Section 2.2.3. Procedure and data analyses were delineated in Section 
+2.3 and 2.4, respectively. 
+2.2.1. Questionnaire 
+A questionnaire survey based on Swedish Soundscape-Quality Pro­
+tocol [30] was conducted for collecting data on how people perceive an 
+acoustic environment. The questionnaires were translated into Korean. 
+In the first part of the questionnaire, the dominance of different sound 
+source types was assessed using a 5- point scale (0: do not hear at all; 1: 
+hear a little; 2: hear moderately; 3: hear a lot; 4: dominates completely). 
+In the questionnaire, sound sources were classified into five categories: 
+traffic noises (cars, buses, motorcycles, etc.), sounds from human beings 
+(conversations, footsteps, laughter, etc.), natural sounds (water, birds 
+chirping, wind sounds, etc.), music (music sounds from shops, street 
+busking music sounds, etc.), others (construction noise, mechanical 
+noise, etc.). 
+The second part of the questionnaire dealt with the perceived af­
+fective quality of soundscape. The perceived affective quality of 
+soundscape was assessed using the eight unidirectional attributes: 
+pleasant, annoying, eventful, uneventful, chaotic, calm, vibrant, and 
+monotonous with the following question, “To what extent do you agree 
+with the eight attributes below on how you experience the present surrounding 
+sound environment?”. A five-point scale (0: strongly disagree, 1: slightly 
+disagree, 2: neither disagree nor agree, 3: slightly agree, and 4: strongly 
+agree) was used to evaluate the eight adjective attributes. 
+2.2.2. Binaural measurement and acoustic indicators 
+The binaural measurement is recommended in the soundscape 
+assessment to capture the acoustic environment as close as possible to 
+the human auditory sensation [31]. While the participants were 
+assessing the soundscape using the questionnaire, 5-min binaural re­
+cordings were conducted by a non-participatory operator using a 
+binaural microphone (Type 4101, B&K) and a portable field recorder 
+(Zoom, H4n). The sampling frequency and the bit depth of the binaural 
+recording were 44.1 kHz and 24 bits, respectively. During the binaural 
+measurement, the operator wearing the binaural microphone with a 
+windshield was standing at the most typical listener positions and the 
+operator’s head was facing toward the participant group without 
+rotating his head to conduct the recording in a stationary condition. The 
+height of the binaural microphone was approximately 1.6 m above the 
+ground. 
+Various acoustic parameters describing the sound level, spectral and 
+temporal characteristics of the sound enviro
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1. Study locations and photos: the eight urban streets in Seoul, Korea consisting of three streets (O1-3) in CBD and five streets (S1-5) in commercial areas. Two
+Fig. 1, eight urban streets in Seoul, Korea, were selected 
+Fig. 2. However, it is worth noting 
+Table 1, 
+Table 1, a total of 120 soundscape data sets (42 and 78 data 
+Fig. 2. Photos of on-site soundscape measurement sessions. The participants assessed soundscape using the questionnaire, while the binaural and video recordings 
+Table 1 
+Fig. 3(a) and (b), respectively. Interestingly, Spearman’s correlations 
+Fig. 3(a), a clear inverse correla­
+Fig. 3(b). Overall, the soundscapes in S5 were eval­
+Fig. 4. 
+Table 2. Traffic noise showed negative 
+Fig. 3(a) and (b), respectively. These results also support the findings in 
+Table 3 presents the mean acoustic parameters of both the left 
+Fig. 3. Median Pleasantness and Eventfulness scores of 120 soundscape measurement sessions. Streets in (a) CBD (48 sessions) and (b) commercial (72 sessions) areas. 
+Fig. 4. For instance, the acoustic environments in S2 and S3 consisted 
+Table 4 shows the correlation coefficients between acoustic in­
+Fig. 4. Percentage of the identified sound source types in the selected urban streets. The values in the bar graphs refer to the percentages of respondents who heard 
+Table 2 
+Table 3 
+Fig. 5 shows the mean crowd density of observed 
+Fig. 6(a) and (b) show the Pleasantness and Eventfulness scores as a 
+Fig. 6(a), Pleasantness in the streets in CBD was not affected by 
+Table 2. 
+Fig. 6(b), Eventfulness scores in the streets in CBD were 
+
+======================================================================
+
+### RECORD ID=666 | screening_verdict=INCLUDE | year=2020
+JOURNAL: LANDSCAPE AND URBAN PLANNING
+TITLE: The influence of human behavioral characteristics on soundscape perception in urban parks: Subjective and observational approaches
+DOI: 10.1016/j.landurbplan.2020.103890
+PAGES: 16
+
+--- HEAD (title/abstract/intro) ---
+Contents lists available at ScienceDirect
+Landscape and Urban Planning
+journal homepage: www.elsevier.com/locate/landurbplan
+The influence of human behavioral characteristics on soundscape perception
+in urban parks: Subjective and observational approaches
+Hyun In Jo, Jin Yong Jeon⁎
+Department of Architectural Engineering, Hanyang University, Architectural Acoustics Lab (Room 605–1), 222 Wangsimni-ro, Seongdong-gu, Seoul 04763, South Korea
+A R T I C L E I N F O
+Keywords:
+Soundscape
+Human behavior
+Audio-visual interaction
+Perception
+Virtual reality
+Urban park design
+A B S T R A C T
+With an emphasis on the role of parks in urban environments, studies on soundscape, which assess sound quality,
+have focused on human perception. In particular, various studies have been conducted on the relationship
+between human behavioral characteristics and their sound environment. However, there is still insufficient
+research on human behavioral characteristics in the context of urban parks. The purpose of this study was to
+investigate the effect of human behavioral characteristics on perceptions of soundscapes in urban parks.
+Participants were asked to subjectively evaluate the soundscapes of three parks in Paris, France, using three
+cognitive stages: indicators (perceived audio and visual elements), emotions (semantic expression), and cogni-
+tion (overall quality of the park’s soundscape). The human behavioral characteristics that the participants
+witnessed were categorized into whether there was social interaction, whether people remained in the park or
+were passing through, and what kind of activities took place. To secure high ecological validity, audio-visual
+information was provided to the participants using virtual reality equipment. The results demonstrated that
+sounds made by other people decreased the perceived tranquility or peacefulness while the experience of the
+park as being dynamic and lively increased. We also found that the primary determinant of park preferences was
+not the type of human activities but the presence or absence of people.
+1. Introduction
+1.1. Soundscape research in urban parks
+As the negative effects of noise in urban environments on people’s
+health and social well-being became apparent (Passchier-Vermeer &
+Passchier, 2000; Pulles, Biesiot, & Stewart, 1990; Tzoulas et al., 2007),
+parks have come to be regarded as essential elements of sustainable and
+healthy cities. Subsequently, the positive effects of urban parks on the
+ecological environment and public good have been confirmed (Brown,
+Schebella, & Weber, 2014; Tse et al., 2012). In particular, urban parks
+are believed to offer important social and psychological advantages
+(sources of positive emotions and beneficial services), and thereby en-
+rich human lives (Chiesura, 2004). As a result, visual aesthetics and
+sound quality have become important factors in designing urban
+landscapes (Zhang, Yang, & Yu, 2006). In this context, the concept of
+soundscapes, focusing on people’s perception of sound, has emerged
+(Corburn, 2009; Kang & Schulte-Fortkamp, 2018).
+International standard ISO 12913-1 (2014) defines soundscapes as
+“acoustic environment as perceived or experienced and/or understood
+by a person or people, in context.” To evaluate soundscape perception
+in various spaces such as parks and open spaces, many studies have
+examined the relationships between indicators (e.g., acoustical indices
+and contextual factors) and descriptors (e.g., comfort, tranquility, and
+soundscape quality; Brown, Kang, & Gjestland, 2011; Kang & Zhang,
+2010; Yu & Kang, 2009). Among the studies on soundscape in urban
+parks, there have been attempts to identify the factors that positively or
+negatively affect perception using interviews (Szeremeta & Zannin,
+2009); categorize parks according to their physical sound (Brambilla,
+Gallo, & Zambon, 2013); explore non-sonic components (presence of
+greenery, tranquility, and so on) that positively affect soundscape be-
+sides sonic components, such as sound pressure level (Brambilla, Gallo,
+Asdrubali, & D’Alessandro, 2013); and investigate the components that
+affect soundscape comfort through audio-visual interactions (Zhang,
+Zhao, Zenz, & Qiu, 2019). Deep learning methods to classify sounds
+made in parks using an auditory attention model have also been used
+(Filipan, Boes, Oldoni, De Coensel, & Botteldooren, 2014).
+Based on previous studies, a soundscape perception model for urban
+planning and design has been proposed (Herranz-Pascual, Aspuru, &
+García, 2010; Hong & Jeon, 2015; Liu, Kang, Luo, & Behm, 2013).
+Despite these efforts, urban soundscapes are occasionally unsatisfactory
+because there is a gap between academia and practice that prevents
+https://doi.org/10.1016/j.landurbplan.2020.103890
+Received 31 December 2019; Received in revised form 18 June 2020; Accepted 23 June 2020
+⁎ Corresponding author.
+E-mail addresses: best2012@hanyang.ac.kr (H.I. Jo), jyjeon@hanyang.ac.kr (J.Y. Jeon).
+Landscape and Urban Planning 203 (2020) 103890
+Available online 07 July 2020
+0169-2046/ © 2020 Elsevier B.V. All rights reserved.
+T
+
+research findings from being utilized in the decision-making process,
+and additional interdisciplinary research on soundscapes is necessary
+(Aletta & Xiao, 2018; Meng & Kang, 2016). In this regard, Aletta and
+Xiao (2018) surveyed eleven early-career soundscape researchers and
+practitioners and found that there is a lack of research on the re-
+lationships between human behavioral characteristics and soundscape
+perception.
+1.2. The relationship between human behavioral characteristics and the
+sound environment
+Recent studies on the relationships between soundscape and human
+behavioral characteristics in the urban landscape have been based on
+the effect of the sound environment on human behavior and the effect
+of human behavioral characteristics on acoustic cognition. More re-
+search has focused on the former, focusing on how the sound en-
+vironment changes human behavioral characteristics (Ale
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+2.1. Study design
+This study collected audio-visual soundscape stimuli from three
+urban parks and analyzed the changes in soundscape perception caused
+by changes in human behavioral characteristics using the type of park
+and time as variables. Three different types of parks were selected (four
+evaluation sites in each), and five temporal variations were set 30 s
+apart from one another for each evaluation site. The study used the two
+within-subjects design on the same participant group. To assess the
+same experimental stimuli, a VR-based laboratory experiment, and a
+questionnaire composed of three parts (indicators, emotions, and cog-
+nition) were used to quantify soundscape perception. Human beha-
+vioral characteristics were quantified and grouped into different cate-
+gories (social interaction, stay conditions, and activity type) through
+observations.
+2.2. Soundscape stimulus
+2.2.1. Case study area
+To examine the behavioral characteristics of people in urban parks,
+and their impact on soundscape perception, three parks with different
+uses that are located near the Seine River in Paris, France, were se-
+lected. Each park has a different size and use. Arènes de Lutèce (Park A)
+is the smallest park and is surrounded by dwellings. Compared to the
+other parks, it is relatively calm; a few people spend some time there,
+and it has a courtyard in the center. Champ de Mars (Park C) is a large
+park of 245,000 m2, and it includes the Eiffel Tower as a Paris landmark
+and tourist destination. Jardin des Tuileries (Park J) is 280,000 m2 and
+is similar to Park C as it is a tourist destination, but it is also used as a
+place to relax. Therefore, Park J is a combination of Park A’s and Park
+C’s
+functionalities
+and
+population
+characteristics.
+Twelve
+re-
+presentative points were selected by choosing four points on each park’s
+walking path. The equirectangular panoramic views taken at each point
+are illustrated in Fig. 1, and the physical characteristics of the evalua-
+tion points are illustrated in Table 1.
+2.2.2. Stimulus generation for the VR environment
+The audio-visual recording and reproduction methods for the VR
+application are detailed in Appendix I.
+2.3. Assessment of soundscape perception
+2.3.1. Participants
+A total of 30 participants (male = 17, female = 13) aged from 20 to
+31 years (mean age: 25.2, standard deviation: 2.11) took part in the
+soundscape evaluation. The sample size was calculated using G-power
+software version 3.0, and 27 participants were required for the medium
+effect size (f = 0.25) with a statistical power of 0.8. Based on the re-
+sults, the final number of participants was set to 30.
+To reduce the variation, students from the same university enrolled
+in architecture, urban, and sound-related studies were selected. To
+reduce observation bias, they were trained in the soundscape evalua-
+tion method through an audio-visual example stimulation recorded in
+the city center (Hong & Jeon, 2017). However, the final purpose of this
+experiment was not divulged to avoid prejudice in the evaluation re-
+sponse. Additionally, they were thoroughly familiar with the use of the
+experimental equipment, signed a consent form indicating their vo-
+luntary participation, and were paid a participation fee afterward. The
+participants had normal hearing.
+2.3.2. Questionnaire
+The questionnaire for assessing soundscape perception was com-
+posed of three parts (indicators, emotions, and cognition) according to
+the perception process, as illustrated in Table 2. Emotions and cognition
+interact in complex ways, but emotions are related to “the conscious (or
+unconscious) evaluation of events” and can be defined as “states eli-
+cited by rewards and punishers.” Cognition can be defined as compre-
+hensively controlled processes such as “memory, attention, problem-
+solving, and planning” and “acquiring knowledge and understanding
+through thought, experience, and the senses” (Pessoa, 2008). In other
+words, emotions represent the affective state and affect cognition,
+which is a comprehensive judgment. From this perspective, a ques-
+tionnaire was constructed by separating emotions and cognition.
+First, to examine the identification of the audio and visual indicators
+that constitute the sound environment at each evaluation point, the
+sound was evaluated with four elements (traffic, humans, birdsong, and
+water) and the visuals with eight elements (vehicles, buildings, roads,
+people, open space, greenery, water, and sky) using a five-point Likert
+scale. The type of sound was set by referring to the five classification
+systems of previous soundscape assessment studies (Hong & Jeon, 2015;
+Liu et al., 2013) and the Soundscape Questionnaire Protocol (traffic,
+fan, other noise, sounds from people, natural sounds; Berglund &
+Nilsson, 2006; Nilsson & Berglund, 2006). For visual elements, the in-
+dicators (vehicles, buildings, roads, open space, greenery, water,
+people, and sky) used to evaluate the visual environment in landscape
+studies were selected (Hong & Jeon, 2013; Jiang, Masullo, Maffei,
+Meng, & Vorländer, 2018; Liu et al., 2014).
+Second, in the emotions section, to examine the affective quality of
+the soundscape, four studies (Axelsson, Nilsson, & Berglund, 2010;
+Kang & Zhang, 2010; Kawai, Kojima, Hirate, & Yasuoka, 2004;
+Raimbault, Lavandier, & Bérengier, 2003) were used to develop a five-
+point Likert scale for eight adjective attributes (pleasant, unpleasant,
+eventful, uneventful, exciting, monotonous, calm, and chaotic).
+Finally, in the cognition section, the participants’ overall percep-
+tions of urban parks were defined as perceived loudness, perceived
+crowd density, and comfort, and evaluated on a five-point Likert scale.
+The various direct outcomes and indirect outcomes presented for the
+soundscape preference assessment by Brown et al. (2011) and the de-
+scriptors that were used to examine the preferences for commercial
+space behavior by Meng et al. (2017) were used.
+2.3.3. Procedures
+All subjects wer
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1, and the physical characteristics of the evalua-
+Table 1.
+Table 2. Emotions and cognition
+Table 1, the re-
+Fig. 1. Equirectangular panoramic stills from the spherical videos of selected evaluation position for the experiment (Source: Google Earth).
+Table 1
+Fig. 2 illustrates the identification results for the audio and visual
+Table 3 il-
+Table 3). Participants in Park A had the highest
+Table 4. The Kaiser-Meyer-Olkin
+Fig. 3. A two-way ANOVA ana-
+Table 2
+Fig. 4 illustrates the results of the participants’ cognition responses
+Fig. 2. Temporal variation in perceived audio and visual elements for different parks: (a) dominant sound sources, (b) dominant visual elements.
+Fig. 5. First, Park
+Fig. 5(a), the proportion of people who used the park alone was very
+Fig. 5(b) are
+Table 5).
+Fig. 6). First, the most
+Table 5). In particular, walking, jogging/run-
+Table 3
+Table 4
+Fig. 3. Temporal variation of the mean principal component analysis scores for the three parks.
+Fig. 4. Temporal variation of the mean response scale for the three parks.
+Fig. 5. Temporal variation in the number of people for the three parks according to different criteria: (a) social interaction—alone or group; (b) stay con-
+
+======================================================================
+
+### RECORD ID=724 | screening_verdict=INCLUDE | year=2021
+JOURNAL: EMOTION SPACE AND SOCIETY
+TITLE: Exploring the soundscape and the atmosphere of the Gigli di Nola cultural festival in Italy
+DOI: 10.1016/j.emospa.2021.100848
+PAGES: 10
+
+--- HEAD (title/abstract/intro) ---
+Emotion, Space and Society 41 (2021) 100848
+Available online 10 November 2021
+1755-4586/© 2021 Elsevier Ltd. All rights reserved.
+Exploring the soundscape and the atmosphere of the Gigli di Nola cultural 
+festival in Italy 
+Susana Alves a,*, Maria Di Gabriele b, Saverio Carillo b, Massimiliano Masullo b, Luigi Maffei b 
+a Sapienza University of Rome, Department of Social and Developmental Psychology, Via Dei Marsi, 78, 00185, Rome, Italy 
+b Universit`a Degli Studi Della Campania “Luigi Vanvitelli”, Department of Architecture and Industrial Design, Abazia San Lorenzo Ad Septimum, 81031, Aversa, Italy 
+A R T I C L E I N F O 
+Keywords: 
+Gigli di Nola 
+Soundscape 
+Atmosphere 
+Cultural festival 
+Intangible and tangible heritage 
+Rhythmanalysis 
+A B S T R A C T 
+The Gigli di Nola is an Italian folk ceremony featuring a shoulder-borne procession celebrating the feast of Saint 
+Paulinus. Despite its cultural significance as a UNESCO site, the soundscape and atmosphere of the festival has 
+scarcely been explored. This study examines how the physical and spatial arrangement of Nola shapes the 
+enactment of the festival’s soundscape, atmosphere, and behavior of its participants. It further investigates how 
+the rhythmic qualities of the music are related to bearers’ spatial maneuvers and to non-bearers’ participation in 
+the festival. Through the use of rhythmanalysis and a mixed method approach, the results reveal the festival to be 
+deeply connected to Nola’s urban fabric and community life. The spatial arrangement of the historic streets with 
+their nodes and boundaries, forge body–space relationships that indicates place, people, and music, are inter­
+connected in the Gigli festival. The soundscape dominates the atmosphere of the festival, which in turn affects 
+non-bearers and bearers’ behavior. These rhythmic qualities also guide the parading of the Gigli festival for its 
+participants. We conclude by pointing to a lively view of culture to promote UNESCO’s management of cultural 
+festivals. 
+1. Introduction 
+The United Nations Educational, Scientific and Cultural Organiza­
+tion’s (UNESCO) recognition of the intangible aspects of heritage led to 
+the inclusion of diverse ceremonies in the Representative List of the 
+Intangible Cultural Heritage of Humanity (UNESCO, 2019a, 2019b). 
+Amongst these are the “Feste delle grandi macchine a spalla” or celebra­
+tions of big shoulder-borne processional structures. The shoulder-borne 
+processional ceremonies (SBPC) comprise of a network of four Italian 
+religious feasts: La Festa dei Gigli di Nola, Il Trasporto della Macchina di 
+Santa Rosa, La Faradda dei Candelieri di Sassari, and La Varia di Palmi 
+(UNESCO, 2019b). Overall, SBPC replicate ancient Mediterranean rit­
+uals practiced in the central and southern regions of Italy. A common 
+feature appertaining to the ceremonies is the presence of machines 
+(Macchine) transported on men’s shoulders according to a specific rite, 
+along the paths of the historical city centers where they take place. The 
+Gigli festival is a popular Catholic feast held every year in Nola to 
+commemorate the return of Saint Paulinus. The festival features eight 
+obelisks which are called Gigli (lilies). 
+A significant amount of the ceremonies included on the Represen­
+tative List of the Intangible Cultural Heritage of Humanity are related to 
+festivals, feasts, and religious celebrations. Even though one of UNES­
+CO’s five domains of intangible heritage includes the “practices, repre­
+sentations, expressions, knowledge, skills” and “instruments, objects, 
+artefacts and cultural spaces” associated with intangible cultural heri­
+tage (ICH), little is known about how ICH is maintained through the 
+interplay of physical and non-physical qualities. Inspired by critical 
+approaches to heritage studies (e.g., Duffy, 2014; Crociani-Windland, 
+2011; Waterton and Watson, 2013; Smith, 2006; Smith and Campbell, 
+2017), we argue that festivals are social activities whose affective dy­
+namics need to be studied by considering both structure and fluidity. 
+The soundscape of festivals such as shoulder-borne processional 
+ceremonies are particularly relevant to a critical approach to heritage, as 
+soundscapes affect people’s perception of the event, its atmosphere, and 
+is strongly connected to the social and cultural heritage of the commu­
+nity (Maffei et al., 2015). Communities enact a ‘reinvention of tradition’ 
+that is filtered through the needs of the present, where tangible and 
+intangible properties of cultural heritage are intertwined. The perfor­
+mative quality of festivals, their soundscape, and atmosphere are valu­
+able frames through which to promote heritage-in-the-making rather 
+than heritage as an unchanging tradition (Wulf, 2017). Community 
+engagement in heritage should consider local narratives of tradition and 
+* Corresponding author. 
+E-mail address: s.alves@uniroma1.it (S. Alves). 
+Contents lists available at ScienceDirect 
+Emotion, Space and Society 
+journal homepage: www.elsevier.com/locate/emospa 
+https://doi.org/10.1016/j.emospa.2021.100848 
+Received 7 April 2020; Received in revised form 29 September 2021; Accepted 21 October 2021 
+
+Emotion, Space and Society 41 (2021) 100848
+2
+mediation of agencies within the community itself (Waterton and Smith, 
+2010). 
+The soundscape of festivals is crucial to understanding how places 
+are unfolding, dynamic ‘vibratory immersive fields’ that continuously 
+affect experience (Lacey, 2016). The International Organization for 
+Standardization defines soundscape as ‘[the] acoustic environment as 
+perceived or experienced and/or understood by a person or people, in 
+context’ ISO (2014). Ingold (2007) stresses an ecological view of 
+soundscape perception where sounds are understood in a network of 
+relationships. Specifically, soundscapes can be seen in a relational way 
+brought about by people’s experience and engagement with everyday 
+settings. Solomos (2018), indicates that one must “
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology 
+Fieldwork took place through multiple visits to Nola spreading from 
+2011 to 2019 and involved innumerable meetings with informants from 
+the city. Interviews and sound recordings were done in 2011. Further 
+fieldwork in 2019 involved attending the festival and registering its 
+different components through photographs and field notes, as well as 
+talking to participants from Nola directly involved in the festival. 
+Participants could be categorized as bearers and non-bearers. The 
+bearers were usually residents of Nola whose families are part of the 
+local guilds (e.g., greengrocers, butchers, innkeepers, bakers, boat 
+builders, shoemakers, blacksmiths, and tailors) for which the obelisks 
+are created. Bearers are the groups of men who follow the religious 
+tradition of carrying the Gigli and making them dance during the day of 
+the parade. The non-bearers are not directly involved in carrying the 
+obelisks or overseeing the Gigli parade. Non-bearers were either resi­
+dents of Nola or tourists from other parts of Italy or abroad. 
+After receiving consent, 120 participants were interviewed briefly on 
+the day of the ceremony in 2011. It was not feasible to conduct in-depth 
+interviews on the day of the festival due to the loudness of the streets, 
+lack of private places to invite participants to sit and answer questions, 
+and participants’ desire to continue attending the festival. The in­
+terviews were semi-structured and later analyzed through content 
+analysis (Krippendorff, 2019). A purposive sampling approach was used 
+to collect the interview data with non-bearers. 
+Participants were asked about their overall perception of the festival 
+in terms of their satisfaction with it and if it was something they enjoyed 
+or disliked. Participants were also asked about their motivation (e.g., 
+curiosity, passion, tradition, or habit) for participating in the ceremony, 
+their perception of the different senses (e.g., hearing, sight and smell) 
+affecting the atmosphere, and their experience of the festival and 
+procession. 
+Sound was recorded to understand how music and related rhythms 
+were associated with bearers’ movements during the procession. Sound 
+was measured in two situations: close to the Macchine (where musicians 
+were placed) and along the pathways (where the public was gathered) 
+during different phases of the parade to account for the circulation of the 
+procession in Nola’s streets. 
+In the days prior to the ceremony in 2011, the Gigli di Nola organizing 
+committee was informed of the research project and granted consent to 
+take audio binaural sound and video recordings. The audio recordings 
+were made by employing binaural headphones (Sennheiser HDC 451) 
+connected to a portable recorder (M-Audio Microtrack 24/96). Before 
+recording, a pure tone of 94 dB at 1 kHz was taken as reference and used 
+in post-processing to calibrate all in-situ recordings. The files were 
+elaborated using the software ‘dB Sonic’. This software makes it possible 
+to analyze acoustic descriptors, to apply specific filters to the original 
+audio recordings to isolate the sounds in a specific frequency range, and 
+to recognize the rhythmic scan. For example, the bass drum was done by 
+applying a bass pass filter with a lower (120 Hz) and higher cutoff fre­
+quency (150 Hz). Fig. 3–6 show the spectrograms of the audio re­
+cordings. They are a graphical representation of the sound pressure 
+levels over time in frequency. 
+The use of spectrograms allowed us to identify the specific beats that 
+guided the movement of the cradles. In order to identify the beats per 
+minute (bpm) and characterize the rhythm and adaptation of the cra­
+dles, files of length equal to 1 min or fractions were considered. Through 
+listening to the files filtered at the frequencies of the bass drum, a cor­
+respondence was found between the ’peaks’ of the history of the tem­
+poral trend of the sound pressure level and the beats which followed one 
+another at regular intervals. Therefore, it was possible to identify the 
+beats corresponding to the 2/4 rhythmic scan both in its musical 
+composition of two quarter notes (minimum value = 1/4) and of a 
+quarter note and two eighth notes (quaver value = 1/8) or four eighth 
+notes. As shown in Fig. 3–7, the different recordings taken as a sample 
+for analysis show approximately 108 bpm, which in terms of musical 
+trend correspond to an Andante tempo. 
+Photographs were taken by researchers in 2019 to document key 
+features of the parade and its atmosphere. Fig. 1 shows the Gigli before 
+(a-d) and after (e-h) the parade. Photograph ‘a’ shows the assembly of 
+the central pole of the Giglio (called borda) in Corso Tommaso Vitale. It is 
+resting on the ground, ready with ropes to be raised by the people in 
+Nola (both bearers and non-bearers). The borda is used to support the 
+Giglio. Photograph ‘b’ shows the edge of the Giglio, which once hoisted, 
+is placed on the balconies of the buildings for people to build the Giglio 
+around it. Photographs ‘c’ and ‘d’ are in Vicolo del Duomo and depict the 
+wooden structure of the Giglio as seen from the rear front in all its ver­
+tical development. It also details of the arrangement of the eight fixed 
+bars that are used to lift the Giglio on men’s shoulders. 
+Photograph ‘e-h’ are in Piazza Duomo. The first photo shows the 
+morning of the Festival as the Gigli machines gather in the square to 
+receive the blessing of the bishop of Nola. This is followed by photo­
+graphs ‘f’ and ‘g’ also taken during the morning of the festival. They 
+show the procession of the silver bust of Saint Paulinus for the blessing of 
+the Gigli by the bishop. This happens when the eight Gigli and the boat 
+arrive at the piazza. Finally, photograph ‘h’ shows Piazza Duomo in the 
+afternoon of the festival when the Gigli are waiting in their respective 
+positions to start the afternoon procession through the streets of Nola. 
+S. Alves et al. 
+
+Emotion, Space and Society
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 3–6 show the spectrograms of the audio re­
+Fig. 3–7, the different recordings taken as a sample 
+Fig. 1 shows the Gigli before 
+Fig. 1. The Gigli di Nola before (photographs a-d) and during the parade (photographs e-h). 
+Fig. 2 shows a map with the route 
+Fig. 2. Map of Nola with the route taken during the parade. 
+Fig. 3. Shows the “Aizata” spectrograms of the first (a–b) and second (c–d) parts of the song, in the frequency range where the percussion instruments are clearly 
+Fig. 4. Shows the spectrograms of songs pieces accompanying the marcia and the mezzo which are maneuvers carried out by the Gigli to move forward along the path. 
+Fig. 5. Shows the spectrograms of songs pieces accompanying the “marcia and the mezzo” which are maneuvers carried out by the Gigli to move forward along the 
+Fig. 3–6). 
+Table 1 
+Fig. 7 shows the variability of the levels LAmin, LAeq, 
+Fig. 6. Shows the spectrograms of song pieces accompanying the girata. The song accompanying this maneuver is in 6/8 time and with a constant execution speed of 
+Table 1 
+Fig. 7. Shows the variability of the levels LAmin, LAeq, LAmax and percentile 
+
+======================================================================
+

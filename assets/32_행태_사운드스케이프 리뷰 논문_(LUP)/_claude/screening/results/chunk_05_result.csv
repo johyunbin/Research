@@ -1,0 +1,133 @@
+no,verdict,direction,reason
+529,EX1,na,야생 house sparrow 발육 스트레스 연구
+530,EX2,na,실내 shopping mall 음향쾌적 설문
+531,EX2,na,실내 shopping mall 음악 실험
+532,INCLUDE,forward,birdsong·traffic noise가 옥외 보행속도 변화시킴
+533,EX3,na,green space 노출만 다룸·음환경 변수 없음
+534,EX1,na,Japanese quail 새끼 소음 스트레스
+535,EX1,na,tree frog 발성 변화 연구
+536,EX4,na,자기평가 건강(SRH)만 측정·행태 없음
+537,EX1,na,조류 song 문화진화 비교
+538,EX1,na,biodiversity 소음영향 systematic map protocol
+539,INCLUDE,reverse,체류시간·방문동기 등 행태가 soundscape 경험과 연관
+540,EX4,na,정서회복·지각 스트레스만 측정
+541,EX3,na,green facade 열환경 연구·음환경 없음
+542,EX1,na,도시 조류 dawn chorus 시각 연구
+543,EX1,na,song thrush 노래 복잡도 비교
+544,EX1,na,도시 hamster 행동·서식 연구
+545,EX1,na,Koi fish 성장·수중음 노출
+546,EX5,na,중차량 소음배출 모델링·행태 분석 없음
+547,EX3,na,수학적 noise 항의 lattice 모델·음환경 아님
+548,EX1,na,cricket 소음 노출 생활사
+549,EX4,na,노인 우울·불안만 측정·행태 없음
+550,EX4,na,교통소음-당뇨 발생 건강 아웃컴
+551,EX1,na,조류 둥지 재료 소음 감쇠
+552,EX3,na,교통배분 균형모델·음환경 변수 없음
+553,EX1,na,song sparrow 다중모드 신호
+554,EX5,na,이론적 모델 제안·실증 데이터 없음
+555,EX4,na,우울 유병·중증도만 측정
+556,BORDERLINE,unclear,greenness-보행 경로에 noise 매개 포함·음-행태 직접 연결 불명
+557,EX1,na,great tit 야간 휴식 행동
+558,EX5,na,소음 규제·정책 법학 논평
+559,BORDERLINE,reverse,주민 활동패턴이 환경소음 패턴 형성·행태 직접측정 불명
+560,INCLUDE,forward,공원 소음이 만족·산책 등 이용빈도와 연관
+561,EX1,na,동물원 동물 공사소음 반응
+562,BORDERLINE,forward,소음 속성 포함 진술선호 보행선택 실험
+563,EX5,na,Dynamap 소음예측 신뢰도 방법론
+564,EX3,na,공공공간 이용행태 관찰·음환경 변수 없음
+565,EX4,na,피부전도도 등 생리반응만 측정
+566,INCLUDE,forward,Musikiosk 개입 후 체류·사회적 상호작용 관찰
+567,EX4,na,binaural 지표-지각 속성만 평가
+568,EX3,na,ecotourism 책임행동 연구·음환경 변수 없음
+569,BORDERLINE,unclear,폭포공원 이용·혼잡 관찰·soundscape 측정 여부 불명
+570,EX2,na,실내 retail 매장 음악 연구
+571,EX2,na,실내 보석매장 배경음악·재구매의도
+572,EX4,na,청소년 정신건강만 측정·행태 없음
+573,EX1,na,zebra finch 번식 소음 노출
+574,EX3,na,국립공원 책임관광 기대조사·음환경 변수 없음
+575,EX1,na,Northern Mockingbird 노래 주파수
+576,EX1,na,house finch 신기자극 반응
+577,EX1,na,flying-fox 발성·도시소음
+578,EX5,na,자동차와 환경 역사서술 논고·실증데이터 없음
+579,EX3,na,traffic noise=속도 변동성·음환경 아님
+580,EX3,na,고속철도 지가 분석·음환경 변수 없음
+581,EX4,na,ERP 생리반응만·행태 차이 없음
+582,EX2,na,실내 노인시설 음향 요구 조사
+583,EX1,na,Nile tilapia 수중소음 스트레스
+584,EX1,na,harbour seal 수중 발성
+585,EX1,na,grasshopper mouse 발성 전달거리
+586,EX4,na,심혈관 생리 지표만 측정
+587,EX1,na,조류 발성 탐지율·환경소음
+588,EX3,na,eco-driving 인센티브 조사·음환경 변수 없음
+589,EX1,na,house wren 신호 네트워크 반응
+590,EX1,na,조류 새끼 telomere·소음 노출
+591,EX1,na,house wren 노래 전달 마스킹
+592,EX1,na,조류 채식효율·경계행동
+593,EX1,na,제목상 wildlife 소음 영향(초록 없음)
+594,EX1,na,song sparrow 공격신호 정직성
+595,EX4,na,아동 지각 스트레스만 측정
+596,EX2,na,주택 실내 소음 짜증 설문
+597,EX1,na,수중소음 기준선·어류 서식 대상
+598,EX1,na,chickadee 경계음 변화
+599,BORDERLINE,reverse,COVID 봉쇄 활동변화가 도시 소음패턴 변화시킴
+600,EX5,na,Superblock 건강영향평가 시뮬레이션
+601,EX4,na,HRV 등 생리 지표만 측정
+602,INCLUDE,both,가로 군중밀도와 soundscape 평가 상호 연관
+603,EX1,na,House Wren 노래 구성 분석
+604,EX3,na,eco-feedback 앱 인식 연구·음환경 변수 없음
+605,EX4,na,병원 주변 소음 측정만·행태 없음
+606,EX2,na,상수도관 음향 누수탐지·공공공간 아님
+607,EX4,na,지각된 회복효과만 측정
+608,EX5,na,사운드아트·법문화 인문 논고
+609,EX2,na,실내 fast-food 매장 음환경
+610,EX2,na,실내 교실 음악·감정 전달
+611,EX5,na,소음·대기오염 혈관질환 리뷰
+612,EX3,na,인간-조류 상호작용 조사·음환경 변수 없음
+613,BORDERLINE,forward,환경질 지각과 신체활동 연관·소음 변수 명시 불명
+614,EX2,na,실내 그린빌딩 환경·건강 설문
+615,BORDERLINE,forward,캠퍼스 소음이 이용자 지각·대처행동에 영향
+616,EX1,na,biodiversity 소음영향 systematic map
+617,INCLUDE,forward,oases soundscape 요소와 보행속도 관계
+618,EX2,na,기숙사 실내 수면·학업성취
+619,EX5,na,soundscape 연구동향 문헌 리뷰
+620,EX1,na,북미 번식조류-소음 지리적 연관
+621,EX5,na,청력건강 정책 제언 논고
+622,EX5,na,유산 사운드 개념 논고·실증 없음
+623,BORDERLINE,reverse,긴급사태 중 인간행동 변화가 주거지 음환경에 영향
+624,BORDERLINE,forward,관광지 tranquillity 지각과 행태 연결 근거이론
+625,EX1,na,개구리 울음 자동탐지 기법
+626,EX4,na,수면의 질·충분성만 측정
+627,EX4,na,교통소음-우울 발생 건강 아웃컴
+628,EX4,na,주관적 기분·심리 평가만 측정
+629,EX2,na,실내 공공건물 IEQ 측정
+630,EX2,na,실내 canteen 음환경·대화행동
+631,EX5,na,고층 소음전파 측정·시뮬레이션 방법론
+632,EX4,na,시선이동 등 주의 반응만 측정
+633,EX5,na,Vienna 건강영향평가 시뮬레이션
+634,EX4,na,심근경색 발생 건강 아웃컴
+635,EX5,na,소음지도 meta-model 방법론
+636,EX4,na,군용기 소음 모니터링만·행태 없음
+637,EX1,na,great tit 활동패턴·빛·소음
+638,EX1,na,열대 owl 발성·도시화
+639,BORDERLINE,reverse,COVID 봉쇄 활동 변화와 도시 소음 변화 분석
+640,EX1,na,조류 종풍부도와 도시소음
+641,EX2,na,가정 내 명상앱 이용·옥외 공간 아님
+642,EX2,na,컨테이너선 선내 작업환경 소음
+643,EX1,na,rat 태내 소음 노출 학습
+644,EX3,na,보행 TPB 심리요인·음환경 변수 없음
+645,EX1,na,Crested Francolin 집단 울음
+646,EX4,na,bazaar 감각 지각 질적 평가만
+647,EX4,na,배달원 노출량 GIS 평가·행태 없음
+648,BORDERLINE,reverse,주민 활동 시간대가 정원 soundscape 변화와 연관
+649,EX4,na,공항건설 영향 주민 지각만 측정
+650,EX1,na,titi monkey 소음 구배 반응
+651,EX5,na,헤드폰 청취 문화 인문 논고
+652,EX1,na,COVID 소음감소와 조류 노래
+653,EX1,na,house sparrow 온실 노래·반응
+654,EX1,na,house wren 노래 조정·소음
+655,EX4,na,소음 짜증·청력손실만 측정
+656,EX5,na,LSTM 소음예측 방법론
+657,EX5,na,공원복원 자연실험 study protocol
+658,EX3,na,도로먼지 측정 연구·음환경 변수 없음
+659,EX1,na,white-crowned sparrow 세력권 질
+660,EX2,na,실내 실험실 음악-음식선택 실험

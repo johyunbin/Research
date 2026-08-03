@@ -1,0 +1,8 @@
+{
+  "seeds": 84,
+  "mapped": 84,
+  "backward_unique": 3456,
+  "forward_unique": 2407,
+  "candidates": 2797,
+  "new_after_dedup": 2073
+}

@@ -1,0 +1,101 @@
+﻿no,final_verdict,confidence,reason,screening_verdict,year,journal,title
+7,FINAL_INCLUDE,low,,INCLUDE,1978,Journal of Social Psychology,Effects of urban noise and sidewalk density upon pedestrian cooperation and tempo
+14,FINAL_INCLUDE,high,,INCLUDE,1988,Journal of Environmental Psychology,Urban stress and helping behavior: Effects of environmental overload and noise on behavior
+53,FINAL_INCLUDE,medium,,INCLUDE,2004,ERGONOMICS,Directional guidance from audible pedestrian signals for street crossing
+71,FINAL_INCLUDE,high,,INCLUDE,2007,LANDSCAPE AND URBAN PLANNING,Noise and well-being in urban residential environments:: The potential role of perceived a
+121,FINAL_INCLUDE,high,,INCLUDE,2010,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Effects of Changed Aircraft Noise Exposure on the Use of Outdoor Recreational Areas
+123,FINAL_INCLUDE,medium,,INCLUDE,2010,APPLIED ACOUSTICS,Factors influencing the sound preference in urban open spaces
+234,FINAL_EXCLUDE,high,주거지 소음 짜증·건강 설문·공공 옥외공간 행태 아웃컴 없음,BORDERLINE,2013,ARCHIVES OF ACOUSTICS,Urban Noise Annoyance Between 2001 and 2013-Study in a Romanian City
+271,FINAL_INCLUDE,medium,,INCLUDE,2014,International Journal of Interdisciplinary Social and Commun,Towards an evidence-based model for assessing urban squares as social places
+323,FINAL_INCLUDE,high,,INCLUDE,2016,APPLIED SCIENCES-BASEL,An Experimental Study on the Influence of Soundscapes on People's Behaviour in an Open Pub
+341,FINAL_INCLUDE,high,,INCLUDE,2016,SCIENCE OF THE TOTAL ENVIRONMENT,Effect of sound-related activities on human behaviours and acoustic comfort in urban open 
+372,UNCERTAIN,medium,불확실: 재활정원 공공접근성 불명확·행태 결과 발췌 미확인,INCLUDE,2016,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,The Role of Soundscape in Nature-Based Rehabilitation: A Patient Perspective
+379,FINAL_INCLUDE,medium,,INCLUDE,2016,NOISE MAPPING,Urban park soundscape in distinct sociocultural and geographical contexts
+406,FINAL_INCLUDE,medium,,INCLUDE,2017,SCIENCE OF THE TOTAL ENVIRONMENT,Effect of temporary open-air markets on the sound environment and acoustic perception base
+435,UNCERTAIN,medium,미확정: 회고적 소리기억 내러티브로 관찰가능 행태의 구체적 측정지표 부재·대상 공간이 옥외 공공공간과 실내(주택·시나고그·상점) 혼재,INCLUDE,2017,Sound Studies,Soundscape and sonic memory: dynamics of Jewish and Muslim day-to-day social interactions 
+461,FINAL_INCLUDE,high,,INCLUDE,2018,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed
+469,UNCERTAIN,medium,미확정: 자기보고 PEB 척도가 실제 행태인지 태도·의도인지 발췌로 불명·노출이 음향환경이 아닌 soundscape emotion(조절변수),INCLUDE,2018,ASIA PACIFIC JOURNAL OF TOURISM RESEARCH,Exploring tourists' soundscape emotion and its impact on sustainable tourism development
+480,FINAL_INCLUDE,high,,INCLUDE,2018,APPLIED SCIENCES-BASEL,Influence of Contextual Factors on Soundscape in Urban Open Spaces
+481,FINAL_INCLUDE,high,,INCLUDE,2018,FRONTIERS IN PSYCHOLOGY,Influence of Music on the Behaviors of Crowd in Urban Open Public Spaces
+492,FINAL_INCLUDE,high,,INCLUDE,2018,FRONTIERS IN PSYCHOLOGY,Public Space Users' Soundscape Evaluations in Relation to Their Activities. An Amsterdam-B
+494,FINAL_INCLUDE,high,,INCLUDE,2018,SCIENCE OF THE TOTAL ENVIRONMENT,"Relationships among satisfaction, noise perception, and use of urban green spaces"
+520,FINAL_INCLUDE,high,,INCLUDE,2019,ACTA ACUSTICA UNITED WITH ACUSTICA,An Exploratory Study on the Influence of Activities on Public Space Users' Descriptions of
+532,FINAL_INCLUDE,high,,INCLUDE,2019,PEERJ,Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons
+539,FINAL_INCLUDE,high,,INCLUDE,2019,URBAN FORESTRY & URBAN GREENING,Factors associated with soundscape experiences in urban green spaces: A case study in Rost
+560,FINAL_INCLUDE,high,,INCLUDE,2019,URBAN FORESTRY & URBAN GREENING,Perceptions and use of urban green spaces on the basis of size
+566,FINAL_INCLUDE,high,,INCLUDE,2019,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Soundtracking the Public Space: Outcomes of the Musikiosk Soundscape Intervention
+602,FINAL_INCLUDE,high,,INCLUDE,2020,BUILDING AND ENVIRONMENT,"Comparing associations among sound sources, human behaviors, and soundscapes on central bu"
+613,UNCERTAIN,low,미확정: 소음 지각-신체활동 연관 발췌 미확인·환경지각 종합 연구,BORDERLINE,2020,International Journal of Environmental Research and Public H,Environmental quality perceptions and health: A cross-sectional study of citizens of Kauna
+617,FINAL_INCLUDE,high,,INCLUDE,2020,SUSTAINABILITY,Examining the Associations between Oases Soundscape Components and Walking Speed: Correlat
+648,FINAL_EXCLUDE,medium,선호·주관적 지각만 측정·관찰 행태 아웃컴 없음,BORDERLINE,2020,SUSTAINABILITY,Residents' Spatial Perceptions of Urban Gardens Based on Soundscape and Landscape Differen
+661,FINAL_INCLUDE,medium,,INCLUDE,2020,APPLIED SCIENCES-BASEL,The Influence of Noise Emitted by Vehicles on Pedestrian Crossing Decision-Making: A Study
+665,FINAL_INCLUDE,high,,INCLUDE,2020,BUILDING AND ENVIRONMENT,The effects of sounds and food odour on crowd behaviours in urban public open spaces
+666,FINAL_INCLUDE,high,,INCLUDE,2020,LANDSCAPE AND URBAN PLANNING,The influence of human behavioral characteristics on soundscape perception in urban parks:
+694,FINAL_INCLUDE,medium,,BORDERLINE,2021,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Associations between Personal Attitudes towards COVID-19 and Public Space Soundscape Asses
+724,FINAL_INCLUDE,high,,INCLUDE,2021,EMOTION SPACE AND SOCIETY,Exploring the soundscape and the atmosphere of the Gigli di Nola cultural festival in Ital
+725,FINAL_INCLUDE,medium,,INCLUDE,2021,FRONTIERS IN PUBLIC HEALTH,Factors Affecting Perceived Health Benefits and Use Behaviors in Urban Green Spaces During
+726,UNCERTAIN,low,미확정: 음환경 측정 없음·활동유형과 청각요소 언급 연관만 존재,BORDERLINE,2021,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Forest Therapy Alone or with a Guide: Is There a Difference between Self-Guided Forest The
+729,FINAL_EXCLUDE,medium,음환경 노출 측정 없음·사적 주택 마당 자연접촉 연구,BORDERLINE,2021,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Increased Use of Porch or Backyard Nature during COVID-19 Associated with Lower Stress and
+732,FINAL_INCLUDE,medium,,INCLUDE,2021,BUILDING AND ENVIRONMENT,Investigating contextual influences on urban soundscape evaluations with structural equati
+746,FINAL_INCLUDE,medium,,INCLUDE,2021,TRAVEL BEHAVIOUR AND SOCIETY,"Perception of the built environment and walking in pericentral neighbourhoods in Santiago,"
+760,FINAL_INCLUDE,medium,,INCLUDE,2021,International Journal of Human Capital in Urban Management,Soundscape Assessment in Historical Urban Spaces Using Sound Walk Method and Kano Model
+761,FINAL_INCLUDE,high,,INCLUDE,2021,FORESTS,Soundscape Perceptions and Preferences for Different Groups of Users in Urban Recreational
+762,FINAL_INCLUDE,medium,,BORDERLINE,2021,FRONTIERS IN PSYCHOLOGY,Soundscape in Times of Change: Case Study of a City Neighbourhood During the COVID-19 Lock
+770,UNCERTAIN,low,음환경-행태 직접 연결 불명확: 음환경은 정서에만 연결됨,INCLUDE,2021,International Journal of Environmental Research and Public H,The influence of emotional health on the activity characteristics of the elderly and the s
+779,UNCERTAIN,low,미확정: 노출은 주거지 주소 기반 도로교통소음(28개 도시노출 중 1개)이고 행태(부모보고 신체활동·좌식·수면)가 공공 오픈스페이스 내 행태로 특정되지 않음,INCLUDE,2021,ENVIRONMENT INTERNATIONAL,Urban environment and obesity and weight-related behaviours in primary school children
+791,UNCERTAIN,low,"소음·통행량 병렬 측정만, 음환경-행태 결합분석 발췌에 미확인",BORDERLINE,2022,SENSORS,A Low Cost IoT Cyber-Physical System for Vehicle and Pedestrian Tracking in a Smart Campus
+799,FINAL_INCLUDE,medium,,BORDERLINE,2022,APPLIED SCIENCES-BASEL,Analysis of the Effects and Causes of Driver Horn Use on the Acoustic Environment at Urban
+804,FINAL_INCLUDE,high,,INCLUDE,2022,FORESTS,Audio-Visual Preferences for the Exercise-Oriented Population in Urban Forest Parks in Chi
+811,FINAL_EXCLUDE,medium,"행태 아웃컴 없음; 민원기록은 지각 대리지표, 도시 전역 스케일",BORDERLINE,2022,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC H,Comparative Diagnosis of the Urban Noise Problem from Infrastructural and Social Sensing A
+818,UNCERTAIN,medium,ERB 측정문항 미제시: 실행태 대 의도 구분 불가,INCLUDE,2022,LAND,Does Soundscape Perception Lead to Environmentally Responsible Behavior? A Case Study in L
+821,FINAL_INCLUDE,medium,,BORDERLINE,2022,SUSTAINABILITY,Effects of Sound Source Landscape in Urban Forest Park on Alleviating Mental Stress of Vis
+833,FINAL_INCLUDE,high,,INCLUDE,2022,JOURNAL OF TRANSPORT & HEALTH,How are air pollution and noise perceived en route? Investigating cyclists' and pedestrian
+858,UNCERTAIN,medium,방문빈도·체류시간 수집되나 사운드스케이프와의 분석 발췌에 미확인,BORDERLINE,2022,ACOUSTICS,Soundscape Approach in the Seaport of Ancona: A Case Study
+862,UNCERTAIN,low,인간 행태 직접 측정 없음: 여가 음원 비율로만 추론,INCLUDE,2022,FORESTS,Temporal and Spatial Characteristics of Soundscape Ecology in Urban Forest Areas and Its L
+880,UNCERTAIN,low,미확정: 노출은 주거지 Lden 도로교통소음이고 보행수·좌식시간이 옥외 공공공간 활동으로 특정되지 않음(소음은 신체활동과 무연관으로 보고),INCLUDE,2022,ENVIRONMENTAL RESEARCH,Urban environment and physical activity and capacity in patients with chronic obstructive 
+883,FINAL_INCLUDE,medium,,INCLUDE,2022,PEOPLE AND NATURE,Urban park soundscapes: Spatial and social factors influencing bird and traffic sound expe
+901,FINAL_INCLUDE,high,,INCLUDE,2023,ECOLOGICAL INDICATORS,Can acoustic indices reflect the characteristics of public recreational behavioral in urba
+909,UNCERTAIN,medium,설계스튜디오 교육 리뷰; 행태지도·soundwalk 병행하나 정량 관계분석 없음,BORDERLINE,2023,Sustainability (Switzerland),Designing Public Soundscapes through Social Architecture and Soundscape Approaches: Reflec
+912,UNCERTAIN,low,미확정: 지각 음환경질이 SEM 매개변수이고 신체활동도 자기보고 매개경로·음환경→신체활동 경로계수가 발췌에 미확인,INCLUDE,2023,SCIENCE OF THE TOTAL ENVIRONMENT,"Do objective and subjective traffic-related pollution, physical activity and nature exposu"
+930,FINAL_INCLUDE,medium,,INCLUDE,2023,SUSTAINABILITY,Measuring the Soundscape Quality in Urban Spaces: A Case Study of Historic Urban Area
+931,FINAL_INCLUDE,high,,INCLUDE,2023,LANDSCAPE AND URBAN PLANNING,Natural sounds can encourage social interactions in urban parks
+941,FINAL_INCLUDE,high,,INCLUDE,2023,LANDSCAPE ARCHITECTURE FRONTIERS,Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urb
+948,FINAL_EXCLUDE,medium,아웃컴이 사운드스케이프 지각·평가뿐; 경로는 배정된 노출조건,BORDERLINE,2023,FRONTIERS IN PSYCHOLOGY,Soundwalk path affecting soundscape assessment in urban parks
+951,FINAL_INCLUDE,high,,INCLUDE,2023,SUSTAINABLE CITIES AND SOCIETY,Sustainable design of running friendly streets: Environmental exposures predict runnabilit
+964,FINAL_INCLUDE,medium,,INCLUDE,2023,FRONTIERS IN PSYCHOLOGY,The effects of the natural visual-aural attributes of urban green spaces on human behavior
+971,FINAL_INCLUDE,high,,INCLUDE,2023,FORESTS,Thermal-Acoustic Interaction Impacts on Crowd Behaviors in an Urban Park
+979,FINAL_INCLUDE,high,,INCLUDE,2023,VISUAL COMMUNICATION,Walking through the city soundscape: an audio-visual analysis of sensory experience for pe
+980,UNCERTAIN,medium,"노출 지속시간이 매개변수로만 등장, 소리-행태 관계 발췌에 미확인",BORDERLINE,2023,FORESTS,White Spaces Unveiled: Investigating the Restorative Potential of Environmentally Perceive
+981,UNCERTAIN,medium,"행태 지표는 표본기술 수준, 인간활동-음향 연계는 해석적 서술",BORDERLINE,2024,BUILDINGS,A Study on Spatiotemporal Dynamics and Spatial Dependence of Sound Source Perception in Fu
+984,UNCERTAIN,low,"Outdoor scenic lake park and soundscape exposure are clear, but the excerpt does not show that staying behaviour (viewing scenery or rest) was actually measured; it may be an inference from the perception questionnaire rather than a behavioural outcome",INCLUDE,2024,LANDSCAPE RESEARCH,A study on the fusion of musical theme landscape and soundscape in Hefei Feicui Lake sceni
+999,UNCERTAIN,medium,"Reverse pathway is present (human activity type and intensity affect soundscape evaluation) but activities were simulated as recorded sound stimuli in a laboratory and all measured outcomes are perceptual (perceived dominance, acoustic comfort, PAQ) with no observed behaviour",INCLUDE,2024,SCIENCE OF THE TOTAL ENVIRONMENT,Comparative evaluation of soundscapes in human activities spatial contexts of pedestrian s
+1005,FINAL_INCLUDE,high,,INCLUDE,2024,HELIYON,Crowdsourced cycling data applications to estimate noise pollution exposure during urban c
+1009,UNCERTAIN,medium,아웃컴이 사회적 상호작용 의향(LoW) — 실제 행태 관찰 아님,BORDERLINE,2024,HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS,Effect of human sound component on the sociability of urban public spaces-a case study in 
+1018,FINAL_INCLUDE,medium,,INCLUDE,2024,ECOLOGICAL INDICATORS,Exploring Acoustic-Visual perception and satisfaction in urban Parks: Based on behavioral 
+1020,FINAL_INCLUDE,medium,,INCLUDE,2024,LAND,Exploring the Impact of Visual and Aural Elements in Urban Parks on Human Behavior and Emo
+1053,FINAL_INCLUDE,medium,,INCLUDE,2024,URBAN ECOSYSTEMS,Socio-environmental drivers of human-nature interactions in urban green spaces
+1069,FINAL_INCLUDE,high,,INCLUDE,2024,BUILDING AND ENVIRONMENT,The impact of the community's ' s sound environment on social interactions among residents
+1076,FINAL_INCLUDE,high,,INCLUDE,2024,FORESTS,Understanding the Role of Visitor Behavior in Soundscape Restorative Experiences in Urban 
+1110,FINAL_INCLUDE,high,,INCLUDE,2025,TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE,Decoding the impact of audiovisual street environment features on cycling volumes: Insight
+1115,FINAL_INCLUDE,medium,,INCLUDE,2025,PLOS ONE,Does noise pollution influence modal choices? A random forest application
+1121,UNCERTAIN,medium,아웃컴이 열·음향 쾌적 평가뿐; PAL(신체활동수준)이 음향쾌적에 영향하는 역방향 후보이나 행태 측정 인정 여부 불확정,INCLUDE,2025,JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING,Effects of interactions between thermal and acoustic environments on subjective comfort ev
+1122,FINAL_INCLUDE,high,,INCLUDE,2025,JOURNAL OF ENVIRONMENTAL PSYCHOLOGY,Effects of natural sound tempo and social conditions on social Interaction: An interactive
+1138,UNCERTAIN,low,"행태=경적 사용, 아웃컴은 음향지표 — 행태 아웃컴 미측정",BORDERLINE,2025,ACOUSTICS,Horn Use Patterns and Acoustic Characteristics in Congested Urban Traffic: A Case Study of
+1141,UNCERTAIN,medium,주거 근린 노출 연구로 공공 오픈스페이스 특정 불가; 소음→신체활동 경로는 있으나 방법 발췌 결손으로 PA 측정법 미확인,INCLUDE,2025,URBAN FORESTRY & URBAN GREENING,"How objective and subjective greenspace, combined with air and noise pollution, impacts me"
+1149,FINAL_INCLUDE,medium,,INCLUDE,2025,ARTS & HEALTH,Landscapes of silence: designing quiet art spaces for inner peace in urban chaos
+1154,FINAL_EXCLUDE,high,옥외 공공공간 아님 — 주거소음 노출·직장 내 행태 설문,BORDERLINE,2025,FRONTIERS IN PUBLIC HEALTH,Lunch breaks as a buffer: mitigating the negative effects of road traffic noise on urban e
+1174,FINAL_INCLUDE,high,,INCLUDE,2025,TRANSPORTATION RESEARCH PART D-TRANSPORT AND ENVIRONMENT,Synergistic role of audio-visual perceptions in promoting bikeshare for active travel
+1177,FINAL_INCLUDE,medium,,BORDERLINE,2025,ACOUSTICS,"The Impact of Soundscape on Pedestrian Comfort, Perception and Walking Experience in Béjaï"
+1178,FINAL_INCLUDE,high,,INCLUDE,2025,APPLIED ACOUSTICS,The effects of the interaction between sewage odour and sounds on crowd behaviours in urba
+1202,UNCERTAIN,medium,아웃컴은 사운드스케이프 평가뿐; 진행 중 활동·이벤트가 예측변수로 등장하나 행태의 체계적 관찰·코딩 여부 발췌에 미확인,INCLUDE,2026,Journal of Urban Management,Assessing the impact of landscape context on soundscape quality in multifunctional urban o
+1211,FINAL_INCLUDE,medium,,INCLUDE,2026,EUROPEAN PHYSICAL JOURNAL-SPECIAL TOPICS,Chromatic recurrences applied to joint walking time series of a blind mother-child dyad
+1221,FINAL_INCLUDE,medium,,INCLUDE,2026,APPLIED ACOUSTICS,Effect of soundscapes and crowd density on economic behavior in commercial streets
+1226,FINAL_INCLUDE,medium,,INCLUDE,2026,INTERNATIONAL JOURNAL OF HYGIENE AND ENVIRONMENTAL HEALTH,Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's
+1232,UNCERTAIN,medium,전문가 포커스그룹 진술 — 특정 옥외공간 행태 실측 아님,BORDERLINE,2026,SUSTAINABILITY,Exploring the Soundscape Perception of Streets: A Thematic Analysis of Focus Groups with E
+1242,FINAL_INCLUDE,medium,,INCLUDE,2026,LANDSCAPE ARCHITECTURE FRONTIERS,How Individual and Sound Characteristics Interactively Determine Perceived Soundscape Rest
+1243,FINAL_EXCLUDE,high,서술적 리뷰(비실증)·관찰 행태 아웃컴 없음,INCLUDE,2026,Landscape Architecture Frontiers,How Individual and Sound Characteristics Interactively Determine Perceived Soundscape Rest
+1253,FINAL_EXCLUDE,medium,행태 아웃컴 측정 없음 — SNS 텍스트 기반 사운드스케이프 인식 매핑,BORDERLINE,2026,PLOS ONE,Mapping urban soundscape patterns using user-generated content: A place model approach to 
+1258,FINAL_INCLUDE,high,,INCLUDE,2026,URBAN SCIENCE,Multisensory Interactions in Greenway Plazas of Differing Openness and Effects on User Beh
+1272,FINAL_INCLUDE,high,,INCLUDE,2026,TRANSPORTATION RESEARCH PART F-TRAFFIC PSYCHOLOGY AND BEHAVI,Perception and response of cyclists interacting with autonomous electric vehicles - a virt
+1280,FINAL_INCLUDE,medium,,INCLUDE,2026,BUILDINGS,Research on the Effect of Rural Composite Environments on the Spatiotemporal Behavior and 
+1306,FINAL_INCLUDE,high,,INCLUDE,2026,JOURNAL OF TRANSPORT & HEALTH,Unveiling the nonlinear effects of street-level audiovisual environments on urban cycling 

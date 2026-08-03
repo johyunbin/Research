@@ -1,0 +1,192 @@
+### RECORD ID=984 | screening_verdict=INCLUDE | year=2024
+JOURNAL: LANDSCAPE RESEARCH
+TITLE: A study on the fusion of musical theme landscape and soundscape in Hefei Feicui Lake scenic spot, China
+DOI: 10.1080/01426397.2024.2307003
+PAGES: 19
+
+--- HEAD (title/abstract/intro) ---
+A study on the fusion of musical theme landscape and 
+soundscape in Hefei Feicui Lake scenic spot, China
+Su Wanga 
+and Qingqing Xiaob 
+aCollege of Art, Anhui University, Hefei, China; bSchool of Biology, Food and Environment, Hefei University, 
+Hefei, China 
+ABSTRACT 
+The health of the urban public can be promoted by shaping ecological 
+landscapes and reducing noise. Visual landscapes and soundscape, con­
+sidered as important components of sustainable urban development, 
+are becoming increasingly concerned. In this study, Hefei Feicui Lake 
+scenic spot in China was regarded as an example. By using question­
+naire survey, soundwalks and acoustic monitoring methods, which 
+aimed to understand people’s sense of identification with musical 
+theme landscape and soundscape in the area, and further explored the 
+effects of the interaction between musical theme landscape and sound­
+scape on the perceived soundscape restoration of visitors. The results 
+showed that musical theme landscape and soundscape could affect 
+people’s emotions on the individual level and their behaviours, such as 
+staying (viewing the scenery or rest) on the social level. On this basis, a 
+strategy for creating urban public space inspired by the art of music 
+was proposed as the topic of this study.
+KEYWORDS 
+Music; soundscape design; 
+landscape; design; 
+sculpture; fountain; 
+perception; the urban 
+public space; acoustics; art 
+Introduction
+From a visual perspective, the impact of urban landscapes on human psychology is gradually 
+receiving attention (Deng et al., 2020; Jeon & Jo, 2020; Tan, Hasegawa, Lau, & Tang, 2022). On 
+the other hand, noise has a negative impact on people’s daily lives from an auditory perspective, 
+and many countries are emphasising the negative impact of noise on public health (Wang, He, 
+Li, & Xiao, 2023). Therefore, the urban landscape and acoustic environment, regarded as impor­
+tant environmental elements in creating the urban overall space, gradually gained increasing 
+attention and have been studied thoroughly (Deng et al., 2020; Jeon & Jo, 2020; Tan et al., 2022; 
+Wang, He, Li, et al., 2023). Although humans shaped landscapes that decorated the environment 
+or eliminated these ‘noise’ in urban spaces, a single type of landscape or soundless city is impos­
+sible to live in and also unacceptable since other possibilities exist. From another perspective, 
+the landscape and the sound of a city are reflections of people’s public life, playing a complex 
+role in the city (Deng et al., 2020; Wang, He, Li, et al., 2023; Wang, He, Xiao, 2023).
+In the academic community, more and more scholars are realising that the study of landscape 
+and sound relied on the physical measurements, especially the study of vision and sound levels 
+(Deng et al., 2020; Jeon & Jo, 2020; Kang, 2023; Tan et al., 2022). The urban landscape includes 
+natural and artificial landscape elements. The elements of natural landscape mainly refer to the 
+natural landscape, such as mountains, ancient trees, stones, rivers, lakes, and oceans. The main 
+CONTACT Su Wang 
+wangsu@ahu.edu.cn; Qingqing Xiao 
+xiaoqq@hfuu.edu.cn 
+ß 2024 Landscape Research Group Ltd
+LANDSCAPE RESEARCH 
+2024, VOL. 49, NO. 3, 410–427 
+https://doi.org/10.1080/01426397.2024.2307003 
+
+elements of artificial landscape include cultural relics and historical sites, landscaping, artistic 
+sketches, commercial markets, buildings and squares (Tan et al., 2022). In the 1960s, Canadian 
+composer R. Murray Schafer proposed the concept of ’soundscape’ (Schafer, 1977). According to 
+International Organization for Standardization (ISO) 12913-1:2014 Acoustics-Soundscape-Part 1: 
+Definition and Conceptual Framework (2014), the soundscape concept focuses on the interrela­
+tionship between sound, person and environment, both in space and time, mainly includes 
+natural sound, artificial sound and historical sound, cultural sound and folk activity sound. The 
+aforementioned standard was further developed in 2018 and 2019 through ISO/TS 12913-2: 2018 
+(data collection and reporting requirements) (2018) and ISO/TS 12913-3:2019 (data analysis) 
+(2019). Another standard (design and intervention) is currently being prepared. The study of 
+soundscape involves multiple disciplines, such as acoustics, musicology, psychology, and main 
+studies of the interrelationships between human hearing, acoustic environment and society. It 
+views the acoustic environment as a resource rather than a physical parameter (Wang, He, Li, 
+et al., 2023; Wang, He, Xiao, 2023; Wang & Xiao, 2023a; Wang, Shao, Duan, et al., 2022).
+Musical theme landscape is the art of landscape created by using relevant musical objects as 
+materials. Musical theme landscape and soundscape in large urban green parks can not only alle­
+viate the pressure of tourists but also establish a certain relationship between tourists and soci­
+ety (Gozalo, Morillas, Gonzalez, & Moraga, 2018; Miterska & Kompała, 2023; Valipour et al., 2020; 
+Zhou, Dai, Zhao, Hao, & Wen, 2022). For example, Jeon and Jo (2020) and Deng et al. (2020) ela­
+borated on the importance of visual and auditory landscapes. A previous study confirmed that 
+the widespread use of ‘pocket parks’ for social activities could benefit the health of the residents 
+with mental health or psychological stress (Stigsdotter & Peschardt, 2014). Consequently, it is 
+necessary to engage healthy residents in social activities that are even more important for the 
+residents with psychological stress. However, the functional research on the soundscape men­
+tioned above was only limited to the evaluation of visual or auditory functions.
+Currently, there are few studies on the integration of visual and auditory functions. Especially, 
+there are few design theories for musical theme landscape, which has led to the blindness in the 
+creation of musical theme landscapes in the urban public space, such as the lack of prominent 
+themes and the singular of landscape. At the same time, as music is
+
+--- METHODS/RESULTS EXCERPT ---
+Methods
+Study design
+Feicui scenic spot (11715’ N, 31.86’ E) is located at No. 1 Rongcheng Road, Economic and 
+Technological Development Zone, Hefei, China, and it was a key project in Hefei in 2006 and is 
+also a national 4 A level scenic area (Figure 7(c)). The whole scenic spot covers an area of about 
+135 hm2, including about 63 hm2 of the lake surface, which was reconstructed from the Gugeng 
+Reservoir (Wang, He, Xiao, 2023). The terrain is open and gentle, and the water surface and vari­
+ous trees combine to create a beautiful natural scenery in the spot. Feicui Lake scenic spot is div­
+ided into four districts and one park, ecological leisure and entertainment scenic spots, dam 
+landscape interaction area, Feicui Lake Welcome Hotel Area, and Feicui Park (Wang, He, Li, et al., 
+2023). As an ecological scenic area, it mainly consisted of the green space and water surface 
+Figure 7. Hefei Feicui Lake scenic spot (function partition). (a) Musical Foundation. (b) Violin Island. (c) Feicui Lake Scenic 
+Spot (Su Wang).
+416
+S. WANG AND Q. XIAO
+
+with rich plants, trees, shrubs, and a combination of evergreen and spring, summer, autumn and 
+winter. Visitors can explore it from tree formations, lawns, and study roads appreciate the scen­
+ery, and experience the culture of the scenic area in the reading space. The other landscape ele­
+ments can also make tourists feel as if they are far away from the city, and come to the green 
+countryside villages to completely relax their mood.
+The main areas of this study were marked in Figure 7. The Feicui Lake scenic spot adopts vari­
+ous forms of musical theme landscape construction, and the violin island (Figure 7(b)), located in 
+the centre of Feicui Lake, draws inspiration from the violin body. The two sides of the violin island 
+are curved, and the entire body is like a gourd with symmetrical, uniform and gradual characteris­
+tics. This shape is close to the free curve advocated by modern gardens. There is also a musical 
+fountain in the lake (Figure 7(a)), accompanied by the sound of music, which can dance in differ­
+ent forms in night, to achieve a perfect combination of fountain water type, lighting and colour 
+changes, and melody changes, making the musical theme landscape more vivid and rich in con­
+tent, which can bring shock to the tourists on site. In this study, the visual and auditory of tourists 
+were investigated by determining on-site sounds through sounwalks, which involved in exploring 
+an area through walking, listening to and recording all sounds heard, reflecting on their social and 
+cultural background and significance, improving people’s perception of sound, and the perceptual 
+relationship between people and the environment. This provides a method for studying the cul­
+tural, political, and social significance of urban soundscapes (Xie, Zhang, Lee, Lim, & Lee, 2021). 
+Meanwhile, targeted surveys and questionnaire surveys were conducted to provide certain design 
+strategies for creating musical theme landscapes in the urban public space.
+Questionnaire
+This study adopted a combination of soundscape walking and landscape satisfaction question­
+naire survey. Soundwalks is commonly used in environmental acoustics research, allowing partici­
+pants to carefully listen to the soundscape environment and the sounds they have experienced 
+and make judgments. In order to study the acoustic environment of the Feicui Lake scenic spot, 
+a soundwalks with 10 sampling points (break locations), at the main scenic spots of Feicui Lake 
+was shown in Figure 8. During the research process, 273 Feicui Lake scenic spot tourists were 
+randomly interviewed using the Likert scale. This study was conducted in March 2023 in Hefei 
+Feicui Lake scenic spot. BSWA801 (Beijing Tongde Entrepreneurship Technology Co., Ltd., Beijing, 
+China) sound level metres, the Norsonic Nor121 (Norsonic Co., Ltd., Tranby, Norway) and 
+HUAWEI nova 3i Mobile (Huawei Technologies Co., Ltd., Shenzhen, China) were used for record­
+ing and filming, respectively.
+Based on the environmental characteristics of different locations, an evaluation of the corre­
+sponding urban space and soundscape design was obtained. After detailed measurements, the 
+average sound pressure level (LAeq) was determined on the pedestrian walkway of the violin island 
+in the central area of Feicui Lake scenic spot, and BSWA801 sound level metre (Beijing Tongde 
+Entrepreneurship Technology Co., Ltd., Beijing, China) was used on a tripod 1.5 metres above the 
+ground. The SPL was measured using the Norsonic Nor121 (Norsonic Co., Ltd., Tranby, Norway), and 
+then analysed using 01 dB software (01dBMetravib Co., Ltd., Paris, France). During the measurement 
+process, the temperature was 20 C and the relative humidity of the research area was 60%. The 
+measurements were made according to the ISO sound level standards prepared by the 
+International Organisation for Standardisation (ISO 12913-1:2014 Acoustics—Soundscape—Part 1: 
+Definition and Conceptual Framework). Three project personnels were conducted simultaneously by 
+three graduate students with research experience.
+The questionnaire survey was conducted voluntarily by the respondents and obtained written 
+informed consent from all study participants. Before filling in the questionnaire, it was confirmed 
+that the respondents’ hearing was normal through questioning. The questionnaires were issued 
+LANDSCAPE RESEARCH
+417
+
+on 3 March 2023 and collected on 6 March. A total of 300 questionnaires were distributed using 
+the soundscape stroll and questionnaire survey (Richter scale), and 273 valid questionnaires were 
+collected (Table 1), with a questionnaire recall rate of 91%. After excluding questionnaires with 
+incomplete or obvious errors in answers, a total of 262 valid questionnaires were collected, with 
+an effective rate of 87.33%. The data input is conducted by professionally trained researchers 
+fairly and objectively to ensure the correct process of dat
+
+--- TABLE/FIGURE CAPTIONS ---
+Figure 1, Han Ethnic Barrier, 2020). 
+Figure 2, Ningbo Tourism, 2017). After 
+Figure 3, Dahe Network, 2016), which was mainly composed 
+Figure 1. ‘Tree Array Flower Belt’ scenic area (Han Ethnic Barrier, 2020).
+Figure 2. ‘Water Piano’ sculpture (Ningbo Tourism, 2017).
+Figure 3. Sea Organ (Dahe Network, 2016).
+Figure 4); the total area is 
+Figure 5), and this also showed the 
+Figure 6).
+Figure 4. Wild Goose Pagoda Musical Fountain (Baidu, 2023).
+Figure 5. Decomposition diagram for model building (Su Wang).
+Figure 6. Research procedures (Su Wang).
+Figure 7(c)). The whole scenic spot covers an area of about 
+Figure 7. Hefei Feicui Lake scenic spot (function partition). (a) Musical Foundation. (b) Violin Island. (c) Feicui Lake Scenic 
+Figure 7. The Feicui Lake scenic spot adopts vari­
+Figure 7(b)), located in 
+Figure 7(a)), accompanied by the sound of music, which can dance in differ­
+Figure 8. During the research process, 273 Feicui Lake scenic spot tourists were 
+Table 1), with a questionnaire recall rate of 91%. After excluding questionnaires with 
+Figure 9. In this survey, the proportion 
+Table 1) is about the 
+Figure 8. Ten sampling points in Hefei Feicui Lake scenic spot (image adapted by Su Wang from Baidu Maps).
+Table 1. The visual and auditory scale of Hefei Feicui Lake scenic spot.
+Table 2), showing that the reliability and validity of the questionnaire met the requirements.
+Figure 8), three replicates were used and the following conclusions were 

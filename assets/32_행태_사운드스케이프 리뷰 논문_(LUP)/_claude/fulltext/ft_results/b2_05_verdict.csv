@@ -1,0 +1,10 @@
+no,final_verdict,exclude_reason,confidence
+1110,FINAL_INCLUDE,,high
+1121,UNCERTAIN,아웃컴이 열·음향 쾌적 평가뿐; PAL(신체활동수준)이 음향쾌적에 영향하는 역방향 후보이나 행태 측정 인정 여부 불확정,medium
+1122,FINAL_INCLUDE,,high
+1141,UNCERTAIN,주거 근린 노출 연구로 공공 오픈스페이스 특정 불가; 소음→신체활동 경로는 있으나 방법 발췌 결손으로 PA 측정법 미확인,medium
+1149,FINAL_INCLUDE,,medium
+1174,FINAL_INCLUDE,,high
+1202,UNCERTAIN,아웃컴은 사운드스케이프 평가뿐; 진행 중 활동·이벤트가 예측변수로 등장하나 행태의 체계적 관찰·코딩 여부 발췌에 미확인,medium
+1211,FINAL_INCLUDE,,medium
+1221,FINAL_INCLUDE,,medium

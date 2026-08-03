@@ -1,0 +1,12 @@
+﻿no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+1115,quantitative_descriptive,Y,Y,Y,Y,CT,Y,Y,4,high,"도시 간 소음지표 비등가(16h 6등급 대 18h 5등급), 2011 센서스와 2017 소음의 시점 불일치"
+1121,quantitative_descriptive,Y,Y,Y,N,Y,CT,N,2,low,"학생 92.6% 편중, 구간평균 회귀로 R2 과대, 상호작용 추론에 검정 부재"
+1122,quantitative_nonrandomised,Y,Y,N,CT,CT,N,CT,0,low,"온라인 편의표집과 연령 편중, 재생 음압 미통제, 교란 보정·조작점검 부재"
+1138,quantitative_descriptive,Y,Y,CT,N,Y,CT,N,1,low,"통계분석 전무(표준편차·검정 없음), 인터뷰 30명 인구특성과 질적 분석절차 미보고"
+1149,mixed_methods,Y,Y,Y,N,N,N,N,1,low,"표본수·장비·척도 출처 내부 모순, 통계 계수 미보고, 정량 귀무결과와 결론 상충"
+1174,quantitative_descriptive,Y,Y,Y,CT,CT,Y,Y,3,moderate,"청각지표가 SVI 예측치(현장 r=0.575), 평일 2일 한정, 개인 사회경제 속성 미통제"
+1177,mixed_methods,Y,Y,Y,Y,N,CT,Y,3,moderate,"정량 표본 소규모로 대표성 저자 부인, 정성 코딩 신뢰도 미보고, 불일치 논의 부재"
+1178,quantitative_nonrandomised,Y,Y,CT,Y,Y,N,Y,3,moderate,"취기 조건이 다른 날에 배정돼 날짜와 교락, 구형성 위배에 보정 미기재"
+1202,quantitative_descriptive,Y,Y,Y,N,Y,CT,CT,2,low,"학생 편의표집으로 주민 대표성 결여, 1인 다응답의 군집 상관 미보정"
+1211,quantitative_descriptive,Y,Y,Y,N,CT,Y,Y,3,moderate,"단일 사례(모녀 1쌍)로 일반화 불가, 음환경 노출을 비교정 LUFS로 이분화"
+1221,quantitative_descriptive,Y,Y,Y,N,N,CT,CT,1,low,"핵심 척도 신뢰도 alpha 0.64~0.67, 본문 계수와 표 값 불일치, 평일·단일 가로 한정"

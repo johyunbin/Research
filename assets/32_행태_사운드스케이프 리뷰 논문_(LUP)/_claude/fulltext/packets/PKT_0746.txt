@@ -1,0 +1,215 @@
+### RECORD ID=746 | screening_verdict=INCLUDE | year=2021
+JOURNAL: TRAVEL BEHAVIOUR AND SOCIETY
+TITLE: Perception of the built environment and walking in pericentral neighbourhoods in Santiago, Chile
+DOI: 10.1016/j.tbs.2021.01.002
+PAGES: 15
+
+--- HEAD (title/abstract/intro) ---
+Travel Behaviour and Society 23 (2021) 192–206
+Available online 3 February 2021
+2214-367X/© 2021 Hong Kong Society for Transportation Studies. Published by Elsevier Ltd. All rights reserved.
+Perception of the built environment and walking in pericentral 
+neighbourhoods in Santiago, Chile 
+Marie Geraldine Herrmann-Lunecke a,*, Rodrigo Mora a, Paloma Vejares b 
+a Universidad de Chile, Portugal 84, Santiago, Chile 
+b Universidad Diego Portales, República 180, Santiago, Chile 
+A R T I C L E I N F O 
+Keywords: 
+Walking 
+Perception 
+Built environment 
+Walking interviews 
+Walkability 
+Chile 
+A B S T R A C T 
+Walking is important as a sustainable and healthy transport mode. Yet, walking is strongly influenced by the built 
+environment and the socio-cultural characteristics of the walker. However, the impact of the built environment 
+on walking and “walkers” has scarcely been studied in a Latin American context, such as Chile. This research 
+explores which elements of the built environment ease and, contrarily, which elements hinder walking in six 
+pericentral neighbourhoods in Santiago, Chile, according to self-reported walking experiences of local residents 
+of different socioeconomic backgrounds, ages and genders. Through “walking interviews” with one hundred and 
+twenty residents conducted during spring 2018, this article examines how walkers perceive elements of the built 
+environment and how those elements elicit emotions, affecting people’s travel behaviour. Self-reports from 
+walkers reveal that the presence of trees, wide sidewalks and active uses ease walking, eliciting wellbeing and 
+happiness. On the contrary, residents declare that traffic noise, motorized traffic, narrow and deteriorated 
+sidewalks, and difficult crossings hinder walking, especially for older adults and women, causing them stress, 
+fear and anger. Finally, this article reflects upon how walking can be promoted through a more pedestrian- 
+friendly design of the built environment, by considering self-reported walking experiences of local residents. 
+1. Introduction 
+Walking is a sustainable and healthy transport mode. Studies show 
+that walking improves the physical and mental health of urban pop­
+ulations (D’Haese et al., 2015; Hill et al., 2003; Morgan et al., 2010; 
+Siqueira Reis et al., 2013; Williams and Thompson, 2013), reducing 
+obesity and enhancing cardiovascular health. Moderate to vigorous 
+walking can reduce tension and stress, and even improve sleep (CDC, 
+2012). Walking is also crucial for urban vitality and social interaction 
+(Jacobs, 1961; Hermann and Mora, 2017), enhances “citizenship” 
+(Loukaitou-Sideris and Ehrenfeucht, 2009) and contributes to the se­
+curity of urban spaces (Hillier, 1996). 
+For these reasons, walking has received worldwide attention since 
+the mid-1990s. For example, in the United States and United Kingdom, 
+walking has been promoted as an effective strategy to enhance physical 
+activity and mitigate obesity (CDC, 2012; Lean et al., 2006). Meanwhile, 
+in Chile, the recent National Urban Development Policy has set out that 
+walking should be promoted in urban environments (MINVU, 2014). 
+It has been argued that walking is strongly conditioned by the socio- 
+cultural characteristics of the walker (e.g. gender, age, income, culture) 
+and environmental conditions such as noise, motorized traffic, weather 
+and topography, among others (Solnit, 2000). Furthermore, a prominent 
+role has been given to the built environment, since the urban form and 
+the presence of certain physical elements along streets—and their 
+characteristics—seem to ease or, on the contrary, make it difficult to 
+travel by foot (Valenzuela-Montes and Talavera-García, 2015). 
+The term “walkability” was introduced into planning literature 
+during the nineties, arguing that increased walkability could lead to 
+more walking. However, no clear definition of walkability exists among 
+practitioners and urban planners. Some definitions relate walkability to 
+the built environment and its characteristics linked, either positively or 
+negatively, to walking, while others focus on the social or health-related 
+outcomes of walkable places (Forsyth, 2015; Dovey and Pafka, 2019). In 
+other cases, walkability has even been used as a proxy for good urban 
+design (Forsyth, 2015; Speck, 2012). It is important to point out that 
+most approaches to walkability have focused on meso-scale, rather than 
+micro-scale attributes of the built environment such as sidewalk width 
+or the presence of trees in a given block (Arellana et al., 2019). 
+Walkability has further been related to the idea that urban envi­
+ronments can elicit subjective perceptions in individuals. This is what 
+* Corresponding author. 
+E-mail addresses: mherrmann@uchile.cl (M.G. Herrmann-Lunecke), rodrigomora@uchile.cl (R. Mora), paloma.vejares@mail.udp.cl (P. Vejares). 
+Contents lists available at ScienceDirect 
+Travel Behaviour and Society 
+journal homepage: www.elsevier.com/locate/tbs 
+https://doi.org/10.1016/j.tbs.2021.01.002 
+Received 12 January 2020; Received in revised form 15 August 2020; Accepted 6 January 2021 
+
+Travel Behaviour and Society 23 (2021) 192–206
+193
+D¨orrzapf et al. (2019) considers as a wider definition of walkability, in 
+the sense that it incorporates perceptions of the built environment, more 
+difficult to register or quantify, such as perception of safety (Ewing et al., 
+2006) or aesthetic variables (Borst et al., 2009), which might affect 
+travel behaviour (D¨orrzapf et al., 2019). 
+Although there is a growing interest among Latin American re­
+searchers on this subject (Arellana et al., 2019; Herrmann-Lunecke et al., 
+2020b), most of the literature addressing the built environment and 
+walking has been developed in Europe and the United States. Indeed, the 
+impact of the built environment on walking and “walkers” has scarcely 
+been studied in a Latin American context, including Chile. The majority 
+of the Latin American literature has focused 
+
+--- METHODS/RESULTS EXCERPT ---
+Methodology, Writing - original draft. Paloma Vejares: Methodology, 
+Formal analysis, Investigation, Visualization. 
+Acknowledgements 
+This work was supported by ANID under grant Fondecyt Regular 
+N◦1200527 and by CONICYT under grant Fondecyt Regular N◦1170292. 
+Thanks are extended to Alemka Tomicic and to the research assis­
+tants Soledad Monsalve and Carla Morales. 
+Declaration of Interest Statement 
+Declarations of interest: none. 
+References 
+Adkins, A., Makarewicz, C., Scanze, M., Ingram, M., Luhr, G., 2017. Contextualizing 
+walkability: do relationships between built environments and walking vary by 
+socioeconomic context? J. Am. Plann. Assoc. 83 (3), 296–314. 
+Akyelken, N., 2013. Development and gendered mobilities: Narratives from the women 
+of Mardin, Turkey. Mobilities 8 (3), 424–439. 
+Alcaíno, P., Guti´errez, P., 2005. Santas o Mundanas: Paradojas y coerciones en el 
+consumo de las mujeres. Fundaci´on Instituto de la Mujer. 
+Alfonzo, M.A., 2005. To Walk or Not to Walk? The hierarchy of walking needs. Environ. 
+Behav. 37 (6), 808–836. https://doi.org/10.1177/0013916504274016. 
+Allen, H., C´ardenas, G., Pereyra, L. and Sagaris, L. 2019. Ella se mueve segura. Un estudio 
+sobre la seguridad personal de las mujeres y el transporte público en tres ciudades de 
+Am´erica Latina. Caracas: CAF y FIA Foundation. Retrieved from http://scioteca.caf. 
+com/handle/123456789/1405. 
+Anderson, J., 2004. Talking whilst walking: a geographical archaeology of knowledge. 
+Area 36 (3), 254–261. 
+Andrews, G.J., Hall, E., Evans, B., Colls, R., 2012. Moving beyond walkability: On the 
+potential of health geography. Soc. Sci. Med. 75 (11), 1925–1932. 
+Arellana, J., Saltarin, M., Larra˜naga, A.M., Alvarez, V., Henao, C., 2019. Urban 
+walkability considering pedestrians’ perceptions of the built environment: a 10-year 
+9 Sidewalks in residential areas should have a minimum width of 2.50 m, 
+which allows two wheelchairs to pass by simultaneously (Herrmann-Lunecke, 
+2016). 
+10 The General Ordinance of Urbanism and Construction sets out that two-lane 
+roads must be 7 m wide, irrespective of the speed limit, or if it is a local or main 
+street (MINVU, 2010). On the contrary, the minimum width for sidewalks is 
+only 1.2 m in residential streets and 2 m in commercial streets, which is 
+insufficient (Herrmann-Lunecke et al., 2020b). 
+M.G. Herrmann-Lunecke et al. 
+
+Travel Behaviour and Society 23 (2021) 192–206
+205
+review and a case study in a medium-sized city in Latin America. Transp. Rev. 
+(forthcoming). 
+Avila, M., Martínez-Ferrer, B., Vera, J., Bahena, A., Musitu, G., 2015. Victimizaci´on, 
+miedo al delito y cambios en las rutinas cotidianas en un contexto de alta 
+criminalidad, en funci´on del g´enero. Revista Espa˜nola de Investigaci´on 
+Criminol´ogica: REIC 13, 4–22. 
+Benediktsson, M.O., 2018. Where inequality takes place: A programmatic argument for 
+urban sociology. City Commun. 17 (2), pp. 
+Berding, U., Kulinski, O., y Selle, K., 2003. St¨adte als Standortfaktor: ¨Offentlicher Raum. 
+Bundesamt für Bauwesen und Raumordnung, Bonn. 
+Bergeron, J., Paquette, S., Poullaouec-Gonidec, P., 2014. Uncovering landscape values 
+and micro-geographies of meanings with the go-along method. Landscape Urban 
+Plann. 122, 108–121. 
+Bilal, U., Alazraqui, M., Caiaffa, W.T., Lopez-Olmedo, N., Martinez-Folgar, K., 
+Miranda, J.J., Rodriguez, D.A., Vives, A., Diez-Roux, A.V., 2019. Inequalities in life 
+expectancy in six large Latin American cities from the SALURBAL study: an 
+ecological analysis. Lancet Planet. Health 3 (12), e503–e510. 
+Berto, R. 2014. The role of nature in coping with psycho-physiological stress: a literature 
+review on restorativeness. Behavioral sciences, 4(4), pp.394-409.394-417. 
+Borst, H.C., de Vries, S.I., Graham, J.M., van Dongen, J.E., Bakker, I., Miedema, H.M., 
+2009. Influence of environmental street characteristics on choice of elderly people. 
+J. Environ. Psychol. 29 (4), 477–484. 
+Bostock, L., 2001. Pathways of disadvantage? Walking as a mode of transport among 
+low-income mothers. Health Soc. Care Community 9 (1), 11–18. 
+Butler, M., Derrett, S., 2014. The walking interview: An ethnographic approach to 
+understanding disability. Internet J. Allied Health Sci. Pract. 12 (3), 6. 
+Carpiano, R.M., 2009. Come take a walk with me: The “Go-Along” interview as a novel 
+method for studying the implications of place for health and well-being. Health Place 
+15 (1), 263–272. 
+CEAD, Centro de Estudios y An´alisis del Delito. 2019. Estadísticas delictuales. Accesed 
+from http://cead.spd.gov.cl/estadisticas-delictuales/. 
+Center for Disease Control (CDC-USA), 2012. Vital signs: walking among adults, United 
+States, 2005 and 2010. MMWR Morb. Mortal. Wkly Rep. 61 (31), 595–601. 
+Cepal, 2015. Sexual harassment in public spaces: the city in debt with the rights of 
+women. Eclac, United Nations. Accessed from https://www.cepal.org/en/notas/ 
+acoso-sexual-espacio-publico-la-ciudad-deuda-derechos-mujeres. 
+Cervero, R., Kockelman, K., 1997. Travel demand and the 3Ds: Density, diversity, and 
+design. Transp. Res. Part D: Transp. Environ. 2 (3), 199–219. 
+Cilliers, E.J., Timmermans, W., Van den Goorbergh, F., Slijkhuis, J., 2015. Green place- 
+making in practice: From temporary spaces to permanent places. J. Urban Des. 20 
+(3), 349–366. 
+Clement, S., Waitt, G., 2017. Walking, mothering and care: a sensory ethnography of 
+journeying on-foot with children in Wollongong, Australia. Gender Place Cult. 24 
+(8), 1185–1203. 
+Conaset,, 2017. Observatorio de Datos. Accessed from. https://www.conaset.cl/pro 
+grama/observatorio-datos-estadistica/. 
+Contrucci, P., 2011. Vivienda en altura en zonas de renovaci´on urbana: Desafíos para 
+mantener su vigencia. EURE 3 (111), 185–189. https://doi.org/10.4067/S0250- 
+71612011000200010. 
+Corbin, J., Strauss, A., 2008. Basics of qualitative research: Techniques and procedures 
+for developing grounded theory, 3rd ed. Sage, Thousand Oaks, CA. 
+Damasio, A., Carvalho, G., 2013. The nature of fe
+
+--- TABLE/FIGURE CAPTIONS ---
+Fig. 1). Indeed, 60% of the participants 
+Fig. 1. Elements of the built environment which elicit wellbeing according to walkers. Source: Authors. 
+Fig. 2). Indeed, negative self-reported experiences 
+Fig. 3). As a 34-year-old woman (low-income neigh­
+Fig. 4). This was especially highlighted by women and older 
+Fig. 2. Elements of the built environment which cause stress according to walkers. Source: Authors. 
+Fig. 3. Streetscape in a low-income neighbourhood (Comuna de Estaci´on Central), middle-income neighbourhood (Comuna de Santiago), and high-income 
+Fig. 5). Particularly for older 
+Fig. 4. Elements of the built environment which enhance security according to walkers. Source: Authors. 
+Fig. 6). Fear was also triggered by high 
+Fig. 5. Elements of the built environment which cause insecurity according to walkers. Source: Authors. 
+Fig. 7). Remarkably, other elements which triggered anger 
+Fig. 8). 
+Fig. 9). As a 74-year-old woman (high-income 
+Fig. 10). 
+Fig. 6. Elements of the built environment which cause fear according to walkers. Source: Authors. 
+Fig. 7. Elements of the built environment which cause anger according to walkers. Source: Authors. 
+Fig. 8. Elements of the built environment which cause sadness according to walkers. Source: Authors. 
+Fig. 9. Elements of the built environment which elicit happiness according to walkers. Source: Authors. 
+Fig. 10. Elements of the built environment which cause disgust according to walkers. Source: Authors. 
