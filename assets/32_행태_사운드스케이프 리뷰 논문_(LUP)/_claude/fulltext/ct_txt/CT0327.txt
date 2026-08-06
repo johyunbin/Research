@@ -1,0 +1,1192 @@
+Article
+Noise & Vibration Worldwide
+2022, Vol. 53(7-8) 377–389
+© The Author(s) 2022
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/09574565221114660
+journals.sagepub.com/home/nvw
+Evaluation of the soundscapes through the
+cafe terraces before and after the COVID-19
+lockdown in coastal cities in Algeria
+Djihed Berkouk1, Tallal Abdel Karim Bouzir2,
+Samiha Boucherit3, Sara Khelil1, Chaﬁk Mahaya1and
+Mohamed Elhadi Matallah1
+Abstract
+This paper aimed to examine the impact of the COVID-19 lockdown in Algeria on the soundscapes’ components
+throughout the cafe terraces in coastal cities. The methodology is based on a laboratory qualitative approach established
+and divided into two stages. And the monitoring of sound recordings through twenty-one cafe terraces inside the coastal
+city of Azzaba in Algeria was conducted before and after the lockdown of whole the country due to the COVID-19
+pandemic. Using the McNemar’s test on the ﬁrst stage, results suggest that the lockdown measures in Algeria affect the
+soundscape components of the cafe terraces, speciﬁcally the predominance of the anthrophonical sounds over the natural
+sound components. The predominance of trafﬁc sounds on the soundscapes after the lockdown period does not reﬂect an
+increase in noise level, whereas the soundscapes through the cafe terraces during the two periods were similar, and showed
+as less noisy by the semantic difference analysis evaluation, of the second stage. The factors of the principal component
+analysis suggest that the soundscapes of the cafe terraces reﬂect the main patterns of the acoustics design in the public
+spaces, such as functions (relaxation and communication), space-time for the two factors of the soundscapes of the period
+before the lockdown, and by relaxation, space and time for the three factors of those of the period after lockdown.
+Otherwise, the Marginal Homogeneity Test shows that there are signiﬁcant differences in the assessment of the
+soundscapes of the cafe terraces during the two periods, which were only associated to the functions. Findings suggest that
+additional long-term research is needed to preserve and improve the cultural soundscapes among the urban spaces to
+ensure the acoustic comfort of the occupants and preserve their health.
+Keywords
+Pandemic, health crisis, soundscape, public space, sound recording, survey
+Introduction
+The soundscape is an acoustic composition resulting from
+a combination of natural and/or urban sounds,1,2 where its
+creation is mainly based on a mixture of different sounds,
+such as biophony, geophony, and anthrophony.3–6 It is
+considered a relatively complex and multidisciplinary
+approach for the evaluation of the sound environments of
+architectural and urban spaces.7 In urban environments,
+soundscape represents an important environmental refer-
+ence for the quality of life of city inhabitants,8 that can
+preserve their health,9 and their well-being.10–12
+The majority of daily activities in the urban environ-
+ments are practiced on the street level, which includes
+public, semi-public, and private spaces.13 Urban open
+spaces are generally deﬁned as publicly accessible open
+places designed and built for human activity and enjoy-
+ment,14 they are considered among the important elements
+of cities, and represent the main places for outdoor ac-
+tivities.15 Activity-based environments are strongly asso-
+ciated with the sound’s effect,16 along with other sensory
+impressions which contribute to the perceived quality of
+the environment and inﬂuence the human experience of
+place.17 This sound experience refers to the human per-
+ception’s soundscape of the acoustic environment, where
+the soundscape is considered a perceptual construct, and its
+approach focuses closely on the customers’ experience
+1Department of Architecture, Biskra University, Biskra, Algeria
+2Institute of Architecture and Urban Planning, Blida University, Blida,
+Algeria
+3Department of Architecture and Industrial Design, Universit`a Degli Studi
+Della Campania “Luigi Vanvitelli”, Aversa (CE), Italy
+Corresponding author:
+Djihed Berkouk, University of Biskra, BP 145 RP, Biskra 07000, Algeria.
+Email: d.berkouk.dz@gmail.com
+
+within the acoustic environment inside public places.18 In
+this context, an important set of literature can be found
+about studies on urban soundscapes through public open
+spaces,19,20 such as urban parks,21–24 and urban green
+spaces.25 Despite the above, there is a lack of studies that
+analyze and evaluate the soundscapes of cafe terraces in
+North Africa, which creates an unresolved scientiﬁc
+problem.
+At the urban level, the importance of the cafe terrace is
+to recreate the context of the street and to allow its oc-
+cupants to reproduce the street’s behavior.26 The cafe
+terrace has an essential function in North African cultures
+as a place for collective gathering or individual relaxation,
+where the occupant can meet and play board games while
+having a light meal. This leads to creating a soundscape
+identity, which is a part of the cultural heritage of these
+spaces since the soundscape paradigm can recognize the
+environmental, social, and cultural meanings and signiﬁ-
+cance of communities.27
+In this context, several researchers consider that the
+soundscape is a construct of human perception that is
+inﬂuenced by the socio-cultural background,28 where it can
+represent part of the cultural heritage,29,30 and it can also
+represent an important part of the phonic identity of spaces,
+as sounds are essential to create a sense of belonging.31 In
+contrast, the current urban strategy of Algeria is outdated in
+terms of preserving the cultural heritage of the soundscape,
+9 due to rapid, strong, and poorly managed urbanization
+that leads to radical and progressive changes in luminous
+and thermal atmospheres, in addition to urban sound-
+scapes.32 With rapid urbanization and the development of
+transport vehicles, trafﬁc noise can also become a critical
+problem.33 Therefore, preservation34 and improvement of
+the noise environment are considered essential means to
+improve the quality of the urban environment and reﬂect
+the city’s characteristics.35,36
+In 2020, the health situation’s response to the COVID-
+19 pandemic required control of individual behavior
+through a period of collective containment.37 In response to
+this pandemic, lockdown became the generic term for the
+global restrictions imposed on physical mobility and so-
+cioeconomic activity.38 In addition, the emergence of
+COVID-19 and the absence of suitable medications, during
+the lockdown period, require physical distancing as pre-
+ventive measures to contain and reduce the spread of the
+virus.39 Hence, COVID-19 has currently become an un-
+precedented challenge for all facets of human endeavor.40
+At the urban level, the crisis of COVID-19 has attracted the
+attention of several researchers,41,42,43–45 because it poses
+a challenge at all levels of the built environment to ﬁnd
+a solution that can reduce the impacts of this epidemic.46
+On the other hand, during the lockdown period, the noise
+level may decrease due to the reduction of road move-
+ments47 and human groupings, which can be attributed to
+changes in the soundscape of public spaces. Within this
+framework, the main objective of this paper is to explore
+one of the ambiguous scientiﬁc tracks that is: the study of
+the COVID-19 lockdown effects on the soundscapes of
+cafe terraces, through the evaluation and analysis of the
+cafe terraces soundscapes of the coastal city of Azzaba,
+Algeria, in the periods before and after the lockdown.
+Methodology
+In this study, two surveys were conducted in the laboratory,
+in two stages, after the realization of several short-term in-
+situ sound recordings that were done before and after the
+lockdown in the different cafe terraces available in the city
+of Azzaba, to examine the effect of COVID-19 lockdown
+on the soundscapes of the cafe terraces in the city, and to
+compare the perceptions of the customers of these places
+regarding the soundscapes during the two periods, before
+and after the lockdown. Azzaba is a coastal city located in
+the mercury zone in the northeastern part of Algeria in the
+Skikda province, Figure 1(a). It is considered a more or less
+developed urban center,48 inhabited by more than 60,000
+inhabitants. The main economic resources of the region of
+Azzaba are mining and agriculture,49 knowing that the
+majority of the region is occupied by agricultural activity. It
+is characterized by an open society and mixed cultures, but
+it maintains its customs, such as the use of cafe terraces as
+an essential place for the daily gathering between groups or
+an individual relaxation place, where the customer can
+experience a meeting and play board games. This study was
+carried out in the 21 cafe terraces of the city, presented in
+Figure 1(b).
+Materials and Data Collection
+In the ﬁeld, a series of binaural sound recordings50,51 of 60
+s was conducted at ﬁxed points through the selected 21 cafe
+terraces for the investigation to assess and identify their
+soundscapes. This spatial audio recording technique is
+considered the most useful compared to the monaural,
+stereo, array, and ambisonic techniques which offer the
+possibility of recreating the spatial characteristics of the
+studied sound environment.52,53 The sound recordings
+were done by using a sound recorder “Zoom H4”, coupled
+with a “Soundman OKM II Classic” binaural in-ear mi-
+crophone. As several previous studies had used sound-
+tracks of 30-s to perform a short-term assessment of
+soundscapes,54 the 60-s recording applicated in this study
+for each station is considered applicable as well. Sound-
+track recordings were taken in August 2019 (before the
+lockdown) and August 2020 (after the lockdown).
+In the laboratory, the identiﬁcation of soundscapes was
+performed after two evaluations, in two different stages, for
+the same soundtracks recorded in “WAV” format. Since the
+recorded soundtracks last longer than 10 s, the extreme
+sound events characterizing the last seconds of the recorded
+soundtracks were avoided, because the evaluation of the
+soundscape is strongly related to the sound events of the
+378
+Noise & Vibration Worldwide 53(7-8)
+
+last moments.55 With the participation of two different
+groups of 50 architecture students for each stage, the
+evaluation of the soundtracks was carried out with the use
+of audio restitution using headphones “Sony the MDR-
+ZX660AP”, applying the same sound output level for all
+the soundtracks. This method has been applied and vali-
+dated by several previous recent studies.32,9
+To verify the impact of the lockdown measures in Algeria
+due to the social measures COVID-19 on the soundscape
+compositions of the cafe terraces, we started at the ﬁrst stage
+of the expertise which was based on the use of a survey
+presented in the study of Liu et al. (2018),56 Table 1. Where,
+the identiﬁcation of soundscapes in this stage was based
+mainly on the analysis of the three soundscape com-
+ponents which are biophony, geophony, and anthro-
+phony.57,58 The second stage of this research was based
+on the comparison between the evaluation of the Se-
+mantic difference analysis of the soundscapes before
+and after the COVID-19 lockdown, based on the survey
+used in the study of Kang and Zhang (2010),59 Table 2.
+The two questionnaires presented in Tables 1 and 2 were
+translated by the participation of a group of architects,
+sociologists, and psychologists so that both groups of
+participating students could correctly understand the
+different
+attributes
+and
+indices
+related
+to
+the
+soundscape.
+Participants
+In this study, the participants for the two surveys were
+architecture students with age categories ranging from 18
+to 30 years. They were grouped into two groups of 50
+participants, corresponding to each survey (each stage).
+The ﬁrst group was composed of 74% females and 26%
+males, with an average age category of 23 years ±3.22.
+While the second group was formed of 66% females and
+34% males, with an average age of 22 years ±2.57. All the
+participants declared that they did not have hearing
+problems.
+Statistical analysis
+Data analysis was performed using the Statistical Package
+for the Social Sciences (IBM-SPSS) software. In the ﬁrst
+stage (questionnaire 1), descriptive analysis and non-
+parametric tests were carried out in order to compare the
+components of the soundscape during the two periods,
+before and after the lockdown, and to check if there is
+a change in the soundscapes of these two periods, using
+McNemar’s Test and Marginal Homogeneity Test. In the
+second stage, a principal component analysis (PCA) was
+performed on the data of the Semantic difference analysis of
+the soundscapes evaluation. This analysis is widely used in
+the recent scientiﬁc literature in the ﬁeld of this study.60 In
+addition, Marginal Homogeneity tests were also used in this
+second stage to verify whether there are statistically sig-
+niﬁcant differences between the evaluation of the semantic
+difference analysis indices of the soundscapes of the cafe
+terraces in the two periods, before and after the lockdown.
+Results
+Stage one: Soundscapes composition before and
+after the COVID-19 lockdown
+The comparison between the soundscape compositions of
+the cafe terraces before and after the lockdown, evaluated
+in the ﬁrst stage by the ﬁrst group of architecture students is
+presented in Figure 2. Figure 2 shows that the anthrophonic
+sound components (human, trafﬁc, and mechanical sounds)
+dominate the soundscapes of the cafe terraces in both
+periods, before and after the lockdown, with percentages of
+53.52% and 72.95%, respectively. However, the difference
+between the soundscapes of the terraces studied in these
+Figure 1. Case study: (a) Azzaba city location, (b) location of the studied cafe terraces.
+Berkouk et al.
+379
+
+Table 1. Questionnaire of stage 1: Soundscape composition.56
+Sound category
+Sound sources
+Human sound
+Surrounding speech, playing children, footsteps
+Trafﬁc sound
+Street trafﬁc, bicycle riding, motorcycle noise
+Biological sound
+Bird song, dog barking, frog croaking, insects
+Geophysical sound
+Wind blowing, grass rustling, tree rustling, raining, water sound
+Mechanical sound
+Phone ring, construction sound, alarm, grass mowing, broadcasting music, live music, singing, broadcasting music, exercising
+380
+Noise & Vibration Worldwide 53(7-8)
+
+two periods was marked by the trafﬁc sounds, by
+a standard deviation of 16.03%, the highest compared
+to the other components, where the trafﬁc sounds were
+increased in the period after the lockdown from 19.33%
+to 42%. Human sounds are present in the soundscapes,
+in both periods, before and after lockdown, by per-
+centages
+of
+30.95%
+and
+34.19%
+(±2.29%),
+re-
+spectively. While mechanical sounds are characterized
+by a low presence for both cases, with an average of
+3.19% with a very low standard deviation of 0.07%, this
+is due to the rare presence of this sound category, which
+is characterized by short sequences not dominating the
+soundscapes. The notable decrease in the presence of
+human sounds in the soundscape and the predominance
+of trafﬁc sounds in the after-lockdown period may
+explain that inhabitants have been increasing their use
+of cars, on the one hand. On the other hand, the oc-
+cupants of the cafe terraces change their behaviors, by
+the respect of the social distance required by the state
+(not less than 1m between two people) and by less
+verbal contact due to the use of masks.
+Biological and geophysical sound components are more
+present in the soundscapes of the terraces during the before-
+lockdown period, with a percentage of 43.33% compared
+to those of the after-lockdown period which has a percentage
+of 23.81%, only. Biological and geophysical sounds are
+more present when compared with geophysical sounds in the
+terrace’s soundscapes during both periods. The biological
+sound component is present in the soundscapes during the
+before-lockdown period by percentages of 34.95% and
+21.43% (±9.56%), respectively. While the geophysical
+sounds had a low presence compared to the other compo-
+nents with 8.38% and 2.38% (±4.24%), respectively.
+The identiﬁcation of the soundscapes of each cafe
+terrace in the periods before and after lockdown is pre-
+sented in Figure 3. The soundscapes of the 21 studied
+terraces are classiﬁed according to their changes con-
+cerning the lockdown in four categories. Where 40.86% of
+the terraces were characterized by soundscapes of an-
+tiphonal category in both periods, while 14.29% of them
+were affected by the lockdown by a change of their
+soundscapes from anthrophony to the natural category in
+the after-lockdown period. On the other hand, 9.52% of
+terraces have soundscapes identiﬁed by a natural category
+in both periods, while 33.33% of them have soundscapes
+that have been changed from the natural category to
+a predominance of anthrophonical sounds. This conﬁrms
+Table 2. Questionnaire of stage 2: Soundscape evaluation.59
+Very
+Fairly
+Little
+Neutral
+Little
+Fairly
+Very
+Agitating
+3
+2
+1
+0
+1
+2
+3
+Calming
+Comfort
+3
+2
+1
+0
+1
+2
+3
+Discomfort
+Directional
+3
+2
+1
+0
+1
+2
+3
+Everywhere
+Echoed
+3
+2
+1
+0
+1
+2
+3
+Deadly
+Far
+3
+2
+1
+0
+1
+2
+3
+Close
+Fast
+3
+2
+1
+0
+1
+2
+3
+Slow
+Gentle
+3
+2
+1
+0
+1
+2
+3
+Harsh
+Hard
+3
+2
+1
+0
+1
+2
+3
+Soft
+Interesting
+3
+2
+1
+0
+1
+2
+3
+Boring
+Like
+3
+2
+1
+0
+1
+2
+3
+Dislike
+Meaningful
+3
+2
+1
+0
+1
+2
+3
+Meaningless
+Natural
+3
+2
+1
+0
+1
+2
+3
+Artiﬁcial
+Pleasant
+3
+2
+1
+0
+1
+2
+3
+Unpleasant
+Quiet
+3
+2
+1
+0
+1
+2
+3
+Noisy
+Rough
+3
+2
+1
+0
+1
+2
+3
+Smooth
+Figure 2. Percentages of architecture students who evaluated
+soundscapes compositions of the cafe terraces, before and after
+lockdown.
+Berkouk et al.
+381
+
+that the lockdown has an impact on the change of the
+soundscapes of the cafe terraces.
+The soundscapes of the terraces predominated by
+natural sounds in both periods were evaluated by 42.19%
+of the architecture students, while only 14.47% of the cafe
+terraces were affected by the lockdown, where their
+soundscapes were changed from a predominance of natural
+sounds to a predominance of anthrophonical sounds. On the
+other hand, the terraces that have soundscapes predominated
+by the anthrophony in both periods are less compared to
+those that were changed, with an evaluation of 9.33% and
+34% of the participants, respectively.
+Table 3 presents the results of MCNemar’s Test to verify
+the impact of lockdown on the soundscape. MCNemar’s
+Test shows that lockdown affects the soundscape com-
+ponents of the cafe terraces, because there is a signiﬁcant
+difference between the soundscape components, con-
+cerning the two periods before and after lockdown (p-value
+< 0.05), where the change in the soundscape components of
+the period before the lockdown was from the dominance of
+geophonic and biophonic sounds (natural sounds) to
+a predominance of the anthrophony, according to 34% of
+the participants’ responses.
+The average responses of the ﬁrst group of architecture
+students to the different attributes of the anthrophonical and
+natural sounds, concerning the different soundscapes of the
+terraces before and after lockdown, are presented in Figure
+4. The changes in responses are presented in Figure 4
+according to a coding (Before_After). While Table 4
+presents the Marginal Homogeneity Test of the results of
+the anthrophonical sounds to compare the participants’
+evaluation of the soundscapes of the cafe terraces in both
+periods. The average of the participant’s responses was from
+2.65 (Agree) to 2.97 (Strangely agree) that the studied
+soundscapes are predominated by anthrophonical sounds.
+However, the Marginal Homogeneity Test shows that there is
+a statistically signiﬁcant difference (p-value < 0.05) between
+the architecture students’ evaluation of the studied terrace
+soundscapes before and after lockdown. This conﬁrms that
+the lockdown has an impact on the change of soundscapes,
+which is the cause of the increase in the predominance of
+anthrophony on the soundscapes of the cafe terraces.
+Table 3. Impact of lockdown on the change of soundscape components, using MCNemar test.
+Effectives
+MCNemar’s test
+Before- lockdown
+After- lockdown
+N
+Sig
+Anthrophonical sounds
+Natural sounds
+Anthrophonical sounds
+443
+152
+1050
+0.000
+Natural sounds
+357
+98
+Figure 3. Soundscape identiﬁcation of each cafe terrace before and after lockdown.
+382
+Noise & Vibration Worldwide 53(7-8)
+
+Stage two: Semantic difference analysis of the
+soundscapes before and after the
+COVID-19 lockdown
+The second stage of this research was based on the
+comparison between the Semantic difference analysis of
+the soundscapes evaluation before and after the COVID-19
+lockdown, based on the evaluation of the second group of
+architecture students. Tables 5 and 6 present two-factor
+analyses of the evaluation of soundscapes before and after
+the lockdown, respectively. The factor analyses used in this
+study were based on principal component analysis (PCA)
+as the extraction method, and varimax with Kaiser nor-
+malization as the rotation method. The Kaiser-Meyer-Olkin
+(KMO) measures of sampling adequacy were 0.72 and 0.77
+for the two PCA analyses, corresponding to the evaluation
+of soundscapes before and after lockdown, respectively.
+Table 5 shows that the PCA analysis of the soundscape
+assessment, of the before-lockdown period, yielded a two-
+component solution accounting for 81.68% of the variance.
+Factor 1 (66.24%) is principally associated with the
+function (relaxation and communication), including Quiet-
+Noisy,
+Pleasant-Unpleasant
+Meaningful-Meaningless,
+Like-Dislike
+which
+are
+related
+by
+relaxation,
+and
+Interesting-Boring,
+Meaningful-Meaningless,
+Rough-
+Smooth, Agitating-Calming which are associated with
+the communication. Factor 2 (15.45%) is generally related
+to space-time (space and time), including Echoed-Deadly,
+Directional-Everywhere which are related to space, and
+Fast-Slow which are related to time. From this analysis, it is
+interesting to note that the main facets of the design of
+Table 5. Factor analysis of the evaluation of the soundscape of
+cafe terraces before lockdown.
+Indices
+Factors
+1 (66.24%)
+2 (15.45%)
+Natural-artiﬁcial
+0.966
+Quiet-noisy
+0.966
+Pleasant-unpleasant
+0.947
+Interesting-boring
+0.936
+Meaningful-meaningless
+0.933
+Like-dislike
+0.920
+Hard-soft
+0.915
+Rough-smooth
+0.866
+Agitating-calming
+0.717
+Far-close
+0.605
+Fast-slow
+0.936
+Gentle-harsh
+0.924
+Echoed-deadly
+0.842
+Directional-everywhere
+0.727
+Comfort-discomfort
+0.591
+Table 4. Comparison by Marginal Homogeneity Test of the
+before and after lockdown soundscapes in terms of
+anthrophonical and natural sound attributes.
+Average
+Standard deviation
+N
+Sig
+Before -lockdown
+2.65
+1.15
+1050
+0.000
+After -lockdown
+2.97
+1.02
+1050
+Figure 4. Comparison between soundscapes before and after lockdown periods in terms of anthrophonical and natural sound
+attributes, assessed by the ﬁrst group of architecture students (See coding).
+Berkouk et al.
+383
+
+urban public open space acoustics (function, space, and
+time) are overlapped in these two factors.59
+The PCA analysis of the after-lockdown soundscape
+evaluation presented in Table 6 gave a three-component
+solution accounting for 75.82% of the variance. Factor 1
+(53.47%) is primarily associated with relaxation, including
+Like-Dislike,
+Quiet-Noisy,
+Natural-Artiﬁcial,
+Pleasant-
+Unpleasant, and Comfort-Discomfort. Factor 2 (14.04%) is
+mainly related to dynamics, including Hard-Soft and Fast-
+Slow. Factor 3 is particularly associated with spatiality, in-
+cluding Far-Close and Echoed-Deadly. In contrast, the as-
+sociation of the other indices of spatiality (Directional-
+Everywhere, Interesting-Boringrelated) and communication
+(Meaningful-Meaningless,
+Agitating-Calming,
+Rough-
+Smooth) with factors 1 and 2 are likely since these indices
+were not well understood and evaluated by the architecture
+students participating in the second stage of the investigation.
+However, the three factors of this PCA analysis of the
+evaluation of cafe terrace soundscapes after lockdown also
+cover the main acoustics design dimensions of the urban
+public open spaces, including relaxation that reﬂects the
+function, as well as, space and time.
+The average scores and percentages of the semantic
+difference analysis indices of the soundscape evalua-
+tion for the two periods are presented in Figure 5.
+Figure 5 shows that although the soundscapes of the
+cafe terraces were classiﬁed as a little agitating at 0.98
+and 1.31, and a little noisy at 0.71 and 0.98 during
+the two periods, before and after the lockdown due to
+social measures, respectively; the soundscapes of the
+terraces during the period before the lockdown were
+identiﬁed as a little uncomfortable (1.37), and a little
+pleasant (1.49), while those during the period after the
+lockdown were classiﬁed as a little uncomfortable
+(1.11), and a little unpleasant (1.34).
+To perform a comparison between the evaluation of the
+soundscapes of the cafe terraces before and after the lockdown
+by the second group of participants in terms of the indices of the
+semantic difference analysis, and to check the impact of
+lockdown on the soundscape, a Marginal Homogeneity Test
+was performed. The test of Marginal Homogeneity presented in
+Table 7 shows that there is a statistically signiﬁcant difference
+(p-value < 0.05) between most of the indices of the Semantic
+difference analysis of the soundscape evaluation of the cafe
+terraces of the two periods linking with relaxation as
+Comfort-Discomfort,
+Like-Dislike,
+Natural-Artiﬁcial,
+Pleasant-Unpleasant,
+Rough-Smooth
+(p-value
+0.000),
+Agitating-Calming (p-value 0.049), and indices associated
+with communication like Meaningful-Meaningless, Rough-
+Smooth (p-value 0.000) and other such as the indices
+Interesting-Boring (p-value 0.000), Far-Close (p-value 0.01).
+This means that lockdown has an impact on participants’
+evaluation of the soundscapes of the cafe terraces regarding the
+indices associated with the function (relaxation and commu-
+nication), while the indices that are related with space and time
+are not changed for the soundscape’s evaluation of the terraces,
+during the period after lockdown.
+Discussion
+Synthesizing the ﬁndings
+The ﬁndings from the ﬁrst stage of this study suggest that the
+lockdown measures in Algeria due to the COVID-19 social
+measures affect the soundscape components of the cafe terraces,
+where the anthrophonical components predominate over the
+soundscapes that were characterized by geophony and bio-
+phony (natural sounds) during the before lockdown period.
+Interestingly, the ﬁndings also show that the strong presence of
+the trafﬁc sound component in the terrace soundscapes in the
+after-lockdown period was followed by a decrease in the
+presence of the human sound component. Although several
+investigations in the scientiﬁc literature conﬁrm that lockdown
+measures cause a strong decrease in urban noise levels (during
+lockdown) such as those of Alsina-Pagès et al.,61,62 this study
+shows that the predominance of trafﬁc sounds on the sound-
+scapes during the after-lockdown period does not reﬂect an
+increase in noise level, by the fact that the soundscapes of the
+terraces were similar, where they were identiﬁed as a little
+agitating and a little noisy during both periods, before and after
+lockdown.
+Furthermore, the ﬁndings from the second stage explored
+that the soundscapes of the cafe terraces are potentially per-
+ceived in both periods by the most important facets of the
+acoustics design of the urban public open spaces, where the
+soundscapes of the period before lockdown are reﬂected by the
+indices related to the function, space and time, while those of
+the period after lockdown is mainly represented by the indices
+associated with relaxation that reﬂect the function, as well as,
+Table 6. Factor analysis of the evaluation of the soundscape of
+cafe terraces after lockdown.
+Indices
+Factors
+1 (53.47%)
+2 (14.04%)
+3 (8.31%)
+Meaningful-meaningless
+0.901
+Directional-everywhere
+0.856
+Interesting-boring
+0.852
+Like-dislike
+0.768
+Quiet-noisy
+0.762
+Natural-artiﬁcial
+0.726
+Pleasant-unpleasant
+0.656
+Comfort-discomfort
+0.626
+Rough-smooth
+0.875
+Hard-soft
+0.838
+Agitating-calming
+0.698
+Fast-slow
+0.518
+Far-close
+0.829
+Echoed-deadly
+0.784
+Gentle-harsh
+0.563
+384
+Noise & Vibration Worldwide 53(7-8)
+
+the indices related to space and time. Somewhat surprisingly,
+COVID-19 lockdown has an impact on participants’ evaluation
+of the soundscapes of the cafe terraces regarding cues asso-
+ciated with the function (relaxation and communication),
+whereas cues that are related to space and time are not changed
+in the evaluation of the soundscapes of the terraces during the
+post-lockdown period. This conﬁrms the results of the ﬁrst
+stage, as the indices that are connected with relaxation
+(Comfort-Discomfort and Pleasant-Unpleasant…etc.) and
+commination
+(Meaningful-Meaningless
+and
+Rough-
+Smooth...etc.) are associated with the anthrophonical sounds.
+Strengths and limitations of the study
+The strength of this study is mainly due to its qualitative
+approach to examining the impact of lockdown on cafe
+terrace soundscapes using the method of reactivated
+listening (in the laboratory) of ﬁeld-recorded soundtracks.
+Concerning regions in North Africa and even those in the
+Mediterranean, none of the previously published papers
+have compared the soundscapes of cafe terraces in the
+periods before and after lockdown due to COVID-19.
+The ﬁndings from this research are limited to the study
+of the soundscape of a single type of urban space which is
+the cafe terrace by using a short-term evaluation. However,
+this research can be considered as a complementary step in
+the study of Ulloa et al. (2021)63 who analyzed information
+on the soundscape during containment that could be used
+for urban planning in developing countries, where urban
+expansion occurs in a rapid and unplanned manner. Re-
+garding the future strategy to improve the acoustic comfort
+and sustainability of the city, this research can be con-
+sidered also as a subsequent step to the work of Lee and
+Jeong (2021)64 who found that neighbor noise from indoor
+Figure 5. Average scores and percentages of the semantic difference analysis indices of soundscape assessment, scored by the second
+group of architecture students: (a) During the period before lockdown, (b) During the period after lockdown.
+Berkouk et al.
+385
+
+spaces is more problematic than outdoor noise during the
+lockdown.
+Implication on practice and future research
+The health crisis due to the COVID-19 pandemic has raised
+the importance of the study of soundscape which is con-
+sidered a crucial element of a comprehensive urban design
+strategy that aims to improve the health and quality of life of
+increasingly large and dense populations in the future.65 And
+as this pandemic has signiﬁcantly altered urban noise en-
+vironments, it has the potential to open up an opportunity for
+research areas66 to study the effect of this pandemic in
+several cases. The results of this research help to explore the
+change in the soundscape due to lockdown by conducting
+a comparison between two periods, before and after
+a lockdown in response to the COVID-19 pandemic. Based
+on our ﬁndings, the authors advise urban planners and
+decision-makers to give more importance to the soundscapes
+of cafe terraces and other urban spaces in the cities of
+northern Algeria, to preserve and improve them without
+losing their sonic identities, as well as, to ensure the well-
+being of users, because the soundscape is part of cultural
+heritage.67–70 Unfortunately, this research conﬁrms once
+again that the current urban strategy of Algeria is outdated
+concerning the maintenance of the cultural sound heritage9
+Another interesting implication of this study is that it
+presented a translation from English to Arabic of the different
+soundscape attributes and evaluation indices (see Tables 1
+and 2) so that the participants could understand these
+attributes in both stages of the evaluation. This translation
+may be useful for the future studies of the researchers who
+are engaged in the translation of the soundscape attributes
+such as the international network of soundscape researchers
+constituting from different regions of the world which were
+established under the name of “Soundscape Attributes
+Translation Project” (SATP) and started its activity by the ﬁrst
+group of collaborators in 2019 in a ﬁrst stage with the ex-
+pertise by a considerable geographical distribution, covering
+15 different languages,71 where the attributes translated by the
+SATP group was carried out mainly based on the study of the
+soundscape attributes identiﬁed by Axelsson et al.72
+The authors are aware that subjective measurements
+have important potential in the soundscape evaluation,73 in
+parallel with measurements of the different physical di-
+mensions of the acoustic environment.74,75 Therefore,
+future research should focus on the subjective and objective
+investigation of long-term soundscape evaluation to pre-
+serve and improve the cultural soundscapes of different
+urban spaces in Algeria, taking into account, as a lesson, the
+negative effects of COVID-19 on the environment and
+public health in general, and its effect on substantial cul-
+tural, political and urban design changes, especially that
+COVID-19 will not be the last virus that will strike our
+cities.76
+Conclusion
+In this paper, a qualitative approach was conducted in the
+laboratory, in two stages, after the execution of several in situ
+short-term sound recordings that were carried out before and
+after the conﬁnement in the different cafe terraces available in
+the city of Azzaba, to examine the impact of the lockdown
+measures in Algeria due to the social measures COVID-19 on
+the compositions of the soundscapes of twenty-one cafe ter-
+races of the city, and to compare the perceptions of the users of
+these spaces concerning the soundscapes during the two pe-
+riods, before and after the lockdown. Overall, this study
+suggests that the lockdown measures in Algeria affect the
+soundscape components of the cafe terraces, which causes
+a predominance of anthrophonical sounds instead of the ge-
+ophonic and biophonic components (natural sounds), during
+the period after lockdown. This anthrophony predominance
+was characterized by an increase in the trafﬁc sounds com-
+ponent and a decrease in the human sounds in the soundscapes.
+In contrast, the predominance of trafﬁc sounds on the
+soundscapes during the after-lockdown period does not reﬂect
+an increase in noise level, where the soundscapes of the terraces
+in both periods were identical, identiﬁed as a little agitating and
+a little noisy.
+This research also highlights that the soundscapes of the
+cafe terraces are possibly evaluated in both periods, before
+and after lockdown, by the most important facets of the
+acoustics design of an urban public open space, using indices
+related to function, space, and time. In addition, this study
+Table 7. Comparison of the soundscapes evaluation of periods
+before and after a lockdown in terms of the indices of semantic
+difference analysis, using Marginal Homogeneity Test.
+Indices
+Before
+lockdown
+After
+lockdown
+Sig
+Average
+Sd
+Average
+Sd
+Agitating-calming
+0.49
+1.89
+0.66
+1.87
+0.049
+Comfort-discomfort
+0.69
+1.880.55
+1.87
+0.000
+Directional-everywhere0.77
+1.880.74
+1.93
+0.758
+Echoed-deadly
+0.65
+2.030.63
+1.98
+0.852
+Far-close
+0.59
+2.090.29
+1.82
+0.001
+Fast-slow
+0.11
+1.81
+0.08
+1.73
+0.749
+Gentle-harsh
+0.29
+1.83
+0.30
+1.72
+0.913
+Hard-soft
+0.51
+1.79
+0.35
+1.81
+0.051
+Interesting-boring
+0.37
+1.910.77
+1.94
+0.000
+Like-dislike
+0.54
+1.870.32
+1.77
+0.000
+Meaningful-meaningless
+0.56
+1.840.51
+1.89
+0.000
+Natural-artiﬁcial
+0.51
+2.020.49
+2.06
+0.000
+Pleasant-unpleasant
+0.75
+1.960.65
+1.85
+0.000
+Quiet-noisy
+0.36
+1.990.49
+1.94
+0.132
+Rough-smooth
+0.21
+2.07
+0.70
+2.00
+0.000
+386
+Noise & Vibration Worldwide 53(7-8)
+
+shows that there are statistically signiﬁcant differences in the
+soundscape’s indices associated with the function (re-
+laxation and communication), regarding the cafe terraces
+soundscapes evaluation in both periods, before and after
+lockdown. Further research is needed, which focuses on
+conducting a qualitative and quantitative study based on
+a long-term subjective investigation and the measurement of
+the different physical dimensions of the outdoor acoustic
+environment of different urban spaces in the Mediterranean,
+desert, and oasis regions of Algeria, to preserve and improve
+their cultural soundscapes, and to ensure the acoustic
+comfort of the occupants and to preserve their health.
+Declaration of conﬂicting interests
+The author(s) declared no potential conﬂicts of interest with re-
+spect to the research, authorship, and/or publication of this article.
+Funding
+The author(s) received no ﬁnancial support for the research,
+authorship, and/or publication of this article.
+ORCID iDs
+Djihed Berkouk https://orcid.org/0000-0002-2925-3015
+Tallal Abdel Karim Bouzir https://orcid.org/0000-0002-1902-1800
+Samiha Boucherit https://orcid.org/0000-0002-5101-3608
+Chaﬁk Mahaya https://orcid.org/0000-0001-8617-9977
+References
+1. Farina A, Lattanzi E, Malavasi R, et al. Avian soundscapes
+and cognitive landscapes: theory, application and ecological
+perspectives. Landscape Ecology 2011; 26(9): 1257–1267.
+2. Farina A. Soundscape and landscape ecology. In: Soundscape
+Ecology. Springer, 2014, pp. 1–28.
+3. Pijanowski BC, Villanueva-Rivera LJ, Dumyahn SL, et al.
+Soundscape ecology: the science of sound in the landscape.
+BioScience 2011; 61(3): 203–216.
+4. Farina A. Soundscape Ecology: Principles, Patterns, Meth-
+ods and Applications. Springer, 2013.
+5. Fuller S, Axel AC, Tucker D, et al. Connecting soundscape to
+landscape: Which acoustic index best describes landscape
+conﬁguration? Ecol Indicators 2015; 58: 207–215.
+6. Martin SB and Cott PA. The under-ice soundscape in Great
+Slave Lake near the city of Yellowknife, Northwest Terri-
+tories, Canada. J Great Lakes Res 2016; 42(2): 248–255.
+7. Bahalı S and Tamer-Bayazıt N. Soundscape research on the
+Gezi Park–tunel square route. Appl Acoustics 2017; 116:
+260–270.
+8. Raimbault M and Dubois D. Urban soundscapes: Experi-
+ences and knowledge. Cities 2005; 22(5): 339–350.
+9. Berkouk D, Bouzir TAK, Maffei L, et al. Examining the
+Associations between Oases Soundscape Components and
+Walking Speed: Correlation or Causation? Sustainability
+2020; 12(11): 4619.
+10. Xiao J, Lavia L, Kang J, et al. Towards an agile participatory
+urban soundscape planning framework. J Environ Plann
+Manag 2018; 61(4): 677–698.
+11. Cerw´en G. Urban soundscapes: A quasi-experiment in
+landscape architecture. Landscape Res 2016; 41(5): 481–494.
+12. Xiao J, Lavia L, Kang J, et al. Towards an agile participatory
+urban soundscape planning framework. J Environ Plann
+Manag 2018; 61(4): 677–698.
+13. Mohareb N and Maassarani S. Assessment of street-level
+noise in three different urban settings in Tripoli. Urban Clim
+2019; 29: 100481.
+14. Faragallah RN. The impact of productive open spaces on
+urban sustainability: The case of El Mansheya Square–
+Alexandria. Alexandria Engineering Journal 2018; 57(4):
+3969–3976.
+15. Li R, Ou D and Pan S. An Improved Service Quality Mea-
+surement Model for Soundscape Assessment in Urban Public
+Open Spaces. Indoor and Built Environment, 2020, p.
+1420326X20925527.
+16. Margaritis E, Kang J, Aletta F, et al. On the relationship
+between land use and sound sources in the urban environ-
+ment. J Urban Des 2020; 25: 1–17.
+17. Jiang L, Masullo M, Maffei L, et al. How do shared-street
+design and trafﬁc restriction improve urban soundscape and
+human experience? An Online Survey Virtual Reality,”
+Building And Environ 2018; 143: 318–328.
+18. Aletta F, Brambilla G, Maffei L, et al. Urban soundscapes:
+Characterization of a pedestrian tourist route in Sorrento
+(Italy). Urban Sci 2017; 1(1): 4.
+19. Sun K, De Coensel B, Filipan K, et al. Classiﬁcation of
+soundscapes of urban public open spaces. Landscape Urban
+Planning 2019; 189: 139–155.
+20. Deng L, Kang J, Zhao W, et al. Cross-National Comparison
+of Soundscape in Urban Public Open Spaces between China
+and Croatia. Appl Sci 2020; 10(3): 960.
+21. Szeremeta B and Zannin PHT. Analysis and evaluation of
+soundscapes in public parks through interviews and mea-
+surement of noise. Sci Total Environment 2009; 407(24):
+6143–6149.
+22. Zhao W, Li H, Zhu X, et al. Effect of Birdsong Soundscape on
+Perceived Restorativeness in an Urban Park. Int J Environ
+Res Public Health 2020; 17(16): 5659.
+23. Jo HI and Jeon JY. The inﬂuence of human behavioral
+characteristics on soundscape perception in urban parks:
+Subjective and observational approaches. Landscape Urban
+Plann 2020; 203: 103890.
+24. Shu S and Ma H. Restorative effects of urban park sound-
+scapes on children’s psychophysiological stress. Appl Acoust
+2020; 164: 107293.
+25. Koprowska K, Łaszkiewicz E, Kronenberg J, et al. Sub-
+jective perception of noise exposure in relation to urban
+green space availability. Urban For Urban Green 2018; 31:
+93–102.
+26. Graiouid S. A place on the terrace: Caf´e culture and the public
+sphere in Morocco. J North Afr Stud 2007; 12(4): 531–550.
+27. Kang J. Urban Sound Environment. London, UK: CRC Press,
+2006.
+28. Kang J, Aletta F, Gjestland TT, et al. Ten questions on the
+soundscapes of the built environment. Building Environment
+2016; 108: 284–294.
+29. Kato K. Soundscape, cultural landscape and connectivity.
+Sites: A Journal Social Anthropology Cultural Studies 2009;
+6(2): 80–91.
+30. Yelmi P. Protecting contemporary cultural soundscapes as
+intangible cultural heritage: sounds of Istanbul. Int J Heritage
+Stud 2016; 22(4): 302–311.
+Berkouk et al.
+387
+
+31. Rehan RM. The phonic identity of the city urban soundscape
+for sustainable spaces. Hbrc J 2016; 12(3): 337–349.
+32. Bouzir TAK, Berkouk D and Zemmouri N. Evaluation and
+Analysis of the Algerian Oases Soundscape. Acoustics
+Australia: Case of El Kantara and Sidi Okba, 2019, pp. 1–10.
+33. Chew YR and Wu BS. A soundscape approach to analyze
+trafﬁc noise in the city of Taipei, Taiwan. Comput Environ
+Urban Syst 2016; 59: 78–85.
+34. Jia Y, Ma H, Kang J, et al. The preservation value of urban
+soundscape and its determinant factors. Appl Acoust 2020;
+168: 107430.
+35. de la Prida D, Pedrero A, Navacerrada M ´A, et al. Relationship
+between the geometric proﬁle of the city and the subjective
+perception of urban soundscapes. Appl Acoust 2019; 149: 74–84.
+36. Jia Y, Ma H, Kang J, et al. Characteristics and evaluation of
+urban soundscapes worthy of preservation. J Environmental
+Management 2020; 253: 109722.
+37. Pinheiro MD and Lu´ıs NC. COVID-19 Could Leverage
+a Sustainable Built Environment. Sustainability 2020;
+12(14): 5863.
+38. Jefferies T, Cheng J and Coucill L. Lockdown Urbanism:
+COVID-19 Lifestyles and Liveable Futures Opportunities in
+Wuhan and Manchester. Cities & Health, 2020, pp. 1–4.
+39. Chirisa I, Mutambisi T, Chivenge M, et al. The urban penalty
+of COVID-19 lockdowns across the globe: manifestations
+and lessons for Anglophone sub-Saharan Africa, 1–14.
+GeoJournal, 2020.
+40. Ibn-Mohammed T. A critical review of the impacts of
+COVID-19 on the global economy and ecosystems and
+opportunities for circular economy strategies. Resour Con-
+servation Recycling 2020: 164: 105169.
+41. Honey-Roses J. The Impact of COVID-19 on Public Space: A
+Review of the Emerging Questions, 2020.
+42. Rooij R, Aalbers K, Hausleitner B, et al. Education for the
+Resilient City–Teaching and Learning Urban Design and
+Planning in COVID-19 Times. Proceedings of the Institution
+of Civil Engineers-Urban Design and Planning, 2020, pp.
+1–6.
+43. Cotella G and Brovarone EV. Questioning Urbanisation
+Models in the Face of Covid-19. TeMA-Journal of Land
+UseMobility and Environment, 2020, pp. 105–118.
+44. Honey-Ros´es J. The Impact of COVID-19 on Public Space:
+An Early Review of the Emerging Questions–Design, Per-
+ceptions and Inequities. Cities & Health, 2020, pp. 1–17.
+45. Patel A. Preventing COVID-19 amid Public Health and
+Urban Planning Failures in Slums of Indian Cities. World
+Medical & Health Policy, 2020.
+46. Megahed NA and Ghoneim EM. Antivirus-built environ-
+ment: Lessons learned from Covid-19 pandemic. Sust Cities
+Soc 2020; 61: 102350.
+47. Basu B. Effect of COVID-19 on Noise Pollution Change in
+Dublin, Ireland, 2020. arXiv preprint arXiv:2008.08993.
+48. Habes DS, Mostefai A, Bouhsina S, et al. Protection of Water
+Resources in Mining Sites in Northeast of Algeria, 2020.
+49. Seklaoui M, Boutaleb A, Benali H, et al. Environmental
+assessment of mining industry solid pollution in the mercurial
+district of Azzaba, northeast Algeria. Environ Monitoring
+Assessment 2016; 188(11): 621.
+50. Hong JY, He J, Lam B, et al. Spatial audio for soundscape
+design: Recording and reproduction. Appl Sciences 2017;
+7(6): 627.
+51. Xu C and Kang J. Soundscape evaluation: Binaural or
+monaural? The J Acoust Soc America 2019; 145(5):
+3208–3217.
+52. Smyrnova Y and Kang J. Determination of perceptual au-
+ditory attributes for the auralization of urban soundscapes.
+Noise Control Eng J 2010; 58(5): 508–523.
+53. Yong Jeon J, Young Hong J, Jik Lee P, et al. Soundwalk
+approach to identify urban soundscapes individually. J
+Acoust Soc America 2013; 134(1): 803–812.
+54. Aletta F, Oberman T, Mitchell A, et al. Assessing the
+changing urban sound environment during the COVID-19
+lockdown period using short-term acoustic measurements.
+Noise Mapping 2020; 7(1): 123–134.
+55. Guastavino C and dissertation PhD. Etude s´emantique et
+acoustique de la perception des basses fr´equences dans
+l’environnement sonore urbain. Semantic Acoustic Study
+Lowfrequency Noises Perception Urban Sound environ-
+mentUniversit´e Paris 2003; 6: 1.
+56. Liu J, Xiong Y, Wang Y, et al. Soundscape effects on visiting
+experience in city park: A case study in Fuzhou, China, 31.
+Urban forestry & urban greening, 2018, pp. 38–47.
+57. Krause B. Bioacoustics, habitat ambience in ecological
+balance. In: Whole Earth Rev, 57. Winter, 1987.
+58. Krause B, Gage SH, Joo W, et al. Measuring and interpreting
+the temporal variability in the so
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

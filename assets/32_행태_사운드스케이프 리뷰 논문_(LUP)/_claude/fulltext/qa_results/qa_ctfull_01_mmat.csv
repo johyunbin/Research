@@ -1,0 +1,4 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+348,quantitative descriptive,Y,Y,Y,N,Y,N,Y,3,moderate,"단일 도시 2개 가로만 검증해 대표성 제한. YOLO 처리 실패 이미지·이상치를 선별 제외했으나 제외 비율 미보고."
+7,quantitative descriptive,Y,Y,Y,Y,Y,CT,N,3,moderate,"35개 GLM을 다중비교 보정 없이 검정. 접촉·거절 인원 미보고로 무응답 편의 판단 불가. 체류시간은 자기보고 4구간뿐."
+414,mixed methods,Y,Y,Y,Y,Y,Y,N,4,high,"표4 감각공간 합 2,249가 관측 1,167 초과해 카이제곱 독립성 위배. 관찰 2일, 질적 인용문·포화·관찰자 신뢰도 미보고."

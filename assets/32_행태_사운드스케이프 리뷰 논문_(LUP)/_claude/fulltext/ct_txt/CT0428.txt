@@ -1,0 +1,900 @@
+Dynamic audio-visual preference in waterfront walking environments: 
+Effects of distance-layered spatial structure and soundscape
+Siyu Feng , Ruixuan Li *
+School of Art and Design, Dalian Polytechnic University, Dalian, 116034, China
+A R T I C L E I N F O
+Keywords:
+Waterfront parks
+Landscape preference
+Soundscape
+Spatial structure
+Dynamic perception
+A B S T R A C T
+People perceive waterfront walking spaces through continuously changing visual landscapes and soundscapes. 
+However, existing audio-visual assessments largely rely on fixed static scenes or isolated acoustic indicators. This 
+study proposes a scalable framework for explaining dynamic landscape preference in waterfront walking envi­
+ronments by integrating distance-layered spatial structure and soundscape characteristics. Taking Dalian as a 
+case study, 59 participants provided dynamic perceptual evaluations of 36 one-minute walking videos. Deep 
+learning models were applied to extract distance-layered spatial structure and soundscape features, while a 
+structural causal model (SCM) and Shapley additive explanations (SHAP) analysis were combined to examine 
+dose–response patterns and interaction effects. The comparison between SHAP-based predictive attribution and 
+SCM-based effect-strength ranking suggests that the intervention-oriented relevance of the equivalent continuous 
+sound pressure level (LAeq) may be underestimated when preference is interpreted only through general pre­
+dictive importance. Different variables exhibited distinct nonlinear patterns. The contribution direction of 
+midground disturbance to preference was moderated by LAeq and showed opposite patterns. The interaction 
+between background openness and foreground enclosure further revealed spatial configuration mechanisms in 
+dynamic walking environments. Notably, features such as human sounds, background openness, and natural 
+sounds showed clear contextual heterogeneity across functional areas and park types. These findings provide 
+measurable empirical evidence for the synergistic audio-visual design of waterfront walking environments.
+1. Introduction
+Waterfront parks are important urban blue–green spaces for daily 
+recreation, leisure walking, and the promotion of physical and mental 
+well-being [1,2]. Their capacity to attract visitors and support 
+well-being depends not only on the presence of water and greenery, but 
+also on how individuals perceive these environments during movement 
+[3]. Landscape preference is a key perceptual indicator linking land­
+scape quality and restorative experience with the design and manage­
+ment of urban natural environments [4,5]. Waterfront walking 
+experience involves continuous changes in visual, auditory, and spatial 
+exposure that are not fully represented by fixed-scene evaluations [6]. 
+Therefore, re-examining landscape preference in waterfront parks from 
+a dynamic, multisensory perspective has clear theoretical and practical 
+significance.
+Landscape preference is shaped by multiple environmental cues 
+operating across visual, auditory, and spatial domains. In the visual 
+domain, it is significantly associated with both compositional attributes, 
+such as visible greenery, water visibility, and color diversity, and 
+organizational attributes, including openness, scene depth, and enclo­
+sure [7–9]. In the auditory domain, soundscape quality also significantly 
+influences restorative experiences and aesthetic preference [4,5]. 
+Furthermore, audio-visual interactions can alter overall scene evalua­
+tion [10–13]. Taken together, these studies indicate that landscape 
+preference in waterfront parks should be understood as a holistic 
+response shaped during dynamic exposure, rather than as an isolated 
+judgment of a single visual element.
+Despite these insights, existing research still has three main limita­
+tions. First, many studies still rely on static photographs, street-view 
+images, or fixed scenes. These materials allow controlled comparison 
+of visual attributes, but they provide limited information about the 
+temporal progression of waterfront walking experience. Along a route, 
+pedestrians may encounter changing openness, enclosure, water visi­
+bility, activity intensity, sound-source composition, and sound pressure 
+level. Such sequential exposure is difficult to represent through isolated 
+scenes [6,14]. Second, existing visual quantification mostly focuses on 
+* Corresponding author.
+E-mail address: lirx@dlpu.edu.cn (R. Li). 
+Contents lists available at ScienceDirect
+Building and Environment
+journal homepage: www.elsevier.com/locate/buildenv
+https://doi.org/10.1016/j.buildenv.2026.115060
+Received 10 May 2026; Received in revised form 3 July 2026; Accepted 28 July 2026 
+Building and Environment 304 (2026) 115060 
+Available online 29 July 2026 
+0360-1323/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+two-dimensional pixel proportions and semantic composition, such as 
+the proportions of vegetation, water, sky, or built elements. These in­
+dicators describe visible landscape content, but they provide limited 
+information about how landscape elements are organized across depth. 
+For pedestrians, foreground elements shape immediate enclosure, 
+disturbance, and bodily proximity; midground elements often form the 
+main visual focus of walking experience; background elements 
+contribute to openness, prospect, and spatial continuity. Therefore, 
+distance-layered spatial structure indicators are needed to represent the 
+organizational attributes of waterfront walking environments in a more 
+perceptually meaningful way [8,15]. Third, analytical methods in 
+landscape-preference research still face challenges in explaining 
+nonlinear and coupled environmental effects. Correlation analysis and 
+conventional regression models help identify environmental variables 
+associated with preference, but they have limited capacity to reveal 
+threshold responses, nonlinear relationships, and cross-modal in­
+teractions. Machine-learning models can improve predictive perfor­
+mance under complex environmental conditions, but their feature 
+importance usually reflects the contribution of variables to prediction 
+and is difficult to translate directly into priorities for design interven­
+tion. In waterfront walking environments, spatial structure, visual con­
+tent, soundscape characteristics, and contextual factors are often closely 
+coupled. Therefore, it is necessary to combine a structural causal model 
+based on a prespecified causal graph with interpretable machine 
+learning to identify dose–response patterns, interaction effects, and key 
+environmental cues with design-intervention relevance.
+To address these research gaps, this study develops an integrated 
+multisensory framework for explaining dynamic audio-visual preference 
+in waterfront walking environments. The framework links route-based 
+first-person audio-visual stimuli with continuous preference ratings, 
+distance-layered spatial structure, soundscape indicators, and an 
+explanatory modeling strategy. It is designed to clarify how foreground, 
+midground, and background spatial configurations, together with 
+acoustic exposure and sound-source characteristics, contribute to land­
+scape preference under dynamic walking conditions. Specifically, the 
+research objectives are as follows. 
+(1) To develop a scalable workflow for evaluating dynamic prefer­
+ence responses under synchronized visual and acoustic exposure.
+(2) To quantify distance-layered spatial structure features and 
+multidimensional soundscape indicators, and to estimate their 
+design-relevant associations with landscape preference under a 
+prespecified causal graph and observed-covariate adjustment.
+(3) To identify nonlinear dose–response patterns, cross-modal in­
+teractions, and contextual differences that can inform fine-scale 
+renewal strategies for waterfront walking environments.
+2. Literature review
+2.1. Dynamic landscape preference and audio-visual interactions
+Landscape preference is not a simple response to static visual infor­
+mation, but an integrated perceptual outcome shaped by dynamic 
+exposure and multisensory integration. Because environmental experi­
+ence is inherently multisensory, auditory stimuli can modify visual 
+landscape evaluation; natural and congruent sounds generally enhance 
+aesthetic preference and restorative experience, whereas incongruent 
+audio-visual stimuli are more likely to elicit negative evaluations [4,5,
+11,13,16]. Dynamic perception may be relevant to landscape preference 
+because route-based exposure presents sequential changes in spatial 
+layout, visibility, and environmental cues during movement. Such 
+moving visual sequences may help capture spatial continuity, explora­
+tion, and changing audio-visual context that are less explicit in isolated 
+static scenes [14,17].
+Taken together, landscape preference is shaped by visual informa­
+tion, dynamic experience, and audio-visual interaction; however, most 
+studies still examine visual content and soundscape characteristics 
+separately, leaving unclear how spatial organization modifies sound­
+scape effects during dynamic exposure.
+2.2. Spatial-structure metrics for landscape preference
+Visual assessment of landscape preference provides an important 
+approach to understanding human responses to the environment [18,
+19]. From a design perspective, the visual attributes shaping landscape 
+preference can be divided into compositional attributes, which define 
+landscape content, and organizational attributes, which describe how 
+that content is spatially configured [8,15]. Previous studies have shown 
+that compositional attributes, such as green view index, plant richness 
+[20], artificial facilities [21], perceived color diversity [22], and 
+element combinations [23], have been associated with landscape pref­
+erence and visual behavior.
+Although organizational attributes such as scene depth, sense of 
+order, and scene type can moderate the effects of compositional attri­
+butes on preference, their measurement remains insufficient because 
+existing visual metrics are still largely limited to two-dimensional pixel 
+proportions and provide limited representation of openness, scene 
+depth, and enclosure [9,15].
+Prospect–refuge theory suggests that people tend to prefer environ­
+ments that balance visual access and a sense of protection [24]. 
+Empirical studies based on viewshed analysis, photographs, virtual re­
+ality (VR), and field experiments have linked preference to visible area 
+[25,26], scene type [27], openness [23], scene depth [9,28], and spatial 
+form [29]. Recent image-based studies have attempted to quantify 
+prospect and refuge using low-level visual features, but evidence re­
+mains mixed regarding whether openness and enclosure have stable and 
+independent effects on preference [9,30,31].
+Moreover, compositional and organizational attributes have often 
+been examined separately, while limited attention has been paid to how 
+landscape elements are spatially organized. Because the acquisition of 
+distance-layered spatial structure information often relies on controlled 
+experiments, subjective assessments, or costly scanning devices, low- 
+cost and scalable quantification of compositional and organizational 
+attributes in real-world settings remains a key challenge [32,33].
+2.3. Machine learning and causal explanation in landscape preference 
+research
+In recent years, machine learning and deep learning techniques have 
+provided new methodological pathways for landscape preference 
+research. Compared with traditional linear regression models, methods 
+such as XGBoost and random forest can better capture complex 
+nonlinear relationships and often achieve higher predictive accuracy. 
+Interpretation tools such as SHAP can also help reveal the predictive 
+logic within models, thereby supporting design decision-making and 
+management. Scalable feature-extraction methods, including low-level 
+visual analysis, semantic segmentation, monocular depth estimation, 
+and sound classification, make it possible to integrate visual [34], spatial 
+[35], and auditory indicators [36] for landscape-preference research.
+Although these models have clear advantages in feature extraction 
+and predictive accuracy, the black-box nature of machine learning 
+models makes it difficult for them to provide directly actionable evi­
+dence for planning and design. This problem is especially evident when 
+environmental elements are highly coupled, because multicollinearity 
+and confounding may prevent correlation analysis or conventional 
+machine learning from identifying the independent role of a single 
+element. Causal inference has therefore been introduced into urban and 
+environmental studies to estimate intervention-oriented effects under 
+explicit assumptions, and some studies have further combined SCM with 
+machine learning models [37–39]. However, in landscape perception 
+research, the integration of causal inference with high-dimensional au­
+dio-visual features and interpretable machine learning remains limited. 
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+2 
+
+Such integration can help address confounding, identify key environ­
+mental cues, and provide stronger evidence for waterfront-space design. 
+Based on the above gaps, this study addresses the following research 
+questions: 
+(1) How can dynamic audio-visual preference in waterfront walking 
+environments be measured and represented through route-based 
+stimuli, continuous ratings, spatial-structure metrics, and 
+soundscape indicators?
+(2) Which distance-layered spatial structure and soundscape vari­
+ables show design-relevant associations with landscape prefer­
+ence under a prespecified causal graph and observed-covariate 
+adjustment?
+(3) How do these variables vary across exposure levels, interact 
+across sensory domains, and differ across park and functional 
+contexts?
+This study provides an empirical test of how spatial structure and 
+soundscape interact in dynamic settings. Under explicit assumptions, it 
+also seeks to advance an intervention-oriented explanation of observed 
+relationships, thereby providing evidence to support fine-scale renewal 
+and design decision-making in waterfront spaces.
+3. Methods
+The analytical workflow comprised four main steps. First, route- 
+based first-person audio-visual stimuli were collected in five water­
+front parks in Dalian and used in a real-time landscape-preference 
+assessment experiment conducted in a Cave Automatic Virtual Envi­
+ronment (CAVE). Second, computer-vision, audio-processing, and 
+acoustic models were applied to extract spatial structure, low-level vi­
+sual, and soundscape features from the audio-visual stimuli. Third, 
+dose–response relationships were estimated conditional on a pre­
+specified directed acyclic graph (DAG) and measured covariates, and 
+their robustness was assessed using multiple refutation tests and a video- 
+level block bootstrap based on Unique_Scene_ID. Finally, variables that 
+passed robustness screening, together with the selected confounding 
+controls, were used to build predictive models. SHAP analysis was then 
+employed to interpret main effects, interaction patterns, and contextual 
+heterogeneity in feature attribution.
+3.1. Data collection
+3.1.1. Study area
+To identify key environmental cues associated with landscape pref­
+erence under dynamic audio-visual conditions, the experiment used 
+route-based first-person videos as stimuli. This design allowed partici­
+pants to experience continuous visual–acoustic changes while reducing 
+potential confounding effects from ambient thermal and meteorological 
+conditions. Five waterfront parks in Dalian, Liaoning Province, China, 
+were selected as study sites (Fig. 1): Dalian Botanical Garden (Park_1), 
+Xishanhu Park (Park_2), Baiyun Yanshui Fitness Park (Park_3), Qiang­
+guan Central Urban Wetland Park (Park_4), and Zelonghu Park (Park_5). 
+These sites represent botanical, suburban waterfront, sports and fitness, 
+urban wetland, and community waterfront park settings. They also vary 
+in sound-source composition, spatial openness, activity intensity, and 
+waterfront interface morphology, thereby increasing the environmental 
+heterogeneity of the stimulus sample.
+3.1.2. Audio-visual stimuli
+Field data were collected under clear daytime conditions from late 
+May to early June 2025. The data acquisition system was mounted at an 
+adult eye-level height of 1.6 m to approximate first-person audio-visual 
+perception during movement. Continuous visual footage was recorded 
+using a DJI Osmo Action 4 action camera at 4K resolution and 60 fps. An 
+Aihua ISV 1102 sound level meter was used to measure the A-weighted 
+equivalent continuous sound pressure level (LAeq) during video 
+recording. Sound-source information was captured using a TASCAM DR- 
+05X recorder at 96 kHz/24-bit sampling resolution. Spoken start and 
+end commands were recorded to mark each recording session, and the 
+audio-visual information was precisely aligned during post-processing 
+based on timestamps.
+Noise reduction was first applied to the raw audio materials in Adobe 
+Audition 2022, after which the audio and video streams were temporally 
+Fig. 1. Location of the five waterfront parks in Dalian, Liaoning Province, China. Park_1 = Dalian Botanical Garden; Park_2 = Xishanhu Park; Park_3 = Baiyun 
+Yanshui Fitness Park; Park_4 = Qiangguan Central Urban Wetland Park; Park_5 = Zelonghu Park. Map boundaries are shown for illustrative purposes only and do not 
+imply any territorial claim.
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+3 
+
+aligned in Adobe Premiere Pro 2022. The processed materials were 
+edited into 36 1-min audio-visual clips. To ensure the acoustic fidelity of 
+the auditory stimuli, the indoor playback level was calibrated in abso­
+lute sound pressure level units so that its deviation from the field- 
+measured LAeq remained within ±1 A-weighted decibels (dBA).
+3.1.3. Dynamic landscape preference experiment
+Participants were recruited online and then completed an in-person 
+laboratory experiment. A total of 62 university students from landscape- 
+related and non-landscape-related disciplines were recruited. After data 
+cleaning, 59 valid participants were retained for analysis. To control the 
+duration of a single experimental session and reduce participant fatigue, 
+the 36 videos were divided into two subsets, and each participant 
+viewed only 18 videos. The presentation order of videos within each 
+subset was randomized. Because group assignment and video subset 
+were not fully separable by design, Group was treated only as a 
+contextual control and was not interpreted as an independently identi­
+fiable experimental effect.
+Previous research has reported that CAVE-based environments can 
+provide good ecological validity in eliciting psychological responses 
+[40]. Accordingly, the audio-visual stimuli in the landscape preference 
+experiment were presented using a CAVE system. Preference ratings 
+were recorded using a mobile-based continuous rating tool developed 
+for this study. Before the formal experiment, participants completed a 
+5-min practice session using a similar video that was not included in the 
+experimental stimuli. Preference was rated on a continuous 1–7 scale, 
+ranging from “dislike” to “like”. A 5-s neutral gray screen was presented 
+after each video, and a 2-min break was provided after every six videos 
+to minimize cumulative fatigue. The study-site examples and segmen­
+tation of the dynamic audio-visual stimuli are shown in Fig. 2.
+During the experiment, preference ratings were recorded at 1-s in­
+tervals, and video-frame and acoustic features were extracted at the 
+same interval. For analysis, subjective ratings and environmental fea­
+tures were temporally matched and aggregated into adjacent 3-s time 
+windows to reduce second-by-second rating noise and partially account 
+for short-term response lag. Each 1-min video therefore generated 20 
+consecutive video-window observations, yielding 720 video-window 
+observations from the 36 videos. These video-window observations 
+were used as the statistical units for subsequent causal inference and 
+machine-learning analyses. These 720 records represented video- 
+window analytical units derived from 36 videos × 20 time windows. 
+They should not be interpreted as independent participant-level obser­
+vations. The main SCM analysis therefore estimated group-level average 
+response patterns at the video-window level. In the dose–response 
+analysis and related robustness checks, Unique_Scene_ID was used as the 
+video-level block resampling unit. Thus, the main analysis identified 
+group-level average preference patterns at the video-window level 
+rather than individual-level responses.
+The study was approved by the Ethics Committee of the authors' 
+affiliated institution (Approval No.: YSSJ-20250415), and all partici­
+pants provided written informed consent before the experiment. All data 
+were anonymized before analysis, and the study was conducted in 
+accordance with the Declaration of Helsinki.
+3.2. Feature engineering
+To identify the key drivers of dynamic landscape preference, this 
+study constructed a multidimensional indicator system covering spatial 
+structure, low-level visual features, and acoustic attributes. The ratio­
+nale for feature selection and the variable definitions and calculation 
+formulas are provided in Supplementary Tables S1–S2.
+For spatial-structure and low-level visual-feature extraction, video 
+frames were first extracted at 1-s intervals using FFmpeg. Low-level 
+visual features, including brightness, saturation, contrast, number of 
+colors, and edge complexity, were then calculated from the extracted 
+frames using OpenCV. Next, Mask2Former, pretrained on the ADE20K 
+dataset [41], was applied to estimate the semantic-class proportions of 
+sky, vegetation, water, roads, buildings, people, and other scene ele­
+ments (for detailed mapping rules, see Supplementary Table S11). These 
+semantic outputs were further aggregated into composite indicators, 
+including green view index, blue view index, enclosure, openness, visual 
+imageability, and disturbance.
+Subsequently, the metric-depth version of Depth Anything V2 was 
+used for outdoor scene depth estimation [42]. This version was 
+fine-tuned on the Virtual KITTI 2 dataset and can generate metric depth 
+maps in meters. Infrared distance measurements were also conducted in 
+the field to compare actual distances with model-estimated distances 
+and to assess the accuracy of the depth estimates. Based on the estimated 
+depth values, the scene was divided into three distance layers: fore­
+ground (0–10 m), midground (10–30 m), and background (>30 m).
+Fig. 2. Current conditions of the study sites and segmentation of the dynamic audio-visual stimuli. Park_1 refers to Dalian Botanical Garden, Park_2 to Xishanhu 
+Park, Park_3 to Baiyun Yanshui Fitness Park, Park_4 to Qiangguan Central Urban Wetland Park, and Park_5 to Zelonghu Park. The timeline below each example 
+indicates the playback progress of a single video. Each 3-s segment was aggregated into one time-window observation and used as the minimum unit of analysis.
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+4 
+
+The three distance layers were used as a pedestrian-scale oper­
+ationalization of distance-dependent spatial perception rather than as 
+universal psychophysical cutoffs. From an ecological perspective, visual 
+perception during walking is shaped by the relationship between the 
+moving body and the surrounding environment; therefore, spatial ele­
+ments at different distances may provide different perceptual and 
+behavioral affordances [43]. In depth-perception theory, the distinction 
+between action space and vista space suggests that the range within 
+approximately 30 m is more closely related to locomotion, avoidance, 
+and action planning, whereas more distant space is perceived primarily 
+through global layout, openness, and background continuity [44]. 
+Accordingly, the >30 m layer was interpreted as the background or vista 
+field. Within the action-related range, the 0–10 m and 10–30 m layers 
+were further distinguished to reflect pedestrian-scale spatial experience. 
+The 0–10 m layer represents the immediate near field where enclosure, 
+disturbance, vegetation, facilities, path-edge conditions, and social 
+presence directly shape bodily proximity and walking experience. This 
+near-field interpretation is informed by proxemics, which emphasizes 
+culturally and socially structured interpersonal distance, and by 
+human-scale public-space theory, which highlights how pedestrian 
+experience is shaped by eye-level spatial cues and social activities in 
+public space [45–48]. The 10–30 m layer represents the middle-distance 
+field in which activity patterns, water edges, vegetation groups, and 
+spatial boundaries remain legible during movement [45,47]. This 
+operationalization is also consistent with landscape visual-structure 
+studies that distinguish foreground, middleground, and background 
+views, while adapting this logic to the finer spatial scale of waterfront 
+walking environments [49,50].
+To examine whether the main findings depended on the exact dis­
+tance thresholds, we conducted an additional distance-threshold sensi­
+tivity analysis. The baseline scheme was S0 = 0–10 m / 10–30 m / 
+>30 m. Three alternative schemes were tested by slightly shifting the 
+foreground–midground and midground–background boundaries: S1 
+(0–5 m / 5–20 m / >20 m), S2 (0–8 m / 8–25 m / >25 m), and S3 
+(0–15 m / 15–35 m / >35 m). For each scheme, the distance-layered 
+spatial variables were recalculated, the SCM-based dose–response 
+curves were re-estimated, and the results were compared with the 
+baseline scheme using effect strength, effect direction, Spearman cor­
+relation, and root mean square error (RMSE). Detailed results are pro­
+vided in Supplementary Section S8 and Table S12, with supplementary 
+curves for variables ranked 5–14 shown in Fig. S4.
+Outputs from Mask2Former and Depth Anything V2 were then 
+combined to extract spatial-structure features across different distance 
+layers. Because depth prediction is less stable in distant sky regions, such 
+pixels were assigned to the open background through a rule-based 
+procedure. Therefore, the resulting indicators should be interpreted as 
+proxies for spatial structure rather than as an absolute 3D 
+reconstruction.
+For auditory-feature extraction, YAMNet was used to derive the 
+mean confidence scores of Sound_Nature, Sound_Traffic, Sound_Human, 
+and Sound_Quiet, representing natural sounds, traffic/mechanical 
+sounds, human sounds, and quietness, respectively [51]. These outputs 
+reflect the relative confidence of class labels and were used as proxy 
+indicators for sound source types and soundscape perception. YAMNet is 
+a pretrained acoustic recognition model based on the MobileNetV1 ar­
+chitecture. It performs automatic multi-label classification of 521 sound 
+classes in the AudioSet dataset by analyzing log-mel spectrogram fea­
+tures. In addition, sharpness, roughness, and fluctuation strength were 
+calculated using the MoSQITo Python library, following the psycho­
+acoustic approach described in previous work [52].
+All feature variables were preprocessed. First, variables with vari­
+ance inflation factor (VIF) values greater than 10 were removed through 
+a multicollinearity test to reduce parameter instability and prevent 
+collinearity-induced inflation of estimation variance. Second, although 
+experimental recording and feature extraction were conducted at 1-s 
+intervals, 
+all 
+subsequent 
+main 
+analyses 
+used 
+video-window 
+observations aggregated over adjacent 3-s time windows as the statis­
+tical units. Specifically, for each time window, participant ratings cor­
+responding to the same video window were averaged and then matched 
+with the temporally aggregated environmental feature vector, resulting 
+in 720 observations for causal inference and predictive modeling. For 
+the aggregated video-window samples, an intraclass correlation analysis 
+was conducted on individual ratings within each window to assess inter- 
+participant consistency. To ensure the transparency and computational 
+reproducibility of these feature extraction pipelines and subsequent 
+causal models, detailed documentation of the software environment, 
+pre-trained model weights, and algorithm configurations are provided in 
+Supplementary Section S7.
+3.3. Causal inference and SHAP interaction analysis
+As illustrated in the overall research workflow (Fig. 3), this study 
+adopted an analytical framework integrating an SCM with machine 
+learning to estimate intervention-oriented associations between spatial- 
+structure and soundscape features and landscape preference under the 
+predefined DAG and observed covariates. The SCM was used for DAG- 
+based adjustment and dose–response estimation, while SHAP was used 
+to interpret predictive interactions and contextual heterogeneity. All 
+core causal inference and statistical analyses were conducted in Python 
+using DoWhy and related libraries.
+3.3.1. Causal graph construction and dose–response curves
+First, a predefined DAG was constructed to represent the hypothe­
+sized relationships among variables, based on environmental perception 
+theory and prior knowledge. The complete DAG, key pathways, and 
+theoretical rationale are provided in Supplementary Fig. S1 and 
+Table S3.
+To clarify the assumptions underlying the SCM, the directed edges in 
+the prespecified DAG were used as theory- and evidence-informed 
+structural assumptions for DAG-based adjustment and intervention- 
+oriented dose–response estimation. The main pathways were classified 
+into three assumption types: theory-supported perceptual pathways, 
+physical-process pathways, and empirical-assumption pathways. The 
+perceptual pathways assumed that spatial structure, visual features, and 
+soundscape exposure influence landscape preference through openness, 
+enclosure, visual disturbance, landscape legibility, acoustic comfort, and 
+audio-visual integration [3,11]. The physical-process pathways assumed 
+that vegetation, ground surfaces, water surfaces, hard pavements, and 
+built interfaces may influence acoustic and psychoacoustic indicators 
+through sound absorption, reflection, scattering, shielding, and attenu­
+ation [53,54]. The empirical soundscape pathways assumed that spatial 
+form, functional area, activity intensity, and ecological background are 
+associated with sound-source composition, including natural, human, 
+traffic/mechanical, and quietness-related sounds [55,56]. In particular, 
+the pathway from spatial structure to LAeq was specified through two 
+linked assumptions: a physical-propagation assumption, in which spatial 
+materials and interfaces may modify sound transmission, and a 
+sound-source-distribution assumption, in which spatial form and func­
+tional area may shape activity patterns, crowd aggregation, traffic 
+proximity, and sound-source composition. Detailed explanations of the 
+pathway assumptions, supporting references, and interpretation 
+boundaries are provided in Supplementary Table S3.
+Individual characteristics were not included as conventional con­
+founders in the main SCM because the exposures in the main analysis 
+were video-window-level environmental variables, whereas the 
+outcome was the group-level mean preference score for the same video 
+window. Variables such as noise sensitivity, professional background, 
+aesthetic preference, or individual response lag may influence partici­
+pants’ rating baselines and sensitivity to visual or acoustic cues, but they 
+do not determine the LAeq, openness, water visibility, or visual distur­
+bance level of a given video-window observation. These factors were 
+therefore treated as potential sources of individual-level heterogeneity 
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+5 
+
+or effect modification rather than as video-window-level environmental 
+confounders. Professional background was measured and examined in 
+the individual-level mixed-effects sensitivity analysis, whereas noise 
+sensitivity was not measured and is acknowledged as an unobserved 
+source of heterogeneity in the limitations.
+In the DAG, directed edges between nodes represent the assumed 
+causal relationships among variables. The variables were organized into 
+three layers: spatial structure, low-level visual features, and soundscape 
+indicators. Based on prior knowledge, edge directions across these layers 
+were constrained. Park_ID and Functional_Area were included to ac­
+count for contextual differences, whereas Group and Time were 
+included as design and temporal controls [57]. According to the back­
+door criterion, variables satisfying the criterion were identified using the 
+DoWhy library and included in the adjustment set. Specifically, Park_ID 
+and Functional_Area were considered related to the potential con­
+founding structure, whereas Group and Time were treated as design and 
+temporal contextual controls rather than independently identifiable 
+experimental 
+factors 
+or 
+conventional 
+confounders. 
+The 
+covariate-adjustment strategy is summarized in Supplementary 
+Table S4.
+To estimate intervention-oriented effects, each candidate environ­
+mental variable was treated as an exposure T, and landscape preference 
+was treated as the outcome Y. Under the prespecified DAG and the 
+corresponding adjustment set Z, the target quantity was the expected 
+preference score under intervention: 
+μ(t) = E[Y|do(T = t)]
+(1) 
+where do(T = t) denotes an intervention that sets the exposure to a given 
+dose level. For each exposure, the observed range was divided into 100 
+dose levels. Dose–response curves were estimated using SCM-based 
+nonlinear prediction with 300 video-level block bootstrap resamples 
+based on Unique_Scene_ID. Random forest models were used to fit 
+nonlinear relationships among non-root nodes. The response amplitude 
+within the central 95% exposure range was used as the effect-strength 
+index. Detailed estimation procedures are provided in Supplementary 
+Section S4.
+3.3.2. Robustness checks
+Four refutation tests were used to assess the robustness of the esti­
+mated dose–response curves: placebo treatment, data subset refutation, 
+random common cause (RCC), and mechanism-change tests. Placebo 
+curves were expected to show near-null effects, whereas the other 
+refutation curves were compared with the baseline curves using 
+Spearman correlation and TOST equivalence testing. All refutation 
+procedures were implemented with video-level block resampling. 
+Detailed criteria are reported in Supplementary Table S5.
+3.3.3. Identification of nonlinear relationships and interaction effects
+After identifying the key variables with robust intervention-oriented 
+associations, we further examined their nonlinear patterns and 
+Fig. 3. Overall research workflow of the study.
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+6 
+
+interaction mechanisms. First, model training and selection were con­
+ducted using the selected robust variables together with four contextual 
+covariates: Park_ID, Functional_Area, Group, and Time. To avoid data 
+leakage caused by the same video-level block appearing in both the 
+training and test sets, model comparison was performed using a 
+Unique_Scene_ID-based grouped split, with 80% of the videos assigned 
+to the training set and 20% to the test set. SHAP was then applied to the 
+best-performing model to interpret interaction effects and to compare 
+contextual differences in the contributions of different variables to 
+landscape preference across parks and functional areas. It should be 
+emphasized that the SHAP results were used to explain predictive 
+structures and group-level differences, rather than to directly demon­
+strate causal mechanisms or heterogeneous treatment effects.
+4. Results
+4.1. Data preprocessing and methodological checks
+In the multicollinearity test, three variables—Green_Fore, Enclose_­
+Mid, and Vis_Entropy—had variance inflation factor (VIF) values greater 
+than 10 and were therefore removed before machine-learning and 
+causal-inference analyses (Table S6). After their removal, the VIF values 
+of all remaining variables were below 10. Based on the predefined data- 
+quality criteria, three participants were excluded: two due to abnormal 
+recordings from the rating device and one due to an invalid response 
+pattern in the rating sequence. The final valid sample included 59 par­
+ticipants, with 32 in Group_1 and 27 in Group_2 (Table 1). Because the 
+primary statistical unit in this study was the aggregated group-level 
+average score, the average-measures intraclass correlation coefficient 
+(ICC) was used to assess the reliability of group-level average ratings. 
+The results showed that the ICC was 0.870 for Group_1 and 0.919 for 
+Group_2, both statistically significant at p < 0.001, indicating good 
+reliability of the group-level average ratings (Table S7). In the subse­
+quent main analyses, all results were based on 720 video-window ob­
+servations. These records were used only as units of analysis, and video- 
+level block resampling based on Unique_Scene_ID was applied to pre­
+serve the within-video temporal correlation structure.
+The depth-layer validation results are reported in Supplementary 
+Fig. S2 and Table S8. Based on 191 annotated validation points, the 
+overall classification accuracy of foreground, midground, and back­
+ground layers was 87.43%. Within the 0–80 m analysis range, model- 
+predicted depth was strongly and significantly correlated with field- 
+measured distance (r = 0.896, p < 0.001). Stratified validation by 
+scene type further showed classification accuracies of 83.33% for 
+wooded / shaded vegetation areas, 92.50% for open green / path- 
+corridor areas, 87.88% for paved and facility-dominated areas, and 
+86.05% for open water / waterfront-edge areas. These results indicate 
+acceptable and reasonably stable distance-layer classification perfor­
+mance across the tested scene types.
+To further examine whether the main findings depended on the 
+temporal aggregation window or the distance-layer thresholds, two 
+sensitivity analyses were conducted. The temporal-window sensitivity 
+analysis compared 1-s, 2-s, 3-s, and 5-s aggregation windows, whereas 
+the distance-threshold sensitivity analysis compared the baseline 
+0–10 m / 10–30 m / >30 m scheme with three alternative distance-layer 
+schemes. The sensitivity analyses showed that the main dose–response 
+patterns of the top-ranked variables remained generally stable under 
+alternative temporal-window and distance-threshold specifications 
+(Fig. 6). In particular, Aud_LAeq, Disturb_Mid, Disturb_Fore, Open_Back, 
+Sound_Human, and Water_Mid retained consistent effect directions 
+across the tested specifications, although moderate vertical shifts and 
+local curve deviations were observed. The complete numerical results of 
+the temporal-window sensitivity analysis are reported in Supplementary 
+Table S13, with supplementary curves for variables ranked 5–14 shown 
+in Fig. S5 and the integrated summary shown in Fig. S6. The complete 
+numerical results of the distance-threshold sensitivity analysis are re­
+ported in Supplementary Table S12, with supplementary curves for 
+variables ranked 5–14 shown in Fig. S4 and the integrated summary 
+shown in Fig. S6.
+4.2. Intervention-oriented explanation of spatial structure and 
+soundscape
+4.2.1. Comparison between SHAP relative importance and effect-strength 
+ranking
+Fig. 4 shows that SHAP-based predictive attribution and model- 
+estimated effect-strength ranking were not equivalent. When summa­
+rized by SHAP contribution, spatial structure, low-level visual features, 
+and soundscape features accounted for 67.2%, 16.9%, and 15.9%, 
+respectively. In contrast, when summarized by effect strength, the cor­
+responding proportions were 60.6%, 8.9%, and 30.5%, indicating that 
+the relative role of soundscape variables increased markedly in the 
+intervention-oriented ranking. As shown in Table 2, the top six variables 
+in terms of SCM-based effect strength were Aud_LAeq (0.471), Dis­
+turb_Mid (0.396), Disturb_Fore (0.364), Open_Back (0.308), Sound_­
+Human (0.255), and Water_Mid (0.200). By comparison, the variables 
+Table 1 
+Participant characteristics.
+Characteristic
+Overall 
+(n ¼ 59)
+Group_1 
+(n ¼ 32)
+Group_2 
+(n ¼ 27)
+Age, years
+21.83 ± 1.07 
+(18–24)
+21.97 ± 1.00 
+(21–24)
+21.67 ± 1.14 
+(18–24)
+Female, n (%)
+28 (47.5%)
+16 (50.0%)
+12 (44.4%)
+Male, n (%)
+31 (52.5%)
+16 (50.0%)
+15 (55.6%)
+Landscape-related 
+major, n (%)
+31 (52.5%)
+19 (59.4%)
+12 (44.4%)
+Non-landscape- 
+related major, n 
+(%)
+28 (47.5%)
+13 (40.6%)
+15 (55.6%)
+Fig. 4. Comparison between SHAP-based predictive attribution and SCM-based 
+effect strength.
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+7 
+
+with high SHAP contributions were Disturb_Mid, Disturb_Back, Enclo­
+se_Fore, Vis_Sat, Open_Back, and Vis_Bright.
+4.2.2. Robustness checks of SCM-based intervention-oriented estimates
+The robustness checks further identified variables that showed 
+robust patterns under the current DAG and model specification. The 
+corresponding robustness-check results are summarized in Fig. 7, which 
+illustrates how the candidate variables performed across the four refu­
+tation tests. Among the 26 candidate exposure variables, 14 passed all 
+four types of refutation tests (Table 2), including eight spatial-structure 
+variables, two low-level visual variables, and four soundscape variables. 
+The full list of robust variables is reported in Table 2. The remaining 
+variables, although they ranked highly in single-model predictive 
+contribution or a one-off effect-strength estimate, failed at least one 
+robustness check and were therefore not used as the primary basis for 
+interpretation.
+Because consecutive 3-s windows within the same video may be 
+temporally correlated, generalized estimating equations (GEE) were 
+applied as an additional robustness analysis. The results are provided in 
+Supplementary Table S9. Overall, the GEE analysis supported the 
+directional consistency of the SCM-based main analysis—particularly 
+for 
+Open_Back, 
+Water_Mid, 
+Disturb_Fore, 
+and 
+Complex_Back—although statistical support for several variables 
+weakened after within-video temporal correlation was considered. An 
+additional individual-level mixed-effects sensitivity analysis was con­
+ducted to examine whether the main effect directions were sensitive to 
+Table 2 
+Variables showing stable performance in the robustness checks.
+Variable
+Subset
+Mechanism
+RCC
+Placebo
+Effect
+ρ
+p
+ρ
+p
+ρ
+p
+Slope
+Effect
+Aud_LAeq
+0.967
+< 0.001
+0.945
+< 0.001
+0.969
+< 0.001
+0.004
+0.028
+0.471
+Disturb_Mid
+0.918
+< 0.001
+0.951
+< 0.001
+0.948
+< 0.001
+0.003
+0.055
+0.396
+Disturb_Fore
+0.968
+< 0.001
+0.952
+< 0.001
+0.966
+< 0.001
+0.005
+0.016
+0.364
+Open_Back
+0.946
+< 0.001
+0.944
+< 0.001
+0.938
+< 0.001
+0.004
+0.038
+0.308
+Sound_Human
+0.978
+< 0.001
+0.989
+< 0.001
+0.982
+< 0.001
+0.004
+0.020
+0.255
+Water_Mid
+0.919
+< 0.001
+0.930
+< 0.001
+0.931
+< 0.001
+0.004
+0.018
+0.200
+Enclose_Fore
+0.925
+< 0.001
+0.917
+< 0.001
+0.956
+< 0.001
+0.004
+0.026
+0.148
+Vis_Colors
+0.956
+< 0.001
+0.920
+< 0.001
+0.961
+< 0.001
+0.004
+0.019
+0.123
+Sound_Nature
+0.919
+< 0.001
+0.919
+< 0.001
+0.857
+< 0.001
+0.002
+0.014
+0.098
+Complex_Fore
+0.966
+< 0.001
+0.973
+< 0.001
+0.970
+< 0.001
+0.003
+0.014
+0.096
+Vis_Sat
+0.957
+< 0.001
+0.956
+< 0.001
+0.967
+< 0.001
+0.003
+0.013
+0.086
+Green_Mid
+0.913
+< 0.001
+0.832
+< 0.001
+0.889
+< 0.001
+0.003
+0.009
+0.070
+Aud_Sharp
+0.927
+< 0.001
+0.950
+< 0.001
+0.942
+< 0.001
+0.002
+0.017
+0.063
+Complex_Back
+0.939
+< 0.001
+0.967
+< 0.001
+0.954
+< 0.001
+0.004
+0.016
+0.058
+Fig. 5. Dose–response curves and refutation curves of the top-ranked variables by SCM-based effect strength. The shaded areas indicate the 95% confidence intervals 
+obtained from video-level block bootstrap resampling.
+S. Feng and R. Li 
+Building and Environment 304 (2026) 115060 
+8 
+
+participant-level rating baselines and repeated measurements within 
+video scenes. In this model, individual participant-window ratings were 
+retained, with random intercepts specified at both the participant level 
+and the video-scene level, and professional background was included as 
+an individual-level covariate. The results are reported in Supplementary 
+Section S10, Table S14, and Fig. S7. Overall, the top-ranked SCM vari­
+ables, including Aud_LAeq, Disturb_Mid, Disturb_Fore, Open_Back, 
+Sound_Human, and Water_Mid, retained directions consistent with the 
+main SCM results, whereas several lower-ranked variables showed weak 
+or unstable signals.
+4.2.3. Dose–response relationships, SHAP interactions, and contextual 
+heterogeneity
+As shown in Fig. 5a–f, the dose–response curves of different variables 
+exhibited varying degrees of nonlinearity. Aud_LAeq showed an overall 
+negative dose–response pattern, with a more pronounced decline in 
+preference above approximately 68–70 dBA. Disturb_Mid and Dis­
+turb_Fore generally reduced preference as exposure increased, and the 
+response amplitude of Disturb_Mid was higher than that of Disturb_Fore. 
+Open_Back showed an overall positive effect, with preference increasing 
+rapidly within the range of approximately 20%–30%, followed by a 
+weakening marginal gain. Sound_Human showed an overall negative 
+response pattern. Water_Mid showed an overall positive association with 
+preference, with a more pronounced increase within the range of 
+approximately 4%–10%.
+Supplementary Fig. S3 further shows the dose–response and 
+robustness curves for the remaining candidate variables. Among the 
+robust variables, Enclose_Fore showed an approximately inverted U- 
+shape
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

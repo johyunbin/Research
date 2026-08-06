@@ -1,0 +1,802 @@
+J"ffl" 'I P",""Ut, "d S"", Pr"h"", 
+1975. VoL 32. No. 4. S7leS77 
+Environmental Noise Level as a Determinant of Helping Behavior 
+Kenneth E. Mathews, Jr. Law 
+and lustice Planning Office, 
+Seattle, Washington 
+Lance Kirkpatrick Canon 
+University of New Hampshire 
+The results of research dealing with the effects of nois, on intrapersonal behavior suggest 
+a variety of possible consequences for interpersonal functiDning. The effects of various 
+levels of noise on simple helping behavior were explored in a laboratory and a field
+setting for a total of 132 subjects. In botb experiments, subjects exposed to 8S-db. white 
+noise were less likely than those in lower noise conditions to offer assistance to a person 
+in need. The results were interpreted on the basis of prior research suggesting that noise-
+produced arousal leads to a restriction in attention deployment or cue utilization.
+Alternative accounts in terms of the effect of noise on moDd and on drive level were also
+considered. 
+The effect of noise on intrapersonal behavior 
+has long been of interest to general experimental 
+and 
+physiological 
+psyebologists, 
+and 
+tbe 
+publicatian in recent years of a number of 
+volumes on this topic (e.g., Broadbent, 
+1971; Kry ter, 1970; Welch & Weleb, 1970) 
+attests to the significance tbat these issues are
+currently accorded. Public cancern over "noise
+pollution," congressiona1 legislatian dealing 
+with permissible noise exposure levels in 
+industrial settings, and work sueb as that at'
+Cameron, 
+Robertson, 
+and 
+Zaks 
+(1972),
+suggesting tbat noise may be associated with tbe
+incidence of <hronie and acute illness, provide 
+further impetus for researCh of this sort. 
+Investigations of tbe interpersonal impact of 
+ambient noise, however, are much less in
+evidence, tbough Glass and Singer (1972) have
+provided a nice bridge between these two .
+complementary focuses, and there has been
+work on the relationship between noise and 
+conformity (Dustin, 1968), aggression 
+(Geen & O'N eal, 1969; Geen & Powers, 1971),
+and verbal disinhibition (Holmes & Holzman,
+1966). 
+Senior autborship was awarded on tbe basis of a coin !lip 
+and does not reHect differential contribution to the planning 
+and conduct of the experiment or preparation of tbla report. 
+A portion of tbe preparation of tbis report was supported 
+by NationalInstitutes of Hea1tb Grant S,S06-RR08066-02 
+awarded to the second autboc. 
+Requests for reprints sbourd be sent to Lance K. Canon, 
+Department of Psycbology, University of New Hampsbire, 
+Durbarn, New Harnpsbire 03824. 
+Earlier researcb by tbe authors on tbe
+psychosocial effeets of ambient noise level 
+(Canon & Mathews, Nate l) has provided
+indirect support for the hypotbesis tbat high 
+noise levels may lead to lessened attention to
+tbe incidental social cuesthat structure and
+guide significant aspeets of interpersonal be-
+havior. Since an individual's interpretation of 
+same situation as one in which helping behav 
+iqf~is appropriate might well be based on such 
+cues and would seem to be a necessary ante-
+cedent to assisting behaviors, tbe present study 
+explored tbe effeets of various leveIs of ambient 
+noise on tbe likelihood of helping in a very 
+simple situation. 
+Several 
+interrelated 
+lines 
+of 
+research
+(Broadbent, 1958, 1971; Easterbrook, 1959;
+Hockey, 1969) have produced data suggesting
+that arousalleads to a state of restricted attentian 
+or cue utilization in whiCh attentian is con-
+centrated on salient features of the setting at the 
+expense of'its other aspects. As arousalinduced
+attentian restriction increases, performance is 
+either facilitated or hindered, depending upon
+tbe task relevancy of tbe .alient or dominant 
+cues within the situation. Recent studies dealing
+with vigilance, 1earning, and performance (e.g., 
+Hamilton & Copeman, 1970; Hockey, 1970a,
+1970b; O'Malley & Poplawsky, 1971) have, 
+indeed, demonstrated tbat noise does decrease
+tbe detection of, and responsiveness to,
+peripheral or nonsalient events, while the 
+perception of, and responsiveness to, central or 
+salient events is not hindered. 
+571 
+
+ 
+572 
+KENNETH E. MATHEWS, JR., AND LANGE Knu<PATRICK CANON 
+I 
+j 
+! 
+l 
+r 
+I 
+~ 
+f 
+I I 
+One implication of this effeet for interper-
+sonal processes is that with noisy environments,
+individuals may become less aware of re!atively 
+subtle 
+cues 
+produced 
+in 
+interpersonal 
+interactions that more clearly define other's
+meaniugs, intentions, and bebavior. In addi tion, 
+this approach suggests that the course of 
+ongoing bebavior and/or interaction would be 
+less flexible and less hKe!y to change to a new 
+direetion, since individuals would be less
+attentive to events that are not directly related to 
+ongoing activities. This implies that persons may
+become re!atively more single-minded in their 
+actions, and in a situation that involves another 
+in need of assistance, less like!y to interrupt 
+present activities to perform he!ping acts. 
+Zimbardo (1969b), in a similar vein, has
+suggested that "sensory input overload" may 
+lead to a state of deindividuation in which
+persons "treat others as if they were not human
+beings, as if they bad no personal identity" (p.
+206). Implied here is a process akin to the one 
+developed above concerniug responsiveness to 
+peripheral cues, since one of the defining 
+properties of a deindividuated state is that "the
+behavior must not be under discriminative 
+stimulus contro!. It must be uuresponsive to 
+features of the situation, the larget, the victim, or 
+the states of self which normally evoke a given 
+level of response or a competiug response"
+(Zimbardo, 1969b, p.259). 
+An application of Milgram's (1970) concept
+of overioad, developed in his treatment of the
+"urban experienee," also suggests consequences
+for social behavior that are similar to those 
+derived 
+above. 
+However, 
+two 
+important 
+distiuctions should be noted, since the earlier-
+discussed positions proposed a process that is
+not dependent upon learniug and that yie!ds a
+transitory state occurriug with little or no time
+lag in response to appropriate environmental 
+factors. Implicit in Milgram's 
+analysis is the notion of a continuing response
+resulting from temporally extensive experience
+with the precipitating stimulus conditions. 
+Two reeent studies provide indireet support 
+for noise-produced deindividuation. In both 
+investigations verbal behavior was "disin-
+hibited" by the presence of relative!y high 
+~ ij 
+levels of noise. Stanton (1968) found that more 
+"extreme" or taboo words were produced in a 
+free-response 
+situation 
+under 
+high-noise 
+conditions. Holmes and Holzman (1966), after 
+instructing subjeets to employ nonsense words 
+at critica1 points while relatiug a personally 
+embarrassing 
+incident, 
+reported 
+agreater 
+tendency of subjeets to lapse into the use of 
+meaningful English with highnoise levels. 
+To test these implications, two studies were 
+conducted in which subjects were presented 
+with an opportunity to assist another person in a 
+simple, nonemergency situation under various 
+levels of ambient noise. Since the primary 
+interest concemed the effeets of noise rather 
+than the complex concept of altruism, the 
+circurnstances involved a very uncomplicated 
+and basic he!ping paradigm: The parties had no 
+prior history of interaction, engaged in only the 
+briefest of contacts with 
+no expeetation of further involvement with . 
+one another, and were alone at the time of the 
+contrived incident. The laboratory experiment 
+involved a book-dropping episode and three 
+intensities of noise, while the field study used a 
+similar occasion for he!ping and two noise 
+leveis. Au additional manipulation in the latter 
+study was designed to produce two levels of 
+incidental cues indicating the degree to. which 
+the accomplice was in need of assistance. 
+The attention-restriction position would 
+predict a deerease in the tendency to help with 
+an increase in noise leve!. Further, an 
+interaction between noise leve! and the effect of 
+the cues-for-helping manipulation wouid be 
+expeeted. Tbat is, presence of these cues should 
+be associated with a higher likelihood of 
+assistance giving in the low-noise conditions 
+but not in the high-noise settiug. 
+EXPERIMENT l: LABORATORY 
+Method 
+Procedure. Fifty-two male subjects reported for an 
+experiment on mterpersoual percepliou. They were met at 
+the door to the laboratory by the experimenter who 
+indicated that they would have to wait for a few minutes
+before beginning the stndy. They were directed to a waitiug
+room where they fouud auother male "subjeet" (a 
+confederate of the experimenter) seated m one of the two 
+available chairs reading an arlide m one of the several 
+journals he 
+
+ 
+ENVIRONMENTAL NorSE LEVEL 
+held in his lap.. The confederate was in the chalr farthest from
+the door to the room, and thus the subjeet took the seat just
+adj=nt to that door. Alter only a moment, the expmmenter
+reappeared in the doorway and called the confederate to take 
+bis tum in the experiment. As be arose, he awkwardly clasped
+to bis chest the two books, live 
+. joumais, and miscellaneous papers that bad beeu in bis lap, 
+and as he crossed in front of the subject, the papers and 
+journaJs slipped from his grasp and scattered on the floor. He 
+moved without besitation to reeover the dropped materials
+that were spread over at least a 3 square foot (.9 m') area and 
+proceeded out of the room. 
+The dependent variahle in the study was the presence or 
+absence of helping bebavior on the part of the subject in front
+of wbom the materfaJs bad been dropped. A belping response 
+was recorded only if the subjeet actually rose and assisted the
+confederate in retrieving the dropped materials. 
+The independent variable was the ambient noise leveI in 
+the room durfng the period of the study. Three conditions 
+were employed: (a) no artificially induced noise was present, 
+and the natuIal level was 48 db. (C) "'5 db. (C)-no noise; (b) a 
+white noise generator was used to produce an ambient level of
+broadband, wbfte noise at 65 db. (C)-low noise; (c) a
+broadhand, white noise IeveI of 85 db. (C) 
+was maintained-higb noise. 
+No explanation was given for the presence of the wbfte 
+noise, and its source was not immedfately apparent, as the
+speakers employed were bfdden from view behind a curtained 
+area adjacent to the subjeet and the confederate. 
+Since the confederates in both this and the second study 
+could not be blind to the noise conditions, several precautions
+were taken to eJiminate the possibility of bias elfeets. Ten
+undergraduate nonpsychology majors were employed on a 
+contract b~ to assist in the studies, and their participation
+representedonly one among a variety of dutfes. They were, of 
+course, not told of the specffic bypotheses being tested or
+wbat variables were being manipulated and, moreover, were 
+never given an overall picture of the strncture of the
+experiments untll all 
+data bad been coUeeted. Discussion of any aspect. 
+of their work with others in the group was explicitly 
+probibited. Each assistant was given training and supervised 
+rehearsal only for those limited aetivities that were bis
+particular responsibility and each aetually ran only a few 
+subjects in each condition. Contaet between the confederate 
+and the subjeet was kept to an absolute minirnuro, and in no 
+cODdition was there any verbal interaction prior to the drop. 
+The drop was bighly stmctured: The materials were always 
+carri<d in the same initial order and bad to fall witbin a 
+standard 3 square foot (.9 m') area unobtrnsively marked off 
+dfrect1y in front of the subjeet if the trial was to be counted. 
+The limited koowIedge of the design,' the brevfty and bfgbly 
+restricted Dature of the confederate-subject contaet, the 
+simplicity and routinizatioD of the activity involved, and the 
+geDeral insigoificaoce of this work 
+573 
+TABLE I 
+SUBJECTS' HELPING IN THE LABORATORY EXPERIMENT 
+Hcl.ing 
+behavio, 
+No;'" lml 
+Ambi=" 
+Low' 
+Higb'
+13 
+10 
+7 
+5 
+5 
+12 
+72.2 
+66.7 
+36.8 
+Yes 
+No 
+% helpiDg 
+'48 
+db. 
+'65 
+db. 
+'SS db. 
+for the assistants were considered to he sufficient safeguards
+against the possibility of bias effects. 
+RESULTS 
+A one-way analysis of varianee and linear
+Irend analysis were performed on Ihe dichoto-
+mous data (help vs. not help; see Edwards, 1972,
+pp. 124--125, regarding the robustness of the F
+test when using binornial data). 
+The results of !he analysis of varianee indi-
+cated a marginally signiticant di!ferenee be-
+tween mean helping rates for Ihe Ihree noise
+levels, F(2, 49) = 2.878, .05 < P < .10. However,
+when !he results were tested for a linear trend
+(see Myers, 1972, pp. 386-388, for coefficient
+determination for unequal-n treatment intervals
+), there was a significant linear relation between
+inereased noise levels (as measured in decibels)
+and deereased helping, linear F(l, 49) = 6.63, P
+< .025. (See Table 1.) 
+EXPERTMENT 2: FIELD STUDY 
+A seeond experiment was condueted in a 
+field setting in which nonreactive measures 
+eould be obtained and that migbt provide 
+eonvergent eorroboration of the data that re-
+sulted from !he laboratory study. In addition, 
+this study was designed to test the e!feet of 
+noise level upon cue utilization. This provided 
+an opportunity both to replicate the findings of 
+!he laboratory study and to obtain data that 
+would permit dearer determination of the value 
+of the explanation in terms of reduced cue 
+ntilization. The ahsenee or presenee of a cue 
+designed to indicate the degree of legitimacy of 
+the eonfederate's .need for assistanee was 
+manipnlated by having the eonfederate wear a 
+full-Iength arm east for halfof the staged 
+incidents. 
+
+ 
+ 
+574 
+KENNETH E. MATHEWS, JR., AND LANCE KIRKPATRICK CANON 
+Method 
+Procedure. The responses of 80 male suhjeets to an 
+oppmtunity to render assistance to another male in a natural 
+setting were observed. The locale was a curving, tree-lined, 
+low-traflic-density street in a student apartment residential
+area. Tbree persons were involved in cmying out the study: 
+An ohserver was hidden in a recessed stairwe11 across the 
+street from the scene of the incident, which was staged by the
+other two accomplices. The observer had a elear view of the 
+street from approximately 60 yards (54 m) above and helow 
+the incident site, and his duties were to give a "ready" signal 
+when an appropriate suhjeet was approaching, to give a "go" 
+signal when that subject reacbed a point 12 feet (3.6 m) from 
+the incident site, and to record the subject's response to the 
+contrived situation. An appropriate subject was defined as 
+any male walking alone, that is, one who was neither
+preceded nor fo11owed by another person for a distance of 30 
+yards (27 m). 
+Asecond confederate was positioned with his back facing 
+the sidewalk and leaning over inside the open rear door of 
+aparked fom-door automobile. The incident was staged in 
+front of a house with a large lawn flanked by an aparlment 
+building on one side and a hedge on the other. Botb the 
+apartment building and the hedge continued from each side of 
+the 
+house up to the sidewalk. Because of the slight 
+curve of the street and the presenee of a series of trees in the 
+plantiug strip betweeu street and sidewalk, an approaching 
+pedestrian's view of the confedemte's activities was partially
+blocked. He could be seen bending over with his upper torso 
+extending into the ear, but a clear view of just what he was 
+doing was not availahle. The confederate busied himself at
+arrauging some books that were stacked high in a 24 X 6 X 
+12 inch (.6 X 1.5 X.3 m) cardboard box that was seated atop 
+another similar sized box. On the signal from the observer 
+indicating that the subject had reached a point 12 feet (3.6 m)
+from him, the coofederate picked up the boxes from the rear 
+seat of the ear, withdrew from its doorway, turned, and 
+begau walking toward the honse in the background. He did 
+nothing to acknowledge the presenee of the approaching 
+subject, who was by this 
+TABLE 2 
+SUB]ECTS' HELPJNG IN THE FIELD EXPERIMENT 
+Helping behavi" 
+Condition 
+y" 
+No % 
+heloing 
+4 
+16 
+20 
+2 
+18 
+10 
+16 
+4 
+80 
+3 
+17 
+15 
+No east 
+Ambieot noise' 
+High noiseb 
+Cast 
+Ambient noise' 
+High noiseb 
+-so dh.
+087 dh, 
+f J 
+time åpproximately 6 feet (1.3 m) from the confedmte as he 
+croS5ed the sidewaIk. At this point, two of the books 
+delicately balanced atop the overflowlng box spilled out, 
+and as the confederate made a move to save them, several 
+more fell, seatterIng over a wide area on the half of the 
+sidewalk nearest tbe house. He paused for a brief moment, 
+apparently puzzled over the dilemma In wbich he now 
+found himself; that is, In order to retrieve the lost books, he 
+would obviously have to go to the trouble of putting down 
+somewhere the two apparently heavy boxes in his arms. At 
+no thne did he glance toward tbe subjeet or In any way 
+Indicate that he wished assistance. Following that brief 
+pause, he either stopped and picked up the displaced books 
+or, if the subject assisted him or asked if he could be of 
+assistance, thanked him for his heIp and proceeded toward 
+the honse. 
+. 
+The third assistant was stationed In the yard of the 
+adjacent honse apparently worrying over a baIky gasoline-
+engined reel-power lawn mower. He was kneeling next to 
+the mower, intently exarolnlng the throttle mechanism with 
+his back to the sidewaIk and the activity going on there. At 
+no time did he shift his attention from his work and ap-
+peared to be quite unaware of the presence of others 
+and the book-droPplng Incident. His position was 
+25 feet (7.5 m) from the point of the drop and 
+approximately 8 feet (2.4 m) to the right of the other 
+confederate's direct path to the house. 
+In the low-noise condition the lawn mower was 
+Inoperative, and the average ambient noise level was 
+roughly 50 db. (C). To create a high-noise condition, the 
+lawo mower was ruun!ng with its muffler removed, creatiug 
+a noise level at the point of the 
+drop of approxiroately 87 db. (C). 
+To manipulate- cues Indicatiug the legitimacy of the 
+confederate's need for assistance, In one condition the 
+confederate wore a east on his right arm that extended from 
+his wrist to his shoulder with a right angle bend at the 
+elbow. In the other condition, of course, he was not so 
+encumbered. 
+Information regarding subjects' seif-reported mood or 
+attention deployment was not obtained for experimental 
+subjects because of the questionable validity of such 
+responses. Given the very brief "treatment" period, the 
+Incidental nature of the treatment from the subjects' point of 
+view, and the lack of thne to cognitively structure the 
+experience, any verbal report concerning the subject's mood 
+or perception would have been of questionable value. 
+Therefore, 
+the only dependent variable measured was helping. 
+RESUL TS 
+A 2 X 2 (Noise X Cues) factoriai aualysis of 
+variauce performed ou the dichotomous data 
+(help or not help) resulted in highly significant 
+results. As in the laboratory experiment,
+increased noise produced a significaut decrease 
+in helping in that although 5°% of the sub)ects 
+helped In the ambient 
+
+ 
+ENVmONMENTAL NOISE LEVEL 
+noise condition, only 12.5% helped in the high-
+noise condition, F(I, 76) = 20.00, P < .001. 
+(See Table 2.) 
+The cue-for-helping manipulation was also 
+significant in that only 15% of the subjects 
+helped the confederate when he was not wearing
+an arm east, while 47.5 % of the subjects provided 
+assistance to the confederate when he was
+wearing the east, F(I,76) = 15.03, P < .001. 
+The Noise X Cue interaction was also highly 
+significant as the presence or absence of the east 
+on the confederate's arm was highly influential
+in determining the likelihoad of helping under 
+ambient noise conditians (80% of the subjects
+helped the confederate wearing the east, while
+only 20ro of the subjects helped the confederate 
+not wearing the east), whereas the effect of 
+differential cues was nonsignificant for the high-
+noise condition (15 ro helping the confederate
+with the east, 10% helping the confederate
+without the east), F(I, 76) = 10.70, P < .005. 
+GENERAL 
+DrscussION 
+The basic findings of these two investigators
+are 
+consistent 
+and 
+straightforward. 
+With 
+increasing ambient noise levels, the likelihood
+of simple helping belravior decreases. An
+interaction was present in that the physical
+characteristic.s 
+of 
+the 
+confederate, 
+whieb 
+provided visual cues regarding the legitimacy
+and degree of. his need for assistance,
+influenced the likelihood of his being helped in 
+the low- but not in the high-noise conditions of 
+the field study. 
+These results are consistent witIi the nation 
+that high levels of ambient noise produce 
+attenuation of attentian to peripheral cues, that
+is, those not related to central, ongoing activities
+and cancerns. This tendency for per 
+. ceptual "filtering to be more extensive and 
+evidenee to be considered almost entirely from 
+one source rather than anyother" (Broadbent, 
+1971, p. 16) with noise-induced arousal may
+weil have general social implications, since one
+of its consequences may be, as Zimbardo
+(1969b) has suggested, "that individuals may
+orient toward others in a less personal and
+individual fashion. The presence of high levels
+of noise and the attendant attention restric 
+~ 
+ 
+575 
+tian would be expected to curtail the directive
+inflnence on belravior that the cues presented by 
+another person and his or her characteristics
+would have in the absence of highintensity noise. 
+An alternative expIanation in temIS of the 
+aversive qualiiY of loud and noxious noise
+might be advanced. Here it would be argued, for 
+example, that the lowered tendency to help was a
+function of the subjects' desire to escape quickIy 
+from the immediate area of the unpleasantly 
+noisy lawn mower, and thus subjects sinrply 
+walked on past the dropped books and the
+fumbling confederate. However, sueb an account
+would be unable to deal with the similar results 
+of the laboratory study. In this situation, there 
+was no contingent relationship between the
+presenee or absence of a helping response and
+escape from the loud white noise. Subjects were 
+led to believe that they were simply waiting to
+be called to participate in an experinrent, and
+failure to help could not be construed as 
+hastening their exits from the waiting room. If 
+anything, they might have assumed that the
+confederate 
+was 
+waiting 
+for 
+the 
+same
+"experinrent" sueb that helping him and thereby 
+speeding up his departure might reduce the time 
+they would have to spend in the noise-filled 
+waiting room. However, noise level was 
+inversely related to helping just as it was in the 
+field study. Thus, an aversion explanatian does
+not adequately account for the obtained results. 
+Fniany, it should be noted that two addi 
+tional interpretative frameworks might be seen 
+as germane to these findings. One could, 
+forexample, contend that high-intensity nOLSe 
+infiuences mood or affective state as a conse-
+quence of its stressful nature. Subjective reports 
+of annoyance or irritation with increasing noise 
+exposure have ,been found by, among others, 
+Stem, Gaupp, and Leonard (1970). Thus, in line 
+with the contentian of Clore and Byme (1972)
+that personalaffective respouses mediate the 
+expressian of interperwnal belraviors sueb as 
+evaluations, approaeb-avoidance tendencies, and 
+attraction, lowered tendencies to help might be
+anticipated with high-noise levels. However, 
+whiIe numerous studies have demonstrated 
+
+ 
+576 
+KENNETH E. MATHEWS, JR., AND LANCE KmKPATRICK CANON 
+that positive mood states are associated with 
+inereased helping (Aderman, 1972; Berko. witz 
+& Connor, 1966; Isen, 1970; Isen, Horn, & 
+Rosenhan, 1973; Isen & Levin, 1972; Kazdin & 
+Bryan, 1971; Moore, Underwood, & Rosenhan,
+1973; Rosenhan, Underwood, & Moore, 1974), 
+among those that have eompared controi and
+negative affeet eondi. tions, only Moore et al.
+have found dear-cut differenees in' helping. 
+Thus, the viability of such an approach to the
+results of these studies is called into question in 
+the ahsenee of research that might darify the 
+specifie 
+eonditions 
+under 
+which 
+negative 
+affeetive states will or will not influenee 
+assistanee giving. 
+Alternatively, an interpretation might be 
+advaneed in terms of the presumed drive 
+properties of noise as an intense' stimulus that 
+facilitates the oeeurrenee of responses that are
+dominant in a particular situation (Hull, 
+1952; Spenee, 1956). Geen and O'Neal 
+(1969), for example, used preeisely !his ap. 
+proach in a study which was interpreted as 
+demonstrating that high noise levels, oper. ating 
+as a souree of general arousa!, enhanee the 
+likelihood of aggressive responses when they are 
+assumed to be dominant in the sub. jeet's habit
+family hierarchy. Since in the present laboratory 
+study, helping was. the response of 72% of the 
+subjeets under ambient noise eonditions, and 
+thus was highly likely in 
+this situation, an inerease in helping with 
+inereased noise level would be the straight.
+forward predietion from this paradigm. Just the 
+opposite tendeney was found. However, it eould
+be maintained that such an analysis overlooks
+the eontention that a stimulus such as noise has 
+both drive and cue properties (d. Hull, 1952). 
+Cue properties might ralse some response other' 
+than helping to a dominant position in the habit 
+family hierarchy such that a noise.indueed
+inerease in drive level might eventuate in
+decreased helping. 
+Of course, this would be in direet opposition to 
+the interpretation of the role of noise that Geen 
+and O'N eal found to be successful in their 
+study, but it is, nevertheless, a legiti. mate
+application of the social-Iearning posi. tion. One 
+might speculate that leaving the field would be a
+likely response cued by the 
+~ 
+loud noise, and !his wouid, indeed, lead to the
+reduetion in helping observed in the field study. 
+In the laboratory investigation, however, eseape
+from the noise was not possible, although some 
+response(s) other than helping or escape could
+have been cued by the noise. Thus, an 
+orientation of this sort is capable of providing a 
+post hoe aeeount of the findings. However, the 
+obvious diffieulties in developing specifie 
+predietions with regard to a particular set of 
+circumstanees from !his general orientation 
+seem to argne against its being viewed as the
+preferred aeeount of the present results. 
+Two eautionary statements about the gen. 
+eralization of the reported data should be kept in 
+mind. First, the noise used in both studies was 
+noneontingent, in that subjeets' behavior in no
+way affeeted the onset or offset of noise.
+Zimbardo (1969a) has reported a series of 
+studies indicating that per. eeived choice or 
+eontroi over stimulus events may signifieantly 
+alter the influenee of various motivationai states. 
+Seeond, the noise level was continuous rather
+than periodie or discontinuous. Glass and Singer 
+(1972) and others reported that the effeet of 
+noise on complex tasks varies depending upon
+its unpredictably eontinuous or diseontinuous 
+presentation. 
+The present studies imply that the presenee of 
+high levels of noise may be an important factor 
+not onIy in helping behavior but in other social 
+interaetion situations as well. The influenee of
+noise would seem to be especially important in 
+cireumstanees in whieh indi. 
+viduals' behavior must be direeted not only
+byevents or enes relevant to central activities but
+aIso by subtle and unreIated happenings. 
+REFERENCE NOTE 
+l, 
+l. Canon, L. K., & Mathews, K. E., Jr. The
+influence of ambient noi" levelon the body buffer
+zone. Unpublished manuscript, 1974. (Available from L. 
+K. Canon, Department of Psycbology, University of New 
+Hampsbjre, Durbam, New Hampsbire 03824.) 
+REFERENCES 
+Aderman, D. Elation, depression, and he1ping behav. ior. 
+Joumal of Personality and Social Psychology, 1912,24, 
+91-101. 
+Berkowitz, L., & Connor, W. H. Success, failure, and social
+responsibility. J o.,.al of Personality and Social Psychology,
+1966, 4, 664-669. 
+
+ 
+'ENVIRONMENTAL NmsE LEVEL 
+Bro.dbent, D. E. Perception and communication. 
+London: Pergamon, 1958. 
+Broadbent, D. E. Decision and stress. New York: 
+Academic.Press, 1971. 
+Cameron, P., Robertson, D., & Zaks, J. Soond pollution,
+no;se pollution, and health: Commonity parameters.
+Journal aj ApPlied Psyehology, 1972, 56, 67-74. 
+Clore, G. L., & Byrne, D. The process of personality
+interaction. In R. B. Cattell (Ed.), Handbook aj modern 
+personality theory. Chicago: Aldine, 1972. 
+Dustin, D. S. Crowd noise and conformity. Psyckol 
+ogy Reports, 1968, 23, 425-426. 
+Easterbrook, J. A. Tbe effect of emotion on cue 
+utilization and the organization of bebavior. 
+Psyehologieal Review, 1959, 66, 183-201. 
+Edwanls, A. L. Experimental design in psyehological 
+research (4th ed.). New York: Holt, 1972. 
+Geen, R. G., & O'Neal, E. C. Activation of <ueelicited
+aggression by general arousal. Journal oj Personality and 
+Social Psychology, 1969, 11, 289292. 
+Geen, R. G., & Powers, P. C. Shock and noise as instigating 
+stimuli in buman aggression. Psyehological Reports, 1971, 
+28, 983-985. 
+Glass, D. C., & Singer, J. E. Urban stress: Experiments on 
+nois< and social stresSOTS. New York: Academi< Press,
+1972. 
+Hamilton, P., & Copeman, A. The effeet of alcohol
+and noise on components of a tra<king and moni 
+toring task. British Journal oj Psychology, 1970, 
+61, 149-156. 
+Hockey, G. R. J. Noise and e!!iciency: The visual 
+task. New Scientist, 1969, 1, 244-246. 
+Hockey, G. R. J. Cbanges in attention allocation in 
+a mnln-component task onder loss of sleep. British 
+Journal oj Psychology, 1970, 61, 473-480. (a) 
+Hockey, G. R. J. Tbe effeet of loud noise on atlen 
+tio",,1 seleetivity. Quarterly Journal oj Experi 
+mental Psychology, 1970, 22, 28-36. (b) 
+Hoimes, C., & Holzman, P. S. Effeet of white noise 
+on disinbibition of verbal expression. Perceptual 
+and Motur Skills, 1966, 23, 1039-1042. 
+Hull, C. L. A behavior system. New Haven, Coon.: 
+Yale University Press, 1952. 
+Isen, A. M. Success, failure, attention, and reactions 
+to others: The warm glow of success. Journal oj 
+577 
+Personality and Social Psychology, 1970, 15, 294301. 
+Isen, A. M., & Levin, P. F. Tbe effeet olleeling good on 
+helping: Cookies and kindness. Journal oj Personality 
+and Social Psychology, 1972, 21, 384-388. 
+Isen, A. M., Horn, M., & Rosonban, D. L. Effects 01 
+success and lailure on children', generosity. Journal oj 
+Personality and Social Psyehology, 1973,27,239-247. 
+Kazdin, A. E., & Bryan, J. H. Competence and 
+volnnteering. Journal oj Experimental Social Psyehology, 
+1971, 7, 87-97. 
+Kry ter, K. D. The e!feets oj noise on man. New 
+York: Academi< Press, 1970. 
+Milgram, S. The experience of living in cities. Science, 
+1970, 167, 1461-1468. 
+Moore, B. S., Underwood, B., & Rosenban, D. L. 
+Affeet and altruism. Developmental Psychology, 
+1973, 8, 99-104. 
+Myers, J. L. Fundamentals oj experimental design 
+(2nd ed.). Bo,ton: AlIyn & Bacon, 1972. 
+O'Malley, J. J., & Poplawsky, A. Noise-indnced 
+arousal and breadth 01 atlention. Perceptual and 
+M otur Skills, 1971, 33, 887-890. 
+Rosenban, D. L., Underwoed, B., & Moore, B. Alfeet 
+moderates self-gratification and altruism. Journal oj 
+Personality and Social Psyehology, 1974, 30, 546-552. 
+Spen«, K. Behavior theory and conditioning. New 
+Haven, Coon.: Yale University Press, 1956. 
+Stanton, M. D. Social disinbibition onder highintensity wide-
+band 
+noise. 
+(Doctorai 
+dissertation, 
+University 
+01
+Maryland, 1968). Dissertation Ab 
+stracts lnternational, 1968, 29, 4557. (University. 
+Microfihns No. 69-9603) 
+Stern, R. M. Gaupp, L., & Leonard, W. C. A comparison 01 
+GSR and subjeetive adaptation to stressIuI stimuli. 
+Psychophysiology, 1970, 1, 3-9. 
+Welcb, B. L., & Welch, A. S. Physiological e!feets oj 
+noise. New York: Plenum Press, 1970. 
+Zimbardo,. P. G. The cognitive eontroi oj motiva 
+tion. Glenview, I1I.: Scott, Foresman, 1969. <a) 
+Zimbardo, P. G. The human choi«: Individuation, reason, 
+and order versus deindividnation, impulse, and chaos. In 
+W. J. Arnold & D. Levine (Eds.), Nebroska Symposium on 
+Motivation. Lincoln: University 01 Nebraska Press, 1969. 
+(b) 
+(Reeeived March 8, 1974)

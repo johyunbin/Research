@@ -1,0 +1,1054 @@
+2 Corresponding email: adilah_shamsul@um.edu.my 
+PLANNING MALAYSIA: 
+Journal of the Malaysian Institute of Planners 
+VOLUME 21 ISSUE 6 (2023), Page 357 – 373 
+EXPLORING GENDERED WALKING BEHAVIOR AND 
+ENVIRONMENT PERCEPTION IN HERITAGE CITY: THE 
+CASE OF GULANGYU, CHINA 
+ 
+Yi Shi1, Yong Adilah Shamsul Harumain2*, Hazrina Haja Bava Mohidin3 
+ 
+1,2 Department of Urban Regional Planning, Faculty of Built Environment, 
+3 Department of Architecture, Faculty of Built Environment, 
+UNIVERSITI MALAYA 
+ 
+ 
+Abstract 
+ 
+Gender differences in walking may manifest as disparities in walking behaviour 
+and perception. However, there is a lack of a comprehensive study on walking 
+behaviour between gender and their differences in the environment perception in 
+Chinese heritage cities. Some Chinese heritage cities, like Gulangyu, China are 
+car-free destinations where walking is an essential transportation mode. 
+However, many previous studies suggest that women may be more inclined to 
+fatigue due to intense walking or perceive a greater threat while walking. The 
+inequality of gender in walking has led to the need for gender studies to receive 
+more attention in Chinese heritage cities with car-free destinations. This study 
+explores gender differences in walking behaviour and perception of Chinese 
+heritage cities, intending to create a healthier and more comfortable walking 
+environment for both males and females. Therefore, the data for this study were 
+analyzed using SPSS software, employing ordered regression models and 
+independent sample t-tests. The findings indicate that males are more likely to 
+engage in walking behaviour than females, and they also rate the walking 
+environment higher than females in Gulangyu, China. Moreover, males rated 
+comfort higher than females. These results suggest disparities in walking 
+behaviour and environmental perceptions between male and female walkers in 
+Gulangyu, emphasizing increased attention to healthy walking behaviour and 
+perceptions of females in Chinese heritage cities. 
+ 
+ 
+Keywords: Female; Gender; Walking behaviour; Environment perception; 
+Chinese heritage city 
+ 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+358 
+INTRODUCTION 
+Walking activity is widely recognized as beneficial for physical and mental health 
+(Vich et al., 2019). Growing research focuses on pedestrian walking behaviour 
+and the perception of the walking environment, aiming to promote healthier 
+walking habits. Gender research has emerged as a crucial aspect in previous 
+studies exploring walking perception and behaviour (Pollard & Wagnild, 2017). 
+In this context, 'gender' pertains to masculinity and femininity in the biological 
+sense (Tcymbal et al., 2020). Research findings indicate that gender differences 
+in walking activities manifest in behaviour and environmental perception. For 
+instance, variations exist in daily walking distances, overall environment 
+satisfaction, and perceptions of safety, comfort, and other factors between males 
+and females (Pirra et al., 2023). The design and construction of urban 
+environments can influence the walking activities and experiences of both males 
+and females (Park & Garcia, 2020). Therefore, it is crucial to identify which 
+environmental factors may impact males and females differently. 
+Walking is often considered a suitable physical activity for females due 
+to its minimal requirement for muscular strength (Kavanagh & Bentley, 2008). 
+Repeated exposure of females to the environment can increase their engagement 
+in walking activities and foster a sense of belonging to the area (Ivory et al., 
+2015). Female-friendly urban environments serve as catalysts for females' 
+healthy walking behaviours. However, studies indicate that females in 159 out of 
+168 countries have lower physical activity levels than males (Ding et al., 2016; 
+Talmizi et al., 2022). This disparity in physical activity between genders may 
+stem from various factors, such as differences in physical fitness and social norms 
+(Kavanagh & Bentley, 2008). Compared to males, females require more attention 
+and consideration in walking. 
+Walking is a significant mode of heritage appreciation, yet research 
+focusing on walking in heritage cities is still lacking (Wang & Wong, 2020). 
+Heritage cities are characterized by their rich history. They are protected under 
+the Tangible Cultural Heritage Convention and regional heritage policies. 
+Heritage cities in China are also subject to the constraints of the Heritage 
+Convention and heritage protection policies at the provincial and municipal levels 
+where the heritage sites are located. Many cities feature narrow historic pathways 
+with distinctive surroundings and interiors (Nayan et al., 2022). In China, the 
+siting of heritage cities is influenced by concepts such as Feng Shui and Taoism, 
+with a keen emphasis on environmental beauty and the distinct characteristics of 
+historical cities (Zheng et al., 2018). During the era when these cities were 
+established, motorization had not occurred, resulting in the construction of 
+narrow, winding roads and a dense network of thoroughfares. China contains 56 
+World Heritage Sites, including 38 World Cultural Heritage Sites, 4 Dual World 
+Cultural and Natural Heritage Sites, and 14 World Natural Heritage Sites. Nine 
+cities and villages fall under the designation of heritage cities and villages, 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+359 
+© 2023 by MIP 
+including Beijing, Pingyao, Lijiang, the southern Anhui villages of Hongcun and 
+Xidi, Macau, Kaiping, Gulangyu, Liangzhu, and Quanzhou. Many Chinese 
+heritage cities, especially the delineated core and buffer zones, are car-free 
+destinations like Lijiang and Gulangyu. 
+Research on gender differences in walking is relatively few in China 
+(Shen, 2019). Existing studies on gender and walking in China primarily focus 
+on major cities such as Beijing and Shanghai. Research on gender and walking in 
+heritage cities remains largely unexplored. Zhang's (2008) study on gender travel 
+behaviour in Beijing revealed that males primarily commute for work and rely 
+more on cars, and females do more shopping and leisure walking (Zhang, 2008). 
+Furthermore, Lei's master thesis (2015) analyzed gender differences in walking 
+behaviours within the urban block of Chongqing. It concluded that street diversity 
+influenced male travel patterns, while safety considerations impacted female 
+walking behaviours (Lei, 2015). 
+Based on the theoretical background presented above, limited 
+conclusions regarding behavioural and perceptual differences among pedestrians 
+of different genders in car-free heritage cities in China. Chinese heritage cities 
+serve as residential communities and tourist destinations where walking 
+behaviour and environmental perception research provide the basis for improving 
+psychological feelings and promoting healthy walking among pedestrians. 
+Gender study has concluded for male and female walking needs, offering 
+guidance for walking among genders in Chinese heritage cities and providing 
+recommendations for the sustainable development of the historic environment. 
+ 
+LITERATURE REVIEW 
+Walking in Heritage Cities 
+The literature and urban development show the importance of pedestrian paths 
+for cities (de Freitas Miranda & da Silva, 2012). Lack of walking in cities will 
+cause numerous issues, including traffic safety, personal health, and 
+environmental pollution (Ewing et al., 2003). Although many studies have 
+confirmed the relevance of walking to the environment, it is still a subject worthy 
+of study for cities and communities, especially heritage cities. "World Heritage 
+City" was defined as an urban settlement where one or more World Heritage 
+properties would be located (Roders, 2010). The legacy city is a unique sort of 
+city with values that other cities cannot replace. Historical locales, environments, 
+and structures with conventional and regional features are valuable in history, 
+culture, and the arts. There is little research on the pedestrian environment and 
+the walking experience in heritage areas in China, with most existing walking 
+research focusing on neighbourhood and community scales and little attention 
+paid to the inner heritage areas (Li et al., 2020). 
+ 
+ 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+360 
+Walking Research in Gender Difference 
+The topic of females' perceptions of public amenities and environments has 
+garnered more interest in scholarly research on walking behaviour (Hidayati et 
+al., 2020). According to Rodrı́guez and Joo (2004), there is a perception that 
+females are more susceptible to vulnerability in outdoor activities, resulting in a 
+72 to 83% lower likelihood of utilising non-motorized ways compared to males. 
+According to a study conducted by Agrawal and Schimek (2007), it has been 
+observed that males tend to cover greater distances while walking in comparison 
+to females. Nevertheless, several research have indicated that there is a higher 
+level of engagement in leisure walking among females compared to males (Ball 
+et al., 2001). According to Bengoechea et al. (2005), the provision of affordable 
+or no-cost recreational amenities inside the community can also promote 
+autonomous walking among females, separate from their male counterparts. In 
+addition to the study of walking activity, numerous academics have focused their 
+investigations on the relationship between gender and the perception of walking. 
+Several studies have identified disparities in the walking requirements between 
+males and females (Salvo et al., 2018). According to Humpel et al. (2004), there 
+is a belief among researchers that there exist distinct walking requirements for 
+males and females. The study aims to examine the various aspects that influence 
+walking behaviours in both genders. The impact of various walking settings on 
+individuals differs according on their gender, with females exhibiting greater 
+concerns regarding aesthetics, safety, and accessibility compared to males (Ball 
+et al., 2001; Humpel et al., 2004; Pirra et al., 2023). 
+Females also exhibit greater concern for walking at night and traffic 
+safety (Bengoechea et al., 2005; Lalonde et al., 2019). Females are often more 
+sensitive to environmental safety risks and are more likely to alter their walking 
+behaviour due to feelings of unease (Clifton & Livi, 2005; Herrmann-Lunecke et 
+al., 2021). Without company, females may walk less recreationally because of 
+safety concerns (Ball et al., 2001). Females are less likely than males to be 
+satisfied with walking path facilities (Pirra et al., 2023). In addition, females may 
+also bear a greater responsibility for household and childcare, which adds 
+difficulty to their walking trips (Eyer & Ferreira, 2015). While safety factors may 
+not significantly influence males' walking behaviour, nearby park facilities in the 
+community may encourage more males walking (Foster et al., 2004). 
+ 
+Walking Behaviour and Perception of Environment Factor 
+It is widely recognized that social and physical environments can influence 
+physical activity levels (Frank et al., 2010). Published research has demonstrated 
+that the physical environment can enhance physical activity and promote 
+healthier walking behaviour (Herrmann-Lunecke et al., 2021). In many studies, 
+participants' daily walking duration and distance are assessed as indicators of 
+their physical activity levels (Tan et al., 2020). 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+361 
+© 2023 by MIP 
+Environmental perception is subjective feelings and psychological 
+judgments about the surrounding environment and its changes (Peng & Zhou, 
+2001). In many studies, findings on environmental perceptions are derived by 
+investigating respondents' satisfaction with environmental factors. The 
+environment in this study refers to the artificial and natural environment in a 
+heritage city that pedestrians can feel, touch, and see. Many gender-based studies 
+on walking have concluded that there are differences in the perception of safety 
+between different genders. However, other walking research factors, like function 
+and comfort, may influence pedestrians' satisfaction with the environment 
+(Arellana et al., 2020). In this study, to explore which factors may contribute to 
+gender differences in pedestrian perceptions in Chinese heritage cities, we 
+reviewed 35 articles published after 2000, focusing on identifying the factors that 
+impact walking most. Based on the most frequently mentioned items in the 
+literature, the researcher categorized these items-- function, safety, comfort, 
+aesthetic, and pleasure (Table 1). 
+ 
+Table 1: The Frequency of Environmental Factors Associated with Walking 
+Factors 
+Items 
+Frequency 
+Main Authors 
+Function 
+Accessibility 
+10 
+(Arellana et al., 2020; Erna & Amin, 
+2016; Lee et al., 2016) 
+Sidewalk quality 
+8 
+Sidewalk presence 
+7 
+Sidewalk width 
+6 
+Obstructive 
+4 
+Slop 
+3 
+Barrier-free facilities 
+3 
+Safety 
+Walking safety 
+12 
+(Southworth, 2005; Zakaria & Ujang, 
+2015) 
+Lighting 
+6 
+Comfort 
+Walking facility 
+7 
+(Alfonzo, 2005; Erna & Amin, 2016; 
+Tan et al., 2020) 
+Walking comfort 
+6 
+Street furniture 
+5 
+Shade 
+4 
+Cleanliness 
+3 
+Aesthetic 
+Green/Tree 
+13 
+(Cain et al., 2014; Gorrini & Bertini, 
+2018; Humpel et al., 2004) 
+ 
+Building frontage 
+6 
+Building feature 
+6 
+Attractive 
+4 
+View 
+4 
+Pleasure 
+Public space 
+9 
+(Ozbil et al., 2019; Yang et al., 2019; 
+Zang et al., 2020) 
+ 
+Walking pleasurable 
+4 
+Source: Literature 
+ 
+Function, safety, comfort, aesthetics, and pleasure that may influence 
+environmental perception were selected based on the summarization and 
+screening of the above literature. The definition and range of factors included in 
+these five factors are summarized from the literature. Function: The sidewalk's 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+362 
+accessibility, condition, and walking quality (Ozbil et al., 2019). Safety: A person 
+feels safe from the threat of crime, traffic, or disorder (Southworth, 2005). 
+Comfort: Walking comfort comes mainly from the perception of nature, like 
+climate, and men-made comforts, such as shade, cleanliness, etc. (Alfonzo, 
+2005). Aesthetic: Aesthetics include environmental appeal (natural beauty, public 
+art, etc.) and architectural elements (colour, height, age, etc.) (Cain et al., 2014). 
+Pleasurable: Pleasantness is among the factors influencing walking, with public 
+recreational facilities, squares, green spaces, etc. (Ozbil et al., 2019). 
+ 
+RESEARCH METHODOLOGY 
+Research Area 
+The research is in Gulangyu, Fujian Province, China (Figure 1). It is an island 
+with an area of 1.91 km2 and a population of 12.59 million. In July 2017, 
+Gulangyu entered the World Heritage List under the 'Historical International 
+Community' theme. Gulangyu is an island across the sea from Xiamen and is 
+connected to Xiamen by ferry, with no bridges or roads for vehicles. Gulangyu is 
+famous for being a pedestrian island, and walking is the only mode of transport. 
+A study of gender differences in the walking behaviour and perceptions of 
+Gulangyu's walkers will help to understand the perceptions of male and female 
+walkers of their environment and activity behaviour in this pedestrian area. This 
+study provides evidence for promoting healthy walking among male and female 
+pedestrians in Chinese heritage cities and offers recommendations for creating a 
+human-friendly environment in Gulangyu. 
+ 
+ 
+Figure 4: Research Area 
+Source: Google Maps,2022 
+ 
+Participants and Data Collection 
+This study administered a questionnaire to walkers in Gulangyu to investigate the 
+relationship between walking behaviour and environmental perceptions. The 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+363 
+© 2023 by MIP 
+questionnaire consisted of three parts. The first part was to collect basic 
+information about the respondents, gender, age, and education. The second part 
+evaluated the walkers' perceptions of the environment, divided into an overall 
+evaluation and an evaluation of five environmental factors. The overall 
+evaluation of indicators was evaluated using a 5-point Likert scale. The 
+environmental factors were evaluated on a two-level scale, with respondents 
+choosing 'yes' if they felt the factor affected their walking experience. The third 
+section surveyed respondents' walking behaviour, focusing on their average 
+distance and daily walking time. 
+The survey was conducted in January and June 2022, using a random 
+sampling method for the questionnaire. The survey locations were chosen 
+randomly in different areas of Gulangyu, such as the pier, the centre square, the 
+stores, and the streets. Since residents and tourists are primary walkers on 
+Gulangyu, both groups are considered respondents for this study. Sample sizes 
+are calculated based on the number of residents and tourists in Gulangyu—
+determination of sample size by the Krejcie and Morgan method (Krejcie & 
+Morgan, 1970). According to the 2022 statistics, Gulangyu's inhabitants are 
+approximately 12,590. Therefore, for N = 10,000, S = 370 (N is the population 
+size, and S is the sample size). The number of visitors to Gulangyu in 2022 is 
+about 2.21 million per year (>1 million), so the minimum sample size is 384. The 
+Confidence Level and Margin of error were considered 95% and + or - 5%, 
+respectively. The researcher are 341 distributed 781 questionnaires and recovered 
+753 valid questionnaires during the survey period. Of the valid questionnaires, 
+372 were residents, and 381 were tourists. The gender of the respondents was 
+randomly selected in the survey. Finally, there male and 412 female respondents. 
+ 
+ 
+Figure 2: Research Flowchart 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+364 
+Statistical Analyses 
+The data analysis for this study was divided into two main steps, both of which 
+were completed using SPSS 26 (2019) (Figure 2). The first step began by using 
+ordered logistic regression analysis to derive the effect of respondents' gender on 
+walking behaviour and perceptions. The first logistic regression step shows the 
+level of gender influences walking behaviour and perceptions. The second step 
+explores the differences in perceptions of environmental factors between males 
+and females. This step uses an independent samples t-test, showing which 
+environmental factors differ in gender. 
+ 
+RESULT 
+The Participants' Demographics 
+In this survey, there were 341 male and 412 female respondents. Most 
+respondents in this survey were in the 21-30 age group, while fewer people were 
+over 61 years old. The proportion of males and females in the other age groups 
+was similar. Secondly, most of the respondents in this survey were educated 
+above high school, with the largest number of people with bachelor's degrees. 
+The education level indicates that most respondents can understand and perceive 
+this survey. The ratio of males and females regarding age and education is 
+consistent with the overall distribution pattern. 
+ 
+Table 2: The Participants' Demographics 
+ 
+ 
+Overall=753 
+Male=341 
+Female=412 
+ 
+ 
+n 
+% 
+n 
+% 
+n 
+% 
+Age 
+11-20 
+84 
+11.16 
+38 
+11.14 
+46 
+11.17 
+21-30 
+364 
+48.34 
+179 
+52.49 
+185 
+44.90 
+31-40 
+182 
+24.17 
+76 
+22.29 
+106 
+25.73 
+41-50 
+73 
+9.69 
+27 
+7.92 
+46 
+11.17 
+51-60 
+29 
+3.85 
+11 
+3.23 
+18 
+4.37 
+61+ 
+21 
+2.79 
+10 
+2.93 
+11 
+2.67 
+Education 
+Primary School 
+14 
+1.86 
+8 
+2.35 
+6 
+1.46 
+Junior Middle School 
+66 
+8.76 
+30 
+8.80 
+36 
+8.74 
+Senior Middle School 
+132 
+17.53 
+60 
+17.59 
+72 
+17.47 
+Diploma 
+148 
+19.65 
+60 
+17.59 
+88 
+21.36 
+Bachelor Degree 
+297 
+39.44 
+135 
+39.59 
+162 
+39.32 
+Master's Degree and above 
+96 
+12.75 
+48 
+14.08 
+48 
+11.65 
+Source: Author’s Calculation 
+ 
+The Descriptive Analysis of Walking Behavior 
+Respondents in Gulangyu were surveyed on their daily walking time and 
+distance, and their walking behavioural status was stated using descriptive 
+analysis (Figure 3). Most respondents in Gulangyu walked 1-2 hours daily, and 
+more walked 3-6 km. It is a relatively healthy time and distance of physical 
+activity (Lee & Buchner, 2008). There is a difference in walking behaviour 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+365 
+© 2023 by MIP 
+between respondents of different genders. The proportion of females is higher 
+than males for walking distances of 0-6km and walking time of 0-2 hours. The 
+proportion of males is higher than females walking over 6km and 2 hours. In 
+summary, women were likelier to walk fewer hours and distances, while more 
+men than women walked longer hours and distances daily. 
+ 
+ 
+Figure 3: The Walking Distance and Time for Males and Females in Gulangyu 
+Source: Author’s Calculation 
+ 
+The Ordered Logistic Regression Analysis 
+Ordered logistic regression models verify the causal relationship between the 
+independent and dependent variables. The independent variable X denotes the 
+factors that may have an effect, and the dependent variable Y denotes the levels 
+of a measurement scale (Harrell & Harrell, 2015). The regression coefficients 
+from the ordered logistic regression analysis predict the relationship between the 
+categorical variables and one or more variables (Bender & Grouven, 1997). In 
+the other gender walking research, logistic regression analysis was also used to 
+compare male and female walking behaviour and perception (Foster et al., 2004). 
+This study assumes that walkable distance, walking time, and 
+perception of the environment are all influenced by gender. The perception of the 
+environment is rated from 1-5, indicating very unsatisfactory, unsatisfactory, 
+general, satisfactory, and very satisfactory. Walking distance is also divided into 
+five categories, from 1-5, indicating the average daily walking distance of 0-3km, 
+3-6km, 6-9km, 9-12km, and above 12km. A walking time scale of 1-5 reflects 
+respondents walking for less than 1 hour, 1-2 hours, 2-3 hours, 3-4 hours to more 
+than 4 hours per day. As the three dependent variables, walking distance, walking 
+time, and overall evaluation of the environment, are all categorical variables, the 
+ordered logistic regression model was applied to regression models where the 
+dependent variable was categorical. 
+In the result of Ordered Logistic Regression, B (β - Coefficient) 
+represents the coefficients in the model, also known as regression coefficients. 
+OR (Odds Ratio) means quantifying each independent variable's impact and is 
+the exponential function of the "B" value. The OR represents the odds ratio of 
+two different levels or categories of a single independent variable. CI (Confidence 
+0.00%
+50.00%
+0-3 km 3-6 km 6-9 km
+9-12
+km
+More
+than 12
+km
+0-1h
+1h-2h
+2h-3h
+3h-4h
+More
+than 4h
+Walking Distance
+Walking Time
+Male
+Female
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+366 
+Interval) stands for Confidence Interval and measures the uncertainty associated 
+with parameter estimates. According to the results in Table 3, the OR for the 
+effects of gender on perception of the environment, walking distance, and 
+walking time is 1.510, 1.493, and 1.400 for males, indicating that males are longer 
+than females in terms of walking distance and time and are more satisfied with 
+their environment than females. The likelihood of walking distance, time, and 
+satisfaction increasing by one level is 1.400-1.510 times greater for males than 
+females. The data means that males are more likely to increase the distance and 
+length of their walks and are more likely to be satisfied with their environment. 
+ 
+Table 3: Ordered Logistic Regression for Perception, Walking Behaviour, and Gender 
+ 
+ 
+B 
+OR 
+OR value of 95% of CI 
+p-value 
+Threshold 
+(Environment 
+perception) 
+[EP = 1] 
+-4.841 
+0.008 
+0.003-0.019 
+0.000 
+[EP= 2] 
+-4.248 
+0.014 
+0.007-0.028 
+0.000 
+[EP= 3] 
+-1.504 
+0.222 
+0.177-0.279 
+0.000 
+[EP = 4] 
+1.156 
+3.177 
+2.572-3.924 
+0.000 
+Gender 
+Male 
+0.412 
+1.510 
+1.140-2.000 
+0.004 
+Female 
+0 
+1.000 
+--- 
+-- 
+Threshold 
+(Walking distance) 
+[WD = 1] 
+-1.072 
+0.342 
+0.279-0.419 
+0.000 
+[WD = 2] 
+0.723 
+2.061 
+1.698-2.500 
+0.000 
+[WD = 3] 
+1.649 
+5.201 
+4.156-6.509 
+0.000 
+[WD = 4] 
+2.505 
+12.247 
+9.231-16.249 
+0.000 
+Gender 
+Male 
+0.401 
+1.493 
+1.149-1.939 
+0.003 
+Female 
+0 
+1.000 
+-- 
+-- 
+Threshold 
+(Walking time) 
+[WT = 1] 
+-1.115 
+0.328 
+0.267-0.402 
+0.000 
+[WT = 2] 
+0.272 
+1.313 
+1.091-1.581 
+0.004 
+[WT = 3] 
+1.390 
+4.015 
+3.249-4.961 
+0.000 
+[WT = 4] 
+3.221 
+25.052 
+17.340-36.194 
+0.000 
+Gender 
+Male 
+0.346 
+1.400 
+1.093-1.829 
+0.008 
+Female 
+0 
+1.000 
+-- 
+-- 
+Source: Author’s Calculation 
+ 
+Perceiving Differences in Environmental Factors in Male and Female 
+Next, the analysis is conducted to determine if there are differences in people's 
+perceptions by gender on the five factors of function, safety, comfort, aesthetics, 
+and pleasure, and the results can guide the process of specific environmental 
+enhancement. The analysis is carried out through independent sample t-tests. The 
+t-test has also been used in other studies investigating gender differences in 
+physical activity. (Tester & Baker, 2009). 
+The test results in Table 4 show a significance level of 0.009 for the 
+comfort factor to test for differences between male and female perceptions of the 
+environment in Gulangyu. Therefore, there is a statistically significant difference 
+between males and females for the mean of the comfort factor (t= -2.606, p= 
+0.009). Furthermore, based on the negative t-value, it can be concluded that 
+females perceive comfort factors to be more important than males. On the other 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+367 
+© 2023 by MIP 
+hand, function, safety, aesthetics, and pleasure are not gender-specific. However, 
+as can be seen from the results in the table, males generally consider road function 
+more important than females. In other research findings, it has been suggested 
+that males are more concerned about road width than females (Sapawi & Said, 
+2012). In contrast, more females consider the three factors of safety, comfort, and 
+aesthetics to influence their perception of the environment and the pleasurable 
+factor to be approximately equal in the ratings of males and females. 
+ 
+Table 4: The Independent Samples T-test for the Environment Perception and 
+Behaviour According to Gender 
+Environment 
+perception 
+T-test for Equality of Means 
+t 
+df 
+Sig. (2-
+tailed) 
+Mean 
+Difference 
+95% Confidence 
+Interval of the Difference 
+Lower 
+Upper 
+Function 
+0.996 
+751 
+0.320 
+0.036 
+-0.035 
+0.108 
+Safety 
+-1.572 
+751 
+0.116 
+-0.057 
+-0.128 
+0.014 
+Comfort 
+-2.606 
+691.885 
+0.009 
+-0.084 
+-0.147 
+-0.021 
+Atheistic 
+-0.484 
+751 
+0.629 
+-0.015 
+-0.074 
+0.045 
+Pleasure 
+-0.015 
+751 
+0.988 
+-0.001 
+-0.072 
+0.071 
+Source: Author’s Calculation 
+ 
+DISCUSSION AND FINDINGS 
+According to the results of this study's description analysis on walking behaviour 
+and ordered logistic regression model, it is also proven that males in Gulangyu 
+are more likely than females to walk in terms of walking behaviour. According 
+to the regression model results, males were about 1.40 to 1.49 times more likely 
+than females to increase walking distance and time by one level (e.g., from 3-6 
+hours to 6-9 hours). However, according to a review of studies on gendered 
+walking (Pollard & Wagnild, 2017), females under 60 do more leisure walking 
+than males (Beenackers et al., 2013). And a phenomenon attributed to the fact 
+that females may have more childcare and family responsibilities (Pollard & 
+Wagnild, 2017). Without categorizing the purpose of walking (recreational and 
+purposeful walking), there are no obvious conclusions regarding the relationship 
+between walking activity and gender (Pollard & Wagnild, 2017). However, some 
+of these findings are similar to the present study, with males walking more than 
+females (Eyler et al., 2003), partly because they tend to work closer to home than 
+males (Pollard & Wagnild, 2017). As Gulangyu is a car-free destination, work 
+and leisure activities rely on walking. Males may be more likely to be responsible 
+for household financial income and therefore have more walking activities. 
+Furthermore, according to the logistic regression model results, males 
+are more likely to rate the perceived environment of Gulangyu higher than 
+females, with an OR of 1.51. It means that males in Gulangyu are more likely to 
+feel satisfied with the environment, while females are less satisfied than males. 
+In other findings, it was also concluded that females were harder to be satisfied 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+368 
+with the walking facilities (Pirra et al., 2023). Therefore, it is important to pay 
+attention to the psychological needs of pedestrians, particularly females, in 
+developing the walking environment and facilities in car-free heritage cities. 
+Next, five environmental factors are tested for gender differences, and 
+the results are that comfort differed significantly by gender. Some researchers 
+have also mentioned that females have a higher need for comfort. For instance, it 
+has been found that males tend to feel more comfortable in hot weather conditions 
+during walking compared to females (Jin et al., 2019). In addition to gender 
+differences, comfort factors seem to be highly important in Gulangyu. In the 
+study conducted by Li (2020), it was discovered that comfort significantly 
+influenced the walking perception of residents in Gulangyu (Li et al., 2020). The 
+findings of this study also reveal the unique importance of comfort for walkers in 
+Gulangyu, particularly for females. Enhancing the perception of comfort requires 
+the provision of more shading, resting areas, and signage systems, which can help 
+alleviate physical and weather-related concerns for females during walking. 
+Both previous research and the results of this study highlight the 
+importance of aesthetics and safety for females (Garrard et al., 2008; Humpel et 
+al., 2004; Ortoleva & Brenman, 2004). According to the results of this study, 
+there is no significant gender difference between safety and aesthetics in the 
+independent sample t-test, but a greater number of females feel that safety and 
+aesthetics are more influential in their perception of the environment when 
+walking. The aesthetics of Gulangyu are generally good, with the island 
+surrounded by the sea, covered by a high density of vegetation, and the majority 
+of its historic buildings well-maintained and harmonious overall. As a World 
+Heritage Site, more attention is paid to the city's natural and artificial aesthetics. 
+The security of Gulangyu comes from the full CCTV coverage and the mandatory 
+security checks before visitors enter the island by ferry. Therefore, Gulangyu's 
+aesthetic and safety advantages lead to different results on these two factors 
+regarding gender than previously concluded. But comfort is a factor that needs to 
+be taken into account, and in particular, the factors affecting the comfort 
+experience of females need to be further researched to provide a better walking 
+experience for walkers in Gulangyu. 
+ 
+CONCLUSION 
+This study examines people's walking behaviour and perceptions of the walking 
+environment in the absence of car travel in Chinese heritage cities. It explores 
+gender differences in walking behaviour and environmental perceptions. This 
+study enriches the findings of heritage city walking studies and provides a 
+reference for enhancing heritage environments to develop Chinese heritage cities 
+into more walkable communities and tourist destinations. Our findings allow us 
+also to draw some practical conclusions (Figure 4): 
+ 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+369 
+© 2023 by MIP 
+ 
+Figure 4: The Gender Differences in Walking Behaviour and Perception 
+ 
+Most respondents walked within a healthy time and distance range of 
+1-2 hours and around 3-6 km daily. The proportion of females walking for short 
+periods and short distances is higher than males, with longer walking times and 
+distances being more common for males in Gulangyu (Foster et al., 2004). Males 
+are more likely than females to walk for longer periods and distances, with a 
+likelihood ratio of 1.49:1 and 1.40:1. Overall, the findings of this study are 
+consistent with previous research, which indicates that males tend to have better 
+physical fitness compared to female, resulting in higher levels of walking activity 
+(Agrawal & Schimek, 2007). Males are 1.51 times more likely than females to be 
+satisfied with their perception of the environment. 
+Only the comfort factor shows a significant difference in perception by 
+gender. The perception scores for the three factors of safety, comfort, and 
+aesthetics are lower for females than for males. The result means that when 
+walking in heritage cities, females are more likely to show dissatisfaction with 
+safety, comfort, and aesthetics, especially regarding the comfort factor. 
+Improvements in safety, comfort, and aesthetics for female pedestrians in heritage 
+cities can be achieved through various measures, including adequate lighting for 
+nighttime visibility, the provision of shade and resting facilities for enhanced 
+comfort, and the integration of plants and historic architecture to enhance the 
+visual appeal of the environment. 
+The attention and maintenance of walking conditions for females are 
+crucial for the sustainable development of urban systems (Pirra et al., 2021). 
+Promoting walking activities in heritage cities should consider the specific needs 
+and preferences of both males and females, providing a basis for future 
+environmental improvements and sustainable development in heritage cities. 
+Based on this study, promoting healthy walking and environmental enhancements 
+in Chinese heritage cities should prioritize considering females' requirements for 
+environmental comfort, aiming to encourage more females to engage in healthy 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+370 
+physical activities. There are also certain limitations to this study. The current 
+study did not specify the types of walkers for residents and tourists, purposeful 
+walking, leisure walking, etc. Also, environmental perception factors were not 
+broken down into detailed factors in this study, and exactly which comfort factors 
+differed by gender will need to be discussed further in future studies. 
+ 
+ACKNOWLEDGMENT 
+This study is a part of the doctoral research of the first author, under the 
+supervision of the second and third authors. The authors would like to 
+acknowledge Universiti Malaya for the support. 
+ 
+REFERENCES 
+Agrawal, A. W., & Schimek, P. (2007). Extent and correlates of walking in the USA. 
+Transportation research part D: transport and environment, 12(8), 548-563. 
+Alfonzo, M. A. (2005). To walk or not to walk? The hierarchy of walking needs. 
+Environment and Behavior, 37(6), 808-836. 
+Arellana, J., Saltarín, M., Larrañaga, A. M., Alvarez, V., & Henao, C. A. (2020). Urban 
+walkability considering pedestrians’ perceptions of the built environment: a 10-
+year review and a case study in a medium-sized city in Latin America. Transport 
+reviews, 40(2), 183-203. 
+Ball, K., Bauman, A., Leslie, E., & Owen, N. (2001). Perceived environmental aesthetics 
+and convenience and company are associated with walking for exercise among 
+Australian adults. Preventive medicine, 33(5), 434-440. 
+Beenackers, M. A., Kamphuis, C. B., Mackenbach, J. P., Burdorf, A., & van Lenthe, F. 
+J. (2013). Why some walk and others don't: exploring interactions of perceived 
+safety and social neighborhood factors with psychosocial cognitions. Health 
+education research, 28(2), 220-233. 
+Bender, R., & Grouven, U. (1997). Ordinal logistic regression in medical research. 
+Journal of the Royal College of physicians of London, 31(5), 546. 
+Bengoechea, E. G., Spence, J. C., & McGannon, K. R. (2005). Gender differences in 
+perceived environmental correlates of physical activity. International journal of 
+behavioral nutrition and physical activity, 2, 1-9. 
+Cain, K. L., Millstein, R. A., Sallis, J. F., Conway, T. L., Gavand, K. A., Frank, L. D., 
+Saelens, B. E., Geremia, C. M., Chapman, J., & Adams, M. A. (2014). 
+Contribution of streetscape audits to explanation of physical activity in four age 
+groups based on the Microscale Audit of Pedestrian Streetscapes (MAPS). Social 
+Science & Medicine, 116, 82-92. 
+Clifton, K. J., & Livi, A. D. (2005). Gender differences in walking behavior, attitudes 
+about walking, and perceptions of the environment in three Maryland 
+communities. Research on Women’s Issues in Transportation, 2, 79-88. 
+de Freitas Miranda, H., & da Silva, A. N. R. (2012). Benchmarking sustainable urban 
+mobility: The case of Curitiba, Brazil. Transport Policy, 21, 141-151. 
+Ding, D., Lawson, K. D., Kolbe-Alexander, T. L., Finkelstein, E. A., Katzmarzyk, P. T., 
+Van Mechelen, W., & Pratt, M. (2016). The economic burden of physical 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+371 
+© 2023 by MIP 
+inactivity: a global analysis of major non-communicable diseases. The lancet, 
+388(10051), 1311-1324. 
+Erna, W., & Amin, S. L. (2016). Convenience component of walkability in Malang City 
+case study the street corridors around city squares. Procedia-Social and 
+Behavioral Sciences, 227, 587-592. 
+Ewing, R., Schmid, T., Killingsworth, R., Zlot, A., & Raudenbush, S. (2003). 
+Relationship between urban sprawl and physical activity, obesity, and morbidity. 
+American journal of health promotion, 18(1), 47-57. 
+Eyer, A., & Ferreira, A. (2015). Taking the tyke on a bike: mothers' and childless women's 
+space-time geographies in Amsterdam compared. Environment and Planning A, 
+47(3), 691-708. 
+Foster, C., Hillsdon, M., & Thorogood, M. (2004). Environmental perceptions and 
+walking in English adults. Journal of Epidemiology & Community Health, 58(11), 
+924-928. 
+Frank, L. D., Sallis, J. F., Saelens, B. E., Leary, L., Cain, K., Conway, T. L., & Hess, P. 
+M. (2010). The development of a walkability index: application to the 
+Neighborhood Quality of Life Study. British journal of sports medicine, 44(13), 
+924-933. 
+Garrard, J., Rose, G., & Lo, S. K. (2008). Promoting transportation cycling for women: 
+the role of bicycle infrastructure. Preventive medicine, 46(1), 55-59. 
+Gorrini, A., & Bertini, V. (2018). Walkability assessment and tourism cities: the case of 
+Venice. International Journal of Tourism Cities. 
+Harrell, J., Frank E, & Harrell, F. E. (2015). Ordinal logistic regression. Regression 
+modeling strategies: with applications to linear models, logistic and ordinal 
+regression, and survival analysis, 311-325. 
+Herrmann-Lunecke, M. G., Mora, R., & Vejares, P. (2021). Perception of the built 
+environment and walking in pericentral neighbourhoods in Santiago, Chile. Travel 
+Behaviour and Society, 23, 192-206. 
+Humpel, N., Owen, N., Iverson, D., Leslie, E., & Bauman, A. (2004). Perceived 
+environment attributes, residential location, and walking for particular purposes. 
+American journal of preventive medicine, 26(2), 119-125. 
+Ivory, V. C., Russell, M., Witten, K., Hooper, C. M., Pearce, J., & Blakely, T. (2015). 
+What shape is your neighbourhood? Investigating the micro geographies of 
+physical activity. Social Science & Medicine, 133, 313-321. 
+Jin, H., Liu, S., & Kang, J. (2019). Thermal comfort range and influence factor of urban 
+pedestrian streets in severe cold regions. Energy and Buildings, 198, 197-206. 
+Kavanagh, A. M., & Bentley, R. (2008). Walking: a gender issue? Australian Journal of 
+Social Issues, 43(1), 45-64. 
+Lalonde, A., Herschderfer, K., Pascali‐Bonaro, D., Hanson, C., Fuchtner, C., & Visser, 
+G. H. (2019). The International Childbirth Initiative: 12 steps to safe and respectful 
+MotherBaby–Family maternity care. International Journal of Gynecology & 
+Obstetrics, 146(1), 65-73. 
+Lee, G.-M., Lee, W.-S., Jung, S.-G., & Jang, C.-K. (2016). The influence of pedestrian 
+environment perception on pedestrian environment satisfaction and expected 
+health promotion effects-focused on park user for health promotion. Journal of the 
+Korean Institute of Landscape Architecture, 44(6), 137-147. 
+
+Yi Shi, Yong Adilah Shamsul Harumain, Hazrina Haja Bava Mohidin 
+Exploring Gendered Walking Behavior and Environment Perception in Heritage City: The Case of Gulangyu, China 
+ 
+© 2023 by MIP 
+372 
+Lei, J. (2015). The Effect of Urban Blocks Physical Environment on Walking Chongqing 
+University]. 
+Li, Y., Gao, X. H., Yang, L. C., & Guo, J. (2020). Research on Walking Environment 
+Satisfaction of Residents Based on Ordered Probit Model—A Case Study of 
+Gulangyu. 
+Chinese 
+Landscape 
+Architecture, 
+36(11), 
+90-94. 
+https://doi.org/10.19775/j.cla.2020.11.0090 
+Nayan, N. M., Hussain, N. H. M., Ahmad, S., Jones, D. S., & Salleh, I. H. (2022). 
+HIGHLIGHTING THE POTENTIAL OF KAMPUNG KUCHAI, IPOH, PERAK 
+THROUGH A HERITAGE TRAIL. PLANNING MALAYSIA, 20. 
+Ortoleva, S., & Brenman, M. (2004). Women’s issues in transportation. Running on 
+Empty: Transport, Social Exclusion and Environmental Justice, 257-279. 
+Ozbil, A., Gurleyen, T., Yesiltepe, D., & Zunbuloglu, E. (2019). Comparative 
+associations of street network design, streetscape attributes and land-use 
+characteristics on pedestrian flows in peripheral neighbourhoods. International 
+journal of environmental research and public health, 16(10), 1846. 
+Park, Y., & Garcia, M. (2020). Pedestrian safety perception and urban street settings. 
+International Journal of Sustainable Transportation, 14(11), 860-871. 
+Peng, J., & Zhou, S. Y. (2001). Environmental Perception and Awareness Building of 
+Beijing Citizens--A Case Study of Nansha River. HUMAN GEOGRAPHY(03), 21-
+25. 
+Pirra, M., Kalakou, S., Carboni, A., Costa, M., Diana, M., & Lynce, A. R. (2021). A 
+preliminary analysis on gender aspects in transport systems and mobility services: 
+Presentation of a survey design. Sustainability, 13(5), 2676. 
+Pirra, M., Kalakou, S., Lynce, A. R., & Carboni, A. (2023). Walking in European cities: 
+a gender perception perspective. Transportation research procedia, 69, 775-782. 
+Pollard, T. M., & Wagnild, J. M. (2017). Gender differences in walking (for leisure, 
+transport and in total) across adult life: a systematic review. BMC public health, 
+17(1), 1-11. 
+Roders, A. P. (2010). Revealing the World Heritage cities and their varied natures. 
+Heritage 2010: Heritage and Sustainable Development, 1-2. 
+Salvo, G., Lashewicz, B. M., Doyle-Baker, P. K., & McCormack, G. R. (2018). 
+Neighbourhood built environment influences on physical activity among adults: a 
+systematized review of qualitative evidence. International journal of 
+environmental research and public health, 15(5), 897. 
+Sapawi, R., & Said, I. (2012). Constructing indices representing physical attributes for 
+walking in urban neighborhood area. Procedia-Social and Behavioral Sciences, 
+50, 179-191. 
+Shen, Y. J. (2019). A Review of Research on Urban Pedestrian Space from a Female 
+Perspective. Journal of Theatre Home(21), 206-208 %@ 1007-0125 %L 1042-
+1410/J %W CNKI. 
+Southworth, M. (2005). Designing the walkable city. Journal of urban planning and 
+development, 131(4), 246-257. 
+Talmizi, N. M., Ali, N. E. H., & Mokhtar, S. (2022). THE EFFECT OF SOCIO-
+DEMOGRAPHIC 
+ATTRIBUTES 
+ON 
+WALKING 
+BEHAVIOUR 
+OF 
+RESIDENTS IN SHAH ALAM CITY, MALAYSIA. PLANNING MALAYSIA, 
+20. 
+
+PLANNING MALAYSIA 
+Journal of the Malaysia Institute of Planners (2023) 
+ 
+ 
+373 
+© 2023 by MIP 
+Tan, S. H., Cao, F. X., & Yang, J. S. (2020). The Study on Spatial Elements of Health-
+Supportive Environment in Residential Streets Promoting Residents’ Walking 
+Trips. International journal of environmental research and public health, 17(14), 
+5198. 
+Tcymbal, A., Demetriou, Y., Kelso, A., Wolbring, L., Wunsch, K., Wäsche, H., Woll, A., 
+& Reimers, A. K. (2020). Effects of the built environment on physical activity: a 
+systematic review of longitudinal studies taking sex/gender into account. 
+Environmental health and preventive medicine, 25(1), 1-25. 
+Tester, J., & Baker, R. (2009). Making the playfields even: evaluating the impact of an 
+environmental intervention on park use and physical activity. Preventive medicine, 
+48(4), 316-320. 
+Vich, G., Marquet, O., & Miralles-Guasch, C. (2019). Green streetscape and walking: 
+exploring active mobility patterns in dense and compact cities. Journal of 
+Transport & Health, 12, 50-59. 
+Wang, Y., & Wong, Y. D. (2020). Repositioning urban heritage for active mobility: 
+Indications from news coverage in Singapore. Cities, 98, 102525. 
+Yang, Y. Y., He, D. S., Gou, Z. H., Wang, R. Y., Liu, Y., & Lu, Y. (2019). Association 
+between street greenery and walking behavior in older adults in Hong Kong. 
+Susta
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

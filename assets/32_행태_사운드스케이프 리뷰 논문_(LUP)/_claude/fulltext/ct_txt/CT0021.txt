@@ -1,0 +1,777 @@
+Soundscape and Sound Preferences in Urban Squares:
+A Case Study in Shefﬁeld
+WEI YANG & JIAN KANG
+School of Architecture, University of Shefﬁeld, Shefﬁeld, UK
+ABSTRACT
+The general aim of this paper is to demonstrate the signiﬁcance of intentional
+soundscape design in urban squares by investigating people’s general perceptions of urban
+soundscape and sound preferences, and the effects of demographic factors. An intensive
+questionnaire survey was carried out in two urban squares in Shefﬁeld. Sound
+identiﬁcation and classiﬁcation were both considered. The results show that natural
+sounds as a group were generally preferred to urban sounds; the preferences of soundscape
+elements inﬂuenced people’s choice of using an urban square; and in terms of sound
+preference, the differences amongst age groups were rather signiﬁcant, whereas between
+males and females only slight differences were found. Finally, some suggestions on
+soundscape design in urban squares are given.
+Introduction
+Recently people have been encouraged by urban planning policies to return to the
+hearts of cities, revising the tendency of migration out of city centres into suburbs
+and surrounding countryside. However, our cities are always overshadowed by
+continuous mechanical noise. ‘Grey’ ambient noise ﬁlls in the spaces between
+buildings and results in a ‘brownﬁeld’ of soundscape.
+As one of the most important elements in the heart of the city, the urban
+square is a stage and an oasis for our busy city lives; it is framed by buildings,
+decorated by design features and staged by the general public. An ideal square is
+for people to relax, to communicate, to see others and to be seen. However, almost
+all cities have some squares which are popular whilst others are not. Beside social
+issues, it is vital to consider the environmental conditions of such places and how
+they attract people to use them.
+Sound is one of the essential ways for us to perceive and communicate with
+the world. The assessment of soundscape is a part of sensory aesthetics research
+that is concerned with the pleasurableness of the sensations one receives from the
+environment (Lang, 1988). All aesthetic questions involve preference (Prall, 1929).
+Aesthetics also involves the art of discrimination and of making judgements.
+Because of preference, people evaluate the same environment differently and also
+react differently.
+Correspondence Address: Jian Kang, School of Architecture, University of Shefﬁeld, Western
+Bank, Shefﬁeld S10 2TN, UK. Email: j.kang@shefﬁeld.ac.uk
+Journal of Urban Design, Vol. 10. No. 1, 61–80, February 2005
+1357-4809 Print/1469-9664 Online/05/010061-20 q 2005 Taylor & Francis Group Ltd
+DOI: 10.1080/13574800500062395
+
+Nasar (1989) pointed out that the quality of aesthetics was identiﬁed as a
+major dimension in the public’s perception of their surroundings: variables such
+as pleasure or beauty represent the most inﬂuential dimension of environmental
+assessments, and aesthetic factors have major inﬂuences on judgements of
+community satisfaction. In sequence, aesthetic response is to be considered as a
+mix of high pleasure, excitement and relaxation. Of more relevance to urban
+design is how physical surroundings inﬂuence affective response.
+Most research in this area, however, has been concentrated on visual quality,
+and work on the auditory aspect has been rather limited. In this aspect, some key
+questions need to be answered. Does aural perception play an important role in
+inﬂuencing people’s choice of using an urban square? How does it happen? What
+is people’s preference? Correspondingly, how can we intentionally design
+soundscape in urban squares?
+Before answering all these questions, it is essential to understand the
+differences between aural and visual perception. Although sound and light are
+both wave phenomena, aural perception differs from visual perception in many
+ways (Porteous & Mastin, 1985; Porteous, 1996; Apfel, 1998). First, sound is
+ubiquitous. Unlike visual space, which is sectorial, acoustic space is non-
+locational, spherical and all-surrounding. Acoustic space has no obvious
+boundaries and tends to emphasize a space itself rather than objects in the
+space. Aural harmonization is temporal, whereas visual harmonization is spatial.
+Sounds, compared with things seen, are more transitory, more ﬂuid, more
+unfocused, more lacking in context, less precise in terms of orientation and
+localization and less capturable. Therefore, audition is a fairly passive sense.
+Sound provides dynamism and a sense of reality, helping us to get the senses of
+the progression of time and the scale of space. Moreover, compared to vision,
+sound perception is usually information-poor but emotion-rich. People are often
+moved by a piece of music, or soothed by certain natural sounds such as from
+water and leaves. Given the differences between visual and auditory sensation, it
+is of great signiﬁcance to study soundscape as part of urban aesthetics research.
+The general aim of this research is to demonstrate the signiﬁcance of
+intentional soundscape design in urban squares and, consequently, to improve the
+quality of city life. It is expected that an awareness of this issue would be valuable
+to architects, urban designers and planners, not by way of limiting possible
+solutions, but by enriching the design possibilities. Through a case study, the
+research investigates people’s general perceptions of urban soundscape and
+sound preferences, and studies the effects of demographic factors on the sound
+preferences. The paper starts with a brief review of existing soundscape research.
+It then describes the case study sites and methodology, followed by the case study
+results and discussions.
+Research on Soundscape and Sound Preferences
+The pioneering research in soundscape was carried out by Schafer in the 1960s.
+In his classic book, The Turning of the World, Schafer (1977a) deﬁned sounds as
+keynotes, signals/foreground sounds and soundmarks. Keynotes are in analogy
+to music, where a keynote identiﬁes the fundamental tonality of a composition
+around which the music modulates. Foreground sounds, also termed ’signals’, are
+intended to attract attention. Sounds that are particularly regarded by a
+community and its visitors are called ‘soundmarks’, in analogy to landmarks.
+62
+W. Yang & J. Kang
+
+Schafer’s early soundscape work has always been about the relationship between
+the ear, the human being, the sound environment and society. In the late 1960s and
+early 1970s, the World Soundscape Project was carried out, with a focus on the
+way people perceive their environment consciously and the chance to change
+the orchestrating of the global soundscape.
+Further pioneering research was carried out by Southworth (1969). In the
+research, reactions of different population groups to soundscape were studied
+during a tour around Boston. The study evaluated the identity of the sounds and
+analysed their pleasantness. It was suggested that the pleasantness of a sound is
+much more complicated than its physical qualities. Generally sounds of low to
+middle frequency and intensity were preferred, but delight increased when
+sounds were novel, informative, responsive to personal action and culturally
+approved. It was concluded that the information contained in the sound, the
+context in which it is perceived and its level are three aspects which inﬂuence
+people’s evaluation of a city’s soundscape.
+Listening is one of the psychological functions through which people
+perceive the world. Physiological and psychological factors are present in
+everybody’s evaluations. Ellermeier et al. (2001) characterized individual noise
+sensitivity as a stable personality trait that captures attitudes towards a wide
+range of environmental sounds. Individual annoyance reactions to noise have
+been found to depend on physical attributes of the noise, attitudes towards the
+noise source and the personal characteristics of receivers. In their research, a
+sample of 61 unselected listeners were subjected to a battery of psychoacoustic
+procedures ranging from threshold determinations to loudness scaling tasks.
+They found small, but systematic differences in participants’ verbal loudness
+estimates, and in the rating of the unpleasantness of natural sounds. The results
+suggested that what is psychophysically tractable in the concept of noise
+sensitivity might primarily reﬂect attitudinal/evaluative rather than sensory
+components. In other words, there are predictor sound preferences, which affect
+people’s judgement.
+Kariel (1980) examined the effects of sounds on outdoor recreation
+environments. A group of mountaineers and a group of campers in a developed
+campground were selected to evaluate some verbally described sounds. Although
+some difference was found between the two sample groups, the presence of
+sounds was more signiﬁcant than the difference between the two groups. Kariel’s
+(1980) results suggested that the sounds themselves have an impact that may
+exceed that of group differences.
+In a recent cross-cultural soundscape study (Yang & Kang, 2003), over 6000
+people were interviewed in 14 urban open public spaces of ﬁve European
+countries, namely Greece, the UK, Italy, Germany and Switzerland. Although
+people from different countries showed a similar tendency of preferring nature-
+and culture-related sounds and rejecting vehicle and construction sounds, the
+sound preference differences among the cities were rather signiﬁcant. For
+example, regarding surrounding speech sounds, over 50% of the interviewees in
+the Kritis Square of Thessaloniki (Greece) rated them as ‘annoying’, whereas this
+ﬁgure is less than 1% in the two case study squares in Kassel (Germany), and in a
+square in Sesto San Giovanni (Italy), nearly 45% of the interviewees rated the
+sound as ‘favourite’. This study suggests that sound preferences may be
+signiﬁcantly different due to differences in cultural background and long-term
+environmental experience.
+Soundscape and Sound Preferences in Urban Squares
+63
+
+Another important aspect is the interaction between visual and acoustic
+stimuli. In research by Carles et al. (1999), 36 combinations of sound and image
+were presented to 75 subjects. The sounds and images used were of natural/semi-
+natural settings and urban green spaces. Affective response was measured in
+terms of pleasure. The results show a rank of preferences running from natural to
+man-made sounds, with the nuance of a potential alert or alarm-raising
+component of the sound. It is suggested that there are two main functions of
+sound in the landscape, which provide information in addition to visual data. One
+function is related to the interpretation of the sound identiﬁed, such as water,
+birdsong, voices and cars, and the other is related to the abstract structure of
+sound information. The results of their study also show how human sounds
+(voices, footsteps and conversations, etc.) ﬁt in relative to natural sounds (highly
+rated) and technological sounds (widely rejected). In certain places with a distinct
+environmental identity, any acoustic disturbance can lead to a rapid deterioration
+in quality. Natural sounds, meanwhile, may improve the quality of built-up
+environments to a certain extent.
+Case Study Method
+From the above review it can be seen that the perception of an outdoor
+environment depends not only on the physical features, but also on the
+characteristics of the users. It is thus vital to study interactions between people’s
+characteristics and their perception of sounds. Existing research in this aspect is
+rather limited and mostly laboratory-based. For soundscape in urban
+environment, it would be more appropriate to carry out on-site surveys, given
+the difﬁculty of simulating situations involving complex sound sources, and the
+interactions between sound and other microclimatic factors. Moreover, most
+existing research has treated soundscape as a passive perceiving factor of the
+environment, and it would be useful to put soundscape onto an intentionally
+designed stage comparable to landscape, considering aesthetics and social/cul-
+tural factors.
+Previous ﬁeld surveys of soundscape have mainly dealt with relatively large
+rural or urban areas (Schafer, 1977b; Porteous & Mastin, 1985; Berglund et al., 2001;
+Schulte-Fortkamp, 2001; Tsai & Lai, 2001), and studies at the scale of urban
+squares, an important element of urban space, have been limited. In this study,
+therefore, two typical urban squares, the Peace Gardens and the Barkers Pool in
+Shefﬁeld, were selected for an intensive ﬁeld survey.
+Case Study Sites
+Shefﬁeld is located in the north of England, with a population of about 500 000.
+In the hottest month of July, the average daily maximum temperature is about
+218C. In winter, the daily temperature seldom drops below zero. The city centre,
+where the two case study sites are located, is the commercial and ofﬁcial centre of
+the city. It is mainly a pedestrian area.
+The Peace Gardens, as illustrated in Figure 1, was opened in late 1998.
+Covering an area of about 3000 m2, it is one of the most popular squares in
+Shefﬁeld. There are large areas of grass suitable for sitting. Benches are also
+provided around the grass areas. The water features provide the most attractive
+characteristic of the Peace Gardens, notably the 89 individual jets of the Goodwin
+64
+W. Yang & J. Kang
+
+Figure 1. (a) The site plan of the Peace Gardens. The plan is based on the EDINA Digmap. The grey
+scale in the plan corresponds to sound levels. The dashed circle indicates where the interviews were
+conducted. (b) Perspective view of the Peace Gardens.
+Soundscape and Sound Preferences in Urban Squares
+65
+
+Fountain in the centre, together with the Holberry Cascades, which are positioned
+on the top of the stone staircases that lead visitors from street level down into the
+garden. The square attracts hundreds of visitors and locals on a ﬁne day to relax
+among the dramatic water features, intricate stone carvings and colourful ﬂowers.
+Especially during lunchtime, people from surrounding ofﬁces and shops come to
+the square to have a rest. The Peace Gardens thus acts as a central focal point in the
+city centre. It affords opportunity for adults to relax and children to play. Most of
+the buildings around this sunken square date from the turn of the 19th century.
+The background scene of the square is the old Town Hall, which is a Grade 1 listed
+building of outstanding architectural interest. The concrete Town Hall extension
+to the rear of the Peace Gardens was demolished during the one-year survey
+process. On the west side of the Peace Gardens is a busy one-way road. Most of the
+vehicles passing through are buses.
+The Barkers Pool, as shown in Figure 2, is adjacent to the Peace Gardens. This
+rectangular square is shaped by Shefﬁeld City Hall and Cole Brothers (now John
+Lewis). The former is a 1930s neo-classical styled building and the latter is one of
+the largest and ﬁnest quality department stores in Shefﬁeld. An important design
+feature of this pedestrian square is the city’s War Memorial, which helps to create
+a solemn and peaceful atmosphere in the square. There are some benches in front
+of Cole Brothers, which are frequently used, especially by the customers. The large
+steps in front of the City Hall are also a popular sitting place. On a ﬁne day, young
+people like to sit on the steps and enjoy the music played in the City Hall. On two
+sides of the square there is some low-density trafﬁc.
+In Figures 1(a) and 2(a), the sound pressure level (SPL) distributions of the
+two case study sites are also shown. The SPL is calculated using Cadna/A noise-
+mapping software (DataKustik, 1998). The sound sources considered are trafﬁc
+and fountains in the Peace Gardens, and trafﬁc only in the Barkers Pool.
+Soundscape Survey
+An intensive questionnaire survey was carried out over four seasons between
+summer 2001 and spring 2002. The questionnaire includes an evaluation of the
+sound level and acoustic comfort, the identiﬁcation of recognized sounds, the
+classiﬁcation of sound preference, an indication of wanted and unwanted sounds
+on the case study sites as well as semi-structured questions related to the preferred
+relaxing sound environment. The survey was introduced not as a soundscape
+survey, but as an enquiry relating to general environmental conditions including
+thermal, lighting, wind, humidity and visual environments. This is useful for an
+integrative consideration of various factors, and can also avoid any possibility of
+bias in one aspect.
+Interviewees
+were
+asked
+to
+ﬁll
+the
+two-page
+questionnaire.
+Some
+demographic data and temporary status were recorded by the interviewers
+on a separate sheet. While the interviewee ﬁlled the questionnaire silently, a
+one-minute A-weighted Leq (equivalent continuous noise level) was measured,
+together with other microclimatic indices. The mean Leq and standard
+deviation of the four seasons in the Peace Gardens and the Barkers Pool are
+summarized in Table 1. It can be seen that the Peace Gardens is generally
+noisier than the Barkers Pool. As well as acoustic measurement, a weather
+station was used to record microclimatic data at 30-second intervals during
+the survey.
+66
+W. Yang & J. Kang
+
+Figure 2. (a) The site plan of the Barkers Pool. The plan is based on the EDINA Digmap. The grey scale
+in the plan corresponds to sound levels. The dashed circle indicates where the interviews were
+conducted. (b) Perspective view of the Barkers Pool.
+Soundscape and Sound Preferences in Urban Squares
+67
+
+Over
+1000
+interviews
+were
+carried
+out
+in
+the
+two
+squares.
+The
+interviewees were selected randomly. The numbers of male and female
+interviewees were generally the same, but in the winter season there were
+more male users (about 60%) in both squares. Table 2 shows the age
+distribution. It can be seen that the age range is rather wide. In both squares
+around 50% of the interviewees were young people between 18 and 34 years
+old. Because of the difﬁculty in ﬁlling in the questionnaire, the percentage of
+children was very low (1.2%) in both squares. Therefore the data for children
+are treated as missing values in the further analyses. In the Peace Gardens and
+the Barkers Pool 74.5% and 81.6% of the interviewees were local people,
+respectively. The Peace Gardens attracts more tourists: 19.9% of the non-local
+users were from overseas.
+The interviewees were classiﬁed into ﬁve categories: student, working
+person, pensioner, housekeeper and others (e.g. unemployed). The distributions
+of various categories in both squares are rather similar. Of the interviewees 43%
+and 35% were students and working persons, respectively. This is because, as
+mentioned before, the two sites are located in the business centre of Shefﬁeld and
+close to the two universities. Of the interviewees 12% were pensioners, 3%
+housekeepers and 7% others.
+The ﬁve-scale questions have often been employed in aesthetics preference
+research (Kaplan, 1987), but in this research, in order to simplify the survey
+process, three-scale questions were used.
+Table 1. The mean Leq (dBA) and standard deviation (SD) of the four-season
+survey in the Peace Gardens and the Barkers Pool
+Peace Gardens
+Barkers Pool
+Seasons
+Mean Leq
+SD
+Mean Leq
+SD
+Summer (August 2001)
+67.3
+5.26
+61.0
+3.69
+Autumn (October 2001)
+60.6
+6.01
+60.0
+3.43
+Winter (March 2002)
+72.2
+4.46
+60.1
+2.24
+Spring (April 2002)
+69.1
+3.74
+59.5
+3.48
+Table 2. Number of interviewees in each age group of the four-season ﬁeld survey
+Peace gardens
+Barkers pool
+Age group (years)
+Frequency (n)
+Percentage
+Frequency (n)
+Percentage
+,10
+6
+1.2
+6
+1.2
+10–17
+62
+12.2
+65
+13.0
+18–24
+132
+25.9
+138
+27.7
+25–34
+121
+23.7
+149
+29.9
+35–44
+60
+11.8
+39
+7.8
+45–54
+45
+8.8
+22
+4.4
+55–64
+41
+8.0
+36
+7.2
+.65
+43
+8.4
+44
+8.8
+Total
+510
+100
+499
+100
+68
+W. Yang & J. Kang
+
+Soundscape of the Case Study Sites
+Although the two ﬁeld survey sites are rather close, their soundscapes are
+considerably different, in terms of both design features and activities. In the Peace
+Gardens the most signiﬁcant design feature is the fountains. Therefore, sounds of
+water are the dominant soundscape element. Another important sound element
+during the survey was the demolition work of the Shefﬁeld Town Hall extension
+during the autumn, winter and spring seasons. In the autumn season, due to the
+preparation for the demolition work, the fountains were often not operating. In the
+Barkers Pool, during most of the survey period (65%), the main sound elements
+were surrounding speech sounds, footsteps, wind and trafﬁc noises. During 35%
+of the survey period, classical music from the City Hall, jazz music from the music
+store or street music (i.e. saxophone or country music) could be heard in the
+square.
+The interviewees were asked to describe up to three sounds they heard in the
+square during the interview period. The results in the Peace Gardens and the
+Barkers Pool are illustrated in Figures 3(a) and 3(b), respectively. In the Peace
+Gardens, the soundmark—water sounds from the fountains—was heard most
+often. In addition, as shown in Figure 3(a), the fountain sounds were more likely to
+be mentioned as the ﬁrst-noticed sound. The foreground sounds, from demolition
+work, digger machines and lawn-mowers, also show a high level of awareness
+from the interviewees. The keynote sounds of the Peace Gardens exhibited a wide
+variation, including motor, human and natural sounds, which were more likely to
+be noticed secondly or thirdly.
+Compared to the Peace Gardens, the soundscape in the Barkers Pool was
+more fragmented. The relatively low levels of trafﬁc noise gave people more
+chances to hear other keynote sounds, such as surrounding speech, footsteps,
+wind, hawkers’ shouting, skateboarders playing, birds singing and leaves
+rustling. Music from the buildings and streets was always played quite smoothly
+and can just be described as noticeable. In terms of sound level, the music sound
+could not mask the keynote sounds. However, as a dramatic soundmark, the
+music sounds were more frequently noticed in the ﬁrst instance.
+The way that people list their heard sounds gives a bridge to seeing how they
+perceive sounds in urban squares. Not only are researchers keen to discover the
+signiﬁcant features of the soundscape, but also ordinary people have the instinct
+to distinguish what researchers deﬁne as keynote sounds, foreground sounds and
+soundmarks.
+In order to check the effects of demographic variables on the frequency of
+noticed sounds, Pearson’s chi-square test was carried out. The results show that
+there were no signiﬁcant differences between males and females, different age
+groups, local and non-local people or different occupations. This suggests that
+people in different demographic groups have a similar ability to notice the sounds
+in the squares. However, whether they have a similar way of evaluating these
+sounds is a different issue, which will be analysed below.
+Sound Preference
+The interviewees were requested to classify 15 verbally described sounds into
+‘favourite’, ‘neither favourite nor annoying’ and ‘annoying’. These 15 sounds
+were selected from typical urban soundscape elements, which were more likely to
+Soundscape and Sound Preferences in Urban Squares
+69
+
+be heard in the two squares, although during the interview these sounds were not
+necessarily heard. The results are shown in Figure 4. Corresponding to the results
+of other researchers (Kariel, 1980; Porteous & Mastin, 1985; Tamura, 1998; Carles
+et al., 1999), people showed a very positive attitude towards the natural sounds.
+More than 75% of the interviewees were favourable to water sound and birdsong,
+and only less than 10% of the people thought the sounds were annoying. As a
+university student described: “Natural sounds tend to be more tranquil and feel
+less invasive”. For culturally approved sounds, such as church bells, music played
+Figure 3. Main sounds identiﬁed by the interviewees in the Peace Gardens (a) and the Barkers Pool (b).
+Key: B, First noticed sound;
+, second noticed sound; A, third noticed sound. The ﬁgure does not
+include those sounds that were mentioned fewer than 10 times.
+70
+W. Yang & J. Kang
+
+on the street and clock chimes or music, people also showed relatively high levels
+of preference. For human sounds such as surrounding speech, most people
+thought they were neither favourite nor annoying. The most unpopular sounds
+were mechanical sounds, such as construction sounds, music from passenger cars
+and vehicle sounds. As a young man said, “I cannot think very well if there are too
+many cars”.
+Whilst the above results are somewhat expected, it is interesting to compare
+the three kinds of music (see Figure 4). For the music played on the street, nearly
+half of the interviewees chose ‘favourite’. For the music from stores, 40% of the
+interviewees chose ‘neither favourite nor annoying’, whilst 43% chose ‘annoying’.
+However, more than 70% of the interviewees felt the music from passenger cars
+was annoying. A possible reason for the different reactions to various sources of
+music is that the street music involves human activities and thus is less disturbing,
+whereas the car music always comes with mechanical sounds and a high level of
+low-frequency sound, and hence tends to be more annoying.
+Pearson’s chi-square test was employed to compare the sound preference
+between the two squares. It is interesting to note that the interviewees in the two
+squares had signiﬁcant differences in evaluating some of the sounds. The
+interviewees in the Peace Gardens were more favourable to the sounds of birds
+(p , 0:05), church bells (p , 0:01), water (p , 0:001) and children’s shouting
+(p , 0:001), whereas the interviewees in the Barkers Pool were more favourable to
+the music played on the street (p , 0:05) and music from stores (p , 0:001).
+As shown in Figure 3, most of these sounds were exactly the soundmarks of
+the square. However, regarding the keynote and foreground sounds, such as
+Figure 4. Interviewees’ classiﬁcation of the sound elements. Key: A, Favourite;
+, neither favourite nor
+annoying; B, annoying.
+Soundscape and Sound Preferences in Urban Squares
+71
+
+surrounding speech sounds, pedestrian crossing, vehicle parking, passenger cars
+and construction, there was no signiﬁcant difference between the two squares.
+This result suggests that when people chose a square to use, their soundscape
+preferences did play an important role. The appearances of their favourite sounds
+make people feel better. Therefore they choose that square to use. This is described
+by some interviewees: “To feel completely relaxed and comfortable in my
+surroundings. I like the Peace Gardens—water sounds and relaxing”; “The water
+sounds quite comforting”; “I enjoy listening to music”; “I like hearing birds, but
+music is nice too”.
+In addition, interviewees were asked to select their preferred relaxing sound
+environments. As natural sounds are commonly preferred, the question is to test
+how people want the natural sounds to be presented. In the question ‘Generally
+speaking, when you want to relax for a short period outside, you prefer . . .’, 56.1%
+of the interviewees chose ‘quiet natural sounds only’, 21.3% ‘natural sounds with
+artiﬁcial sounds in far distance’ and the other 22.6% ‘natural and artiﬁcial sounds
+mixed’.
+Some interviewees explained the reasons: “It is more relaxing to hear natural
+sounds, when all day you are generally hearing artiﬁcial sounds”; “To completely
+escape the hustle and bustle without background reminders”; “More relaxing and
+different to my normal experience”; “Want to feel like in a natural space, but don’t
+expect cities to be sanitized”; “Escape from usual busy life, more pleasurable
+environment for eating and reading”; “It’s peaceful and makes me appreciate the
+world around us”; “It gets you away from modern life and its pressures—to make
+them more interesting, the fountain in the Peace Gardens is a good example”.
+From the above analysis it can be seen that soundscape is an important aspect
+in people’s evaluation of urban squares. Some pleasant sound elements could
+attract people to use the square. The general public is calling for more naturally
+appealing soundscape in urban squares. It is therefore important to introduce
+‘colourful’ soundscape to urban squares within the ‘brownﬁeld’ city soundscape.
+Sound Preference and Demographic Variables
+In Figure 4 large variations can be found in interviewees’ classiﬁcation of various
+sounds. For instance, regarding the music from stores, the percentages of people
+who chose favourite, neither favourite nor annoying, and annoying were 14.9%,
+43.3% and 41.8%, respectively. Other researchers have also reported such
+signiﬁcant variations. In Porteous & Mastin’s (1985) research, on a six-scale rating
+of the neighbourhood soundscape elements, over 70% of the responses had a
+standard deviation of over 1.0 and 23% clustered around 1.5. In order to explore
+the factors that lead to the lack of agreement in sound preferences, the effects of
+demographic variables are analysed below.
+Age
+Distinct differences were found between different age groups regarding sound
+preferences. It is interesting to note that with an increase in age, people are more
+favourable to, or tolerant towards, sounds relating to nature, culture or human
+activities. For example, for birdsongs (p , 0:001), Figure 5(a) shows that 93% of
+people aged over 65 favoured bird songs, whereas only 46.4% of the 10–17 age
+group rated birdsongs as ‘favourite’ and 14.3% of them even chose ‘annoying’.
+72
+W. Yang & J. Kang
+
+Figure 5. Sound preference differences between age groups. (a) Birdsong. (b) Music from stores.
+(c) Surrounding speech sounds. Key: †, Favourite; B, neither favourite nor annoying; O, annoying.
+Soundscape and Sound Preferences in Urban Squares
+73
+
+Signiﬁcant differences have also been found between age groups for other sounds:
+church bells (p , 0:001), water sounds (p , 0:001), insect sounds (p , 0:001), clock
+chimes or music (p , 0:001), children’s shouting (p , 0:01), pedestrian crossing
+(p , 0:001) and construction sound (p , 0:05).
+However, younger people, conversely, are more favourable to, or tolerant
+towards, music and mechanical sounds. Signiﬁcant differences were found
+between age groups for music played on streets (p , 0:05), music from passenger
+cars (p , 0:001), vehicle parking (p , 0:001) and music from stores (p , 0:001).
+As an example, Figure 5(b) shows the differences towards music from stores.
+It can be seen that for the over 65 age group only 6.5% classiﬁed it as ‘favourite’,
+whereas most of them (77%) rated it as ‘annoying’. By contrast, for the 10–17 age
+group the ‘annoying’ percentage was only 23.6%. Instead, 36.3% of them rated the
+sound as ‘favourite’ and 40% of them rated it as ‘neither favourite nor annoying’.
+For sounds from passenger cars (p , 0:01) and buses (p , 0:001), people in
+the 25–44 and 55–64 age ranges are the groups most annoyed.
+The only sound for which the classiﬁcations agree between various age
+groups seems to be surrounding speech sounds, as shown in Figure 5(c). About
+70% of the interviewees rated the sound as ‘neither favourite nor annoying’.
+Although differences exist between various age groups, the difference
+between the 10–17 age group and the other groups is particularly signiﬁcant. For
+example, Figures 5(a) and 5(b) show that between the 10–17 and 18–24 age
+groups there is usually a signiﬁcant change in the curve. Similar results exist for
+church bells, water sound, insect sounds and clock chimes or music.
+In terms of the preferred relaxing sound environments, comparison was
+made between different age groups, and a signiﬁcant difference (p , 0:001) was
+again found. Figure 6 shows the preferred relaxing sound environment between
+different age groups. It can be seen that most people preferred quiet natural
+sounds only. With an increase in age, people showed more preference for the quiet
+natural sound environment, whereas 37.6% of the 10–17 age group preferred
+Figure 6. Differences between age groups towards preferred relaxing sound environment. Key: †,
+Quiet natural sounds only; B, mainly natural sounds with artiﬁcial sounds in far distance; O, natural
+and artiﬁcial sounds mixed.
+74
+W. Yang & J. Kang
+
+a mixture of natural and artiﬁcial sounds. From the following typical comments
+the changes in sound preference with increasing age can be clearly seen:
+I like listening to music, the skate park and spotting nice boys. (Female,
+aged 10–17, who preferred a mixture of natural and artiﬁcial sounds)
+I don’t mind having a little of both, it makes the sound environment
+more interesting with other noises as well as natural. (Male, aged 10–17,
+who preferred mainly natural sounds, but also artiﬁcial sounds in the far
+distance)
+Natural sounds help me to relax, but I like to hear other people getting
+on with their lives. (Male, aged 18–24, who preferred a mixture of
+natural and artiﬁcial sounds)
+Natural sounds are relaxing, but artiﬁcial sounds can be inspiring.
+(Male, aged 18–24, who preferred a mixture of natural and artiﬁcial
+sounds)
+Because it needs to be quiet, quiet to relax, but I will know I’m not
+alone. (Female, aged 18–24, who preferred mainly natural sounds, but
+also artiﬁcial sounds in the far distance)
+Natural and artiﬁcial sounds mix shows that there are many things
+going on around you and that even though it is relaxing where you are,
+you are close to a more active social environment. (Male, aged 18–24,
+who preferred a mixture of natural and artiﬁcial sounds)
+I like the peace of my home, but I don’t want to be detached from the
+outer world. (Male, aged 18–24, who preferred mainly natural sounds,
+but also artiﬁcial sounds in the far distance)
+I admit to relying upon artiﬁcial sounds, e.g. CD stereo, etc. for
+stimulation, but natural sounds are very important for peace, tranquillity
+and reassurance. (Male, aged 25–34, who preferred a mixture of natural
+and artiﬁcial sounds)
+If I want to relax, I want as much peace and quiet as possible. (Male,
+aged 35–44, who preferred quiet natural sounds only)
+I want to feel as if I have stepped outside of the hubbub of city life.
+(Male, aged 35–44, who preferred quiet natural sounds only)
+As I get older, I prefer peace and quiet. (Male, aged 35–44, who
+preferred quiet natural sounds only)
+Noise today is too much of an intrusion in our lives. (Male, 55–64, who
+preferred quiet natural sounds only)
+A possible reason for the above differences between age groups is that as
+people grow older, their sound preferences tend to be shaped by experience.
+The older people are, the more emotion they have when they hear the sound
+environment. As a result, they may be more appreciative of natural and
+culturally approved sound elements. However, for young people, say aged
+10–17, their social lives are just starting, and they may prefer a high-arousal
+soundscape in public spaces.
+Gender
+There are also some differences between males and females in sound preference,
+although these are less signiﬁcant than those amongst age groups. Compared with
+males, female interviewees are more favourable towards the following sounds:
+Soundscape and Sound Preferences in Urban Squares
+75
+
+church bells (p , 0:001), water (p , 0:001), music played on the street (p , 0:05),
+clock chimes or music (p , 0:01) and children’s shouting (p , 0:05). It seems that
+the emotional effect is a common characteristic of these sounds.
+Figure 7(a) shows the differences between males and females in rating church
+bell sounds. Over 60% of the female interviewees classiﬁed church bell sounds as
+‘favourite’, and less than 30% as ‘neither favourite nor annoying’, whereas these
+values for males were 44.9% and 43.5%, respectively. Similar differences between
+males and females have also been reported by other researchers.
+Mehrabian’s (1976) has demonstrated that in general there is a slight
+tendency for women to screen less than men. It has often been remarked, for
+example, that women are more ‘emotional’ than men, meaning that they act with
+greater arousal to obviously emotional situations, or that they are emotionally
+more sensitive to seemingly minute changes in the environment, changes that
+sometimes are not even perceived by males. There is some evidence to suggest
+that females generally have a higher arousal level than males, and can hence
+tolerate sensory deprivation situations better (Croome, 1977).
+Figures 7(b) and 7(c) illustrate the differences between males and females in
+rating music played on the street and children’s shouting, respectively. It can be
+seen that despite some small differences, male and female interviewees show a
+similarity in classifying the sounds. Overall, the results in Figure 7 suggest that the
+differences between sounds may exceed gender differences.
+Others
+Between local and non-local interviewees, it is interesting to note that the
+difference in sound preference is only signiﬁcant for surrounding speech sounds
+(p , 0:001). Non-local people tend to be more annoyed by this sound.
+Between various occupations, there is no signiﬁcant difference, except
+between students and other occupations. However, it is noted that since most of
+the students are young people, the differences could be related to the differences
+between age groups. A further comparison indicates that there is no signiﬁcant
+difference between different occupations in the same age group.
+Conclusions and Discussions
+Summary of the Results
+The paper describes a ﬁeld survey in two squares in the city centre of Shefﬁeld. It is
+interesting to ﬁnd that in perceiving the sound elements in a given soundscape,
+the ﬁrst noticed sounds do not have to be the loudest—people always mention the
+soundmarks as their ﬁrst noticed sounds. Moreover, the preferences of
+soundscape elements are proved to inﬂuence people’s choice of using an urban
+square. Therefore, soundscape identity is important for a designated space.
+A more aesthetically appealing soundscape would attract more users to a square.
+The results of this research further conﬁrm that natural sounds as a group are
+generally preferred in urban squares. In terms of the effects of demographic
+factors in soundscape preferences, it has been shown that the differences between
+age groups are rather signiﬁcant. Young people and old people may have some
+essential differences in evaluating sounds. Generally speaking, with an increase in
+age, people are more favourable to, or tolerant towards, sounds relating to nature,
+76
+W. Yang & J. Kang
+
+Figure 7. Sound preference differences between males (O) and females (†). (a) Church bell. (b) Music
+played on street. (c) Children’s shouting.
+Soundscape and Sound Preferences in Urban Squares
+77
+
+culture or human activities. By contrast, younger people are more favourable to,
+or tolerant towards, music and mechanical sounds.
+Between males and females there are only slight differences. Females tend to
+put more emotional colours into their sound preference. For example, they are
+more favourable to, or tolerant towards, sounds such as church bells, water, music
+played on the street, clock chimes or music and children’s shouting. It is noted that
+differences between sounds exceed gender differences.
+Discussion
+Signiﬁcant age differences were also found in landscape preference (Lyons,
+1983)—children under 12 were less discriminating than adults and showed much
+greater variability in response to landscapes, having little interest in high
+naturalism in landscape and being less likely to view human intervention in the
+landscape as detrimental (Zube et al., 1983). However, the inﬂuence of age
+difference between landscape preference and soundscape preference is different.
+In soundscape preference, with an increase in age, people are more favourable to,
+or tolerant towards, sounds relating to nature, culture or human activities.
+As much as 80% of the elderly people interviewed in this research preferred the
+soundscape in urban squares to be quiet and natural only (see Figure 6).
+In landscape preference, however, neither children nor the elderly seemed to be
+strongly affected by human inﬂuences in natural scenes, and adolescents and
+adults tended to judge scenes as of ever-lower value as the man-made
+components increase (Zube et al., 1983). From the viewpoint of urban square
+design, it is important to understand the different tendencies of age difference
+between soundscape and landscape preferences.
+The results of current and previous studies suggest that sound preference
+differences are on three levels. The ﬁrst can be deﬁned as basic preference. People
+generally share a common opinion in preferring nature- and culture-related
+sounds rather than artiﬁcial sounds. However, cultural background and long-
+term environmental experience play an important role in people’s judgement of
+sound preference (Yang & Kang, 2003). People from different backgrounds may
+show rather different tendencies on their sound preferences. Thus there is a
+second-level sound preference, which can be deﬁned as the macro-preference.
+At the third level, within the same cultural background and long-term
+environmental experience, personal differences exist. This can be deﬁned as the
+micro-preference. In particular, the differences between age groups are more
+signiﬁcant than other factors.
+Design Considerations
+Soundscape is an emotive environment, not an intellectual one (Porteous, 1996).
+For soundscape design, when the background sound level is not excessive, say
+below 65 dBA (Yang & Kang, 2004), which can be achieved by designing square
+forms and boundaries, landscape elements, urban furniture and noise barriers,
+introducing soundmarks may have dramatic effects. According to the type of
+sounds, we can classify soundmarks as ‘passive’ and ‘active’. The former are
+intentionally designed functional and/or aesthetic elements with pleasant
+sounds, such as fountains and sonic sculptures, whereas the latter are sounds
+generated by interesting activities.
+78
+W. Yang & J. Kang
+
+A typical passive soundmark, water, in the form of fountains, springs or
+cascades, is often used as a landscape element in open public spaces. As Kaplan
+(1987) has stated, in the visual aesthetic ﬁeld there are ‘primary landscape
+qualities’, which have a special effect on preference, and water and foliage were
+two such qualities ﬁrst identiﬁed. Similarly, the sound of water can be deﬁned as a
+‘primary soundscape quality’. In this research, the sound of water was classiﬁed
+as ‘favourite’ by 79.3% of the interviewees, and the introduction of water elements
+has dramatically improved the soundscape quality in the urban squares studied.
+However, special attention must be paid to the ﬂow rate. Keeping it at a constant
+sound level may cause people to lose interest and consequently the effects on their
+psychological adaptation will diminish with time.
+In terms of active soundmarks, providing suitable spaces for people to
+generate activities is very important. Hard spaces and green spaces as well as
+thoroughfares should be well arranged in a square. A green space may enhance
+the natural appeal of a square, attract wild animals’ activities such as birdsong and
+improve the microclimatic conditions and sound level distribution. Hard spaces
+are useful for generating many activities, especially for young people, such as
+skateboarding. As well as designing space form and surface materials to generate
+exciting sound environments for such activities, it is also important to reduce
+possible disturbance to other users, by introducing sound-absorbent ground and
+noise barriers, for example. Live music is always very popular. People are not only
+interested in the music itself, but also attracted by the activities of the players.
+In this situation, the type of music (e.g. classic music and pop music, etc.) is
+relatively less important. However, when music is from a store or played through
+a public address system, the music type and its sound level need to be considered
+carefully. According to the survey, most people do not like such music when the
+level is high, whatever the music type is.
+The most important objective of this study is to demonstrate why soundscape,
+broadly conceived, is an important aspect of urban square design, and how it
+affects different users. This is not, of course, an argument for an ideology of the
+aural to replace the hegemony of the visual. It is rather a plea for more explicit
+incorporation of soundscape design in particular into the consideration of urban
+squares.
+Acknowledgements
+The authors wish to thank Dr M. Zhang for helping with the ﬁeld survey, the
+interviewees for their kind supports and John and Sheila Holt for useful discussion.
+This research is a part of Key Action 4, ‘City of Tomorrow and Cultural Heritage’,
+from the ‘Energy, Environment and Sustainable Development’ programme within
+the Fifth Framework Programme of the European Commission.
+References
+Apfel, R. E. (1998) Deaf Architects and Blind Acousticians—A Guide to the Principles of Sound Design
+(New Haven, CT: Apple Enterprises Press).
+Berglund, B., Eriksen, C. A. & Nilsson, M. E. (2001) Perceptual characterization of perceived
+soundscape in residential area, Proceedings of the 17th International Conference on Acoustics, CD-ROM,
+3A.10.04.
+Carles, J. L., Barrio, I. L. & Lucio, J. V. de (1999) Sound inﬂuence on landscape values, Landscape and
+Urban Planning, 43, pp. 191–200.
+Soundscape and Sound Preferences in Urban Squares
+79
+
+Croome, D. J. (1977) Noise, Building and People (Oxford: Pergamon Press).
+DataKustik (1998) Cadna/A for Windows—User Manual (Munich: DataKustik).
+Ellermeier, W., Eigenstetter, M. & Zimmer, K. (2001) Psychoacoustic correlates of individual noise
+sensitivity, Journal of Acoustic Society of America, 109, pp. 1464–1473.
+Kaplan, S. (1987) Aesthetics, affect, and cognition—environmental preference from an evolutionary
+perspective, Environment and Behavior, 19, pp. 3–32.
+Kariel, H. G. (1980) Mountaineers and the general p
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

@@ -1,0 +1,6 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+166,quantitative non-randomised,Y,Y,N,N,Y,Y,N,2,low,"음환경을 dB로 재지 않고 별도 집단이 다른 날 평정한 단일문항에 의존, 소음-속도 직접 검정 부재, 학부생 표본"
+175,quantitative descriptive,Y,Y,Y,N,N,N,Y,2,low,"응답률 5~11%·대학 구성원 한정 표본에 음환경은 4범주 단일 문항, 응답 쏠림으로 귀무 결과 해석 제약"
+184,quantitative non-randomised,Y,Y,Y,Y,Y,Y,N,4,high,"음향 실측이 다른 계절 파일럿뿐이고 조사기간 중 미측정, 사회적 음 선호 회귀 R2=0.027로 설명력 미미"
+220,quantitative descriptive,Y,Y,Y,N,Y,CT,N,2,low,"40지점 공간지표를 471명 독립 관측으로 분석해 유의성 과대, 응답률 미보고, 맑은 날 평일만 조사"
+322,quantitative descriptive,Y,Y,Y,Y,Y,N,N,3,moderate,"상관 분석단위인 표본지점 수 미보고(동일 데이터 CT0126은 N=29 명시), 응답률 25%, 다중비교 보정 없음"

@@ -1,0 +1,1828 @@
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+1 
+The influence of companion factors on soundscape evaluations in urban public 
+spaces 
+Jingwen CAOa and Jian KANG b* 
+ 
+aSchool of Architecture, University of Sheffield, Western Bank, Sheffield S10 2TN, United 
+Kingdom, Jcao9@sheffield.ac.uk 
+bInstitute for Environmental Design and Engineering, The Bartlett, University College 
+London, London WC1H 0NN, United Kingdom, J.kang@ucl.ac.uk 
+ 
+*Corresponding Author: J.kang@ucl.ac.uk, UCL Institute for Environmental Design and 
+Engineering, The Bartlett, University College London (UCL), London WC1H 0NN, United 
+Kingdom. Tel: +44 (0) 203108 7338 
+ 
+Abstract 
+‘Soundscape’ refers to how individuals or groups of people perceive sounds. This study 
+focuses on whether and to what extent companion factors, compared with other 
+demographic factors, influence the various aspects of soundscape evaluation. Two 
+kinds of companion factors are studied here: one is companion status, the other is the 
+social relationship intensity between companions. Based on a questionnaire and 
+statistical analysis, both companion factors are found to influence evaluations of 
+socially interactive sounds- sound made by human activity. People accompanied are 
+more likely to notice speaking and children sound and prefer safe and social sounds. 
+People involved in closer social relationships tend to notice children’s sounds more and 
+prefer human sound types and social sound. Other factors may offset the influence of 
+companion factors, however. Site factors interfere with accompanied people’s 
+tendencies to prefer safe sounds and notice children’s sounds, and participants’ ages 
+interfere with their tendencies to notice speaking sound. The results of this study 
+suggest that human activity sounds can contribute to social sound among companions, 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+2 
+whereas solo people may prefer more privacy and quietness. This study emphasizes 
+companion factors in soundscape evaluations and suggests future sound- scape design 
+to satisfy people with different companions. 
+Keywords: Companion factors, Social relationship intensity, Soundscape evaluations, 
+Soundscape preferences, Urban public space 
+Introduction 
+In recent years, the process of urbanization has been accelerating. It was predicted that about two- 
+thirds of the world’s population would live in cities by 2050 (United Nations Department of 
+Econimic& social affairs, 2018). Urbanization brings economic development and civilization, but 
+also creates various environmental problems, such as pollution, flooding as well as urban noise 
+(Chan& Chau, 2021; Aletta, Kang, Astolfi& Fuda, 2016). Health problems are also spreading, such 
+as unhealthy diets and physical inactivity in the aspect of physical health (WHO, 2010; Leon, 2008), 
+as well as rootless and isolation in terms of psychological health (Mental Health Foundation, 2010). 
+The idea of the sustainable city was encouraged against the negatives of urbanization, which 
+depends on three general issues- environmental, social and economic (Jenks, 2008). As one of the 
+environmental factors, sustainable acoustic has become an important concern with more attention 
+being paid to the problems brought by noise pollution (Yu, 2008). Researches of environmentally 
+sustainable acoustic in the early stage emphasized more on the negative effects of urban noise and 
+the methods to control and manage those noise pollution (Yu, 2008; Berglun, Eriksen& Nilsson, 
+2001). Urban noise was believed to damage people’s physical and psychological health and obstruct 
+the development of environmentally sustainable acoustic. Especially on the mental health aspect, 
+the acoustic comfort level was considered to promote or impede psychological restorations (Zhang, 
+Kang& Kang, 2017). Some researchers suggested to involve urban sound at the beginning of the 
+planning process to control noise (Alves et al., 2016; Brown, 2010). Others focused on noise 
+reduction in building design, such as acoustic cladding and building shapes can play a role in 
+controlling noise (Badino et al., 2019; Echevarria Sanchez et al., 2016). However, it is impossible 
+to eliminate all the harmful sounds. On the other hand, controlling negative sound sources may not 
+necessarily result in a better acoustic environment, because even some negative sounds can provide 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+3 
+meaningful information to people (Aletta, Kang& Axelsson, 2016; Rådsten-Ekman, Axelsson, & 
+Nilsson, 2013). 
+‘Soundscape’ was introduced as the auditory atmosphere of cities as a part of people’s holistic 
+experiences of urban spaces (Bild et al., 2016; Bohme, 2000). Carpenter and McLuhan (1960) 
+emphasized the ability of sound to ‘fill’ urban spaces and construct human’s perceptions toward and 
+understandings of cities. The emergence of ‘soundscape’ as a concept dates back to the 1960s–1970s 
+when the Canadian composer R.M. Schafer (1977) and his colleagues defined soundscape as ‘a[n] 
+environment of sound (or sonic environment) with emphasis on the way it is perceived and 
+understood by the individual, or by the society’ (Truax, 1999, p. 65). They articulated this new 
+concept in line with ‘landscape’ to stress the perceptual aspect of the acoustic environment. After 
+this concept emerged, planners and designers started to wonder how the acoustic environment would 
+influence the perceived quality of cities and how to integrate it into urban planning for sustainable 
+cities (Aletta, Kang and Axelsson, 2016). 
+Recently, the International Organization for Standardization (ISO) (2014) released a standard 
+definition where soundscape is ‘[the] acoustic environment as perceived or experienced and/or 
+understood by a person or people, in context’. This definition further emphasised the perceptual 
+aspect of sounds and took into account the listeners’ backgrounds. Soundscape exists through human 
+perception of the acoustic environment (Brown et al., 2011). It has both physical and social attributes, 
+the physical being associated with sounds’ energy waves and the social being associated with the 
+listeners, their backgrounds and their subjective understandings (Yu and Kang, 2010). Thus, 
+soundscape is a complex system that involves people’s understandings of both physical and 
+subjective attributes. In terms of physical aspects, sounds can be measured by frequency and 
+pressure (Zwicker and Fastl, 1999). Evaluations of subjective understandings involve various 
+aspects of the perceiving process, as mentioned in ISO (2014). 
+The evaluation of sound is often influenced by various factors, such as psychological and 
+physiological factors, social context, cultural background as well as physical environment factors, 
+which increase the difficulty of soundscape evaluations (Yu and Kang, 2008; Calleri et al., 2016). 
+Zhang and Kang (2007) summarised four basic elements for examining soundscape evaluations: 
+sound, space, people, and environment. These four elements suggest researchers should pay 
+attention to what sounds occur, where those sounds occur, who (considering cultural backgrounds, 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+4 
+ages and past experiences) listens to those sounds and the interactions between acoustics and 
+environment (including effects of space boundaries and elements). Yu and Kang (2010) analysed 
+the effects of social, demographic, behavioural and psychological factors on soundscape evaluations 
+in urban public spaces and found that age and education level are two factors that generally influence 
+sound preference and that cultural differences also show a degree of influence. Older and more 
+educated people preferred natural sounds and were more annoyed by mechanical sounds. Cultural 
+factors have been frequently studied because they are considered to be important regarding people’s 
+judgements and preferences (Yang and Kang, 2005). For instance, preferences for bird sounds were 
+found to be higher for males then females in Sheffield (UK) but higher for females then males in 
+Shanghai (China), likely due to cultural differences (Yu and Kang, 2010). Preferences for speech 
+sounds have been found to vary greatly across countries, with more than 50% of people in 
+Thessaloniki (Greece) feeling annoyed by such sounds and less than 1% in Kassel (Germany) and 
+Sesto San Giovanni (Italy) feeling the same way (Yang and Kang, 2003). The International 
+Organization for Standardization (2014) found that different factors can exert influence at different 
+stages of sound-perception. In the auditory-sensation stage, evaluations can be influenced by factors 
+from the acoustic environment, such as meteorological conditions, hearing impairments, and 
+hearing aids. Experiences and expectations, including culture and reasons for being somewhere, as 
+well as other environmental factors, like visual impressions and odours, can affect interpretations 
+of auditory sensations. 
+Social relationships as factors affecting interpretations of auditory sensations have long been 
+neglected in previous studies. Accepting the definition of soundscape mentioned above, the subject 
+perceiving the soundscape can be a group as well as an individual, which implies the existence of a 
+companion factor. General environmental psychological studies consider that people are willing to 
+be involved in a stable and enduring affective bond. And company can even enhance (or degrade) 
+the restorative quality of people’s experience (Baumeister& Leary, 1995). Staats and Harti (2004) 
+have confirmed that social context increases preferences for urban environments but not for natural 
+ones when they seek for restorations. Bild et al. (2018) pointed out that influences from social 
+relationships are intertwined with activities. The activities different groups engaged in involve 
+different levels of social interactions. In other words, social relationships can influence soundscape 
+evaluations through the social-interaction levels associated with their activities. In Bild et al.’s (2018) 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+5 
+study, they focused on the differences between solo and accompanied listeners. Solo and 
+accompanied listeners supposedly evaluate soundscapes differently depending on their activities. 
+Three aspects were evaluated (disruption, simulation, and overall suitability) to analyse whether the 
+acoustic environment supports or obstructs activities. As a result, it was found that accompanied 
+users offered higher suitability and lower disruption ratings than solo users, which suggested they 
+had qualitatively different auditory experiences. Although Bild et al.’s (2018) research mentioned 
+the influences from companion factors, they analysed this influence as it related to the activities. 
+The relationship between companion factors and soundscape evaluations was not considered, nor 
+the possible influences of different relationship intensity. There remains a gap in the literature as to 
+whether and how social relationships affect users’ soundscape evaluations and preferences. 
+To evaluate soundscapes accurately, effective measurements are urgently required (Aletta and 
+Kang, 2016). In previous studies, a number of measurements have been used to focus on negative 
+aspects of soundscapes, such as noise annoyance levels (Preis, 1997; Fields et al., 2001). Recently, 
+however, researchers have gone beyond noise by focusing on how sound subjectively affects people, 
+both mentally and physically (Payne, 2012; van Kempen et al., 2014). Soundscape descriptors have 
+been introduced as measurements for soundscape evaluations. Based on interview data from sound 
+walks, Davies et al. (2013) found that three concepts inform interviewees’ soundscape 
+understandings: sound sources, sound descriptors and soundscape descriptors. Sound descriptors 
+are descriptions of sounds, which can be nouns, adjectives, or phrases. Soundscape descriptors are 
+more abstract, describing the whole sounds in the space. Aletta, Kang, Axelsson (2016) addressed 
+soundscape descriptors and indicators as the operational tools for evaluations. Soundscape 
+descriptors are used to measure how people perceive acoustic environments and indicators are used 
+to predict the value of soundscape descriptors. 
+Researchers have introduced various descriptors to deconceptualize soundscape perceptions. 
+The two-dimensional coordinate, eventfulness and pleasantness or calmness and vibrancy, was 
+developed to measure the quality of perceived soundscapes (Axelsson et al., 2010; Cain et al., 2013). 
+Apart from these two descriptors, appropriateness has been identified as the third dimension (Aletta 
+et al., 2016). It has been suggested that a poor soundscape might be accepted and evaluated as 
+‘appropriate’ because a person’s sense of what is ‘appropriate’ may differ from what he or she 
+desires (Axelsson, 2015). People have expectations for certain soundscapes and they may prefer a 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+6 
+sound environment to be ‘appropriate’ rather than ‘pleasant’. In short, the criteria for evaluating a 
+soundscape should involve whether the acoustic environment is: (a) eventful (in a good way); (b) 
+pleasant and (c) appropriate (Axelsson, 2015). To contribute to the understanding of how people 
+involved in different social relationships evaluate a soundscape, descriptors were also adopted in 
+this study. 
+Among various influential factors, companion factors were emphasised. The aims of this study 
+are: (a) to investigate whether two kinds of companion factors (companion status and the intensity 
+of the relationship) would influence people’s soundscape evaluations; (b) to figure out how 
+companion factors influence soundscape evaluations; (c) to compare companion factors with other 
+factors, such as age, gender and site, to investigate to what extent companion factors influence 
+soundscape evaluations. These three questions were analysed through factor analysis based on 
+quantitative data collected through questionnaires administered in two public spaces in China and 
+UK. 
+Method 
+Sampling and research sites 
+To collect users’ soundscape evaluations, 184 questionnaires were distributed by paper in Sheffield, 
+UK and 120 in Suzhou, China (Table 1.). Each questionnaire usually took 3-10 minutes to complete. 
+The questionnaire research was approved by the ethics committee from the University of Sheffield. 
+The consent forms were obtained from the participants. The inter-rater reliability among the subjects 
+is 0.733 (Cronbach’s alpha). Generally, the inter-rater reliability value above 0.6 is acceptable, and 
+0.8 or greater is a very good level (Nunnally, 1978; Ursachi et al., 2015). Participants were selected 
+by random sampling in order to ensure that the proportion of relationship types in the sample 
+corresponds to the true proportion in public spaces. Before participants answered the questionnaire, 
+the researcher had a small talk with them to inform them of the research aims and objectives. The 
+researcher identified participants’ hearing abilities through self- assessment according to the small 
+talk. Distributions took place daily from 10 a.m. to 4 p.m. during April and May 2017 in Sheffield, 
+and from 10 a.m. to 9 p.m. during June and July 2017 in Suzhou. The locations were busiest during 
+these time ranges. 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+7 
+Pilot studies were conducted in advance to check whether the sites were suitable for this study. 
+They took place in January 2017 in Suzhou, China and March 2017 in Sheffield, UK. In the pilot 
+study, four study sites were selected and tested: Peace Garden and Devonshire in Sheffield, Central 
+Park Square and Guanqian Square in Suzhou. Sound tests were conducted four times in each square, 
+twice between 10 a.m. and 12 a.m., twice between 12 a.m. and 9 p.m. Each test lasted for three 
+minutes long. Sound tests involved two objectives: one was to test the sound levels, the other was 
+to test sound, user, activity types. Sound levels were measured by a sound level meter (01 dB solo, 
+Limonest, France). The researcher listened and wrote down sounds as well as user, activity types on 
+notes, while sounds of sites were recorded by cell phone app (voice recorder Pro on iPhone 8). 
+Afterwards, the researcher compared the notes with the sound recordings to avoid missing anything. 
+Sounds were classified manually according to their sources and then comparing to the previous 
+studies to further categorize (Yu and Kang, 2010; Kang et al., 2017; Brown et al., 2011). 
+As a result, Peace Garden and Guanqian Square met the standard. Devonshire and Central 
+Parks square were cancelled because of their monotonous sound types and user types. LAeq of 
+Peace Garden is between 65.0 dB to 71.7dB and LAeq of Guanqian Square is between 70.8dB to 
+75.2 dB, which corresponds to the comfortable sound level of urban public spaces defined by Yang 
+and Kang (2005). Various types of users and activities appeared in the squares and they stayed for 
+long periods of time. Various types of sounds, both positive and negative, occurred in the two 
+squares. Four sound types occurred in both locations were classified as: (a) Natural sounds: wind, 
+birds, water, trees; (b) City sounds: store music, traffic, construction; (c) Human sounds: speaking, 
+footsteps, children; (d) Instrumental sounds: music, bells. 
+Table 1. Sites locations and distribution process (photo credit: authors) 
+ 
+ 
+ 
+Peace Garden (Sheffield, United 
+Guanqian 
+Square 
+(Suzhou, Distribution 
+of 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+8 
+Kingdom) 
+China) 
+questionnaire (Guanqian) 
+ 
+Questionnaire design 
+The sound evaluation questionnaire included four sets of questions: (a) Sound sources: multiple 
+answers questions regarding noticed sounds and preferred sound types; (b) Sound features: scale 
+questions regarding particular sound features; (c) Sound preferences: scale questions regarding 
+preferred soundscape descriptors; and (d) Sound psychological reactions: multiple answers 
+questions about psychological reactions triggered by sounds. Sound sources are referred to the 
+physical entities that make up sound environment, such as wind, water, etc. Sound features are 
+focused on the relationship between single sound sources and the whole sound environment. Sound 
+preferences consist of preferences over various soundscape descriptors. Soundscape descriptors are 
+adjectives descriptions about various aspects of sounds, such as noisy, quiet. Sound psychological 
+reactions are referred to people’s feelings and emotions evoked by sounds. 
+In terms of sound sources, two multiple answers questions sought to identify noticed sounds 
+(what sounds people noticed at the site, such as wind, traffic, talking and bells) and preferred sound 
+types (nature, city, human and instrumental). Even though different people may have similar hearing 
+abilities, they may notice and prefer different sound sources because of their varied personalities, 
+ages, and occupations. Companion factors may also affect what sounds they notice and prefer. Also, 
+the first noticed sounds may not necessarily be the loudest. ‘Sound marks’ were raised to describe 
+the particular sounds that are regarded by a community and its visitors, in analogy to landmarks. 
+Sound marks may not be the loudest, but they are tightly tied to the space (Kang and Yang, 2016). 
+In Peace Garden, water sound was considered as the sound mark (Yang and Kang, 2005). In 
+Guanqian Square, there is no noticeable sound mark. 
+In terms of sound features, there were two pairs of features, defined as variety and integrity as 
+well as particularity and stereotype, with six statements describing these four features. By way of 
+example, the statement 'When you hear various kinds of sounds mixed' represented the feature of 
+'variety'. Participants chose one of the options from a five-point scale, ranging from 1 (not annoying 
+at all) to 5 (extremely annoying). Among the six statements, 1, 2 and 4 represented variety and 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+9 
+integrity, which focused on the annoyance level associated with the mixed and tuneless soundscape. 
+Statements 3, 5 and 6 represented particularity and stereotype, which focused on the annoyance 
+level associated with the inappropriate and unusual soundscape. 
+Preferences over soundscape descriptors included various aspects of sounds: noisy-quiet, 
+eventful-calm, ambiguous-clear, directional-everywhere describing the physical attributes of sounds; 
+monotonous-various, distinctive-ordinary, harmonious-conflicting describing the sound features; 
+friendly-unfriendly, safe-unsafe, social-unsocial, offensive-polite describing the psychological 
+reactions triggered by sounds. Responses were given on a seven-point scale: e.g. very noisy, fairly 
+noisy, a little noisy, neutral, a little quiet, fairly quiet and very quiet. The seven- point scale adopted 
+in this study followed the suggestion from Kang and Zhang (2010)’s research. Compared to the five- 
+point scale suggested by ISO/DIS 12913-2 (International Organization for Standardization, 2017), 
+seven-point scale is more suitable for subjective sound evaluations because it divides finer sound 
+scales. 
+Psychological reactions were considered as one of a stage of the sound perceptions (Schulte- 
+Fortkamp and Fiebig, 2006). Those reactions were gathered via descriptors describing feelings and 
+emotions summarized from the previous studies. Descriptors included sociable, natural, eventful, 
+peaceful, happy, etc. Multiple answers questions were asked. Two repetitions—sociable and 
+eventful—were asked for purposes of double testing. 
+The influencing factors studied were site, age, gender, group size, companion factors, and 
+activity type. The sites were the two public squares where questionnaires were distributed, Guanqian 
+Square, Suzhou, and Peace Garden, Sheffield. The activities asked about in the questionnaire were 
+as follows: keeping children/elderly persons company, meeting friends, participating in sports and 
+other activities for fun, relaxing, enjoying being alone, enjoying nature and passing by. Two 
+categories of companion factors were studied: alone vs. accompanied and relationship intensity. 
+Intensity was measured by Hall's distance measurement (1973), which suggested that people in 
+more intense relationships tend to stay closer. Further, Gehl (1987) summarized four types of social 
+relationships according to distance theory: 1) intimate (zero to 45cm), observed as lovers; 2) 
+personal (46cm to 1.30m), observed as close friends or families; 3) social (1.31m to 3.75m), 
+observed as friends, acquaintances and so on; 4) public (> 3.75m), observed as informal situations 
+among strangers. Therefore, for the purposes of this study, relationship intensity was determined by 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+10 
+distances commonly associated with partner/spouse, family, and friend relationships. People who 
+reported being alone were classified as having no relationship intensity. 
+Data analysis 
+This study aimed to investigate whether and to what extent companion factors, compared with other 
+factors, influence the various aspects of soundscape evaluation. Data of the two sites were analysed 
+together in order to include the site factor. Data from the two sites were verified statistical 
+compatibility from two aspects: one is comparing sound levels and types through the sound test in 
+the pilot study; the other is comparing the distributions of age, gender, group size and companion 
+types through t-test/ Chi-square test. They showed consistency in both aspects, so their data were 
+combined for analysis. The binary regression test, chi-square test, mean differences, and Spearman 
+correlation coefficient were applied according to the different data types. Regression analysis was 
+adopted to verify further which factors were more influential on soundscape evaluations. 
+According to Table 2, independent variables included social/demographic and behavioural 
+factors: age (15–90), gender (male/female), group size (1 people, 2 people, 3 people…), companion 
+factors (alone or accompanied by partner/spouse, friends, or families), activity types (keeping 
+children/elderly persons company, meeting friends, participating in sports and other activities for 
+fun, relaxing, enjoying being alone, enjoying nature, passing by and others) and site (Peace Garden 
+or Guanqian Square). Dependent variables involved four aspects of soundscape evaluations: sound 
+sources, sound features, sound psychological reactions and preferences. All analyses were 
+performed with IBM SPSS Statistics software. 
+Table 2. Variables used in the analysis 
+(1) Categories of independent variables 
+Soundscape 
+Evaluation 
+aspects 
+Details 
+Categorization 
+and 
+scale 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+11 
+Noticed 
+sound 
+sources 
+Wind, birds, water, speaking, footsteps, 
+children, traffic, store music, construction, 
+music, bells sounds 
+1-Noticed, 0- not notice 
+Preferred sound 
+types 
+Nature, city, human, instrumental sounds 
+1-Preferred, 
+0- 
+not 
+preferred 
+Sound features 
+Various kinds of sound mixed together; High 
+level of sound that you cannot hear others’ 
+speaking; Hearing other people’s conversation; 
+High pitch sound (e.g. children’s scream); 
+Eventful sound from festivals or street 
+performances; Hearing unusual sound (e.g. 
+hearing the ambulance) 
+1-Not annoying at all to 
+5-extremely annoying, 5-
+point- scale 
+Soundscape 
+preferences 
+Noisy- quiet; friendly- unfriendly, safe- unsafe, 
+monotonous- various, directional- everywhere, 
+eventful- calm, distinctive- ordinary, social- 
+unsocial, harmony- conflict, offensive- polite, 
+ambiguous- clearly 
+e.g. -3- very noisy to 3- 
+very quiet, 7- point- scale 
+Soundscape 
+psychological 
+reaction 
+Sociable, natural, eventful, peaceful, happy, 
+sweet, relaxing, beautiful, thoughtful, warm, 
+safe 
+1-Preferred, 
+0- 
+not 
+preferred 
+(2) Categories of independent variables 
+Relationship intensity 
+1-partner/spouse; 2-family; 3-friends; 4-alone 
+Companion status 
+1-accompanied; 2-alone 
+Site 
+1-Peace Garden; 2-Guanqian Square 
+Group 
+1, 2, 3… 
+Age 
+15–90 
+Gender 
+1-male; 2-female 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+12 
+Results 
+Soundscape evaluations concerning companion status 
+As shown in Tables 3and 4, companion status had no significant influence on the evaluations of 
+preferred sound types, sound features and psychological reactions. However, it influenced the 
+participants’ capacities for noticing the sounds of speaking at 0.05 level and the sounds of children 
+at 0.01 level. In Table. 5, figures of odd ratio predicted the probability of an event occurring based 
+on a one-unit change in an independent variable when all other independent variables are kept 
+constant. Odd ratio indicates that accompanied people are 1.767 and 2.153 times more likely to 
+notice speaking and children sounds than solo people. Companion status also influenced the sound 
+preferences for 'safe-unsafe' and 'social-unsocial' at 0.05 level and 0.01 level according to Table 4. 
+Comparing the means of solo and accompanied people in terms of 'safe-unsafe' and 'social- unsocial', 
+accompanied people were found to be fonder of safe and social sound than were alone people, with 
+the average figures being -2.18 to -1.78 and -1.56 to -1.09. For ‘social-unsocial’ sound, the means 
+of solo users' scores are significantly lower than those of accompanied participants. 
+Table 3. The significance levels of noticed sounds/preferred sound types/sound psychological 
+reactions in relation to relationship intensity, group size, age, gender, site, and companion status in 
+binary regression analysis. *p <0.05, **p < 0.01. 
+ 
+ 
+Relationship 
+intensity 
+Group 
+size 
+Age 
+Gender 
+Site 
+Companio
+n status 
+Activity 
+type 
+Noticed sounds 
+Wind 
+0.551 
+0.867 
+0.045* 
+0.157 
+0.499 
+0.227 
+0.579 
+Bird 
+0.052 
+0.828 
+0.873 
+0.267 
+0.000** 
+0.218 
+0.023* 
+Water 
+0.051 
+0.673 
+0.331 
+0.350 
+0.000** 
+0.965 
+0.059 
+Speaking 
+0.694 
+0.441 
+0.002** 
+0.526 
+0.332 
+0.031* 
+0.696 
+Footsteps 
+0.776 
+0.312 
+0.431 
+0.764 
+0.972 
+0.562 
+0.388 
+Children 
+0.002** 
+0.690 
+0.743 
+0.330 
+0.001** 
+0.004** 
+0.277 
+Traffic 
+0.564 
+0.140 
+0.150 
+0.020* 
+0.032* 
+0.206 
+0.311 
+Store music 
+0.211 
+0.797 
+0.485 
+0.809 
+0.000** 
+0.442 
+0.506 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+13 
+Construction 
+0.564 
+0.428 
+0.102 
+0.485 
+0.054 
+0.071 
+0.639 
+Music 
+0.768 
+0.539 
+0.377 
+0.322 
+0.028* 
+0.733 
+0.817 
+Bells 
+0.401 
+0.174 
+0.025* 
+0.285 
+0.000** 
+0.883 
+0.543 
+Preferred sound types 
+Natural 
+Sounds 
+0.161 
+0.426 
+0.507 
+0.260 
+0.000** 
+0.890 
+0.455 
+City Sounds 
+0.618 
+0.259 
+0.732 
+0.290 
+0.099 
+0.324 
+0.741 
+Human 
+Sounds 
+0.040* 
+0.586 
+0.522 
+0.405 
+0.050 
+0.058 
+0.256 
+Instrumental 
+Sounds 
+0.899 
+0.279 
+0.241 
+0.468 
+0.000** 
+0.484 
+0.622 
+Sound psychological reactions 
+Sociable 
+0.239 
+0.339 
+0.101 
+0.476 
+0.000** 
+0.190 
+0.891 
+Natural 
+0.689 
+0.932 
+0.970 
+0.256 
+0.093 
+0.185 
+0.733 
+Eventful 
+0.649 
+0.289 
+0.013* 
+0.800 
+0.907 
+0.991 
+0.399 
+Peaceful 
+0.476 
+0.086 
+0.751 
+0.221 
+0.000** 
+0.329 
+0.524 
+Happy 
+0.128 
+0.636 
+0.244 
+0.969 
+0.569 
+0.702 
+0.804 
+Sweet 
+0.799 
+0.319 
+0.281 
+0.910 
+0.000** 
+0.542 
+0.697 
+Relaxing 
+0.670 
+0.592 
+0.011* 
+0.588 
+0.000** 
+0.170 
+0.622 
+Beautiful 
+0.422 
+0.114 
+0.275 
+0.202 
+0.014* 
+0.658 
+0.364 
+Thoughtful 
+0.766 
+0.863 
+0.616 
+0.139 
+0.001** 
+0.399 
+0.178 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+14 
+Warm 
+0.662 
+0.203 
+0.490 
+0.725 
+0.006** 
+0.195 
+0.968 
+Safe 
+0.617 
+0.577 
+0.008** 
+0.448 
+0.408 
+0.899 
+0.911 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+15 
+Table 4. Correlation coefficient of sound features/ sound preferences in relation to relationship intensity, group size and age; mean differences between males 
+and females, Peace Garden and Guanqian Square, solo and accompanied; and chi-square of activity type. *p < 0.05, **p < 0.01 (two- tailed test of statistical 
+significance). 
+ 
+ 
+Relationship 
+intensity 
+Group 
+size 
+Age 
+Gender 
+Site 
+Companion 
+status 
+Activity 
+type 
+Sound features 
+1.Various kinds of sounds mixed 
+0.030 
+0.008 
+0.029 
+1.893 
+-2.091 
+0.158 
+0.130 
+2.Sounds so loud that you cannot hear others speaking 
+0.028 
+0.088 
+-0.082 
+0.823 
+0.363 
+0.102 
+0.488 
+3.Other people’s conversations 
+-0.001 
+-0.061 
+0.074 
+0.231 
+1.772 
+-0.045 
+0.377 
+4.High-pitched sound (e.g. children’s screams) 
+-0.002 
+-0.006 
+-0.188** 
+2.364 
+-1.055 
+0.807 
+0.599 
+5.Eventful sounds from festivals or street performances 
+0.070 
+-0.011 
+0.115* 
+2.552* 
+-5.096** 
+-0.176 
+0.677 
+6.Unusual sounds (e.g. hearing the ambulance) 
+-0.014 
+0.001 
+-0.011 
+0.632 
+-0.154 
+-0.022 
+0.232 
+Sound preferences 
+Noisy-Quiet 
+-0.054 
+-0.033 
+0.184** 
+1.285 
+-4.695 
+0.038 
+0.185 
+Friendly-Unfriendly 
+-0.011 
+-0.059 
+0.027 
+1.333 
+-2.869 
+-0.121 
+0.063 
+Safe-Unsafe 
+0.110 
+-0.121* 
+0.063 
+2.357 
+-2.899** 
+-0.355* 
+0.023* 
+Monotonous-Various 
+-0.050 
+-0.057 
+0.054 
+-1.954 
+0.287 
+0.011 
+0.079 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+16 
+Directional-Everywhere 
+0.063 
+-0.029 
+-0.011 
+0.400 
+1.111 
+-0.231 
+0.804 
+Eventful-Calm 
+0.090 
+-0.106 
+0.135* 
+1.005 
+-2.579 
+-0.431 
+0.532 
+Distinctive-Ordinary 
+0.086 
+-0.070 
+0.102 
+1.036 
+-1.342 
+-0.377 
+0.253 
+Social-Unsocial 
+0.113* 
+-0.167** 
+0.128* 
+1.530 
+-2.159 
+-0.499** 
+0.285 
+Harmonious-Conflicting 
+-0.008 
+-0.098 
+-0.011 
+1.186 
+2.184* 
+-0.195 
+0.320 
+Offensive-Polite 
+-0.042 
+0.017 
+0.012 
+-1.687 
+0.125 
+-0.032 
+0.533 
+Ambiguous-Clear 
+0.011 
+0.012 
+0.031 
+1.063 
+-5.152 
+-0.170 
+0.858 
+ 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+17 
+Table 5. Binary regression between noticing speaking sound/ children sound and companion status 
+ 
+Noticing speaking sound 
+Noticing children sound 
+ 
+Regression 
+coefficient 
+(B) 
+Significanc
+e level (P) 
+Odd Ratio 
+(95% CI) 
+Regression 
+coefficient 
+(B) 
+Significanc
+e level (P) 
+Odd Ratio 
+(95% CI) 
+Companion 
+status (alone vs 
+accompanied) 
+0.570 
+0.031 
+1.767 
+0.767 
+0.004 
+2.153 
+Constant 
+0.124 
+0.579 
+1.132 
+-0.173 
+0.437 
+0.841 
+ 
+In summary, whether people have companions influences their evaluations of socially 
+interactive sounds. Speaking and children sounds both occur during social interactions and represent 
+sociability. Accompanied people were found to prefer socially interactive sounds, while solo users 
+had less preferences for those sounds. It was surprising to discover that accompanied people desired 
+safer soundscapes than did people who were alone. It may be because people who are more 
+concerned about safety would not travel to a given location alone. Moreover, it is possible some 
+people are not worried about their own safety, but they are worried about their vulnerable 
+companions, like the elderly and children. 
+ 
+Soundscape evaluations concerning relationship intensity 
+In the previous section, companion factors were analysed. To further clarify the influences from 
+companion types, companions were ranked in descending order of relationship intensity: 
+partner/spouse, family, friends, and solo. According to Table 3., it was found that relationship 
+intensity significantly influences whether people notice children’s sounds at 0.01 level; relationship 
+intensity influenced preferences for human sounds at 0.05 level. Odd ratio in Table 6 identified how 
+and to what extent social relationship intensity influences the two aspects. It showed the predicted 
+probability of different relationship groups noticing children’s sounds/preferring human sounds. 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+18 
+Solo people are defined as the last group and have a value of 1.000, and each of the other groups’ 
+values were multiple times higher. As intimacy increased, more people tended to hear children’s 
+sounds and prefer human sounds. Moreover, noticing children’s sounds decreased more rapidly, and 
+couples paid more attention to children’s sounds than did other relationship types. According to the 
+correlation coefficient in Table 4, relationship intensity had no significant influence on six sound 
+features; it did, however, influence the preferences for ‘social-unsocial’ sound at 0.05 level. The 
+positive correlation coefficient (0.113) suggested that with an increase in social relationship 
+intensity, people tended to prefer social sounds. 
+Table 6. Binary regression analysis between social relationship intensity and noticing children’s 
+sounds, preferring human sounds and preferring sociable soundscape descriptors. 
+ 
+Corresponding to the companion status, social relationship intensity also related to socially 
+interactive sounds. People involved in closer social relationships were more likely to prefer sounds 
+related to human and sociable sounds. In other words, in addition to the companion status, 
+relationship intensity also influenced evaluations of socially interactive sounds. In this study, social 
+relationship intensity was measured by the physical distances among group members. People in 
+closer relationships tend to stay closer and engage in more intimate behaviours, like touching, 
+hugging and even kissing. They also have longer conversations and social interactions with each 
+other. 
+ 
+Odd Ratio (95% CI) 
+Noticing children sound 
+Preferring human sounds 
+Partner/spouse 
+4.400 
+2.845 
+Family 
+2.588 
+2.265 
+Friends 
+1.841 
+1.236 
+Alone 
+1.000 
+1.000 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+19 
+Comparing companion factors with other demographic factors 
+Other independent variables analysed in Tables 3 and 4 included age, gender, group size, activity 
+type, and site factor. These factors were also found to affect many aspects of soundscape evaluations. 
+According to Tables 3 and 4, the site factor influenced a majority of aspects of the sound evaluations, 
+especially in regard to noticing sounds and sound preferences. It indicated that varied sound sources 
+at the two sites significantly influenced soundscape evaluations. Like companion factors, site factor 
+also influenced people noticing children’s sounds at 0.01 level. To rule out the influence from the 
+site factor, data were split between two sites, and it was found that relationship intensity and 
+companion status still influenced noticing of children’s sounds in Peace Garden at 0.05 level and 
+0.01 level, respectively. While no significant influence was observed in Guanqian Square. 
+Both companion status and age were found to influence whether people noticed speaking 
+sounds at 0.01 level. When putting both factors into a binary regression analysis (Table 7), it was 
+revealed that age still affected noticing of speaking sounds at 0.01 level, while companion status 
+turned out to have no significant effect. The negative coefficient figure (-0.025) implied that the 
+number of people noticing speaking sounds decreased with age. The Odd Ratio predicted that the 
+probability of noticing speaking sounds was 0.975 times less for each additional unit of age. This 
+implies that age had a more significant effect on noticing speaking sounds and that older people 
+were more unconcerned about others speaking. 
+Another indicator to be noted was the preferences for ‘social-unsocial’ sound. According to 
+Table 4, the ‘social-unsocial’ sound was influenced by both group size and companion status at 0.01 
+level and relationship intensity and age at 0.05 level. Using linear regression and stepwise method 
+to analyse these factors, it was found that companion status was the only influential factor at 0.05 
+level, as shown in Table 8. The model summary suggested the independent variables could explain 
+2.7% of the total variation in the dependent variable social sound. It indicated there may have been 
+other influential factors that were not accounted for in this research. The sig. column of the ANOVA 
+table indicated the regression model significantly predicted the outcome variable at 0.05 level. 
+Figures of collinearity statistics in the coefficients table suggested there was no multicollinearity 
+between the independent variables. Also, the normality and homogeneity of data were verified by 
+Kolmogorov-Smirnov test and Levene’s test, respectively. The significance value of Kolmogorov-
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+20 
+Smirnov test is 0.331, greater than 0.05, which indicates the data is normal. The significance value 
+of Levene’s test= 0.066> 0.05, which approves the homogeneity assumption. 
+In short, preferring ‘social-unsocial’ sound was mainly influenced by companion status, and 
+accompanied people tended to prefer social sounds than did solo people. At the same time, this 
+factor has relatively little explanatory power. Although the low R square indicates a limited 
+explanatory power, it is acceptable in a social science context. R square is adopted in various 
+research disciplines, there is no standard guideline to determine the level of predictive acceptance 
+(Henseler et al., 2009). R square lower than 10% is generally accepted for studies in the field of arts, 
+humanities and social sciences because human behaviour cannot be accurately predicted. The low 
+R square indicates that the dependent variables may be affected by other factors in addition to the 
+ones considered in the analysis. It is more important to emphasize the intention of establishing a 
+particular causal relationship, not to prepare a full list of the various causes of a phenomenon 
+(Moksony, 1990). 
+According to Table.4, it was found that four influential factors (companion status, site, activity 
+type, group size) all influenced the preferences for ‘safe-unsafe’ sound. Companion status, group 
+size and activity type influenced at 0.05 level, while site influenced at 0.01 level. Companion status, 
+group size and activity type all lacked significant influence when data were split by site. People in 
+Peace Garden preferred a safe soundscape with means of 2.52 compared to 2.28 in Guanqian Square. 
+It may indicate that users in Peace Garden were more concerned about the safety issue and had a 
+higher demand for safety. Alternatively, there were some negative sounds heard in Peace Garden 
+that triggered unsafe feeling, which led to people demanding safety. 
+Comparing companion factors with the other factors, companion status and relationship 
+intensity affected the noticing of children’s sounds only in Peace Garden with the site factor 
+controlled. Companion status more significantly influenced preferring ‘social-unsocial’ sound than 
+did other factors. Age more significantly influenced the noticing of speaking sounds than did 
+companion status. Moreover, the site significantly influences the ‘safe-unsafe’ sound; with this 
+factor controlled, other factors were found to have no significant influence. 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+21 
+Table 7. Binary regression analysis of age and companion status concerning noticing speaking 
+sounds. *p < 0.05, **p < 0.01. 
+ 
+Regression coefficient 
+(B) 
+Significance level (P) 
+Odd Ratio (95% CI) 
+Age 
+-0.025 
+0.004 
+0.975 
+Companion status 
+-0.397 
+0.148 
+0.673 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+22 
+Table 8. Linear regression analysis among social-unsocial sound and relationship intensity, group size, age, and companion status. *p < 0.05, **p < 0.01. 
+(1) Model summary 
+Model 
+R 
+R Square 
+Adjusted R Square 
+Std. Error of the Estimate 
+Durbin-Watson 
+1 
+0.165a 
+0.027 
+0.024 
+1.261 
+1.937 
+(2) ANOVA table 
+Model 
+ 
+Sum of Squares 
+df 
+Mean Square 
+F 
+Sig. 
+1 
+Regression 
+14.517 
+1 
+14.517 
+9.133 
+0.003b 
+ 
+Residual 
+475.237 
+299 
+1.589 
+ 
+ 
+ 
+Total 
+489.754 
+300 
+ 
+ 
+ 
+(3) Coefficients table 
+Model 
+ 
+Unstandardized 
+Coefficients 
+Standardized Coefficients 
+t 
+Sig. 
+Collinearity Statistics 
+B 
+Std. Error 
+Beta 
+Tolerance 
+VIF 
+1 
+(Constant) 
+-2.049 
+0.224 
+ 
+-9.139 
+0.000 
+ 
+ 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+23 
+ 
+Companion status 
+0.477 
+0.165 
+0.165 
+2.895 
+0.004 
+1.000 
+1.000 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+24 
+Discussion 
+Social interactions and socially interactive sounds 
+‘Based on the results of the analysis, it was found that companion factors affect the evaluation of 
+noticing human sounds and preferring ‘social-unsocial’ sound. The relationship between the human 
+sounds and ‘social-unsocial’ sounds is that human sounds are the outcomes of social interactions, 
+and social feeling is made up of human sounds, especially from activities. Two points require further 
+discussion: one is that it should be considered how would human sounds make up the social sound 
+feelings; the other is to consider why companions contribute to the preferences for socially 
+interactive sounds. 
+First, in urban public space studies, researchers have mentioned that people not only value their 
+activities but also look forward to and enjoy hearing and seeing strangers (Whyte, 1980). Seeing 
+and hearing others are the biggest attraction that brings people into urban public spaces. Also, seeing 
+and hearing others is believed to be the primary stage for social interactions and generates more 
+social interactions, such as talking with strangers (Gehl, 1987). In other words, hearing human 
+sounds, especially sounds from others’ activities, can cause the social feeling, and a social 
+soundscape may stimulate more social interactions. 
+Second, people with companions prefer social soundscapes, whereas single users prefer them 
+less. This corresponds to Bild et al.’s (2018) research, which found that a larger proportion of 
+accompanied respondents expected the presence of others when considering using public spaces, 
+whereas solitary respondents did not. Accompanied people expected high levels of interaction and 
+dynamism from others’ activities. The different requirements for sociability were also reflected in 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+25 
+the ways the spaces were occupied. ‘Edge effect’ was used by Whyte (1980) to summarize that 
+people tend to prefer staying in peripheral areas and edge places, like columns and gates. Between 
+solo and accompanied people, solo users tended to stay in the edge places (Cao and Kang, 2019). It 
+was pointed out that staying in edge places can reduce the possibilities of exposure to others’ 
+activities and provide more privacy and protection (De Jonge, 1967). In other words, solitary users 
+may require more protection and privacy, which results in their occupancies of the edges as well as 
+their lower preferences for socially interactive soundscapes. 
+The square, as a centre of public activities, has often been considered by researchers to 
+stimulate social interactions among strangers. Researchers have often suggested adding designs to 
+the square that promote social interactions. Based on results from this study, human activity sound 
+can positively increase people’s social feelings. However, it is also necessary to keep in mind the 
+needs of individual users who have lower social willingness. Maybe proper soundscape design, as 
+well as architecture design, are required to both increase comfort and privacy for solitary users and 
+sociability level for accompanied people. 
+Site factors in the soundscape evaluations 
+In this study, the site factor was found to affect most aspects of soundscape evaluations, which 
+reflected the considerable interference that site brings to the experiment. Firstly, the site factor has 
+a radical effect on sound sources compared with other factors because site determines what people 
+can hear. The site factor affected seven of the 11 sound sources options, which indicated the varied 
+sound sources between the two sites. Although both located in the city centre, the water sound in 
+Peace Garden was the featured sound that screened many negative sounds. Guanqian Square, on the 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+26 
+other hand, is located in the old town district with high-density roads and a few old trees that provide 
+a weak sound barrier. People can hear many typical city sounds, especially the sounds of commercial 
+promotions. Secondly, the different cultures at the two sites may significantly influence soundscape 
+preferences. Seven of 11 descriptors were preferred differently between the two sites, which 
+suggests a varied judgement system. The reason why the influences of site factor on this aspect were 
+considered as the cultural differences is that those descriptors focus on a more emotional level of 
+judgement. For the sound sources and features, people usually shared common opinions in 
+preferring positive types. Preferences, cultural background, past experiences and personal 
+differences lead people to have different judgements (Yang and Kang, 2005). While, because the 
+main focus of this study was whether and how companion factors influence soundscape evaluations. 
+Whether and how the site factor gives influences may require further studies in the future. 
+Many previous studies have investigated and recognized venue factors’ influences on 
+soundscape evaluations. Similarly, this study’s results also confirmed the influences of the site factor 
+on multiple aspects of soundscape evaluations. However, the impact of companion factors on 
+socially interactive sounds was not affected by the site factor. This suggests that companion factors 
+also need further investigation in addition to the site factor. 
+ 
+Conclusion 
+This study focused on if and how companion factors, in comparison to other factors, influence 
+people's soundscape evaluations. This research took place in two popular public spaces in Sheffield, 
+UK, and Suzhou, China, with a questionnaire and statistical analysis. Two categories of companion 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+27 
+factors were used: companion status (solo/accompanied) and relationship intensity (partner/spouse, 
+family, friends and alone). Both companion factors were found to influence socially interactive 
+sounds, which consist of human sounds. Accompanied people were more likely to notice speaking 
+and children’s sounds and prefer safe and social sound. People with closer relationship intensities 
+also noticed children’s sounds more and preferred social sound. And relationship intensity 
+influenced the preferences for human sound type positively. Other factors, however, interfered with 
+the influences from companion factors. Companion status and relationship intensity affected 
+noticing children’s sounds only in Peace Garden. Site and age factor turned out to have greater 
+influences than other factors on preferring ‘safe-unsafe’ and noticing speaking sounds, respectively. 
+Companion status had the most significant influence on the preferences for social sound. Results 
+from this study stress the relationship between human sounds and social sound. Human sounds, 
+especially sounds from others’ activities, can contribute to the social soundscape and stimulate more 
+interactions among accompanied users, while solo people tend to have lower social willingness and 
+prefer more privacy and quietness. Besides companion factors, the large influence from the site 
+factor suggested the sound sources and cultures of the two sites significantly influenced the results 
+of soundscape evaluations. 
+This study highlights the soundscape preferences of both accompanied and solitary people, 
+providing new entry points for future public square soundscape design and even architectural design. 
+A more inclusive soundscape design for urban public spaces is required to promote social 
+interactions and, at the same time, provide quiet and private places for people who only want to 
+watch others from a distance. This study includes the cross-nation sites as one of the influential 
+factors, which adds to the richness of the sound types. It also introduces the significant differences 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+28 
+brought by site factor. Various factors influence soundscape evaluations, and more factors need to 
+be studied to discern the extent of companion factors’ influence. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial interests or personal relationships 
+that could have appeared to influence the work reported in this paper. 
+Acknowledgement 
+The authors are indebted to the participants for their patience, the support from the joint program 
+between the Chinese Academy of Sci- ences and the University of Sheffield, and from the ERC 
+Advanced Grant (no. 740696) on “Soundscape Indices” (SSID). 
+ References: 
+Aletta, F., & Kang, J. (2016). Descriptors and indicators for soundscape design: Vibrancy as an 
+example. Proceedings of the INTER-NOISE 2016 - 45th International Congress and 
+Exposition on Noise Control Engineering: Towards a Quieter Future, 2908–2913. 
+Aletta, F., Kang, J., & Axelsson, Ö. (2016). Landscape and Urban Planning Soundscape descriptors 
+and a conceptual framework for developing predictive soundscape models. Landscape and 
+Urban Planning, 149, 65–74. https://doi.org/10.1016/j.landurbplan.2016.02.001 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+29 
+Aletta, F., Kang, J., Astolfi, A., & Fuda, S. (2016). Differences in soundscape appreciation of 
+walking sounds from different footpath materials in urban parks. Sustainable Cities and Society, 
+27, 367–376. https://doi.org/10.1016/j.scs.2016.03.002 
+Alves, S., Estévez-mauriz, L., Aletta, F., & Echevarria-sanchez, G. M. (2015). Towards the 
+integration of urban sound planning in urban development processes: the study of four test sites 
+within the SONORUS project, (January 2016). https://doi.org/10.1515/noise-2015-0005 
+Axelsson, Ö. (2015). How to Measure Soundscape Quality. Euronoise 2015, 1477–1481. Retrieved 
+from http://www.conforg.fr/euronoise2015/proceedings/data/articles/000067.pdf 
+Axelsson, Ö., Nilsson, M., & Berglund, B. (2010). A principal components model of soundscape 
+perception. Journal of the Acoustical Society of America, 128(5), 2836-2846. 
+Badino, E., Manca, R., Shtrepi, L., Calleri, C., & Astolfi, A. (2019). Effect of façade shape and 
+acoustic cladding on reduction of leisure noise levels in a street canyon. Building and 
+Environment, 157(December 2018), 242–256. https://doi.org/10.1016/j.buildenv.2019.04.039 
+Berglund, Eriksen & Nilsson (2001). Exploring perceptual content in soundscapes. In: Sommerfeld, 
+Kompass & Lachmann (Red.), Fechner Day (s. 279-284). Lengerich, Germany: Pabst Science 
+Publishers 
+Bild, E., Coler, M., Pfeffer, K., & Bertolini, L. (2016). Considering Sound in Planning and 
+Designing Public Spaces: A Review of Theory and Applications and a Proposed Framework 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+30 
+for Integrating Research and Practice. Journal of Planning Literature, 31(4), 419–434. 
+https://doi.org/10.1177/0885412216662001 
+Bild, E., Pfeffer, K., Coler, M., Rubin, O., Bertolini, L., & Bruce, N. (2018). Public Space Users’ 
+Soundscape Evaluations in Relation to Their Activities. An Amsterdam-Based Study, 
+9(August), 1–16. https://doi.org/10.3389/fpsyg.2018.01593 
+Bohme, G. 2000. ‘‘Acoustic Atmospheres. A Contribution to the Study of Ecological Aesthetics.’’ 
+Soundscape: The Journal of Acoustic Ecology 1 (1): 14–18. 
+Brown, A. L., Kang, J., & Gjestland, T. (2011). Towards standardization in soundscape preference 
+assessment. 
+Applied 
+Acoustics, 
+72(6), 
+387–392. 
+https://doi.org/10.1016/j.apacoust.2011.01.001 
+Brown, Lex (2010). Soundscapes and environmental noise management, Noise control Engineering 
+Journal. 2010, 58(5), 493–500. 
+Cain, R., Jennings, P., & Poxon, J. (2013). The development and application of the emotional 
+dimensions 
+of 
+a 
+soundscape. 
+Applied 
+Acoustics, 
+74(2), 
+232–239. 
+https://doi.org/10.1016/j.apacoust.2011.11.006 
+Calleri, C., Astolfi, A., Armando, A., & Shtrepi, L. (2016). On the ability to correlate perceived 
+sound to urban space geometries. Sustainable Cities and Society, 27, 346–355. 
+https://doi.org/10.1016/j.scs.2016.05.016 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+31 
+Cao, J., & Kang, J. (2019). Social relationships and patterns of use in urban public spaces in China 
+and the United Kingdom. Cities, 93, 188-196. 
+Chan, S. Y., & Chau, C. K. (2021). On the study of the effects of microclimate and park and 
+surrounding building configuration on thermal comfort in urban parks. Sustainable Cities and 
+Society, 64(August 2020), 102512. https://doi.org/10.1016/j.scs.2020.102512 
+Davies, W. J., Adams, M. D., Bruce, N. S., Cain, R., Carlyle, A., Cusack, P., … Poxon, J. (2013). 
+Perception of soundscapes: An interdisciplinary approach. Applied Acoustics, 74(2), 224–231. 
+https://doi.org/10.1016/j.apacoust.2012.05.010 
+Echevarria Sanchez, G.M. Van Renterghem, T. & Botteldooren, D. (2016), The influence of urban 
+canyon design on noise reduction for people living next to roads, Building and Environment, 
+97, 96-110. 
+Ferenc Moksony (1990). Small is beautiful. The use and interpretation of R2 in social research. 
+Szociológiai Szemle, Special issue. 130-138. 
+Fields J.M., de Jong R.G., Gjestland T., Flindell I.H., Job R.F.S., Kurra S., … Felscher-Suhr U., 
+Standardised general-purpose noise reaction questions for community noise surveys: Research 
+and a recommendation, Journal of Sound and Vibration 2001 
+ Gehl, J. (1987). Life between buildings: Using public space. Washington, DC: Island Press. 
+Hall, E. (1973). The Hidden Dimension. Leonardo, 6(1), 94. 
+Henseler, J., Ringle, C., and Sinkovics, R. (2009). The use of partial least squares path modeling in 
+international marketing. Advances in International Marketing (AIM), 20, 277-320 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+32 
+ISO (International Organization for Standardization) (2014). Acoustics — Soundscape — Part 1: 
+Definition and Conceptual Framework. ISO/FDIS 12913-1:2014. Geneva: International 
+Organization for Standardization 
+ISO/DIS 12913-2: Acoustics-Soundscape-Part 2: Data Collection and Reporting Requirements 
+(International Standard Organization, Geneva, Switzerland, 2017). 
+Jenks, M. (2008). Dimensions of the sustainable city（pp. 1-5）. Springer. 
+De Jonge, Derk. 1967. "Applied Hodology". Landscape. 17 (2): 10-11. 
+Kang, J., & Yang, W. (2016). Soundscape and Sound Preferences in Urban Squares: A Case Study 
+in Sheffield Soundscape and Sound Preferences in Urban Squares: A Case Study in Sheffield, 
+(February 2005). https://doi.org/10.1080/13574800500062395 
+Kang, J., & Zhang, M. (2010). Semantic differential analysis of the soundscape in urban open public 
+spaces. 
+Building 
+and 
+Environment, 
+45(1), 
+150–157. 
+https://doi.org/10.1016/j.buildenv.2009.05.014 
+Kang, J., Aletta, F., Gjestland, T. T., Brown, L. A., Botteldooren, D., Schulte-Fortkamp, B., Lavia, 
+L. (2016). Ten questions on the soundscapes of the built environment. Building and 
+Environment, 108(October 2017), 284–294. https://doi.org/10.1016/j.buildenv.2016.08.011 
+Leon, 
+D. 
+A. 
+(2008). 
+Cities, 
+urbanization 
+and 
+health, 
+(January), 
+4–8. 
+https://doi.org/10.1093/ije/dym271 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+33 
+Mental 
+Health 
+Foundation 
+| 
+The 
+Lonely 
+Society? 
+(2010). 
+Retrieved 
+from 
+https://www.mentalhealth.org.uk/sites/default/files/the_lonely_society_report.pdf 
+Nunnally, J. C. (1978). Psychometric theory (2nd ed.). New York: McGraw-Hill. 
+Payne, S. R. (2013). The production of a perceived restorativeness soundscape scale. Applied 
+Acoustics, 74(2), 255–263. https://doi.org/10.1016/j.apacoust.2011.11.005 
+Preis A. Environmental approach to noise. In Schick A, Klatte M. Contributions to Psychological 
+Acoustics. Results of the 7th Oldenburg symposium on psychological acoustics. Oldenburg: 
+BIS Verlag; 1997. 
+Rådsten-Ekman, M., Axelsson, Ö., & Nilsson, M. E. (2013). Effects of sounds from water on 
+perception of acoustic environments dominated by road-traffic noise. Acta Acustica united with 
+Acustica, 99(2), 218–225 
+Schafer, R. M. (1977). The tuning of the world. New York, NY: Knopf. 
+Staats, H., & Hartig, T. (2004). Alone or with a friend: A social context for psychological restoration 
+and environmental preferences. Journal of Environmental Psychology, 24(2), 199–211. 
+https://doi.org/10.1016/j.jenvp.2003.12.005 
+Truax, B. (1999). Handbook for Acoustic Ecology, second ed. World Soundscape Project, Simon 
+Fraser University, and ARC Publications. 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+34 
+United Nations Department of Economic and social affairs. (2018). 2018 revision of world 
+urbanization 
+prospects. 
+Retrieved 
+from 
+https://www.un.org/development/desa/publi 
+cations/2018-revision-of-world-urbanization-prospects.html. 
+Ursachi, G., Horodnic, I. A., & Zait, A. (2015). How reliable are measurement scales? External 
+factors with indirect influence on reliability estimators. Procedia Economics and Finance, 
+20(15), 679–686. https://doi.org/10.1016/S2212-5671(15)00123-9 
+Van Kempen, E., Devilee, J., Swart, W., & Van Kamp, I. (2014). Characterizing urban areas with 
+good sound quality: Development of a research protocol. Noise and Health, 16(73), 380–387. 
+https://doi.org/10.4103/1463-1741.144416 
+WHO 
+| 
+Urbanization 
+and 
+health. 
+(201020). 
+Retrieved 
+from 
+https://www.who.int/bulletin/volumes/88/4/10-010410/en/ 
+Whyte, W.H., 1980. The Social Life of Small Urban Spaces. Conservation Foundation, Washington, 
+DC. 
+Yang, W. & Kang, J. (2003) A cross-cultural study of soundscape in urban open public spaces, 
+Proceeding of Tenth International Congress on Sound and Vibration (Stockholm). 
+Yang, W., & Kang, J. (2005). Acoustic comfort evaluation in urban open public spaces. Applied 
+Acoustics, 66(2), 211–229. https://doi.org/10.1016/j.apacoust.2004.07.011 
+Yu, C. (2008). Environmentally sustainable acoustics in urban residential areas (pp. 8-39). 
+Sheffield: University of Sheffield. 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+35 
+Yu, L., & Kang, J. (2008). Effects of social, demographical and behavioral factors on the sound 
+level evaluation in urban open spaces. The Journal of the Acoustical Society of America, 123(2), 
+772–783. https://doi.org/10.1121/1.2821955 
+Yu, L., & Kang, J. (2010). Factors influencing the sound preference in urban open spaces. Applied 
+Acoustics, 71(7), 622–633. https://doi.org/10.1016/j.apacoust.2010.02.005 
+Zhang, M., & Kang, J. (2007). Towards the evaluation, description, and creation of soundscapes in 
+urban open spaces. Environment and Planning B: Planning and Design, 34(1), 68–86. 
+https://doi.org/10.1068/b31162 
+Zhang, Y., Kang, J. and Kang, J. orcid.org/0000-0001-8995-5636 (2017) Effects of Soundscape on 
+the Environmental Restoration in Urban Natural Environments. Noise and Health, 19 (87). pp. 
+65-72. ISSN 1463-1741. https://doi.org/10.4103/nah.NAH_73_16 
+Zwicker, E.; Fastl H. 1999. Psychoacoustics: facts and models (2nd ed.). Berlin, New York: Springer. 
+Appendix 
+Urban Environment Evaluation 
+1. Who are you here with? 
+oPartner/Spouse 
+oFamily 
+oFriends 
+oAlone 
+oOthers: ________ 
+ 
+ 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+36 
+2. What sounds do you hear in public spaces? (Multi-choice) 
+oWind 
+oBirds 
+oWater 
+oSpeaking 
+oFootsteps 
+oChildren 
+oTraffic 
+oStore music 
+oConstructions 
+oMusic 
+oBells 
+oOthers:__________ 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+37 
+3. What sounds do you prefer in public spaces? (Multi-choice) 
+oNature sounds (birds, water, etc.) 
+oCity sounds (store music, traffic, etc.) 
+oHuman sounds (speaking, footsteps, etc.) 
+oInstrumental sounds (music, bells, etc.) 
+ 
+4. What is the main reason for you to visit this place? (Multi-choice) 
+oGive company to children/elderly 
+oMeeting friends 
+oSports or other activities 
+oRelaxing 
+oEnjoy loneliness 
+oFor the nature 
+oThis place is on my route (e.g. on my way to 
+work or home) 
+oOther: ___________________ 
+ 
+5. How do you feel about different sounds in public spaces? 
+Sound features 
+Rate (1) not annoying at all to (5) extremely annoying 
+Various kinds of sound mixed together 
+1 
+2 
+3 
+4 
+5 
+High level of sound that you cannot hear 
+others’ speaking 
+1 
+2 
+3 
+4 
+5 
+Hearing other people’s conversation 
+1 
+2 
+3 
+4 
+5 
+High pitch sound (e.g. children’s scream) 
+1 
+2 
+3 
+4 
+5 
+Eventful sound from festivals or street 
+performances 
+1 
+2 
+3 
+4 
+5 
+Hearing unusual sound (e.g. hearing the 
+ambulance) 
+1 
+2 
+3 
+4 
+5 
+ 
+6. What is your preferred sound environment in public spaces? 
+ 
+Very 
+Fairly 
+Little 
+Neutral 
+Little 
+Fairly 
+Very 
+ 
+1Noisy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quiet 
+Friendly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unfriendly 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+38 
+Safe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unsafe 
+Monotonous 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Various 
+Directional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Everywhere 
+Eventful 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Calm 
+Distinctive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ordinary 
+Social 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Unsocial 
+Harmony 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conflict 
+Offensive 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Polite 
+Ambiguous 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clearly 
+ 
+7. What phrases best describe your preferred soundscape? (Multi-choice) 
+oSociable 
+oNatural 
+oEventful 
+oPeaceful 
+oHappy 
+oSweet 
+oRelaxing 
+oBeautiful 
+oThoughtful 
+oWarm 
+oSafe 
+ 
+ 
+Gender: _________ Age: _________ 
+ 
+ 
+广场环境评价问卷 
+您好！我是英国谢菲尔德大学的学生，在进行城市广场的声喜好调查，本调查将用于本人的
+博士论文的一部分， 无任何经济利益，衷心希望得到您的配合，谢谢！ 
+ 
+1. 今天您是和谁一起来的？ 
+o伴侣 
+o家人 
+o朋友 
+o独自 
+o其他: ________ 
+ 
+ 
+2. 您在这里听到哪些声音？（多选） 
+o风声 
+o鸟叫 
+o水声 
+o说话声 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+39 
+o脚步声 
+o孩子玩耍声 
+o交通 
+o店铺音乐 
+o施工 
+o音乐 
+o报时 
+o其他:__________ 
+ 
+3. 您在广场里喜欢听到什么类型的声音？（多选） 
+o大自然的声音 （如鸟叫，昆虫声等） 
+o城市的声音（如流行乐，交通等） 
+o人群的声音（如说话声，脚步声） 
+o乐器的声音（如音乐表演，钟声等） 
+ 
+ 
+4. 您来这里的主要原因是什么？（多选） 
+o陪小孩或老人 
+o会朋友 
+o运动健身或其他活动 
+o休息放松 
+o一个人静静 
+o感受自然的气息 
+o这个地方正好顺路路过 
+o其他: ___________________ 
+ 
+5. 对以下发生在广场里的不同情况的声音做出您的评价： 
+声音类型 
+评价级别从（1）不恼人到（5）非常恼人 
+不同的声音交织在一起 
+1 
+2 
+3 
+4 
+5 
+太响的环境音导致听不到同伴说话 
+1 
+2 
+3 
+4 
+5 
+听到旁边人的谈话内容 
+1 
+2 
+3 
+4 
+5 
+高音调的声音（如孩子的尖叫声） 
+1 
+2 
+3 
+4 
+5 
+周围搞活动传来的热闹的声音 
+1 
+2 
+3 
+4 
+5 
+听到不寻常的声音（如救护车的声音） 
+1 
+2 
+3 
+4 
+5 
+ 
+6. 选择您偏爱的声音种类（在两个对应的类型中间选择您的偏向） 
+ 
+非常 
+有点 
+一般 
+适中 
+一般 
+有点 
+非常 
+ 
+吵闹 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+安静 
+
+Jingwen Cao& Jian Kang: Sustainable Cities and Society [https://doi.org/10.1016/j.scs.2021.102860] 
+Sustainable Cities and Society, Volume 69, June 2021, 102860 
+40 
+友好的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+不友好的 
+安全 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+不安全的 
+单一的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+多样的 
+定向的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+分散的 
+热闹的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+平静的 
+特别的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+普通的 
+社交的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+冷漠的 
+和谐的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+冲突的 
+冒犯的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+礼貌的 
+模糊的 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+清晰的 
+ 
+7. 以下哪个词语可以最好形容你喜爱的声环境？（多选） 
+o社交的 
+o自然的 
+o热闹的 
+o安详的 
+o快乐的 
+o温馨的 
+o休闲的 
+o优美的 
+o深邃的 
+o温暖的 
+o安全的 
+o其他:_________ 
+ 
+性别: _________ 年龄: _________

@@ -1,0 +1,4 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+90,quantitative non-randomised,Y,Y,N,Y,Y,Y,Y,4,high,완전 전문 확인 결과 Exp2는 성별 균형 배정의 비무작위 집단대비이고 이탈 9명·템포 배정 교란 재분석이 본문에 명시됨. 1차의 3.3 CT와 3.4 N은 절단 인공물
+184,quantitative descriptive,Y,Y,Y,N,Y,CT,Y,3,moderate,개입·노출 배정 없는 단일 횡단 설문이라 범주를 4번대로 정정(1차 3.5=N은 범주 부적합의 산물). 표집틀·응답률·응답자 인구학 구성이 전문 어디에도 없음
+137,quantitative descriptive,Y,Y,Y,N,Y,N,N,2,low,음압 실측과 설문이 모두 정량이고 민족지 관찰은 분석법·통합 절차가 없어 mixed 아님(1차 범주 정정). 다중응답을 독립 사례로 세어 n을 144-232로 부풀린 검정이 결정적

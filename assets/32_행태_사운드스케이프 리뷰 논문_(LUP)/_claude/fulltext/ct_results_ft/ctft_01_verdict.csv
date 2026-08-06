@@ -1,0 +1,7 @@
+rec,verdict,reason_code,rationale,boundary_rule
+1,FINAL_INCLUDE,,§2.3·3.1에서 사진 그리드로 군중밀도(persons/m²)를 실측해 LAeq·음원 가청도·음향쾌적성을 분석 — 행태→음환경 역방향 구조 충족,
+7,FINAL_INCLUDE,,§2.2·3.2에서 자기보고 체류시간 4구간을 독립변수로 35개 사운드스케이프 지각을 GLM 분석 — 체류 행태→음환경 평가 역방향,
+21,FINAL_EXCLUDE,X4,Soundscape Survey절 질문지는 음 인지·선호·선호 이완음환경만 측정; '광장 선택' 주장은 두 광장 이용자 선호차 추론일 뿐 방문·체류 미측정,P2
+25,FINAL_INCLUDE,,Experiment 2는 주거지 가로에서 잔디깎기 87 vs 50 dB(C)를 조작하고 은닉 관찰자가 책 줍기 원조행동을 기록 — 옥외 현장실험·관찰 행태,
+80,FINAL_EXCLUDE,X4,§2.5(3)·3.3 아웃컴은 옥외활동 '방해 정도' 자기보고 평정(짜증 계열)이며 중정 이용·체류량 미측정; courtyard utilization은 벤치·놀이터 유무라는 시설 속성,
+90,FINAL_INCLUDE,,Exp1·2 모두 허리 착용 비디오로 1.8 km 루트 16구간 보행속도(m/s)를 실측하고 헤드폰 음악 템포·동기부여성을 조작 — 옥외 현장실험,

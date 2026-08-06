@@ -1,0 +1,26 @@
+no,item,item_no,verdict,rationale
+166,Representative target population,3.1,N,"Study 1·2·3 모두 심리학 수강 학부생 105·72·79명, 19~28세 단일 대학·단일 도시 편의표본(2.1.1, 3.1.1, 4.1.1)"
+166,Appropriate measurements,3.2,N,"보행속도는 웨어러블 영상+ELAN 프레임 주석으로 정밀(2.1.3)하나 음환경 노출은 5점 단일문항(항목 8 소음 지각)뿐, dB 실측 전무(Table 2)"
+166,Complete outcome data,3.3,Y,"11구간 전원 평균속도를 Table 1·4에 제시, 탈락·결측 언급 없고 원자료를 Supplementary Table S1로 공개(2.1.3, 3.1.2)"
+166,Confounders accounted for,3.4,Y,"보행방향을 무작위 배정해 피험자간 요인으로 ANOVA 투입(2.1.4, 2.2), 건축 특이요소 없는 평탄 노면 경로 선정, Study 3에서 다른 계절 재현(4.2)"
+166,Exposure occurred as intended,3.5,N,"보행 중 음환경 미측정; 지각 소음은 2013-05-02 별도 집단이 별도 평정(3.1.3), Study 3(2016)은 환경 재평정 자체가 없음(4.1.3)"
+175,Relevant sampling strategy,4.1,Y,"TCD 등록 학부생 12,224명·교직원 2,624명 전체에 온라인 설문을 배포해 젊은 성인 초점 연구질문의 표적을 포함(2.1)"
+175,Representative sample,4.2,N,응답이 대학 재직·재학자에 국한돼 크게 편향됐다고 저자가 방법에서 명시(2.1)하고 한계 절에서 재확인(4절)
+175,Appropriate measurements,4.3,N,"음환경 노출이 자기보고 4범주 단일문항뿐 실측 없음, 응답 89%가 quiet·adequate에 몰려 변량이 제약됨(Table 1, 4절 저자 해석)"
+175,Low risk of nonresponse bias,4.4,N,응답률이 교직원 11%·학생 5%로 매우 낮고 무응답자 특성 비교를 실시하지 않음(2.1)
+175,Appropriate statistical analysis,4.5,Y,"다항로지스틱 회귀에 우도비 검정, Nagelkerke R2=0.4, 분류정확도 49.9% 대 우연 34% 비교를 제시(2.3, Table 2)"
+184,Representative target population,3.1,Y,"두 광장에서 가장 붐비는 시간대(Sheffield 10-16시, Suzhou 10-21시) 현장 무작위 표집, 파일럿으로 부지 적격성 검증(Method 표집절)"
+184,Appropriate measurements,3.2,Y,"Cronbach 알파 0.733 보고, 음특성 5점·선호 7점 척도, 파일럿에서 01 dB solo 소음계로 LAeq 65.0~75.2 dB 실측(Method)"
+184,Complete outcome data,3.3,Y,304부 수집 후 선형회귀 N=301(Table 8 total df 300)로 99% 이상이 분석에 포함됨
+184,Confounders accounted for,3.4,Y,"site별 데이터 분할로 부지 통제, 연령과 동반상태 동시 투입 회귀(Table 7), 공선성·Kolmogorov-Smirnov·Levene 검정 보고(Results)"
+184,Exposure occurred as intended,3.5,N,음향 실측은 2017년 1·3월 파일럿에서만 수행하고 설문은 4~7월 실시해 조사기간 음환경 미측정; 관계강도는 Hall 거리 기준이라면서 실제 거리 미측정(Method)
+220,Relevant sampling strategy,4.1,Y,"공간특성이 다양하도록 서비스형 11개·경관형 8개 가로에서 40개 지점을 선정하고 반경 100 m 버퍼로 지표 산출(2.1, 2.2)"
+220,Representative sample,4.2,N,"맑은 날 평일 주간 3개 시간대만 조사해 주말·악천후 이용자를 구조적으로 배제, 모집단 대비 기준 없고 저자도 대표성 한계 인정(2.3.2, 2.4)"
+220,Appropriate measurements,4.3,Y,"공간지표 산식을 Table 1에 명시, 5감각 14문항 7점 척도(Table 2), CR>0.8·AVE>0.6으로 신뢰도·수렴타당도 보고(3.4.2)"
+220,Low risk of nonresponse bias,4.4,CT,응답률·접촉 건수·거절 사유·무응답 분석이 어디에도 없고 유효 설문 471부라는 결과만 기재(2.3.2)
+220,Appropriate statistical analysis,4.5,N,"공간지표는 40지점 수준인데 471명을 독립 관측으로 PLS-SEM 투입해 군집 미보정, Table 9 건물 경로는 95%CI[-0.035,0.005]가 0을 포함하는데 p=0.015로 보고"
+322,Relevant sampling strategy,4.1,Y,"차량 이동 기능별 도시가로에서 표본지점을 무작위 선정해 보행자를 현장 인터셉트, 105명으로 검정력 0.94 산출 보고(2절)"
+322,Representative sample,4.2,Y,"Table 1에서 연령·성별·학력·직업을 Caceres 인구통계와 직접 대조하고, 무작위 지점의 보행자라는 표적모집단에서 현장 표집(2절)"
+322,Appropriate measurements,4.3,Y,"class 1 소음계-분석기 15분 측정, 마이크 1.5 m, ISO 1996-2 -3 dB 보정, 측정 전후 class 1 교정, 청력손실 응답 배제(2절)"
+322,Low risk of nonresponse bias,4.4,N,응답률 25%로 75%가 거절했는데도 무응답자 특성 비교 없이 검정력과 표본오차만으로 대표성을 주장(2절)
+322,Appropriate statistical analysis,4.5,N,"상관 분석단위인 표본지점 수와 지점별 평균 산출 절차 미보고(2절), 주관 9변수x음향 30여 지표+1/3옥타브 전대역 상관에 다중비교 보정 없음(Table 3-6, 3.3.2)"

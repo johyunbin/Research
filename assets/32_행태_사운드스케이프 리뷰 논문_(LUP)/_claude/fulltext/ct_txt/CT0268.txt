@@ -1,0 +1,1219 @@
+sustainability
+Article
+Acoustic Environment of Urban Historical Places: A Case Study
+in Kastamonu, Turkey
+Nur Belkayalı 1,*
+and I¸sıl Kaymaz 2
+
+
+Citation: Belkayalı, N.; Kaymaz, I.
+Acoustic Environment of Urban
+Historical Places: A Case Study in
+Kastamonu, Turkey. Sustainability
+2021, 13, 8423. https://doi.org/
+10.3390/su13158423
+Academic Editors: Giovanni Zambon
+and Roberto Benocci
+Received: 19 May 2021
+Accepted: 24 July 2021
+Published: 28 July 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+1
+Department of Landscape Architecture, Faculty of Engineering and Architecture, Kastamonu University,
+Kastamonu 37150, Turkey
+2
+Department of Landscape Architecture, Faculty of Agriculture, Ankara University, Ankara 06120, Turkey;
+isil.cakci@agri.ankara.edu.tr
+*
+Correspondence: nbelkayali@kastamonu.edu.tr; Tel.: +90-366-280-29-27
+Abstract: The general aim of this paper is to demonstrate the signiﬁcance of the acoustic environment
+in urban historical places, which represent intangible cultural heritage, and to emphasize the need
+for the spaces to have their own unique acoustic environment depending on their characteristics.
+Both sound pressure level measurements and sound classiﬁcations were conducted in three urban
+historical places to emphasize their effect on the character of the area. Based on the data obtained,
+noise maps were created. The results of the study indicated that there was no change in sound
+sources due to the similarity of past and present usage types of the three selected historical areas,
+and that sound sources as an element of cultural heritage in the area were preserved and survived
+to the present day as a consequence. The type of use, intensity of use, structural-plant density, and
+climatic change were found to be effective in determining the acoustic environment character. The
+continuity of sound sources, which are among the elements that constitute the identity in historical
+places in particular and can be considered as cultural heritage elements, and the harmony of these
+sound sources for the intended use of the space are the factors that should be taken into account in
+spatial planning and design.
+Keywords: cultural heritage; acoustic characteristics; sound; urban landscape; noise maps
+1. Introduction
+Historical urban areas have been shaped by generations through space and time,
+so they are unique with natural and cultural assets [1]. The accumulated and stratiﬁed
+production of living cultures adds social, cultural, and economic value to historical urban
+areas. In this stratiﬁcation, in addition to the natural features, such as topography, geomor-
+phology, and hydrology of the area, the historical and cultural features, such as land use,
+built environment, tradition, and sensory features (auditory, olfactory, visual), also have an
+important role. However, the increasing population and the change in environmental con-
+ditions require the change and transformation of these features and areas alike. This change
+and transformation also reveal the danger of the disappearance of historical sites. The
+UNESCO recommendation on the historical urban landscape emphasizes that preservation
+has to move beyond the physical environment and focus on the entire human environment
+with all its tangible and intangible qualities [2]. This approach aims to increase the sus-
+tainability of planning and design interventions by taking the existing built environment,
+intangible heritage, cultural diversity, socio-economic and environmental factors, and local
+community values into account. However, with the principle of sustainable development,
+it may be possible to protect, use, and pass on historical sites to future generations [3].
+Sound environments that emerge depending on the physical and cultural elements of
+urban historical areas and their surroundings are also one of the important heritage values
+that have survived from the past to the present and perhaps can be passed on to future
+generations. The change of historical areas and their surroundings also brings about a
+Sustainability 2021, 13, 8423. https://doi.org/10.3390/su13158423
+https://www.mdpi.com/journal/sustainability
+
+Sustainability 2021, 13, 8423
+2 of 23
+change in the sound environment that occurs in these areas. These changes are sometimes
+in line with the values of the historical area, while some other times there may be very
+contrary auditory environments. The intertwining of different uses, especially in urban
+areas, and the fact that historic urban centers are often in the middle of these uses leads to
+a combination and sometimes conﬂict of different sound environments. Garrioch [4] stated
+that the voices heard in European cities in the 17th, 18th, and 19th centuries were different
+from those heard today, and that the sound, at that time, was a very important source
+of information for people who ﬂee from the noise of the city today. He notes that sound
+creates identity, and that the change in sounds over time actually contains information that
+helps to understand the change of urban areas. Additionally, sound could help users to
+establish the sense of a place [5].
+In order to get to know more about a historical urban area, it is important to listen to
+the sounds in the area where the historical place is located, and to determine the sound
+sources [6]. The sounds determined offer clues about time, space, and society [4]. These
+clues, on the other hand, can play a leading role in determining the character of the space,
+thus providing an important source of information for planners [7]. Sounds also contain
+signs of events, situations, and movements for those who live in the city. For example, the
+sound of wind and the sound of rain provide information about the weather, the sounds
+of bell and adhan (prayer calls) about the time of worship, the school bells and factory
+sirens about the start and end of a workday. In addition, sound provides information about
+the lifestyles, attitudes, customs, and traditions of societies. For example, in European
+cities, the quiet demeanor of the elites is perceived as polite, while the noisy attitude is
+perceived as impudent, and it is considered unacceptable for men to speak and laugh
+louder than women do [4]. While the loudness of the human voice is the very nature of
+life in the Middle East countries [8], it is strange that the voices of women are heard more
+than men, especially in daily life. While being silent in religious places is an acceptance
+coming from traditions, at the same time, the silence in these places plays a role in keeping
+the worshipers alone with themselves and with the God. Therefore, the sound intensity in
+the space both provides the user with clues about how to behave and reﬂects the character
+of the space.
+With the modernization and mechanization in urban life over time, especially in
+historical city centers, mechanical sounds that are not connected with the past are gaining
+importance. Voices that have remained the same over time and have survived to the present
+day also exist, which enable us to understand historical urban acoustic environments in
+particular. Especially the prayer sounds heard from places of worship show continuity
+without changing over time. While these sounds enable us to learn about cultures, on the
+other hand, when cultural differences occur, a sound that is meaningful for one society
+may not contain a feeling for another [6].
+The concept of the acoustic environment, deﬁned as the whole of natural and human-
+produced sounds reaching the human ear in a speciﬁc area that varies according to environ-
+mental factors, emerged as the sonic environment with the work of Southworth in 1969 and
+became more known after Schafer’s work in 1977 [9]. Unlike those on noise management
+and control, in studies related to the acoustic environment, sound has been evaluated as an
+element that deﬁnes the space, and thus reveals the character of it [10,11]. In deﬁning the
+character of the space according to auditory features, unlike sound pressure level measure-
+ments used in physical planning and design studies, it is necessary to classify the sounds in
+these measurements, to examine their harmony with the character of the space, and to focus
+on environmental factors [12]. In addition, the auditory comfort of the users should also be
+taken into consideration when determining the auditory characteristics of any given space.
+Because, when the sound pressure level in the environment reaches an undesirable level,
+users are adversely affected both physiologically and psychologically. They experience
+impaired concentration, communication problems, and learning difﬁculties [13]. This issue
+becomes even more important, especially in urban areas where human use and cultural
+landscape features are the most intense, leading to different sound sources.
+
+Sustainability 2021, 13, 8423
+3 of 23
+Studies have so far been conducted on the acoustic environment and, in particular, on
+the deﬁnition of the acoustic environment in historical urban areas [1,4–9,11,14–24]. With
+this study, we aimed to emphasize the control of the sound level in historical areas and
+its effect on the character of the area. Today, historical areas are not generally controlled
+in terms of protection from noise, and it is thought that the permitted noise standards
+in these areas are not exceeded. From another point of view, the character should be
+seen as an important value as well as the sound level in the protection of historical sites.
+Considering that these areas are exposed to intense human use due to activities, such
+as tourism, SPL (sound pressure level) measurements offer important data for planners
+and site managers to support the conservation of historical sites and affect planning and
+management decisions about these historical sites. With this aspect, the study emphasizes
+the importance of SPL measurements in the planning and management of historical sites.
+In this study, by focusing on the sound sources and environmental factors of three
+urban historical places with different characteristics, SPLs were measured. Thus, factors to
+be considered in terms of sound characteristics in the planning and design of these areas
+were determined. Data regarding climate and area characteristics for the periods during
+which the measurements were made were collected. In line with the data obtained, noise
+maps were created. By determining the sound types and sound levels in sample areas, the
+study aimed to establish their relationship with the type of ﬁeld use, and therefore with
+the character of the ﬁeld. The study focused not on user preferences and perception, but on
+the sound sources and sound levels detected in spaces, and on the reasons for change in
+them over time.
+2. Materials and Methods
+2.1. Study Area
+The study was carried out in 3 historical sites with different purposes of use located in
+the protected urban site in the city center of Kastamonu, a former settlement in the Western
+Black Sea region, in northern Turkey (N:41.3766, E:33.7765). Münire Madrasah, one of the
+important commercial centers in the city, Nasrullah Square, which is located in the center
+of the city with different uses, and the Clock Tower, which is located in the east of the city
+on one of the highest points, were selected as study areas in the study. In choosing these
+areas as study areas, attention has been paid to the fact that (i) these areas appeal to the
+vast majority of people living and visiting the city, (ii) the past and present uses of the
+areas have similarities and differences, and (iii) these areas have different types of use and
+therefore different types of sounds. Information on the location of the study areas is given
+in Figure 1.
+
+Sustainability 2021, 13, 8423
+4 of 23
+ 
+Figure 1. Location map of study areas [25].
+Kastamonu city is located in Northwest Anatolia Region of Turkey. Kastamonu city
+center is surrounded by forested passive green spaces and open and green areas making
+up 14% of the land in city center [26]. Settlements were constructed along the Karaçomak
+stream, which ﬂows through the city with an axis. A continental climate dominates in the
+city center. According to the data from the Turkish Statistical Institute (TSI), the population
+of Kastamonu city center was 152,553 in 2019 [27]. The number of visitors in 2019 was
+393,316 domestic and 6704 foreigners in total [28]. Kastamonu possesses an ancient history,
+and archaeological excavations and surface explorations indicate that the settlement in the
+region dates back to Paleolithic, Neolithic, and Chalcolithic periods and to early Bronze
+Age uninterruptedly [29]. The city is one of the rare settlements in Turkey that has survived
+to this day with its historical texture being undisturbed, and in this respect, it attracts
+tourists at different times of the year. The city, which was designated the cultural capital of
+the Turkic World in 2018, has 564 immovable cultural assets. The majority of the registered
+civil architecture building stock of the Western Black Sea region is also located in the city
+center [30]. Located in the provincial borders, Mahmutbey Mosque has been included in
+the world heritage tentative list. In addition, works are underway to include the city in the
+UNESCO creative cities network in the ﬁeld of gastronomy.
+1.
+Münire Madrasah
+
+Sustainability 2021, 13, 8423
+5 of 23
+Built in 1746 as an educational complex, the one-story stone masonry building, and its
+courtyard were restored in 1988. The complex was used as a student dormitory after the
+restoration, and in 2001 it was opened for tourism and became a trading house where local
+craft products have been marketed since then. There are 21 shops within the complex [31]
+(Table 1).
+2.
+Nasrullah Square
+Located in the city center, the Square consists of a mosque with the same name,
+a fountain and commercial units located in and around it. There is also a bridge over
+Karacomak Stream, which passes through the city, connecting the square with the main
+road. Built in 1506, the bridge, the fountain, and the mosque constitute the important
+historical structures of the city and are among the places that both locals and tourists use
+extensively in the city today. Religious buildings and commercial buildings in the square
+cause the Square to be used at all hours of the day [32] (Table 1).
+3.
+Clock Tower
+The tower, which is located at one of the highest points of the city, is one of the
+important landmarks of the city. The Clock Tower, built in 1885, still rings every hour
+today. In addition, the seating areas around the Clock Tower, which is located at a point
+that dominates the city, are used by the locals and tourists at all hours of the day as it also
+offers food and drink facilities while watching the city [33] (Table 1).
+Table 1. General properties of the study areas.
+Münire
+Madrasah
+ 
+Source: [34]
+ 
+Period
+Past 1900s
+Present 2000s
+Function
+Education
+Commercial, Tourism
+Nasrullah
+Square
+ 
+Source: [35]
+ 
+Period
+Past 1900s
+Present 2000s
+Function
+Religious, Commercial,
+Recreation
+Religious, Commercial, Recreation, Tourism
+
+Sustainability 2021, 13, 8423
+6 of 23
+Table 1. Cont.
+Clock Tower
+Past
+Present
+ 
+Source: [33]
+ 
+Period
+Past 1900s
+Present 2000s
+Function
+Recreation
+Tourism, Recreation
+2.2. Method
+This study aimed to draw attention to the fact that sound characteristics have an im-
+portant place in character identiﬁcation of historical areas. For this purpose, by determining
+sound types and sound levels in sample areas, the study attempted to associate them with
+the use of an area and to determine whether they are compatible with the character of
+the space. Sound levels were measured in study areas, with a focus on listening to the
+acoustic environment. In this method, in addition to the sound pressure level spatially, the
+relationship of the sound source with the characteristics of the space was determined [36].
+Walking routes were primarily determined in each study site. Attention was paid to
+creating routes to travel the entire site and best reﬂect the characteristics of the sites (in
+terms of daily activities and sound sources). In 2018–2019, walks were performed during
+the summer (June–July) and winter (February–March) seasons on weekdays and weekends
+in the morning (08:30), at noon (12:00), and in the evening (18:00) on days without heavy
+rainfall or wind, and a total of 36 measurements were made. Since the study areas are in an
+urban environment, measurements were started and ﬁnished especially at the hours when
+the intensity of human activities started (08:30) and ended (18:00). Since the characteristics
+and sizes of the 3 selected study areas differ, the measurement time was also different in
+the three areas. The measurement times were determined as an average of 3 min (65 m) for
+the Münire Madrasah, 10 min for the Nasrullah Square (250 m), and an average of 13 min
+(320 m) for the Clock Tower.
+SPL measurements are one of the basic quantitative methods for determining acoustic
+comfort [19,37,38]. Noise maps are created especially in areas with special characteris-
+tics in cities (parks, squares, and historical areas) [22,39]. Therefore, the NoiseCapture
+program [40], operated via a smartphone, was used to measure and identify the sound
+and create the noise maps. The researcher who performed the walk also used the SVAN
+957 model noise measurement device in order to compare the sound pressure level (SPL),
+which was measured via a smartphone.
+SPL measurements are generally based on “Weighted Equivalent Continuous Sound
+Level” (LAeq), which gives the temporal average of the sound level in dB(A) [21,41]. The
+World Health Organisation (WHO) recommends guideline levels of 55 dB(A) outdoor
+for daytime sound levels [13] (Table 2). In addition, if there are more than one sound
+source and background sounds in a place, it is evaluated in the most frequently used
+statistical values (L10, L50, L90) since only evaluating with LAeq will not provide sufﬁcient
+information [15]. While L10 gives an average measure of high-level and short-term sounds,
+
+Sustainability 2021, 13, 8423
+7 of 23
+L50 indicates the mid-sound level and the sound level exceeded for 50% of the time, and
+L90 indicates the sound level exceeded for 90% of the time [42]. Within the scope of the
+study, evaluations were made on the LAeq, L10, L50, and L90 values obtained in the SPL
+measurements of the areas, and observation forms regarding the sounds measured by the
+WHO according to the characteristics of each space were also ﬁlled (Table 2).
+Table 2. Guideline values for community noise in speciﬁc environments [13].
+Speciﬁc Environment
+Critical Health Effect(s)
+LAeq [dB(A)]
+Time Base
+[Hours]
+Outdoor living area
+Serious annoyance, daytime
+and evening
+55
+16
+Moderate annoyance,
+daytime and evening
+50
+16
+Industrial, commercial
+shopping and trafﬁc areas,
+indoors and outdoors
+Hearing impairment
+70
+24
+Outdoors in parkland and
+conservations areas
+Disruption of tranquility
+#3
+#3: Existing quiet outdoor areas should be preserved and the ratio of intruding noise to natural background
+sound should be kept low.
+In the observation form, such climatic data as the air temperature and wind conditions,
+as well as sound types and perceived dominance levels are included (Table 3). Special
+attention was paid to make the walk the same speed in all areas, while the duration of the
+walk differed depending on the length of the walking routes. Attention was paid to the fact
+that the sound sources identiﬁed in the measurement areas were heard frequently during
+the measurement period in the space, and that they were detected in every measurement,
+and these sounds are deﬁned as continuous sounds. In addition, since some sound sources
+are speciﬁc to the area or certain times of the season/day (adhan sounds, bell sounds, leaf
+sounds, bird sounds), the deﬁnition of such sound sources was also made and these sounds
+were deﬁned as periodic sounds.
+Table 3. Climatic data for the study area.
+Location
+Season
+Winter
+Summer
+Week
+Weekday
+Weekend
+Weekday
+Weekend
+Day
+m
+n
+e
+m
+n
+e
+m
+n
+e
+m
+n
+e
+Münire
+Madrasah
+Temperature (◦C)
+15
+10
+8
+19
+21
+14
+24
+24
+23
+22
+23
+23
+Humidity (%)
+40
+75
+75
+40
+40
+92
+57
+57
+1
+50
+52
+31
+Wind velocity
+(km/h)
+18
+8
+8
+5
+5
+4
+11
+11
+8
+4
+7
+6
+Precipitation (mm)
+0
+0
+0
+0
+0
+1.1
+0.2
+0.2
+0.1
+0.6
+0.5
+0.2
+Altitude (m)
+781 ± 3
+Nasrullah
+Square
+Temperature (◦C)
+15
+10
+8
+19
+21
+14
+24
+24
+22
+22
+23
+25
+Humidity (%)
+40
+75
+75
+40
+40
+92
+57
+57
+1
+50
+52
+42
+Wind velocity
+(km/h)
+18
+8
+8
+5
+5
+4
+11
+11
+6
+4
+7
+8
+Precipitation (mm)
+0
+0
+0
+0
+0
+1.1
+0.2
+0.2
+0.1
+0.6
+0.5
+0.2
+Altitude (m)
+781∓4
+
+Sustainability 2021, 13, 8423
+8 of 23
+Table 3. Cont.
+Location
+Season
+Winter
+Summer
+Week
+Weekday
+Weekend
+Weekday
+Weekend
+Day
+m
+n
+e
+m
+n
+e
+m
+n
+e
+m
+n
+e
+Clock
+Tower
+Temperature (◦C)
+15
+10
+17
+15
+8
+7
+22
+23
+23
+23
+23
+23
+Humidity (%)
+40
+75
+40
+48
+76
+24
+64
+59
+1
+55
+55
+55
+Wind velocity
+(km/h)
+18
+8
+5
+11
+11
+10
+7
+11
+8
+7
+7
+7
+Precipitation (mm)
+0
+0
+0
+0
+0
+0
+0.1
+0.2
+0.1
+0
+0
+1
+Altitude (m)
+816 ± 24
+m: morning. n: noon. e: evening.
+Noise maps make it possible to determine whether the current sound environment
+violates the current limit values, and to identify the level of inﬂuence of a certain area or
+the areas exposed to the sound [43]. The measurement results were transferred on digital
+maps with the NoiseCapture program, and noise maps of each space were obtained. In the
+evaluation process, observation forms and sound measurements were analyzed together,
+which made it possible to associate the instantaneous and regional sound pressure levels
+in the human ear with the characteristics of the physical space.
+3. Results
+By means of observations and measurements made in the study areas, sound sources
+and SPLs of these sources were determined and then noise maps were created using SPLs
+detected along the walking route.
+3.1. Sound Sources
+3.1.1. Münire Madrasah
+The main sound sources were identiﬁed through the walk on a 65-m-long route in
+the study area (Table 4). When examining the changes in sound sources over time, it was
+determined that the human voice, although it appeared to vary in intensity, was the most
+dominant sound type in the space, especially from 09:00 in the morning when the Madrasa
+began to be used until 18:00 in the evening when it was closed. The area, which was used
+for educational purposes in the past, is now used for commercial and touristic purposes,
+and this situation has not caused any change in the human voice, which is the main sound
+source.
+Table 4. Sound types and properties of the study areas.
+Location
+Periodicity
+Type
+Sound Sources
+1. Münire
+Madrasah
+Continual
+Human-produced
+Human sound (voice, walking,
+children)
+Periodic
+Human-produced
+Human sound (vendors shouting)
+2. Nasrullah
+Square
+Continual
+Human-produced
+Trafﬁc sound, Human sound (voice,
+walking, children)
+Natural
+Geophysical sound (water sound)
+Periodic
+Human-produced
+Human sound (vendors shouting,
+prayer sound), Mechanical sound
+(music)
+Natural
+Biological sound (birds)
+3. Clock
+Tower
+Periodic
+Human-produced
+Mechanical sound (bells, music),
+Human sound (voice)
+Natural
+Atmospheric sound (wind)
+
+Sustainability 2021, 13, 8423
+9 of 23
+3.1.2. Nasrullah Square
+During the walk on the 250-m-long route, it was determined that there were both
+human-produced and natural sounds in the Square (Table 4). In terms of temporal change, it
+was determined that the trafﬁc sound, speech sound, and footsteps from human-produced
+sounds showed continuity in the Square. Likewise, due to the fountains and water pools
+located in the area, the water sound from natural sounds showed continuity as well.
+However, it was determined that the water sound was heard more clearly in periods of low
+intensity of human activities (morning-evening) or when the water source was approached.
+In the time period during working hours (08:30–18:00) when human activities are intense,
+the voices of the vendors in the trading houses around the Square, the sound of the music
+played in the shops or in the Square depending on the activities held from time to time,
+and the sounds from the religious rituals heard at certain times of the day from the places
+of worship located in the Square were deﬁned as the human-produced sounds that were
+heard periodically. In the religious structure, the adhan (call to prayer) is recited ﬁve times
+a day for about 2 min through a loudspeaker. The sound intensity shows instantaneous
+increases during these periods. Especially during the period when the plants in the Square
+are leafy (spring-summer-autumn), it is possible to hear the sounds of birds in the morning
+and evening when the Square is not crowded. Sound sources have not changed as the
+purpose of use of the Square is the same as in the past, but only the sound of trafﬁc has
+become dominant due to the increase in its intensity of use.
+3.1.3. Clock Tower
+As a result of the measurements made along the 320-m-long walking route in the
+recreation area around the Clock Tower, which is located on a hill overlooking the city, it
+was determined that there were both human-produced (speech sound, bell sound, music
+sound) and natural sounds (atmospheric sounds) in the area (Table 4). The sound of bells
+ringing every hour in the area and the sound of speech in the resting area, the sound of
+music, and the sound of wind caused by climatic events were also detected periodically.
+The speech sounds of those who use the seating units located around the Clock Tower
+can be heard, especially when approaching the seating units. While there is no difference
+between the former use of the Clock Tower and its current use, the seating areas built later
+around the tower have increased the usage density around the tower, thus increasing the
+human-produced sound in the sound sources. However, since human-produced sounds
+are not louder than natural sounds, natural sounds can be heard more comfortably in the
+Clock Tower.
+3.2. Sound Pressure Level
+3.2.1. Münire Madrasah
+When the values obtained as a result of the walks performed in the Münire Madrasah
+were evaluated in regard to periods, in terms of sound pressure level in winter measure-
+ments, the highest value was 93.2 dB at noon on weekdays and the lowest value was
+44.0 dB in the morning on weekdays, whereas the highest value in summer was 84.3 dB in
+the evening on weekends, and the lowest value was 45.7 dB in the morning on weekdays
+(Table 5). Accordingly, the highest value of the sound pressure level for the Madrasa
+was obtained at noon on weekdays during the winter period, and the lowest value of the
+sound pressure level was obtained in the morning on weekdays during the winter period.
+Although the average SPL was determined to be above the WHO-recommended 50 dB(A),
+especially due to the constant human activities carried out in the area with tourists arriving
+on tourist tours at certain hours, it was determined to be below the 70 dB(A) level, which is
+expressed for trade areas and which causes hearing impairment (Table 2). Depending on
+the historical and conservation status of the area, although the sound level in the environ-
+ment was not at the desired level, when evaluated in terms of usage (trade and tourism),
+the values remained at the normal level.
+
+Sustainability 2021, 13, 8423
+10 of 23
+Table 5. SPL of study areas.
+Place
+Season
+Winter
+Summer
+Period
+Weekdays
+Weekend
+Weekdays
+Weekend
+SPL
+m
+n
+e
+m
+n
+e
+m
+n
+e
+m
+n
+e
+Münire
+Madrasah
+Leq max
+78.9 93.2 72.5
+79.4
+72.5
+78.4
+74.0
+78.8
+78.1
+77.1
+75.7
+84.3
+Leq min
+44.0 49.8 49.9
+54.2
+45.3
+46.5
+45.7
+54.9
+47.3
+47.2
+51.1
+52.4
+Mean Leq
+61.8 70.8 60.0
+70.0
+61.7
+64.2
+62.3
+67.9
+63.0
+63.1
+65.2
+70.4
+Leq 90
+48.5 52.8 51.9
+59.3
+51.1
+52.4
+51.5
+59.6
+51.3
+53.1
+55.6
+54.8
+Leq 50
+56.2 59.4 56.2
+66.7
+57.5
+58.8
+58.3
+64.6
+57.4
+59.2
+61.5
+61.7
+Leq 10
+62.8 65.5 62.3
+73.1
+65.6
+65.9
+65.2
+70.9
+64.9
+66.1
+69.3
+68.1
+Nasrullah
+Square
+Leq max
+76.2 75.4 78.4
+74.5
+82.4
+74.3
+82.0
+96.1
+75.1
+75.2
+74.3
+80.4
+Leq min
+54.0 58.5 53.6
+52.8
+55.0
+50.4
+53.1
+56.9
+54.9
+52.9
+54.7
+53.4
+Mean Leq
+64.6 68.0 67.0
+63.3
+69.8
+63.5
+68.9
+81.1
+64.2
+65.4
+65.3
+66.2
+Leq 90
+57.3 62.7 58.4
+56.1
+61.0
+54.8
+60.2
+61.4
+57.3
+56.4
+58.9
+57.1
+Leq 50
+60.9 65.7 62.3
+60.4
+65.8
+59.0
+65.5
+67.4
+60.9
+61.2
+63.1
+61.9
+Leq 10
+67.2 70.4 70.0
+66.4
+72.7
+66.4
+71.9
+82.9
+66.9
+69.4
+68.4
+68.3
+Clock
+Tower
+Leq max
+80.3 72.8 80.3
+93.0
+73.4
+72.5
+77.8
+73.2
+76.0
+73.8
+75.6
+77.8
+Leq min
+45.9 45.3 41.8
+46.8
+44.9
+42.7
+38.4
+38.7
+43.4
+41.4
+41.4
+40.7
+Mean Leq
+65.3 56.2 60.3
+74.3
+59.6
+58.8
+56.5
+59.3
+59.5
+58.2
+61.5
+62.5
+Leq 90
+48.6 48.0 46.0
+50.0
+49.2
+47.2
+40.8
+40.9
+46.4
+46.3
+45.4
+46.0
+Leq 50
+59.0 51.1 52.4
+56.4
+53.0
+52.4
+44.5
+46.0
+51.5
+52.2
+51.6
+55.3
+Leq 10
+68.9 55.8 59.7
+77.0
+60.0
+59.6
+52.4
+61.2
+60.5
+59.9
+61.8
+63.5
+m: morning, n: noon, e: evening.
+3.2.2. Nasrullah Square
+According to the sound pressure level measurements carried out in Nasrullah Square,
+it was determined that the highest value in the winter period was 82.4 dB at noon, and
+the lowest value was 50.4 dB on the weekend. The highest value in the summer period
+was detected to be 96.1 dB at noon on weekdays, and the lowest value to be 52.9 dB in the
+morning on the weekend (Table 5). Accordingly, the highest sound pressure level value in
+summer was obtained at noon on weekdays, while the lowest value of the sound pressure
+level in the Square was obtained in the evening at the weekends in winter. Although the
+average SPL was determined to be above the 50 dB(A) recommended by WHO, it was
+determined that the level of 70 dB(A) expressed for trade areas in Table 2 and which causes
+hearing impairment was only exceeded at noon during the weekdays in summer. The
+Square is located in the center of the city and serves as an important gathering, meeting,
+resting, worship, trade, and transit area. In addition, due to the fact that the main artery
+of the city passes right next to it, it was determined that the SPL, which was detected at
+70 dB(A), was at an acceptable level according to Table 2, especially considering that it did
+not show 24-h continuity.
+3.2.3. Clock Tower
+According to the measurements carried out in the Clock Tower, the highest value in
+the winter period was 93.0 dB in the morning of the weekend and the lowest value was
+41.8 dB in the evening of the week, whereas the highest value in the summer period was
+77.8 dB in the morning and evening of the weekend and the lowest value was 38.4 dB in
+the morning of the week (Table 5). Accordingly, the highest value of the sound pressure
+level in the tower was obtained during the morning hours of the weekend in winter and
+the lowest value of the sound pressure level was obtained during the morning hours of
+
+Sustainability 2021, 13, 8423
+11 of 23
+the week in summer. It was determined that the average SPL was not much above the
+50 dB(A) recommended by WHO in Table 2 (approximately 60 dB(A)). It was determined
+that the values obtained were within normal limits due to the use of the space, especially
+for recreation and tourism purposes.
+When the study areas are compared with each other, the highest sound levels were
+detected in the Clock Tower in the morning, in the Münire Madrasah at noon, and in the
+Clock Tower in the evening on weekdays in winter. During the winter season, the highest
+sound values on weekends were determined in the morning in the Clock Tower, at noon in
+the Nasrullah Square, and in the evening in the Madrasa.
+During the winter period, the lowest sound values on weekdays were detected in the
+Madrasa in the morning, at noon and in the evening, whereas the lowest sound values
+during the weekend were detected in the Square in the morning and in the Madrasa both
+in the afternoon and in the evening. When the measurement results of the summer season
+were examined, it was seen that the highest noise level was measured during the week in
+the Square in the morning and at noon and in the Madrasa in the evening.
+Although the values from the three study areas were very close to each other, the
+highest sound levels at the weekend were determined in the Madrasa in the morning, at
+noon and in the evening (Figure 2). The lowest values of the summer season were detected
+at Münire Madrasah on weekdays and weekends throughout the day. When the study
+areas were compared in terms of the average sound pressure levels, it was determined that
+the sound pressure level was lower in the Clock Tower and higher in Nasrullah Square
+(Figure 2).
+ 
+Figure 2. Comparison of SPL of study areas.
+In Nasrullah Square, the average measurement values of high-level and short-term
+sounds (L10), the middle sound level, and the sound level that is exceeded for 50% of the
+time (L50), and the sound level that is exceeded for 90% of the time (L90) were detected
+to be higher than those in other study areas, whereas in the Clock Tower, the values was
+found to be lower (Figure 3). Due to the fact that the square is immediately adjacent to the
+road, it is possible to hear the sound of the trafﬁc as a background sound. Since the Clock
+Tower is located on one of the highest points of the city, it is possible to hear the sounds
+coming from the surrounding areas and the wind sound formed due to climatic conditions
+as the background sound in the area. The fact that the background sound detected in
+the square is a human-produced and high-intensity sound source, and the background
+sounds detected in the Clock Tower are from lower-intensity sound sources support the
+measurement results.
+
+Sustainability 2021, 13, 8423
+12 of 23
+ 
+Figure 3. Comparison of L10, L50, and L90 values.
+3.3. Noise Maps
+3.3.1. Münire Madrasah
+The noise maps obtained through the measurements made with the NoiseCapture
+program installed on the smartphone along the walking route in the Münire Madrasah are
+given in Table 6. On the map, detected sound values lower than 55 dB (A) are represented
+in green and shades of green, whereas sound values higher than 55 dB (A) are in yellow,
+and values higher than 65 dB (A) in are in shades of red. It was observed that the sound
+levels increased at the points close to the shops in the Madrasa. It was found that there
+was an increase in the sound level due to the increase in the usage intensity in the space
+during the summer period. Due to the touristic character of the area and the presence
+of souvenir shops, the increase in the usage intensity on the weekend was observed at
+noon on weekdays, and the increase was also reﬂected in the sound level (Table 6). Due
+to the predominance of structural elements in the area, the effect of changes in natural
+characteristics (foliation of plants, wind effect, etc.) depending on climatic changes was not
+detected in sound level measurements.
+
+Sustainability 2021, 13, 8423
+13 of 23
+Table 6. Noise maps of Munire Madrasah.
+Period
+Morning
+Noon
+Night
+Winter
+Weekday
+ 
+ 
+ 
+Weekend
+ 
+ 
+ 
+Summer
+Weekday
+ 
+ 
+ 
+
+Sustainability 2021, 13, 8423
+14 of 23
+Table 6. Cont.
+Period
+Morning
+Noon
+Night
+Weekend
+ 
+ 
+ 
+3.3.2. Nasrullah Square
+An effect of trafﬁc noise caused by the main transport axis of the city located at the
+entrance to the Square was observed, especially at the entrance to the Square, at the point
+where the walks began and ended. When the maps created for the area are examined, it
+is seen that the red dots intensify due to the increase in sound intensity, especially at the
+points associated with the vehicle road. In addition, depending on the intensive human
+use in the square (it being a transit area and a worship area, and being surrounded by
+commercial structures, musical performances being held in the square, etc.), the sound
+level was determined to be high compared to other study areas, and since the majority
+of the sounds measured along the route were determined to be above 55 dB(A), they
+were expressed with red dots. Depending on the location of the Square in the city center,
+the intensity of use was approximately the same in summer and winter, so there was no
+seasonal difference, but in winter, the intensity of sound was found to be lower in the
+morning and evening measurements. Due to the predominance of structural elements in
+the area, the effect of changes in natural characteristics (foliation of plants, wind effect, etc.)
+owing to climatic change was not detected in the sound level measurements (Table 7).
+Table 7. Noise maps of Nasrullah Square.
+Period
+Morning
+Noon
+Night
+Winter
+Weekday
+ 
+ 
+ 
+
+Sustainability 2021, 13, 8423
+15 of 23
+Table 7. Cont.
+Period
+Morning
+Noon
+Night
+Weekend
+ 
+ 
+ 
+Summer
+Weekday
+ 
+ 
+ 
+Weekend
+ 
+ 
+ 
+3.3.3. Clock Tower
+When the noise maps created according to the measurement results along the walking
+route in the Clock Tower were examined in terms of periodic change, it was observed that
+the sound intensity in the area was below 55 dB (A), although the sound intensity increased
+in the summer period. Despite the fact that the sound intensity was determined to be above
+55 dB (A), especially in areas that are more used by people (the Clock Tower, seating areas,
+viewing points), the sound intensity was found to be lower than in other study areas due
+to the fact that the area itself and its surroundings were not subjected to intensive human
+
+Sustainability 2021, 13, 8423
+16 of 23
+use and that natural sounds (wind sound, bird sound, leaf sound) were dominant in the
+area (Table 8).
+Table 8. Noise maps of the Clock Tower.
+Period
+Morning
+Noon
+Night
+Winter
+Weekday
+ 
+ 
+ 
+Weekend
+ 
+ 
+ 
+Summer
+Weekday
+ 
+ 
+ 
+
+Sustainability 2021, 13, 8423
+17 of 23
+Table 8. Cont.
+Period
+Morning
+Noon
+Night
+Weekend
+ 
+ 
+ 
+4. Discussion
+Within the scope of the conservation works carried out in historical areas, the area
+should, if possible, be protected with the old type of use, and if this is not possible, new
+land use decisions should be made to ensure sustainability. According to the UNESCO
+recommendation on the historic landscape, correctly managed historical areas can be
+used for tourism, accommodation, education, cultural, and social purposes. Such uses
+can provide economic income, and support the increase of the welfare level of societies,
+and preservation can be done at the same time [2]. In order to manage historical areas
+properly, source values need to be deﬁned and protected. One of these source values is
+the historical sounds that emerge depending on the physical and cultural elements of the
+space [17,44]. Historical areas have their own unique sound characteristics. Depending
+on the purpose and characteristics of the area, these sounds sometimes appear as a prayer
+sound, sometimes as a bell sound, and sometimes as a siren sound. The sound features that
+have remained and/or disappeared today take listeners back in time and the characteristics
+of the place can be expressed through historical sounds [45]. From this point of view,
+the results of this study reveal that the sound sources have not changed due to the fact
+that there have not been many changes in the usage patterns of the selected areas in the
+historical process, and that the sound sources are ﬁt for the purpose of use of the spaces
+and that the sound sources provide information about the spaces.
+When the results of the studies on the acoustic environment of historical places and
+the results obtained in this study were evaluated, it was observed that human voice, sound
+of footsteps, sound of music, religious sounds, and trafﬁc sounds were common sound
+sources. In addition, it was determined that the vast majority of the sounds detected in
+the study area were human-produced sounds. Urban historical sites are areas that have
+partially or completely lost their natural features over time, and in which the human
+element and therefore the human-derived sounds are at the forefront. Natural sound
+sources were not dominant in the space, as they often had sound intensities below the
+intensity of human-made sounds. As a matter of fact, the bird sound and water sound
+detected in Nasrullah Square remained behind the human-made sounds in the square,
+and could only be heard during periods when the usage intensity decreased. ˙Ismail [8]
+states in his study that rain, birds, and other natural elements are preferred by users at high
+sound intensity. Therefore, in the regulations regarding the acoustic environment, attention
+should be paid not only to the use of natural sound sources, but also to the arrangement of
+sound intensities in a way that they do not remain behind human-produced sounds.
+In studies conducted on the sound landscapes of historical areas, it was determined
+that common sound elements were in the forefront [1,6,46], but in all areas, the sound of
+
+Sustainability 2021, 13, 8423
+18 of 23
+trafﬁc was found to have an adverse effect on the character of the area. Especially in urban
+areas, the general use of motor vehicles causes low-frequency sounds, causing permanent
+and continuous background noise [15]. In the study, as a result of the measurements
+made especially in Nasrullah Square, continuous background sounds from motor vehicles
+were detected due to the Square being adjacent to the vehicle road. The study by Yang
+and Kang [47] states that low-intensity background sounds lead users to be quieter. This
+can also be regarded as a condition of “effect and reaction”. As part of the study, it was
+observed that as the background sound intensity increased in Münire Madrasah and the
+Nasrullah Square, there was an increase in the intensity of human voices, especially due to
+difﬁculty hearing. In the Clock Tower, however, it was determined that users adapted to
+the quietness of the environment and used the space accordingly. Therefore, it is thought
+that taking measures to reduce background sounds, especially in historical places, can
+ensure that the sound intensity of the human voice in the space remains at a low level in
+parallel.
+In addition, studies have shown that in order for a space to be preferred by users, it
+is necessary to pay attention not only to the low intensity of sound sources, but also to
+the presence of sound sources suitable for the character of that space [6,36,48–50]. As a
+matter of fact, it is believed that the ﬁtting of sound sources with the purpose of using
+the space is effective when users continue to use the space intensively, despite the fact
+that the highest sound level is reached during periods of increased intensity of use in the
+Münire Madrasah. In addition, the point to be considered here is that human voice should
+be distinguished from human-produced sounds (trafﬁc sound, mechanical sounds, etc.).
+According to the results of the study, it was determined that the human voice was dominant
+in the Madrasah, while the human-produced sounds were dominant in the Square and the
+intensity of the human-produced sounds was higher than that of the human voice. This
+situation is thought to be effective in the fact that the user density does not decrease despite
+the increasing sound intensity in the Madrasa.
+The increase in intensity of use shows that sometimes the human voice reaches even
+more disturbing levels than the human-produced sounds. Especially due to population
+growth, the density of use of historical sites is steadily increasing. When intensive use of
+historical sites in urban centers for tourism purposes is added to this situation, sound levels
+reach undesirable levels and users are negatively affected by this situation as a consequence.
+Given that the three selected areas are also important touristic points of the city, the SPLs
+obtained through the study showed similarities with the SPLs by Kang et al. [51], which
+were performed at tourist spots in different cities in Europe and China (European cities
+(tourist spotMax: 80.7 dB(A); China (tourist spotMin: 49.3 dB(A)); Kastamonu (tourist
+spotMax: 81.1 dB(A), tourist spotMin: 56.2 dB(A)). On the one hand, tourists prefer areas
+with pleasant sound sources away from noise, while on the other hand, they themselves
+can be a source of noise [52]. Therefore, the acoustic environment in these areas should
+be improved [21,53,54]. In such areas, it is important that the acoustic environment is at a
+level and character that does not disturb users, so that the users can have fun and relax,
+but at the same time, the acoustic environment should not harm their health. The “quiet
+side concept” could help reduce adverse effects of road trafﬁc noise and other undesired
+sound resources and promote healthier sound environments in historical urban areas.
+When the results of the study are examined, it can be stated that the long-term use of
+Nasrullah Square and Münire Madrasah may have a negative effect on the user experience
+and health, and they may be regarded as not having a healthy acoustic environment. The
+Clock Tower has a positive effect due to its quiet side concept. In addition, it was found
+that when groups of tourists arrived at the Münire Madrasah, the intensity of the human
+voice increased and suppressed other sounds in the space. Since this area is used as a place
+for marketing local crafts, visitors to the area focus directly on shopping, which may cause
+the information about the character of the place to be ignored. This should be considered
+as a sign that the purpose of use for such historical sites should be chosen very carefully.
+Another point is that these historical areas were previously dominated by the sounds of
+
+Sustainability 2021, 13, 8423
+19 of 23
+local people, and now more and more tourist voices have become dominant in these areas,
+and tourists’ voices have now begun to characterize them. It is important to note here
+that the dominance of these new sound features should not preclude the sound features
+of the past that characterize the space, and ensure that the sound features of the past do
+not disappear. Therefore, it is necessary to ensure that a sufﬁcient number of tourists visit
+the place at a tim
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

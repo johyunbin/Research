@@ -1,0 +1,7 @@
+rec,verdict,reason_code,rationale,boundary_rule
+182,FINAL_EXCLUDE,X3,Table 1 환경변수가 건조환경·SVI 경관·Place Pulse 지각 6종뿐 — 소음·음환경 지표 전무,
+212,FINAL_EXCLUDE,X3,UGS 속성 34개 지표(경관패턴·NDVI·온도·교통/시설/인구밀도)에 음환경 변수 없음,
+219,FINAL_EXCLUDE,X3,건조환경 지표가 주거밀도·녹지·토지이용혼합·연결성·자전거인프라뿐 — 음환경 변수 없음,
+241,FINAL_EXCLUDE,X4,아웃컴이 코딩된 부정지각 범주(Table 2)뿐 — 관찰가능 행태 측정 없음; 소음은 선행연구 인용 수준,
+265,FINAL_EXCLUDE,X4,사운드스케이프 노출은 충족하나 Table 2 설문이 전부 지각평정 — 관찰가능 행태 측정 없음,
+267,FINAL_EXCLUDE,X3,go-along으로 보행 경로·우회 관찰하나 음환경 변수·주제 전무(audio는 인터뷰 녹취),

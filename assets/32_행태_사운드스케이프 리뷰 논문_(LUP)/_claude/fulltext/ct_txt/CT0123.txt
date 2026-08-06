@@ -1,0 +1,1164 @@
+
+View
+Online 
+Export
+Citation
+DECEMBER 28 2021
+Investigating urban soundscapes of the COVID-19
+lockdown: A predictive soundscape modeling approach
+a)
+Special Collection: COVID-19 Pandemic Acoustic Effects
+Andrew Mitchell; Tin Oberman; Francesco Aletta; Magdalena Kachlicka; Matteo Lionello; Mercede Erfanian;
+Jian Kang
+J. Acoust. Soc. Am. 150, 4474–4488 (2021)
+https://doi.org/10.1121/10.0008928
+Articles You May Be Interested In
+The acoustic environment before and during the SARS-CoV-2 lockdown in a major German city as
+measured by ecoacoustic indices
+J. Acoust. Soc. Am. (August 2022)
+Effect of lockdown amid second wave of COVID-19 on environmental noise scenario of the megacity Delhi,
+India
+J. Acoust. Soc. Am. (September 2022)
+Anthropogenic noise variation in Indian cities due to the COVID-19 lockdown during March-to-May 2020
+J. Acoust. Soc. Am. (November 2021)
+ 03 August 2026 14:10:48
+
+Investigating urban soundscapes of the COVID-19 lockdown:
+A predictive soundscape modeling approacha)
+Andrew Mitchell,b) Tin Oberman,c) Francesco Aletta,d) Magdalena Kachlicka,e) Matteo Lionello,f)
+Mercede Erfanian,g) and Jian Kangh)
+Institute for Environmental Design and Engineering, The Bartlett, University College London, London, United Kingdom
+ABSTRACT:
+The unprecedented lockdowns resulting from COVID-19 in spring 2020 triggered changes in human activities in public
+spaces. A predictive modeling approach was developed to characterize the changes in the perception of the sound envi-
+ronment when people could not be surveyed. Building on a database of soundscape questionnaires (N ¼ 1,136) and bin-
+aural recordings (N ¼ 687) collected in 13 locations across London and Venice during 2019, new recordings (N ¼ 571)
+were made in the same locations during the 2020 lockdowns. Using these 30-s-long recordings, linear multilevel models
+were developed to predict the soundscape pleasantness (R2 ¼ 0:85) and eventfulness (R2 ¼ 0:715) during the lockdown
+and compare the changes for each location. The performance was above average for comparable models. An online lis-
+tening study also investigated the change in the sound sources within the spaces. Results indicate (1) human sounds
+were less dominant and natural sounds more dominant across all locations; (2) contextual information is important for
+predicting pleasantness but not for eventfulness; (3) perception shifted toward less eventful soundscapes and to more
+pleasant soundscapes for previously trafﬁc-dominated locations but not for human- and natural-dominated locations.
+This study demonstrates the usefulness of predictive modeling and the importance of considering contextual information
+when discussing the impact of sound level reductions on the soundscape.
+V
+C 2021 Author(s). All article content, except where otherwise noted, is licensed under a Creative Commons
+Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/). https://doi.org/10.1121/10.0008928
+(Received 5 August 2021; revised 10 November 2021; accepted 11 November 2021; published online 28 December 2021)
+[Editor: Charles C. Church]
+Pages: 4474–4488
+I. INTRODUCTION
+The global emergency caused by the COVID-19 pan-
+demic in early 2020 required national lockdown measures
+across the world, primarily targeting human activity. In the
+United Kingdom, construction and transport were allowed to
+continue,
+but
+a
+decrease
+in
+activity
+was
+observed
+(Hadjidemetriou et al., 2020). In other countries, such as
+Italy, the restrictions were more severe and even included
+limiting people’s movement to a certain radius from their
+place of residence (Ren, 2020). The explorations in environ-
+mental acoustics of lockdown conditions across the world
+have revealed various degrees of impact on the acoustic envi-
+ronment with researchers reporting reductions in noise levels
+affecting the population at the scale of urban agglomerations
+such as Ruhr Area in Germany (Hornberg et al., 2021) and
+conurbations in the south of France (Munoz et al., 2020).
+Impacts have also been reported at a scale of a multimillion
+city such as Madrid (Asensio et al., 2020b) or Barcelona
+(Bonet-Sola et al., 2021), as well as at a more local, city-
+center or even public space-scale in cities such as Stockholm
+(Rumpler et al., 2021), London (Aletta et al., 2020), Girona
+(Alsina-Page`s et al., 2021), or Granada (Vida Manzano et al.,
+2021). In general, these studies have demonstrated a decrease
+in urban noise levels and indicated a difference in the amount
+that the level decreased, depending on the type of space
+investigated (e.g., parks, urban squares, etc.) and the type of
+human activity characteristic for the space, with higher reduc-
+tions in places typically associated with human sounds and
+activities such as shopping and tourism.
+Those studies were mostly focused around the LAeq, as
+well as a standardization approach to reporting subsequent
+changes in the soundscape, proposed by Asensio et al.
+(2020a). They were not able to reveal the perceptual impact
+of such conditions in public spaces because of (1) the lack
+of subjective data for the exact or comparable locations in
+previous years; and (2) the lack of participants present in
+public spaces during the lockdown, hence, the inability to
+collect soundscape data in situ. Munoz et al. (2020) com-
+bined noise measurements with an online questionnaire
+deployed to residents, some of which were residing in the
+areas covered by the noise monitoring network available.
+The participants were asked to recall how their lockdown
+area sounded before and during the ﬁrst lockdown in 2020
+and describe the perceived change. They observed a consis-
+tent reduction in levels, followed by the perceived reduction
+a)This paper is part of a special issue on COVID-19 Pandemic Acoustic
+Effects.
+b)ORCID: 0000-0003-0978-5046.
+c)ORCID: 0000-0002-0014-0383.
+d)ORCID: 0000-0003-0351-3189.
+e)ORCID: 0000-0002-6345-4152.
+f)ORCID: 0000-0003-1559-2398.
+g)ORCID: 0000-0001-9253-4162.
+h)Electronic mail: j.kang@ucl.ac.uk, ORCID: 0000-0001-8995-5636.
+4474
+J. Acoust. Soc. Am. 150 (6), December 2021
+V
+C Author(s) 2021.
+0001-4966/2021/150(6)/4474/15
+ARTICLE
+...................................
+ 03 August 2026 14:10:48
+
+of transport sounds (air and road) and an increase in natural
+sounds, whereas the resulting environment was described as
+pleasant, calm, and peaceful. By combining ﬁeld recordings
+and focus groups, Sakagami (2020) and Lenzi et al. (2021)
+observed changes in the sound source composition and the
+affective quality of the soundscape in a residential area in
+Kobe, Japan and a public space in Getxa, Spain, respec-
+tively, during the different stages of the lockdown period.
+Following the easing of the lockdown measures, a decrease
+in animal and trafﬁc sounds was observed in Kobe, whereas
+an increase in eventfulness, loudness, and presence of
+human sound sources, followed by a decrease in pleasant-
+ness, was shown in Getxa.
+Aletta et al. (2020) explored the impacts of the COVID-
+19 lockdowns on the acoustic environment in London, in
+particular, through many short-term (30 s) binaural record-
+ings. This study revealed that average reductions in the vari-
+ous locations considered ranged from 10.7 (LAeq) to 1.2 dB
+with an overall average reduction of 5.4 dB. This metric-
+reporting focused approach left the following research ques-
+tions unanswered: how would people have perceived these
+spaces as a result of this change in the acoustic environ-
+ment? (RQ1) and would these sound level reductions result
+in improvements to the soundscape of the spaces (RQ2)?
+The ﬁrst research question (RQ1), addressing the perceptual
+effect of the change in the urban soundscape induced by the
+lockdowns, can be further broken down into the following
+questions: how was the sound source composition inﬂu-
+enced by the change?; how would the affective response to
+the acoustic environment in the lockdowns change?; and
+could this demonstrate the effect of human activities on the
+perception of an acoustic environment in general?
+These questions arise out of the soundscape approach,
+which is characterized by prioritizing the perceptual effect
+of an acoustic environment by taking into account the inter-
+action of the sound sources, context, and the person perceiv-
+ing it (ISO, 2014; Truax, 1999), bringing together objective
+and subjective factors. The soundscape approach to noise
+mitigation and management is being recognized as a
+response to the arising environmental requirements on noise
+pollution and sustainability such as the regulation of quiet
+areas in Europe (European Environment Agency, 2020;
+Kang and Aletta, 2018; Radicchi et al., 2021). This has been
+further formalized in ISO/TS (2018) via the adoption of the
+circumplex model of soundscape (Axelsson et al., 2010), in
+which the perception of a soundscape can be described in
+terms of its pleasantness and eventfulness, as one of the
+standard methods of soundscape assessment.
+Soundscape research is, therefore, traditionally rooted
+in environmental acoustics and environmental psychology,
+typically dealing with outdoor spaces (Torresin et al., 2020)
+and urban open spaces, where parks and squares are often
+used as case study sites (Kang, 2007). A soundscape assess-
+ment typically requires people to be surveyed, but the pres-
+ence of people at a location inﬂuences the assessment
+(Aletta and Kang, 2018) and “quiet places” usually require
+low numbers of users to remain quiet, which limits the
+possibility of an assessment. Even in a crowded public
+space, soundscape surveys are demanding as they require
+signiﬁcant resources to perform at scale, limiting their wide-
+spread application (Mitchell et al., 2020). Therefore, a need
+for a predictive model arises to overcome this limitation and
+improve the implementation of the soundscape approach
+into everyday planning and management practices.
+According to a recent review of predictive soundscape
+models from Lionello et al. (2020), the degree of employing
+auditory and nonauditory factors in soundscape prediction
+varies with some studies relying on contextual, personal/
+demographic (Erfanian et al., 2021; Tarlao et al., 2021), or
+social media (Aiello et al., 2016) data entirely to predict and
+generate the soundscape features. Some methods also incor-
+porate perceptually derived features, such as subjective
+sound level and visual pleasantness, as predictors (Lionello
+et al., 2020). In general, these methods, which incorporate
+perceptually derived inputs, achieve better accuracy rates
+than those which do not; however, this perception informa-
+tion must also be obtained from people via a survey and,
+therefore, are unsuitable for predictive modeling, where sur-
+veys are not possible. For example, Ricciardi et al. (2015)
+proposed two models based on data collected from a smart-
+phone application to predict urban sound quality indicators
+based on linear regressions. The ﬁrst model, which incorpo-
+rated perceptually derived input features (visual quality and
+familiarity), achieved an R2 of 0.72, whereas a second
+model without these features achieved an R2 of 0.58. This
+indicates the necessity for considering and accounting for
+the inﬂuence which contextual factors in a space have on the
+relationship between the sound environment itself and the
+listener’s perception of it (i.e., the soundscape) while also
+highlighting the challenges associated with a predictive
+model, which depends only on measurable features.
+Therefore, a third research question arises: what are the
+key features needed for a soundscape prediction model based
+on comprehensive acoustic on-site measurements to be used
+for assessing locations with low social presence or in situa-
+tions where conducting surveys is impractical (RQ3)?
+II. MATERIALS AND METHODS
+This study was conducted via initial on-site data collec-
+tion campaigns in Central London and Venice in 2019
+before the outbreak of COVID-19 as part of the Soundscape
+Indices (SSID) project (Mitchell et al., 2020) and in 2020
+during the strictest part of the lockdowns (Aletta et al.,
+2020), including objective acoustic data (2019 and 2020)
+and subjective responses (2019 only). The full in situ data-
+set, as described in this section, has been made publicly
+available
+as
+“The
+International
+Soundscape
+Database
+(V0.2.1)” on Zenodo1 (Mitchell et al., 2021).
+Using the 2019 and 2020 binaural recordings, an online
+listening experiment was conducted to provide an under-
+standing about the change in the sound source composition.
+The 2019 on-site questionnaire data were used to deﬁne the
+dominant sound source at each location as a starting point
+for interpreting the soundscape change. A predictive model
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+4475
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+was developed to reveal the change in the perceived pleas-
+antness and eventfulness using the objective acoustic data
+and location to predict the subjective responses. Although
+the initial (2019) dataset contains additional locations (spe-
+ciﬁcally, in Spain, the Netherlands, and China), due to the
+nature of this study as a reaction to the strict movement and
+activity restrictions, the sites which could be included in the
+lockdown (2020) measurement campaigns were limited to
+the locations where the staff and equipment had access and
+recordings could be undertaken during the spring of 2020.
+The sites were selected to provide a mixture of sizes
+and uses, varying in typology and ranging from paved
+squares to small and large parks to waterside spaces across
+both cities. Throughout the text, they are indexed via a
+“LocationID”
+based
+on
+the
+location’s
+name
+(e.g.,
+CamdenTown, SanMarco), and a more in-depth overview of
+each is given in the supplementary material.2 London is
+taken as an example of a large, typically noisy city and the
+Venice sample provides a unique look at spaces with typi-
+cally very high human activity levels and no road trafﬁc
+activity. In particular, the 2019 Venice surveys were taken
+to coincide with the yearly Carnevale festival to capture its
+distinct soundscape.
+The ISO/TS (2018) series was consulted for reporting
+on the soundscape data. A detailed description of the 2019
+survey campaigns is featured throughout the paper and in
+the public database.1 This study was approved by the depart-
+mental University College London (UCL) Institute for
+Environmental Design and Engineering (IEDE) Ethics
+Committee on 17 July 2018 for the on-site data collection
+and 2 June 2020 for the online listening experiment and is
+conducted in adherence to the ethical requirements of the
+Declaration of Helsinki (World Medical Association, 2013).
+A. On-site data: Questionnaires, binaural
+measurements, and recordings
+The initial on-site data collection featured questionnaire
+data collected from the general public and acoustic measure-
+ments, conducted across 13 urban locations (in London
+N ¼ 11, in Venice N ¼ 2) between 28 February and 21 June
+2019 with additional sessions in July and October 2019.
+Although the total survey period in 2019 extended over sev-
+eral seasons, the surveys at any individual location did not
+extend over seasons with different occupancy patterns. A
+total of 1318 questionnaire responses were collected from
+the general population across the measurement points during
+1–3-h-long campaigns in both cities in 2019, accompanied
+by 693 approximately 30-s-long 24-bit 44.1 kHz binaural
+recordings. After data cleaning, each of the 13 locations was
+characterized by between 14 and 80 recordings and between
+24 and 147 questionnaire responses. The mean age of the
+participants was 33.8 years old with a standard deviation of
+14.57 (45% male, 53.8% female, 0.4% nonconforming,
+0.9% prefer-not-to-say).
+Although recent results from both Tarlao et al. (2021)
+and Erfanian et al. (2021) indicate the important inﬂuence
+of personal and demographic factors—in particular, age and
+gender—on the soundscape perception, these factors were
+not included as potential features in the modeling process.
+Given the nature of this study as addressing a scenario when
+people could not be surveyed, no additional demographic
+information is available in the lockdown case to be fed into
+the model and is, therefore, not useful to include for the
+development and application of this speciﬁc predictive
+model. This information is reported throughout the study
+simply to provide further context to the data collection.
+The subsequent measurement campaign in 2020 mim-
+icked the binaural recording strategy applied in the initial
+campaign and was performed between 6 and 25 April 2020 in
+both cities, this time excluding the questionnaire. An addi-
+tional 571 binaural recordings were collected on-site in 2020.
+1. Data collection
+The 2019 data collection was performed across all of
+the locations using the protocol based on Method A of ISO/
+TS (2018) as described in Aletta et al. (2020) and Mitchell
+et al. (2020), collected either via handheld tablets or paper
+copies of the questionnaire. The full questionnaire and data
+collection procedure are given in Mitchell et al. (2020);
+however, the key parts used for this study are those address-
+ing the sound source dominance and perceived affective
+quality (PAQ).
+The participants are ﬁrst asked to rate the perceived
+dominance of several sound sources as assessed via a ﬁve-
+point Likert scale, coded from one (not at all) to ﬁve
+(dominates completely). The sound sources are split into
+four categories, trafﬁc noise, other noise, human sounds,
+and natural sounds, and each is rated separately. Next are
+the eight PAQs, which make up the circumplex model of
+soundscape (Axelsson et al., 2010): pleasant, chaotic,
+vibrant, uneventful, calm, annoying, eventful, and monoto-
+nous. These are assessed on a ﬁve-point Likert scale from
+one (strongly disagree) to ﬁve (strongly agree). To simplify
+the results and allow for modeling the responses as continu-
+ous values, the eight PAQs undergo a trigonometric projec-
+tion to reduce them onto the two primary dimensions of
+pleasant and eventful, according to the procedure outlined in
+Part 3 of the International Organization for Standardization
+(ISO) 12913 series (ISO/TS, 2019). To distinguish the pro-
+jected values from the Likert-scale PAQ responses, the pro-
+jected values will be referred to as ISOPleasant and
+ISOEventful and can be considered to form an x-y coordi-
+nate point (x ¼ ISOPleasant, y ¼ ISOEventful) as explained
+in detail in Lionello et al. (2021).
+The calibrated binaural device SQobold with BHS II by
+Head Acoustics (GmbH, Herzogenrath, Germany) was used
+in both campaigns at all of the locations by various opera-
+tors to capture the acoustic data as mentioned in the
+Acknowledgments. Following the established on-site proto-
+col (Mitchell et al., 2020), when participants were stopped
+in a group and ﬁlled in their responses simultaneously, a sin-
+gle binaural recording was used to capture their experience
+as a group. The purpose behind this sampling strategy was
+to obtain data from the perspective of a typical user,
+4476
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+corresponding to a range of individual experiences available
+within an urban open space. These recordings are indexed
+by a “GroupID” such that the recording for each group is
+matched up to each of the corresponding respondents and
+their individual survey responses.
+2. Data cleaning
+The cleaning of the samples was conducted using the
+ArtemiS SUITE 11 (HEAD Acoustics GmbH, Herzogenrath,
+Germany). The researcher discarded or cropped whole
+recordings or its parts affected by wind gusts or containing
+noises and speech generated by the recording operator by
+accident or for the purpose of explaining the questionnaire to
+a participant. This resulted in 1258 binaural recordings, which
+were then processed further as described in Sec. II A 3. The
+psychoacoustic analyses are shown in the publicly available
+database.1
+To maintain the data quality and exclude the cases in
+which the respondents either clearly did not understand the
+PAQ
+adjectives
+or
+intentionally
+misrepresented
+their
+answers, surveys for which the same response was given for
+every PAQ (e.g., “strongly agree” to all eight attributes) were
+excluded prior to calculating the International Organization
+for Standardization (ISO) projected values. This is justiﬁed
+as no reasonable respondent who understood the questions
+would answer that they “strongly agree” that a soundscape is
+pleasant and annoying, calm, and chaotic, etc. The cases in
+which the respondents answered “neutral” to all of the PAQs
+are not excluded in this way, as a neutral response to all
+attributes is not necessarily contradictory. In addition, sur-
+veys were discarded as incomplete if more than 50% of the
+PAQ and sound source questions were not completed.
+The site characterization per ISO/TS (2018) is available
+in the supplementary material2 and public database,1 featur-
+ing the address, overall psychoacoustic characteristics of the
+location, typical use of each location, and pictures taken
+during the survey sessions.
+3. Psychoacoustic analyses
+The binaural recordings were analyzed in ArtemiS
+SUITE
+11
+(HEAD
+Acoustics
+GmbH,
+Herzogenrath,
+Germany) to calculate the suite of 11 acoustic and psycho-
+acoustic features given in Table I to be used as the initial
+predictors. The (psycho)acoustic predictors investigated
+were selected to describe the many aspects of the recorded
+sound, in particular, the goal was to move beyond a focus on
+the sound level, which currently dominates the existing liter-
+ature on the acoustic effects of lockdowns noted in Sec. I. In
+all, they are expected to reﬂect the sound level (LAeq), per-
+ceived sound level (loudness), spectral content (sharpness,
+LCeq  LAeq, tonality), temporal character, or predictability
+(impulsiveness, ﬂuctuation strength, relative approach), and
+overall annoyance (psychoacoustic annoyance). These met-
+rics have been proposed as indicators to predict the percep-
+tual constructs of the soundscape (Aletta et al., 2016; Aletta
+et al., 2017) and have shown promise when combined
+together to form a more comprehensive model applied to
+real-world sounds (Orga et al., 2021). The maximum value
+from the left and right channels of the binaural recording are
+used, as suggested in ISO/TS (2019).
+Table II shows the Pearson correlation coefﬁcient between
+each of the candidate acoustic features and the outcome pleas-
+antness and eventfulness. As all of the variables considered are
+continuous, and the eventual model is linear, the Pearson coef-
+ﬁcient is chosen as a measure of the strength of the linear rela-
+tionship between two continuous variables. For ISOPleasant
+(ISOPl), we can, perhaps, see three tiers of correlations: the
+more highly correlated tier ðjrj > 0:28Þ consists of the relative
+approach (RA), LAeq, roughness (R), loudness (N5), and psy-
+choacoustic annoyance (PA); the low correlation tier consists
+of LA10  LA90, tonality (T), and ﬂuctuation strength (FS);
+whereas LCeq  LAeq, impulsiveness (I), and sharpness (S)
+show no correlation. For ISOEventful (ISOEv), these tiers are
+RA, LAeq, T, R, and N5 comprise the most correlated tier
+ðjrj > 0:30Þ; LCeq  LAeq, LA10  LA90, FS, and PA show low
+correlations; I and S show no correlation.
+Among the intercorrelations for the psychoacoustic
+metrics considered for inclusion as input features, we can
+see several very highly correlated features (i.e., >0.9). As
+expected, PA, LAeq, and N5 are highly correlated, meaning
+that careful consideration is paid to these features to ensure
+that they do not contribute to multicollinearity in the ﬁnal
+model.
+B. Modeling
+Two linear multilevel models (MLM) were computed
+to predict (1) ISOPleasant and (2) ISOEventful. These mod-
+els are trained on the 2019 data only, and then applied to
+the acoustic data collected during the 2020 lockdowns, the
+results of which are reported in Sec. III. The inherent
+grouped structure of the SSID database necessitates a
+modeling and analysis approach which considers the differ-
+ing relationships between the objective acoustic features and
+TABLE I. The psychoacoustic features considered for inclusion in the pre-
+dictive models. All of the metrics are calculated for the full length of the
+recording (30 s). As recommended by ISO (2017) and ISO/TS (2018), the
+ﬁfth percentile of loudness is used rather than the average.
+Feature
+Symbol
+Unit
+Calculation method
+Loudness
+(ﬁfth percentile)
+N5
+sones
+ISO (2017)
+Sharpness
+S
+acum
+ISO (2017)
+Roughness
+R
+asper
+ECMA (2020)
+Impulsiveness
+I
+iu
+ECMA (2020)
+Fluctuation strength
+FS
+vacil
+ECMA (2020)
+Tonality
+T
+tuHMS
+Sottek (2016)
+Psychoacoustic
+annoyance
+PA
+—
+Zwicker and Fastl (2007)
+LAeq
+LAeq
+dB
+IEC (2013)
+LA10  LA90
+LA10  LA90
+dB
+ISO (2016)
+LCeq  LAeq
+LCeq  LAeq
+dB
+ISO (2016)
+Relative approach
+RA
+cPA
+Sottek and Genuit (2005)
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+4477
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+the soundscape’s PAQ ratings across the various locations
+and contexts. The individual-level of the models is made up
+of the acoustic features calculated from the binaural record-
+ings made during each respondent’s survey period, whereas
+the group-level includes the categorical LocationID vari-
+able, indicating the location in which the survey was taken,
+acting as a nonauditory contextual factor.
+A separate backward-step feature selection was per-
+formed for each of the outcome models to identify the mini-
+mal feature set to be used for predicting each outcome. In
+this feature selection process, an initial model containing all
+of the candidate features was ﬁt. Each feature was then
+removed from the model one at a time, then the best-
+performing model is selected, and the procedure continues
+stepwise until no improvement is seen by removing more
+features. This process is performed ﬁrst on the location-
+level features (including the potential to remove all features,
+including LocationID, resulting in a “ﬂat” or standard
+multivariate linear regression model), and then on the
+individual-level features. The performance criterion used for
+this process was the Akaike information criterion (AIC;
+Akaike, 1974). To check for multicollinearity among the
+selected features, the variance inﬂation factor (VIF) was cal-
+culated and a threshold of VIF < 5 was set. Any features
+which remained after the backward stepwise selection and
+exceeded this threshold were investigated and removed if
+they were highly collinear with the other features.
+All of the input features are numeric values in the units
+described above. Before conducting the feature selection,
+the input features are z-scaled to enable a proper comparison
+of their effect sizes. After the feature selection, the scaled
+coefﬁcients are used in the text when reporting the ﬁnal ﬁt-
+ted models to facilitate the discussion and comparison
+between the features. The unscaled model coefﬁcients are
+reported in Appendix B to enable the models to be applied
+to new data. To properly assess the predictive performance
+of the model, an 80/20 train-test split with a balanced shufﬂe
+across LocationIDs was used. The z-scaling and feature
+selection were performed on the training set only to prevent
+data leakage. To score the performance of the model on the
+training and testing sets, we use the mean absolute error
+(MAE), which is in the scale of the response feature—for
+ISOPleasant, this means our response can range from -1 to
+þ1. However, because the end-goal of the model is to pre-
+dict the soundscape assessment of the location as a whole,
+rather than the individual responses, we also assess the per-
+formance of the model in predicting the average response in
+each location. To do this, the mean response value for each
+location
+is
+calculated,
+and
+the
+R2
+accuracy
+across
+LocationIDs is reported for the training and testing sets.
+The model ﬁtting and feature selection was performed
+using
+the
+“step”
+function
+from
+lmerTest
+(v3.1.3;
+Kuznetsova et al., 2017) in R statistical software (v4.0.3; R
+Core Team, 2020). The summaries and plots were created
+using the sjPlot package (v2.8.6; L€udecke, 2021) and sea-
+born (v0.11.1; Waskom, 2021).
+C. Online survey
+An online listening test was conducted using the Gorilla
+Experiment Builder3 (Anwyl-Irvine et al., 2020). The partic-
+ipants were exposed to a random selection of 78 binaural
+recordings (39 from 2019 and 39 from 2020, 6 recordings
+per location). Each participant had the option to evaluate
+either 1 or 2 sets of 6 recordings randomly assigned between
+13 stimuli sets. mp3 ﬁles, converted at 256 kBps, were used
+due to the requirements of the Gorilla platform.
+No visual stimuli were used in the experiment. The
+experiment consisted of (1) an initial exercise to enhance
+the chances of participants complying to the instructions and
+wearing headphones; (2) a training set using two randomly
+chosen binaural recordings (then not used in the main task)
+from the dataset; (3) a soundscape characterization question-
+naire starting with an open-ended question about the per-
+ceived sound sources and featuring the same questions as
+the one used in situ, looking into the PAQ of the soundscape
+and the perceived sound source dominance of the following
+four types: trafﬁc noise, other noise, human sounds, and nat-
+ural sounds; (4) a questionnaire on the basic demographic
+TABLE II. The Pearson correlation coefﬁcients between the candidate acoustic features and ISOPleasant and ISOEventful across all 13 locations. Only the
+statistically signiﬁcant (p < 0.01) coefﬁcients are shown.
+Parameter
+ISOPl
+ISOEv
+PA
+N5
+S
+R
+I
+FS
+T
+LAeq
+LA10  LA90
+LCeq  LAeq
+ISOPleasant
+ISOEventful
+0.24
+PA
+0.28
+0.24
+N 5
+0.37
+0.33
+0.94
+S
+0.71
+0.56
+R
+0.36
+0.32
+0.63
+0.74
+0.11
+I
+0.10
+0.37
+0.24
+FS
+0.11
+0.14
+0.37
+0.43
+0.46
+0.55
+T
+0.21
+0.30
+0.58
+0.63
+0.12
+0.54
+0.16
+0.52
+LAeq
+0.34
+0.37
+0.84
+0.93
+0.56
+0.72
+0.09
+0.37
+0.57
+LA10  LA90
+0.18
+0.15
+0.21
+0.33
+0.20
+0.31
+0.36
+0.44
+0.40
+0.23
+LCeq  LAeq
+0.20
+0.49
+0.49
+0.54
+0.31
+0.27
+0.28
+0.61
+0.22
+RA
+0.34
+0.31
+0.60
+0.74
+0.18
+0.71
+0.31
+0.63
+0.58
+0.73
+0.23
+0.14
+4478
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+factors. The questionnaire used in part (3) of the online
+experiment is reported in Appendix A.
+Keeping in mind the remote nature of the study and
+ensuring a minimum level of robustness for reliable sound
+source recognition, an initial exercise was performed, con-
+sisting of a headphone screening test (Woods et al., 2017)
+and a headphone reproduction level adjustment test (Gontier
+et al., 2019). The level adjustment was performed using an
+11-s-long pink noise sample matched to the lowest and high-
+est LA90 values from the experimental set. The participants
+were asked to adjust their listening level to clearly hear the
+quieter sample while keeping the level low enough that they
+do not ﬁnd the louder sample disturbing. The headphones
+screening test followed, featuring a stereo signal of a 1-s-
+long 100 Hz sine tone, generated with Izotope RX 6 applica-
+tion (Izotope, Inc, Camgridge, MA), played at a 3 dB differ-
+ence, where one of the equally loud pairs had its phase
+inverted. A 100 Hz sine was used because the pilot tests
+revealed that the 200 Hz sine tone proposed by Woods et al.
+(2017) created a higher uncertainty, varying across different
+laptop models, and would likely contribute to the chances of
+a participant fooling the test. It was expected that the partici-
+pants using speakers would not be able to hear the sine wave
+or would be fooled by the inverted phase effect and, there-
+fore, not able to pass the trials unless they were indeed using
+headphones. The participants needed to recognize the quiet-
+est of the three samples in a trial of six attempts. Only par-
+ticipants correctly answering ﬁve or more out of six trials
+were allowed to proceed with the experiment. The partici-
+pants were asked not to change their audio output settings
+during
+the
+remainder
+of
+the
+experiment.
+(This
+was
+introduced to ensure that a participant is using a headphones
+playback system, which allows a listener to clearly recog-
+nize a 3 dB difference at 100 Hz as a proxy for sufﬁcient
+audio quality playback.)
+However, after the initial data collection, questions
+were raised as to how the playback loudness impacts the
+ecological validity as it relates to the PAQ of the sound-
+scape. Given this concern, the PAQ responses from the
+online surveys were not included in further data analysis.
+Sound source identiﬁcation is not considered to suffer the
+same validity concerns as this is not directly dependent on
+the absolute playback level and requires only that the partic-
+ipant can clearly hear what is presented. The purpose of the
+calibration procedure described above was to ensure that the
+participant could clearly hear the softest samples used.
+The online questionnaire data were collected between 9
+June and 9 August 2020. Within the Gorilla Experiment
+Builder, a total of 250 attempts to complete the experiment
+were recorded, where 165 participants were excluded either
+on the basis of not passing the headphones screening
+(N ¼ 79) or not completing the experiment, usually before
+engaging into the screening (N ¼ 83). Out of a total of 88
+participants who completed the test, 2 participants were
+excluded as outliers as they provided uniform answers
+across all of the questions and commented on not being able
+to properly hear the stimuli despite their successful comple-
+tion of the training tests. The participants of the online
+experiment were of the mean age of 32.42 years old and
+were 45.1% male and 54.9% female.
+Figure 1 illustrates and summarizes the framework and
+sections described above.
+FIG. 1. The study ﬂow chart indicating the data collection, analysis, modeling, and discussion throughout the study. The subsections in the text to which
+each box refers are indicated in italic.
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+4479
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+III. RESULTS
+The results of the on-site surveys, online experiment,
+and the model development are reported here. They are
+reported following the structure of the ISO/TS 12913 series,
+revealing the perceived sound source dominance, key per-
+ceptual attributes (ISOPleasant and ISOEventful), and the
+lockdown-related changes.
+A. Perceived sound source dominance
+1. 2019 sound source composition per location
+The questionnaire data were collected in English,
+Italian, and Spanish in London and Venice. The respective
+questionnaires can be found in the supplementary material2
+and Mitchell et al. (2020). The data presented here were
+aggregated per the LocationID.
+According to the highest scored mean value of the
+dominant sound source type, as shown in Fig. 2, the loca-
+tions can be grouped into natural sounds dominated
+(RegentsParkJapan, RegentsParkFields, RussellSq), human
+sounds dominated (SanMarco, TateModern, StPaulsRow,
+StPaulsCross, MonumentoGaribaldi), and noise (trafﬁc and
+other noise) sounds dominated (CamdenTown, EustonTap,
+TorringtonSq, PancrasLock). Trafﬁc noise and other noise
+have been combined here and for the rest of the discussion,
+as these responses are highly correlated within this dataset
+and it is not helpful to consider them separately for this anal-
+ysis. This follows the alternative sound source labels given
+in Fig. C.3 of ISO/TS (2018), which combines trafﬁc and
+other noise. Finally, MarchmontGarden is unique in that all
+of the sound source types are assessed as being nearly
+equally present with only 0.2 separating the least present
+(other noise, 2.5) and the most present (trafﬁc noise, 2.7).
+2. Overall change in the perceived sound source
+dominance during lockdown
+1803 words describing the sound sources present in the
+2019 recordings and 1395 words related to the 2020
+recordings were input by participants in response to the
+open-ended question Q1 (see Appendix A). The frequency
+of occurrence, generated using the WordClouds web appli-
+cation (Wordclouds.com, Zygomatic, Vianen, NL), is shown
+in Fig. 3 for the 2019 and the 2020 sets. The most frequent
+words from the 2019 and 2020 groups are noise, car/trafﬁc,
+bird/birds, talk/voice, and (foot)steps.
+The results from the listening tests deployed online
+were analyzed using the SPSS Statistics v.25 (IBM United
+Kingdom
+Limited,
+Portsmouth,
+UK;
+see
+Table
+III).
+Levene’s test for equality of variances resulted in highly sta-
+tistically signiﬁcant values for all four sound sources inves-
+tigated (less than 0.001). Therefore, a Mann-Whitney U-test
+test was used as a nonparametric equivalent to the T-test to
+investigate the change in the perceived dominance of the
+four sound source types (McKnight and Najab, 2010). The
+results for human sounds indicated that the perceived domi-
+nance was greater for the 2019 sample (M ¼ 3.82) than for
+the 2020 sample (M ¼ 2.62), U ¼ 41 656, p < 0.001. The
+results for natural sounds indicated the perceived dominance
+increased
+from
+2019
+(M ¼ 2.00)
+to
+2020
+(M ¼ 2.54),
+U ¼ 63 797, p < 0.001. However, the differences for the
+noise sources (trafﬁc and other) were not statistically signiﬁ-
+cant. The result of these changes is that although human
+sounds were the clearly dominant source across the whole
+dataset in 2019, in 2020, the sound sources are, on average,
+much more evenly balanced. No single sound source cate-
+gory was identiﬁed as frequent across the 2020 dataset.
+B. Model selection, performance, and application
+1. ISOPleasant model selected
+Following the feature selection, the ISOPleasant model
+(given in Table IV) has N5 as the ﬁxed effect with a scaled
+coefﬁcient of -0.06, and LAeq, LA10  LA90, and LCeq  LAeq
+as coefﬁcients which vary depending on the LocationID.
+The training and testing MAE are very similar, indicating
+that the model is neither over- nor underﬁtting to the train-
+ing data (MAEtrain ¼ 0.258; MAEtest ¼ 0.259). The model
+performs very well at predicting the average soundscape
+assessment of the locations (R2
+train ¼ 0:998; R2
+test ¼ 0:85).
+The high intraclass correlation (ICC ¼ 0.90) demon-
+strates that the location-level effects are highly important in
+predicting the pleasantness dimension. Within this random-
+intercept
+random-slope
+model
+structure,
+these
+effects
+include the speciﬁc context of the location (i.e., the
+FIG. 2. (Color online) The mean response per location ID for the perceived
+dominance of the sound source types for the 2019 on-site campaign. The
+values represent the mean response of all of the participants in each location
+to the question “To what extent do you presently hear the following four
+types of sounds?”. The response values range from (1) not at all to (5) dom-
+inates completely.
+FIG. 3. A graphic illustrating the frequency of occurrence of the sound
+sources reported by the participants of the online study across all locations,
+shown for recordings from 2019 (left) and 2020 (right).
+4480
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+LocationID factor) and also the LAeq, LA10  LA90, and
+LCeq  LAeq features, whose effects vary across the loca-
+tions. These slopes are given in Fig. 4. This point highlights
+the need to consider how the context of a location will inﬂu-
+ence the relationship between the acoustic features and the
+perceived pleasantness.
+2. ISOEventful model selected
+Through the group-level feature selection, all of the
+group-level
+coefﬁcients
+were
+removed,
+including
+the
+LocationID factor itself. Therefore, the ﬁnal ISOEventful
+model is a ﬂat multivariate linear regression model rather
+than a MLM. The ISOEventful model is a linear combina-
+tion of S, FS, T, LAeq, and LCeq  LAeq. The training and
+testing MAEs are very similar, indicating that the model
+is not overﬁt to the training data (MAEtrain ¼ 0.233;
+MAEtest ¼ 0.231). The model performs slightly worse than
+the ISOPleasant model at predicting the mean location
+responses
+but
+still
+performs
+well
+(R2
+train ¼ 0:873;
+R2
+test ¼ 0:715).
+3. Application to the lockdown data
+Once the two models were built and assessed, they were
+then applied to the lockdown recording data to predict the
+new soundscape ISO coordinates. Figure 5(a) shows the pre-
+lockdown ISO coordinates for each location, and Fig. 5(b)
+shows how the soundscapes are predicted to have been
+assessed during the lockdown period. As in the model
+assessment process, the predicted responses are calculated
+for each recording individually, and then the mean for each
+location is calculated and plotted on the circumplex.
+In 2019, the majority of the locations in the dataset fall
+within the “vibrant” quadrant of the circumplex, particularly
+those which are primarily dominated by human activity
+(e.g., San Marco, Tate Modern). Camden Town and Euston
+Tap, which are both, in general, visually and acoustically
+dominated by trafﬁc, are the only two to be rated as
+“chaotic,” and no locations are, overall, considered to be
+“monotonous.” During the 2020 lockdown, there is a gen-
+eral positive move along the “pleasant” dimension and gen-
+eral negative move along the “eventful” dimension, but
+TABLE III. The mean values and standard deviations for the perceived dominance of sound sources (rated from one to ﬁve), assessed via an online survey.
+Sound source type
+Campaign
+N
+Mean
+Standard deviation
+Standard error mean
+Trafﬁc
+2019
+422
+2.51
+1.369
+0.067
+2020
+383
+2.56
+1.525
+0.078
+Other
+2019
+422
+2.00
+1.182
+0.058
+2020
+382
+2.23
+1.333
+0.068
+Human
+2019
+423
+3.82
+1.143
+0.056
+2020
+382
+2.62
+1.346
+0.069
+Natural
+2019
+424
+2.00
+1.307
+0.063
+2020
+380
+2.54
+1.441
+0.074
+TABLE IV. The scaled linear regression models of ISOPleasant and ISOEventful for 13 locations in London and
+Venice. ISOPleasant model structure, random slope, random intercept multilevel model (MLM); ISOEventful model
+structure, multivariate linear regression. Statistically signiﬁcant p-values are highlighted in bold.
+ISOPleasant
+ISOEventful
+Predictors
+Estimates
+Confidence Interval (CI)
+p
+Estimates
+CI
+p
+(Intercept)
+0.24
+0.15–0.33
+<0.001
+0.14
+0.12–0.16
+<0.001
+N5
+0.06
+0.10–0.02
+<0.001
+S
+0.08
+0.11–0.06
+<0.001
+FS
+0.02
+0.05–0.00
+0.033
+T
+0.04
+0.01–0.07
+0.002
+L Aeq
+0.14
+0.11–0.17
+<0.001
+LCeq  LAeq
+0.03
+0.05–0.00
+0.052
+Random effects
+r2
+0.11
+s00
+0:03LocationID
+s11
+0:02LocationID:LAeq
+0:00LocationID:LA10LA90
+0:00LocationID:LCeqLAeq
+ICC
+0.90
+N
+13LocationID
+Observations
+914
+914
+MAE train, test
+0.258
+0.259
+0.233
+0.231
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+4481
+https://doi.org/10.1121/10.0008928
+ 03 August 2026 14:10:48
+
+several different patterns of movement can be noted. These
+are investigated further in Sec. IV below.
+IV. DISCUSSION
+A. Interpretation of the results
+To interpret the results addressing RQ1 and RQ2, it is
+necessary to separately look into the overall changes in the
+sound source composition and the affective quality of the
+soundscapes per location.
+1. Change in the sound source composition
+The open-ended question about sound sources in the
+online survey did not reveal a change in the sound source
+types but rather conﬁrmed that all types were still present in
+both conditions. The sound source composition question
+taken from Method A of ISO/TS (2018) revealed a statisti-
+cally signiﬁcant reduction in the human sound sources and a
+signiﬁcant increase in the perceived dominance of natural
+sound sources.
+The most frequent sound sources detected from the
+open-ended question correspond to the main four sound
+source types investigated, which indicated that all types
+remained present in the lockdown condition (at all of the
+locations).
+Although
+the
+trafﬁc
+intensity
+might
+have
+decreased, where the results of the Mann-Whitney U-test
+were inconclusive but supported by the psychoacoustic mea-
+surements (Aletta et al., 2020), the trafﬁc-related sound
+sources were still clearly present.
+The sound source composition of an outdoor acoustic
+environment is extremely complex. Removing one compo-
+nent, such as human sounds, has implications on the whole
+(Gordo et al., 2021). Testing the effects of this in situ is not
+straightforward, and interpreting this study in line with
+“what is the impact of human sounds” must be taken within
+the broader context of the range of conditions, which
+changed within the acoustic environment. However, looking
+at the overarching picture, the lockdown condition was a
+useful and unique case study to understand the impact which
+human activities—and the human sound source type in par-
+ticular—can have on soundscape perception of urban open
+spaces.
+2. Predicted relative changes in soundscapes due to
+COVID-19 restrictions
+To interpret how the change of the acoustic environ-
+ment at the locations examined would have been perceived
+and answer RQ2, the relative change vectors within the cir-
+cumplex space are shown in Fig. 6. This clearly shows a few
+different patterns of the soundscape change resulting from
+the effects of the 2020 lockdown. These can be further
+looked into depending on the magnitude and direction of
+change; shifts between the quadrants, shown in Fig. 5; and
+the sound source composition. The discussion below is orga-
+nized according to groups of locations, which show similar
+behaviors in the predicted magnitude and direction of the
+change, or discusses a single location that is particularly
+notable.
+a. Piazza San Marco. The largest change is seen in
+Piazza San Marco, with a predicted increase in pleasantness
+of 0.24 and a decrease in eventfulness of 0.44, enough to
+move the soundscape out of the vibrant quadrant and into
+the “calm” quadrant. This extreme change (relative to the
+rest of the locations) is exactly what would be expected
+given the unique context of the measurements taken in
+FIG. 4. (Color online) The location-
+level
+scaled
+coefﬁcients
+for
+the
+ISOPleasant model.
+4482
+J. Acoust. Soc. Am. 150 (6), December 2021
+Mitchell et al.
+https://doi.org/10.112
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

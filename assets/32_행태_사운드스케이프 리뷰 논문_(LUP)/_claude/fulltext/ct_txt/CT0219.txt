@@ -1,0 +1,1312 @@
+Journal of Transport Geography 106 (2023) 103510
+Available online 12 December 2022
+0966-6923/© 2022 Elsevier Ltd. All rights reserved.
+The role of neighbourhood design in cycling activity during COVID-19: An 
+exploration of the Melbourne experience 
+Mahsa Naseri a,*, Alexa Delbosc a, Liton Kamruzzaman b 
+a Department of Civil Engineering, Monash University, Melbourne, Australia 
+b Monash Art Design and Architecture, Monash University, Melbourne, Australia 
+A R T I C L E I N F O 
+Keywords: 
+Built environment 
+Recreational cycling 
+Equity 
+COVID-19 
+Mobility pattern 
+Socio-demographic characteristics 
+Connectivity 
+Cycling infrastructure 
+Gender 
+Age 
+A B S T R A C T 
+COVID-19 restrictions imposed significant changes on human mobility patterns, with some studies finding sig­
+nificant increases or decreases in cycling. However, to date there is little understanding on how the 
+neighbourhood-level built environment influenced cycling behaviour during the COVID-19 restrictions. As 
+different neighbourhood have different built environment characteristics, it is possible that cycling trends varied 
+across different built environment settings. We aimed to answer this question by examining recreational cycling 
+during different stages of lockdown in Melbourne, Australia. We compared self-reported recreational cycling 
+frequency (weekly) data from 1344 respondents between pre-COVID and two different stages in lockdown. We 
+tested whether the built environment of their residential neighbourhood and different sociodemographic char­
+acteristics influenced leisure cycling rates and whether the effect of these factors varied between different stages 
+of COVID-19 restriction. We found that cycling declined significantly during the two stages of COVID-19 lock­
+down. Cycling infrastructure density and connectivity are two built environment factors that had a significant 
+effect on limiting the decline in leisure cycling during the pandemic. Furthermore, men and younger people had 
+higher cycling rates in comparison to other groups, suggesting that restrictions on indoor activities and travel 
+limits were not enough to encourage women or older people to cycle more during the pandemic. 
+1. Introduction 
+There is a close relationship between the built environment and 
+active transport (Sallis et al., 2018). Exposure to a supportive built 
+environment such as green space can affect people’s attitudes toward 
+active travel and consequently their travel behaviour (Barajas, 2019; 
+Cheng et al., 2019). The built environment and socio-demographics are 
+the two important factors determining cycling behaviour. Research has 
+shown that these two factors often have interdependencies. For 
+example, low-income people living in high-density areas are less likely 
+to cycle compared to higher-income people for commute purpose 
+(Tortosa et al., 2021; Hino et al., 2014). 
+During COVID-19, many cities implemented significant restrictions 
+on travel distances or reasons to leave the home. These restrictions 
+limited people’s exposure to the built environment, but they also offered 
+opportunities for many people to explore their local surroundings. In 
+addition, the closure of gyms and indoor recreation in many cities meant 
+that, for many people, cycling was one of the few remaining sources of 
+physical activity. In the first year of the pandemic, many cities reported 
+significant increases in cycling rates (Schweizer et al., 2021; Fuller et al., 
+2021) and bicycle purchases(Buehler and Pucher, 2021). As a result, it is 
+possible that the established relationships between the built environ­
+ment and cycling behaviour did not hold during the pandemic. It is even 
+possible that the role of demographics changed during the height of the 
+pandemic; for example, perhaps women were more willing to take up 
+cycling during the pandemic because car traffic levels were much lower. 
+In Melbourne, Australia, residents experienced some of the longest 
+and toughest lockdowns in the world (263 days in total). Two significant 
+‘lock-down’ periods in 2020 restricted travel to within 5 km of people’s 
+homes. Although some cities, including Melbourne, implemented tem­
+porary or permanent cycling infrastructure as an immediate response to 
+COVID-19 (Kraus and Koch, 2021; Dunning and Nurse, 2020), residents 
+in most cases had to cycle within their immediate neighbourhood due to 
+travel restrictions. The regulatory changes in Melbourne highlighted the 
+role of the local built environment on cycling activity. In ‘normal’ times 
+this relationship may be somewhat clouded as people can travel to 
+distant locations to enjoy a walk or bicycle ride. Given that a recrea­
+tional cycling trip length is usually longer than cycling for transport 
+* Corresponding author at: Room 107, Building 36, Clayton Campus, Monash university, VIC 3800, Australia. 
+E-mail address: mahsa.naseri@monash.edu (M. Naseri). 
+Contents lists available at ScienceDirect 
+Journal of Transport Geography 
+journal homepage: www.elsevier.com/locate/jtrangeo 
+https://doi.org/10.1016/j.jtrangeo.2022.103510 
+Received 11 June 2022; Received in revised form 9 November 2022; Accepted 7 December 2022 
+
+Journal of Transport Geography 106 (2023) 103510
+2
+(Xing et al., 2010), the 5 km travel restriction experienced in Melbourne 
+in 2020 is likely to have affected cyclist’s usual behaviour and provides a 
+unique opportunity to explore the role of neighbourhood built envi­
+ronment on cycling for exercise or leisure. 
+Hence there is scope to explore whether the built environment 
+interacted with demographics factors to influence change in leisure 
+cycling during the 2020 COVID-19 lockdowns. This study has the 
+following objectives: 
+1) To examine changes in leisure cycling during COVID-19 and how 
+these relate to the local built environment. 
+2) To determine whether built environment effects varied between 
+different demographic groups during COVID-19. 
+Research on those two main objectives provide insight on the 
+interaction between leisure cycling, the built environment and socio 
+demographic characteristics. 
+2. Literature review 
+2.1. COVID-19 and cycling 
+On January 2020 the World Health Organization (WHO) declared an 
+emergency in regards to COVID-19. Consequent responses such as social 
+distancing, movement restrictions, work from home and travel bans 
+were introduced in different countries and communities. People’s 
+movement and public activities were greatly restricted, causing mobility 
+disruption and modal shift (Barbieri et al., 2020). As a consequence of 
+these restrictions, the amount and pattern of travel changed. This 
+change in mobility pattern is not identical for all transport modes 
+(Bucsky, 2020) and for all neighbourhoods. Road networks, which are 
+dominated by cars and play a major role in urban mobility, were empty 
+due to travel restrictions, working from home, e-learning and reduced 
+number of public activities (De Vos, 2020). 
+Among other modes of transport, cycling received significant atten­
+tion both as a mode for transport and leisure activity. Cycling was 
+popular alternative transport modes during the peak of COVID-19 
+because it provided both exercise and mobility without close exposure 
+to other people who might spread the virus (Budi et al., 2021). In 
+response, many cities reallocated urban spaces for cycling and improved 
+their active transport infrastructure in the hope that increased active 
+travel would be maintained as COVID-19 receded (Combs and Pardo, 
+2021; Shamshiripour et al., 2020). 
+It should be noted that there is a disagreement over whether cycling 
+increased or decreased during the pandemic. Some studies found a in­
+creases in cycling rates (Buehler and Pucher, 2021; Venter et al., 2020) 
+and Strava data in Germany showed cycling in urban public green spaces 
+increased (Schweizer et al., 2021). However other studies found a 
+decrease in cycling rates (Patterson et al., 2021). Clearly there is still 
+much unknown about the interaction between COVID-19 and cycling, 
+and the built environment is likely one key to this relationship. 
+2.2. Built environment and cycling 
+The built environment is the human-made surroundings that support 
+human needs. A long history of research explores how built environment 
+characteristics affect travel behaviour in general and cycling in partic­
+ular (Ewing and Cervero, 2010). This history suggests characteristics of 
+the built environment such as density (Cervero and Duncan, 2003), 
+green space percentage (Pasha et al., 2016), land-use diversity (Cervero 
+et al., 2019), residential area percentage (Sun et al., 2017) and street 
+connectivity (Cerin et al., 2017) may impact people’s cycling behaviour 
+by providing more or fewer opportunities to safely reach local destina­
+tions such as shops or parks. 
+Higher residential density is associated with increasing rates of 
+cycling, at least for transportation (as opposed to recreation) 
+(Beenackers et al., 2012; Saelens et al., 2003). Parks and green space in 
+urban environments provide contact with nature and may increase 
+recreational cycling (M¨aki-Opas et al., 2016; Beenackers et al., 2012). 
+Land-use mix (LUM) quantifies the heterogeneity of the built environ­
+ment and has been shown to be associated with physical activity. More 
+diverse land-use may provide a broader range of destinations within 
+close proximity, which in turn is associated with more active travel trips 
+in a neighbourhood (Saelens et al., 2003). Connectivity, defined as the 
+density of routes (sidewalk/ bike lanes) and connections between them, 
+improves the directness of travel between two points (Jia et al., 2019). 
+Previous studies have demonstrated positive association between street 
+connectivity with physical activity and active transport (Yang et al., 
+2019). Finally, a higher density of cycling infrastructure facilitates op­
+portunities for cycling (M¨olenberg et al., 2019; Hull and O’holleran, 
+2014). 
+However, as yet very little is known about whether differences in the 
+local built environment played a role in differences in people’s cycling 
+response to COVID-19. Since there are different built environment 
+characteristics in each neighbourhood, it is possible that variations in 
+the response to COVID-19 restrictions may be associated with some 
+differences across different neighbourhoods. One study of active travel 
+in Shiraz, Iran found people’s self-reported perception of the quality of 
+urban vegetation, safety of intersections, and cycling infrastructure 
+played an important role in active travel during COVID-19 (Shaer et al., 
+2021). A study in the UK found that, although leisure cycling increased 
+on ‘standard’ roads during lockdowns, the increases were much greater 
+increases in safe cycling lanes and off-road paths (Hong et al., 2020). 
+This leads us to explore the effects of the built environment on leisure 
+cycling behaviour before and during the pandemic. The effect of the 
+built environment on cycling is not necessarily constant over time. It 
+could be that the effect of some characteristics may be stronger or 
+weaker during the pandemic compared to before. For example, diverse 
+land-use could encourage more leisure cycling if interesting destinations 
+are closer to home. But during the pandemic, when non-essential busi­
+nesses were closed, diverse land-use may no longer entice people to ride 
+in their local neighbourhoods. 
+2.3. Socio-demographics and cycling 
+Socio-demographic characteristics may have an effect on leisure 
+cycling, since people with different characteristics are likely to have 
+different preferences or concerns. Moreover, it is possible that people 
+with different sociodemographic characteristics have different access to 
+cycling infrastructure or other encouraging built environment elements. 
+Income, education, immigration status and cultural norms can all 
+influence preferences and attitudes toward cycling(Barajas, 2020; Bar­
+ajas, 2019). But the most noticeable examples of demographic in­
+fluences are the role of gender and age. In most countries, men are more 
+likely to ride a bicycle than women (Wittmann et al., 2015; Prati et al., 
+2019; Heesch et al., 2012). This is primarily because on average, women 
+are more likely to prefer separated cycling infrastructure because it in­
+creases their sense of safety (Aldred et al., 2017). Therefore, it is possible 
+men and women living in the same neighbourhood have equal access to 
+cycling infrastructure, but in practice women’s participation in cycling 
+is less than men because of the difference in sense of safety. 
+Age is another significant factor in studies of cycling. In many 
+countries cycling is more likely to occur among young rather than older 
+adults (Bourke et al., 2019; Zander et al., 2013; Grudgings et al., 2021). 
+Aldred et al. (2016) examined places where cycling rates were 
+increasing to determine whether older adults and women were also 
+increasing their cycling rates. Their results found no improvement in 
+representation among older people or women. A possible reason for this 
+lack of diversification is lack of change in the environment which did not 
+reflect the needs of female or older cyclists. 
+In addition, people with different sociodemographic characteristics 
+may be exposed to different types of built environments and cycling 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+3
+infrastructure. Income, education and employment status are three 
+closely related sociodemographic characteristics related to uneven dis­
+tribution of cycling infrastructure. In many cities, low-income people are 
+forced to live far from the city centre and they experience long com­
+mutes between their home and workplace which cause reduction of 
+cycling rates as a commute mode. Moreover, many analyses have found 
+that low-income people have poor access to cycling infrastructure 
+whereas more affluent areas have better access to cycling infrastructure 
+(Winters et al., 2018; Pistoll and Goodman, 2014; Flanagan et al., 2016; 
+Braun et al., 2019). 
+It may be that COVID-19 created a situation that overcame some of 
+these barriers to cycling for low-income people, women or older adults. 
+For example, because car traffic was extremely low during COVID 
+lockdowns, perhaps women or older adults felt safer riding a bicycle 
+than they might have before lockdowns and increase their cycling rate 
+(Fischer et al., 2022). However, at least one study suggests that COVID- 
+19 has not changed these relationships; a study in the United States 
+found that for most older adults, their cycling habits did not change 
+during COVID and that older adults with a higher income are more likely 
+to report an increase in cycling during COVID-19 (Gladwin and Duncan, 
+2022). 
+3. Data sources 
+3.1. Study area 
+Melbourne is the capital and most-populous city of the Australian 
+state of Victoria. We chose Melbourne as a case study location because it 
+experienced among the world’s longest and most restrictive lockdowns 
+(263 days of lockdown in total). The first lockdown restrictions were 
+progressively implemented by Australian government in mid-late March 
+2020 to restrict citizens’ movements and reduce their opportunities to 
+gather with other people outside their household. It lasted until mid- 
+May 2020. The second wave of infections emerged in Victoria during 
+May and June, which led to a second lockdown in late June which 
+eventually lasted almost four months. In these lockdown periods, a 5-km 
+travel restriction forced people to stay in their neighbourhood and use 
+their local infrastructure for exercise and leisure. Schools were closed for 
+much of these periods and any non-essential workers were forced to 
+work from home. 
+These two lockdowns in Melbourne substantially disrupted normal 
+urban life. However, they also provided an opportunity to conduct a case 
+study to evaluate changes in active travel behaviour across three stages 
+(pre-COVID, first-, and second-lockdowns) and how these changes relate 
+to the built environment in which people lived. 
+3.2. Survey data 
+We used two different datasets to compare recreational cycling 
+behaviour, which is done for purpose of pleasure not reaching to a 
+specific destination, in different built environments. First, we used a self- 
+reported questionnaire survey data that measured travel behaviour in 
+different stages of lockdown. The survey was conducted as part of the ‘C- 
+19 Long Term Transport Impact Study’ in Melbourne (Currie et al., 
+2021). This questionnaire gathered a wide range of information about 
+respondent travel behaviour, commute mode, changes to working from 
+home, attitudes and socio-demographics. Although the survey gathered 
+a range of travel behaviour information from the respondents, we only 
+explored their self-reported recreational cycling data in this paper. 
+The questionnaire survey was conducted through an online panel 
+survey company. The survey was run in two different waves; the first lag 
+of data covered the first lockdown in Melbourne and the second one 
+gathered after the second lockdown and latest travel restrictions were 
+announced. As we are interested in whether recreational cycling 
+behaviour changed during the two different lockdown periods, we 
+analysed data from the second wave of this dataset (sample size 1341 
+responses), which ran from 16 July to 8 August 2020. The characteristics 
+of the sample are presented in Table 1. It shows that the survey sample 
+was over-representative of females but the income and age character­
+istics were broadly similar to the Melbourne average. 
+Respondents were asked to indicate how often they cycled for rec­
+reational purposes in three different stages of the lockdown: Stage 1- 
+pre-COVID, Stage 2- during first lockdown, and Stage 3- during second 
+lockdown. Note that the two lockdown periods were during autumn and 
+winter of 2020 when cycling rates are historically lower (Pazdan, 2020). 
+Responses were recorded on a seven-point scale: 
+0. Didn’t do this 
+1. 1 time a week 
+2. 2 times a week 
+3. 3 times a week 
+4. 4 times a week 
+5. 5 times a week 
+6. >5 times a week 
+Note that because these cycling behaviours were measured retro­
+spectively, changes between ‘pre-COVID’ and the second wave of COVID 
+rely on respondent recall. 
+3.3. Built environment data 
+The second set of data set that we used in this research is open spatial 
+data to quantify built environment characteristics. We linked the cycling 
+questions and socio-demographics of respondents to the built environ­
+ment of the residential location reported by respondents. As we only 
+knew the suburb of the respondents, we had to use the spatial resolution 
+of SA2 statistical area for this analysis, which matches closely to the 
+suburb boundary. 
+Based on the literature, we calculated built environment indicators 
+including residential density (Forsyth et al., 2007), green space area 
+(Watts et al., 2013), and land-use mix (Cervero and Kockelman, 1997), 
+street connectivity (Bentley et al., 2018), and cycling infrastructure 
+coverage (Buehler and Dill, 2016). 
+To quantify the built environment characteristics, baseline data were 
+downloaded from Victorian Government open data and GIS methods are 
+utilised to form indicators. For dwelling numbers in each neighbour­
+hood, the 2016 census data were used. Green space percentage was 
+calculated based on the total area of parklands within each neighbour­
+hood. Residential area percentage was determined based on the total 
+area of residential blocks in each neighbourhood, and residential density 
+was based on the number of dwellings per Km2 in each neighbourhood. 
+Land-use diversity index was measured by simpson’s diversity index 
+Table 1 
+Sociodemographic characteristics of sample. 
+Socio demographic characteristic 
+Sample 
+Percentage 
+Melbourne average 
+(ABS 2016) 
+Gender 
+Male 
+37.9% 
+49.0% 
+Female 
+62.0% 
+51.0% 
+Income 
+Low (0-$530 per 
+week) 
+34.0% 
+38% 
+Medium ($530–$1870 
+per week) 
+48.7% 
+42.2% 
+High (> $1870 per 
+week) 
+17.3% 
+19.8% 
+Age 
+Youth (15–24) 
+11.8% 
+13.4% 
+Adult (25–64) 
+72.0% 
+54.3% 
+Older adult (>65) 
+16.1% 
+14.1% 
+Employment 
+Employed 
+55.4% 
+88.6% 
+Non-worker 
+36.2% 
+6.8% 
+Not in labour force 
+8.4% 
+4.6% 
+Education 
+Non-university degree 
+40.5% 
+72.5% 
+Higher education 
+59.5% 
+27.5% 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+4
+(Eq. (1)) in which a is the total area of specific land-use in a neigh­
+bourhood and A is the total area of all land-use categories within the 
+neighbourhood. This indicator value ranges from 0 to 1; and a higher 
+value indicates more diverse land-use pattern (Kamruzzaman and Hine, 
+2013). 
+Land −use diversity = 1 −
+∑(a
+A
+)2
+(1) 
+Cycling infrastructure data were downloaded from Vicroads and 
+AURIN and by applying GIS methods, we calculated the length of cycling 
+infrastructure in each neighbourhood. In order to have a normalized 
+comparision among different neighbourhoods, we divided total length 
+of bike lanes (km) by neighbourhood area (km2). For connectivity, we 
+extract the number of 3 (or more) way intersections and divided by 
+neighbourhood area (km2). 
+In order to conduct a comparative analysis between built environ­
+ment characteristics and cycling dynamic, we considered quartiles of 
+each built environment characteristic. The distribution of built envi­
+ronment variables is provided in Table 2 and the spatial distribution of 
+them is provided in Fig. 1. 
+4. Analytical methods 
+In this study we used two different analyses to understand the cycling 
+trend during different stages of lockdown. First, we used descriptive 
+statistics to analyse the distribution of leisure cycling across the 3 
+different stages of COVID-19. To determine if there was a statistically 
+significant change in cycling frequency between the three time periods 
+(before-COVID, during-COVID and between-waves), we used Cochran’s 
+Q test, which is an extension of McNemar test based on Chi square 
+distribution for testing differences between repeated data. Then, we 
+compared the mean cycling rates across different built environment and 
+socio-demographic characteristics. 
+In the second stage of the results, we used multivariate models to 
+isolate the association between the built environment, demographics 
+and time period on cycling rates. Because we asked respondents to 
+report their cycling frequency for three different time periods, we 
+needed to use repeated-measures modelling. After checking the cycling 
+data distribution, we found that our data set has a negative-binomial 
+distribution. Therefore, we used multilevel modelling to analyse 
+repeated measures data with a negative-binomial distribution. As our 
+explanatory variables (built environment and socio-demographics) do 
+not change during the study time, we consider them as fixed effects in all 
+models. This method gives us the flexibility to investigate potential in­
+teractions between different variables. 
+In order to test the main effects of COVID stage, built environment 
+and demographics, as well as their potential interactions, we formulated 
+a series of six models. Models 1 and 2 only considered the main effects, 
+testing whether demographics improve the model fit. Model 3 explores 
+the research aim of whether or not the effect of built environment varied 
+depending on COVID stage, by adding a series of interactions between 
+the two variables. Model 4 checks whether the influence of de­
+mographics varies based on COVID stage through interaction effects. 
+And finally, Models 5 and 6 test whether the influence of the built 
+environment interacts with participants’ gender. 
+In order to interpret the effects of the models, we graphed out the 
+estimated marginal means from the model results, using a contrast test 
+to determine whether there were statistically significant differences 
+between groups. 
+5. Descriptive results 
+5.1. Leisure cycling dynamics and the built environment 
+In this study, leisure cycling rates declined during COVID-19. Table 3 
+shows that overall, leisure cycling declined during the first and second 
+lockdown stages. The changes in mean cycling level between different 
+stages were statistically significant (F(2,4020) = 7.467, p < 0.01) based 
+on the multilevel modelling results by considering time in the model. 
+Similarly, the percentage of people who choose to ride a bike as their 
+leisure physical activity dropped from 24.5% before COVID-19 to 21.0% 
+in the first lockdown and 16.8% in the second lockdown. Based on the 
+Cochran’s Q test results for cycled / did not cycle, the changes in cycling 
+level during different stages of lockdown is statistically significant (χ2 
+(2) = 72.518, p < 0.01). 
+We now examine whether the built environment influenced leisure 
+cycling rates, perhaps ‘protecting’ against the impact of COVID-19. 
+Fig. 2 shows the changes in leisure cycling during different lockdown 
+stages by built environment characteristics. As we would expect, people 
+living in neighbourhoods with higher cycling infrastructure density 
+were more likely to cycle pre-COVID and also during the first lockdown. 
+However, by the second lockdown these rates had dropped to be similar 
+in all areas. 
+Unexpectedly, people who live in the lowest quartile of green space 
+had the highest cycling level before COVID-19 but their cycling level 
+dropped significantly in lockdown. This may be because places with 
+lower green space also tended to have higher cycling infrastructure 
+density (see Fig. 1). As with cycling infrastructure, by the second lock­
+down cycling rates are similar in all areas. 
+Land-use diversity does not appear to interact with cycling rates 
+either before or during COVID. In contrast, street connectivity was 
+clearly associated with higher cycling rates pre-COVID. Although 
+cycling rates reduced, they remained higher among highly connected 
+neighbourhoods. 
+The effect of residential land use varies depending on whether you 
+looked at residential density or residential area percentage. In higher 
+residential density areas, we saw higher cycling levels pre-pandemic. 
+Although they dropped during the COVID-19 lockdowns, the rate 
+remained higher high-density areas compared to low-density areas. In 
+contrast, people who lived in neighbourhoods with the lowest residen­
+tial percentage had the highest level of cycling but this dropped off to the 
+lowest levels during COVID. An area with lowest residential percentage 
+means that these are non-residential in nature (e.g. predominantly 
+commercial, industrial), which remained closed during the lockdowns 
+providing little opportunities for cycle. 
+5.2. Leisure cycling dynamics and socio-demographic characteristics 
+Demographic characteristics play an important role in decisions to 
+cycle, and they may influence whether someone persists with cycling 
+Table 2 
+Built environment measurement method and their quartile measurement. 
+Measure 
+Measurement method 
+Lowest quartile 
+Second quartile 
+Third quartile 
+Highest quartile 
+Residential Area 
+percentage 
+Area of residential blocks divided by neighbourhood area (Km2) 
+0–34.47 
+34.47–58.89 
+58.89–75.68 
+75.68–97.66 
+Residential density 
+Number of dwellings divided by neighbourhood area (Km2) 
+0–581.79 
+581.79–918.825 
+918.825–2075.586 
+2075.586–6874.92 
+Green space percentage 
+Area of parklands divided by neighbourhood area (Km2) 
+0–6.09 
+6.09–11.38 
+11.38–18.38 
+18.38–66.31 
+Land use diversity 
+Simpson diversity index 
+0–0.38 
+0.38–0.52 
+0.52–0.68 
+0.68–2.29 
+Cycling infrastructure 
+Bicycle lane length (km) divided by neighbourhood area (Km2) 
+0–0.71 
+0.71–1.66 
+1.66–3.24 
+3.24–7.09 
+Connectivity 
+Number of intersections divided by neighbourhood area (Km2) 
+2.36–54.07 
+54.07–65.85 
+65.85–105.42 
+105.42–225.03 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+5
+during the pandemic. For this reason, we compared key demographic 
+variables across the pandemic periods. 
+Fig. 3 shows the changes in leisure cycling during lockdown stages 
+based on socio-demographic characteristics. Similar to past research, 
+people were more likely to cycle for leisure pre-COVID if they were 
+male, a young adult, employed, medium income and with a university 
+degree. Cycling rates fell for all demographic groups during COVID and 
+at similar rates. 
+6. Multivariate results 
+In the next step we assess the interaction of built environment and 
+socio-demographic characteristics on leisure cycling during pandemic 
+stages. 
+From the descriptive analysis, it appears that some demographic and 
+built environment characteristics such as gender and residential area 
+percentage may be influencing cycling rates before and during COVID. 
+In order to explore the combined influence of built environment and 
+socio-demographic characteristics, we conducted a series of multilevel 
+models for repeated-measure data to examine the association between 
+built environment characteristics, socio-demographics and cycling 
+levels over time. 
+6.1. Fixed effects models 
+In this section, we interpret the initial fixed effects F-tests of Models 1 
+to 6 (in Table 4), to determine whether each variable is a significant 
+contribution to the overall model. The individual coefficients are 
+interpreted for the two best-fitting models (Models 2 and 6) using esti­
+mated marginal means. The full set of coefficient results are provided in 
+Appendix A. 
+The first two models are ‘base models’ that test the effects of built 
+environment and demographics on leisure cycling rates over time. In 
+this and every model except model 4, the impact of COVID stage was 
+significant, reflecting the decrease in leisure cycling across the two 
+waves of COVID. In Model 1, residential area percentage, residential 
+density, cycling infrastructure density, and connectivity have significant 
+effects on cycling rates. In Model 2, including demographics reduced the 
+number of significant built environment variables to only include 
+cycling infrastructure density, as well age and gender. Because including 
+demographics improved the model fit (AIC reduced by 119 and BIC 
+reduced by 69), they were included as control variables in the remaining 
+Fig. 1. Spatial distribution of different built environment characteristics. 
+Table 3 
+Leisure cycling distribution during the pandemic in Melbourne. 
+Before COVID-19 
+First lockdown 
+Second lockdown 
+Didn’t do this 
+75.5% 
+79.0% 
+83.2% 
+1 per week 
+9.3% 
+8.4% 
+6.8% 
+2 per week 
+5.5% 
+4.7% 
+3.2% 
+3 per week 
+4.5% 
+3.8% 
+2.8% 
+4 per week 
+2.3% 
+1.9% 
+1.9% 
+5 per week 
+1.4% 
+1.1% 
+1.1% 
+5+ per week 
+1.4% 
+1.1% 
+1.1% 
+Total cycled 
+24.5% 
+21.0% 
+16.8% 
+Mean 
+0.59 
+0.49 
+0.41 
+Std. Deviation 
+1.27 
+1.16 
+1.11 
+Note: Change in mean and percentage who cycled were both statistically 
+significant. 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+6
+models. 
+One of our research questions was to explore whether built envi­
+ronment characteristics might ‘protect against’ reductions in cycling 
+during COVID. For this reason, in Model 3 we included the interaction 
+between built environment parameters and time. None of the in­
+teractions were statistically significant, suggesting that the effect of built 
+environment on leisure cycling was the same regardless of the time 
+period. 
+On a similar vein, we tested whether the effect of demographic 
+characteristics varied depending on the time period, because people 
+with different demographic characteristics may have different responses 
+to COVID-19 related restrictions (Model 4). Results of this model shows 
+there is not any significant interaction between demographic charac­
+teristics and time on leisure cycling. 
+Finally, because of the well-documented relationship between 
+gender and cycling, we considered a detailed look at the interaction 
+between gender and built environment variables (Model 5). Based on 
+this model’s results, residential area percentage has a significant 
+0.50
+0.47
+0.74
+0.63
+0.48
+0.37
+0.57
+0.53
+0.44
+0.32
+0.48
+0.38
+0
+1
+2
+3
+Lowest quartile
+Second quartile
+Third quartile
+Highest quartile
+er
+u
+siel
+f
+o
+e
+g
+are
+v
+A
+cycling per week
+Cycling infrastructure density
+a
+0.72
+0.44
+0.61
+0.59
+0.56
+0.47
+0.44
+0.50
+0.43
+0.41
+0.37
+0.43
+0
+1
+2
+3
+Lowest quartile
+Second quartile
+Third quartile
+Highest quartile
+Average of leisure 
+cycling per week
+Green space percentage
+b
+0.63
+0.57
+0.51
+0.63
+0.50
+0.50
+0.45
+0.50
+0.40
+0.44
+0.36
+0.43
+0
+1
+2
+3
+Lowest quartile
+Second quartile
+Third quartile
+Highest quartile
+er
+u
+siel
+f
+o
+e
+g
+are
+v
+A
+cycling per week
+Land-use diversity
+0.37
+0.58
+0.65
+0.75
+0.35
+0.42
+0.55
+0.63
+0.32
+0.39
+0.47
+0.46
+0
+1
+2
+3
+Lowest quartile
+Second quartile
+Third quartile
+Highest quartile
+Average of leisure 
+cycling per week
+Connectivity
+d
+0.44
+0.53
+0.65
+0.72
+0.38
+0.40
+0.55
+0.62
+0.35
+0.35
+0.50
+0.44
+0
+1
+2
+3
+Lowest quartile
+Second quartile
+Third quartile
+Highest quartile
+Average of leisure 
+cycling per week
+Residential density
+Before COVID-19
+First lockdown
+Second lockdown
+e
+0.65
+0.58
+0.62
+0.49
+0.47
+0.53
+0.51
+0.44
+0.33
+0.47
+0.45
+0.38
+0
+1
+2
+3
+Lowest quartile
+Second quartile
+Third quartile
+Highest quartile
+Average of leisure 
+cycling per week
+Residential area percentage
+f
+c
+Fig. 2. Dynamics of leisure cycling by considering built environment characteristic. 
+0.77
+0.62
+0.33
+0.62
+0.52
+0.24
+0.54
+0.44
+0.19
+0
+1
+2
+3
+youth
+adult
+older adult
+Average of leisure 
+cycling per week
+Age
+a
+0.41
+0.88
+0.32
+0.77
+0.27
+0.64
+0
+1
+2
+3
+Female
+Male
+Average of leisure 
+cycling per week
+Gender
+Average of Before COVID
+Average of First lockdown
+Average of Second lockdown
+b
+0.66
+0.47
+0.64
+0.59
+0.34
+0.49
+0.49
+0.29
+0.36
+0
+1
+2
+3
+Employed
+Non worker
+Not in labor force
+Average of leisure 
+cycling per week
+Employment
+c
+0.53
+0.64
+0.55
+0.42
+0.54
+0.48
+0.37
+0.42
+0.47
+0
+1
+2
+3
+Low
+Medium
+High
+Average of leisure 
+cycling per week
+Income
+d
+0.66
+0.48
+0.53
+0.43
+0.45
+0.35
+0
+1
+2
+3
+Higher education
+Non university degree
+Average of leisure 
+cycling per week
+Education
+e
+Fig. 3. Dynamics of leisure cycling by considering socio-demographic characteristics. 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+7
+interaction with gender. Finally, to isolate this interaction effect, we ran 
+a final model (Model 6). In this model the interaction of gender and 
+residential area percentage is statistically significant. Moreover, in this 
+model connectivity, cycling infrastructure density, residential density, 
+and age have significant effect on leisure cycling. This model has the best 
+fit based on AIC, but a slightly poorer fit than Model 2 using BIC (6956.8 
+vs 6943.5); this is not surprising as BIC penalises additional parameters 
+more strongly than AIC. 
+In the next section we interpret the estimated marginal means for the 
+two best-fitting models, Model 2 (Base model with built environment 
+and demographics) and Model 6 (Built environment, demographics and 
+gender by residential area percentage). 
+6.2. Estimated marginal means 
+Fig. 4 shows the estimated marginal means of the significant effects 
+from Model 2 (base model of built environment and demographics) and 
+their contrast (shown by an asterisk). The significant variables were 
+COVID stage (Fig. 4-a), cycling infrastructure density (Fig. 4-b), gender 
+(Fig. 4-c) and age (Fig. 4-d). Echoing Table 3, over time we saw a 
+declining trend in leisure cycling, although only the difference between 
+pre-COVID and the second lockdown was statistically significant. 
+Cycling infrastructure density has a significant effect on leisure 
+cycling, but the estimated marginal means show that the relationship is 
+not intuitive: the highest quartile of infrastructure density had the lowest 
+leisure cycling rates. This could be because the higher leisure cycling 
+rates in the descriptive comparison (Fig. 2) was masking other factors 
+that could be associated with higher leisure cycling, such as a higher 
+concentration of young adults in places with more cycling infrastruc­
+ture. The demographic results show that, as found in the descriptive 
+results, men are more likely to cycle for leisure than women and both 
+adults and young adults are more likely to cycle than older adults. 
+Fig. 5 shows the estimated marginal means for the significant vari­
+ables of Model 6 and their contrast (shown by a star). The significant 
+variables from Model 2 were also significant in this model, but it also 
+includes connectivity and the interaction between gender and residen­
+tial area percentage. 
+As in Model 2, in this model leisure cycling declined over time but 
+only the difference between pre-COVID and the second lockdown were 
+significant (Fig. 5-a). Also similar to Model 2, leisure cycling was lowest 
+in locations with the highest cycling infrastructure density (Fig. 5-b). 
+People who lived in more connected neighbourhoods cycled more but 
+the contrast test did not find statistically significant differences between 
+individual categories of connectivity (Fig. 5-c). Age was the only de­
+mographic characteristics that had a significant effect on the leisure 
+cycling dynamic in Model 6. Leisure cycling had a declining trend by 
+Table 4 
+Fixed effects F-tests between built environment characteristics, socio-demographics, and leisure cycling. 
+Model 1 
+Base model: built 
+environment 
+Model 2 
+Base model: BE +
+demographics 
+Model 3 
+BE and time 
+interaction 
+Model 4 
+Demographics and time 
+interaction 
+Model 5 
+BE and gender 
+interaction 
+Model 6 
+Gender and residential 
+percentage interaction 
+COVID stage 
+7.12* 
+6.57* 
+6.73* 
+2.16 
+7.58* 
+6.90* 
+Residential area percentage 
+2.67* 
+1.24 
+1.40 
+1.22 
+1.19 
+1.34 
+Residential density 
+2.59* 
+2.13 
+2.23 
+2.12 
+2.61* 
+2.05 
+Green space percentage 
+2.20 
+1.65 
+1.74 
+1.62 
+1.37 
+1.39 
+Land-use diversity 
+1.04 
+1.70 
+1.82 
+1.68 
+1.69 
+1.81 
+Cycling infrastructure 
+density 
+5.66* 
+4.26* 
+4.41* 
+4.28* 
+5.21* 
+4.61* 
+Connectivity 
+4.17* 
+2.21 
+2.18* 
+2.22 
+3.36* 
+2.59* 
+Gender 
+– 
+88.13* 
+88.39* 
+87.19* 
+77.10* 
+84.98* 
+Income 
+– 
+2.83 
+2.83 
+2.79 
+2.77 
+2.39 
+Age 
+– 
+10.89* 
+10.68* 
+10.93* 
+12.24* 
+10.95* 
+Employment 
+– 
+0.35 
+0.40 
+0.42 
+0.31 
+0.48 
+Education 
+– 
+2.07 
+1.99 
+1.92 
+3.87* 
+1.75 
+Residential area percentage 
+* COVID stage 
+– 
+– 
+0.60 
+– 
+– 
+– 
+Residential density * COVID 
+stage 
+– 
+– 
+0.33 
+– 
+– 
+– 
+Green space percentage * 
+COVID stage 
+– 
+– 
+0.26 
+– 
+– 
+– 
+Land-use diversity * COVID 
+stage 
+– 
+– 
+0.27 
+– 
+– 
+– 
+Cycling infrastructure 
+density * COVID stage 
+– 
+– 
+0.51 
+– 
+– 
+– 
+Connectivity * COVID stage 
+– 
+– 
+0.38 
+– 
+– 
+– 
+Gender * COVID stage 
+– 
+– 
+– 
+0.16 
+– 
+– 
+Income * COVID stage 
+– 
+– 
+– 
+0.29 
+– 
+– 
+Age * COVID stage 
+– 
+– 
+– 
+0.07 
+– 
+– 
+Employment * COVID stage 
+– 
+– 
+– 
+0.16 
+– 
+– 
+Education * COVID stage 
+– 
+– 
+– 
+0.38 
+– 
+– 
+Residential area percentage 
+* Gender 
+– 
+– 
+– 
+– 
+3.06* 
+3.49* 
+Residential density * 
+Gender 
+– 
+– 
+– 
+– 
+0.17 
+– 
+Green space percentage * 
+Gender 
+– 
+– 
+– 
+– 
+2.45 
+– 
+Land-use diversity * Gender 
+– 
+– 
+– 
+– 
+0.26 
+– 
+Cycling infrastructure 
+density * Gender 
+– 
+– 
+– 
+– 
+0.68 
+– 
+Connectivity * Gender 
+– 
+– 
+– 
+– 
+2.48 
+– 
+Model fit statistics 
+AIC 
+6874.05 
+6754.95 
+6813.95 
+6783.78 
+6762.59 
+6749.47 
+BIC 
+7012.40 
+6943.48 
+7227.50 
+7072.48 
+7063.80 
+6956.80 
+Log likelihood 
+6829.80 
+6694.48 
+6679.71 
+6690.69 
+6665.41 
+6682.91 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+8
+increasing age and the difference between older people cycling level and 
+young people is statistically significant (Fig. 5-d). 
+Finally, the interaction between gender and residential area per­
+centage was statistically significant. Among women, living in locations 
+with higher residential percentage was associated with more leisure 
+cycling. In contrast, men showed the opposite trend with the lowest 
+leisure cycling in areas with the highest residential percentage. This 
+could suggest that women are responding to the built environment 
+differently to men (Fig. 5- e). 
+7. Discussion 
+This paper had two research objectives. In response to the first 
+objective, we found a declining trend for leisure cycling in our survey 
+sample. This was somewhat unexpected as recent studies found in­
+creases in non-commute cycling during COVID-19 (Hong et al., 2020), 
+although other studies showed a decrease in cycling rates (Patterson 
+et al., 2021). This study could be reflecting a real reduction in leisure 
+cycling, or it could be due to recall bias among survey participants. It 
+may be, for example, the commuter cyclists are over-estimating how 
+much they cycled before COVID even though we asked them to only 
+report on cycling for leisure. 
+Moreover, we found that leisure cycling rates were only sensitive to 
+cycling infrastructure density and, to some extent, connectivity. People 
+who lived in neighbourhoods with greater connectivity cycled more, 
+suggesting that greater intersection density encourages leisure cycling. 
+However, the effect of cycling infrastructure density was non-intuitive. 
+In the descriptive comparisons, higher infrastructure density was asso­
+ciated with more leisure cycling, especially pre-COVID. But in the 
+models that control for demographics and other variables, higher 
+infrastructure density was associated with lower cycling. This could be 
+because our built environment measures were not spatially sensitive 
+enough as we could only link survey participants to an SA2 census 
+boundary (a neighbourhood of around 10,000 people). This could also 
+explain why we did not see more significant associations between the 
+built environment and leisure cycling. Another possible explanation 
+could be concentration of bike lanes and infrastructure in Melbourne’s 
+inner-city area, where there is less green space and other characteristics 
+that encourage people to cycle for recreation rather than commute. 
+Interestingly, we did not find any interaction over time between 
+cycling and built environment characteristics. The effects of infrastruc­
+ture were the same whether we were predicting cycling before COVID- 
+19 or during the first or second lock-down. This is indirect contrast to 
+a paper in the UK that found a greater influence of cycling infrastructure 
+during COVID-19 (Hong et al., 2020). 
+Finally, we wanted to examine the relationship between leisure 
+cycling and socio-demographic characteristics. As expected from the 
+literature, younger adults and men were more likely to cycle than older 
+adults and women. This did not vary over time; for example, women and 
+older people did not suddenly take up cycling more during COVID-19. 
+We did, however, find that women were more likely to cycle if they 
+lived in more residential neighbourhoods, whereas men were not 
+influenced by the residential area of their home location. 
+These findings suggest that although planners have tried to make 
+Fig. 4. Estimated marginal means for significant fixed effects in Model 2. 
+Note: a ^ indicates the baseline condition and an asterisk indicates this value is statistically significantly different. 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+9
+cycling more accessible by adding new cycling infrastructure during the 
+pandemic, there is still a significant gender and age gap in cycling. Being 
+forced to exercise within 5 km of their home, at a time when car traffic 
+was negligible, was not enough incentive to encourage these groups to 
+cycle more, at least not in this study sample. It suggests that more needs 
+to be done to attract these groups to cycling and reflect their needs in 
+future planning. 
+8. Conclusion 
+Cycling is potential means of physical activity which can contribute 
+to people’s health. It can be considered to be a potential low-cost 
+strategy to improve communities’ health and wellbeing. The link be­
+tween physical activity and health, physical and mental, has long been 
+known (Warburton and Bredin, 2016; Biddle et al., 2019). Supportive 
+infrastructure plays an important role for people with inadequate access 
+to private recreational facilities or limited mobility such as low-income 
+people, youth, and women. These vulnerable groups are already at 
+greater risk of physical inactivity; therefore, it is important to consider 
+them in neighbourhoods planning. This need was recognized by the 
+United Nations who have codified the aim of providing “universal access 
+to safe, inclusive and accessible, green and public spaces, particularly for 
+women and children, older persons and persons with disabilities” in 
+their Sustainable Development Goals (United Nations General Assembly, 
+Fig. 5. Estimated marginal means for significant fixed effects in Model 6. 
+Note: a ^ indicates the baseline condition and an asterisk indicates this value is statistically significantly different. 
+M. Naseri et al. 
+
+Journal of Transport Geography 106 (2023) 103510
+10
+2015). 
+Although the travel restrictions of COVID-19 are an extremely 
+unique circumstance that is unlikely to be repeated, the findings from 
+this paper are likely to be relevant into the future. Many of the most 
+vulnerable people in society – teenagers, older adults, people living in 
+poverty and people who cannot drive – are more likely to be dependent 
+on their local neighbourhood to provide access to safe cycling options. 
+As cycling barriers and incentives are a multidimensional phenomenon, 
+we may be better able to plan for the travel needs of the most vulnerable 
+if we acknowledge the interdependency of socio-economic characteris­
+tics and neighbourhood built environment. 
+CRediT authorship contribution statement 
+Mahsa Naseri: Conceptualization, Methodology, Writing – original 
+draft, Visualization. Alexa Delbosc: Conceptualization, Methodology, 
+Writing – review & editing. Liton Kamruzzaman: Conceptualization, 
+Methodology, Writing – review & editing. 
+Declaration of Competing Interest 
+None. 
+Data availability 
+The authors do not have permission to share data. 
+Acknowledgements 
+The authors would like to thank Graham Currie and his team for 
+providin
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

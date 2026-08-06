@@ -1,0 +1,891 @@
+Journal of Transport Geography 124 (2025) 104179
+Available online 6 March 2025
+0966-6923/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+Deciphering urban cycling: Analyzing the nonlinear impact of street 
+environments on cycling volume using crowdsourced tracker data and 
+machine learning
+Ming Gao a,b, Congying Fang c,*
+a School of Architecture and Design, Harbin Institute of Technology; Key Laboratory of Cold Region Urban and Rural Human Settlement Environment Science and 
+Technology, Ministry of Industry and Information Technology, Harbin 150006, China
+b Department of Architecture, College of Design and Engineering, National University of Singapore, Singapore 117566, Singapore
+c Graduate School of Science and Technology, Kumamoto University, Kumamoto 860-8555, Japan
+A R T I C L E I N F O
+Keywords:
+Cycling amount
+Built environment
+Street view images
+Machine learning
+A B S T R A C T
+Cycling mitigates urban development-related traffic and environmental issues and benefits human health. 
+However, exploring the nonlinear associations between urban environmental factors and cycling remains chal­
+lenging. Moreover, the potential of crowdsourced data like Strava Heatmap for cycling research has rarely been 
+validated. Using Melbourne as a case study, we assessed the association between urban environmental attributes 
+and cycling amount through street view images and artificial intelligence techniques. The results indicate that 
+proximity to blue spaces is the most significant factor in promoting cycling amount. Additionally, road network 
+density, sky openness, and distance to green spaces each have an optimal threshold. Lastly, built environment 
+features, landscape features, and perceived environment are all associated with cycling amount, validating the 
+inclusion of both subjective and objective environmental measures in cycling research. These findings provide 
+insights and empirical evidence for policymakers in designing bicycle-friendly urban environments.
+1. Introduction
+Urban bicycle transportation planning has become a core component 
+of global urban and regional planning initiatives, aiming to improve the 
+well-being of residents (Hoffmann, 2016). However, as urbanization 
+accelerates and vehicle numbers rapidly increase, problems like traffic 
+congestion, environmental pollution, and energy consumption have 
+become more prominent (Erhardt et al., 2019; Yin et al., 2021). Cycling, 
+as a sustainable mode of transportation, has garnered extensive atten­
+tion and research (Ant´on-Gonz´alez et al., 2023). Compared to mecha­
+nized travel methods like private and public transportation, cycling 
+provides several advantages, including flexibility, cost-efficiency, health 
+benefits, and environmental sustainability (Frank et al., 2022; Iroz- 
+Elardo et al., 2020). Consequently, planners and policymakers world­
+wide are interested in maximizing cycling amount using limited re­
+sources, whether through bike-sharing schemes or bicycle lane design 
+(Ahmed et al., 2024; Cai et al., 2024; Zhao and Guo, 2024). To promote 
+efficient urban sustainable transportation, planners must understand the 
+key environmental attributes that influence public cycling amount.
+This study employs street view image analysis and machine learning 
+to analyze data collected from the central area of Melbourne, Australia. 
+Specifically, in this work, we address three research questions: 
+• Research question 1 (RQ1): Which urban environmental attributes 
+may contribute to increasing public cycling amount?
+• Research question 2 (RQ2): Which attributes are more important 
+for public cycling amount than others?
+• Research question 3 (RQ3): Is there a nonlinear relationship be­
+tween urban environmental attributes and cycling amount?
+This study makes a threefold contribution to the literature on 
+bicycle-friendly urban planning and the practice of slow traffic system 
+planning. Firstly, it employs machine learning methods, which are rare 
+in this field, to examine public cycling behavior (Shao et al., 2022). More 
+importantly, by applying reinforcement learning methods and utilizing 
+Strava Heatmap data, it investigates the spatial and environmental im­
+pacts on cycling activities on urban streets. This enhances planners’ 
+understanding of potential contributors and aids current and future 
+* Corresponding author.
+E-mail addresses: 22B334014@stu.hit.edu.cn (M. Gao), 219d9241@st.kumamoto-u.ac.jp (C. Fang). 
+Contents lists available at ScienceDirect
+Journal of Transport Geography
+journal homepage: www.elsevier.com/locate/jtrangeo
+https://doi.org/10.1016/j.jtrangeo.2025.104179
+Received 13 September 2024; Received in revised form 15 January 2025; Accepted 27 February 2025 
+
+Journal of Transport Geography 124 (2025) 104179
+2
+research in regulating street environment indicators. Secondly, this 
+study relaxes the linear assumption commonly adopted in the literature 
+regarding the relationship between urban street attributes and cycling 
+behavior. Given the limited efforts on nonlinear issues (Dong et al., 
+2023b), this study further calls for future research to address them. 
+Thirdly, the study illustrates the nuanced structure of factors influencing 
+cycling amount based on the coefficients of street environment attri­
+butes and their nonlinear associations with cycling amount. We propose 
+a method to quantify the combined impact of urban built environment 
+and perceived environment on cycling flow, bridging the critical gap 
+between physical and perceptual factors affecting cycling behavior. By 
+incorporating the performance of block attributes, we assist planners in 
+formulating urban environment updates and sustainability goals, which 
+are crucial for transportation planning practice.
+2. Literature review
+2.1. Impacts of street environments on cycling behavior
+Given that planning resources are always limited (Dong et al., 
+2023b), planners are keen to identify the key correlates of cycling 
+amount. Some studies depend on the statistical significance of urban 
+built environment features (Hong et al., 2024). While they have found 
+strong associations with cycling behavior, this is often insufficient 
+because trivial effects can achieve statistical significance if the sample 
+size is large enough. Scholars have compared the correlation coefficients 
+between urban built environment attributes and cycling behavior 
+(Gilliland et al., 2018; Porter et al., 2020; Yang et al., 2019). However, 
+bivariate correlations ignore the interactions between various built 
+environment attributes, potentially misleading planners regarding their 
+relative importance. Hence, multivariate analysis is necessary.
+Volunteered Geographic Information (VGI) and GPS devices have 
+facilitated the collection of extensive data on trajectories and user be­
+haviors (McArthur and Hong, 2019; Zhai et al., 2021), providing op­
+portunities to investigate how urban environments influence cycling 
+patterns with finer granularities and on a broader scale(Guo and He, 
+2021). Existing studies have predominantly utilized macro-level built 
+environment metrics, such as land use and Points of Interest (POI)(Qiu 
+and Chang, 2021). Yu et al. (2022) examined the association between 
+macro- and micro-scale urban built environment attributes and cycling 
+behavior. By comparing variable coefficients in linear regressions, their 
+results showed that public service facilities had the greatest impact on 
+cycling behavior, followed by building area and road density. Moreover, 
+in terms of streetscape characteristics, eye-level greening has been found 
+to significantly correlate with cycling behavior (Lu et al., 2019; Wang 
+et al., 2020), although it is not as influential as other attributes. Given 
+the complexity of environmental factors, it is necessary to assess these 
+influences on cycling activity comprehensively, from the macro aspects 
+of urban built environments to the micro aspects of streetscape 
+environments.
+It is noteworthy that the significance of cyclists’ perceptions in 
+micro-level street environments is often underestimated (Guo and He, 
+2021; Gao and Fang, 2025), overlooking their role in moderating the 
+impacts of the physical environment on cycling behavior (Wei and Zhu, 
+2023). Factors such as perceived land use diversity, proximity to shop­
+ping and entertainment venues, and street aesthetics are linked to 
+cycling activity (Blitz, 2021). Moreover, streets that exhibit higher vi­
+sual complexity and perceived safety attract dockless bikeshare users 
+(Song et al., 2024). To enhance cyclists’ safety, various engineering 
+measures have been implemented in streetscape designs (Broach et al., 
+2012), such as colorful bicycle lane markings and warning signs (Abadi 
+and Hurwitz, 2018), which improve their perceived comfort. Impor­
+tantly, insights into the effects of perceived environments provide urban 
+planners and policymakers with a foundation to implement 
+cost-effective streetscape design interventions that improve the cycling 
+experience, thus creating more ideal urban streets (Shen et al., 2018). 
+However, empirical evidence on how street landscape environments and 
+perceived settings specifically influence cycling volumes still requires 
+further exploration (Koh and Wong, 2013; Wei and Zhu, 2023; Gao and 
+Fang, 2025).
+2.2. Non-linear associations with cycling amount
+Generally, assessing the impact of urban built environment attributes 
+on cycling behavior typically depends on either unstandardized or 
+standardized forms of coefficients. This choice depends on whether the 
+variables share the same measurement units (Ewing and Cervero, 2010). 
+Usually, these coefficients are estimated in models assuming linear re­
+lationships between variables (Zhou et al., 2023; Gao and Fang, 2025). 
+However, when this assumption is relaxed, the models may reveal 
+varying degrees of influence of variables like urban built environment 
+attributes on cycling behavior (Yin et al., 2024), potentially altering 
+their relative importance.
+In early research, most scholars assumed a linear (or generalized 
+linear) relationship between urban environmental attributes and cycling 
+behavior. For instance, (Ma and Dill, 2015) utilized linear regression 
+models to analyze cycling behavior. However, literature on cycling 
+studies (Chen and Wei, 2024; Naseri et al., 2023; Yang et al., 2024), 
+including some in the field of urban planning (Wang et al., 2021; Zhou 
+et al., 2023), has shown that this assumption does not always hold true 
+(Yang et al., 2022). If the relationship between urban built environment 
+attributes and cycling volume is nonlinear, assuming a linear relation­
+ship can result in biased estimates, thereby impeding planners’ under­
+standing of the true associations. Moreover, this erroneous assumption 
+could misestimate the relative importance of various urban environ­
+mental attributes on cycling frequency or volume (Chen and Wei, 2024; 
+Yin et al., 2024), potentially causing planners to misallocate limited 
+planning resources.
+Recent studies have relaxed the linear assumption, finding wide­
+spread nonlinear associations between the urban environment and 
+cycling amount probability (Yang et al., 2024). For example, (Yin et al., 
+2024) explored the use of SHapley Additive exPlanations based on 
+Shapley values from game theory to investigate the impact of multiple 
+environmental features on cycling. They demonstrated that attributes 
+such as direct distance, property prices, density of points of interest, 
+proximity to subways, building area/road density, and urban greenery 
+exhibit significant nonlinear effects. Particularly, some studies have 
+emphasized that nonlinear methods are better suited for predicting 
+cycling frequency (Wang et al., 2021), thus promoting land use and 
+transportation planning strategies (Yin et al., 2021).
+2.3. Potential of machine learning and crowdsourced data
+With the development of GPS technology, big data mining, and 
+machine learning algorithms, the methodologies in urban studies have 
+undergone a transformation. Traditional approaches, which relied on 
+small sample surveys and basic statistical analyses, have gradually 
+shifted towards leveraging urban big data and machine learning models 
+(Lu, 2019; Yang et al., 2023). This transformation has stimulated more 
+granular and large-scale urban research (Biljecki and Ito, 2021; Liu 
+et al., 2024; Zhang et al., 2024b), such as the impact of the urban built 
+environment on customized bus services (Wang et al., 2023). This shift 
+not only improves research efficiency but also enhances the under­
+standing of complex urban dynamics. In particular, integrating machine 
+learning methods has significantly reduced the time costs associated 
+with traditional desktop-based environmental audit tools (Biljecki and 
+Ito, 2021). The spectrum of machine learning algorithms has advanced 
+from traditional methods such as support vector machines, Bayesian 
+algorithms, and decision trees to ensemble learning algorithms known 
+for their high predictive accuracy (Zhang et al., 2024b). As a data-driven 
+black-box model, machine learning excels in modeling complex 
+nonlinear patterns and has gained prominence across various fields 
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+3
+(Jordan and Mitchell, 2015). Many researchers have begun applying 
+machine learning to the transportation field, such as in travel behavior 
+analysis (Koushik et al., 2020), emphasizing that random forest models 
+can accurately predict travel mode choices (Rasouli and Timmermans, 
+2014; Yang et al., 2023). Nevertheless, despite their excellent predictive 
+performance, these black-box models frequently lack interpretability, 
+which can generally be improved through post-hoc explanations.
+Furthermore, cycling routes and check-in information from mobile 
+fitness applications form an innovative open crowdsourced dataset, 
+voluntarily gathered and shared by users (Hong et al., 2020). These 
+datasets offer extensive data with more precise geographic location 
+tracking, free from recall bias (Lee and Kwan, 2018). Consequently, 
+researchers can utilize crowdsourced data to map the geographic dis­
+tribution and intensity of activities on streets. Semi-open data sources 
+like Strava Heatmap provide a potential solution for utilizing large 
+sample sizes of individual GPS routes in activity studies (Dong et al., 
+2023a).
+3. Methods
+3.1. Study area
+In this study, the inner city of Melbourne, Australia (Ma et al., 2023), 
+was selected as the case study location based on official boundary data, 
+as illustrated in Fig. 1. Melbourne’s inner city is among the regions with 
+the highest cycling frequency in Australia (Pistoll and Goodman, 2014). 
+This area features a high-density, mixed-use core, surrounded by sig­
+nificant urban expansion (Pistoll and Goodman, 2014). Additionally, the 
+flat terrain and mild climate of the inner city provide ideal conditions for 
+year-round cycling (Pucher et al., 2011). Consequently, Melbourne 
+presents an attractive case for examining the relationship between the 
+urban environment and public cycling behavior.
+3.2. Data collection
+3.2.1. Cycling amount
+We utilized crowdsourced GPS-based Strava data to depict the 
+cycling trajectories of Strava users. As a highly reliable source of phys­
+ical activity data, Strava has been extensively used in cycling research 
+(Hong et al., 2020). Although it is acknowledged that Strava data may 
+include records of active commuting and competitive cycling, it pre­
+dominantly encompasses travel and sport cycling. Consequently, our 
+quantification of cycling data is focused on the latter.
+These data reflect the cumulative amount of cycling activity through 
+varying brightness levels, where brighter colors indicate higher cycling 
+frequencies in that area (Dong et al., 2023a). This correspondence be­
+tween color brightness and activity intensity makes Strava heatmaps an 
+effective tool for analyzing cycling hotspots and spatial preferences. 
+Consequently, we extracted cycling raster values from the Strava heat­
+map and created a 20-m buffer, which served as a proxy indicator for 
+quantifying the frequency of cycling activity. The 20-m buffer was 
+chosen for its superior explanatory power in our study model (Dong 
+Fig. 1. Locations of the sampled districts in Melbourne, Australia (Source: https://www.melbourne.vic.gov.au/city-maps).
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+4
+et al., 2023a). Through this method, we can accurately identify and 
+analyze the spatial distribution and intensity of cyclists, gaining further 
+insights into how urban traffic design influences public cycling 
+behaviors.
+The raster values for each sample point were extracted from high- 
+resolution Strava heatmaps. Using Python, we downloaded 72 square 
+images with a resolution of 512 × 512 pixels each, and combined them 
+to form a comprehensive cycling heatmap of Melbourne’s inner city, as 
+shown in Fig. 2.
+3.2.2. Feature extraction
+Based on existing research (Song et al., 2024; Zhou et al., 2023), 
+environmental features are considered potential predictors that may 
+influence cycling amount. These features are detailed in Table 1 and are 
+classified into two main categories based on their nature: objective 
+features and subjective features. Objective features primarily include 
+built environment features and landscape features, whereas subjective 
+features encompass personal perceptions of the urban street 
+environment.
+Objective built environment features were selected based on 
+(Renalds et al., 2010) four-dimension (4D) framework, encompassing 
+the indicators of “Density,” “Design,” “Diversity,” and “Destination.” We 
+innovatively created a 200-m buffer around urban street views to 
+comprehensively capture the built environment, addressing boundary 
+effect issues and ensuring accurate spatial relationships. This approach 
+takes into account the Uncertain Geographic Context Problem, which 
+posits that the impact of area-based attributes may be influenced by the 
+geographic delineation of environmental units (Guo et al., 2021).
+Landscape features were obtained using the Google Street View 
+Image (SVI) application programming interface. Sample points were 
+taken at 50-m intervals along street segments from OpenStreetMap. For 
+each sample point, SVIs were captured in four directions (bearings of 0◦, 
+90◦, 180◦, and 270◦) to cover the cyclist’s entire field of view, as shown 
+in Fig. 3 (a). After excluding missing points or indoor images, we secured 
+35,416 valid SVIs from a total of 8854 sample points. Objective land­
+scape features are typically represented as the pixel ratio of visual ele­
+ments in SVIs, a common method to highlight the importance of eye- 
+level perspectives in activity studies (Ito and Biljecki, 2021). We 
+utilized DeepLabV3+, a computer vision model well-known for its ac­
+curacy in extracting and measuring objective visual indicators, to clas­
+sify and analyze the SVI (Qiu et al., 2022). Using the ADE20K dataset to 
+predict object categories in urban landscapes as shown in Fig. 3 (b), the 
+semantic segmentation achieved a pixel accuracy exceeding 93.4 % 
+(Dong et al., 2023a; Ki and Lee, 2021).
+Perceived environmental features were assessed using a Convolu­
+tional Neural Network (CNN) model applied to street view images, 
+suitable for urban settings with high spatial heterogeneity. We utilized 
+the Place Pulse 2.0 dataset from MIT Media Lab to predict six perceptual 
+scores at each sample point within Melbourne’s inner city, as shown in 
+Fig. 3 (c). This dataset is renowned as the largest training dataset for 
+urban perception based on scene understanding algorithms (Ito and 
+Biljecki, 2021; Zhang et al., 2018), encompassing six perceptual attri­
+butes: wealthy, safe, lively, beautiful, boring, and depressing. This 
+provides a comprehensive framework for assessing perceptual charac­
+teristics. The predictive model’s street view index provided six percep­
+tual scores, and we calculated the average score for each attribute at 
+each sample location. These six perceptual indicators, encompassing 
+both positive and negative perceptions, have been employed in previous 
+studies to gauge general human perceptions (Zhang et al., 2018). 
+Particularly, cyclists’ perceptions of risk and safety are crucially 
+important (Zhang et al., 2024a).
+3.3. Model development
+3.3.1. Data pre-processing
+During feature selection, variables with a p-value greater than 0.05 
+were removed following Pearson correlation analysis, as illustrated in 
+Fig. 4. Subsequently, Gradient Boosting Decision Tree (GBDT) models 
+were used for preliminary prediction and selection. The predictive 
+performance of variables was then evaluated based on multivariate 
+regression models and machine learning regression algorithms. Addi­
+tional analysis involved inspecting the learning curves and cross- 
+validation outcomes of different models. This process was imple­
+mented using scikit-learn version 1.0.2, a highly popular machine 
+learning library (Pedregosa et al., 2011).
+The correlation between environmental characteristics and cycling 
+Fig. 2. Processing and Quantification of Cycling Strava Heatmap for Study Area.
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+5
+amount was determined using Pearson correlation coefficients. Conse­
+quently, the feature with a p-value greater than 0.05, namely recrea­
+tional and cultural facilities, was excluded from further analysis.
+For choosing predictors, the tree-based feature selection method 
+provided by the SelectFromModel class in the Scikit-Learn library was 
+employed. This method, based on the GBDT model, identified pre­
+liminary predictors that significantly impact cycling amount (Blue space 
+distance, Building Density, Intersection Density, Green space distance, 
+Road Network Density, and Street Greening). Using these initial pre­
+dictors as a basis, the predictor sets for five models were adjusted ac­
+cording to their performance scores on the test set (Table 2).
+In constructing the Multiple Linear Regression (MLR) model, we first 
+excluded all independent variables with p-values greater than 0.05, 
+ensuring the model only contained statistically significant predictors. 
+Additionally, to prevent multicollinearity, the variance inflation factor 
+(VIF) for any independent variable was required to be less than 3.
+3.3.2. Algorithm selection and model evaluation
+For the predictive analysis of structured data, this study employed 
+five ensemble learning algorithms, which are particularly suited for 
+handling such data. These algorithms all use Decision Tree as the base 
+model and are divided into two categories: Bagging-based methods, 
+including Random Forest and Extra-Trees; and Boosting-based methods, 
+encompassing LightGBM, AdaBoost, and XGBoost. To ensure the effec­
+tiveness and generalizability of the model training, the dataset was split 
+into a training set and a test set in an 80 % to 20 % ratio, thus ensuring 
+the predictive accuracy and robustness of the algorithms.
+To evaluate the performance of the models, we used R-squared and 
+RMSE as evaluation metrics. R-squared measures the proportion of 
+variance explained by the model, while RMSE assesses the error between 
+the predicted values and the actual values. We compared the model 
+performance using the R-squared and RMSE on the test set. The “Shuffle 
+Split Cross Validation” method was employed for data splitting (with a 
+split ratio of 8:2) to analyze the generalization ability of the five models 
+using R-square as the evaluation metric. The randomness of this method 
+ensures the stability of the cross-validation scores and mitigates the 
+accidental errors caused by uneven data splits, thus providing an unbi­
+ased error estimate. Through learning curves, we further observed the 
+changes in RMSE for both the training and test sets as the sample size 
+increased, to assess the models’ adaptability to new data.
+4. Results
+4.1. Comparison of cycling amount models
+The standardized coefficients or importance values of the indepen­
+dent variables across the six models are shown in Table 2. Higher ab­
+solute values of these coefficients and importance values indicate a 
+greater significance of the independent variable in the model. A com­
+parison of the scores of the six models reveals that although the model fit 
+of XGBoost is 0.002 higher than that of the RFR model, the RFR model 
+demonstrates better overall performance, with a smaller discrepancy 
+between the training and test sets, as illustrated in Fig. 5. The MLR 
+model performed the worst. Specifically, compared to the MLR model, 
+the RFR model reduced the RMSE by 0.046 and increased the coefficient 
+of determination (R2) by 0.317.
+Fig. 5 depicts the learning curves for each model. When the sample 
+size is below 300, the RFR model underperforms compared to the MLR 
+Table 1 
+Environmental feature description.
+Variable
+Description
+Calculation approach
+Objective—Built environment features
+Density
+Building density
+Concentration of buildings within a specified area
+Calculated by ArcGIS
+Road network density
+Amount of road space per unit area
+Intersection density
+Number of intersections per unit area
+Population density
+Number of people residing per unit area
+Design
+Green space distance
+Average distance to nearest public green spaces
+Blue space distance
+Average distance to bodies of water
+Traffic signage
+Presence and distribution of traffic-related signs
+Bicycle facilities
+Infrastructure supporting bicycle use
+Street greening
+The number of street trees in the buffer
+Diversity
+Land use mix
+Diversity of land uses within an area
+−
+∑n
+i=1 pilnpi
+Destination 
+Accessibility
+Number of healthcare facilities
+Count of healthcare institutions
+Number of POI
+Area of buffer
+Number of recreational 
+facilities
+Count of facilities for recreational activities
+Number of cultural facilities
+Count of cultural and educational institutions
+Number of shopping facilities
+Count of retail outlets
+Number of dining facilities
+Count of food service establishments
+Number of transportation 
+facilities
+Count of transportation hubs and signage
+Objective—Landscape features
+Google Street View Image (with a 50 m sampling 
+interval)
+SVIsky
+∑Pixel ratio of elements
+nimage
+SVItree
+SVIgrass
+SVIbuilding
+SVIwater
+SVIwall
+SVIcar
+SVIpeople
+Subjective—Perceived environment features
+Human perceptions based on the Place Pulse 2.0 
+dataset
+Wealthy
+Six perceptual scores for SVIs are estimated using machine 
+learning models.
+Safe
+Lively
+Beautiful
+Boring
+Depressing
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+6
+model on the test set. However, as the sample size surpasses 300, the 
+RMSE of the RFR model on the test set progressively decreases, leading 
+to a significant improvement in its predictive performance. In contrast, 
+the test set RMSE of the MLR model stabilizes around 0.208. Therefore, 
+ensemble learning algorithms demonstrate greater improvement po­
+tential when handling larger samples. Specifically, bagging algorithms 
+are more effective than boosting algorithms in avoiding model over­
+fitting. Consequently, when validated with the test set, bagging methods 
+outperform boosting methods.
+4.2. Nonlinear effects on cycling amount
+Sensitivity analysis is crucial for evaluating the influence of predictor 
+variables on the dependent variable and identifying key features. This 
+evaluation involves analyzing feature importance and Partial Depen­
+dence Plot (PDP). In the RFR model, the distance to blue spaces has the 
+greatest impact, followed by built environment features such as building 
+density, intersection density, and road network density. Urban greenery 
+features, including SVI_grass, street greening, and distance to green 
+spaces, along with sky openness, collectively account for over 80 % of 
+the influence on cycling amount, as shown in Table 2.
+PDP are employed to demonstrate the relationship between depen­
+dent and independent variables as interpreted by the machine learning 
+model, showing the average response for each value of the independent 
+variable (Friedman, 2001). These PDPs are augmented by Individual 
+Conditional Expectation plots, which illustrate the dependency of the 
+target function on the input features of interest, visualizing the de­
+pendency of each sample’s prediction on the feature independently. 
+Fig. 6 presents the PDP based on the RFR model, depicting the nonlinear 
+relationships between features and cycling amount. Due to the relatively 
+minor influence of perceived environmental features such as aesthetics, 
+liveliness, and bicycle facilities on cycling amount, these were excluded 
+from the PDP analysis.
+Based on the univariate PDP in Fig. 6(b), when the distance to blue 
+spaces exceeds 500 m, the cycling amount tends to stabilize. This reveals 
+that the influence of proximity to blue spaces on cycling amount is most 
+significant within 500 m, with a stronger preference for closer distances. 
+Beyond 500 m, the cycling amount remains stable.
+The cycling amount decreases with increasing road network density 
+and intersection density. Specifically, when the building density is 
+around 450,000 m2/km2, the cycling amount reaches its lowest point 
+and remains stable. Conversely, the cycling amount is highest when the 
+road network density is at 10 km/km2. For street greening, the cycling 
+amount initially increases with an increase in street greening but then 
+decreases, with the optimal level being around 160 trees within a 200-m 
+buffer. This indicates the presence of an optimal amount of street trees 
+for cycling. Additionally, the impact of the distance to green spaces on 
+cycling amount is significant at both very close and very distant ranges. 
+Fig. 3. Sample Street View Images and Identification Results.
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+7
+Fig. 4. Correlation results (only the significance of cycling amount is indicated).
+Table 2 
+The results of machine learning and linear models.
+Variable
+Multiple linear
+Random Forest
+Extra-Trees
+LightGBM
+AdaBoost
+XGBoost
+coefficient
+Importance
+Building density
+−0.218**
+0.123
+0.098
+0.080
+0.142
+0.083
+Road network density
+−0.071**
+0.099
+0.089
+0.091
+0.041
+0.072
+Intersection density
+−0.190**
+0.108
+0.107
+0.066
+0.333
+0.130
+Population density
+/
+/
+0.066
+0.067
+0.018
+0.094
+Green space distance
+0.177**
+0.091
+0.077
+0.082
+0.006
+0.084
+Blue space distance
+−0.247**
+0.138
+0.130
+0.143
+0.255
+0.085
+Bicycle facilities
+/
+0.046
+/
+/
+/
+0.071
+Street greening
+0.026*
+0.093
+0.073
+0.114
+0.006
+0.074
+Land use mix
+0.111**
+/
+0.055
+/
+/
+0.063
+Number of dining facilities
+0.101**
+/
+0.065
+0.061
+/
+0.080
+Number of transportation facilities
+0.229**
+/
+/
+/
+0.034
+0.069
+SVIsky
+0.236**
+0.089
+0.097
+0.075
+0.042
+0.095
+SVItree
+0.235**
+/
+/
+0.050
+0.114
+/
+SVIgrass
+0.032*
+0.094
+0.055
+0.073
+/
+/
+Lively
+/
+0.059
+0.089
+/
+/
+/
+Beautiful
+−0.157**
+0.061
+/
+0.098
+0.009
+/
+R-square test
+0.177
+0.499
+0.473
+0.500
+0.178
+0.501
+RMSE test
+0.208
+0.162
+0.166
+0.164
+0.207
+0.161
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+8
+When the distance exceeds 200 m, the cycling amount increases with 
+increasing distance. The cycling amount peaks when the SVIsky openness 
+reaches 0.3. This suggests that this proportion of sky openness, with 
+adequate road lighting and suitable shading from surrounding buildings 
+and trees, provides an optimal environment for cycling. When the SVI 
+grass ratio is less than 0.2, the cycling amount significantly increases. 
+Between 0.2 and 0.4, the cycling amount remains relatively stable, and 
+beyond 0.4, the cycling amount tends to increase again.
+5. Discussion
+5.1. Contributions of objective and perceived environmental attributes to 
+cycling
+Firstly, objective built environment attributes demonstrated a strong 
+overall advantage in explaining cycling amount, consistent with previ­
+ous findings on running volume using crowdsourced data from Strava 
+and Keep (Dong et al., 2023a; Zhang et al., 2024b). However, the col­
+lective effect indicates that subjective perceptions can complement 
+objective environmental features in influencing Melbourne’s cycling 
+amount. This confirms the importance for transportation planners to 
+consider both aspects when planning for cycling.
+Secondly, according to the feature importance rankings derived from 
+the Random Forest model, built environment characteristics have a 
+stronger explanatory power than landscape features. Specifically, blue 
+space distance, road network density, and intersection density are more 
+critical in contributing to public cycling amount than other attributes. 
+Notably, the distance to blue spaces has the most significant impact on 
+cycling amount, likely due to the sense of safety and mental restoration 
+offered by proximity to water bodies (e.g., coasts, rivers) (Pasanen et al., 
+2019). Additionally, landscape features also significantly explain 
+cycling amount, indicating that the landscape of urban cycling routes 
+should not be underestimated.
+Thirdly, SVIsky openness, street greening, and road network density 
+exhibit peaks in the PDP, suggesting that these environmental charac­
+teristics have optimal values. For instance, the optimal sky ratio when 
+cycling amount is at its maximum is 0.3, implying an ideal height-to- 
+width ratio in the street environment cross-section (Zhang et al., 2024b).
+Lastly, subjective perception attributes, though less contributive 
+than objective features, maintain significance in multiple models, with 
+‘beautiful’ and ‘lively’ consistently important. However, other perceived 
+environmental features do not enhance model performance, suggesting 
+a potential conflict between subjective perceptions and objective envi­
+ronmental characteristics in explaining cycling amount. Despite this, 
+subjective perceptions still play a complementary role in deepening our 
+understanding of cycling behaviors.
+5.2. Implications for urban transportation planning and policy
+Our research provides valuable insights into the use of artificial in­
+telligence technologies and crowdsourced data to evaluate the impact of 
+urban cycling environments, incorporating both subjective and objec­
+tive measurements, to guide the study of cycling behavior. The findings 
+offer practical references for planners and policymakers to enhance 
+cycling amount by designing more cycling-friendly urban environments. 
+These policy initiatives encompass a comprehensive consideration of 
+both objective factors and subjective experiences.
+Firstly, our study demonstrates that both objective and subjective 
+urban environments significantly influence cycling amount. Planners 
+and designers should focus not only on the macro-scale built environ­
+ment but also on landscape and perceptual environments. For example, 
+lower building and intersection densities, improved accessibility to blue 
+spaces, relatively wider streets, and broader views of grasslands can 
+increase the likelihood and frequency of cycling. Our results support the 
+notion that planning feasible cycling routes and improving urban 
+streetscapes can be an effective and economical method for promoting 
+cycling activity and enhancing public health. This approach is poten­
+tially less expensive and easier to implement than constructing large 
+public infrastructure such as indoor sports arenas, and it may also reduce 
+public healthcare costs (Thompson, 2011). Additionally, it can foster a 
+more cyclist-friendly urban transportation environment.
+Secondly, from the perspective of transportation design guidelines, 
+the planning of cycling routes should consider areas with high inter­
+section and road densities to ensure continuity and a pleasant cycling 
+Fig. 5. Learning curves of the regression models (with min-max normalization).
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+9
+experience, thereby promoting cycling behavior. For coastal cities like 
+Melbourne, the distance to blue spaces remains the most significant 
+factor influencing cycling amount (Huang et al., 2023). Therefore, when 
+planning urban slow traffic systems, leveraging blue spaces and sharing 
+blue space resources is essential.
+Finally, by leveraging crowdsourced data and machine learning, our 
+research provides an effective method for examining the relationships 
+between environmental factors and cycling activity on a global scale. 
+This approach is easily applicable to cities worldwide. More impor­
+tantly, it enables the investigation of the actual usage of transportation 
+environments in cycling behavior, rather than just perceived psycho­
+logical benefits (Dong et al., 2023a).
+5.3. Limitations and implications
+In this study, we quantified and explored cycling amounts in urban 
+Fig. 6. Random forest model results. (a) Feature importance ranking; (b) Non-linear impacts of primary explanatory variables on cycling amount.
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+10
+spaces by analyzing data from the Strava Heatmap. Our goal was to 
+leverage this crowdsourced information to enhance the understanding 
+of how cycling amounts interact with the urban transportation envi­
+ronment, thereby enabling more effective application of these insights in 
+urban slow traffic systems.
+Considering the characteristics of crowdsourced data and street-view 
+imagery, we must acknowledge two primary challenges in this study. 
+First, although Strava data have been validated for cycling research, 
+they predominantly capture recreational and sportive cycling activities. 
+As a result, they may overlook everyday cycling behaviors such as 
+commuting, attending school, or shopping, which introduces potential 
+biases (McArthur and Hong, 2019). Given the significant role of these 
+daily cycling activities in urban transportation, future research could 
+explore cycling volumes in street-view imagery to better understand 
+how the transportation environment affects cycling trips. Second, street- 
+view images are taken by cameras mounted on vehicles driving along 
+streets, and therefore do not necessarily reflect a cyclist’s perspective. 
+This discrepancy may misalign with cyclists’ actual experiences. None­
+theless, the rise of crowdsourced street view imagery services, such as 
+Mapillary, presents an opportunity for future investigations into SVI 
+data collected along bike lanes (Ito and Biljecki, 2021).
+Although this type of crowdsourced data has been criticized for 
+lacking demographic information and other contextual details—such as 
+destination, timing, and motivation (Qiu and Chang, 2021)—numerous 
+studies have demonstrated its value for cycling research (Hochmair 
+et al., 2019), particularly in urban contexts (McArthur and Hong, 2019). 
+It remains a valuable resource for urban transportation studies, offering 
+deeper insights into cyclists’ experiences on city streets and informing 
+policymakers as they regulate the urban cycling environment. Future 
+research should further investigate how urban cycling infrastructure can 
+be designed and configured to optimally promote cycling. In particular, 
+examining how cycling behaviors evolve over time, especially under 
+varying social and personal pressures, can inform the development of 
+more adaptive and supportive transportation environments for cycling 
+activities.
+6. Conclusion
+In this study, we utilized cycling data from the Strava Heatmap to 
+thoroughly analyze the spatial patterns of cycling amount in relation to 
+urban environmental attributes. This research not only focused on the 
+impacts of objective environmental factors but also considered visible 
+landscape features and subjective perceptions, thus enriching the 
+cycling literature and providing policy recommendations to promote 
+active transportation.
+Firstly, we identified key urban environmental features that influ­
+ence cycling amount, revealing the nonlinear and threshold effects of 
+these environmental characteristics on cycling. Secondly, for coastal 
+cities, blue spaces emerged as the most significant factor in promoting 
+cycling behavior, providing crucial evidence for enhancing the cycling 
+experience through transportation environment transformation. Lastly, 
+we utilized partial dependence plots to elucidate the nonlinear re­
+lationships between environmental features and cycling amount, offer­
+ing design guidelines for urban slow traffic system planning.
+Outdoor cycling is not merely a lifestyle choice; it reflects public 
+demands for environmental health and quality. As one of the most 
+widespread and active types of behavior trajectories, cycling holds sig­
+nificant research relevance and optimization value. Studies on cycling- 
+friendly streets can aid planners and policymakers in improving the 
+environment, distribution, and quality of cycling routes. This, in turn, 
+can stimulate public cycling activities and advance the development and 
+implementation of healthy urban transportation systems.
+Funding
+This research was funded by China Scholarships Council (No. 
+202306120267 and No. 202108050061).
+CRediT authorship contribution statement
+Ming Gao: Writing – review & editing, Writing – original draft, 
+Visualization, Validation, Software, Resources, Project administration, 
+Methodology, Investigation, Funding acquisition, Formal analysis, Data 
+curation, Conceptualization. Congying Fang: Writing – review & edit­
+ing, Writing – original draft, Validation, Supervision, Software, Re­
+sources, Project administration, Methodology, Investigation, Funding 
+acquisition, Formal analysis, Data curation, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Data availability
+Data will be made available on request.
+References
+Abadi, M.G., Hurwitz, D.S., 2018. Bicyclist’s perceived level of comfort in dense urban 
+environments: how do ambient traffic, engineering treatments, and bicyclist 
+characteristics relate? Sustain. Cities Soc. 40, 101–109.
+Ahmed, T., Pirdavani, A., Wets, G., Janssens, D., 2024. Bicycle infrastructure design 
+principles in urban Bikeability indices: a systematic review. Sustainability 16 (6), 
+2545.
+Ant´on-Gonz´alez, L., Pans, M., Devís-Devís, J., Gonzalez, L.-M., 2023. Cycling in urban 
+environments: quantitative text analysis. J. Transp. Health 32, 101651.
+Biljecki, F., Ito, K., 2021. Street view imagery in urban analytics and GIS: a review. 
+Landsc. Urban Plan. 215, 104217.
+Blitz, A., 2021. How does the individual perception of local conditions affect cycling? An 
+analysis of the impact of built and non-built environment factors on cycling 
+behaviour and attitudes in an urban setting. Travel Behav. Soc. 25, 27–40.
+Broach, J., Dill, J., Gliebe, J., 2012. Where do cyclists ride? A route choice model 
+developed with revealed preference GPS data. Transp. Res. A Policy Pract. 46 (10), 
+1730–1740.
+Cai, J., Zhao, Z., Zhou, Z., Wang, Y., 2024. Predicting the carbon emission reduction 
+potential of shared electric bicycle travel. Transp. Res. Part D: Transp. Environ. 129, 
+104107.
+Chen, G., Wei, Z., 2024. Exploring the impacts of built environment on bike-sharing trips 
+on weekends: the case of Guangzhou. Int. J. Sustain. Transp. 1–13.
+Dong, L., Jiang, H., Li, W., Qiu, B., Wang, H., Qiu, W., 2023a. Assessing impacts of 
+objective features and subjective perceptions of street environment on running 
+amount: a case study of Boston. Landsc. Urban Plan. 235, 104756.
+Dong, Y., Li, F., Cao, J., Dong, W., 2023b. What neighborhood factors are critical to 
+resident satisfaction with old neighborhoods? An integration of ground theory and 
+impact asymmetry analysis. Cities 141, 104460.
+Erhardt, G.D., Roy, S., Cooper, D., Sana, B., Chen, M., Castiglione, J., 2019. Do 
+transportation network companies decrease or increase congestion? Sci. Adv. 5 (5), 
+eaau2670.
+Ewing, R., Cervero, R., 2010. Travel and the built environment: a meta-analysis. J. Am. 
+Plan. Assoc. 76 (3), 265–294.
+Frank, L.D., Fox, E.H., Ulmer, J.M., Chapman, J.E., Braun, L.M., 2022. Quantifying the 
+health benefits of transit-oriented development: creation and application of the San 
+Diego public health assessment model (SD-PHAM). Transp. Policy 115, 14–26.
+Friedman, J.H., 2001. Greedy function approximation: a gradient boosting machine. 
+Ann. Stat. 1189–1232.
+Gao, M., Fang, C., 2025. Pedaling through the cityscape: Unveiling the association of 
+urban environment and cycling volume through street view imagery analysis. Cities 
+156, 105573.
+Gilliland, J., Maltby, M., Xu, X., Luginaah, I., Shah, T., 2018. Influence of the natural and 
+built environment on personal exposure to fine particulate matter (PM2. 5) in 
+cyclists using city designated bicycle routes. Urban Sci. 2 (4), 120.
+Guo, Y., He, S.Y., 2021. Perceived built environment and dockless bikeshare as a feeder 
+mode of metro. Transp. Res. Part D: Transp. Environ. 92, 102693.
+Guo, Y., Liu, Y., Lu, S., Chan, O.F., Chui, C.H.K., Lum, T.Y.S., 2021. Objective and 
+perceived built environment, sense of community, and mental wellbeing in older 
+adults in Hong Kong: a multilevel structural equation study. Landsc. Urban Plan. 
+209, 104058.
+Hochmair, H.H., Bardin, E., Ahmouda, A., 2019. Estimating bicycle trip volume for 
+Miami-Dade county from Strava tracking data. J. Transp. Geogr. 75, 58–69.
+Hoffmann, M.L., 2016. Bike Lanes Are White Lanes: Bicycle Advocacy and Urban 
+Planning. U of Nebraska Press.
+M. Gao and C. Fang 
+
+Journal of Transport Geography 124 (2025) 104179
+11
+Hong, J., McArthur, D.P., Stewart, J.L., 2020. Can providing safe cycling infrastructure 
+encourage people to cycle more when it rains? The use of crowdsourced cycling data 
+(Strava). Transp. Res. 
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

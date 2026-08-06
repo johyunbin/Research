@@ -1,0 +1,1894 @@
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+Available online 2 December 2023
+2213-0780/© 2023 Elsevier Ltd. All rights reserved.
+Research Article 
+Do soundscape perceptions vary over length of stay within urban parks? 
+Xingyue Fang a,b, Ying Qi a, Marcus Hedblom c, Tian Gao a, Ling Qiu a,* 
+a College of Landscape Architecture and Arts, Northwest A&F University, Xianyang, 712100, Shaanxi, China 
+b School of Architecture and Civil Engineering, The University of Adelaide, Adelaide, SA 5005, Australia 
+c Department of Urban and Rural Development, Swedish University of Agricultural Sciences, P.O. Box 7012, Uppsala, SE-75007, Sweden 
+A R T I C L E I N F O 
+Keywords: 
+Soundscape experiences 
+Perceptual duration 
+Grey space 
+Blue space 
+Green space 
+Outdoor recreation management 
+A B S T R A C T 
+Outdoor recreational experiences of soundscapes in urban parks are not instantaneous but continuous over time, 
+yet most existing studies evaluate soundscapes in one place or one environment at a single moment in time. In 
+this study, outdoor users’ perceptions of soundscapes during a visit in varying environments within urban parks 
+in Xi’an, China were explored. The results from N = 2034 respondents showed that (1) the level of overall 
+perceived loudness peaked between 30 min and 1 h of a visit and then the perception of loudness lessened with 
+increased length of stay. (2) Perceived occurrences of both natural and mechanical sounds showed a significant 
+increment within 1 h, however, the natural sounds remained relatively stable after the hour, while the me­
+chanical sounds rose significantly to a peak between 1 and 3 h (3) Visual sources of birds were not detected until 
+after 3 h of the visit, while visual sources of broadcast music were tended to be detected within 1 h (4) Overall 
+perceived loudness only varied over time in blue, open green and dense green space; perceived occurrences of 
+birds only varied over time in grey and partly open/dense green space; perceived occurrences of broadcast music 
+only varied over time in grey space, partly open/dense green and dense green space; perceived occurrences of 
+bicycle riding only varied over time in open green and dense green space. The implications of these findings 
+include the management of urban parks to improve the recreational experience of visitors, and considerations for 
+future research on the soundscape in urban parks. 
+Management implications 
+Park managers may be able to use the finding presented in this study 
+to: 
+1) Ensure that visitors can fully experience the biodiversity of urban 
+parks, considering their length of stay. 
+2) Improve the soundscape of different environments in the park, 
+especially in grey and blue spaces. 
+3) Increase the presence of natural sounds and background music and 
+reduce traffic noise in urban parks for a better recreational experi­
+ence for visitors. 
+1. Introduction 
+In the context of rapid urbanization, urban parks have been regarded as 
+essential elements of sustainable and healthy cities for enhancing 
+ecological benefits and improving citizens’ quality of life from social and 
+psychological aspects (Cheng et al., 2021; Spotswood et al., 2021; Zhang 
+et al., 2021; Hu et al., 2022; Marconi et al., 2022). Compared with other 
+built environments, urban parks generally contain a prominent feature of 
+acoustic environments that these other built environments do not, which is 
+promoting visitors’ feeling of tranquility and peace during their outdoor 
+recreation experiences (Liu et al., 2018; Rice et al., 2022; Rodrigues, 2018; 
+Watts, 2017). For the visitors in the park, the experience of tranquility is 
+the main reason for their visit (Han, 2019; Liu et al., 2018; Pheasant et al., 
+2010; Vasiljevi´c et al., 2023). Although there are possibly other purposes 
+of visits, such as enjoying the scenery, participating in physical activities, 
+engaging in social interactions, and seeking factors like reduced traffic, 
+enhanced safety, and decreased pollution. These various factors contribute 
+to the overall park experience, with the soundscape playing a significant 
+role (Jeon & Jo, 2020; Jo & Jeon, 2020). That is to say, the positive 
+experience of the soundscape contributes positively to the overall satis­
+faction gained from urban parks (Liu et al., 2018, 2019b). Therefore, it is 
+necessary to identify visitor perceptions of urban park soundscapes, which 
+will help park managers create a pleasant soundscape in the park and 
+enhance visitors’ satisfaction with their recreation experience (Mazaris 
+et al., 2009; Rice et al., 2022). 
+* Corresponding author. 
+E-mail address: qiu.ling@nwsuaf.edu.cn (L. Qiu). 
+Contents lists available at ScienceDirect 
+Journal of Outdoor Recreation and Tourism 
+journal homepage: www.elsevier.com/locate/jort 
+https://doi.org/10.1016/j.jort.2023.100728 
+Received 24 March 2023; Received in revised form 10 October 2023; Accepted 17 November 2023 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+2
+Soundscape perception is an umbrella term. There are many de­
+scriptors to measure soundscape perception. These descriptors encom­
+pass factors such as preferences and perceived loudness of both the 
+overall soundscape and individual sounds, as well as considerations 
+regarding potential annoyance caused by sound levels, the restorative 
+qualities of the overall soundscape or individual sounds, the appropri­
+ateness of sounds within the context, and the perceptual location of 
+different individual sounds (Fields, 1993; Yang & Kang, 2005; Yu & 
+Kang, 2008; Szeremeta & Zannin, 2009; Yu & Kang, 2010; Tse et al., 
+2012; Meng & Kang, 2013; Jeon et al., 2014; Aletta et al., 2016; Hong & 
+Jeon, 2017; Rey Gozalo and Barrig´on Morillas, 2017; Aletta et al., 2018; 
+Sun et al., 2018; Liu, Wang, et al., 2019; Hong et al., 2021c; Ma et al., 
+2022). There are also different forms to measure the above descriptors. 
+Thereinto, 
+two-dimensional 
+soundscape 
+model 
+(e.g. 
+pleas­
+antness–eventfulness, calmness–vibrancy) or ordinal-category scale for 
+single dimension were common forms to explore contextual perceptions 
+of soundscape (Axelsson et al., 2010; Cain et al., 2013; Aletta et al., 
+2016; Dunbavin, 2018; Hong, Wang, et al., 2020; Jo & Jeon, 2021; Hong 
+et al., 2021; Zhao et al., 2021). 
+In real time, a person’s soundscape experience is not instantaneous, 
+but continuous (Li & Kang, 2019; Liu, Kang, Luo, Behm, et al., 2013). 
+However, previous studies have mainly focused on the instantaneous 
+soundscape perception in urban parks. For example, immediate per­
+ceptions of respondents with a variety of records and photos as 
+audio-visual stimuli were explored in the laboratory through the ques­
+tionnaire survey (Hong, Lam, et al., 2020). Visitors’ instantaneous per­
+ceptions of soundscape within urban parks were surveyed on site (Liu 
+et al., 2019). So far no studies have proven that people’s transient 
+soundscape perceptions can represent their full soundscape experience 
+during their time in the park. Therefore, there is a need to investigate the 
+effect of perception duration, i.e. the length of time spent in the park, on 
+the perception of the soundscape in the urban park. 
+Past studies have shown that people’s perception of soundscapes in 
+different contexts is related to perceptual duration. For example, the 
+amount of time that residents spend out-of-doors influenced their per­
+ceptions of noise annoyance in residential areas (Fields, 1993), 
+perceptual duration influenced the evaluation of acoustic comfort of 
+shopping malls (Meng & Kang, 2013), length of visiting time contributed 
+to different soundscape experiences in urban green spaces (Liu et al., 
+2018), and different time durations resulted in different soundscape 
+cognitive persistence (Hong et al., 2019). Moreover, several physiolog­
+ical indicators (such as heart rate, amplitude of the R-wave, heart rate 
+variability, electroencephalography beta reactivity, eye blink frequency, 
+respiratory frequency, respiratory depth, skin conductance level, and 
+skin temperature) along with the soundscape perception also proved to 
+change over time (Li & Kang, 2019). However, the above studies 
+explored the effects of different scales of duration in different contexts 
+(residential area, commercial area, urban green area, and laboratory 
+virtual setting), their inconsistent findings of soundscape perception 
+variation are difficult to apply directly to the context of urban park. 
+Thus, this study will explore the changes in visitors’ soundscape per­
+ceptions in urban parks over their length of stay, and we hypothesize 
+that in the context of urban parks, people’s perception of the soundscape 
+is not static, but changes with the length of their stay (hypothesis 1). 
+In addition, the urban park is made up of various types of environ­
+ments (Carrus et al., 2014; Gao et al., 2019b). Based on the land cover 
+and use types, urban parks can be divided as grey space (90–100% 
+abiotic area with little greenery), blue space (90–100% water with some 
+greenery), and green space (Grilo et al., 2020; Suligowski et al., 2021; 
+Mach´aˇc et al., 2022; Wei et al., 2022). Based on vegetation patterns and 
+plant configurations, the green spaces can be further divided into 
+different categories (Du et al., 2021; Huang et al., 2020). Among 
+different environments in urban settings, green spaces are popular and 
+felt to be restorative. This phenomenon can be elucidated by the bio­
+philia hypothesis, which posits that humans have an innate inclination 
+to connect with other forms of life (Kellert & Wilson, 1993; el-Baghdadi 
+& Desha, 2017; Huang et al., 2020). Also, blue spaces were also proved 
+to be favored, explained by an evolutionary perspective - hydrophilia is 
+an innate attribute of humans (McDougall et al., 2021; White et al., 
+2020). The environmental component would influence visitors’ 
+perception (Aletta et al., 2016; Huang et al., 2020; Sadeghi & Haghighat 
+Bin, 2023; Zhao et al., 2021), and visitors’ perception of the landscape 
+would in turn affect soundscape perception (Chen, Zhu, et al., 2022; 
+Hong & Jeon, 2014; Li, Zhai, & Zhu, 2022; Liu et al., 2014). Therefore, 
+we hypothesize that people’s perception of the soundscape in the park 
+will vary depending on the type of environment they are in (hypothesis 
+2). If both hypotheses 1 and 2 hold, the degree of change in visitors’ 
+soundscape perception over visit time may vary by environment type 
+(hypothesis 3). 
+Therefore, the three hypotheses of this study were: 
+1) Visitors’ soundscape perceptions in the urban park will be influenced 
+by their length of stay. 
+2) Visitors’ soundscape perceptions in the urban park will be influenced 
+by environment types. 
+3) The degree of influence of visitors’ length of stay on soundscape 
+perception will be different in different environments. 
+2. Methods 
+2.1. Study area 
+All surveys were conducted in Xi’an, China, known as an interna­
+tional metropolis with historical and cultural characteristics. In 2019, 
+the permanent resident population was 10,203,500, while the urban 
+population was 7,612,800, which equates to a 74.61% urbanization 
+rate. In addition, it is the starting point of the Silk Road, and was deemed 
+a “World Historic City” assessed by UNESCO, attracting many tourists 
+every year. As a national park city, Xi’an has sixteen existing parks. Out 
+of these six urban parks were selected based on location, freedom of 
+access, number of visitors, and the shape of the site, all representing 
+typical Xi’an parks (Fig. 1). The study sites were selected within these six 
+parks. 
+To make the sites fully representative of the urban park character­
+istics, the study sites were selected based on five environment types: 
+grey space (GrS, 90–100% abiotic area with little greenery), blue space 
+(BS, 90–100% water with some greenery), open green space (OG, <10% 
+canopy cover of trees/shrubs), partly open/dense green space (POG, 
+30%-70% canopy cover of trees/shrubs), and dense green space (DG, 
+>70% canopy cover of trees/shrubs) (Gao et al., 2014; Gao et al., 2019a; 
+Gao, Liang, et al., 2019). To gather enough questionnaires in the field, 
+two typical sites for each of the five types of urban park environments 
+were identified as study sites, for a total of 10 sites (Fig. 1). All of the 
+sites are similar in size of approximately 2 hectares, freely accessible and 
+having many visitors. 
+Prior to conducting the survey, the average sound level of each site 
+was sampled for 15 min using a Bruel and Kjaer 2250 class 1 sound level 
+meter (SLM; 1-s logging period). In each site, the SLM was set near the 
+paths of visitors that were representative of the context. In addition, the 
+temperature, relative humidity, and wind speed of the parks were 
+measured using Kestrel 5500 weather stations throughout the whole 
+survey. Taken together, these measurements revealed an average sound 
+level (59dBA), temperature (19 ◦C), humidity (60%) and wind speed 
+(0.62 m/s) across all study sites (Appendix - Table 6). 
+2.2. Questionnaire survey construction 
+The questionnaire consisted of two sections with a total of 23 ques­
+tions (Appendix - Fig. 7). The first section was to collect basic (e.g., 
+social, demographical, and behavioral) information of participants and 
+the length of time they stayed in the site. In this section, the basic in­
+formation questions (age, gender, companion, educational background, 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+3
+occupation, monthly income, dwelling place, residential status, distance 
+to the park, visit frequency and potential recreational activities) and 
+their option settings were referenced from previous literature on 
+soundscape perceptions (Fields, 1993; Liu et al., 2013a, 2018, 2019a; 
+Tse et al., 2012; Yu and Kang, 2008, 2010). The length-of-stay option 
+setting was referenced from the soundscape literature and validated 
+through pilot test 1. Specifically, the pilot test 1 was conducted to 
+examine how long visitors typically spend within a site while visiting an 
+urban park. It was found that approximately 30% of respondents spend 
+less than half an hour in the site of the park, close to 35% of them stayed 
+more than half an hour but less than an hour, nearly 30% of respondents 
+stayed in the site of the park around 1 and 3 h, while less than 10% of 
+respondents would stay for longer than 3 h. Therefore, four options were 
+set in terms of length of stay in the questionnaire: (1) less than 30 min, 
+(2) 30 min to 1 h, (3) 1 h to 3 h, and (4) more than 3 h. These time frames 
+are similar to other findings of length of visits in urban parks (Liu et al., 
+2013a, 2019a). 
+The second section of questionnaire was to collect soundscape per­
+ceptions (the perception of the overall soundscape and individual 
+sounds). As the study only investigated the perception of representative 
+sounds in the park, pilot test 2 was conducted to select sounds that were 
+common in the park and were included in each study site. Specifically, 
+pilot test 2 invited 20 landscape and ecology experts with normal 
+hearing abilities (ability to hear at and below 25 dB) to conduct the 
+soundwalk around the study sites and report the existing sounds in each 
+site. 8 individual sounds were found as common in ten sites: natural 
+sounds (birds and leaves rustling), mechanical sounds (broadcast music 
+and bicycle riding), human sounds (surrounding speech and footsteps), 
+and traffic noises (automobile and motorbike). Note that bird’s song and 
+leaves rustling are coming from the creatures themselves, not man-made 
+sounds. Broadcast music refers to soft and soothing music that is 
+broadcasted by mounted speakers within the park. Besides, although the 
+motorbike sound was present in all sites, it appeared very infrequently in 
+open green spaces. Considering the research potential of the motorbike 
+sound as a typical traffic noise, the perception of the sound was still 
+investigated in the GrS, BS, POG, and DG. 
+In section 2, three descriptors were set for the overall soundscape 
+perception, four descriptors were set for the perception of individual 
+Fig. 1. Information concerning the ten pre-coded sites in typical urban parks in Xi’an, China. 1-2 = Grey space (GrS), 3-4 = Blue space (BS), 5-6 = Open Green Space 
+(OG), 7-8 = Partly open/dense green space (POG), 9-10 = Dense green space (DG). Elaborated by authors by Google earth 2022. 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+4
+sounds (Table 1). As for overall soundscape perceptions, five-point rat­
+ing scale were applied in all three questions. The question for overall 
+soundscape preference (OSPR) was rated from very unsatisfied (1) to 
+very satisfied (5), question for overall perceived loudness (OPL) was 
+rated from very low (1) to very loud (5), and question for overall 
+soundscape annoyance (OSA) was rated from not annoyed at all (1) to 
+extremely annoyed (5). As for the perception of individual sounds, the 
+respondents were first asked to answer the question for perceived oc­
+currences of the sound (PO) rated from never heard (1) to heard all the 
+time (5). Only if the respondents chose one of the options 2-5 in terms of 
+PO, they would be invited to answer the next three questions (PL, PR, 
+VS) of this sound. The question for perceived loudness (PL) was rated 
+from very quiet (1) to very loud (5), the question for preference for 
+each sound (PR) was rated from very negative (1) to very positive (5), 
+and the question for visual perception of the sound sources (VS) was 
+rated from see (1) to not see it (2)). The above one set of four questions 
+(PO, PL, PR, VS) was presented sequentially for eight individual sounds. 
+All the contents of the questionnaire were presented electronically 
+through an app named “Wen Juan Xing.” 
+2.3. Questionnaire survey administration 
+The field survey was conducted over a total of 20 days from 
+September to October in 2019. To reduce the deviation caused by the 
+selection of a particular time and investigate site users more compre­
+hensively, each study site was surveyed twice over different days 
+(Table 2). Every survey lasted for 8 h, from 9:00 a.m. to 5:00 p.m. All 
+respondents were randomly selected among visitors of the urban parks. 
+Respondents in each selected site were first informed about the survey’s 
+objectives and the answering procedure without any hint placed on 
+positive sounds, negative sounds or noise pollution. Then, they were 
+provided an explanation that their answers would be anonymous. Those 
+who consented to participate were given the tablet with the question­
+naire and invited to complete it separately to avoid other respondents’ 
+interference. The participants were asked to respond about perceptions 
+based on their continuous experiences in the study site within the length 
+of time selected in the questionnaire. 
+2.4. Data analysis 
+In total, N = 2068 respondents answered the survey. Excluding 
+invalid questionnaires that were not fully answered, 2034 question­
+naires were finally included in the study. The number of effective 
+questionnaires in each type of environment was average (387 in GrS, 
+442 in BS, 339 in OG, 471 in POG, 395 in DG). The personal basic in­
+formation of respondents across five environment types were presented 
+in Appendix Table 7. The composition of participants across these five 
+environment types was found to be similar. 
+As the skewness and kurtosis, histograms, and QQ plots showed that 
+perception parameters had roughly normal distributions, the 
+Table 1 
+Descriptors of soundscape perceptions and corresponding questions in the questionnaire. 
+Soundscape Perception 
+Descriptor 
+Abbreviation 
+Question 
+Option scale 
+Overall soundscape 
+perception 
+Overall soundscape preference 
+OSPR 
+Are you satisfied with the overall sound environment in 
+this place? 
+1- Very unsatisfied 
+2- Unsatisfied 
+3- Neither satisfied, nor 
+unsatisfied 
+4- Satisfied 
+5- Very satisfied 
+Overall Perceived Loudness 
+OPL 
+What do you think of the loudness of this place? 
+1- Very low 
+2- Low 
+3- Moderately 
+4- Loud 
+5- Very loud 
+Overall Soundscape Annoyance 
+OSA 
+Do you think this sound environment annoyed? 
+1- Not annoyed at all 
+2- Slightly annoyed 
+3- Moderately annoyed 
+4- Very annoyed 
+5- Extremely annoyed 
+Perception of individual 
+sounds 
+Perceived occurrences of the 
+sound 
+PO 
+What is the occurrence of * sound in this place？ 
+1- Never 
+2- Occasionally 
+3- Moderately 
+4- Frequently 
+5- Always 
+Perceived loudness of The Sound 
+PL 
+How loud is this sound in this place？ 
+1- Very quiet 
+2- Quiet 
+3- Moderate 
+4- Loud 
+5- Very loud 
+Preference for the sound 
+PR 
+Do you like this sound in this place？ 
+1- Very negative 
+2- Negative 
+3- Moderate 
+4- Positive 
+5- Very positive 
+Visual perception of the sound 
+sources 
+VS 
+Can you see the visual source of this sound at here? 
+1- Yes 
+2- No 
+Note: * represented 8 individual sounds respectively. 
+Table 2 
+The date of field survey. 
+Environment Types 
+Site 
+Code 
+Date of 1st 
+Survey 
+Date of 2nd 
+Survey 
+Grey space 
+1 
+10.02 
+10.12 
+2 
+09.21 
+10.18 
+Blue space 
+3 
+09.27 
+10.26 
+4 
+09.22 
+10.29 
+Open Green Space 
+5 
+09.29 
+10.19 
+6 
+09.28 
+10.16 
+Partly open/dense green 
+space 
+7 
+09.25 
+10.30 
+8 
+10.13 
+10.27 
+Dense green space 
+9 
+09.26 
+10.17 
+10 
+09.30 
+10.28 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+5
+generalized linear model (GLM) was applied in this study. For all three 
+hypotheses, all 11 basic information items (age, gender, etc.) were 
+included as covariates in GLMs. Initial model testing suggested that the 
+inclusion of all 11 items was ideal for most of the hypothesized models 
+and we maintained the full set of covariates across all models for 
+consistency. 
+For hypotheses 1 & 2, all 35 soundscape perceptions were treated 
+sequentially as dependent variables (Fig. 2), with the independent var­
+iable being altered consistent with the hypothesis (length of stay for 
+hypothesis 1 and type of environment for hypothesis 2). Tests of model 
+effects and pairwise comparisons of estimated marginal means were 
+performed within the GLMs for hypotheses 1 & 2. 
+For hypothesis 1, these analyses were to find out whether length of 
+stay had a significant effect on soundscape perceptions (significant with 
+p < 0.05) and in which interval of time soundscape perceptions changed 
+significantly (significant with p < 0.05). For hypothesis 2, these analyses 
+were to find out whether environment type had a significant influence 
+on soundscape perceptions (significant with p < 0.05) and among which 
+environment types that soundscape perceptions changed significantly 
+(significant with p < 0.05). 
+For hypothesis 3, the effect of length of stay on soundscape percep­
+tion needs to be explored under different environment types. The in­
+dependent variable was length of stay, and the dependent variable was 
+soundscape perception - whichever of the 35 Y(i) were included will be 
+jointly determined by the results of hypotheses 1 and 2. This means that 
+Y(i), which was influenced by both length of stay and environment type, 
+was the dependent variable in hypothesis 3. After identifying the 
+dependent variables, all GLMs for these dependent variables performed 
+tests of model effects to verify extent of influence of the length of stay on 
+soundscape perceptions in different environments. All statistical ana­
+lyses were carried out in SPSS 25.0. 
+3. Results 
+3.1. Overview of respondents’ length of stay in all types of environments 
+In general, 26.6% of respondents (N = 542) in this study had spent 
+less than half an hour within the park sites, 36.2% of respondents (N =
+737) had spent 30 min to 1 h, 29.7% of respondents (N = 604) for 1 to 3 
+h, and 7.4% of respondents (N = 151) for more than 3 h. The overall 
+standard deviation for various “length of stay” options was 0.91, 
+calculated from 2034 individual values. Furthermore, the standard de­
+viations observed in different environment types closely approximated 
+this value, signifying a consistent distribution of “length of stay” across 
+all five environment types (Fig. 3). 
+3.2. The variation of soundscape perceptions over length of stay in urban 
+parks 
+It was originally hypothesized that length of time would affect per­
+ceptions of soundscape. Our analysis of 35 different ratings showed that 
+only 7 ratings were related to length of time but in a consistent manner 
+(Table 3). Specifically, as for the perception of the overall soundscape, 
+Overall Perceived Loudness was the only dependent variable influenced 
+by the length of stay (p = 0.025), while Overall Soundscape Preference 
+and Overall Soundscape Annoyance did not change over time. As for the 
+perception of individual sounds, the effect of the length of stay was 
+mainly reflected by natural sounds and mechanical sounds, rather than 
+human sounds and traffic noises. Regarding natural and mechanical 
+sounds, specifically, Perceived Occurrences dimension was the most 
+affected, in which birds (p = 0.008), leaves rustling (p = 0.000), 
+broadcast music (p = 0.000) and bicycle riding (p = 0.002) were 
+significantly influenced by the length of stay. Besides, Visual Sources of 
+birds (p = 0.000) and broadcast music (p = 0.026) was also significantly 
+affected by the length of stay. However, Preference and Perceived 
+Loudness of natural sounds and mechanical sounds were not affected at 
+all (Table 3). 
+As far as the dependent variables which were affected by the length 
+of stay, their variation over time was examined by pairwise comparison 
+in each GLM (Fig. 4). The details then were presented from different 
+dimensions of perceptions: 
+1) Overall Perceived Loudness: The value of OPL significantly peaked 
+between 30 minutes and 1 hour, and then showed significant lower 
+values after 3 h. 
+Fig. 2. 35 dependent variables in hypotheses 1 and 2. OSPR: Overall soundscape preference; OPL: Overall perceived loudness; OSA: Overall soundscape annoyance; 
+PR: Preference for each sound; PO: Perceived occurrences of each sound; PL: Perceived loudness; VS: Visual perception of each individual sound sources. 
+Fig. 3. Respondents’ distribution in terms of length of stay in five different 
+types of environments in the urban parks. The numbers of respondents are 
+shown in the bar. The total number of visitors is shown in brackets after 
+the time. 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+6
+2) Perceived Occurrences: The value of both natural sounds (birds and 
+leaves rustling) and mechanical sounds (broadcast music and bicycle 
+sounds) showed a significant increment in 30 minutes-1 hour. For the 
+rest of the time period, natural sounds remained relatively stable 
+while mechanical sounds rose significantly to a peak between 1 and 
+3 h. Besides these findings, in terms of natural sounds, the value of 
+birds was always higher than leaves rustling; in terms of mechanical 
+sounds, the value of broadcast music was always higher than bicycle 
+riding for the entire length of stay. 
+3) Visual Sources: The value of birds significantly decreased (meaning 
+the visual source of birds tended to be detected) after 3 h, whereas 
+the value of broadcast music saw a decline after 30 min, then leveled 
+up. 
+3.3. The effect of environment types on visitors’ soundscape perceptions in 
+urban parks 
+It was originally hypothesized that environment types would affect 
+overall perceptions of soundscape. Our analysis of 3 different ratings 
+showed that all ratings were related to environment types. Specifically, 
+respondents in partly open/dense green space (POG) showed the highest 
+preference towards the soundscape and considered the soundscape as 
+the quietest and the least annoying, while respondents in blue space 
+(BS), although the soundscape was regarded as not as quiet and calm as 
+its counterpart in POG, showed equal preference for BS with POG. The 
+soundscape in grey space (GrS), however, was perceived as the loudest 
+and most annoying, which was the least popular one in terms of re­
+spondents’ preference (Fig. 5). 
+It was originally hypothesized that environment types would affect 
+perceptions of individual sounds. Our analysis of 32 different ratings 
+showed that 21 ratings were related to environment types but in a 
+consistent manner (Table 4). Firstly, in terms of natural sounds, Pref­
+erence (PR) for leaves rustling was significantly different among five 
+environments (p = 0.018) and performed stronger in green spaces (OG, 
+POG and DG). Perceived Occurrences (PO) and Perceived Loudness (PL) 
+of birds were significantly different among five environments (both p =
+0.000), and birdsong was difficult to be perceived in grey space (GrS). 
+Visual Sources (VS) of leaves rustling were significantly different among 
+five environments (p = 0.000) and they were difficult to be detected in 
+open green space (Table 4). Secondly, in terms of mechanical sounds, PR 
+for broadcast music and bicycle riding were significantly different 
+among five environments (p = 0.000 and p = 0.030 respectively) and 
+performed the lowest in grey space (GrS), although mechanical sounds 
+(based on estimated marginal means of PO and PL of broadcast music 
+and bicycle riding) in GrS were not perceived to be more obvious than 
+their counterparts in other spaces (Table 4). Thirdly, in terms of human 
+sounds, PR for them were always the same regardless of environment 
+type, while human sounds (based on estimated marginal means of PO 
+and PL of surrounding speech and footsteps, and VS of surrounding 
+speech) were perceived more often in blue and green spaces (Table 4). 
+Finally, in terms of traffic noise, PR for automobile was significantly 
+Table 3 
+Effects of length of stay on 35 types of soundscape perceptions based on tests of 
+35 generalized linear models’ effects. 
+OSPR 
+OPL 
+OSA 
+Overall soundscape 
+- 
+0.025* 
+- 
+PR 
+PO 
+PL 
+VS 
+Natural sounds 
+Birds 
+- 
+0.008** 
+- 
+0.000*** 
+Leaves rustling 
+- 
+0.000*** 
+- 
+- 
+Mechanical 
+sounds 
+Broadcast music 
+- 
+0.000*** 
+- 
+0.026* 
+Bicycle riding 
+- 
+0.002** 
+- 
+- 
+Human sounds 
+Surrounding 
+speech 
+- 
+- 
+- 
+- 
+Footsteps 
+- 
+- 
+- 
+- 
+Traffic noises 
+Automobile 
+- 
+- 
+- 
+- 
+Motorbike 
+- 
+- 
+- 
+- 
+Note: “-” represented no statistically significant effect of length of stay on the 
+soundscape perception; significant effects were marked with *(p < 0.05), ** (p<
+0.01) and ***(p<0.001). OSPR: Overall soundscape preference; OPL: Overall 
+perceived loudness; OSA: Overall soundscape annoyance; PR: Preference for 
+each sound; PO: Perceived occurrences of each sound; PL: Perceived loudness; 
+VS: Visual perception of each individual sound sources. 
+Fig. 4. Trend of seven types of soundscape perceptions over time based on pairwise comparisons of estimated marginal means within seven GLMs. The x-axes showed 
+the four categories of length of stay, and the y-axes showed the estimated marginal means of perceptions. Values of different letters (a,b,c) were signifi­
+cantly different. 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+7
+different among five environments (p = 0.000) and performed lower in 
+green spaces (especially in partly open/dense green space), whereas 
+traffic noises (based on estimated marginal means of PO of automobiles 
+and motorbikes, and PL and VS of automobiles) in green spaces were not 
+perceived as more obvious compared to their counterparts in the GrS 
+(Table 4). 
+The estimated marginal means of perceptions within one environ­
+ment type were converted to histograms (Appendix - Fig. 8), which 
+clearly showed the perceptual ranking of the eight sounds under each 
+environment type separately. It was found that respondents had 
+different perceptions of different sounds. On the one hand, regardless of 
+environment type, preferences for birds, broadcast music, and leaves 
+rustling were always the highest; preference for traffic noises (automo­
+biles and motorbikes) were the lowest; preference for human sounds 
+(surrounding speech and footsteps) generally remained at the medium 
+level; Perceived Occurrences (PO) and Perceived Loudness (PL) of sur­
+rounding speech were always the highest; and Visual Sources (VS) of 
+birds and broadcast music were always difficult to detect, while VS of 
+human sounds (surrounding speech and footsteps) were always easily 
+recognized. On the other hand, traffic noises (based on estimated mar­
+ginal means of PO and PL of automobiles and motorbikes) were domi­
+nating in grey space and open green space, whereas natural sounds 
+(based on estimated marginal means of PO, PL, and VS of birds) became 
+more obvious than traffic noises in partly open/dense green space and 
+dense green space. 
+Overall, the soundscape in blue space and partly open/dense green 
+space was the most preferred, while the opposite was true in grey space. 
+People’s preference and perception of sounds were significantly 
+different under certain types of environments, and the characteristics of 
+the soundscape that people perceived were also different under different 
+environment types. However, no matter what type of environment, re­
+spondents consistently disliked traffic noises and preferred natural 
+sounds and broadcast music. Human sounds were always very common 
+in the urban parks and respondents tended to have a neutral regard for 
+them. 
+3.4. The degree of influence of visitors’ length of stay on soundscape 
+perception in different environments 
+Taking into account the variations in soundscape perceptions over 
+time and the differences observed among the five environment types, 
+this study proceeded to examine the variations in these variables, 
+including overall soundscape preference, perceived occurrences of 
+birds, broadcast music, and bicycle riding, in relation to the length of 
+stay within each of the five environment types. 
+It was originally hypothesized that the degree of influence of visitors’ 
+length of stay on soundscape perception would be different in different 
+environments. The results confirmed that this hypothesis is valid. Spe­
+cifically, the impact of length of time on Overall Perceived Loudness 
+only appeared in BS (p = 0.011), OG (p = 0.024), and DG (p = 0.011) 
+(Fig. 6). Perceived Occurrences of birds only significantly changed over 
+visiting length of time in GrS (p = 0.028) and POG (p = 0.007) (Fig. 6). 
+Perceived Occurrences of broadcast music only significantly changed 
+over the visiting time period in GrS (p = 0.035), POG (p = 0.012), and 
+DG (p = 0.015) (Fig. 6). Perceived Occurrences of bicycle riding would 
+only significantly vary over the visiting length of time in OG (p = 0.018) 
+and DG (p = 0.011) (Fig. 6). 
+Overall, in terms of hypothesis 1, the length of stay in the park does 
+exert an influence on various aspects of soundscape perception, 
+although this effect is not consistently observed across all dimensions of 
+soundscape perception (Table 5). In terms of hypothesis 2, the type of 
+environment does have some impact on soundscape perceptions, but it 
+does not significantly alter people’s preferences for human sounds 
+(Table 5). In terms of hypothesis 3, the influence of length of stay on 
+sound perceptions varies across different environment types, with the 
+effect of length of stay on sound perceptions appearing relatively weaker 
+in blue space (Table 5). 
+4. Discussion 
+4.1. Visitors’ soundscape perceptions in the urban park are influenced by 
+their length of stay 
+This study found that some of soundscape perceptions were dynamic 
+over time during a tour in urban parks. Hypothesis 1 is valid. As for 
+overall soundscape perception, the perceived loudness was the only one 
+linked to the time of the stay. Seemingly people perceived the park to be 
+noisier and louder after 30-60 min of being within the park than when 
+entering the park. However, after spending 1 h within the park, they 
+seemed to be rather neutral in perceiving loudness. Perhaps visitors start 
+to become accustomed to the noise after 30-60 min and then begin to 
+pay attention to other things, which needs to be further explored in 
+future studies combined with neurological science to study the psy­
+chological factors at play. As for the perception of individual sounds, the 
+change in perception often occurred with natural sounds and mechani­
+cal sounds rather than human sounds and traffic noises. Specifically, 
+people were paying higher attention to bird songs and leaves rustling as 
+well as broadcast music and bicycle sounds from the time of entry to the 
+park to 1 h’s stay. After 1 h within the parks, the perception of natural 
+sounds seemed to stabilize for the rest of the stay while mechanical 
+sounds were heard a greater frequency up to 3 h and after that signifi­
+cantly less. Interestingly, people observed an increase in bird songs 
+within the first hour, but they did not visually perceive them until 3 h 
+later. Therefore, for park managers, when managing the site with high 
+ecological value in mind, it is recommended to provide the necessary 
+facilities (enough space, comfortable seats, convenient trash cans and 
+toilets) ensuring visitors can remain in the site for a long time to truly 
+experience the species richness (e.g. birds) of the site (Rushing et al., 
+2019; Vasiljevi´c et al., 2023; Wang et al., 2022; Zhou et al., 2022). 
+4.2. Visitors’ soundscape perceptions in the urban park are influenced by 
+environment types 
+The results indicated that some of soundscape perceptions were 
+different in five environment types of the urban park. Hypothesis 2 is 
+valid. As for grey space, the respondents regarded this space as the most 
+annoying and least preferred among five types of environments in urban 
+parks. It might be related to the results in this study, as birds’ songs were 
+Fig. 5. Overall soundscape perception in five environment types based on 3 
+generalized linear models. GrS: Grey Space; BS: Blue Space; OG: Open Green 
+Space; POG: Partly Open/dense Green Space; DG:Dense Green Space. Values of 
+different letters (a,b,c) were significantly different. 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+8
+Table 4 
+Significance levels of environment type impact on individual sound perceptions and estimated marginal means of perceptions across five environment types based on 
+32 generalized linear models. 
+Preference 
+(PR) 
+Perceived 
+occurrences 
+(PO) 
+Perceived 
+loudness 
+(PL) 
+Visual 
+sources 
+(VS) 
+Natural 
+sounds 
+Birds 
+- 
+GrS 
+3.987 
+± 0.062 
+0.000*** 
+GrS 
+2.047 
+± 0.064 
+0.000*** 
+GrS 
+2.270 
+± 0.063 
+- 
+GrS 
+1.489 
+± 0.024 
+BS 
+4.053 
+± 0.052 
+BS 
+2.541 
+± 0.056 
+BS 
+2.658 
+± 0.052 
+BS 
+1.466 
+± 0.021 
+OG 
+4.066 
+± 0.057 
+OG 
+2.513 
+± 0.065 
+OG 
+2.566 
+± 0.059 
+OG 
+1.541 
+± 0.025 
+POG 
+4.143 
+± 0.043 
+POG 
+3.212 
+± 0.051 
+POG 
+2.817 
+± 0.044 
+POG 
+1.461 
+± 0.019 
+DG 
+4.084 
+± 0.051 
+DG 
+2.962 
+± 0.058 
+DG 
+2.962 
+± 0.058 
+DG 
+1.485 
+± 0.021 
+Leaves 
+rustling 
+0.018* 
+GrS 
+3.632 
+± 0.061 
+- 
+GrS 
+2.269 
+± 0.064 
+- 
+GrS 
+2.392 
+± 0.061 
+0.000*** 
+GrS 
+1.154 
+± 0.024 
+BS 
+3.705 
+± 0.054 
+BS 
+2.423 
+± 0.056 
+BS 
+2.528 
+± 0.054 
+BS 
+1.126 
+± 0.021 
+OG 
+3.778 
+± 0.059 
+OG 
+2.372 
+± 0.065 
+OG 
+2.433 
+± 0.061 
+OG 
+1.283 
+± 0.025 
+POG 
+3.853 
+± 0.049 
+POG 
+2.336 
+± 0.051 
+POG 
+2.413 
+± 0.050 
+POG 
+1.249 
+± 0.022 
+DG 
+3.819 
+± 0.060 
+DG 
+2.180 
+± 0.058 
+DG 
+2.180 
+± 0.058 
+DG 
+1.187 
+± 0.025 
+Mechanical 
+sounds 
+Broadcast 
+music 
+0.000*** 
+GrS 
+3.645 
+± 0.076 
+0.000*** 
+GrS 
+2.096 
+± 0.064 
+0.000*** 
+GrS 
+3.136 
+± 0.077 
+- 
+GrS 
+1.290 
+± 0.029 
+BS 
+3.804 
+± 0.056 
+BS 
+2.468 
+± 0.056 
+BS 
+2.971 
+± 0.056 
+BS 
+1.338 
+± 0.025 
+OG 
+3.787 
+± 0.063 
+OG 
+2.410 
+± 0.065 
+OG 
+3.000 
+± 0.065 
+OG 
+1.337 
+± 0.027 
+POG 
+3.967 
+± 0.047 
+POG 
+2.928 
+± 0.051 
+POG 
+2.986 
+± 0.048 
+POG 
+1.326 
+± 0.021 
+DG 
+3.649 
+± 0.052 
+DG 
+3.370 
+± 0.058 
+DG 
+3.370 
+± 0.058 
+DG 
+1.318 
+± 0.022 
+Bicycle riding 
+0.030*** 
+GrS 
+2.565 
+± 0.074 
+0.000*** 
+GrS 
+1.687 
+± 0.064 
+0.000*** 
+GrS 
+2.469 
+± 0.075 
+0.001** 
+GrS 
+1.143 
+± 0.029 
+BS 
+2.762 
+± 0.144 
+BS 
+1.186 
+± 0.056 
+BS 
+2.442 
+± 0.143 
+BS 
+1.191 
+± 0.057 
+OG 
+2.846 
+± 0.067 
+OG 
+1.976 
+± 0.065 
+OG 
+2.589 
+± 0.070 
+OG 
+1.114 
+± 0.029 
+POG 
+2.583 
+± 0.115 
+POG 
+1.189 
+± 0.051 
+POG 
+2.217 
+± 0.117 
+POG 
+1.305 
+± 0.051 
+DG 
+2.657 
+± 0.089 
+DG 
+1.428 
+± 0.058 
+DG 
+1.428 
+± 0.058 
+DG 
+1.167 
+± 0.037 
+Human 
+sounds 
+Surrounding 
+speech 
+- 
+GrS 
+2.896 
+± 0.051 
+0.000*** 
+GrS 
+3.362 
+± 0.064 
+0.003** 
+GrS 
+2.977 
+± 0.051 
+0.001** 
+GrS 
+1.099 
+± 0.020 
+BS 
+2.832 
+± 0.045 
+BS 
+3.794 
+± 0.056 
+BS 
+3.084 
+± 0.045 
+BS 
+1.035 
+± 0.018 
+OG 
+2.719 
+± 0.049 
+OG 
+3.782 
+± 0.065 
+OG 
+3.109 
+± 0.051 
+OG 
+1.046 
+± 0.021 
+POG 
+2.786 
+± 0.042 
+POG 
+3.514 
+± 0.051 
+POG 
+2.904 
+± 0.042 
+POG 
+1.050 
+± 0.018 
+DG 
+2.879 
+± 0.047 
+DG 
+3.489 
+± 0.058 
+DG 
+3.489 
+± 0.058 
+DG 
+1.066 
+± 0.02 
+Footsteps 
+- 
+GrS 
+2.833 
+± 0.061 
+0.000*** 
+GrS 
+2.240 
+± 0.064 
+0.000*** 
+GrS 
+2.421 
+± 0.062 
+- 
+GrS 
+1.125 
+± 0.024 
+BS 
+2.877 
+± 0.049 
+BS 
+2.943 
+± 0.056 
+BS 
+2.615 
+± 0.049 
+BS 
+1.088 
+± 0.019 
+OG 
+2.809 
+± 0.051 
+OG 
+3.221 
+± 0.065 
+OG 
+2.752 
+± 0.053 
+OG 
+1.077 
+± 0.022 
+POG 
+2.964 
+± 0.046 
+POG 
+2.730 
+± 0.051 
+POG 
+2.518 
+± 0.046 
+POG 
+1.104 
+± 0.02 
+DG 
+2.895 
+± 0.052 
+DG 
+2.711 
+± 0.058 
+DG 
+2.711 
+± 0.058 
+DG 
+1.093 
+± 0.022 
+Traffic 
+noises 
+Automobile 
+0.000*** 
+GrS 
+2.553 
+± 0.060 
+0.000*** 
+GrS 
+2.716 
+± 0.064 
+0.001** 
+GrS 
+3.264 
+± 0.061 
+0.000*** 
+GrS 
+1.147 
+± 0.024 
+BS 
+2.301 
+± 0.084 
+BS 
+1.665 
+± 0.056 
+BS 
+3.073 
+± 0.084 
+BS 
+1.137 
+± 0.033 
+OG 
+1.977 
+± 0.056 
+OG 
+3.006 
+± 0.065 
+OG 
+3.188 
+± 0.058 
+OG 
+1.315 
+± 0.024 
+POG 
+1.945 
+± 0.074 
+POG 
+1.764 
+± 0.051 
+POG 
+2.945 
+± 0.075 
+POG 
+1.158 
+± 0.033 
+DG 
+2.208 
+± 0.127 
+DG 
+1.266 
+± 0.058 
+DG 
+1.266 
+± 0.058 
+DG 
+1.340 
+± 0.053 
+(continued on next page) 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+9
+more difficult to perceive whereas traffic noises were perceived as 
+louder in the space. Furthermore, among the five types of spaces, people 
+could not tolerate hearing mechanical sounds in the grey space the most. 
+Therefore, measures for the improvement of the acoustic environment in 
+grey areas should be part of the park management. For example, to 
+attract more organisms and increase natural sounds by applying the eco- 
+permeable pavement (which are made of either a porous material that 
+enables stormwater to flow through it or nonporous blocks spaced so 
+that water can flow between the gaps) and increasing local plants to the 
+site (Cerra & Crain, 2016; Hong, Ong, et al., 2020; Pr¨obstl-Haider et al., 
+2023). To reduce the perceived level of traffic noises in the site by 
+reasonably selecting the location to keep the grey area away from the 
+traffic area (Ow & Ghosh, 2017). 
+As for blue space, interestingly, people here did not regard the 
+soundscape as the quietest but still considered the soundscape as the 
+most preferred one. It might be explained by an evolutionary perspective 
+- hydrophilia is an innate attribute of humans (Foley & Kistemann, 2015; 
+McDougall et al., 2021). In other words, people naturally like spaces 
+related to water. Therefore, the park managements about blue space 
+could be to add more elements that interact with water (Di et al., 2022). 
+For instance, diversifying the forms and materials of revetment—typi­
+cally made of stone, although other successful materials include 
+concrete-mat, willow plantings, gabions, and various alternatives—can 
+generate a range of water-to-shore sound effects (Jing et al., 2020), 
+playing broadcast music related to water (based on the history of China, 
+flowing water often reminds modern people of the feeling of being in 
+nature) (Corney & Neave, 2019; Lu et al., 2022), providing various types 
+of revetment space and other convenient facilities to allow visitors to 
+stay closer with the blue space (de Vries et al., 2016; Hu & Zhao, 2022). 
+As for partly open/dense green space, people perceived its sound­
+scape as the quietest and most favorite. Participants within this study 
+easily perceived natural sounds, and thus might feel more connected 
+with nature in this type of space and become more relaxed from their 
+daily routine (Uebel et al., 2021). Several studies have proved that partly 
+open/dense green space is the most preferred space from a visual 
+perspective or overall-experience perspective (Gao et al., 2019a; Gao 
+et al., 2019b; Qiu et al., 2021; Xiang et al., 2021; Sadeghi & Haghighat 
+Bin, 2023), and our results could further support this finding from the 
+auditory perspective. 
+Despite soundscape perception differences in the different environ­
+ments above, the results showed that no matter what type of environ­
+ment, people always disliked traffic noises and liked the sounds of birds, 
+broadcast music and leaves rustling. These findings are consistent with 
+the biophilia hypothesis which explains that people are naturally close 
+to and love natural creatures and human beings’ innate musicality 
+(Zatorre, 2018). Therefore, urban parks, as outdoor recreation areas 
+where residents can experience the relaxing and natural environment 
+away from the pressures of daily life, should be managed to increase the 
+presence of natural sounds and background music, and reduce the 
+interference of traffic noise (Jia et al., 2020). For example, establishing a 
+rich and suitable habitat to attract birds and diversify the birdsong (Zhu 
+et al., 2020); playing light music which is related to the natural envi­
+ronment with soothing tunes to create a relaxed and pleasant environ­
+ment for people while not interfering with their daily activities (Van 
+Renterghem et al., 2020); setting terrain barriers, plant barriers, or even 
+sound barriers at the boundaries of urban parks to reduce the spread of 
+traffic sounds as much as possible (Ferrini et al., 2020); and applying 
+quiet pavement and reducing speed limits outside the park (Rice et al., 
+2022). 
+4.3. The effects of length of stay on soundscape perceptions depend on 
+environment types in the urban park 
+The results indicated that the degrees of influence of visitors’ length 
+of stay on soundscape perception were different in different environ­
+ments. Hypothesis 3 is valid. As for the overall loudness of soundscape, 
+people’s change in perception over time only applied to blue spaces, 
+open green spaces, and dense green spaces. Results revealed that the 
+soundscape in grey spaces was perceived as the loudest while the 
+soundscape in partly open/dense green spaces was perceived as the 
+quietest (Jin et al., 2020). 
+For the perception of birds, broadcast music, and bicycle over 
+visiting periods of time, they only showed variation in several kinds of 
+environments. Specifically, perceived occurrences of birds only varied 
+Table 4 (continued) 
+Preference 
+(PR) 
+Perceived 
+occurrences 
+(PO) 
+Perceived 
+loudness 
+(PL) 
+Visual 
+sources 
+(VS) 
+Motorbike 
+- 
+GrS 
+2.085 
+± 0.079 
+0.000*** 
+GrS 
+1.798 
+± 0.064 
+- 
+GrS 
+3.007 
+± 0.080 
+- 
+GrS 
+1.278 
+± 0.034 
+BS 
+2.263 
+± 0.151 
+BS 
+1.158 
+± 0.056 
+BS 
+2.763 
+± 0.152 
+BS 
+1.290 
+± 0.060 
+OG 
+Invalid 
+OG 
+Invalid 
+OG 
+Invalid 
+OG 
+Invalid 
+POG 
+1.8 ±
+0.115 
+POG 
+1.161 
+± 0.051 
+POG 
+2.689 
+± 0.116 
+POG 
+1.393 
+± 0.050 
+DG 
+1.857 
+± 0.175 
+DG 
+1.119 
+± 0.058 
+DG 
+1.119 
+± 0.058 
+DG 
+1.143 
+± 0.074 
+Note: “-” represented no statistically significant effect of environment types on the soundscape perception; significant differences were marked with *(p < 0.05), ** (p<
+0.01) and ***(p<0.001). GrS: Grey Space; BS: Blue Space; OG: Open Green Space; POG: Partly Open/dense Green Space; DG: Dense Green Space. 
+Fig. 6. The degree of influence of length of stay on soundscape perception in five environment types. The x-axes showed the five types of environments, and the y- 
+axes showed the estimated marginal means of perceptions. Significant differences were marked with *(p < 0.05) and ** (p< 0.01). GrS: Grey Space; BS: Blue Space, 
+OG: Open Green Space; POG: Partly Open/dense Green Space; DG:Dense Green Space. 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+10
+over time in grey space and partly open/dense green space; perceived 
+occurrences of broadcast music only varied over time in grey space, 
+partly open/dense green space and dense green space; and perceived 
+occurrences of bicycle riding only varied over time in open green space 
+and dense green space. This indicates that the soundscape perception 
+changes over time will be affected by the types of environments in the 
+urban park, and future research on time and soundscape perception 
+should be based on different environment types (Liu et al., 2013; Chen, 
+Hermes, et al., 2022). 
+4.4. Limitation and future research 
+Firstly, in this on-site survey, the overall sound level, type of indi­
+vidual sounds, the environmental condition, and the allocation of the 
+respondents in each type of space were generally the same, whereas the 
+specific acoustical features of each individual sound (occurrences and 
+loudness) could not be easily controlled. This is a conflict that field 
+experiments cannot avoid. However, since this study was exploring the 
+effect of the time visitors spend at the site on the perception of the 
+soundscape, the experiment was required to be realized in the actual 
+site. We have randomly selected two sample sites for each environment 
+type and collected a balanced number of questionnaires at each sample 
+site to ensure the fairness of the total sample. Secondly, the categories 
+presented within the two main independent variables (length of stay and 
+environment types) of this study were limited. For length of stay, the 
+study presented four options of it through questionnaires. For type of 
+environment, the study divided the park environment into five cate­
+gories. However, this does not affect the validity of the study. Because 
+the number of questionnaires corresponding to each type of length of 
+time and the number of questionnaires corresponding to each type of 
+environment were sufficient to carry out statistical analyses. Thirdly, the 
+experiment’s reliance on 15 min of pre-survey sound level measure­
+ments may not entirely capture the correlation between actual loudness 
+and perceived loudness. However, this limitation does not have 
+adversely affected the accuracy of our experiment’s findings. This is 
+primarily due to the fact that the sound levels did not exhibit significant 
+variations across the various environment types. Consequently, the re­
+ported perceptions can be attributed more to the impact of length of stay 
+rather than being a result of a specific momentary artifact. Fourthly, in 
+hypotheses 1 and 2, it’s noteworthy that only a subset of the various 
+soundscape perceptions demonstrates significant influence in relation to 
+the length of stay or environment types. However, it is essential to 
+emphasize that this study primarily serves as an exploratory investiga­
+tion into the influence of length of stay and environment types. Its core 
+objective is to shed light on the impact of length of stay on soundscape 
+experiences. The presence of any significant test results, related to the 
+length of stay and environment types, signifies the importance of 
+continued attention and exploration in forthcoming research and design 
+endeavors. 
+In future field experiments, broadening the scope would provide 
+more flexibility in selecting independent variables, enabling a more 
+comprehensive exploration of the precise influence of the duration of 
+time spent on soundscape perception. This enhancement could be 
+further bolstered by integrating real-time objective sound level moni­
+toring. And research can also be conducted in the laboratory to further 
+confirm the results by controlling variables. To facilitate future parks’ 
+soundscape planning and design in detail, future studies could further 
+investigate the relationship among the species of birds in the site, peo­
+ple’s knowledge of birds, and the perceived visual sources of birds. 
+5. Conclusions 
+This study focuses on the variations of the on-site users’ perceptions 
+of the soundscape during a visit in five types of environments in the 
+urban park. The survey was conducted across ten sampling sites from 
+typical urban parks in Xi’an China, and 2034 effective questionnaires 
+were collected. The results implicated that: 
+1) For park management that focus on high ecological values, it is 
+recommended that necessary facilities (such as adequate space, 
+comfortable seating, convenient trash cans and toilets) be provided 
+to ensure that visitors can stay long enough to truly experience the 
+richness of the species (e.g., birds). 
+2) The soundscape of the grey space in the park needs to be improved. 
+For example, applying ecological permeable pavement and adding 
+local plants to attract more creatures may increase natural sounds, 
+and siting the grey area away from the traffic area may reduce the 
+perceived traffic noise on the site. 
+3) The blue space in the urban park can add more elements that allow 
+visitors to interact with water. Such as enriching the form and ma­
+terial of revetment to create various sounds of water hitting the 
+shore, playing water-related broadcasting music, providing various 
+Table 5 
+Key findings from three hypotheses. 
+Hypothesis 
+1 
+Hypothesis 2 
+Hypothesis 3 
+Impacted by 
+length of 
+stay 
+Impacted by 
+environment 
+types 
+Significant role 
+of length of stay 
+in specific 
+environment 
+types 
+Overall Soundscape 
+Preference 
+✓ 
+Overall Perceived Loudness 
+✓ 
+✓ 
+Blue space, open 
+green space, 
+dense green 
+space 
+Overall Soundscape 
+Annoyance 
+✓ 
+Natural 
+sounds 
+Preference 
+✓ (not fully 
+proven) 
+Perceived 
+Occurrences 
+✓ 
+✓ (not fully 
+proven) 
+Grey space, 
+partly open/ 
+dense green 
+space 
+Perceived 
+Loudness 
+✓ (not fully 
+proven) 
+Visual 
+Sources 
+✓ (not fully 
+proven) 
+✓ (not fully 
+proven) 
+Mechanical 
+sounds 
+Preference 
+✓ 
+Perceived 
+Occurrences 
+✓ 
+✓ 
+Grey space, open 
+green space, 
+partly open/ 
+dense green 
+space, dense 
+green space 
+Perceived 
+Loudness 
+✓ 
+Visual 
+Sources 
+✓ (not fully 
+proven) 
+✓ (not fully 
+proven) 
+Human 
+sounds 
+Preference 
+Perceived 
+Occurrences 
+✓ 
+Perceived 
+Loudness 
+✓ 
+Visual 
+Sources 
+✓ (not fully 
+proven) 
+Traffic 
+noises 
+Preference 
+✓ (not fully 
+proven) 
+Perceived 
+Occurrences 
+✓ 
+Perceived 
+Loudness 
+✓ (not fully 
+proven) 
+Visual 
+Sources 
+✓ (not fully 
+proven) 
+Note: for the same sound category, "✓" is displayed when both representative 
+sounds were influenced. When only one representative sound was affected, it 
+was displayed as "✓ (not fully proven)". 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+11
+types of spaces for revetment and other facilities to make it more 
+convenient for visitors to settle in the blue space. 
+4) Urban parks should increase the presence of natural sounds and 
+background music and reduce the interference of traffic noise based 
+on the biophilia hypothesis. For example, establishing rich and 
+diverse biological habitats so as to diversify bird songs, playing light 
+music related to the natural environment to create a relaxing envi­
+ronment for people without interfering with their daily activities, 
+setting up topographical barriers, plant barriers, and even sound 
+barriers at the boundaries of urban parks to minimize the intrusion of 
+traffic noises. 
+5) The change of soundscape perception over time is affected by the 
+type of urban park environment, and future research on time and 
+soundscape perception should be based on different environmental 
+types. 
+Funding 
+This work was supported by the National Natural Science Foundation 
+of China (grant numbers: 31971720 and 31971722), the Scientific 
+Research Cooperation Agreement Project of Xianyang Forestry Bureau 
+(grant number: K3030921811), the Science and Technology Innovation 
+Program of Shaanxi Academy of Forestry (grant numbers: SXLK2021- 
+0216 and SXLK2023-02-18), the Key Project of Ecological Space 
+Governance in Shaanxi Province (grant numbers: 2022HZ1838 and 
+2022HZ1762). 
+CRediT authorship contribution statement 
+Xingyue Fang: Methodology, Validation, Formal analysis, Investi­
+gation, Data curation, Writing – original draft, Visualization. Ying Qi: 
+Investigation, Data curation, Visualization. Marcus Hedblom: Meth­
+odology, Validation, Writing – review & editing. Tian Gao: Conceptu­
+alization, Methodology, Validation, Resources, Writing – review & 
+editing, Supervision, Project administration, Funding acquisition. Ling 
+Qiu: Conceptualization, Methodology, Validation, Formal analysis, Re­
+sources, Writing – review & editing, Supervision, Project administration, 
+Funding acquisition. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.jort.2023.100728. 
+References 
+Aletta, F., Kang, J., & Axelsson, ¨O. (2016). Soundscape descriptors and a conceptual 
+framework for developing predictive soundscape models. Landscape and Urban 
+Planning, 149, 65–74. https://doi.org/10.1016/j.landurbplan.2016.02.001 
+Aletta, F., Van Renterghem, T., & Botteldooren, D. (2018). Influence of personal factors 
+on sound perception and overall experience in urban green areas. A case study of a 
+cycling path highly exposed to road traffic noise. International Journal of 
+Environmental Research and Public Health, 15(6). https://doi.org/10.3390/ 
+ijerph15061118 
+Axelsson, ¨O., Nilsson, M. E., & Berglund, B. (2010). A principal components model of 
+soundscape perception. Journal of the Acoustical Society of America, 128(5), 
+2836–2846. 
+Cain, R., Jennings, P., & Poxon, J. (2013). The development and application of the 
+emotional dimensions of a soundscape. Applied Acoustics, 74(2), 232–239. 
+Carrus, G., Scopelliti, M., Fornara, F., et al. (2014). Place attachment, community 
+identification, and pro-environmental engagement. Place attachment. Advances in 
+theory, methods and applications, 154–164. 
+Cerra, J. F., & Crain, R. (2016). Urban birds and planting design: Strategies for 
+incorporating ecological goals into residential landscapes. Urban Ecosystems, 19(4), 
+1823–1846. 
+Cheng, Y., Zhang, J., Wei, W., & Zhao, B. (2021). Effects of urban parks on residents’ 
+expressed happiness before and during the COVID-19 pandemic. Landscape and 
+Urban Planning, 212, Article 104118. 
+Chen, Z., Hermes, J., Liu, J., & von Haaren, C. (2022b). How to integrate the soundscape 
+resource into landscape planning? A perspective from ecosystem services. Ecological 
+Indicators, 141, Article 109156. 
+Chen, Z., Zhu, T.-Y., Liu, J., & Hong, X.-C. (2022a). Before becoming a world heritage: 
+Spatiotemporal dynamics and spatial dependency of the soundscapes in kulangsu 
+scenic area, China. Forests, 13(9). https://doi.org/10.3390/f13091526 
+Corney, H., & Neave, M. (2019). I can hear the birds: Using audio recordings to assess 
+perceptions of amenity in urban riparian environments. Urban Ecosystems, 22(2), 
+235–247. 
+Di, G., Xiang, J., Yao, Y., Chen, C., & Lin, Q. (2022). Develop a public response model of 
+soundscape for urban landscape garden parks. Urban Ecosystems, 25(2), 453–463. 
+Dunbavin, P. (2018). ISO/TS 12913-2: 2018−
+soundscape–Part 2: Data collection and 
+reporting requirements–what’s it all about. Acoust bulletin 55-57. El-baghdadi, O., & 
+Desha, C. (2017). Conceptualising a biophilic services model for urban areas. Urban 
+Forestry and Urban Greening, 27, 399–408. 
+Du, H., Zhou, F., Cai, Y., Li, C., & Xu, Y. (2021). Research on public health and well-being 
+associated to the vegetation configuration of urban green space, a case study of 
+Shanghai, China. Urban Forestry and Urban Greening, 59, Article 126990. https://doi. 
+org/10.1016/j.ufug.2021.126990 
+el-Baghdadi, O., & Desha, C. (2017). Conceptualising a biophilic services model for urban 
+areas. Urban Forestry & Urban Greening, 27, 399–408. 
+Ferrini, F., Fini, A., Mori, J., & Gori, A. (2020). Role of vegetation as a mitigating factor in 
+the urban context. Sustainability, 12(10). https://doi.org/10.3390/su12104247 
+Fields, J. M. (1993). Effect of personal and situational variables on noise annoyance in 
+residential areas. Journal of the Acoustical Society of America, 93(5), 2753–2763. 
+https://doi.org/10.1121/1.405851 
+Foley, R., & Kistemann, T. (2015). Blue space geographies: Enabling health in place. 
+Health & Place, 35, 157–165. 
+Gao, T., Hedblom, M., Emilsson, T., & Nielsen, A. B. (2014). The role of forest stand 
+structure as biodiversity indicator. Forest Ecology and Management, 330, 82–93. 
+https://doi.org/10.1016/j.foreco.2014.07.007 
+Gao, T., Liang, H., Chen, Y., & Qiu, L. (2019). Comparisons of landscape preferences 
+through three different perceptual approaches. International Journal of Environmental 
+Research and Public Health, 16(23). https://doi.org/10.3390/ijerph16234754 
+Gao, T., Zhang, T., Zhu, L., Gao, Y., & Qiu, L. (2019). Exploring psychophysiological 
+restoration and individual preference in the different environments based on virtual 
+reality. International Journal of Environmental Research and Public Health, 16(17). 
+https://doi.org/10.3390/ijerph16173102 
+Grilo, F., Pinho, P., Aleixo, C., Catita, C., Silva, P., Lopes, N., … Branquinho, C. (2020). 
+Using green to cool the grey: Modelling the cooling effect of green spaces with a high 
+spatial resolution. The Science of the Total Environment, 724, Article 138182. https:// 
+doi.org/10.1016/j.scitotenv.2020.138182 
+Han, J. (2019). Vacationers in the countryside: Traveling for tranquility? Tourism 
+Management, 70, 299–310. https://doi.org/10.1016/j.tourman.2018.09.001 
+Hong, J. Y., & Jeon, J. Y. (2014). The effects of audio–visual factors on perceptions of 
+environmental noise barrier performance. Landscape and Urban Planning, 125, 
+28–37. 
+Hong, J. Y., & Jeon, J. Y. (2017). Relationship between spatiotemporal variability of 
+soundscape and urban morphology in a multifunctional urban area: A case study in 
+seoul, korea. Building and Environment, 126, 382–395. https://doi.org/10.1016/j. 
+buildenv.2017.10.021 
+Hong, J. Y., Lam, B., Ong, Z.-T., Ooi, K., Gan, W.-S., Kang, J., … Tan, S.-T. (2020a). 
+Effects of contexts in urban residential areas on the pleasantness and appropriateness 
+of natural sounds. Sustainable Cities and Society, 63, Article 102475. https://doi.org/ 
+10.1016/j.scs.2020.102475 
+Hong, J. Y., Ong, Z.-T., Lam, B., Ooi, K., Gan, W.-S., Kang, J., … Tan, S.-T. (2020b). 
+Effects of adding natural sounds to urban noises on the perceived loudness of noise 
+and soundscape quality. The Science of the Total Environment, 711, Article 134571. 
+https://doi.org/10.1016/j.scitotenv.2019.134571 
+Hong, X.-C., Wang, G.-Y., Liu, J., & Dang, E. (2020c). Perceived loudness sensitivity 
+influenced by brightness in urban forests: A comparison when eyes were opened and 
+closed. Forests, 11(12), 1242. Retrieved from https://www.mdpi.com/1 
+999-4907/11/12/1242. 
+Hong, X., Wang, G., Liu, J., & Lan, S. (2019). Cognitive persistence of soundscape in 
+urban parks. Sustainable Cities and Society, 51. https://doi.org/10.1016/j. 
+scs.2019.101706 
+Hong, X.-C., Wang, G.-Y., Liu, J., Song, L., & Wu, E. T. Y. (2021). Modeling the impact of 
+soundscape drivers on perceived birdsongs in urban forests. Journal of Cleaner 
+Production, 292, Article 125315. https://doi.org/10.1016/j.jclepro.2020.125315 
+Huang, Q., Yang, M., Jane, H.-a., Li, S., & Bauer, N. (2020). Trees, grass, or concrete? The 
+effects of different types of environments on stress reduction. Landscape and Urban 
+Planning, 193, Article 103654. https://doi.org/10.1016/j.landurbplan.2019.103654 
+Hu, F., Wang, Z., Sheng, G., Lia, X., Chen, C., Geng, D., … Wang, G. (2022). Impacts of 
+national park tourism sites: A perceptual analysis from residents of three spatial 
+levels of local communities in banff national park. Environment, Development and 
+Sustainability, 24(3), 3126–3145. https://doi.org/10.1007/s10668-021-01562-2 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+12
+Hu, B., & Zhao, J. (2022). Factors promoting nature-based outdoor recreation during the 
+daytime and evening. Journal of Outdoor Recreation and Tourism, 40, Article 100572. 
+https://doi.org/10.1016/j.jort.2022.100572 
+Jeon, J. Y., Hwang, I. H., & Hong, J. Y. (2014). Soundscape evaluation in a Catholic 
+cathedral and Buddhist temple precincts through social surveys and soundwalks. 
+Journal of the Acoustical Society of America, 135(4), 1863–1874. https://doi.org/ 
+10.1121/1.4866239 
+Jeon, J. Y., & Jo, H. I. (2020). Effects of audio-visual interactions on soundscape and 
+landscape perception and their influence on satisfaction with the urban 
+environment. Building and Environment, 169. https://doi.org/10.1016/j. 
+buildenv.2019.106544 
+Jia, Y., Ma, H., & Kang, J. (2020). Characteristics and evaluation of urban soundscapes 
+worthy of preservation. Journal of Environmental Management, 253, Article 109722. 
+https://doi.org/10.1016/j.jenvman.2019.109722 
+Jin, Y., Jin, H., & Kang, J. (2020). Combined effects of the thermal-acoustic environment 
+on subjective evaluations in urban squares. Building and Environment, 168, Article 
+106517. https://doi.org/10.1016/j.buildenv.2019.106517 
+Jing, Z., Jin, Z., & Chang, L. (2020). Analysis of waterscape engineering skills of classical 
+chinese gardens. Journal of Landscape Research, 12(3), 9–14. 
+Jo, H. I., & Jeon, J. Y. (2020). The influence of human behavioral characteristics on 
+soundscape perception in urban parks: Subjective and observational approaches. 
+Landscape and Urban Planning, 203. https://doi.org/10.1016/j. 
+landurbplan.2020.103890 
+Jo, H. I., & Jeon, J. Y. (2021). Overall environmental assessment in urban parks: 
+Modelling audio-visual interaction with a structural equation model based on 
+soundscape and landscape indices. Building and Environment, 204, 108166. 
+Kellert, S. R., & Wilson, E. O. (1993). The biophilia hypothesis. 
+Li, Z., & Kang, J. (2019). Sensitivity analysis of changes in human physiological 
+indicators observed in soundscapes. Landscape and Urban Planning, 190, Article 
+103593. https://doi.org/10.1016/j.landurbplan.2019.103593 
+Liu, J., Kang, J., Behm, H., & Luo, T. (2014). Effects of landscape on soundscape 
+perception: Soundwalks in city parks. Landscape and Urban Planning, 123, 30–40. 
+https://doi.org/10.1016/j.landurbplan.2013.12.003 
+Liu, J., Kang, J., Luo, T., & Behm, H. (2013a). Landscape effects on soundscape 
+experience in city parks. The Science of the Total Environment, 454–455, 474–481. 
+https://doi.org/10.1016/j.scitotenv.2013.03.038 
+Liu, J., Kang, J., Luo, T., Behm, H., & Coppack, T. (2013b). Spatiotemporal variability of 
+soundscapes in a multiple functional urban area. Landscape and Urban Planning, 115, 
+1–9. https://doi.org/10.1016/j.landurbplan.2013.03.008 
+Liu, J., Wang, Y., Zimmer, C., Kang, J., & Yu, T. (2019a). Factors associated with 
+soundscape experiences in urban green spaces: A case study in rostock, Germany. 
+Urban Forestry and Urban Greening, 37, 135–146. https://doi.org/10.1016/j. 
+ufug.2017.11.003 
+Liu, J., Xiong, Y., Wang, Y., & Luo, T. (2018). Soundscape effects on visiting experience 
+in city park: A case study in fuzhou, China. Urban Forestry and Urban Greening, 31, 
+38–47. https://doi.org/10.1016/j.ufug.2018.01.022 
+Liu, J., Yang, L., Xiong, Y., & Yang, Y. (2019b). Effects of soundscape perception on 
+visiting experience in a renovated historical block. Building and Environment, 165, 
+Article 106375. https://doi.org/10.1016/j.buildenv.2019.106375 
+Li, W., Zhai, J., & Zhu, M. (2022). Characteristics and perception evaluation of the 
+soundscapes of public spaces on both sides of the elevated road: A case study in 
+suzhou, China. Sustainable Cities and Society, 84, Article 103996. 
+Lu, Y.-H., Zhang, J., Zhang, H., Xiao, X., Liu, P., Zhuang, M., & Hu, M. (2022). Flow in 
+soundscape: The conceptualization of soundscape flow experience and its 
+relationship with soundscape perception and behaviour intention in tourism 
+destinations. Current Issues in Tourism, 1–19. https://doi.org/10.1080/ 
+13683500.2021.1922363 
+Ma, H., Su, H., & Cui, J. (2022). Characterization of soundscape perception of preschool 
+children. Building and Environment, 214, 108921. 
+Mach´aˇc, J., Brabec, J., & Arnberger, A. (2022). Exploring public preferences and 
+preference heterogeneity for green and blue infrastructure in urban green spaces. 
+Urban Forestry and Urban Greening, 75, Article 127695. https://doi.org/10.1016/j. 
+ufug.2022.127695 
+Marconi, P. L., Perelman, P. E., & Salgado, V. G. (2022). Green in times of COVID-19: 
+Urban green space relevance during the COVID-19 pandemic in Buenos Aires City. 
+Urban Ecosystems, 25(3), 941–953. 
+Mazaris, A. D., Kallimanis, A. S., Chatzigianidis, G., Papadimitriou, K., & Pantis, J. D. 
+(2009). Spatiotemporal analysis of an acoustic environment: interactions between 
+landscape features and sounds. Landscape Ecology, 24, 817–831. 
+McDougall, C. W., Hanley, N., Quilliam, R. S., Bartie, P. J., Robertson, T., Griffiths, M., & 
+Oliver, D. M. (2021). Neighbourhood blue space and mental health: A nationwide 
+ecological study of antidepressant medication prescribed to older adults. Landscape 
+and Urban Planning, 214, Article 104132. https://doi.org/10.1016/j. 
+landurbplan.2021.104132 
+Meng, Q., & Kang, J. (2013). Influence of social and behavioural characteristics of users 
+on their evaluation of subjective loudness and acoustic comfort in shopping malls. 
+PLoS One, 8(1), Article e54497-e54497. https://doi.org/10.1371/journal. 
+pone.0054497 
+Ow, L. F., & Ghosh, S. (2017). Urban cities and road traffic noise: Reduction through 
+vegetation. Applied Acoustics, 120, 15–20. https://doi.org/10.1016/j. 
+apacoust.2017.01.007 
+Pheasant, R. J., Fisher, M. N., Watts, G. R., Whitaker, D. J., & Horoshenkov, K. V. (2010). 
+The importance of auditory-visual interaction in the construction of ‘tranquil space’. 
+Journal of Environmental Psychology, 30(4), 501–509. https://doi.org/10.1016/j. 
+jenvp.2010.03.006 
+Pr¨obstl-Haider, U., Gugerell, K., & Maruthaveeran, S. (2023). Covid-19 and outdoor 
+recreation – lessons learned? Introduction to the special issue on “outdoor recreation 
+and covid-19: Its effects on people, parks and landscapes”. Journal of Outdoor 
+Recreation and Tourism, 41, Article 100583. https://doi.org/10.1016/j. 
+jort.2022.100583 
+Qiu, L., Chen, Q., & Gao, T. (2021). The effects of urban natural environments on 
+preference and self-reported psychological restoration of the elderly. International 
+Journal of Environmental Research and Public Health, 18(2). https://doi.org/10.3390/ 
+ijerph18020509 
+Rey Gozalo, G., & Barrig´on Morillas, J. M. (2017). Perceptions and effects of the acoustic 
+environment in quiet residential areas. Journal of the Acoustical Society of America, 
+141(4), 2418–2429. https://doi.org/10.1121/1.4979335 
+Rice, W. L., Newman, P., Zipp, K. Y., Taff, B. D., Pipkin, A. R., Miller, Z. D., & Pan, B. 
+(2022). Balancing quietness and freedom: Support for reducing road noise among 
+park visitors. Journal of Outdoor Recreation and Tourism, 37, Article 100474. https:// 
+doi.org/10.1016/j.jort.2021.100474 
+Rodrigues, R. C. (2018). Quiet areas and urban sustainability. Energy Procedia, 153, 
+334–341. https://doi.org/10.1016/j.egypro.2018.10.072 
+Rushing, J. R., Needham, M. D., D’Antonio, A., & Metcalf, E. C. (2019). Barriers to 
+attachment? Relationships among constraints, attachment, and visitation to urban 
+parks. Journal of Outdoor Recreation and Tourism, 27, Article 100228. https://doi. 
+org/10.1016/j.jort.2019.100228 
+Sadeghi, Z., & Haghighat Bin, M. (2023). Enhancing recreational activities through 
+planting design in neighborhood parks. Journal of Outdoor Recreation and Tourism, 
+42, Article 100591. https://doi.org/10.1016/j.jort.2022.100591 
+Spotswood, E. N., Benjamin, M., Stoneburner, L., et al. (2021). Nature inequity and 
+higher COVID-19 case rates in less-green neighbourhoods in the United States. 
+Nature Sustainability, 4(12), 1092–1098. 
+Suligowski, R., Ciupa, T., & Cudny, W. (2021). Quantity assessment of urban green, blue, 
+and grey spaces in Poland. Urban Forestry and Urban Greening, 64, Article 127276. 
+https://doi.org/10.1016/j.ufug.2021.127276 
+Sun, K., De Coensel, B., Echevarria Sanchez, G. M., Van Renterghem, T., & 
+Botteldooren, D. (2018). Effect of interaction between attention focusing capability 
+and visual factors on road traffic noise annoyance. Applied Acoustics, 134, 16–24. 
+https://doi.org/10.1016/j.apacoust.2018.01.001 
+Szeremeta, B., & Zannin, P. H. T. (2009). Analysis and evaluation of soundscapes in 
+public parks through interviews and measurement of noise. The Science of the Total 
+Environment, 407(24), 6143–6149. https://doi.org/10.1016/j.scitotenv.2009.08.039 
+Tse, M. S., Chau, C. K., Choy, Y. S., Tsui, W. K., Chan, C. N., & Tang, S. K. (2012). 
+Perception of urban park soundscape. Journal of the Acoustical Society of America, 131 
+(4), 2762–2771. https://doi.org/10.1121/1.3693644 
+Uebel, K., Marselle, M., Dean, A. J., Rhodes, J. R., & Bonn, A. (2021). Urban green space 
+soundscapes and their perceived restorativeness. People and Nature, 3(3), 756–769. 
+https://doi.org/10.1002/pan3.10215 
+Van Renterghem, T., Vanhecke, K., Filipan, K., Sun, K., De Pessemier, T., De Coensel, B., 
+… Botteldooren, D. (2020). Interactive soundscape augmentation by natural sounds 
+in a noise polluted urban park. Landscape and Urban Planning, 194, Article 103705. 
+https://doi.org/10.1016/j.landurbplan.2019.103705 
+Vasiljevi´c, Đ. A., Vujiˇci´c, M. D., Stankov, U., & Dragovi´c, N. (2023). Visitor motivation 
+and perceived value of periurban parks - case study of Kamenica park, Serbia. 
+Journal of Outdoor Recreation and Tourism, 42, Article 100625. https://doi.org/ 
+10.1016/j.jort.2023.100625 
+de Vries, S., ten Have, M., van Dorsselaer, S., van Wezep, M., Hermans, T., & de Graaf, R. 
+(2016). Local availability of green and blue space and prevalence of common mental 
+disorders in The Netherlands. BJPsych Open, 2(6), 366–372. https://doi.org/ 
+10.1192/bjpo.bp.115.002469 
+Wang, Y., Shi, X., Cheng, K., Zhang, J., & Chang, Q. (2022). How do urban park features 
+affect cultural ecosystem services: Quantified evidence for design practices. Urban 
+Forestry and Urban Greening, 76, Article 127713. 
+Watts, G. (2017). The effects of “greening” urban areas on the perceptions of tranquillity. 
+Urban Forestry and Urban Greening, 26, 11–17. https://doi.org/10.1016/j. 
+ufug.2017.05.010 
+Wei, H., Hauer, R. J., Sun, Y., Meng, L., & Guo, P. (2022). Emotional perceptions of 
+people exposed to green and blue spaces in forest parks of cities at rapid 
+urbanization regions of East China. Urban Forestry and Urban Greening, 78, Article 
+127772. https://doi.org/10.1016/j.ufug.2022.127772 
+White, M. P., Elliott, L. R., Gascon, M., Roberts, B., & Fleming, L. E. (2020). Blue space, 
+health and well-being: A narrative overview and synthesis of potential benefits. 
+Environmental Research, 191, Article 110169. https://doi.org/10.1016/j. 
+envres.2020.110169 
+Xiang, Y., Liang, H., Fang, X., Chen, Y., Xu, N., Hu, M., … Gao, T. (2021). The 
+comparisons of on-site and off-site applications in surveys on perception of and 
+preference for urban green spaces: Which approach is more reliable? Urban Forestry 
+and Urban Greening, 58, Article 126961. https://doi.org/10.1016/j. 
+ufug.2020.126961 
+Yang, W., & Kang, J. (2005). Acoustic comfort evaluation in urban open public spaces. 
+Applied Acoustics, 66(2), 211–229. https://doi.org/10.1016/j.apacoust.2004.07.011 
+Yu, L., & Kang, J. (2008). Effects of social, demographical and behavioral factors on the 
+sound level evaluation in urban open spaces. Journal of the Acoustical Society of 
+America, 123(2), 772–783. https://doi.org/10.1121/1.2821955 
+Yu, L., & Kang, J. (2010). Factors influencing the sound preference in urban open spaces. 
+Applied Acoustics, 71(7), 622–633. https://doi.org/10.1016/j.apacoust.2010.02.005 
+Zatorre, R. J. (2018). Why do we love music? Cerebrum : The Dana forum on brain science, 
+2018, cer-16-18. Retrieved from https://pubmed.ncbi.nlm.nih.gov/30746026. 
+X. Fang et al. 
+
+Journal of Outdoor Recreation and Tourism 45 (2024) 100728
+13
+Zhang, L., Tan, P. Y., & Richards, D. (2021). Relative importance of quantitative and 
+qualitative aspects of urban green spaces in promoting health. Landscape and Urban 
+Planning, 213, Article 104131. https://doi.org/10.1016/j.landurbplan.2021.104131 
+Zhao, W., Kang, J., Xu, H., & Zhang, Y. (2021). Relationship between contextual 
+perceptions and soundscape evaluations based on the structural equation modelling 
+approach. Sustainable Cities and Society, 74, Article 103192. https://doi.org/ 
+10.1016/j.scs.2021.103192 
+Zhou, B., Huang, M., Li, C.-L., & Xu, B. (2022). Leisure constraint and mental health: The 
+case of park users in Ningbo, China. Journal of Outdoor Recreation and Tourism, 39, 
+Article 100562. https://doi.org/10.1016/j.jort.2022.100562 
+Zhu, X., Gao, M., Zhao, W., & Ge, T. (2020). Does the presence of birdsongs improve 
+perceived levels of mental restoration from park use? Experiments on parkways of 
+harbin Sun island in China. International Journal of Environmental Research and Public 
+Health, 17(7). https://doi.org/10.3390/ijerph17072271 
+X. Fang et al.

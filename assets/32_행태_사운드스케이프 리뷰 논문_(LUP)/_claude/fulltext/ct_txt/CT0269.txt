@@ -1,0 +1,895 @@
+Citation: Xiong, X.; Wang, J.; Wu, H.;
+Peng, Z. The Influence of Perceptions
+of the Park Environment on the
+Health of the Elderly: The Mediating
+Role of Social Interaction. ISPRS Int. J.
+Geo-Inf. 2024, 13, 262. https://
+doi.org/10.3390/ijgi13070262
+Academic Editors: Christos Chalkias,
+Demosthenes Panagiotakos and
+Wolfgang Kainz
+Received: 27 May 2024
+Revised: 10 July 2024
+Accepted: 20 July 2024
+Published: 22 July 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+ 
+International Journal of
+Geo-Information
+Article
+The Influence of Perceptions of the Park Environment on the
+Health of the Elderly: The Mediating Role of Social Interaction
+Xiuhai Xiong 1
+, Jingjing Wang 1,2, Hao Wu 1,2
+and Zhenghong Peng 1,2,*
+1
+Department of Urban Planning, School of Urban Design, Wuhan University, Wuhan 430072, China;
+xiongxiuhai@whu.edu.cn (X.X.); wangjingjing79@whu.edu.cn (J.W.); wh79@whu.edu.cn (H.W.)
+2
+Digital City Research Center, School of Urban Design, Wuhan University, Wuhan 430072, China
+*
+Correspondence: pengzhenghong@whu.edu.cn
+Abstract: The aging population has brought increased attention to the urgent need to address
+social isolation and health risks among the elderly. While previous research has established the
+positive effects of parks in promoting social interaction and health among older adults, further
+investigation is required to understand the complex relationships between perceptions of the park
+environment, social interaction, and elderly health. In this study, structural equation modeling (SEM)
+was employed to examine these relationships, using nine parks in Wuhan as a case study. The
+findings indicate that social interaction serves as a complete mediator between perceptions of the
+park environment and elderly health (path coefficients: park environment on social interaction = 0.45,
+social interaction on health = 0.46, and indirect effect = 0.182). Furthermore, the results of the
+multi-group SEM analysis revealed that the mediating effect was moderated by the pattern of social
+interaction (the difference test: the friend companionship group vs. the family companionship group
+(Z = 1.965 > 1.96)). Notably, family companionship had a significantly stronger positive impact on
+the health of older adults compared to friend companionship. These findings contribute to our
+understanding of the mechanisms through which urban parks support the physical and mental
+well-being of the elderly and provide a scientific foundation for optimizing urban park environments.
+Keywords: perceptions of the park environment; social interaction; health of the elderly; mediating
+effect
+1. Introduction
+The rapid development of aging has led to an increasing number of studies highlight-
+ing social isolation as a significant threat to the health of the elderly [1–6]. Social isolation
+among the elderly stems from various factors, including retirement, relocation, children
+leaving for education or employment, the loss of spouses and friends, and the decline in
+physical and psychological capabilities [7–9]. Notably, social isolation contributes to mental
+health issues such as anxiety, loneliness, depression, and suicide. It is also closely linked to
+physical ailments like obesity, hypertension, and heart disease [2,10,11]. Recognizing the
+health risks associated with social isolation in older adults, the World Health Organization
+(WHO) emphasized these concerns in its report entitled “Social Isolation and Loneliness
+among Older People”. The WHO urges all countries to take action in order to eliminate the
+health risks posed by social isolation among the elderly [5,6].
+Urban parks are widely acknowledged for their positive impact on physical and
+mental well-being. Firstly, they offer a serene and refreshing natural environment that
+elicits positive emotions, thus promoting health [12–14]. Secondly, urban parks facilitate
+various activities such as physical exercise and social interaction, which have a positive
+influence on health [15]. For the elderly population, urban parks provide valuable social
+interaction resources that contribute to social support, thereby reducing mental health risks
+like anxiety and loneliness [16,17]. However, there is a need for further exploration of the
+ISPRS Int. J. Geo-Inf. 2024, 13, 262. https://doi.org/10.3390/ijgi13070262
+https://www.mdpi.com/journal/ijgi
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+2 of 13
+underlying mechanisms linking the park environment, social interaction, and the health of
+older adults, especially with regard to the mediating role of social interaction [18].
+Furthermore, studies have demonstrated that the health effects of social interaction
+among older adults in parks are influenced by two modes: family companionship and
+friend companionship [19,20]. Interpersonal relationships serve as the foundation for social
+interactions [21]. Family companionship focuses on emotional communication and support
+within the family, while friend companionship centers around shared hobbies like square
+dancing, singing, and playing board games [22,23]. Different activity contents might have
+varying impacts on health outcomes. Therefore, it is crucial to examine the differences in
+the effects of these two modes of social interaction on health [24].
+In addition, previous research primarily examined the influence of objective park
+environments on social interactions and health, while paying limited attention to the role
+of subjective perceptions of the park environment. Perceptions of the park environment
+refer to park users’ experiences and evaluations of the park’s quality and amenities. Some
+studies indicate that parks impact health outcomes, such as relaxation and the promotion of
+social interaction, through perceptual dimensions like safety, comfort, and aesthetics [25,26].
+Perceived safety is crucial for facilitating socialization and leisure activities, enabling in-
+dividuals to better assimilate into the environment and enjoy recreational pursuits [27].
+When people perceive the environment as comfortable, they are more inclined to engage in
+longer and more frequent social interactions [28–30]. Additionally, perceptions of aesthetics
+play a significant role in shaping social interactions, as visually appealing and inviting
+environments are more likely to foster participation in social activities [31]. Given that
+older adults are more vulnerable and sensitive to environmental perceptions [32,33], it is
+essential to focus on the mechanisms underlying the impact of subjective park environ-
+ment perceptions.
+To address the gaps in existing research, this study advances the understanding of the
+interaction mechanisms among perceptions of park environments, social interactions, and
+health [12–14,19,20,25,26]. The following hypotheses are proposed:
+H1: Perceptions of the park environment have a significant positive impact on health.
+H2: Perceptions of the park environment have a significant positive impact on social interaction.
+H3: Social interaction has a significant positive impact on health.
+H1 suggests a direct impact of perceptions of the park environment on health, while
+H2 and H3 propose indirect effects, indicating that perceptions of the park environment
+influence health through their impact on social interaction.
+This study employed structural equation modeling (SEM) to analyze the relationships
+among perceptions of the park environment, social interaction, and the health of the elderly.
+Additionally, a multi-group SEM analysis was conducted to examine the moderating effects
+of different social interaction patterns (family companionship and friend companionship)
+on the relationship between perceptions of the park environment and health. Through this
+research, we aimed to gain a comprehensive understanding of how urban parks contribute
+to the physical and mental well-being of the elderly. The findings will provide a scientific
+foundation for designing strategies to optimize urban park environments.
+2. Study Area
+Wuhan, located in the eastern part of Hubei Province in central China, sits at the
+confluence of the Yangtze and Han Rivers. The city has a subtropical humid monsoon
+climate, characterized by distinct seasons, cold winters, and hot summers. By the end
+of 2021, Wuhan had established 101 comprehensive parks, with the total green space in
+urban areas amounting to 33,291.61 hectares [34]. The per capita park green space reached
+14.49 square meters, and the green coverage rate in built-up areas was 43.07% [34].
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+3 of 13
+This study focuses on nine comprehensive parks within the main urban area of Wuhan
+City (the location and scale information of the selected parks can be found in Appendix A).
+When selecting samples, the study matched park locations with the characteristics of the
+elderly population distribution. The nine selected parks are located in areas with the
+highest concentrations of elderly residents in the main urban area, and seniors are their
+primary user group. Figure 1 illustrates the spatial distribution of these parks.
+Figure 1. Spatial distribution of surveyed parks. Note: “ZY”: Ziyang Park, “SM”:Simeitang Park,
+“JF”: Jiefang Park, “BD”: Baodao Park, “ZS”: Zhongshan Park, “XB”: Xibeihu Park, “QS”: Qingshan
+Park, “DJ”: Dijiao Park, “HP”: Heping Park.
+3. Research Methodology
+3.1. Questionnaire Survey
+This study employed paper questionnaires and conducted on-site surveys to evaluate
+the perceptions of the park environment, social interaction, and health status among elderly
+park users. The participants were randomly selected from visitors to the selected parks.
+The purpose and procedure of the survey were explained to the participants, and those
+who agreed to participate were given questionnaires to complete during their park visit. As
+participants, we had to ensure they met two criteria: first, they were over 60 years old, and
+second, they were accompanied by someone during their park activities. This approach
+aimed to ensure that their responses accurately reflected their firsthand experiences and that
+their park activities involved social interaction. The survey took place from December 2022
+to November 2023, covering both weekdays and weekends. A total of 617 questionnaires
+were distributed, excluding invalid questionnaires with missing answers or incorrect
+responses, with 593 valid responses, resulting in a response rate of 96.11%. The reliability
+of the questionnaires was assessed using Cronbach’s alpha, which indicated acceptable
+internal consistency (α = 0.74 > 0.70). Table 1 presents the socio-demographic characteristics
+of the participants.
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+4 of 13
+Table 1. Descriptive statistics of socio-demographic characteristics.
+Characteristic
+Group
+Count
+Percentage (%)
+Gender
+Male
+331
+55.82
+Female
+262
+44.18
+Age
+55~59
+46
+7.76
+60~69
+231
+38.95
+70~79
+258
+43.51
+80~89
+53
+8.94
+≥90
+5
+0.84
+Education Level
+Primary School
+98
+16.53
+Junior High School
+172
+29.01
+High School
+180
+30.35
+College and undergraduate
+140
+23.61
+Postgraduate and above
+3
+0.51
+Family Structure
+Living alone
+60
+10.12
+Living with spouse
+324
+54.64
+Two-generation living
+36
+6.07
+Three-generation living
+166
+27.99
+Others
+7
+1.18
+3.2. Research Variables
+3.2.1. Independent Variable: Perceptions of the Park Environment
+Table 2 presents the three dimensions used to evaluate the perceptions of elderly indi-
+viduals regarding urban park environments: Safety, Comfort, and Aesthetics [35]. These
+dimensions provide a comprehensive assessment of park quality and human perceptual
+experiences, and they are commonly utilized in research on park environment percep-
+tions [28,35–38]. The Safety dimension assesses perceptions of both the social security
+situation and the completeness of safety facilities and signage within the park. The Comfort
+dimension is further divided into two sub-dimensions: comfort of facilities usage and
+comfort of the auditory and thermal environment. The Aesthetics dimension examines
+perceptions of both natural landscapes and cultural landscapes. Each sub-dimension
+is assessed using a five-point Likert scale (“Very Dissatisfied = 1”, “Dissatisfied = 2”,
+“Neutral = 3”, “Satisfied = 4”, or “Very Satisfied = 5”) to collect participants’ perceptions of
+park environments.
+Table 2. Scale for perceptions of the park environment.
+Perceptions of Park
+Environment Dimension
+Very Dis-
+satisfied
+Dissatisfied
+Neutral
+Satisfied
+Very
+Satisfied
+Safety
+Social security
+situation
+□
+□
+□
+□
+□
+Completeness
+of safety
+facilities and
+signage
+□
+□
+□
+□
+□
+Comfort
+Comfort of
+facilities usage
+□
+□
+□
+□
+□
+Comfort of
+auditory and
+thermal
+environment
+□
+□
+□
+□
+□
+Aesthetics
+Aesthetics of
+natural
+landscapes
+□
+□
+□
+□
+□
+Aesthetics of
+cultural
+landscapes
+□
+□
+□
+□
+□
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+5 of 13
+3.2.2. Mediating Variable: Social Interaction
+The measurement of social interaction is primarily based on two dimensions: duration
+of social interaction and frequency of social interaction [39–41]. The duration of park social
+interaction is assessed by asking elderly individuals about the length of time they spend
+with family or friends in the park, using a four-point scale (“≤30 min”, “>30 min to 1 h”,
+“>1 to 2 h”, or “>2 h”). The frequency of park social interaction is measured by inquiring
+about how often elderly individuals visit the park with family or friends, also using a
+four-point scale (“once every few months,” “1–3 times per month,” “several times per
+week,” or “daily”).
+3.2.3. Dependent Variable: Health
+In this study, the health of elderly individuals was assessed through two measurement
+dimensions: self-reported physical health and psychological health [18]. To assess physical
+health, data were collected by asking elderly individuals about their current physical health
+status, using a five-point rating scale (“Very Poor = 1”, “Poor = 2”, “Fair = 3”, “Good = 4”,
+or “Excellent = 5”). Similarly, data on psychological health were collected by asking elderly
+individuals about their current psychological health status, also using a five-point rating
+scale (“Very Poor = 1”, “Poor = 2”, “Fair = 3”, “Good = 4”, or “Excellent = 5”).
+3.2.4. Control Variable: Social Interaction Pattern
+To explore the influence of social interaction pattern on the proposed model, this
+study takes it as a control variable. Social interaction patterns were divided into family
+companionship and friend companionship based on kinship and non-kinship relation-
+ships [42]. To assess the social interaction patterns in the park, participants were asked the
+question, “With whom do you mainly do activities in the park on a regular basis?” Among
+the participants, 416 elderly individuals reported engaging in activities with friends, while
+177 elderly individuals reported engaging in activities with family members.
+3.3. Statistical Analysis
+This study employed structural equation modeling (SEM) to analyze the relationships
+among perceptions of the park environment, social interaction, and the health of the
+elderly. Additionally, multi-group SEM analysis was utilized to examine the moderating
+effect of social interaction patterns (family companionship and friend companionship) on
+these relationships.
+The analysis follows the following steps:
+(1)
+Model Fit Test: The adequacy of the model was assessed to ensure that it accurately
+represents the data.
+(2)
+Mediation Analysis: Bootstrap methods were used to examine the mediation effect of
+social interaction on the relationships among perceptions of the park environment,
+social interaction, and health outcomes [43,44].
+(3)
+Moderation Analysis: Multi-group analysis was conducted by inputting data from
+different groups, representing family companionship and friend companionship,
+into the model. A comparison between the unrestricted model and restricted model
+parameters was performed to identify the moderating effect of park social interaction
+patterns [45].
+All analyses were conducted using IBM AMOS 26 software.
+4. Results
+4.1. Model Fit
+Model fit is an essential measure that evaluates how well the model matrix aligns
+with the sample matrix. This study employed various indicators to assess the model fit,
+including x2/df, GFI, RMSEA, CFI, and AGFI. These indicators have been commonly used
+in previous research studies [46–48]. As shown in Table 3, all of the indicators in this study
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+6 of 13
+met the recommended threshold standards, indicating a good fit between the model and
+the data.
+Table 3. Model fit test of the research model.
+Indicator
+x2/df
+RMSEA
+GFI
+CFI
+AGFI
+Standard Value
+<4
+<0.08
+>0.90
+>0.90
+>0.90
+Measured Value
+3.852
+0.069
+0.980
+0.950
+0.950
+Test Results
+Passed
+Passed
+Passed
+Passed
+Passed
+4.2. Structural Results
+The structural results are presented in Figure 2 and Table 4. Based on the significance
+testing results of the path coefficients, the previously proposed hypotheses H2 and H3 were
+supported, while hypothesis H1 was rejected. The analysis demonstrated that perceptions
+of the park environment positively influence social interaction (standardized path coeffi-
+cient β = 0.45, p < 0.05), thereby supporting hypothesis H2. This indicates that enhancing
+the safety, comfort, and aesthetics of the park environment significantly increases the level
+of social interaction among the elderly in the park. Social interaction exhibited a significant
+positive effect on health (standardized path coefficient β = 0.30, p < 0.05), providing support
+for hypothesis H3. This means that social interaction is an important factor influencing
+health, and by increasing the frequency and duration of social interactions, both mental
+and physical health can be improved. However, no significant correlation was observed
+between perceptions of the park environment and health (standardized path coefficient
+β = 0.043, p > 0.05). Consequently, the direct relationship between perceptions of the park
+environment and health, as proposed in hypothesis H1, was rejected.
+Figure 2. Path coefficients of the structural equation model.
+Table 4. Results of the structural equation model.
+Path
+Standardized Path
+Coefficient
+S.E.
+C.R.
+p
+Hypothesis
+Support
+ξ1→η2
+0.312
+0.033
+1.180
+0.238
+H1
+Rejected
+ξ1→η2
+0.452
+0.097
+6.744
+***
+H2
+Supported
+η1→η2
+0.455
+0.083
+3.363
+***
+H3
+Supported
+Note: *** significance at p < 0.001.
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+7 of 13
+These results indicated that although no significant direct relationship between per-
+ceptions of the park environment and the health of the elderly was observed, it is possible
+that there could be an indirect effect mediated by social interaction. Therefore, in this study,
+further investigation of this potential mediating effect was undertaken.
+4.3. Mediation Analysis
+This study employed the Bootstrap method and the bias-corrected method to estimate
+the mediation effects, which can address non-normality and power limitations [49]. Me-
+diation testing was conducted using Bootstrap with 2000 samples and a 95% confidence
+interval [50]. The significance of the indirect effects was examined by calculating the asymp-
+totic critical ratio (Z) and confidence intervals for the lower and upper bounds (95% BC,
+95th percentile) [49]. When Z > 0 and a 95% confidence interval does not contain zero, there
+is an indirect effect.
+In the research model, this study analyzed the specific indirect effects between per-
+ceptions of the park environment and health. As shown in Table 4, the results revealed a
+specific indirect effect of 0.182 through social interaction. The Z-value of 22.680 exceeded the
+significance level of 1.96, and the 95% confidence interval did not include zero, indicating
+statistical significance.
+Although the direct effect of perceptions of the park environment on health was not
+significant, it exerted a significant indirect impact on health through the mediating variable
+of social interaction. As shown in Table 5, the total effect was equal to the indirect effect
+from the independent variable (perceptions of the park environment) to the dependent
+variable (health). This suggests that social interaction fully mediates the relationship
+between perceptions of the park environment and health. Thus, social interaction played a
+crucial role in connecting perceptions of the park environment to health outcomes.
+Table 5. Direct, indirect, and total effects in the structural equation model.
+Source of Effect
+Coefficient
+Coefficient Product
+BCEBC 95%
+Percentile 95%
+SE
+Z
+Lower
+Upper
+Direct Effects
+-
+-
+-
+-
+Indirect Effect
+0.182
+0.68
+22.680
+0.050
+Total Effect
+0.182
+0.68
+22.680
+0.050
+Note: 2000 bootstrap samples.
+4.4. Multi-Group Analysis
+This study employed multi-group SEM analysis to investigate potential variations
+in measurement parameters and structural relationships across different modes of social
+interaction. The suitability of the nested models in the multi-group analysis was assessed
+using various indices, as presented in Table 6. All of the indices surpassed the standard
+critical values, indicating that the model was well suited for the multi-group analysis. Dur-
+ing the analysis, the study followed the invariance procedure recommended by Byrne et al.
+(1989). This procedure involves initially imposing equivalence constraints on measurement
+parameters across the sample groups [45].
+Table 6. Fit indices of the nested model sequence in multi-group analysis.
+Indicator
+x2/df
+RMSEA
+GFI
+CFI
+AGFI
+Standard Value
+<4
+<0.08
+>0.90
+>0.90
+>0.90
+Family Companionship
+1.407
+0.048
+0.979
+0.978
+0.941
+Friend Companionship
+2.940
+0.068
+0.981
+0.960
+0.946
+Upon imposing constraints that equalize all measurement weights across groups, the
+multi-group analysis of social interaction patterns revealed significant differences between
+the constrained and unconstrained models (∆x2 = 8.279, df = 3, p = 0.040). This indicates
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+8 of 13
+that there are variations in the regression weights between different groups with distinct
+social interaction patterns.
+To further examine the differences in structural parameters between groups with
+different social interaction patterns, this study followed Bentler’s (1980) recommendation
+and utilized the critical ratio (Z) to test the significance of hypothesized paths between the
+two groups [51]. The ratio was calculated by dividing the standardized path coefficient
+by its standard error. A critical ratio (Z) greater than ±1.96 was considered significant
+at the 0.05 level. The results presented in Table 7 indicate that the difference test for the
+path (η1→η2) between the friend companionship group and the family companionship
+group was significant (Z = 1.965 > 1.96). This finding suggests that, within the context of
+social interaction patterns, respondents demonstrate stronger associations between family
+companionship and health compared to friend companionship.
+Table 7. Comparison of differences in path coefficients between different groups of social interac-
+tion pattern.
+Path
+Family Companionship
+Friend Companionship
+Z
+ξ1→η2
+0.371 ***
+0.438 ***
+1.878
+η1→η2
+0.45 *
+0.348 ***
+1.965
+Note: *** significance at p < 0.001 and * significance at p < 0.05.
+5. Discussion
+In this study, SEM was employed to investigate the intricate relationship between
+park environment perception, social interaction, and the health status of older adults. The
+results of the study indicate that social interaction plays a fully mediating role between park
+environment perception and the health of older adults. Specifically, there was no direct
+influence relationship between park environment perception and health, and the impact
+of park environment perception on health only occurs indirectly through the mediating
+variable of social interaction. These findings differed from some previous studies that
+showed a direct impact of park environment perception on the health of park visitors, with
+social interaction playing a partially mediating role [18,52,53]. Previous research primarily
+focused on mental health measures such as attention, stress, tension, and anxiety dimen-
+sions, suggesting that park environment perception contributes to attention restoration
+and stress reduction among park visitors [13,54]. However, it is important to note that in
+this study, the measurement model of health included both mental health and physical
+health indicators. Previous evidence suggests that park environment perception has a
+significant positive effect on mental health but lacks direct evidence of an effect on phys-
+ical health [55,56]. This disparity in findings may explain the differences in the partially
+mediated and fully mediated relationships observed.
+In the multi-group analysis, we observed a moderating effect of social interaction
+patterns on the mediating effect. Specifically, the group accompanied by family members
+exhibited a significantly stronger positive effect of social interaction on health compared to
+the group accompanied by friends. This suggests that social interactions involving family
+members are more beneficial to the health of older adults compared to interactions with non-
+family members. This finding contrasts with studies conducted in Western societies, where
+Chinese older adults prioritize family as their primary source of social support [57,58].
+In Western societies, older adults tend to seek social support from groups, organizations,
+volunteer teams, and non-kinship networks [59].
+The results of this study provide theoretical support for promoting social interaction
+and health among older adults by enhancing the environmental quality and perceived
+experience of parks. Social interaction fully mediates the relationship between perceptions
+of the park environment and health. Therefore, park design should focus on creating spaces
+conducive to social activities, offering diverse activity areas such as chess zones, dance areas,
+and Tai Chi zones to increase opportunities for social interaction [60,61]. Semi-outdoor or
+indoor service buildings should be provided to facilitate social activities under various
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+9 of 13
+weather conditions, and the strategic placement of resting seats should be considered to
+allow for comfortable interactions [62]. To ensure that older adults gain a sufficient sense of
+safety, comfort, and aesthetics in the park environment, it is crucial to improve accessibility
+features by using non-slip materials to pave wide and flat paths, installing appropriate
+ramps, handrails, and guardrails, and providing seats and canopies at suitable heights [63].
+Park designs should fully consider the physical characteristics and needs of older adults,
+such as providing adequate resting seats and proper lighting facilities [64]. Additionally,
+the aesthetic quality of both natural and cultural landscapes must be emphasized [65]. In
+summary, park planning and design should center on promoting social interaction among
+older adults by optimizing environmental quality, enhancing facilities, and organizing
+activities to create a public space conducive to their social and health needs.
+However, this study has several limitations: Firstly, it relied on cross-sectional data,
+which restricted the ability to capture changes and establish causal relationships over
+time, especially for phenomena like health impacts that require long-term observation. To
+address this limitation, future research should consider incorporating longitudinal study
+designs to examine the relationships between perceptions of the park environment and
+health, allowing for a better understanding of the temporal dynamics involved [66,67].
+Secondly, this study heavily relied on self-report measures to assess variables such as
+physical and mental health, perceptions of the park environment, and social interaction.
+While self-report assessments are commonly used due to their cost-effectiveness, ease
+of data collection from large populations, and good reliability and validity, they are not
+without limitations. Self-report measures may be subject to inaccuracies in the recollection
+of elderly individuals, susceptibility to subjective interference leading to evaluation bias,
+and potential issues related to social desirability bias [68]. Finally, the study did not
+specifically explore spatial variability across different park locations. Future research should
+consider integrating multiple assessment methods, such as incorporating instrumental
+measurements of objective health indicators like heart rate, blood pressure, and blood
+sugar [69,70], to provide a more comprehensive and accurate understanding of the health
+status of elderly individuals. Meanwhile, on the temporal level, future research should
+conduct long-term series studies to reveal long-term trends, control short-term fluctuations,
+evaluate interventions, explore causal relationships, and enhance predictive capabilities; on
+the spatial level, future studies should account for the heterogeneity of parks to gain a more
+comprehensive understanding of the factors that influence human health in park settings.
+6. Conclusions
+In the context of nine parks in Wuhan, China, SEM was employed to analyze the inter-
+play among perceptions of the park environment, social interaction, and the health of the
+elderly. The research findings revealed that social interaction played a fully mediating role
+between perceptions of the park environment and the health of the elderly, indicating that
+perceptions of the park environment indirectly influence health through social interaction.
+Additionally, the study identified a moderating effect of social interaction patterns on the
+relationship between perceptions of the park environment and health. Specifically, within
+the sample group accompanied by family members, the impact of social activities on health
+was greater than in groups accompanied by friends. These findings provide theoretical
+support for enhancing the perceptual experience of park environments to promote social
+interaction among elderly individuals and thereby improve their health status.
+Author Contributions: Conceptualization, Xiuhai Xiong and Jingjing Wang; methodology, Xiuhai
+Xiong and Jingjing Wang; software, Xiuhai Xiong and Hao Wu; validation, Xiuhai Xiong, Zhenghong
+Peng and Jingjing Wang; formal analysis, Hao Wu; resources, Zhenghong Peng; data organiza-
+tion, Xiuhai Xiong; writing—original draft preparation, Xiuhai Xiong; writing—review and editing,
+Zhenghong Peng; visualization, Xiuhai Xiong and Jingjing Wang; supervision, Zhenghong Peng and
+Hao Wu; project administration, Zhenghong Peng; funding acquisition, Zhenghong Peng, Jingjing
+Wang and Hao Wu. All authors have read and agreed to the published version of the manuscript.
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+10 of 13
+Funding: This research was funded by National Natural Science Foundation of China, grant numbers
+52078390 (Hao Wu) and 51978535 (Zhenghong Peng); Supported by the Postdoctoral Fellowship
+Program of CPSF, with grant number GZC20241261 (Jingjing Wang).
+Data Availability Statement: The data presented in this study are available on request from the
+corresponding author. The data are not publicly available due to restrictions imposed by the privacy
+approval and informed consent agreements with study participants.
+Conflicts of Interest: The authors declare no conflicts of interest.
+Appendix A. Selected Parks from the Main City Area of Wuhan
+Park
+Region
+Scale
+Zhongshan Park
+Jianghan District
+The park covers an area of 328,000 square meters, including
+268,000 square meters of land and 60,000 square meters of water. It
+boasts a green coverage rate of 93%.
+Xibeihu Park
+Jianghan District
+The park features a lake area of 143,900 square meters and green spaces
+covering 243,400 square meters.
+Jiefang Park
+Jiang’an District
+The park covers 460,000 square meters, with 76,000 square meters of
+water, and a high greening rate of 85%.
+Baodao Park
+Jiang’an District
+The park spans 160,000 square meters, including a 100,000 square
+meter water area.
+Dijiao Park
+Jiang’an District
+The park covers an area of approximately 200,000 square meters, with a
+water area of 32,000 square meters, accounting for 16% of the total area.
+The park has a green coverage rate of approximately 85%.
+Ziyang Park
+Wuchang District
+The park encompasses 295,500 square meters, with 136,700 square
+meters of water and 158,900 square meters of land.
+Simetang Park
+Wuchang District
+The park features an 84,700 square meter water area and 93,200 square
+meters of green space.
+Heping Park
+Qingshan District
+The park spans 520,000 square meters and boasts a 19,000 square meter
+rose garden.
+Qingshan Park
+Qingshan District
+The park covers a total area of 357,000 square meters, including
+326,000 square meters of land and 31,000 square meters of water, and
+features a high greening rate of 89.8%.
+References
+1.
+Chen, M.Q.; Cao, X.; Wang, A.; Zhu, Y.; Lu, G.Z.; Zhang, L.; Shen, L.J. A global perspective on risk factors for social isolation in
+community-dwelling older adults: A systematic review and meta-analysis. Arch. Gerontol. Geriatr. 2024, 116, 105211. [CrossRef]
+[PubMed]
+2.
+Donovan, N.J.; Blazer, D. Social Isolation and Loneliness in Older Adults: Review and Commentary of a National Academies
+Report. Am. J. Geriatr. Psychiatr. 2020, 28, 1233–1244. [CrossRef] [PubMed]
+3.
+Sepúlveda-Loyola, W.; Rodríguez-Sánchez, I.; Pérez-Rodríguez, P.; Ganz, F.; Torralba, R.; Oliveira, D.V.; Rodríguez-Mañas, L.
+Impact of Social Isolation Due to COVID-19 on Health in Older People: Mental and Physical Effects and Recommendations. J.
+Nutr. Health Aging 2020, 24, 938–947. [CrossRef] [PubMed]
+4.
+Shankar, A.; McMunn, A.; Demakakos, P.; Hamer, M.; Steptoe, A. Social Isolation and Loneliness: Prospective Associations With
+Functional Status in Older Adults. Health Psychol. 2017, 36, 179–187. [CrossRef] [PubMed]
+5.
+Gardiner, C.; Geldenhuys, G.; Gott, M. Interventions to reduce social isolation and loneliness among older people: An integrative
+review. Health Soc. Care Community 2018, 26, 147–157. [CrossRef] [PubMed]
+6.
+Fakoya, O.A.; McCorry, N.K.; Donnelly, M. Loneliness and social isolation interventions for older adults: A scoping review of
+reviews. BMC Public Health 2020, 20, 1–14. [CrossRef] [PubMed]
+7.
+Gillespie, B.J.; Fokkema, T. Life events, social conditions and residential mobility among older adults. Popul. Space Place. 2024,
+30, e2706. [CrossRef]
+8.
+Freak-Poli, R.; Kung, C.S.J.; Ryan, J.; Shields, M.A. Social Isolation, Social Support, and Loneliness Profiles Before and After
+Spousal Death and the Buffering Role of Financial Resources. J. Gerontol. Ser. B-Psychol. Sci. Soc. Sci. 2022, 77, 956–971. [CrossRef]
+[PubMed]
+9.
+Li, K.; Tang, F.Y. The Role of Solitary Activity in Moderating the Association between Social Isolation and Perceived Loneliness
+among U.S. Older Adults. J. Gerontol. Soc. Work 2022, 65, 252–270. [CrossRef]
+10.
+Hodgson, S.; Watts, I.; Fraser, S.; Roderick, P.; Dambha-Miller, H. Loneliness, social isolation, cardiovascular disease and mortality:
+A synthesis of the literature and conceptual framework. J. R. Soc. Med. 2020, 113, 185–192. [CrossRef]
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+11 of 13
+11.
+Christiansen, J.; Qualter, P.; Friis, K.; Pedersen, S.S.; Lund, R.; Andersen, C.M.; Bekker-Jeppesen, M.; Lasgaard, M. Associations of
+loneliness and social isolation with physical and mental health among adolescents and young adults. Perspect. Public Health 2021,
+141, 226–236. [CrossRef] [PubMed]
+12.
+Ulrich, R.S.; Zimring, C.; Zhu, X.M.; DuBose, J.; Seo, H.B.; Choi, Y.S.; Quan, X.B.; Joseph, A. A Review of the Research Literature
+on Evidence-Based Healthcare Design. Herd-Health Environ. Res. Des. J. 2008, 1, 61–125. [CrossRef] [PubMed]
+13.
+Ulrich, R.S.; Simons, R.F.; Losito, B.D.; Fiorito, E.; Miles, M.A.; Zelson, M. Stress recovery during exposure to natural and urban
+environments. J. Environ. Psychol. 1991, 11, 201–230. [CrossRef]
+14.
+Ulrich, R.S. View through a window may influence recovery from surgery. Science 1984, 224, 420–421. [CrossRef] [PubMed]
+15.
+Bedimo-Rung, A.L.; Mowen, A.J.; Cohen, D.A. The significance of parks to physical activity and public health–A conceptual
+model. Am. J. Prev. Med. 2005, 28, 159–168. [CrossRef] [PubMed]
+16.
+Jabbar, M.; Yusoff, M.M.; Shafie, A. Assessing the role of urban green spaces for human well-being: A systematic review.
+Geojournal 2022, 87, 4405–4423. [CrossRef]
+17.
+Leavell, M.A.; Leiferman, J.A.; Gascon, M.; Braddick, F.; Gonzalez, J.C.; Litt, J.S. Nature-Based Social Prescribing in Urban Settings
+to Improve Social Connectedness and Mental Well-being: A Review. Curr. Environ. Health Rep. 2019, 6, 297–308. [CrossRef]
+18.
+Yue, Y.F.; Yang, D.F.; Van Dyck, D. Urban greenspace and mental health in Chinese older adults: Associations across different
+greenspace measures and mediating effects of environmental perceptions. Health Place 2022, 76, 102856. [CrossRef] [PubMed]
+19.
+Kim, D.; Jeong, Y. Examining the moderating effect of perceived risk from particulate matter on outdoor sports participants: A
+theory of planned behavior perspective. Front. Public Health 2024, 12, 1340502. [CrossRef]
+20.
+Aleshinloye, K.D.; Fu, X.X.; Ribeiro, M.A.; Woosnam, K.M.; Tasci, A.D.A. The Influence of Place Attachment on Social Distance:
+Examining Mediating Effects of Emotional Solidarity and the Moderating Role of Interaction. J. Travel Res. 2020, 59, 828–849.
+[CrossRef]
+21.
+Peters, K.; Elands, B.; Buijs, A. Social interactions in urban parks: Stimulating social cohesion? Urban For. Urban Green. 2010, 9,
+93–100. [CrossRef]
+22.
+Mak, B.K.L.; Jim, C.Y. Linking park users’ socio-demographic characteristics and visit-related preferences to improve urban parks.
+Cities 2019, 92, 97–111. [CrossRef]
+23.
+West, P.C.; Merriam, L.C. Outdoor Recreation and Family Cohesiveness: A Research Approach. J. Leis. Res. 2009, 41, 351–359.
+[CrossRef]
+24.
+Wan, C.; Shen, G.Q.; Choi, S. Underlying relationships between public urban green spaces and social cohesion: A systematic
+literature review. City Cult. Soc. 2021, 24, 100383. [CrossRef]
+25.
+Gaikwad, A.; Shinde, K. Use of parks by older persons and perceived health benefits: A developing country context. Cities 2019,
+84, 134–142. [CrossRef]
+26.
+Cui, H.; Maliki, N.Z.; Wang, Y.Q. The Role of Urban Parks in Promoting Social Interaction of Older Adults in China. Sustainability
+2024, 16, 2088. [CrossRef]
+27.
+Kimic, K.; Polko, P. The Use of Urban Parks by Older Adults in the Context of Perceived Security. Int. J. Environ. Res. Public Health
+2022, 19, 4184. [CrossRef] [PubMed]
+28.
+Enssle, F.; Kabisch, N. Urban green spaces for the social interaction, health and well-being of older people-An integrated view of
+urban ecosystem services and socio-environmental justice. Environ. Sci. Policy 2020, 109, 36–44. [CrossRef]
+29.
+Wang, W.Q.; Li, Y.H.; Li, L.; Wang, R.S.; Wang, Y.Q. Study on thermal comfort of elderly in community parks: An exploration
+from the perspectives of different activities and ages. Build. Environ. 2023, 246, 111001. [CrossRef]
+30.
+Niu, J.Q.; Xiong, J.P.; Qin, H.Q.; Hu, J.M.; Deng, J.F.; Han, G.F.; Yan, J. Influence of thermal comfort of green spaces on physical
+activity: Empirical study in an urban park in Chongqing, China. Build. Environ. 2022, 219, 109168. [CrossRef]
+31.
+Cattell, V.; Dines, N.; Gesler, W.; Curtis, S. Mingling, observing, and lingering: Everyday public spaces and their implications for
+well-being and social relations. Health Place 2008, 14, 544–561. [CrossRef] [PubMed]
+32.
+Peters, M.; Muellmann, S.; Christianson, L.; Stalling, I.; Bammann, K.; Drell, C.; Forberger, S. Measuring the association of
+objective and perceived neighborhood environment with physical activity in older adults: Challenges and implications from a
+systematic review. Int. J. Health Geogr. 2020, 19, 1–20. [CrossRef] [PubMed]
+33.
+Lee, Y.J. Relationships among Environmental Attitudes, Risk Perceptions, and Coping Behavior: A Case Study of Four Environ-
+mentally Sensitive Townships in Yunlin County, Taiwan. Sustainability 2018, 10, 2663. [CrossRef]
+34.
+Ke, X.L.; Huang, D.Y.; Zhou, T.; Men, H.L. Contribution of non-park green space to the equity of urban green space accessibility.
+Ecol. Indic. 2023, 146, 109855. [CrossRef]
+35.
+Chen, S.L.; Sleipness, O.; Christensen, K.; Yang, B.; Wang, H. Developing and testing a protocol to systematically assess social
+interaction with urban outdoor environment. J. Environ. Psychol. 2023, 88, 102008. [CrossRef] [PubMed]
+36.
+Cheung, S.Y.S.; Lei, D.Y.; Chan, F.Y.F.; Tieben, H. Public Space Usage and Well-Being: Participatory Action Research with
+Vulnerable Groups in Hyper-Dense Environments. Urban Plan. 2022, 7, 75–89. [CrossRef]
+37.
+Wang, R.H.; Zhao, J.W.; Meitner, M.J.; Hu, Y.; Xu, X.L. Characteristics of urban green spaces in relation to aesthetic preference and
+stress recovery. Urban For. Urban Green. 2019, 41, 6–13. [CrossRef]
+38.
+Deng, L.; Luo, H.; Ma, J.; Huang, Z.; Sun, L.X.; Jiang, M.Y.; Zhu, C.Y.; Li, X. Effects of integration between visual stimuli and
+auditory stimuli on restorative potential and aesthetic preference in urban green spaces. Urban For. Urban Green. 2020, 53, 126702.
+[CrossRef]
+
+ISPRS Int. J. Geo-Inf. 2024, 13, 262
+12 of 13
+39.
+Pasanen, T.P.; White, M.P.; Elliott, L.R.; van den Bosch, M.; Gregory, N.; Ojala, A.; Korpela, K.; Fleming, L.E. Urban green space
+and mental health among people living alone: The mediating roles of relational and collective restoration in an 18-country sample.
+Environ. Res. 2023, 232, 116324. [CrossRef]
+40.
+Chen, S.L.; Sleipness, O.; Christensen, K.; Yang, B.; Park, K.; Knowles, R.; Yang, Z.H.; Wang, H. Exploring associations between
+social interaction and urban park attributes: Design guideline for both overall and separate park quality enhancement. Cities
+2024, 145, 104714. [CrossRef]
+41.
+Celuppi, M.C.; Meirelles, C.R.M.; Cymrot, R.; Tejas, G.T.; de Souza, R.M.D.; Gobo, J.P.A. The impact of green spaces on the
+perception and well-being of the academic population in face of the COVID-19 pandemic in the Amazon and Southeast Brazil.
+Cities 2023, 141, 104503. [CrossRef]
+42.
+Shan, X.Z. The socio-demographic and spatial dynamics of green space use in Guangzhou, China. Appl. Geogr. 2014, 51, 26–34.
+[CrossRef]
+43.
+Marcoulides, K.M.; Yuan, K.H. New Ways to Evaluate Goodness of Fit: A Note on Using Equivalence Testing to Assess Structural
+Equation Models. Struct. Equ. Model.-A Multidiscip. J. 2017, 24, 148–153. [CrossRef]
+44.
+Mallinckrodt, B.; Abraham, W.T.; Wei, M.F.; Russell, D.W. Advances in testing the statistical significance of mediation effects. J.
+Couns. Psychol. 2006, 53, 372–378. [CrossRef]
+45.
+Byrne, B.M.; Shavelson, R.J.; Muthen, B. Testing for the equivalence of factor covariance and mean structures: The issue of partial
+measurement invariance. Psychol. Bull. 1989, 105, 456–466. [CrossRef]
+46.
+Holbert, R.L.; Stephenson, M.T. Structural equation modeling in the communication sciences, 1995-2000. Hum. Commun. Res.
+2002, 28, 531–551. [CrossRef]
+47.
+McDonald, R.P.; Ho, M.H.R. Principles and practice in reporting structural equation analyses. Psychol. Methods 2002, 7, 64–82.
+[CrossRef]
+48.
+Boomsma, A. Reporting Analyses of Covariance Structures. Struct. Equ. Model.-A Multidiscip. J. 2000, 7, 461–483. [CrossRef]
+49.
+Preacher, K.J.; Hayes, A.F. Asymptotic and resampling strategies for assessing and comparing indirect effects in multiple mediator
+models. Behav. Res. Methods 2008, 40, 879–891. [CrossRef]
+50.
+Taylor, S.J. Modelling Financial Time Series; World Scientific: Singapore, 2008.
+51.
+Bentler, P.M.; Bonett, D.G. Significance tests and goodness of fit in the analysis of covariance structures. Psychol. Bull. 1980, 88,
+588–606. [CrossRef]
+52.
+Mao, Y.H.; Peng, C.A.Y.; Liang, Y.; Yuan, G.P.; Ma, J.H.; Bonaiuto, M. The Relationship Between Perceived Residential Environment
+Quality (PREQ) and Community Identity: Flow and Social Capital as Mediators. Soc. Indic. Res. 2022, 163, 771–797. [CrossRef]
+[PubMed]
+53.
+Li, H.W.; Luo, W.J.; Hou, Y.Q.; Xia, Y.; Yao, J.; Kang, N.; Deng, C.S.; Sun, H.; Chen, C.X. Factors Affecting Perceived Health
+Benefits and Use Behaviors in Urban Green Spaces During the COVID-19 Pandemic in Southern China Megacities. Front. Public
+Health 2021, 9, 759444. [CrossRef] [PubMed]
+54.
+Kaplan, S. The restorative benefits of nature: Toward an integrative framework. J. Environ. Psychol. 1995, 15, 169–182. [CrossRef]
+55.
+Van Herzele, A.; de Vries, S. Linking green space to health: A comparative study of two urban neighbourhoods in Ghent, Belgium.
+Popul. Environ. 2012, 34, 171–193. [CrossRef]
+56.
+Sugiyama, T.; Leslie, E.; Giles-Corti, B.; Owen, N. Associations of neighbourhood greenness with physical and mental health:
+Do walking, social coherence and local social interaction explain the relationships? J. Epidemiol. Community Health 2008, 62, e9.
+[CrossRef] [PubMed]
+57.
+You, J.; Fung, H.; Vitaliano, P. The pattern of social support seeking and its socio-demographic variations among older adults in
+China. Eur. J. Ageing 2020, 17, 341–348. [CrossRef] [PubMed]
+58.
+Li, H.F.; Ji, Y.; Chen, T.Y. The Roles of Different Sources of Social Support on Emotional Well-Being among Chinese Elderly. PLoS
+ONE 2014, 9, e90051. [CrossRef] [PubMed]
+59.
+Allan, G. Personal relationships in late modernity. Pers. Relatsh. 2001, 8, 325–339. [CrossRef]
+60.
+Huang, I.W.; Weng, S.J.; Liao, C.H.; Xu, Y.Y.; Hsieh, L.P.; Liu, S.C.; Tsai, Y.T. The benefits of leisure activities on healthy life
+expectancy for older people with diabetes. Diabetol. Metab. Syndr. 2024, 16, 100. [CrossRef] [PubMed]
+61.
+Litchke, L.; Hutson, P. Social-Emotional Effects of One Session of Drumtastic Ability Beats for Campers with Cognitive Develop-
+ment Disorders. Palaestra 2021, 35, 24–32.
+62.
+Saitta, M.; Devan, H.; Boland, P.; Perry, M.A. Park-based physical activity interventions for persons with disab
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

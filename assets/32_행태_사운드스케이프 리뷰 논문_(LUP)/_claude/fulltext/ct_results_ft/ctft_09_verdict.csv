@@ -1,0 +1,7 @@
+rec,verdict,reason_code,rationale,boundary_rule
+274,FINAL_EXCLUDE,X3,"Table 1 독립변수 매트릭스에 음환경 지표 없음. 'noise'는 SARIMAX 잔차 white noise 언급뿐. GPS 궤적 행태 아웃컴은 있으나 노출이 녹지·시지각·지형.",
+285,FINAL_EXCLUDE,X3,"Table 2 변수는 NDVI·수공간 유무·접근성·SES뿐이고 음환경 지표 없음. 'sound of water'는 서론 인용. SafeGraph 공원방문 아웃컴만 존재.",
+328,FINAL_EXCLUDE,X4,"아웃컴이 음향지수·조류종풍부도·soundwalk 지각(ISO 12913-2·PRSS)·기분·회복감뿐. 관찰가능 행태 측정 없음. '이런 음환경에서 시간 보내고 싶다'는 선호·의도 문항.",P2
+343,FINAL_EXCLUDE,X3,"질적 주제분석 하위주제 목록에 소음 항목 없음. noise는 'Pollution' 대표인용 1건(P57)에만 등장해 음환경이 분석 노출변수가 아님.",
+413,FINAL_EXCLUDE,X3,"Table 1의 22개 변수는 녹지·대기오염·건물·교통·수공간·지표온도·인구뿐이고 음향 지표 없음. 'noisy'는 결과 해석 서술일 뿐 측정변수 아님.",
+428,FINAL_EXCLUDE,X4,"CAVE 실내 실험이며 아웃컴은 1–7 선호 연속평정뿐. LAeq·음원 노출은 측정했으나 보행속도·체류 등 관찰가능 행태 측정 없음.",

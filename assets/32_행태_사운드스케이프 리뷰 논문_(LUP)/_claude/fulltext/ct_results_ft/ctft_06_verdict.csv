@@ -1,0 +1,7 @@
+rec,verdict,reason_code,rationale,boundary_rule
+371,FINAL_INCLUDE,,2.3·3.2절 GPS(Trimble R8·정확도 2cm)로 횡단 궤적 실측; 방향성/비방향성 APS 3종 구성이 노출변수인 시가로 현장실험.,
+378,FINAL_EXCLUDE,X4,ACRES 아웃컴이 hinders-stimulates walking·unsafe-safe traffic 평정뿐. 서론에 보행량 대신 지각을 분석한다고 명시. 관찰가능 행태 없음.,
+382,FINAL_EXCLUDE,X4,헤드폰 청취실험 아웃컴이 ISO 12913-2 지각·Emotional Salience·소음성가심 평정뿐(RQ1.1-2.3). 체류시간 등 행태 측정 없음.,
+390,FINAL_EXCLUDE,X3,음환경은 NEST Incivilities 9항목 중 noise 1항목뿐이고 그 도메인마저 다중공선성으로 모형 제외(Usability만 투입). 독립 음환경 변수 없음.,
+395,FINAL_EXCLUDE,X3,"3.5절 모형은 종속=활동·지각 언급비율, 독립=공원요소(자연·시설·혼잡). 음지각(P_sound)은 병렬 결과변수이고 행태의 노출·역방향 예측변수 아님.",
+410,FINAL_INCLUDE,,3.4절 현장 Leq·Lae·SD 실측과 자연/인간/기계 음원 5점평정을 3.5절 행태관측 LTPA와 회귀. 단 중국어 학술지(风景园林)라 언어기준 확인 요.,

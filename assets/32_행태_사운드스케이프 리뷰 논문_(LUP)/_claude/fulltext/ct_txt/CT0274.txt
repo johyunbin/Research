@@ -1,0 +1,805 @@
+Cities 152 (2024) 105253
+Available online 4 July 2024
+0264-2751/© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+COVID-19 pandemic changes the outdoor physical activity preference in 
+Chinese city: A 7-year GPS trajectory data analysis 
+Peijin Sun a,*, Jie Sun a, Lan Jin a, Yan Zhu b 
+a Research Section of Environment Design, School of Architecture and Fine Art, Dalian University of Technology, China 
+b College of Physical Education and Health, Dalian University of Technology, China 
+A R T I C L E I N F O 
+Keywords: 
+Urban environment 
+Outdoor physical activity 
+Coronavirus disease (COVID-19) pandemic 
+Trajectory big data 
+Volunteered geographic information 
+A B S T R A C T 
+Existing knowledge is limited concerning changes in behavior and preferences for urban outdoor physical ac­
+tivities during the post-COVID-19 period, particularly in the long term before and after COVID-19. In this study, 
+we collected GPS-based trajectory data from social media platforms prior to, during, and following COVID-19 
+lockdowns (2017–2019, 2020–2022, and after 2023). We utilized multi-source data, multi-level models, inter­
+rupted time series models, and seasonal prediction models to analyze changes in Chinese urban residents’ 
+preferences for outdoor physical activities and the environment. The study revealed that residents’ activity 
+preferences decreased each year during the COVID-19 lockdown policy but increased immediately following the 
+lifting of restrictions, with activity levels significantly exceeding pre-pandemic averages. The study highlights 
+that while safety was the primary concern during the pandemic, preferences shifted towards low-density areas, 
+well-developed urban infrastructures, accessible green spaces, and ocean views in the post-pandemic period. 
+These findings provide valuable insights for urban design aimed at enhancing physical activity and well-being in 
+outdoor settings. 
+1. Introduction 
+The COVID-19 pandemic in 2020 led to significant changes in daily 
+lives. The implementation of stay-at-home orders and community lock­
+downs during this period significantly limited residents’ daily activities 
+(Burnett et al., 2021; Li et al., 2023; Ugolini et al., 2020). The environ­
+mental exposures and residents’ health behaviors and preferences have 
+changed due to the COVID-19 (Matasov et al., 2023), with studies indi­
+cating that health-related behaviors like physical activity did not return to 
+pre-pandemic levels even after the restrictions imposed by COVID-19 
+policies were lifted (Koch et al., 2022; Salway et al., 2022). A lack of reg­
+ular physical activity significantly contribute to various chronic diseases 
+(Feng et al., 2010; Harris et al., 2013; Sallis et al., 2012). Research has 
+shown that regular participation in physical activities such as jogging and 
+walking significantly improves both physical and mental health. (Aliyas, 
+2019; Berg et al., 2019; Hankey et al., 2021; Huang et al., 2022; Mahdzir & 
+Ahmad Roslan, 2023; Oja et al., 2017). However, the impact of the COVID- 
+19 pandemic on residents’ outdoor activity behavior and environmental 
+preferences remains insufficiently investigated. 
+Particularly, lock down policies, including stay-at-home orders and 
+community lockdowns, were intermittently enforced in Chinese cities from 
+January 20, 2020, for three years until the end of December 2022. During 
+this period, most public gatherings, exhibitions, and indoor entertainment 
+were restricted. Numerous studies have examined the impact of green 
+spaces and other factors on leisure behavior and psychology amidst the 
+pandemic (Beckmann-Wübbelt et al., 2021; Muro et al., 2023; Soga et al., 
+2021; Ugolini et al., 2020; Yang et al., 2021). However, few studies have 
+investigated residents’ preferences for urban street environments, which 
+are widely recognized as crucial for outdoor physical activities (Wang 
+et al., 2019). Previous research has shown that the urban built environ­
+ment, the eye-level street design, and people’s perceptions significantly 
+influence outdoor activities, although the findings have been inconsistent 
+and primarily based on cross-sectional surveys. Therefore, this study aims 
+to investigate the effects of three consecutive years of lockdown policies on 
+outdoor physical activity levels in Chinese cities and to explore the un­
+derlying factors of post-pandemic changes in outdoor physical activity 
+preferences, such as street design characteristics and built environment. 
+We therefore employed trajectory data, street view imagery, and multi- 
+source data to assess the impact of the COVID-19 pandemic on outdoor 
+activities and residents’ environmental preferences. The contribution of 
+this research is primarily manifested in three aspects. First, we analyzed 
+spatial-temporal variations in outdoor physical activity using seven years 
+* Corresponding author. 
+E-mail address: sunpeijin@dlut.edu.cn (P. Sun). 
+Contents lists available at ScienceDirect 
+Cities 
+journal homepage: www.elsevier.com/locate/cities 
+https://doi.org/10.1016/j.cities.2024.105253 
+Received 7 November 2023; Received in revised form 16 June 2024; Accepted 25 June 2024 
+
+Cities 152 (2024) 105253
+2
+of trajectory data, which encompassed periods before, during, and after the 
+pandemic. Second, we evaluated the relationship between street envi­
+ronments and outdoor activities, integrating both subjective perception 
+and objective indicators, and developed a Multi-Level Model (MLM) to 
+account for spatial heterogeneity. Additionally, an Interrupted Time Series 
+(ITS) analysis was conducted to infer the influence of COVID-19 on outdoor 
+activities and their subsequent recovery process. Third, an Autoregressive 
+Integrated Moving Average Model (ARIMA) was utilized to predict future 
+trends in activity levels. This study addresses the three critical questions: 
+(1) How have the three years of COVID-19 lock down policies influenced 
+residents’ preferences for outdoor activities? (2) How have these lock down 
+policies affected residents’ attitudes towards their environment? (3) Do 
+preferences for environmental choices change after the lockdown is lifted? 
+2. Literature review 
+2.1. Application of volunteered geographic information data 
+The volunteered geographic information (VGI), as shared on fitness 
+platforms, represents an emerging approach for assessing outdoor ac­
+tivity (Cui et al., 2021; Dagan & Wilkins, 2023; Dong et al., 2023; 
+Nogueira Mendes et al., 2023; Norman et al., 2019; Venter et al., 2023). 
+VGI encompasses user-generated content and associated geographical 
+data, including routes, reports, and images disseminated online (Cui 
+et al., 2021). The advantage of VGI lies in its remote accessibility which 
+often proves more time- and cost-effective compared to traditional data 
+sources. It provides precise GPS-based routes that accurately depict the 
+actual occurrence of physical activities making it widely employed in 
+conjunction with other datasets. Moreover, VGI enables the comparison 
+of access patterns across various spatial and temporal scales (Huang 
+et al., 2022; Smith et al., 2023; Yang et al., 2023). 
+With the exponential growth of VGI, numerous studies have focused 
+on park visits, for example, using the number of routes posted on plat­
+forms, such as MapMyFitness, Strava, and Wikiloc, to assess outdoor 
+activities in national parks (Norman et al., 2019; Norman & Pickering, 
+2019), jogging in urban parks (Liu et al., 2021a), recreational behavior 
+in suburban parks (Nogueira Mendes et al., 2023), and the relationship 
+between running satisfaction and natural exposure (Huang et al., 2023). 
+Moreover, research has focused on the use of VGI in urban environments 
+to study outdoor activities, finding that an action-based approach is 
+more effective than a residential buffer approach for accurately 
+reflecting the sports environment (Huang et al., 2022). 
+Although extensive research has explored the relationship between 
+the built environment and outdoor activities in urban settings, results 
+continue to show considerable variability. For example, while some 
+studies report no significant associations between population density 
+and running activities (Huang et al., 2023; Yang et al., 2022a), others 
+document a clear negative correlation between urban density and 
+running frequency, but a positive correlation with running intensity 
+(Huang et al., 2022). Additionally, enclosed environments and densely 
+built areas have been found to hinder running (Dong et al., 2023). In 
+contrast, design-related features such as proximity to green and blue 
+spaces have shown more consistent positive associations with running 
+intensity. Numerous studies have confirmed that blue spaces or water 
+features enhance running intensity (Huang et al., 2022; Liu et al., 2021b; 
+Yang et al., 2023b). Furthermore, Huang et al. (2023) demonstrated that 
+the Green View Index (GVI), which assesses street greening, more 
+accurately represents runners’ exposure to greenery than the top-down 
+greenery evaluation provided by the Normalized Difference Vegetation 
+Index (NDVI). Other environmental features, such as terrain slope 
+(Campbell et al., 2019), traffic volume, and intersections (Nixon, 2012), 
+also significantly impact the running experience. 
+Previous studies have consistently shown that several socio- 
+environmental features significantly influence running activities. Ele­
+ments such as sidewalks, streetlights, amenities, urban furniture, trees, and 
+sky views are known to promote running (Jiang et al., 2022). Additionally, 
+a better perceived quality of these SE features can facilitate sustainable 
+physical activity and enhance public health. Safety emerges as a critical 
+factor in promoting outdoor activities; studies suggest that wider and more 
+open streets, perceived as safer, significantly enhance the likelihood of 
+engaging in running and other outdoor activities (Dong et al., 2023). These 
+preliminary insights into the impact of socio-environmental features on 
+running are well-supported by existing research. While many studies have 
+employed Volunteered Geographic Information (VGI) to examine spatial 
+patterns of physical activity, its use in analyzing outdoor behaviors on 
+urban streets over extended periods, such as the three-year span influenced 
+by COVID-19 isolation policies, remains limited. 
+2.2. The impact of the COVID-19 pandemic 
+The COVID-19 pandemic has profoundly affected the global com­
+munity. The short- and long-term consequences of this crisis are evident 
+across various domains of human society, particularly influencing in­
+dividuals’ health behaviors (Nigg et al., 2023). Researchers have 
+observed that health behaviors, such as physical activity, have not 
+returned to pre-pandemic levels (Koch et al., 2022; Salway et al., 2022). 
+Beyond its impact on psychosocial health and behaviors, the pandemic 
+has also altered how individuals utilize urban and natural environments 
+(Matasov et al., 2023). 
+Numerous studies have examined the impact of COVID-19 on leisure 
+behavior in green spaces, which are crucial for influencing physical 
+activity patterns and providing sanctuary (Muro et al., 2023; Ugolini 
+et al., 2020; Yang et al., 2021). However, findings regarding the effects 
+of the COVID-19 pandemic on environmental utilization remain incon­
+sistent. For instance, some studies have reported an increase in visits to 
+urban and peri-urban forests during the pandemic (Beckmann-Wübbelt 
+et al., 2021), as well as heightened usage of trails near urban areas 
+(Power et al., 2023). In contrast, others observed a decrease in time 
+spent visiting green spaces following the restrictions(Burnett et al., 
+2021). Additionally, research has explored the association between the 
+urban built environment and health outcomes. Residents in compact 
+communities reported lower levels of well-being during COVID-19 
+(Mouratidis, 2022), while proximity to various local amenities, lower 
+community density, distance from city centers, and larger housing were 
+linked to improved health and well-being (Mouratidis & Yiannakou, 
+2021). Commonly used methods such as multiple linear regression (Liu 
+et al., 2021), multilevel modeling (Huang et al., 2022), and spatial 
+modeling (Yang et al., 2023; Dong et al., 2023) primarily focus on spatial 
+dimensions and often fail to capture temporal changes. Additional ap­
+proaches to address temporal variations are thus necessary. 
+Research on the long-term effects of the COVID-19 pandemic before, 
+during, and after its peak remains relatively scarce. Matasov et al. 
+(2023) emphasized the critical role of green spaces during the pandemic 
+and observed changes in citizens’ recreational preferences and park 
+usage behaviors. Zhang & Li, (2023) employed mobile phone location 
+data and a quasi-experimental method to explore the causal impacts of 
+urban park access on local residents during the COVID-19 outbreaks, 
+lock down policies, and the subsequent resumption of work in 2020. 
+Their findings indicate that high-quality green spaces significantly 
+increased park visits. Additionally, Yang et al. (2021) conducted natural 
+experiments revealing that in areas with extensive greening, the 
+reduction in leisure-time physical activity was less pronounced. More­
+over, Muro et al. (2023) assessed the psychological benefits of forest 
+trekking using a control group design, finding significant improvements 
+in mental health, such as reduced stress and enhanced mood, particu­
+larly during the pandemic in Mediterranean regions. 
+Despite considerable attention to COVID-19 lockdown policies, the 
+focus on urban environments and behavioral activities during their 
+implementation and subsequent lifting has been relatively limited. The 
+impact of these studies predominantly covers short-term effects; however, 
+the extensive three-year lock down policy in China introduces un­
+certainties regarding its profound influence on urban residents’ 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+3
+preferences for outdoor activities, which mainly occur on city streets. The 
+street environment is recognized as a critical venue for outdoor activities 
+among urban citizens (Wang et al., 2019). This knowledge gap impedes 
+government agencies’ ability to mitigate sedentary lifestyles by shaping 
+environments that foster outdoor activities in the post-pandemic era. 
+Therefore, it is imperative to understand how restrictive policies and 
+subsequent incentives for restoration affect trends in urban street-based 
+outdoor activities and to identify the underlying factors driving these 
+changes. 
+3. Method 
+3.1. Study design 
+This study’s research framework, as illustrated in Fig. 1, is executed 
+in three sequential steps. Initially, representing outdoor activities, we 
+collected publicly available KML data shared by users on the social 
+platform 2bulu, which is widely used among outdoor enthusiasts in 
+China for its location-based services. KML, an XML-based file format, 
+facilitates the display of geographic information. Following this, we 
+acquired and processed multi-source data that includes sociodemo­
+graphic factors (e.g., Property Value, Construction Time, Population 
+Density), macro-environmental attributes (e.g., Density, Diversity, 
+Design, Destination, Traffic), street-level environment factors (e.g., 
+Design Quality, Infrastructure, Perception), and natural elements (Green 
+Space, Blue Space), all of which may influence outdoor physical activity 
+levels. Additionally, Street View Images (SVI) were collected to compute 
+eye-level street design characteristics and urban perception indicators. 
+In the second step, the independent variables were preprocessed using 
+XGBoost for feature extraction and evaluated with Variance Inflation 
+Factor (VIF) to assess multicollinearity. Lastly, the study developed a 
+comprehensive suite of models to address both spatial and temporal 
+effects, incorporating a multilevel model and two time series models. 
+3.2. Study area 
+This study was conducted in Dalian, China, a city uniquely charac­
+terized by its geographical setting and urban structure. Dalian is a 
+coastal city surrounded by the sea on three sides and features a hilly 
+terrain (Fig. 2). The gentle slopes, between 5◦and 10◦, are interspersed 
+with numerous low mountains and hills, enriching the urban area with 
+substantial green assets. However, the city’s hilly nature imposes limi­
+tations on the development of bicycle lanes, leading to a reliance on 
+pedestrian travel for non-motorized transportation. The research scope 
+is confined to four central urban districts encompassing 39 administra­
+tive regions, which collectively cover an area of approximately 596 km2 
+and house a population of 2.58 million. These districts share similar 
+socioeconomic backgrounds. 
+The study delineates the pre-, mid-, and post-pandemic periods based 
+on changes in national-level COVID-19 prevention and control policies. 
+The pre-pandemic period is defined as the time before January 20, 2020, 
+when the Chinese National Health Commission designated novel coro­
+navirus pneumonia as a statutory infectious disease, triggering the 
+implementation of prevention and control measures. Subsequent years 
+saw various lockdown orders, culminating on December 22, 2022, when 
+the national government announced the cessation of COVID-19 lock­
+down measures. Accordingly, the period before the pandemic encom­
+passes the years 2017 to 2019, the pandemic period covers 2020 to 
+Fig. 1. Research design process and variable measurement methods. 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+4
+2022, and the post-pandemic period commences from 2023 onwards. 
+3.3. Dependent variable 
+In this study, we employed a Python-based application to extract all 
+non-private, downloadable user tracks from the past seven years from the 
+web version of 2bulu (https://www.2bulu.com/), which categorizes 
+tracks by walking, cycling, driving, and other modes of transportation. 
+However, distinctions among hiking, jogging, running, and walking ac­
+tivities within the application’s track classification system are not 
+detailed. Due to the limited availability of bicycle lanes in the central 
+districts of Dalian, most recorded outdoor activities consist of walking, 
+jogging, and running, which we collectively refer to as ‘outdoor activities. 
+Data collection commenced in 2017 and continued until July 2023, 
+resulting in the accumulation of 5315 complete trajectory datasets, with 
+an average trajectory length of 9605 m. These trajectories were specif­
+ically selected using the names of the four central administrative dis­
+tricts as search keywords. User information was not accessible due to 
+privacy restrictions. 
+Data cleaning involved removing data points that fell outside the 
+predefined study area boundaries. Further refinement using ArcGIS to­
+pology check tools and manual reviews helped identify and eliminate data 
+points that did not exhibit typical human activity trajectory characteris­
+tics, such as isolated points and trajectories that deviated substantially 
+from the established urban road network, thus classified as ‘erratic’. 
+For the analysis, we treated the number of trajectories passing 
+through each street as the dependent variable. The study area was 
+divided into 8481 road segments, each averaging 249 m in length. 
+Trajectories were decomposed into these street segments. To gauge the 
+intensity of outdoor activities on each street segment, we established a 
+60-meter buffer centered on the road median and calculated the total 
+number of trajectory lines within this zone. This approach segmented 
+the data into 128,135 trajectory segments, with a distribution of 60,089 
+pre-pandemic, 44,673 during the pandemic, and 23,373 post-pandemic 
+trajectory segments. 
+3.4. Independent variable 
+We structured a matrix of variables quantifying the sociodemo­
+graphic factors, neighborhood-built environment, street design charac­
+teristics, and natural environment as shown in Table 1. The calculation 
+of all independent variable indicators was standardized, mirroring the 
+method employed for the dependent variable, whereby each was 
+quantified per street segment. The data were mainly sourced from a 
+combination of governmental data repositories and open platform data, 
+including the National Natural Resource and Geospatial Basic Informa­
+tion Database, Lianjia real estate platform, Baidu Map, Open Street Map, 
+and Tencent Street View (TSV) images from the Tencent Online Map. 
+3.4.1. Macro-level built environment 
+Socioeconomic background factors encompassed property values, 
+construction time, and population density, which was obtained from 
+real estate platform Lianjia (http://www.lianjia.com). A Python script 
+facilitated the extraction of data for 1799 residential communities 
+located in the central district of Dalian. Population density was quan­
+tified by the number of households. The preprocessing of collected data 
+involved the removal of missing values, erroneous entries, and outliers, 
+such as atypical construction times and resident population figures. 
+The macro-built environment was characterized by variables such as 
+density, diversity, design, destination accessibility, and traffic condi­
+tions. Building density was defined by the count of buildings within the 
+area. Diversity was measured by the variety of land use within the buffer 
+zone, indicated by the number of facility types. Intersection data, 
+including fork roads and crossroads, were derived from Open Street 
+Map. Destination accessibility was assessed based on the availability of 
+daily living facilities, with facility point data sourced from Baidu Maps, 
+which provides detailed location and facility type information. Traffic 
+conditions were evaluated through vehicle counts for cars and buses, 
+extracted from Baidu Map and analyzed through street interface ob­
+servations using Tencent Street View (TSV) images. 
+Fig. 2. The location and elevation of study area. 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+5
+3.4.2. Street-level built environment 
+The built environment at street level includes design quality, infra­
+structure and subjective perception. Streetscapes design features encom­
+passed transparency, enclosures, the green view index, the sky view index, 
+sidewalk ratio, and street infrastructure. These streetscape elements were 
+defined according to the urban design elements framework by Ewing et al. 
+(2015) (Ewing et al., 2015), with detailed definitions and measurements 
+presented in Table 1. All the streetscape indicators were computed using 
+images from Tencent Street View (TSV). Sampling points for TSV image 
+retrieval were strategically generated from road data at various in­
+tersections, endpoints, and at 100-m intervals along each street. Co­
+ordinates for these TSV sampling points were input into a Python script, 
+and for each point, four TSV images (480 × 320 pixels) were downloaded 
+facing four directions (0◦, 90◦, 180◦, and 270◦). 
+To extract environmental elements from the TSV images, two 
+advanced deep learning algorithms were employed: semantic segmen­
+tation and instance segmentation. Environmental elements at each 
+sampling point were quantified by averaging the pixel values from im­
+ages in all four directions, using the DeepLabv3 model (Chen et al., 
+2017) trained on the ADE20K dataset. The model achieved 77.31 % 
+mIoU on the Pascal VOC 2012 validation dataset. Next, we used the 
+YOLOv3 model (Redmon & Farhadi, 2018) to perform instance seg­
+mentation to measure street furniture. Street furniture was calculated as 
+the total number of streetlights, traffic lights, traffic signs, and seats. The 
+accuracy of the model exceeded 92 % from manual verification (Fig. 3). 
+In this study, we explored six urban perception dimensions—wealth, 
+safety, liveliness, beauty, boredom, and depression—drawing on the Place 
+Pulse 2.0 framework by Dubey et al. (2016). These perception indicators, 
+encompassing both positive and negative aspects, have been previously 
+used to gauge general human perceptions (Zhang et al., 2018). Notably, 
+perceptions of safety and liveliness are particularly crucial to runners’ 
+experiences (Deelen et al., 2019). These individual and emotional 
+perceptions are highly relevant to residents’ daily lives and may signifi­
+cantly influence human behavior and physical activity (Biljecki & Ito, 
+2021). However, the Place Pulse dataset primarily targets urban environ­
+ments globally, which might introduce biases in the context of China’s 
+densely populated urban settings. Therefore, this study utilized a domes­
+tically trained dataset tailored for urban perception in China. Volunteers 
+rated displayed street view images on a scale of 1 to 100 across the six 
+perception categories. A random forest algorithm was employed to classify 
+images based on single perception labels, achieving an average accuracy of 
+over 90 % (Yao et al., 2019). This approach was applied to street views in 
+Dalian and has been validated in previous research (Sun et al., 2023a), 
+including consistency checks with questionnaire-based environmental 
+perceptions. The perceptions of safety and beauty showed high consistency 
+with findings from traditional survey studies, validating the reliability of 
+using street view images for perception assessment. 
+3.4.3. Natural environment 
+The Normalized Difference Vegetation Index (NDVI) was calculated 
+by utilizing reflectance data from two bands of the electromagnetic 
+spectrum: Landsat Band 4 (Near Infrared) and Landsat Band 3 (Red). For 
+this analysis, cloud-free images covering the survey area were meticu­
+lously selected, with a Landsat 8 OLI (Operational Land Imager) image 
+dated July 16, 2018, ultimately chosen for its clarity and relevance. 
+The calculation approach for blue space visibility was based on the 
+weighted field-of-view aggregation of representative grids of sites in the 
+ocean. To determine visible locations within the ocean area, the sea 
+region was divided into numerous regular hexagons with a center rep­
+resenting each grid. Adjacent locations were spaced at intervals of 1 km. 
+Based on previous literature, a maximum visible range of 20 km was 
+selected due to limitations imposed by Earth’s curvature and atmo­
+spheric conditions (Qiang et al., 2019). Given the geographic specifics of 
+our study area, which includes non-isolated islands within central 
+Table 1 
+Calculation methods and data sources for the independent variable matrix. 
+Calculation method 
+Data source/Data type 
+Sociodemographic factors 
+Property value 
+The average housing price 
+Lianjia 
+POI 
+Construction time 
+The average construction time 
+Population density 
+The number of households 
+Macro-level built environment 
+Density 
+Building density 
+The number of buildings 
+Lianjia 
+POI 
+Diversity 
+Land use mix 
+The number of types of facilities 
+Baidu Map POI 
+Design 
+Intersection 
+The number of intersections 
+OSM 
+POI 
+Slope 
+The standard deviation of elevation within the street 
+National Natural Resource 
+DEM 
+Destination 
+Facility num. 
+The number of facilities 
+Baidu Map POI 
+Traffic 
+Pedestrian num. 
+The number of buses in the street interface 
+TSV Image 
+Num. of instance 
+segmentation 
+Car num. 
+The number of cars 
+Street-level built environment 
+Design qualitya 
+Transparency 
+S wall / S building 
+TSV Image 
+Pixels of semantic segmentation 
+Enclosure 
+S building / S total 
+Green view 
+S vegetation / S total 
+Sky view 
+S sky / S total 
+Sidewalk 
+S sidewalk / S road 
+Terrain 
+S terrain / S total 
+Fence 
+S fence / S total 
+Infrastructureb 
+Furniture 
+Ntraffic light+traffic sign+streetlight+seat 
+Num. of instance 
+segmentation 
+Perception 
+Wealthy, Safe, Lively, Depressing, Boring, Beautiful 
+FCN model 
+Natural environment 
+Green space 
+Blue space 
+NDVI 
+NIR-RED/NIR + REDc 
+Remote sensing image 
+Ocean visibility 
+The visible area of the ocean 
+Trigonometric calculation 
+a The proportion of the indicators in the street interface. 
+b Street furniture summed the number of streetlights, traffic lights, traffic signs, and seats. 
+c RED and NIR stand for the spectral reflectance measurements acquired in the Red and Near-Infrared Regions. 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+6
+Dalian, the entire land area of Dalian was selected as the focal point for 
+these calculations. Detailed formulas and computational procedures are 
+provided in Appendix A. 
+3.5. Data processing and modeling 
+3.5.1. Data processing 
+In the data preprocessing stage, we implemented a comprehensive 
+strategy encompassing three critical steps: data cleaning, data correc­
+tion, and data validation. Initially, during data cleaning, we employed 
+multiple measures to ensure data quality. We excluded outliers and 
+missing values, focusing particularly on trajectory data, which under­
+went meticulous manual review and pruning. Our pruning criteria 
+included eliminating trajectories that extended beyond the study area, 
+lay outside designated road buffer zones, or exhibited irregular move­
+ment patterns or disorderliness. These measures aimed to remove 
+inaccurate or irrelevant data points potentially caused by collection 
+errors, transmission issues, or external factors. Subsequently, in the data 
+correction phase, we concentrated on enhancing the accuracy and 
+consistency of the data. We meticulously corrected the geographical 
+coordinates to ensure precise correspondence and uniformity across 
+different data sources and layers. This step is crucial for ensuring the 
+comparability of subsequent data analyses and the reliability of in­
+terpretations. Finally, during the data validation phase, we performed 
+normality tests to assess the suitability of the data distribution and 
+applied Z-score normalization to all data. This standardization method 
+mitigates the impact of varying scales and measurement units, ensuring 
+data comparability and the reliability of analytical results. 
+3.5.2. Variable selection 
+We employed variance inflation factor, VIF calculations to identify 
+variables with high multicollinearity (VIF > 10), which were then 
+removed while retaining other variables. Additionally, we utilized the 
+XGboost method for feature extraction – an advanced algorithm based 
+on gradient-boosting decision trees that offer improved performance 
+compared to classical GBDT models. To determine the relevance of 
+environmental indicators in explaining outdoor physical activity levels, 
+Scikit-learn in Python was used to calculate feature importance scores 
+and rank them accordingly. Finally, a combination of literature review, 
+VIF analysis results, and feature importance scores were used to filter 
+out irrelevant variables and facilitate further analysis. 
+3.5.3. Regression model with spatial effects 
+Previous studies have demonstrated that the correlation between 
+physical activity and the built environment exhibits spatial autocorrelation 
+(Yang et al., 2022b), which may lead to bias or inefficiency in OLS esti­
+mates. Multi-level modeling (MLM) provides a robust framework for 
+separating the effects of individual factors from contextual factors at the 
+neighborhood level, which is essential for accurately assessing health 
+outcomes (Schüle & Bolte, 2015). Consequently, we developed a multi- 
+level model in which road attributes are considered at a single level. In 
+this model, categorical variables were incorporated as fixed effects to 
+control for their potential impact on outdoor physical activity trajectories. 
+The formula for the multi-level model is as follows: 
+Ygij = μ + αg + βXgij + ug + egij 
+Ygij represents the number of outdoor physical activity trajectories 
+for individual j on road i, where g indicates the road type. 
+μ is the overall intercept, representing the average number of out­
+door physical activity trajectories across all types of roads; αg represents 
+the fixed effects of road types; β is the coefficient for the street envi­
+ronment characteristics Xgij, indicating the influence of the street 
+environment on the number of outdoor physical activity trajectories; ug 
+is the random effect for road types, capturing unobservable heteroge­
+neity within each road type; egij is the error term, representing random 
+fluctuations at the individual level. 
+3.5.4. Regression model with time series 
+In this study, the primary advantage of Interrupted Time Series (ITS) 
+design lies in its ability to infer causal effects. ITS models are particularly 
+suitable for quantifying the immediate and long-term effects of in­
+terventions such as public health policies, by comparing behavioral 
+changes before and after policy implementation to more accurately 
+assess their impact. Unlike other quasi-experimental designs, ITS design 
+compares the intervention effects within the same group before and 
+after, rather than relying on a control group, providing a robust method 
+for evaluating the immediate and long-term effects of COVID-19 lock­
+down policies. Additionally, this design allows for within-group 
+Fig. 3. Street-level built environment elements extracting flow using semantic segmentation and instance segmentation methods (from Ref.(Sun & Lu, 2021)). 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+7
+comparisons, which is particularly relevant in COVID-19 research, as 
+there has been no global-scale control group since the beginning of the 
+pandemic (Zhang & Li, 2023; Zhang & Ning, 2023). 
+The formula of the model is as follows: 
+Yt = β0 + β1 time + β2intervention + β3post + β4intervention2 + β5secondtime 
+The variable Yt represented the observation at time t, where time was 
+the temporal variable spanning from the beginning to the end of the 
+study. The intervention variable indicated whether a policy has been 
+implemented, while post denoted another temporal variable starting 
+from the promulgation of the policy until the end of the study. By 
+employing least square method, we can obtain coefficients for a piece­
+wise regression model. β0 served as an intercept term representing the 
+initial level of the outcome variable. β1 signified the slope prior to policy 
+enactment, reflecting pre-existing trends. β2 captured the outcomes 
+upon policy implementation. β3 quantified changes in slope before and 
+after policy promulgation, illustrating its sustained impact. Further­
+more, β4 accounted for level changes following policy cancellation and 
+β5 measures alterations in slope before and after cancellation occurs. The 
+two interval nodes were set at 2020 and 2022. 
+In this study, we employed the Seasonal AutoRegressive Integrated 
+Moving Average model with eXogenous regressors (SARIMAX), an exten­
+sion of the traditional ARIMA model, to enhance our understanding of the 
+long-term trends in outdoor physical activity preferences among urban 
+residents during the COVID-19 pandemic. The SARIMAX model was spe­
+cifically chosen to account for and mitigate the effects of seasonal varia­
+tions on outdoor activities in urban environments, providing a more 
+nuanced analysis of how these patterns have shifted over the course of the 
+pandemic. During the model construction process, we first performed 
+seasonal decomposition of the time series data to assess the presence of 
+seasonal components. Subsequently, a stationarity test was conducted to 
+ensure that the time series met the requirements of the SARIMAX model. If 
+the original data were non-stationary, necessary differencing operations 
+were performed until the data became stationary. Autocorrelation analysis 
+aided in identifying any skewness in the time series and guided the selec­
+tion of appropriate autoregressive (AR) and moving average (MA) orders. 
+Finally, the assessment of the pure randomness in the model residuals (i.e., 
+white noise) was conducted by examining the p-values associated with the 
+Q statistics, as well as the Akaike Information Criterion (AIC) and Bayesian 
+Information Criterion (BIC) values. 
+4. Result 
+4.1. Descriptive result 
+4.1.1. Spatial distribution 
+The southern coastal regions exhibited higher levels of outdoor 
+physical activity compared to the central and western areas, while the 
+southwest areas characterized by abundant vegetation coverage 
+demonstrated increased activity (Fig. 4-1). The frequency of activities on 
+each street ranges from 1 to 387, with a mean of 24.5 and a standard 
+deviation of 37.5. Notably, a significant decline in outdoor activities 
+during the COVID-19 pandemic could be observed; however, there was 
+an immediate recovery following the lifting of lock down policies. 
+We further visualized the length of the outdoor physical activity trail 
+and observed that shorter-distance outdoor activities were predomi­
+nantly concentrated in the central CBD area, characterized by a dense 
+grid-like road network (Fig. 4-2). Longer route activities were evenly 
+distributed between the southeast coast and the north coast. Addition­
+ally, there were notable seasonal variations in outdoor activities, with a 
+significant decrease in activity distribution during autumn and winter, 
+primarily occurring in areas with low urban construction density. 
+Fig. 4-1. Spatial Distribution of Outdoor Physical Activity Frequencies. 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+8
+4.1.2. Time-varying outdoor physical activity 
+Fig. 5 illustrates the variation in outdoor physical activity over seven 
+consecutive years, revealing that trends have been significantly influ­
+enced by COVID-19 lock down measures and seasonal variations. 
+Following the implementation of COVID-19 lock down policies, there 
+was a notable decline in outdoor activities, with monthly averages 
+decreasing by 41 % compared to the pre-pandemic period. However, 
+with the complete lifting of these policies, outdoor activities experi­
+enced a substantial rebound, increasing by 66 % compared to the 
+monthly averages before the pandemic. 
+Post-lockdown, a modest rise in outdoor activities was observed 
+during the winter months. Yet, as the seasons shifted from winter to 
+spring (March to May), a pronounced decline occurred, with May 2023 
+witnessing a reduction of 148 instances in outdoor activities compared 
+to May 2019. This decline could be attributed to a resurgence in infec­
+tion cases following the sudden lifting of restrictions, which posed 
+challenges for outdoor engagement. Despite this, a gradual monthly 
+increase in outdoor activities was noted over time. Notably, July saw an 
+increase of 118 instances in outdoor physical activity compared to the 
+same month in the pre-pandemic period. Furthermore, seasonal trends 
+significantly influenced outdoor activities, which typically increased 
+from spring, peaked during the late spring and summer months, and 
+then gradually decreased, reaching lower levels in the winter. 
+Fig. 4-2. Outdoor Physical Activity Trajectories by Length Across Different Seasons. 
+Fig. 5. The changes in activity frequency across different stages of the COVID-19. 
+P. Sun et al. 
+
+Cities 152 (2024) 105253
+9
+4.2. Multi-level regression 
+All variables were fitted into the OLS model (Model 1). The baseline 
+Model 1 explained 9.5 % of the variance in outdoor physical activity 
+volume. Subsequently, we introduced additional layers related to road 
+properties and street-level built environments into Model 2, which 
+significantly enhanced the explanatory power of our analysis, with the 
+R2 increasing to 0.288. This substantial improvement suggests that the 
+inclusion of these additional variables captures more complex in­
+teractions and dependencies not addressed by the initial model. There­
+fore, we considered Model 2 as our basis for interpretation (Table 2). 
+In our regression analysis, it was observed that the impact of socio­
+economic backgrounds on outdoor activities is relatively weak, while 
+the built environment plays a significant role, albeit with modest effects. 
+Specifically, the influence of property value shifted dramatically from a 
+strong positive effect in Model 1 (β = 0.239, p < 0.001) to a negligible 
+impact in Model 2 (β = 0.001, p < 0.001). This suggests that when more 
+detailed street-level features are considered, the influence of property 
+values diminishes, highlighting the complex interactions between so­
+cioeconomic factors and urban physical elements. 
+Within the built environment variables, slope was identified as the 
+most influential factor, with its coefficient increasing significantly from 
+β = 0.065 to β = 0.158 (p < 0.001 for both). This emphasizes the critical 
+importance of topographical features in the planning of urban recrea­
+tional spaces. Conversely, building density negatively influenced out­
+door activities, while land use mix and destination variables showed 
+positive effects, though these were smaller in magnitude, indicating 
+their limited but positive roles in enhancing the usability of urban spaces 
+for outdoor activities. 
+Street design quality had a greater impact on activity levels 
+compared to other built environment factors. For instance, sky views 
+and green spaces, which initially had minor impacts, demonstrated 
+significant positive effects in Model 2 (Skyview: β = 0.701, p = 0.010; 
+Greenview: β = 0.386, p = 0.041), suggesting that these architectural 
+elements, when integrated with other street-level factors, significantly 
+enhance outdoor physical activity levels. In contrast, features such as 
+sidewalks, bare terrain, and the presence of trash negatively affected 
+engagement in outdoor activities, underscoring the negative impacts of 
+poor infrastructure and maintenance on public health and activity 
+levels. Furthermore, blue-green spaces and perceived safety consistently 
+encouraged outdoor activities across all models, underscoring their 
+importance in urban design aimed at promoting active lifestyles. 
+4.3. Interrupted times-series model 
+After incorporating the time variable, the characteristic value of 
+pedestrian count appears to be significantly low, while the VIF values for 
+garbage and beautiful perception fail to meet the required threshold. 
+Consequently, these three variables were eliminated from further analysis. 
+Table 3 exhibited the impact of adding the time variable on urban resi­
+dents’ preference for outdoor activities on urban streets pre- during-, and 
+after the COVID-19 pandemic. The lockdown policies have significantly 
+influenced environmental preferences for outdoor activities, encompass­
+ing socio-economic background, built environment, street design quality, 
+natural landscape, and subjective perception (Figs. 6-1 and 6-2). 
+First, property values exhibited a negative impact throughout the 
+pandemic period; however, this effect became non-significant after 
+lifting the lockdown policy while construction time reverted to a nega­
+tive influence. On the other hand, land use mix showed a positive impact 
+before the pandemic, turned negative during it, and reverted to a robust 
+positive influence afterward (β = 0.090 to β = −0.061 to β = 0.166). 
+Building density persistently demonstrated a negative effect, suggesting 
+that denser areas might inhibit outdoor activities due to limited space. 
+The number of facilities initially had a positive impact on outdoor ac­
+tivities (β = 0.034, p < 0.001) but declined during the lockdown (β =
+−0.032, not significant) due to accessibility restrictions. Conversely, the 
+positive influence of slope on outdoor activities became more pro­
+nounced after the outbreak (β = 0.143, p < 0.001), indicating that areas 
+with varied terrain likely provided more attractive conditions for out­
+door activities when other options were limited. 
+The quality of street design was generally consistent with multilevel 
+regression results. Both Sky View and Green View significantly enhanced 
+outdoor activities in all phases, peaking during the pandemic (Sky View: β 
+= 0.196, Green View: β = 0.194, p < 0.001). This increased importance 
+during periods of restricted movement suggests that open, green spaces 
+were highly valued. The role of sidewalks increasingly supported access to 
+outdoor activities, highlighting their significance. Conversely, street 
+furniture saw a substantial negative shift during the pandemic (β =
+−0.173, p < 0.001), likely due to surface transmission concerns. 
+Additionally, urban residents’ preferences for perceived beauty and 
+safety significantly shifted due to COVID-19 lock down measures. Safety 
+perception significantly increased during the pandemic (β = 0.161, p <
+0.001) but decreased afterward (β = 0.023, p = 0.373), emphasizing how 
+public safety perceptions dynamically affect outdoor physical activity 
+patterns in response to external events. Notably, natural landscapes, 
+including NDVI and ocean visibility, consistently promoted outdoor ac­
+tivities, with ocean visibility showing one of the strongest and most 
+consistent positive impacts at all stages (pre: β = 0.239, during: β = 0.183, 
+post: β = 0.239; all p < 0.001). This suggests that visible natural features 
+continually enhance urban living quality and outdoor physical activity 
+engagement. 
+4.4. Seasonal ARIMA model 
+We examined the impact of seasonal variations on the volume of out­
+door activities and forecasted future activity levels using a SARIMAX 
+Table 2 
+Regression result with spatial effect. 
+Model 1 
+Model 2 
+Beta 
+Sig. 
+Beta 
+Sig. 
+Socioeconomic background 
+Property value 
+0.239 
+0.000*** 
+0.001 
+0.000*** 
+Construction time 
+−0.155 
+0.000*** 
+−0.014 
+0.000*** 
+Population density 
+−0.053 
+0.000*** 
+0 
+0.216 
+Macro-level built environment 
+Building-density 
+−0.047 
+0.001*** 
+−0.001 
+0.000*** 
+Land use mix 
+0.067 
+0.000*** 
+0.03 
+0.000*** 
+Intersection 
+−0.098 
+0.000*** 
+−0.004 
+0.000*** 
+Slope 
+0.065 
+0.000*** 
+0.158 
+0.000*** 
+Destination 
+0.091 
+0.000*** 
+0.047 
+0.000*** 
+Pedestrian num. 
+0.039 
+0.006*** 
+0.004 
+0.000*** 
+Ca
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

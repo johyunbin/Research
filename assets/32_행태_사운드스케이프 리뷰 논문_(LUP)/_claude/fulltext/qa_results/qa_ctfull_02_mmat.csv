@@ -1,0 +1,4 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+335,mixed methods,Y,Y,Y,Y,Y,Y,N,4,high,"전문 확보로 6.2-7절의 통합 해석과 P5 불일치 처리가 확인되어 5.3·5.4가 CT에서 Y로 전환. 인터뷰 코딩·분석 절차 전무와 Friedman에 F통계량·Tukey 사후검정·t(2,16) 표기 오류로 5.5만 N"
+356,quantitative descriptive,Y,Y,Y,N,N,CT,N,1,low,"Discussion의 Park 평균거리 1.65-3.37이 Table 4의 7.68-15.22와 직접 모순. 참가자 10명이 각 4-6개면 76속성 산출 불가. 자택 PC 재생인데 '보정된 재생'이라 주장하고 상관계수·유의성 검정은 부재"
+220,quantitative descriptive,Y,Y,Y,N,N,CT,N,1,low,"지적된 Table 9 불일치 확인됨 — Building 경로 95%CI[-0.035,0.005]가 0을 포함하는데 p=0.015 유의로 보고. 40지점 공간지표를 471명 독립관측으로 처리, Table 7 Run은 R2=0.108인데 F=2.128, 악취 문항 역코딩 없음"

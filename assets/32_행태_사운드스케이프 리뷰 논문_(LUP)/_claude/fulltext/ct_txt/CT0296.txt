@@ -1,0 +1,827 @@
+J. Eng. Technol. Sci., Vol. 54, No. 1, 2022, 220107 
+ 
+Received October 2nd, 2020, Revised May 19th, 2021, Accepted for publication July 7th, 2021. 
+Copyright ©2022 Published by ITB Institute for Research and Community Services, ISSN: 2337-5779, 
+DOI: 10.5614/j.eng.technol.sci.2022.54.1.7 
+ 
+The Implementation of Soundscape Composition to 
+Identify the Ideal Soundscape for Various Activities 
+Joko Sarwono*, Anugrah Sabdono Sudarsono, Andini Hapsari, Helga Salim & 
+Ranti Dwi Tassia 
+Engineering Physics Department, Faculty of Industrial Technology, 
+Institut Teknologi Bandung, Jalan Ganesa 10, Bandung 40132, Indonesia 
+*E-mail: jsarwono@tf.itb.ac.id 
+ 
+ 
+Highlights: 
+ 
+The concept of soundscape composition using an acoustic environment simulator was 
+implemented to identify the ideal acoustic environment and perception for doing four 
+different activities. 
+ 
+Individual activities were expected to be done in a relaxing, simple, and private 
+environment, while social activities were expected to be done in a less relaxing, varied, 
+and communal situation. 
+ 
+Individual activities were expected to be done in an environment dominated by natural 
+sounds and slow music, while social activities were expected to be done in an 
+environment dominated by sounds of human activity. 
+ 
+Each activity was expected to have different sound sources. 
+ 
+Abstract. Soundscapes are affected by several factors and one of them is the 
+activities done in the space concerned. People expect different acoustic 
+environments for different activities, but there is no specific guidance for 
+designing an ideal acoustic environment for different activities. This study aimed 
+to identify ideal urban acoustic environments for four different activities: reading, 
+relaxing, talking with friends, and playing with children. The ideal acoustic 
+environment was evaluated using the soundscape composition concept. The 
+concept was implemented by an acoustic environment simulator that enabled the 
+respondents to compose their ideal acoustic environment and identify the 
+perception of their composition. The sound source selection and perception rating 
+were analyzed to understand the ideal acoustic environment and perception for 
+different activities. This study identified the ideal soundscapes for four different 
+activities and the perception expected to be present in the ideal environments for 
+those activities. The result can be beneficial as guidance for urban soundscape 
+design. 
+ 
+Keywords: acoustic environment simulator; activities; sound source; soundscape; 
+soundscape composition. 
+
+ 
+Joko Sarwono, et al. 
+ 
+90 
+1 
+Introduction 
+Many studies have shown that there is a relationship between soundscape and 
+activities. Understanding this relationship is one of the priorities of soundscape 
+studies [1]. The study conducted by Jennings & Cain showed that the engagement 
+with the soundscape in urban areas is affected by the activity done [2]. Bild, et al. 
+state that people evaluate the acoustic environment differently according to the 
+expected activities in that area [3]. Another study investigated a soundscape 
+intervention using classical music and found that people stayed to enjoy an urban 
+area longer with music playing [4]. A survey by Chiesura [5] using interviews 
+revealed that an urban space dominated by natural sounds is suitable for relaxing 
+activities. The study conducted by Guastavino, et al. [6] showed that the sound 
+of human activities is ideal for urban soundscapes for social activities. These 
+previous studies have shown that, in general, there is an interaction between 
+soundscape and activities. However, the interaction between specific activities 
+and soundscapes has not been identified yet. Therefore, it cannot be used as a 
+guide to design an acoustic environment. Detailed identification was not done 
+mainly because of the methods used in the previous studies. 
+These studies were usually conducted by representing the soundscape in situ [7] 
+or in a laboratory using recordings [8]. The participants were asked about their 
+opinion and the rating of the stimulus. Such methods cannot provide detailed 
+information because the acoustic environment cannot be modified, resulting in a 
+limited stimulus. Furthermore, the data from these kinds of experiments only 
+provide a list of activities done in those acoustic environments, which is 
+insufficient as design guidance. Another approach uses artificial stimuli that are 
+composed using several different sound sources [9]. This method is able to 
+quantify the specific relation between several different sound sources and the 
+perception of an acoustic environment. However, in this case, the sound source 
+combinations were limited due to the limited time of the experiment. The 
+relationship was only based on the sound sources used in the experiment. A 
+different approach is based on people’s memory. This is done using an interview 
+protocol [10]. Although this method can be used to access many acoustic 
+environments, the information is still too general. It cannot be used as specific 
+design guidance. 
+Using the composition concept may help identify the relationship between 
+specific activities and a soundscape. Soundscape composition is a method that 
+allows participants to compose a particular soundscape according to their 
+expectations [11]. This method implements an acoustic environment simulator 
+developed to understand people’s expectations of sound sources in an acoustic 
+environment [12]. This simulator has been validated for soundscape studies [13]. 
+It has been utilized to understand the relationship between sound sources and 
+
+The Implementation of Soundscape Composition to Identify the 
+Ideal Soundscape of Various Activities 
+ 
+91 
+perception in urban areas [14]. The specific relationship between a soundscape 
+and different activities can be determined by requesting the participants to 
+compose their ideal acoustic environments for particular activities. The 
+relationship is focused on two aspects: the sound sources in the ideal acoustic 
+environment and the perception that emerges from this environment. The result 
+is beneficial as guidance for acoustic environment design. 
+2 
+Experimental Method 
+An experiment was conducted using an acoustic environment simulator in an 
+acoustically treated room. The room meet to 27 noise criteria and had a 
+reverberation time of 0.23 s. In the experiment, the participants were asked to 
+compose four acoustic environments suitable for the following activities: 
+relaxation, reading a book, talking with each other, and playing with children (see 
+Figure 1). The activities were selected to represent different individual and social 
+activities in an urban area that have been used in a previous study [15]. The 
+different activities were chosen to identify the various sound sources expected for 
+multiple activities. Previous research has shown that each acoustic environment 
+is unique and therefore different sound sources are expected [11]. After each 
+composition, the participants were asked to rate the composed soundscape on a 
+scale of relaxation, dynamic, and communication. The scale was selected based 
+on reliable dimensions in urban areas [8]. The perception was rated on an 11-
+point Likert scale (-5 to 5). The experiment lasted for approximately 30 minutes. 
+ 
+Figure 1 Steps of the experiment. 
+Fifty-one participants voluntarily joined the experiment. All participants were 
+students of Institute Teknologi Bandung, with the majority coming from the 
+Department of Engineering Physics. Engineering students were selected because 
+a previous study conducted by Martokusumo, et al. [16] found that respondents 
+with a background other than design are more suitable to represent the general 
+population. The age of the participants varied from 18-25 years; 61% of the 
+participants were 21 years old. 53% of the participants were female and 47% were 
+male. The following data from the experiment were analyzed: the rating of 
+perception from semantic scale (‘relaxation,’ ‘dynamic,’ and ‘communication’) 
+of each composition, and the selection of sound sources from each composition. 
+In total, 204 acoustic environment compositions were analyzed. The method used 
+Familiarizarion 
+of the simulator
+Acoustic 
+environmen 
+compositiont for 
+relaxation
+Semantic Scales 
+Rating
+Acoustic 
+environment 
+composition for 
+reading a book
+Semantic Scales 
+Rating
+Acoustic 
+environment 
+composition for 
+talking with 
+friends
+Semantic Scales 
+Rating
+Acoustic 
+environment 
+composition for 
+playing with 
+children
+Semantic Scales 
+Rating
+
+ 
+Joko Sarwono, et al. 
+ 
+92 
+in this study was similar to that used in previous studies conducted to identify the 
+relationship between sound sources and perception [13] and to identify the 
+improvement of urban areas [17]. 
+3 
+Acoustics Environment Simulator 
+An acoustic environment simulator is a system that allows people to compose an 
+acoustic environment in real time using the concept of ambisonic reproduction. 
+The acoustic environment simulator was developed based on a previous acoustic 
+environment simulator [13]; the simulator used in this experiment was adjusted 
+to fit the context of Indonesia. The adjustment was made by selecting sound 
+sources that exist in urban areas in Indonesia. The sound sources were recorded 
+in various urban parks in Bandung (Indonesia) using a Rode NTG1 shotgun 
+microphone and a Zoom H6 recorder. The shotgun microphone was used to 
+minimize the surrounding noise. The sound sources used in the simulator are 
+shown in Table 1. 
+Table 1 List of sound sources used in the acoustic environment simulator. 
+Sound Source 
+Rain 
+Water 
+fountain
+Adhan 
+People playing 
+basketball
+Horn 
+Birds 
+chirping 
+Talking 
+Children playing 
+Fast music 
+Train 
+Cricket 
+Footsteps 
+Street performer 
+Slow music 
+Airplane 
+Wind 
+Sweeping 
+People playing 
+tennis 
+Sundanese music 
+Construction 
+Water 
+stream 
+Whistle 
+People jogging 
+Traffic 
+Welding 
+The acoustic environment simulator consisted of three hardware devices: a 
+laptop, an audio interface (M-Audio Fast Track Ultra), and eight speakers (KRK 
+Rockit 5). The speakers were placed around the participant with a radius of 1.5 
+m, as shown in Figure 2. This configuration allows 360° sound reproduction. 
+ 
+Figure 2 Acoustic environment simulator set-up. 
+
+The Implementation of Soundscape Composition to Identify the 
+Ideal Soundscape of Various Activities 
+ 
+93 
+4 
+Result and Discussion 
+4.1 
+Relationship between Expected Perception Rating with 
+Activities 
+The relationship between expected semantic scale rating and type of activity was 
+analyzed using analysis of variance (ANOVA). There was a significant 
+relationship between the semantic scale rating ‘relaxation’ at p < 0.05 and the 
+four different activities [F (3,200) = 20.48, p = 0.00]. Post-hoc comparison using 
+a Tukey HSD test showed that the mean scores of the relaxation perception rating 
+for reading (M = 3.61, SD = 1.21) and relaxing (M = 4.10, SD = 1.14) were 
+significantly different from the scores for talking with friends (M = 1.88, SD = 
+2.31) and playing with children (M = 2.00, SD = 2.05). People who are engaged 
+in reading expect a similar level of relaxation as people who are engaged in 
+relaxing. People who are engaged in talking with friends expect the same level of 
+relaxation as people who are engaged in playing with children. 
+As shown in Figure 3, people’s activities need to be done in a comfortable space, 
+as indicated by the positive rating score. However, people expect a more 
+comfortable space for reading and relaxing compared to talking with friends and 
+playing with children. The result of this study is consistent with the study 
+conducted by Aletta, et al. [18] about urban vibrancy modeling. The pleasantness 
+rating for spaces intended for social activities (entertainment and commercial) 
+tended to be lower than for spaces for individual activities (green areas). The 
+previous study also showed that the pleasantness dimension resembled the term 
+non-disruptive. Hence, social activities tend to be associated with a lower 
+perception of relaxation, as mentioned in Sun, et al. [19] 
+ 
+Figure 3 Semantic score rating for the relaxation perception. 
+The ANOVA showed that the perception rating of dynamic had a similar trend as 
+the perception of relaxation. There was a significant relationship between the 
+-5.00
+-3.00
+-1.00
+1.00
+3.00
+5.00
+Reading
+Relaxing
+Talking with
+Friends
+Playing with
+Children
+Uncomfortable-
+Comfortable
+Activities
+
+ 
+Joko Sarwono, et al. 
+ 
+94 
+semantic scale rating ‘dynamic’ at p < 0.05 and the different activities [F (3,200) 
+= 23.89, p = 0.00]. Post-hoc comparison using the Tukey HSD test showed that 
+the mean scores of the dynamic perception ratings for reading (M = -2.29, SD = 
+2.59) and relaxing (M = -1.57, SD = 2.95) were significantly different from the 
+scores for talking with friends (M = 0.75, SD = 2.86) and playing with children 
+(M = 1.88, SD = 2.89). 
+The dynamic perception rating for reading was not significantly different from 
+that for relaxing. The dynamic perception rating for talking with friends was also 
+not significantly different from that for playing with children. People who are 
+engaged in individual activities (reading and relaxing) expect a simple 
+environment. People who are engaged in social activities (talking with friends 
+and playing with children) expect a varied environment, as shown in Figure 4. 
+ 
+Figure 4 Semantic score rating for the dynamic perception. 
+The ANOVA showed that the communication perception had a similar trend as 
+the relaxation and dynamic perceptions. There was a significant relationship 
+between the semantic scale rating ‘communication’ at p < 0.05 and the different 
+activities [F (3,200) = 73.02, p = 0.00]. Post-hoc comparison using the Tukey 
+HSD test showed that the mean scores of the communication perception ratings 
+for reading (M = -3.14, SD = 2.14) and relaxing (M = -1.86, SD = 3.05) were 
+significantly different from those for talking with friends (M = 1.96, SD = 2.43) 
+and playing with children (M = 3.12, SD = 2.17). 
+The communication perception rating for reading was not significantly different 
+from that for relaxing. The communication perception rating for talking with 
+friends was also not significantly different from that for playing with children. 
+People who are engaged in individual activities (reading and relaxing) expect a 
+private environment. People who are engaged in social activities (talking with 
+friends and playing with children) expect a communal environment, as shown in 
+Figure 5. 
+-4.00
+-2.00
+0.00
+2.00
+4.00
+Reading
+Relaxing
+Talking with
+Friends
+Playing with
+Children
+Simple-Varied
+Activities
+
+The Implementation of Soundscape Composition to Identify the 
+Ideal Soundscape of Various Activities 
+ 
+95 
+ 
+Figure 5 Semantic score rating for the perception of communication. 
+The expected perception in urban soundscapes is affected by the activity done in 
+the space. Individual activities require a comfortable, simple, and private space. 
+In contrast, social activities require a comfortable, dynamic, and communal 
+space. Also, individual activities require a more comfortable acoustic 
+environment compared to social activities. 
+4.2 
+Sound Source Selection of Acoustic Environment 
+Composition Based on Activities 
+The expected acoustic environment for different activities was analyzed based on 
+the sound sources selected in the acoustic environment. By understanding the 
+sound source selection, the relationships between specific sound sources and the 
+different activities could be determined. 
+The analysis was conducted using the chi-square test to understand the difference 
+in sound source expectations related to the four different activities. The chi-
+square test of independence was calculated by comparing the frequencies of the 
+sound sources selected for the four different activities. Several sound sources had 
+a significant relationship with specific activities, as shown in Table 2. 
+Table 2 Chi-squared test of independence test result. 
+Sound source 
+df 
+N 
+χ2 
+p 
+Sound source 
+df 
+N 
+χ2 
+P 
+Rain 
+3 
+204 
+23.10 
+0.00 
+Street performer 
+3 
+204 
+21.75 
+0.00 
+Birds chirping 
+3 
+204 
+14.10 
+0.00 
+People playing tennis 
+3 
+204 
+16.43 
+0.00 
+Water stream 
+3 
+204 
+11.47 
+0.01 
+People jogging 
+3 
+204 
+22.67 
+0.00 
+People talking 
+3 
+204 
+57.98 
+0.00 
+People playing 
+basketball
+3 
+204 
+21.32 
+0.00 
+Footsteps 
+3 
+204 
+22.47 
+0.00 
+Traffic 
+3 
+204 
+26.71 
+0.01 
+People 
+sweeping 
+3 
+204 
+10.74 
+0.01 
+Slow music 
+3 
+204 
+25.29 
+0.00 
+Adhan 
+3 
+204 
+18.55 
+0.00 
+ 
+ 
+ 
+ 
+ 
+-6.00
+-4.00
+-2.00
+0.00
+2.00
+4.00
+6.00
+Reading
+Relaxing
+Talking with
+Friends
+Playing with
+Children
+Private-Communal
+Activities
+
+ 
+Joko Sarwono, et al. 
+ 
+96 
+The sound source selections that had a significant relationship with specific 
+activities are shown in Figure 6. Generally speaking, the sound source selections 
+varied for different acoustic environment compositions. The sound of birds 
+chirping was selected in acoustic environment compositions for reading, relaxing, 
+and playing with children. The sound of children playing was chosen for social 
+activities, especially playing with children. Slow music seemed suitable for three 
+activities (reading, relaxing, and talking with friends), except for playing with 
+children. Two sound sources (adhan and street performer) were selected for only 
+one specific activity (adhan for relaxing and street performer for talking with 
+friends). It appears that each of the four different activities needs particular sound 
+sources. This finding is consistent with the result from Jia, et al. [20], who showed 
+that the dominant characteristic of a place is determined by a combination of 
+certain sounds rather than a dominant sound. 
+ 
+Figure 6 Selected sound sources in the acoustic environment compositions for 
+different activities. 
+The sound source selections in the acoustic environment compositions for the 
+activity of reading are shown in Figure 7. According to the acoustic environment 
+composition data, reading requires natural sounds, such as the sound of a water 
+stream, wind, and birds chirping. Interestingly, one of the most selected sound 
+sources in the compositions was slow music. 
+This result is similar to that from a previous study, which found that natural 
+sounds and music-related sounds have a positive effect on the modern landscape 
+[21]. Further discussion with respondents who selected music as a sound source 
+indicated that hearing music reminds them of a situation in a café/coffee shop. 
+Many of the respondents in this experiment were youngsters who often spent time 
+in coffee shops, where the main activities they engage in are reading and studying. 
+0
+10
+20
+30
+40
+50
+60
+number of participants
+sound sources
+reading
+relaxing
+talking with friends
+playing with children
+
+The Implementation of Soundscape Composition to Identify the 
+Ideal Soundscape of Various Activities 
+ 
+97 
+ 
+Figure 7 Selected sound sources in the acoustic environment compositions for 
+reading (the blue bars represent music, the green bars represent natural sound 
+sources, the yellow bars represent human activities, and the red bars represent 
+mechanical sound sources). 
+People prefer to engage in relaxing activities in a place where they can enjoy 
+natural sounds, as can be seen in Figure 8. Mechanical sound sources are not 
+preferred for relaxing activities. Some sound sources from people’s activities are 
+also not preferred in spaces for relaxing activities. 
+ 
+Figure 8 Selected sound sources in the acoustic environment compositions for 
+relaxing (the blue bars represent music, the green bars represent natural sound 
+sources, the yellow bars represent human activities, and the red bars represent 
+mechanical sound sources). 
+A previous study conducted by Jia, et al. [20] showed that communal sounds 
+related to talking, laughter, and other sounds from human activities are related to 
+5
+7
+8
+10
+11
+14
+20
+23
+24
+24
+0
+5
+10
+15
+20
+25
+30
+Traffic
+People sweeping
+Water fountain
+People talking
+Footsteps
+Rain
+Birds chirping
+Wind
+Water stream
+Slow music
+Number of participants
+Sound Sources
+7
+7
+8
+8
+10
+12
+16
+22
+26
+27
+0
+5
+10
+15
+20
+25
+30
+People talking
+Footsteps
+Cricket
+Sundanese music
+Rain
+Slow music
+Water fountain
+Wind
+Birds chirping
+Water stream
+Number of participants
+Sound Sources
+
+ 
+Joko Sarwono, et al. 
+ 
+98 
+social activities. The sound of children playing has a more significant relationship 
+with people not engaged in relaxing than the sound of people talking. The result 
+is similar to that for the activity of reading. In general, people prefer to do 
+individual activities, such as reading and relaxing, in a place without the sound 
+of people talking and children playing. 
+The activity of talking with friends needs to be done in an environment dominated 
+by human activities, such as the sound of people talking and footsteps, as shown 
+in Figure 9. This result indicates that people need the hubbub from the 
+environment to be comfortable when talking with friends. Another study [22] 
+showed that biophonic human-related sounds enhanced some land-based 
+recreation activities, such as activities with family, sightseeing, walking, and 
+talking. 
+An interesting result was shown by the selection of vehicle sounds in the ideal 
+acoustic environment for talking with friends. Further investigation was done 
+with participants who selected the sound of traffic. They felt that talking with 
+friends is generally done in a busy urban area, usually located near a road. The 
+sound of vehicles seems to represent the urban environment. This result is 
+consistent with the study conducted by Tassia, et al. [17]. Another study, by 
+Hong, et al. [23], showed that natural sounds, such as bird and water sounds, may 
+reduce the perceived loudness of traffic noise. Hence, the participants chose 
+natural sounds for the activity of talking with friends. 
+ 
+Figure 9 Selected sound sources in the acoustic environment compositions for 
+talking with friends (the blue bars represent music, the green bars represent natural 
+sound sources, the yellow bars represent human activities, and the red bars 
+represent mechanical sound sources). 
+8
+9
+11
+13
+14
+16
+16
+21
+26
+39
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Jogging
+People sweeping
+Bird chirping
+Water stream
+Children playing
+Wind
+Slow music
+Traffic
+Footsteps
+People talking
+Number of participants
+Sound Sources
+
+The Implementation of Soundscape Composition to Identify the 
+Ideal Soundscape of Various Activities 
+ 
+99 
+Natural sounds are likely not suitable for talking with friends because the 
+respondents expect a busy urban area where natural sound sources are limited. 
+Interesting results were found for the sound of children playing. It seems that the 
+sound of children can disturb the activity of talking with friends and therefore 
+tended to be avoided. 
+The selected sound sources for the ideal acoustic environment for playing with 
+children are shown in Figure 10. The most selected sound source was the sound 
+of children playing. It seems that the most suitable place to play with children is 
+a place with other children. The other most selected sound sources were those of 
+human activities (especially the sound of people talking and the sound of 
+footsteps) and natural sounds (birds chirping and wind blowing). 
+ 
+Figure 10 Selected sound sources in the acoustic environment compositions for 
+playing with children (the blue bars represent music, the green bars represent 
+natural sound sources, the yellow bars represent human activities, and the red bars 
+represent mechanical sound sources). 
+The participants felt that a suitable space to play with children is where there are 
+other children. The sound of children was selected by most of the participants (48 
+from 50 participants), which confirms the need for the presence of other children 
+for this kind of activity. 
+In conclusion, different activities need to be done in environments with different 
+acoustic characteristics. For example, people expect the sound of slow music for 
+reading and the sound of children for playing with children. The perception 
+expected for different activities may be similar, but the sound source expected is 
+different for different activities. 
+13
+14
+14
+15
+17
+23
+24
+28
+30
+48
+0
+10
+20
+30
+40
+50
+60
+Traffic
+People jogging
+People playing basketball
+Flowing water
+People Sweeping
+Footsteps
+Wind
+Bird chirping
+People talking
+Children playing
+Number of participants
+Sound Sources
+
+ 
+Joko Sarwono, et al. 
+ 
+100 
+5 
+Conclusion 
+The expected acoustic environment for different activities was analyzed using the 
+soundscape composition approach. The experiment was implemented using an 
+acoustic environment simulator. The expected perception, in terms of the 
+semantic scores relaxation, dynamic, and communication, have a significant 
+relationship with the activities done in urban spaces. Individual activities are 
+expected to be done in a relaxed, simple, and private environment. In contrast, 
+social activities are expected to be done in a less relaxed, more varied and 
+communal environment. Individual activities are expected to be done in an 
+environment dominated by natural sounds and slow music. In contrast, social 
+activities are expected to be done in an environment dominated by sounds of 
+human activities. Although, in general, the activities can be divided into 
+individual and social activities, for each of the activities different sound sources 
+are expected. 
+Nomenclature 
+df 
+=
+degree of freedom 
+p 
+=
+p-value 
+F 
+=
+F-value 
+M 
+=
+mean 
+SD
+=
+standard deviation 
+
+=
+number of samples 
+χ2
+=
+chi-square 
+Acknowledgement 
+This research was funded by Institute Teknologi Bandung under the scheme of 
+Program Penelitian, Pengabdian kepada Masyarakat dan Inovasi (P3MI). 
+References 
+[1] 
+Aletta, F. & Xiao, J., What are the Current Priorities and Challenges for 
+(Urban) Soundscape Research Challenges, 9(1), 16, 2018. 
+[2] 
+Jennings, P. & Cain, R., A Framework for Improving Urban Soundscapes, 
+Appl. Acoust., 74(2), pp. 293-299, 2013. 
+[3] 
+Bild, E., Pfeffer, K., Coler, M., Rubin, O. & Bertolini, L., Public Space 
+Users’ Soundscape Evaluations in Relation to Their Activities. An 
+Amsterdam-Based Study, Front Psychol, 9, 1593, 2018. 
+[4] 
+Aletta, F., Lepore, F., Kostara-Konstantinou, E., Kang, J. & Astolfi, A., An 
+Experimental Study on the Influence of Soundscapes on People’s 
+Behaviour in an Open Public Space, Appl. Sci., 6(10), 276, 2016. DOI: 
+10.3390/app6100276. 
+
+The Implementation of Soundscape Composition to Identify the 
+Ideal Soundscape of Various Activities 
+ 
+101 
+[5] 
+Chiesura, A., The Role of Urban Parks for the Sustainable City, Landsc. 
+Urban Plan, 68, pp. 129-138, 2004. 
+[6] 
+Guastavino, C., The Ideal Urban Soundscape: Investigating the Sound 
+Quality of French Cities, Acta Acustica united with Acustica, 92(6), pp. 
+945-951, 2006. 
+[7] 
+Mediastika, C.E., Sudarsono, A.S., Kristanto, L., Tanuwidjaja, G., 
+Sunaryo, R.G. & Damayanti, R., Appraising the Sonic Environment of 
+Urban Parks Using the Soundscape Dimension of Visually Impaired 
+People, Int. J. Urban Sci., 24(2), pp. 216-241, 2020. DOI: 
+10.1080/12265934.2020.1713863. 
+[8] 
+Sudarsono, A.S., Lam, Y.W. & Davies, W.J., The Effect of Sound Level on 
+Perception of Reproduced Soundscapes, Appl Acoust, 110, pp. 53-60, 
+2016. DOI: 10.1016/j.apacoust.2016.03.011. 
+[9] 
+Sudarsono, A.S., Nitidara, N.P.A. & Sarwono, J., The Relationship 
+Between Sound Source And Urban Soundscape, J. Phys. Conf. Ser., 1075, 
+(1), 012033, 2018. 
+[10] Engel, M.S., Fiebig, A., Pfaffenbach, C. & Fels, J., A Review of Socio-
+acoustic Surveys for Soundscape Studies, Current Pollution Reports, 4(3), 
+pp. 220-239, 2018. 
+[11] Sudarsono, A.S., Sarwono, S.J. & Tassia, R.D., Understanding Urban 
+Soundscape through Soundscape Composition, INTER-NOISE and 
+NOISE-CON Congress and Conference Proceedings, InterNoise20, Seoul, 
+Korea, pp. 3301-3308, 2020. 
+[12] Laso, C.V., Asensio, C. & Pavón, I., Design and Validation of a Simulator 
+Tool Useful for Designers and Policy Makers in Urban Sound Planning, 
+Acoust. Aust., 45, pp. 515-527, 2017. 
+[13] Sudarsono, A.S., Lam, Y.W. & Davies, W.J., The Validation of 
+Soundscape Environment Simulator to Determine the Relationship 
+between Sound Objects and the Perception of Soundscape, Acta Acustica 
+united with Acustica, 103(4), pp. 657-667, 2017. 
+[14] Sudarsono, A.S., Lam, Y.W. & Davies, W.J., Soundscape Simulator as a 
+Tool to Predict the Perception of Acoustic Environment, Inter Noise, pp. 
+5997-6210, 2017. 
+[15] Hapsari, A., Salim, H., Sudarsono, A.S. & Sarwono, S.J., The Relationship 
+between Activities and Human Perception in Urban Area, in 23rd 
+International Congress on Acoustics, pp. 2515-2520, 2019. 
+[16] Martokusumo, W., Poerbo, H.W., Sarwono, J., Sudarsono, A.S. & Putu, 
+N., Soundscape and the Understanding of Historic Districts in Bandung, 
+Tataloka, 21(2), pp. 371-380, 2019. 
+[17] Tassia, R.D., Sudarsono, A.S. & Sarwono, J., The Implementation of 
+Acoustic Environment Simulator to Improve the Soundscape of Iconic 
+Space, in Proceedings of the 23rd International Congress on Acoustics: 
+
+ 
+Joko Sarwono, et al. 
+ 
+102 
+integrating 4th EAA Euroregio 2019, 9-13 September 2019 in Aachen, 
+Germany, pp. 6129-6134, 2019. 
+[18] Aletta, F. & Kang, J., Towards an Urban Vibrancy Model: A Soundscape 
+Approach, Int J Environ Res Public Health, 15(8), 1712, 2018. 
+[19] Sun, K., Coensel, B.D., Filipan, K., Aletta, F., Renterghem, T.V., 
+Pessemier, T.D., Joseph, W. & Botteldooren, D., Classification of 
+Soundscapes of Urban Public Open Spaces, J. Landscape Urban Plann., 
+189, pp. 139-155, 2019. DOI: 10.1016/j.landurbplan.2019.04.016. 
+[20] Jia, Y., Ma, H. & Kang, J., Characteristics and Evaluation of urban 
+Soundscapes Worthy of Preservation, J. of Environmental Management, 
+253, 109722, 2020. DOI: 10.1016/j.jenvman.2019.109722. 
+[21] Liu, J., Yang, L., Xiong, Y. & Yang, Y., Effects of Soundscape Perception 
+on Visiting Experience in a Renovated Historical Block, Building and 
+Environment, 165, 106375, 2019. DOI: 10.1016/j.buildenv.2019.106375. 
+[22] Li, J., Burroughs, K., Halim, M.F., Penbrooke, T.L, Seekamp, E. & Smith, 
+J.W. Assessing Soundscape Preferences and the Impact of Specific Sounds 
+on Outdoor Recreation Activities Using Qualitative Data Analysis and 
+Immersive Virtual Environment Technology, J of Outdoor Recreation and 
+Tourism, 24, pp. 66-73, 2018. DOI: 10.1016/j.jort.2018.08.001. 
+[23] Hong, J.Y., Ong, Z.T., Lam, B., Ooi, K., Gan, W.S., Kang, J. & Tan, S.T., 
+Effects of Adding Natural Sounds to Urban Noises on the Perceived 
+Loudness of Noise Soundscape Quality, Sci. Total Environ., 711, 134571, 
+2020. DOI: 10.1016/j.scitotenv.2019.134571.

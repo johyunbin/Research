@@ -1,0 +1,930 @@
+Original article
+Exploring the negative perceptions of tree-based urban green space. 
+People’s behaviour and management are crucial
+Silvija Krajter Ostoi´c *, Dijana Vuleti´c , Martina Kiˇci´c
+Croatian Forest Research Institute, Cvjetno naselje 41, Jastrebarsko 10450, Croatia
+A R T I C L E I N F O
+Keywords:
+Tree-based urban green space
+Focus groups
+Mixed-method
+Inductive thematic analysis
+MAXQDA
+Socio-ecological systems
+A B S T R A C T
+Studies dealing with services and benefits of urban green space are overrepresented compared to those 
+addressing disservices, perceived constraints and other negative perceptions. Even when focusing on disservices 
+and perceived constraints, the studies often take into account only a limited number of reasons for the negative 
+perception. In this study we conducted a series of focus group interviews with the members of the public in the 
+city of Zagreb (Croatia) with the goal of grasping the variety of reasons for negative perception, providing 
+classification of those perceptions and exploring whether and how the perception is related to sociodemographic 
+characteristics. Participants mostly discussed negative perceptions due to the behaviour of other users and 
+perceived inadequate management of urban green space, while the least about the perception of safety. Tree 
+disservices accounted only for a small portion of overall reasons for the negative perception. Age, gender, 
+household income, employment status, number of preschool children and the length of living in Zagreb proved 
+statistically significant for the perception, while education was not. Focus groups as a method enabled cata­
+loguing the variety of reasons for negative perception. Understanding the range of reasons leading to the negative 
+public perception of urban green space contributes to better planning, management and meeting public needs 
+and expectations.
+1. Introduction
+The scientific literature has widely discussed the contribution of 
+ecosystem services and the benefits of urban green space (UGS) to 
+human well-being (Escobedo et al., 2019). However, there is a growing 
+number of publications focusing on ecosystem disservices (D¨ohren and 
+Haase, 2015). Indeed, the scientific literature recognises the need to 
+focus on both services and disservices of UGS to provide a balanced view 
+of the plurality of human-nature interactions (Baumeister et al., 2022; 
+Roman et al., 2020; D¨ohren and Haase, 2015; Lyytim¨aki et al., 2008). 
+This more balanced view is expected to improve the management and 
+planning of UGS (Baumeister et al., 2022; Roman et al., 2020). 
+Ecosystem disservices are defined as ecosystem „functions that are 
+perceived as negative for human well-being“ (Lyytim¨aki and Sipil¨a, 
+2009). The negative impacts on human well-being may be ecological (e. 
+g. emission of volatile organic compounds by trees), economic (e.g. 
+damage to infrastructure or property due to plant growth or tree failure), 
+health impacts (e.g. allergies caused by trees), psychological impacts (e. 
+g. negative feelings such as fear due to dense vegetation or discomfort 
+caused by animal excrements or plant litter) and other (D¨ohren and 
+Haase, 2015).
+Given the benefits, the use of UGS among residents should be pro­
+moted. However, people may perceive various reasons that may prevent 
+them from visiting UGS and engaging in outdoor recreation (Dawson 
+et al., 2023; Cohen et al., 2010). Hence, knowledge of how people 
+perceive UGS and how it affects their behaviour is pertinent. In the 
+scientific literature those perceived reasons are embodied in the concept 
+of perceived constraints (Ghimire et al., 2014). They may be structural 
+(e.g. no time, money, poor maintenance of recreational areas), intra­
+personal (e.g. personal safety problems, personal health issues) and 
+interpersonal (e.g. no companion) (Crawford et al., 1991).
+Typologies of ecosystem disservices focus mainly on negativities 
+emanating from the ecosystem itself, while many other nuances, spe­
+cifically those caused by social factors, such as evidence of vandalism or 
+littering, are excluded (Baumeister et al., 2022). However, social factors 
+may be even more pertinent (Dawson et al., 2023). In general, disser­
+vices and costs associated with UGS has received less attention in 
+research papers than the services and benefits (Shackleton et al., 2016; 
+* Corresponding author.
+E-mail address: silvijak@sumins.hr (S. Krajter Ostoi´c). 
+Contents lists available at ScienceDirect
+Urban Forestry & Urban Greening
+journal homepage: www.elsevier.com/locate/ufug
+https://doi.org/10.1016/j.ufug.2024.128539
+Received 14 February 2024; Received in revised form 30 August 2024; Accepted 6 October 2024 
+Urban Forestry & Urban Greening 101 (2024) 128539 
+Available online 11 October 2024 
+1618-8667/© 2024 Elsevier GmbH. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Roy et al., 2012). Many scientific studies addressing negative percep­
+tions of UGS consider limited number of reasons for negative perception 
+and usually use quantitative approach, while to the best of our knowl­
+edge, a comprehensive study of a wide variety of reasons why the public 
+perceive UGS negatively is still missing.
+Research proves that perception in general (including negative 
+perception) depends on individual, social and environmental factors 
+(Tveit et al., 2019). Urban planning should secure urban residents’ ac­
+cess to UGS, as well as UGS quantity and quality because these attributes 
+have the most influence on residents’ health benefits (Dipeolu et al., 
+2021). The absence of these requirements for UGS could elicit negative 
+perceptions.
+Even though trees are often considered attractive and a source of 
+various cultural ecosystem services (Kloster et al., 2021; Krajter Ostoi´c 
+et al., 2020), they can also be perceived negatively as a source of dis­
+services due to tree species, size or location (Shackleton et al., 2016; Roy 
+et al., 2012). Trees are also seen as nature-based solutions, especially in 
+urban areas (Kong et al., 2021). Hence, knowing how people perceive 
+trees benefits our understanding of human-nature interactions.
+The management and maintenance of UGS may also be a source of 
+positive and negative perceptions and is often seen through prism of 
+perceived safety (Nassauer et al., 2021; Judice et al., 2021). People find 
+the perception of safety in UGS one of its most important attributes 
+(Stessens et al., 2020).
+The behaviour of other UGS users may be a source of frustration and 
+negative perception. The studies show that evidence of vandalism, lit­
+tering and other incivilities, especially those related to dog fouling, are 
+often perceived negatively by the public and other greenspace users 
+(Dawson et al., 2023; Palliwoda and Priess, 2021; Krajter Ostoi´c et al., 
+2017; Richardson and Shackleton, 2014).
+Numerous studies have shown the relationship between perception 
+of and attitude towards UGS and sociodemographic factors (Moffat 
+et al., 2024; Dade et al., 2020; Lo and Jim, 2012). However, some studies 
+find only a limited influence of sociodemographic variables on percep­
+tion (Krajter Ostoi´c et al., 2017). Among those variables, gender, age, 
+and education prove to be pertinent.
+Given the lack of comprehensive studies focusing on various sources 
+of negative perception of UGS and the effect of individual factors on 
+human perception, the goal of the paper is to a) explore negative per­
+ceptions of tree-based UGS based on a city-wide participatory approach, 
+b) provide classification of these negative perceptions, and to c) explore 
+relations between negative perception and sociodemographic variables.
+2. Methodology
+2.1. A study area
+The study was conducted in Zagreb, the capital of the Republic of 
+Croatia and geographically located in Southeast Europe. According to 
+the latest census data from 2021, the population is close to 800,000. It is 
+a very green city and was recently pronounced as the second greenest 
+European capital based on the amount of green infrastructure and urban 
+tree cover (EEA, 2022). However, the distribution and quality of UGS 
+varies (Krajter Ostoi´c et al., 2017; Kalasek and Schneider, 2021). There 
+is a scarcity of previous studies addressing public perception of UGS in 
+Zagreb, including the negative perception. There is only one study on 
+the city level that showed the public is mostly concerned with 
+vandalism, behaviour of dog owners and other users, or lack of equip­
+ment and mobility infrastructure, while being less concerned with UGS 
+size, connectivity, noise, tree species or access (Krajter Ostoi´c et al., 
+2017). The same study showed that while the public perceives Zagreb as 
+a green city, at the same time, they perceive the amount of the green­
+space is decreasing. The results show that the public supports education 
+and raising awareness about UGS benefits and proper behaviour of users 
+from an early age, as well as better rule enforcement and fining those 
+who continue with incivilities. Another study on urban forest and green 
+space governance in Zagreb showed that public participation is one of 
+the 
+weakest 
+elements, 
+especially 
+from 
+the 
+perspective 
+of 
+non-governmental actors, and should be strengthened (Krajter Ostoi´c, 
+2013). In Zagreb, collaborative UGS design involving citizens is not a 
+norm. In that sense, parks can be designed completely without the input 
+of local community. However, requirements of EU funded projects have 
+been a major driver of the implementation of co-designing approaches 
+(Roitsch et al., 2024).
+2.2. Focus group method
+The focus group interviews were part of the larger research project 
+on participatory mapping of cultural ecosystem services and disservices 
+of UGS (Krajter Ostoi´c et al., 2020). They were the method of choice 
+because they help collect in-depth information on how people talk about 
+the phenomenon of interest, what they find important, and most 
+importantly, why (Skoko and Benkovi´c, 2009). Hence, this qualitative 
+approach has an advantage over a quantitative survey. However, focus 
+groups provide a sound basis for the application of such surveys in 
+future, especially in the context of the scarcity of previous research on 
+the perception of UGS in the study area (Krajter Ostoi´c et al., 2020). The 
+purpose of the focus groups was to collect a diversity of responses that 
+would serve as an input in the quantitative survey at a later stage.
+The focus group protocol covered questions related to several cul­
+tural ecosystem services of tree-based UGS, such as forests, parks, forest 
+parks, street trees etc. Additionally, one of the questions was about tree- 
+based UGS they perceive negatively and why. However, in this paper we 
+will focus only on the reasons for the negative perception of UGS. Par­
+ticipants were invited not only to name UGS they perceive negatively 
+but also to explain why and point to those on the map of their city 
+district. One of the assistants helped participants find those UGS on the 
+map and mark the locations with self-adhesive dots. If participants were 
+unaware of the name of UGS or the exact location, researchers invited 
+them to provide as detailed a description of the location as possible. The 
+research team later added those locations to the map.
+At the end of each focus group discussion, each participant answered 
+a short sociodemographic questionnaire. We collected information on 
+age, gender, employment, household income, educational attainment, 
+type of housing (living in a house or an apartment building), growing up 
+(urban or rural), number of preschool children in their household, and 
+the length of living in Zagreb and their respective city districts.
+The principal researcher and two doctoral students moderated focus 
+groups. They took turns as lead moderators (the ones who asked ques­
+tions and moderated discussion), while others acted as assistants, 
+helping respondents with the mapping exercises and ensuring voice 
+recorders were working correctly. Interviews took place in the evenings 
+(usually at 18:00 h local time) either at the premises of the local self- 
+government or public libraries that were easily accessible to 
+participants.
+The main requirements for participants were that they were adults 
+and living in the city district where the focus group took place. The goal 
+was to conduct focus groups in each city district because we wanted to 
+tap into local knowledge on locally relevant UGS and potential issues 
+related to these. We assumed that people would be more knowledgeable 
+of UGS in their city district. Additionally, we wanted to avoid them 
+talking only about the well-known and most visited UGS in the city of 
+Zagreb.
+We used various communication channels to invite focus group 
+participants, such as flyers in public places, invitations on the project 
+website, Facebook page, local TV and radio, or personal contacts (asking 
+family, friends and acquaintances to spread the word). Local community 
+board members were kindly asked to spread the word to their constit­
+uencies. Initially, the idea was for potential participants to contact re­
+searchers and announce their presence at the focus group discussion so 
+that we do not exceed the manageable number of participants. However, 
+it did not work well because people appeared at their own will or 
+S. Krajter Ostoi´c et al. 
+Urban Forestry & Urban Greening 101 (2024) 128539 
+2 
+
+decided at the last minute to participate or not in the focus groups. 
+Hence, researchers could not control who would appear for the discus­
+sion. However, we never had a situation where too many people showed 
+up.
+At the beginning of each focus group, a moderator introduced the 
+research team, explained the purpose of the project, topics that would be 
+discussed, and informed participants about their rights and how data 
+would be analysed. Also, it was necessary to lay some ground rules for 
+discussion: each opinion is welcomed and valuable, participants should 
+respect the opinions of others, even those that are different from their 
+own, and only one person should speak at the time. Participants were 
+asked for informed consent and consent to use voice recorders. Partici­
+pants introduced themselves only with their first names. Each partici­
+pant was given a number and these numbers were connected with the 
+locations they mapped and the sociodemographic questionnaire. We 
+used these numbers in focus groups transcripts. Participants were 
+informed their responses will be reported only in anonymised form. 
+Only principal researcher and two PhD students had the access to 
+recorded data and transcripts.
+We conducted 20 focus groups with 94 participants covering all city 
+districts, meaning the average number of participants per focus group 
+was 4–5 (Table 1). We wanted to conduct focus groups in each city 
+district to give residents in all city districts an equal opportunity to have 
+their say, so we kept conducting them even when new focus groups did 
+not bring new information. The length of focus groups was between an 
+hour and two hours, with the vast majority lasting an hour or so. In 
+comparison to census data, women, highly educated, older persons and 
+retirees were overrepresented in the sample.
+2.3. Qualitative and quantitative data analyses
+All focus group interviews were conducted in Croatian, recorded, 
+and manually transcribed into Croatian to prevent the loss of subtle 
+meanings. Only excerpts from transcripts were translated into English 
+(Appendix B). We used MAXQDA 18.5.2 (VERBI Software, 2018), a 
+computer-assisted qualitative data analysis software. Sociodemographic 
+variables were also imported for each participant to explore their 
+connection with perceptions.
+We used inductive thematic analysis, meaning a bottom-up approach 
+to coding (Kuckartz and R¨adiker, 2019). In the first round of coding, we 
+were led by the discussion topics. For instance, participants were asked 
+about UGS they perceived negatively and why. We looked up and coded 
+in the transcripts all the instances when participants discussed the 
+negative perceptions of UGS. In the second round of coding, individual 
+codes were grouped under themes. For instance, all codes that addressed 
+weak or absent management of UGS were grouped under the theme 
+‘weak or absent management of UGS’. Similar themes were grouped 
+under umbrella categories in the third round. The ‘weak or absent 
+management of UGS’ theme was attributed to the ‘management of UGS’ 
+category.
+For the analyses of the connection between sociodemographic vari­
+ables and what people said about the negative perception of UGS, we 
+used the Crosstab for Focus Groups tool that allows various analyses. For 
+our purposes, we calculated distributions of coded segments according 
+to the categories of sociodemographic variables, namely the number of 
+coded segments, column percentages based on the sum of coded seg­
+ments and column percentages based on the number of participants.
+Later, we did statistical analyses to explore the relationship between 
+the participant’s sociodemographic characteristics and the negative 
+perception of UGS. For this purpose, we used contingency tables that 
+were calculated for each sociodemographic variable in MAXQDA based 
+on the number of coded segments for each category of the negative 
+perception. Pearson’s chi-squared test was performed for each contin­
+gency table with a level of significance alpha of 0.05. When the chi- 
+squared test indicated statistically significant differences in the distri­
+bution of the number of codes among categories, a chi-squared posthoc 
+analysis of standardised residuals with the Bonferroni correction was 
+used to explore and characterise the difference in more detail with the 
+level of significance alpha 0.05. We built new categories for some var­
+iables when the chi-square test indicated that the results might not be 
+correct due to some cells having too small a frequency. For instance, 
+education as a variable initially had three categories – elementary 
+school, high school and faculty. However, due to a small number of 
+respondents who had elementary school or less, we created a new 
+category that included both those with elementary school or less and 
+those with high school education. Similarly, for the variable employ­
+ment status, we added six unemployed respondents to those employed 
+due to their age and having in mind that age proved important for 
+perception in many previous studies. We used R software (v 4.1.2. “Bird 
+Hippie”) with RStudio for the statistical analyses. More specifically, we 
+used R stats and chisq.posthoc.test (Ebbert, 2019).
+3. Results
+3.1. The negative perceptions of UGS classified
+Based on the inductive thematic analysis, we created 634 coded 
+segments and identified five groups of negative perceptions of UGS. 
+These groups were negative perceptions due to the behaviour of other 
+people, negative perceptions due to urban planning, negative percep­
+tions due to UGS design, negative perceptions due to UGS management, 
+and negative perceptions due to feelings of unease or lack of safety 
+(Table 2). The typical excerpts from focus group transcripts depicting 
+the groups of negative perceptions are available in the Appendix B. Half 
+of the coded segments addressed negative perceptions that are result of 
+either how other behave or the management of UGS.
+3.1.1. The negative perception due to the behaviour of other users
+The negative perceptions of UGS due to the behaviour of other 
+people referred to misbehaviour of people who use and/or own the UGS 
+or crowding. The most pronounced themes were littering (the presence of 
+litter on UGS) and the behaviour of dog owners. The latter mainly 
+Table 1 
+Focus groups participants based on their sociodemographic characteristics 
+(N=94), HRK – Croatian kuna.
+Variable
+Categories
+Share of respondents 
+(%)
+Gender
+Female
+57.4
+Male
+42.6
+Age
+≤35
+11.7
+36 – 65
+61.7
+> 65
+26.6
+Education
+Elementary
+3.2
+High school
+30.8
+Higher
+66
+Employment
+Unemployed
+6.4
+Employed
+55.3
+Retired
+38.3
+Household income
+< 7.300 HRK
+29.7
+7.300–14.600 HRK
+48.4
+> 14.600 HRK
+21.9
+Housing
+Apartment building
+66
+Private house
+34
+Growing up
+In urban area
+77.7
+In rural area
+22.3
+Preschool children in a 
+household
+Yes
+13.8
+No
+86.2
+Duration of living in the City of 
+Zagreb
+≤average of 43 
+years
+45.7
+> average of 43 
+years
+54.3
+Duration of living in the city 
+district
+≤average of 33 
+years
+58.5
+> average of 33 
+years
+41.5
+S. Krajter Ostoi´c et al. 
+Urban Forestry & Urban Greening 101 (2024) 128539 
+3 
+
+referred to dog fouling and dog owners walking dogs without leashes or 
+dogs roaming around without owners present.
+Other reasons included crowding, parking cars on UGS, and unde­
+sired behaviours that pose a health hazard to people and pets (e.g. drug 
+addicts leaving used needles, people urinating or leaving dangerous 
+devices in public UGS, and even contamination of particular forest park 
+with unregulated sewer discharge by homeowners). The evidence of 
+sewer discharge was perceived as a constraint, especially by visitors with 
+kids or dogs.
+Some negative perceptions are related to private forests where visi­
+tors may perceive owners cutting the forest in an unsustainable manner 
+(more trees cut than it should have been, either by the owner or as a 
+result of wood theft), leaving tracks untidy after felling, which affected 
+visitors’ experiences of nature, or even building in the forest where it 
+was not allowed or fencing the forest to prevent visitors.
+Focus group participants also negatively perceived soil sealing by 
+private homeowners who decided to forgo their yards filled with 
+greenery and put concrete instead. Participants perceived this practice 
+as something that ultimately leads to the loss of green space in the 
+neighbourhood.
+3.1.2. The negative perception due to green space management
+The negative perceptions due to the management of UGS were 
+mainly related to the perceived Absence of or insufficient maintenance, the 
+interpretation of which varied. UGS was deemed insufficiently main­
+tained or not maintained at all when UGS was perceived as impassable 
+(due to the absence of trails, shrub coverage or wood debris on forest 
+trails after tree felling), when removed or old trees were not replaced, 
+young trees were not watered (enough), tree branches were scraping on 
+window panes, fallen trees were present in the forest, forest meadows 
+were overgrown by forest vegetation due to natural succession, the 
+lawns were not mowed often enough, tree pests, mosquitos, crows or 
+even rats were present, there was evidence of litter, and finally, when 
+wear and tear were present on the equipment.
+Besides this, too extensive management activities were also negatively 
+perceived, such as when trees were perceived as “pruned too much” or a 
+forest too thin because of the extensive felling.
+In a few instances, focus group participants discussed the uneven 
+management of UGS as displeasing for residents, making them feel like 
+“second-grade citizens”, as one participant put it. Uneven management 
+referred to the perception that UGS of the central neighbourhoods 
+received better care than those in more distant neighbourhoods.
+3.1.3. The negative perception due to green space design
+The primary source of negative perceptions due to UGS design was 
+related to what we labelled as Content. They either perceived a lack of it 
+or the content was undesirable. Focus group participants often perceived 
+a lack of urban equipment (benches, trash bins, illumination, or outdoor 
+gyms), shade, walking trails, trees or hedges for noise abatement or 
+content for certain groups of users (UGS not serving various age or user 
+groups). The undesirable content of UGS was mainly related to having 
+trees in the wrong place or having the wrong tree species. The former 
+was about the trees planted too close to buildings, which were perceived 
+either as suffocating for people or dangerous for buildings, while the 
+latter referred to trees potentially causing allergies (such as birch), those 
+leaving a sticky residue (e.g. linden trees on parking lots) or when their 
+fruits filled sewer drains or vents (such as maple tree).
+A less pronounced source of negative perception was related to the 
+Selection of material and implementation quality. The topic referred to the 
+presence of materials considered unsafe, low-quality, unsustainable or 
+unfit for the context in aesthetical sense, such as having concrete frames 
+or asphalt flooring in children’s playgrounds, the flooring of children’s 
+playgrounds with plastic-based materials (too hot in summer and leav­
+ing microplastics in the environment), the low quality of outdoor gym 
+equipment that showed evidence of wear and tear in only a few months 
+of being in use or when materials used for a footbridge were deemed 
+unfit for the historical context of the UGS.
+Furthermore, participants mentioned some problems with the 
+implementation of the UGS design, mostly due to lack of user’s input. 
+For instance, when benches were placed without access to foot trails, 
+perceived as facing the wrong direction or when designers went with 
+straight lines for foot trails instead of following the logic of actual users.
+Lastly, the new design was perceived negatively after the recon­
+struction of a UGS surrounding the famous architectural building. The 
+reconstruction reduced previously rich design with different vegetation 
+types to grass-only design.
+3.1.4. The negative perception due to urban planning
+This group of negative perceptions was related to UGS in the broader 
+context of the neighbourhood or city districts due to what was perceived 
+as inadequate urban planning that led to a lack of access or difficulties in 
+accessing UGS.
+The most pronounced was the perceived lack of public UGS in their 
+city districts, followed by the perception that UGS had been replaced by 
+development. The difficulties with access to existing UGS due to a lack of 
+infrastructure or equipment fostering mobility were somewhat less 
+pronounced. These referred to the lack of bicycle trails, pedestrian 
+promenades, sidewalks or sidewalks perceived as being too narrow, 
+buildings blocking the access to UGS, lack of benches for older people on 
+their way to UGS, or temporary road construction work making access to 
+UGS difficult.
+Additionally, some focus group respondents voiced a lack of strategic 
+planning of their city districts, uneven distribution of UGS, lack of 
+particular services for residents, such as dog parks, or too much traffic in 
+the vicinity of UGS.
+3.1.5. The negative perception due to feeling of unease or perceived lack of 
+safety in green space
+In this group, negative perceptions are all the instances when people 
+explicitly said they did not feel comfortable or were even afraid of 
+visiting UGS due to fear for their safety. The group consists of four 
+subgroups based on the sources of unease or fear. These were feelings of 
+unease/perceived lack of safety due to UGS design, other people’s behaviour, 
+UGS management and other reasons.
+The most pronounced reason was UGS design. It referred to UGS that 
+were perceived as "too dark", with illumination missing, tall vegetation 
+(trees) present, when respondents felt suffocated by the vegetation, or 
+when UGS had been perceived as unsafe for senior citizens due to the 
+terrain or lack of walking trails.
+The behaviour of other people was the reason for discomfort or even 
+fear when there were dogs present without their owners or were 
+unleashed, specific user groups were present (groups of youngsters, 
+football fans on game days), or even when there were not enough people 
+present, especially in the evenings.
+Table 2 
+The number of coded segments and their shares per group of negative percep­
+tions of urban green space.
+Groups of negative perceptions 
+of UGS
+The number of 
+coded segments
+Share of coded segments in 
+the total number of coded 
+segments
+Negative perceptions due to the 
+behaviour of other people
+159
+25.1 %
+Negative perceptions due to 
+green space management
+154
+24.3 %
+Negative perceptions due to 
+green space design
+125
+19.7 %
+Negative perceptions due to 
+urban planning
+102
+16.1 %
+Negative perceptions due to 
+feelings of unease or perceived 
+lack of safety
+94
+14.8 %
+Total
+634
+100 %
+S. Krajter Ostoi´c et al. 
+Urban Forestry & Urban Greening 101 (2024) 128539 
+4 
+
+UGS management was a reason for feeling unsafe due to the 
+perceived absence or insufficient vegetation management, the presence 
+of landslides in some forest parks or when walking trails were perceived 
+as unsafe for walking.
+The last subgroup referred to all other reasons that caused partici­
+pants to feel unsafe when visiting UGS. These were remains of unex­
+ploded ammunition, soggy soil in forest parks that were perceived as 
+unsafe for walking for older people or when specific UGS carried a 
+stigma. The unexploded ammunition comment was related to only one 
+UGS, and it was caused by the accidental explosion of a military ware­
+house in the 1990s, and the access has been forbidden ever since. Lastly, 
+the forests in the vicinity of the mental hospital or UGS of the mental 
+hospital cemetery were perceived as scary for some people.
+3.2. The negative perception of UGS in relation to respondents’ 
+sociodemographic characteristics
+There were statistically significant differences in negative perception 
+of UGS based on participants’ age, gender, household income, employ­
+ment status, number of preschool children, and years of living in Zagreb 
+(Table 3). At the same time, there were no statistically significant dif­
+ferences based on their education, whether they lived in an apartment 
+building or a house, grew up in an urban or rural setting and years of 
+living in their city district. For brevity, we will further present results 
+only for statistically significant variables.
+There was a statistically significant difference based on the number 
+of segments between three age groups of focus group participants in 
+groups of negative perceptions due to Management, Urban planning and 
+Design (Table 3, Appendix A - Table A.1). When it comes to negative 
+perception due to Management, there was a statistically significant dif­
+ference between middle-aged and older participants, whereas older 
+participants discussed more about this group of negative perceptions 
+(Appendix A - Table A.1). Regarding Urban planning there was a statis­
+tically significant difference between younger and middle-aged partic­
+ipants, as well as between younger and those older than 65, whereas 
+younger participants talked significantly more about this topic 
+(Appendix A - Table A.1). Older participants talked significantly more 
+about negative perception due to the Design of UGS.
+When it comes to gender, women talked significantly more than men 
+about the Feeling of unease or perceived lack of safety and significantly less 
+about the Behaviour of other users (Appendix A - Table A.2). The feeling 
+of unease or lack of safety was mainly due to dog fouling, the presence of 
+tall vegetation and the lack of illumination.
+Regarding household income, there was a statistically significant 
+difference in the perceptions of those from medium-income households 
+who less discussed the Design of UGS compared to the other two groups 
+(Appendix A - Table A.3). The Lack of content was the most pronounced 
+theme. Interestingly, there was no statistically significant difference 
+between low-income and higher-income households.
+When it came to employment status, retired people talked signifi­
+cantly less than un/employed about Urban planning (Table 3, 
+Appendix A - Table A.4).
+Those with preschool children in their households (13.8 % of par­
+ticipants) were more concerned about Feeling of unease or perceived lack 
+of safety (Table 3, Appendix A - Table A.5).
+Those who lived less than the average number of years in Zagreb 
+(average was 43) talked significantly more about Urban planning than 
+average (Table 3, Appendix A - Table A.6). Even though Pearson’s Chi- 
+square test showed a statistically significant difference between partic­
+ipants based on the years of living in the city district (Table 3), the 
+posthoc test showed no such difference.
+Table 3 
+Results of chi-square tests and post-hoc tests between sociodemographic variables and the number of coded segments for each group of negative perceptions. The level 
+of significance alpha for both tests was 0.05. Statistically significant differences are in bold.
+Sociodemographic variables
+Categories
+Chi-square
+Post-hoc standardised residuals analysis (p-values)
+Х2
+p-value
+Behaviour
+Management
+Design
+Planning
+Safety
+Gender
+Female 
+Male
+37.556
+0.0000
+0.0000
+1.0000
+0.6720
+1.0000
+0.0000
+Age
+≤35 
+36–65
+16.679
+0.0022
+1.0000
+1.0000
+0.1336
+0.0064
+1.0000
+36–65 
+˃ 65
+18.594
+0.0009
+0.1616
+0.0089
+1.0000
+0.2214
+1.0000
+≤35 
+˃ 65
+28.307
+0.0000
+1.0000
+1.0000
+0.0214
+0.0000
+1.0000
+Employment
+(Un)Employed 
+Retired
+18.493
+0.0009
+1.0000
+0.2001
+0.2869
+0.0076
+1.0000
+Household income (HRK)a
+< 7.300 
+7.300–14.600
+16.617
+0.0023
+0.6176
+0.4007
+0.0036
+1.0000
+1.0000
+7.300–14.600 
+> 14.600
+21.274
+0.0003
+0.8155
+0.9393
+0.0093
+0.5379
+0.1679
+< 7.300 
+> 14.600
+4.5437
+0.3374
+​ 
+​ 
+​ 
+​ 
+​ 
+Education
+Elementary & High school 
+Faculty
+2.9307
+0.5695
+​ 
+​ 
+​ 
+​ 
+​ 
+Housing
+Apartment building Private house
+8.0993
+0.0880
+​ 
+​ 
+​ 
+​ 
+​ 
+Grew up
+Village 
+Urban
+3.6532
+0.4550
+​ 
+​ 
+​ 
+​ 
+​ 
+Preschool children
+Yes 
+No
+14.245
+0.0066
+1.0000
+1.0000
+1.0000
+1.000
+0.0121
+Years of living in Zagreb
+≤43 
+> 43
+15.648
+0.00353
+0.2270
+1.0000
+1.0000
+0.0110
+1.0000
+Years of living in the city district
+≤33 
+> 33
+10.424
+0.03385b
+​ 
+​ 
+​ 
+​ 
+​ 
+a The categories were based on the average net salary for the city of Zagreb, Croatia, in April 2019. At that time, the average net salary was approx. 7.300 Croatian 
+kuna (HRK) or approx. 980 EUR. Hence, the following categories were constructed: less than average salary (< 7.300 HRK), between average and double average 
+(7.300–14.600 HRK), more than double average (> 14.600 HRK).
+b However, posthoc tests showed no significant difference.
+S. Krajter Ostoi´c et al. 
+Urban Forestry & Urban Greening 101 (2024) 128539 
+5 
+
+4. Discussion
+This bottom-up participatory study showed that the public might 
+perceive tree-based UGS negatively for a wide variety of reasons. The 
+reasons were categorised into five groups based on the in-depth thematic 
+analysis. Based on the number of coded segments, focus group partici­
+pants addressed the most negative perceptions due to the behaviour of 
+other users and perceived inadequate management of UGS (Table 2). 
+The UGS design and urban planning were less in focus, and the 
+perception of safety was the least.
+4.1. Negative perception due to behaviour of other people
+When looking into reasons for negative perceptions due to other 
+people’s behaviour, most of these were related to incivilities, weak rule 
+compliance and rule enforcement (see Section 3.1.1). Indeed, other 
+studies prove the behaviour of other UGS users is an important source of 
+frustration and negative perception, especially evidence of vandalism, 
+littering and other incivilities, such as dog fouling (Dawson et al., 2023; 
+Palliwoda and Priess, 2021; Krajter Ostoi´c et al., 2017; Richardson and 
+Shackleton, 2014). In our study, negatively perceived were also private 
+forest owners and homeowners if they were perceived as contributing to 
+the decrease of UGS by careless management or soil sealing of private 
+yards.
+4.2. Negative perception due to UGS management
+The negative perception due to UGS management was mainly related 
+to the perceived absence or insufficient maintenance, the interpretation 
+of which varied among participants (see Section 3.1.2., Appendix B). 
+The perception of maintenance (perceived care) is strongly connected to 
+perceived safety (Nassauer et al., 2021; Judice et al., 2021). Given the 
+importance of recreational opportunities, especially in Western soci­
+eties, urban residents expect UGS to be managed and maintained with 
+the provision of these services in mind, with cleanliness and mainte­
+nance being among the most important attributes (Stessens et al., 2020). 
+In our study, negatively perceived were obstacles to recreational 
+enjoyment in forests related to access and unobstructed movement (e.g. 
+wood debris or fallen trees left on forest trails), unkempt character 
+(overgrown forest lawns, understory) and the presence of deadwood. 
+Other studies as well show that people prefer managed urban forests 
+without deadwood or traces of forest operations (Gundersen and Friv­
+old, 2008; Manyani et al., 2021; Tyrv¨ainen et al., 2003). However, a 
+segment of the public also prefers more ‘wild’ UGS (Hwang et al., 2019), 
+but our participants did not fall into that category.
+Inadequate maintenance was perceived as presence of litter for UGS 
+other than forests and equipment that is damaged, unfunctional, or looks 
+shabby. Indeed, according to the Broken Window Theory (Kelling and 
+Wilson, 1982), evidence of disorder is not welcome and invites more 
+disorder and crime. Translated into the UGS context, it could lead to 
+vandalism or a perceived lack of safety.
+Participants were also concerned with potential disservices due to a 
+perceived lack of care for trees, and interpreted as the presence of un­
+healthy trees, “too old” trees or when newly planted trees were not being 
+watered. Additionally, disservices in the form of unpleasant animals, 
+such as pests, mosquitos, rats and crows, were mentioned by several 
+participants. Indeed, studies show that trees can be perceived as a source 
+of disservices and associated costs, such as posing a risk to power lines or 
+people due to tree failure, when trees are dead or diseased (Kloster et al., 
+2021; Roman et al., 2020; Roy et al., 2012). Public concern over tree 
+maintenance and potential disservices may lead to a lack of public 
+acceptance of trees in their neighbourhoods (Carmichael and McDo­
+nough, 2019; Moffat et al., 2024).
+Too extensive tree management was defined by respondents as either 
+trees being pruned too much or as too intensive forest thinning. This 
+could be related to the lack of understanding of forest management 
+strategies by the public when the results of regeneration cuts are 
+perceived as detrimental to forests (Bradley and Kearney, 2007).
+4.3. Negative perception due to UGS design
+Participants mostly discussed the lack of various recreational 
+equipment and infrastructure (see Section 3.1.3). The result is corrob­
+orated by many other studies showing that people negatively perceive 
+the lack of walking and cycling paths, sitting areas, rubbish bins, illu­
+mination, children’s playgrounds or dog parks (Gorzelany et al., 2022; 
+Manyani et al., 2021; Krajter Ostoi´c et al., 2017). However, compared to 
+the previous study with the public in Zagreb and other issues, illumi­
+nation was considered less important (Krajter Ostoi´c et al., 2017). In this 
+study, shade was discussed positively, while evidence from the literature 
+shows ambiguous results (positive - Kloster et al., 2021; negative - 
+Davies et al., 2017). Participants perceived trees as both desirable and a 
+source of disservices (due to allergenicity – e.g. birch, tree being in the 
+wrong place, tree sap on cars, nuisance due to blocked sewer drains or 
+ventilation shafts).
+Some participants voiced the importance of participatory (collabo­
+rative) design to meet the needs of various user groups by creating in­
+clusive spaces for all age groups and in a way that users consider 
+functional. Co-creation of UGS has many benefits, as perceived by public 
+administration, despite being challenging (Roitsch et al., 2024). The 
+study also included in the analysis some EU-funded projects conducted 
+in Zagreb.
+It is worth noting that the size of UGS was not the topic of discussion, 
+despite studies demonstrating its importance to visitors (Schipperijn 
+et al., 2010). Importantly, there is a positive correlation between the size 
+of UGS and the frequency of walking, exercising and relaxing (Gozalo 
+et al., 2019). This correlation highlights the potential benefits of larger 
+UGS. Smaller UGS in dense urban areas are sometimes perceived as 
+noisy and less suitable for certain recreational activities, while quietness 
+is among the most appreciated attributes of UGS (Stessens et al., 2020). 
+However, a previous study on public perception in Zagreb also showed 
+that the public gives more importance to other attributes (Krajter Ostoi´c 
+et al., 2017).
+4.4. Negative perception of UGS due to urban planning
+The crucial issue was the lack of access to UGS in some city districts 
+due to a lack of infrastructure that supports mobility, such as sidewalks 
+and bicycle trails, or a perceived lack of UGS in general because of the 
+perceived absence of strategic planning (see Section 3.1.4). A recent 
+study of the distribution of urban green infrastructure in Zagreb, 
+commissioned by Greenpeace, shows that the access to UGS varies, even 
+though 60 % of the population lives within 300 m (5 min) of nearby 
+greenspace (Kalasek and Schneider, 2021). However, our study showed 
+that the public, especially in less green city districts, still experienced 
+problems with accessibility.
+4.5. Negative perception due to perceived lack of safety
+Perceived lack of safety was less important in the context of other 
+groups of negative perceptions (Table 2). However, expectedly, it was 
+present among senior citizens (due to their perceived frailty and 
+mobility issues), who also voiced a need for walking trails and safe 
+pavements, women, participants with small children in their house­
+holds, and higher-income households.
+The feeling of unease or even fear, including fear of crime, is often 
+attributed to individual, social and physical factors, such as gender, 
+vegetation and the presence of other people (Honey-Ros´es and Zapata, 
+2023; Lis et al., 2022; Sreetheran and Konijnendijk van den Bosch, 2014; 
+Skår, 2010). The reasons reported by our participants are present in 
+these studies as well. However, what was interesting was that UGS near 
+a mental hospital elicited unease and was perceived as being avoided. 
+S. Krajter Ostoi´c et al. 
+Urban Forestry & Urban Greening 101 (2024) 128539 
+6 
+
+Our respondents rarely expressed that negative perceptions prevented 
+them from visiting UGS. Recreation is an underlying goal of 
+human-nature interaction, and UGS services and disservices usually 
+coincide in the same place (Baumeister et al., 2022; Riechers et al., 
+2016).
+4.6. Effect of sociodemographic variables on negative perception
+Our study confirmed the importance of variables such as gender, age, 
+household income, having small kids or the length of living in Zagreb 
+(Table 3). Somewhat surprisingly, men talked significantly more than 
+women about the negative perceptions due to the behaviour of other 
+people. We expected that both men and women would be equally con­
+cerned with this issue since the issues of littering or dog fouling were the 
+most pronounced, and these are pretty ubiquitous. Older age proved 
+important for the negative perception due to UGS management and 
+design, which is understandable given the unique needs of this age 
+group (Zhai et al., 2023) Younger people were more concerned with 
+urban planning than other age groups (Table A.1). Household income 
+proved important only for the perception of UGS design (Table 3). Ed­
+ucation had no significant effect on negative perception, in contrast to 
+some other studies (Moffat et al., 2024; Jim and Shan, 2013; Tyrv¨ainen 
+et al., 2003). We also tested sociodemographic variables not present in 
+other studies, such as length of residence, whether they lived in a house 
+or apartment building and whether they grew up in urban or rural areas. 
+However, all those variables were not statistically significant (Table 3). 
+It could be explained by the ubiquity of many negative perceptions of 
+tree-based UGS, such as negative perceptions due to incivilities or 
+perceived lack of care.
+4.7. Recommendations for urban planning, UGS management/ 
+maintenance and design
+The study findings provide an opportunity to give recommendations 
+to urban planners, city administration, and green space managers. Better 
+rule enforcement in terms of monitoring and sanctioning people per­
+sisting on incivilities may be helpful regarding the negative perception 
+due to the behaviour of other people. More city officers will be needed to 
+monitor and fine those who continue with such behaviour, as well as 
+educational campaigns to increase rule compliance. Zagreb residents 
+support these measures (Krajter Ostoi´c et al., 2017). Those city officers 
+dealing with rule enforcement in public areas in Zagreb are short in 
+numbers and designated with rather large areas. In addition, their job 
+description is relatively broad and related to all public spaces, including 
+parking lots or state of buildings’ fronts. Public involvement in moni­
+toring the state of public green space and visitor behaviour may over­
+come the lack of capacity on the side of public administration.
+Regarding management and maintenance of UGS, better communi­
+cation by forest and green space managers with the public, having 
+certified tree care professionals and implementing tree care standards 
+may counter the lack of knowledge of tree care or forest management 
+operations. Indeed, quality communication with the public is helpful in 
+promoting better understanding of tree care practice and forest man­
+agement strategies (Janse and Konijnendijk, 2007). Also, more focus 
+should be on tree disservices perceived by the public, which was 
+strongly connected to UGS maintenance in this study. Furthermore, our 
+participants expressed their perception of UGS without alway
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

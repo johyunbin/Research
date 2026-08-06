@@ -1,0 +1,1216 @@
+Academic Editor: Jean-Marc Wunderli
+Received: 30 September 2025
+Revised: 15 December 2025
+Accepted: 29 December 2025
+Published: 6 February 2026
+Copyright: © 2026 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license.
+Article
+Pedestrians’ Perceptions of Motorized Traffic in Suburban–Rural
+Areas of a Metropolitan Region: Exploring
+Measurement Perspectives
+Dan Andersson 1,2, Lina Wahlgren 1 and Peter Schantz 1,*
+1
+The Research Unit for Movement, Health and Environment, Department of Physical Activity and Health,
+The Swedish School of Sport and Health Sciences, GIH, 114 86 Stockholm, Sweden;
+dan.andersson@hb.se (D.A.); lina.wahlgren@gih.se (L.W.)
+2
+Faculty of Caring Science, Work Life and Social Welfare, University of Borås, 501 90 Borås, Sweden
+*
+Correspondence: peter.schantz@gih.se
+Abstract
+Background: Since World War II, the number of motorized vehicles has increased dramati-
+cally. Yet, few studies have evaluated how perceptions of single and multiple motorized
+traffic variables, in different combinations, influence pedestrians’ appraisals of the route
+environment in relation to whether it facilitates or deters walking. We have previously
+illuminated this in an inner urban area of a metropolitan region. This study aims to
+scrutinize these matters in the suburban–rural parts of the same metropolitan area. For
+comparative reasons, we use the same methods as used for the inner urban area. Our
+hypothesis is that these kinds of perceptions, to some extent, may be context-specific.
+Methods: Relations between pedestrians’ perceptions of motorized traffic variables (flow
+and speeds of motor vehicles, noise, and exhaust fumes) and combinations of them, as well
+as if appraisals of route environments hinder–stimulate walking and are unsafe–safe for
+reasons of traffic, have been evaluated. This was studied in the suburban and rural areas
+of Greater Stockholm, Sweden. The pedestrians (n = 233) rated their route environment
+with the Active Commuting Route Environment Scale (ACRES). Correlation, multiple
+regression, and mediation analyses were used to study the relationships. Results: The
+regression analyses showed that noise was the primary negative predictor variable in
+relation to hindering–stimulating walking. With respect to the other outcome, unsafe–safe
+traffic, none of the variables had a significant relation. The mediation analyses showed that
+(1) vehicle speed had an indirect effect on unsafe–safe traffic via noise, (2) both vehicle
+speed and vehicle flow had, via noise, indirect effects on hinders–stimulates walking, and
+(3) vehicle speed had, via vehicle flow, an indirect effect on noise and exhaust fumes. Con-
+clusions: In suburban–rural route environments, noise protrudes as a hindering variable
+for walking. The mediation analyses showed that vehicle speed intensified noise and had
+negative effects on both outcomes. Therefore, by reducing vehicle speed, noise levels will
+be lowered, and the walking experience is likely to be enhanced, which can influence the
+amount of walking. The results are further illuminated through the exploration of existing
+and potential future research strategies.
+Keywords: walking; environment; motorized vehicles; pedestrians; suburban; rural;
+active commuting
+Int. J. Environ. Res. Public Health 2026, 23, 206
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+2 of 30
+1. Introduction
+Walking is a common form of locomotion, and humans walk for various purposes,
+such as transportation. The health benefits of walking are well recognised [1–3], and active
+transportation can contribute to sustainable mobility [4].
+However, if people are to walk more, it is important that pedestrian environments
+support this form of movement. Based on pedestrians’ reports, the presence of trees along
+streets and wide sidewalks enhances well-being, whereas traffic noise, deteriorated side-
+walks, and difficult crossings hinder walking, particularly for older adults and women [5].
+There are also reports that pedestrians favour routes perceived as green and blue, which
+have less traffic and are considered safer, even when these are longer than the most direct
+options [6]. Furthermore, pedestrians who perceive that their routes become less pleasant
+over time reduce their walking [7]. Typically, depending on the research strategies used in
+these kinds of studies, it is difficult to precisely pinpoint the specific variable(s) that are
+critical for existing walking behaviours.
+Since World War II, the number of motorized vehicles has increased dramatically. This
+has profoundly reshaped our cities [8] (p. 133). Since walking is common in metropolitan
+areas, it is essential to investigate how the transformed metropolitan environment, char-
+acterized by an increased number of motorized vehicles, affects pedestrians in terms of
+individual traffic variables, such as vehicle flow, speed, noise, and exhaust fumes.
+Numerous environmental assessment tools related to walkability have been developed.
+Examples of such tools are the Neighbourhood Environment Walkability Scale (NEWS), the
+Instruments for Assessing Levels of PHysical Activity and fitness questionnaire (ALPHA),
+and the Perceptions of the Environment in the Neighbourhood Scale (PENS). These tools
+have questions about the built environment, primarily with four- or five-point response
+scales of the Likert type, in relation to physical activity.
+The NEWS evaluates residents’ perception of neighbourhood design features associ-
+ated with physical activity [9]. The ALPHA instrument examines environmental factors
+related to physical activity in a European context [10,11], drawing inspiration from other
+questionnaires, such as the NEWS. The PENS was developed to assess adults’ perceptions
+of their neighbourhood environment, with items selected and adapted from the ALPHA
+instrument [12].
+The above-mentioned instruments have a focus on the residential area, often defined
+as the area that can be walked to within 10–15 min [11,12]. Furthermore, a limitation of
+ordinal scales, such as Likert scales, is that the response options are not evenly spaced,
+which can limit the use of parametric tests that require data measured on an interval or
+ratio scale.
+To fully grasp the effect of motorized traffic variables on walking behaviour is chal-
+lenging. A holistic approach that captures perceptions of multiple variables is likely to
+provide insights that can be overlooked when considering only one or two variables in
+isolation. Additionally, the absence of a clear and consistent terminology makes compar-
+isons between studies difficult. For example, in one study, the following items were used:
+“Crossing busy roads is a big problem” and “Traffic makes it dangerous or unpleasant” [13].
+How should these items be interpreted? What is the actual problem: vehicle speed, traffic
+flow, noise, exhaust fumes, or a combination of these? Or is there another variable at play?
+Instead of focusing on the behaviour of walking, e.g., the amount of walking, a more
+accessible way forward could be to analyze how various traffic variables are perceived, and
+route environments appraised by those who walk regularly in such settings.
+Below is a conceptual model illustrating how perceptions of route environmental
+variables can influence pedestrians, modified from Schantz, [14] (p. 150), see Figure 1.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+3 of 30
+Figure 1. The route environments consist of several environmental domains: physical (stationary
+objects), traffic (mobile objects), social (individual interactions), weather (wind, rain, sun, etc.),
+and light conditions (natural and artificial light). These domains represent a number of predictor
+variables, and perceptions of them can influence safety appraisals as well as perceptions of whether
+the environment hinders or stimulates walking. These appraisals can impact walking behaviour,
+physiological, psychological, and medical effects, as well as environmentally induced unwellbeing–
+wellbeing. The bidirectional lines indicate potential mutual relationships. The background to this
+conceptual framework is described in a previous study [15] (pp. 26–29). Figure 1 is adapted from
+material previously published in three publications (cf. [15–17]).
+From our perspective, it is essential to distinguish the various roles and relationships
+between four variables related to motorized traffic: speed, flow, noise, and exhaust fumes,
+and to examine how they are linked to the outcomes of unsafe or safe traffic as well as
+hindering or stimulating walking.
+Figure 2 illustrates a conceptual model that shows the relationships among the
+four motorized traffic variables, both internally and in relation to the outcomes of hindering
+or stimulating walking as well as unsafe or safe traffic. This model can be used to analyze
+the different roles and relations among these four motorized traffic variables in the context
+of walking. We consider the speeds of motor vehicles and the flow of motor vehicles as basic
+variables, and noise and exhaust fumes as intermediate outcomes.
+We have previously studied how motorized traffic variables are perceived among
+those who commute by foot in the inner urban area of Stockholm, Sweden [16]. In that area,
+noise related negatively to both hinders–stimulates walking and unsafe–safe traffic, whereas
+vehicle speed is negatively related to unsafe–safe traffic.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+4 of 30
+Figure 2. The basic variables give rise to the intermediate outcomes. All the variables can, in principle,
+relate independently or in various combinations to the two outcome variables. Flow of motor vehicles
+refers to the number of vehicles passing a specific reference point during a defined time period.
+The bidirectional arrow between the basic variables indicates that there is a relationship between
+them. Under conditions of uninterrupted flow, flow, vehicle density (vehicles per km), and speed are all
+interrelated: q = k v, where q represents flow, k represents density, and v represents speed. Figure 2 has
+previously appeared in three publications (cf. [15–17]).
+The external validity of those results, however, remains unexplored in relation to
+pedestrians. The importance of such a perspective is underlined by the fact that in studies
+of cyclists in the suburban–rural areas of Greater Stockholm, Sweden, it has been noted that
+both vehicle flow and noise were negatively related to inhibits–stimulates cycling [18]. This
+contrasts with findings from cyclists in the inner urban area, in which only the factor exhaust
+fumes was negatively related to inhibits–stimulates cycling [19]. Whether such discrepancies
+also exist among pedestrians is, to our knowledge, unknown.
+Furthermore, it is essential to understand the rationale behind studying different
+environments, as discussed in [20]. To state this rationale in simple terms: there are good
+reasons to believe that the same objective levels of motorized vehicle flows, speeds, noise,
+and exhaust fumes can lead to different levels of perceptions depending on the surrounding
+environment for the traffic.
+Figure 3a,b show photos from the inner urban vs. suburban–rural study areas in
+Greater Stockholm. Cars are often parked along streets in inner urban areas, and will
+thereby sometimes hide the vehicle flow and create distance to the pedestrians. However,
+more or less noise will still reach those walking on the pavements. In the suburban–rural
+area, the encounter between pedestrians and traffic can differ significantly, and it is overall
+quite distinct from that in the inner urban area.
+Figure 4a,b illustrate other differences related to how traffic variables can be perceived
+within the context in which the traffic occurs. These differences are related to the greater
+and higher building volumes found near the streets in the inner urban area, compared to
+the more common gradient of lower houses and smaller housing volumes, or none at all, in
+the suburban–rural area.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+5 of 30
+Figure 3. (a,b) The effect of environmental variables, such as a given flow and speed of motorized
+vehicles, on pedestrians can differ depending on, e.g., parked cars or distance to the motorized
+vehicles in inner urban vs. suburban–rural areas. Figure 3a,b have previously appeared [15].
+Figure 4. (a,b) The effect on pedestrians of given levels of all environmental variables associated with
+motorized vehicles can differ depending on the overall context, specifically whether it is built-up
+versus natural settings, and whether the area is inner urban, suburban, or rural. Figure 4a,b have
+previously appeared in [15].
+Three aspects of potential differences will be stated here. The first relates to how
+the same traffic flow is perceived depending on its background, the second concerns the
+reflection of sounds from house façades, and the third concerns the accumulation of exhaust
+fumes when open-air spaces around traffic flows are limited by built-up settings.
+The aim of the present study is therefore to investigate, in a suburban–rural setting,
+the relationships between the four motorized traffic variables, the basic variables, and the
+intermediate outcomes, as well as how these variables, and their combinations, relate to
+the outcome variables.
+We have studied male and female walking commuters (n = 233) in the suburban–
+rural area of Greater Stockholm, Sweden, for these purposes. The pedestrians rated their
+commuting routes using the Active Commuting Route Environment Scale (ACRES), a
+self-report tool that assesses pedestrian commuters’ perceptions and appraisals of their
+commuting route environments [21,22].
+Given the importance of gaining knowledge about these issues, we will explore current
+and potential future research strategies in the Section 4.
+The public health relevance of this study is three-fold: (i) it is important to understand
+how environmental variables affect the intermediate outcomes of unsafety–safety for rea-
+sons of traffic as well as if it is hindering–stimulating the walking since these variables relate
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+6 of 30
+to environmental unwellbeing–wellbeing, which is a variable of direct health relevance;
+(ii) whether the environmental variables affect the behaviour of walking, then the level of
+physical activity stands for another dimension of public health; (iii) the third dimension
+relates to if walking is substituting for motorized transport which stand for wider negative
+effects on population health through, e.g., noise, exhaust fumes or CO2 emissions.
+2. Method
+2.1. Procedure and Participants
+This study is part of the research project Physically Active Commuting in Greater Stock-
+holm (PACS). Participants, defined as active commuters who walk or cycle to work or study,
+were recruited through advertisements in Dagens Nyheter (https://www.dn.se/, accessed
+on 25 May 2004) and Svenska Dagbladet (http://www.svd.se/, accessed on 25 May 2004),
+two major Stockholm newspapers, between late May and early June 2004. The recruitment
+period ended in mid-autumn.
+To be eligible, participants had to be at least 20 years old, commute the entire distance
+to their workplace or educational institution at least once a year, and reside in Stockholm
+County, excluding the municipality of Norrtälje (see Figure 5).
+ 
+Figure 5. Map over Sweden and Stockholm County, with the suburban–rural study area outside the
+inner urban area. It will, in the text that follows after this section, be referred to as “Suburban”. The
+marking for the densely built-up areas displays the conditions in 2010. North is at the top of the
+image. Figure 5 has previously appeared in three publications (cf. [15–17]).
+Based on the information provided in the advertisements about the study, 2148 indi-
+viduals signed up for the study. A first survey, the Physically Active Commuting in Greater
+Stockholm Questionnaire (PACS Q1), was distributed in September 2004 (the survey was
+answered by 94%). At the end of the first questionnaire, participants were asked if they
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+7 of 30
+would like to participate in a second survey (PACS Q2). It was distributed in May of the
+following year (the survey was answered by 92%). Responses were ending in mid-autumn.
+The respondents walked or cycled in the inner urban or suburban–rural areas of Greater
+Stockholm, or in both settings. The suburban–rural areas will hereafter be stated as “the
+suburban areas”.
+Advertisement-based recruitment has been compared to on-street recruitment of
+cycling commuters in terms of their evaluations of route environments [22]. It was hypoth-
+esized that individuals recruited in situ would more accurately represent the commuting
+mode than those recruited through advertisements. Overall, the assessments showed a
+strong correspondence between the two groups [22].
+In the present study, we have exclusively used data from the suburban areas. We
+asked the participants to evaluate their route environment over a two-week period, and
+thereafter rate the environmental variables in overall terms. During the studied period,
+electric cars were scarce or non-existent. Some pedestrians (33.0%) also commuted in the
+inner urban area; however, only the suburban data were used. It is possible that commuting
+in one environment affects the ratings of the other. A previous study compared the ratings
+of cyclists who had commuted in both areas with those who had commuted in only one
+area [22]. The deviances between the groups were remarkably small.
+In this study, 233 participants were included in the analyses (82% women); 41.6%
+were pedestrians, and 58.4% were dual-mode commuters, i.e., individuals who alternate
+between walking and cycling. The Ethics Committee North of the Karolinska Institute at
+the Karolinska Hospital approved the study (Dnr 03-637), and the participants gave their
+informed consent.
+2.2. Descriptive Characteristics of the Participants
+Descriptive characteristics of the participants were obtained from PACS Q1 and Q2,
+see Table 1. For characteristics of their walking behaviour, e.g., distance, duration, and
+frequency of walking trips, see Tables A1–A3 in Appendix A.
+Table 1. Descriptive characteristics of participants (n = 228–233) *.
+Descriptive Characteristics of the Participants
+Females **, %
+82
+Age in years **, mean ± SD
+50.0 ± 9.8
+Weight in kg, mean ± SD
+68.4 ± 10.4
+Height in cm, mean ± SD
+169.9 ± 7.8
+Body mass index, mean ± SD
+23.7 ± 3.0
+Gainful employment, %
+97
+Educated at university level **, %
+70
+Income **:
+≤25,000 SEK *** a month, %
+53
+25,001–30,000 SEK *** a month, %
+28
+≥30,001 SEK *** a month, %
+18
+Participant and both parents born in Sweden, %
+83
+Having a driver’s licence, %
+88
+Usually access to a car, %
+70
+Leaving home 7–9 a.m. to walk to work or study, %
+70
+Leaving place of work or study 4–6 p.m. to walk home, %
+69
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+8 of 30
+Table 1. Cont.
+Descriptive Characteristics of the Participants
+Number of walking-commuting trips per year ****, mean ± SD
+226 ± 159
+Overall physical health either good or very good, %
+72
+Overall mental health either good or very good, %
+82
+Notes: * 233 individuals have complete data regarding ACRES and the four background variables that are used in
+the analyses; ** Included in the multiple regression analyses and in the mediation analyses; *** SEK = Swedish
+crowns (SEK): €1 ≈9 SEK; US$1 ≈8 SEK; **** Among the 165 participants, annual walking-commuting trips
+ranged from 6.50 to 546. Five extreme values were replaced using simple mean imputation based on the remaining
+160 cases, preserving the sample size while reducing variance. Missing data in at least one of the 12 months led to
+exclusion from the sum score. This variable was used only for the descriptive statistics. The low response rate is
+due to missing values in at least one of the 12 months, leading to exclusion from the sum score.
+2.3. The Physically Active Commuting in Greater Stockholm Questionnaires (PACS Q1 and Q2)
+The PACS Q1 and PACS Q2 are self-administered surveys in Swedish, consisting of
+35 and 68 items, respectively. The surveys include questions about background factors
+and various aspects of active commuting. Both surveys are available in the supporting
+information in Schantz et al. [23].
+2.3.1. The Active Commuting Route Environment Scale (ACRES)
+To explore the relationships between active transportation and the characteristics
+of the route environment, the Active Commuting Route Environment Scale (ACRES)
+was developed [21,22]. The pedestrian version consists of 13 variables. Each variable has
+two parallel response lines: one for the inner urban area and the other for the suburban areas.
+Those responding to the ACRES are asked to rate their overall experience of their
+self-chosen route environment, based on their active commuting between home and place
+of work or study, during the last two weeks. The 15-point response scales have adjectival
+opposites and numbered continuous lines, i.e., numbers from 1 to 15. In addition, number
+8, is a neutral option. Thus, three anchors aim to provide additional meaning to the scores
+along the scale, see Table 2.
+Table 2. The applied predictor and outcome variables.
+Ratings and Verbal Anchors
+Variable
+1
+8
+15
+Variable Name
+How do you find the flow of
+motor vehicles (number of
+cars) along your route?
+Very low
+Neither low nor high
+Very high
+Flow of motor vehicles **
+How do you find the speeds of
+motor vehicles (taxis, lorries,
+ordinary cars, buses) along
+your route?
+Very low
+Neither low nor high
+Very high
+Speeds of motor vehicles ***
+How do you find the noise
+levels along your route?
+Very low
+Neither low nor high
+Very high
+Noise
+How do you find the exhaust
+fume levels along your route?
+Very low
+Neither low nor high
+Very high
+Exhaust fumes
+Do you think that, on the
+whole, the environment you
+walk in stimulates/hinders
+your commuting?
+Hinders a lot
+Neither hinders nor
+stimulates
+Stimulates a lot
+Hinders–stimulates walking *
+How unsafe/safe do you feel
+in traffic as a pedestrian along
+your route?
+Very unsafe
+Neither unsafe nor safe
+Very safe
+Unsafe–safe traffic *
+Notes: This is a translation of the original ACRES in Swedish. * Outcome variable. ** Sometimes the truncated
+term vehicle flow is used as a synonym. *** Sometimes, the truncated term vehicle speed is used as a synonym.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+9 of 30
+2.4. Study Area
+The suburban area surrounds the urban core (see Figure 6) and features a diverse
+landscape comprising residential neighbourhoods, industrial zones, forests, and agricul-
+tural land. Residential areas primarily consist of single-family homes, while multi-story
+buildings are more common in densely populated districts. Population density generally
+increases with proximity to underground or commuter train stations.
+ 
+Figure 6. Aerial view of Greater Stockholm. The suburban study area is outside the yellow line.
+North is at the top of the image. (Copyright:Lantmäteriet, Gävle 2011. Permission 81055230). Figure 6
+has previously appeared in three publications (cf. [15–17]).
+The main roads often follow historical routes from the agricultural era, unlike the inner
+urban area, where streets are typically arranged in a grid pattern. Green spaces, including
+trees and gardens, are interspersed throughout the neighbourhoods, particularly around
+multi-story housing complexes.
+The region is situated within a rift valley landscape, characterized by mostly flat
+valleys and forests that extend from rural areas toward the city centre. Lakes, the Baltic
+Sea, and numerous islands further define the geography. Arterial highways traverse the
+landscape, connecting different parts of the region. More details on the study area can be
+found in the Statistical Yearbook of Stockholm [24].
+2.5. Statistical Analyses
+Data were entered into the Statistical Package for the Social Sciences (SPSS) and
+analyzed using version 27.0 (IBM SPSS Inc., Somers, NY, USA). Accuracy checks were
+performed on PACS Q2 data, including the variables from the ACRES. Only participants
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+10 of 30
+with complete ACRES data and background information (sex, age, education, and income)
+were included in the analyses. A significance level of p < 0.05 was applied.
+Differences in ratings of the variables between men and women were examined with
+independent t-tests.
+A visual inspection indicated that the data were approximately normally distributed.
+Before conducting the analyses, the linearity of environmental variables was assessed
+visually and found to be reasonably linear.
+Multicollinearity was assessed using the variance inflation factor (VIF), with a thresh-
+old of >0.80 indicating potential concerns [25] (p. 402). Although some high correlations
+were observed, the VIF values did not indicate serious multicollinearity issues according to
+Field [25] (p. 402)).
+The threshold for standardized residuals was set at ±3 standard deviations (SD). Some
+analyses produced residuals exceeding this limit; however, these outliers were included in
+the analyses, as they were relatively few and relatively close to the threshold. Additionally,
+Cook’s distance values did not indicate any cause for concern according to Field [25]
+(p. 383)). A table with the VIF, the standardized residuals, and the Cook’s distance is
+presented in Appendix A (Table A4).
+2.5.1. Background Variables
+In our multiple regression and mediation analyses, we included the following back-
+ground variables: sex (binary; coded as 0 for females and 1 for males), age (continu-
+ous), education (binary; 0 for university-level education and 1 for no university-level ed-
+ucation), and income (categorical; with three groups: 1 for ≤25,000 SEK/month, 2 for
+25,001–30,000 SEK/month, and 3 for ≥30,001 SEK/month). Note: SEK refers to Swedish
+kronor; approximately, 1 € ≈9 SEK and 1 US $ ≈8 SEK.
+2.5.2. Correlation Analyses (CA)
+Correlation analyses between the four predictor variables were assessed with Pearson’s
+correlation coefficient (r). The correlations were r ≤0.846.
+2.5.3. Multiple Regression Analyses (MRA)
+Multiple regression analysis was employed to investigate the relationships between
+predictor and outcome variables. Results from the linear regression are presented as y-
+intercepts, unstandardized coefficients (B) with their 95% confidence intervals, and the
+adjusted R2 for the overall models.
+2.5.4. Mediation Analyses (MA)
+In models where direct or indirect effects were hypothesized, mediation analyses were
+conducted using the PROCESS macro [26]. Results from these analyses are reported as
+standardized total, direct, and indirect effects of X on Y. Additionally, the percentage ratio
+of the standardized indirect effect to the standardized total effect is provided. By default,
+PROCESS employs 5000 bootstrap samples to compute confidence intervals. Indirect effects
+were deemed statistically significant if the 95% confidence interval did not include zero.
+3. Results
+3.1. Perceptions of the Environmental Variables in Men and Women
+Levels of the outcome variables hinders–stimulates walking and unsafe–safe traffic as
+well as of the predictor variables vehicle speed, vehicle flow, noise, and exhaust fumes are
+presented in Table 3. A significant difference was noted between men and women regarding
+hinders–stimulates walking; women had a higher mean value.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+11 of 30
+Table 3. Levels of perceptions and appraisals of the environmental variables in males and females
+(mean, SD, and (95% CI)).
+Outcome Variables
+Predictor Variables
+Hinders–Stimulates
+Walking *
+Unsafe–Safe Traffic
+Vehicle Speed
+Vehicle Flow
+Noise
+Exhaust Fumes
+Men (n = 43)
+10.3
+12.0
+8.37
+7.05
+7.09
+6.60
+3.30
+3.09
+3.72
+3.81
+3.57
+3.42
+(9.26–11.3)
+(11.0–12.9)
+(7.23–9.52)
+(5.87–8.22)
+(5.99–8.19)
+(5.55–7.66)
+Women (n =190)
+11.4
+12.2
+7.75
+6.66
+6.54
+6.49
+2.99
+3.22
+3.81
+4.29
+4.01
+4.03
+(11.0–11.9)
+(11.7–12.7)
+(7.20–8.29)
+(6.04–7.27)
+(5.97–7.12)
+(5.92–7.07)
+Notes: For an explanation of the scale, see Section 2.3.1. * Significant difference (p < 0.05).
+3.2. Correlations Between the Environmental Variables
+There were positive correlations (r) between all predictor variables (range: 0.509–0.846).
+In contrast, all predictor variables correlated negatively with the outcome variables hinders–
+stimulates walking (range: −0.286 to −0.532) and unsafe–safe traffic (range: −0.287 to −0.335)
+(Table 4, Figures 7 and A1 in Appendix A).
+Table 4. Correlation matrix for the environmental variables (r).
+Hinders–Stimulates
+Walking
+Unsafe–Safe
+Traffic
+Vehicle Speed
+Vehicle Flow
+Noise
+Exhaust Fumes
+Hinders–stimulates walking
+–
+Unsafe–safe traffic
+0.264 *
+–
+Vehicle speed
+−0.286 *
+−0.302 *
+–
+Vehicle flow
+−0.441 *
+−0.335 *
+0.667 *
+–
+Noise
+−0.532 *
+−0.314 *
+0.579 *
+0.846 *
+–
+Exhaust fumes
+−0.456 *
+−0.287 *
+0.509 *
+0.764 *
+0.811
+*
+–
+Note: * Pearson’s correlation coefficient (r) is significant at the 0.01 level.
+Figure 7. Correlation and regression coefficients between the four predictor variables. Notes: r = Pearson’s
+correlation coefficient and β = unstandardized beta. The figure is based on Tables 4 and 5.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+12 of 30
+Table 5. Relations between the predictor variables.
+y-Intercept
+Unstandardized B
+Model
+Outcome
+(95% CI)
+p-Value
+Predictor
+(95% CI)
+p-Value
+Adj. R2
+5:1
+Noise
+5.22
+<0.001
+Vehicle speed
+0.568
+<0.001
+0.366
+(2.61–7.84)
+(0.460–0.677)
+5:2
+Noise
+2.16
+0.017
+Vehicle flow
+0.777
+<0.001
+0.713
+(0.393–3.92)
+(0.709–0.844)
+5:3
+Exhaust fumes
+5.14
+<0.001
+Vehicle speed
+0.505
+<0.001
+0.263
+(2.33–7.95)
+(0.389–0.622)
+5:4
+Exhaust fumes
+2.12
+0.052
+Vehicle flow
+0.715
+<0.001
+0.577
+(−0.017–4.25)
+(0.633–0.797)
+5:5
+Exhaust fumes
+1.30
+0.187
+Noise
+0.818
+<0.001
+0.654
+(−0.637–3.25)
+(0.739–0.898)
+5:6
+Vehicle flow
+4.19
+0.001
+Vehicle speed
+0.710
+<0.001
+0.469
+(1.64–6.74)
+(0.604–0.816)
+Notes: The background variables sex, age, education, and income were included in the analysis. Only significant
+(p < 0.05) background variables are reported. The background variable age was significant in model 5:1: un-
+standardized B = −0.080 (p ≤0.001), model 5:3: unstandardized B = −0.056 (p = 0.016) and in model 5:6:
+unstandardized B = −0.076 (p ≤0.001).
+3.3. Relations Between the Predictor Variables
+The relations between the predictor variables were analyzed with multiple regression
+analyses. All regression coefficients were positive (range: 0.505–0.818; p < 0.001) (Table 5
+and Figure 7).
+3.4. Relations Between the Basic Variables and the Intermediate Outcomes
+Of the basic variables vehicle speed and vehicle flow in relation to the intermediate
+outcomes noise and exhaust fumes, only vehicle flow was significant. For all values, see Table 6
+and Figure 8.
+Table 6. Relations between the predictor variables vehicle speed and vehicle flow and the intermediate
+outcomes noise and exhaust fumes.
+Model
+Intermediate
+Outcome
+y-Intercept
+(95% CI)
+p-Value
+Predictor
+Unstandardized B
+(95% CI)
+p-Value
+Adj. R2
+6:1
+Noise
+2.05
+(0.25–3.85)
+0.026
+Vehicle speed
+0.031
+(−0.067–0.128)
+0.536
+0.712
+Vehicle flow
+0.758
+(0.668–0.848)
+<0.001
+6:2
+Exhaust
+fumes
+2.13
+(−0.05–4.32)
+0.055
+Vehicle speed
+−0.004
+(−0.122–0.114)
+0.945
+0.575
+Vehicle flow
+0.718
+(0.608–0.827)
+<0.001
+Notes: The background variables sex, age, education, and income were included in the analysis. Only significant
+(p < 0.05) background variables are reported. There were no significant background variables.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+13 of 30
+Figure 8. Regression coefficients between vehicle speed and vehicle flow in relation to noise and exhaust
+fumes. Notes: β = unstandardized beta. The figure is based on Table 6.
+3.5. Relations Between Individual Predictor Variables and the Outcome Hinders–Stimulates Walking
+All regression coefficients were significant and negative (range: −0.199 to −0.389)
+with the lowest value for vehicle speed and the highest for noise. For all the values, see
+Table A5 and Figure A1.
+3.6. Relations Between Combinations of Predictor Variables and the Outcome Hinders–Stimulates
+Walking
+In model 7:1, vehicle flow was negatively related to hinders–stimulates walking, and in
+7:2, noise had the equivalent role. When all the motorized traffic variables were included as
+predictors, only noise was negatively related to the outcome (Table 7 and Figure 9).
+Table 7. Relations between combinations of predictor variables and the outcome hinders–stimulates
+walking.
+Model
+Outcome
+y-Intercept
+(95% CI)
+p-Value
+Predictor
+Unstandardized B
+(95% CI)
+p-Value
+Adj. R2
+7:1
+Hinders–
+stimulates
+walking
+11.3
+(8.98–13.7)
+<0.001
+Vehicle speed
+0.014
+(−0.112–0.140)
+0.822
+0.208
+Vehicle flow
+−0.301
+(−0.418 to −0.184)
+<0.001
+7:2
+Hinders–
+stimulates
+walking
+12.4
+(10.2–14.6)
+<0.001
+Noise
+−0.333
+(−0.483 to −0.183)
+<0.001
+0.292
+Exhaust
+fumes
+−0.068
+(−0.215–0.079)
+0.361
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+14 of 30
+Table 7. Cont.
+Model
+Outcome
+y-Intercept
+(95% CI)
+p-Value
+Predictor
+Unstandardized B
+(95% CI)
+p-Value
+Adj. R2
+7:3
+Hinders–
+stimulates
+walking
+12.2
+(10.0–14.5)
+<0.001
+Vehicle speed
+0.025
+(−0.094–0.145)
+0.677
+0.287
+Vehicle flow
+0.037
+(−0.133–0.207)
+0.668
+Noise
+−0.371
+(−0.555 to −0.186)
+<0.001
+Exhaust
+fumes
+−0.080
+(−0.232–0.072)
+0.301
+Notes: The background variables sex, age, education, and income were included in the analysis. Only significant
+(p < 0.05) background variables are reported. Sex was significant in all models: 7:1: unstandardized B = −1.060
+(p = 0.027); 7:2: unstandardized B = −0.981 (p = 0.030); 7:3: unstandardized B = −0.991 (p = 0.029). Age was
+significant in model 7:1: unstandardized B = 0.042 (p = 0.031). Table 7 has previously appeared in Andersson [15].
+Figure 9. Regression coefficients between combinations of the predictor variables in relation to
+hinders–stimulates walking. Note: β = unstandardized beta. The figure is based on Table 7.
+3.7. Relations Between Individual Predictor Variables and the Outcome Unsafe–Safe Traffic
+All regression coefficients were significant and negative (range: −0.235 to −0.262),
+with the lowest value for exhaust fumes and the highest for vehicle flow. For all values, see
+Table A6, and Figure A1 in Appendix A.
+3.8. Relations Between Combinations of Predictor Variables and Unsafe–Safe Traffic as an Outcome
+In model 8:1, vehicle flow was negatively related to unsafe–safe traffic, and in 8:2, noise had
+the equivalent role. When all the motorized traffic variables were included as predictors,
+none was significantly related to the outcome (Table 8 and Figures 10 and 11).
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+15 of 30
+Table 8. Relations between combinations of predictor variables and unsafe–safe traffic as an outcome.
+Model
+Outcome
+y-Intercept
+(95% CI)
+p-Value
+Predictor
+Unstandardized B
+(95% CI)
+p-Value
+Adj. R2
+8:1
+Unsafe–safe
+traffic
+15.4
+(12.8–18.0)
+<0.001
+Vehicle speed
+−0.120
+(−0.260–0.019)
+0.089
+0.104
+Vehicle flow
+−0.188
+(−0.317 to −0.059
+0.005
+8:2
+Unsafe–safe
+traffic
+14.9
+(12.4–17.5)
+<0.001
+Noise
+−0.192
+(−0.369 to −0.015)
+0.033
+0.082
+Exhaust
+fumes
+−0.084
+(−0.258–0.090)
+0.343
+8:3
+Unsafe–safe
+traffic
+15.6
+(13.0–18.2)
+<0.001
+Vehicle speed
+−0.119
+(−0.259–0.021)
+0.095
+0.100
+Vehicle flow
+−0.113
+(−0.312–0.086)
+0.264
+Noise
+−0.058
+(−0.273–0.157)
+0.596
+Exhaust
+fumes
+−0.043
+(−0.221–0.135)
+0.634
+Notes: The background variables sex, age, education, and income were included in the analysis. There were no
+significant background variables. Table 8 has previously appeared in Andersson [15].
+Figure 10. Regression coefficients between combinations of the predictor variables in relation to
+unsafe–safe traffic. Notes: β = unstandardized beta. The figure is based on Table 8.
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+16 of 30
+Figure 11. Relations based on multiple regression analysis (MRA) are shown between the predictor
+variables (MRA 1) and between the predictor variables and the outcome variables (MRA 2). The solid
+arrows, based on Table 6, illustrate that when the basic variables are analyzed jointly as predictors,
+vehicle flow is positively related to both intermediate outcomes. The dashed arrow, based on Table 7,
+shows that when all motorized traffic variables are analyzed together as predictors, only noise is
+negatively related to hinders–stimulates walking. β = unstandardized beta.
+3.9. Mediation
+Mediation analyses were conducted in models where a potential mediating effect was
+of interest (Table 9). In addition to the previously analyzed variables, a composite variable
+was created by multiplying vehicle flow by vehicle speed, as this combination possibly could
+influence the outcome variables. Only mediated effects (p < 0.05) corresponding to 40% or
+more are commented upon. 40% was chosen since it represents a sizable effect.
+Table 9. Mediation analyses between the four predictor variables of motor traffic (MA 9:1–MA 9:4),
+between the same predictor variables and the two outcome variables (MA 9:5–MA 9:8), as well as between
+the composite variable (vehicle flow × vehicle speed) and the outcome variables (MA 9:9–MA 9:10).
+Standardized Total
+Effect of X on Y
+Standardized
+Direct Effect of X
+on Y
+Standardized Indirect Effect of X on Y
+Model
+Predictor
+(X)
+Mediator
+(M)
+Outcome
+(Y)
+b
+p-Value
+b
+p-Value
+b
+95% CI
+% of Total
+Effect *
+MA 9:1
+Vehicle flow
+Vehicle
+speed
+Noise
+0.829
+<0.001
+0.809
+<0.001
+0.020
+−0.050–0.087
+2
+MA 9:2
+Vehicle
+speed
+Vehicle flow
+Noise
+0.548
+<0.001
+0.029
+0.536
+0.518
+0.433–0.605
+95
+MA 9:3
+Vehicle flow
+Vehicle
+speed
+Exhaust
+fumes
+0.766
+<0.001
+0.768
+<0.001
+−0.003
+−0.084–0.082
+0
+MA 9:4
+Vehicle
+speed
+Vehicle flow
+Exhaust
+fumes
+0.489
+<0.001
+−0.004
+0.945
+0.493
+0.400–0.587
+101
+MA 9:5
+Vehicle flow
+Noise
+Hinders–
+stimulates
+walking
+−0.399
+<0.001
+0.042
+0.687
+−0.441
+−0.609 to
+−0.288
+111
+MA 9:6
+Vehicle
+speed
+Noise
+Hinders–
+stimulates
+walking
+−0.246
+<0.001
+0.039
+0.566
+−0.285
+−0.379 to
+−0.195
+116
+MA 9:7
+Vehicle flow
+Noise
+Unsafe–safe
+traffic
+−0.344
+<0.001
+−0.252
+0.033
+−0.092
+−0.274–0.082
+27
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+17 of 30
+Table 9. Cont.
+Standardized Total
+Effect of X on Y
+Standardized
+Direct Effect of X
+on Y
+Standardized Indirect Effect of X on Y
+Model
+Predictor
+(X)
+Mediator
+(M)
+Outcome
+(Y)
+b
+p-Value
+b
+p-Value
+b
+95% CI
+% of Total
+Effect *
+MA 9:8
+Vehicle
+speed
+Noise
+Unsafe–safe
+traffic
+−0.301
+<0.001
+−0.184
+0.017
+−0.117
+−0.224 to
+−0.028
+39
+MA 9:9
+Composite
+variable
+Noise
+Hinders–
+stimulates
+walking
+−0.349
+<0.001
+0.089
+0.330
+−0.438
+−0.595 to
+−0.298
+126
+MA 9:10
+Composite
+variable
+Noise
+Unsafe–safe
+traffic
+−0.330
+<0.001
+−0.212
+0.041
+−0.118
+−0.290–0.047
+36
+Notes: The covariables included in the analyses were sex, age, education, and income. Only significant background
+variables (p < 0.05) are reported. Age was significant in the following models with respect to the standardized total
+effect of X on Y: MA 9:2 (standardized b = −0.198, p < 0.001), MA 9:4 (standardized b = −0.140, p = 0.016), MA 9:5
+(standardized b = 0.134, p = 0.030), MA 9:6 (standardized b = 0.206, p = 0.001), and MA 9:9 (standardized b = 0.158,
+p = 0.011). Sex was significant in the following models with respect to the standardized total effect of X on Y: MA
+9:5 (standardized b = −0.133, p = 0.027), MA 9:6 (standardized b = −0.127, p = 0.046), and MA 9:9 (standardized
+b = −0.135, p = 0.028). Sex was also significant in the following models with respect to the standardized direct
+effect of X on Y: MA 9:5 (standardized b = −0.122, p = 0.033), MA 9:6 (standardized b = −0.124, p = 0.030), and
+MA 9:9 (standardized b = −0.121, p = 0.034). * Since the percentage of the standardized indirect effect of X on Y
+relative to the standardized total effect of X on Y is a ratio rather than a proportion (cf. [27]), it can exceed 100%.
+Table 9 has previously appeared in Andersson [15].
+An indirect effect of vehicle speed on noise is mediated by vehicle flow (95%), and an
+indirect effect of vehicle speed on exhaust fumes is mediated by vehicle flow (101%). Noise
+mediates the effect of vehicle flow, vehicle speed, and the composite variable to hinders–
+stimulates walking (the indirect effects were 111%, 116% and 126%, respectively).
+3.10. A Graphic Illustration of Significant Relations Based on the Commuting Pedestrians’
+Perceptions and Appraisals of Their Route Environments
+When adding significant indirect effects corresponding to 40% or more to Figure 11,
+and removing numerical data, the following graphic emerges, see Figure 12 (MA 9:9 not
+included). Note that we included MA 9:8 even if it did not reach 40% (the effect was 39%).
+Figure 12. The solid arrows are derived from the multiple regression analyses in Table 6 (MRA 1). These
+arrows show that when vehicle speed and vehicle flow are analyzed together as predictors, vehicle flow is related
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+18 of 30
+to both intermediate outcomes. The dashed arrow comes from the multiple regression analyses in
+Table 7 (MRA 2) and indicates that when all motorized traffic variables are considered as predictors,
+noise relates negatively to hinders–stimulates walking. The dotted arrows are based on mediation
+analyses in Table 9. These arrows illustrate that vehicle speed indirectly impacts noise and exhaust
+fumes through vehicle flow, and also influences both outcome variables through noise. Additionally,
+vehicle flow indirectly affects hinders–stimulates walking via noise. Figure 12 has previously appeared in
+Andersson [15].
+4. Discussion
+This is, to our knowledge, the first time that perceptions and relations between four
+variables connected to motorized vehicles and outcomes in terms of hindering–stimulating
+walking as well as unsafety–safety for reasons of traffic, are studied in suburban and rural
+settings using correlational, multiple regression, and mediation analyses with the aim of
+establishing relations between these variables.
+One of the primary results regarding the perceptions of four motorized traffic variables
+was that noise was the primary negative predictor variable in relation to hinders–stimulates
+walking. The regression equation was y = 12.2 −0.37 noise (all p-values ≤0.001, Adj.
+R2 = 0.29).
+Concerning the other outcome, unsafe–safe traffic, it was more difficult to identify a
+primary predictor variable, as none of the motorized traffic variables were significant when
+jointly analyzed in multiple regression analysis. Vehicle speed was the closest one (p = 0.095),
+thus suggesting a potential effect.
+The mediation analyses showed that (1) vehicle speed had an indirect effect on unsafe–
+safe traffic, via noise, (2) both vehicle speed and vehicle flow had, via noise, indirect effects on
+hinders–stimulates walking, and (3) vehicle speed had, via vehicle flow, an indirect effect on
+noise and exhaust fumes.
+How these and other relations can be further analyzed will be discussed below. In
+doing so, we will integrate the results from correlation (CA), multiple regression (MRA),
+and mediation (MA) analyses.
+We have previously studied how motorized traffic variables are perceived by pedestri-
+ans in the inner urban area of Stockholm [16]. For a comparison between perceptions in the
+two settings, see Table 10.
+Table 10. Mean scores of ratings on the Active Commuting Route Environment Scale (ACRES) for
+men and women walking to work in the inner urban and suburban areas (mean, SD).
+Outcome Variables
+Predictor Variables
+Hinders–Stimulates
+Walking
+Unsafe–Safe Traffic
+Vehicle Speed
+Vehicle Flow
+Noise
+Exhaust Fumes
+Inner urban
+(n = 294)
+10.4 ± 2.97
+10.9 ± 3.40
+9.57 ± 3.08
+10.2 ± 3.66
+9.87 ± 3.28
+9.74 ± 3.46
+Suburban
+(n = 233)
+11.2 ± 3.07
+12.2 ± 3.19
+7.86 ± 3.79
+6.73 ± 4.20
+6.64 ± 3.93
+6.52 ± 3.92
+Ratio
+inner
+urban/suburban
+0.93
+0.89
+1.22
+1.52
+1.49
+1.49
+Table 10 displays levels and ratios between perceptions of the motorized traffic vari-
+ables in the two environments. The ratios of the mean levels of the inner urban/suburban
+ratings of vehicle speed, vehicle flow, noise, and exhaust fumes are consistently above 1.0.
+This finding aligns with previous studies on cycle commuters in the same settings (see
+Table 11 [18,19]).
+https://doi.org/10.3390/ijerph23020206
+
+Int. J. Environ. Res. Public Health 2026, 23, 206
+19 of 30
+Table 11. Mean scores of ratings on the Active Commuting Route Environment Scale (ACRES) for men
+and women cycling to work in the inner urban and suburban areas (mean, SD). Data from [18,19].
+Outcome Variables
+Predictor Variables
+Hinders–Stimulates
+Cycling
+Unsafe–Safe Traffic
+Vehicle Speed
+Vehicle Flow
+Noise
+Exhaust Fumes
+Inner urban
+(n = 821)
+9.16 ± 3.32
+8.53 ± 3.69
+9.45 ± 2.83
+11.1 ± 3.34
+9.62 ± 3.04
+9.91 ± 3.15
+Suburban
+(n = 1098)
+11.3 ± 2.84
+11.49 ± 2.96
+8.40 ± 3.25
+7.52 ± 3.95
+6.95 ± 3.56
+6.72 ± 3.55
+Ratio
+inner
+urban/suburban
+0.81
+0.74
+1.22
+1.48
+1.38
+1.47
+4.1. The Relationships Between Perceptions of the Predictor Variables of Motorized Traffic
+A few high correlations were identified between the predictor variables of motor
+traffic, e.g., between noise and vehicle flow (r = 0.85) followed by between noise and exhaust
+fumes (r = 0.81). High correlations can be problematical when trying to pinpoint the role of
+a specific variable in relation to an outcome, e.g., hinders–
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

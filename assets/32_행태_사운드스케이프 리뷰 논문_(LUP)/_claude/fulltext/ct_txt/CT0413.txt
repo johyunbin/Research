@@ -1,0 +1,858 @@
+Understanding the cooling and air purification effects of green spaces on 
+running behavior — Evidence from Guangzhou
+Mingke Xie a, Zhangxian Feng a,b,*, Shijun Wang a,b, Ao Qi a, Jie Ren a
+a School of Geographical Sciences, Northeast Normal University, Changchun, Jilin 130024, China
+b Key Laboratory of Geographical Processes and Ecological Security in Changbai Mountains, Ministry of Education, Changchun, Jilin 130024, China
+A R T I C L E I N F O
+Keywords:
+Green space
+Urban heat
+Air pollution
+Running behavior
+PLS-SEM
+A B S T R A C T
+Currently, there is a lack of research exploring the role of green spaces in mitigating the impacts of heat and air 
+pollution on running activities. Employing Partial Least Squares Structural Equation Modeling (PLS-SEM) to 
+compare water-friendly and non-water-friendly streets, we examined how green spaces promote running 
+behavior through cooling effects and air purification, mitigating heat and air pollution. The results showed that 
+running hotspots were primarily located near green spaces, bodies of water, and student-dense areas, while cold 
+spots were found near government offices, commercial zones, and sparsely populated areas. Water-friendly 
+streets exhibited significantly higher running intensity compared to non-water-friendly streets. The PLS-SEM 
+results indicated that green spaces directly encouraged running behavior and indirectly promoted it by 
+improving thermal conditions and air quality. Moreover, the cooling effects of green spaces were generally 
+stronger than their air purification effects, with non-water-friendly streets showing more significant cooling 
+benefits. These findings can help urban planners and policymakers understand the spatial patterns of running 
+activity, offering insights into the design of more attractive, comfortable, and runner-friendly streets by 
+addressing heat and air pollution.
+1. Introduction
+Running, because of its low cost, broad accessibility, and fitness 
+benefits, has become the frequent choice of daily exercise for many 
+people. Studies show that running not only significantly improves car­
+diovascular function and reduces the risk of chronic diseases but also 
+effectively relieves stress and enhances mental health (Huang et al., 
+2023a; Schuurman et al., 2021). As sedentary lifestyles and a lack of 
+physical exercise pose significant risks to public health and well-being 
+(Althoff et al., 2017; Harden et al., 2022; Rosenkrantz et al., 2024; Yang 
+et al., 2024b), actively promoting the health benefits of running is 
+essential. Correspondingly, creating “runner-friendly” cities has become 
+increasingly urgent. However, compared to research on walking and 
+cycling, studies on running behavior remain relatively scarce. Given 
+differences in pace and breathing patterns, environments that appeal to 
+walkers and bikers might not appeal to runners (Aultman-Hall et al., 
+1997; Salazar Miranda et al., 2021). Therefore, getting a clearer grasp of 
+the patterns and behaviors of runners not only holds great practical 
+importance for urban planners but also offers significant theoretical 
+value to the fields of urban and health geography.
+The rapid pace of urbanization has brought about significant issues 
+(Ma et al., 2018). Among these, air pollution and heat discomfort are 
+considered two of the biggest urban issues by cities across the globe 
+(Akbari et al., 2001; Ngarambe et al., 2021). As one of the fastest- 
+developing countries, China has experienced its share of persistent air 
+pollution and widespread extreme heat events lately (Sun et al., 2024; 
+Wang et al., 2024). These issues not only harm the ecosystem but also 
+pose significant health risks to residents (Cao et al., 2016; Peng et al., 
+2016). Particularly for runners, who typically engage in moderate- to 
+high-intensity physical activity in public spaces, prolonged exposure to 
+polluted air and elevated ambient temperatures can substantially in­
+crease the risks of respiratory, cardiovascular, and heat-related illnesses. 
+These environmental stressors therefore constitute critical constraints 
+on participation in outdoor running and can markedly impair running 
+performance.
+High temperatures have become a key environmental factor influ­
+encing running behavior and a significant health risk for running during 
+the summer (Hajat et al., 2010). Excessive heat exposure can raise a 
+* Corresponding author at: School of Geographical Sciences, Northeast Normal University, 5268 Renmin Street, Changchun, 130024, Jilin Province, China.
+E-mail addresses: xiem0788@nenu.edu.cn (M. Xie), fengzx092@nenu.edu.cn (Z. Feng), wangsj@nenu.edu.cn (S. Wang), qiao396@nenu.edu.cn (A. Qi), renjie@ 
+nenu.edu.cn (J. Ren). 
+Contents lists available at ScienceDirect
+Journal of Transport Geography
+journal homepage: www.elsevier.com/locate/jtrangeo
+https://doi.org/10.1016/j.jtrangeo.2026.104653
+Received 28 June 2025; Received in revised form 17 March 2026; Accepted 31 March 2026 
+Journal of Transport Geography 133 (2026) 104653 
+Available online 6 April 2026 
+0966-6923/© 2026 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+runner's body temperature beyond safe limits, leading to energy 
+imbalance and triggering symptoms such as heatstroke and dehydration 
+(Deng et al., 2018), while also significantly reducing exercise efficiency 
+and the body's recovery capacity. More broadly, running in the heat 
+poses substantial challenges to thermal comfort, perception of the 
+running environment, and overall physical and mental well-being 
+(Zhang et al., 2019). In this context, individuals often adopt behav­
+ioral adaptations and avoidance strategies, such as reducing running 
+frequency, shortening exercise duration, or adjusting route choices 
+(Kondo et al., 2021; Lu et al., 2026). Taken together, high temperatures 
+not only constitute a direct physiological health risk but also function as 
+a perceptible environmental constraint that continuously shapes 
+running behavior and spatial choices.
+Currently, only a few studies have specifically examined the impact 
+of air pollution on runners, a topic that remains underexplored 
+(Hodgson and Hitchings, 2018; Huang et al., 2023a; Huang et al., 
+2023b). The most direct impact of air pollution is physiological; it affects 
+lung function and arterial pressure and increases the risk of heart con­
+ditions, diabetes, and cancer (Beelen et al., 2014). These health risks 
+may outweigh the physical benefits of outdoor exercise, reducing both 
+its frequency and duration (Tainio et al., 2021). Pollutants like smog can 
+also reduce outdoor visibility, discouraging participation in outdoor 
+activities (Roberts et al., 2014). In addition, compared with ordinary 
+walking or other recreational activities, runners exhibit greater venti­
+lation volumes and higher breathing rates during exercise (Badland and 
+Duncan, 2009). As a result, runners are more likely to inhale larger 
+amounts of pollutants in polluted environments, thereby affecting ex­
+ercise performance and post-exercise recovery (Bigazzi and Figliozzi, 
+2014). Therefore, changes in air pollution levels are likely to influence 
+running behavior by altering runners' environmental pollution exposure 
+and their subjective perception of health risks. When combined, air 
+pollution and extreme heat can accelerate physical deterioration, 
+affecting both performance and mental well-being (Chen et al., 2023). 
+Although current research examining the direct impact of air pollution 
+and high temperatures on runners is limited, these factors may influence 
+running behavior in similar ways. These conditions discourage outdoor 
+running, highlighting the need for urban planners to identify cost- 
+effective solutions to these environmental challenges.
+Green spaces may be vital for lessening the negative effects of air 
+pollution and high temperatures on runners (Feyisa et al., 2014; Yang 
+et al., 2005). The cooling effect of green spaces is well-established, 
+driven by three main factors. First, green spaces improve ventilation, 
+lowering temperatures (Lai et al., 2023). Second, plant leaves, canopies, 
+and trunks absorb or scatter visible light, reducing heat reaching the 
+ground (B. Huang et al., 2022b). Third, plants lower temperatures 
+through transpiration, raising humidity (Salata et al., 2017). Vegetation 
+abundance influences these effects, but the morphology of green spaces, 
+including size and complexity, also plays a crucial role (Yang et al., 
+2020). In some cases, green space morphology may have a stronger 
+cooling effect than vegetation abundance itself (Peng et al., 2016). 
+Despite growing interest, research on green space morphology's cooling 
+effects still requires further investigation.
+The air-purification effects of green space have also been well 
+documented in the literature (Ai et al., 2023; Liu et al., 2022b), with 
+evidence showing that vegetation can remove atmospheric pollutants 
+through processes such as adsorption and filtration. However, their net 
+effects are complex and may vary or be uncertain depending on vege­
+tation characteristics, spatial configuration, and other contextual factors 
+(Zheng et al., 2021). Specifically, green spaces can purify air by 
+improving ventilation, absorbing toxins via leaf pores (Beckett et al., 
+2000), and trapping particulate pollutants (Diener and Mudu, 2021). 
+However, aerodynamic effects depend on environmental factors like 
+vegetation density and weather conditions (Santiago and Rivas, 2021). 
+Dense canopies or tall trees may hinder pollutant dispersion or cause 
+localized thermal inversions, trapping pollutants (Buccolieri et al., 
+2018). The relationship between sedimentation and aerodynamic effects 
+is complex (Grylls and Van Reeuwijk, 2022). Additionally, the layout of 
+green spaces can influence air purification, as fragmented spaces may 
+reduce ventilation, and in some cases, vegetation may exacerbate 
+pollution by emitting organic compounds that create secondary pollu­
+tion (Duan et al., 2023). Green spaces can reduce pollutant concentra­
+tions in multiple contexts through processes such as particle deposition, 
+turbulence, and modulation of ventilation conditions, but their effec­
+tiveness still exhibits significant uncertainty across different urban 
+forms, pollutant types, and green space configurations (Pugh et al., 
+2012). Therefore, in specific urban environments, quantifying the 
+combined effects of different green space characteristics on multiple air 
+pollutants remains critical for optimizing design to maximize health 
+benefits.
+For runners in particular, Green spaces positively affect residents' 
+behaviors through bio-psycho-social functions and health benefits. 
+Humans have an inherent tendency to connect with nature (Hanaˇcek 
+et al., 2024), and green spaces offer visual appeal, tranquility, and safety 
+for activities, improving perceptions of the environment (Liu et al., 
+2022a). They also promote physical activity, improve health, and pro­
+vide restorative environments that reduce stress and enhance mental 
+well-being (Mazumdar et al., 2020). Although research on running 
+behavior remains limited, urban green spaces likely influence running in 
+a similar way to pedestrians, cyclists, and drivers. However, this needs 
+further validation. Despite the benefits, green spaces may have negative 
+effects, such as increased exposure to allergens, harmful chemicals, and 
+disease vectors in certain conditions, leading to risks like allergies and 
+asthma (Fan et al., 2020). Nevertheless, their positive impact on 
+mobility and well-being is generally supported (Arnberger and Eder, 
+2012; Persson et al., 2019).
+Current research on the factors influencing running behavior pri­
+marily adopts two types of models: linear and nonlinear. Linear models 
+are built on the assumption of a linear relationship between variables. 
+Various linear models, such as logistic regression, negative binomial 
+regression, multilevel regression, and OLS regression, have been widely 
+used to examine the impact of built environment factors on running 
+behavior (Chen et al., 2020; D. Huang et al., 2022a; Huang et al., 2023b; 
+Liu et al., 2022a). In addition, spatial regression models—a variant of 
+linear models that account for spatial heterogeneity—have also been 
+extensively applied. For example, models such as spatial error models, 
+spatial lag models, GWR, and MGWR have been employed to explore the 
+spatial heterogeneity of built environment factors on running behavior 
+in cities like Chengdu, Massachusetts, Helsinki, and Guangzhou (Dong 
+et al., 2023; Huang et al., 2023a; Xie et al., 2025; Yang et al., 2023). In 
+recent years, the rise of machine learning methods has provided 
+powerful tools for capturing the nonlinear effects and critical thresholds 
+of environmental factors on running behavior. For instance, (Yang et al., 
+2025) applied a random forest model to investigate the nonlinear impact 
+of environmental factors on running behavior in Shenzhen. (Gu et al., 
+2025) utilized the advanced XGBoost model to quantify the cooling ef­
+fects of green spaces on running behavior from a nonlinear and inter­
+active perspective. Additionally, (Yang et al., 2024a; Yang et al., 2024b) 
+adopted interpretable models such as GBDT and GW-RF to explore the 
+influence of environmental factors on jogging behavior in Beijing. 
+However, despite the progress made by both linear and nonlinear 
+models in revealing the effects of environmental factors on running 
+behavior, most studies have focused solely on the direct effects of in­
+dividual variables. Research from the perspective of mediating effects, 
+which can help uncover the underlying mechanisms through which 
+environmental factors indirectly influence running behavior, remains 
+limited. Partial Least Squares Structural Equation Modeling (PLS-SEM) 
+offers a significant advantage in addressing this gap. This approach is 
+particularly suitable for our study, as it allows us to model both the 
+direct and indirect pathways through which green spaces influence 
+running behavior, while accounting for the mediating effects of envi­
+ronmental factors such as air pollution and high temperatures (Xie et al., 
+2024). Moreover, PLS-SEM enables the construction of latent variables 
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+2 
+
+using multiple composite indicators (Zhu et al., 2019). For example, 
+green spaces can be comprehensively represented by indicators such as 
+the NDVI, Green View Index, and Green Morphology Indexes, over­
+coming the limitations of single-indicator models. Therefore, this study 
+adopts the PLS-SEM approach to investigate the cooling and air purifi­
+cation effects of green spaces on running behavior.
+There are several gaps in the current body of research. First, studies 
+on running behavior remain relatively limited. The existing literature 
+tends to focus on the impact of urban form on walking and biking at the 
+community and street scales. Nevertheless, unlike these activities, 
+running is different in several key ways, and the environments that 
+attract runners may not align with those that appeal to walkers or cy­
+clists. Second, when modeling the factors that influence running 
+behavior, most studies rely on single-equation regression models. 
+However, this approach often overlooks the complex mediating effects 
+between variables. By focusing on individual factors, these studies 
+struggle to capture the dynamic interactions between influential ele­
+ments, largely due to the inherent complexity of urban systems and the 
+diverse pathways through which they exert influence. Third, the char­
+acterization of green spaces and air pollution in the literature is often 
+incomplete, failing to encompass the full range of their attributes. For 
+example, many studies measuring green spaces use NDVI to capture 
+horizontal abundance. Recent research has introduced GVI to measure 
+vertical abundance (Rao et al., 2024); however, a more comprehensive 
+understanding of the effect of green spaces' morphology on running, 
+such as shape, size, density, and connectivity influence mobility, is still 
+lacking (De Clercq et al., 2007; Wang and Tassinary, 2024; Zhang et al., 
+2020). Similarly, studies on air pollution tend to focus on one or a few 
+pollutants, neglecting the combined effects of multiple pollutants. 
+Finally, the relationships among green spaces, high temperatures, and 
+air pollution remain unclear, and their combined effects on running 
+behavior have not been thoroughly explored. A few studies have inde­
+pendently examined the cooling and air-purifying effects of green spaces 
+on health, providing indirect evidence of these interactions. However, as 
+per our understanding, this is the pioneering research to integrate these 
+factors into a single framework. Specifically, we designed and tested the 
+cooling and air-purifying effects of green spaces during running, 
+addressing a significant gap in the existing research.
+To address these gaps, we use running route data from Guangzhou, 
+available from Keep, to apply spatial analysis to explore runners' envi­
+ronmental preferences. Additionally, we employ PLS-SEM to quantify 
+the cooling and air purification effects of urban green spaces on runners 
+during their activity. The focus of this study is to characterize the spatial 
+distribution patterns of urban running activities, assess the environ­
+mental effects generated by green spaces along running routes during 
+runners' activities, and further examine whether the cooling and air 
+purification effects influence running intensity through mediating 
+mechanisms, thereby revealing the intrinsic relationship between green 
+space environmental effects and running behavior.
+The purpose of this research is to tackle the listed issues: 
+(1) What are the key characteristics of the geographic patterns of 
+urban running activities?
+(2) Do urban green spaces indeed provide air purification and cool­
+ing effects for runners? If so, to what extent do these effects 
+enhance runners' performance and running intensity?
+Although running behavior is an emerging research topic within 
+urban and health geography, a systematic research framework does not 
+yet exist. This study makes several important contributions to that goal. 
+First, by delving into the spatial patterns of running behavior, this paper 
+complements and expands the existing body of theory, filling gaps in the 
+current literature. Capturing the environmental preferences of outdoor 
+runners sheds light on the spatial distribution and driving forces behind 
+running behavior, offering new insights into the complex interactions 
+between urban space and health-related behaviors. Second, the study 
+quantifies the specific pathways through which green spaces influence 
+running behavior. Incorporating air pollution and high temperatures as 
+mediating variables highlights their critical roles in the relationship 
+between green spaces and running activities. As we are aware, this 
+represents the first exploration of integrating high temperatures, air 
+pollution, and running behavior into a unified analytical framework, 
+providing a fresh perspective on the mechanisms by which green spaces 
+affect running behavior. Finally, from a bottom-up perspective, the 
+study encourages urban planners to develop a more profound insight 
+into the design and management of public spaces, particularly the 
+environmental vulnerabilities that may be hidden along running routes. 
+The study offers targeted recommendations to improve the running 
+environment for urban residents by identifying these vulnerabilities, 
+ultimately contributing to better public health and well-being.
+2. Data and methods
+2.1. Study area overview
+Guangzhou, a major city in China's Pearl River Delta, is one of 
+China's nine national central cities. The city has a strong running culture, 
+supported by a comprehensive infrastructure and government funding. 
+However, outdoor running in Guangzhou still faces two major chal­
+lenges: high summer temperatures and air pollution. The city experi­
+ences a marine subtropical monsoon climate, with summer average 
+temperatures typically ranging from 28 ◦C to 34 ◦C, peaking in July and 
+August. Meanwhile, air pollution remains a persistent issue, mainly 
+originating from vehicle emissions, industrial discharges, and secondary 
+pollutants formed under strong sunlight and high temperatures. The 
+intense summer sunlight accelerates ozone formation, making it the 
+primary pollutant affecting Guangzhou's air quality, with concentrations 
+reaching 130–202 μg/m3. These factors collectively pose adverse effects 
+on air quality and outdoor physical activities. Urban green spaces are a 
+key component of Guangzhou's built environment and ecological sys­
+tem, playing a crucial role in boosting air quality, alleviating urban heat, 
+and encouraging outdoor activities like running. Known as the “City of 
+Flowers”, Guangzhou has a green coverage rate of 43.8% and over 1500 
+parks. The city has established a comprehensive and well-connected 
+green space system, making Guangzhou an ideal case for studying 
+how urban green spaces influence running behavior.
+The center of Guangzhou, consisting of the Yuexiu, Tianhe, Haizhu, 
+Liwan, and Baiyun districts, serves as the representative area for this 
+study, as it encompasses many of the city's most iconic urban landscapes. 
+This core area is delineated by the intersection of the Guangzhou Ring 
+Expressway with the jurisdictional limits of the above districts, covering 
+a total area of roughly 214.57 km2. The selected zone is characterized by 
+a high concentration of urban features and includes many of the city's 
+most popular running routes. Using the OSM road network as a foun­
+dation, we created buffer zones using the ArcScan tool and conducted 
+topological checks to extract the road center lines within the study area. 
+The simplified road network is shown in Fig. 1. Water systems adjacent 
+to the green spaces offer additional cooling effects; therefore, we clas­
+sified the streets within the study area as either water-friendly streets, 
+located within 200 m of the nearest body of water, or non-water-friendly 
+streets, situated beyond 200 m away (Xu and Zhao, 2023). This classi­
+fication fully accounts for the potential cooling effects of water systems, 
+providing a clearer understanding of how green spaces impact the 
+comfort levels of runners by influencing environmental temperatures.
+2.2. Research approach
+The study approach consisted of three main steps (Fig. 2). In the first 
+step, we calculated the running intensity for each street. Specifically, a 
+20-m buffer zone was created around a simplified road network based on 
+the OSM. Then the Keep running route data for Guangzhou was clipped 
+and preprocessed to match the research units. Applying the “Summarize 
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+3 
+
+Within” function in ArcGIS Pro 2.8, we calculated the cumulative dis­
+tance of running trails within each street's 20-m buffer zone. Buffers with 
+a total route length of zero were removed. The running intensity for each 
+remaining street was then computed by dividing the total route length 
+by the buffer area. In the second step, we calculated and collected the 
+variables. Twenty-two target variables were computed across seven 
+categories: urban green spaces, air pollution, building characteristics, 
+traffic factors, urban blue spaces, surface temperature, and population 
+density. These variables are derived from street view imagery, multi- 
+source remote sensing data, and building vector data. Buffer zones of 
+50, 100, 150, and 200 m were created around the road center lines, and 
+the values of the 22 variables calculated for each buffer. In the third step, 
+we constructed the PLS-SEM. Based on the potential cooling and air 
+purification effects of urban green spaces on runners, we used the 
+“plspm” package in R to build two PLS-SEMs—one for streets with water 
+features and one for streets without. The models' validity and reliability 
+were tested, and the optimal PLS-SEM for each scenario was identified 
+and compared. Using the results from the best models, we analyzed the 
+cooling and air purification roles that urban green spaces play in influ­
+encing running behavior.
+2.3. Indicators, data sources, and processing
+2.3.1. Running intensity
+Using API analysis and reverse engineering tools, we extracted 
+running trajectory data for Guangzhou from Keep for August 2019, 
+employing “Guangzhou” as the search key term. The dataset was then 
+filtered based on the study area; duplicate records, extremely short trips, 
+and invalid trajectories with incorrect sites were eliminated. Next, we 
+divided the street network into segments according to road intersection 
+rules and created 20-m buffer zones around each segment. For each 
+buffer zone, we calculated the total length of running trails that inter­
+sected or were entirely inside the buffer. The running intensity for each 
+street segment was then calculated by dividing the total length of each 
+running route by the corresponding buffer area. After excluding seg­
+ments without any running routes, 10664 street units were included in 
+the study, with running intensities between 0.000013 and 17.645459 
+m/m2.
+2.3.2. Urban green spaces
+The morphology of urban green spaces plays a crucial role in shaping 
+environmental effects and human activity patterns (Xu et al., 2025a). In 
+this study, we characterized urban green spaces from two perspectives: 
+abundance and morphology. Abundance is measured using NDVI, which 
+represents vegetation abundance, and GVI, which represents the amount 
+of greenery visible to runners along the streets. The NDVI dataset for 
+Guangzhou was generated using the GEE platform based on all available 
+Landsat 5/7/8 data from 2019. After applying cloud masking, shadow 
+filtering, and interpolation techniques, we calculated the NDVI value for 
+each valid observation. The highest NDVI value for each pixel over the 
+year was determined using linear interpolation and Savitzky-Golay 
+smoothing. After cells with negative NDVI values were removed, the 
+average NDVI for each street buffer zone was calculated. The GVI was 
+calculated using Baidu Street View images. A simplified road network 
+was used to generate 11,904 street-view sampling points at 100-m in­
+tervals. Python scripts extracted panoramic images from these points, 
+and PSPNet semantic segmentation was applied to calculate the GVI for 
+each point. The average GVI was then determined for four different 
+street buffer zones.
+Green space morphology was described using six indices: the Ag­
+gregation Index (AI), Mean Patch Area (AREA_MN), Patch Cohesion 
+Index (COHESION), Landscape Connectivity Index (CONNECT), Patch 
+Density (PD), and Area-Weighted Mean Shape Index (SHAPE_AM). 
+These indices reflect the aggregation, size, connectivity, patch frag­
+mentation, and shape complexity of green spaces, respectively. The data 
+for green space morphology were derived from Guangzhou's green-space 
+raster data from 2020, sourced from the Earth System Science Data 
+(ESSD). Fragstats 4.3 was used to compute these indices.
+2.3.3. Air pollution
+Given the data available, we selected five common air 
+pollutants—O3, CO, NO2, PM2.5, and PM10—to evaluate the effect of air 
+pollution on runners' behavior. The base data for these pollutants were 
+sourced from the Chinese High-Resolution Air Pollutant dataset (CHAP) 
+for Guangzhou in August 2019, with an original spatial resolution of 1 
+km, representing the highest publicly available multi-pollutant raster 
+product. We then used the “Resample” tool in ArcGIS Pro to spatially 
+scale the raster data, resampling all air pollution rasters to a 100 m 
+resolution. This resampling process was intended to avoid spatial 
+overlay bias caused by scale inconsistency and is a standard practice for 
+analyzing continuous raster variables (Cai et al., 2022; Parvar et al., 
+2024). Then, using the “Zonal Statistics” tool in ArcGIS Pro, we calcu­
+lated the average concentration of each pollutant within the four types 
+of street buffer zones.
+2.3.4. Surface temperature
+Land surface temperature (LST) is an important proxy for charac­
+terizing runners' micro-environmental heat exposure and thermal com­
+fort, directly reflecting the thermal state of the underlying surface 
+encountered during outdoor activities. Under direct sunlight, high- 
+temperature surfaces such as asphalt, concrete, and building facades 
+continuously emit longwave radiation to the human body, and LST can 
+Fig. 1. Overview of the study area.
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+4 
+
+Fig. 2. Technical route.
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+5 
+
+directly represent these surface temperatures and their spatial distri­
+bution (Chen and Wei, 2025; Wang et al., 2025). Therefore, higher LST 
+generally corresponds to less favorable running micro-environmental 
+conditions, which may influence spatial choices of running and 
+prompt runners to avoid high-temperature segments. The satellite im­
+ages for land surface temperature (LST) were sourced from the Landsat 
+8–9 OLI/TIRS C2 L2 series, downloaded from the U.S. Geological Survey 
+(USGS, https://earthexplorer.usgs.gov). These images are pre-processed 
+by the USGS; therefore, they require no additional atmospheric or 
+radiometric corrections and are ready for direct LST retrieval. To cap­
+ture summer heat conditions in Guangzhou, our data selection criteria 
+included clear skies, calm winds, minimal to no cloud cover, and high- 
+temperature days occurring between June and August (maximum tem­
+peratures of 35 ◦C or higher). We intended to align the data with the 
+2019 timeframe of our other datasets. However, extensive searches of 
+the Landsat 8 OLI/TIRS imagery from 2017 to 2022 revealed the poor 
+quality of Guangzhou's 2019 summer data due to cloud cover, making it 
+unsuitable for LST retrieval. After evaluating all available images, we 
+found that only two dates met our quality standards: July 22, 2018, and 
+August 28, 2020. To avoid biases from a single time point, we selected 
+both of these high-quality images. Using ENVI software, we applied the 
+formula “Temp = DN*0.00341802 + 149–273.15” to retrieve the LST 
+for both dates. We then processed any outliers and calculated the 
+average temperature, resulting in the final LST raster data set for this 
+study.
+2.3.5. Other indicators
+In this study, we selected three latent variables—building factors, 
+transportation factors, and blue space factors—and one observed vari­
+able—population—as control variables for running intensity. The latent 
+variable related to building factors is represented by building density, 
+building height, and building enclosure ratio. The raw data for building 
+density and building height came from the 2020 Zenodo database. In 
+this study, building density refers to the total building area relative to 
+the land area within each street segment's buffer zone, while building 
+height is derived from the height attributes of vector data. The building 
+enclosure ratio was calculated similarly to GVI as mentioned earlier, 
+using a semantic segmentation process based on Baidu Street View 
+maps. For transportation factors, the latent variable is represented by 
+the density of traffic signals and public transportation stops. Both 
+datasets were sourced from 2019 POI data on the Amap Open Platform. 
+The density values were calculated by dividing the total number of 
+Table 1 
+Variable description and data sources.
+Variable type
+Variable name
+Observed variables for 
+latent variables
+Calculation
+Abbreviation
+Source
+Year
+Resolution
+Explained 
+observed 
+variable
+Running 
+intensity
+Total length of running routes/ 
+Area of the buffer zone
+R
+Keep app
+2019
+Line features
+Latent variable
+Green spaces
+NDVI
+Average value of NDVI
+G1
+United States 
+Geological Survey
+2019
+30 m
+GVI
+Average value of GVI
+G2
+Baidu Street View 
+Maps
+2019
+Point 
+features
+Aggregation index
+Average value of AI
+G3
+Earth System Science 
+Data
+2020
+1 m
+Mean patch area
+Average value of AREA_MN
+G4
+Earth System Science 
+Data
+2020
+1 m
+Patch cohesion index
+Average value of COHESION
+G5
+Earth System Science 
+Data
+2020
+1 m
+Landscape connectivity 
+index
+Average value of CONNECT
+G6
+Earth System Science 
+Data
+2020
+1 m
+Patch density
+Average value of PD
+G7
+Earth System Science 
+Data
+2020
+1 m
+Area-weighted mean 
+shape index
+Average value of SHAPE_AM
+G8
+Earth System Science 
+Data
+2020
+1 m
+Latent variable
+Air pollution
+O3
+Average O3 concentration
+A1
+China High Air 
+Pollutants
+2019
+100 m
+CO
+Average CO concentration
+A2
+China High Air 
+Pollutants
+2019
+100 m
+NO2
+Average NO2 concentration
+A3
+China High Air 
+Pollutants
+2019
+100 m
+PM2.5
+Average PM2.5 concentration
+A4
+China High Air 
+Pollutants
+2019
+100 m
+PM10
+Average PM10 concentration
+A5
+China High Air 
+Pollutants
+2019
+100 m
+Latent variable
+Building factors
+Building density
+Built area/buffer area
+BF1
+Zenodo
+2020
+Polygon 
+features
+Building height
+Average building height
+BF2
+Zenodo
+2020
+Polygon 
+features
+Building enclosure
+Average value of BEI
+BF3
+Baidu Street View 
+Maps
+2019
+Point 
+features
+Latent variable
+Traffic factors
+Traffic signal density
+Number of traffic signals/buffer 
+area
+T1
+Amap
+2019
+Point 
+features
+Public transportation 
+station density
+Number of public transportation 
+stations/buffer area
+T2
+Amap
+2019
+Point 
+features
+Latent variable
+Blue spaces
+Inverse of the distance to 
+blue spaces
+1/distance to blue spaces
+BS1
+Google Earth Engine 
+platform
+2019
+90 m
+Blue space density
+Water system area/buffer area
+BS2
+Google Earth Engine 
+platform
+2019
+90 m
+Observed variable
+Surface 
+temperature
+Average surface temperature
+Temp
+United States 
+Geological Survey
+2018, 
+2020
+30 m
+Observed variable
+Population 
+density
+Average population density
+Pop
+WorldPop platform
+2019
+100 m
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+6 
+
+traffic signals or public transportation stops within the street buffer zone 
+by the buffer area. Regarding blue space factors, the latent variable is 
+represented by the inverse distance to and the density of blue spaces. We 
+converted 2019 body of water raster images from the Google Earth 
+Engine platform (Sentinel-2) into vector polygon data and used the 
+“Near” function in ArcGIS Pro 2.8 to measure the distance from each unit 
+to the nearest body of water. Additionally, the “Summarize Within” tool 
+was used to calculate the blue space density within every buffer. Finally, 
+the observed variable, population density, is the average population 
+density within each buffer, based on 2019 data sourced from the 
+WorldPop Platform (See Table 1).
+2.4. PLS-SEM
+PLS-SEM is an approach used to analyze data from multiple observed 
+variables by integrating them into latent variables and examining the 
+linear associations between these latent variables (Xie et al., 2024). The 
+model consists of two main parts: the measurement model and the 
+structural model. The model is constructed (Yen et al., 2017) by 
+assessing latent composite predictors in the outer model and evaluating 
+path coefficients between latent variables in the inner model. Compared 
+to covariance-based SEM (CB-SEM), PLS-SEM offers several advantages 
+(Westerholt et al., 2022): (1) it does not require data to follow a normal 
+distribution, enhancing estimation accuracy and applicability; (2) its 
+predictive capability allows for causal interpretations even in the 
+absence of strong theoretical guidance; and (3) it can be applied even 
+when fewer than three observed indicators exist for a latent variable. 
+Given that this study primarily focuses on exploring the relationships 
+between latent variables, rather than emphasizing the role of individual 
+observed indicators in the model, PLS-SEM is particularly suitable. This 
+approach allows us to effectively capture the complex mechanisms of 
+green space on running behavior while accounting for the mediating 
+effects of air pollution and temperature. Furthermore, the loading 
+weights of observed indicators, such as NDVI GVI, and the green 
+morphology indexes, are included in the measurement model to ensure 
+the reliability and validity of the constructed latent variables, which 
+indirectly reflects their contribution to the overall model.
+In this study, we collected five latent variables and three observed 
+variables to build the PLS-SEM. For the model representing water- 
+friendly streets, we used five latent variables—urban green spaces, 
+blue spaces, air pollution, traffic factors, and building factors—along 
+with three observed variables—temperature, running intensity, and 
+population density. For non-water-friendly streets, the same variables 
+were used except for blue spaces. Fig. 3 presents the hypothesized PLS- 
+SEM models for both scenarios.
+2.5. Assessment of PLS-SEM
+The assessment of reliability and validity of PLS-SEM is crucial to 
+ensure the robustness of the measurement and structural models. This 
+evaluation typically includes three key aspects: reliability, convergent 
+validity, and discriminant validity. Additionally, the predictive power of 
+the structural model is examined using Q2 and R2 values. To ensure the 
+reliability of our measurements, we employed factor loadings, Cron­
+bach's α, and composite reliability (CR) (Xie et al., 2024). Factor load­
+ings indicate the correlation between observed variables and their 
+underlying constructs, while Cronbach's α measures the internal con­
+sistency of the constructs. Composite reliability further evaluates the 
+overall reliability by considering the factor loadings of each indicator. 
+For convergent validity, we used the average variance extracted (AVE) 
+(Xu et al., 2017). It assesses the extent to which a construct explains the 
+variance of its associated indicators, with a threshold of 0.5 typically 
+indicating adequate convergent validity. To test discriminant validity, 
+we adopted the Heterotrait-Monotrait (HTMT) ratio method (Henseler 
+et al., 2015). The HTMT ratio compares the correlations between con­
+structs, with a value below 0.90 indicating sufficient discriminant val­
+idity. Finally, for structural model evaluation, we examined Q2 and R2 
+values to assess the predictive power of endogenous variables (Al-Jundi 
+et al., 2020). The R2 value indicates the proportion of variance explained 
+by the model, while Q2, obtained through blindfolding procedures, 
+measures the predictive relevance of the model.
+3. Results
+3.1. Spatial clustering of running intensity
+This study calculates the global Moran's I for running intensity, 
+yielding a value of 0.847, which is significant at the 0.01 level. This 
+value indicates that streets with similar running intensities tend to 
+cluster spatially. To better understand the spatial variations of these 
+clustering patterns, the Getis-Ord Gi* statistic was applied to identify hot 
+spots of running intensity. As shown in Fig. 4, the hot spots of running 
+intensity are primarily distributed along the Pearl River, particularly 
+around its banks. Additionally, concentrated clusters are found on Ersha 
+Island and Haixinsha Island, in Huacheng Square, and in key areas in the 
+northern part of the Pearl River, such as Yuexiu District and Tianhe 
+District (including major roads like Dongfeng Road and Tianhe Road). 
+These areas along the Pearl River are popular running routes in 
+Fig. 3. Preset of PLS-SEM (a) Water-friendly streets; (b) Non-water-friendly streets. 
+BS = blue spaces; G = green spaces; A = air pollution; T = temperature; BF = building factors; Pop = population; R = running intensity.
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+7 
+
+Guangzhou, offering proximity to both bodies of water and green spaces. 
+Such environments typically provide scenic views, fresh air, and a quiet 
+atmosphere, all of which enhance the running experience, foster com­
+munity engagement, and encourage social interactions. Moreover, some 
+hot spots are located near middle schools and universities, where stu­
+dents contribute significantly to running activity. Due to schedule or 
+time constraints, many students prefer to find suitable running locations 
+within their immediate surroundings. In contrast, cold spots of running 
+intensity are mainly concentrated in the western part of Haizhu District 
+(north of Xinzhou West Road and west of Guangzhou Avenue South), 
+parts of Yuexiu District (north of Dade Road and south of Dongfeng West 
+Road), and northern areas of Tianhe District. These cold spots often 
+correspond to government office areas, densely packed commercial 
+zones, or sparsely populated neighborhoods. Government and com­
+mercial areas tend to have heavy traffic and noisy environments, making 
+them unsuitable for running. Meanwhile, areas with low population 
+density might be missing proper running infrastructure, curbing op­
+portunities for running.
+3.2. Differences in running intensity between water-friendly and non- 
+water-friendly streets
+We used a Mann-Whitney U test comparing the running intensity 
+between water-friendly and non-water-friendly streets. This analysis 
+yielded an asymptotic significance of 0.000, well below the 0.05 
+threshold, indicating a statistically significant difference between the 
+two groups. The average running intensity on water-friendly streets was 
+0.350, significantly higher than the 0.251 average on non-water-friendly 
+streets. This result suggests that blue spaces have a noticeable impact on 
+runners in hot environments. Specifically, bodies of water enhance the 
+running environment by increasing humidity and lowering ambient 
+temperatures, making water-friendly streets more appealing to runners. 
+These findings highlight the cooling effect of blue spaces, which could 
+overshadow the recognition of the cooling benefits of green spaces. This 
+understanding forms the basis for the development of the two PLS-SEMs.
+3.3. Comparison of PLS-SEMs
+Based on the predefined models for water-friendly and non-water- 
+friendly streets, we ran PLS-SEMs at intervals of 50 m, 100 m, 150 m, 
+and 200 m for both scenarios. The criteria for determining the optimal 
+buffer zone for each street type were based on evaluation indicators for 
+both the measurement model and the structural model.
+For water-friendly streets, the standardized factor loadings for all 
+indicators were above the recommended threshold of 0.55, and most 
+loadings increased with larger buffer zones (see Fig. 5). For non-water- 
+friendly streets, the factor loadings for building enclosure at 50 m, 100 
+m, and 150 m and traffic signal density at 150 m were below the 
+Fig. 4. Hot and cold spots of running intensity in Guangzhou.
+Fig. 5. Factor loadings (a) Water-friendly streets; (b) Non-water-friendly streets. The last letter of the labels in the figure is one of A, B, C, or D, where A represents 
+variables within a 50 m buffer; B represents variables within a 100 m buffer; C represents variables within a 150 m buffer; and D represents variables within a 200 
+m buffer.
+M. Xie et al. 
+Journal of Transport Geography 133 (2026) 104653 
+8 
+
+recommended threshold of 0.55. The remaining loadings exceeded the 
+threshold. Similar to water-friendly streets, most indicators in non- 
+water-friendly streets showed increased loadings with larger buffer 
+zones, indicating that the selected observation indicators effectively 
+reflected the corresponding latent variables. Figs. 6(a) and 6(d) present 
+the Cronbach's α values for water-friendly and non-water-friendly 
+streets, respectively. In both street types, the Cronbach's α values for 
+some variables in the 50 m, 100 m, and 150 m buffer zones were below 
+the standard of 0.7. However, for the 200 m buffer zone, the Cronbach's 
+α values for all latent variables exceeded 0.7. Except for the blue space 
+latent variable in water-friendly streets, the Cronbach's α values gener­
+ally increased with larger buffer zones across all latent variables. Figs. 6
+(b) and 6(e) show the composite reliability (CR) values, which followed 
+a similar pattern to Cronbach's α. Some variables in the 50 m, 100 m, and 
+150 m buffer zones had CR values below 0.7. However, at the 200 m 
+buffer zone, all latent variables exceeded the 0.7 threshold, indicating 
+good internal consistency within the model. Figs. 6(c) and 6(f) display 
+the AVE values for water-friendly and non-water-friendly streets, 
+respectively. All AVE values exceeded the recommended threshold of 
+0.5, indicating good convergent validity. Figs. 6(g) and 6(h) show the 
+HTMT results for water-friendly and non-water-friendly streets. All 
+variables had HTMT values below 0.9, indicating adequate discriminant 
+validity. Finally, Figs. 6(i) and 6(j) display the Q2 and R2 results for 
+endogenous variables in both street types. All Q2 values were greater 
+than 0, suggesting strong predictive accuracy, and increased with larger 
+buffer zones. The R2 values for endogenous variables in both street types 
+also increased as buffer zones expanded. Overall, considering the results 
+across different buffer zones and indicators, the 200 m buffer zone for 
+both water-friendly and non-water-friendly streets yielded the most 
+favorable results, making it suitable for model interpretation.
+3.4. Relationship between urban green spaces and running behavior
+From the indicator loadings of the measurement model, all indicators 
+pass significance tests, demonstrating that they effectively capture the 
+characteristics of urban green spaces. Regarding vegetation abundance, 
+in water-friendly streets, NDVI (G1) has a loading of 0.893 and GVI (G2) 
+has a loading of 0.607, while in non-water-friendly streets the corre­
+sponding loadings are 0.896 and 0.731, indicating stro
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

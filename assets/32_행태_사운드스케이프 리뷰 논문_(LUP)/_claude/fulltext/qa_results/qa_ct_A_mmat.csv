@@ -1,0 +1,7 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+1,quantitative descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"응답률·표본 인구학적 특성 미보고로 대표성은 타 논문 인용에 의존, 측정한 기온·습도·조도는 분석 미반영"
+7,quantitative descriptive,Y,Y,Y,Y,Y,CT,N,3,moderate,"35개 GLM 다중비교 보정 없이 유의 7개 도출, 응답률 미보고. 본문은 Discussion 4.3 이후 절단"
+25,quantitative non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"남성만 표집해 대표성 제한, 조건 배정 순서·시간대 교란 미보고. 노출 조작과 결과 측정 절차는 정밀"
+90,quantitative non-randomised,Y,Y,N,Y,CT,N,Y,2,low,음악 템포를 기저 보행속도에 맞춰 배정한 설계 교란(저자 인정)과 학부생 표본이 결정적. Exp2 결과는 본문 절단
+126,quantitative descriptive,Y,Y,Y,N,Y,N,Y,3,moderate,응답률 25%와 COVID 조기 종료로 무응답 편의가 큼. 음향 측정과 통계 절차는 ISO 준거로 엄정
+137,mixed methods,Y,Y,CT,N,CT,N,N,0,low,"설문 n을 106에서 144-232로 부풀려 검정하고 phi제곱을 phi로 표기, 관찰 분석법 미기술. 본문 절단 없음"

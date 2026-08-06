@@ -1,0 +1,773 @@
+Travel Behaviour and Society 25 (2021) 27–40
+Available online 9 June 2021
+2214-367X/© 2021 The Author(s). Published by Elsevier Ltd on behalf of Hong Kong Society for Transportation Studies. This is an open access article under the
+CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+How does the individual perception of local conditions affect cycling? An 
+analysis of the impact of built and non-built environment factors on cycling 
+behaviour and attitudes in an urban setting 
+Andreas Blitz 
+Goethe University Frankfurt/Main, Department of Human Geography, Theodor-W.-Adorno-Platz 6, D-60629 Frankfurt am Main, Germany 
+A R T I C L E I N F O 
+Keywords: 
+Bicycle use 
+Cycling attitudes 
+Built environment 
+Environment perception 
+Travel behavior 
+Stage-based models 
+A B S T R A C T 
+The impact of local environment characteristics on individual cycling behaviour has been discussed in transport 
+research for several years. Many previous studies have, however, primarily focused on the presence and distri­
+bution of built environment elements, considered using georeferenced or census data. This paper argues that not 
+only is the objectively measured environment an influencing factor, but also the individual perception of this 
+environment. Furthermore, besides built elements, the evaluation of perceived non-built attributes, such as 
+discourses and policies, as well as the environment’s impact on cycling attitudes, should be taken into account for 
+a more comprehensive view. For this purpose, this study examines the responses to a household survey in the 
+German city of Offenbach am Main (n = 701). The impact of the perceived local environment on cycling 
+behaviour and cycling attitudes has been analysed using 21 perception items as well as socio-demographics, 
+travel mode availability and general travel attitudes. For a more detailed view on cycling behaviour, this 
+study applies the stage model of self-regulated behavioural change (SSBC) indicating a level of openness to use a 
+bicycle frequently in everyday life. The results of the multivariate analysis show that the perceptions of built and 
+non-built environment characteristics interrelate. Furthermore, certain perceptions encourage bicycle use and 
+positive attitudes towards cycling, such as perceived cycling safety and pleasure. Primarily, these perceptions are 
+safe and appropriate cycling infrastructures, cycling as a common practice and the absence of vandalism, dirt and 
+high car pressure. 
+1. Introduction 
+Using a bicycle is not only a leisure and exercise activity, it also 
+contributes to individual health and sustainability in transport. A shift 
+from motorised means of transport to cycling has positive effects on 
+auto-induced issues, such as air pollution, traffic noise, congestion and 
+space requirements, especially in dense urban areas (Bernardo and Bhat, 
+2014; G¨ossling, 2013). Therefore, attempts are being made in many 
+cities to improve conditions for cyclists and, thus, to foster frequent 
+bicycle use (Lanzendorf and Busch-Geertsema, 2014; Pucher et al., 
+2010, 2011). In order to achieve this goal in the best possible way, it is 
+essential to know how the local environment should be designed to meet 
+cyclists’ requirements. Research on this topic has increased significantly 
+in recent years indicating that certain factors and characteristics are 
+positively associated with non-motorised travel (Nello-Deakin, 2020; 
+Yang et al., 2019). These include, for instance, the presence of cycling 
+infrastructure, a high intersection density and diverse land use 
+(Christiansen et al., 2016; Ewing and Cervero, 2010; Yang et al., 2019). 
+However, most of these studies only consider the presence of objectively 
+measured elements of the built environment. The impact of local non- 
+built factors, such as marketing campaigns and discourses, has been 
+neglected in many cases. Furthermore, some authors argue that only 
+involving objective measures disregards actual individual perceptions 
+that are subject to cognitive filtering processes (Golledge and Stimson, 
+1997; Ma and Dill, 2015; van Acker et al., 2010). Thus, perceptions of 
+the presence and characteristics of local environment elements may 
+differ from an objectively measured environment and even between 
+individuals. Additionally, the vast majority of studies on the relation of 
+environmental factors and cycling measure individual cycling behaviour 
+based only on the frequency or duration of bicycle use in a certain period 
+(cf. Arango et al., 2013; Craig et al., 2003; Ewing and Cervero, 2010). 
+However, the implementation of cycling behaviour can be regarded as a 
+process of individual decisions, involving attitudes, intentions and ac­
+tions (Bamberg, 2012a). Previous research has hardly examined the 
+E-mail address: blitz@geo.uni-frankfurt.de. 
+Contents lists available at ScienceDirect 
+Travel Behaviour and Society 
+journal homepage: www.elsevier.com/locate/tbs 
+https://doi.org/10.1016/j.tbs.2021.05.006 
+Received 23 September 2020; Received in revised form 10 May 2021; Accepted 17 May 2021 
+
+Travel Behaviour and Society 25 (2021) 27–40
+28
+environment’s influence on these factors preceding actual cycling 
+behaviour and on satisfaction when cycling. 
+On that basis, the aim of this study is to examine which perceived 
+factors of the local environment, including built and non-built elements, 
+contribute to the decision to cycle. Therefore, the perceptions’ impact on 
+cycling behaviour as well as on cycling-related attitudes are analysed. 
+The former is done by applying the stage model of self-regulated 
+behavioural change (SSBC), distinguishing four stages of openness to­
+wards frequent bicycle use. The attitudes towards cycling involve 
+various associations and feelings. Additionally, the effects of socio- 
+demographic attributes, travel mode availability and general travel at­
+titudes are taken into account. For this purpose, a written household 
+survey was conducted in the city of Offenbach am Main situated in the 
+German Rhine-Main metropolitan region (n = 701). 
+The remainder of this paper is structured as follows. In the next 
+section, I outline the theoretical background and previous research with 
+regard to local environment perceptions, cycling and the SSBC model. 
+Section 3 addresses the methodology comprising the case study in 
+Offenbach am Main, the survey and the variables used for the analyses. 
+The results of the empirical analyses are presented in section 4, followed 
+by a discussion in section 5. The paper closes with some conclusions on 
+implications, limitations and further research options in section 6. 
+2. Theoretical background 
+2.1. Local environment and travel 
+For several years, the impact of the local environment on individual 
+travel behaviour has been an important subject in the field of trans­
+portation research (cf. Geurs and van Wee, 2004; Næss, 2015; van Acker 
+et al., 2010). Especially with regard to non-motorised travel, built and 
+non-built environment factors are considered to exert a decisive influ­
+ence (Handy et al., 2002; Pikora et al., 2003; Saelens et al., 2003; Willis 
+et al., 2015). In their often cited work, Cervero and Kockelman (1997) 
+suggest land use diversity, density and street network characteristics as 
+principal dimensions of the local environment. Studies addressing these 
+“3Ds” indicate the positive effects of local dense and mixed land use as 
+well as high street connectivity on the willingness to walk and cycle 
+(Banister, 2011; Braza et al., 2004; Ewing and Cervero, 2010; Litman 
+and Steele, 2018; Smith et al., 2017; van Wee, 2002). Some other studies 
+refer to the presence of micro-scale factors or aesthetics of the envi­
+ronment, suggesting associations with the frequency and quality of 
+walking and cycling in these areas. They include local amenities, such as 
+greenery and trees, benches and street lighting, pleasing architecture 
+and scenery as well as specific transport infrastructures, such as bike 
+parking facilities and pedestrian crossings (Arango et al., 2013; Ewing 
+and Clemente, 2013; Giles-Corti et al., 2013; Larsen et al., 2009; Milakis 
+et al., 2017; Mitra et al., 2015; Moniruzzaman and P´aez, 2012; Rame­
+zani et al., 2018). Less attention has been paid to non-built character­
+istics of the local environment. These involve social and political factors, 
+such as local regulations, policies, information services, marketing 
+campaigns and media reports as well as the behaviours of the sur­
+rounding people, e.g. concerning travel, social conventions and crime 
+(Heath et al., 2006; King et al., 2002; Klinger et al., 2013; Pucher and 
+Buehler, 2008; Rech et al., 2012; Ståhl et al., 2001; van Acker et al., 
+2010; Willis et al., 2015). 
+Most of the recent studies analysing the impact of the local envi­
+ronment involve objectively measured design elements, primarily based 
+on georeferenced and census data (Blitz and Lanzendorf, 2020; Ding and 
+Gebel, 2012; Ewing and Cervero, 2010; Fraser and Lock, 2011; 
+K¨armeniemi et al., 2018; van Acker et al., 2010). Thus, possible asso­
+ciations with travel behaviour are often only explained by the factual 
+existence of certain local circumstances without questioning whether 
+the individuals examined are even aware of these circumstances. Seen 
+from a social sciences perspective, however, the stimulus of the objec­
+tive environment is processed individually by emphasising and 
+neglecting certain elements resulting in subjective filtered perceptions 
+that form a decisive basis for behaviour (Flade, 2013; Golledge and 
+Stimson, 1997; Lynch, 1977; Mehrabian and Russell, 1974; Norman, 
+2013; Stokols, 1977; van Acker et al., 2010). Thus, even though indi­
+vidual perception is constituted mainly by the actual attributes of the 
+environment, it is also affected by cognitive capabilities, socio- 
+demographic characteristics, preferences and experiences (Kremers 
+et al., 2006; Nathan et al., 2012; Orstad et al., 2017; Wen et al., 2006). 
+For instance, the study by Roosa et al. (2009) shows that an individual’s 
+social and cultural background as well as gender influence the percep­
+tion of the quality of one’s own neighbourhood. As a consequence, the 
+impression of the environment may differ from the objectively measured 
+reality, which has been illustrated in several studies (Ball et al., 2008; 
+Gebel et al., 2011; McGinn et al., 2007; Orstad et al., 2017; Prins et al., 
+2009; van der Waerden et al., 2004). Moreover, associations identified 
+between travel behaviour and local environment factors may vary 
+depending on whether objective or perceived measures are taken into 
+account (Hoehner et al., 2005; Lee et al., 2017; Ma and Dill, 2015; Prins 
+et al., 2009). Therefore, several authors suggest the use of individual 
+perceptions within studies rather than corresponding objective data 
+only (Ma et al., 2014; Sugiyama et al., 2014; van Acker et al., 2010; 
+Weden et al., 2008). Common approaches of acquiring information on 
+individual perceptions involve surveys, questionnaires and in-depth 
+interviews (Seamon and Gill, 2016). 
+2.2. Studies on perceived local environment and cycling 
+Although most of the studies on local environment and travel 
+behaviour involve objective measures, in recent years, some research 
+also relates to individual perceptions. In their study investigating which 
+of these two evaluation approaches better explains the impact of the 
+local environment on cycling, Ma et al. (2014) reveal that objective 
+factors only have an indirect effect in terms of influencing individual 
+perceptions. Thus, perceptions mediate the relations between the 
+objective environment and behaviour. Therefore, the authors point out 
+the decisive and immediate impact of environment perceptions on 
+cycling. Based on previous research involving such perceived elements, 
+this study identified four main perception dimensions of the local 
+environment for cycling. These are used for the classification of 
+perception items: (i) cycling infrastructures, (ii) public space quality, 
+(iii) traffic environment and (iv) non-built cycling environment. 
+(i) Cycling infrastructures include the presence and condition of 
+cycling facilities. In this regard, several studies show that the perception 
+of appropriate cycle paths and cycle lanes contribute to bicycle use (e.g. 
+Hoehner et al., 2005; Iwi´nska et al., 2018; Moudon et al., 2005; Porter 
+et al., 2018b; van Dyck et al., 2012), as these increase efficiency and the 
+feeling of safety while cycling. In turn, Frater and Kingham (2020) 
+identified the lack of perceived safe bicycle parking facilities as an 
+important barrier to cycling. Similarly, Wahlgren and Schantz (2012) 
+argue that red traffic lights preventing continuous movement discourage 
+cycling. 
+(ii) Research on the perceptions of public space quality involves 
+aesthetics and the pleasantness of public spaces. In some studies, the 
+perception of attractive and aesthetically appealing places and greenery 
+turns out to be positively associated with cycling (D’Haese et al., 2015; 
+Forsyth and Oakes, 2015; Heesch et al., 2014; Kerr et al., 2016; Liao, 
+2016; Milakis et al., 2017; Porter et al., 2018a; van Dyck et al., 2012). In 
+their work on commuting route environments in the metropolitan area 
+of Stockholm, Wahlgren and Schantz (2012) claim that perceived 
+beautiful, green and safe environments stimulate the willingness to 
+cycle. Additionally, high levels of exhaust fumes turned out to be hin­
+dering factors. By contrast, Mertens et al. (2016) found perceived high 
+air pollution and unpleasant environments positively correlated with a 
+high frequency and duration of transport-related cycling in five Euro­
+pean urban areas. The authors assume that regular bicycle users are 
+more exposed to these negative aspects of the local environment 
+A. Blitz 
+
+Travel Behaviour and Society 25 (2021) 27–40
+29
+compared to non-users and are, thus, more aware of these factors. 
+(iii) Traffic environment perceptions refer to local traffic volumes 
+and the travel behaviours of the surrounding people. For instance, Liao 
+(2016) found positive associations between individual cycling and the 
+perception of others being physically active nearby. On the contrary, the 
+analysis of Hoehner et al. (2005) indicates no such effect on the sur­
+rounding people. Manton et al. (2016) point out the negative effect of 
+perceived motorised traffic on individual safety resulting in major 
+concerns about cycling. Kerr et al. (2016) support these findings by 
+identifying perceived high car traffic volume and speed as hindering 
+cycling for transport. In addition, the respondents of a study conducted 
+by Forsyth and Oakes (2015) cite motorists as the highest threat when 
+cycling. 
+(iv) Few studies also involve non-built environment factors, such as 
+discourses, a city’s reputation or local social cohesion. For instance, by 
+means of focus group discussions, Frater and Kingham (2020) ascer­
+tained that adolescents’ perception of positive media images of the car 
+favours positive attitudes towards driving, which might negatively 
+affect bicycle use. In their research on cycling enablers and barriers in 
+Warsaw, Iwi´nska et al. (2018) point out that the perception of auto­
+mobility domination in the city’s mobility culture and a lack of respect 
+from road users towards cyclists lead to feelings of discrimination and 
+unsafety hindering cycling. Compared with this, Xing et al. (2010) show 
+that the perception of cycling as a common mode of transportation in the 
+neighbourhood increases bicycle use. Furthermore, Titze et al. (2007) 
+show that feeling unsafe due to a perceived high risk of bicycle theft 
+discourages students from cycling regularly. According to Carver et al. 
+(2005) as well as Timperio et al. (2006), the cycling frequency of chil­
+dren and adolescents is positively affected by high social interaction 
+within a neighbourhood as well as the positive perceptions of their 
+parents regarding safety and the quality of facilities and areas in public 
+space. 
+2.3. The stage model of self-regulated behavioural change (SSBC) 
+In order to evaluate cycling behaviour in more detail, this study 
+applies the stage model of self-regulated behavioural change (SSBC) 
+(Bamberg, 2013). It facilitates classification according to people’s 
+openness to maintaining a certain behaviour (e.g. the intention to use 
+the bicycle frequently) instead of only considering an actual imple­
+mented behaviour. Thus, it enables investigations on influencing factors 
+in the implementation process. Recently, the model was employed in 
+several travel behaviour studies (Blitz et al., 2020; Keller et al., 2019; 
+Kirschner and Lanzendorf, 2020). It is based on the ‘transtheoretical 
+model’ by Prochaska and DiClemente (1983) and describes the process 
+of rejecting previous behaviour (e.g. car use) and implementing a new 
+behaviour (e.g. cycling) by means of four stages illustrated in Fig. 1: (i) 
+‘predecision’, (ii) ‘preaction’, (iii) ‘action’ and (iv) ‘postaction’ (Bam­
+berg, 2012b, 2013; Keller et al., 2019). Transition points characterised 
+by the existence of certain individual intentions, attitudes and actions 
+define the shift from one stage to another. Thus, the current affiliation of 
+an individual to one of the SSBC stages can be measured by identifying 
+which transition points have been exceeded at the time. However, in the 
+SSBC process, it is not necessary for all stages to be passed linearly. 
+Transitions can be reversed or even skipped (Bamberg, 2012b). 
+Individuals in the stage of ‘predecision’ indicate no evidence for 
+questioning current behaviour, for instance, due to perceived social 
+obligations, and, thus, suggest no willingness for behavioural change at 
+all. In the second stage of ‘preaction’, an individual’s evaluation of the 
+practicability of adopting a new behaviour is a key aspect. It can be 
+identified by attitudes towards and perceived behavioural control over 
+this behaviour, which are also affected by environmental features 
+(Bamberg, 2012a). A positive assessment of both of these significantly 
+contributes to the willingness to adopt the behaviour (Ajzen, 1991; 
+Bamberg, 2012b; Bamberg and Schmidt, 1993). Individuals in the stage 
+of ‘action’ show the first attempts of implementing the new behaviour or 
+state explicit plans for this intention. In the last stage of ‘postaction’, the 
+implementation of the new behaviour could be maintained in everyday 
+life resulting in regular actions. Depending on the affiliation to a certain 
+stage, different requirements emerge that can be supportive for pro­
+ceeding within the process. For instance, interventions providing in­
+formation about alternative behaviours may contribute to individual 
+choices in the stages of ‘predecision’ and ‘preaction’ or certain policies 
+and infrastructures may facilitate the implementation (the ‘postaction’ 
+stage) of a behaviour in everyday life (Bamberg, 2012a, 2012b). 
+2.4. Conceptual framework 
+According to the recent studies presented above, the perceived local 
+environment affects individual cycling. In order to give a detailed 
+explanation of how these perceptions contribute to cycling, this study 
+analyses cycling behaviour by means of the SSBC model and, addition­
+ally, by involving individual cycling attitudes. For this purpose, vari­
+ables of the previously described four local environment dimensions are 
+taken into account. As illustrated in this paper’s conceptual framework 
+(Fig. 2), further factors recognised in previous mobility research as 
+significant for cycling (cf. Piatkowski and Marshall, 2015; Willis et al., 
+2015) are considered as additional variables for the analyses: the re­
+spondent’s objective characteristics concerning socio-demographics and 
+bicycle and car availability as well as individual general travel attitudes. 
+As mentioned before, such individual characteristics may affect the 
+subjective perceptions in addition to the objective attributes of the local 
+environment themselves. The dashed lines in Fig. 2 illustrate these 
+relationships. 
+However, the focus of this study is the influence of these factors and 
+individual perceptions on individual cycling (illustrated by the solid 
+lines). Certainly, as indicated by previous research as well as the SSBC 
+model’s concept, cycling-related attitudes play a key role in the actual 
+use of a bicycle (Bamberg, 2012a; Gatersleben and Appleton, 2007; 
+Heinen et al., 2010; Willis et al., 2015). In particular, the perceived 
+immediate benefits of cycling, such as positive emotions and practi­
+cality, as well as a good assessment of safety, strongly contribute to the 
+decision to use the bicycle (García et al., 2019; Heinen et al., 2011). 
+Therefore, previous studies show that people with positive views about 
+cycling are more likely to cycle frequently (Willis et al., 2015). Ac­
+cording to recent research on the constitution of attitudes, this paper 
+argues that the local environment may contribute to specific cycling 
+attitudes and feelings, such as behavioural control over cycling or 
+enjoyment when cycling (Bamberg, 2012a; de Vos et al., 2020; 
+Fern´andez-Heredia et al., 2014; van Wee et al., 2019). In this regard, 
+attitudes involve an individual evaluation of the perceived environment 
+(van Acker et al., 2010). For instance, in environments with high traffic, 
+cycling is more often associated with unsafety (Ewing and Dumbaugh, 
+2009; Simpson, 2017). Therefore, this study also focusses on the impact 
+Fig. 1. Stages and underlying indicators of the SSBC model (own illustration based on Bamberg 2012b and 2013). 
+A. Blitz 
+
+Travel Behaviour and Society 25 (2021) 27–40
+30
+on cycling-related attitudes. The following sections provide more in­
+formation on all of these variables. 
+3. Methods and data 
+3.1. Case study and survey 
+This study applies data from a written household survey in Offen­
+bach am Main, a German city close to Frankfurt am Main in the urban 
+Rhine-Main metropolitan region. The cross-sectional survey was con­
+ducted in March and April 2019 addressing 4,014 households in the 
+city’s populous downtown area. This area is characterised by a high 
+housing density with only limited public and green spaces. On-street 
+parking is permitted in a large part of the investigation area and there 
+are several high-frequented arterial roads in its vicinity. Some streets in 
+the area are part of the city’s designated bicycle route network in the 
+form of marked on-street bicycle lanes and a recently introduced cycle 
+street. 
+Within the investigation area, every household received the survey 
+documents requesting one adult member to participate. In order to 
+randomly select this member, the last birthday method was applied (cf. 
+Binson et al., 2000). The twelve-page questionnaire included items on 
+travel behaviour and travel attitudes, on socio-demographics as well as 
+on the evaluation of several of the city’s and the neighbourhood’s built 
+and non-built environment factors, focussing on cycling-related ele­
+ments. An enclosed envelope provided the opportunity to return the 
+questionnaire free of charge. Participation was promoted by means of 
+distributed pre-announcements, a press release as well as personal 
+contact and reminder notes (for details, see Blitz, 2020). Altogether, 706 
+questionnaires were returned (17.6% response rate). Five cases were 
+excluded due to a high amount of missing values, resulting in 701 cases 
+for further analyses. 
+3.2. Variables for bicycle use, cycling intention and attitudes as indicators 
+of the SSBC stages 
+To examine cycling behaviour, this study applies the SSBC model 
+(section 2.3) adapted for frequent bicycle use. The model describes the 
+implementation of regular cycling by means of four stages. To specify 
+the respondents’ stage in the SSBC, several items of the survey con­
+cerning individual bicycle use as well as cycling intention and attitudes 
+that address the model’s underlying assumptions are taken into account 
+(table 1, see also Blitz et al., 2020). The stage assignment as well as the 
+cycling attitudes are used as outcome variables in the further analyses. 
+They allow a broader perspective on the possible effects of local envi­
+ronment perceptions on the diverse facets of cycling. 
+The respondents stating regular use of a bicycle in everyday life (at 
+least once a week in summer (U1) or winter (U2)), are assigned to the 
+fourth stage of ‘postaction’, as they have already implemented 
+Fig. 2. Conceptual model of factors affecting cycling attitudes and behaviour (own illustration). 
+Table 1 
+Variables for bicycle use, cycling intention and attitudes (n = 701). 
+Variable 
+Percentage of 
+agreement 
+Bicycle use 
+U1: frequent bicycle use in summer 
+59% 1 
+U2: frequent bicycle use in winter 
+31% 1 
+Behavioural Intention 
+BI: I have planned to ride my bicycle more often in 
+everyday life. 
+50% 2 
+Cycling attitudes 
+A1: The bicycle is the ideal means of transport for me. 
+40% 2 
+A2: Riding my bike is fun for me. 
+66% 2 
+A3: When riding a bicycle, I am flexible and free. 
+54% 2 
+A4: I am able to reach all relevant everyday destinations 
+by bicycle. 
+42% 2 
+A5: When riding a bicycle, I feel unsafe. 
+29% 2 
+A6: For me, riding a bike is exhausting and 
+uncomfortable. 
+14% 2 
+A7: I enjoy riding my bicycle in Offenbach. 
+36% 2 
+1 agreement: bicycle use is “1–3 days per week” or “(almost) daily” 
+2 agreement: “strongly agree” or “somewhat agree” to the attitude statement 
+on a five point Likert scale 
+Table 2 
+SSBC stage assignments of the sample. 
+SSBC Stage 
+Description 
+Percentage of 
+assignment 
+Stage 1: 
+Predecision 
+no indications of frequent bicycle 
+use 
+26% 1 
+Stage 2: Preaction 
+preparedness for frequent bicycle 
+use 
+8% 2 
+Stage 3: Action 
+explicit plan for frequent bicycle 
+use 
+7% 3 
+Stage 4: Postaction 
+implemented frequent bicycle use 
+59% 4 
+1 respondents with no indications; not assigned to stages 2, 3 or 4 
+2 respondents with agreement to variables A1, A2 or A3 and agreement to A4 
+or neither agreement to A5 nor to A6; not assigned to stages 3 or 4 
+3 respondents with agreement to variable BI; not assigned to stage 4 
+4 respondents with agreement to variables U1 or U2 
+A. Blitz 
+
+Travel Behaviour and Society 25 (2021) 27–40
+31
+maintained cycling behaviour. Those of the remaining participants who 
+state an explicit plan for increasing their use of a bicycle (agreement to 
+BI) are assigned to the stage of ‘action’. An agreement to this statement 
+indicates a distinct behavioural intention. Of the remaining respondents, 
+those with positive attitudes towards cycling (agreement to A1, A2 or 
+A3) as well as behavioural control over cycling (agreement to A4 or 
+neither agreement to A5 nor to A6) are classified in the ‘preaction’ stage, 
+indicating positive associations with and preparedness for frequent bi­
+cycle use. All other respondents are assigned to the first stage of ‘pre­
+decision’. They show no indications of the intention of frequent bicycle 
+use. Table 2 gives an overview of the resulting sample’s stage 
+classification. 
+As table 2 shows, 59% of the participants have already implemented 
+frequent bicycle use (‘postaction’ stage) and about a quarter are in the 
+stage of ‘predecision’. The middle stages, ‘preaction’ (8%) and ‘action’ 
+(7%), show the lowest shares, which can be explained by the status of 
+transition between habitual behaviours represented by these stages. 
+Respondents of both stages indicate a certain openness towards regular 
+bicycle use without having it implemented. Usually this status only 
+persists for a certain period (Bamberg, 2012b). 
+3.3. Variables for the perceptions of the local environment 
+The individual perceptions of the local environment are derived from 
+21 statements (table 3) with a five-point Likert scale ranging from 0 (“I 
+strongly disagree”) to 4 (“I strongly agree”). With additions and modi­
+fications, these statements are mainly based on items in the “cycling 
+climate” survey, a nationwide survey regularly conducted by the 
+German cycling association (ADFC) in German communities (ADFC, 
+2019). The statements address various local conditions comprising built 
+and non-built environment elements of the neighbourhood and the 
+entire city. They include: (i) specific bicycle infrastructures (cycle paths, 
+bicycle parking facilities, traffic lights and public transport carriage), (ii) 
+non-built cycling environment factors (related to communication, pol­
+icies and bicycle theft), (iii) general public space qualities (aesthetics, 
+greenery and lighting) and (iv) the traffic environment (bicycle traffic, 
+car traffic and traffic conflicts). Thus, the items not only address the 
+cycling-related practicability of the local environment, but also aesthetic 
+and symbolic characteristics. A Principal Component Analysis (PCA) 
+was conducted with all of the variables at once in order to identify 
+possible interrelated perceptions involving different local environment 
+aspects (section 4.1). 
+3.4. Variables for travel attitudes 
+Three general travel attitude factors are included as variables in the 
+analysis. They have been extracted by means of a PCA (eigenvalue ≥1) 
+involving six items (table 4). Factor 1 “preference for safe, pleasant and 
+sustainable travel” describes the importance of the respective positive 
+feelings and associations while travelling. Factor 2 “travel enjoyment 
+and openness” outlines the pleasure of travelling and travel flexibility. 
+Factor 3 “preference for efficient travel” emphasises the importance of 
+the mobility’s practicability in terms of travel time. 
+Table 3 
+Variables of the perceptions of the local environment. 
+Variable 1 
+Cycling infrastructures 
+I1: In Offenbach, cycle paths are usually in good condition. 
+I2: In Offenbach, cycle paths are often blocked by parked cars or other obstacles. 
+I3: In Offenbach, bicycle parking facilities are convenient and safe. 
+I4: In Offenbach, a cyclist has to wait for a long time at traffic lights. 
+I5: In Offenbach, bicycles can be taken onto public transport easily. 
+Non-built cycling environment 
+N1: In Offenbach, there is a lot of advertising for cycling. 
+N2: In Offenbach, media reports on cycling are mostly positive. 
+N3: In Offenbach, there is a lot of information related to cycling. 
+N4: In Offenbach, not enough is being done for bicycle traffic. 
+N5: In Offenbach, they do not take you seriously as a cyclist. 
+N6: In Offenbach, I think bicycle theft happens frequently. 
+Public space quality 
+P1: In my neighbourhood, public space has nice areas I like. 
+P2: In my neighbourhood, there is enough greenery and trees. 
+P3: In my neighbourhood, public space has adequate lighting. 
+P4: In my neighbourhood, there is vandalism. 
+P5: In my neighbourhood, I often see dirt or rubbish. 
+Traffic environment 
+T1: In Offenbach, everyone rides a bike – young and old alike. 
+T2: In my neighbourhood, I see many cyclists. 
+T3: In my neighbourhood, car traffic is too heavy. 
+T4: In my neighbourhood, public space is characterised by parked cars. 
+T5: In my neighbourhood, there are frequent conflicts between cyclists and other road 
+users. 
+1 Variables measured on a five-point Likert scale: (0) “I strongly disagree” – 
+(4) “I strongly agree” 
+Table 4 
+Factor loading results of the Principal Component Analysis (PCA) regarding travel attitudes (n = 701). 
+Mean
+SD
+Factors of travel attitudes (PCA)
+Items measured on a five-point Likert scale:
+(0) “I strongly disagree” - (4) “I strongly agree”
+1
+Preference for
+safe, pleasant and 
+sustainable travel
+2
+Travel enjoyment 
+and openness
+3
+Preference for
+efficient travel
+When choosing the means of transport,
+I attach particular importance to safety.
+2.64 1.152
+.782
+-.085
+.095
+It is important to me to travel in a
+pleasant environment.
+3.23
+.841
+.617
+.235
+.159
+Because of my own values, I feel obliged to travel 
+in an environmentally-friendly way.
+2.85 1.017
+.572
+.086
+-.559
+I am not committed to a particular
+means of transport.
+2.72 1.177
+.017
+.769
+-.265
+I like to travel a lot.
+2.89
+.966
+.104
+.710
+.291
+It is important to me to reach my destination
+as quickly as possible.
+2.94 1.003
+.261
+.036
+.784
+Cronbach’s alpha
+.393
+.241
+/
+Principal Component Analysis with varimax rotation; only factors with eigenvalues ≥1 were considered; loadings ≤0.4 are shown in grey; N = 701; Kai­
+ser–Meyer–Olkin = 0.585; Bartlett’s test of Sphericity: χ2 = 150.623 df = 15 p = .000; Total variance explained: 61.4% 
+A. Blitz 
+
+Travel Behaviour and Society 25 (2021) 27–40
+32
+3.5. Variables for socio-demographics and travel mode availability 
+In addition, six socio-demographic items are applied as control var­
+iables: gender, age, level of education, employment status, income and 
+migrant background (table 5). While the sample’s share of female re­
+spondents is similar to that of the entire city of Offenbach, significant 
+differences exist regarding age, migrant background and employment 
+status. The former is caused by the survey’s limitation to adults, while 
+Offenbach’s respective value includes all ages. The sample’s lower 
+proportion of people with a migrant background is an issue also familiar 
+from other written surveys. It can be explained by linguistic and cultural 
+barriers that might be a deterrent for this population group (El-Menouar, 
+2019; Fick and Diehl, 2013). Furthermore, the sample shows a higher 
+proportion of people employed or in education compared to the city’s 
+entire population. However, it should be noted that the reference value 
+is from 2011, thus not representing the current situation. In addition, the 
+questionnaire included two items on bicycle and car availability (“Do 
+you have a roadworthy bicycle / a car at your disposal?”) indicating that 
+the vast majority has access to both means of transport. 
+4. Results 
+4.1. Factors of local environment perceptions 
+To extract the most important factors of the perceived local envi­
+ronment and to identify interrelated perceptions, a PCA with the 21 
+initial items (section 3.3) was performed, resulting in six factors with an 
+eigenvalue ≥1 (table 6). Surprisingly, only three factors (factors 3, 4 
+and 6) are in line with the element dimensions shown in table 3. The 
+compositions of the factors 1, 2 and 5 show that evaluations of physical 
+and intangible elements can be interrelated. Factor 1 ‘low political pri­
+ority for the cycling mode in Offenbach’ includes assessments of the 
+city’s cycling infrastructures’ conditions and its cycling reputation, 
+indicating perceived discrimination against bicycle traffic mirrored in 
+both built and non-built elements. Factor 2 ‘vandalism, dirt and high car 
+pressure in my neighbourhood’ outlines perceived disorder and car 
+traffic dominance in the neighbourhood. Thus, it comprises negative 
+assessments of the quality of public space along with traffic environment 
+issues. Factor 3 ‘pro-cycling marketing campaigns in Offenbach’ de­
+scribes the perceived presence of cycling-supporting (non-built) 
+communication activities in the city. Factor 4 ‘high quality public space 
+and greenery in my neighbourhood’ indicates positive evaluations of the 
+surrounding public space in terms of appealing aesthetics including 
+sufficient lighting and greenery. Factor 5 ‘safe and appropriate cycling 
+infrastructure in Offenbach’ relates to positive assessments of the city’s 
+cycling facilities and a feeling of safety, also with regard to bicycle theft, 
+indicating that a city’s perceived cycling suitability and safety consists of 
+built and non-built elements. Factor 6 ‘cycling is a common practice’ 
+outlines the perception of an omnipresence of cycling in the urban area’s 
+traffic environment. 
+4.2. The impact of local environment perceptions on cycling behaviour 
+and attitudes 
+In order to understand the effect of the perceived local environment 
+on cycling behaviour, I conducted ten logistic regression analyses 
+including the six extracted factors of perceptions as independent vari­
+ables (table 7). Cycling behaviour is specified by the assignment to the 
+SSBC stages (see table 2). Assignments to at least stage 2 (preaction/ 
+action/postaction: indicating at least a basic openness towards frequent 
+bicycle use), at least stage 3 (action/postaction: indicating at least the 
+explicit plan for frequent bicycle use) and stage 4 (postaction: indicating 
+implemented frequent bicycle use) are used as binary dependent vari­
+ables for the first three regression models. Additionally, seven regression 
+models analyse the perceptions’ effects on cycling attitudes. For these, 
+the agreement to the attitudinal statements are used as binary 
+dependent variables (see table 1). They enable a separate consideration 
+of cycling-related assessments and their influencing factors. General 
+travel attitudes, travel mode availability and socio-demographics are 
+included as further variables in all regression analyses. All calculated 
+models are significant on the basis of the Omnibus Test (p = .000) and 
+reveal different coefficients of determination mostly indicating an 
+acceptable (≥0.2) or a good (≥0.4) goodness of fit based on Nagel­
+kerke’s R2 measure (Rohrlack, 2009). 
+The results show that the perception of low political priority for the 
+cycling mode in Offenbach (factor 1) is strongly associated with SSBC 
+stages 2, 3 and 4 as well as with several positive attitudes towards 
+cycling (A1-A4). Furthermore, the feeling of unsafety when cycling (A5) 
+seems to be related to this perception. Perceiving vandalism, dirt and 
+high car pressure in the neighbourhood (factor 2) reduces the proba­
+bility of being at least in stage 2 or in higher stages. In addition, this 
+perception seems to lower perceived cycling fun (A2) as well as enjoy­
+ment when riding in Offenbach (A7), while the feelings of unsafety (A5) 
+as well as exhaustion and discomfort (A6) increase. 
+On the contrary, the further perceived dimensions of the local 
+environment all seem to be related, to a greater or lesser extent, to 
+cycling behaviour and referring positive attitudes. The perceived pres­
+ence of pro-cycling marketing campaigns in Offenbach (factor 3) is 
+positively associated with the enjoyment of cycling in this city (A7). 
+Respondents who perceive high quality public space and greenery in the 
+neighbourhood (factor 4) are more likely to regard the bicycle as an 
+ideal means of transport (A1) and to be able to reach all relevant 
+everyday destinations by bicycle (A4). Moreover, they show a stronger 
+sense of flexibility and freedom (A3) as well as enjoyment (A7). The 
+same attitudes are correlated with the perception of safe and appropriate 
+cycling infrastructures in Offenbach (factor 5). In addition, this 
+perceived dimension supports the affiliation to at least stage 2 of the 
+SSBC and seems to contribute to the reduction of feeling unsafe (A5) as 
+well as exhausted and uncomfortable (A6). The perception of cycling 
+being a common practice as well encourages the probability of being at 
+least in stage 2 of the SSBC, moreover also implementing frequent bi­
+cycle use (stage 4). Furthermore, perceived cycling traffic seems to 
+positively affect the senses of fun (A2), enjoyment (A7) and safety (A5). 
+Some further variables also contribute to the regression models. 
+Regarding general travel attitudes, the preference for safe, pleasant and 
+sustainable travel is not associated with the SSBC stages, but seems to 
+increase the likelihood of considering the bicycle as the ideal means of 
+transport (A1) as well as having fun (A2), feeling flexible and free (A3) and 
+feeling unsafe (A5) when cycling. In contrast, travel enjoyment and 
+openness appear to positively affect advancing to further SSBC stages. In 
+addition, cycling-related fun (A2), the feeling of flexibility and freedom 
+(A3) as well as the enjoyment when riding in Offenbach (A7) seem to be 
+positively influenced by this general attitude. Respondents indicating a 
+preference for efficient travel, on the other hand, do not belong to the 
+SSBC stages 2, 3 or 4. Furthermore, they show negative attitudes towards 
+the positive aspects of cycling (A1-A4, A7), while the feeling of unsafety 
+(A5) and exhaustion and discomfort (A6) when cycling is higher for them. 
+Therefore, this general attitude seems to discourage cycling. 
+The availability of a bicycle strongly supports the assignment to at 
+least stages 2, 3 and 4. Furthermore, having a bicycle is strongly asso­
+ciated with all the positive attitudes towards cycling (A1-A4, A7). On the 
+contrary, it seems to reduce the feeling of unsafety and exhaustion and 
+discomfort (A6). The availability of a car has no influence on the SSBC 
+stage assignments. However, negative associations can be seen 
+regarding cycling-related flexibility and freedom (A3) and the ability to 
+reach all relevant everyday destinations by bicycle (A4). 
+None of the socio-demographic variables has an influence on the 
+SSBC stages and only two of them contribute to the cycling attitudes: 
+gender and age. Accordingly, females tend to have less fun (A2) and feel 
+rather unsafe (A4) when riding a bike. Furthermore, younger people 
+tend to feel free and flexible on a bike (A3), while older respondents 
+consider cycling rather exhausting and uncomfortable (A6). 
+A. Blitz 
+
+Travel Behaviour and Society 25 (2021) 27–40
+33
+5. Discussion 
+5.1. Individual perceptions of the local environment 
+According to the PCA of various local environment perceptions 
+conducted (section 4.1), it can be concluded that, from the residents’ 
+point of view, the four different examined dimensions of the environ­
+ment are apparently interrelated. In particular, this can be seen with 
+regard to the cycling infrastructures and non-built factors as well as 
+related to the public space quality and the traffic environment. The 
+former indicates a connection between the bicycle’s political and social 
+significance in the city and the presence and development of the cycling 
+infrastructure on the one hand as well as its condition, maintenance and 
+acceptance on the other hand. Additionally, the assessments of the 
+infrastructure interact with the perceived risk of bicycle theft. The latter 
+reveals the negative effect of high car traffic and traffic conflicts on the 
+evaluation of orderly and clean spaces. Thus, a strict distinction between 
+local environment dimensions – as implemented in previous studies (e.g. 
+Hoehner et al., 2005; Porter et al., 2018a; Stronegger et al., 2010) – is 
+not in line with the actual individual perception. Therefore, a joint 
+consideration of various elements appears to be more appropriate. 
+Furthermore, the consideration of individual perceptions provided 
+the opportunity to evaluate data not only on the presence of certain 
+elements but also on the conditions assessed by the residents in terms of 
+their own needs and opinions. For instance, the majority of respondents 
+do not think the existing bicycle parking facilities are convenient and 
+safe. This is a fact that could not be discussed using georeferenced data 
+on the locations of such facilities alone. In addition, aspects of the local 
+environment have been investigated, which are generally difficult to 
+measure objectively, such as discourses and perceived safety, but also 
+contribute to a city’s overall mobility appearance (Aldred and Jung­
+nickel, 2014; Klinger et al., 2013). The results show that the respondents 
+in particular negatively evaluate the significance of the cycling travel 
+mode compared to other modes and the dominance of car traffic. Thus, 
+the analyses confirm previous investigations describing the city of 
+Offenbach am Main as rather auto-oriented (Klinger et al., 2013). 
+5.2. The impact of the perceived local environment on cycling behaviour 
+and attitudes 
+The regression models indicate an impact from the perceptions of the 
+local environment on cycling behaviour and attitudes. Differences can 
+be found regarding the extent and direction of the six factors examined. 
+With reference to previous research, these correlations are discussed in 
+the following in more detail. 
+Firstly, perceived low political priority for the cycling mode in Offen­
+bach is associated with frequent bicycle use and positive attitudes towards 
+cycling. In particular, respondents in SSBC stages 2 and 3 as well as those 
+specifying the bicycle as the ideal means of transport show that percep­
+tion. Similar findings can be found in a recent study on the cycling cultures 
+in Stockholm and Copenhagen (Haustein et al., 2020) indicating that 
+lower perceived prioritisation of cycling is positively associated with time 
+spent cycling. These results may be explained by cyclists feeling disad­
+vantaged compared to and possibly caused by other road users. Re­
+spondents who do not ride a bicycle may not be aware of this disadvantage 
+seen from a cyclist’s perspective or even perceive disadvantages of their 
+own preferred mode of transport instead. Mertens et al. (2016) describe 
+the impact of this higher awareness of negative aspects by those exposed to 
+it as ‘reverse causality’. In addition, it is also possible that those re­
+spondents used the survey to draw attention to their dissatisfaction and 
+hope that in doing so improvements could be initiated. 
+Secondly, the perception of vandalism, dirt and high car pressure in 
+the neighbourhood negatively affects frequent bicycle use and the 
+enjoyment of cycling. Furthermore, this local environment factor in­
+creases the feeling of unsafety and discomfort when riding a bicycle. 
+These conclusions can be supported by previous studies involving these 
+kinds of factors. In particular, high car traffic volumes have been iden­
+tified as a hindering determinant for non-motorised travel (e.g. Carver 
+et al., 2005; Duncan et al., 2005; Wahlgren and Schantz, 201
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

@@ -1,0 +1,1148 @@
+I P,
+T H E 
+S 0 N I C
+E N VI R O NM E N T
+0 F 
+C I T I E S
+by
+MICHAEL FRANK SOUTHWORTH
+B.A., University of Minnesota
+(1962)
+B. Arch., University of Minnesota
+(1965)
+SUBMITTED IN PARTIAL FULFILIMENT
+OF THE REQUIRDITS FOR THE
+DEGREE OF MASTER OF
+CITY PLANNING
+at the
+MASSACHUSETTS INSTITUTE OF
+TECHNOIJGY
+June, 1967
+Signature of Author
+Certified by
+Sig nature Redacted
+Department of City and Regional Planning
+Signature Redacted
+11
+Signature Redacted
+Thesis Supervisor
+Accepted byCh 
+Departmental Committee of Graduate Students
+May 19 
+167
+
+THE SONIC ENVIRONMENT OF CITIES
+Michael Frank Southworth
+Submitted to the Department of City and Regional Planning on May 19, 1967,
+in partial fulfillment of the requirements for the degree of Master of
+City Planning.
+ABSTRACT
+The perceptual form of the soundscape is investigated by means of a
+field analysis and two experiments involving several subjects. The
+main purposes were:
+1. 
+To analyze the perceptual form of the soundscape and to develop
+techniques and language for recording it. The main concerns were
+the types and qualities of sounds, their spatial distributions,
+the extent to which they identify settings, the changes in the
+soundscape over time, and the interactions between sound, visible
+activity, and spatial form.
+2. 
+To study these characteristics of the soundscape as perceived by
+people and to develop experimental techniques for analyzing the
+public soundscape.
+3. 
+To investigate the possibilities and relevance of sonic design
+for cities and to establish some criteria for design.
+For purposes of the analysis and experimentation, a sequence in Central
+Boston from Beacon Hill to India Wharf was selected. The study uses
+the sequence as an experimental setting to investigate three hypotheses
+which are derived from research on the perception of the blind and deaf,
+and also from the literature of experimental psychology. These are:
+1. 
+The most dominant sound settings in a sequence are those which
+have the most informative sounds and which are unique with respect
+to the sequence.
+2. 
+Preferred sound settings are the most responsive, and allow sonic
+interaction, and the preferred sounds generally lie within the
+middle to low ranges of frequency and intensity, and have varied
+and non-repetitive patterns.
+3. 
+Dominant visual-auditory settings have visible form and activity
+which is supported by the sounds and are also informative and
+unique, visually as well as sonically.
+The two experiments tested the perceptions of several subjects on the
+same sequence. 
+In the first 
+experiment, subjects were blindfolded and
+taken by wheelchair through the sequence and were asked to comment on
+the sound settings. To test visual-auditory interactions, subjects
+
+of the second experiment consisted of three sensorially differentiated
+types: blindfolded, deafened, and normal seeing and hearing persons.
+These were taken simultaneously on the same trip and the procedures were
+similar to those of the first experiment. In general, the hypotheses
+are confirmed, but it is determined from both the analysis and the
+experiments that the sequence was lacking in most qualities considered
+desirable on the basis of the hypotheses, and sound settings lacked
+informativeness, uniqueness, and diversity, and the visible form was not
+well-correlated with the sonic form.
+The sonic environment, as well as the non-visual environment in general,
+is concluded to be an important area for new design work because of its
+apparently important effects on visual perception and because it may
+be an economical way of increasing persons? delight and acceptance of
+the city without massive and costly redevelopment of the visible form.
+The elements which are considered to have the most potential for sonic
+design on the basis of the analysis and experiments are the large open
+spaces, signs and other communications, the sequence network, and small
+and responsive spaces.
+Thesis Supervisor: Stephen M. Carr
+Title: 
+Assistant Professor of Urban Design
+
+CONTENTS
+I. THE ANALYSIS.................. 
+......................4
+A* The Hypotheses............................6
+B. The Descriptive Categories...1...........19
+C* 
+The Analysis.............................23
+D. Evaluation of the Soundscape from
+Beacon Hill to India Wharf...............25
+II. 
+THE EPEX3ENTS................................................3 1
+As 
+Experiment One...........................31
+B. Experiment Two... .. .................... .. 34
+C. 
+The Experimental Results.................38
+D. Some Limitations of the Experimental
+Results and Methods............ .......... 64
+E. 
+Some Additional Research Hypotheses
+and Experimental Techniques.............. 67
+III. 
+SONIC DSG..........................7
+APPENDIX A............................................ 
+.... 78
+Expernent Two: Trip Instructions and
+Interview Questions
+APPENDIX
+Visual Settings Correlated with Sound
+Mentions of Auditory and Visual-Auditory Subjects
+FOOTNOTES. ........ ...... ....... .... .... .....................-.. .91
+BIBl0GAPH...... 
+............ ..... ..................-...---..-92
+
+LIST OF MAPS
+I. 
+THE SEQUENCE
+II. 
+SOUND TYPES
+III. 
+SOUND LEVEL AND TERRITORY
+IV. 
+TEIPORAL PATTERN
+V. 
+SYNTHESIS
+VI. 
+ACTIVITY FO4
+VII. 
+SPATIAL FO1
+VIII. 
+SOUND AND VISIBLE FO1%I
+IX. 
+EVALUATION
+X. 
+THE CON1NON IMAGE
+LIST OF TABLES
+ONE: 
+The Dominant Sound Settings:
+Auditory and Visual-Auditory Subjects.....................40
+TWO: 
+Sound Mentions per Setting..*....*.......... *...oO**oe.....42
+THREE: 
+Sound Mentions per Unit of Trip Length........'............43
+FOUR: 
+Most-Mentioned Sounds-.... ................................44
+FIVE: 
+Most-Mentioned Sounds per Setting.........................45
+SI. 
+The Preferred Sound Settings:
+Auditory and Visual-Auditory Subjects.....................52
+SEVEN: 
+The Dominant Settings:
+Auditory, Visual, and Visual-Auditory Subjects........ ....
+55
+EIGHT: 
+The Preferred Settings:
+Auditory, Visual, and Visual-Auditory Subjects............57
+NINE: 
+Mentions of Visible Fori..................................60
+TEN: 
+Mentions of Non-Visual Elenents........'..................62
+
+THE SONIC ENVIRONMENT OF CITIES
+A city which would please all of the senses would be ideal, in terms of
+esthetics. 
+To date, however, design has been visually prejudiced, and
+the non-visual aspects of the physical environment are among the least
+considered characteristics. This is partly because they are so elusive,
+being invisible, transitory, and difficult to talk about, and partly
+because of the relative newness of large scale environmental art based
+on perception. In addition to visible activity and spatial form, a city
+has sounds, smells, textures, and myriad sensations of microclimate, and
+the perception of these hidden dimensions may greatly affect the inter-
+pretation of the visual information presented by the cityscape. This
+thesis will explore one aspect of this non-visual environment which seems
+particularly important: 
+the sonic environment.
+The main purposes have been:
+1. 
+To analyze the perceptual form of the soundscape and to develop
+techniques and language for recording it, including the types
+and qualities of sounds, their spatial distributions, the extent
+to which they identify settings, the changes in the soundscape
+over time, and the interactions between sound, visible activity,
+and spatial form.
+2. 
+To study these characteristics of the soundscape as perceived by
+people and to develop experimental techniques for analyzing the
+public soundsaape.
+I 
+-
+
+2
+3. 
+To investigate the possibilities and relevance of sonic design
+for cities and to establish some criteria for design.
+Writings on the subject of city sounds go back to the time of Julius
+Caesar, when Roman citizens complained because street noises prevented
+sleep; 
+and down through the Middle Ages, when there were complaints
+about the noisy new four-wheeled wagons with pivoted front axles and
+brakes; and up to the present, with its "Quiet Will Help Win the War"
+and "Ban the Boom" campaigns of the forties and the sixties. 
+Twentietr
+century city users and analysts have written most profusely about city
+sounds, but only in terms of noise, a rather narrow but vague conception
+of sound. 
+This will not be a primary concern here. 
+Rather, the focus
+will be on sound in its 
+most general and objective sense, including the
+sounds to which people do not often pay attention-sounds ranging from
+the roar of jets to the trickle of water on tin rooftops; from the stately
+chiming of a Big Ben, to the caricatured "Miseres" of hurdy-gurdy men;
+or from the quiet echoful oases of narrow back alleys, to the hum of
+voices, each with a different accent and cadence, as on a busy New York
+street. Some are informative sounds, others are repetitive and dull;
+some conjure up images of far away places or historically remote times,
+like the searching sound of a ship's horn as it comes to harbor, or the
+cries and songs of London street venders, which have been handed down
+from Elizabethan times; some are pleasant and soothing, while others
+grate and jangle the nerves.
+In addition to analyzing the soundscape as an independent variable, that
+is, the quality and type of sounds and their arrangements in space and
+time, it will be considered in relation to the visible form of the city:
+
+3
+the activity form and its physical settings. 
+Since the senses do not
+operate independently, sound cannot be analyzed as an isolate. What
+people hear is a function of many other environmental and psychological
+factors. A place which seems "good" must do much more than "look" good,
+a fact which designers usually ignore. Spaces which are of a grand
+scale and that have closet sounds, or sequences which are visually highly
+animated but which are sonically dead lack something for hearing people,
+and can be much better appreciated by the deaf. 
+There are many other
+interactions, in addition to the visual-auditory, which could also be
+investigated, but they have not been considered here.
+The presentation is composed of three major sections:
+I. 
+ANALYSIS: an objective analysis of the soundscape including the
+types and qualities of the sounds, their temporal and spatial
+distributions, and the relations of the sounds to the visible form
+and activity.
+III 
+EXPERIMENTS: 
+two perception experiments involving several
+subjects which study (a) the types and qualities of sounds as
+perceived at different times of the day, different days of the
+week, and in different weather conditions, and (b) the visual-
+auditory interactions.
+III. 
+DESIGN: 
+criteria for sonic design and design possibilities.
+
+PART 
+I:
+THE 
+ANALYSIS
+
+4
+I. THE ANALYSIS
+The categories for the descriptive analysis of the soundscape and the
+design of the perception experiments have been based on hypotheses
+derived from two major sources: 
+the experimental literature of psychology
+and reports on the perception of blind and deaf persons. The first source
+has four basic divisions:
+1. 
+Interactions between vision and audition
+2. 
+The effects of sound in communication and learning
+3. 
+Task perfomance in relation to sound
+4. Psychophysical investigations of (a) frequency and intensity
+thresholds, (b) reactions to sonic variations, and (c) annoyance
+and habituation effects
+Most of the literature is based upon very narrow and well-controlled
+laboratory experiments and its value for our purposes is therefore
+somewhat limited; 
+research on topics (1) and (2) is most relevant.
+The second main source of information has been a series of unpublished
+reports of seminars on perception which Dr. Warren Brodey conducted
+with a group of blind persons from 1961-64. 
+This material is particu-
+larly useful in developing experimental hypotheses for two reasons:
+I. 
+It is concerned with the perception of whole environments in the
+real world.
+2. 
+The blind do not share the sensory conventions of the sighted, and
+have learned to sense things which the sighted do not. 
+Since they
+are far more sensitized to the non-visual environment, they can
+clearly and perceptively articulate their responses to sound.
+
+.5
+Similarly, studies on the deaf can teach much about the psychological
+effects of visual perception without sound. 
+Unfortunately, the litera-
+ture in this area is scant and fragmented.
+
+6
+A. 
+THE HYPOTHESES
+The following are the main hypotheses upon which this study has been
+based. They form the framework for the analytical categories and the
+experiment design. The first two hypotheses relate to perception of the
+sonic environment alone, and the third, to interactions between sound
+and vision. They will first be briefly stated and then discussed in
+greater detail.
+SOUND
+Ia. 
+IDENTITY: 
+Uniqueness
+The most dominant sonic settings in terms of subjective impressions will
+be those which are most contrasted or most unique relative to all other
+settings in a sequence and to immediately preceding and following events
+in a sequence. 
+Some elements which make a sound setting unique are the
+type, intensity, quality, temporal pattern, movement, direction, and
+location of its sounds.
+Lb. 
+IDENTITY: 
+Informativeness
+Dominant sonic settings will also tend to be more informative, giving a
+sense of the activity and spatial form of the setting itself, and also
+its relation to other places. Novel or unique sounds will generally be
+more informative than regular or redundant ones.
+2. 
+DEIUGHT
+Preferred sonic settings, in addition to being high in uniqueness and
+informativeness, will be most responsive and will allow greater receiver
+involvement. 
+Settings which are least preferred will be uninformative,
+redundant, and generally very attention-demanding.
+
+7
+SOUND AND SIGHT
+3. 
+VISUAL-AUDITORY RE.NFORCERENT
+Visual-auditory settings which are dominant will have visible activity
+and spatial characteristics which are supported by the sounds, and will
+also be informative and unique, visually as well as sonically. Settings
+with non-supportive, that is, weak or contradictory visual or sonic
+form, will be less dominant.
+The following is a more detailed discussion of the hypotheses and sup-
+porting evidence. 
+For hypotheses one and two this evidence is derived
+mainly from Dr. Warren Brodeyls work with the blind, and for hypothesis
+three, from the experimental literature.
+Ia. IDENTITY: 
+Uniqueness
+For the blind, the soundscape is one of the most important means of
+obtaining information about the world. They hear things in it which
+seeing people cannot, partly out of necessity, partly because they are
+not dominated by the more powerful sense of vision. The models which
+they build of the sonic environment are much more generalized than the
+models constructed of the visual environment by the sighted, because
+the sonic environment is much less informative, and also because the
+ears are perhaps one one-thousandth as effective as the eyes in gathering
+information. 1 
+Also, sound information tends to be much more discontin-
+uous and transient, occurring in fragmented clumps, which are often
+rather indistinguishable from one another.
+Most blind persons never develop a general image or sense of identifica-
+tion with complex environments like cities, but at most have only narrow
+images of common trips, and depend on unique sets of sounds for a "home"
+
+8
+feeling. 
+Since the sonic environment is generally very changing, new
+sounds continually make the familiar strange. 
+Even a light rain or a
+blanket of snow can transform a familiar city into a foreign one.
+Unique sounds which can be depended upon are most useful: 
+squeaky
+doors or signs, rattling grates, or spaces which have distinctive echo
+characteristics are good clues. Irregularities of the tactual environ-
+ment, such as floor textures, bumps, or cracks are also important, in
+addition to micro-climate and olfactory sensations, but these are not
+a concern here.
+In identifying environments, images are constructed according to the
+purposes and expectations of the perceiver. For the blind, these
+images tend to be partial, highly conventionalized, and often erroneous.
+For example, blind persons, when hearing the sound of birds, often tend
+to go beyond the information given and image the birds in the stereo-
+typed setting of grass and trees against a blue sky, when in actuality,
+the birds may be sitting on building cornices on a quiet city street.
+Their images of people are also dependent upon the physical stereotypes
+and the associated voice types, with loud deep voices belonging to
+large muscular men. Successful radio broadcasting depends very much
+on communicating such stereotypes, while television usually relies more
+strongly upon the visual image. 
+For this reason, the blind generally
+enjoy radio much more than television, and for example, several found
+the radio Matt Dillon to be a far better "tough guy" than the TV Matt
+Dillon, who apparently "looked" the part only.
+Another characteristic of images of the blind is that they are often
+partial and are built only about aspects which can be perceived most
+
+9
+clearly or which are most relevant to their immediate purposes. A car
+may be imaged merely as a door with a seat behind it, since that is the
+way it is normally experienced. One blind subject had for years imaged
+a train as a number of noisy vertical pipes, much taller than himself.
+In conclusion, it is expected that the most dominant sound settings will
+be those which are contrasted with preceding and following events in a
+sequence and which are rather unique with respect to the total settings
+experienced. Variation of several elements can establish such contrast:
+sound intensity, in which a quiet setting could be dominant in the
+middle of a generally loud sequence; pitch, in which high-pitched sounds
+could be contrasted to a low-pitched sequence; or type, in which a long
+stretch of car sounds could be interrupted with a flock of birds. 
+The
+:bhythm of sounds and the rate and directions of movement are also elements
+which could establish dominance. 
+Settings with sounds which are unusual
+or least expected will have highest chances for being dominant, provided
+they can be easily heard.
+1b. 
+IDENTITY: 
+Informativeness
+Spatial Perception
+For the blind, sound is the prime way of judging space and is consequently
+very important in navigation through the city. 
+This is contrary to the
+old theory of "facial vision" which held that the blind perceived
+obstacles by sensing on the face a pressure which objects were presumed
+to emit. 2 
+According to the blind, sound is most informative when it is
+the result of their interactions with an envtronment. 
+Floors that squeak
+when walked upon or lamps that wobble when a room is entered are good
+spatial informants. 
+Spaces which are smaller, more enclosed, and hard
+
+10
+surfaced are usually better than large open spaces, because the former
+resonate with the sounds of onets voice and footsteps, and "sound shadows"
+can inform one of the size of a space, its contents, materials, and also
+about one's location in the space. 
+The blind are commonly able to dis-
+tinguish surface materials by their resonance qualities, for example,
+glass bounces back higher frequencies than does bridk. Some can deter-
+mine the location of a sidewalk curb from as far as thirty feet by means
+of echo-location.
+The masking effects of objects also helps to locate structures in space
+by forming a sort of silhouette of the btilding bulk against distant
+sounds. 
+This is effective only when the sound foregroud is quite
+transparent. 
+In more open situations, a linear form with distinctive
+reflectance characteristics, like a hedge, is helpful in navigation; a
+busy street is also a l6gible edge, but a menacing one. 
+In the absence
+of any good spatial guidelines in large open spaces, the blind often
+"read" the cracks in the sidewalk, changes in surface texture, or other
+micro-characteristics.
+In general, one's auditory perception is most keen when the air is cool
+and dry; the blind hear best at temperatures of 400 -
+500 F. Perception
+is most difficult in the rain or in humid conditions, when sounds seem
+much nearer, more blurred- and non-directional, and wet streets make
+it difficult to determine the directions of traffic.
+Novelty
+The blind must seek out the novelties or irregularities of the sound-
+scape for way-finding, since these sounds tend to be higher in informa-
+tion content and therefore identify a place more clearly. 
+This is par-
+
+11
+ticularly so if the sounds are rooted to the area, such as the sound of
+a boat creak in a harbor or opening and closing doors and children's
+voices in a residential area. 
+Also, responses to novel sounds tend to
+be more efficient or attention-demanding, as Poulton (1956) has shown
+in the experiment with several speakers. Sounds which are highly re-
+dundant, on the other hand, are filtered out or ignored after continued
+exposure, and they tend to be low in information. 3
+In addition to being more attention-demanding, auditory messages have
+the advantage of being less affected by fatigue, have fewer coding dimen-
+sions, and are more flexible and less influenced by distracting tasks
+than visual material. 
+Visual communication on the other hand has greater
+adaptability for presenting relational information and information can
+be presented at a faster rate. Also, since there are more coding dimen-
+sions, there can be more refined and more accurate discrimination.4
+The perception of a sound message varies with its 
+sound context or
+background and also with its structure in time. Message interference
+may result from interspersed competing messages of equal importance,
+irrelevant sounds, or irrelevant messages, noise being considered as a
+sound with a low level of information, but with high attention-demanding-
+ness. 
+Greatest interference occurs when competing sounds show as much
+variety as the message. For optimal communication, the signal sound
+and background sound must be differentiated both in sound level and
+type and the informational content should be unique in relation to the
+context. 
+Also, relevant information should ideally come from different
+sources or directions than irrelevant information, should be of differing
+frequencies or intensities, or should be presented to different sensory
+
+12
+modalities. High frequencies are more efficient carriers of information
+than are low frequencies. The rate of information flow of the messages
+is also important. Two messages which convey little information stand
+a much better chance of being dealt with simultaneously than do two
+high information messages. There is a limited capacity for the total
+number of signals within any time period, and interference is increased
+when competing signals occur within the short-term memory span, in which
+priority is given to the last event in a series. 5
+With respect to informativeness, then, it is expected that settings with
+fairly small and reflective spaces will be most informative of their
+spatial form. 
+Also, settings which have low-level foreground sounds
+but in which distant sounds are audible will be more informative than
+settings with much foreground sound that blurs the shape of spaces.
+Sounds which are rooted to a particular setting and which typify the
+activity of that setting are expected to be more informative than re-
+dundant city wide sounds; 
+the creak of a boat conveys more information
+about a harbor than do footsteps. Also, it is expected that people will
+attend more carefully to novel sounds than do those which are redundant.
+In conclusion, it is not expected that the parts of the present urban
+sonic environment will have a great deal of identity or uniqueness,
+nor are they expected to be very informative with respect to one another,
+especially for sighted people, who do not have time to attend to subtle
+distinctions.,, But the few places which are informative and unique to the
+cityscape as a whole, particularly if they are preceded and followed by
+contrasting settings, will most certainly be remarkable and memorable.
+MMW
+
+13
+2. DELIGHT
+Responsive and infornative environments are generally most preferred by
+the blind. A setting in which one's voice will bounce back to him and
+in which objects rattle and sing in response to one's movement, in addi-
+tion to being highly informative about the space and its contents, in-
+vites the involvement of the listener in a man-environment conversation.
+This type of involvement is particularly valued by people who most often
+feel detached from the world because of limited sensory contacts. Dr.
+Warren Brodey's report on his non-verbal classroom for blind children
+beautifully illustrates this point. The children delight in bouncing
+sounds off new materials and in new kinds of spaces, and the discovery
+of things which make novel kinds of sounds is a big event.6 
+This type
+of joy in sounds appears to continue throughout the life of most blind
+persons, and they speak of the fondness they have had for certain squeaky
+doors or floors which resonated with their footfalls.
+Preferred settings not only allow involvement, but also are more inform-
+ative. 
+Rooms with windows are preferred by the blind because they bring
+in sounds from the outside, enlarging the world from the tight visual
+space of the room to the expansive auditory space of the city. 
+Pre-
+ferred sounds generally lie within the low and middle ranges of fre-
+quency and intensity and are usually transparent sounds of a soft,
+rather than hard type, like the trickle of water, the rustle of wind in
+the leaves, the hum of human voices, or the click of footsteps. 
+Less
+pleasing sound settings tend to be more attention-demanding and less
+informative, such as the roar of a busy street. 
+Although the sound
+of a street makes its location and activity type abundantly clear, it
+camouflages many more subtle sounds which could tell 
+about other
+
+14
+activities or the general spatial character and its relation to the context.
+Higher frequency (512 cps) and higher intensity (90+ db) sounds are us-
+ually most annoying, particularly those which are low in information or
+irrelevant to one's purposes. 
+The blind regard the sound of the jack-
+hammer as one of the worst because it is very disorienting and covers
+large territory, affecting them like a bright flashing light affects
+the mighted. 
+Airplanes and sirens are also disturbing for similar
+reasons. 
+Annoyance with this type of sound does not appear to decrease
+with familiarity, but rather tends to become worse as it continues. 
+Also,
+the uncertainty or unexpectedness of attention-demanding sounds tends
+to increase annoyance. 
+Extremely quiet, undemanding, and uninfonmative
+environments may also be very distressing because they are so dull.
+In conclusion, it is expected that the most pleasing settings, in
+addition to being unique and informative, will allow more listener
+involvement and will be characterized by more transparent sounds which
+also lie 
+within the above-mentioned frequency and intensity ranges.
+3. 
+VISUAL-UDITORY REINFORCEKENT
+Thus far, the concern has been primarily with the perception of sound
+alone, but one of the main purposes is to relate this to visual perception,
+since most city users are also seeing people. 
+Before considering the
+interactions between seeing and hearing, it will be useful to consider
+visual perception without background sound. 
+The literature in this area
+is very limited, but there are some studies on the deaf which can give
+clues to what a sound-less world is like, and knowing this, the relations
+of hearing to seeing can be better assessed.
+
+15
+The most valuable studies have been done on deaf patients at the Deshon
+Army Hospital, most of whom had suddenly become deaf. 
+For them, the
+world was a ceaseless pantomime in which it was difficult to maintain
+a feeling of being a part of a living drama. Loss of sound had cut im-
+portant links with life. The world seemed dead and had lost its "ongoing-
+ness". 
+It 
+was much less urgent and nervous. The psychological effects
+of sudden deafness seemed more severe than those suffered by persons
+who suddenly had become blind. Deep depression resulted, characterized
+by undefined feelings of loss, lack of alertness, sadness, and paranoid
+tendencies. It was often hard to grasp the passage of time and patients
+frequently fell asleep. Life had fewer contrasts, but some of the most
+important events were those which had animated visual qualities, such
+as settings with rapidly changing light patterns, moving water, or flying
+birds; 
+moving pictures were almost magnetic in their attention-demanding-
+ness. 7
+Expanding upon this, it is probable that deaf persons, like the blind
+with sound, would gather much more visual information than do seeing
+and hearing people, since they have less to attend to. 
+Although most
+visual experience may seem dull and monotonous, attention would probably
+peak at those places with strong formal or compositional qualities and
+dramatic coloring or lighting. 
+Visible activity of people or things
+would be most attention-demanding, because of its 
+uniqueness in contrast
+to the majority of settings which are static, and because movement conveys
+more information. As with the blind, the most preferred places would
+most likely be those where a person could feel more closely related to
+the environment and could interact with the visual scene by changing the
+light quality or by being involved with the animation of the forms.
+
+16
+Sound, then, appears to be an important link to reality, and without
+sound, visual perception is different--less contrastful, less attention-
+demanding, and less informative. 
+(This was discovered decades ago by the
+movie industry). Similarly, aiaditory perception would be expected to be
+far different without simultaneous sight. 
+Sound and sight interact,
+and they can reinforce or interfere with one another. Compared with
+independent vision and audition, one may either gain or lose when the
+two are paired, depending upon the correlations between both channels
+of information. 
+Experiments have shown that the visual content of a
+setting helps in the hearing of congruous sounds or sounds that fit
+what is seen, based on learned expectations, and vice versa; 
+sounds can
+direct attention to elements which are congruous. 8 Seeing a bird helps
+in hearing its sound, if the sound is not prominent against the back-
+ground; 
+without seeing it, the sound would tend to pass unnoticed
+along with the other background sounds.
+Experiments have also shown that auditory cues can reduce search time in
+a visual task.9 Among these is the FLYBAR experiment, the purpose of
+which was to develop a system of pilot navigation of planes which would
+demand less attention to dials, because visual indications had been found
+to be very tiring and responses to them were slow. 
+The FLYBAR system
+was devised, which informed the pilot of the plane's position and speed
+by auditory reference. The signals were most successful when they sounded
+like what the plane was actually doing. 
+If the plane was higher on the
+left than on the right, a high-pitched tone appeared in the left ear,
+or when it was travelling faster, the sound was louder. The system
+was most successful when used in conjunction with dials which corresponded
+with the auditory information.10
+
+17
+Some experiments have also shown that verbal material presented both
+visually and audially is best remembered, while material presented only
+visually is less well-remembered than auditory material.1 1
+Interference, rather than reinforcement, can be expected to result
+when the visual image is accompanied by attention-demanding sounds which
+are incongruous or irrelevant with the visual information. 
+According
+to Broadbent, such sound background should be treated as a constant but
+low rate of information which is being presented to the ear. 
+This in-
+formation requires some periodic attention and its 
+effects on visual
+perception are similar to blinking. 
+The sound distracts momentarily
+from the visual task and as sound distraction increases, visual percep-
+tion or intake decreases. Transient or novel sounds show particularly
+pronounced effects because the onset or stopping of the sound conveys
+a higher rate of information and because a unique event has higher
+priority in the perceptual system. For this reason, intermittent and
+irregular or complex sounds may be more annoying than regular sounds of
+the same quality and intensity. 
+Also, incongruous sounds which can be
+identified and localized are apparently less annoying than those which
+continue to mystify. 12A setting high in visual information may also
+be expected to interfere with the perception of sounds which are not
+attention-demanding, that is, which are low intensity, irrelevant, or
+incongruous. 
+When only the auditory information of the same setting
+is perceived, more will be heard.
+Experimentation has also shown that one's sensitivity of peripheral
+vision decreases on exposure to sounds of average or above average
+intensity, while ultrasonic frequencies increase peripheral sensitivity.1 3
+
+Also, brightness contrast thresholds are raised if visual stimuli are
+paired with annoying auditory stimuli and experimental subjects needed
+more information for pattern recognition when the patterns were accom-
+panied by screeches. 1
+It is expected, then, that vision and audition together make city
+perception potentially more informative and contrastful, and vision
+without audition is more dull, and depends upon dramatic spatial form,
+color, lighting, and visible activity for interest. For seeing and
+hearing people, settings with sounds which are supportive of the visible
+activity and spatial form would be expected to be most dominant, provided
+they are also more informative and unique or contrasted with respect
+to other settings in a sequence. On the other hand, settings with
+sounds that do not fit with what is seen are expected to cause channel
+interference and a resulting decrease in information transmission. 
+Pre-
+ferred settings would be expected to be less attention-demanding and would
+allow, but not force, personal involvement, both sonically and visually.
+
+19
+B. 
+THE DESCRIPTIVE CATEGORIES
+The elements and characteristics of the sonic and formal environments
+which are considered important in auditory and visual perception with
+respect to the hypotheses can now be presented. There are three broad
+categories, each of which relates to the sensory mode by which the
+elements are perceived:
+I.
+II.
+III.
+SOUND: 
+hearing
+VISIBLE FORM: 
+seeing
+CORRELATIONS BETWEEN SOUND AND VISIBLE FORM: 
+hearing and seeing
+I. 
+SOUND
+A. 
+Form Qualities
+classification of the sound on
+the basis of its 
+source
+2. Location and Orientation:
+3. 
+Intensity and Territory
+4. 
+Quality:
+i. the kinetic qualities, i.e.
+whether the sound is localized
+or flowing
+ii. the spatial location or path
+of movement
+iii. 
+the direction of orientation of
+the sound
+i. 
+the sound level or loudness
+ii. 
+the territory or region within
+which the sound can be heard
+i. 
+the timbre or frequency spectrum
+of the sound
+ii. 
+the transparency or masking
+affects of the sound
+1.
+Type:
+
+20
+5. 
+Temporal Pattern:
+i. occurence:
+frequent to infrequent
+regular to irregular
+ii. 
+duration:
+long to short
+iii. 
+rhythm
+repetitive to non-repetitive
+B. 
+Synthesis of the Form Qualities
+1. Informativeness:
+2. Uniqueness:
+3. 
+Attention-Demandingness:
+4. Responsiveness:
+5. 
+Continuity:
+the extent to which the sounds
+support the activity and spatial
+form of a local setting and its
+city context
+the extent to which sounds are
+unique or contrasting to their
+setting or a setting is to its
+context
+the extent to which sounds force
+attention, independent of individual
+purposes, by their frequency,
+intensity, uniqueness, or informa-
+tiveness
+the extent to which settings allow
+sonic interaction by means of
+individual production or control
+of sound and environmental re-
+sponse
+the extent to which sonic settings
+contrast or continue over a given
+time cycle
+II. VISIBLE FORK
+A. Activity Form
+activity within a setting
+1. 
+Type:
+i. local:
+
+ii. flowing:
+movement on a path
+the amount of activity at a
+given point
+2. 
+Intensity:
+3. 
+Visibility and Audibility
+i. visible activity:
+sound-producing and non-sound-
+producing activity which can be
+seen from a given point
+ii. hidden activity:
+sound-producing activity which
+cannot be seen from a given
+point
+1. 
+Bulk and Spacing:
+2. Topography
+3. 
+Surfaces:
+4. 
+Transparency:
+5. 
+Visibility:
+6. 
+Light:
+7. Signs:
+the mass of structures in rela-
+tion to the intervening open
+spaces
+the floor, wall, and ceiling
+(if 
+any) materials and textures
+the visual penetrability of struc-
+tures and the degree to which
+the interior is exposed
+the extent to which a given
+setting and the city context of
+a setting are exposed from a
+given point
+the quality of sun and shadow
+visible explicit communications
+21
+
+22
+III. 
+SOUND AND VISIBLE FOWI
+1. 
+Visible Activity and Sound:
+2. Spatial Form and Sound:
+the extent to which the analyzed
+qualities reinforce or inter-
+fere with one another
+the extent to which the analyzed
+qualities reinforce or inter-
+fere with one another
+
+23
+C. 
+THE ANALYSIS
+The Area Analyzed
+For the purposes of this exploratory analysis, an area was desired which
+would provide a diversity of sonic settings and which would also contain
+a variety of activity and spatial form. 
+A second criterion was that the
+area be small enough to be explored within an hour's walking time, since
+the same area was also to be used in testing the perception of sound by
+several subjects in the experiments. It was concluded that a sequence
+rather than an area would best serve these two purposes.
+The selected sequence lies on the central portion of the Boston pennin-
+sula, starting in the center and passing radially to the waterfront;
+more specifically, from Beacon Hill to India Whhrf. 
+This is illustrated
+on Map I. 
+The total length of the sequence is 2.73 miles and it includes
+a variety of activity and form types, including the historic, tight-
+spaced Beacon Hill residential area, and the new, not-yet-completed and
+more open and coarse-grained Government Center; the almost empty and
+cavernous financial district, and the colorful and lively market area;
+the lonely emptiness of the waterfront, and the frenzy of Filenets corner;
+and the verdure and spaciousness of the Common, and the black chasm-
+like alleys.
+The Analytical Methods
+In order to facilitate analysis and experimentation, the sequence was
+divided into the following thirty-three settings. 
+Numbers were gen-
+erally assigned at points where the activity and/or form changed, with
+the exception of the more extended sections of the sequence, which were
+rather arbitrarily subdivided. The following are the settings:
+
+1..
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17;
+Pinckney Street
+Joy Street at Mt. Vernon
+State House tunnel
+State House parking lot
+Ashburton Place
+Pemberton Square
+Scollay Square
+Court Street
+Old State House
+Change Avenue
+Faneuil Hall
+South Market Street
+U.S. Customs Tower area
+Central Artery
+State Street
+Atlantic Avenue
+India Wharf
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+The analysis was conducted over a period of months and the settings
+were observed at various times of day and days of the week, and under
+several different weather conditions, to study temporal patterns. The
+information on all of the maps, except Map IV, Temporal Pattern, is
+based on observation between 10:00 AM and 4:00 PM on Saturday, however.
+This time was chosen because the sounds seemed most diverse. In addition
+to the author's judgement, the analyses were confirmed by two other
+persons who were familiar with the sequence. Sound level was measured
+by using an octave-band sound level meter. An attempt was made to record
+Vhe sounds of the sequence with a portable recorder for further analysis,
+but this proved unsuccessful, except for the loudest and closest sounds.
+If there had been additional time, and far more extensive facilities, a
+recording of the entire sequence at different times would have been
+extremely useful.
+24
+Central Artery
+India Street
+U.S. Customs Tower area
+Doane Street
+Exchange Place
+Quaker Lane
+Devonshire Street
+Spring Lane
+Washington Street
+Filene's Corner
+Winter Street
+Park Station
+Park Street
+State House
+Joy Street
+Myrtle Street
+
+25
+D. 
+EVALUATION OF THE SOUNDSCAPE FROM BEACON HILL TO INDIA WHARF
+The conclusions drawn from the analysis will now be discussed with re-
+spect to the hypotheses presented in Part I.
+I. IDEUTITY: 
+Uniqueness and Informativeness
+Uniqueness and informativeness will be considered together since there
+is considerable overlap. 
+A setting which is unique to its context,
+however, need not be particularly informative of the setting's spatial
+and activity character, and similarly, an informative setting need not
+be unique with respect to all other settings, but could be repeated
+endlessly throughout the city.
+Most of the sound settings in the sequence do not seem to be singular,
+nor do they seem highly informative-most could be either misinter-
+preted or confused with others, provided they were not seen. 
+There are
+some settings, however, which are outstandingly unique and informative
+relative to the sequence as a whole. These are Beacon Hill, with its
+array of residential sounds; Filene's corner, with its crush of people
+sounds, whistles, cars, and Musak; the Central Artery and its constant
+echoing roar; 
+and the five alley-like spaces; 
+the State House tunnel 
+(3),
+Change Avenue (10), Doane Street (21), Quaker Lane (23), and Spring Lane
+(25). 
+Although the allvys seem distinguishable as a general type be-
+cause of their unique reflectance qualities, they are much less differ-
+entiable from one another, except for subtle sounds. 
+The State House
+tunnel is more echoful than the others and often has cars in it; Change
+Avenue is the most quiet, but usually has footsteps; Doane Street has
+a second-story vent fan which runs continuously; Quaker Lane has a
+
+26
+flock of pigeons; and Spring Lane has an MTA stairway at one end, which
+sends up tbi sounds of trains. Of these settings, Beacon Hill and Filene's
+corner seem to have the greatest divernity of sounds.
+The Common and India Wharf are considerably weaker, although they are
+more informative on some occasions than others. 
+It is usally difficult
+to hear the birds or to sense the openness of the Common, and the sounds
+of water and gulls are usually weak at India Wharf. 
+Washington Street
+up to Filene's 6orner could be easily confused with the Market. 
+Among
+the most uninformative settings are the U.S. Customs Tower area and the
+entire sequence from the Customs Tower to Washington Street, *ith the
+exception of the alleys, which convey spatial information. 
+Most of the
+streets with heavy traffic, such as Tremont, Court, Atlantic, and Beacon
+are indistinguishable from one another, except for other sounds which
+connect them to a district, such as the construction sounds near Scoflay
+Square. 
+Although cars give a strong sense of the direction of flow of
+a street space, they camouflage many sounds which would give more in.
+formation on the activity and spatial form. 
+Unfortunately, vehicle
+sounds are by far the most prevalent and prominant. 
+In general, the
+most prevalent or most prominant sounds also seem to be the least in-
+formative but most attention-demanding, and mask the high information
+sounds, which are usually weaker and less frequent. 
+Most of the sounds
+are undesigned sounds and are produced spontaneously, the exception
+being the bells of the Common and Filene's Musak. 
+Also, most sounds
+are associated with visible exterior activity. 
+Places which have little
+visible activity or which have only visible interior activity, tend to
+be much weaker sonically.
+
+27
+The 
+identifiable sound districts, in addition to being associated with
+visible exterior activity, also often have unique spatial characteristics,
+such as the tight, narrow, hard street spaces of Beacon Hill; the
+confined spaces of the alleys and tunnels; or the openness of the water-
+front. 
+Most other spaces seem quite fuzzy, often because they are for-
+mally ambiguous, and often because the foreground sound is so opaque
+that the space is camouflaged--this is particularly true of busy streets,
+such as Washington. 
+Then there are some other spaces which sound much
+larger than they really are, such as Ashburton Place (5), which because
+of its hillside position and the general openness of the area beyond,
+receives sounds from as far as Charlestown and the West End commercial
+center. 
+Of all the settings, Beacon Hill seems to inform one best of
+its location in space relative to the rest of the city. 
+This is partly
+because the foreground sounds are low level, and hence more transparent,
+and partly because it is a hill, with spaces that bring in sound views
+from many directions. 
+Except for airplanes, thunder, and sometimes
+boat whistles, there are few sounds which cover the city as a whole.
+Most sounds have only local territory, the bells of the Common being
+one of the few sounds which has- district appeal. 
+These are audible
+from within Beacon Hill to as far as Atlantic Avenue.
+Thus far, the concern has been with the identity of settings relative
+to one another over a relatively limited time. If the same settings
+are compared over a longer period of time, and at many times of day
+and week and under different weather conditions, one finds few continui-
+ties but many contrasts. 
+Cars blur most settings on busy weekdays, par-
+ticularly between 10:00AM and 5:30 PM. 
+There seems to be much more
+clarity or identity of settings on early mornings, evenings, and Sat-
+
+28
+urdays or Sundays, although Sundays are often extremely dull, unless
+there is a parade or celebration. 
+Higher humidities, particularly rain
+or snow, slow the speed at which sound travels and filter high frequen-
+cies, having a shrinking effect on the soundscape.
+The most continuous or constant settings with the least variation in
+sound seem to be Beacon H
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

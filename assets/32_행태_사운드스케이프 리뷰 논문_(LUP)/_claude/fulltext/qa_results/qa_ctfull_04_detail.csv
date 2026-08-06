@@ -1,0 +1,11 @@
+no,item,item_no,verdict,rationale
+166,Representative target population,3.1,N,"Study 1·2·3 표본이 심리학 수강 학부생 105·72·79명(19~28세) 단일 대학·단일 도시 편의표본, 저자도 일반화 제약 인정(2.1.1·3.1.1·4.1.1·5절)"
+166,Appropriate measurements,3.2,Y,"보행속도는 착용 카메라+ELAN 프레임 주석과 구간 시작·종료 표시선으로 정밀 측정(2.1.3), 환경 노출은 Herzog 출처 11문항 평정(Table 2)과 Lday 소음지도값(5절)으로 특성화"
+166,Complete outcome data,3.3,Y,11구간 평균속도를 Table 1·4에 전원 보고하고 원자료를 Supplementary Table S1로 공개; 배제 규칙만 기술하고 수치는 미보고이나 ANOVA df상 결손 5% 이하(2.2·4.2·5절)
+166,Confounders accounted for,3.4,Y,"보행방향을 무작위 배정해 피험자간 요인으로 ANOVA 투입(2.1.4·2.2), 평탄하고 건축 특이성 없는 경로 선정(2.1.2), 1시간 블록 무작위 배정과 기상 기록, Study 3 다른 해 재현(4.2·5절)"
+166,Exposure occurred as intended,3.5,Y,전 구간 영상 녹화·보도 표시선·화살표로 경로 준수를 검증하고 규칙 위반·방해 사례는 자료 제거(2.1.4·5절); Study 2 평정자는 Study 1 참가자 전원이며 식생·날씨 동일(3.1.1·3.1.3)
+322,Relevant sampling strategy,4.1,Y,"차량 이동 기능별 도시가로에서 표본지점을 무작위 선정한 뒤 보행자를 현장 인터셉트하고 음향 측정과 설문을 동시 수행, 검정력 0.94 산출 보고(2절)"
+322,Representative sample,4.2,Y,"Table 1에서 연령·성별·학력·직업을 Caceres 인구통계와 직접 대조, 18~80세 전 연령대 포괄하고 성비 근접(43.8 vs 48.1%); 다만 학위자 51.4 vs 33.8%로 편중(2절)"
+322,Appropriate measurements,4.3,Y,"class 1 소음계-분석기 15분 측정, 마이크 1.5 m, ISO 1996-2 -3 dB 보정, 측정 전후 class 1 교정, 청력손실 응답 배제, 설문지 Supplementary 공개(2절)"
+322,Low risk of nonresponse bias,4.4,N,"응답률 25%로 75%가 거절했는데도 무응답자 특성 비교 없이 검정력 0.94와 표본오차만으로 대표성을 주장하고, 청력손실 배제 건수도 미보고(2절)"
+322,Appropriate statistical analysis,4.5,N,"상관 단위를 표본지점 값이라 밝히나 지점 수와 지점별 집계 절차를 전문 어디에도 미보고(2절), 주관 9변수 x 음향 28지표와 1/3옥타브 전대역에 다중비교 보정 없음(Table 3-7)"

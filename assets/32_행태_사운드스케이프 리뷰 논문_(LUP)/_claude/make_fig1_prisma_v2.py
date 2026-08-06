@@ -2,7 +2,7 @@
 """
 Paper32 — Figure 1: PRISMA 2020 흐름도 (2갈래 = 데이터베이스 검색 + 인용추적)
 등록 프로토콜의 "other search strategies"를 이행했으므로 PRISMA 2020 표준 2열 양식으로 그린다.
-⚠️ 인용추적 갈래는 'reports sought for retrieval' 단계에서 진행 중 — 점선으로 표기.
+두 갈래 모두 전문심사까지 완료(2026-08-03) — 최종 포함 96편.
 수치 출처: fulltext/prisma_flow.md (DB 갈래) · ct_screen_final.csv·ct_retrieval_status.csv (인용추적)
 출력: figures/Fig1_PRISMA.png|pdf
 """
@@ -127,30 +127,37 @@ def main():
     arr(CX_ + CW, 6.56, DX, 6.56)
     arr(CCX, 6.20, CCX, 5.52)
 
-    box(CX_, 4.30, CW, 1.14,
-        "Reports sought for retrieval\n$\\bf{n\\ =\\ 79}$\n"
-        "behaviour confirmed in abstract 40\nabstract unavailable 39", fs=7.2, ls=1.38)
-    arr(CCX, 4.30, CCX, 3.62)
+    box(CX_, 4.72, CW, 0.72, "Reports sought for retrieval\n$\\bf{n\\ =\\ 79}$")
+    box(DX, 4.02, DW, 1.32,
+        "$\\bf{Not\\ retrieved\\ (n = 25)}$\n"
+        "No institutional access   22\nPay-per-view only   3",
+        fc=GREY, ec=MUT, fs=6.2)
+    arr(CX_ + CW, 5.08, DX, 5.08)
+    arr(CCX, 4.72, CCX, 3.92)
 
-    box(CX_, 2.72, CW, 0.90,
-        "Retrieved   n = 8  (open access)\n$\\bf{Awaiting\\ retrieval\\ \\ n\\ =\\ 71}$\n"
-        "publisher bot-blocking (HTTP 403)", fc="#fbf7ec", ec=T.ORANGE, fs=7.0, ls=1.4)
-    ax.text(CCX, 2.44, "full-text assessment of this branch not yet complete",
-            ha="center", fontsize=6.6, color=T.ORANGE, style="italic")
-    arr(CCX, 2.72, CCX, 1.42, dashed=True, color=T.ORANGE)
+    box(CX_, 3.20, CW, 0.72, "Reports assessed for eligibility\n$\\bf{n\\ =\\ 54}$")
+    box(DX, 2.10, DW, 1.62,
+        "$\\bf{Reports\\ excluded\\ (n = 38)}$\n"
+        "No acoustic variable   20\nNo observable behaviour   17\n"
+        "Not in English (Chinese)   1",
+        fc=GREY, ec=MUT, fs=6.2)
+    arr(CX_ + CW, 3.56, DX, 3.56)
+    box(DX, 1.40, DW, 0.62, "Sensitivity analysis only\nn = 1", fc="#fbf7ec", ec=MUT, fs=6.2)
+    arr(CX_ + CW, 3.30, DX, 1.74)
+    arr(CCX, 3.20, CCX, 1.42)
 
     # ── Included ───────────────────────────────────────────────────
     ax.add_patch(FancyBboxPatch((AX, 0.18), 9.5, 1.06,
                                 boxstyle="round,pad=0.05,rounding_size=0.08",
                                 fc="#eaf3ee", ec=POS, lw=1.1))
-    ax.text(AX + 9.5 / 2, 0.94, "Studies included in the review    $\\bf{n\\ =\\ 81}$",
+    ax.text(AX + 9.5 / 2, 0.94, "Studies included in the review    $\\bf{n\\ =\\ 96}$",
             ha="center", va="center", fontsize=9.0, color=INK)
-    ax.text(AX + 9.5 / 2, 0.62, "Contributing to meta-analysis:  n = 15   "
-            "(walking speed 4 · staying 3 · social 3 · correlation 5)",
-            ha="center", va="center", fontsize=7.6, color=INK)
-    ax.text(AX + 9.5 / 2, 0.34, "Citation-searching branch contributes 0 studies at present — "
-            "the count will be revised once the 71 outstanding reports are assessed.",
-            ha="center", va="center", fontsize=6.8, color=T.ORANGE)
+    ax.text(AX + 9.5 / 2, 0.62, "via databases  n = 81          via citation searching  n = 15"
+            "          reserved for sensitivity analysis  n = 4",
+            ha="center", va="center", fontsize=7.4, color=INK)
+    ax.text(AX + 9.5 / 2, 0.36, "Citation searching added 15 studies (19% of the database yield) — "
+            "the registered supplementary route was not redundant.",
+            ha="center", va="center", fontsize=6.8, color=T.INK2)
 
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig1_PRISMA.{ext}"), dpi=300, bbox_inches=None)

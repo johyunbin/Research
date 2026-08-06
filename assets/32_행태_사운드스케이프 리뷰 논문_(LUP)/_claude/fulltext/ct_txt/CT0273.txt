@@ -1,0 +1,932 @@
+Original article
+Exploring multiscale relationships between environmental characteristics 
+and recreational trail-based activities in urban natural areas: A regional 
+study leveraging user-generated big data and machine learning
+Ping Chang *, Hans Skov-Petersen , Anton Stahl Olafsson
+Department of Geosciences and Natural Resource Management, University of Copenhagen, Frederiksberg C, Denmark
+A R T I C L E I N F O
+Keywords:
+Nature-based exercise
+Geographically weighted random forest
+Strava
+Spatial variations
+Trail planning
+A B S T R A C T
+Human recreational behaviours in nature represent context- and scale-dependent phenomena. Sustainable urban 
+planning and natural resource management call for effective interventions that target local contexts, which 
+require a refined understanding of human-nature interactions. However, existing studies have failed to 
+concurrently examine multiple spatial scales, nonlinearity and spatial variation in these associations. This study 
+leveraged big data (i.e., Strava sports tracking data for running and cycling) and advanced machine learning 
+techniques (partial dependence plots and geographically weighted random forest) to disentangle the complex 
+relationships between environmental characteristics and recreational activities. Key findings from our study 
+include: (1) the influence of environmental variables on running and cycling varies across perceptual scales, as 
+represented by route-based and survey-based navigation; (2) moreover, specific scales are more appropriate for 
+characterising these relationships; and (3) important variables were identified both at the local level and across 
+the region for running and cycling. Our study proposed multiscale approaches for modelling and understanding 
+the effects of environmental characteristics. The results reinforce the need for context-specific strategies in urban 
+planning. Practical considerations are provided for the planning and design of urban natural areas to promote 
+recreational trail-based activities.
+1. Introduction
+1.1. Background and motivation
+There are many benefits of outdoor sports for society (Donnelly and 
+MacIntyre, 2019; Eigenschenk et al., 2019), and natural environments 
+today provide the context for a large proportion of recreational physical 
+activity in countries such as England (White et al., 2016) and Denmark 
+(Rask et al., 2021). This trend has likely accelerated due to the 
+COVID-19 pandemic, at least in Sweden, where “outdoorification” of 
+sports during the pandemic has been reported (Hedenborg et al., 2024).
+Spatial patterns of nature visitation demonstrate strong distance 
+decay from peoples’ homes to the most commonly used nature sites 
+(Jensen and Koch, 2004; Neuvonen et al., 2007; Termansen et al., 2004). 
+Hence, urban and peri-urban natural areas are particularly used for 
+nature-based exercise (White et al., 2016). Trail-based activities 
+encompass recreational activities undertaken on trails, such as biking, 
+running, and walking. In Greater Copenhagen, decades of promotion 
+and planning efforts have been made to make urban and peri-urban 
+natural areas more accessible and attractive to the public (Caspersen 
+et al., 2006). Similar trends have been reported globally in case studies 
+and planning initiatives (Bell et al., 2007). However, diversified and 
+conflicting demands call for a rational and deliberate way of planning 
+natural resource allocation (Alexander, 2000). Seeking an effective so­
+lution with minimal resource investment reflects the principles of sus­
+tainability (Bibri, 2019; Caparros-Midwood et al., 2015). This goal 
+requires contextualized and localized solutions and prioritization.
+Trails in natural areas serve as an important element when planning 
+for daily nature contact and trail-based activities. An increasing body of 
+literature has recognized that the relationships between trail-based ac­
+tivities and the associated environmental characteristics vary spatially 
+(Abildtrup et al., 2013; Winters et al., 2010; Wu et al., 2017), with 
+various methods employed to probe such spatial heterogeneity (Feuillet 
+et al., 2015; Munira and Sener, 2020; Qui˜nones et al., 2021). In light of 
+this, this study aims to explore how various environmental character­
+istics contribute to the recreational usage of trails across the capital 
+* Corresponding author.
+E-mail address: chang@ign.ku.dk (P. Chang). 
+Contents lists available at ScienceDirect
+Urban Forestry & Urban Greening
+journal homepage: www.elsevier.com/locate/ufug
+https://doi.org/10.1016/j.ufug.2025.128869
+Received 7 October 2024; Received in revised form 6 May 2025; Accepted 13 May 2025 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+Available online 16 May 2025 
+1618-8667/© 
+2025 
+The 
+Author(s). 
+Published 
+by 
+Elsevier 
+GmbH. 
+This 
+is 
+an 
+open 
+access 
+article 
+under 
+the 
+CC 
+BY 
+license 
+( http://creativecommons.org/licenses/by/4.0/ ). 
+
+region of Copenhagen in Denmark.
+This study builds on the premise that the trail usage level for recre­
+ational activity is influenced by the qualities of the surrounding envi­
+ronment and the natural landscape features (Akers et al., 2012; Huang 
+et al., 2022). However, the influences of environmental variables are 
+affected by scale effects (Yang et al., 2025; Yang et al., 2024a). A simple 
+example is that the impact of environmental features varies with prox­
+imity (Schirpke et al., 2021), and that some spatial relationships imply 
+distance decay relationships (Skov-Petersen, 2002). Therefore, it is 
+relevant to explore how distance modulates people’s underlying per­
+ceptions and, thus, the spatial relationships of the environmental char­
+acteristics and the trail-based activity level (recreational trips on 
+segments of the trail network).
+Human cognition of the environment should be integrated into the 
+theoretical analysis and modelling of urban systems (Portugali, 2018). 
+The hypothesis above around scales in relation to the studied phenom­
+enon taps into two types of navigation methods involving route- and 
+survey-based perspectives (Shelton and Gabrieli, 2002; Tversky, 1993), 
+which might contribute to site and route selection differently. It is pre­
+mised on the notion that perceived route knowledge—at a relatively 
+small scale and within short distances—influences route selection on the 
+basis of the immediate surroundings of a trail, whereas survey knowl­
+edge—at larger scales/within larger distances and stored internally as 
+spatial knowledge/cognitive maps—contributes to site selection for an 
+activity, which obviously lies beyond what is immediately perceptible, 
+as illustrated in Fig. 1. A nuanced understanding of the relationships 
+between environmental variables and trail-based activities at different 
+scales is relevant to behavioural science, theories of human–nature in­
+teractions and sustainable urban planning.
+This study uses data from the Strava platform to uncover trail-based 
+activities. Strava is a global online community built-up around self- 
+monitoring and sharing of tracks recorded by GPS and performance 
+parameters with high spatial and temporal accuracy and resolution 
+(Venter et al., 2023). Strava data are available in an aggregated form 
+where participants in different activities (e.g., running, walking, and 
+cycling) are aggregated for individual segments of the global road 
+network from OpenStreetMap (OSM) (Strava, 2022). Strava has become 
+a rich data source and has been used in multiple previous studies of 
+trail-based activities in city regions (e.g., Dadashova et al., 2020; Jiang 
+et al., 2022; Lee and Sener, 2021; Munira and Sener, 2020).
+1.2. Research questions
+Although several studies have revealed the significance of scale in 
+the representation of spatial relationships (Hengl, 2006; Murakami 
+et al., 2019; Oshan et al., 2022), few have focused on the scale effects of 
+relationships between trail-based activities and the natural environment 
+(see also Section 1.3.2). Despite the increasing use of Strava data in 
+recreation studies, studies that ground their approaches in relevant 
+theories, such as spatial cognition and behaviour, remain scarce, 
+potentially overlooking key human dimensions and limiting the depth of 
+interpretation of the results. To address this, we developed models that 
+incorporate varying perceptual scales of the surroundings, thereby 
+providing empirical support for the theories underpinning our approach. 
+By explicitly considering various scales in relation to environmental 
+cognition, this study aims to demonstrate the effects of multiple scales 
+related to trail usage and to identify spatially varying and 
+scale-dependent relationships between environmental characteristics 
+and aggregated trail-based activity levels facilitated by machine 
+learning. Moreover, we examine the potential of new tools and methods 
+conducive to sustainable and localized trail planning. The specific 
+research questions are as follows: 
+By taking into account the effects of different scales, what are the 
+relationships between environmental variables and the levels of trail- 
+based activities (running and cycling)?
+When analysing use levels disaggregated to individual segments of 
+trail networks, what are the appropriate scales for representing 
+explanatory environmental variables?
+According to the assessment of the effects of multiple scales, which 
+explanatory environmental variables contribute the most to the 
+levels of trail-based activities at different locations and across the 
+region?
+1.3. Related work
+1.3.1. Scales in relation to two navigation methods
+Behavioural geography studies human (mental and physical) re­
+sponses to natural and man-made environments (Montello, 2018). The 
+use levels of trails for various activities are influenced by environmental 
+factors corresponding to the immediate perceptions of the surroundings 
+(route knowledge) and/or the spatial knowledge/cognitive maps of in­
+dividuals (survey knowledge). The spatial scales at which individuals 
+perceive the environment play an important role in understanding the 
+Fig. 1. Figurative illustration of multiple scales in the relationship between humans and the perceptual surrounding environment during navigation. A small buffer 
+size covering the nearby perceptual environment mimics route-based navigation, whereas a large buffer size mimics survey-based navigation (a mental map of 
+the area).
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+2 
+
+processes of choosing sites and routes. People who find their way 
+through a trail network are influenced by the immediate surroundings 
+from a ground viewpoint (route-based knowledge) but are, at the same 
+time, referring to known/surveyed overall characteristics of the land­
+scape with landscape features further away, which cannot be immedi­
+ately perceived. While choosing sites and making their way through the 
+landscape, people switch between—and indeed mix—the two perspec­
+tives, and the roles played by the characteristics of the environment 
+change (Morales Saiki et al., 2011). This is also reflected in ongoing 
+research efforts to understand environmental influences through the 
+lens of visual (micro-scale) and neighbourhood (macro-scale) percep­
+tions (Yang et al., 2024a; Jiang et al., 2022).
+The methodologies in this field have included questionnaires (e.g., 
+Zhong, 2020; Zhong and Kozhevnikov, 2016) and experimental tasks 
+such as simulated or real-world navigation, text-based navigation, 
+locating landmarks/objects, shortest path finding, and map sketching 
+(Barhorst-Cates et al., 2021; Jabbari et al., 2022; Kozhevnikov and Puri, 
+2023; Lopez et al., 2021; Muffato and Meneghetti, 2020; Paz-Argaman 
+et al., 2024). These tasks have been designed to examine how 
+different environmental features or representations influence navigation 
+strategies. However, previous studies have often framed wayfinding as a 
+cognitive function rather than an experiential process and were con­
+strained by small sample sizes. To address this gap, there is a need to 
+investigate behavioural patterns on a larger scale from a landscape 
+experience perspective. Novel user-generated recreational data from 
+platforms like Strava, with their extensive volume and geographic 
+coverage, provide an objective measure of aggregated trail usage and 
+enable scalable analyses of the relationship between navigation behav­
+iour and the environment.
+1.3.2. Scale effects and nonlinear relationships
+When characterizing spatial relationships between targets (e.g., 
+visitor volumes on trail segments) and surrounding explanatory vari­
+ables, the most common approach is to define buffer zones or sharp 
+thresholds, beyond which potential effects are disregarded. An obvious 
+challenge is determining the most relevant buffer size. While most 
+studies employ a single buffer size in spatial modelling, a few have 
+addressed scale effects by incorporating multiple buffer sizes. For 
+instance, Liu and Griswold (2009) and Tabeshian and Kattan (2014)
+examined scale effects and identified optimal models. Similarly, Mir­
+anda-Moreno and Fernandes (2011) adopted buffer sizes of 50, 150, and 
+400 m around road intersections to represent the immediate surround­
+ings, proximities and neighbourhoods where features might affect 
+pedestrian activities. Hasani et al., (2019) found that different variables 
+became influential at different buffer sizes, underscoring the inherent 
+spatial scales of spatial processes. Moreover, studies by Browning and 
+Lee (2017) and Murakami et al., (2019) highlight the impact of varying 
+spatial scales on associations and predictors. In terms of analysis, 
+multilevel modelling (MLM) has been employed to account for variables 
+at both the segment and neighbourhood levels (Huang et al., 2023).
+However, statistical analyses in earlier studies often relied on pre­
+defined functions applied to global datasets, limiting their ability to 
+capture highly complex spatial processes. Recently, machine learning 
+techniques have gained recognition for their superior ability to model 
+complex, nonlinear, and localized relationships. In particular, explana­
+tory and spatialized machine learning approaches, such as Gradient 
+Boosting Decision Trees (GBDT), SHapley Additive exPlanations 
+(SHAP), and geographically weighted random forests (GRF), have been 
+employed to assess the global and local importance of built environ­
+mental features on jogging activity (Yang et al., 2024a; Yang et al., 
+2024b).
+Despite advancements in modelling techniques, few studies, to the 
+best of our knowledge, have simultaneously accounted for the three 
+critical effects - scale, nonlinearity, and spatial variation - of environ­
+mental characteristics on recreational behaviours, which vary by ac­
+tivity type. To address this gap, we applied the spatialised machine 
+learning technique, GRF, and adopted incremental buffer sizes to mea­
+sure environmental characteristics, capturing varying perceptual scales 
+of surroundings in route- and survey-based navigation. These underex­
+plored effects were central to our research questions.
+2. Methods
+2.1. Study area
+As the capital city of Denmark, Copenhagen is the socioeconomic 
+centre of Denmark, with a population of 2.1 million inhabitants in the 
+metropolitan area. The region has various natural resources, including 
+coastlines, forests, beaches, grasslands, lakes, and canals. Accessibility 
+to nature, including urban nature, is a top priority in Nordic green 
+infrastructure planning (Nordh and Olafsson, 2021). Regional develop­
+ment for Copenhagen has been referred to as the “Finger Plan”, which 
+outlines the direction and expansion of urban development along 
+transport corridors expanding from the city core while preserving green 
+wedges in between to enable easy access to recreational resources 
+(Caspersen et al., 2006). Our study area covers the Finger Plan, which 
+spans from the core area in the city of Copenhagen to the agricultural 
+and natural landscape and coastline in North Zealand (hereafter referred 
+to as the Copenhagen region). Several previous studies have docu­
+mented the recreational use and value of natural areas in the study area 
+(Caspersen and Olafsson, 2010; Korpilo et al., 2022; Vejre et al., 2010). 
+Accordingly, the region is regarded as a relevant study area for exploring 
+the relationship between environmental characteristics and trail-based 
+recreational behaviour in natural areas across the urban, peri-urban 
+and urban hinterland contexts. The main focus is on the natural areas 
+in the region. The natural areas were delineated and defined by the 
+selection of land use classes (‘forests’ and ‘open nature’) from a 
+high-resolution land use raster dataset called Basemap (10 ×10 m) 
+(Levin, 2022). Patches within 100 m were merged, and areas smaller 
+than 2000 m2 were removed, resulting in the delineation of the studied 
+areas in Fig. 2(a). Within these areas, OSM trails with activity data from 
+Strava were extracted, as shown in Fig. 2(b). We focused on the sizable 
+patches of natural areas in the region to control for external confounding 
+physical factors. The selected natural areas were covered foremost by 
+forest (76 %) and spanned 494 km2 out of a total regional area of 
+6839 km2.
+2.2. Overview of the analysis process
+This section presents a methodological overview of the study (Fig. 3). 
+In the variable processing, the explanatory variables were divided into 
+‘scaling variables’ to acknowledge the varying scales (‘buffer sizes’) 
+within which people perceive the environment (denoted as ‘var_100m’, 
+‘var_250m’, ‘var_500m’, ‘var_1000m’) and ‘nonscaling variables’ 
+(described in detail in Section 2.4.2). The nonscaling variables were 
+directly aggregated into the grid cells along the road segments, and the 
+scaling variables were computed at the road segments within given in­
+cremental buffer sizes.
+To cater to the expected nonlinear relationships, pairwise relation­
+ships between the explanatory variables (for each buffer size) and the 
+target variable (recreational activity level) were visualized with partial 
+dependence plots (PDPs) (Section 2.5), integrated via the random forest 
+(RF) algorithm, and interpreted through the lens of navigation behav­
+iours (addressing research question 1).
+To capture the spatial variations in the relationships, the present 
+study used a spatialized machine learning model. Geographically 
+weighted random forest (GRF) (Section 2.5) was employed to quantify 
+the local contributions of the explanatory variables. In each grid cell, the 
+variable that obtained the highest importance numeric measure among 
+all considered variables was identified as the ‘locally important vari­
+able’. The explanatory variables were ranked on the basis of the number 
+of cells in which they were identified as the locally important variable 
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+3 
+
+across the study region. This procedure was first carried out for the GRF 
+models separately, where the scaling variables were computed with each 
+of the buffer sizes, namely, 100 m, 250 m, 500 m, and 1000 m. The 
+series of GRF models are denoted as ‘GRF_100’, ‘GRF_250’, ‘GRF_500’, 
+and ‘GRF_1000’. The buffer size that resulted in the highest rank for a 
+given variable was determined to be the appropriate scale for that var­
+iable in representing the studied association (addressing research 
+question 2). GRF_optimal, with the identified buffer sizes for the cor­
+responding variables, was then used as the final model to visualize the 
+locally important variables across the region (addressing research 
+question 3).
+2.3. Target variable processing
+Strava is an online social platform for sports where users can record 
+and upload exercise routes, which has gained increasing popularity, 
+with over 100 million users worldwide (Strava, 2024). We collected 
+monthly aggregated data for recreational running (which also included 
+walking and hiking activities) and cycling activities. The dataset covers 
+the Copenhagen region for the period from 2019 to 2022. Demograph­
+ically, the dataset is biased towards men and the middle-aged group, 
+with 70 % and 84 % of Strava trips performed by men for running and 
+biking, respectively, and nearly 50 % performed by people aged 35–54 
+for both activities (Appendix A.1). The applied dataset comprised 217, 
+183 road segments, with a total count of 664 million trips for running 
+and 1718 million for cycling.
+2.4. Variable selection and calculation
+2.4.1. Variable selection
+The selection of explanatory variables (Table 1) was inspired by 
+previous research on forest recreation and trail preferences, i.e., ‘canopy 
+cover’ (Edwards et al., 2012), ‘broadleaved ratio’ (Agimass et al., 2018; 
+Hegetschweiler et al., 2017; Termansen et al., 2013; Wartmann et al., 
+2021), ‘tree age’ (Jensen, 1999; Rosa et al., 2020; Sacher et al., 2022; 
+Simkin et al., 2020), water area (lakes, rivers, sea, bogs, etc.) (Harden 
+et al., 2022), ‘road property’ (Deelen et al., 2019; Munira and Sener, 
+2020; Schirck-Matthews et al., 2022), ‘recreational facilities’ (Christie 
+et al., 2007; Skov-Petersen, 2002), ‘accessibility’ (Skov-Petersen, 2002;
+Jessen et al., 2023), ‘natural area edges’ (Termansen et al., 2004), and 
+‘visibility’ (Edwards et al., 2012).
+2.4.2. Scaling and nonscaling variables
+Incremental buffer sizes were applied around road segments in the 
+model building process to account for the different perspectives 
+involved in route- and survey-based navigation. Small buffer sizes are 
+assumed to represent the perceptual scales - i.e. route-based navigation - 
+of the surrounding environment, whereas larger buffer sizes assumably 
+represent spatial knowledge that cannot be sensed by immediate 
+perception and must accordingly, depend on survey knowledge.
+In Table 1, variables for exploring the varying influences at different 
+perceptual scales are listed, which are referred to as ‘scaling variables’. 
+Four buffer sizes were applied around the road segments in the variable 
+calculation.
+In addition, we investigated other environmental attributes without 
+applying buffers, as these variables were considered the properties of a 
+given road segment per se instead of surrounding environmental vari­
+ables. These ‘nonscaling variables’ were ’physical accessibility’, ’major 
+road type’, ’major road surface’, and ’length of the natural area edge’. 
+Notably, ‘number of recreational facilities’ was included as a ‘nonscaling 
+variable’ because a mixture of recreational features was included in this 
+category, which was created by the Danish Nature Agency. This category 
+consists of benches, campsites, hiking/cycling tracks, scenic areas, etc. 
+Therefore, the incrementation of buffer sizes to conceptually associate 
+singular environmental attributes were considered not applicable.
+2.4.3. Input variable processing
+Explaining variables were computation by ArcGIS Pro, Python 
+scripts, and PostGIS. Owing to concerns about computational efficiency, 
+the raster data were converted into points and then joined within each of 
+the buffer sizes around the road segments. The values computed were 
+assigned to road segments after being weighted by the segment lengths 
+Fig. 2. (a) Study sites in the form of terrestrial natural areas (green) in the Copenhagen region. (b) The crossing road segments of the study sites.
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+4 
+
+(for details on the variable computation, readers are referred to Ap­
+pendix B.2).
+A large dataset can cause computational exhaustion with GRFs 
+(Georganos et al., 2021). After experimenting with a subset of the 
+dataset, we decided that analysis based on individual segments of the 
+network, was not adding to the explanatory power of the model of the 
+phenomenon. A proper level of aggregation could ameliorate the impact 
+of outliers and facilitate more robust interpretation of the results. 
+Different levels of aggregation have been adopted in previous research 
+(Hochmair et al., 2019; Neatt et al., 2017), such as the size of census 
+tracts, cities, and analytical buffers around intersections, depending on 
+data availability and the studied phenomenon. Accordingly, the 
+explanatory variables initially aggregated to the road segments, were 
+aggregated into 500 m * 500 m grid cells. The aggregation method for 
+each variable is indicated in Table 1.
+2.5. Geographically weighted random forest as a spatial extension of 
+random forest
+The values of the input variables did not follow a normal distribution 
+(Appendix A.2); hence, machine learning was applied because of its 
+ability to handle nonnormal statistical data distributions (Catani et al., 
+2013).
+Machine learning methods have been extensively applied across 
+various domains because of their superior accuracy in predicting com­
+plex phenomena involving high-dimensional nonlinear relationships 
+and relaxation of assumptions of data distributions (Breiman, 2001; Guo 
+et al., 2021; Humston et al., 2010; Zhou et al., 2019). Among machine 
+learning methods, tree-based algorithms, including random forest (RF), 
+excel at explaining the underlying associations by discerning the relative 
+contributions of the explanatory, independent variables to the depen­
+dent, target variable (Jiang et al., 2022). For a detailed description of RF, 
+readers are referred to Appendix B.1.
+By incorporating spatial dependence and heterogeneity, Georganos 
+et al., (2021)
+and Georganos and Kalogirou (2022)
+proposed 
+geographically weighted random forest (GRF), which applies the 
+framework of geographically weighted regression (GWR) to RF 
+(Kalogirou, 2013). Instead of the whole extent of the dataset, GRF cre­
+ates a submodel of the RF for each spatial data point with nearby data 
+points. The number of included points is called the ’bandwidth’, which 
+is an important hyperparameter that can be adjusted to achieve the best 
+out-of-bag (OOB) R-squared value. We conducted a bandwidth search 
+from 50 to 400 for the GRF modelling (see Appendix C.1 for the 
+hyperparameters). The contribution of each explanatory variable can be 
+evaluated by the average decrease in impurity, i.e., data variance, in the 
+target variable, expressed in Eq. (1), at all the internal nodes split by the 
+explanatory variable. The GRF algorithm was implemented via the R 
+package SpatialML 0.1.6 on a high-performance computing server. 
+Fig. 3. Flow chart illustrating the analysis process, output and corresponding research questions (RQs).
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+5 
+
+Var = 1
+n
+∑n
+i=1(yi −ȳ)2
+(1) 
+where Var is the variance in the values of the target variable y in the 
+sample, n is the number of data points for y, yi is ith value of y, ȳ is the 
+average value of y.
+We generated partial dependence plots (PDPs) (Friedman, 2001) to 
+visualize the nonlinear relationships among the variables with the global 
+dataset, where the average value of the target variable predicted by the 
+RF model on a training set was plotted against each unique value of the 
+explanatory variable. We used the R packages ‘randomForest’ 4.7–1.1, 
+‘pdp’ 0.8.1 and ‘ggplot2’ 3.4.4 to generate the plots.
+3. Results
+3.1. Recreational running and cycling intensity
+The spatial patterns of running and cycling intensity exhibited 
+certain differences (Fig. 4). Collectively, runners appeared to traverse 
+the road network within natural patches, and their trips more commonly 
+occurred in the inner city. In contrast, cycling hotspots exhibited a 
+pattern of extending from urban to rural natural patches, with several 
+long-distance trip trajectories cutting across multiple natural patches, 
+particularly those around water features and coastal areas.
+3.2. Visualization of the relationships between the variables with PDPs
+The partial dependence plots (PDPs) in Fig. 5 were generated for 
+each buffer size. Subplots are arranged horizontally by increasing buffer 
+size, with explanatory variables listed vertically. The subplots reveal 
+nonlinear relationships that vary across buffer sizes. Since the exact axis 
+values were scaled to fit in the combined subplots, our discussion 
+(Section 4.1) focuses on the observed trends.
+3.3. Appropriate scale sizes for representing the environmental variables
+This section describes how the significance of scaling variables vary 
+across buffer sizes (Table 2). Variables were ranked based on the number 
+of cells where they were identified as locally important. The goal was to 
+determine the appropriate buffer size for each scaling variable in spatial 
+processes.
+Table 2 illustrates the scale effects of the associations. ‘Tree cover’ 
+maintained relatively stable ranks for running activity across different 
+scales. Some variables, such as ‘broadleaved ratio’ and ‘visibility’, ach­
+ieved the highest rank at larger buffer sizes (1000 m), whereas others, 
+like ‘total length of neighbouring roads’, peaked at smaller scales 
+(100 m).
+3.4. Modelling performance and hyperparameters
+The bandwidth search process and the resulting R-squared values 
+from both GRF and RF (as a baseline) are documented in Appendix C.2
+and C.3. The best bandwidths for the GRF models are presented in 
+Table 3. The appropriate buffer sizes for the scaling variables were 
+applied in the final GRF model, GRF_Optimal. This model achieved the 
+highest R-squared, demonstrating that incorporating the appropriate 
+scales of relationships enhances model accuracy.
+3.5. Distribution of locally important variables
+The locally important variables were identified in each grid cell with 
+the model GRF_optimal. The cells assigned with a given locally impor­
+tant variable were referred to as ‘significant cells’ for this variable. The 
+significant cells of each variable were mapped across the study region 
+for running and cycling (Fig. 6 (A) and (B)). Different degrees of spatial 
+clustering and prevalence of significant cells across the study region 
+Table 1 
+Description of the target, scaling (i.e., assigned to varying buffer sizes) and 
+nonscaling (as recorded directly on the segments of the road itself or as prop­
+erties of a spatial range) variables before being aggregated into the grid.
+Variables
+Definition
+Source
+Method for 
+aggregation 
+into the grid 
+cell
+Target variable
+​
+​
+​
+Running/cycling 
+activity level 
+(trail-based 
+activities)
+Number of trips 
+aggregated on 
+individual road 
+segments from 2019 
+to 2022
+Strava
+Mean
+Scaling variables (applied with 
+incremental buffer sizes)
+​
+​
+Tree cover 
+density
+Tree cover density 
+around a road 
+segment
+Danish forest 
+statistics
+Mean
+Broadleaved ratio
+Ratio of broadleaved 
+trees around a road 
+segment
+Danish forest 
+statistics
+Mean
+Tree age
+Average age of the 
+trees around a road 
+segment
+Danish forest 
+statistics
+Mean
+Water
+Pseudo area of water 
+bodies around a road 
+segment, standardized 
+by the length of the 
+road segment
+LU basemap
+Mean
+​
+​
+Visibility
+Pseudo area of the 
+viewshed around a 
+road segment, 
+standardized by the 
+length of the road 
+segment
+DEM, DSM
+Mean
+​
+​
+Length of the 
+neighbouring 
+roads
+Pseudo length of 
+neighbouring roads 
+around a road 
+segment, standardized 
+by the length of the 
+road segment
+LU basemap
+Mean
+Nonscaling 
+variables
+​
+​
+​
+Major road type
+Mode of the road 
+types in a grid cell
+OpenStreetMap
+Mode
+Major road 
+surface
+Mode of the road 
+surface types in a grid 
+cell
+OpenStreetMap
+Mode
+Recreational 
+facilities
+Number of 
+recreational facilities 
+and special natural 
+areas managed by the 
+Danish Nature Agency
+Geodenmark
+Sum
+Physical 
+accessibility
+A 100x100m grid 
+indicator of potential 
+visitation of forests, 
+from a national model 
+based on the locations 
+of available natural 
+resources, population, 
+and median travel 
+distances of different 
+means of 
+transportation 
+(walking, cycling, and 
+travelling by private 
+car)
+Jessen et al., 
+2023
+Mean
+Natural edge 
+length
+Length (m) of the 
+edges of the natural 
+area within a given 
+grid cell
+LU basemap
+Sum
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+6 
+
+were observed. Table 4 presents the rank of the variables in terms of the 
+number of significant cells. The significant cells of the top five variables 
+are shown in Fig. 6(a)-(j).
+4. Discussion
+4.1. Explained variance by the models
+We consider the overall R-squared values obtained in this study 
+satisfactory compared to recent literature, where R-squared values 
+typically range between 40 % and 75 % (Yang et al., 2024c; Dadashova 
+et al., 2020; Hong et al., 2020; Munira and Sener, 2020; Yang et al., 
+2022). Noticeably, in a study by Yang et al., (2024a)
+using 
+Gradient-Boosted Decision Trees (GBDT), the R-squared reached 
+92.6 %. However, their model included 23 variables, whereas our study 
+used only 11. While adding more variables may increase R-squared, our 
+aim was not solely to maximize predictive performance but to under­
+stand the impact of key explanatory variables and scale effects. There­
+fore, we consider our R-squared values (74.03 % for running and 
+68.21 % for cycling) acceptable, reflecting a balance between model 
+performance and parsimony.
+4.2. Relationships between the explanatory variables and trail-based 
+activity levels at different scales
+The PDPs depict the nonlinear relationships between the explanatory 
+variables and the trail-based activity levels, which vary across different 
+perceptual scales of the environment during navigation. Here, we 
+interpret smaller buffer sizes as corresponding to route-based naviga­
+tion, whereas larger buffer sizes imply survey-based navigation. In the 
+following sections, we discuss the influences of the explanatory vari­
+ables in relation to different perceptual scales. By comparing our find­
+ings with existing literature, we emphasize that scale effects may explain 
+the heterogeneity observed in outcomes across studies.
+For the plot numbers used in the following sections, refer to Fig. 5
+above.
+4.2.1. Length of the neighbouring roads
+For cycling, there is a drop from zero across all the buffer sizes. We 
+speculate that an isolated trail could become dominant when no other 
+alternative roads are available. For the smaller buffer size (plot (1a)), the 
+initial decrease is followed by a notable upward trend. This suggests a 
+positive influence of the road density within smaller distances (e.g., 
+100 m) for cyclists in route-based navigation. This result aligns with the 
+finding from previous studies that identified the local effect of road 
+density, influencing movement patterns within smaller and specific 
+areas (Tcymbal et al., 2020; Zhang et al., 2024a).
+In contrast, the relatively low value at zero suggests that runners 
+might be less likely to choose isolated trails in survey-based navigation 
+(plot (4a)), e.g., when there is only one trail within 1000 m, instead 
+tending to select sites with better connected trails, as indicated by the 
+upward part of the curve.
+The curves level off across the four plots, suggesting that beyond a 
+certain threshold, road density has minimal influence on running and 
+cycling volumes. This reflects the trade-off between denser road net­
+works that enhance connectivity but also increase safety risks, and the 
+balance between potential interruptions and the lively atmosphere 
+created by the presence of other trail users (Tcymbal et al., 2020; Yang 
+et al., 2024b; Yang et al., 2024c).
+4.2.2. Water
+The positive effect of water areas was robust across all five buffer 
+sizes. A sharp increase in the volume of runners, from zero, indicates 
+that the presence of water, even small areas, could encourage trail-based 
+activities. However, the curves that gradually level off suggest that there 
+might be a threshold for this effect, beyond which further increasing the 
+amount of water area may not lead to effective promotion. However, for 
+buffer sizes of 100 m and 250 m (plots (1b) and (2b)), another increase 
+was observed for running. In addition, water bodies within relatively 
+long distances had similar impacts on cycling and running activities 
+(plot (4b)), indicating a steady positive influence. Overall, the results 
+show that the presence of water had an instant positive effect on trail- 
+based activities. Previous studies have generally identified a positive 
+impact of blue spaces (Agimass et al., 2018; Harden et al., 2022; 
+Hochmair et al., 2019). Our study further quantified this association by 
+considering water surface size and different perceptual scales in the 
+route- and survey-based navigation.
+4.2.3. Tree cover density
+High values for both activities (cycling in particular) were observed 
+at zero on the x-axis of ‘tree cover density’ across all the buffer sizes, 
+suggesting that open areas without tree covers favoured trail-based 
+Fig. 4. Maps of the activity levels of running (a) and cycling (b) on trails aggregated into the grid (values classified by natural breaks in the visualization). A deeper 
+red colour indicates a higher activity level (value = activity volume). Readers are referred to the high-resolution figures for download.
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+7 
+
+activities. However, the positive effects of tree cover became more 
+prominent with increasing tree cover density (plots (1c) and (2c)), 
+revealing a preference for areas that were either completely open or 
+densely covered by trees in route-based navigation. However, the posi­
+tive effect of high tree cover density was minimal (plot (4c)), meaning 
+that people might select sites with open skies over those with tree cover 
+in survey-based navigation. The results demonstrated a high preference 
+for open skies in both activities while illustrating the positive effect of 
+tree cover (Jiang et al., 2022), which plays a more significant role at 
+smaller scales (Yang et al., 2024b). This finding sheds light on the 
+Fig. 5. PDPs illustrating pairwise relationships over different buffer sizes (the horizontal axis) between each explanatory variable and the target variables of running 
+intensity (red line) and cycling intensity (blue line).
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+8 
+
+paradoxical preference for open skies vs. tree cover, as described in in­
+dividual studies (Bai et al., 2023; Zeng et al., 2024).
+4.2.4. Broadleaved ratio
+Similar polarized effects of the ‘broadleaved ratio’ are observed in 
+plots (1d) and (2d), with the lowest point around 0.5. This suggests that 
+highly blended tree types are less attractive when viewed from close 
+proximity during route-based navigation. In survey-based navigation 
+(plot (4d)), opposing preferences between running and cycling were 
+observed. The negative effect on cycling contrasts with most studies, 
+which found that mixed and broadleaved stands are preferred over co­
+nifers for recreational value (Abildtrup et al., 2013; Filyushkina et al., 
+2017; Gerstenberg and Hofmann, 2016; Nielsen et al., 2007). This is 
+consistent with a prior study in the same geographical context, which 
+reported a preference for conifers in the northern area, dominated by 
+broadleaved forests (Termansen et al., 2008). Thus, the preference for 
+forest types is context- and activity-specific, influenced by perceptual 
+scales.
+4.2.5. Tree age
+The impact of ‘tree age’ follows similar trends across different scales. 
+In plot (1e), it is clear that ancient trees hold significant recreational 
+value in close proximity (Edwards et al., 2012; Pukkala et al., 1988; 
+Simkin et al., 2020), with their complex morphology contributing to a 
+sense of place (Suchocka et al., 2022) and serving as landmarks for 
+navigation (Edwards et al., 2012; Pukkala et al., 1988; Simkin et al., 
+2020). This effect diminishes as the scale increases (plots (2e), (3e), and 
+(4e)). However, the plots also show a negative relationship between tree 
+age and activity levels for stands younger than 30 years. The negative 
+impact of older trees could be due to concerns about safety and the 
+challenge of navigating through dense forests (Wojnowska-Heciak et al., 
+2020). Edwards et al., (2012) suggest that large stands may be perceived 
+as intrusive. These results reflect the heterogeneous findings in studies 
+on tree age preference, which are influenced by scale effects.
+4.2.6. Visibility
+The relationships between visibility and activity level showed similar 
+trends across the four buffer sizes, with a clear positive correlation, 
+especially for cycling. This suggests that higher visibility could be a 
+general positive factor, as indicated by previous studies (Schultze et al., 
+1983; Zhang et al., 2024b).
+4.2.7. Nonscaling variables
+The plots of the nonscaling variables were highly similar across the 
+different scales, indicating the robustness of the model.
+‘Physical accessibility’ has been emphasised as a key factor influ­
+encing the recreational use of nature (Caspersen and Olafsson, 2010; 
+Koppen et al., 2014). Our study confirmed this relationship for running 
+activities (Yang et al., 2024c), while the effect appeared neutral for 
+cyclists with greater mobility. Notably, the considerable increase 
+observed between 4000 and 6000 on the x-axis suggests a threshold 
+effect, which may be important to consider in efforts to promote 
+trail-based activities. The presence of an effective range was also re­
+ported in prior studies (Yang et al., 2024b; Yang et al., 2025).
+‘Recreational facilities’ emerged as a positive factor, consistent with 
+findings from a recent study on outdoor jogging (Yang et al., 2025). 
+However, we observed a stronger effect among cyclists, who are likely to 
+travel longer distances to access such amenities. However, the plots 
+suggest that beyond a certain point, an excessive number of facilities 
+within a spatial range (e.g., 500 m in our analysis) does not significantly 
+increase trail-based activity levels. Future studies could explore this 
+trade-off to better understand its implications.
+Finally, the two types of activities exhibited similar relationships 
+with the ’length of the natural area edges’. This variable was influenced 
+by 1) the location of a grid cell - whether it was inside or at the periphery 
+of the natural patches and 2) the morphology of the natural area edges 
+intersecting a grid cell. As the plots depict, the highest level of the ac­
+tivities was observed at zero on the x-axis, indicating a higher activity 
+level inside natural areas (Hansmann et al., 2007). Nevertheless, the 
+following upwards trends indicate that a positive effect emerges as the 
+length of natural edges increases. This shows that edges with complex 
+morphologies might also hold recreational value (Agimass et al., 2018; 
+Baumeister et al., 2020).
+4.3. Appropriate scales characterizing the relationships between the 
+environmental variables and trail-based activities
+The changes presented in Table 2 regarding the importance of the 
+explanatory variables resulting from the application of different buffer 
+sizes demonstrate the presence of scale effects. We interpret these 
+Table 2 
+Ranking of scaling variables by importance across different buffer sizes. In the third column, a lower rank indicates a higher importance of the scaling variable. The 
+fourth column shows the trend of rank changes. The last column presents the appropriate buffer size for each variable, determined by the highest ranks and the 
+observed rank change trends.
+Variable
+Activity
+Ranks (1¡9) of the scaling variable under buffer sizes of 
+100–250-500–1000 m
+Rank change trend with increasing 
+buffer size
+Appropriate buffer 
+size(m)
+Total length of the 
+neighbouring roads
+Running
+5–6–6–8
+Descending
+100
+Cycling
+2–9–8–9
+Descending
+100
+Water
+Running
+3–2–3–7
+Descending
+250
+Cycling
+9–8–7–7
+Ascending
+1000
+Tree cover
+Running
+2–1–1–2
+Stable
+500a
+Cycling
+4–3–3–2
+Ascending
+1000
+Broadleaved ratio
+Running
+6–5–4–4
+Ascending
+1000
+Cycling
+7–7–6–4
+Ascending
+1000
+Tree age
+Running
+4–3–2–1
+Ascending
+1000
+Cycling
+5–2–4–3
+Fluctuating
+250
+Visibility
+Running
+9–8–7–3
+Ascending
+1000
+Cycling
+8–5–5–1
+Ascending
+1000
+a Two separate models were built for ‘tree cover’ with 250- and 500-m buffer sizes. 500-m buffer size was chosen due to the better modelling performance.
+Table 3 
+Values of R-squared and bandwidths in the GRF models for running and cycling.
+Activity
+Model
+Best_bandwidth
+R-squared
+Running
+GRF_100
+50
+65.33
+GRF_250
+50
+65.89
+GRF_500
+50
+64.99
+GRF_1000
+50
+65.76
+GRF_Optimal
+100
+74.03
+Cycling
+GRF_100
+50
+56.60
+GRF_250
+100
+66.32
+GRF_500
+300
+60.42
+GRF_1000
+50
+67.08
+GRF_Optimal
+200
+68.21
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+9 
+
+Fig. 6. Maps of the locally important variables in grid cells for running (A) and cycling (B) activities. Maps (a)-(j) present the distributions of the significant cells of 
+the five most important variables across the studied region for each activity (readers are referred to the high-resolution figures for download).
+P. Chang et al. 
+Urban Forestry & Urban Greening 110 (2025) 128869 
+10 
+
+changes as being linked to different perceptual scales of the environment 
+in route- vs. survey-based navigation.
+The largest buffer size, 1000 m, frequently emerged as the scale with 
+the highest explanatory power. This supports the earlier studies that 
+identified a greater contribution of neighbourhood perception and 
+macro-scale environmental variables to running activity (Yang et al., 
+2024a; Yang et al., 2024b), and further confirms that this pattern holds 
+for both running and cycling activities. This suggests that 1) during 
+trail-based recreational activities in nature, people tend to make 
+site-based selections, by considering a broader spatial range assessed by 
+large buffer sizes, rather than route-based selections that focus on the 
+immediate surroundings of the trails – i.e. selection of local routes, 
+especially for variables such as ‘broadleaved rati
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

@@ -1,0 +1,11 @@
+no,item,item_no,verdict,rationale
+CT0126,sampling strategy relevant to research question,4.1,Y,"2.1: 기능별 Category 1-5 가로에서 29개 지점을 무작위 선정해 도시·환경 변이 확보, G*Power·Nunnally·Kline 기준으로 표본 105명 사전 산정"
+CT0126,sample representative of target population,4.2,N,"2.1·Conclusions: 응답률 25%에 COVID 경보로 조사 조기 종료돼 105명에 그쳤고 저자도 '하한선'이라 인정, 카세레스 인구 대비 연령·성별 분포 대조 없음"
+CT0126,measurements appropriate,4.3,Y,"2.1: ISO/TS 15666 권고 11점 척도 9문항 대면조사, type 1 분석기 1.5m·15분 측정에 측정 전후 교정 확인과 ISO 1996-2 파사드 -3dB 보정 적용"
+CT0126,risk of nonresponse bias low,4.4,N,"2.1: 응답률 25%를 본문에 명시하나 무응답자 특성 비교나 가중 보정이 전무하고, 팬데믹으로 표집이 중단돼 편의 방향 확인 불가"
+CT0126,statistical analysis appropriate to research question,4.5,Y,"2.2: 분석단위를 N=29 지점평균으로 명시하고 per-survey 정규성·등분산 위배와 지점별 설문수 불균형을 집계 근거로 제시, VIF<5와 BIC 단계선택 적용"
+CT0371,participants representative of target population,3.1,N,"2.1-2.2·4.3: RPHV 뉴스레터·기관 의뢰·눈덩이 표집 18명이고 66세 이상 고령자와 안내견 사용자를 제외, 저자도 단일 도시 일반화 한계를 자인"
+CT0371,measurements appropriate for outcome and exposure,3.2,Y,"2.3: Trimble R8 상대측위 정확도 2cm로 궤적 측정, O&M 전문가 2인이 안전회랑 사전 획정, 영상·관찰격자 병용, 노출은 6개 회랑 구성·거리로 특정"
+CT0371,complete outcome data,3.3,N,"Table 2-4 각주: 수목 잎에 의한 위성신호 결측이 있으나 결측률 미보고, 회랑6은 APS 고장 교체로 n=14. 결과 3.2절은 배정시간 내 횡단 성공 미기록을 명시"
+CT0371,confounders accounted for in design and analysis,3.4,N,"3.1·4.3: 전원 동일 순서 통과로 학습·피로 효과가 교란되고, 회랑별 친숙도 5.6-71.4% 편차를 '정도 불명'이라며 분석에서 제외, 공변량 보정 없음"
+CT0371,exposure occurred as intended,3.5,Y,"2.4: 동일 시간대·유사 기후(83.3% 여름 맑음)에서 표준 안내문과 보조자 3인 역할을 고정하고 회랑당 3회 동일 방향 통과, APS 음향 고장 회랑은 즉시 교체"

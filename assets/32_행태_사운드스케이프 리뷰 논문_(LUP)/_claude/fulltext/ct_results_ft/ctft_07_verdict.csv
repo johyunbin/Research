@@ -1,0 +1,7 @@
+﻿rec,verdict,reason_code,rationale,boundary_rule
+414,FINAL_INCLUDE,,"옥외 접근형 감각정원에서 청각공간 등 감각공간 유형별 통행·여가체류·사회적 상호작용 관찰행태 분포를 행태지도와 카이제곱(Table 4)으로 분석",
+10,FINAL_EXCLUDE,X4,"아웃컴 9항목 전부 0-10 주관평정(짜증·놀람·대화방해 지각)이고 Cronbach 0.93·단일 주성분 65%↑로 수렴 — 관찰가능 행태 없음",
+18,FINAL_EXCLUDE,X4,"실험 아웃컴이 sound setting의 dominance·preference와 mention 빈도(Table One-Ten)뿐 — 행태 측정 없음. 본문 절단되나 초록·표목록으로 판단 가능",
+40,FINAL_EXCLUDE,X3,"보고타 공원 웰빙 설문에 음환경 측정·문항 전무(noise는 서론 인용 3회뿐), 측정된 환경스트레서는 perceived crowding 단일문항뿐",
+63,FINAL_EXCLUDE,X3,"컨조인트 10개 공원속성(슬라이드·그네·경로·미관·쓰레기 등)에 음환경 항목 없음. 아웃컴도 가상 선택과제 기반 방문의도",P2
+106,FINAL_EXCLUDE,X4,"반무향실 실험 2건의 아웃컴이 노면재별 Noise Annoyance·Soundscape Quality 100mm 평정뿐 — 보행은 자극 조작이지 측정된 행태 아님",

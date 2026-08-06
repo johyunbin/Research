@@ -1,0 +1,702 @@
+Research Article
+Spatiotemporal association of urban park characteristics and
+physical activity levels based on GTWR: A serial cross-sectional
+observational study
+Zheng Tao a, Junqi Chen a, Wenrui Wu a, Jiahui Ding a, Ling Wang a, Zhenhua Zhu b,
+Dan Chen a,c,*
+a Department of Landscape Architecture, School of Design, Shanghai Jiao Tong University, 200240, China
+b Department of Pulmonary and Critical Care Medicine, Zhongshan Hospital, Fudan University, 200032, China
+c Shanghai Engineering Research Center of Sustainable Plant Innovation, 200231, China
+A R T I C L E I N F O
+Keywords:
+Nature
+Urban park
+Physical activity
+GTWR
+Observational study
+A B S T R A C T
+Physical inactivity poses a signiﬁcant public health challenge. Numerous studies have argued that
+urban parks can promote physical activity (PA). However, evidence of physical activity observed
+over long periods of time in parks is still very lacking. Our serial cross-sectional study within urban
+parks in Shanghai investigated seasonal and daily variations in PA. Employing a geographically
+and temporally weighted regression (GTWR) model, we established spatiotemporal relationships
+between urban park characteristics and PA levels. We found that (1) Highest PA levels occur in
+winter, while the lowest levels are observed in summer, with a V-shaped daily pattern. (2) Robust
+and signiﬁcant associations between speciﬁc park characteristics and PA levels, while other
+characteristics exhibited varying associations in different temporal and spatial contexts. These
+insights offer valuable guidance for urban planners and park designers aiming to create more
+active and sustainable urban environments.
+1. Introduction
+1.1. Green space and physical activity
+The World Health Organization (WHO) has underscored the signiﬁcance of physical inactivity as one of the top ten global risk factors
+for mortality, contributing to the burden of non-communicable diseases and affecting overall global health (World Health Organization,
+2010). Insufﬁcient physical activity (PA) increases the risk of various non-communicable diseases (Lee et al., 2012). Existing studies
+have demonstrated that adequate PA can mitigate the risk of numerous chronic diseases (Bush et al., 2007; Coutts, Horner, & Chapin,
+2010).
+A substantial body of empirical research worldwide indicate that urban green spaces can enhance the health of urban residents
+(Bratman et al., 2019; Lai, Flies, Weinstein, & Woodward, 2019; Zhang, Yu, Zhao, Sun, & Vejre, 2020). Urban green spaces, primarily
+composed of natural environments, serve as crucial places for urban residents to connect with and experience nature. These spaces not
+* Corresponding author. School of Design, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai, 220240, China.
+E-mail addresses: zheng.tao@sjtu.edu.cn (Z. Tao), chen990619@sjtu.edu.cn (J. Chen), halo-wwr@sjtu.edu.cn (W. Wu), dingjiahui@sjtu.edu.cn
+(J. Ding), wwlling@sjtu.edu.cn (L. Wang), 13918747959@139.com (Z. Zhu), danchen.gator@sjtu.edu.cn (D. Chen).
+HOSTED BY
+Contents lists available at ScienceDirect
+Journal of Urban Management
+journal homepage: www.elsevier.com/locate/jum
+https://doi.org/10.1016/j.jum.2024.05.004
+Received 24 February 2024; Received in revised form 5 May 2024; Accepted 15 May 2024
+Available online 23 May 2024
+2226-5856/© 2024 The Authors. Published by Elsevier B.V. on behalf of Zhejiang University and Chinese Association of Urban Management. This is
+an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Journal of Urban Management 13 (2024) 398–409
+
+only offer ecological services but also provide health beneﬁts by fostering social interactions and promoting PA among residents.
+Consensus has been reached in existing research regarding the role of urban parks in promoting PA (Bedimo-Rung, Mowen, & Cohen,
+2005; Ohta, Mizoue, Mishima, & Ikeda, 2007; Hu, Liebens, & Rao, 2008; Hunter et al., 2015; Wang et al., 2021). Natural environments
+not only provide opportunities for beneﬁcial “green exercise” like walking (Pretty, Grifﬁn, Sellens, & Pretty, 2003), but also increase the
+likelihood of individuals in greener areas meeting recommended daily activity levels compared to those living in less green regions
+(Mytton, Townsend, Rutter, & Foster, 2012).
+1.2. Association between park characteristics and physical activity
+Numerous studies have explored the various factors inﬂuencing PA. McCormack et al. (2004) presented a conceptual framework
+encompassing environmental factors affecting PA, which included functionality, safety, aesthetics, and destination aspects. Research has
+identiﬁed that park use is inﬂuenced by sports facilities, water features, and biodiversity (Hamstead et al., 2018; Song, Richards, & Tan,
+2020). Studies have shown that PAs are inﬂuenced by ﬁtness facilities (Stewart, Moudon, Littman, Seto, & Saelens, 2018; Cranney et al.,
+2016; Krenichyn, 2006; Hofﬁmann, Barros, & Ribeiro, 2017). Likewise, vegetation has been found to be associated with PA (Wang et al.,
+2021; Zhang, Tan, & Richards, 2021; Zhang & Zhou, 2018; Schipperijn, 2010). Moreover, park accessibility is likely factors inﬂuencing
+PA levels (Zhang and Zhou, 2018; Chen et al., 2021), suggesting a geographic connection between PA and parks.
+However, existing research may have the following limitations. Firstly, most studies have been conducted at the city scale (Akpinar &
+Cankurt, 2016; García de Jalon et al., 2021; Grigoletto et al., 2022; Petrunoff et al., 2022; Zhang and Zhou, 2018; Zhou, Fu, Xue, Wang,
+& Zhang, 2021), which limited our understanding of how green spaces inﬂuence PAs within urban parks. Consequently, there is a
+relative scarcity of research on the inﬂuence of internal park characteristics on PAs. Furthermore, while most studies have suggested a
+positive relationship between urban parks and PAs, the strength of this relationship varied considerably among different studies. This
+discrepancy may arise from the fact that much of the data collection in these studies was concentrated within a few days or a single
+quarter (Evenson, Jones, Holliday, Cohen, & McKenzie, 2016), resulting in temporal bias during analysis (Wang et al., 2021). To our
+knowledge, only one study conducted in Barcelona collected a year's worth of PA data (Puig-Ribera et al., 2022). Longitudinal
+observational research on PA in China remains notably scarce.
+1.3. Physical activity assessment
+Firstly, existing research has developed numerous methods for investigating PA, including questionnaires (Grigoletto et al., 2022;
+Zhang et al., 2021) and mobile phone signal data (Guan et al., 2020) as well as geolocation-based social media data (Song et al., 2020;
+Chuang, Benita, & Tunçer, 2022). Big data, such as mobile phone signal and social media data, offers a degree of behavioral insight, but
+they also have notable limitations, such as an inability to provide precise activity types and relatively coarse location information.
+Moreover, data collected through smart devices may lead to information gaps for some population segments. Methods like question-
+naires, on the other hand, are constrained in scale due to limitations in resources and human power. However, on-site observations can
+yield detailed information about PA (Chow, Mckenzie & Sit, 2016; Wang et al., 2021; Zhang, Zhang, Lai, & Kwan, 2022), which is
+critical for understanding user PA levels within parks. To address this, we employed the System for Observing Play and Recreation in
+Communities (SOPARC) to collect PA data. This approach was widely used in research involving the observation-based collection of PA
+data (Evenson et al., 2016).
+Secondly, previous studies have quantiﬁed PA from the perspectives of visitor numbers (Hunter et al., 2015; Joseph & Maddock,
+2016; Zhang & Zhou, 2018; Zhou et al., 2021), duration (Grigoletto et al., 2022; Petrunoff et al., 2022), intensity (García de Jalon et al.,
+2021; Joseph & Maddock, 2016), among others. Metabolic equivalents (METs), widely used in sports science and epidemiology, were
+employed to measure PA levels (Guo et al., 2022; Matthews et al., 2007; Mendes et al., 2018). The Compendium of Physical Activities,
+jointly developed by Stanford University, Arizona State University, University of Wisconsin, etc., links types of PA to their respective
+METs intensity values, thereby providing the potential for MET estimation from observational studies. Extensive research has examined
+the temporal and spatial usage patterns of urban parks at the city level. However, studies speciﬁcally addressing the temporal and spatial
+dynamics of PA within these settings are scarce. To our knowledge, only a few articles have explored this topic. For instance, Zhou, Hu,
+Chen, Liu, and Wang (2024) identiﬁed time as one of the critical factors inﬂuencing leisure time physical activity; Pinto, Ferreira, and
+Pereira (2024) observed signiﬁcant differences in group activities across different parks varying by season and time of day; Similarly,
+Hu, Wu, Sun, Zhao, and Hu (2023) note a signiﬁcant reduction in speciﬁc activities on weekdays compared to weekends, underscoring
+time as a crucial element affecting PA. The inherent characteristics of parks lead to diverse activity patterns across different areas,
+resulting in spatial disparities in PA (Zhai, Li, Wu, & Wu, 2021). Consequently, both time and space emerge as critical determinants of
+PA.
+Thirdly, the use of regression-based predictive methods can be categorized into two main categories: global regression models and
+local regression models. However, a major issue with global approaches is that parameters often vary within the study area, making
+assumptions of temporal and spatial stationarity or structural stability unrealistic (Huang, Wu, & Barry, 2010). Hence, methods such as
+hierarchical linear models (Goodman & Thibodeau, 1998), geographically weighted regression (Brunsdon, Fotheringham, & Charlton,
+2010), and geographically and temporally weighted regression (GTWR) model (Huang et al., 2010) were employed to estimate pa-
+rameters. The GTWR model is advantageous for capturing spatiotemporal relationships. According to Huang et al.'s (2010) study,
+compared to global ordinary least squares models, the GTWR model reduced absolute errors by 46.4%. The GTWR model has been
+widely used to explain relationships in various domains, including environmental pollution, epidemiology, and urban studies (Ling,
+Qian, Guo, & Ukkusuri, 2022; Mirzaei, Amanollahi, & Tzanis, 2019; Wang et al., 2020). However, there were limited literature exploring
+399
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+
+the use of GTWR for issues related to human mobility to parks (Yang et al., 2021), physical inactivity (Hohl & Lotfata, 2022), indicating
+that exploring the spatiotemporal factors inﬂuencing PA remains a fertile area for investigation.
+1.4. Our study
+We conducted our survey in three parks within Shanghai, with observations taken at 10 sampling points within each park. Data on
+PA were collected continuously from January to December 2021. In addition, we collected a range of park characteristics, encompassing
+four aspects: (i) site characteristics, (ii) vegetation characteristics, (iii) facility characteristics, and (iv) aesthetic characteristics.
+This study contributed to the existing research in several ways. Firstly, it employed a year-long serial cross-sectional survey to
+observe PA within parks, aiming to reduce the potential errors resulting from short-term observations in previous studies. Secondly, by
+amassing a substantial dataset of PAs, more urban park characteristics could be integrated into the research framework, enabling a
+comprehensive discussion on the relationships between urban park characteristics and PAs. Thirdly, we utilized the GTWR model to
+estimate the associations between park characteristics and PA levels, considering the spatial heterogeneity and temporal non-
+stationarity of park spaces. In summary, our objective is to provide more scientiﬁc evidence for park designers in high-density urban
+settings by exploring urban park characteristics that promote PA.
+2. Methodology
+2.1. Study sites
+Shanghai, located in the Yangtze River Delta region, is the second-largest city in China, covering an area of 6300 km2 with a
+population of 24 million, making it the third most populous city in the world. The population density of the central city is 34,000 people
+per km2. Through a pre-study, Xujiahui Park, Fuxing Park, and Lujiazui Central Green were selected as the study sites. These parks are
+situated near mixed-use areas, including commercial and residential zones, attracting a diverse user base. Additionally, the park
+characteristics varied internal spaces, enabling residents to engage in a wide range of activities. This diversity is advantageous for
+conducting comprehensive observations of PA.
+We determined a minimum sample size of 30 groups of at least 30 people in each group to estimate regression coefﬁcients (Kreft & de
+Leeuw, 1998) and selected 10 sample plots in each park. The sample plots were distributed evenly throughout the park area and
+included at least one complete activity area. Five of the 10 sample plots in each park were linear spaces, and the remaining 5 were
+faceted spaces, allowing us to investigate the effect of spatial patterns on physical activity. Fig. 1 shows the location and sample sites of
+the three parks.
+2.2. Data collection
+2.2.1. Physical activity
+From January to December 2021, trained observers collected data on PA and park characteristics in three parks. The research team
+provided training to the observers on evaluating park characteristics of the parks and accurately recording the type of PA. Observations
+were conducted on three days per month, including two weekdays and one weekend day, on 10 sample plots in each park. During an 8-
+min period, observers independently recorded the number of people and speciﬁc types of PA within each sample plot. Observers also
+Fig. 1. Location and sample plots selection of the three parks.
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+400
+
+recorded date and time periods (6:00–8:00, 8:00–10:00, 11:00–13:00, 14:00–16:00, 18:00–20:00). The METs of PA were matched with
+speciﬁc PA types using the 2011 version of the Compendium of Physical Activities.
+2.2.2. Urban park characteristics
+Building upon prior research (Hamstead et al., 2018; McCormack et al., 2004; Song et al., 2020), we classiﬁed urban park char-
+acteristics into four distinct categories: site characteristics, vegetation characteristics, facility characteristics, and aesthetic
+characteristics.
+For site characteristics, we introduced the sample plot length-to-width ratio (RATIO_ Length-width) as an independent variable,
+recognizing that the length and width of a park can inﬂuence its utilization (Zhai, Korça Baran, & Wu, 2018). The accessible site area
+(AREA_ Accessible) constituted the second factor, encompassing not only hardscape but also softscape elements like accessible lawns.
+Location evaluation was performed through two indicators: integration (INTG_ Sample plots) and connectivity (CNT_ Sample plots),
+both grounded in fundamental spatial syntactic theory. Integration gauges the extent of spatial connectivity or isolation, with higher
+integration levels correlating with enhanced accessibility. Connectivity, on the other hand, measures the number of directly linked
+spaces to the sample plot, signifying greater linkage for higher values (Zhai et al., 2018). Additionally, we accounted for four distinctive
+sample plot topographies: concave, convex, even, and uneven. The uneven topography was utilized as the reference variable, while the
+remaining types were introduced as independent variables. Lastly, we posited that proximity to water (PROX_ Water) also inﬂuences PA
+and hence included it in our model, with “no proximity” serving as the reference variable.
+To encompass vegetation characteristics comprehensively, we employed three indicators: the green coverage ratio (RATIO_
+Coverage), Shannon's diversity index (SHDI), and major plant combinations (PC). The green coverage ratio provides a two-dimensional
+assessment of vegetation characteristics (Wang et al., 2021), while Shannon's diversity index serves as a measure of plant diversity. The
+major plant combinations encompass grasses (G), shrubs (S), trees (T), trees and shrubs (TS), trees and grasses (TG), and trees and shrubs
+and grasses (TSG). We treated these major plant combinations as dummy variables and incorporated them into the model, designating
+shrub type as the reference variable. Furthermore, we considered the number of seats (NUM_ Seats) and streetlamps (NUM_ Street-
+lamps). The former offers users opportunities for resting, while the latter contributes to nighttime security.
+Aesthetic characteristics encompass the green view ratio (RATIO_ Green view) and seasonal plant ratio (RATIO_ Seasonal plants).
+The green view ratio denotes the proportion of green color in an individual's ﬁeld of vision, while the seasonal plant ratio refers to the
+proportion of plant species exhibiting noticeable seasonal changes relative to the total plant species.
+Field research provided the necessary data, including accessible site area, sample plot topography, sample plot length-width ratio,
+proximity to water, and seasonal plant ratio. The plant species and their quantities within the sample plots were documented, and
+subsequently, Shannon's diversity index and the green coverage ratio were computed. To assess connectivity and integration, road
+vector data was manually delineated with AutoCAD and integrated into Depth Map. Each sample plot was captured from eight distinct
+perspectives, facilitating the calculation of the green view ratio using the GlunoCV model. Table 1 presents the deﬁnitions of the
+dependent and independent variables.
+2.3. Statistical analysis
+We employed the GTWR model to explore the relationship between park characteristics and PA_METs. In this model, urban park
+characteristics served as independent variables, and PA_METs as the dependent variable. We incorporated ﬁve distinct time intervals as
+temporal variables and included the geographical coordinates (latitude and longitude) of the sample plots as spatial variables within the
+Table 1
+Variable deﬁnitions.
+Categories
+Variables
+Deﬁnition
+Measurement
+Dependent variable
+PA_MET
+per capita physical activity metabolic equivalent in each sample plot
+Ratio
+Site characteristics
+AREA_ Accessible
+area of space accessible for physical activities
+Area
+RATIO_ Length-
+width
+ratio of sample plots length to width
+Ratio
+INTG_ Sample
+plots
+integration of sample plots
+Ratio
+CNT_ Sample plots
+connectivity of sample plots
+Number
+TOPO
+relationship of the sample site to the surrounding parcels including 4 types: concave, convex, even,
+and uneven.
+Type
+PROX_ Water
+sample plots' proximity to water (proximity ¼ 1, no proximity ¼ 0)
+Type
+Vegetation
+characteristics
+SHDI
+Shannon's diversity index
+Dimensionless
+RATIO_ Coverage
+proportion of the area of the vertical projection of vegetation to the total area of the sample plot
+Ratio
+PC
+major types of plant combinations including grasses (G), shrubs (S), trees (T), trees and shrubs
+(TS), trees and grasses (TG), trees and shrubs and grasses (TSG)
+Type
+Facility
+characteristics
+NUM_ Seats
+number of seats in each sample plot
+Number
+NUM_ Streetlamps
+number of streetlamps in each sample plot
+Number
+Aesthetic
+characteristics
+RATIO_ Green
+view
+proportion of green color a person sees within the ﬁeld of view
+Ratio
+RATIO_ Seasonal
+plants
+ratio of plant species with signiﬁcant seasonal changes to all plant species
+Ratio
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+401
+
+equation. Additionally, to investigate the seasonal variations in average metabolic equivalents and the seasonal differences in the impact
+of various park characteristics on PA, regression analyses were conducted separately for the data from each of the four seasons. The
+construction of the GTWR model in this study was facilitated using ArcGIS, adhering to the framework established by Huang et al.
+(2010).
+The expression for the GTWR model is as follows:
+yi ¼ β0ðui; vi; tiÞ þ
+X
+k
+βkðui; vi; tiÞXik þ εi
+In this context, ui and vi denote the geographical coordinates of the i-th sample point; ti represents the observation time; yi signiﬁes
+the dependent variable value of the i-th sample plot, and Xik represents the k-th explanatory variable for the i-th sample plot. εi denotes
+the model error term; β0ðui; vi; tiÞ represents the constant for the i-th sample plot, and βkðui; vi; tiÞ denotes the regression coefﬁcient for the
+k-th explanatory variable of the i-th sample plot.
+Before commencing the formal regression analysis, we conducted a Spearman correlation analysis to examine the relationship
+between continuous variables and the dependent variable (Table S1). For categorical variables, we initially assessed homoscedasticity
+(Table S2) and in cases of heteroscedasticity, we applied non-parametric tests (Table S4). Simultaneously, we evaluated multi-
+collinearity among variables, ensuring that the variance inﬂation factor (VIF) remained below 7.5. Notably, due to the non-signiﬁcant
+correlation between the Shannon's Diversity Index and PA_METs, SHDI was excluded from the model. Additionally, given the high
+correlation between connectivity and integration, we opted for connectivity as the explanatory variable due to its stronger correlation
+with PA_METs.
+Moreover, prior to constructing the GTWR model, we tested the spatiotemporal non-stationarity of the data (Ma, Zhang, Ding, &
+Wang, 2018). A robust approach to evaluating non-stationarity is to compare the quartiles of the GTWR against twice the standard errors
+of the ordinary least squares (OLS) model (Fotheringham, Crespo, & Yao, 2015), as demonstrated in Table S5. It is evident that all
+variables exhibit signiﬁcant variation, afﬁrming the appropriateness of establishing the GTWR model.
+3. Results
+3.1. Descriptive statistics
+The study encompassed 23 PA categories, comprising walking (n ¼ 103,745; 74.44%), sitting (n ¼ 12,335; 8.85%), running (n ¼
+5121; 3.67%), standing (n ¼ 4652; 3.34%), square dancing (n ¼ 3364; 2.41%), aerobics (n ¼ 3011; 2.16%), photography (n ¼ 2068;
+1.48%), parent-child activities (n ¼ 1836; 1.32%), tai chi (n ¼ 1126; 0.81%), chess or board games (n ¼ 733; 0.53%), cycling (n ¼ 494;
+0.35%), badminton (n ¼ 252; 0.18%), yoga (n ¼ 128), instrument performance (n ¼ 125), singing (n ¼ 106), sword dancing (n ¼ 79),
+skateboarding (n ¼ 57), rope skipping (n ¼ 34), frisbee (n ¼ 30), ball games (n ¼ 28), roller skating (n ¼ 16), painting (n ¼ 13), and
+handwriting (n ¼ 10). Notably, walking emerged as the most prevalent PA, followed by sitting, standing, and running, collectively
+accounting for over 90% of all observed activities. Conversely, ball games, roller skating, painting, and handwriting represented the
+least frequent activities. Speciﬁc PA categories and their corresponding METs can be found in Table S6.
+In this study, we computed the PA_METs for each sample plot across distinct time intervals and documented the corresponding park
+characteristics. The descriptive statistics can be found in Table 2, while Fig. 2 illustrates the temporal ﬂuctuations of PA_METs. Over the
+course of a day, PA_METs exhibited a diurnal V-shaped pattern, characterized by peak levels in the morning and evening, and trough
+levels during the afternoon and early evening. Notably, winter recorded the highest PA_MET levels, in contrast to summer, which
+exhibited the lowest levels.
+3.2. Association between park characteristics and physical activity metabolic equivalents
+Given the varying spatial and temporal effects of park characteristics on PA_METs, the GTWR model estimates regression coefﬁcients
+Table 2
+Descriptive statistics.
+Variables
+Max.
+Min.
+Mean
+SD
+PA_METs
+6.51
+2.36
+5.23
+0.87
+AREA_ Accessible
+14.38
+0.50
+28.98
+2.92
+RATIO_ Length-width
+3.16
+1.00
+1.65
+0.71
+CNT_ Sample plots
+9.00
+2.00
+3.42
+2.14
+TOPO
+–
+–
+–
+–
+PROX_ Water
+–
+–
+–
+–
+RATIO_ Coverage
+0.95
+0.15
+0.68
+0.23
+PC
+–
+–
+–
+–
+NUM_ Seats
+15.00
+0.00
+4.47
+4.37
+NUM_ Streetlamps
+8.00
+0.00
+2.00
+1.94
+RATIO_ Green view
+0.91
+0.07
+0.55
+0.19
+RATIO_ Seasonal plants
+0.70
+0.10
+0.46
+0.15
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+402
+
+for each time period and sample plot, resulting in massive output. To facilitate interpretation, we computed standard regression co-
+efﬁcients and conducted a statistical analysis, presenting their mean, minimum, maximum, lower quartile, median, and upper quartile in
+Table 3.
+The mean coefﬁcients for AREA_ Accessible, RATIO_ Length-width, TOPO_ Convex, TOPO_ Concave, RATIO_ Coverage, NUM_
+Streetlamps, RATIO_ Green view, and RATIO_ Seasonal plants were positive. This implies potential positive associations between these
+factors and the promotion of PA_ METs. Conversely, the mean coefﬁcients for CNT_ Sample plots, TOPO_ Even, PROX_ Water, PC_ G, PC_
+TSG, and NUM_ Streetlamps were negative, indicating potential negative associations with the promotion of PA_METs.
+Furthermore, we computed regression coefﬁcients at different time intervals to explore the spatiotemporal variations in the inﬂuence
+of parks on PA levels. Additionally, we calculated the coefﬁcients of variation (CV) for the regression coefﬁcients of various park
+characteristics to assess the stability of their effects, as previously discussed (Zhao, Guo, Ma, & Wu, 2023). We separately controlled for
+time and space, examining the CV in the temporal dimension under the same spatial conditions and those in the spatial dimension under
+the same temporal conditions. As depicted in Fig. 3, the CV resulting from temporal changes ranged from 0.04 to 0.73, whereas those
+resulting from spatial changes ranged from 0.43 to 6.63. This suggested that park characteristics exhibit notable responsiveness to
+spatiotemporal variations, with spatially induced variations in the impact of park characteristics on PA surpassing those induced by
+temporal changes. Therefore, it can be inferred that the discrepancies in the degrees of inﬂuence are primarily driven by spatial factors.
+The CV for the temporal and spatial variations in AREA_ Accessible, RATIO_ Length-width, CNT_ Sample plots, PROX_ Water, RATIO_
+Coverage, PC_T, PC_TS, PC_TSG, NUM_ Seats, RATIO_ Green view, and RATIO_ Seasonal plants are relatively low. This suggests that
+these indicators do not exhibit a pronounced response to spatiotemporal changes, indicating their robust inﬂuence on PA_MET levels.
+Conversely, topographical characteristics, PC_G, PC_TG, NUM_ Streetlamps, and their CV were relatively high, signifying noticeable
+variations over time or space.
+Fig. 4 illustrated the temporal variations in the standard regression coefﬁcients for park characteristics. AREA_ Accessible, RATIO_
+Length-width, CNT_ Sample plots, PROX_ Water, RATIO_ Coverage, NUM_ Seats, RATIO_ Green view exhibit consistent regression co-
+efﬁcients over time, without signiﬁcant differences. TOPO_ Even, PC_G, PC_T, NUM_ Streetlamps, and RATIO_ Seasonal plants
+Fig. 2. Physical activity metabolic equivalents over time.
+Table 3
+Summary of GTWR parameter estimates.
+Variables
+Mean
+Min.
+Max.
+Lower quartile
+Median
+Upper quartile
+p value
+AREA_ Accessible
+0.138
+0.095
+0.722
+0.058
+0.033
+0.461
+0.01
+RATIO_ Length-width
+0.209
+0.131
+0.725
+0.063
+0.117
+0.550
+0.01
+CNT_ Sample plots
+0.161
+0.667
+0.062
+0.465
+0.018
+0.038
+0.00
+TOPO_ Concave
+0.100
+0.292
+0.423
+0.237
+0.155
+0.383
+0.01
+TOPO_ Convex
+0.032
+0.266
+0.331
+0.197
+0.023
+0.274
+0.02
+TOPO_ Even
+0.012
+0.125
+0.091
+0.075
+0.003
+0.025
+0.01
+PROX_ Water
+0.083
+0.296
+0.153
+0.252
+0.087
+0.070
+0.00
+RATIO_ Coverage
+0.329
+0.067
+1.229
+0.006
+0.123
+0.783
+0.00
+PC_G
+0.016
+0.219
+0.292
+0.108
+0.058
+0.073
+0.02
+PC_T
+0.047
+0.040
+0.222
+0.027
+0.021
+0.182
+0.00
+PC_TG
+0.419
+0.018
+1.033
+0.013
+0.333
+0.886
+0.00
+PC_TS
+0.223
+0.115
+0.792
+0.054
+0.026
+0.691
+0.00
+PC_TSG
+0.129
+0.414
+0.063
+0.310
+0.084
+0.030
+0.00
+NUM_ Seats
+0.195
+0.371
+0.056
+0.207
+0.185
+0.160
+0.00
+NUM_ Streetlamps
+0.015
+0.129
+0.118
+0.045
+0.038
+0.060
+0.01
+RATIO_ Green view
+0.206
+0.079
+0.600
+0.032
+0.228
+0.380
+0.00
+RATIO_ Seasonal plants
+0.076
+0.022
+0.282
+0.052
+0.062
+0.079
+0.00
+Diagnostic information
+Adjusted R2 ¼ 0.787
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+403
+
+Fig. 3. Coefﬁcient of variation for park characteristic regression coefﬁcients.
+Fig. 4. Variation of standard regression coefﬁcients for park characteristics over time.
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+404
+
+demonstrated similar impacts on PA_MET levels during spring, summer, and autumn. However, during winter, their inﬂuence on
+PA_MET levels became more prominent.
+3.3. Robustness testing
+Robustness testing was conducted on a randomly selected 80% of the samples, and the results are presented in Table S7. It appeared
+that the regression coefﬁcients and their signiﬁcance remain stable, with only minor variations observed in the associations. Conse-
+quently, the regression results were robust and reliable.
+4. Discussion
+4.1. Main ﬁndings
+This study employed a serial cross-sectional ﬁeld observations to collect data on PA and park characteristics. The relationship be-
+tween PA metabolic equivalents and park characteristics was established using the GTWR model. Walking was the most prevalent form
+of PA. Additionally, distinctive Chinese activities such as square dancing, sword dancing, and Tai Chi were observed, consistent with
+prior research ﬁndings (Wang et al., 2021; Zhai, Li, Wu, & Wu, 2023). PA levels exhibited a distinctive diurnal variation, with the lowest
+levels observed during the late afternoon to early evening (14:00–16:00), and comparatively higher levels in the early morning
+(6:00–8:00) and evening (18:00–20:00). Notably, PA levels were highest during the winter and lowest during the summer. Concur-
+rently, the study revealed robust associations between speciﬁc urban park characteristics and PA levels, while other associations
+ﬂuctuated temporally and spatially, with spatial variability being more pronounced than temporal variation overall. Our research
+ﬁndings elucidate the speciﬁc urban park characteristics that are signiﬁcantly associated with residents' PA levels, providing empirical
+evidence for urban planners and park designers on how to design and retroﬁt parks in high-density urban environments.
+Season may serve as a factor inﬂuencing PA. Chen et al. (2021) reported that parks may have more users during the spring and
+autumn seasons. However, our study suggested that residents may be inclined to engage in higher metabolic-equivalent activities during
+the winter, while the opposite trend is observed in the summer. We speculated that this might be related to temperature ﬂuctuations
+throughout the year. Additionally, diurnal variations in PA levels are potentially related to park usage patterns and temperature (Lin &
+Feng, 2023).
+In regard to site characteristics, this study has identiﬁed a signiﬁcant association between the area of accessible spaces (AREA_
+Accessible) and higher levels of PA. Existing research has indicated that open spaces can support PA (Baran et al., 2013; Edwards et al.,
+2015; Rivera, Timperio, Loh, Deforche, & Veitch, 2021; Van Hecke et al., 2016), and our research reveals that a larger area of accessible
+spaces may lead to METs of PA. The ratio of a sample plot length to width (RATIO_ Length-width) was an essential variable in promoting
+PA levels, which may be related to the types of activities occurring within the site. Within our observations, walking comprises the
+majority of PA, and sites with a larger aspect ratio might promote METs by facilitating activities such as walking and running. Song et al.
+(2020) found that the length of sidewalks affects the walkability of a community, thus potentially exerting a more pronounced impact on
+PA related to transportation. Connectivity of sample plots (CNT_ Sample plots) exhibited a signiﬁcant negative correlation with PA
+METs, implying that connectivity may act as a detrimental factor inﬂuencing PA levels. In other words, sites with a higher number of
+spatial connections tended to have lower levels of PA occurring within those spaces. This may be attributed to the fact that sites with
+high connectivity offer more adjacent spaces, thereby dispersing residents to engage in PAs in the surrounding areas (Zhai et al., 2018).
+Topography demonstrates a signiﬁcant association with PA levels, with considerable variation in this relationship. Generally, concave
+and convex topography (TOPO_ concave & TOPO_ convex) tend to enhance PA levels, while even topography (TOPO_Even) may act as a
+negative factor inﬂuencing PA. Although some studies have suggested that visitors may prefer activities on ﬂat surfaces (Gearin & Kahle,
+2006), Lin and Feng (2023) have discovered that children and adolescents were more inclined to engage in high levels of PA in areas
+with topographic variations. Proximity to water (PROX_ Water) signiﬁcantly reduces PA levels. Petrunoff et al. (2022) found a corre-
+lation between the presence of water features and increased park sports activities, while Schipperijn, Bentsen, Troelsen, Toftager, and
+Stigsdotter (2013) also established a positive association between water features and PA. Although our research differed from previous
+ﬁndings, this disparity could be explained: water characteristics may attract more users, but such features might be linked to low
+metabolic equivalent activities, such as standing and photographing.
+There existed a consistent and positive correlation between the green coverage ratio (Ratio_Coverage) and PA levels, in line with the
+ﬁndings of Tsai, Floyd, Leung, McHale, and Reich (2016). Increased PA was often associated with higher vegetation coverage, and urban
+parks with denser vegetation appear to be more motivating for PAs compared to parks with lower vegetation density (García de Jalon
+et al., 2021). The association between the major plant combinations and PA varied across time and space. Trees (PC_T), trees and grasses
+(PC_TG), and trees and shrubs (PC_TS) exhibited signiﬁcant positive associations with PA levels, whereas the combination of trees,
+shrubs and grasses (PC_TSG) demonstrated a signiﬁcant negative correlation. Grasses (PC_G) displayed relatively consistent associations
+with PA levels during the spring, summer, and autumn, albeit with weak and non-robust associations due to regression coefﬁcients
+ﬂuctuating near zero. In contrast, grasses exhibited a stable negative impact on PA during the winter. The attraction of visitors through
+shade provision and noise reduction, as discussed by €Ohrstr€om (2004) and Gidl€of-Gunnarsson and €Ohrstr€om (2007), which partially
+explained the positive link between tree-related plant combinations and higher PA levels. However, it was surprising that trees, shrubs
+and grasses combinations (PC_TSG) were signiﬁcantly negatively correlated with PA levels. We speculated that trees, shrubs and grasses
+combinations might create a more enclosed space, possibly leading to feelings of insecurity (Mak & Jim, 2018) and stress (Jiang, Chang,
+& Sullivan, 2014), which could deter PA. Although large grassy open spaces were considered a vital characteristics in promoting PA
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+405
+
+(Rivera et al., 2021), we observed a negative association between grasses and PA levels. This might be attributed to the fact that in the
+three parks, most of the grassy areas were designated for aesthetic purposes and were not accessible to visitors.
+Regarding facility characteristics, the number of seats (NUM_Seats) exhibited a negative association with PA levels. This was likely
+attributed to the fact that, in comparison to sample plots lacking seats, seats might facilitate low metabolic equivalent activities such as
+sitting and instrument performance. Furthermore, a higher quantity of seats might increase this supportive effect. An Australian study
+found that parks support group activities by providing facilities such as benches and seats (Rivera et al., 2021). The number of
+streetlamps (NUM_Streetlamps) had a positive impact on PA levels during the spring, summer, and autumn seasons, aligning with our
+expectations. As an indicator of park safety, the presence of lighting, surveillance cameras, and emergency equipment had been reported
+to signiﬁcantly increase PA (Zhang et al., 2022). However, in the winter, the inﬂuence of streetlamps shifted from positive to negative,
+consistent with several studies on PA among older adults in Asian cities (Cerin et al., 2013; Inoue et al., 2011). Possible reasons were that
+these studies were conducted in various social and geographic contexts, each with its unique safety concerns. China, being one of the
+safest countries globally, did not consider nighttime safety in urban parks a signiﬁcant factor inﬂuencing PA. Moreover, users' perception
+of streetlamps was subject to the time of day, which can introduce bias into the effect of streetlamps on PA. Our research ﬁndings also
+underscored the ongoing issue of the lack of consensus in the current literature regarding the relationship between park safety and PA.
+In the realm of aesthetic characteristics, consistent with prior research, we observed a positive association between the green view
+ratio (RATIO_Green view) and PA levels, as previously reported by Lu (2019). However, Wang et al. (2021) and others have reported a
+negative correlation between the green view ratio and the PA diversity. Another contributing factor to these discrepant ﬁndings could be
+the non-linearity of the relationship between the green view ratio and PA. It was plausible that the positive impact of the greenery ratio
+on PA might exhibit an optimal range, and excessively high green view ratio might elicit feelings of insecurity (Mak & Jim, 2018) and
+stress (Jiang et al., 2014), thus negatively impacting PA participation. The proportion of seasonal plants (RATIO_ Seasonal plants)
+exerted a signiﬁcant positive inﬂuence on PA levels. Vegetation that exhibited seasonal changes tended to attract visitors, with this
+association becoming particularly pronounced during the winter. This could be attributed to the relaxing sensory qualities of plant
+aromas and colors, which can contribute to mental and physical relaxation and stress reduction, consequently enhancing engagement in
+PAs (Lin & Feng, 2023).
+4.2. Research limitations
+This study had several limitations that should be acknowledged. Firstly, although the use of a long-term and high-frequency
+observation method aimed to minimize errors due to seasonal and other factors, the cross-sectional nature of the study restricted the
+ability to establish a causal relationship between urban park characteristics and PA levels (Song et al., 2020; Zhang et al., 2022). The
+study's ﬁndings only revealed an association between the two. Future longitudinal studies with a tracer study design could be conducted
+to address this limitation. Secondly, due to the limitations of ﬁeld observation records, the study did not include observer characteristics
+such as age, household income, and socioeconomic status, which have been shown to inﬂuence PA in previous studies. Furthermore, the
+study only analyzed Shanghai parks, and because of cultural and geographic differences, the ﬁndings may not be generalizable to other
+regions. Future cross-cultural studies could be conducted to investigate activity patterns under the inﬂuence of diverse cultures. All
+indicators used in this study were objective, and the preferences of visitors for the park's landscape, which may have inﬂuenced the
+occurrence of PA, were not considered. Future research should consider a combination of subjective and objective indicators to develop
+a more comprehensive research framework. Lastly, certain park characteristics, such as the number of seats, do not change over time,
+which can lead to a decline in the performance of the GTWR model (Huang et al., 2010).
+5. Conclusion
+This study employed a serial cross-sectional ﬁeld observation approach to collect data on the relationship between physical activity
+levels and urban park characteristics, utilizing the geographically and temporally weighted regression model to delve into their asso-
+ciations. Our investigation yielded the following key ﬁndings: Firstly, walking was established as the most prevalent form of physical
+activity in urban parks. Secondly, our research unveiled diurnal variations in PA levels, manifesting a pronounced V-shaped pattern. PA
+levels were at their lowest during the late afternoon to early evening, while mornings and evenings witnessed higher levels. Further-
+more, seasonality exerted an inﬂuence, with higher physical activity levels during the winter and lower levels during the summer. These
+ﬁndings imply that urban planners should take these variations into account, for example, by providing sufﬁcient shaded areas during
+hot summer periods and ensuring adequate exposure to sunlight in winter, in order to encourage year-round outdoor activity partici-
+pation among residents.
+Furthermore, we discovered complex and intriguing relationships between urban park characteristics and physical activity levels.
+Variables such as the area of accessible spaces, the ratio of a sample plot length to width, connectivity, proximity to water, the green
+coverage, trees, trees and shrubs, trees and shrubs and grasses, the number of seats, the green view ratio, and the seasonal plants ratio
+were found to have robust impacts on physical activity. In contrast, the effects of topography, grasses, trees and grasses, and the number
+of streetlamps displayed signiﬁcant temporal and spatial variability. Hence, urban planners should consider varied usage needs
+throughout the day and seasons, along with diverse activity preferences of different groups, to enhance urban residents' quality of life
+and foster healthier, vibrant, and sustainable urban environments.
+Lastly, despite certain limitations inherent to our study, such as the cross-sectional research design and the exclusion of subjective
+indicators, our research outcomes offered valuable empirical evidence. This evidence aids urban planners and park designers in gaining
+a deeper comprehension of the urban park characteristics closely associated with residents' PA levels. These insights encourage urban
+Z. Tao et al.
+Journal of Urban Management 13 (2024) 398–409
+406
+
+planners and park designers to strategically allocate urban green spaces, especially in dense urban areas. Considerate park design not
+only enhances urban aesthetics but also offers vital recreational and sports facilities, promoting enhanced health and community
+vitality.
+CRediT authorship contribution statement
+Zheng Tao: Conceptualization, Methodology, Software, Writing – original draft, Writing – review & editing. Junqi Chen: Inves-
+tigation, Writing – review & editing. Wenrui Wu: Investigation, Writing – review & editing. Jiahui Ding: Investigation, Writing –
+review & editing. Ling Wang: Supervision, Writing – review & editing. Zhenhua Zhu: Supervision. Dan Chen: Conceptualization,
+Formal analysis, Funding acquisition, Supervision, Writing – original draft, Writing – review & editing.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial interests or personal relationships that could have appeared to
+inﬂuence the work reported in this paper.
+Acknowledgement
+Thanks to the funding support of the National Natural Science Foundation of China (No. 32001361).
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.jum.2024.05.004.
+References
+Akpinar, A., & Cankurt, M. (2016). How are characteristics of urban green space related to levels of physical activity: Examining the links. Indoor and Built Environment,
+26(8), 1091–1101. https://doi.org/10.1177/1420326x16663289
+Baran, P. K., Smith, W. R., Moore, R. C., Floyd, M. F., Bocarro, J. N., Cosco, N. G., et al. (2013). Park use among youth and adults. Environment and Behavior, 46(6),
+768–800. https://doi.org/10.1177/0013916512470134
+Bedimo-Rung, A. L., Mowen, A. J., & Cohen, D. A. (2005). The signiﬁcance of parks to physical activity and public health: A conceptual model. American Journal of
+Preventive Medicine, 28(2 Suppl 2), 159–168. https://doi.org/10.1016/j.amepre.2004.10.024
+Bratman, G. N., Anderson, C. B., Berman, M. G., Cochran, B., de Vries, S., Flanders, J., et al. (2019). Nature and mental health: An ecosystem service perspective. Science
+Advances, 5(7), eaax0903. https://doi.org/10.1126/sciadv.aax0903
+Brunsdon, C., Fotheringham, A. S., & Charlton, M. E. (2010). Geographically weighted regression: A method for exploring spatial nonstationarity. Geographical Analysis,
+28(4), 281–298. https://doi.org/10.1111/j.1538-4632.1996.tb00936.x
+Bush, C. L., Pittman, S., McKay, S., Ortiz, T., Wong, W. W., & Klish, W. J. (2007). Park-based obesity intervention program for inner-city minority children. The Journal
+of Pediatrics, 151(5), 513–517. https://doi.org/10.1016/j.jpeds.2007.04.008, 517 e511.
+Cerin, E., Lee, K. Y., Barnett, A., Sit, C. H., Cheung, M. C., Chan, W. M., et al. (2013). Walking for transportation in Hong Kong Chinese urban elders: A cross-sectional
+study on what destinations matter and when. International Journal of Behavioral Nutrition and Physical Activity, 10, 78. https://doi.org/10.1186/1479-5868-10-78
+Chen, D., Long, X., Li, Z., Liao, C., Xie, C., & Che, S. (2021). Exploring the determinants of urban green space utilization based on microblog check-in data in Shanghai,
+China. Forests, 12(12). https://doi.org/10.3390/f12121783
+Chow, B. C., McKenzie, T. L., & Sit, C. H. (2016). Public parks in Hong Kong: Characteristics of physical activity areas and their users. International Jo
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

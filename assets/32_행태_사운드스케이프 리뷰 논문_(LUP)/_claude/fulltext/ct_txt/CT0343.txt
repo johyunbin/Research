@@ -1,0 +1,574 @@
+Women’s walking behavior: Investigating contributing factors in 
+urban contexts
+Niloofar Panahi a,*, Neshat Tavakoli b, Kiana Kamali Sarvestani c
+a Department of Urban Planning, Faculty of Art and Architecture, Persian Gulf University, Bushehr, Iran
+b Department of Urban Planning, Faculty of Art and Architecture, Tarbiat Modares University, Tehran, Iran
+c Department of Urban Planning, Faculty of Art and Architecture, Shiraz University, Shiraz, Iran
+A R T I C L E I N F O
+Keywords:
+Women
+Walking
+Reflective thematic analysis
+Shiraz
+A B S T R A C T
+Walking is an essential mode of mobility that enhances both physical and mental health and is a vital part of 
+urban life. However, certain groups, particularly women, face obstacles in this regard. Despite the topic’s sig­
+nificance, there is a scarcity of studies on women’s walking in Middle Eastern countries. This paper aims to 
+address this gap by identifying the factors that affect women’s walking in Shiraz, Iran.
+To collect data, semi-structured interviews were conducted with 73 women living in Shiraz, and the data were 
+analyzed using reflective thematic analysis.
+Six themes—health, socio-cultural, environmental, safety and security, weather, and functional—were iden­
+tified. According to women, issues such as street harassment, unsafe flooring, hot weather, and unsuitable 
+furniture are among the most serious barriers to walking in urban spaces. Additionally, women emphasized 
+concerns like religious beliefs and family norms, which create invisible boundaries to their active presence in 
+urban areas.
+This study demonstrates that promoting walkability for women necessitates attention to the social, cultural, 
+and symbolic aspects of urban spaces, in addition to their physical structure. By incorporating these factors into 
+planning, urban planners can create strategies that improve women’s walking experiences and sense of belonging 
+in cities.
+1. Introduction
+Walkability refers to the extent to which environmental facilities, 
+such as parks and sidewalks, encourage people to walk and engage in 
+other social and physical activities (Opuni et al., 2022). Walkability is 
+vital for two reasons: it improves health by reducing chronic disease 
+risks, dementia, stress, and sleep issues; and it promotes urban growth, 
+enhances living conditions, and boosts neighborhood satisfaction 
+(Herrmann-Lunecke et al., 2021; Opuni et al., 2022; Wang & Yang, 
+2019). For this reason, the World Health Organization encourages 
+walking, and research indicates that the risk of death decreases by 20 to 
+30 % for sufficiently active individuals (Elzeni et al., 2022; Opuni et al., 
+2022).
+However, research indicates that the factors influencing women’s 
+walking differ from those affecting men’s walking (Golan et al., 2019). 
+Women often feel insecure while walking, cycling, or using public 
+transportation because of their vulnerability while traveling. As a result, 
+active travel for women may contribute to anxiety (Goel et al., 2023).
+Research indicates that factors like homelessness, safety, street 
+cleanliness, traffic, crossings, and sidewalk width can affect women’s 
+walking behavior (Adeel et al., 2014; Golan et al., 2019; Herrmann- 
+Lunecke et al., 2021). Women are more fearful of crime, which affects 
+their walking patterns and behaviors. Nevertheless, women’s familiarity 
+with urban spaces, the presence of others, and proximity to shops, 
+schools, and parks can all influence their sense of security. Additionally, 
+liveliness, disorder signs, control, and vegetation influence women’s 
+perceived safety (Paydar et al., 2017).
+This article engages in a critical discussion of gendered urban 
+mobility, making a significant contribution to global knowledge by 
+providing an in-depth qualitative analysis of women’s walking experi­
+ences in a Middle Eastern context—a region often under-researched in 
+mobility studies. While many studies on women’s walking have been 
+conducted in Western countries, this study bridges a fundamental gap by 
+examining how socio-cultural structures influence women’s walking. 
+* Corresponding author at: Persian Gulf University, P.O. Box: 7515745866, Bushehr, Iran.
+E-mail addresses: Niloofar.panahi@pgu.ac.ir, Niloofarpanahi68@gmail.com (N. Panahi). 
+Contents lists available at ScienceDirect
+Cities
+journal homepage: www.elsevier.com/locate/cities
+https://doi.org/10.1016/j.cities.2025.106467
+Received 30 June 2025; Received in revised form 28 July 2025; Accepted 6 September 2025 
+Cities 168 (2026) 106467 
+Available online 11 September 2025 
+0264-2751/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+These contexts present distinct challenges and unique experiences for 
+women, underscoring the need for research in this area.
+2. Methods
+Shiraz, the capital of Fars Province in southern Iran, attracts 
+numerous visitors due to its diverse services, growing population, and 
+numerous attractions. This leads to increased urban traffic and air 
+pollution. The 2016 Shiraz Household Travel Survey shows that 50 % of 
+residents use private vehicles, 12 % use public transportation, 28 % use 
+taxis, and 10 % use other modes of transportation. Therefore, improving 
+walkability has become a key priority for the city.
+To examine the factors influencing women’s walking in Shiraz, semi- 
+structured interviews were conducted from April to May 2024 with 73 
+women living in the city. Written consent was obtained from all par­
+ticipants before the interviews. Data collection continued until theo­
+retical saturation was reached. The six-phase reflective thematic 
+analysis, as outlined by Coyne et al. (2024), was used to analyze data. In 
+phase one, interviews were conducted, transcribed into MaxQDA 24, 
+and reviewed. Phase two involved systematic data coding, identifying 
+patterns related to the research question. In phase three, codes were 
+categorized, and themes emerged. Phase four involved reviewing the 
+analytical structure and themes. In Phase 5, themes were identified. In 
+the final phase, the report was written, incorporating participant quotes 
+to deepen understanding.
+3. Results
+Table 1 presents the characteristics of the interviewees. Most were 
+between 16 and 30 years old, held a bachelor’s degree, were single, and 
+did not own a private car.
+The results of thematic analysis indicate that the factors influencing 
+women’s walking in urban areas include health, socio-cultural, envi­
+ronmental, safety and security, weather, and functional aspects. Table 2
+displays the frequency of related themes and subthemes. Environmental 
+subthemes such as pavement, furniture, green space, continuity, and 
+slope are frequently mentioned by the interviewees. Additionally, from a 
+socio-cultural perspective, factors like religious beliefs, the lack of a 
+walking culture, and family norms have influenced women’s walking 
+habits. In terms of safety and security, issues such as street harassment, 
+motorcycles entering sidewalks, and poor lighting in urban spaces have 
+created many problems for women’s walking.
+4. Discussion
+This study is one of the few conducted in Iran that identifies factors 
+affecting women’s walking in urban spaces. While previous studies have 
+mainly focused on environmental factors affecting walking in Western 
+countries(Lamíquiz & L´opez-Domínguez, 2015; Mat´e-S´anchez-Val et al., 
+2025; Trolese et al., 2023), this study showed that, in addition to 
+Table 1 
+Participants’ characteristics.
+Characteristics
+Groups
+Number
+Percent
+Age
+16–30
+46
+63 %
+31–40
+11
+15 %
+41–50
+10
+14 %
+50+
+6
+8 %
+Educational status
+Under diploma
+3
+4 %
+Diploma
+21
+29 %
+Associate degree
+5
+7 %
+Bachelor’s degree
+33
+45 %
+Master’s degree and higher
+11
+15 %
+Marital status
+Single
+47
+64 %
+Married
+26
+36 %
+Car ownership
+Yes
+22
+30 %
+No
+51
+70 %
+Table 2 
+Results of the reflective thematic analysis.
+Themes
+Subthemes
+Frequency 
+Representative quotes
+Mental health 
+14
+"When I feel sad or stressed, walking always helps me feel better." (P34) 
+Physical health 
+28
+"I have rheumatism, and unfortunately, I can't walk for more than 10 minutes."(P08) 
+Smokers
+11 "There are no restrictions on smoking cigarettes and hookahs in public spaces, and this is very annoying for me."(P11)
+Beggars
+12
+"Beggars who keep asking for money in urban spaces are very annoying."(P45)
+Addicted people 
+13
+"I am afraid of addicted people who are sitting on sidewalks especially in the historic center of the city."(P21)
+Family Norms
+17
+"I like to go for walks at night, but my parents say you have to be home before 9 o'clock."(P15)
+Walking culture
+21
+" There are twice as many cars as the city's population... How do you expect people to walk?"(P17)
+Religious beliefs
+41
+"Choosing the right clothes for walking is always a challenge for me." (P37)
+Sidewalk Width 
+23
+"The sidewalks are very narrow, especially in the city center."(P62)
+Drainage Channels
+29
+"It is difficult for me to cross the drainage channels, especially when they are wide." (P13)
+Stores
+33
+"It would be great if there were shops around the walkways."(P55)
+Public Transport 
+36
+"It would be nice if all the walkways had access to the metro because I don't have a car."(P06)
+Pollution 
+41
+"Whenever I have time, I prefer to go for a walk around the city, away from the noise and air pollution." (P57)
+Cleanness
+46
+"Some urban spaces are so full of garbage that I don't like to spend time in these spaces." (P01)
+Attractiveness
+46
+"Urban spaces should be more attractive to encourage us to walk."(P18)
+Slope 
+49
+"The improper slope of some sidewalks causes water to collect during rain." (P15)
+Continuity 
+51
+"Construction operations or vendors disrupt the continuity of movement on sidewalks."(P50)
+Green space 
+52
+"There is no green space in some walking paths, and that is why I get bored easily."(P41)
+Furniture 
+57
+"When I get tired while walking, I can't find anywhere to sit."(P22)
+Pavement 
+58
+"When I wear high-heeled shoes, I fall on the sidewalk because the pavement is not suitable."(P35)
+Pedestrian bridges
+22
+"I'm afraid of pedestrian bridges that are covered on both sides because you can't see around."(P63)
+Stray dogs
+29
+"The number of stray dogs has increased in Shiraz... I have been attacked by dogs twice while walking."(P19)
+Bag snatching 
+33
+"I'm always worried that I'll be attacked from behind and my phone will be stolen."(P32)
+Lighting 
+48
+"Our neighborhood park gets so dark at night that we don't dare to go for a walk."(P62)
+Motorbikes 
+52
+"Motorbikes speed along some sidewalks, scaring pedestrians."(P06)
+Street Harassment
+61
+"Men staring at me while walking makes me uncomfortable."(P46)
+Cold weather
+38
+"If you walk in Shiraz in the winter, your hands will freeze." (P58)
+Hot weather 
+57
+"July and August are not suitable for walking at all, the weather is terribly hot." (P09) 
+Travel Purpose 
+25
+"For daily shopping, I prefer to walk to the neighborhood center."(P29)
+Travel distance
+34
+"Walking is suitable for small cities where the distances are short... Not for Shiraz." (P23)
+Travel duration 
+38
+"Walking is good when you have extra time."(P61) 
+Functional
+Health 
+Sociocultural 
+Environmental 
+Safety and security
+Weather
+N. Panahi et al. 
+Cities 168 (2026) 106467 
+2 
+
+environmental factors, sociocultural constraints and beliefs (such as 
+dress codes, religious beliefs, gender norms, and street harassment) can 
+affect women’s walking in Middle Eastern countries.
+Fig. 1 illustrates the factors affecting women’s walking. The 
+following addresses some of the most important points raised by women. 
+Fear of street harassment is one of the most critical factors mentioned by 
+women that can prevent them from walking. This is consistent with 
+(Adeel et al., 2014; Paydar et al., 2017; Stark & Meschik, 2018). Women 
+mentioned that street harassment includes teasing, hitting, staring, and 
+physical harassment, especially on dark streets, pedestrian bridges with 
+billboards, and under Grade-separated intersections. In recent years, the 
+areas under intersections have become abandoned spaces used as 
+parking lots during the day and sites of social unrest at night. Some 
+women mentioned that they assess routes for harassment risk before 
+walking alone and choose safer paths, even if it takes longer. Women’s 
+fears in Shiraz stem more from urban neglect—like garbage and aban­
+doned lands—than actual crime statistics. Therefore, safety encom­
+passes both physical and psychological aspects.
+The weather was one of the issues raised by many women, which is in 
+accordance with (B¨ocker et al., 2016; Daniels & Park, 2024; Drapeau 
+et al., 2024). In Shiraz, it is not possible to engage in outdoor activities 
+during certain months of the year due to unfavorable weather condi­
+tions, which impact the frequency of walking during those months. 
+Considering existing clothing laws in society, women emphasized the 
+need to create climatic comfort on sidewalks through urban design in­
+terventions, especially during summer.
+In recent years, car-oriented policies in Shiraz have resulted in land 
+uses being dispersed throughout various parts of the city. Consequently, 
+people have become highly dependent on private cars to fulfill their 
+daily needs. Additionally, women mentioned that they prefer to use their 
+private vehicles instead of walking or using public transportation 
+because they feel unsafe in some parts of the city. One point that women 
+emphasized is the necessity of developing walking infrastructure, which 
+is in accordance with (Annear et al., 2024; Mirzaei et al., 2018; Nigg 
+et al., 2024). Currently, there are several walkways in Shiraz, including 
+Salamat (meaning “health”), Hafezieh, Chamran, and Mosala Nezhad. 
+As these walkways have a family atmosphere, women are actively pre­
+sent in these spaces. In recent years, some Iranian cities, such as Tehran, 
+have established mother-and-child rooms that provide suitable spaces 
+for mothers to rest while walking with their child or infant. In Shiraz, 
+policies have been considered to create these rooms in the future.
+Narrow sidewalks and construction operations on them were other 
+factors mentioned by women that block their movement, especially 
+when they were trying to cross the sidewalks with strollers or shopping 
+carts, which is in accordance with (Boukrouh & Bouchair, 2024; Müller 
+et al., 2024). Some construction projects in Shiraz take months to 
+complete, making it difficult for people to use the sidewalks. What 
+makes the situation worse is the motorcycles moving on sidewalks, 
+especially in the city center, which endangers the safety of pedestrians. 
+Women also noted that narrow sidewalks increase their chances of 
+encountering street harassment.
+According to women, access to public transportation stations also 
+plays a role in the appeal of walking for women, which is in agreement 
+with (Annear et al., 2024; Gao et al., 2020; Huang et al., 2020). In 
+Fig. 1. Women’s walking factors based on the interviews.
+N. Panahi et al. 
+Cities 168 (2026) 106467 
+3 
+
+Shiraz, some walkways, such as Mosala Nezhad, lack access to public 
+transportation, which causes numerous issues, especially for women 
+who don’t have a private vehicle. There is also an inconsistency in bus 
+schedules, making public transit unreliable for residents.
+Religious and cultural beliefs also influence women’s walking habits. 
+Some women suggest that, due to dress code laws, creating women-only 
+parks could encourage women to walk. Currently, Shiraz has a women’s 
+park that is mostly closed. Additionally, many Iranian families believe 
+that girls should return home early and avoid late outings, which can 
+impact nighttime walks. Furthermore, in traditional neighborhoods, 
+women walking alone might be judged.
+5. Conclusion
+The results showed that factors affecting women walking include 
+environmental, safety and security, health, weather, functional, and 
+socio-cultural factors. Our findings underscore the fundamental point 
+that some urban spaces may seem accessible to everyone, but socially, 
+they display signs that limit women’s presence. This shows that mobility 
+is a symbolic issue shaped by sociocultural context. In other words, so­
+cial, cultural, and religious norms create invisible boundaries for 
+women’s presence in urban spaces. Therefore, women-friendly urban 
+design must extend beyond physical infrastructure to encompass the 
+intricate interplay between social, cultural, and religious factors, as well 
+as women’s mobility. These findings draw our attention to dimensions of 
+women’s mobility that are often overlooked in countries of the Global 
+South, and especially the Middle East.
+The findings of this study are not only relevant to Shiraz and Iranian 
+cities, but they can also be applied to other cities worldwide, especially 
+in the Middle East and the broader Global South, where social, cultural, 
+and religious norms significantly influence women’s walking experi­
+ences and active presence in urban spaces. To translate these findings 
+into actions, Table 3 outlines strategies to improve women’s walking, 
+considering physical and socio-cultural challenges identified from in­
+terviewees’ experiences. These serve as guidance for cities like Shiraz.
+Although this study focused on a single city using a qualitative 
+approach, the findings can pave the way for future comparative research 
+between different cities. Additionally, comparing the opinions of various 
+age groups of women can offer insights into how generational differ­
+ences influence walking behavior and show the changing nature of 
+mobility during the life course.
+CRediT authorship contribution statement
+Niloofar Panahi: Writing – review & editing, Writing – original 
+draft, Visualization, Validation, Supervision, Software, Project admin­
+istration, Methodology, Investigation, Formal analysis, Data curation, 
+Conceptualization. Neshat Tavakoli: Writing -original draft, validation, 
+Methodology, Resources, Investigation. Kiana Kamali Sarvestani: 
+Writing – original draft, Validation, Methodology, Investigation, Data 
+curation.
+Declaration of competing interest
+There are no conflicts of interest to declare.
+Data availability
+Data will be made available on request.
+References
+Adeel, M., Yeh, A., & Zhang, F. (2014). Gender, mobility and travel behavior in Pakistan: 
+Analysis of 2007 Time Use Survey. In 5th international conference on women’s issues in 
+transportation-Bridging the gap (pp. 41–46).
+Annear, M., Fristedt, S., & Laddawong, T. (2024). Walkability in Japan’s aging 
+neighborhoods: A comparative audit analysis of pedestrian journeys in urban Tokyo. 
+Table 3 
+Proposed strategies to improve women’s walking (light green indicates short-term and medium-term, while dark green signifies 
+long-term strategies).
+Strategies
+Factors
+Health 
+Weather
+Functional
+Socio-cultural
+Safety/security
+Environmental
+S1. Benches with backrests and suitable height
+*
+*
+S2. Gentle ramps, where needed
+*
+*
+*
+S3. Barrier-free urban spaces
+*
+*
+*
+S4. Electric lifts for pedestrian bridges
+*
+*
+S5. Rooftop gardens 
+*
+*
+S6. Water features or misting stations
+*
+*
+S7. Shaded shelters 
+*
+*
+S8. Using suitable colors and materials on facades 
+*
+*
+S9. Walkable mixed-use neighborhoods
+*
+*
+S10. Pedestrian incentive policies
+*
+S11. Intelligent navigation apps
+*
+S12. Restrictions on smoking in public spaces
+*
+S13. Organizing beggars and addicts
+*
+S14. Creating women-specific urban spaces
+*
+*
+S15. Campaigns to promote respect for women 
+*
+S16. Online platforms for reporting harassment
+*
+*
+S17. Removing billboards around bridges
+*
+S18. Gathering stray dogs into proper shelters
+*
+S19. Increasing lighting in public areas
+*
+*
+S20. Installing security cameras
+*
+S21. Restrictions on car and motorcycle entry
+*
+S22. Revitalizing neglected spaces
+*
+*
+S23. Minimizing blind spots in city spaces 
+*
+*
+S24. Pedestrian-only zones
+*
+*
+S25. Street-facing windows 
+*
+*
+S26. Identification of High-Risk Areas 
+*
+S27. Organizing the width of sidewalks
+*
+*
+S28. Increasing the number of bus/metro stations 
+*
+S29. Adding food vending facilities 
+*
+S30. Building bridges for water channels
+*
+*
+S31. Adding trash bins
+*
+S32. Organizing Street vendors
+*
+*
+S33. Expanding green spaces in public areas
+*
+S34. Fixing sidewalk holes
+*
+*
+N. Panahi et al. 
+Cities 168 (2026) 106467 
+4 
+
+Journal of Transport & Health, 35, Article 101755. https://doi.org/10.1016/j. 
+jth.2024.101755
+B¨ocker, L., Dijst, M., & Faber, J. (2016). Weather, transport mode choices and emotional 
+travel experiences. Transportation Research Part A: Policy and Practice, 94, 360–373. 
+https://doi.org/10.1016/j.tra.2016.09.021
+Boukrouh, N., & Bouchair, A. (2024). Urban walkability assessment, a double 
+examination by physical environment and users’ perceptions: The case of Jijel City 
+in Algeria. Journal of Building Rehabilitation, 9, Article 92. https://doi.org/10.1007/ 
+s41024-024-00434-2
+Coyne, R., Hanlon, M., Smeaton, A. F., Corcoran, P., & Walsh, J. C. (2024). 
+Understanding drivers’ perspectives on the use of driver monitoring systems during 
+automated driving: Findings from a qualitative focus group study. Transportation 
+Research Part F: Traffic Psychology and Behaviour, 105, 321–335. https://doi.org/ 
+10.1016/j.trf.2024.07.015
+Daniels, M. J., & Park, M. (2024). Urban walkability and tour bus travel. Journal of 
+Outdoor Recreation and Tourism, 47, Article 100789. https://doi.org/10.1016/j. 
+jort.2024.100789
+Drapeau, H. F., Singh, P., Benyaminov, F., Wright, K., Spence, J. C., Nuzhat, S., … 
+Lee, K. K. (2024). Meteorological gaps in audits of pedestrian environments: A 
+scoping review. BMC Public Health, 24, 2010. https://doi.org/10.1186/s12889-024- 
+19441-6
+Elzeni, M. M., ELMokadem, A. A., & Badawy, N. M. (2022). Impact of urban morphology 
+on pedestrians: A review of urban approaches. Cities, 129, Article 103840. https:// 
+doi.org/10.1016/j.cities.2022.103840
+Gao, J., Kamphuis, C. B. M., Helbich, M., & Ettema, D. (2020). What is ‘neighborhood 
+walkability’? How the built environment differently correlates with walking for 
+different purposes and with walking on weekdays and weekends. Journal of Transport 
+Geography, 88, Article 102860. https://doi.org/10.1016/j.jtrangeo.2020.102860
+Goel, R., Oyebode, O., Foley, L., Tatah, L., Millett, C., & Woodcock, J. (2023). Gender 
+differences in active travel in major cities across the world. Transportation, 50, 
+733–749. https://doi.org/10.1007/s11116-021-10259-4
+Golan, Y., Wilkinson, N., Henderson, J. M., & Weverka, A. (2019). Gendered walkability: 
+Building a daytime walkability index for women. JTLU, 12. https://doi.org/ 
+10.5198/jtlu.2019.1472
+Herrmann-Lunecke, M. G., Mora, R., & Vejares, P. (2021). Perception of the built 
+environment and walking in pericentral neighbourhoods in Santiago, Chile. Travel 
+Behaviour and Society, 23, 192–206. https://doi.org/10.1016/j.tbs.2021.01.002
+Huang, X., Cao, X., Yin, J., & Ma, R. (2020). The influence of urban transit and built 
+environment on walking. Dili Xuebao/Acta Geographica Sinica, 75, 1256–1271. 
+https://doi.org/10.11821/dlxb202006012
+Lamíquiz, P. J., & L´opez-Domínguez, J. (2015). Effects of built environment on walking 
+at the neighbourhood scale. A new role for street networks by modelling their 
+configurational accessibility? Transportation Research Part A: Policy and Practice, 74, 
+148–163. https://doi.org/10.1016/j.tra.2015.02.003
+Mat´e-S´anchez-Val, A., L´opez Hern´andez, F. A., & Mat´e-S´anchez-Val, M. (2025). City for 
+people, city for cars. Analyzing maximum walkability areas through machine 
+learning algorithms and open-source data. Cities, 162, Article 105895. https://doi. 
+org/10.1016/j.cities.2025.105895
+Mirzaei, E., Kheyroddin, R., Behzadfar, M., & Mignot, D. (2018). Utilitarian and hedonic 
+walking: Examining the impact of the built environment on walking behavior. 
+European Transport Research Review, 10, 20. https://doi.org/10.1186/s12544-018- 
+0292-x
+Müller, C., Paulsen, L., Bucksch, J., & Wallmann-Sperlich, B. (2024). Built and natural 
+environment correlates of physical activity of adults living in rural areas: A 
+systematic review. International Journal of Behavioral Nutrition and Physical Activity, 
+21, 52. https://doi.org/10.1186/s12966-024-01598-3
+Nigg, C., Alothman, S. A., Alghannam, A. F., Schipperijn, J., AlAhmed, R., Alsukait, R. F., 
+… Alqahtani, S. A. (2024). A systematic review on the associations between the built 
+environment and adult’s physical activity in global tropical and subtropical climate 
+regions. International Journal of Behavioral Nutrition and Physical Activity, 21, 59. 
+https://doi.org/10.1186/s12966-024-01582-x
+Opuni, F. F., Asiamah, N., Danquah, E., Ricky-Okine, C. K., Ocloo, E. C., & Quansah, F. 
+(2022). The associations between pro-environment behaviours, sustainability 
+knowingness, and neighbourhood walkability among residents of Accra Metro in 
+Ghana: A cross-sectional analysis. Journal of Transport & Health, 25, Article 101375. 
+https://doi.org/10.1016/j.jth.2022.101375
+Paydar, M., Kamani-Fard, A., & Etminani-Ghasrodashti, R. (2017). Perceived security of 
+women in relation to their path choice toward sustainable neighborhood in Santiago, 
+Chile. Cities, 60, 289–300. https://doi.org/10.1016/j.cities.2016.10.002
+Stark, J., & Meschik, M. (2018). Women’s everyday mobility: Frightening situations and 
+their impacts on travel behaviour. Transportation Research Part F: Traffic Psychology 
+and Behaviour, 54, 311–323. https://doi.org/10.1016/j.trf.2018.02.017
+Trolese, M., De Fabiis, F., & Coppola, P. (2023). A walkability index including 
+pedestrians’ perception of built environment: The case study of Milano Rogoredo 
+Station. Sustainability, 15, Article 15389. https://doi.org/10.3390/su152115389
+Wang, H., & Yang, Y. (2019). Neighbourhood walkability: A review and bibliometric 
+analysis. Cities, 93, 43–61. https://doi.org/10.1016/j.cities.2019.04.015
+N. Panahi et al. 
+Cities 168 (2026) 106467 
+5

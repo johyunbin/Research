@@ -1,0 +1,1441 @@
+Determinants of soundscape quality of communal open space in Hong Kong
+Minqi LIN a, Chi Kwan CHAU a,*, Shiu Keung TANG b, Wai Kit CHUNG a, Ho Man YU a
+a Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong Special Administrative Region,
+China
+b School of Engineering, University of Hull, Cottingham Road, Hull HU6 7RX, UK
+A R T I C L E I N F O
+Keywords:
+Open space
+Soundscape quality
+Cross-modal interaction
+Thermal
+A B S T R A C T
+Soundscape quality of communal open space (COS) in residential housing estates has been less thoroughly
+investigated. This paper aims to reveal the intricate relationships among physical sound, visual and thermal
+environments and their respective human perceptions, and soundscape quality, as well as their relative in-
+fluences. To this end, a path model was formulated with aid of 1749 face-to-face field interview responses
+collected via questionnaire surveys together with physical measurements at the COS of nine residential housing
+estates in Hong Kong. The model findings suggested that pleasantness and landscape visual quality, as well as
+thermal acceptability were the primary drivers for soundscape quality of COS. The size of effects of thermal
+perceptions on soundscape quality was found comparable to those of aural and visual perceptions. In turn,
+pleasantness was more influenced by perception of dominant vehicle sound, human sound and birdsong than
+physical sound properties and psychoacoustics factors. Visual quality of landscape also played an important role
+on soundscape assessments via visibility of greenery and sky. Besides, thermal acceptability was found to directly
+influence soundscape assessments instead of thermal comfort or sensation. Above all, our findings provide
+valuable insights for residential housing estate designers in formulating strategies that can effectively improve
+soundscape quality in COS in compact city environments.
+1. Introduction
+1.1. Literature review
+Global urbanization trend has caused a rapid increase in the number
+of populations dwelling in dense city areas. Within dense living envi-
+ronments, the demands for public open spaces have been escalating as
+they can offer precious opportunities for people of different ages to
+undertake different types of leisure and recreational activities and
+escape from hectic city life [1]. Various forms of open space, ranging
+from sports fields to city parks and linear corridors, have often been
+provided by city government. Given cramped dwelling space for ma-
+jority of people in dense city areas, communal open space (COS) has
+often been provided within residential housing estates to facilitate social
+connections and foster a feeling of community among housing residents
+by offering valuable extra space [2].
+Recognizing the benefits of public open space offered to urban living,
+there are intense interests in formulating urban design and planning
+strategies that can effectively improve the quality of open space, with an
+ultimate objective of increasing the number of visitors and frequency of
+their visits, and alluring them to stay longer [3]. Apart from macro-scale
+factors like accessibility [4], and landscape connectivity [5], a number
+of micro-scale factors including function [6], aesthetic appearance [7],
+spatial configuration of landscape [8], physical facilities [7], thermal
+environment [9] and soundscape quality [10] have also been identified
+as determinants for vitality of open space.
+Compared with all the micro-scale factors, soundscape, being
+defined as the sound environment as perceived or experienced and/or
+understood by people in context (ISO12913:1), has been received rela-
+tively less attention. Soundscape quality of open space is influenced by
+type of sound sources present, as well as the basic physical properties of
+its sound sources like sound pressure level [11,12] and frequency [13],
+and dynamic patterns like temporal profile and intermittency [14].
+Given that open spaces often entail cocktails of different types of sounds,
+their composition and variations are also determinants for soundscape
+quality [15]. In addition, type of open space e.g., parks [15] and squares
+* Corresponding author at: Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong
+Kong Special Administrative Region, China.
+E-mail addresses: minqi.lin@connect.polyu.hk (M. LIN), beckchau@connect.polyu.hk (C.K. CHAU), S.Tang@hull.ac.uk (S.K. TANG), wai-kit.chung@connect.
+polyu.hk (W.K. CHUNG), louis.hm.yu@connect.polyu.hk (H.M. YU).
+Contents lists available at ScienceDirect
+Building and Environment
+journal homepage: www.elsevier.com/locate/buildenv
+https://doi.org/10.1016/j.buildenv.2024.112261
+Received 2 April 2024; Received in revised form 26 September 2024; Accepted 1 November 2024
+Building and Environment 267 (2025) 112261 
+Available online 6 November 2024 
+0360-1323/© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+[16], is also an important determinant since different types and char-
+acteristics of sounds are emanated from different functional landscapes
+[17].
+In evaluating the soundscape of open spaces, it is crucial to recognize
+that beyond the objective physical sound properties, human perception
+significantly influences soundscape assessment as soundscape is a
+perceptual construct of a sound environment [18–20]. Therefore, we
+must clearly distinguish this perceptual construct from the tangible
+physical surroundings.
+Conceivably, human perceptions of sounds play an important role in
+soundscape assessment. Preference and perception of specific types of
+sounds by open space users have been shown to affect their soundscape
+assessment of an open space. Positive sound assessments will be evoked
+for perception of favorable sounds while negative assessments will be
+evoked for perception of unfavorable sounds. People generally prefer to
+hear natural sounds, e.g., water sounds [21,22] or birdsong [23,24], but
+dislike mechanical sounds like vehicle noise [14,25] and human sounds
+[15]. However, even for same types of sound sources, different fre-
+quency spectra or temporal variation will evoke different soundscape
+assessments. For instance, high pitch birdsong was more preferred to
+low frequency one [26] and high sharpness water sound with less
+temporal variation was less preferred [27]. Besides, the dominancy of
+sound sources perceived by users was also found as a determinant of
+soundscape quality in open space [28]. A higher soundscape quality
+rating would be received if the most dominant sound type shifted from
+artificial to natural [26,29]. Thus, further exploration is required to
+determine whether specific types of sounds must be perceived as
+dominant by open space users or if their mere presence is sufficient to
+influence soundscape quality assessment.
+As human perception is multi-sensory in nature, the cross-modal
+interactions between aural and other types of sensory perceptions,
+such as visual-aural interactions, have been determined to affect
+soundscape assessment in open space. Visual landscape of open space
+has been determined to affect its soundscape assessment through visi-
+bility of specific natural and built landscape features. Generally, views of
+natural features, e.g., greenery [21,24] and water [21], will help to
+produce positive soundscape assessments. On the contrary, views of
+some artificial features will produce negative soundscape assessments.
+Visibility of roads produced negative effects on soundscape assessment
+[14]. However, the effect of visibility of densely packed buildings on
+soundscape assessment is less ascertained as they were found likely to
+produce negative soundscape assessment in a street environment in
+Seoul [30], but not in a high-rise residential area in Singapore [31].
+In comparison, the interaction effects between thermal and aural
+perceptions have been less comprehensively investigated in outdoor
+open space, despite majority of earlier studies having only focused on
+exploring their bivariate correlation relationships. People were found
+more sensitive to the perception of noise in hot environments [32].
+Hotter thermal condition tended to produce lower sound quality [33].
+Conversely, thermal perceptions can also be modified by sound char-
+acteristics. Different sound types would influence thermal comfort
+differently [34,35]. Perception of music and natural sounds was found
+positively correlated with thermal comfort in a campus open space in a
+cold climate region [34,35]. The extent of improvement was found to
+vary with type of sounds [35] and season [34]. Conversely, perception of
+unwanted sounds like people crowd noise and machine noise would
+decrease thermal comfort [34]. Besides, high sound pressure level
+significantly deteriorated thermal comfort in summer [16]. Loud/noisy
+sound sensation increased the thermal sensation in parks and squares in
+a tropical climate city [36], and high traffic noise level slightly increased
+the thermal sensation in squares during summer in a cold climate
+country [16]. On the contrary, low sound level would produce a more
+comfortable acoustic environment, leading to enhanced thermal com-
+fort [35].
+• Above all, there is still a number of research gaps that have not been
+fully addressed. First, majority of findings have been focused on
+exploring the effects of single aspects of multisensory factors on
+soundscape quality. In addition, most of them reported only on the
+bivariate relationships between soundscape quality and influencing
+factors in terms of correlations instead of causation, which makes it
+impossible to conclude which factor causes change in the other.
+Second, there is a lack of understandings on the relative influences
+and direction of effects of various types of sound sources on thermal
+perception and vice versa despite majority of earlier efforts being
+mainly focused on revealing the bivariate relationships between
+thermal environment and perceptions, and acoustic comfort, and/or
+their interactions. Third, majority of studies have been reported in a
+piecemeal manner, or focused only on one perceptual dimension of
+soundscape quality whose effects may not be fully applicable to the
+overall soundscape quality. Above all, there is a lack of studies that
+can holistically reveal whether and how the multisensory perceptual
+and physical micro-environment attributes influence soundscape
+quality in COS in residential housing estates in a high-dense or
+compact city, which are affected by rich arrays of road traffic and
+human sounds and built environment features. Accordingly, the
+main objectives of the study are:
+• to assess how the physical sound, visual and thermal environments
+along with their perceptions by COS visitors, impact soundscape
+quality in COS; to reveal their relative influences, and to explore
+their intricate interrelationships; and
+• to identify the sub-factors that influence aural, visual thermal de-
+terminants of soundscape quality in COS, and to assess their relative
+impacts.
+These objectives were addressed by first constructing a path model
+that can portray the intricate inter-relationships among soundscape
+quality, multisensory perceptual and physical micro-environmental
+characteristics, with particular emphases on simultaneously exploring
+between their associations and interactions with soundscape quality as
+relevant studies remain scarce. The determination of the major factors,
+their interrelationships and their relative impacts on soundscape quality
+can shed lights on formulation of effective strategies to enhance the
+soundscape quality of COS in residential housing estates.
+1.2. Hypotheses and conceptual framework
+Table 1 lists all the main assumptions employed for developing the
+conceptual model based on the findings identified from relevant refer-
+ences. The years of review ranged from 1999 to 2024, using keywords
+"soundscape, landscape, thermal comfort, soundscape descriptors,
+soundscape indicators, psychoacoustic, outdoor urban spaces and
+soundscape perceptions". For revealing all the potential relationships for
+quality of public open space, we have included both the relationships
+that have been previously confirmed and those have not fully confirmed
+(i.e., H10, H11, H13, H14, H15 and H18) as our major hypotheses in the
+model development. In addition, the studied factors have been further
+categorized according to different types of sensory variables - auditory,
+visual, and thermal as shown in Table 1 and Fig. 1 shown below [33,34,
+36]. The visual factors include visibility of greenery, road and sky; the
+auditory factors include perceived dominance of sound sources (e.g.,
+vehicle noise, human sound and birdsong), LAeq, and Psychoacoustic
+factors (e.g., fluctuation strength and sharpness); the thermal factors like
+PET, thermal sensation, thermal comfort and thermal acceptability.
+Based upon the above hypotheses, a conceptual model has been
+proposed in Fig. 1 to illustrate the interrelationships among soundscape
+quality, sound environment, visual landscape, and thermal environ-
+ment, and people’s perceptions.
+Firstly, soundscape quality refers to the overall perception and
+evaluation of the acoustic environment in open spaces. It is influenced
+not only by the perceived affective quality of the soundscape (i.e.,
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+2 
+
+Pleasantness and Eventfulness) but also by the visual quality of the
+landscape and thermal perception, based on the interaction between
+different sensory modalities [36].
+Secondly, it is hypothesized that the perceived affective quality of
+the soundscape is affected by the subjective perceived dominance of
+sound sources and physical sound properties (e.g., LAeq, LA10-LA90,
+LCeq-LAeq). Additionally, the perceived dominance of sound sources is
+influenced by physical sound properties and psychoacoustic factors (e.
+g., fluctuation strength (FS) and sharpness); It is also hypothesized that
+landscape visual quality is influenced by the visibility of visual elements;
+and that thermal perception is related to thermal perceptual factors,
+which are evaluated by thermal physical factors.
+Thirdly, the model proposes interactions between different sensory-
+related factors, where the visibility of visual elements influences the
+perceived dominance of sound sources, which in turn affects thermal
+perceptual factors.
+2. Methodology
+In order to construct the proposed conceptual model and explore the
+inter-relationships among various factors, a series of questionnaire
+surveys were conducted concurrently with field measurements.
+2.1. Site selection
+Hong Kong as a coastal city has a humid subtropical climate with hot,
+long and humid summers, as well as mild and short winters. COS is
+commonly found in PHEs in Hong Kong, which are predominantly used
+by residents and shared with other visitors as well as residents of
+neighboring developments. As some public housing estates are located
+in high-dense urban areas, densely packed high-rise towers further
+aggravate the thermal comfort problems in COS induced by heat island
+effects during hot seasons. In addition, high-rise towers frequently block
+the scenery views from COS. For COS located on ground, they are
+constantly exposed to noise and air pollution and the high-density as
+well as high-rise of building morphology can also magnify traffic noise
+problems. Accordingly, COS in PHEs is regarded as suitable survey sites
+for investigation of acoustic and non-acoustic factors influencing the
+soundscape quality in public open space. A total of 23 COSs were
+selected from nine public housing estates (PHEs) in Hong Kong (Site A-
+I), which included 10 play areas and 13 sitting-out areas (see Fig. 2). The
+survey sites were chosen such that they covered a wide range of envi-
+ronmental conditions, including varying levels of exposure to traffic
+noise, as well as different visual and thermal conditions. In addition,
+they covered functional diversity of COS, which included play areas,
+known for higher activity and noise levels, and sitting-out areas,
+intended for relaxation and quieter use. This approach enabled us to
+examine how different types of functional space influence soundscape
+quality under similar external environmental conditions.
+2.2. Questionnaire surveys
+The form of questionnaire surveys followed the guidelines laid down
+by ISO/TS 12,913–2:2018 Standard for data collection and reporting
+requirements of soundscape but with additional questions on thermal
+sensation and acceptability. Respondents were randomly chosen within
+the predefined boundaries of each site during each survey session. A
+structured questionnaire was employed with details provided in Table 2,
+which outlines the key questions and their corresponding rating scales.
+Based on ISO/TS 12,913–3:2019, Pleasantness and Eventfulness can be
+determined by Eqns. (1) and (2) based on the eight perceived affective
+quality values collected from the questionnaire responses.
+PL = (p −a) + cos45∘⋅(ca −ch) + cos45∘⋅(v −m)and
+(1)
+EV = (e −u) + cos45∘⋅(ch −ca) + cos45∘⋅(v −m)
+(2)
+Where p is pleasant, a is annoying, ca is calm, ch is chaotic, e is
+eventful, u is uneventful, v is vibrant, and m is monotonous. Pleasantness
+is related to how pleasant or unpleasant the environment is judged and
+Eventfulness is represented by how eventful or uneventful the acoustic
+environment is perceived to be.
+2.3. Field measurement
+At the beginning of the questionnaire survey, an interviewer asked
+each respondent to listen to the surrounding sound environment for
+about one-minute at the start of the questionnaire survey. One-minute
+binaural sound was recorded at the ear-canal positions with two mi-
+crophones (Brüel & Kjær Type 4101) connected to a portable analyzer
+(Brüel & Kjær Type 2270) for registering properties of sounds heard by
+individual respondents. The recording staff took pictures by following
+the respondent’s orientation and viewing direction (See Fig. 3). The
+corresponding sound recordings and photos were later matched with
+Table 1
+Major hypotheses of the conceptual model.
+Hypotheses
+Descriptions
+References
+Auditory Factors
+​
+H1a: LAeq influences Pleasantness
+[18,25,37]
+H1b: LAeq influences Eventfulness
+[18,25,37]
+H2a: Perceived dominance of sound influences Pleasantness
+​
+H2ai: Perceived dominance of traffic sound →Pleasantness
+[25,38–40]
+H2aii: Perceived dominance of human sound →Pleasantness
+[25,39,40]
+H2aiii: Perceived dominance of birdsong →Pleasantness
+[25,38–40]
+H2b: Perceived dominance of sound influences Eventfulness
+​
+H2bi: Perceived dominance of traffic sound →Eventfulness
+[25,38–40]
+H2bii: Perceived dominance of human sound →Eventfulness
+[25,39,40]
+H2biii: Perceived dominance of birdsong →Eventfulness
+[25,38–40]
+H3: Psychoacoustic parameters influence the perceived
+dominance of sound
+[38,41]
+H4a: Pleasantness influences soundscape quality
+[38,42–45]
+H4b: Eventfulness influences soundscape quality
+[38,42–45]
+Visual Factors
+​
+H5: Subjective visual dominance influences landscape visual
+quality
+​
+H5a: Visibility of road →Landscape visual quality
+[38,40]
+H5b: Visibility of greenery →Landscape visual quality
+[38,40]
+H5c: Visibility of sky →Landscape visual quality
+[38,40]
+Thermal factors
+​
+H6: PET influences thermal sensation
+[46,47]
+H7: Thermal sensation influences thermal comfort
+[46,47]
+H8: Thermal comfort influences thermal acceptability
+[48]
+Sensory Interactions
+​
+H9: LAeq influences thermal comfort
+[16,33,49]
+H10: Perceived dominance of sound influences thermal
+sensation*
+[16,34]
+H11: Subjective visual dominance influences perceived
+dominance of sound*
+[19]
+H12: Landscape visual quality influences soundscape quality
+[19,50,51]
+H13: Thermal acceptability influences soundscape quality*
+[16,33,36]
+Others
+​
+H14a: The function of space influences Pleasantness*
+[17,42,52–54]
+H14b: The function of space influences Eventfulness*
+[17,42,52–54]
+H15: The function of space influences psychoacoustic
+parameters*
+[41,54,55]
+H16: Soundscape quality influences overall open space quality
+[30,56,57]
+H17: Landscape visual quality influences overall open space
+quality
+[30,57]
+H18: Thermal acceptability influences overall open space
+quality*
+[36]
+H19: Self-assessed auditory capacity influences Pleasantness
+[37]
+Note:.
+- The hypothesis shown in italics with * denotes that has not been thoroughly
+confirmed.
+- The bolded hypothesis denotes major hypotheses, while the non-bolded one
+denotes the sub-hypotheses under a specific major hypothesis.
+- Abbreviation: PET — Physiological Equivalent Temperature.
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+3 
+
+each respondent’s questionnaire responses.
+A mobile microclimate station had also been assembled to include
+instrument for measuring outdoor air temperature, relative humidity,
+wind speed, globe temperature and solar radiation intensity of the sur-
+veyed sites (see Fig. 4). Finally, these physical parameter values were
+used as input to the Rayman model [58] for computing the corre-
+sponding physiological equivalent temperature (PET).
+2.4. Data collection and analysis
+A series of field measurements was conducted in conjunction with
+questionnaire surveys in three-time sessions from 09:00 to 18:30 during
+weekdays and weekends between August 2021 and March 2023. The
+collected subjective human responses and physical field measurement
+data were statistically analyzed using SPSS version 22.0, while a path
+model was formulated using AMOS version 22.0.
+3. Results
+3.1. Descriptive statistics
+In total, 1749 valid responses were successfully administered via
+face-to-face interviews at the COS of nine PHEs. Each interview lasted
+for about five to ten minutes on average. Table 3 shows the personal
+details of all the respondents surveyed in the nine individual sites. About
+46 percent of the respondents were men, and about half were between
+ages of 20–59. Their average self-assessed auditory capacity was higher
+than ’Good‘, and their average self-reported health condition was better
+than ’Fair’.
+3.2. Site characteristics and sound environment
+Table 4 shows a summary of the major site characteristics and sound
+environment of nine survey sites. As described before, the 23 COSs of
+nine sites can be categorized into play area and sitting-out areas. As most
+of our survey COSs were located in urban centers, they were closely
+surrounded by high-rise buildings and busy traffic roads, resulting in
+high and constant levels of background noise throughout the day. In
+addition, they were occupied by large crowds of people for socializing,
+leisure and rest. Many COSs were provided with greenery, which
+attracted birds and provided shade (See Fig. 5).
+3.3. Path analysis
+Given the mild winter weather conditions in Hong Kong between
+2021 and 2023, only one path model has been developed based on the
+1749 questionnaire responses. These responses were recorded within a
+narrow-recorded temperature range, with 69 % of the survey days
+exceeding 27 ◦C. The sample size of 1749 responses is more than
+adequate for constructing the model, surpassing the minimum recom-
+mended sample size of 200 for structural equation modeling and
+adhering the rule of thumb that requires 10 samples per variable (i.e. 21
+variables in this study).
+Table 5 shows our model results satisfied both the criteria for
+acceptance values of the goodness-of-fit (GFI) tests and the root mean
+square error of approximation (RMSEA) frequently used for assessing
+the GFI of structural equation models, the constructed model is
+considered a reasonably good representation of the interrelationships.
+In addition, the reliability and validity of all the observed variables
+have been evaluated. Specifically, the Cronbach’s alpha values for all
+observed variables exceeded 0.7, indicating good internal consistency.
+Furthermore, only the statistically significant path coefficients (p <
+0.05) have been retained for our model construction, highlighting the
+robustness and validity of the proposed model. Fig. 6 shows the con-
+structed path model together with the estimated correlation values for
+each of individual factors. All coefficient values have been standardized
+to facilitate comparison. A low coefficient indicates a weak association,
+while a high coefficient indicates a stronger causal relationship between
+the independent and dependent variables. A positive coefficient suggests
+a direct relationship, meaning that as the value of the independent
+variable increases, so does the value of the dependent variable.
+Conversely, a negative coefficient indicates an inverse relationship,
+where an increase in the independent variable leads to a decrease in the
+dependent variable. A dummy variable (i.e., ‘Child_Play areas’) has been
+created for facilitating comparison of the differences among play areas
+dominated by children’s play activities and others.
+Table 6 shows the direct, indirect and total effects of individual
+factors
+on
+soundscape
+quality.
+Soundscape
+quality
+was
+greatly
+Fig. 1. The proposed conceptual framework of this study.
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+4 
+
+influenced by pleasantness of the sound environment (β = 0.327),
+landscape visual quality (β = 0.302) and thermal acceptability (β =
+0.129). Pleasantness rating would be slightly increased with perceived
+dominance rating of birdsong (β = 0.065). Conversely, more factors
+were found to be exert negative influences on pleasantness ratings.
+Pleasantness rating would be slightly decreased by a higher LAeq (β =
+−0.096), but greatly decreased with a higher perceived dominance
+rating of vehicle noise (β = −0.254), a higher perceived dominance
+rating of human sounds (β = −0.147), and to a lesser extent auditory
+capacity (β = −0.049). The perceived dominance rating of vehicle noise
+was associated with LCeq-LAeq, which is an index used for measuring of
+relative proportion of low-frequency sounds. Besides, play areas
+Fig. 2. Site maps showing the surveyed areas in COS within the nine PHEs.
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+5 
+
+dominated by children would produce sounds of higher fluctuation
+strength (β = 0.244) and LA10-LA90 (β = 0.376) values. Both of them
+were positively associated with perceived dominance rating of human
+sounds. Interestingly, play areas dominated by children were directly
+and positively correlated with pleasantness (β = 0.050). In consequence,
+play areas dominated by children were found to produce a net positive
+effect on soundscape quality (β = 0.014).
+With aid of Table 6 and Fig. 6, soundscape quality (β = 0.402) was
+observed to be directly related to open space quality in addition to
+landscape visual quality (β = 0.296) and thermal acceptability (β =
+0.090). In turn, thermal acceptability was determined to be directly
+influenced by thermal comfort (β = 0.759), which was influenced by
+both thermal sensation (β = −0.438) and LAeq (β = −0.059). Thermal
+sensation was not only affected by PET (β = 0.447), but also perceived
+dominance of vehicle noise (β = 0.052) and perceived dominance of
+birdsong (β = −0.085).
+Landscape visual quality was positively influenced by visibility of
+greenery (β = 0.225) and sky (β = 0.116), while it was negatively
+affected by visibility of road (β = −0.101). The visibility of buildings had
+no significant effect and was removed from the path model. In addition,
+visibility of greenery would enhance perceived dominance of birdsong
+(β = 0.054), indirectly mitigating thermal sensation (β = −0.005) and
+enhancing Pleasantness (β = 0.004). Similarly, visibility of road would
+increase perceived dominance of vehicle noise (β = 0.417), indirectly
+increasing thermal sensation (β = 0.027) and decreasing Pleasantness (β
+= −0.082). Above all, our findings basically affirmed our hypotheses
+that sound, visual and thermal environment evaluation as well as their
+inter-relationship were also determinants for open space quality.
+4. Discussions
+With aid of the collected 1749 responses from COS visitors and
+physical field measurement data, a path model has been successfully
+formulated to provide a holistic view on how sound environment, visual
+landscape and thermal environment-based factors, and their associated
+human perceptual factors link to the assessments of soundscape quality
+of a COS in PHEs in Hong Kong. To our knowledge, this is one of few
+large-scale studies that has formulated a path model based on more than
+1700 human perceptual responses and physical microenvironmental
+data collected within a single study. With such a large number of
+collected data, the model findings have successfully not only revealed
+that soundscape quality had positive effects on open space quality, but
+also revealed the intricate cross-modal interrelationships among the
+related perceptual and objectively measured aural, visual and thermal
+based factors in COS. In addition, they also provide a string of valuable
+insights for residential housing estate designers and planners in formu-
+lating strategies that can effectively improve soundscape quality in COS
+in compact city environments to enhance well-being of their residents.
+They are discussed in detail as follows.
+First, the findings confirmed our hypothesis that the physical sound,
+visual and thermal environments and their respective perceptions by
+COS visitors significantly affect the soundscape quality in COS. Pleas-
+antness plays a crucial role in auditory perception, significantly
+enhancing soundscape quality with the highest relative influence
+(relative influence =0.327) [28,43]. This is because pleasantness mir-
+rors an individual’s emotional response to sound, which depends not
+only on the sound’s physical properties, but also on how individuals
+subjectively interpret it within a specific environment context. Conse-
+quently, pleasantness emerges as the primary factor driving soundscape
+quality, surpassing the physical characteristics of sound and under-
+scoring its essential role in soundscape evaluation.
+In addition to auditory factors, the visual quality of landscape
+Table 2
+A summary of key questions and their corresponding rating scales.
+Attribute
+Descriptions
+Rating Scale
+Sound sources
+identification
+Describe the perceived
+dominance of specific sound
+sources (vehicle sounds,
+train sounds, human
+sounds, birdsong, rustling
+leaves) using an 11-point
+verbal scale.
+11-point verbal scales: 0-‘Not
+dominant at all, 5-‘Netural’,
+and 10-‘Compeletely
+dominant’
+Visibility of
+landscape
+features
+Describe the visibility of
+landscape features (road,
+building, greenery, sky)
+using an 11-point verbal
+scale.
+11-point verbal scales: 0-‘Not
+dominant at all, 5-‘Netural’,
+and 10-‘Compeletely
+dominant’
+Perceived
+Affective
+Quality (PAQ)
+Rate the perceived affective
+quality (PAQ) using eight
+11-point scales of
+soundscape descriptors
+(Pleasant, Chaotic, Vibrant,
+Uneventful, Calm,
+Annoying, Eventful,
+Monotonous).
+11-point verbal scales: 0 as
+‘Strongly Disagree’, 5 as
+‘Neutral’, and 10 as ‘Strongly
+Agree’
+Overall Quality
+Ratings
+Rate the quality of COS,
+soundscape, and landscape
+using an 11-point verbal
+scale.
+11-point verbal scales: 0-‘Very
+Bad’, 5-‘Netural’, and 10-‘Very
+Good’
+Thermal
+Assessments
+Evaluate thermal sensation
+using a 7-point ASHRAE
+PMV scale and rate thermal
+comfort and acceptability
+using 11-point scales.
+7-point ASHRAE PMV scale for
+sensation (i.e. –3-‘Cold’, –2-
+‘Cool’, –1-‘Slightly Cool’, 0-
+‘Neutral’, 1-‘Slightly Warm’,
+2-‘Warm’, 3-‘Hot’); 11-point
+scales for comfort (0-
+‘Extremely Uncomfortable’, 5-
+‘Comfortable’, and 10-
+‘Extremely Comfortable’) and
+acceptability (0-‘Extremely
+Unacceptable’, 5-‘Acceptable’,
+10-‘Extremely Acceptable’)
+Personal
+Characteristics
+Provide information on age,
+gender, occupation, and
+self-assessed auditory
+capacity.
+N/A
+Fig. 3. Photos showing questionnaire surveys processes.
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+6 
+
+significantly influences soundscape assessments. Its relative importance
+is nearly equal to that of pleasantness (relative influence = 0.302). This
+is unsurprising, given that key soundscape concepts are often inter-
+twined with the landscape, and 80 % of human sensory experiences are
+visual [19]. Visual cues not only enhance the perception of positive
+sounds but also reduce sensitivity to unpleasant one, thereby improving
+overall soundscape quality. Furthermore, the interaction between
+auditory and visual stimuli shapes an individual’s overall assessment of
+the aural environment, explaining its high relative influence in the
+model [19].
+Furthermore, our path model findings suggested that the relative
+influences of thermal perception on soundscape quality was comparable
+in order with that of pleasantness or visual landscape quality despite its
+relative influences being smaller than the latter two (Thermal accept-
+ability vs Pleasantness vs Visual landscape quality: 0.129 vs 0.327 and
+0.302). They are in line with the relative weighting of influence of
+thermal-auditory-visual sensation on overall comfort reported for an
+open space in the tropical region in Bandung (Thermal Sensation vs
+Auditory sensation vs Visual sensation: 0.13 vs −0.31 vs 0.30) despite an
+indirect thermal sensation’s influence via aural and visual sensation
+being reported [36]. Evidently, our finding on direct thermal influence
+was affirmed by many multisensory research findings that there exist
+significant cross-modal interactions between different types of sensory
+as they are all interconnected in human brain [59]. In addition,
+cross-modal aural-thermal interactions have been observed in some
+previous binary sensory studies conducted in open space. For instance,
+thermal perception was shown to interact directly with auditory per-
+ceptions, and high heat stress in summer would directly lead to low
+acoustic comfort regardless of the variations in the LAeq in urban
+squares located in severe cold Harbin [16]. In view of importance of
+Fig. 4. Mobile microclimate station in different survey sites.
+Table 3
+A summary of personal characteristics of the respondents.
+Description
+A
+B
+C
+D
+E
+F
+G
+H
+I
+Total
+GENDER
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Male
+126 (53.4
+%)
+77 (41.2 %)
+77 (52.6
+%)
+60 (41.7
+%)
+91 (49.5
+%)
+95 (46.1 %)
+88 (49.4
+%)
+87 (47.8
+%)
+99 (34.7 %)
+800 (45.7
+%)
+Female
+110 (46.6
+%)
+110 (58.8
+%)
+70 (47.4
+%)
+84 (58.3
+%)
+93 (50.5
+%)
+111 (53.9
+%)
+90 (50.6
+%)
+95 (52.2
+%)
+186 (65.3
+%)
+949 (54.3
+%)
+AGE
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Under 20
+44 (18.6 %)
+43 (23.0 %)
+29 (19.7
+%)
+30 (20.8
+%)
+20 (10.9
+%)
+21 (10.2 %)
+53 (29.8
+%)
+31 (17.0
+%)
+18 (6.3 %)
+289 (16.5
+%)
+20–29
+28 (11.9 %)
+21 (11.2 %)
+17 (11.6
+%)
+33 (22.9
+%)
+26 (14.1
+%)
+25 (12.1 %)
+19 (10.7
+%)
+23 (12.6
+%)
+23 (8.1 %)
+215 (12.3
+%)
+30–39
+19 (8.0 %)
+17 (9.1 %)
+17 (11.6
+%)
+26 (18.1
+%)
+29 (15.8
+%)
+29 (14.1 %)
+24 (13.5
+%)
+27 (14.8
+%)
+58 (20.4 %)
+246 (14.1
+%)
+40–49
+29 (12.3 %)
+10 (5.3 %)
+12 (8.2 %)
+17 (11.8
+%)
+12 (6.5 %)
+28 (13.6 %)
+21 (11.8
+%)
+20 (11.0
+%)
+25 (8.8 %)
+174 (10.0
+%)
+50–59
+14 (5.9 %)
+26 (13.9 %)
+19 (12.9
+%)
+10 (6.9 %)
+27 (14.7
+%)
+27 (13.1 %)
+19 (10.7
+%)
+18 (9.9 %)
+25 (8.8 %)
+185 (10.6
+%)
+≥60
+102 (43.2
+%)
+70 (37.4 %)
+53 (36.1
+%)
+28 (19.5
+%)
+70 (38.0
+%)
+76 (36.9 %)
+42 (23.6
+%)
+63 (34.6
+%)
+136 (47.7
+%)
+640 (36.6
+%)
+OCCUPATION
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Student
+55 (23.3 %)
+47 (25.1 %)
+33 (22.5
+%)
+45 (31.2
+%)
+26 (14.1
+%)
+30 (14.6 %)
+54 (30.3
+%)
+38 (20.9
+%)
+21 (7.4 %)
+349 (20.0
+%)
+Employed
+91 (38.6 %)
+53 (28.3 %)
+42 (28.6
+%)
+51 (35.4
+%)
+46 (25.0
+%)
+68 (33.0 %)
+58 (32.6
+%)
+50 (27.5
+%)
+69 (24.2 %)
+528 (30.2
+%)
+Retired
+69 (29.3 %)
+60 (32.1 %)
+51 (34.7
+%)
+23 (16.0
+%)
+61 (33.2
+%)
+74 (35.9 %)
+38 (21.3
+%)
+51 (28.0
+%)
+134 (47.0
+%)
+561 (32.1
+%)
+Home care
+20 (8.5 %)
+25 (13.4 %)
+18 (12.2
+%)
+24 (16.7
+%)
+43 (23.3
+%)
+34 (16.5 %)
+26 (14.6
+%)
+41 (22.5
+%)
+58 (20.4 %)
+289 (16.5
+%)
+Others
+1 (0.4 %)
+2 (1.1 %)
+3 (2.0 %)
+1 (0.7 %)
+8 (4.3 %)
+0 (0 %)
+2 (1.1 %)
+2 (1.1 %)
+3 (1.1 %)
+22 (1.3 %)
+MEANy
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Self-assessed auditory
+capacity
+2.81
+2.28
+3.31
+3.37
+2.37
+2.32
+2.34
+2.31
+2.33
+2.40
+No. of Respondents
+236
+187
+147
+144
+184
+206
+178
+182
+285
+1749
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+7 
+
+Table 4
+A summary of major site and acoustical characteristics of the survey areas.
+PHEs
+A
+B
+C
+D
+A1
+A2
+A3
+B1
+B2
+B3
+C1
+C2
+C3
+D1
+D2
+D3
+Areas (m2)
+560
+570
+600
+2010
+2240
+1540
+3360
+880
+2180
+3360
+1490
+3200
+Type of
+functional area
+Sitting-out
+area
+Play area
+Sitting-out
+area
+Sitting-out
+area
+Sitting-out area
+Play area
+Sitting-out
+area
+Sitting-out
+area
+Play area
+Play area
+Sitting-out area
+Play area
+Site
+characteristics
+Ground,
+adjacent to
+major trunk
+road
+Podium, facing
+highway and
+MTR line
+Ground,
+inner trunk
+road
+Ground,
+adjacent to
+major trunk
+road
+Mezzanine,
+adjacent to
+green slopes
+Podium, against
+slope and sunken
+from trunk road
+above
+Podium,
+facing major
+trunk road
+Podium,
+facing major
+trunk road
+Upper podium,
+against slope and
+seclude from residents
+and road traffic
+Ground, near
+shopping
+center
+Ground, adjacent to
+pedestrianized zone
+Ground, facing
+plaza and set
+back from trunk
+road
+Perceived
+dominance
+Vehicle (μ =
+6.63)
+Vehicle (μ =
+5.43)
+Vehicle (μ =
+5.58)
+Vehicle (μ =
+5.21)
+Human (μ =
+4.90)
+Human (μ = 6.13)
+Vehicle (μ =
+4.44)
+Human (μ =
+5.07)
+Human (μ = 3.88)
+Human (μ =
+4.94)
+Human (μ = 6.10)
+Human (μ =
+6.05)
+Soundscape
+quality
+μ = 5.11, SD =
+1.74
+μ = 5.65, SD =
+1.84
+μ = 5.97, SD
+= 1.40
+μ = 5.41, SD =
+2.10
+μ = 5.44, SD =
+1.87
+μ = 6.42, SD =
+1.76
+μ = 6.12, SD
+= 2.19
+μ = 5.63, SD
+= 1.65
+μ = 6.20, SD = 1.47
+μ = 5.90, SD
+= 1.80
+μ = 5.96, SD = 1.59
+μ = 5.42, SD =
+1.85
+Overall open
+space quality
+μ = 5.59, SD =
+2.01
+μ = 6.50, SD =
+1.32
+μ = 6.51, SD
+= 1.49
+μ = 5.66, SD =
+2.36
+μ = 6.15, SD =
+1.49
+μ = 6.87, SD =
+1.75
+μ = 6.98, SD
+= 1.81
+μ = 6.32, SD
+= 1.55
+μ = 6.45, SD = 1.78
+μ = 6.65, SD
+= 1.49
+μ = 6.20, SD = 1.88
+μ = 6.23, SD =
+1.96
+LAeq (dBA)
+μ = 69.65, SD
+= 1.58
+μ = 68.92, SD
+= 2.24
+μ = 66.34,
+SD = 1.62
+μ = 69.83, SD
+= 2.40
+μ = 64.70, SD =
+2.38
+μ = 65.64, SD =
+3.27
+μ = 64.77, SD
+= 2.23
+μ = 67.80, SD
+= 2.23
+μ = 63.37, SD = 3.02
+μ = 68.17, SD
+= 3.76
+μ = 65.56, SD =
+1.41
+μ = 64.47, SD =
+2.11
+PHEs
+E
+F
+G
+H
+I
+E1
+E2
+F1
+F2
+G1
+G2
+H1
+H2
+I1
+I2
+I3
+Areas (m2)
+2870
+2771
+1342
+1374
+3429
+3729
+3139
+2167
+2442
+2446
+4058
+​
+Type of functional
+area
+Sitting-out area
+Sitting-out area
+Sitting-out
+area
+Play area
+Sitting-out
+area
+Sitting-out area
+Play area
+Play area
+Sitting-out
+area
+Play area
+Play area
+​
+Site characteristics
+Ground,
+surrounded by
+planters,
+enclosed by
+buildings.
+Ground, surrounded
+by planters, enclosed
+by buildings.
+Covered by plants
+and canopies
+Ground,
+enclosed by
+PHE
+buildings
+Ground,
+enclosed by PHE
+buildings,
+facing major
+trunk road
+Upper Deck,
+enclosed by
+PHE
+buildings
+Upper Deck,
+enclosed by PHE
+buildings, open
+view in one
+direction
+Ground,
+adjacent to the
+major mall
+and the bus
+terminal
+Ground,
+adjacent to a
+school, major
+trunk road and
+a LRT platform
+Ground,
+enclosed by
+PHE
+buildings
+Ground,
+adjacent to a
+multi-story car
+park, enclosed
+by PHE
+buildings
+Ground,
+adjacent to
+a trunk
+road
+​
+Perceived
+dominance
+Birdsong (μ =
+4.17)
+Birdsong (μ = 4.09)
+Birdsong (μ
+= 4.14)
+Human (μ =
+3.95)
+Birdsong (μ
+= 4.61)
+Human (μ =
+4.42)
+Human (μ =
+5.44)
+Birdsong (μ =
+5.08)
+Human (μ =
+4.58)
+Human (μ =
+5.14)
+Human (μ
+= 3.74)
+​
+Soundscape quality
+μ = 6.41, SD =
+1.85
+μ = 5.89, SD = 1.76
+μ = 6.14, SD
+= 1.82
+μ = 6.26, SD =
+2.12
+μ = 6.32, SD
+= 1.86
+μ = 6.13, SD =
+1.85
+μ = 6.37, SD =
+1.54
+μ = 6.10, SD =
+1.79
+μ = 6.18, SD
+= 1.76
+μ = 6.16, SD =
+1.65
+μ = 6.65,
+SD = 1.62
+​
+Overall open space
+quality
+μ = 6.47, SD =
+1.82
+μ = 5.79, SD = 1.68
+μ = 6.42, SD
+= 1.92
+μ = 6.23, SD =
+1.89
+μ = 6.47, SD
+= 1.96
+μ = 6.60, SD =
+1.80
+μ = 6.47, SD =
+1.53
+μ = 6.26, SD =
+1.75
+μ = 6.53, SD
+= 1.88
+μ = 6.51, SD =
+1.83
+μ = 6.82,
+SD = 1.76
+​
+LAeq (dBA)
+μ = 61.47, SD =
+2.88
+μ = 65.38, SD = 2.52
+μ = 64.70,
+SD = 2.48
+μ = 63.21, SD =
+3.36
+μ = 63.21,
+SD = 2.13
+μ = 63.01, SD =
+4.12
+μ = 65.16, SD
+= 3.22
+μ = 62.46, SD =
+2.75
+μ = 66.03,
+SD = 3.25
+μ = 67.37, SD =
+3.43
+μ = 63.85,
+SD = 2.43
+​
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+8 
+
+perceptual and physical thermal environmental factors, lack of consid-
+erations of them in many earlier studies made the soundscape assess-
+ment biased and less comprehensive, resulting in sub-optimal strategies
+in enhancing soundscape quality in COS.
+Second, our findings confirmed our hypothesis that pleasantness
+exerted direct positive influence for soundscape quality. Although such
+relationships have been reiteratively confirmed for many different types
+of open spaces such as parks and squares, and also for different cities in
+different countries [28,43], our findings strengthened the existing
+knowledge by identifying the specific major factors affecting pleasant-
+ness as well as revealing their relative influences.
+The perception of dominant sound types was found to be a key factor
+influencing pleasantness in COS. This can be understood through the
+emotional responses to sounds, as pleasantness represents an emotional
+magnitude of sound perception [60,61], and emotion is directly asso-
+ciated with sound type [60]. Specifically, pleasantness in COSs can be
+enhanced by a higher perceived dominance rating of birdsong (β =
+0.065), and reduced by a higher perceived dominance rating of road
+traffic noise (β = −0.254), and human sounds (β = −0.147). This affirms
+the Axelsson et al.’s findings [18] that natural sounds have the most
+positive effects while road traffic sounds have the most negative
+impacts.
+Given the significant impacts of perceived dominance of birdsong,
+human sounds and road traffic sounds on soundscape quality, it is
+crucial to implement measures that reduce the perceived dominance of
+human and road traffic sounds, or enhance the perceived dominance of
+birdsong. Notably, efforts should be focus on reducing perceived
+Fig. 5. Play areas (left) and sitting-out areas (right) of PHEs.
+Table 5
+Criteria for acceptance and estimated values of goodness-of-fit index indices of
+the model.
+Goodness-of-fit index
+Acceptance value
+Model value
+Goodness-of-fit index (GFI)
+>0.9
+0.919
+Root means square error approx. (RMSEA)
+≤0.08
+0.071
+Fig. 6. The formulated path model displaying the estimated coefficient values for individual factors.
+M. LIN et al.
+Building and Environment 267 (2025) 112261 
+9 
+
+dominance of road traffic sounds as they have the largest impact on
+soundscape quality among all studied factors (total β = −0.085).
+To mitigate unwanted sounds, several strategies can be employed.
+For instance, installing noise barriers [62] with sound-absorptive ma-
+terials [63] near busy traffic roads and implementing traffic flow man-
+agement [31] can lower the intensity of road traffic noise, thereby
+reducing its perceived dominance. Additionally, introducing pleasant
+sounds like water sounds and birdsong can help mask road traffic noise
+[64,65]. However, the effectiveness of water sounds and birdsong in
+masking traffic noise varies based on factors such as the type of masking
+sound [27], specific type of traffic noise [14], location [66], and the
+presence of other sound sources [67]. High-frequency birdsong is more
+effective than low-frequency one [26], but its sound pressure level must
+be controlled to avoid becoming disruptive [68]. Water sounds are most
+effective when their sound pressure level is similar but not less than 3 dB
+below than traffic noise [14,69].
+Beyond auditory measures, visual elements like water features, birds,
+and appealing landscapes can attract visual attention and divert
+perception away from the dominance of road traffic noise [70]. The
+perceived dominance of human sounds can be reduced by maintaining
+crowd density within 0.10–0.52 person/m2 [71], and designating quiet
+zones [24], Conversely, the dominance of birdsong can be enhanced by
+introducing greenery to create visual buffers [19] and habitats for birds
+[72], as well as deploying active birdsong generating systems [13].
+Contrary to our hypothesis, eventfulness, often considered as a major
+perceptual dimension of perceived sound quality, was found not a
+determinant for soundscape assessments in the surveyed COSs. The
+relationship between eventfulness and soundscape quality is highly
+context-dependent, yielding mixed results across different studies. For
+instance, a study found a positive effect of eventfulness in recreational
+and commercial areas [42], while others reported a negative effect in
+residential areas [38], or even non-significant effects in both residential
+and CBD areas [42]. In addition, the correlation between eventfulness
+and overall soundscape quality varied across France, Korea, and Sweden
+[43]. Further analysis of our collected data and path model findings
+revealed that the screaming and shouting from children’s play activities
+in play areas significantly elevated the eventfulness ratings, creating a
+lively and dynamic soundscape that positively enhanced soundscape
+quality ratings in these areas [18]. However, in sitting-out areas, human
+conversation tended to increase eventfulness, but might negatively
+impact soundscape quality. This further confirms that the types of events
+occurring in a space significantly impact this association [42,71]. Given
+that eventfulness ratings used for our model construction were based on
+those from both play areas and sitting-out areas, it is not surprising that
+overall eventfulness was not associated with soundscape quality.
+In comparison, less attention can be given to physical sound prop-
+erties and psychoacoustics factors as their relative influences on pleas-
+antness were found to be only about one-third of those of aural
+perceptual factors (total influence = 0.163 vs 0.466). This strengthens
+earlier notion that physical sound property and psychoacoustics factors
+play a comparatively lesser role on soundscape perception than
+perceptual factors [12]. Despite so, a few physical and psychoacoustic
+factors were still found in this study to exert some influences on pleas-
+antness and in turn soundscape quality. Elevated overall LAeq levels
+would pro
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

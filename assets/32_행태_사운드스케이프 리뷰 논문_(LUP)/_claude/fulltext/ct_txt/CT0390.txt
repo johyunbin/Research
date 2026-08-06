@@ -1,0 +1,1054 @@
+May, 2025 
+Journal of Resources and Ecology 
+Vol.16 No.3 
+ 
+ 
+ 
+ 
+Received: 2024-10-10 Accepted: 2025-01-16 
+Foundation: The National Natural Science Foundation of China (42171223) 
+First author: WANG Pengwei, E-mail: benpengwei@163.com 
+*Corresponding author: HAN Lirong, E-mail: hanlirong1982@163.com 
+Citation: WANG Pengwei, HAN Lirong, AI Fengwei. 2025. The Impact of Parental and Park Factors on Children’s Urban Park Use in Shanghai, China.
+Journal of Resources and Ecology, 16(3): 833–842. 
+ 
+J. Resour. Ecol. 2025 16(3): 833-842 
+DOI: 10.5814/j.issn.1674-764x.2025.03.019 
+www.jorae.cn 
+The Impact of Parental and Park Factors on Children’s Urban 
+Park Use in Shanghai, China 
+WANG Pengwei1, HAN Lirong2,*, AI Fengwei2 
+1. School of Tourism, Shanghai Normal University, Shanghai 200234, China; 
+2. School of Tourism and Geography, Hulunbuir University, Hulunbuir, Inner Mongolia 021008, China 
+Abstract: Substantial evidence suggests that the utilization of green spaces may have a significant impact on the 
+physical, psychological, and social health and well-being of children. Therefore, the decline in green space usage 
+among contemporary children indicates a need to explore the factors that affect the frequency of park usage. In this 
+study, a multi-level regression model was developed and used to identify the factors influencing children’s use of 
+green parks. Six urban parks in the central city of Shanghai, China, were taken as cases, and the influencing factors 
+of 317 children aged 6–9 years were examined using the two levels of parents and parks. Parental factors included 
+the parents’ perception of benefits obtained from park activities, their own childhood outdoor experience, their 
+working hours, and their worries about the potential for accidents. The natural environment scoring tool was 
+adopted for evaluating park features. According to the results, for children aged 6–9 years, parental factors play a 
+decisive role in promoting or preventing their connection with urban parks. The urban park factors, especially their 
+usability, are also important factors promoting children’s park use. Therefore, to improve the interaction between 
+children and urban parks, various methods and approaches can be adopted such as education of the parents, 
+green space management, urban planning, and social marketing. 
+Key words: childhood outdoor experience; parents’ perception; park features; park usability; working hours 
+1 Introduction 
+Evidence is mounting that contact with greenspace has var-
+ious benefits for children. These benefits include physical 
+health, mental health and cognitive aptitude (Lederbogen 
+et al., 2011); however, with the acceleration of urbanization 
+and the development of the Internet over the past few dec-
+ades, children have been increasingly alienated from green-
+space. The results of this current phenomenon not only ne-
+gatively affect children’s health (for example by contribut-
+ing to obesity and chronic diseases) (Watchman and Spenc-
+er-Cavaliere, 2017), psychological stress and sensitivity to 
+social stress, but it can also result in the development of 
+negative emotions (such as disgust and fear) (Sugiyama et al., 
+2021). 
+Previous research has indicated several key factors that 
+may significantly influence children’s engagement with 
+green parks. These include the accessibility, safety, and 
+landscape quality of the parks, as well as their popularity in 
+electronic media (such as TV, computer games, and smart 
+phones) and the loss of interest in outdoor activities (Soga 
+et al., 2018; Truong et al., 2023). 
+Previous studies mainly explored the factors influencing 
+children playing alone in green parks (Skar et al., 2016; 
+Ahmetoglu, 2019; Soga et al., 2020; Chen et al., 2023; 
+Truong et al., 2023), but in fact, for most children, especial-
+ly the young, parents do not allow their children to play 
+alone in green parks due to safety concerns. A UK survey in 
+2009 found that 80% of parents reported that they would 
+
+834 
+Journal of Resources and Ecology Vol.16 No.3, 2025 
+ 
+ 
+supervise or accompany their children when they were 
+playing in green parks (Skår and Krogh, 2009). Kids who 
+usually go to green parks with their parents for entertain-
+ment have more chances to experience green parks. In con-
+trast, when parents do not take their children to play outside 
+or prevent outside play altogether, the opportunities for the 
+children to interact with green parks may be reduced. Under 
+the background of urbanization and the culture in China, 
+few parents allow their young children (6–9 years old) to 
+play alone in green parks. Instead, parents supervise or ac-
+company their kids when they recreate in green parks. There-
+fore, exploring the factors that affect children’s free play, as 
+has been done in previous studies, is not very meaningful. On 
+the other hand, exploring the factors that will influence par-
+ents in taking their kids to recreate in green parks is necessary, 
+and will be more practical and instructive for discussions on 
+how to promote children’s contact with green parks. 
+Parental factors are important factors affecting children’s 
+interaction with greenspaces, such as the parents’ perceived 
+benefits from greenspace activities, their own childhood 
+outdoor experience (COE), their free time, and their worries 
+about the potential for accidents. These factors may also 
+affect whether parents take their children to interact with 
+greenspaces. The current work in this area mainly focuses 
+on addressing two questions: What is the role of parental 
+factors in parents taking their children to play in greenspac-
+es? What parental factors will affect children’s interaction 
+with green spaces? 
+The frequency with which people interact with green-
+spaces is positively related to the accessibility and quality of 
+the green spaces (Skar et al., 2016; Soga and Gaston, 2016). 
+In addition to parental factors, determining which green 
+features will promote or restrict children’s use of green 
+parks also needs to be explored. 
+Previous studies have identified certain park attributes 
+that affect park utilization, including preservation (Gozaloa 
+et al., 2019), safety (Mak and Jim, 2018), size (Wang et al., 
+2015), facilities (Gong et al., 2015), noise (Wang et al., 
+2021) and aesthetics (Gu et al., 2020). This line of research 
+mainly examines the factors influencing adults’ use of green 
+parks. As a special group, children’s demands for green 
+parks differ greatly from those of adults. Taking six urban 
+parks in the central city of Shanghai, China, as cases, this 
+study explores the factors that promote children’s use of 
+green parks from the perspectives of both parental factors 
+and park factors. The relative contributions of these two 
+groups of factors on determining children’s use of green 
+parks are evaluated. 
+A multi-level regression model was developed to test the 
+factors that affect children’s use of green parks, and these 
+parameters were subjected to park- and parental-level as-
+sessments. Parental factors include the parents’ perceived 
+benefits of greenspace activities, their COE, their working 
+hours, and their worries about the potential for accidents. 
+For evaluating park features, NEST (natural environment 
+scoring tool) (Gidlow et al., 2018) was adopted since it has 
+a wide evaluation scope, including 47 items that can be di-
+vided into eight fields of Access, Amenities, Leisure facili-
+ties, Significant natural traits, Aesthetics—natural traits, 
+Aesthetics—non-natural traits, Incivilities, and Usability. As 
+a novel measure, NEST is based on a comprehensive over-
+view of previous tools, so that it can measure the overall 
+quality score in each field. 
+The following three questions were addressed. First, how 
+are parents affecting their children’s use of green parks? 
+Second, which park factors promote children’s use of green 
+parks? Third, what kinds of parks attract children’s use? 
+This study expands the existing literature in three aspects. 
+First, previous studies mainly focused on the factors in-
+fluencing children playing alone in greenspaces. This study 
+mainly examines the factors that influence parents taking 
+their children to experience greenspaces, which can increase 
+our understanding of the factors that promote or hinder 
+children’s interaction with greenspaces. Second, this study 
+explores the factors that promote children’s use of green 
+parks from the two aspects of parental factors and park fac-
+tors, and these two aspects are evaluated regarding their 
+relative contributions to green park utilization by kids. Third, 
+the results of this study can help the urban planners of in-
+ternational cities with high population density and strong 
+urbanization to create guidelines for better promoting child-
+ren’s use of green parks. 
+2 Methodology 
+2.1 Research site 
+Located at the Yangtze River estuary in eastern China and 
+facing the Pacific Ocean, Shanghai is the largest Chinese 
+economic center and also a leading global financial center. 
+By the end of 2023, the administrative area of Shanghai was 
+6340.5 km2, with 2.49×107 permanent residents and a per 
+capita disposable income of 84834 yuan per year. Shanghai 
+has 16 districts, including seven central districts. The popu-
+lation density in the central city is high and the land supply 
+is tight. The mean area of park available to urban residents 
+is smaller than in the suburbs (Figure 1). 
+According to the Shanghai Municipal Bureau of Green-
+ing and City Appearance (https://lhsr.sh.gov.cn/), Shanghai’s 
+seven central districts house 152 parks. Six green parks in 
+urban residential areas of the central city were chosen as the 
+case sites, covering areas of 2–3 ha (Yichuan Park and Jin-
+gan Park), 4–9 ha (Kangjian Park and Fuxing Park), and 
+about 20 ha (Zhongshan Park and Luxun Park). The selected 
+parks have various features, including children’s play areas, 
+walkways, benches, and open green spaces for sports activi-
+ties or relaxation. Certain parks have fewer functions and 
+more limited green space, while others have more aesthetic 
+landscapes and broad green spaces. The selected parks are 
+ 
+ 
+ 
+
+WANG Pengwei, et al.: The Impact of Parental and Park Factors on Children’s Urban Park Use in Shanghai, China 
+835 
+ 
+ 
+ 
+Figure 1 Positions, characteristics and 500-m NDVI statistics of the six selected parks in Shanghai, China 
+ 
+situated in populous areas, have been open for at least a 
+decade, and are available to the public for free every day. 
+These six parks are surrounded mainly by residential build-
+ings, but also some commercial buildings. Figure 1 illu-
+strates the positions, distribution and characteristics of these 
+six parks. 
+2.2 Data collection 
+Children aged 6–9 were taken as research object for two 
+reasons. First, this age group is a critical period for the for-
+mation of children’s perception and behaviors, and it is also 
+a period where changes can be made relatively easily 
+(McFarland et al., 2014); and second, the children’s own 
+factors have relatively little influence on their use of green 
+parks (Truong et al., 2023). 
+The data were collected by questionnaire, and the res-
+pondents were parents who take their children to play in the 
+parks. In general, parents are the adults with the greatest 
+influence on their children, which is why only the parents of 
+children in the target age group were taken as respondents. 
+In the questionnaire, parents were asked about their per-
+ceived benefits from children’s park activities, their worries 
+about the potential for accidents, their working hours, their 
+COE, and the frequency with which they take their children 
+to the park, as well as their educational background, gender, 
+and income. 
+Previous studies have determined that the accessibility of 
+green spaces is an important factor affecting green space 
+utilization. To control for the influence of green space ac-
+cessibility on park space utilization, only children whose 
+residence was within a 500-m park periphery were included 
+in this study (Wang et al., 2021). 
+Based on the above criteria, three screening questions 
+were used in this study. The first question was “How old are 
+your children”, and only data on children aged 6–9 were 
+used for analysis. The second question was “Are you the 
+child’s parent(s)?”, and only data from the child’s parents 
+were used for analysis. The third question was “How many 
+meters is your home from the park”, and only data from 
+children whose home was less than 500 m from the park were 
+used for analysis. Only those responses that met all three 
+screening conditions were used for subsequent analysis. 
+This study was conducted from March to June in 2023, 
+and it was conducted at different times on both weekends 
+and weekdays, using convenient sampling methods. The 
+respondents were informed of the research objectives, and 
+those agreeing to participate in the survey were provided 
+with a questionnaire. The respondents were guided to finish 
+the questionnaire, and 1000 questionnaires were distributed. 
+From 160 to 170 questionnaires were distributed in each 
+park. A total of 352 questionnaires met the three screening 
+conditions, and 317 valid questionnaires were used for the 
+subsequent analysis. Thirty-five questionnaires were ex-
+cluded due to missing answers. Respondents did not receive 
+any form of compensation for their responses. 
+2.3 Variable measurements 
+Parents were asked to report the frequency of their child-
+ren’s visits to that green park in the last month to measure 
+the frequency of their children’s use of green parks. This 
+specific question was used because asking for recent pre-
+vious events can reduce memory errors and the burden on 
+respondents (Neuvonen et al., 2007), compared with asking 
+
+836 
+Journal of Resources and Ecology Vol.16 No.3, 2025 
+ 
+ 
+for the average frequency of children’s visits to green spaces 
+in a specific period (such as one year). 
+In this study, the parents’ perceived benefits from their 
+children’s green park activities were also measured. Res-
+pondents were asked to rate the statements of four benefits 
+from green park activities on a five-point scale (from 
+1=totally disagree to 5=totally agree). The questionnaire 
+was adapted from previous research (Truong et al., 2022), 
+and the average value of benefits was used. Internal con-
+sistency was considered acceptable with Cronbach’s 
+α=0.873. 
+The extent to which parents worry about the potential for 
+accidents was assessed by asking respondents to rate the 
+probabilities of three possible accident scenarios (i.e., at-
+tacks by strangers, accidents, and animal attacks) in green 
+parks on a five-point scale (from 1 to 5). Internal consisten-
+cy was considered acceptable with Cronbach’s α=0.855. The 
+average values of benefits and accident worries were used to 
+analyze the influencing factors. 
+To measure the parents’ COE, respondents were asked to 
+recall how often they participated in outdoor activities and 
+visited green spaces in their own childhood (under the age 
+of 12 years). Outdoor activities included three main types: 1) 
+catching fish, frogs, or insects; 2) playing with grass, flow-
+ers, and fruits; and 3) climbing trees or playing 
+tag/hide-and-seek with a tree. These outdoor activities were 
+very common throughout the childhood period of the par-
+ents of this generation. Respondents graded their answers 
+according to a five-point scale (1=none at all, 2=less than 
+once a year, 3=around once a year, 4=around once a month, 
+and 5=at least once a week). The mean value of the three 
+items was calculated as a measure of the COE of each res-
+pondent since the Cronbach’s α of these items was 0.898. 
+The parents’ free time was evaluated through their average 
+working hours (excluding housework and childcare) 
+(Truong et al., 2023). 
+NEST was used to objectively evaluate the data from the 
+six parks (Gidlow et al., 2018). This tool lists 47 items, 
+which are divided into eight fields: Access, Recreational 
+facilities, Amenities, Significant natural features, Aesthet-
+ics-natural features, Aesthetics-non-natural features, Incivil-
+ities, and Usability. Table 1 shows the items in each field. 
+Most items were evaluated according to their existence and 
+quality at the same time. Therefore, the higher the score, the 
+more likely the item exists and the better its quality; and if 
+the item does not exist in the park, a value of zero was as-
+signed. Three observers evaluated each park independently. 
+The consistency between observers was calculated, and the 
+item scores were entered into Microsoft Excel by the ob-
+servers before they were compared. The scores of items in 
+various fields were added together, resulting in a compre-
+hensive score for each field. The significant natural features 
+were combined with the Aesthetics-natural features field 
+when calculating the score since the significant natural fea-
+tures of urban parks are not apparent. 
+ 
+Table 1 NEST items in the tool 
+Domain 
+Features recorded for presence 
+Access 
+Entrance points, walking/ cycling path 
+Recreational facilities 
+Playground equipment, grass pitches, courts (e.g. tennis, basketball), skateboard ramps, other sports or fitness facilities, 
+presence of open space 
+Amenities 
+Seating/benches, litter bins, dog mess bins, public toilets, café/kiosk, man-made shelter, picnic tables, drinking fountains
+Significant natural features 
+Area of water, good vision, area of trees 
+Aesthetics-natural features 
+Main surface quality, flower beds/planters/wildflowers, other planted trees/shrubs/plants 
+Aesthetics-non-natural features Water fountain, other public art, historic or attractive buildings or other man-made structures 
+Incivilities 
+General litter, evidence of alcohol use, evidence of drug taking, graffiti, broken glass, vandalism, dog mess, excessive/ 
+unpleasant noise, unpleasant smells 
+Usability 
+Sports, informal games, walking/running, children’s play, conservation/biodiversity, enjoying the landscape/visual quali-
+ties, meeting or socializing with friends/neighbors, relaxing/unwinding, cycling, water sports, fishing 
+ 
+2.4 Other measures 
+Only respondents whose residence was within 500 m from 
+the park were chosen as research objects, and the norma-
+lized difference vegetation index (NDVI) to around 500 m 
+may affect the use of the park green space by visitors (Wang 
+et al., 2022). Therefore, the NDVI of the 500 m buffer zone 
+of parks was taken as a control variable. NDVI is a fre-
+quently applied indicator of plant coverage in a specific area 
+(Markevych et al., 2014). It is calculated based on the dif-
+ferent surface reflectivity of the red (R) and infrared (IR) 
+bands in multi-spectral raster data sets (Qin et al., 2021) and 
+can be calculated as: 
+ 
+NDVI = (IR–R) / (IR+R) 
+(1) 
+The NDVI value ranges from –1 to 1. Negative values 
+represent clouds, water, and snow, whereas values close to 
+zero mostly represent rocks and bare soil. Positive values 
+indicate green vegetation, and the higher the value, the higher 
+the density of green vegetation. In the present study, NDVI 
+data were acquired from Sentinel-2 satellite images with a 
+spatial resolution of 10 m taken in July 2024 (Figure 1). 
+
+WANG Pengwei, et al.: The Impact of Parental and Park Factors on Children’s Urban Park Use in Shanghai, China 
+837 
+ 
+ 
+2.5 Data analyses 
+First, the scores of each field were obtained by adding up 
+the scores of the items in a field, which were scored inde-
+pendently by three observers. By selecting the middle of the 
+three scores offered, any disagreements among the observ-
+ers were resolved (Wang et al., 2022). Then, their intra-class 
+correlation (ICC) was measured to test the reliability of the 
+NEST. The ICC of the three observers was 0.975, indicating 
+that the measurement consistency of the three observers was 
+very high; therefore, the reliability of the NEST was also 
+high. 
+Then, using 317 samples from six different urban parks, 
+the multilevel regression model was used for investigating 
+the factors that affect children's use of urban parks. Multi-
+level modeling was developed in response to the challenge 
+of appropriately analyzing clustered data. This technique 
+preserves the original data structure while explicitly model-
+ing the within-group homogeneity of errors by allowing the 
+estimation of error terms for both the individual and the 
+group (Krull and MacKinnon, 2001). Multilevel modeling is 
+widely used in urban management, health, education, green 
+leisure and other fields (Roberts et al., 2019; Qin et al., 2021; 
+Wang et al., 2022; Jun et al., 2024; Konings et al., 2024). 
+The multilevel regression model illustrates the shared va-
+riance of clustered data sets and can be used for resolving 
+the clustering and non-independence problems of respon-
+dents from the same park (Roberts et al., 2019). This ap-
+proach allowed us to examine the influences of parental 
+level and park level factors on park use. Furthermore, 
+two-level regression with random coefficients was used in the 
+present study. This approach allowed us to examine the in-
+fluences of parental level and park level factors on park use. 
+The Level-1 Model of the parental level was: 
+ 
+0
+1
+1
+2
+2
+...
+ij
+j
+j
+ij
+j
+ij
+pj
+pij
+Y
+X
+X
+X
+
+
+
+
+
+
+
+
+
+ 
+(2) 
+where Yij is the park use frequency of respondent i in park j, 
+and β0j indicates the intercept. X1ij, X2ij, …, Xpij indicate the 
+parental-level factors of respondent i in park j, and β1j, 
+β2j, …, βpj represent the corresponding coefficients. 
+In the Level-2 Model, park-level variables W1j, W2j, … , 
+WQj were adopted for testing the influence of park features 
+on children's use of urban parks. As the main focus of this 
+study was the correlation between park features and the 
+frequency of park use by children, only the Level-1 inter-
+cept (β0j) was allowed to change between parks including 
+the random intercept model. Therefore, the Level-2 Model 
+used the following format: 
+ 
+0
+00
+01
+1
+02
+2
+0
+0
+j
+j
+j
+Q
+Qj
+j
+W
+W
+W
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+(3) 
+where γ00 represents the average intercept representing the 
+total average value of the dependent variable Yij. The coeffi-
+cients γ01, γ02, …, γ0Q represent the main influences of 
+park-level variables, and W1j, W2j,…, WQj represent the use 
+frequencies of the urban parks. Regarding the random effect, 
+u0j refers to the inter-park variability of the average intercept 
+and it is assumed to obey a normal distribution. In addition, 
+the “xtmixed” command in STATA16 was employed to per-
+form multilevel regression. 
+3 Results 
+3.1 Parental factors 
+Most of the respondents (60.3%) were mothers, and more 
+than half of them had a monthly income of either 6001– 
+8000 or 8001–10000 yuan. More than half of them had a 
+bachelor’s degree or above. Nearly 80% of the parents 
+worked mainly for 8–10 hours. See Table 2. 
+A considerable proportion (65%) of the parents agreed 
+with the statement of the importance of four benefits to 
+some degree, and the average score of each item was high. 
+The average score of health and welfare was the highest 
+(3.88), followed by learning about nature, meaningful fami-
+ly activities, and establishing friendships. In contrast, the 
+parents’ evaluation scores of accidents were low, and the 
+average score of each item ranged from 3.20 to 2.81. The 
+biggest concern was accidents (3.20 on average), followed 
+by attacks by strangers (3.10 on average), and the least con-
+cern was animal attacks (2.81 on average). 
+ 
+Table 2 Socio-economic characteristics of the parents (n = 
+317) 
+Variable 
+Percentage (%) 
+Gender 
+ 
+Mother 
+60.3 
+Father 
+39.7 
+Monthly income (yuan) 
+ 
+<3000 
+3.2 
+3000–6000 
+11.4 
+6001–8000 
+30.3 
+8001–10000 
+32.8 
+10001–15000 
+16.4 
+>15000 
+6.0 
+Education level 
+ 
+High school and below 
+14.2 
+College 
+30.6 
+Undergraduate 
+47.6 
+Post graduate and above 
+7.6 
+Working hours 
+ 
+Less than or equal to 8 hours 
+9.1 
+8–9 hours 
+43.2 
+9–10 hours 
+37.5 
+More than 10 hours 
+10.1 
+ 
+In the COE of parents, only minor differences were found 
+between various items, ranging from playing with grass, 
+flowers, and fruits (average score of 3.48) to catching fish, 
+frogs, or insects (average score of 3.45) to climbing trees or 
+playing tag/hide-and-seek with a tree (average score of 
+3.41), See Table 3. 
+
+838 
+Journal of Resources and Ecology Vol.16 No.3, 2025 
+ 
+ 
+Table 3 Parental factors 
+Variable 
+Mean 
+Benefits 
+ 
+Health and welfare 
+3.88 
+Learn nature 
+3.81 
+Family activity 
+3.74 
+Make friends 
+3.70 
+Accident concerns 
+ 
+Accidents 
+3.20 
+Attacks by strangers 
+3.10 
+Animal attacks 
+2.81 
+Parents’ COE 
+ 
+Playing with grass, flowers, and fruits 
+3.48 
+Catching fish, frogs or insects 
+3.45 
+Climbing trees or playing hide-and-seek using a tree 
+3.41 
+ 
+The respondents used Fuxing Park and Luxun Park with 
+average frequencies of more than 10 times per month, fol-
+lowed by Kangjian Park and Zhongshan Park (7–9 times a 
+month), and Yichuan Park and Jingan Park (about 6 times a 
+month). 
+3.2 Park features and spatial autocorrelation for the 
+average use frequency of the six parks 
+According to the spatial autocorrelation analysis findings, 
+no spatial autocorrelation existed in the average use fre-
+quency of six parks (P≥0.05; Moran’s I<0), and it showed 
+a discrete trend (Figure 2). 
+ 
+ 
+Figure 2 The spatial autocorrelation analysis for the average 
+use frequency of the six parks 
+3.3 Results of multilevel models 
+The park variables were objectively evaluated as variables. 
+Because the variables from objective evaluation are highly 
+correlated (which will eventually introduce multicollinearity 
+problems in the model) (Subiza-Pérez et al., 2020), correla-
+tion analysis was conducted (Table 4) to select the park lev-
+el variables for the multilevel models. Four features were 
+significantly related to park use (i.e., Access, Recreational 
+facilities, Incivilities, and Usability), which shows that park 
+use is closely related to certain park features. To avoid mul-
+ticollinearity, the variable with the highest correlation (Usa-
+bility) was used as a park variable in the multilevel models 
+(Table 5). 
+ 
+Table 4 The correlation between park use and NEST 
+Domain 
+Coef. 
+Access 
+0.196** 
+Recreational facilities 
+0.294** 
+Amenities 
+ –0.017 
+Aesthetics-Natural features 
+ 0.041 
+Aesthetics-Non-natural features 
+ 0.093 
+Incivilities 
+0.195** 
+Usability 
+0.358** 
+Note: ** indicates significance at the 1% level. 
+ 
+First, a zero model without independent variables was 
+built (Table 5). The proposed model divided the total va-
+riance of the dependent variable (park use frequency) into 
+the parental level and the park level. Based on the obtained 
+results, parental level variance was 25.510, park level va-
+riance was 4.166, and ICC was 0.140, indicating that the 
+14% difference in children’s use of parks can be illustrated 
+by the differences between parks (Table 5). Furthermore, the 
+existence of a clustering effect demonstrated that the use of 
+multilevel regression modeling was appropriate. 
+Then, the parental variables were introduced into Model 
+2. The results showed a significant negative correlation be-
+tween the parents’ working hours and children's frequency 
+of park use. The parents’ perceived benefits of park activi-
+ties and their COE are positively correlated with children’s 
+frequency of park use. 
+In Model 3, the park-level variable of usability was add-
+ed. The results showed that higher park usability can in-
+crease the frequency of children’s use of parks. 
+4 Discussion 
+Taking six urban parks in Shanghai as cases, this study es-
+tablished a multi-level regression model to analyze the fac-
+tors that affect children’s use of parks from the two aspects 
+of the parental level and the park level. The model analysis 
+shows that parental factors are the most important factors 
+that affect children’s use of parks, followed by park factors. 
+4.1 Parental factors 
+The socio-economic characteristics of parents (including 
+ 
+ 
+ 
+
+WANG Pengwei, et al.: The Impact of Parental and Park Factors on Children’s Urban Park Use in Shanghai, China 
+839 
+ 
+ 
+Table 5 The associations of parental and park variables with park use 
+Variable 
+Visit frequency 
+Model 1 Coef. (SE) 
+Model 2 Coef. (SE) 
+Model 3 Coef. (SE) 
+Constant 
+ 8.509 (0.881)** 
+ 3.395 (2.995) 
+ –4.427 (3.498) 
+Parental-level variables 
+ 
+ 
+ 
+Gender 
+ 
+–0.329(0.531) 
+–0.317 (0.530) 
+Education 
+ 
+0.135 (0.348) 
+0.120 (0.343) 
+Income 
+ 
+–0.233(0.248) 
+– 0.263 (0.247) 
+Working hours 
+ 
+–1.500(0.341)** 
+–1.477 (0.339)** 
+Accident concerns 
+ 
+–0.301(0.328) 
+–0.415 (0.321) 
+Benefits 
+ 
+2.239(0.409)** 
+2.347 (0.407)** 
+Parents’ COE 
+ 
+0.676(0.318)* 
+0.604 (0.313)* 
+Park-level variable 
+ 
+ 
+ 
+Usability 
+ 
+ 
+0.299 (0.061)** 
+NDVI of the 500 m buffer 
+ 
+ 
+22.807 (12.019) 
+Random effects 
+Variance 
+Variance 
+Variance 
+Intercept 
+4.166 
+3.213 
+9.55×10–13 
+Residual 
+25.510 
+20.549 
+20.547 
+ICC 
+14.0% 
+13.5% 
+0.0% 
+Log likelihood 
+– 969.979 
+–935.585 
+–928.905 
+Observations 
+317 
+317 
+317 
+Number of groups 
+6 
+6 
+6 
+Note: ** indicates significance at the 1% level; * indicates significance at the 5% level. 
+ 
+gender, income, and education level) have no significant 
+influence on children’s use of parks in Shanghai, which dif-
+fers from the research results obtained in Turkey, the USA, 
+and other countries. For example, a US study showed that 
+parents’ educational background has a positive effect on 
+children’s biophilia and the importance they assign to out-
+door activities (Hammond et al., 2011; Ahmetoglu, 2019). 
+Parents with higher education levels are more likely to cul-
+tivate their children’s love for outdoor activities and help 
+their children to interact with greenspaces. A Turkish study 
+reported a positive correlation between family income and 
+parents’ attention to their children’s greenspace experiences. 
+Compared with middle-income and high-income parents, 
+low-income parents reported a lower level of importance of 
+interaction with greenspaces. The differences between the 
+results of this study and those of the USA and Turkey may 
+be due to the different social and cultural backgrounds. 
+More research is needed to further substantiate the results of 
+this study. 
+The most critical driving factor for children’s use of ur-
+ban parks is the parents’ perceived benefits of their child-
+ren’s activities in greenspaces, which is consistent with pre-
+vious research results (Ahmetoglu, 2019). When parents 
+realize the benefits that interaction with greenspaces has for 
+their children, they tend to provide opportunities for them to 
+play in the greenspaces. This indicates that the more posi-
+tive parents are towards greenspaces, the more their children 
+like to play in green spaces (Hammond et al., 2011). 
+In the present study, a considerable number of the sur-
+veyed parents agreed that interaction with greenspaces is 
+good for their children, and the most apparent benefits are 
+correlated with health and welfare, followed by learning 
+about nature, family values, and friendship (Wang et al., 
+2018; Truong et al., 2022), which is similar to the findings 
+of previous studies conducted in China and Japan. However, 
+this result differed from a study of US parents, which re-
+ported that it is most important for children to “spend good 
+time with their families” in outdoor entertainment activities 
+(Larson et al., 2013). Even though the parents from these 
+different societies and cultures hold various views on the 
+importance of the benefits greenspaces bring to their child-
+ren, they agree that contact with the greenspaces is condu-
+cive to the healthy growth and development of their children 
+(Larson et al., 2013; Gundersen et al., 2016; Wang et al., 
+2018). Thus, parents in developed countries may attach 
+great importance to their children’s contact with greenspac-
+es. To fully comprehend the parents’ understanding of the 
+benefits that interaction with greenspaces has for their 
+children, it will be necessary to conduct more research in 
+developing countries. 
+The present study shows that when they were children, 
+most parents enjoyed outdoor activities once per year or 
+once per month. The most common outdoor activities were 
+playing with grass, flowers, and fruits, followed by catching 
+fish, frogs, or insects, and finally climbing trees or playing 
+tag/hide-and-seek with a tree. Thirty to forty years ago, the 
+degree of urbanization in China was low, electronic products 
+were not widely available, and children had more opportun-
+
+840 
+Journal of Resources and Ecology Vol.16 No.3, 2025 
+ 
+ 
+ities and time to engage in outdoor activities. Therefore, the 
+current generation of parents experienced more opportuni-
+ties, orientations, and higher frequencies of engagement in 
+outdoor activities. The frequent outdoor activities during the 
+parents’s own childhood also increased the frequency of 
+parents taking their children to play in parks. Therefore, 
+strengthening outdoor activities and increasing the frequen-
+cy of park usage from an early age may be an effective way 
+to promote the use of green parks in their children. However, 
+a Japanese study found that the outdoor experiences of par-
+ents in their childhood did not increase the frequency of 
+allowing their children to play freely in greenspaces (Truong 
+et al., 2022). The reason is that in modern society, few par-
+ents allow their children to play in green spaces without 
+adult supervision, which is the opposite of the freedom they 
+had in their own childhood. Traffic safety problems and fear 
+of strangers are the main reasons why parents cannot give 
+their children as much freedom as they had in their own 
+childhood. 
+This study also found that accidents and fear of being 
+hurt by strangers are the most concerning accidental factors 
+for parents (Skar et al., 2016). However, the parents’ con-
+cern for accidents was not a strong predictor of children’s 
+use of green spaces in this study, which differed from pre-
+vious studies which showed that parents’ concerns about 
+accidents prevented their children from playing alone in 
+greenspaces (Karsten, 2005). The reason for this difference 
+is that previous studies focused on the influencing factors of 
+children playing alone in green spaces, while the present 
+study examined the influencing factors of parents taking 
+their children to play in green parks. This shows that paren-
+tal supervision and companionship can alleviate the worries 
+that parents may have about accidents, and their compa-
+nionship means that accidents are no longer a factor that 
+limits their children’s interaction with greenspaces. 
+This study shows that parental working hours are a main 
+limiting factor for children’s use of parks. More than 90% of 
+parents work for more than eight hours. In an international 
+metropolis like Shanghai, people experience relatively 
+strong work and life pressures, and the parents of these 
+children form the backbone of the workplace. The work 
+stress and long working hours of parents limit their child-
+ren’s use of parks. 
+4.2 Park factors 
+This study shows that the usability of urban green space is 
+an important factor affecting children’s use of parks. Among 
+the six parks that were sampled in this study, Luxun Park 
+(22.37 ha) and Fuxing Park (8.89 ha) had the highest usabil-
+ity scores (21 points), while Zhongshan Park (20 ha) and 
+Kangjian Park (9.57 ha) were in the middle (12 points), and 
+Yichuan Park (1.88 ha) and Jingan Park (3.36 ha) had the 
+lowest usability scores (10 points). These results show that 
+the usability of green parks has a certain relationship with 
+the park area. The larger the park area, the higher its usabil-
+ity. Because large parks offer more space for activities, 
+children can play more types of games, including ball games 
+(Flowers et al., 2020). 
+Usability includes sports, informal games, walking/run-
+ning, children’s play, conservation, enjoying the landscape, 
+meeting/socializing, relaxing, cycling, water sports, and 
+fishing. Usability mainly measures the extent to which the 
+park is suitable for these activities. No differences were 
+found in the usability for cycling, water sports, or fishing 
+among parks, and the scores of all these items were 0. 
+Cycling and fishing are not allowed in most urban parks in 
+Shanghai, and water sports are rare. The usability for en-
+joying the landscape, relaxing and meeting/socializing all 
+scored 2 points, indicating that these parks in Shanghai can 
+basically satisfy the fundamental requirements of residents 
+for these activities. 
+The six parks showed great differences in usability for 
+sports, informal games, walking/running, children’s play, 
+and conservation (see Figure 3), which were clearly higher 
+in Luxun Park and Fuxing Park than in the other parks. The 
+usability for sport, informal games, walking/running, and 
+children’s play depends on the park space, entertainment 
+facilities, and paths. For example, Luxun Park has spacious 
+activity space, green space, and entertainment facilities, 
+which are suitable for playing informal games and sports 
+such as running, jumping, and football. Therefore, children 
+coming to such a park will be happy and have something to 
+do (Veitch et al., 2006). In other words, whether the park 
+can meet the needs of children’s play, games, and other 
+sports activities is an important factor that affects their use 
+of green parks. Luxun Park and Fuxing Park are also higher 
+in conservation than the other parks, which shows that good 
+maintenance and management are important factors that can 
+lead to usability differences between parks (Dawson et al., 
+2023). 
+ 
+ 
+Figure 3 Scores of 5 items in park usability 
+ 
+Fuxing Park covers an area of 8.89 ha, which is smaller 
+than the area covered by Zhongshan Park (20 ha). However, 
+
+WANG Pengwei, et al.: The Impact of Parental and Park Factors on Children’s Urban Park Use in Shanghai, China 
+841 
+ 
+ 
+Fuxing Park’s usability scores in sport, informal games, 
+walking/running, children’s play, and conservation were 
+higher than those of Zhongshan Park. This implies that good 
+park planning, design, management, and maintenance can 
+compensate for the problems caused by an insufficient area 
+to a certain extent. 
+The 500 m NDVI around the park was introduced into 
+Model 3 as a control variable. The results show that the 500 
+m NDVI around the examined parks did not affect the use of 
+these parks. This means that a higher NDVI around a park 
+will not reduce children’s use of it, which further reflects the 
+demand of children for the usability of park activity space, 
+entertainment facilities, maintenance, and management. 
+5 Conclusions 
+This study summarizes the factors that encourage and dis-
+courage parents from bringing their children into contact 
+with greenspaces in the Chinese context. Identifying these 
+factors is the first step for the design and implementation of 
+effective strategies to gradually motivate children to interact 
+with greenspaces. There are many differences between the 
+factors influencing parents to bring their children into con-
+tact with green spaces and those of children playing alone in 
+greenspaces. This study shows that for children aged 6–9, 
+parental factors play a decisive role in either promoting or 
+preventing their contact with greenspaces, such as the par-
+ents’ perceived benefits for greenspace activities, their COE, 
+and their working hours. The factors of urban parks, espe-
+cially their usability, are also important factors that promote 
+the use of parks by children. 
+The results obtained show vital policy implications, as 
+there is no simple and direct way to stimulate children’s 
+urban greenspace experiences. Therefore, to minimize the 
+loss of interaction between humans and urban greenspaces, 
+various remedies must be adopted, which may include pa-
+rental education, greenspace management, urban planning, 
+and social marketing. 
+This study can be expanded in several ways. First, be-
+cause children are influenced by both parents, it would be 
+beneficial to know the views of both parents in the family 
+rather than collecting the reactions of only one parent. 
+Second, in addition to parental and park factors, the child-
+ren’s own factors, teachers’ perception of greenspaces, the 
+children’s family structure, and their living environment 
+may also affect their use of green parks. Finally, the factors 
+influencing park use may vary according to social and cul-
+tural backgrounds (for example, the national security level), 
+and therefore, the findings of the current work cannot be 
+easily extended to the global population. Moreover, the re-
+search approach used in this study should be extended to 
+other cultures to uncover global patterns and determine 
+more suitable solutions. Solving these problems will greatly 
+help us to achieve a better understanding of the correlations 
+between children and urban greenspaces, thereby increasing 
+the frequency of green park use by children. 
+References 
+Ahmetoglu E. 2019. The contributions of familial and environmental fac-
+tors to children’s connection with nature and outdoor activities. Early 
+Child Development and Care, 189(2): 233–243. 
+Chen H, Wang J, Sun W, et al. 2023. Do caregivers’ perceived constraints 
+influence children’s outdoor play in urban public spaces in China? 
+—An empirical study based on the leisure constraint theory. Current 
+Psychology, 43: 15227–15242. 
+Dawson L, Elbakidze M, van Ermel K L E, et al. 2023. Why don’t we go 
+outside?— Perceived constraints for users of urban greenspace in Swe-
+den. Urban Forestry & Urban Green, 82: 127865. DOI: 10.1016/j.ufug. 
+2023.127865. 
+Flowers E P, Timperio A, Hesketh K D, et al. 2020. Comparing the features 
+of parks that children usually visit with those that are closest to home: A 
+brief report. Urban Forestry & Urban Green, 48: 126560. DOI: 
+10.1016/j.ufug.2019.126560. 
+Gidlow C, van Kempen E, Smith G, et al. 2018. Development of the Natu-
+ral Environment Scoring Tool (NEST). Urban Forestry & Urban Green, 
+29: 322–333. 
+Gong L, Mao B, Qi Y, et al. 2015. A satisfaction analysis of the infrastruc-
+ture of country parks in Beijing. Urban Forestry & Urban Green, 14: 
+480–489. 
+Gozaloa G O, Morillas J B, González D M. 2019. Perceptions and use of 
+urban green spaces on the basis of size. Urban Forestry & Urban Green, 
+46: 1–10. 
+Gu X, Li Q, Chand S. 2020. Factors influencing residents’ access to and 
+use of country parks in Shanghai, China. Cities, 97: 102–501. 
+Gundersen V, Skår M, O’Brien L, et al. 2016. Children and nearby nature: 
+A nationwide parental survey from Norway. Urban Forestry & Urban 
+Green, 17: 116–125. 
+Hammond D E, Mcfarland A L, Zajicek J M, et al. 2011. Growing minds: 
+The relationship between parental attitudes toward their child’s outdoor 
+recreation and their child’s health. Hort Technology, 21(2): 217–224. 
+Jun H J, Kim D, Kim J H, et al. 2024. Detection of infill development and 
+contributing factors using deep learning and multilevel modeling. Cities, 
+150: 105019. DOI: 10.1016/j.cities.2024.105019. 
+Karsten L. 2005. It all used to be better? —Different generations on conti-
+nuity and change in urban children’s daily use of space. Children’s 
+Geographies, 3(3): 275–290. 
+Konings R, De Leersnyde J, Agirdag O. 2024. Development and validation 
+of domain specific school diversity model scales among pupils and 
+teachers: A multilevel approach. Journal of School Psychology, 107: 
+101378. DOI: 10.1016/j.jsp.2024.101378. 
+Krull J L, MacKinnon D P. 2001. Multilevel modeling of individual and 
+group level mediated effects. Multivariate Behavioral Research, 36(2): 
+249–277. 
+Larson L R, Whiting J W, Green G T. 2013. Young people’s outdoor 
+recreation and state park use: Perceived benefits from the par-
+ent/guardian perspective. Children, Youth and Environments, 23(3): 
+89–118. 
+Lederbogen F, Kirsch P, Haddad L, et al. 2011. City living and urban up-
+bringing affect neural social stress processing in humans. Nature, 
+474(7352): 498–501. 
+Mak B K L, Jim C Y. 2018. Examining fear-evoking factors in urban parks 
+in Hong Kong. Landscape and Urban Plan, 171: 42–56. 
+Markevych I, Fuertes E, Tiesler C M, et al. 2014. Surrounding greenness 
+and birth weight: Results from the GINIplus and LISAplus birth cohorts 
+in Munich. Health & Place, 26: 39–46. 
+
+842 
+Journal of Resources and Ecology Vol.16 No.3, 2025 
+ 
+ 
+McFarland A L, Zajicek J M, Waliczek T M. 2014. The relationship be-
+tween parental attitudes toward nature and the amount of time children 
+spend in outdoor recreation. Journal of Leisure Research, 46(5): 
+525–539. 
+Neuvonen M, Sievänen T, Tönnes S, et al. 2007. Access to green areas and 
+the frequency of visits—A case study in Helsinki. Urban Forestry & 
+Urban Green, 6(4): 235–247. 
+Qin B, Zhu W, Wang J, et al. 2021. Understanding the relationship between 
+neighbourhood green space and mental wellbeing: A case study of Bei-
+jing, China. Cities, 109: 103–039. 
+Roberts H, Kellar I, Conner M, et al. 2019. Associations between park 
+features, park satisfaction and park use in a multi-ethnic deprived urban 
+area. Urban Forestry & Urban Greening, 46: 126485. DOI: 10.1016/j.u 
+fug.2019.126485. 
+Skår M, Krogh E. 2009. Changes in children’s nature-based experiences 
+near home: From spontaneous play to adult-controlled, planned and or-
+ganised activities. Children’s Geographies, 7: 339–354. 
+Skar M, Gundersen V, O’Brien L. 2016. How to engage children with nature: 
+Why not just let them play? Children’s Geographies, 14(5): 527–540. 
+Skar M, Wold L C, Gundersen V, et al. 2016. Why do children not play in 
+nearby nature? Results from a Norwegian survey. Journal of Adventure 
+Education and Outdoor Learning, 16(3): 239–255. 
+Soga M, Evans M J, Yamanoi T, et al. 2020. How can we mitigate against 
+increasing biophobia among children during the extinction of expe-
+rience? Biological Conservation, 242: 1
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

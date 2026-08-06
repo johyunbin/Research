@@ -1,0 +1,927 @@
+Acta Acustica 2026, 10, 55
+C
+⃝The Author(s), Published by EDP Sciences, 2026
+https://doi.org/10.1051/aacus/2026051
+Available online at:
+https://acta-acustica.edpsciences.org
+SCIENTIFIC ARTICLE
+Introducing short informational-attentional masking sounds to
+improve staying in pocket urban parks: a laboratory study
+Massimiliano Masullo1,2,∗
+and Juan Miguel Navarro2
+1Department of Architecture and Industrial Design, Universit´a degli Studi della Campania “Luigi Vanvitelli”, Aversa, Italy
+2Research Group in Advanced Telecommunications (GRITA), Universidad Cat´olica de Murcia (UCAM), Guadalupe, Spain
+Received 2 April 2026, Accepted 26 May 2026
+Abstract – Pocket urban parks are gaining more attention from scientists and professionals due to their
+high accessibility and restorative potential for the local communities. However, a critical aspect of these
+spaces is that this restorative potential is often threatened by the road traﬃc noise of the surrounding
+vehicles and motorcycles pass-by. The introduction of natural sounds or music in such kinds of urban spaces,
+by taking advantage of the mechanisms of the informational-attentional masking rather than on energetic
+masking, has been largely investigated as a strategy of improving the visitors’ experience of staying there,
+demonstrating its eﬀectiveness in diﬀerent conditions and contexts. However, no studies considered the
+use of short-time sound cues, limiting the activation when strictly necessary. In this study, the possibility
+of introducing short informational-attentional masking sounds to improve the experience of staying in a
+pocket urban park exposed to road traﬃc noise pass-by is investigated. This has been evaluated through
+a laboratory listening test considering four typologies of natural sounds, speciﬁcally two water and two
+chirping sounds, at four diﬀerent signal-to-noise ratios, that were automatically activated based on preset
+thresholds. Main results indicate that, independently of signal-to-noise ratio, almost all the masking sounds
+that were tested signiﬁcantly improved the existing experience of the participants, increasing their rating
+in the ISO-Pleasant dimension and in the positive emotional salience, therefore reducing the short-term
+noise annoyance.
+Keywords. Informational masking, Audio augmented, Road traﬃc noise, Urban pockets, Noise mitigation
+List of Abbreviations
+BC Bird chirping
+CC Cricket chirping
+ES Emotional Salience
+IAMS Informational-Attentional Masking Sounds
+SNR Signal-to-Noise Ratio
+W0 Water stream 0
+W1 Water stream 1
+1 Introduction
+In recent decades, restorative urban spaces have
+gained great attention among the communities of schol-
+ars, psychologists, landscape architects, city planners,
+engineers and policy makers [1, 2] due to their potential
+in promoting people’s wellbeing [3] through the physi-
+cal [4] and psychological [5] restoration, as well as the
+∗Corresponding author:
+massimiliano.masullo@unicampania.it
+social interaction [6]. The highest potential for improv-
+ing citizens’ quality of life is represented by urban green
+spaces [7], where the presence of green, e.g., grass, plants
+or trees, and blue, e.g., fountains, ponds, and water, ele-
+ments [8] fosters, across the age factor [9], the likelihood
+of feeling away from the stressful urban context and, at
+the same time, fascinated by the richness and harmony
+of the park elements [10] in completely agreement with
+the principles of the Stress Recovery Theory of Ulrich [11]
+and of the Attention Restoration Theory of Kaplan [12].
+Depending on their extension and characteristics, urban
+green spaces can contribute to providing further beneﬁ-
+cial eﬀects, both for individuals and the environment. It
+can help to mitigate local microclimate [13] and air pol-
+lution [14], improving also the soundscape quality [15].
+Large green areas are, however, not easily accessible by
+the public as, in most cases, their distance is well beyond
+the buﬀer distance of 300 m recommended by the World
+Health Organisation [16], or within a 500 m radius of
+home indicated by de Roo in [17]. For instance, in their
+study on the cities of Rouen, Brussels and Luxembourg,
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+2
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+Schindler et al. [18] revealed that residents travel almost
+2 km to reach their urban green spaces of at least 0.5 ha.
+Latter observations have stimulated researchers to
+investigate alternative and smaller spaces inside the
+urban fabric able to provide high accessibility and
+restorative potential for the local communities. Masullo
+et al. [19] have highlighted correlations between the
+soundscape, appreciation, maintenance/management and
+importance/relevance of 10 cloisters and courts, or khans,
+of the historical centres of Naples (Italy) and Istanbul
+(Turkey) and the visitors restorativeness. Narandˇzi´c and
+Ljubojevi´c [20] proposed small-scale interventions to revi-
+talise six types of urban pockets: courtyard-, road nearby-
+, framed/island-, passage-, under-bridge- and within city
+blocks-pockets. Zhai et al. [21] studied the restorative
+eﬀects of diﬀerent site types, i.e., lawn, water, and plaza,
+and spatial scales of small urban open spaces, suggesting
+that more restoration beneﬁts can be realised through
+more small urban open spaces built with lawn and water.
+Peschardt et al. [22] investigated the primary role of small
+public urban green spaces in dense city areas for social-
+ising, and rest and restitution. Focusing on pocket urban
+parks, they have intrinsic characteristics that may con-
+tribute to lowering restoration ratings, such as: a general
+lack of vegetation and the disturbance from the surround-
+ings, due to the road traﬃc, a poor shielding from the sur-
+roundings and the use of hard surfaces [23]. Consequently,
+pocket urban parks can be directly exposed to moderate-
+to-high road traﬃc noise levels (60–80 dBA) [24], reduc-
+ing signiﬁcantly their frequency of use and appreciation.
+As emerged through the original (long-term) version of
+the Harmonica Index [25] and its applications [26–28],
+the equilibrium between the background noise and noise
+events is strictly related to the personal noise annoyance
+experienced in these spaces. Furthermore, by developing
+a modiﬁed version of the index for short-term intervals,
+Masullo et al. [29] highlighted that, while the background
+of road traﬃc noise level is always positively correlated
+with noise annoyance (high sound pressure levels corre-
+spond to high noise annoyance), the events highly depend
+on their quality (positive events reduce noise annoyance,
+and viceversa). The role of sound in small urban restora-
+tive spaces has been previously investigated by several
+researchers, with and without considering the moderator
+eﬀect due to visual stimuli [30–43]. Nordh et al. [30] inves-
+tigated on how diﬀerent combinations of natural sounds
+and anthropogenic noise in urban green spaces may inﬂu-
+ence the restorative potential of small urban parks. They
+showed that park soundscapes with a rich array of per-
+ceived bird sounds and minimal perceived traﬃc noise
+oﬀer the greatest perceived restoration. The research on
+the beneﬁcial eﬀects of the introduction of continuous
+virtual or real natural sounds, such as water and bird
+sounds, has been largely expanded during the last two
+decades [31]. Research has demonstrated that the pres-
+ence of water sound can signiﬁcantly improve the con-
+scious people’s restoration [32, 33], noise annoyance [34],
+as well as enhance their mental state [35]. By two lis-
+tening experiments, repeated in a laboratory [36] and in
+situ [37], where participants’ electroencephalography sig-
+nals were measured during a controlled noise exposure, Li
+et al. have demonstrated that the introduction of dynamic
+augmented sounds, short-duration sequences of a water
+stream sound in that case, aﬀected participants’ mental
+state, improving their relaxation. However, these bene-
+ﬁcial eﬀects also depend on the balance between char-
+acteristics of water sounds and road traﬃc noise [38].
+While high ﬂow-rate fountains, which generate steady-
+state sounds, result inherently as unpleasant [39, 40] and
+should not be used for these scopes, on the contrary,
+gentle water streams [41] result in very eﬃcient. Regard-
+ing the playback volume for continuous water sounds, it
+should be set to or not less than 3 dB below the road
+traﬃc sound level [42, 43].
+As emerged by the large survey, over 1000 interviews
+over four seasons, by Yang and Kang [44] in Sheﬃeld,
+bird sounds together with water sounds, are among the
+most preferred, including more than 75% of the inter-
+viewed, and least annoying sounds too, with less than
+10% of the people, in urban contexts. Moreover, bird
+sounds may encourage positive aﬀective appraisals of
+the soundscape and induce a reduced arousal in the
+individuals, by fostering their restoration from stress or
+fatigue [45–47] through the activation of the eﬀortless
+attentional and the connection with nature. However,
+not all bird sounds are perceived as pleasant. Cox and
+Gaston, in line with a previous survey in U.K. [48], recog-
+nised robins as the most favourite birds [49]. Moreover,
+Ratcliﬀe et al. [50] distinguished between bird sounds
+with high, i.e., greenﬁnch, blackbird, robin, house spar-
+row, goldﬁnch, chaﬃnch, moderate, i.e., starling, feral
+pigeon, carrion crow, goldﬁnch, collared dove, and low,
+i.e., Silver Gull, Kookaburra, Red Wattlebird, Mag-
+pie, perceived restorative potential. Bird sounds which
+were judged to be highly restorative generated aﬀective
+appraisals of positive valence and low arousal. While there
+is evidence that, in urban parks, road traﬃc noise reduces
+the potential beneﬁts of bird sounds [51, 52], viceversa,
+even more studies promoted experiences of bird sounds
+in urban parks [53], or investigated their contribution on
+road traﬃc noise mitigation [54]. Minor attention was,
+instead, paid to the eﬀects of other natural sounds, such
+as those emitted by insects. Among them, the most inter-
+esting is the potential beneﬁt of cricket chirping [55, 56],
+which was found to be pleasant for the human mind by
+Satoshi et al. [57].
+With the scope of mitigating the negative eﬀects
+of urban noise, researchers have largely investigated
+the possibility of using the above-mentioned natural
+sounds as partial or attentional markers. Wu et al. [58]
+employed sound masking by mixing sounds extracted
+from ﬁve masker sound datasets to abate construction
+noise. Schulte-Fortkamp [59] remodelled the soundscape
+of the Nauener Platz park in Berlin (Germany), designing
+“audio islands”, where integrated speakers played con-
+tinuously preset sounds, such as bird sounds and shingle
+beach shore sounds, to improve the citizens’ experience.
+Steele et al. [60] investigated the eﬀect of the use of
+
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+3
+Musikiosks. Results showed that, although people did
+not change their ratings of calmness, appropriateness,
+and restoration, they reduced their mention of traﬃc
+noise. Playback music in open public spaces was found
+to statistically aﬀect the duration of stay for people stop-
+ping in the area [61]. The selection of the most appro-
+priate masker sounds and of their gain levels is criti-
+cal, as it depends on many factors. Van Rentenghem
+et al. [62] explored these aspects in a real-world sound-
+scape augmentation setting, in a traﬃc-exposed park.
+Their results indicate that people like a balanced combi-
+nation of various types of natural sounds, and that they
+tend to maximise the signal-to-noise ratio (SNR) relative
+to the background noise, mainly in the frequency range
+between 2.5 kHz and 8 kHz. While introducing pleasant
+background sounds mitigates the negative eﬀects of road
+traﬃc noise, on the other hand, when road traﬃc is scarce
+or absent, it inevitably causes an increase in the exist-
+ing sound levels, preventing visitors from beneﬁting from
+very quiet periods. This led researchers to propose and
+investigate various types of automatically-activated audio
+augmented systems. Xu et al. [63] have demonstrated
+that loudness and spectral centroid of music are signif-
+icantly correlated with annoyance reduction percentage
+when the music is used to mask the low-frequency noise
+produced by near road traﬃc. Van Renterghem et al. [62]
+asked the users of an urban park in Ghent, largely
+exposed to road traﬃc noise, to combine eight types
+of natural sounds, including insect/bird sounds, water
+sounds and meteorologically induced sounds, played back
+by a hidden loudspeaker, until they personally felt the
+soundscape optimised. Furthermore, in a park border-
+ing a highway in the city of Antwerp (Belgium), they
+present an in-situ multi-step procedure to co-creative
+water feature sound augmentation by balancing sound
+pleasantness and traﬃc audibility well [64]. Using bird-
+song (sparrow) and a water sound (stream) in a labora-
+tory study, Hong et al. [65] found that SNR and temporal
+features were key soundscape design factors. A further
+in-situ experiment in Singapore, with the same audio
+stimuli [66], highlighted that overall preferred levels of
+birdsong were 5 dB higher than water sound. Cobianchi
+et al. in [67] stated that the unpredictable short-timescale
+variation of the urban acoustic environment (vehicles’
+passing or the odd moments of quietness due to the cessa-
+tion of roadworks) makes any given pre-determined static
+soundscape a non-optimal implementation of soundscape
+re-design.
+Only a few papers have investigated the impact of
+making the playback ambient responsive and adaptive
+to the environment through an algorithmic approach.
+Among the ﬁrst dynamic applications, Licitra et al. [68]
+proposed the use of an artiﬁcial soundscape generation
+system capable of choosing the proper multi-channel
+soundtracks from a music database of meta-compositions
+and processing them in real time to match the features
+of the noise to be masked. In Brighton and Hove, Lavia
+et al. [69] used a hybrid approach, the playback material
+was programmed in order to match the type of maskers
+and sound levels to speciﬁc pre-determined time periods,
+according to known changes in the local acoustic environ-
+ment. In [70], the playback material was curated in real-
+time through human intervention. More recently, some
+authors used automatic activations to generate positive
+sounds. Watcharasupat et al. [71] utilised a deep learning
+model to perform joint selection of the optimal masker
+and its gain level for a given soundscape. More recently,
+Lam et al. [72] tested the introduction of an automatic
+masker selection system utilising natural sounds to mask
+or augment traﬃc soundscapes, employing artiﬁcial intel-
+ligence in adapting changes over time in the ambient
+environment to maximise “ISO-Pleasantness”.
+Although most state-of-the-art studies have used
+long-duration sounds, short-duration sounds are emerg-
+ing as a less intrusive solution, as they can provide
+more speciﬁc masking interventions focused on the neg-
+ative events of the road traﬃc noise, preserving at
+the same time the existing quietness between vehicles’
+passing by. Moreover, in relation to the introduction
+of these automatic masker systems and to the percep-
+tual response of individuals, some challenges still remain
+uninvestigated. Therefore, in this paper, the perceptual
+responses of individuals virtually sitting in a pocket urban
+park and exposed to the external road traﬃc noise,
+in diﬀerent simulated scenarios: without and with the
+automatic activation of short informational-attentional
+masking sounds (IAMS) consisting of water, birds and
+cricket cues, at diﬀerent SNRs have been investigated and
+compared.
+Note that, as the paper focuses exclusively on the
+possibility of using short IAMS instead of continuous
+masking sounds by testing a new methodology for their
+activation, the contribution of the visual domain in mod-
+erating the auditory perception has been deliberately
+neglected. The aim is to answer the following two sets
+of research questions (RQ) and investigate the research
+hypotheses (H1 and H2) (Tab. 1). The corresponding null
+hypotheses (H0) were used for the statistical analyses.
+2 Materials and methods
+A within-experimental design was prepared to investi-
+gate the study hypotheses. The participants were engaged
+in a laboratory listening experiment. Each of them expe-
+rienced diﬀerent acoustic environments presented in ran-
+dom order by combining an existing condition with only
+the presence of road traﬃc noise and the activation of
+short IAMS cues reproducing, separately, diﬀerent natu-
+ral cues at diﬀerent SNR. During the listening, partic-
+ipants completed the ISO 12913-2 [73] and Emotional
+Salience [74] questionnaires, and evaluated the Noise
+Annoyance [75] of the experienced scenario. Statistical
+analyses were conducted to assess the eﬀect of using auto-
+matic audio augmentation with informational-attentional
+masking cues on the perceptual and emotional responses
+of individuals.
+
+4
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+Table 1. Research questions and research hypotheses.
+1 – In urban pockets exposed to road traﬃc noise,
+do short informational-attentional masking sound
+(IAMS) cues. . .
+RQ1.1: . . .improve the existing soundscape perception
+of the visitors?
+H1.1: The ratings of existing (CTRL) soundscape per-
+ception improve with the introduction of short IAMS
+cues.
+RQ1.2: . . .improve the existing emotional salience of
+the visitors?
+H1.2: The ratings of existing (CTRL) emotional salience
+improve with the introduction of short IAMS cues.
+RQ1.3: . . .reduce the perceived noise annoyance of the
+visitors?
+H1.3: The ratings of existing (CTRL) perceived noise
+annoyance reduce with the introduction of short IAMS
+cues.
+2 – In urban pockets exposed to road traﬃc noise,
+does the typology of short IAMS cues and signal-
+to-noise ratio (SNR). . .
+RQ2.1: . . .aﬀect diﬀerently the soundscape perception
+of the visitors?
+H2.1: The soundscape perception ratings in the aug-
+mented scenarios are diﬀerent with certain types of IAMS
+cues and/or SNR levels.
+RQ2.2: . . .aﬀect diﬀerently the emotional salience of
+the visitors?
+H2.2: The emotional salience ratings in the augmented
+scenarios are diﬀerent with certain types of IAMS cues
+and/or SNR levels.
+RQ2.3: . . .aﬀect diﬀerently the perceived noise annoy-
+ance of the visitors?
+H2.3: The noise annoyance ratings in the augmented
+scenarios are diﬀerent with certain types of IAMS cues
+and/or SNR levels.
+2.1 Experimental design
+Starting from the same road traﬃc background noise
+condition, which represented the control condition of
+the experiment (CTRL), a full factorial experimental
+design used four diﬀerent IAMS cues reproducing, sep-
+arately, two diﬀerent water streams and two diﬀerent
+chirpings, particularly birds and crickets, at four diﬀer-
+ent SNR, at −3, −6, −9 and −12 dB to the background
+noise, was considered. A total of 17 experimental con-
+ditions, 1 CTRL + (4 IAMS × 4 SNR), were prepared and
+evaluated by each participant involved in the experiment.
+2.2 Audio material: road traﬃc noise and natural
+sound cues
+Road traﬃc noise binaural recordings were carried out
+at approximately the same distance, about 10 m from
+the centre of the closest lane, and with the same head
+orientation, orthogonal to the road ﬂow, in two pocket
+urban parks facing the same local two-way street (Fig. 1)
+of the municipality of Pozzuoli (Naples, Italy).
+Figure 1. Two pocket urban parks A and B. Listener point
+of view (top) and overview (bottom).
+From
+previous
+recordings,
+ﬁve
+vehicles’
+pass-by
+excerpts of representative diﬀerent vehicle typologies, i.e.,
+motos, scooters, cars, small trucks, and passing by direc-
+tions, e.g., left to right and viceversa, were extracted
+and mixed with a recording representing a lower and
+continuous road traﬃc noise in the same context. The
+1 minute mixed-down binaural soundtrack, see diﬀer-
+ent spectrograms in Figure 2, was used as a control
+scenario and to generate the augmented acoustic envi-
+ronment, as described below. Four diﬀerent types of 2 s
+informational-attentional masking sound cues were used
+to augment the existing CTRL scenario. The sound cues
+were representative of having diﬀerent spectro-temporal
+properties. The two diﬀerent water stream soundtracks,
+denoted as W0 and W1, were recorded in a rural area
+by using a Zoom H6 Hand-Recorder device equipped
+with Rode NTG-2 microphone. The two chirping sound-
+tracks, a cricket and a bird (robin) chirping, denoted
+respectively as CC and BC, were downloaded from the
+sound database Freesound [76]. Each of sound cues were
+convolved with the frontal head-related transfer function
+(CIPIC Database, KEMAR large pinna) [77].
+From each of the four original soundtracks, ﬁve dif-
+ferent 2 s sound cues, see the spectrograms in Figure 3,
+were extracted and included in speciﬁc folders, which
+were furthermore played back. The latter decision was
+intended to avoid boring the participants by activating
+the same sound cue, providing a more natural augmented
+environment. Both the selection of the sound cues from
+the speciﬁc folder, as well as the order of the masking
+conditions, were randomly and automatically activated
+during the playback of the control scenario through MAT-
+LAB. To limit the number of automatic IAMS activa-
+tions, two activation thresholds were set: the current short
+(1 s) sound equivalent level and the slope (in dB/s) of the
+
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+5
+Figure 2. Spectrograms of the CTRL and augmented scenarios at SNR −3 dB: (a) CTRL, (b) W0, (c) W1; (d) CC and (e)
+BC.
+road traﬃc noise. After preliminary evaluations regard-
+ing the frequency of automatic activation of the IAMS,
+the threshold values to be satisﬁed were set to 45 dBA
+for the current short Leq and to 2 dB/s for the rapidity
+of the variation of the short Leq.
+2.3 Questionnaires
+The main questionnaires were preceded by preliminary
+questions about general information: age, gender, residen-
+tial area, education level and occupation category, level
+of frequentation of refuge pokets (Tab. 2). Two question-
+naires were used to investigate the perceptual and emo-
+tional outcomes of introducing augmented sounds into
+an existing soundscape of a small urban park aﬀected by
+road traﬃc noise. The ﬁrst questionnaire consists of the
+8-item questionnaire (Tab. 3) based on ISO/TS 12913-
+2:2018 [73], while the second (Tab. 4) consists of 12
+items that span the perceptual (6 items) and emotional
+(6 items) dimensions of Emotional Salience [74]. The
+translations of the question items in the Italian language
+were carried out in line with the Soundscape Attributes
+Translation Project (SATP) [78]. Two additional (verbal
+and numeric) questions concerning noise annoyance based
+on ISO/TS 15666 [74] were also included (Tab. 5).
+3 Laboratory experiment
+3.1 Laboratory setup
+The listening test was carried out in the test room
+of Sens i-Lab, see Figure 4, the key laboratory of the
+Department of Architecture and Industrial Design of the
+Universit´a degli Studi della Campania “Luigi Vanvitelli”.
+The audio stimuli were played back by an HP Envi Lap-
+top connected to a Binaural Playback Unit (Head Acous-
+tics, Herzogenrath, Germany) and HD closed headphones,
+DT700 ProX. The sound levels of the headphones were
+
+6
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+Figure 3. Spectrograms of ﬁve samples per each IAMS category: W0, W1, CC and BC.
+calibrated using an artiﬁcialhead HSU III.2 coupled with
+a 4-channel system SQobold (Head Acoustics, Herzogen-
+rath, Germany) and reproducing a sound equivalent level
+of 60 dBA (66 dB) under the control condition.
+3.2 Participants
+Thirty subjects, fourteen males and sixteen females,
+participated in the listening test. Most of them (80%)
+were students or researchers of the Department of Archi-
+tecture and Industrial Design. The age range was 18–45
+(18–25, the 57%; 26–35, the 30%; 36–45 the 13%). Most
+of them live in urbanised areas (30% in an intermedi-
+ate urbanised area, 40% in suburbs and 20% in a city
+centre), only 7% in rural areas. They seek refuge in
+spaces away from traﬃc, “rarely” for the 33%, “some-
+times” for the 40% and “often” for the 23%. The ele-
+ments they ﬁrst look at are those green (Mean = 4.7)
+and for physical relaxation (Mean = 4.4), then the water
+ones (Mean = 4.0) and for socialising (Mean = 4.0). They
+primarily search a sound environment with “no road
+traﬃc noise” (Mean = 4.2) and “no children’s screams”
+(Mean = 3.6), while they want the presence of “natural
+sounds” (Mean = 4.5) and “water sounds” (Mean = 3.9).
+Less important are the “silence” (Mean = 2.8) and the
+presence of “music” (Mean = 2.9). Finally, none of them
+reported having had hearing impairments in their life.
+3.3 Procedure
+The experiment was conducted in accordance with the
+Declaration of Helsinki. The methodology used in this
+study, shown in Figure 5, was approved by the Ethical
+Committee of the Department of Architecture and Indus-
+trial Design of the Universit´a degli Studi della Campania
+“Luigi Vanvitelli” (CERS).
+All participants signed an informed consent form
+before participating in the test and were informed of data
+privacy and their use in this research. Once in the test
+room, in the presence of an operator, participants read
+the instructions to contextualise the listening experience
+and conduct the test: “Dear participant, below you will be
+presented with several sound scenarios representing those
+of a pocket urban park located near a road with some vehi-
+cles passing by. Imagine yourself in one of these pocket
+parks in our cities and listen carefully to the sound sce-
+narios presented to you. For each sound scenario, you will
+be asked to provide us with your feedback on the questions
+asked in the questionnaires below. . .” started answering
+the preliminary questions described above, then wore a
+pair of headphones and started listening to the auditory
+scenarios. In order to have as much as possible real-time
+feedback on their experience, they were instructed to start
+answering the above-mentioned questionnaires just after
+the complete pass-by of the ﬁrst vehicle. This allowed
+participants to complete the answering bundle just a few
+seconds after the end of each listening.
+3.4 Statistical analyses
+After
+the
+ground-truth
+label
+of
+ISO
+Pleasant-
+ness/Eventfulness [73] and Positive and Negative Emo-
+tional Salience [74] were calculated for each auditory
+scenario, the following statistical analyses were carried
+out:
+– (RQ1.x) One-Way RM-ANOVAs, including the con-
+trol condition, were conducted on ISO Pleasantness
+and Eventfulness, and on the Positive and Nega-
+tive dimensions of Emotional Salience. Further non-
+parametric Friedman tests were also carried out on
+the 5- and 11-item Noise Annoyance questionnaires.
+– (RQ2.x)
+Two-Way
+follow-up
+RM-ANOVAs
+that
+neglect CTRL condition and that treated IAMS and
+SNR as four levels factors, were conducted on the
+ISO Pleasantness and Eventfulness, on the Posi-
+tive, Negative and Total (ESTOT = ESPOS −ESNEG)
+
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+7
+Table 2. Preliminary questions.
+Preliminary questions
+“When you’re in the city, how often do you ﬁnd yourself
+seeking refuge in spaces away from road traﬃc?” (in Ital-
+ian: “Quando ´e in citt´a, quante volte le capita di cercare
+di rifugiarsi in spazi lontani dal traﬃco veicolare?”
+Never (1) / Rarely (2) / Sometimes (3) / Often (4) /
+Always (5)
+“The requirements he looks for in these urban spaces
+are. . .?” In Italian: “I requisiti che cerca in questi spazi
+urbani sono. . .”
+Greenery (e.g., gardens, lawns, trees, plants); water
+elements (e.g., fountains, ponds); elements for phys-
+ical
+relaxation
+(e.g.,
+benches
+or
+other
+comfortable
+seats); children’s games (e.g., play areas for the chil-
+dren); points/areas for physical activity (e.g., gymnas-
+tics/sports areas); elements that encourage meeting and
+socializing (in Italian: la presenza di verde – (es. gia-
+rdini, prati, alberi, piante); acqua (es. fontane, specchi
+d’acqua); elementi per relax ﬁsico (es. panchine o altre
+sedute comode); giochi per bambini (es. aree gioco per i
+pi´u piccoli); punti/aree per l’attivit´a ﬁsica (es. aree per
+la ginnastica/sport); elementi che favoriscono l’incontro
+e la socialit´a)
+and
+“The sound environment you seek in these urban spaces
+should guarantee. . .?” In Italian: L’ambiente sonoro che
+cerca in questi spazi urbani dovrebbe garantire. . .
+absolute silence; absence of road traﬃc noise; absence of
+children’s screams; absence of other; presence of natural
+sounds (e.g., birds, crickets); presence of water sounds
+(e.g., fountains, ﬂowing water); presence of soft back-
+ground music; presence of other (in Italian: silenzio asso-
+luto; assenza di rumore del traﬃco stradale; assenza di
+urla di bambini; assenza di altri rumori; presenza di suoni
+naturali (ad es. uccelli, grilli); presenza di suoni d’acqua
+(ad es. fontane, acqua che scorre); presenza di musica di
+sottofondo soft; presenza di altri rumori)
+Completely disagree (1) / disagree (2) / neutral (3)
+/agree (4) / completely agree (5) (in Italian: Comple-
+tamente in disaccordo (1) / in disaccordo (2) / neutrale
+(3) / d’accordo (4) / completely d’accordo (5))
+dimensions of Emotional Salience, as well as on
+the 11-item Noise Annoyance questionnaires. Further
+One-Way ANOVAs were also performed on the 5- and
+11-item Noise Annoyance questionnaires, grouping the
+ratings per IAMS and SNR.
+The level of signiﬁcance was set at α = 0.05 for all statis-
+tical analyses, and no data transformations were applied.
+While One-Way repeated-measures ANOVAs were fol-
+lowed by Dunnett’s post-hoc tests to compare each exper-
+imental condition against the control (CTRL), a test
+speciﬁcally designed for multiple comparisons with a sin-
+gle reference group, in the Two-Way follow-up ANOVAs,
+a Bonferroni correction was applied. Bonferroni cor-
+rection was appropriate because the analyses involved
+Table 3. ISO/TS 12913-2.
+ISO/TS 12913-2
+“To what extent do you agree or disagree that the present
+surrounding sound environment is [. . .]?” (in Italian: “In
+che misura sei d’accordo o in disaccordo sul fatto che
+l’attuale ambiente sonoro circostante sia [. . .]?”):
+pleasant; annoying; eventful; uneventful; chaotic; vibrant;
+calm; monotonous (in Italian: piacevole; spiacevole;
+dinamico; stabile; caotico; stimolante; calmo; noioso)
+Completely disagree (1) / disagree (2) / neutral (3) /
+agree (4) / completely agree (5) (in Italian: Completa-
+mente in disaccordo (1) / in disaccordo (2) / neutrale (3)
+/ d’accordo (4) / completely d’accordo (5)
+Table 4. Emotional Salience questionnaire.
+Emotional Salience
+“To what extent does the sound environment you just
+heard is [. . .]?” (in Italian: “In che misura l’ambiente
+sonoro che hai appena ascoltato ´e [. . .]?”)
+pleasant;
+annoying;
+stimulating;
+boring;
+attractive;
+unattractive (in Italian: piacevole; spiacevole; stimolante;
+noioso; attrattivo; non attrattivo)
+and
+“To what extent does the sound environment you just
+heard make you feel [. . .]?” (in Italian: “In che misura
+l’ambiente sonoro hai appena ascoltato ti fa sentire
+[. . .]?”)
+calm; nervous; weak; energetic; happy; sad (in Italian:
+calmo; nervoso; debole; energico; felice; triste)
+not at all (1) →extremely (9) (in italian: per niente (1)
+→estremamente (9)
+multiple pairwise comparisons, providing a conserva-
+tive control of the family-wise error rate, reducing the
+likelihood of Type I errors across all comparisons.
+4 Results
+This section shows main results of this work. Firstly,
+the main eﬀect obtained by the introduction of short
+IAMS on both the ISO 12 913 dimensions, on the positive
+and negative dimensions of the Emotional salience, and
+on the perceived noise annoyance are presented. Then,
+results obtained on the same dependent variables, due
+to the use of diﬀerent IAMS types and SNR levels are
+described.
+4.1 Eﬀectiveness of audio augmented scenarios
+Regarding the potential improvement of the sound-
+scape (RQ1.1), the One-Way RM-ANOVA in the ISO
+pleasant dimension shows that the activation of IAMS
+provides signiﬁcant improvements, F(6.14, 171.95)
+=
+4.3177, p < 0.001. In particular, Dunnett’s post-hoc test
+
+8
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+Table 5. ISO/TS 15666 questions.
+ISO/TS 15666
+“How much would the traﬃc noise you just felt bother,
+disturb, or annoy you?” (in Italian: Quanto ti darebbe
+fastidio, disturbo o infastidirebbe il rumore del traﬃco
+che hai appena sentito?)
+Not at all / slightly / moderately / a lot / extremely
+(in Italian: per niente / leggermente / moderatamente /
+molto / estremamente.
+“What number from 0 to 10 best shows how much you are
+bothered, disturbed or annoyed by from road traﬃc noise?
+(in Italian: “Quale numero da 0 a 10 indica meglio quanto
+ti d´a fastidio, disturbo o infastidito il rumore del traﬃco
+stradale?”)
+If you are “not at all” annoyed choose 0; if you are
+“extremely” annoyed choose 10; if you are somewhere
+in between choose a number between 0 and 10′′ (in Ital-
+ian: Se non ´e stato “per niente” infastidito scelga 0; se
+`e stato “estremamente” infastidito scegla 10. In alterna-
+tiva scelga un valore numerico che rappresenti il fastidio
+provato utilizzando i valori intermedi.)
+Figure 4. Experimental session in the Sens i-Lab.
+shows that, with respect to the existing control sce-
+nario, this occurs for all IAMS types and SNR condi-
+tions (Fig. 6). No signiﬁcant results emerged for the ISO
+eventful dimension.
+Representing the two dimensions on the ISO pleas-
+ant – ISO eventful plan, it is possible to observe how
+the soundscape perception area in the control condition
+has a horizontal shift toward a more positive pleasant
+dimension in all conditions (Fig. 7).
+Concerning the potential improvement of Emotional
+Salience (RQ1.2), One-Way RM-ANOVAs on the Positive
+(ESPOS) and Negative (ESNEG) dimensions show that,
+for the Positive dimension, IAMS activation signiﬁcantly
+Figure 5. Scheme of the experiment procedure.
+Figure 6. Mean values and standard errors of ISO pleasant-
+ness and pair comparisons.
+Figure 7. ISO pleasant – ISO eventful graph. Comparison
+between the CTRL and the diﬀerent IAMS conditions.
+improves positive perception, F(6.29, 169.80) = 3.41,
+p = 0.003. In particular, Dunnett’s post-hoc test shows
+that, with respect to the existing control scenario, this
+occurs for almost all IAMS types and SNR, except for
+the conditions with the crickets chirping (Fig. 8). On the
+contrary, for Negative dimension of Emotional Salience,
+results show that the activation of IAMS signiﬁcantly
+reduces negative perception, F(7.05, 197.45)
+=
+3.64,
+p < 0.001. In particular, Dunnett’s post-hoc test shows
+that, with respect to the existing control scenario, this
+occurs for all IAMS types and SNR conditions (Fig. 9).
+Regarding the potential reduction of noise annoyance
+(RQ1.3), the non-parametric Friedman test repeated on
+the 11-(ANN-11) and 5-(ANN-5) items Noise Annoyance
+
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+9
+Figure 8. Mean values and standard errors of ESPOS and pair
+comparisons.
+Figure 9. Mean values and standard errors of ESNEG and
+pair comparisons.
+Figure 10. Mean values of ANN-11.
+questionnaire showed that ratings in the presence of
+IAMS signiﬁcantly reduce the perceived noise annoyance
+of the car pass-by, respectively, X(16) = 28.09, p = 0.031
+(Fig. 10) and X(16) = 29.27, p = 0.022.
+4.2 Eﬀect of IAMS types and/or SNR levels
+The follow-up Two-Way RM-ANOVAs on ISOpleas-
+ant and ISOeventful dimensions show no signiﬁcant main
+eﬀects of IAMS types and SNR levels, as well as no
+interactions (RQ2.1). Similarly, also for the −5 and −11
+Noise Annoyance, the RM-ANOVAs show no signiﬁcant
+main eﬀects of IAMS types, SNR levels, and interactions
+(RQ2.3).
+Regarding the Positive and Negative dimensions of
+Emotional Salience, the Two-Way RM-ANOVAs still
+show not signiﬁcant main eﬀects of IAMS types, SNR
+Figure 11. Mean values and standard errors of ESTOT.
+levels, and interactions. However, a tendential signiﬁ-
+cant main eﬀect, F(1.76, 47.56) = 3.306, p = 0.051,
+emerges only combining two ES ratings, in a single
+total index, ESTOT = ESPOS −ESNEG. Bonferroni post-
+hoc test shows that in the case of CC IAMS, ESTOT is
+reduced than W0, W1 and BC IAMS (Fig. 11).
+5 Discussion
+This study assessed and compared the perceptual and
+emotional responses of individuals who were virtually sit-
+uated in a small, restorative urban pocket while exposed
+to external road traﬃc noise, in diﬀerent conditions, with-
+out and with the introduction of short sounds activated
+by an automatic system for audio augmentation. In line
+with previous studies [29], the possibility of using positive
+sound events, informational-attentional masking sounds
+(IAMS), to detach listeners’ attention from the prominent
+negative sound events of road traﬃc, such as vehicles or
+motorcycles passing by, was explored. To this aim, diﬀer-
+ent characteristics of audio augmentation were combined:
+(1) a short sampling time (1 s) to verify the activation
+conditions of IAMS; (2) the contemporary satisfaction
+of two diﬀerent activation conditions, a minimum back-
+ground noise and a minimum positive slope of the Leq, A
+trend, and (3) the activation of IAMS with short-duration
+(2 s).
+The above-mentioned characteristics, in line with
+Cobianchi et al. [67], have the following advantages:
+– A short sampling time and a continuous control of the
+evolution of the short-term A-weighted sound equiva-
+lent levels respond to the need to provide a rapid and
+speciﬁc mitigating intervention of the noisiest nega-
+tive events generated close to the listening position in
+the urban pocket.
+– An activation based on the double check, on the over-
+coming of a background sound level threshold and of
+a minimum slope to detect the approaching increase
+of sound level, together with a short duration of the
+IAMS, allows for avoiding generating a synthetic sce-
+nario, where the augmented sounds are played back
+too frequently or for a prolonged time. This allow
+
+10
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+to keep quiet, as much as possible, during the time
+intervals between vehicles’ pass-by.
+This approach produces only a minimum alteration of
+the sound experience under pass-by noise. This is sub-
+stantially new both, with respect to the more traditional
+based on a ﬁxed SNR [64] and from the most advanced
+cloud-based Automatic Masker Selection System (AMSS)
+of Lam et al. [72] which analyse the 30 s road traﬃc noise
+to automatically select the masker-gain and to choose
+the combination of continuous (more than 2 min) natural
+sounds to maximise the ISO pleasantness.
+Results have shown that, rather than continuous play-
+back of masking sounds the activation of short IAMS
+of 2 s represents a valid strategy to improve the exist-
+ing urban pockets threatened by the road traﬃc noise.
+More in detail, water sounds and chirping demonstrated
+to signiﬁcantly improve the pleasantness dimension (ISO
+pleasant), while not the eventfulness (ISO eventful) of the
+site. This means that short IAMS activated according to
+speciﬁc thresholds seems to act on the valence dimension
+of the site without altering or conﬂicting with the tem-
+poral evolution of the event in the site, which remained
+unchanged. On the other side, regarding the emotional
+sphere, emotional salience ratings showed that water and
+bird sound foster positive judgement of the site’s expe-
+rience, reducing, contemporarily, the rating of negative
+emotions. However, this is not completely true for crick-
+ets, which, even though they reduce negative judgment,
+are unable to enhance the positive value of the experience.
+Our results highlight that the use of short IAMS
+seems to be less sensitive to the setting of SNR. In
+fact, despite keeping the SNR ﬁxed, as a consequence
+of following the variability of the road traﬃc noise level,
+the gain (and sound level) of the IAMS changes accord-
+ingly, making the distinction among the diﬀerent SNR
+settings less clear. This aligns with the results of Hong
+et al. [65], which found a general reduction of the pre-
+ferred SNR of the same birdsong and water sounds pass-
+ing from a traﬃc noise level of 65 to 75 dB. From a tech-
+nological and applicative point of view, the results of
+this study substantiate what emerged in [78], indicating
+that the development of adaptive soundscaping systems
+combining databases of short and diﬀerent [30] natural
+sounds, more or less complex algorithms for the activa-
+tion of audio augmentation, as well as appropriately posi-
+tioned loudspeakers can enable an improvement of stay-
+ing in small restorative urban pocket through a passive,
+real-time, and user-centred approach.
+6 Limitations
+Despite very promising research ﬁndings, some limits
+due to the experimental setting do not allow for gener-
+alising the results. The most important refer, inevitably,
+to the limited IAMS typologies were used in the exper-
+iment, as well as the preliminary setting of the acti-
+vation thresholds. The ﬁrst aspect should be faced by
+generating a database of short IAMS to use for the extrac-
+tion of maskers’ sound cues, i.e., per single category or
+mixed (more categories), while the second by optimising
+the activation thresholds according to a maximum number
+of activations, the existing type of road traﬃc noise and the
+background noise of the context. This should also be done
+considering contextualisation issues of the selected IAMS
+typologies, i.e., by testing if the use of uncommon/common
+typologies of sound cues at a site, or in a speciﬁc part of the
+day (e.g., morning, sunset), can play a signiﬁcant role in the
+individual’s experience of the site.
+Another important aspect is to extend the research to
+diﬀerent typologies and volumes of road traﬃc to verify if
+the set thresholds still lead to similar results and to investi-
+gate on the strategies (e.g., AI sound source recognition) to
+avoid potential unwanted activations. A further important
+aspect concerns the ecological validity of the results which
+needthegradualintegrationandmodiﬁcationoftheseveral
+variable existing in a real site. In particular, future inves-
+tigations on the IAMS use should extend what emerged
+in this experiment, investigating the moderator eﬀect of
+visual elements/scenarios: by introducing controlled visual
+stimuli, by videowalls or immersive VR lab settings, or by
+organising in situ experiments, giving up control of some
+sensory stimuli in favour of real-life situations.
+7 Conclusions
+Consistent with the recent literature, this research
+showed that the augmented-audio systems based on
+short IAMS and automatically activated can represent
+a valid and non-invasive noise-mitigating strategy for
+urban pockets. The typologies of tested IAMS, water
+and chirping, have had almost the same eﬀects within
+all the SNR range −3 to −12 dB, except for the crick-
+ets which is eﬀective in improving only negative rating.
+Their eﬀect is dual: reduces the perceived noise annoy-
+ance and improve the perceptual and emotional experi-
+ence of individuals exposed to road traﬃc noise. Their
+application includes all cases where road traﬃc noise
+induces unwanted arousal and negative perception [78],
+as in the case of people who stop in small restorative
+urban green pockets. Advances in this topic will help to
+design and optimise the characteristics of future audio-
+augmented systems, which are expected to ﬁnd even
+more applications in urban contexts [79] as soundscapes
+interventions [80].
+Conﬂicts of interest
+The authors declare no conﬂict of interest.
+Data availability statement
+Data are available on request from the authors.
+Ethics approval
+The research protocol (2025-CERS05) was approved by
+the Ethical Committee of the Department of Architecture and
+Industrial Design of the Universit´a degli Studi della Campania
+“Luigi Vanvitelli”.
+
+M. Masullo and J.M. Navarro: Acta Acustica 2026, 10, 55
+11
+References
+1. F. Rossini: Public open space in high density cities: the
+case of Hong Kong. Journal of Urbanism: International
+Research on Placemaking and Urban Sustainability 18, 2
+(2022) 280–302.
+2. M. Masullo, R.A. Toma, A. Fiebig, S. Sibilio, L. Maﬀei:
+Restorative urban spaces in Europe: comparisons of cri-
+teria and approaches in Germany and Italy, in: Proceed-
+ings of Forum Acusticum Euronoise 2025, Malaga, Spain,
+23–26 June 2025.
+3. V. Muﬀato, L. Miola, A. Soltantouyeh, F. Pazzaglia, C.
+Meneghetti: Walking to the urban green: increases in
+positive emotions and perceived restorativeness, but not
+mental representation ability. Journal of Environmental
+Psychology 106 (2025) 102734.
+4. M.H.E.M. Browning, A. Rigolon, O. McAnirlin, H(V.)
+Yoon: Where greenspace matters most: a systematic
+review of urbanicity, greenspace, and physical health.
+Landscape and Urban Planning 217 (2022) 104233.
+5. M. Rapuano, F. Ruotolo, G. Ruggiero, M. Masullo, L.
+Maﬀei, A. Galderisi, A. Palmieri, T. Iachini: Spaces for
+relaxing, spaces for recharging: How parks aﬀect people’s
+emotions. Journal of Environmental Psychology 81 (2022)
+101809.
+6. M. Chibli: Future sociability in public spaces, in: S. Gir-
+ginkaya Akdag et al. (Eds.). The Dialectics of Urban
+and Architectural Boundaries in the Middle East and the
+Mediterranean. The Urban Book Series. Springer Nature
+Switzerland AG, 2021, pp. 211–239.
+7. L. Zhang, P.Y. Tan, J.A. Diehl: A conceptual framework
+for studying urban green spaces eﬀects on health. Journal
+of Urban Ecology 3, 1 (2017) 1–13.
+8. C. Tate, R. Wang, S. Akaraci, C. Burns, L. Garcia, M.
+Clarke, R. Hunter: The contribution of urban green and
+blue spaces to the United Nation’s Sustainable Devel-
+opment Goals: an evidence gap map. Cities 145 (2024)
+04706.
+9. R. Reece, L. Elliott, I. Bray, A
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

@@ -1,0 +1,1493 @@
+Soundscape and public realm – a quasi-experimental
+comparison between Individual Vocabulary Proﬁling and
+Public Space Index assessments during COVID-19 lockdown
+Josep Llorca-Bofí
+and Ceren Sezer
+ABSTRACT
+This paper investigates the individual soundscape attributes in open
+public spaces that relate to the quality of the public realm. To achieve
+this, 76 individual soundscape attributes were collected using the
+Individual Vocabulary Proﬁling (IVP), and 25 dimensions of the Public
+Space Index (PSI) were observed for two public areas. The correlation
+and diﬀerences between the IVP and PSI data are examined. The
+research presents three key ﬁndings: 1) people’s judgments of places
+are signiﬁcantly inﬂuenced by the soundscape at speciﬁc moments
+and locations; 2) ﬁve soundscape dimensions emerged as individuals
+described the public realm: peacefulness, intensity, presence of nature,
+comfort, and vividness; 3) IVP and PSI indicators demonstrate higher
+correlation values when subjects utilize “audio” and “visual” attributes,
+rather than multimodal “audiovisual” attributes. The ﬁndings provide
+empirical support for the proposition that non-acoustic variables play
+a critical role in shaping the perception of environmental sounds.
+Introduction
+The soundscape of open public spaces is a critical component of the public realm, shaping
+individuals’ perceptions, experiences, and the capacity for daily social interactions and
+urban vitality. While urban studies have gained prominence – particularly in response to
+global challenges like the COVID-19 pandemic (Mehta 2020) and its impact on vulnerable
+groups (Bild et al. 2019; Doucet et al. 2020), research correlating soundscape perception
+with public realm indicators remains limited. This study contributes to soundscape
+modelling by empirically examining evidence the relationship between individual
+soundscape attributes and public space quality metrics through correlation analysis
+conducted in a ﬁeld study. It conceptualizes the soundscape as “the perception of the
+acoustic environment by individuals or society in a speciﬁc context of place, time, and
+activity” (Brown 2011). The research investigates whether and how the acoustic and visual
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/17549175.2025.2529175.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/
+licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or
+with their consent.
+
+attributes perceived and rated by individuals correspond to the public space features that
+shape the public realm.
+The study of exploration of soundscapes has been extensive, leading to the recom-
+mendation of ISO 12013–1 2014, which deﬁnes soundscape as “the acoustic environment
+as perceived or experienced and/or understood by a person or people, in context” (2014).
+Many recent soundscape studies have adopted ISO soundscape descriptors as
+a standardized framework for characterizing an area’s soundscape over a deﬁned period.
+Similarly, the Swedish Soundscape Quality Protocol (SSQP) (Axelsson, Nilsson, and
+Berglund 2009) has been widely applied to provide a consistent depiction of sound in
+the built environment. However, given that soundscapes are dynamic and vary with each
+context, researchers have emphasized the need for more detailed attributed when
+comparing the same environment under diﬀerent soundscape conditions (Aletta et al.
+2022; Lokki et al. 2011).
+Furthermore, despite evidence indicating that visual elements inﬂuence soundscape
+perception (Aletta et al. 2022; Amphoux and Tixier 2017; Tan et al. 2022), existing
+protocols, namely the ISO and SSQP, do not account for visual perception of environ-
+ments. Recently, the ISO/TS 16,755–1:2025 published a deﬁnition and conceptual frame-
+work to study the non-acoustic factors inﬂuencing the perception, interpretation and
+response to the environmental sounds has been published, which shows the novelty of
+the topic.
+To address this gap, this study employs the Individual Vocabulary Proﬁling (IVP)
+technique to derive attributes, including both audio and visual elements This approach
+oﬀers a user-dependent attribute list followed by multifactor analysis to extract the
+primary perceptual dimensions.
+Llorca-Bofí, Heck, and Vorländer (2024) previously applied IVP to examine the relation-
+ship between individual soundscape attributes and 2D isovists within a neighborhood.
+However, the use of objective isovist metrics in that study did not provide insights into the
+use of public space. To evaluate these features, the present study integrates the Public
+Space Index (PSI), which incorporates behavioral mapping to document people’s activities
+and spatial features over a designated period. By employing IVP to collect verbal descrip-
+tions of the audio, visual, and audiovisual characteristics of these public spaces under
+typical daily conditions, this study aims to explore the correlation between PSI and IVP,
+ultimately enhancing our understanding of how soundscape shape urban experiences.
+The study was conducted under the exceptional circumstances of the COVID-19
+pandemic, which inﬂuenced the data collected due to the unique historical context of
+that time. However, operational challenges during this period resulted in a limited num-
+ber of participants, aﬀecting the robustness of the analysis. Consequently, the authors
+chose to present the ﬁndings as a quasi-experimental study. Such study designs, often
+characterized as nonrandomized pre-post intervention studies, are widely used in experi-
+mental sciences (Harris et al. 2006). They are particularly valuable when randomized
+controlled trials impractical and unethnical, especially for evaluating the beneﬁts of
+speciﬁc environmental scenarios (Cook and Campbell 1979; Shadish, Cook, and
+Campbell 2002; Trochim 2001). These characteristics make quasi-experimental designs
+ideal for exploratory and qualitative research.
+The paper examines two outdoor public spaces in the Driescher Hof neighbor-
+hood of Aachen, Germany: the central market and shopping area, as well as a park,
+116
+THE DESIGN OF THE PUBLIC REALM
+
+both of which were studied between April and May 2021 (referred to as “Market”
+and “Park” for the remainder of the study). The Aachen Municipality has identiﬁed
+Driescher Hof as a disadvantaged neighborhood, which is part of Germany’s Social
+City (Sozialer Stadt) urban renegeneration program. Initiated by the German
+Government in 1999, the Social City program aims to enhance the quality of life
+in neighborhoods with a higher proportion of vulnerable groups, such as the
+elderly and immigrants, by improving social infrastructure through spatial, social,
+and economic interventions.
+The following section introduces the theoretical foundations of this research. Next, the
+methodology is outlined alongside a description of the study’s urban contexts, followed
+by an analysis of the results. The discussion section interprets the ﬁndings, and the paper
+concludes with recommendations for applying this analytical approach to both existing
+and planned urban renegeration projects.
+Public realm, public space and soundscape
+Public realm and public space
+This research conceptualizes the public realm as social life within physical spaces
+where casual encounters among strangers take place (Loﬂand 1998). It emphasizes
+open public spaces such as parks, streets, and plazas, where individuals observe
+and interact across cultural, gender, and economic divides, thereby shaping the
+public realm through social, economic, and cultural exchanges (Sezer 2018). Public
+spaces play a crucial role in fostering social support and resilience, particularly
+evident during the COVID-19 pandemic when they were essential for maintaining
+social connections, especially for vulnerable groups like the elderly (Buﬀel et al.
+2023; Sezer and Maldonado 2017).
+The urban design literature underscores the key qualities of public spaces, advocating
+for human-centric designs that prioritize mixed uses, safety, and pedestrian-friendliness
+(Gehl 1971; Sezer 2020). Vibrant public realms are characterized by diverse land uses,
+street markets, and active street façades (Sezer and van Melik 2023). Lynch and Carr (1979)
+link urban form to qualities such as legibility, accessibility, and adaptability. Mehta (2014)
+developed a Public Space Index (PSI) to evaluate social life in public spaces, incorporating
+dimensions such as inclusiveness, meaningful activities, pleasurability, safety, and
+comfort.
+Inclusiveness measures how well spaces accommodate a variety of users and activities,
+while meaningful activities cater to everyday needs such as shopping and socializing
+(Mehta 2014). Pleasurability pertains to the visual and sensory richness of a space,
+inﬂuenced by factors such as permeability, vegetation, and the presence of people and
+animals (Lynch 1960). Safety is determined by the design, maintenance, and perceived
+security of a space (Bentley et al. 1985), whereas comfort relies on elements like micro-
+climate, street furniture, and psychological ease (Carmona et al. 2003). Perceptions of
+comfort can vary across cultures, highlighting the need for adaptable public space design
+(Mehta 2014).
+SOUNDSCAPE AND PUBLIC REALM
+117
+
+Analysing public realm in open public spaces.
+Urban design literature identiﬁes several key qualities of public space that are
+essential for studying the public realm. Public spaces are viewed as the core of
+everyday encounters among strangers, oﬀering an active urban life (). A human-
+centric approach emphasizes the importance of creating spaces that prioritize
+human experience, ensuring they are mixed-use, safe, and pedestrian-friendly – key
+features of the public realm (Jacobs 1992; Gehl 1971). Additionally, characteristics
+such as a diverse range of land uses, the availability of shops and businesses, the
+presence of street markets, and areas that allow people to observe and be observed,
+along with active street façades, serve as indicators of a vibrant public realm
+(Montgomery 2007). Lynch and Carr (1979) established connections between urban
+form and qualities like legibility, imageability, accessibility, and adaptability of public
+spaces.
+Mehta (2014) proposed a Public Space Index (PSI) for the systematic and comparative
+evaluation of social life in public spaces and its role in fostering the public realm, drawing
+on foundational work by Lynch and Carr (1979), Montgomery (2007), Jacobs (1993),
+Franck and Stevens (2006), and Loukaitou-Sideris and Ehrenfeucht (2009). The PSI encom-
+passes dimensions such as inclusiveness, meaningful activities, pleasurability, safety, and
+comfort. While these characteristics are presented individually, they also share intercon-
+nected features that collectively enhance the quality of public spaces. Other theoretical
+frameworks for analyzing the public realm tend to focus on speciﬁc aspects. For example,
+Varna and Tiesdell (2010) emphasize the spatial elements that inﬂuence user behavior and
+experience, exploring the relationships between physical design and the social dynamics
+of public space. In contrast, Németh and Schmidt (2007) concentrate on public space
+governance and management, particularly regarding accessibility and social inequality.
+While Németh and Schmidt (2007) developed indicators speciﬁcally assessing safety and
+security in publicly accessible spaces, Mehta (2014) provides a holistic indicator of the
+social use of public space based on ﬁve dimensions.
+Inclusiveness refers to a space’s ability to welcome diverse activities and user groups,
+regardless of age, gender, or background. Indicators include social diversity, varied
+activities, and the accessibility of shops and amenities, which inﬂuence perceived open-
+ness (Loukaitou-Sideris and Ehrenfeucht 2009; Mehta 2014). Meaningful activities involve
+meeting everyday needs such as shopping, commuting, or socializing, as well as hosting
+cultural and community events. Spaces that facilitate these activities become valuable to
+users (Mehta 2014). Pleasurability pertains to the sensory and visual appeal of public
+spaces, which aﬀects how people perceive and navigate them. Factors include building
+façades, vegetation, and lighting, with the presence of people and animals enhancing the
+experience (Lynch 1960; Mehta 2014). Safety relates to how secure individuals feel,
+inﬂuenced by the design of the space, the presence of others, and available amenities.
+Perceptions of safety are also shaped by maintenance, vandalism, and security measures
+(Bentley et al. 1985; Oc and Tiesdell 2000). Comfort encompasses a space’s capacity to
+support daily activities, with factors such as microclimate, furniture, and sidewalk width
+inﬂuencing physical comfort. Social and psychological comfort is shaped by the design
+and atmosphere of the space, with cultural context also playing a signiﬁcant role
+(Carmona et al. 2003; Mehta 2014).
+118
+THE DESIGN OF THE PUBLIC REALM
+
+Public realm and soundscape
+Sound plays a vital role in how we perceive public spaces, underscoring the importance of
+soundscape analysis in evaluations. Soundscapes are shaped by human perception of the
+acoustic environment, which comprises sound sources, transmission paths, and receivers.
+This research considers soundscapes as being inﬂuenced by both natural and human
+factors (Brown 2011; Duﬀy 2020; Palmese, Carles, and Rodriguez 2023; Southworth 1969),
+closely linking them to the public realm. A rich tradition of soundscape research examines
+its impact on well-being, health, and social resilience. The following section reviews
+studies that connect soundscapes to key indicators shaping public spaces, organized
+into two groups.
+The ﬁrst group of studies investigates people’s assessments of soundscapes through
+in-situ questionnaires and acoustic recordings. Key elements identiﬁed include sounds-
+cape descriptors (overall sounds), sound descriptors (speciﬁc features), and sound
+sources (entities producing sound) (Augoyard and Torgue 2005; Barrie 2020; Davies
+et al. 2013; Thibaud 2001; Zhang and Kang 2007). Research has also explored sounds-
+cape behaviors such as distress, comfort, and pleasantness (Jo and Jeon 2020;
+Axelsson, Nilsson, and Berglund 2010). Witchel’s research indicated that sound fea-
+tures, such as the tempo of music, can inﬂuence behavior in public spaces – faster
+music may encourage quicker walking and foster generosity (Lavia et al. 2016). Hao,
+Johnson, and Cope (2020) reviewed soundscape descriptor models, linking them to
+acoustic indicators. Lenzi, Sádaba, and Lindborg (2021) analyzed soundscapes in
+a central square in Bilbao during the COVID-19 lockdown, highlighting signiﬁcant
+shifts in the acoustic environment, consistent with ﬁndings from other studies
+(Palmese and Carles Arribas 2020).
+Young Hong and Yong Jeon (2017, 2020) investigated how urban land use shapes
+street soundscapes. They found that in central business districts and commercial areas,
+traﬃc noise diminished pleasantness while increasing eventfulness, whereas human
+sounds in commercial streets enhanced both. Bild et al. (2019) also connected sounds-
+capes to public spaces by demonstrating that social interactions inﬂuenced people’s
+perceptions of their auditory environment, impacting the meaningfulness of public
+activities.
+The second group of studies examines the eﬀects of soundscapes on individuals
+in controlled laboratory conditions using simulations. These methods provide
+insights into how public spaces aﬀect perception. Masullo et al. (2021) discovered
+that water installations in parks inﬂuenced mental restorativeness, suggesting that
+the design of fountain sounds can enhance comfort. Similarly, Jiang et al. (2018)
+revealed that shared-street design and traﬃc restrictions created a calmer, more
+pleasant soundscape. Aletta, Kang, and Axelsson (2016) emphasized the role of
+memory in acoustic perception and raised concerns about the ecological validity
+of lab studies. Davies, Burce, and Murphy (2014) addressed this issue by employing
+Ambisonics to deliver more realistic soundscape assessments. Guastavino et al.
+(2005) also highlighted the challenge of ecological validity when reproducing acous-
+tic environments, stressing the need for a more authentic representation of these
+settings. In response, Davies, Burce, and Murphy (2014) argued that acoustic envir-
+onments recorded and reproduced using Ambisonics – a full-sphere surround sound
+SOUNDSCAPE AND PUBLIC REALM
+119
+
+format – can provide ecological validity for soundscape assessment. This approach
+enhances spatial immersion by delivering temporal and spatial information tailored
+to a speciﬁc receiver position.
+Studies on public realm and soundscape
+Subjective comparisons of soundscapes in open public spaces pose signiﬁcant challenges,
+as the sonic experience of these places depends on multiple environmental factors. These
+factors include intra-subject and inter-subject preferences, environmental sounds, the
+social and cultural backgrounds of listeners, and weather conditions. The contribution of
+soundscapes is diﬃcult to isolate from variabilities in both the environment and human
+perception. In other ﬁelds, such as food tasting or user experience (UX), sensory analysis is
+employed to address these complexities. Sensory evaluation, particularly descriptive
+testing aimed at registering and measuring human perceptions, requires panels of non-
+trained evaluators who rank and rate a product using their senses. This method is gaining
+traction in the realm of sensory evaluation of sound for the automotive industry (Postel,
+Hegarty, and Bech 2011; Zacharov 2019) and hearing devices (Legarth et al. 2010).
+In architecture and urban studies, sensory analysis presents unique challenges, parti-
+cularly due to the high variability of urban conditions and the diverse cultural back-
+grounds of inhabitants. However, the use of individual attributes helps mitigate the issue
+of predeﬁned attribute interpretation. Instead of relying on established soundscape
+descriptors (2014), which may have diﬀerent meanings across various urban communities,
+sensory analysis employs the IVP technique, allowing participants to use their own words
+to describe scenarios. IVP has recently been successfully applied to studies of spatial
+sound reproduction (Bech and Zacharov 2006; Lokki et al. 2011). These techniques show
+promise for eﬀectively evaluating complex and multidimensional stimuli, such as record-
+ings of soundscapes in urban environments.
+Methodological approach
+This research studies how acoustic attributes relate to public realm quality in open public
+spaces. More precisely, it explores if and how a place’s acoustic features are associated
+with its public realm features. For this, the study conducts two sets of analyses on public
+realm and on audiovisual features. It seeks correlations between two groups of ﬁndings
+based on the conceptual framework presented in Table 1. The IVP attributes are collected
+as follows:
+●“audio” attributes, referring to words describing assessments purely from acoustic
+stimuli;
+●“visual” attributes, referring to words describing assessments purely from video
+stimuli;
+●“audio+visul,” as the collection of both “audio” and “visual” attributes;
+●“audiovisual” attributes, referring to words describing multisensory assessments
+from video and acoustic stimuli.
+120
+THE DESIGN OF THE PUBLIC REALM
+
+Evaluating public realm using the public space index
+The ﬁrst part of the analysis aims to obtain information on the public realm. It studies the
+qualities of public space relevant to its capacity to stimulate socialisation between
+diﬀerent public space users. The analysis combines in-situ observations and behavioural
+mapping by adapting Mehta (2014)’s ﬁve dimensions of public space’s quality (Figure 1):
+inclusiveness, meaningful activities, pleasurability, safety, and comfort. Table 2 presents
+the variables for each dimension and their measuring criteria. We choose this index for our
+Table 1. Conceptual framework for the correlation between both datasets: soundscape invididual
+Vocabulary Proﬁling (IVP) in the horizontal axis, and the public space index (PSI) in the vertical axis.
+Soundscape IVP
+4
+participants,
+All
+providing 6
+attributes
+4 participants, providing 4 Audio
+Audiovisual
+by all
+and 4 Visual attriburtes
+attributes
+participants
+Audio
+Visual
+Audio +
+Audiovisual
+Audio+
+attributes attributes
+Visual
+attributes
+Visual +
+attributes
+Audiovisual
+attributes
+Cluster A
+A
+A
+A
+A
+Cluster B
+B
+B
+B
+B
+Cluster C
+C
+C
+C
+C
+Cluster D
+D
+D
+D
+D
+Cluster E
+E
+E
+E
+E
+Public
+Researcher’s
+I. Inclusiveness
+Space
+observations
+Index
++ in-situ
+(PSI)
+questionnaires
+II. Meaningful activities
+III. Pleasurability
+IV. Safety
+V. Comfort
+Figure 1. The ﬁve dimensions/aspects of public space (source: Mehta 2014, 58).
+SOUNDSCAPE AND PUBLIC REALM
+121
+
+Table 2. Dimensions of sociability in public spaces after Mehta (2014), variables and ranking scores.
+Public Space Index (PSI)
+dimensions and its variables
+Measuring criteria
+Ranking score
+Market Park
+I - Inclusiveness
+Presence of people of
+Counts based on
+0: limited, 1: low, 2: medium, 3: high, 4:
+4
+3
+diverse age
+observations
+maximum
+Presence of people of
+Counts based on
+0: limited, 1: low, 2: medium, 3: high, 4:
+2
+4
+diverse genders
+observations
+maximum
+Range of activities and
+Counts based on
+0: limited, 1: low, 2: medium, 3: high, 4:
+4
+3
+behaviours
+observations
+maximum
+Opening hours of public
+Determined by signs
+0: <10hrs, 1: 10hrs, 2: 15hrs, 3: 20hrs, 4:
+1
+4
+space
+24hrs
+Perceived openness and
+Use’s subjective rating
+0: not at all, 1: sometimes, 2: generally, 3:
+4
+1
+accessibility
+mostly, 4: completely
+II – Meaningful activities
+Presence of community
+Counts based on
+0: none, 1: one, 2: two, 3: few, 4: many
+2
+4
+gathering
+observations of
+businesses or other
+speciﬁc activities
+Range of activities
+Counts based on
+0: none, 1: very limited, 2: medium, 3: high,
+4
+3
+observations on
+4: maximum
+activities and
+behaviours
+Variety of businesses and
+Counts based on
+0: none, 1: one, 2: two, 3: few, 4: maximum
+3
+1
+other uses at the edges
+observations
+Perceived suitability of space User’s subejctive rating
+0: not suitable at all, 1: somehow suitable,
+2
+2
+layout and design to
+2: moderately suitable, 3: very suitable, 4:
+activities and behaviour
+maximum
+Perceived usefulness of
+User’s subjective rating
+0: not at all, 1: somewhat, 2: moderately, 3:
+4
+2
+businesses and other uses
+very much, 4: a lot
+III – Pleasurability
+Visual and physical
+Counts based on
+0: almost none, 1: somehow tentative, 2:
+3
+1
+connection and openness
+observations
+moderately well connected, 3: very well
+to adjacent street/s or
+connected, 4: highly connected
+spaces
+Permeability of building
+Counts based on
+0: not at all, 1: some parts somewhat
+2
+1
+façades
+observations
+permeable, 2: moderate, 3: partly very
+permeable, 4: very permeable all along
+Variety of elements
+Counts based on
+0: none, 1: very little, 2: moderate, 3: high,
+1
+3
+providing sensory
+observations
+4: maximum
+complexity
+Perceived attractiveness of
+User’s subejctive rating
+0: not at all, 1: somewhat, 2: moderately, 3:
+1
+3
+space
+very much, 4: maximum
+Perceived interestingness of
+User’s subjective rating
+0: not at all, 1: somewhat, 2: moderately, 3:
+1
+2
+space
+very much, 4: maximum
+IV – Safety
+Visual and physical
+Counts based on
+0: almost none or very poor, 1: somehow
+3
+1
+connection and openness
+observations
+tentative, 2: moderately well connected, 3:
+to adjacent street/s or
+very well connected, 4: highly connected
+spaces
+Physical condition and
+Counts based on
+0: not at all, 1: some parts somewhat
+2
+2
+maintanence appropriate
+observations
+permeable, 2: moderate, 3: partly very
+for the space
+permeable, 4: very permeable all along
+Perceived safety from crime
+User’s subejctive rating
+0: not safe at all, 1: somewhat unsafe, 2:
+4
+4
+daytime
+mostly safe, 3: very safe, 4: high perception
+of safety
+Perceived safety from crime
+User’s subejctive rating
+0: not safe at all, 1: somewhat unsafe, 2:
+2
+0
+after dark
+mostly safe, 3: very safe, 4: high perception
+of safety
+Perceived safety from
+User’s subjective rating
+0: make me feel unsafe, 1: not at all, 2:
+2
+2
+presence of surveillance
+provide some sense, 3: very much provide
+camera or guides
+a sense of safety, 4: maximum feeling of
+safety
+(Continued)
+122
+THE DESIGN OF THE PUBLIC REALM
+
+research, as it is based on an extensive urban design literature, allows a numeric ranking
+between diﬀerent thematic analyses, and allows for a comparison with other data sets – in
+this case soundscape features.
+The sites
+The study focuses on two types of open public spaces – a neighbourhood Market and
+a Park – in Driescher Hof in Aachen, Germany. Driescher Hof is a post-war peripheral
+neighbourhood in south east Aachen with mid-rise housing units and mix-use shopping
+areas. More than half of neighbourhood residents have immigration background from
+Turkey, Russia, Poland, Syria, among other countries. The neighbourhood is characterised
+by its elderly population and single-person households. The municipality of Aachen has
+identiﬁed ageing, loneliness, welfare dependency, and low education as some of the
+social challenges of the neighbourhood within the framework of the Social City urban
+regeneration programme (Soziale Zusammenhalt 2020). The selection of two types of
+public spaces which are diﬀerent in their spatial layouts and functions aims to gain
+relevant information regarding their quality and respective soundscape features.
+Figure 2 presents a partial map of Aachen and the location of Driescher Hof and selected
+public spaces.
+The ﬁeldwork
+The ﬁeldwork evaluated two public spaces, Market and Park, based on the ﬁve dimensions
+of the PSI and related variables through structured and unstructured side observations.
+Additionally, the researchers conducted 15 unstructured interviews. The interviews
+included open-ended questions on, for example, user’s perception of public space for
+its openness and accessibility, perceived safety and attractiveness, as well as perceived
+nuisance of noise, for example from traﬃc or otherwise. The researchers also asked
+questions on the frequency of visits, time spent, types of activities to identify the character
+Table 2. (Continued).
+Public Space Index (PSI)
+dimensions and its variables
+Measuring criteria
+Ranking score
+Market Park
+V – Comfort
+Places to sit without paying
+Counts based on
+0: none, 1: few, 2: several some parts of
+2
+4
+goods and services
+observations
+space, 3: several in many parts of space, 4:
+all over the space
+Physical condition and
+Counts based on
+0: not at all, 1: some parts somewhat
+1
+4
+maintanence appropriate
+observations
+permeable, 2: moderate, 3: partly very
+for the space
+permeable, 4: very permeable all along
+Perceived physical
+Counts based on
+0: not safe at all, 1: somewhat, 2: moderate,
+3
+1
+conditions and
+observations
+3: very much, 4: maximum
+maintanencce
+appropriate for the space
+Design elements
+Counts based on
+0: none, 1: one or two, 2: few, 3: several, 4:
+2
+3
+discouraging use of space
+observations
+many
+Perceived nuisance noise
+User’s subjective rating
+0: none, 1: one or two, 2: few, 3: several, 4:
+4
+4
+from traﬃc or otherwise
+many
+SOUNDSCAPE AND PUBLIC REALM
+123
+
+Figure 2. Map of Aachen indicating the location of Driescher Hof and two public spaces.
+of socialisation in public spaces. Observations, photography, video recording, and ﬁeld-
+notes were used to collect data.
+The observations and interviews are ranked as very limited (0), low (1), medium (2),
+high (3) and maximum (4). Table 2 presents a detailed list of rankings for each variable.
+The ﬁeld visits were carried out on weekdays (Fridays) and weekends (Saturday) during
+the busiest time for each public space, mornings, afternoons, and evening hours, in the
+period of April–May 2021. This period was the peak of the COVID-19 pandemic social
+restrictions of the North Rhine-Westphalia region of Germany in which people had to
+work from home; schools, organisations, religious buildings, and other public institutions
+were closed; and home visits were not advised. However, supermarkets and other shops
+selling essential goods were open, keeping their daily activity. Open public spaces, such as
+parks, squares, and playgrounds, were available for socialisation under the conditions of
+wearing a mask and 1,5 m social distancing.
+124
+THE DESIGN OF THE PUBLIC REALM
+
+Evaluating soundscapes using IVP
+To study acoustic features, the research collects attributes by the IVP technique from
+participants describing acoustic, visual, and/or audiovisual descriptions of those spaces
+under typical daily conditions using 360 audiovisual reproduction of those spaces, as it
+was implemented in previous studies (Llorca-Bofí et al. 2022; Llorca-Bofí, Heck, and
+Vorländer 2024), based on the work of Lokki et al. (2011) and Zacharov (2019). This
+method is suitable for this analysis, since soundscapes are hard to compare in situ for
+a number of people at diﬀerent times of the day – as explained by Aletta et al. 2020, if the
+surrounding changes, the acoustic evaluation also changes. By using calibrated audio-
+visual reproduction of the spaces, on the contrary, the statistical signiﬁcance of the
+evaluation results is higher. Additionally, since the COVID-19 situation did not facilitate
+group meetings in public spaces, performing the test using an online platform was
+chosen as a preferable option. In this context, the research extracts ﬁve diﬀerent attribute
+datasets, including: attributes describing acoustic properties, visual properties, and audio-
+visual properties, and the combinations “audio + visual,” and “audio+visual+audiovisual.”
+The research conducted the empirical analysis as the following three steps:
+First, it captured the acoustic environments with a ZOOM-VR recorder, with a ﬁrst-order
+ambisonics microphone, with B-format output ﬁles. The visual environments were cap-
+tured with a Insta360 Pro 2 camera, with panoramic monoscopic videos of 7680 × 4320
+pixels resolution. Audio-visual post processing was done in Adobe Premiere, including
+metadata to be uploaded as YouTube 360 videos. The videos, containing spatial audio
+information, were reproduced from the assessor’s personal computers at home. This
+feature made the study possible in times of Covid-19, since access to the lab was blocked
+for health reasons.
+Second, it collected the data on perception of soundscapes. The analysis consists of ten
+participants answering a questionnaire at home using a prepared website interface, which
+completed the IVP, and each of them elicited four, ﬁve, or six attributes. Forty percent of
+the assessors were women. Each attribute was applied to rate all eight urban sequences,
+resulting in 8 sets of evaluations. Attributes were collected in English since all participants
+were ﬂuent in speaking the language. Participants suggested their own attributes. A pre-
+screening of the attributes was done together the participant and the examiner excluding
+words with ambiguous meaning and keeping the words with a clear meaning for the
+participant (see Figure 3). As the numbers of attributes vary between assessors, the total
+number of collected attributes was 76. Because one attribute was applied for all signals, it
+is possible to see how attributes are grouped with n the entire data set. The playlist was
+accessible via YouTube.1 This research complied with the RWTH Aachen University Code
+of Ethics and was approved by the Institute for Hearing Technology and Acoustics at the
+same university on 11 May 2022. Informed consent was obtained from each participant.
+After collecting the participant’s attributes and rates, as the third step, the researchers
+classiﬁed the participants’ answers – elicited attributes – into collective categories. We
+could make the manually based on the short description of each attribute. However, we
+consider automatic clustering more suitable for our research, as it reveals how the
+attributes follow some objective laws when people describe them. The researchers
+calculated the Euclidean distances between the ratings for each sequence to cluster the
+SOUNDSCAPE AND PUBLIC REALM
+125
+
+Figure 3. User interface for the soundscape test for each phase: youtube playlist of 360 videos for the
+stimuli reproduction, attribute elicitation sheet and online questionnaire.
+attributes. As a result, the research obtained eight diﬀerent distance matrices. Later, the
+study calculated the mean between the eight distance matrices, resulting in a mean
+distance matrix. The mean distance matrix contains attributes with similar mean distances
+between attributes – meaning that those attributes are similarly rated along the eight
+urban sequences, and big mean distances between attributes – meaning that those
+attributes are diﬀerently rated along the eight urban sequences. The Euclidean distance
+of the mean distance matrix is used to cluster the attributes under a cutoﬀvalue of 34,
+which is the value giving enough clusters to be diﬀerent among them but still maintain-
+ing enough attributes in each cluster. In conclusion, the clustering highlights which
+126
+THE DESIGN OF THE PUBLIC REALM
+
+attributes behave similarly. The clariﬁcation of the results requires a graphical description
+of the data, as explained in the results section.
+Best-ﬁt permutation between PSI and IVP
+After extracting the evaluation data from PSI and IVP, the comparison between both ﬁelds
+is done in order to ﬁnd which attributes of IVP are closer to the dimensions of PSI. On one
+hand, one value for each of the PSI dimensions is given for the Market and for the Park
+areas. This value is expressed in the format of ﬁve quantities, as the literature proposes
+(Mehta 2014). It is important to note that the PSI evaluations have been done for a given
+area in a period of time, in this case the Market and Park areas, under some hours of
+observations.
+On the other hand, one value for each of the ﬁve IVP clusters is obtained for each urban
+sequence. The urban sequences correspond to recording points over the Market and the
+Park as it is explained in the next section. The mean over the values obtained for the
+Market and the mean for the values in the Park have been calculated. Five diﬀerent
+attribute datasets have been used to obtain the IVP clusters, thus resulting in ﬁve diﬀerent
+IVP approaches.
+Each of those IVP approaches has been compared one by one with the given PSI
+dimensions. The best-ﬁt permutation between the PSI dimensions and the found IVP
+clusters is the goal when comparing them. This has been achieved using the smallest
+mean over the ﬁve dimensions between all possible permutations between PSI and IVP
+dimensions, simultaneously for the Market and the Park. In other words, the pair-wise
+distance between all possible permutations of PSI and IVP dimensions has been calcu-
+lated, and the smallest for both Market and Park areas has been selected.
+Results
+The following two sections present the ﬁeldwork ﬁndings for the quality of the public
+realm and soundscape analyses.
+Results of the public realm analysis
+Table 3 presents the results of the evaluation of the public realm under the themes of
+inclusiveness, meaningful activities, pleasurability, safety, and comfort for two public
+spaces. Figure 4 presents spider web diagram comparison of the ﬁndings in two case
+studies.
+Regarding the quality of public spaces, the Market presents a higher ranking than the
+Park. The Market provides services for the basic needs of the neighbourhood residents,
+including a supermarket, pharmacy, a kiosk and a restaurant/café oﬀering takeaway food,
+all open during the COVID-19 lockdown until 5 pm. We observed, as expected, many
+shoppers in the square, primarily women in their 40s and some with their young children.
+The researchers also noted a few older men in the square with their shopping bags,
+standing, and socialising with each other.
+The square is well organized and maintained, with some greenery at the entrances.
+However, the repetitive building facades, lacking visual permeability in some cases,
+SOUNDSCAPE AND PUBLIC REALM
+127
+
+Table 3. Dimensions of sociability in public spaces after Mehta (2014), variables and ranking scores.
+Public Space Index (PSI) dimensions and its variables
+Market
+Park
+I - Inclusiveness
+Presence of people of diverse age
+4
+3
+Presence of people of diverse genders
+2
+4
+Range of activities and behaviours
+4
+3
+Opening hours of public space
+1
+4
+Perceived openness and accessibility
+4
+1
+II – Meaningful activities
+Presence of community gathering
+2
+4
+Range of activities
+4
+3
+Variety of businesses and other uses at the edges
+3
+1
+Perceived suitability of space layout and design to activities and behaviour
+2
+2
+Perceived usefulness of businesses and other uses
+4
+2
+III – Pleasurability
+Visual and physical connection and openness to adjacent street/s or spaces
+3
+1
+Permeability of building façades
+2
+1
+Variety of elements providing sensory complexity
+1
+3
+Perceived attractiveness of space
+1
+3
+Perceived interestingness of space
+1
+2
+IV – Safety
+Visual and physical connection and openness to adjacent street/s or spaces
+3
+1
+Physical condition and maintanence appropriate for the space
+2
+2
+Perceived safety from crime daytime
+4
+4
+Perceived safety from crime after dark
+2
+0
+Perceived safety from presence of surveillance camera or guides
+2
+2
+V – Comfort
+Places to sit without paying goods and services
+2
+4
+Physical condition and maintanence appropriate for the space
+1
+4
+Perceived physical conditions and maintanencce appropriate for the space
+3
+1
+Design elements discouraging use of space
+2
+3
+Perceived nuisance noise from traﬃc or otherwise
+4
+4
+Figure 4. Spider web analysis of the PSI dimensions ﬁndings for the two case studies, Market and Park
+according to inclusivity, meaningful activities, pleasurability, safety and comfort.
+reduce its appeal and pleasurability. There’s only one seat in front of a café (closed during
+lockdown) often used by locals, mostly older men. An elderly resident noted that more
+seating would improve comfort and socializing. Despite this, residents ﬁnd the Market
+safe and comfortable, providing chances to meet neighbors. The variety of shops is
+adequate, and the Market’s role in social life grew during lockdown, helping counter
+loneliness.
+128
+THE DESIGN OF THE PUBLIC REALM
+
+Figure 5. Ground plan of the Market and surroundings. The four recording positions for the IVP
+analysis are marked.
+The Park (Figure 5), which is a spatial connector between the Market and the other
+parts of the neighbourhood, provides various recreational facilities. These include
+a playground, picnic tables, and a basketball ﬁeld. We observed a wide range of social
+groups using the diﬀerent parts of the Park. The youngsters, mostly boys in their 18s,
+gathered around the basketball ﬁeld. The active scene of the basketball game created
+a vibrant sphere to the Park. The playground is another busy part of the Park with young
+children and their mothers picnicking at the tables adjacent to the playground. These two
+speciﬁc places in the Park are main attractions where people gather and create a lively
+social sphere. The rest of the Park visitors we observed during our ﬁeld visit are young
+women walking and chatting, and young men sporting, dogwalkers, and people passing
+by on bicycle.
+We observed that the Park presents mixed qualities in terms of its maintenance.
+Although the basketball ﬁeld, seating furniture, and playground are in good condition,
+a dry fountain and its pool seem like a neglected part of the Park. We understood from our
+interviews that the fountain is in this state already for a few years and the residents do not
+notice it signiﬁcantly.
+The Park lacks physical and visual permeability, speciﬁcally in its north entrance, due to
+the wide facades of the four-storey residential buildings and high trees. This physical
+layout creates a sense of closure on this part of the Park, and consequently, a feeling of
+unsafety. As the residents informed us, they feel particularly unsafe during the evenings,
+speciﬁcally in winters, due to its lack of visibility. Additionally, the Park is a gathering place
+for the youngsters, who listen to loud music during the night-time, which creates a sense
+of discomfort by other residents. There were few unrecorded neighbourhood incidents
+regarding this kind of conﬂict, as some residents have stated.
+Despite its pitfalls, the Park has many positive characteristics, an attractive gathering
+place for the neighbourhood. It creates a sense of oasis within the residential area which is
+SOUNDSCAPE AND PUBLIC REALM
+129
+
+signiﬁcantly characterised by its built environment rather than its green areas. It is
+welcoming place for residents of diﬀerent social groups. This is particularly evident in
+the time of pandemic social restrictions in which people need facilities to gather and
+socialise in outdoor spaces.
+However, day-time and night-time uses of the Park are signiﬁcantly diﬀerent. The
+vibrant day time activities such as children playing, adults socialising and sporting, and
+other recreational activities are less when the Park gets darker.
+Results of public realm’s soundscape analysis
+Figures 5 and 6 show the recording positions from which the soundscapes have been
+evaluated. The positions were distributed in the whole areas to maximize the range of
+diﬀerent soundscapes.
+Figure 7 shows all individual results for each location recording. In the horizontal axis,
+the eight diﬀerent urban locations are displayed. In the vertical axis, the individual rating
+of each attribute is depicted over a scale from 0 to 100. The name of the attribute is
+displayed at the right side of each point. The lines in the background (colored) connect
+the eight times each attribute has been used – namely, for each urban sequence. Each
+point in the graph shows the rating each attribute was given at a certain urban sequence.
+The ﬁrst impression on the data shows a big variety in the ratings between each attribute.
+However, after a visual inspection of the data, some groups of attributes can be detected.
+For example, there is a big group of attributes which were highly rated in sequence 1,
+which is rated lower for sequence 2. One can follow how each attribute is rated by reading
+the attribute at the right side of the ﬁgure and following the line to the left direction. Each
+point shows the rating this attribute was given for speciﬁc urban sequences.
+Figure 6. Ground plan of the Park and surroundings. The four recording positions for the IVP analysis
+are marked.
+130
+THE DESIGN OF THE PUBLIC REALM
+
+Figure 7. All attributes and ratings for the 8 recorded soundscape positions. In the X-axis the 8 diﬀerent urban sequences are represented. In the Y-axis, the scale
+from 0 to 100 scale used to rate the sequences. On the right side, all the attributes elicited by the judgers. Each line in color represents a diﬀerent attribute. Each
+point represents the rating of such attribute. The colors represent the diﬀerent clusters based on the dendogram (Figure 8). Figure 9 shows the same data
+separated per clusters.
+SOUNDSCAPE AND PUBLIC REALM
+131
+
+Figure 8. Dendogram clustering all attributes in 5 diﬀerent groups.
+132
+THE DESIGN OF THE PUBLIC REALM
+
+Figure 9. Clusters A, B, C, D, E for the IVP analysis. Each cluster is represented by one color (blue,
+yellow, red, lila and green). For each cluster, the X axis shows the eight urban positions (1–4
+corresponding to the Market and 5–8 corresponding to the Park). The Y axis indicates the value
+range (1–100). Each colored line corresponds to an attribute rating for each urban position. The data
+plotted here correspond to the Audio+Visual+Audiovisual dataset.
+After the visual inspection of the data and the detection of potential clusters, the
+systematic clustering was done, which can be seen in Figure 8. This graph (dendogram)
+illustrates the distances between attributes, as explained in the methods section, in a tree
+form. The groups of attributes contain visual and acoustic elicitation attributes, which
+were expected from the instructions of the test.
+In Figure 9, each cluster is depicted separately. The behaviour of each cluster is clearly
+distinguished here, especially for clusters 1, 2, 3, and 5. They reveal a coherent behaviour
+between the attributes across people, which reveals how accurately a group of attributes
+describe the sequences. If we take a closer look at the attributes included in the dendo-
+gram, we discover that a mix between audio and visual attributes are used, which
+indicates that in the spaces are judged in both modalities.
+To be more precise, in Cluster A three attributes are included – emptiness, peace-
+fulness, and calmness. The clustering is named under the term “peacefulness” as
+SOUNDSCAPE AND PUBLIC REALM
+133
+
+representative word on it. It can be noted that sequences 1, 5 and 6 are the lowest rated in
+this regard, whereas the rest of sequences receive a mid-high rate on them. This does not
+strictly correspond to the separation between market place and Park, but rather to the
+places where more noise was perceived – namely shopping trolleys, kid-s shouts, and
+mechanical machines. This result conﬁrms the existing literature about the relation
+between the soundscape and the peacefulness induced at the receivers (Brambilla et al.
+2013).
+In Cluster B, a large number of attributes are included. The authors derive that the
+attributes are packed under the quality of “intensity” included in those areas. It includes
+both visual and acoustic cues, and it clusters attributes regarding the “sunninnes,”
+“activity,” and “level” of noise or “sound intensity.” Interesting enough is the clear
+distinction between the two main urban areas: the market place is generally rated high,
+whereas the Park is rated as low. The name of the attributes suggests that here the
+negative aspects of the noise are rated, whereas in Cluster A, the positive and restorative
+aspects of the soundscape are highlighted. Additionally, the visual equivalent to the noise
+annoyance in Cluster B includes “light exposure” and “brightness,” which indicate
+a proximity with the high level of noise.
+Cluster C shows an opposite quality than Cluster B. Here, the attributes are rated as low
+for the market place, and high for the Park. The authors name this cluster after the term
+‘presence of nature. The attributes include concepts ranging from “environment natural-
+ness” and “width,” to feelings like “people’s joyfulness” and “coldness.” Both acoustic and
+visual cues include aspects in relation to the nature. In contrast to cluter 1, Cluster C clearly
+distinguishes the places with natural sound sources and green visuals (sequences 5–8) to
+the rest.
+Cluster D includes an extensive collection of diﬀerent attributes which also diﬀer in the
+ratings. The attributes include a mix between visual commonness (without variation),
+sound “ambiance,” and “comfort.” Is named after the term “comfort.” The ratings vary
+along the sequences without a clear pattern. This might indicate that this is a less
+consistent cluster, which could include other smaller clusters potentially coherent if the
+number of participants and collected data would be bigger.
+Finally, Cluster E collects a big number of attributes with some relations with “vivid-
+ness.” Those attributes are highly rated for sequences 1, 5, and 6, which shows an inverse
+behavior than Cluster A. In fact, the main aspects rated here are at the opposite of the
+feeling of relaxation and calmness. The “sense of movement,” “tension,” “annoyance” and
+“loudness” constitute the opposite qualities of those spaces.
+To sum up, there are a few topics which can be considered as trends when judging
+such urban spaces: nature, calmness, activity, and annoyance. Those can be judged both
+visual and acoustically. Clusters 1 and 5 seem to show an opposite behavior, as well as
+clusters 2 and 3. Clusters 1, 2 and 5 depict diﬀerent aspects of sound and visual related
+with feelings, whereas Cluster C talks about nature.
+Results of the best-ﬁt permutation between PSI and IVP
+The best-ﬁt permutation analysis reveals which found IVP cluster ﬁts best with the
+predicted PSI indicators. This reveals one ﬁrst result on how the attributes are used across
+urban sequences:
+134
+THE DESIGN OF THE PUBLIC REALM
+
+Figure 10. Best-ﬁt correlation between public space index (PSI – in blue) and individual Vocabulary
+Proﬁling (IVP – in orange), for both Market (higher row) and Park (lowest row) areas. The same PSI
+evaluation is compared over 5 diﬀerent IVP datasets: attributes from Audio, visual, Audio+Visual,
+Audiovisual, Audio+Visual+Audiovisual (from left to right). In grey lines, all IVP possible permutations
+against PSI are plotted.
+In Figure 10, spider plots reveal that the ﬁt between IVP and PSI values diﬀers
+depending on which dataset is considered. For example, PSI and IVP values are
+very close among them when we consider only the Visual dataset or only the
+Audio dataset. However, distances between PSI and IVP are bigger and varying
+between positive and negative if we consider the combined Audio+Visual dataset.
+This reveals that the PSI method, which is based on in-situ observations, can be
+better predicted by individuals in participatory processes using separate words for
+the audio and for the visual modality.
+Another interesting observation is that the PSI indicator V (Comfort) is the most
+diﬃcult to predict with the IVP method when using the Audio and Visual datasets -
+in both cases, diﬀerences are above 25 points-. On the contrary, for the dataset
+Audiovisual, PSI V is very close to its corresponding IVP D (Pleasantness). This fact
+reveals that the PSI method includes aspects which are better rated using multi-
+modal concepts - such as comfort - and other aspects closer to a speciﬁc modality
+- such as pleasurability, which is very close to sound annoyance. Further explora-
+tion of the correspondences between the PSI and IVP clusters and attributes can
+be seen in Table 4.
+Finally, plotting the diﬀerences between the best-ﬁt values of PSI and IVP on the map
+of the Park and the market gives an overview on the relative diﬀerences. Figure 11 gives
+an overview of such data including the name of the corresponding clusters. The darker
+the colors are, the bigger the diﬀerences are. In that ﬁgure, we see a tendency towards
+bigger diﬀerences as soon as the datasets are more multimodal. Whereas for the Audio
+and Visual datasets the diﬀerences are rather small (13 points as a mean), diﬀerences get
+bigger (35 points as mean) for the multimodal datasets, such as Audiovisual and the last
+dataset combinations.
+SOUNDSCAPE AND PUBLIC REALM
+135
+
+Table 4. Each cluster attribute data, for each best-ﬁt correlation between PSI and IVP. The IVP data is shown for ﬁve diﬀerent datasets: attributes from Audio, visual,
+Audio+Visual, Audiovisual, and Audio+Visual+Audiovisual datasets. The mean distance values for each dataset are indicated in italics.
+Individual Vocabulary Proﬁling (IVP)
+4 participants, providing 6
+All attributes by all
+4 participants, providing 4 Audio and 4 Visual attriburtes
+Audiovisual attributes
+participants
+Public
+Public Space Index
+Audio attributes
+Visual attributes
+Audio + Visual attributes
+Audiovisual attributes (perm
+Audio+ Visual +
+Space
+dimensions
+(permutation: 104:
+(permutation 32: 43512)
+(permutation 29: 45132)
+71: 31254)
+Audiovisual attributes
+Index
+14523)
+PSI-IVP Market: 18.36
+PSI-IVP Market: 18.89
+PSI-IVP Market: 16.17
+(permutation 39: 42351)
+(PSI)
+PSI-IVP Market:
+PSI-IVP Park: 11.98
+PSI-IVP Park: 15.22
+PSI-IVP Park: 10.50
+PSI-IVP Market: 12.44
+12.17
+PSI-IVP Park: 7.68
+PSI-IVP Park: 8.71
+I. Inclusiveness
+Cluster A: Friendliness Cluster D: Brightness,
+Cluster D: Openness, brightness, Cluster C: environment
+Cluster D: pleasantess,
+presence of green (plants),
+width
+naturalness, eye-catching
+spaciousness, cozyness,
+emptiness, covering,
+cleanliness, luminosity,
+openness, comfort
+tranquillity (visual
+voement), brightness,
+framiliarity, consistency,
+visual tranquillity, reﬂief
+(source distance variation),
+commonness
+(expectability), people
+behaviour, ambience,
+vividness, sharpenss,
+friendliness, comfort
+II. Meaningful
+Cluster D:
+Cluster C: Exposure to sun
+Cluster E: exposure to sun
+Cluster A: Consistency, visual
+Cluster B: continuity, level,
+activities
+Unevenness, level
+(subject), activity
+(subject), continuity, level,
+tranquillity, peacefulness
+activity (movement of
+of nature, relief
+(movement of people),
+annoyance, light exposure/
+people), annoyance,
+(source distance
+people’s tension, light
+illumination, articial, people
+metallic, light exposure/
+variation), crowded,
+exposure, illumination,
+socializing, sound intensity,
+illumination, artiﬁcial,
+continuity, level,
+artiﬁcial, suﬀocating,
+sunniness, friendliness,
+natural light/brightness,
+annoyance, sound
+industrial, people
+comfort
+blandness, urban visual
+intensity
+socializing, sunniness
+porosity, sound intensity,
+sunniness, urban type of
+builidngs
+(Continued)
+136
+THE DESIGN OF THE PUBLIC REALM
+
+Table 4. (Continued).
+Individual Vocabulary Proﬁling (IVP)
+4 participants, providing 6
+All attributes by all
+4 participants, providing 4 Audio and 4 Visual attriburtes
+Audiovisual attributes
+participants
+III. Pleasurability
+Cluster E: Annoyance, Cluster E: Cloudiness,
+Cluster A: Routine/repeatability, Cluster B: joyfulness, contextual
+Cluster C: Openness, routine/
+localizability,
+liveliness (velocity of
+roughness, quality/brightness,
+integration, energetic,
+repeatilibyt, roughness,
+human voice,
+movement), coldness
+clarity (in terms of
+liveliness, predictability,
+peole’s joy, quality/
+loudness, bird
+annoyance), source
+liveliness, stimulating (audio),
+brightness, atmosphere,
+chirping
+naturalness, cloudiness,
+harshness, loudness,
+clarity (in terms of
+coldness, source naturalness.
+noisiness, loudness, sound
+annoyance), environment
+annoyance, loudness,
+naturalness, width source
+crowdedness, annoyance
+naturalness, cloudiness,
+feeling of relaxation, eye-
+catching, coldness, source
+naturalness
+IV. Safety
+Cluster B: Loudness,
+Cluster A: Emptiness, traﬃc
+Cluster C: Loudness, liveliness
+Cluster E: Building heights,
+Cluster E: Joyfulness,
+sound mess,
+density movement, colour
+(velocity of movement),
+natural light/brightness,
+contextual integration,
+sharpness, metallic.
+of buildings.
+sound mess, sharpness,
+blandness, urban visual
+interest, energetic,
+coldness, activity (movement
+porosity, urban type of
+liveliness, loudness,
+of people), people’s tension,
+buildings
+liveliness (velocity of
+metallic, visual mess,
+movement), predictability,
+suﬀocating, industrial
+sound mess, liveliness,
+sharpness, stimulating
+(audio), localizability,
+harshness, loudness,
+noisiness, people’s tension,
+visual mess, loudness,
+building heights, sound
+annoyance, suﬀocating,
+industrial, loudness,
+crowdedness, annyance
+(Continued)
+SOUNDSCAPE AND PUBLIC REALM
+137
+
+Table 4. (Continued).
+Individual Vocabulary Proﬁling (IVP)
+4 participants, providing 6
+All attributes by all
+4 participants, providing 4 Audio and 4 Visual attriburtes
+Audiovisual attributes
+participants
+V. Comfort
+Cluster C: Openness,
+Cluster B: Routine,
+Cluster B: Spaciousness,
+Cluster D: pleasantness,
+Cluster A: Emptiness,
+quality, brightness,
+repeatilibity, spaciousness,
+cozyness, tranquillity (visual
+people’s joyfulness,
+peacefulness, calmenss
+clarity (in terms of
+roughness, cozyness,
+movement), emptiness, traﬃc
+atmosphere, familiary,
+annoyance), width
+tranquillity (visual
+density movement (cars),
+commonness (expectability),
+source naturalness
+movement)
+unevenness, level of nature,
+people behaviour, feeling of
+x2, coldness
+relief (source distance
+relaxation, calmness, a bience,
+variation), colour of buildings,
+vividness, sharpness
+presence of green (plants),
+crowded, annoyance,
+emptiness (nº of people),
+localizability, covering
+openness, human voice
+loudness, birds chirping
+138
+THE DESIGN OF THE PUBLIC REALM
+
+Figure 11. Diﬀerences between the PSI (left) and the IVP (right) best-ﬁt correlation values, based on
+data from Figure 10 and mapped on the Park and market isovists areas. The 5 PSI name dimensions is
+the same for each dataset. The 5 IVP clusters change for each dataset since are the best-ﬁt depending
+SOUNDSCAPE AND PUBLIC REALM
+139
+
+Discussion
+From the results depicted in Figure 10, we can observe several connections between both
+PSI and IVP methods, and extract conclusions on the role of soundscape in the urban
+realm evaluation. In particular three diﬀerent aspects: (1) the matching between PSI and
+IVP depends on the urban area Market and the Park; (2) not all data sources of IVP
+correlate equally to the ﬁve dimensions of PSI.
+Firstly, it can be observed that the mean distance between PSI and IVP dimensions in
+the Park evaluations is smaller than in the Market, for all ﬁve datasets. Whereas the mean
+distances between the PSI and IVP evaluations ranges between 12,4 and 18,4 in the
+Market, the mean distances range between 1,65 and 3,37 in the Park. This indicates that
+the PSI indicators record better activities recorded in the Park than in the Market. This
+observation makes us think that whenever a place contains a high variability of activities,
+the PSI indicators diﬀer more than the IVP indicators. This observation is in accordance
+with current literature on the limiations of the PSI for use in diﬀerent urban contexts
+(Evans et al. 2019).
+Secondly, the correlation values vary depending on which dataset is compared. The
+least correlated dataset is the use of “Audio and Visual” attributes, with mean distances of
+18.89 and 15.22, for the market and the Park respectively. Using “Audiovisual” attributes
+decreases signiﬁcantly the means, especially for the Park (10.50). However, the lowest
+mean distance is achieved by the combination of “Audio+Visual+Audiovisual” attributes
+in the Park. A mean distance of 7.68 is achived, but with a high variance between the ﬁve
+dimensions. For this reason, the use of the separate datasets of “Audio” and “Visual”
+attributes might be more suitable to achieve low mean distances and low variance over
+the dimensions. This is especially the case of the “Audio” attributes rated in the Park,
+which mean distance is 8.71 and a lower variance than before.
+Conclusion
+This research explores the role of the soundscapes when evaluating public space and
+performs a quasi-experimental comparison between the PSI and IVP to extract which
+dimensions correlate best between both approaches. The results show that the PSI
+evaluations diﬀer to what people rate using PSI methods if the attributes used for the
+rating are referring to acoustic properties, to visual properties or combinations of them. In
+particular, the clear separation between acoustic and visual attributes shows a better
+correlation between both PSI and IVP. Finally, this urges the development of more robust
+and reproducible representation tools of urban spaces which include not only visual
+properties of urban spaces, but also soundscape characteristics of them.
+As a limiting factor, the research was conducted with a limited number of people.
+This fact did not allow for the extraction of relevant information from diﬀerent
+groups of people, users and not users of spaces, diversity in age, education, and
+to the dataset, as it can be seen in Table 4. Data is shown for each IVP dataset (Audio, visual, Audio +
+visual, Audiovisual, and Audio + visual + Audiovisual). It can be observed that PSI and IVP diﬀer most
+when people use multimodal “Audiovisual” attributes, rather than “Audio” and “visual” attributes.
+140
+THE DESIGN OF THE PUBLIC REALM
+
+language backgrounds, etc. Therefore, the present study opens the door to investi-
+gate on this direction. Additionally, objective metrics could be included to comple-
+ment the description of the public space and relate them to the descriptive clusters,
+such as connectivity indexes, visual integration or other parameters from urban
+network disciplines. Finally, the physiological impacts of the spatial soundscapes
+and the role of multisensory integration is important, as highlighted in the presented
+results. The study of those will require additional hardware and methodological
+implementations.
+Acoustic virtual reality might play an important role when applying this method to
+future urban plans. The auralization tools, in combination with visual rendering tools,
+provide plausible audio-visual stimuli which might be used as new input for judgements
+and evaluations. Further research on the levels of plausibility required would provide
+helpful insights to which extent those technologies might be used.
+Note
+1. https://youtube.com/playlist?list=PLjVMT5BkCe80bcKqUQ7FTYJLFb5lbt1Kl.
+Acknowledgments
+The authors like to acknowledge M.Sc. Jonas Heck for the help in the statistical analysis and RWTH
+Transforming City Regions Master Programme students for the help in the ﬁeld work.
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+Funding
+This work was developed at the “Person-focused Analysis of Architectural Design – PAAD group”
+[project number JPI065-20] and “Community Collaboration Laboratory for Sustainable Campus
+Development (CCLab), both are Junior Principal Investigator fellowships funded at RWTH Aachen
+University by the Federal Ministry of Education and Research (BMBF) and the Ministry of Culture and
+Science of the German State of North Rhine-Westphalia (MKW), under the Excellence Strategy of the
+Federal Government and the Länder. Additionally, it is funded by the Federal Ministry for Digital and
+Transport (BMDV), under the funding initiative mFUND (project number 19FS52043A). Other addi-
+tional funding: J-03040 by MICIU/AEI/10.13039/501100011033 and the European Union
+NextGenerationEU/PRTR. Both authors conceptualized, developed the idea, collected the data
+and wrote the paper equally, and share the ﬁrst authorship.
+ORCID
+Josep Llorca-Bofí
+http://orcid.org/0000-0003-3392-1845
+Ceren Sezer
+http://orcid.org/0000-0001-5350-549X
+SOUNDSCAPE AND PUBLIC REALM
+141
+
+References
+https://www.staedteregion-aachen.de/de/navigation/aemter/amt-fuer-inklusion-und-sozialpla
+nung-a-58/sozialplanung/sozialberichterstattung/befragung-covid19-sozial
+Aletta, F., F. Asdrubali, M. R. De Balsiis, L. Evangelisti, and C. Guattari. 2022. “Inﬂuence of Soundscape
+in the Experience of an Urban Area: A Case Study in Rome.” Proceedings in Human Factors in
+Architecture, Sustainable Urban Planning and Infrastructure, edited by Alicja Maciejko. AHFE (2022)
+International Conference. AHFE Open Access, Vol. 58, 159–164. USA: AHFE International. https://
+doi.org/10.54941/ahfe1002347.
+Aletta, F., J. Kang, and Ö. Axelsson. 2016. “Soundscape Descriptors and Conceptual Framework for
+Developing Predictive Soundscape Models.” In Landscape and Urban Planning, 65–74. Vol. 149.
+https://doi.org/10.1016/j.landurbplan.2016.02.001.
+Aletta, F., T. Oberman, A. Mitchell, H. Tong, and J. Kang. 2020. “Assessing the Changing Urban Sound
+Environment During the covid-19 Lockdown Period Using Short-Term Acoustic Measurements.”
+Noise Mapping 7 (1): 123–134. https://doi.org/10.1515/noise-2020-0011.
+Amphoux, P., and N. Tixier. 2017. “Paroles données, paroles rendues: La marche collective comme
+écriture du projet urbain.” Europe Revue Littéraire Mensuelle 2017 (1055): 196–215.
+Augoyard, J. F., and H. Torgue, Eds. 2005. Sonic Experience: A Guide to Everyday Sounds. McGill‐
+Queen’s University Press.
+Axelsson, Ö., M. E. Nilsson, and B. Berglund. 2009. “A Swedish Instrument for Measuring Soundscape
+Quality.” Proceedings of the Euronoise 2009 Conference., Edinburgh.
+Axelsson, Ö., M. E. Nilsson, and B. Berglund. 2010. “A Principal Components Model of Soundscape
+Perception.” Journal of the Acoustical Society of America 128 (5): 2836–2846. https://doi.org/10.
+1121/1.3493436.
+Barrie, L. 2020. “Alcances del procedimiento de normalización en el estudio del paisaje sonoro: La
+frontera epistemológica [Scope of the Standardization Procedure in the Study of the Soundscape:
+The Epistemological Frontier].” Proceedings of INGEACUS2020 International Congress of
+Acoustics and Professional Audio, Universidad de Chile, Santiago, Chile, 54–57.
+Bech, S., and N. Zacharov. 2006. Perceptual Audio Evaluation – Theory, Method and Application.
+Hoboken: Wiley. https://doi.org/10.1002/9780470869253.
+Bentley, I., A. Alcock, P. Murrain, S. McGlynn, and G. Smith. 1985. Responsive Environments: A Manual
+for Designers. Oxford: Elsevier.
+ﬀ
+ﬂ
+Bild, E., K. Pfe er, M. Coler, and L. Bertollini. 2019. “An Exploratory Study on the In uence of Activities
+on Pulbic Space Users’ Descriptions of Their Audiotory Environments on Site: The Case of
+Amsterdam.” Acta Acustica United with Acustica 105 (3): 449–463. https://doi.org/10.3813/AAA.
+919327.
+Brambilla, G., L. Maﬀei, M. Di Gabriele, and V. Gallo. 2013. “Merging Physical Parameters and
+Laboratory Subjective Ratings for the Soundsacpe Assessment of Urban Squares.” The Journal
+of the Acoustical Society of America 134 (1): 782–790. https://doi.org/10.1121/1.4768792.
+Brown, A. L. 2011. “A Review of Progress in Soundscapes and an Approach to Soundscape Planning.”
+International Journal of Acoustics and Vibration 17 (2): 73–81. https://doi.org/10.20855/ijav.2012.
+17.2302.
+Buﬀel, T., S. Yarker, C. Phillipson, L. Lang, C. Lewis, P. Doran, and M. Goﬀ. 2023. “Locked Down by
+Inequality: Older People and the COVID-19 Pandemic.” Urban Studies 60 (8): 1465–1482. https://
+doi.org/10.1177/00420980211041018.
+Carmona, M., T. Health, T. Oc, and S. Tiesdell. 2003. Public Places – Urban Space: The Dimensions of
+Urban Design. Oxford: The Architectural Press. ISBN 0750636327.
+Cook, T. D., and D. T. Campbell. 1979. Quasi-Experimentation: Design and Analysis Issues for Field
+Settings. Chicago: Rand McNally Publishing Company.
+Davies, W., M. D. Adams, N. S. Bruce, R. Cain, A. Carlyle, P. Cusack, D. A. Hall, et al. 2013. “Perception of
+Soundscapes: An Interdisciplinary Approach.” Applied Acoustics 74 (2): 224–231. https://doi.org/
+10.1016/j.apacoust.2012.05.010.
+Davies, W., N. Burce, and J. E. Murphy. 2014. “Soundscape Reproduction and Synthesis.” Acta
+Acustica United with Acustica 100 (2): 285–292. https://doi.org/10.3813/AAA.918708.
+142
+THE DESIGN OF THE PUBLIC REALM
+
+Doucet, A., D. Netolickz, K. Timmers, and F. Jim Tuscano. 2020. Thinking About Pedagogz in an
+Unfolding Pandemic. An Independent Report on Approaches to Distance Learning During
+COVID-19 School Closures. Independent Report Written to Inform the Work of Education
+International
+and
+UNESCO.
+https://learningportal.iiep.unesco.org/en/library/thinking-about-
+pedagogy-in-an-unfolding-pandemic-an-independent-report-on-approaches-to.
+(visited:
+22.11.2021.
+Duﬀy, M. 2020. “Soundscapes.” In The Routledge Hardbook of Place, edited by T. Edensor,
+A. Kalandides, and U. Kothari, 125–134. London: Routledge.
+Evans, J., S. Evans, J. D. Morgan, J. A. Synder, and F. P. Abderhalden. 2019. “Evaluating the Quality of
+Mid-Sized City Parks: A Replication and Extension Fo the Public Space Index.” Journal of Urban
+Design 24 (1): 119–136. https://doi.org/10.1080/13574809.2017.1411185.
+Franck, K., and Q. Stevens. 2006. Loose Space. London: Rouledge.
+Gehl, J. 1971. Life Between Buildings. Island Press.
+Guastavino, C., B. F.G. Katz, J.-D. Polack, D. Levitin, and D. Dubois. 2005. “Ecological Validiy of
+Soundscape Reproduction.” Acta Acustica United with Acustica 91 (2): 333–341.
+Hao, Y., P. Johnson, and R. Cope. 2020. “An Exploratory Review of Soundscape Descriptor Models for
+Soundscape Assessment and Design Practice.” Proceedings of the Institute of Acoustics. Doi:
+https://doi.org/10.25144/13341.
+Harris, A. D., J. C. McGregor, E. N. Perencevich, J. P. Furuno, J. Zhu, D. E. Peterson, and J. Finkelstein.
+2006. “The Use and Interpretation of Quasi-Experimental Studies in Medical Informatics.” Journal
+of the American Medical Informatics Association 13 (1): 16–23. Jan-Feb. https://doi.org/10.1197/
+jamia.M1749.
+Hong, J. Y., and J. Yong Jeon. 2017. “Exploring Spatial Relationships Among Soundsacpe Variables in
+Urban Areas: A Spatial Statistical Modelling Approach.” Landscape and Urban Planning
+157:352–364. https://doi.org/10.1016/j.landurbplan.2016.08.006.
+Hong, J. Y., and J. Yong Jeon. 2020. “Comparing Associations Among Sound Sources, Human
+Behaviours, and Soundscapes on Central Business and Commercial Streets in Seoul, Korea.”
+Building & Environment 186:107327. https://doi.org/10.1016/j.buildenv.2020.107327.
+”ISO 12913-1:2014 – Acoustics – Soundscape – Part 1: Deﬁnition and Conceptual Framework.” https://
+www.iso.org/standard/52161.html.
+Jacobs J. 1992. The Death and Life of Great American, 458. Knopf Doubleday Publishing Group.
+Jacobs, J. M. 1993. “The City Unbound: Qualitative Approaches to the City.” Urban Studies 30 (4–5):
+827–848. https://doi.org/10.1080/00420989320081931.
+Jiang, L., M. Masullo, L. Maﬀei, F. Meng, and M. Vorländer. 2018. “How Do Shared-Street Design and
+Traﬃc Restrictions Improve Urban Soundscape and Human Experince? – an Online Survey with
+Virtual Realit.” Building and Environment 143:318–328. https://doi.org/10.1016/j.buildenv.2018.07.
+005.
+Jo, H. I., and J. Y. Jeon. 2020. “The Inﬂuence of Human Behavioral Characteristics on Soundscape
+Perception in Urban Parks: Subjective and Observational Approaches.” Landscape and Urban
+Planning 203 (103890): 0169–2046. https://doi.org/10.1016/j.landurbplan.2020.103890.
+Lavia, L., M. Dixon, J. W. Harry, and M. J. Goldsmith. 2016. “Approaches to Urban Soundscape
+Management, Planning and Design.” In Soundscape and the Built Environment, edited by J.
+Kang and B. Schulte-Fortkamp, 18. CRC-Press. https://doi.org/10.1201/b19145-11.
+Legarth, V., C. Stender Simonsen, L. Bramslow, G. Le Ray, and N. Zacharov. 2010. “Sensory Evaluation
+of Hearing Aid Performance Based on Normal-Hearing Listeners.” Presented at the 3rd
+International Workshop on Perceptual Quality of Szstems (PQS 2010), Makuhari, Chiba, Japan,
+138–143. https://www.isca-speech.org/archive/pdfs/pqs_2010/legarth10b_pqs.pdf. (vivisted:
+22.11.2021.
+Lenzi, S., J. Sádaba, and P. M. Lindborg. 2021. “Soundscape in Times of Change: Case Study of a City
+Neighbourhood During the COVID-19 Lockdown.” Frontiers in Psychology 12. https://doi.org/10.
+3389/fpsyg.2021.570741.
+Llorca-Bofí, J., J. Heck, and M. Vorländer. 2024. “Relating 2D Isovists to Audiovisual Assessments of
+Two Urban Spaces in a Neighbourhood.” Noise Mapping 11 (1): 20240013. https://doi.org/10.
+1515/noise-2024-0013.
+SOUNDSCAPE AND PUBLIC REALM
+143
+
+Llorca-Bofí, J., C. Sezer, J. Heck, and M. Vorländer. 2022. “Unfolding Urban Vocabularies -Audio-Visual
+Description of Public Spaces.” DAGA 2022 - 48. Jahrestagung für Akustik –, Stuttgart. Url: https://
+pub.dega-akustik.de/DAGA_2022/data/index.html.
+Loﬂand, L. H. 1998. The Public Realm: Exploring the city’s Quitessential Social Territory. Hawthorne, N.Y:
+Aldine de Gruyter.
+Lokki, T., J. Patynen, A. Kuusinen, H. Vertanen, and S. Tervo. 2011. “Concert Hall Acoustics
+Assessment with Individually Elicited Attributes.” Journal of the Acoustical Society of America
+130 (2): 835–849. https://doi.org/10.1121/1.3607422.
+Loukaitou-Sideris A., and R. Ehrenfeucht. 2009. Sidewalks: Conﬂict and Negotiation Over Public Space.
+Cambridge: The MIT Press.
+Lynch, K. 1960. The Image of the City. Cambridge: The MIT Press.
+Lynch, K., and S. Carr. 1979. “Open Space: Freedom and Control.” In City Sense and City Design:
+Writings and Projects of Kevin Lynch, edited by T. Banerjee and M. Southworth, 864. Cambridge:
+The MIT Press.
+Masullo, M., L. Maﬀei, A. Pascale, V. Paolo Senese, S. De Stefano, and C. Kwan Chau. 2021. “Eﬀects of
+Evocative audio-Visual Installations on the Restorativeness in Urban Parks.” Sustainability 13 (15):
+8328. https://doi.org/10.3390/su13158328.
+Mehta, V. 2014. “Evaluating Public Space.” Journal of Urban Design 19 (1): 53–88. https://doi.org/10.
+1080/13574809.2013.854698.
+Mehta, V. 2020. “Public Space and covid-19.” The Journal of Public Space 5 (3): 15–22. https://doi.org/
+10.32891/jps.v5i3.1360.
+Montgomery, J. 2007. “Making a City: Urbanity, Vitality and Urban Design.” Journal of Urban Design
+3 (1): 93–116. https://doi.org/10.1080/13574809808724418.
+Németh, J., and S. Schmidt. 2007. “Toward a Methodology for Measuring the Security of Publicly
+Accessible Spaces.” Journal of the American Planning Association 73 (3): 283–297. https://doi.org/
+10.1080/01944360708977978.
+Oc, T., and S. Tiesdell. 2000. “Urban Design Approaches to Safer City Centers: The Fortress, the
+Panoptic, the Regulatory and the Animated.” In Landscapes of Defense, edited by J. R. Gold and G.
+Revill, 120. London: Prentice Hall.
+Palmese, C., J. L. Carles, and A. Rodriguez. 2023. “The Soundscape and Listening as an Approach to
+Sensuous Urbanism: The Case of Puerta Del Sol (madrid).” Urban Planning 9 (1). https://doi.org/10.
+17645/up.7206.
+Palmese, C., and J. L. Carles Arribas. 2020. “Historias sonoras del COVID-19. Nueva intimidad, nueva
+comunidad.” HipoTesis Serie Numerada 8:39–48. Recuperado a partir de https://hipo-tesis.eu/
+serienumerada/index.php/ojs/article/view/hipo8palmesecarles.
+Postel, F., P. Hegarty, and S. Bech. 2011. “A Listening Test System for Automotive Audio – Part5: The
+Inﬂuence of Listening Environment on Realism of Binaural Reproduction.” Paper presented at the
+130 Audio Engineering Society Convention, London, May 13-16, Compiegne, France. https://www.
+aes.org/e-lib/browse.cfm?elib=15913. (visited: 22.11.2021.
+Sezer, C. 2018. “Public Life, Immigrant Amenities and socio-Cultural Inclusion: The Presence and
+Changes of Turkish Amenities in Amsterdam.” Journal of Urban Design 23 (6): 823–842. https://doi.
+org/10.1080/13574809.2018.1475221.
+Sezer, C. 2020. “Visibility in Public Space and Socially Inclusive Cities: A New Conceptual Tool for
+Urban Design and Planning.” In Companion to Public Space, 137–151. London: Routledge.
+Sezer, C., and A. M. F. Maldonado. 2017. “Cultural Visibility and Urban Justice in Immigrant
+Neighbourhoods of Amsterdam.” Built Environment 43 (2): 193–213. Doi: https://doi.org/10.
+2148/benv.43.2.193.
+Sezer, C., and R. van Melik, eds. 2023. Marketplaces: Movements, Representations and Practices. Oxon,
+New York: Taylor & Francis.
+Shadish, W. R., T. D. Cook, and D. T. Campbell. 2002. Experimental and Quasi-Experimental Designs for
+Generalized Causal Inference. Boston: Houghton Miﬄin.
+Southworth, M. 1969. “The Sonic Environment of Cities.” Environment and Behavior 1 (1): 49–70.
+https://doi.org/10.1177/001391656900100104.
+144
+THE DESIGN OF THE PUBLIC REALM
+
+Tan, J. K. A., Y. Haswegawa, S. Lau, and S. Tang. 2022. “The Eﬀects of Visual Landscape and Traﬃc
+Type on Soundscape Perception in High-Rise Residential Estates on an Urban City.” Applied
+Acoustics 128:108580. https://doi.org/10.1016/j.apacoust.2021.108580.
+Thibaud, J. P. 2001. “La méthode des parcours commentés.” In L’espace urbain en méthodes, edited
+by M. Grosjean and J. P. Thibaud, 79–99. Ganges Occitanie, France: Editions Parenthèses.
+Trochim, W. M. K. 2001. The Research Methods Knowledge Base. Cincinnati: Atomic Dog Publishing.
+Varna, G., and S. Tiesdell. 2010. “Assessing the Publicness of Public Space: Th Star Model of
+Publicness.” Journal of Urban Design 15 (4): 575–598. https://doi.org/10.1080/13574809.2010.
+502350.
+Zacharov, N. 2019. Sensory Evaluation of Sound. Boca Raton: CRC Press.
+Zhang, M., and J. Kang. 2007. “Towards the evaluation, Description and Creation of Soundsacpes in
+Urban Open Spaces.” Environment and Planning B: Urban Analytics and City Science 34 (1): 68–86.
+https://doi.org/10.1068/b31162.
+SOUNDSCAPE AND PUBLIC REALM
+145

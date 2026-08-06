@@ -1,0 +1,1052 @@
+Percentile-level examination of ten acoustic indicators pinpoints urban 
+noise factors affecting noise effects on pedestrians
+Juan Miguel Barrig´on Morillas
+, David Montes Gonz´alez , Rosendo Vílchez-G´omez *, 
+Guillermo Rey-Gozalo
+Laboratorio de Acústica (Lambda), Departamento de Física Aplicada, Instituto Universitario de Investigaci´on para el Desarrollo Territorial Sostenible (INTERRA), Escuela 
+Polit´ecnica, Universidad de Extremadura, Avda. de la Universidad, s/n, 10003 C´aceres, Spain
+A R T I C L E I N F O
+Keywords:
+Effects of noise
+Noise perception
+Noise annoyance
+Irritability
+Startle
+Disturbance in spoken communication
+Environmental noise
+A B S T R A C T
+This study examines how different temporal acoustic percentiles can enhance the analysis of urban noise effects 
+on pedestrians. Traditional noise indicators, typically focusing on energy averages, are expanded by considering 
+statistical temporal structures to better correlate with subjective noise effects. Data was gathered via simulta­
+neous noise measurements and pedestrian surveys across streets with different traffic conditions. Noise in­
+dicators, including LAF, LAeq, LZeq, LCpeak, LAFmax, etc., were analysed at multiple percentiles (L1, L5, L10, L50, L90, 
+L95, L99).
+Results indicated that temporal percentiles substantially improved the predictive power for various noise 
+effects. Among all percentiles analysed, L50 emerged as universally effective, closely correlating with subjective 
+measures such as irritability, conversation interruption, and overall noise perception. Specific effects, such as 
+startle and auditory annoyance, correlated more strongly with background noise levels (LAF90, LAF95, LAF99). 
+Additionally, high-level noise indicators (LCpeak and LAFmax) showed improved correlation with noise effects when 
+considered through percentiles rather than conventional values.
+The study suggests that temporal statistical analysis offers critical insight beyond traditional energy-based 
+noise measures. It further highlights the significance of frequency weighting in noise assessment, advocating 
+the use of Z or C weightings rather than the common A weighting, especially for predicting irritability or startle. 
+Ultimately, incorporating temporal acoustic percentiles can substantially enhance the accuracy of predicting how 
+urban noise affects people’s daily experiences.
+1. Introduction
+Environmental noise is considered a major pollutant due to its
+negative impact, especially on the population in urban environments 
+[21,24,29,63] and on both wildlife and territory in natural areas [11,31,
+58,60]. The fight against noise pollution is a major challenge for 
+contemporary society due to various noise sources, such as trans­
+portation, industrial areas, construction, and leisure activities [3,22,43,
+61] and whose predominance depends on the type of environment
+evaluated. Public administrations face complexity in decision-making
+when adopting action plans for noise abatement, since it is necessary
+to harmonize the different interests and uses of public space that may
+exist. In addition, it is essential to take into consideration the charac­
+teristics and conditions of the environment in which the noise mitigation
+measures would be implemented [36,49], as well as the different factors
+on which each noise source depends [59,66,70].
+The assessment of environmental noise exposure in the area where 
+the action plans need to be implemented seems to be the first logical step 
+to take to determine the baseline acoustic situation. In this regard, in situ 
+measurements are a methodology that provides fairly accurate and 
+reliable results of the existing noise levels [51,67,68]. However, if the 
+area under evaluation is large, such as an entire city, the costs associated 
+with this methodology may be a factor to be considered. It is common in 
+this type of scenarios to use methodologies that combine both mea­
+surements and acoustic simulations by means of computational models, 
+which with proper planning allow obtaining results of noise levels with a 
+limited uncertainty [4,33,37]. However, studies based only on acoustic 
+measurements have an important advantage over simulations, such as 
+the possibility of obtaining different types of more specific acoustic 
+variables such as indicators related to the maximum and minimum 
+* Corresponding author.
+E-mail address: vilchez@unex.es (R. Vílchez-G´omez).
+Contents lists available at ScienceDirect
+Building and Environment
+journal homepage: www.elsevier.com/locate/buildenv
+https://doi.org/10.1016/j.buildenv.2025.113572
+Received 25 June 2025; Received in revised form 27 July 2025; Accepted 14 August 2025 
+Building and Environment 285 (2025) 113572 
+Available online 15 August 2025 
+0360-1323/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
+nc-nd/4.0/ ). 
+
+sound energy (Lmax, Lmin), temporal noise indicators (LN), indicators 
+related to the frequency spectrum (LZeq, LAeq, LCeq, Leq20–200 Hz, SIL, PSIL) 
+[6,39,64].
+If a study of this type is to be carried out in an urban environment, it 
+should be taken into account in the design of the working methodology 
+that, although there is a diversity of noise sources, road traffic is the one 
+to which a higher percentage of the population is usually exposed [17,
+55]. Measurements to conduct a fully experimental study or to validate 
+the computational calculation model should be carried out using a 
+sampling method representative of the spatial and temporal variability 
+of the sound source [5,10,52]. The multiple factors on which road traffic 
+noise depends, such as vehicle flow, speed, type of pavement, urban and 
+architectural characteristics of the city and environmental conditions, 
+should also be considered in the planning of the study [2,7,8,16,23,57]. 
+In addition to the aforementioned aspects, it is also important in the 
+planning of the study to select the acoustic indicators that need to be 
+considered according to the objectives to be achieved. In this sense, 
+sound variables that allow considering the temporal, frequency and 
+energy aspects of urban noise can be useful. Some indicators commonly 
+used in the scientific literature in acoustic studies in cities are Leq, Lmin, 
+Lmax, LN and Lpeak, to some of which frequency (A, C) and time (S, F, I) 
+weightings are applied [6,50,62,65]. Kasess et al. use certain percentiles 
+(the median and the value that was exceeded 5 % of the time) of some 
+acoustical and psychoacoustical indicators to explain the annoyance 
+produced by noise generated by heat pumps [30]. Chang et al. [14], 
+analysing the relationship between acoustic indicators and the percep­
+tion of noisiness in a hospital environment, found that the L10 percentile 
+of LAeq was the best predictor of perceived noisiness in waiting areas 
+used by staff in a children’s hospital. Additionally, Fiebig and Sottek 
+[18] investigated the relationship between perceived loudness and 
+certain temporal characteristics of sound. In their study, both peak and 
+background loudness levels were found to significantly contribute to 
+overall loudness assessments. These studies highlight the need to further 
+explore the relationship between noise effects and the temporal char­
+acteristics of the sound environment. ¨Ohrstr¨om et al. [47] used the LAeq, 
+24 h indicator to examine the relationship between road traffic noise and 
+general annoyance, indoor daytime activities (such as communication, 
+relaxation, concentration, and listening to radio or television), and 
+several health and well-being variables (e.g., feeling irritated or angry, 
+worried, and nervous).
+In addition to conducting a study of urban noise by means of 
+objective indicators, for making decisions regarding noise mitigation 
+plans it is also useful to assess the perception of the effects of noise 
+pollution by the inhabitants of the city [9,34,38,44]. This allows un­
+derstanding of the subjective perceptions of residents regarding noise 
+impacts on their quality of life, assessing aspects such as annoyance, 
+satisfaction with the sound environment and the possible disturbances of 
+this pollutant agent in their everyday activities [32,35,45,48]. Although 
+there are different survey methodologies, conducting on-site surveys to 
+pedestrians together with the acoustic measurements in that street can 
+be a very interesting technique, as the noise indicators closely reflect the 
+acoustic conditions in the time frame in which people answer the 
+questions.
+This paper presents experimental research involving simultaneous 
+on-site surveys and noise measurements to study the relationships be­
+tween some subjective variables associated with effects of urban noise in 
+pedestrians and some objective indicators related to the temporal 
+characteristics of sound environment. The primary scientific novelty of 
+this study is the introduction of a new approach using percentile levels of 
+some traditional sound indicators to study the relationship with noise 
+effects. In Section 2, the methodology used for simultaneous acoustic 
+measurements and pedestrian surveys in diverse urban environments is 
+detailed. Section 3 presents and discusses the significant findings related 
+to the correlations between subjective noise effects and various acoustic 
+temporal percentiles, highlighting the effectiveness of non-standard 
+acoustic indicators. Finally, Section 4 summarizes the key conclusions 
+derived from the analysis, emphasizing the relevance of temporal noise 
+characteristics and their implications for predicting noise effects in 
+urban settings.
+2. Method
+A study was conducted based on simultaneous in situ surveys and 
+noise measurements in the streets of C´aceres (Spain). A previous cate­
+gorization of urban streets based on their traffic circulation functionality 
+[4] was used as a reference to design the sampling method, ensuring 
+variability in urban characteristics and traffic flows. Objective and 
+subjective variables were collected through measurements and surveys 
+at 29 randomly selected sampling points (Fig. 1) on urban streets clas­
+sified into different categories during daytime working hours. A random 
+sample stratified by age group and gender was taken with the aim of 
+obtaining a sample with an age structure and gender ratio similar to that 
+of the city being evaluated [6].
+In situ noise measurements of 15-minute duration were conducted 
+simultaneously with the surveys, ensuring sufficient spatial separation 
+between measurement and survey points to prevent interference with 
+recorded noise levels. A class 1 sound level meter-analyser was utilized 
+to measure objective acoustic variables, alongside a class 1 sound cali­
+brator for verifying calibration accuracy before and after each mea­
+surement series. Noise measurements adhered to the general guidelines 
+provided by the ISO 1996–2 standard [27] and methodologies described 
+in recent literature [40,42,69]. The microphone was positioned 1.5 m 
+above ground level, 2 m from the nearest reflective façades, and simi­
+larly distanced from the closest point of the primary noise source (road 
+traffic).
+The survey comprised nine questions, each rated on an 11-point 
+numerical scale ranging from 0 (nothing or never) to 10 (totally or al­
+ways), addressing the effects of urban noise on pedestrians. The survey 
+comprised nine questions, each rated on an 11-point numerical scale 
+ranging from 0 (nothing or never) to 10 (totally or always), addressing 
+the effects of urban noise on pedestrians. More detailed information on 
+the survey is included in Supplementary Material. In cases where signs 
+of hearing impairment were identified during the interview, the re­
+spondent’s data was excluded from the analysis. This survey has been 
+designed, pretested, and validated in previous studies [53,54]. The in­
+ternal consistency of the items in this study shows a high Cronbach’s 
+alpha (0.93). In addition, in the validation of the construct through 
+factor analysis, a KMO of 0.97 and a principal component encompassing 
+the different items with a percentage of explained variance greater than 
+65 % were obtained.
+The subjective variables obtained from surveys and the objective 
+variables recorded from acoustic measurements are listed respectively in 
+Tables 1 and 2. Regarding subjective variables, respondents were first 
+asked to indicate the extent or frequency with which environmental 
+noise on the street caused them: a) irritability; b) startle; c) annoyance in 
+the ears; d) interrupting a conversation with someone nearby; e) raising 
+the volume of their voice to speak with someone nearby; f) interrupting 
+a phone conversation; and g) raising the volume of their voice on a 
+phone conversation. Participants subsequently rated (h) acoustic 
+perception of the environment on that street, and (i) the degree to which 
+the noise annoyed them during the survey. The simultaneous timing of 
+the sound measurements and surveys, together with the interviewers’ 
+experience, were decisive in controlling for confounding factors.
+An analysis was conducted to investigate the relationships between 
+subjective variables related to the perceived effects of noise on pedes­
+trians (Table 1) and acoustic variables reflecting the statistical temporal 
+characteristics of urban noise environments (Table 2).
+For this study, acoustic variables were divided into two groups. The 
+first group included standard acoustic variables, encompassing the 
+percentiles traditionally employed in environmental acoustics derived 
+from instantaneous sound pressure levels with A and F frequency 
+weightings. The second group comprised what were called non-standard 
+J.M. Barrig´on Morillas et al. 
+Building and Environment 285 (2025) 113572 
+2 
+
+acoustic variables. These were calculated as typical percentiles (L1, L5, 
+L10, L50, L90, L95, and L99) but based on second-by-second records of 
+traditional acoustic indicators that generally do not have percentiles 
+computed: LZeq, LCeq, LAeq, LAIeq, Loudness, Loudness Level, LCpeak, LAFmax, 
+and LAFmin.
+The percentiles used have been selected to characterise in urban 
+environments: the background noise level, or levels that are exceeded 
+between 90 % and 99 % of the assessment time (L90, L95, L99); a mean 
+value indicator (L50), 50 % of the time the indicator is above - or below - 
+this value; and the highest noise levels, or levels that are exceeded be­
+tween 1 % and 10 % of the time (L1, L5, L10). To calculate the time 
+percentiles of the noise indicators, after recording their values in every 
+second of the 15-minute measurement period, the noise level that is 
+exceeded during the corresponding percentage of the time (1 %, 5 %, 10 
+Fig. 1. Sampling points in C´aceres (from Google Earth).
+Table 1 
+Subjective variables registered in during the survey.
+Subjective variables
+Meaning
+a)
+Irritability
+b)
+Startle
+c)
+Annoyance ears
+d)
+Interrupting conversation
+e)
+Raising volume
+f)
+Interrupting phone
+g)
+Raising phone
+h)
+Noisy street
+i)
+Annoyance
+Table 2 
+Objective variables registered during the measurements and their percentiles.
+Objective variables
+Percentiles of objective variables
+LAF
+LAF1
+LAF5
+LAF10
+LAF50
+LAF90
+LAF95
+LAF99
+LZeq
+LZeq1
+LZeq5
+LZeq10
+LZeq50
+LZeq90
+LZeq95
+LZeq99
+LAeq
+LAeq1
+LAeq5
+LAeq10
+LAeq50
+LAeq90
+LAeq95
+LAeq99
+LCeq
+LCeq1
+LCeq5
+LCeq10
+LCeq50
+LCeq90
+LCeq95
+LCeq99
+LAIeq
+LAIeq1
+LAIeq5
+LAIeq10
+LAIeq50
+LAIeq90
+LAIeq95
+LAIeq99
+Loudness
+Loudness1
+Loudness5
+Loudness10
+Loudness50
+Loudness90
+Loudness95
+Loudness99
+Loudness level
+Loudness level1
+Loudness level5
+Loudness level10
+Loudness level50
+Loudness level90
+Loudness level95
+Loudness level99
+LCpeak
+LCpeak1
+LCpeak5
+LCpeak10
+LCpeak50
+LCpeak90
+LCpeak95
+LCpeak99
+LAFmax
+LAFmax1
+LAFmax5
+LAFmax10
+LAFmax50
+LAFmax90
+LAFmax95
+LAFmax99
+LAFmin
+LAFmin1
+LAFmin5
+LAFmin10
+LAFmin50
+LAFmin90
+LAFmin95
+LAFmin99
+J.M. Barrig´on Morillas et al. 
+Building and Environment 285 (2025) 113572 
+3 
+
+%, 50 %, 90 %, 95 % and 99 %) is determined. The acoustic indicators 
+consider: 1) different spectral weightings in order to adapt the measured 
+sound level to the frequency response of the human ear as a function of 
+the sound level (Z, C, A or variable with the level); 2) incorporating 
+different time weightings, either with a historical origin related to the 
+first analogue sound level meters (S and F), defined to simulate the 
+response of the ear to impulsive noises (I) or to measure this type of noise 
+from the maximum sound pressure reached during the measurement 
+period (peak); 3) taking into account the masking effect of some sounds 
+on others (Loudness, Loudness Level). Finally, these aspects are 
+considered in the followings indicators with different frequency and 
+time weightings o with masking effects: 1) to evaluate the average sound 
+energy during the evaluation period without masking effect (LZeq, LCeq, 
+LAeq and LAIeq) o with masking effects (Loudness and Loudness Level) 
+and 2) to reflect the maximum and minimum values of sound energy 
+during the evaluation period (LCpeak, LAFmax and LAFmin).
+Pearson’s correlation coefficient was used to statistically analyse the 
+relationships between subjective variables (noise effects) and objective 
+acoustic variables (percentiles of various sound indicators). This para­
+metric statistical approach was applied following verification of as­
+sumptions for normality (Shapiro test), homoscedasticity (Breusch- 
+Pagan test), linearity (RESET test), and independence (Durbin-Watson 
+test). The statistical power achieved given the sample size (105 partic­
+ipants) was 0.94, exceeding the recommended minimum power of 0.8 
+suggested by prior studies [15,20].
+3. Results and discussion
+3.1. Standard acoustic variables related to the statistical time structure of 
+sound
+This subsection examines the relationships between standard 
+objective acoustic variables and subjective variables related to urban 
+noise effects perceived by pedestrians. Table 3 shows the correlation 
+coefficient between subjective and acoustic variables, along with their 
+corresponding levels of significance. It is immediately apparent that all 
+percentiles, except LAF1 for effect (c), demonstrate statistically signifi­
+cant correlations with all studied noise effects. But let us first analyse for 
+which percentiles the highest values of the correlation coefficient are 
+obtained in relation to the noise effects studied. The LAF50 indicator, 
+representing average street noise levels, is notably the only percentile 
+significantly correlated at p ≤0.001 with all subjective variables. This 
+indicator explains approximately 50 % of the variance in subjective 
+responses such as irritability (a), startle (b), elevation of the volume of 
+nearby conversations (e) and telephone conversations (g) and annoy­
+ance (i). Moreover, it yields Pearson correlation coefficients equal to or 
+higher than those of other percentiles for 6 of the 9 analysed effects: (a) 
+irritability (r = 0.71), (d) interrupting conversation (r = 0.66); (e) 
+raising volume (r = 0.70), (f) interrupting phone (r = 0.60), (g) raising 
+phone (r = 0.69) and (h) perceived street noise (r < 0.66). In contrast, 
+two effects —startle (b) and annoyance ears (c)— show strongest cor­
+relations with percentiles related to background and minimum noise 
+levels (LAF90, LAF95, LAF99). A percentile related to background noise, 
+LAF90, is the best percentile (r = 0.71) for (b) startle effect, and two 
+percentiles related with minimum noise levels, LAF95 and LAF99, are the 
+best for (c) auditory annoyance (r = 0.67). For (b) startle, the value of 
+the correlation coefficient achieved for LAF50 is very close to them (r =
+0.69), but for (c) auditory annoyance, the value for LAF50 is some dis­
+tance (r = 0.59). The LAF5 percentile, associated with the highest noise 
+levels, achieves the highest Pearson correlation coefficient for (i) 
+annoyance (r = 0.78) and only this effect shows the highest correlation 
+coefficient values for the group of peak and mean percentiles levels 
+(LAF1, LAF5, LAF10 and LAF50). In this case, the LAF50 indicator also reaches 
+a relatively close value (r = 0.73). Two main conclusions emerge from 
+these results. Firstly, the optimal percentile varies depending on the 
+specific noise effect studied, ranging from peak noise percentiles to those 
+associated with background or average noise levels. Secondly, if one 
+percentile must be selected to consistently evaluate all studied effects, 
+LAF50 clearly emerges as the most robust choice and, moreover, its ca­
+pacity to explain the appearance and intensity of the effects, in general, 
+never far from that achieved at the most appropriate percentile for this 
+purpose.
+Next, focusing on the noise effects, Table 3 reveals that irritability (a) 
+and perceived street noise (h) show statistically significant correlations 
+(p ≤0.001) across all analysed percentiles. The highest correlation co­
+efficient was observed for (i) annoyance (r = 0.78). Conversely, inter­
+ruption phone (f) had the lowest maximum correlation coefficient (r =
+0.60, for LA50 percentile) among all effects. This effect also reaches the 
+lowest significative value of all those in the table, r = 0.40 (p < 0.05), for 
+the LAF1 percentile. A particularly notable finding from Table 3 is that 
+the LAF50 percentile indicator consistently shows the strongest linear 
+correlations with all effects related to spoken communication distur­
+bances (d-g) and perceived noisiness of the street (h). This result sug­
+gests that perceptions of street noisiness may be closely linked to its 
+impacts on communication quality within urban settings.
+The results described above suggest that the occurrence and intensity 
+of the analysed noise effects may be closely related to the statistical 
+temporal structure of urban noise environments, possibly indicating 
+causal relationships among certain noise effects.
+To analyse these possibilities in greater detail, the Pearson correla­
+tion coefficients obtained for each percentile were plotted against each 
+of the subjective variables (a–i) in Fig. 2. In this figure, correlation co­
+efficients (r) for each noise effect are represented as a series of seven 
+points, ordered from left to right corresponding to percentiles LAF99, 
+LAF95, LAF90, LAF50, LAF10, LAF5, and LAF1. Fig. 2 clearly indicates groups 
+of noise effects sharing similar correlation patterns (e.g., effects d, e, f, g, 
+and h), distinctly differing from the patterns of other effects (e.g., effects 
+a, b, c, and i). This observation suggests the value of examining whether 
+Table 3 
+Correlation coefficient between subjective variables and acoustic variables related to the time structure of the sound wave.
+LAF1
+LAF5
+LAF10
+LAF50
+LAF90
+LAF95
+LAF99
+a)
+0.62***
+0.69***
+0.71***
+0.71***
+0.64***
+0.62***
+0.59***
+b)
+0.50**
+0.62***
+0.66***
+0.69***
+0.71***
+0.70***
+0.68***
+c)
+0.34 n.s.
+0.45*
+0.49**
+0.59***
+0.66***
+0.67***
+0.67***
+d)
+0.52**
+0.61***
+0.62***
+0.66***
+0.61***
+0.60***
+0.57**
+e)
+0.55**
+0.62***
+0.65***
+0.70***
+0.64***
+0.62***
+0.58**
+f)
+0.40*
+0.51**
+0.54**
+0.60***
+0.57**
+0.56**
+0.54**
+g)
+0.52**
+0.60***
+0.63***
+0.69***
+0.62***
+0.60***
+0.56**
+h)
+0.59***
+0.63***
+0.64***
+0.66***
+0.64***
+0.62***
+0.60***
+i)
+0.77***
+0.78***
+0.76***
+0.73***
+0.59***
+0.55**
+0.49**
+n.s Non-significant correlation (p > 0.05).
+* Significant at p ≤0.05.
+** Significant at p ≤0.01.
+*** Significant at p ≤0.001.
+J.M. Barrig´on Morillas et al. 
+Building and Environment 285 (2025) 113572 
+4 
+
+statistically significant relationships exist between these correlation 
+patterns across different subjective effects. Such relationships could help 
+elucidate the reasons behind the similarities or differences in the in­
+tensity of noise effects and establish possible connections either among 
+different noise effects or between these effects and the temporal features 
+of urban noise environments. To achieve this, a linear correlation 
+analysis was conducted between the patterns of correlation coefficient 
+values across different pairs of noise effects. Table 4 show the resulting 
+correlation coefficients. The independent variable is represented by the 
+effects listed in the rows of Table 4. For example, the correlation coef­
+ficient pattern for (a) irritability significantly predicts the pattern for (d) 
+interrupting a conversation with someone nearby, yielding a Pearson 
+correlation coefficient of 0.76 (p ≤0.05).
+Table 4 illustrates that effect (a), irritability, shares similar correla­
+tion patterns with effects (d), (e), (g), and (h), all significant at p ≤0.05. 
+These findings suggest that, in a statistically significant way, with a 
+moderate intensity: (I) irritability is linked to disruptions in communi­
+cation quality caused by noisy environments, or (II) the perceived 
+noisiness of a street is associated with irritability induced by urban 
+noise.
+The strongest correlations among these percentile structures in 
+explaining noise effects occur between effects (d), (e), (f), (g), and (h). 
+Table 4 clearly shows significant correlations between every possible 
+pair of these five effects. In some cases, the Pearson correlation co­
+efficients reach values of 0.98 or higher, indicating that more than 96 % 
+of the variance in percentile correlation patterns is shared among these 
+effects. This strongly suggests that these five effects may originate from 
+similar temporal structures of urban noise. Therefore, the perception of 
+street noisiness may be closely linked to the disruptive impacts of noise 
+on spoken communication quality.
+Notably, the correlation between the percentile structure for (b) 
+startle and those for (c) annoyance ears (p < 0.01), and especially (f) 
+interrupting phone (p < 0.001), suggests that these effects may be 
+triggered by similar temporal characteristics of the urban noise 
+environment. This may indicate that the temporal patterns of noise 
+causing startle also contribute to ear discomfort or interfere with phone 
+conversations. This finding is consistent with the statistically significant 
+relationship reported in Table 4 between ear annoyance and phone call 
+interruption (p < 0.05).
+Remarkably, the correlation structure for the annoyance effect (i) 
+shows no significant similarity with those of the other effects, except for 
+a single negative correlation with (c) annoyance ears (p < 0.05). Two 
+key conclusions can be drawn from this finding. First, it suggests a 
+substantial difference between the objective temporal features of the 
+sound environment responsible for the annoyance effect and those un­
+derlying the other eight effects. Second, it may indicate that opposing 
+temporal structures of the sound environment underlie two distinct re­
+sponses: the more physiological ear annoyance and the more psycho­
+logical perception of general annoyance from ambient noise.
+3.2. Non-standard acoustic variables related to the statistical time 
+structure of sound
+This section introduces a novel approach to analysing the relation­
+ships between perceived noise effects and sound indicators related to the 
+statistical temporal variability of sound levels. In urban noise studies, 
+percentiles calculated from instantaneous A- and F-weighted sound 
+pressure levels are typically used to characterize statistical temporal 
+variability. The new method proposed calculates standard percentiles 
+(L1, L5, L10, L50, L90, L95, L99) based on second-by-second recordings of 
+several conventional acoustic indicators: LZeq, LCeq, LAeq, LAIeq, Loudness, 
+Loudness Level, LCpeak, LAFmax, and LAFmin. To assess the relevance of 
+statistical temporal variability in noise effect prediction, Pearson cor­
+relation coefficients for these percentiles were compared with those 
+obtained from the indicators themselves [6] and with standard A- and 
+F-weighted percentiles (see Section 3.1).
+For this analysis, the percentile with the highest regression perfor­
+mance was selected (optimal percentile). Additionally, based on previ­
+ous results from Section 3.1, the L50 percentile was used as a reference, 
+since it is the one with which the best results are generally achieved. 
+Fig. 3 presents correlation coefficients between various noise effects (a-i) 
+and the traditional indicators, including comparisons with the L50 
+percentile and the optimal percentile. Table 5 summarizes explicitly 
+which percentile is optimal for each effect-indicator pair.
+A detailed examination of the results presented in Fig. 3 reveals 
+several significant findings: 
+- For the majority of the 81 studied effect-indicator pairs, at least one 
+percentile outperforms the traditional acoustic indicator. Only five 
+pairs show no improvement, and even then, differences are minimal 
+(under 3 %). These exceptions involve the "noisy street" (effect h) 
+with LZeq and LCeq, and "annoyance" (effect i) with LAeq, LAIeq, and 
+Loudness Level. These results emphasize the importance of consid­
+ering the temporal variability of sound in urban noise assessment.
+Fig. 2. Correlation coefficients between the percentiles LAF99 (leftmost point), 
+LAF95, LAF90, LAF50, LAF10, LAF5 and LAF1 (rightmost point), for each of the noise 
+effects (a-i).
+Table 4 
+Correlation coefficients between the values structure of the correlation coefficients of variables a)-i) in Fig. 2.
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+a)
+n.s.
+n.s.
+0.76*
+0.77*
+n.s..
+0.77*
+0.79*
+n.s.
+b)
+​
+0.91 **
+n.s.
+n.s.
+0.97***
+n.s.
+n.s.
+n.s.
+c)
+​
+​
+n.s.
+n.s.
+0.82*
+n.s.
+n.s.
+−0.86*
+d)
+​
+​
+​
+0.98***
+0.84*
+0.99***
+0.98***
+n.s.
+e)
+​
+​
+​
+​
+0.80*
+1.00***
+0.99***
+n.s.
+f)
+​
+​
+​
+​
+​
+0.81*
+0.78*
+n.s.
+g)
+​
+​
+​
+​
+​
+​
+0.99***
+n.s.
+h)
+​
+​
+​
+​
+​
+​
+​
+n.s.
+n.s. Non-significant correlation (p > 0.05).
+* Significant at p ≤0.05.
+** Significant at p ≤0.01.
+*** Significant at p ≤0.001.
+J.M. Barrig´on Morillas et al. 
+Building and Environment 285 (2025) 113572 
+5 
+
+- Another noteworthy result concerns indicators associated with 
+extreme sound levels (LCpeak, LAFmax, LAFmin) which showed notably 
+stronger correlations when analysed through percentiles, compared 
+to using the indicators directly, even for those effects where the base 
+indicators do not show significant relationships.
+- The L50 percentile generally surpasses the base indicator and per­
+formed close to optimal across indicators and effects, particularly for 
+high-level indicators (LCpeak and LAFmax) and for A-weighted or level- 
+dependent weighted indicators. Although for specific nose effects, 
+like "annoyance" (effect i) or “annoyance ears” (effect c), it per­
+formed slightly below the best percentile. These results support the 
+use of L50 as a reliable, generalized reference percentile. Studying 
+other sound aspects, similar results to those obtained in the present 
+work on L50 primacy have been published by several authors [12,
+46]. Other authors [14] find that L10 (not L50) may be a better in­
+dicator to explain how noisy is perceived the waiting areas in a 
+Chinese children’s hospital. In this case, it is not possible to assert the 
+existence of discrepancies with respect to the findings reported in 
+this study, since Chang et al. [14] does not analyse L50 and in our 
+work, for the LAF indicator, the L10 percentile is better than the L90 
+percentile, as occurs in the work of Chang et al. [14].
+- Additionally, for all effects, except those related to telephone 
+communication (f and g), the best correlations are generally found 
+with the percentiles associated to Z- or C-weighted indicators. This 
+observation could be particularly significant given the widespread 
+use of A-weighted indicators in urban noise assessments. This finding 
+and the well-known limitation of telephone systems in reproducing 
+low-frequency sounds effectively [28], show a coherence of the re­
+sults and reinforce their quality. Note that even for annoyance (i), 
+which is the only effect for which a clear improvement in the value of 
+r was found in those indicators not weighted Z or C when using 
+traditional energy based indicators [6], when it is now analysed on 
+the basis of the percentiles of all the indicators, the highest correla­
+tion of annoyance with the Z or C weighted indicator percentiles is 
+achieved using LCpeak (r = 0.80), similar to the best previous value 
+obtained with LAIeq (r = 0.81) [6].
+- Finally, it can be seen in Fig. 3 that there are two groups of behav­
+iours. A first group for the Z- or C-weighted indicators, and a second 
+group for the rest of the indicators. In each of these two groups, it can 
+be said that the way in which the indicator is weighted is more 
+important than the indicator used, whether it is obtained by means of 
+an energy average or by means of a maximum or minimum energy 
+value. This finding may indicate that the ability of statistical time 
+indicators to explain the effects of noise is conditioned to a greater 
+extent by the weighting used than by whether the indicator is derived 
+Fig. 3. Correlation coefficients between the noise effects (a-i) with respect to the noise indicators [6] and their percentiles L50 and LXX (percentile with the higher 
+value of r coefficient).
+Table 5 
+Number indicating the best percentile for each effect (a-i)/indicator pair.
+Effect
+LAFx
+LAFMax
+LAFMin
+LCpeak
+LAIeq
+LAeq
+LCeq
+Loudness
+LoudLevel
+LZeq
+a)
+10
+10
+50
+50
+10
+50
+50
+5
+50
+50
+b)
+90
+90
+90
+90
+90
+90
+90
+90
+50
+90
+c)
+95
+95
+95
+95
+95
+95
+95
+95
+95
+95
+d)
+50
+50
+50
+5
+50
+50
+5
+50
+50
+5
+e)
+50
+50
+50
+10
+50
+50
+5
+50
+50
+5
+f)
+50
+50
+50
+10
+50
+50
+5
+90
+50
+5
+g)
+50
+50
+50
+10
+50
+50
+5
+50
+50
+5
+h)
+50
+50
+50
+50
+50
+50
+50
+50
+50
+5
+i)
+5
+1
+1
+5
+1
+5
+5
+1
+1
+5
+J.M. Barrig´on Morillas et al. 
+Building and Environment 285 (2025) 113572 
+6 
+
+from an energy average or is an indicator of maximum or minimum 
+values.
+Now, an analyse of results showed in Table 5 reveals that: 
+- The noise effect being analysed is more influential than the indicator 
+itself in determining the most relevant percentile. For example, 
+“startle” (effect c) is best explained by L95 across all indicators; 
+“annoyance ears” (effect b) by L90 (except for Loudness Level, where 
+L50 is better). In contrast, no single indicator consistently determines 
+the best percentile. The most stable combination is Loudness Level 
+with the L50 percentile.
+- For indicators not Z- or C-weighting, the best percentile for pre­
+dicting the impact of noise on spoken communication in urban set­
+tings (effects d to g) is L50. This pattern is also observed when 
+assessing perceived street noisiness also including C-weighted in­
+dicators. Thus, across nine indicators, the results suggest a strong 
+link between the perceived noisiness of a street and the interference 
+that noise causes in verbal communication.
+Table 5 and Fig. 3 also supports the conclusions drawn from Fig. 2
+and Table 2. This is particularly significant as earlier conclusions (from 
+Section 3.1) were based on a single sound indicator whereas the current 
+findings are supported by percentiles across nine indicators. It can be 
+observed that: 
+- For all indicators, the effects (b) startle and (c) annoyance ears are 
+best explained by percentiles associated with background noise 
+levels. Several studies have examined various aspects related to the 
+startle effect, either in animals [19,25,26] or in humans [41]. The 
+experimental conditions of these studies (laboratory settings that do 
+not include percentile-based acoustic indicators and that do not 
+consider a single general acoustic environment, but rather distin­
+guish between a target noise and a separate background noise) differ 
+significantly from those adopted in the present study. It is considered 
+that there is complementarity between the results shown in this work 
+and those obtained in the cited bibliography, and it is believed that, 
+given the complex nature of psychoacoustic mechanisms and the 
+different factors that may be associated with noise perception, new 
+research, with multidisciplinary teams of specialists in acoustic en­
+gineering, neuropsychology and otorhinolaryngology, are necessary 
+to understand the relationship between physical noise characteristics 
+and noise effects occurrence.
+- A notable difference is observed between the temporal characteris­
+tics associated with effect (i) annoyance and those associated with 
+the other effects with the largest difference with effect (c) annoyance 
+ears.
+- Depending on the specific noise effect, the optimal percentile varies, 
+and this variation is consistently observed across all nine indicators.
+- The 50th percentile appears most frequently and the Pearson cor­
+relation values for L50 are generally close to those of the best 
+percentile —with the largest differences seen in effects (c) annoyance 
+ears and (i) annoyance. These findings (now with ten different in­
+dicators) allow to conclude that if one percentile must be chosen to 
+evaluate all effects, L50 is the most reliable.
+As demonstrated by the results of this study, the use of indicators that 
+define the temporal statistical structure of sound environments gener­
+ally improves the ability of sound indicators to explain the effects of 
+urban noise on pedestrians. Among them, the L50 indicator shows, on 
+average, better performance than the rest of the percentiles. In addition, 
+in other studies, researchers have shown that L50 aligns more closely 
+with subjective assessments of sound quality and pleasantness, espe­
+cially in urban contexts [12,13,56]. Its potential to better reflect the 
+typical auditory experience, suggests that L50 could be a useful indicator 
+for spatial characterisation and perceptual evaluation of acoustics 
+environments, overcoming to LAeq. Other authors have also shown that 
+L50 may serve as a reliable indicator for the continuous assessment of 
+noise, due to its reduced sensitivity to anomalous events, an aspect of 
+particular importance given the growing relevance of dynamic noise 
+mapping [1]. Therefore, the use of L50 in noise policy possibly can 
+contribute to a more targeted and effective noise management 
+strategies.
+All these results may indicate that, in addition to the energetic as­
+pects normally considered when relating noise effects to received doses, 
+the statistical temporal structure of noise may also play a critical role in 
+the occurrence of such effects. Consequently, this structure may be 
+significant for predicting the effects that urban noise environments may 
+have on people.
+Considering these findings, may be of interest that urban planners 
+and policy makers review current noise assessment protocols and miti­
+gation strategies by incorporating statistical temporal structures of 
+acoustic indicators, such as temporal percentiles, into both the diagnosis 
+and monitoring phases. By integrating these acoustic descriptors into 
+urban noise models and action plans, decision-makers can more effec­
+tively target interventions to enhance acoustic comfort and public well- 
+being in diverse urban environments. Finally, public communication 
+strategies can be enhanced using percentile-based noise maps that 
+reflect actual perceptual impacts rather than solely energetic averages, 
+promoting more transparent and targeted decision-making.
+4. Conclusions
+This study demonstrates the significant role of the statistical tem­
+poral structure of urban noise in explaining and predicting its effects on 
+pedestrians. The following conclusions are supported by the results 
+obtained with both the percentiles of the traditional LAF sound indicator 
+and the percentiles of nine other indicators that are not traditionally 
+used with percentiles. The optimal percentile for describing the impact 
+of noise varies depending on the specific effect examined. Nevertheless, 
+the L50 percentile consistently proved to be the most robust overall in­
+dicator, displaying strong correlations across all subjective variables and 
+supporting the use of L50 as a reliable, generalized reference percentile. 
+In particular, it effectively captured the influence of noise on 
+communication-related effects, such as the interruption of conversations 
+and the need to raise one’s voice, as well as the general perception of a 
+street being noisy. These findings suggest a close relationship between 
+perceived street noisiness and the degradation of spoken communication 
+quality due to urban noise exposure.
+The results further indicate that there is a large difference between 
+the objective characteristics of the sound environment that cause the 
+annoyance effect and those that cause the other eight effects analysed. In 
+fact, the discomfort in the ears, likely more physiological, and the feeling 
+of ambient annoyance, possibly more psychological, seem to be caused 
+by reversed temporal noise structures. These distinctions highlight the 
+complexity of human responses to urban noise and emphasize the lim­
+itations of traditional energy-based indicators. In this regard, the dy­
+namic variation of sound levels over time emerges as a key explanatory 
+factor for the manifestation and intensity of noise effects.
+Complementary analysis using non-standard acoustic indicators 
+supports and extends these conclusions. Percentiles derived from 
+second-by-second recordings of nine conventional indicators (spanning 
+average energy, peak levels, and minimum levels) yielded improved 
+predictive capacity compared to the indicators themselves. This was 
+particularly evident for high-level indicators such as LCpeak and LAFmax, 
+whose percentiles showed markedly stronger correlations with all 
+studied effects, even when the original indicators were not significantly 
+related. A similar trend, although more moderate, was observed for the 
+minimum-level indicator LAFmin.
+The outcomes found in the present study underscore that the effect 
+under analysis, rather than the acoustic indicator used, primarily de­
+termines the most relevant temporal percentile. Moreover, the type of 
+J.M. Barrig´on Morillas et al. 
+Building and Environment 285 (2025) 113572 
+7 
+
+frequency weighting applied was found to be more influential than 
+whether the indicator represents average or extreme energy values. In­
+dicators using Z or C frequency weighting (preserving low-frequency 
+spectral content) proved to be more effective for predicting urban 
+noise effects when temporal statistical features were employed, 
+regardless of whether they reflect mean, maximum, or minimum levels. 
+This finding may be particularly relevant given the widespread use of A- 
+weighted indicators in urban noise evaluations, suggesting that it may 
+be worth reconsidering, or at least re-examining, the extent to which 
+these metrics should remain the standard in such assessments.
+In closing, and as a general summary of the outputs found in the 
+present study, it can be said that, although the average sound energy 
+during exposure remains important for explaining certain noise effects, 
+as traditionally assumed in dose–response models, this work reveals that 
+the temporal evolution of sound levels throughout the exposure period 
+plays a critical role for all analysed effects. Accordingly, the statistical 
+temporal structure of urban noise should be recognized as a fundamental 
+dimension in the assessment and prediction of noise-induced impacts on 
+urban populations.
+Funding
+This project was co-financed by European Regional Development 
+Fund (ERDF) and Junta de Extremadura (IB18050 and GR21061). This 
+work was also supported by Consejería de Economía, Ciencia y Agenda 
+Digital of Junta de Extremadura through grants for attracting and 
+returning research talent to R&D&I centres belonging to the Extrem­
+adura Science, Technology and Innovation System (TA18019), where 
+University of Extremadura was the beneficiary entity.
+CRediT authorship contribution statement
+Juan Miguel Barrig´on Morillas: Writing – review & editing, 
+Writing – original draft, Validation, Supervision, Software, Resources, 
+Project administration, Methodology, Investigation, Funding acquisi­
+tion, Formal analysis, Data curation, Conceptualization. David Montes 
+Gonz´alez: Writing – review & editing, Writing – original draft, Visual­
+ization, Software, Methodology, Investigation, Formal analysis, Data 
+curation. Rosendo Vílchez-G´omez: Writing – review & editing, Visu­
+alization, Software, Methodology, Investigation, Formal analysis, Data 
+curation. Guillermo Rey-Gozalo: Writing – review & editing, Visuali­
+zation, Software, Methodology, Investigation, Formal analysis, Data 
+curation.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgements
+The authors would like to acknowledge the contribution of Pedro 
+Atanasio, Ana Bejarano and Manuel Parejo during the measurement and 
+survey process.
+Supplementary materials
+Supplementary material associated with this article can be found, in 
+the online version, at doi:10.1016/j.buildenv.2025.113572.
+Data availability
+Data will be made available on request.
+References
+[1] R.M. Alsina-Pag´es, R. Benocci, G. Brambilla, G. Zambon, Methods for noise event 
+detection and assessment of the Sonic environment by the Harmonica Index, Appl. 
+Sci. 11 (17) (2021) 8031, https://doi.org/10.3390/app11178031.
+[2] E. Ascari, M. Cerchiai, L. Fredianelli, D. Melluso, F. Rampino, G. Licitra, Decision 
+trees and labeling of low noise pavements as support for noise action plans, 
+Environ. Pollut. 337 (2023) 122487, https://doi.org/10.1016/j. 
+envpol.2023.122487.
+[3] M.J. Ballesteros, M.D. Fern´andez, I. Flindell, A.J. Torija, J.A. Ballesteros, 
+Estimating leisure noise in Spanish cities, Appl. Acoust. 86 (2014) 17–24, https:// 
+doi.org/10.1016/j.apacoust.2014.04.019.
+[4] J.M. Barrig´on Morillas, D. Montes Gonz´alez, V. G´omez Escobar, G. Rey Gozalo, 
+R. Vílchez-G´omez, A proposal for producing calculated noise mapping defining the 
+sound power levels of roads by stree
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

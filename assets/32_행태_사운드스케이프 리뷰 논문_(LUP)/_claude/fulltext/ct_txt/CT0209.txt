@@ -1,0 +1,868 @@
+Copyright © 2016 Vilnius Gediminas Technical University (VGTU) Press
+www.tandfonline.com/teel
+Corresponding author: Jian Kang
+E-mail: j.kang@sheffield.ac.uk
+JOURNAL OF ENVIRONMENTAL ENGINEERING AND LANDSCAPE MANAGEMENT
+ISSN 1648–6897 / eISSN 1822-4199
+2016 Volume 24(03): 165–175
+http://dx.doi.org/10.3846/16486897.2016.1172076
+societies (Andringa et al. 2013). The holistic nature of 
+perception, indeed, is a key aspect of soundscape, de-
+fined as the “acoustic environment as perceived or ex-
+perienced and/or understood by a person or people, in 
+context” (ISO 2014).
+The soundscape of urban parks has been thoroughly 
+investigated (e.g., Brambilla, Maffei 2006; Szeremeta, Zan-
+nin 2009; Pheasant et  al. 2009; Brambilla et  al. 2013a, 
+2013b; Liu et al. 2013, 2014; Axelsson et al. 2014). One of 
+the main aspects that research has considered is the po-
+tential “restorativeness” of such environments and their 
+capability to provide “tranquil” spaces and “being-away” 
+feelings. Payne (2013) proposed a tool to assess the “per-
+ceived restorativeness” of soundscapes of urban parks, em-
+phasising the positive consequences that they could have 
+in terms of psychological restoration. Watts et al. (2013) 
+pointed out the importance of creating “tranquil” sound-
+scapes in urban areas. In their study, the authors claim 
+the need for re-thinking urban parks as places where 
+THE EFFECT OF WALKING SOUNDS FROM DIFFERENT WALKED-ON 
+MATERIALS ON THE SOUNDSCAPE OF URBAN PARKS
+Francesco ALETTAa, Jian KANGb, Samuele FUDAc, Arianna ASTOLFId 
+a, b University of Sheffield, School of Architecture, Western Bank, Arts Tower, Sheffield, 
+S102TN United Kingdom of Great Britain and Northern Ireland
+c,d Politecnico di Torino, Department of Energy, Corso Duca degli Abruzzi, 24, Torino, 10129 Italy
+Submitted 12 Jan. 2015; accepted 25 Mar. 2016
+Abstract. Urban parks are essential environmental resources in contemporary cities, for the substantial social and 
+psychological relief they provide for local communities. In recent years, the potential of the soundscape approach 
+for enhancing the ecological contribution of such environmental assets has been intensely investigated. Although, 
+researchers tended to focus on the perception of people “staying” in the park, whilst it is important to consider how 
+the sonic environment would be dynamically perceived by users walking across the park. Within this framework, the 
+present study aimed to investigate the effect of different footpath materials on soundscape quality and walking qual-
+ity perception for people walking in an urban park, considering that the experience of such users is affected by both 
+the background acoustic environment of the park and their walking sound. To this purpose, a laboratory experiment 
+was carried out with 25 participants. Four different walked-on materials that are likely to be used in urban parks were 
+tested: grass, wood, stone and gravel. Results show that the material factor has a significant effect on both auditory and 
+haptic perception. Furthermore, positive correlations can be observed between auditory and haptic variables, confirm-
+ing that the soundscape appreciation for people walking in urban parks is likely to be affected also by other but aural 
+sensory modalities. The paper ultimately points out that it is possible to re-think the approach to urban parks design 
+and more specifically to the footpaths and the walking sounds that their materials are likely to produce.
+Keywords: soundscape, urban parks, walking sound, landscape management, walking quality.
+Introduction
+In the context of an increasingly built-up world, urban 
+parks represent a vital resource for modern cities and 
+their models of sustainability. The existence of small-
+scale natural areas has been proved to be valuable for the 
+quality of life: urban parks are essential environmental 
+assets, as the accessibility to such green spaces from plac-
+es where people usually live and work is likely to provide 
+significant social and psychological benefits to commu-
+nities, improving the human experience (Chiesura 2004). 
+There is a growing belief that the urban parks’ design and 
+management should rely on a holistic approach, in or-
+der to optimise the “ecological contribution” that green 
+spaces provide in cities (Thompson 2002). Within this 
+process, urban planners should acknowledge the role of 
+sounds in influencing people’s choice of using the urban 
+space (Yang, Kang 2005) and how the positive perception 
+of the sonic environment is likely to promote healthy 
+
+F. Aletta et al. The effect of walking sounds from different walked-on materials on the soundscape of urban parks
+166
+both natural sound sources are dominant and man-made 
+sounds (e.g. traffic noise) are limited.
+Nevertheless, the assumption underlying the studies 
+carried out so far for the soundscape of urban parks is that 
+of a static viewpoint, mainly referring to a target of users 
+who are staying in the park to spend some free time. On the 
+other hand, such contexts can also be perceived dynami-
+cally, by people who simply go across a park, as part of their 
+trip from a place to another within the urban realm. The 
+soundscape experience of such users will be affected by all 
+the sound sources composing the acoustic environment of 
+the park (either background or foreground sources) and 
+by the sounds they actively produce by walking (i.e. the 
+footsteps). Indeed, the urban parks paths’ materials often 
+differ from those used for normal urban pavements; while 
+acknowledging that the choice of such materials is mainly 
+the outcome of a landscape-related (and often cost-related) 
+process, it is worth observing that it also implies some 
+sound-related consequences and it might consequently af-
+fect soundscape. Walking sound –sometimes referred as 
+drum sound– is not a new topic in acoustics. Nonetheless, 
+it has been considered in few researches, despite of being 
+a non-verbal sound with one of the highest ambient fre-
+quency (Ballas 1993). It started attracting interest, particu-
+larly in building acoustics, due to the experimentation of 
+some new technologies for indoor application, like floating 
+floors or laminate flooring, which can produce louder and 
+sharper walking sounds (Johansson et al. 2004). Johansson 
+et al. (2004) explored the possibility to predict individual 
+responses to walking sound based on differences in objec-
+tive measurements by means of a laboratory listening ex-
+periment. Li et al. (1991) investigated the individual abil-
+ity to identify the gender of the walker, controlling for the 
+surface and shoes effects and demonstrated that listeners 
+can recognize some source characteristics from properties 
+of the acoustic signal (e.g. high pitch and spectral informa-
+tion in general). Regarding the experimental conditions, 
+both these studies rely on an “allocentric” perspective of 
+the participants; that is: perception is linked to a reference 
+frame based on someone else’s behaviour, rather than on 
+one’s own. On the other hand, the experiments relying on 
+an “egocentric” perspective of the participants are usually 
+more focused on investigating the perceived cross-modal 
+congruences or incongruences (e.g., Visell et al. 2009; Gior-
+dano et al. 2012; Turchet, Serafin 2014). Turchet and Serafin 
+(2014) proposed an experiment to assess the participants’ 
+ability in matching pairs of simulated materials presented 
+in auditory and haptic modalities. Giordano et al. (2012) in-
+vestigated the identification of different materials in several 
+non-visual sensory configurations: auditory (passive listen-
+ing to walking sounds), kinaesthetic (walking with masking 
+of sound information and vibro-mechanical perturbation 
+of touch information), haptic (walking with masking of 
+sound), and audio-haptic (walking).
+It is noted that no research has been found to investi-
+gate the influence of self-produced walking sounds on the 
+perception of the sonic environment for outdoor spaces 
+(namely, the soundscape). Assuming that the acoustic en-
+vironment is the result of all sound sources at the receiver 
+in a given context, it was worthwhile questioning what 
+effect different materials could have on the perception 
+of both soundscape and walking qualities, and explore 
+whether these two aspects are anyhow related. Indeed, the 
+rationale for this study is that an individual in the act of 
+walking produces sounds himself (i.e. footsteps) and be-
+comes a source of his own soundscape.
+Therefore, the main aims of this study were: (1) to 
+examine the effect of walking sounds deriving from dif-
+ferent walked-on materials on the sonic perception for 
+people walking in urban parks, both from the soundscape 
+and from the haptic viewpoints and (2) to explore possible 
+cross-modal correlations between soundscape quality and 
+walking quality. To this purpose, a laboratory experiment 
+with twenty-five participants was carried out, using four 
+materials that are likely to be found in urban parks: grass, 
+wood, stone and gravel.
+1. Methods
+1.1. Participants
+Twenty-five undergraduates and postgraduates at the Uni-
+versity of Sheffield, 22 to 40 years old, participated in the 
+experiment (15 women and 10 men, Mage = 26.9 years, 
+SD = 5.0). The ethnic distribution of the sample was 64% 
+White or Caucasian, 20% Asian or Pacific Islander and 
+16% Hispanic or Latino. Participants were selected from 
+a sample of 120 persons who completed an online sur-
+vey circulated via the established email list for student 
+volunteers at University of Sheffield. The questions in the 
+online survey were designed to achieve a diverse group 
+of participants in terms of gender, age and ethnic origin. 
+The selection of the participants aimed at extracting a 
+smaller sample with taxonomy as similar as possible to 
+the original one. The sample of participants mainly in-
+cluded young adults. Previous research showed that the 
+age of listener can affect how the acoustic environment 
+is perceived (e.g., Yang, Kang 2005; Kang 2007; Yu, Kang 
+2010). More specifically, Yu and Kang (2010) investigated 
+the effect of personal aspects such as social, demographi-
+cal, physical, behavioural and psychological factors on 
+the sound preference evaluation in 19 cities around the 
+world and observed that there is a statistical association 
+between demographical factors, like age and educational 
+level, and aspects related to the perception of the acoustic 
+environments, like the preference of natural sounds and 
+annoyance from mechanical sounds. In particular, elder 
+and more qualified people tend to prefer, proportion-
+ally, sounds produced by natural sources (e.g. birdsong, 
+
+Journal of Environmental Engineering and Landscape Management, 2016, 24(3): 165–175
+167
+rustling leaves) and are more sensitive to mechanical 
+sounds (e.g. road traffic, construction noise). While ac-
+knowledging that age is likely to be a factor of influence 
+on soundscape appreciation, the logic for having a sample 
+in a specific age range was that participants were required 
+to perform an exact task (i.e. walking with a stable speed 
+of 2 steps/s) with a relatively homogeneous walking style. 
+Having a broader age range (e.g. children or elders) would 
+have implied totally different walking style, due to obvi-
+ous biometrical issues, thus introducing a bias with re-
+spect to the produced walking sounds. Therefore, it was 
+opted to control for this variable; on the other hand, the 
+authors made every effort to achieve a diverse sample in 
+terms of gender and ethnic origin. The sample size was de-
+signed through an a priori computation (Faul et al. 2007) 
+to achieve a minimum power (1 – β probability of error) 
+of 80%, a probability of error (α) of 5% and a medium ef-
+fect size (f) of 0.25 (Cohen 1988). The 25 participants who 
+completed the experiment were rewarded for volunteering 
+with a 10 GBP gift card.
+1.2. Materials
+The experiment took place in the anechoic chamber 
+(4.00×4.00×2.40 m) of the University of Sheffield. The 
+room set-up included a white screen (2.30×2.00 m), a 
+projector, a couple of loudspeakers (Genelec 8040B) and 
+a sub-woofer (Genelec 7070B). The background noise in 
+the anechoic chamber caused by the projector and the cor-
+responding laptop was less than 25 dB (cut-off frequency 
+of the room below 100 Hz); therefore its contribution was 
+considered to be negligible.
+A generally quiet background sound (LAeq-15 secs = 
+55 dB) was recorded in Weston Park (Sheffield, UK) by 
+means of a dummy head (Neumann KU100) connected 
+to a portable recorder (Edirol R-44), in order to achieve 
+a plausible sonic environment for a urban park. A picture 
+of Valley Gardens (Brighton & Hove, UK) was taken as 
+visual stimulus (Fig. 1). Regarding the background noise, 
+Weston Park was selected in order to represent a usual and 
+plausible condition with a relatively quiet background; the 
+sonic environment was a balanced composition of natural, 
+anthropic and non-intrusive mechanical sounds. Other 
+possible locations were discarded for this very reason: 
+parks with a high exposure to traffic noise, or – converse-
+ly – parks with a much quieter background noise (i.e. no 
+traffic at all), would have negatively affected the “urban” 
+peculiarity of a park.
+A wooden platform (2400×600 mm) was realised ad 
+hoc and located in the middle of the chamber. Four ma-
+terials were selected: grass, wood, stone and gravel. Grass 
+consisted of a lawn turf (2400×600 mm, grass height 20–
+25 mm) on a 20 mm layer of topsoil. Wood consisted of 
+five elements of white wood (planed tongue and groove 
+flooring 18×121×2400 mm). For the stone material, three 
+slabs (600×600×35 mm) of peak smooth grey stone were 
+used. For the gravel material, a 30 mm thick layer of stones 
+(granulometric mix 3–12 mm) was prepared. The four se-
+lected materials were meant to cover the platform in turn 
+(Fig. 2). Grass was meant to be a reference material, as-
+suming that it should be the most ecologically suitable for 
+an urban park. It could be argued that a thin layer of grass 
+is not exactly comparable with grass on normal land, al-
+though it was selected for the natural features it provides. 
+The rationale for the choice of the other materials was that 
+they are representative of possible design options for foot-
+paths in urban park and it was decided to test both solid 
+(i.e. stone and wood) and aggregate (i.e. gravel) materials.
+For descriptive purposes and further analysis, the ex-
+perimenter recorded in the anechoic chamber the sound 
+of the footsteps on the four materials by means of a binau-
+ral microphones headset (in-ear 1/8” microphones, DPA 
+SC4060) connected to a portable recorder (Edirol R-44). 
+The experimenter wore the binaural microphones headset 
+and walked back and forth over each material at a speed 
+of 2 steps/s for 15 s (Johansson et al. 2004). Table 1 shows 
+the sound-pressure level (SPL), loudness (L), roughness 
+(R), sharpness (S), fluctuation strength (Fls) and tonality 
+(Ton) values for the four materials and the background 
+noise recorded in Weston Park; the metrics were comput-
+ed by means of the ArtemiS software (HEAD acoustics®). 
+Psychoacoustic indicators are typical in soundscape stud-
+ies (e.g., Genuit 2004; Fiebig et al. 2009; Hall et al. 2013) as 
+they are likely to better describe how the ear works (Gen-
+uit, Fiebig 2006). Every indicator was calculated separately 
+Fig. 1. Audio-visual set up of the experiment
+Fig. 2. The wooden platform used for the experiment, covered 
+in turn with the four selected materials
+
+F. Aletta et al. The effect of walking sounds from different walked-on materials on the soundscape of urban parks
+168
+for each channel recording and the mean of the two chan-
+nels’ result was considered to be representative (Johansson 
+et al. 2004). Figure 3 shows the third-octave band spectra 
+for the four materials’ walking sounds recorded in the an-
+echoic chamber, compared to the recorded background 
+noise in Weston Park. Likewise, Figure 4 represents the 
+A-weighted overall level of the four materials recorded 
+with the binaural microphones headset while walking on 
+the platform and the background noise recorded with the 
+dummy head at a fixed position in Weston Park.
+Table 1. Acoustic metrics of the walking sounds for the four 
+selected materials and the reference background noise
+SPL – 
+dB(A)
+L – 
+soneGF
+R – 
+asper
+S – 
+acum
+Fls – 
+vacil
+Ton – 
+tu
+Grass
+28.5
+0.81
+0.047
+2.680
+0.014
+0.0058
+Wood
+48.6
+3.04
+1.180
+1.720
+0.177
+0.0122
+Stone
+40.1
+2.23
+0.628
+1.880
+0.051
+0.0165
+Gravel
+66.1
+15.05
+3.580
+2.695
+0.354
+0.0164
+Back­
+ground
+55.0
+9.06
+1.315
+1.930
+0.013
+0.0339
+Fig. 3. Third-octave band spectra of the four recorded walking 
+sounds compared to the generic urban park’s background noise
+1.3. Procedure
+The experiment was designed to test the effect of different 
+path materials on both auditory and haptic individual per-
+ception. The material factor had four levels: grass, wood, 
+stone and gravel.
+Participants were invited to the Acoustics Laboratory 
+of the University of Sheffield. In the invitation letter, they 
+were required to wear shoes with soft sole (i.e. “sneak-
+ers”): this request was aimed at controlling for the shoes 
+variable and limiting as much as possible any covariant 
+effect with this regard. Three different experimental ses-
+sions were organised (two groups of eight and one of 
+nine, respectively): this was due to practical reasons, since 
+participants were supposed to wait for the materials to be 
+changed along the experiment; the sessions lasted between 
+one and two hours each. Afterwards, participants were 
+individually asked to enter in the anechoic chamber. The 
+background sound recording and the picture of the park 
+were reproduced continuously. The background sound of 
+Weston Park was calibrated by means of a dummy head, 
+in order to reproduce the same sound-pressure level and 
+spectrum at the receiver’s ears as recorded in situ (± 1.0 
+dB), considering the middle point of the platform, with 
+the receiver facing the screen. The frequency range of the 
+dummy head was 20 Hz–20 kHz, thus the calibration pro-
+cedure was assumed to be accurate enough for the pur-
+pose of the study. Participants had a minute to familiar-
+ise with the environment, and then they were required to 
+walk in a natural way on the platform, watching the screen 
+and listening to the whole sonic environment, for as long 
+as they wanted. Due to the relatively small length of the 
+platform (2400 mm), participants were able to make 5–6 
+steps while watching in front of them: in case they wanted 
+to walk again, they were instructed to get off of the plat-
+form, go back and start from the beginning. However, they 
+Fig. 4. A-weighted overall level of the four walking sounds recorded while walking on the platform and the 
+background noise recorded at a fixed position in Weston Park
+
+Journal of Environmental Engineering and Landscape Management, 2016, 24(3): 165–175
+169
+had been previously instructed to consider the “sound 
+environment” as the integration of both the surrounding 
+sounds and the sounds produced by their footsteps, thus 
+discarding any other time interval when both these sound 
+sources were not occurring.
+For each material, participants had to answer four 
+questions by putting a mark on a 10 cm continuous scale: 
+(Q1) “Overall, to what extent is the sound environment 
+appropriate to the location?” (ranging from “not at all” to 
+“perfectly”); (Q2) “Overall, how would you describe the 
+sound environment?” (ranging from “very bad” to “very 
+good”); (Q3) “Overall, how comfortable is walking on this 
+surface?” (ranging from “very uncomfortable” to “very 
+comfortable”); (Q4) “Overall, how pleasant is walking on 
+this surface?” (ranging from “very unpleasant” to “very 
+pleasant”). The questions Q1 and Q2 address the aspects 
+of appropriateness (pertinence of the material) and quality 
+of the sonic environment; likewise the questions Q3 and 
+Q4 relate to the specific material of the footpath and the 
+overall walking experience, accordingly. After the rotation 
+of all participants, the material was changed and the pro-
+cedure was repeated. In order to compensate for possible 
+order effects, different random materials sequences were 
+used over the three experimental sessions.
+Deciding to perform the experiment in the anechoic 
+chamber indeed aimed to achieve controlled environmen-
+tal conditions. The main focus of the study was overlying 
+the sound produced by the walked-on materials; there-
+fore, performing the experiment in a real environment 
+would have biased the results, due to possible effects of 
+other non-controlled factors (e.g. wind, temperature, sud-
+den changes of the background noise). Regarding the 
+reproduction of acoustic environments under laboratory 
+conditions, the efforts of experts are oriented to reach a 
+perceptually correct or plausible reproduction rather than 
+a physically correct one (Vorländer 2008). The concept of 
+plausibility is often referred to as the perceived agreement 
+with the listener’s expectation towards a corresponding 
+real acoustic event (Lindau, Weinzierl 2012) and it is used 
+to evaluate the sense of credibility of reproduced audio-vi-
+sual environments. According to Pellegrini (2001), a plau-
+sible simulation of a given environment would include “a 
+suitable reproduction of all required quality features for a 
+given specific application” rather than a copy of “an exist-
+ing environment in all its physical aspects”. In this case, 
+the specific application was about isolating as much as 
+possible the walking sounds effect from other covariant 
+effects, while presenting a plausible scenario, also using a 
+visual stimulus. Overall, a number of comparative stud-
+ies between real and reproduced scenarios have already 
+shown the effectiveness of laboratory experiments in 
+providing valuable results (e.g., Maffei et al. 2015). Fur-
+thermore, regarding the walking aspects of the study, it is 
+worth saying that the technical layout of the experiment is 
+in line with methods previously used in haptic-related re-
+search (see, for instance, Johansson et al. 2004; Visell et al. 
+2009; Giordano et al. 2012; Turchet, Serafin 2014).
+2. Results
+The analysis of the results consisted of two parts. In the first 
+part, an analysis of variance (ANOVA) was performed for 
+the individual responses to the four questions, in order to 
+detect statistically significant effects of the walked-on ma-
+terials. In the second part, a Pearson product-moment was 
+used to investigate statistical correlations for the individual 
+responses within the same sensory modality and between 
+the two different sensory modalities (aural and haptic).
+2.1. Analysis of variance for the materials effect
+The four questions submitted to participants were exam-
+ined separately. Each question was associated to an inde-
+pendent variable and an ANOVA was performed on the 
+25×4 individual responses, considering the four materi-
+als as different “treatments” for the participants. The an-
+swer scores of the four questions (Q1, Q2, Q3 and Q4) 
+submitted to participants (N=25) were associated to four 
+independent variables: “Sonic Pertinence” (SP), “Sound-
+scape Quality” (SQ), “Haptic Comfort” (HC) and “Walk-
+ing Quality” (WQ), respectively. A one-way repeated 
+measures ANOVA was conducted on these variables to 
+evaluate the null hypothesis that there is no change in par-
+ticipants’ scores with respect to the presented walked-on 
+materials. The results of the ANOVA showed a significant 
+material effect: Wilks’ Lambda = .635, F(3,22) = 4.213, p = 
+.017, η2 = .365 for the Sonic Pertinence; Wilks’ Lambda = 
+.591, F(3,22) = 5.073, p = .008, η2 = .409 for the Sound-
+scape Quality; Wilks’ Lambda = .311, F(3,22) = 16.237, p 
+< .001, η2 = .689 for the Haptic Comfort; Wilks’ Lambda = 
+.306, F(3,22) = 16.644, p < .001, η2 = .694 for the Walking 
+Quality. Therefore, there is significant statistical evidence 
+to reject the null hypothesis for the four considered vari-
+ables. Nevertheless, follow up comparisons showed that 
+not every pairwise difference was significant.
+Regarding Sonic Pertinence, grass differed signifi-
+cantly from gravel (p = .010) and post hoc analysis re-
+vealed that gravel was considered the least pertinent ma-
+terial (M = 62.24, SD = 20.05), whilst grass was the most 
+pertinent one (M = 79.64, SD = 17.75); wood (M = 68.00, 
+SD = 21.45) and stone (M = 70.44, SD = 18.23) had inter-
+mediate values. Regarding Soundscape Quality, the gravel 
+resulted to be significantly different from all other materi-
+als: grass (p = .009), wood (p = .036) and stone (p = .003). 
+Post hoc analysis showed that gravel was the worst ma-
+terial in terms of Soundscape Quality (M = 56.04, SD = 
+19.10); the following materials were wood (M = 70.64, 
+SD = 17.06), grass (M = 74.84, SD = 20.70) and stone 
+(M = 75.12, SD = 15.14). Figure 5 shows the individual 
+
+F. Aletta et al. The effect of walking sounds from different walked-on materials on the soundscape of urban parks
+170
+scores’ distributions of the four materials for Sonic Perti-
+nence and Soundscape Quality.
+Considering the variable Haptic Comfort, the gravel 
+resulted to be significantly different from all other mate­
+rials: grass (p < .001), wood (p < .001) and stone (p = .001). 
+Post hoc analysis showed that gravel was the worst mate­rial 
+in terms of Haptic comfort (M = 41.40, SD = 23.16); the 
+following materials were stone (M = 64.44, SD = 21.86), 
+wood (M = 69.80, SD = 22.64) and grass (M = 77.44, SD = 
+16.53). Similarly, for Walking Quality the gravel resulted 
+to differ from all other materials: grass (p < .001), wood 
+(p < .001) and stone (p = .006). Moreover, the difference 
+between grass and stone was also statistically significant 
+(p = .016). Post hoc analysis showed that – in terms of 
+Walking Quality– grass (M = 78.12, SD = 22.93) was more 
+preferred than wood (M = 67.12, SD = 25.87), that was in 
+turn more preferred than stone (M = 59.80, SD = 20.16) 
+and gravel (M = 40.44, SD = 23.46). Figure 6 represents 
+the individual scores distributions of the four materials for 
+Haptic Comfort and Walking Quality.
+In the investigated case, with a reasonably quiet back-
+ground noise (LAeq = 55 dB), the gravel resulted to be the 
+least appreciated material for both auditory and haptic as-
+pects. Compared with gravel, the mean differences from 
+the other materials range from 10.5% for Sonic Pertinence 
+and 17.5% for Soundscape Quality, to 27.9% for Walking 
+Quality and 29.2% Haptic Comfort.
+2.2. Intra-modal and cross-modal correlations
+This section investigated three possible correlations of the 
+individual responses: (1) between the two sound-related 
+questions, (2) between the two haptic-related questions 
+and eventually (3) between the sound-related and the 
+haptic-related questions. For this analysis, the material ef-
+fect was disregarded and all the 25×4 responses for each 
+question were considered together.
+Fig. 5. Box-and-whisker plots showing individual scores distribution of the four materials for Sonic Pertinence 
+(left) and Soundscape Quality (right)
+Fig. 6. Box-and-whisker plots showing individual scores distribution of the four materials for Haptic Comfort (left) 
+and Walking Quality (right)
+
+Journal of Environmental Engineering and Landscape Management, 2016, 24(3): 165–175
+171
+A Pearson product-moment correlation explored the 
+overall relationship between Sonic Pertinence and Sound-
+scape Quality. This analysis was found to be statistically 
+significant, r = .552, p < .01, indicating a positive relation-
+ship between Sonic Pertinence and Soundscape Quality. 
+This relationship was then subjected to a first-order partial 
+correlation in order to explore the relationship controlling 
+for the effects of Haptic Comfort and Walking Quality. 
+The first-order correlation was found to be statistically 
+significant, r = .472, p < .01.
+Similarly, it was investigated the correlation between 
+Haptic Comfort and Walking Quality. This analysis was 
+found to be statistically significant, r = .720, p < .01, show-
+ing a strong positive relationship between Haptic Comfort 
+and Walking Quality. This relationship was then subjected 
+to a first-order partial correlation in order to explore the 
+relationship controlling for the effects of Sonic Pertinence 
+and Soundscape Quality. The first-order correlation was 
+found to be statistically significant, r = .660, p < .01.
+Eventually, a first-order partial correlation analysis 
+between Soundscape Quality and Walking Quality was 
+performed, controlling for the effects of Sonic Pertinence 
+and Haptic Comfort. The first-order correlation was found 
+to be statistically significant, r = .284, p < .01. Therefore, 
+this analysis indicates that a relationship between Sound-
+scape Quality and Walking Quality exists above and be-
+yond the effects of Sonic Pertinence and Haptic Comfort, 
+and it is statistically significant, showing a cross-modal 
+interaction of the haptic and the auditory modalities, with 
+respect to the perceived quality.
+3. Discussions
+The aim of this study was to explore the effects of differ-
+ent footpath materials on user’s auditory and haptic satis-
+faction under an urban park circumstance. Even though 
+the experiment engaged actively with multiple sensory 
+modalities (i.e. auditory, visual and haptic), the focus of 
+the study was mainly overlying the sonic component of 
+a multisensory experience like walking in an urban park. 
+Indeed, while acknowledging that the visual qualities, as 
+well as other environmental aspects, are likely to have 
+relevant impacts on the human experience, it was worth 
+investigating the specific ecological contribution of such 
+an environmental input, for the sense of spatial presence 
+it provides and its high occurrence as a non-verbal sound 
+(Ballas 1993). Therefore, the considered methods aimed to 
+control as much as possible for potential covariant effects 
+originating from the other sensory modalities (i.e. visual 
+and haptic), by fixing some experimental conditions (i.e. 
+visual stimulus and shoes type). The rationale for having a 
+visual stimulus in general, was about making the partici-
+pants’ task (i.e. walking on the platform) more plausible 
+and usual.
+The variable Sonic Pertinence (SP) explores the 
+connection between the walking sound and background 
+sounds. This is mostly relevant from the design and plan-
+ning viewpoint, as different walked-on materials are ex-
+pected to perform differently in terms of soundscape per-
+ception, depending on the context. Considering that the 
+proposed background noise was relatively quiet (LAeq = 
+55 dB), the grass was rated with the highest scores. This 
+aspect is consistent with previous findings in literature, 
+confirming that the amount of greenery of a context is an 
+indicator for the definition of a perceived “tranquillity” 
+dimension (Pheasant et al. 2009; Watts et al. 2013). On 
+the other hand, in spite of being a common option for the 
+footpaths of urban parks, the gravel resulted to have very 
+low preference rates for both the sound-related questions. 
+The spectral analysis pointed out that the sound produced 
+by the footsteps on the gravel exceeded the background 
+on almost the whole frequency range, resulting in an “in-
+trusive” sound source that might have been perceived by 
+the individuals as “segregative” with respect to the re-
+maining sonic environment. It was decided to use such a 
+quiet background sound, as it was considered to be more 
+representative of an ideal situation for urban parks. None-
+theless, it seems fair to suppose that for design conditions 
+with a noisier sonic environment (e.g. urban parks affect-
+ed by road traffic noise) the gravel could help achieving a 
+“masking” effect of unwanted noise sources, thus improv-
+ing the soundscape perception. Likewise, clearly notice-
+able walking sounds can also help detecting the presence 
+of other people and this could have positive implications 
+with respect to perceived safety in particular contexts. 
+Regarding the remaining cases – grass, wood and stone– 
+the background noise was mostly higher than the walk-
+ing sounds in terms of overall level. Although, this doesn’t 
+mean that the walking sounds were not audible at all; in-
+deed, the comparison of the psychoacoustic metrics shown 
+that they had similar or even higher values with respect to 
+the background noise. Furthermore, it is worth observ-
+ing that, due the location of the loudspeakers reproducing 
+the background noise, participants might have accordingly 
+experienced lower and higher levels than the middling 55 
+dB, while walking along the platform. This is likely to have 
+made the walking sounds detach from the background at 
+given moments, making them more noticeable; however 
+such a circumstance could also be representative of real 
+life situations, where background sounds often undergo 
+sudden variations. Therefore in this experiment the walk-
+ing sounds are relevant to soundscape perception even if 
+they are not the prevailing sound source of the sonic en-
+vironment.
+Considering the relationship between the walking 
+sounds and the background noise, it could be argued 
+that the participants’ perception was biased by an atten-
+tive listening style (i.e. participants were willingly paying 
+
+F. Aletta et al. The effect of walking sounds from different walked-on materials on the soundscape of urban parks
+172
+attention to the walking sounds, while they wouldn’t in 
+real life). Regrettably, not much could be done to deal with 
+this issue, since the aim of the study was obvious for the 
+participants due to the experimental procedure. Notwith-
+standing, researchers generally acknowledge that people 
+do interact in different ways with the sonic environment 
+and diverse listening styles –either attentive or holistic– 
+are all relevant to the soundscape approach (Botteldooren 
+et al. 2011).
+The variable Soundscape Quality (SQ) explores the 
+perception of the sonic environments overall quality. It 
+provides an additional meaning with respect to the Sonic 
+Pertinence, as it aims to represent the holistic experience of 
+the soundscape of an urban park, considering both the self-
+produced sound and the background sounds as a whole. 
+The observed correlation between Soundscape Quality and 
+Sonic Pertinence raises a behavioural theme, for the par-
+ticipants being aware that they are “co-responsible” of the 
+final sonic environment, due to the self-produced walking 
+sound. This awareness, and the fact of being somehow “in 
+control” of the sound source, might have contributed to a 
+better assessment of the sonic environment, since it was 
+foreseen and “expected” (Bruce, Davies 2014).
+Regarding the haptic-related variables, the presented 
+questions aimed at reflecting the same approach as per the 
+sound-related variables. The Haptic Comfort was more fo-
+cused on the sensorimotor dimension; while the Walking 
+Quality was meant to be more broadly related to the act of 
+walking (holistic approach). For both variables the gravel 
+reported some relevant negative score differences, show-
+ing that the material performed significantly better for the 
+auditory modality, with respect to the haptic one. Partici-
+pants often confirmed the haptic scores with spontaneous 
+verbal feedbacks, reporting the gravel to be “tiring” or 
+“arduous to walk on”. This issue should be carefully con-
+sidered by planners and landscape architects, regardless 
+of other practical advantages that aggregate materials are 
+likely to offer.
+Some arguments could be raised about the represen-
+tativeness of results collected under laboratory conditions 
+for the effective soundscape appreciation of an urban park. 
+There is still no clear consensus about the “ecological va-
+lidity” of laboratory experiments for soundscape purposes 
+(e.g., Guastavino et al. 2005). On the other hand, such 
+methods are used more and more in research applications 
+for the primitive need of reproducibility of the experimen-
+tal conditions (e.g. Lavandier, Defréville 2006; Joynt, Kang 
+2010; Axelsson et al. 2010; Maffei et al. 2013).
+For the current application, it is not expected that a 
+sample of participants would assess the investigated vari-
+ables exactly as they would in a real site (i.e. same scores). 
+Although, it is likely to assume that the preference within 
+the materials group (i.e. the materials ranking) would be 
+consistent. Results shown that the walked-on material ef-
+fect is relevant; further studies are desirable to extend the 
+present findings, potentially to broader age ranges.
+Fig. 7. Scatterplots of the significant correlations between the sound-related variables’ scores averaged per 
+material and the acoustic metrics
+
+Journal of Environmental Engineering and Landscape Management, 2016, 24(3): 165–175
+173
+In order to provide a further understanding of the ob-
+served results, a Pearson product-moment was performed 
+to investigate the relation between the mean values of the 
+individual responses to the two sound-related questions 
+(SP, SQ) and the acoustic metrics calculated for the walk-
+ing sounds (SPL, L, R, S, Fls, Ton), recorded by the experi-
+menter for descriptive purposes before the participants’ 
+sessions. The correlation between Sonic pertinence and 
+Sound-pressure level resulted statistically significant, r = 
+–.967, p < .05. On the other hand, Soundscape Quality was 
+significantly correlated with Loudness r = –.988, p < .05, 
+Roughness, r = –.986, p < .05 and Fluctuation strength, 
+r = –.967, p < .05 (Fig. 7). No other statistically significant 
+correlations were observed for the other acoustic metrics, 
+with respect to the individual responses. Therefore –in this 
+case– the louder, the rougher and the more fluctuating the 
+sound produced by the footsteps, the worse the apprecia-
+tion of the sonic environment.
+Such considerations on the correlations between in-
+dividual responses and objective metrics are far from be-
+ing conclusive and are not likely to be generalised, due to 
+the limited variations of materials and background noise. 
+Nevertheless, they offer a new insight on walking sounds 
+for planners (and materials’ manufacturers), forasmuch as 
+sounds from walked-on materials could become a “prod-
+uct sound” just like it happened for the automotive and 
+household appliances industries.
+Conclusions
+In this study, a laboratory experiment was carried out in 
+order to investigate possible effects of different walked-
+on materials for footpaths on both auditory and haptic 
+perception in urban parks. Four materials were used for 
+the experiment (grass, wood, stone and gravel): they were 
+considered to be possible and realistic design solutions for 
+urban parks footpaths.
+The main conclusions of this study are:
+− Different walked-on materials for footpaths in ur-
+ban parks are likely to have an effect on soundscape 
+perception. Indeed, a statistically significant mate-
+rial effect has been found on all the four defined 
+variables: Sonic Pertinence, Soundscape Quality, 
+Haptic Comfort and Walking Quality.
+− Positive significant correlations were found betwe-
+en Sonic Pertinence and Soundscape Quality, 
+between Haptic Comfort and Walking Quality and 
+also between Soundscape Quality and Walking Qu-
+ality, showing that the soundscape appreciation for 
+people walking in urban parks is likely to be affec-
+ted also by other but aural sensory modalities.
+In the investigated case, with a quiet background 
+noise, grass resulted to be the most appreciated material, 
+while gravel received the worst assessment, for both 
+auditory and haptic sensations. The mean differences 
+between gravel and the other materials were: 10.5% for 
+Sonic Pertinence, 17.5% for Soundscape Quality, 27.9% 
+for Walking Quality and 29.2% for Haptic Comfort. How-
+ever, this study pointed out that the walking sounds from 
+walked-on materials should also be considered together 
+with the background noise they interact with.
+The ecological validity of laboratory experiments for 
+the soundscape appreciation remains an open question. Al-
+though, an increasingly number of researchers is opting for 
+such approach (with satisfactory outcomes) for the undeni-
+able advantages it provides in terms of methods reproduc-
+ibility. Considering the limited number of tested materials, 
+it is not possible to generalise the observed correlations 
+between the individual assessment scores and the acoustic 
+metrics of the walking sound. Given the exploratory nature 
+of this study and the time constraints for the experimen-
+tal sessions derived from the procedure, it was preferred to 
+refer to few materials to be representative of different ty-
+pologies: ecological (grass), solid (stone and wood, with dif-
+ferent physical properties) and aggregate (gravel) materials. 
+Results suggest that there is room for implementing new 
+design approaches to urban parks and more specifically to 
+the footpaths and the walking sounds that their materials 
+are likely to produce. Indeed, depending on the surround-
+ing environmental conditions, different footpath materials 
+could help to build a better “sonic identity” for urban parks.
+In general, the findings reported in this paper claim 
+for further attention on the soundscape of urban parks 
+and relate to the broader issue of the need for quiet and 
+pleasant areas in modern cities.
+Funding 
+This research received funding through the People Pro-
+gramme (Marie Curie Actions) of the European Union’s 7th 
+Framework Programme FP7/2007-2013 under REA grant 
+agreement n° 290110, SONORUS “Urban Sound Planner”.
+Disclosure statement 
+The authors declare no competing financial, professional, 
+or personal interests from other parties.
+References
+Andringa, T. C.; Weber, M.; Payne, S. R.; Krijnders, J. D.; 
+Dixon, M. N.; v.d. Linden, R., et al. 2013. Positioning sound-
+scape research and management, Journal of the Acoustical 
+Society of America 134(4): 2739–2747. 
+ 
+http://dx.doi.org/10.1121/1.4819248 
+Axelsson, Ö.; Nilsson, M. E.; Hellström, B.; Lundén, P. 2014. 
+A field experiment on the impact of sounds from a jet-and-
+basin fountain on soundscape quality in an urban park, 
+Landscape and Urban Planning 123(1): 49–60. 
+ 
+http://dx.doi.org/10.1016/j.landurbplan.2013.12.005
+
+F. Aletta et al. The effect of walking sounds from different walked-on materials on the soundscape of urban parks
+174
+Axelsson, Ö.; Nilsson, M.; Berglund, B. 2010. A principal compo-
+nents model of soundscape perception, Journal of the Acous-
+tical Society of America 128(5): 2836–2846. 
+ 
+http://dx.doi.org/10.1121/1.3493436
+Ballas, J. A. 1993. Common factors in the identification of an 
+assortment of brief everyday sounds, Journal of Experimental 
+Psychology 19: 250–267. 
+ 
+http://dx.doi.org/10.1037/0096-1523.19.2.250
+Botteldooren, D.; Lavandier, C.; Preis, A.; Dubois, D.; Aspuru, I.; 
+Guastavino, C., et al. 2011. Understanding urban and natural 
+soundscapes, Proceedings of the Forum Acusticum 2011 Con-
+ference, 26 June – 1 July 2011, Aalborg, Denmark.
+Brambilla, G.; Maffei, L. 2006. Responses to noise in urban parks 
+and in rural quiet areas, Acta Acustica united with Acustica 
+92(6): 881–886.
+Brambilla, G.; Gallo, V.; Zambon, G. 2013a. The soundscape 
+quality in some urban parks in Milan, Italy, International 
+Journal of Environmental Research and Public Health 10: 
+2348–2369. http://dx.doi.org/10.3390/ijerph10062348
+Brambilla, G.; Gallo, V.; Asdrubali, F.; D’Alessandro, F. 2013b. 
+The perceived quality of soundscape in three urban parks 
+in Rome, Journal of the Acoustical Society of America 134(1): 
+832–839. http://dx.doi.org/10.1121/1.4807811
+Bruce, N.; Davies, W. J. 2014. The effects of expectation on the 
+perception of soundscapes, Applied Acoustics 85: 1–11. 
+ 
+http://dx.doi.org/10.1016/j.apacoust.2014.03.016
+Chiesura, A. 2004. The role of urban parks for the sustainable 
+city, Landscape and Urban Planning 68: 129–138. 
+ 
+http://dx.doi.org/10.1016/j.landurbplan.2003.08.003
+Cohen, J. 1988. Statistical power analysis for the behavioral sci-
+ences. 2nd ed. Hillsdale: Lawrence Erlbaum Associates.
+Faul, F.; Erdfelder, E.; Lang, A. G.; Buchner, A. 2007. G*Power 3: 
+A flexible statistical power analysis program for the social, 
+behavioral, and biomedical sciences, Behavior Research Meth-
+ods 39(2): 175–191. http://dx.doi.org/10.3758/BF03193146
+Fiebig, A.; Guidati, S.; Goehrke, A. 2009. Psychoacoustic evalu-
+ation of traffic noise, in Proceedings of the NAG-DAGA 2009 
+Conference, 23–26 March 2009, Rotterdam, The Netherlands.
+Genuit, K. 2004. Sound quality in environment: psychoacoustic 
+mapping, in Proceedings of the ASA 2004 Conference. 
+ 
+http://dx.doi.org/10.1121/1.4785535
+Genuit, K.; Fiebig, A. 2006. Psychoacoustics and its benefits for 
+the soundscape approach, Acta Acustica United with Acustica 
+92(6): 952–958.
+Giordano, B. L.; Visell, Y.; Yao, H.; Hayward, V.; Cooper-
+stock,  J.  R.; McAdams, S. 2012. Identification of walked-
+upon materials in auditory, kinesthetic, haptic, and audio-
+haptic conditions, Journal of the Acoustical Society of America 
+131(5): 4002–4012. http://dx.doi.org/10.1121/1.3699205
+Guastavino, C.; Katz, B. F.; Polack, J.; Levitin, D. J.; Dubois, D. 
+2005. Ecological validity of soundscape reproduction, Acta 
+Acustica United with Acustica 91: 333–341.
+Hall, D. A.; Irwin, A.; Edmondson-Jones, M.; Philips, S.; Poxon, 
+J. E. 2013. An exploratory evaluation of perceptual, psycho-
+acoustic and acoustical properties of urban soundscapes, Ap-
+plied Acoustics 74: 248–254. 
+ 
+http://dx.doi.org/10.1016/j.apacoust.2011.03.006
+International Organization for Standardization (ISO). 2014. ISO 
+12913-1:2014 Acoustics – Soundscape – Part 1: Definition and 
+conceptual framework. Geneve: ISO.
+Johansson, A.; Hammer, P.; Nilsson, E. 2004. Prediction of sub-
+jective response from objective measurements applied to 
+walking sound, Acta Acustica united with Acustica 90
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

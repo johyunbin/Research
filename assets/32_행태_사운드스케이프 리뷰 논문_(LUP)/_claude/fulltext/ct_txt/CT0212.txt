@@ -1,0 +1,895 @@
+How do urban green space attributes affect visitation and satisfaction? An 
+empirical study based on multisource data
+Jie Li a,b,c,d,*,1, Jing Fu c,*, Jun Gao c, Rui Zhou c, Zhenyu Zhao c, 
+Panpan Yang c, Yang Yi e
+a School of Ecological Technology and Engineering, Shanghai Institute of Technology, Shanghai, China
+b Research Institution of Beautiful China and Ecological Civilization, Shanghai Institute of Technology, Shanghai, China
+c School of Environmental and Geographical Sciences, Shanghai Normal University, Shanghai, China
+d Beijing Key Laboratory of Urban Spatial Information Engineering, Beijing, China
+e Shanghai Academy of Landscape Architecture Science and Planning, Shanghai, China
+A R T I C L E I N F O
+Keywords:
+Urban green space
+Influencing factors
+Social media data
+All-subset regression
+Hierarchical partitioning analysis
+A B S T R A C T
+Urban green spaces (UGSs) are major settings of human–nature interaction and important to public well-being. 
+Visitation and satisfaction are indicators that reflect the utilization degree of and feedback regarding UGSs. The 
+focus of this study is to analyze the visitation and satisfaction characteristics of different types of UGSs, analyze 
+the dominant factors affecting these indicators, and rank their importance to provide strategies for improving 
+management. Here, 50 typical UGSs in Shanghai are selected. All-subset regression, hierarchical partitioning 
+analysis and other methods are comprehensively used to explore the influencing factors. The results are as 
+follows: 1) Comprehensive parks have the highest visitation rates, whereas community parks have the lowest 
+visitation rates but the highest satisfaction rates. 2) UGS size has the greatest influence on visitation, followed by 
+connectivity, building shape index, and edge density, with contributions of 69.35 %, 16.40 %, 8.50 %, and 5.75 
+%, respectively. 3) Transportation facility density and edge density have the greatest influences on satisfaction, 
+with contributions of 51.49 % and 48.51 %, respectively. In this study, the applicability of using multisource data 
+to analyze UGS attributes and their factors affecting visitation and satisfaction are demonstrated. Targeted 
+strategies for constructing UGSs will help authorities plan and manage UGSs effectively.
+1. Introduction
+Urbanization is a global trend that is changing the relationship be­
+tween humans and the natural environment. It is estimated that by 
+2050, more than 68 % of the world's population will live in cities (United 
+Nations, Department of Economic and Social Affairs, Population Divi­
+sion, 2018). In cities, human contact with nature occurs through outdoor 
+activities, mostly in small and heterogeneous urban green spaces (UGSs) 
+(Belaire et al., 2022; Fang et al., 2023). The development of UGSs fo­
+cuses on the role of complex ecological networks in biodiversity, culture, 
+urban safety, and meeting the recreational needs of citizens (Palliwoda 
+& Priess, 2021). Since 2020, rapid urbanization and the COVID-19 
+pandemic have led to travel restrictions and an increasing demand for 
+UGSs, which have become major locations for human–nature in­
+teractions (Lopez et al., 2021; Noszczyk et al., 2022). UGSs provide 
+places where people can engage in outdoor activities, physical exercise, 
+nature education, and other activities that are beneficial to physical and 
+mental health; thus, these spaces play a role in the self-realization of 
+UGS users and contribute to achieving the United Nation's sustainable 
+development goals (Addas & Maghrabi, 2022; Tate et al., 2024; Yang 
+et al., 2022). To improve urban livability and social well-being (Gozalo 
+et al., 2018; Li et al., 2024; Taczanowska et al., 2024), we need to un­
+derstand how people use and perceive UGSs.
+Visitation and satisfaction are indicators that reflect the degree of 
+utilization and feedback on UGSs and are currently research hotspots 
+(Ghahramani et al., 2021; Huai et al., 2023). UGS visitation reflects UGS 
+popularity; it is usually collected through on-site surveys, telephone or 
+online questionnaires or by integrating a large number of data points 
+from multiple sources (such as tickets, ferry tickets, etc.) (Kim et al., 
+2023; Liu et al., 2017). However, obtaining these data takes substantial 
+* Corresponding authors at: No. 100 Guilin road, Shanghai, China.
+E-mail addresses: jieli@sit.edu.cn (J. Li), tristar@shnu.edu.cn (J. Fu), gaojun@shnu.edu.cn (J. Gao), rzhou@shnu.edu.cn (R. Zhou), yy@shsyky.com (Y. Yi). 
+1 No. 100 Haiquan road, Shanghai, China.
+Contents lists available at ScienceDirect
+Cities
+journal homepage: www.elsevier.com/locate/cities
+https://doi.org/10.1016/j.cities.2024.105543
+Received 2 November 2023; Received in revised form 5 June 2024; Accepted 16 October 2024 
+Cities 156 (2025) 105543 
+Available online 6 November 2024 
+0264-2751/© 2024 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+time and effort, and not every UGS releases official data. Satisfaction is 
+an overall psychological state described by the fulfillment of one's ex­
+pectations or needs (Sun & Shao, 2020). UGS satisfaction refers to the 
+feedback, attitudes and positive or negative feelings of tourists and can 
+reflect the quality of the UGS's facilities and services, the degree to 
+which tourists' needs are met, and the attraction of UGSs. The evaluation 
+of satisfaction focuses on participatory methods, including question­
+naires, interviews, and participatory geographic information system 
+(PGIS) (Korpilo et al., 2022; Liu et al., 2021; Rall et al., 2019); however, 
+the sample size of such methods is relatively small. To better reflect the 
+perceptual experience of the public and expand the scope of data 
+collection, web-based big data provide high-quality data sources 
+(Heikinheimo et al., 2020). People use online social tools to record their 
+feelings and opinions in texts, photos, and other forms of expression, 
+resulting in a large amount of public opinion and perception data 
+(Foltˆete et al., 2020). Texts are helpful in exploring the public's positive 
+and negative emotions and well-being through the use of various sce­
+narios (Tenerelli et al., 2016), and photo data convey figurative 
+emotional expressions (Oteros-Rozas et al., 2018; Vaz et al., 2020). So­
+cial media supports the sharing of UGS name information and provides 
+users with accurate location services, and these data can be analyzed to 
+provide geocoded points for visitation and expression of spatial expe­
+riences (Chang & Olafsson, 2022). Many platforms support options for 
+users to check in or comment, and the number of these user interactions 
+can be used to study user behavior, geospatial distribution, and usage 
+information (Toivonen et al., 2019). Therefore, the number of reviews in 
+social media data with geotagged or spatial information may represent 
+visitation, while sentiment analysis of review texts may represent 
+satisfaction. In addition, UGSs can be divided into different types ac­
+cording to their area and positioning, such as comprehensive parks, 
+community parks, and theme parks. A classified analysis of visitation 
+and satisfaction characteristics of various UGS will help management 
+departments understand the gap between management and citizens' 
+needs, thereby improving management levels.
+Linking multisource data to UGS attributes helps elucidate the fac­
+tors influencing visitation and satisfaction and provides information for 
+management and planning design (Baumeister et al., 2020). With the 
+rise of big data, points of interest, OpenStreetMap, remote sensing im­
+ages, street view images and other types of data are increasingly used in 
+research for analyzing influencing factors (Grzyb et al., 2021; Huai & 
+Van de Voorde, 2022). Generally, UGS attributes can be roughly divided 
+into the following three categories: (1) Landscape patterns. The area 
+typically determines the level and function of a UGS (Ha et al., 2022), 
+and the types of landscape elements are quite different (Wang et al., 
+2022), particularly for natural landscapes, including plants and water 
+bodies (Li et al., 2022; Samus et al., 2022), which have a considerable 
+impact on public perception. Landscape patterns, such as landscape 
+diversity (Feng & Astell-Burt, 2022), heterogeneity (Xie et al., 2023), 
+connectivity (Dong et al., 2020), and shape (Liebelt et al., 2018), may 
+affect the landscape hierarchy and visual effects of UGSs, thereby 
+affecting landscape perception. (2) Ecological effects. The normalized 
+difference vegetation index (NDVI) is positively correlated with 
+emotional recovery and self-rated health (Zhang et al., 2022), and the 
+cold island effect can improve pedestrian comfort (Liu et al., 2024). (3) 
+Socioeconomic effects. Public perception is spatially dependent, with 
+residents considering travel convenience and cost, distance from the city 
+center, and accessibility among the factors influencing perception (Dong 
+et al., 2024; Phillips et al., 2022). Some UGSs are adjacent to industries, 
+such as catering, commerce, and entertainment businesses, and the 
+accessibility of UGSs and supporting facilities affects the public's eval­
+uation of the social equity of these spaces (Boone et al., 2021). Popu­
+lation density and crowding risk within the areas covered by UGSs affect 
+public satisfaction (Annerstedt van den Bosch et al., 2016). It is known 
+that UGS visitation and satisfaction are affected by many driving factors; 
+however, few studies have focused on the dominant factors affecting 
+these two indicators and their importance rankings.
+The aim of this study is to understand the connections among attri­
+butes, visitation, and satisfaction and to address the following questions: 
+(1) Based on social media data, what are the differences in visitation and 
+satisfaction among different types of UGSs? (2) How can we analyze the 
+dominant factors influencing UGS attributes on visitation and satisfac­
+tion based on multisource data and rank their importance? Here, an 
+attempt is made to provide managers and landscape architects with 
+optimal UGS information from the perspective of public feedback, 
+thereby contributing to improvements in UGS usage and public 
+satisfaction.
+2. Methods
+2.1. Study area
+Shanghai is the most populous city in China, with a resident popu­
+lation of approximately 24.89 million as of 2021 and a UGS coverage 
+area of 1712.15 km2, which is a relatively high level of green space 
+coverage among cities in China. Urban development and population 
+growth have put pressure on UGS construction. Therefore, we conduct a 
+comprehensive analysis of UGSs in Shanghai to obtain representative 
+information.
+According to the “Urban Green Space Classification Standard (CJJ/ 
+T85-2017)” (Ministry of Housing and Urban-Rural Development of the 
+People's Republic of China, 2017), we selected 50 UGSs with high visi­
+bility and a high number of comments from social media as our research 
+objects (Fig. 1). The UGSs can be divided into the following four types: 
+comprehensive parks, community parks, theme parks, and regional 
+green spaces, the numbers of which are 15, 22, 11 and 2, respectively. 
+Comprehensive parks are green spaces with areas of >10 ha and com­
+plete recreational and supporting facilities. Community parks are green 
+spaces with areas of 1–10 ha that mainly provide daily leisure services 
+for residents within the community. Theme parks are green spaces with 
+specific contents or appearances, including historical gardens, children's 
+parks, and sports parks. Regional green spaces are located outside urban 
+construction land and have functions, such as recreation and protection. 
+These spaces are open to the public of all ages and are widely distributed 
+across 10 administrative districts of Shanghai, with sizes ranging from 
+1.15 to 283.41 ha. Details of each UGS are provided in Table A.1.
+2.2. Research design
+Fig. 2 shows the workflow developed for the case study. First, visi­
+tation and satisfaction, as reflected on social media, are quantified for 
+each UGS using a model based on comment volume and deep learning. 
+Second, the UGS attributes of landscape patterns, ecological effects, and 
+socioeconomic effects are summarized using 34 indicators (Annerstedt 
+van den Bosch et al., 2016; Li et al., 2020). Finally, factors influencing 
+UGS visitation and satisfaction are identified using statistical analysis 
+methods, such as all-subset regression and hierarchical partitioning 
+analysis. For a list of the data used in this study, please see Table A.2.
+2.3. Quantification of visitation and satisfaction
+Dianping (https://www.dianping.com/) is one of the most popular 
+social media platforms in China, enabling users to publicly share text or 
+photos of their comments based on the type of venue they have visited. 
+Others can view these records on the platform, which has become an 
+important source of data for urban infrastructure analyses in recent 
+years. The comment data were obtained through an application pro­
+gramming interface (API). We established a team of experts to randomly 
+check and verify the results through the Delphi method to delete 
+duplicate and irrelevant records and improve accuracy. A total of 
+111,814 valid comments from 2016 to 2020 were collected for the 50 
+UGSs investigated in this study. The number of comments on each UGS 
+was counted and represents visitation.
+J. Li et al. 
+Cities 156 (2025) 105543 
+2 
+
+Since the review text language is colloquial and may not be gram­
+matically correct, we used a long short-term memory (LSTM) network to 
+analyze satisfaction (Fig. A.1). First, we collected 120,000 review texts 
+about UGSs from Dianping, Ctrip, and Weibo to train the model and 
+divided these data into training sets and test sets at a ratio of 9:1. Second, 
+we used the Word2vec word embedding model to convert the review 
+words into word vectors. After 130 deep learning training runs, the 
+model accuracy reached 95.8 %. Finally, 111,814 pieces of text were 
+input into the model, and the score obtained was a decimal between 
+0 and 1, indicating the degree of satisfaction.
+Fig. 1. Locations of the urban green spaces being analyzed in Shanghai.
+Fig. 2. Workflow for the study.
+J. Li et al. 
+Cities 156 (2025) 105543 
+3 
+
+2.4. Analysis of UGS attributes
+We explored the landscape element ratio, facility layout, and site 
+selection scheme used in UGS planning and management to construct 34 
+indicators of landscape patterns, ecological effects, and socioeconomic 
+effects describing UGS attributes (Tables 1, A.3).
+In terms of landscape patterns, land use was classified into six types, 
+including trees and shrubs, lawns, water bodies, roads and squares, 
+buildings, and sports fields, based on the green space land type data 
+provided by the Shanghai Landscaping and City Appearance Adminis­
+trative Bureau and combined with the visual interpretation of Gaofen-6 
+images with a 2-m resolution. The field survey data were processed in 
+ArcGIS 10.6 to obtain a digital map of the distribution of landscape el­
+ements in the surveyed UGSs, and the landscape pattern index was 
+calculated using Fragstats 4.2.1. Openness was calculated using Baidu 
+Street View data to identify UGS boundaries and entrances/exits.
+In terms of ecological effects, the NDVI was calculated using clear 
+and cloudless Sentinel-2 images typical of four seasons with a 10-m 
+resolution. The surface temperature was inverted, and the UGS tem­
+perature regulation was further analyzed using Landsat-8 remote 
+sensing images with a 30-m resolution.
+In terms of socioeconomic effects, point-of-interest data were ob­
+tained using the API of the AutoNavi Open Platform, and transportation 
+facilities, catering, sports, and shopping facilities in the database were 
+extracted as the analysis objects. A 500-m buffer of walking roads was 
+applied to the OpenStreetMap road data, and the density of each indi­
+cator was calculated using ArcGIS. WorldPop 2020 data were used for 
+population coverage. The distance from the city center was measured 
+using the Shanghai Park Hotel as the origin, and the straight-line dis­
+tance to each UGS center-of-mass point was calculated.
+2.5. Analysis of influencing factors
+First, the factors of UGS features influencing the number of com­
+ments and level of satisfaction were identified separately. Pearson cor­
+relation analysis was carried out between the UGS attributes and two 
+indicators (comment volume and satisfaction). Due to the excessive 
+number of factors considered, some factors contain explanatory infor­
+mation similar to the dependent variable, resulting in a strong 
+correlation between factors. According to Fox and Weisberg (2018) and 
+this study, a Pearson correlation coefficient >0.7 indicates a strong 
+correlation between two groups of variables, which are selected ac­
+cording to the actual meanings of the indicators or the degrees to which 
+they contribute to the interpretation of the results. A correlation matrix 
+was constructed to determine collinearity, and factors with variance 
+inflation factors (VIFs) <10 were selected to avoid the problem of factor 
+collinearity (Murtagh & Heck, 2012).
+Second, optimal regression models are constructed. The most com­
+mon method for multivariate analysis is multiple linear regression; 
+however, this method uses only a single influencing factor to construct a 
+regression model and cannot consider all possible combinations of fac­
+tors. This study used an all-subset regression to overcome this limitation. 
+The top-ranked models were selected according to the adjusted R2, and 
+the model with the smallest Akaike information criterion (AIC) value 
+was selected to explain the greatest variance with the fewest indepen­
+dent variables (Akaike, 1974).
+Finally, the contribution of the dominant factor was identified for the 
+optimal equation. It is difficult to clarify the relative importance of all 
+factors using stepwise regression, while hierarchical partitioning anal­
+ysis is more suitable for multidimensional landscape data analysis to 
+obtain independent importance values of factors. Hierarchical parti­
+tioning was used to identify the independent effects of the explanatory 
+variables in the optimal equation (Walsh & MacNally, 2020) and to rank 
+the importance of the influencing factors and determine their contri­
+butions. The above analysis was performed using R4.2.1.
+3. Results
+3.1. Descriptive analysis of UGS visitation and satisfaction
+There was an average of 2236 comments for the 50 UGSs. Compre­
+hensive parks have the highest average number of comments (3227), 
+followed by theme parks (3077), regional green spaces (2607), and 
+community parks (1100). Among the four UGSs with the highest number 
+of comments, Gucun Park (14,700), Century Park (10,500), and Daning 
+Park (7470) are comprehensive parks, and Gongqing Forest Park 
+(13,000) is a theme park. The remaining 46 UGSs each had fewer than 
+5000 comments, of which 12 had 2000–4999 comments, 10 had 
+1000–1999 comments, 16 had 500–999 comments, and eight had fewer 
+than 500 comments.
+The satisfaction scores were between 0.52 and 0.94, with a mean of 
+0.716 and a variance of 0.007, indicating that the overall satisfaction 
+rating of Shanghai UGS online comments was positive and neutral 
+(Table 2). Community parks have the highest average satisfaction 
+(0.793), followed by theme parks (0.734), comprehensive parks (0.689), 
+and regional green spaces (0.597). One UGS had a satisfaction score 
+above 0.9, and it was community park; eight UGSs had satisfaction 
+scores of 0.8–0.9 (excluding 0.9), 21 UGSs had scores of 0.7–0.8 
+(excluding 0.8), 16 UGSs had scores of 0.6–0.7 (excluding 0.7), and four 
+UGSs had scores below 0.6.
+Among the four types, comprehensive parks have the highest number 
+of reviews and lower-than-average satisfaction, while community parks 
+have the lowest number of visits but the highest satisfaction. The 
+number of reviews and satisfaction levels for theme parks are both above 
+average.
+Visitation and satisfaction are related to seasonal changes (Fig. 3). 
+Spring and early autumn (March–May and October) are the peak periods 
+for the number of comments on UGSs, while winter and summer 
+(January–February and August) are the trough periods. From the 
+perspective of satisfaction, the highest values occur in late autumn and 
+early winter (November–January), and the lowest values occur in spring 
+and summer (March–May and August).
+Table 1 
+UGS attribute indicator table.
+UGS attribute
+Dimension
+Indicator (abbreviation)
+Landscape 
+pattern
+UGS landscape 
+pattern
+Total landscape area (TA), Edge density 
+(ED), Contagion index (CONTAG), 
+Aggregation index (AI), Landscape 
+shape index (LSI), Shannon's diversity 
+index (SHDI), Patch richness density 
+(PRD), Patch cohesion index 
+(COHESION)
+Boundary space
+Openness (OPEN)
+Landscape element
+Percent of landscape element (PLAND- 
+tree, PLAND-grass, PLAND-water, 
+PLAND-road, PLAND-building, PLAND- 
+sporting)
+Edge density of landscape element (ED- 
+tree, ED-grass, ED-water, ED-road, ED- 
+building, ED-sporting)
+Landscape shape index of landscape 
+element (LSI-tree, LSI-grass, LSI-water, 
+LSI-road, LSI-building, LSI-sporting)
+Ecological effect
+Vegetation 
+condition
+NDVI
+Thermoregulation
+Temperature, Cooling amplitude (CA)
+Socioeconomic 
+effect
+Accessible 
+transport
+Transport density (TD), Distance
+Surrounding 
+facility
+Facility density (FD)
+Population served
+Population density (PD)
+J. Li et al. 
+Cities 156 (2025) 105543 
+4 
+
+3.2. Factors significantly influencing visitation and satisfaction
+Among the 34 factors investigated in this study, 13 and 20 were 
+significantly related to comment volume and satisfaction, respectively 
+(Table 3). After removing duplicate correlation factors, 23 factors 
+remained. The correlation matrix is shown in Table B.1. The VIF is used 
+as a criterion to determine collinearity in these factors, retaining six 
+factors that influence the comment volume (Temperature, TA, ED, 
+Table 2 
+Statistical table of UGS satisfaction and comments.
+Number of UGS
+UGS types
+Comprehensive park
+Community park
+Theme park
+Regional green space
+Comment volume
+>10,000
+3
+2
+1
+5000–9999
+1
+1
+2000–4999
+12
+3
+5
+3
+1
+1000–1999
+10
+4
+3
+3
+500–999
+16
+5
+8
+2
+1
+<500
+8
+1
+6
+1
+Satisfaction score
+0.9–1
+1
+1
+0.8–0.9 (excluding 0.9)
+8
+1
+4
+3
+0.7–0.8 (excluding 0.8)
+21
+7
+11
+3
+0.6–0.7 (excluding 0.7)
+16
+6
+5
+4
+1
+<0.6
+4
+2
+1
+1
+Fig. 3. Monthly statistics of UGS comment volume and satisfaction.
+Table 3 
+Correlation analysis of UGS attributes and comment volume and satisfaction.
+UGS attribute
+Comment volume (Pearson 
+r)
+Satisfaction (Pearson 
+r)
+UGS attribute
+Comment volume (Pearson 
+r)
+Satisfaction (Pearson 
+r)
+Landscape pattern
+TA
+0.877**
+¡0.409**
+PLAND- 
+sporting
+0.054
+−0.066
+ED
+¡0.354*
+0.635**
+ED-tree
+¡0.325*
+0.577**
+CONTAG
+0.261
+¡0.410**
+ED-grass
+−0.173
+0.241
+AI
+0.348*
+¡0.642**
+ED-water
+0.060
+0.007
+LSI
+0.781**
+−0.253
+ED-road
+¡0.350*
+0.640**
+SHDI
+0.138
+0.030
+ED-building
+¡0.283*
+0.327*
+PRD
+¡0.369**
+0.436**
+ED-sporting
+−0.483
+0.182
+COHESION
+0.576**
+¡0.444**
+LSI-tree
+0.754**
+−0.253
+Open
+−0.179
+0.283*
+LSI-grass
+0.279
+−0.147
+PLAND-tree
+−0.005
+−0.058
+LSI-water
+0.761**
+¡0.322*
+PLAND-grass
+−0.011
+0.184
+LSI-road
+0.777**
+¡0.294**
+PLAND-water
+0.156
+¡0.419**
+LSI-building
+0.426**
+¡0.314*
+PLAND-road
+−0.130
+0.444**
+LSI-sporting
+0.095
+−0.050
+PLAND- 
+building
+−0.189
+0.188
+Ecological effect
+NDVI
+−0.013
+0.248
+Temperature
+−0.271
+0.338*
+CA
+0.010
+−0.151
+Socioeconomic 
+effect
+TD
+−0.231
+0.647**
+Distance
+0.266
+¡0.479**
+FD
+−0.239
+0.538**
+PD
+−0.250
+0.473**
+* Significant at the 95 % level (p < 0.05).
+** Significant at the 99 % level (p < 0.01).
+J. Li et al. 
+Cities 156 (2025) 105543 
+5 
+
+COHESION, ED-building, and LSI-building) and 13 factors that influence 
+satisfaction (TA, Temperature, ED, CONTAG, COHESION, PLAND- 
+water, PLAND-road, ED-building, LSI-building, OPEN, FD, NDVI, and 
+PD) for further analysis. The VIFs are all <7 (Tables B.2, B.3) and thus 
+have been controlled within a reasonable range.
+3.3. Optimal regression models
+The influencing factors are subjected to an all-subset regression, and 
+the models with the top-ranked adjusted R2 values are output. The 
+regression results for visitation and satisfaction are shown in Fig. 4. Only 
+one model had an explanation rate of 0.82 for the comment volume and 
+a corresponding AIC of 873.7129, with TA, ED, COHESION, and LSI- 
+building as the four factors influencing the optimal equation. There 
+are four models with an interpretation rate of 0.51 for satisfaction, 
+among which the model that has the smallest AIC value (−134.1949) is 
+selected as the optimal equation, with TD and ED as the two influencing 
+factors.
+3.4. Relative importance of influencing factors
+The results of the hierarchical partitioning analysis are shown in 
+Fig. 5. Among the factors influencing comment volume, size has the 
+largest independent contribution (69.35 %), which is >50 % greater 
+than the second-ranked factor. The contributions of connectivity, 
+building shape, and edge density are 16.40 %, 8.50 %, and 5.75 %, 
+respectively, indicating that the comment volume is greater when the 
+UGS size is larger, the spatial connectivity among internal elements is 
+higher, the building shape is more irregular, and the edge density is 
+smaller, i.e., the landscape heterogeneity is lower. Among the factors 
+influencing satisfaction, the dominant factor is transportation facility 
+density, with a contribution of 51.49 %, followed by edge density, with a 
+contribution of 48.51 %, indicating that the greater the density of the 
+surrounding facilities, such as bus and subway stations and parking lots, 
+Fig. 4. All-subset regression results. 
+Note: The abscissa is the intercept term (intercept) and explanatory variable, the color blocks represent the variables entered into the equation, the left ordinate is the 
+adjusted R2 of each output model, and the right AIC represents the AIC value of the regression model.
+J. Li et al. 
+Cities 156 (2025) 105543 
+6 
+
+and the greater the landscape heterogeneity is, the greater the satis­
+faction level of comments.
+4. Discussion
+4.1. UGS visitation and satisfaction characteristics based on social media 
+data
+This study analyzes the characteristics of UGS visitation and satis­
+faction based on social media data. From the perspective of data sources, 
+previous research has found strong correlations between social media 
+data and official visitation statistics (Tenkanen et al., 2017); however, 
+there has been insufficient research on satisfaction. Huai et al. (2023)
+studied UGSs in Shanghai and found that comprehensive parks had the 
+highest level of satisfaction, which is different from the results of this 
+study. For texts expressing low satisfaction with comprehensive parks, 
+we found that by searching for high-frequency words, the main reason 
+was insufficient management of public recreation-related needs. For 
+example, outdoor camping has gradually emerged in these areas in 
+recent years; however, UGS managers prohibit tourists from entering the 
+lawn, which reduces the opportunities for tourists to engage in recrea­
+tional activities. Therefore, social media data are still worthy of dis­
+cussion in terms of their representativeness of satisfaction.
+The period changes displayed by social media data reveal the phe­
+nomenon of seasonal fluctuations and the dynamic changes in tourist 
+behavior patterns behind these fluctuations, which can also provide a 
+basis for UGS flow detection and management (Zhao et al., 2020). The 
+outdoor thermal comfort standard recommended by the World Health 
+Organization (WHO) (2007) is approximately 18 ◦C, which corresponds 
+to the most comfortable month with the average temperature in 
+Shanghai occurring in April–May and October–November (Fig. C.1). 
+This period is consistent with the highest number of reviews in this 
+study. Simultaneously, climate differences create basic conditions for 
+seasonal fluctuations in UGS landscapes. The seasonal landscapes are the 
+most distinctive in spring and autumn. UGSs often have plant viewing or 
+festival activities in these two seasons. In the study area, Gucun Park has 
+the Cherry Blossom Festival from March to April; Century Park has the 
+Spring Flower Tour from March to April, mainly creating landscapes 
+with cherry blossoms, viburnums, and rapeseed flowers; the Golden 
+Autumn Garden Season is held in October to create ginkgo landscapes; 
+and Guilin Park has the Osmanthus Festival from September to October. 
+Climate and cultural activities have important impacts on visits to and 
+satisfaction with UGSs, and other related studies have reached similar 
+conclusions (Guan et al., 2021; Liang & Zhang, 2021).
+4.2. Factors influencing UGS visitation and satisfaction
+This study revealed that the main factors influencing visitation are 
+UGS size, connectivity, the building shape index, and edge density. The 
+size of the UGS and the visibility are significantly positively correlated, 
+with large UGSs typically having a richer native landscape, some aspects 
+of wild nature, abundant vegetation, walking trails, water features, and 
+wildlife, such as birds. The strong appeal of this natural landscape may 
+attract nature-oriented users to make a special trip to such a UGS 
+(Phillips et al., 2022). Larger UGSs have lower internal temperatures, 
+with aggregated and compact patches of the same landscape type 
+(Zhang & Zhou, 2018), thereby attracting more people. Users of larger 
+UGSs can stay longer and engage in more types of outdoor activities, 
+contributing to greater social cohesion (Kingsbury et al., 2020; Peters 
+et al., 2010) and better mental health and well-being (Ayala-Azc´arraga 
+et al., 2019). Well-connected natural spaces can provide people with 
+greater access to biodiverse environments (Ha et al., 2022). In addition, 
+good connectivity encourages occasional users, such as cyclists and 
+runners, to spend more time in UGSs, and green corridors can reduce 
+stress and negative emotional states (Marselle et al., 2015). Buildings 
+and structures are important vehicles for displaying a city's history and 
+culture, and historical relics with unique elements of the city 
+(Baumeister et al., 2020) in the green landscape significantly influence 
+public perception.
+This study revealed that the main factors influencing satisfaction are 
+transportation facility density and edge density. In terms of trans­
+portation facilities, relevant studies have shown that the number of bus 
+stops, subway stations, and parking lots around UGSs is positively 
+correlated with utilization (Fan et al., 2021; Hamstead et al., 2018). 
+Therefore, UGS accessibility has a positive impact on satisfaction 
+(Ugolini et al., 2022). Edge density generally reflects the heterogeneity 
+of space and is positively correlated with satisfaction (Li et al., 2023). 
+Some studies have shown that compared to a single, large UGS, several 
+scattered, small UGSs can more effectively alleviate the psychological 
+distress experienced by the public (Ha et al., 2022). In addition, in the 
+correlation analysis, this study finds that satisfaction and service facility 
+density are positively correlated. UGSs have become urban green com­
+plexes due to their diverse functions at the city's strategic level, 
+including their ecology, landscape, recreation, and culture. People can 
+Fig. 5. Factors influencing satisfaction and comments.
+J. Li et al. 
+Cities 156 (2025) 105543 
+7 
+
+meet their daily life needs while enjoying outdoor activities in UGSs. 
+Therefore, the availability of facilities, such as restaurants, cafes, sports 
+fields, public toilets, and free Wi-Fi may all affect perception.
+4.3. Suggestions for UGS management
+By analyzing the factors affecting UGS visitation and satisfaction, we 
+can understand the gap between urban management and resident ex­
+pectations and then guide and refine the management of UGSs. While 
+large UGSs are less common in densely populated urban centers, small 
+UGSs, such as community parks, can promote the daily experience of 
+being outdoors and have better accessibility (Peschardt et al., 2012), 
+thus enhancing social interaction and cohesion among community res­
+idents (Ekkel & de Vries, 2017). Therefore, small, well-managed UGSs 
+with convenient transportation are very important for the recreational 
+activities of nearby residents. UGSs, from the theme planning of large 
+forest parks and country parks to the site selection of small street and 
+waterfront UGSs, should be built and managed in a targeted manner 
+according to the usage features, frequency, and perceived characteristics 
+of various groups of people (Wang et al., 2023). The existing UGSs can 
+increase the frequency of public visits by hosting festivals and plant- 
+viewing activities (Li et al., 2023). Moreover, the edges of plants, 
+water bodies, and roads can be constructed with increased curvature, 
+and buildings in UGSs, such as museums and art galleries, can be 
+designed with complex shapes to increase the public perception of UGS 
+recreation services.
+In future planning, the accessibility of UGSs should receive increased 
+attention from decision makers. The regional road network, especially 
+bicycle infrastructure, can be strengthened, bus and subway lines and 
+stations can be rationally arranged (Yang et al., 2022), and the parking 
+lot layout can be modified to improve transportation convenience and 
+public satisfaction (Gorzelany et al., 2023). Moreover, more attention 
+should be given to the surrounding commercial, service, and other 
+supporting facilities (Zhong et al., 2020) for new or renovated UGSs.
+5. Conclusions
+The research questions posed in this study have been answered. For 
+question one, comprehensive parks have the highest number of reviews 
+and lower-than-average satisfaction, while community parks have the 
+lowest number of visits but the highest satisfaction. Regarding the sec­
+ond question, the factor most influencing visitation factor is UGS size, 
+with an independent contribution of 69.35 %, followed by connectivity, 
+the building shape index, and edge density, with independent contri­
+butions of 16.40 %, 8.50 %, and 5.75 %, respectively. The factors 
+influencing satisfaction are transportation facility density and edge 
+density, with independent contributions of 51.49 % and 48.51 %, 
+respectively.
+Based on the results, we provide several recommendations for UGS 
+planners and decision-makers: (1) In the UGS system, the roles played by 
+small, easily accessible UGSs and large, well-functioning UGSs overlap 
+and complement each other. (2) UGSs should be constructed to improve 
+their openness, accessibility, and proximity from the perspective of 
+serving urban residents.
+Our study area covers only formal UGSs, while informal green spaces 
+(e.g., wastelands and brownfields) are not included, although these 
+spaces are also recognized for their recreational potential. In the future, 
+additional crowdsourced data can be considered, and the research scope 
+can be expanded to include different types of public recreational areas; 
+visitation, satisfaction or other dimensions can be analyzed; and the 
+influencing factors can be explored to provide more effective informa­
+tion for urban public space design practices.
+CRediT authorship contribution statement
+Jie Li: Writing – review & editing, Writing – original draft, 
+Visualization, Methodology, Investigation, Funding acquisition, Formal 
+analysis, Conceptualization. Jing Fu: Project administration, Funding 
+acquisition, Conceptualization. Jun Gao: Supervision, Methodology, 
+Investigation. Rui Zhou: Writing – review & editing, Project adminis­
+tration, Funding acquisition, Conceptualization. Zhenyu Zhao: Writing 
+– review & editing, Visualization, Validation, Methodology. Panpan 
+Yang: Writing – review & editing, Supervision. Yang Yi: Writing – re­
+view & editing, Funding acquisition.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgments
+This work was supported by the National Natural Science Foundation 
+Projects of China (No. 42101116), Beijing Key Laboratory of Urban 
+Spatial Information Engineering (No. 20230115), General Science 
+Foundation of Shanghai Normal University (No. SK202256), and Natu­
+ral Science Foundation of Shanghai (No. 23ZR1459700).
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.cities.2024.105543.
+Data availability
+Data will be made available on request. 
+References
+Addas, A., & Maghrabi, A. (2022). How did the COVID-19 pandemic impact urban green 
+spaces? A multi-scale assessment of Jeddah megacity (Saudi Arabia)[J]. Urban 
+Forestry & Urban Greening, 69, Article 127493. https://doi.org/10.1016/j. 
+ufug.2022.127493
+Akaike, H. (1974). A new look at the statistical model identification[J]. IEEE Transactions 
+on Automatic Control, 19(6), 716–723. https://doi.org/10.1109/TAC.1974.1100705
+Annerstedt van den Bosch, M., Mudu, P., Uscila, V., et al. (2016). Development of an 
+urban green space indicator and the public health rationale[J]. Scandinavian Journal 
+of Public Health, 44(2), 159–167. https://doi.org/10.1177/1403494815615444
+Ayala-Azc´arraga, C., Diaz, D., & Zambrano, L. (2019). Characteristics of urban parks and 
+their relation to user well-being[J]. Landscape and Urban Planning, 189, 27–35. 
+https://doi.org/10.1016/j.landurbplan.2019.04.005
+Baumeister, C. F., Gerstenberg, T., Plieninger, T., et al. (2020). Exploring cultural 
+ecosystem service hotspots: Linking multiple urban forest features with public 
+participation mapping data[J]. Urban Forestry & Urban Greening, 48, Article 126561. 
+https://doi.org/10.1016/j.ufug.2019.126561
+Belaire, J. A., Higgins, C., Zoll, D., et al. (2022). Fine-scale monitoring and mapping of 
+biodiversity and ecosystem services reveals multiple synergies and few tradeoffs in 
+urban green space management[J]. Science of the Total Environment, 849, Article 
+157801. https://doi.org/10.1016/j.scitotenv.2022.157801
+Boone, C. G., Buckley, G. L., Grove, J. M., & Sister, C. (2021). Parks and people: An 
+environmental justice inquiry in Baltimore, Maryland[M]. Public Space Reader, 
+128–137. https://doi.org/10.4324/9781351202558-20
+Chang, P., & Olafsson, A. S. (2022). The scale effects of landscape variables on landscape 
+experiences: A multi-scale spatial analysis of social media data in an urban nature 
+park context[J]. Landscape Ecology, 37(5), 1271–1291. https://doi.org/10.1007/ 
+s10980-022-01402-2
+Dong, Q., Zeng, P., Long, X., et al. (2024). An improved accessibility index to effectively 
+assess urban park allocation: Based on working and residential situations[J]. Cities, 
+145, Article 104736. https://doi.org/10.1016/j.cities.2023.104736
+Dong, Y., Liu, H., & Zheng, T. (2020). Does the connectivity of urban public green space 
+promote its use? An empirical study of Wuhan[J]. International Journal of 
+Environmental Research and Public Health, 17(1), 297. https://doi.org/10.3390/ 
+ijerph17010297
+Ekkel, E. D., & de Vries, S. (2017). Nearby green space and human health: Evaluating 
+accessibility metrics[J]. Landscape and Urban Planning, 157, 214–220. https://doi. 
+org/10.1016/j.landurbplan.2016.06.008
+Fan, Z., Duan, J., Lu, Y., et al. (2021). A geographical detector study on factors 
+influencing urban park use in Nanjing, China[J]. Urban Forestry & Urban Greening, 
+59, Article 126996. https://doi.org/10.1016/j.ufug.2021.126996
+Fang, X., Li, J., & Ma, Q. (2023). Integrating green infrastructure, ecosystem services and 
+nature-based solutions for urban sustainability: A comprehensive literature review 
+J. Li et al. 
+Cities 156 (2025) 105543 
+8 
+
+[J]. Sustainable Cities and Society. , Article 104843. https://doi.org/10.1016/j. 
+scs.2023.104843
+Feng, X., & Astell-Burt, T. (2022). Perceived qualities, visitation and felt benefits of 
+preferred nature spaces during the COVID-19 pandemic in Australia: A nationally- 
+representative cross-sectional study of 2940 adults[J]. Land, 11(6), 904. https://doi. 
+org/10.3390/land11060904
+Foltˆete, J. C., Ingensand, J., & Blanc, N. (2020). Coupling crowd-sourced imagery and 
+visibility modelling to identify landscape preferences at the panorama level[J]. 
+Landscape and Urban Planning, 197, Article 103756. https://doi.org/10.1016/j. 
+landurbplan.2020.103756
+Fox, J., & Weisberg, S. (2018). An R companion to applied regression[M]. Sage 
+publications. 
+Ghahramani, M., Galle, N. J., Ratti, C., et al. (2021). Tales of a city: Sentiment analysis of 
+urban green space in Dublin[J]. Cities, 119, Article 103395. https://doi.org/ 
+10.1016/j.cities.2021.103395
+Gorzelany, J., Noszczyk, T., Kukulska-Kozieł, A., et al. (2023). Urban green spaces 
+management during the COVID-19 pandemic: Experiences from Krak´ow, Poland[J]. 
+Land Degradation & Development, 34(2), 423–440. https://doi.org/10.1002/ldr.4469
+Gozalo, G. R., Morillas, J. M. B., Gonz´alez, D. M., et al. (2018). Relationships among 
+satisfaction, noise perception, and use of urban green spaces[J]. Science of the Total 
+Environment, 624, 438–450. https://doi.org/10.1016/j.scitotenv.2017.12.148
+Grzyb, T., Kulczyk, S., Derek, M., et al. (2021). Using social media to assess recreation 
+across urban green spaces in times of abrupt change[J]. Ecosystem Services, 49, 
+Article 101297. https://doi.org/10.1016/j.ecoser.2021.101297
+Guan, C., Song, J., Keith, M., et al. (2021). Seasonal variations of park visitor volume and 
+park service area in Tokyo: A mixed-method approach combining big data and field 
+observations[J]. Urban Forestry & Urban Greening, 58, Article 126973. https://doi. 
+org/10.1016/j.ufug.2020.126973
+Ha, J., Kim, H. J., & With, K. A. (2022). Urban green space alone is not enough: A 
+landscape analysis linking the spatial distribution of urban green space to mental 
+health in the city of Chicago[J]. Landscape and Urban Planning, 218, Article 104309. 
+https://doi.org/10.1016/j.landurbplan.2021.104309
+Hamstead, Z. A., Fisher, D., Ilieva, R. T., et al. (2018). Geolocated social media as a rapid 
+indicator of park visitation and equitable park access[J]. Computers, Environment and 
+Urban Systems, 72, 38–50. https://doi.org/10.1016/j.compenvurbsys.2018.01.007
+Heikinheimo, V., Tenkanen, H., Bergroth, C., et al. (2020). Understanding the use of 
+urban green spaces from user-generated geographic information[J]. Landscape and 
+Urban Planning, 201, Article 103845. https://doi.org/10.1016/j. 
+landurbplan.2020.103845
+Huai, S., Liu, S., Zheng, T., et al. (2023). Are social media data and survey data consistent 
+in measuring park visitation, park satisfaction, and their influencing factors? A case 
+study in Shanghai[J]. Urban Forestry & Urban Greening, 81, Article 127869. https:// 
+doi.org/10.1016/j.ufug.2023.127869
+Huai, S., & Van de Voorde, T. (2022). Which environmental features contribute to 
+positive and negative perceptions of urban parks? A cross-cultural comparison using 
+online reviews and natural language processing methods[J]. Landscape and Urban 
+Planning, 218, Article 104307. https://doi.org/10.1016/j.landurbplan.2021.104307
+Kim, Y., Corley, E. A., Won, Y., et al. (2023). Green space access and visitation disparities 
+in the phoenix metropolitan area[J]. Landscape and Urban Planning, 237, Article 
+104805. https://doi.org/10.1016/j.landurbplan.2023.104805
+Kingsbury, M., Clayborne, Z., Colman, I., et al. (2020). The protective effect of 
+neighbourhood social cohesion on adolescent mental health following stressful life 
+events[J]. Psychological Medicine, 50(8), 1292–1299. https://doi.org/10.1017/ 
+S0033291719001235
+Korpilo, S., Kaaronen, R. O., Olafsson, A. S., et al. (2022). Public participation GIS can 
+help assess multiple dimensions of environmental justice in urban green and blue 
+space planning[J]. Applied Geography, 148, Article 102794. https://doi.org/ 
+10.1016/j.apgeog.2022.102794
+Li, J., Fu, J., Gao, J., et al. (2023). Effects of the spatial patterns of urban parks on public 
+satisfaction: Evidence from Shanghai, China[J]. Landscape Ecology. https://doi.org/ 
+10.1007/s10980-023-01615-z
+Li, J., Gao, J., Zhang, Z., et al. (2024). Insights into citizens’ experiences of cultural 
+ecosystem services in urban green spaces based on social media analytics[J]. 
+Landscape and Urban Planning, 244, Article 104999. https://doi.org/10.1016/j. 
+landurbplan.2023.104999
+Li, J., Zhang, Z., Jing, F., et al. (2020). An evaluation of urban green space in Shanghai, 
+China, using eye tracking[J]. Urban Forestry & Urban Greening, 56, Article 126903. 
+https://doi.org/10.1016/j.ufug.2020.126903
+Li, X., Wang, X., Jiang, X., et al. (2022). Prediction of riverside greenway landscape 
+aesthetic quality of urban canalized rivers using environmental modeling[J]. Journal 
+of Cleaner Production, 367, Article 133066. https://doi.org/10.1016/j. 
+jclepro.2022.133066
+Liang, H., & Zhang, Q. (2021). Temporal and spatial assessment of urban park visits from 
+multiple social media data sets: A case study of Shanghai, China[J]. Journal of 
+Cleaner Production, 297, Article 126682. https://doi.org/10.1016/j. 
+jclepro.2021.126682
+Liebelt, V., Bartke, S., & Schwarz, N. (2018). Hedonic pricing analysis of the influence of 
+urban green spaces onto residential prices: The case of Leipzig, Germany[J]. 
+European Planning Studies, 26(1), 133–157. https://doi.org/10.1080/ 
+09654313.2017.1376314
+Liu, D., Zhou, R., Ma, Q., et al. (2024). Spatio-temporal patterns and population exposure 
+risks of urban heat island in megacity Shanghai, China[J]. Sustainable Cities and 
+Society. , Article 105500. https://doi.org/10.1016/j.scs.2024.105500
+Liu, H., Li, F., Xu, L., et al. (2017). The impact of socio-demographic, environmental, and 
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

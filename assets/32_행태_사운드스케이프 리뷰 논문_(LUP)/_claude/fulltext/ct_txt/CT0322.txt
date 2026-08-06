@@ -1,0 +1,1053 @@
+Citation: Morillas, J.M.B.; Montes
+González, D.; Vílchez-Gómez, R.;
+Rey-Gozalo, G. Estimation of the
+Occurrence and Significance of Noise
+Effects on Pedestrians Using Acoustic
+Variables Related to Sound Energy in
+Urban Environments. Appl. Sci. 2024,
+14, 11212. https://doi.org/10.3390/
+app142311212
+Academic Editors: Alexander Sutin
+and Masayuki Takada
+Received: 5 October 2024
+Revised: 21 November 2024
+Accepted: 28 November 2024
+Published: 2 December 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Estimation of the Occurrence and Significance of Noise Effects
+on Pedestrians Using Acoustic Variables Related to Sound
+Energy in Urban Environments
+Juan Miguel Barrigón Morillas
+, David Montes González *
+, Rosendo Vílchez-Gómez
+and Guillermo Rey-Gozalo
+Laboratorio de Acústica (Lambda), Departamento de Física Aplicada, Instituto Universitario de Investigación
+para el Desarrollo Territorial Sostenible (INTERRA), Escuela Politécnica, Universidad de Extremadura,
+Avda. de la Universidad, s/n, 10003 Cáceres, Spain; barrigon@unex.es (J.M.B.M.); vilchez@unex.es (R.V.-G.);
+guille@unex.es (G.R.-G.)
+* Correspondence: davidmg@unex.es; Tel.: +34-927257233
+Abstract: The impact of environmental noise on the health and well-being of people living in cities is
+an issue that has been addressed in the scientific literature to try to develop effective environmental
+policies. In this context, road traffic is the main source of noise in urban environments, but it is not
+the only source of noise that pedestrians hear. This paper presents an experimental study using
+in situ surveys and acoustic measurements to analyse the capacity of acoustic variables related to
+sound energy to estimate the occurrence and importance of noise effects in urban environments.
+The results revealed that average sound energy indicators can be considered most significant in
+terms of the perception of the noise effects studied on pedestrians. When estimating noise effects
+from them, frequency weightings related to flat or nearly flat spectra (Z and C weightings) were
+found to provide better results than an A weighting; however, it was also concluded that if the
+average energy is considered, the use of a temporal I weighting did not lead to improvements. The
+perception of how noisy a street is, it is strongly associated with a low frequency, and annoyance was
+the effect that generally showed the strongest significant correlations with acoustic indicators. The
+indicators of minimum sound levels explained a larger proportion of the variability of noise effects
+than the indicators of maximum energy; they were even better in this regard than any of the average
+energy indicators in terms of explaining the variability of startle and annoyance in the ears, and
+they were found to be equivalent when interruption of a telephone conversation was assessed. Both
+acoustic variables associated with sound energy in different parts of the audible spectrum and Leq in
+each one-third octave band showed significant correlations with the effects of noise on pedestrians.
+Similarities in the structure of the spectra were found between some of these effects.
+Keywords: noise annoyance; irritability; startle; interrupting conversation; noise measurements;
+in situ survey
+1. Introduction
+The impact of environmental noise on people residing in urban areas is a subject of
+interest due to its negative effects on well-being and various spheres of human health [1–4].
+Although various types of noise sources are present in cities, transport infrastructure is
+the main cause of noise [5–7], and road traffic has been identified as the most significant
+source [8]. In this context, a target has been set in Europe to reduce the number of people
+chronically disturbed by transport noise by 30% by 2030 [9].
+Strategic noise maps have become a very useful tool, both for assessing the acoustic
+situation of a given environment and for implementing action plans for transport noise
+mitigation [10–12]. However, given that the reality in urban environments is often fairly
+complex, due to the presence of noise sources whose behaviour cannot always be predicted
+Appl. Sci. 2024, 14, 11212. https://doi.org/10.3390/app142311212
+https://www.mdpi.com/journal/applsci
+
+Appl. Sci. 2024, 14, 11212
+2 of 18
+by software models, it is essential to carry out in situ acoustic measurements to validate
+the results provided by noise maps for noise indicators [13–15]. Several strategies can
+be followed to reduce the exposure of the population to environmental noise in cities,
+such as those associated with changes in urban mobility, actions on the noise sources, and
+pedestrianisation of urban areas [16–18]. The scientific literature also shows that variables
+associated with urban planning are closely linked to noise pollution in cities, and that it
+would be advisable to take them into consideration in the process of the urban development
+of cities [19–21]. These measures can also be combined with other initiatives that contribute
+to improving the sense of well-being of people living in cities, such as increasing the
+number of green urban areas to provide quiet and less-polluted spaces for relaxation and
+leisure activities [22–25].
+However, another aspect that is just as important as collecting objective data on
+noise levels in a given environment to assess the acoustic situation is an understanding
+of people’s subjective perception of the sound quality of urban spaces [26–28]. Research
+carried out by means of questionnaires allows for the collection of useful information
+on people’s satisfaction and annoyance with different features of urban environments,
+including noise [29–33]. Surveys have also been used to study noise disturbance to activities
+such as conversing, thinking, reading and resting, as well as the effects of noise such as
+irritability, starle, and annoyance in the ears [31,34]. From data collected via on-site sound
+registers and questionnaires, the association between people’s perceptions of urban noise
+and objective sound variables can be analysed. Noise indicators such as LAeq, Leq, Ldn,
+LAeq,24h, Lmin, Lmax, LN, and L10–L90 have been employed in the scientific literature to
+study the relationships between the characteristics of environmental noise and some of the
+effects it has on people [27,30,31,35,36]. Some of these indicators have shown, in previous
+studies on noise effects, a clear dose–response relationship, unlike the psychoacoustic
+parameters that are usually used in soundscape studies based on ISO 12913 [37].
+The human response to environmental sounds is conditioned in a complex way by
+the energetic, spectral, and temporal characteristics of the sound wave and, of course,
+by the characteristics of individuals [38]. Two very broad lines of work are common for
+analysing the human response to sounds, the study of noise effects and the study of the
+soundscape. In this paper, the authors focus their attention on the study of the effects of
+noise on people in the urban environment. The term “noise” is commonly used for sounds
+that have negative human effects. To estimate the occurrence and intensity of each of the
+effects of noise, different sound indicators have been developed, each of which evaluates
+different aspects of the characteristics of the sound. The present study is based on indicators
+that are usually found in class 1 sound level meter–analysers. These were grouped based
+on the way in which they deal with the energy aspects that characterise the sound wave.
+This allowed for the analysis of the relevance of these characteristics, and the way in which
+they are considered in the sound indicators, to estimate the occurrence and significance of
+certain effects of noise on people.
+To sum up, the aim of this paper is to analyse the capacity of acoustic variables related
+to sound energy in estimating the occurrence and significance of some noise effects on
+pedestrians, considering the different sound sources that are usually present in these street
+environments. This study seeks to identify which acoustic indicators are most strongly
+correlated with perceived noise effects, such as annoyance and others not usually taken
+into account like irritability, startle, or some effects related to interference with spoken
+communication, through in situ surveys and acoustic measurements.
+2. Materials and Methods
+An investigation was carried out in the streets of Cáceres, Spain, using a method based
+on surveys and on-site sound measurements. Four researchers carried out sampling to
+record objective and subjective variables simultaneously. Sampling points were randomly
+selected on different urban roads according to their functionality for vehicle mobility [39]
+(Figure 1). Measurements and surveys were performed in 2020, during daytime hours, be-
+
+Appl. Sci. 2024, 14, 11212
+3 of 18
+fore the declaration of the state of emergency and the lockdown due to COVID-19. A total of
+105 individuals, aged between 18 and 80 years, with a roughly equal gender ratio (44% male,
+56% female) and varying educational levels (from primary school to university), completed
+the survey (Table 1). The questionnaires can be found in the Supplementary Materials.
+Figure 1. Survey points in Cáceres (from Google Earth).
+Table 1. Sociodemographic characteristics of the sample.
+Variable
+Sample (%)
+Cáceres (%) [40]
+Age
+18–25 years
+19.0
+6.7
+26–35 years
+11.4
+10.7
+36–45 years
+21.0
+15.1
+46–55 years
+20.0
+16.8
+56–65 years
+13.3
+14.8
+>66 years
+15.2
+18.0
+Sex
+Male
+43.8
+48.1
+Female
+56.2
+51.9
+Education
+Missing
+-
+8.2
+Primary or secondary school
+23.8
+33.9
+High school
+24.8
+17.9
+Degree
+51.4
+33.8
+Work activity
+Worker
+59.0
+41.7
+Unemployed
+6.7
+9.0
+Retired
+16.2
+13.1
+Homemaker
+6.7
+11.9
+Student
+11.4
+22.0
+
+Appl. Sci. 2024, 14, 11212
+4 of 18
+Table 2 shows all the subjective variables collected via the surveys and the objective
+variables obtained from acoustic measurements, together with a brief description of their
+meaning and the range of values for each of them. This survey was validated by the ethics
+and bioethics committee of the University of Extremadura in the report with reference
+37//2020 and, following the Declaration of Helsinki, each participant filled out a decla-
+ration of informed consent. In cases where evidence of hearing loss was detected by the
+interviewer during the survey, the respondent’s answers were not considered. Regarding
+the subjective variables, pedestrians were first interviewed to determine the extent to which
+or how often the environmental noise in that street caused the following: (a) irritability;
+(b) startle; (c) annoyance in the ears; (d) interruption of a conversation with someone nearby;
+(e) them to raise the volume of their voice to speak with someone nearby; (f) interruption
+of a phone conversation; and (g) them to raise the volume of their voice during a phone
+conversation. They were then asked to rate their (h) acoustic perception of the environment
+on that street, and (i) the degree to which the noise annoyed them during the survey. A box
+plot of the answers for the subjective variables (a)–(i) is shown in Figure 2.
+Figure 2. A box plot of the answers for the subjective variables (a)–(i).
+The response rate for the in-situ surveys was 25%. A response rate of 20–25% is
+considered acceptable for surveys, as shown by previous studies [41–43]. This rate did not
+affect the study’s objective of achieving a power of at least 0.8 in the statistical tests to be
+used [44] and a medium effect size [44,45]. In fact, a power of 0.94 was achieved with the
+number of surveys conducted (105 participants) [45]. Considering the 96,000 inhabitants of
+the city of Cáceres [46] and the variability of item responses in preliminary studies (σ ≈2.8),
+an acceptable error of 0.5 for the population average was obtained for this population
+size [47]. Therefore, the sample interviewed was representative of the city of Cáceres for
+the analyses carried out. Recent survey studies in large cities interviewed a similar number
+of citizens [48,49].
+The acoustic objective variables were collected by means of a class 1 sound level
+meter–analyser and were classified into three categories based on their association with
+different aspects of the sound energy (see Table 2). In situ measurements over 15 min were
+carried out using a microphone 1.5 m above ground level [50] and, where possible, free
+field conditions were considered [51]. In cases where the microphone had to be placed
+at a distance of between 0.5 and 2 m from building façades, a correction of −3 dB was
+made following the guidelines of the ISO 1996-2 standard [51–53]. The distance between
+the microphone and the closest point of the main sound source (road traffic) was 2 m, and
+there were no obstacles between the source and receiver [54]. A class 1 sound calibrator
+was used to verify the calibration of the sound level meter–analyser before and after each
+series of measurements. Since the measurements were carried out at the same time as the
+
+Appl. Sci. 2024, 14, 11212
+5 of 18
+surveys, the team member responsible for the sound measurements moved to a sufficient
+distance to ensure that the recorded sound levels were not influenced by the interviews.
+During the surveys, the sound sources present in the environment were noted. In a review
+of these sound sources, in addition to the different sources associated with road traffic
+(related to the engine, exhaust, brakes, etc.), the following types of sources and examples
+can be distinguished:
+Table 2. Subjective and objective variables registered in the city of Cáceres, together with a brief
+description of their meaning and the range of values for each of them.
+Variables
+Meaning
+Value Range
+(a)
+Irritability
+0–10
+(b)
+Startle
+0–10
+(c)
+Annoyance in the ears
+0–10
+(d)
+Interruption of a conversation with
+someone nearby
+0–10
+(e)
+Raising the volume of their voice to speak with
+someone nearby
+0–10
+(f)
+Interruption of a phone conversation
+0–10
+(g)
+Raising the volume of their voice during a
+phone conversation
+0–10
+(h)
+Noisiness of the street
+0–10
+(i)
+Annoyance
+0–10
+Acoustic
+objective
+variables
+(measurements)
+Energy (full
+audible
+spectrum)
+LZeq
+Unweighted equivalent sound level
+60–81 dB
+LAeq
+A-weighted equivalent sound level
+48–73 dB
+LCeq
+C-weighted equivalent sound level
+58–79 dB
+LAIeq
+A,I-weighted equivalent sound level
+52–75 dB
+LCIeq
+C,I-weighted equivalent sound level
+63–81 dB
+Loudness
+Subjective judgement of the intensity of a sound
+7–30 sones
+Loudness level
+Loudness level = 10 × log2(Loudness) + 40
+68–89 phones
+NR
+Highest noise ratio curve touched by the
+measured spectrum
+45–71
+NC
+Highest noise criteria curve touched by the
+measured spectrum
+43–70
+NCB
+Highest balanced noise criteria curve touched by
+the measured spectrum
+42–65
+Energy
+(maximum or
+minimum)
+LASmax
+A,S-weighted maximum sound level
+68–87 dB
+LAFmax
+A,F-weighted maximum sound level
+70–89 dB
+LAImax
+A,I-weighted maximum sound level
+70–91 dB
+LCSmax
+C,S-weighted maximum sound level
+77–96 dB
+LCFmax
+C,F-weighted maximum sound level
+80–99 dB
+LCImax
+C,I-weighted maximum sound level
+81–100 dB
+LCpeak
+C-weighted peak sound level
+90–111 dB
+LASmin
+A,S-weighted minimum sound level
+35–55 dB
+LAFmin
+A,F-weighted minimum sound level
+33–54 dB
+LAImin
+A,I-weighted minimum sound level
+35–55 dB
+LCSmin
+C,S-weighted minimum sound level
+48–65 dB
+LCFmin
+C,F-weighted minimum sound level
+46–62 dB
+LCImin
+C,I-weighted minimum sound level
+49–66 dB
+Energy (parts of
+audible
+spectrum)
+Leq20–200Hz
+Equivalent sound level in the range 20–200 Hz
+59–81 dB
+SIL3
+Speech interference level (average Leq of 1000,
+2000 and 4000 Hz octave bands)
+41–65 dB
+SIL
+Speech interference level (average Leq of 500,
+1000, 2000 and 4000 Hz octave bands)
+42–65 dB
+PSIL
+Preferred speech interference level (average Leq of
+500, 1000 and 2000 Hz octave bands)
+43–68 dB
+LCeq −LAeq
+Difference between LCeq and LAeq
+1–4 dB
+
+Appl. Sci. 2024, 14, 11212
+6 of 18
+•
+Sound events associated with traffic, but excluding sounds due to the engine and
+rolling noise: ambulance sirens, horn usage, loud music coming from inside the
+vehicle, car doors closing, traffic light sounds for visually impaired pedestrians, etc.
+These sounds were detected in 18.8% of the surveys conducted.
+•
+Sounds related to natural sound sources: birdsong without specifying the type, stork
+sounds, sounds generated by the wind, and sounds generated by water. These ap-
+peared in 35.2% of the surveys.
+•
+Sounds of human origin or from their pets: conversations, footsteps, children playing,
+a baby crying, a dog barking, footsteps, phone call sounds, etc. These appeared in
+82.0% of the surveys.
+•
+Finally, sounds of work or machinery origin: unspecified construction noises, lawn-
+mowers, grinders, chainsaws, cranes, etc. These appeared in 9.4% of the surveys.
+One-third octave band noise profile of the measurements at the different points con-
+sidered are shown in Figure 3, where the lines of various colors refer to the different
+measurement locations.
+Figure 3. One-third octave band noise profile of the measurements at the different points considered.
+The acoustic variables associated with the sound energy of the sound environments,
+which were obtained from the sound level meter, were structured into three blocks for
+analysis based on the different aspects that characterise the sound wave (Table 2). The first
+group included variables that essentially measure the energy of the sound wave over the
+full audible spectrum and represented average values over the 15 min of measurement, with
+higher or lower adaptations to the response of human hearing. Although the NR, NC, and
+NCB indices are commonly used in enclosures and buildings to evaluate their suitability
+for certain uses, they were considered to be of interest when characterising the streets
+under assessment, since they are indicators of the maximum values in an environment
+above which disturbance to certain activities is produced. The second group consisted of
+variables measuring the maximum or minimum values of the sound-wave energy over
+the whole audible spectrum during the 15 min measurement period, with certain spectral
+adaptations (A, C) to the response of the human ear, some temporal considerations on the
+signal treatment (F, S, I), and considering the signal without temporal treatment (peak).
+Finally, the third group of acoustic variables included those measuring the energy aspects
+of the sound wave and were based on the absolute or relative significance of certain parts
+of the audible spectrum over the 15 min measurement period.
+An inferential analysis of the association between the subjective variables (perception
+of noise effects) and objective variables (indicators related to sound energy) was carried out.
+For this purpose, a bivariate relationship was analysed using a Pearson test of the values
+registered at the sampled points. This parametric test was applied since the distribution
+
+Appl. Sci. 2024, 14, 11212
+7 of 18
+of the data fulfilled the assumptions of normality. For this purpose, the residuals of the
+correlated variables were analysed by the Shapiro–Wilk test. The p-value was greater
+than 0.05; therefore, the hypothesis that the data did not differ significantly from a normal
+distribution was accepted.
+3. Results and Discussion
+This section presents an analysis of the results obtained for the relationships between
+the subjective variables related to the effects of noise on pedestrians and the acoustic
+variables. It is divided into three subsections, based on the different types of acoustic
+variables involved in the study.
+3.1. Acoustic Variables Associated with Sound Energy over the Whole Audible Spectrum
+In this section, an analysis is conducted of the explanatory capacity of the acoustic
+variables that essentially measure sound energy over the whole audible spectrum using
+different adaptation levels to the response of the human ear (Table 3). According to the way
+in which these indicators consider the human response in the frequency spectrum, they
+can be grouped into two blocks. The first are those that have an adaptation independent of
+sound intensity (equivalent levels), while the second are those in which this adaptation
+depends on the sound energy. This second group of variables can be further divided into
+two types: those that consider masking effects (loudness and loudness level), and those
+that do not (NR, NC, and NCB). From Table 3, it can be seen that all the acoustic variables
+associated with sound energy over the whole audible spectrum can explain, with significant
+relations, the occurrence and intensity of all the effects of noise on pedestrians considered
+in this study.
+Table 3. Correlation coefficients between subjective variables and acoustic variables associated with
+sound energy over the whole audible spectrum.
+LZeq
+LAeq
+LCeq
+LAIeq
+LCIeq
+Loudness
+Loudness Level
+NR
+NC
+NCB
+(a)
+0.70 ***
+0.69 ***
+0.71 ***
+0.67 ***
+0.69 ***
+0.67 ***
+0.69 ***
+0.69 ***
+0.69 ***
+0.69 ***
+(b)
+0.70 ***
+0.61 ***
+0.68 ***
+0.61 ***
+0.69 ***
+0.59 ***
+0.62 ***
+0.59 ***
+0.59 ***
+0.62 ***
+(c)
+0.60 ***
+0.46 *
+0.58 **
+0.46 *
+0.57 **
+0.45 *
+0.50 **
+0.43 *
+0.43 *
+0.49 **
+(d)
+0.64 ***
+0.63 ***
+0.64 ***
+0.62 ***
+0.64 ***
+0.61 ***
+0.63 ***
+0.62 ***
+0.63 ***
+0.62 ***
+(e)
+0.71 ***
+0.65 ***
+0.68 ***
+0.67 ***
+0.69 ***
+0.66 ***
+0.67 ***
+0.61 ***
+0.63 ***
+0.66 ***
+(f)
+0.53 **
+0.54 **
+0.53 **
+0.53 **
+0.51 **
+0.53 **
+0.55 **
+0.52 **
+0.54 **
+0.53 **
+(g)
+0.62 ***
+0.64 ***
+0.62 ***
+0.65 ***
+0.62 ***
+0.66 ***
+0.64 ***
+0.61 ***
+0.63 ***
+0.64 ***
+(h)
+0.75 ***
+0.63 ***
+0.73 ***
+0.64 ***
+0.72 ***
+0.63 ***
+0.67 ***
+0.61 ***
+0.61 ***
+0.66 ***
+(i)
+0.76 ***
+0.79 ***
+0.76 ***
+0.81 ***
+0.76 ***
+0.79 ***
+0.80 ***
+0.77 ***
+0.79 ***
+0.81 ***
+* Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at p ≤0.001.
+From a general analysis of Table 3, several points can be noted. It can be seen that
+the sound variables in the first group (LZeq, LAeq, LCeq, LAIeq, LCIeq) are better able to
+explain the variability in the effects of noise on pedestrians than those in the second group
+(loudness, loudness level, NR, NC, NCB), or at least in an equivalent way. From the
+variables in the first group, for almost all of the subjective variables, LZeq or LCeq are
+better than or similar to LAeq in terms of explaining the variability in the effects analysed
+here. Even some of the effects of noise that could be considered in a classic study, such
+as startle (b), annoyance in the ears (c), and an assessment of the street as noisy (h), the
+commonly used LAeq indicator is poor in explaining the variability of these three subjective
+variables and is clearly worse than LZeq. Moreover, the I time weighting, which was
+used for the LAIeq and LCIeq indicators, had no significant influence on the values of the
+correlation coefficients for any of the effects studied. In relation to the second group, which
+relates to different adaptations depending on the sound level, it can firstly be observed
+that the loudness level or NCB are better than or equivalent to the other three variables
+(loudness, NR, and NC) in terms of explaining the variability in the effects. Loudness is an
+
+Appl. Sci. 2024, 14, 11212
+8 of 18
+indicator that was specifically developed to allow a good relationship with the perception
+of sound level, and this can be seen to be rather worse than LZeq for the effects of startle (b);
+annoyance in the ears (c), and in particular (as it is closely related to the objective of this
+variable), a perception of the street as noisy (h). However, when the values of annoyance
+(i) were analysed, the results were more as expected. It should also be highlighted that, in
+general, none of the energy indicators studied here were very effective in explaining the
+appearance or variability of the effects related to face-to-face or telephone communication,
+although loudness and loudness level had the highest correlation coefficients in regard
+to interrupting a phone conversation (f) and raising the volume of their voice on a phone
+conversation (g), respectively. In this sense, it is worth noting that the difference found for
+the effect of raising the volume of their voice in a conversation with a nearby person (e) if we
+compare with the results with the rest of the effects related to verbal communication, (d), (f),
+and (g), for all the energy indicators except NR and NC. Moreover, for the remaining effects,
+NR and NC seemed to play a weaker role in explaining the variability of all the subjective
+variables apart from annoyance (i) and irritability (a). In view of these results, it may be
+useful to take into account indicators such as NR, NC, and NCB in noise characterisation
+studies in urban outdoor environments, regardless of whether they are generally used
+indoors. The outcome for the NCB indicator is of particular interest; it was better than or
+similar to the others, even when compared to the loudness and loudness level, which are
+rather more complex indices to obtain, since they take into account in greater detail the
+way in which humans perceive sounds.
+After describing the general aspects listed in Table 3, a detailed analysis was conducted
+of the implications of these results. Firstly, it is important to point out that the average
+energy of the sound wave over the full spectrum is a relevant sound characteristic for
+estimating the occurrence and importance of effects such as irritability (a), startle (b),
+raising the volume of the conversation in situ (e), the noisy street (h), and annoyance (i),
+with Pearson correlation coefficients of between 0.70 and 0.81. The highest values for the
+explanation of variability were obtained for annoyance, and this has a certain uniformity
+for all the acoustic variables analysed in this section.
+In relation to conversations, some differences were found between the variables of
+raising the volume of the conversation in situ (e) and on the phone (g). When a conversation
+is held in person, the average energy over the full spectrum is a relevant aspect, and the
+indicators that do not include weights for low frequencies, such as LZeq or LCeq, seem
+to explain a higher proportion of the variability than those that do, such as LAeq. On
+the other hand, if a conversation is held on the phone, the average energy in the full
+spectrum is less useful, and the medium–high frequency seems to be more important in
+explaining the variability than the low frequency. When the results for in situ (d) and
+phone (f) conversation interruption are studied, the in-situ effect is explained to a greater
+extent. Since all of the acoustic variables have basically the same explanatory power for
+this effect of noise, this means that high, medium, or low frequencies all seem to have a
+similar impact.
+It is worth noting the result obtained for the loudness indicator, which, in addition
+to a variable frequency correction depending on the intensity of the sound, takes into
+account an exponential expression based on the loudness level and the masking effect
+of some frequencies on others, since it does not seem to be important in the estimation
+of the relevance of the effects that may be caused by environmental noise. Raising the
+volume of a telephone conversation (g) is the only effect for which the correlation coeffi-
+cient for loudness is higher than for the other acoustic indicators of this section. When
+compared with the values found for LZeq, for example, the loudness results are especially
+poor for annoyance in the ears (c), with values similar to those obtained for NR and
+NC. It is important to note that for the variable of annoyance (i), the loudness level and
+NCB are better indicators than the others with frequency-varying corrections for intensity,
+including loudness.
+
+Appl. Sci. 2024, 14, 11212
+9 of 18
+As can be observed from Table S1 of the Supplementary Materials, all of the subjective
+variables were positively correlated with the objective acoustic variables associated with
+sound energy over the whole audible spectrum, with slope values ranging between 0.13
+and 0.35. In general, the highest slope values were found for the relationships between
+the variables of irritability (a), raising the volume of the conversation (e), interrupting
+a phone conversation (f), raising the volume of a phone conversation (g), a noisy street
+(h), and annoyance (i), and the sound indicators LZeq, LCeq, and LCIeq. The results show
+that a variation of 3 dB in these acoustic variables represents a variation of approximately
+one point on the 0–10 rating scale for the variables associated with the perception of
+noise effects.
+3.2. Acoustic Variables Associated with Maximum or Minimum Values of Sound Energy
+An analysis is presented in this section of the explanatory capacity of acoustic variables
+that basically measure the maximum and minimum values of the sound energy over the
+whole audible spectrum and the measurement time, with certain spectral adaptations
+(A, C) to the response of the human ear, certain temporal considerations with regard to the
+signal treatment (F, S, I), and also taking into account the signal without temporal treatment
+(peak). Table 4 shows the correlation coefficients and the levels of significance obtained for
+the linear relations between the subjective variables and the acoustic variables related to
+the maximum values of the sound energy.
+Table 4. Correlation coefficients between subjective variables and acoustic variables related to the
+maximum values of the sound energy.
+LASmax
+LAFmax
+LAImax
+LCSmax
+LCFmax
+LCImax
+LCpeak
+(a)
+0.53 **
+0.57 **
+0.58 ***
+0.46 *
+0.43 *
+0.45 *
+0.53 **
+(b)
+0.34 n.s.
+0.41 *
+0.46 *
+0.37 *
+0.39 *
+0.46 *
+0.50 **
+(c)
+0.19 n.s.
+0.26 n.s.
+0.30 n.s.
+0.32 n.s.
+0.31 n.s.
+0.35 n.s.
+0.36 n.s.
+(d)
+0.42 *
+0.44 *
+0.45 *
+0.36 n.s.
+0.36 n.s.
+0.34 n.s.
+0.22 n.s.
+(e)
+0.41 *
+0.50 **
+0.53 **
+0.39 *
+0.40 *
+0.39 *
+0.30 n.s.
+(f)
+0.27 n.s.
+0.28 n.s.
+0.31 n.s.
+0.31 n.s.
+0.30 n.s.
+0.27 n.s.
+0.14 n.s.
+(g)
+0.35 n.s.
+0.42 *
+0.45 *
+0.37 *
+0.38 *
+0.36 n.s.
+0.26 n.s.
+(h)
+0.37 *
+0.47 *
+0.51 **
+0.49 **
+0.49 **
+0.48 **
+0.46 *
+(i)
+0.61 ***
+0.67 ***
+0.70 ***
+0.53 **
+0.55 **
+0.55 **
+0.50 **
+n.s. Non-significant correlation (p > 0.05). * Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at
+p ≤0.001.
+The first observation that can be made from the group of indicators related to the
+maximum values of the sound energy, compared to those analysed in the previous section,
+is that there is a significant loss in their capacity to explain the appearance and intensity
+of the noise effects analysed. In particular, it is remarkable that the maximum levels have
+little or no capacity to explain effects such as annoyance in the ears (c) and interruption
+of a phone conversation (f). This is even unexpected given that effects such as startle (b)
+or annoyance in the ears (c) could be expected to be explained by the maximum values.
+Hence, at least for the sound level ranges measured here (see Table 2), the maximum levels
+are not good estimators of the analysed noise effects.
+Despite this, it may be of interest to highlight that an increase in the value of the
+correlation coefficient is observed for all noise effects when moving from an S weighting to
+F and I weightings for medium and high frequencies (A weighting). This does not occur
+for the C-weighted sound indicator columns. This effect may be related to the stronger
+influence of low frequencies on the value of the indicator when the C weighting is used,
+and to the fact that a smaller influence from the time weighting is to be expected for longer
+wavelengths of the sound.
+Once the findings related to the maximum values have been analysed, Table 5 shows
+the correlation coefficients and the levels of significance obtained for the linear relations
+
+Appl. Sci. 2024, 14, 11212
+10 of 18
+between the subjective variables and the acoustic variables related to the minimum values
+of the sound energy. From a first approximation, it can be seen that the indicators of the
+minimum sound levels analysed here explain a greater proportion of the variability in the
+noise effects than the indicators of maximum energy. In the case of some of the effects
+analysed, they are even better in terms of explaining the variability (b, c) or are equivalent
+(f) to the average energy indicators; this may be an unexpected result, and to the best
+of the authors’ knowledge, has not been reported previously. The result for effect (c) is
+particularly remarkable, with a significant increase in the value of the correlation coefficient
+with respect to that obtained with the average sound energy indicators.
+Table 5. Correlation coefficients between subjective variables and acoustic variables related to the
+minimum values of the sound energy.
+LASmin
+LAFmin
+LAImin
+LCSmin
+LCFmin
+LCImin
+(a)
+0.56 **
+0.59 ***
+0.56 **
+0.66 ***
+0.66 ***
+0.66 ***
+(b)
+0.66 ***
+0.69 ***
+0.66 ***
+0.71 ***
+0.72 ***
+0.70 ***
+(c)
+0.66 ***
+0.69 ***
+0.66 ***
+0.69 ***
+0.70 ***
+0.66 ***
+(d)
+0.55 **
+0.57 **
+0.55 **
+0.60 ***
+0.61 ***
+0.60 ***
+(e)
+0.56 **
+0.54 **
+0.56 **
+0.57 **
+0.58 **
+0.55 **
+(f)
+0.52 **
+0.54 **
+0.52 **
+0.52 **
+0.55 **
+0.51 **
+(g)
+0.53 **
+0.53 **
+0.52 **
+0.52 **
+0.54 **
+0.49 **
+(h)
+0.57 **
+0.60 ***
+0.58 ***
+0.66 ***
+0.66 ***
+0.65 ***
+(i)
+0.46 *
+0.45 *
+0.46 *
+0.49 **
+0.50 **
+0.49 **
+* Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at p ≤0.001.
+From an overall analysis of this type of indicator in terms of frequency and time
+weightings, it can be seen that the indicators of minimum values that take into account low
+frequencies (C weighting) can explain a higher proportion of the variability than those with
+an A weighting. It should be noted that, so far, the relevance of a low frequency was clear
+for only three of the effects. For the minimum energy sound indicators, it seems that for all
+the effects, the C weighting gives better results than the A weighting. These results may
+indicate that, for some of the effects studied here, both the average and minimum energies
+may help to explain the appearance or importance of an effect.
+Similar behaviour is observed for all in the case of time weightings, although an F
+weighting achieves the best results. It should be pointed out that for some effects, and
+mainly those associated with conversation, the I weighting differs more significantly from
+the F weighting. Finally, it should be noted that, unlike the indicators in the previous
+section, the least amount of explanation of variability is obtained for annoyance (i). It
+therefore appears that this effect is most specifically related to the average energy. As is
+shown in the previous section, this may be the reason why the indicators currently used
+to measure the effects of environmental noise are mainly based on average energy values.
+In addition, the results for the A weighting for this effect justify the continued use of this
+weighting to some extent, even though it is not optimal for other effects, according to the
+results found in this research.
+From Table S1 of the Supplementary Materials, it can be seen that all subjective
+variables are correlated with the indicators associated with the maximum or minimum
+values of sound energy, with slope values ranging between 0.07 and 0.29. However, the
+highest slope values are seen for the indicators of the minimum sound levels. In general, a
+variation in these minimum energy indicators of between 3.5 and 5 dB corresponds to a
+variation of approximately one point on the 0–10 rating scale for all subjective variables.
+3.3. Acoustic Variables Associated with Sound Energy in Different Parts of the Audible Spectrum
+3.3.1. Variables Related to Specific Parts of the Audible Spectrum
+This third section shows the results of an analysis of the capacity of the acoustic
+variables representing the sound energy over the whole period of measurement to explain
+
+Appl. Sci. 2024, 14, 11212
+11 of 18
+the variability in the noise effects, by considering the absolute or relative relevance of certain
+parts of the audible spectrum. Table 6 shows that the acoustic variables Leq20–200Hz, SIL3,
+SIL, and PSIL are significantly related to the effects of noise under study on pedestrians.
+For some effects, it could be calculated that they explain around or more than 50% of
+their variability.
+Table 6. Correlation coefficients between subjective variables and acoustic variables associated with
+sound energy in different parts of the audible spectrum.
+Leq20−200Hz
+SIL3
+SIL
+PSIL
+LCeq-LAeq
+(a)
+0.69 ***
+0.69 ***
+0.68 ***
+0.68 ***
+−0.42 *
+(b)
+0.69 ***
+0.60 ***
+0.61 ***
+0.61 ***
+−0.25 n.s.
+(c)
+0.61 ***
+0.47 *
+0.48 **
+0.46 *
+−0.26 n.s.
+(d)
+0.62 ***
+0.62 ***
+0.63 ***
+0.63 ***
+−0.38 *
+(e)
+0.67 ***
+0.65 ***
+0.67 ***
+0.65 ***
+−0.11 n.s.
+(f)
+0.50 **
+0.52 **
+0.54 **
+0.54 **
+0.35 n.s.
+(g)
+0.58 ***
+0.63 ***
+0.64 ***
+0.64 ***
+−0.25 n.s.
+(h)
+0.75 ***
+0.66 ***
+0.66 ***
+0.63 ***
+−0.27 n.s.
+(i)
+0.72 ***
+0.80 ***
+0.80 ***
+0.79 ***
+−0.36 n.s.
+n.s. Non-significant correlation (p > 0.05). * Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at
+p ≤0.001.
+The results for this group of sound indices corroborate the previous findings in
+Section 3.1, and reinforce the conclusions drawn from them. For the effects of irritability (a),
+interrupting a conversation (d, and interrupting a phone conversation (f), the low-frequency
+indicator Leq20–200Hz or the medium- and high-frequency indicators SIL3, SIL, and PSIL
+give similar results. This also occurs for raising the volume of a conversation (e) with
+these indicators, although this was not exactly the same as in Section 3.1 for indicators
+that cover the whole frequency spectrum. In turn, for startle (b), annoyance in the ears (c),
+and a noisy street (h), it is the low-frequency indicator that explains a higher proportion
+of its variability, whereas for the effect of raising the volume of a phone conversation (g),
+the medium- and high-frequency indicators give slightly better results, as in Section 3.1.
+The medium- and high-frequency indicators again provide the greatest explanation of the
+variability for annoyance (i).
+It can also be seen that indicators that take into account the average energy in some
+specific parts of the audible spectrum give better results than those that reflect the relative
+importance of some parts of the spectrum with respect to others. In fact, Leq20–200Hz shows
+similar results to those obtained with the LZeq, LCeq, and LCIeq indicators, for all the effects
+analysed here except annoyance (i). In addition, apart from annoyance, the SIL3, SIL, and
+PSIL indicators have very similar values to the other indicators seen in Section 3.1 and also
+to each other.
+One result that may be striking in principle is that shown by the LCeq-LAeq indicator,
+with significant negative relationships in the case of the effects of irritability (a) and in-
+terrupting conversation (d). These two effects have similarities in terms of the outcomes
+observed with the different indicators analysed in Table 3 and the results in the first four
+columns of Table 6. This is interesting because it seems that this indicator, despite giving a
+low explanation of the variability, may be able to detect a differential effect of the spectrum
+on the occurrence and importance of these effects, which were not detected by the previous
+acoustic indicators in Table 3 or the spectral indicators themselves in Table 6. In view of
+this finding, it seems of interest to perform a study of the sound spectrum in frequency
+bands to try to analyse in detail what this indicator may be revealing.
+Table S1 of the Supplementary Materials shows that all subjective variables are cor-
+related with Leq20–200Hz, SIL3, SIL, and PSIL, with slope values ranging between 0.15 and
+0.32. Again, the highest slope values were found for the relations of the variables irritability
+(a), raising the volume of a conversation (e), interrupting a phone conversation (f), raising
+the volume of a phone conversation (g), a noisy street (h), and annoyance (i), and the sound
+
+Appl. Sci. 2024, 14, 11212
+12 of 18
+indicator Leq20–200Hz. A variation of slightly more than 3 dB in Leq20–200Hz results in a
+variation of approximately one point on the 0–10 rating scale for these subjective variables.
+3.3.2. Analysis in One-Third Octave Frequency Bands
+Since the one-third octave frequency bands are those closest to the critical bands of the
+human ear [38], an analysis was carried out of the relations between the subjective variables
+associated with the effects of noise and the equivalent sound levels for each of the one-
+third octave frequency bands. The aim was to study the capacity of the frequency bands to
+explain the occurrence and importance of the effects considered here. It is necessary to point
+out that all of the subjective variables related to the effects of noise on pedestrians were
+significantly correlated with Leq in each of the one-third octave bands with a significance
+level of at least p ≤0.05, and many of these correlations had values of p ≤0.01 or p ≤0.001.
+The intensity of these significant correlations can be seen in Figure 4. If the values of
+the correlation coefficients between variables (a), (b), (c), (h), and (i) with the equivalent
+unweighted noise levels for each of the one-third octave frequency bands are analysed
+(Figure 4a), it can be seen that the correlation coefficient for irritability (a) reaches maximum
+values of around 0.7 in the low-frequency bands between 100 and 160 Hz and in the mid–
+high frequencies (800–2000 Hz). In this regard, it is worth noting that one of the one-third
+octave band sections with higher values of the correlation coefficient coincide with the
+bands where the road traffic noise level reaches the highest values [55]. In the case of startle
+(b), annoyance in the ears (c), and a noisy street (i), high correlation values were observed
+with the sound level recorded in the one-third octave frequency band of 25 Hz, with r
+values of 0.70, 0.67, and 0.75, respectively. In addition, the variable of a noisy street (h) also
+reached values of approximately 0.75 at 50 Hz and 5 kHz. As is shown in Tables 3 and 6, the
+subjective variable of perceived annoyance (i) had the highest correlation coefficient, with
+values of approximately 0.78 for the one-third octave bands between 200 Hz and 16 kHz
+and a maximum value of 0.82 at 100 Hz.
+From the results of the correlation coefficients between variables (d), (e), (f), and
+(g) (related to interference within conversations) and the equivalent unweighted noise
+level for each of the one-third octave frequency bands (Figure 4b), it seems that mid-
+frequency and low-frequency bands above 50 Hz play a similar role in interruptions to
+in-person (d) and telephone (f) conversations. However, different results were found when
+analysing the response to raising the volume of conversations. Low-frequency bands show
+high relevance in the case of conversations with someone nearby (e), with values for the
+correlation coefficient of up to 0.77 around the 25 Hz band, whereas mid–high frequency
+bands are more important in terms of raising the volume in telephone conversations (g),
+with a maximum r value of 0.68 in the 500 Hz band. This detailed analysis of the one-third
+octave frequency bands again indicates a possible effect of the noise level measured in the
+different parts of the audible sound spectrum on the need to raise the voice in conversations,
+depending on whether they are conducted in the street or by telephone.
+In addition, it is of interest to carry out an objective analysis of the possible relation
+between the structures of the correlation coefficients obtained for the noise spectrum in the
+one-third octave bands for the different noise effects under study. The aim in this case is
+to look for similarities in the structure, rather than similarities in the absolute intensity of
+the explanations. For this purpose, a correlation study was carried out between the values
+of the correlation coefficients for the different pairs of effects to be considered, such as
+those in Table 7. The dependent variable was taken as the one that appears in the rows; for
+example, the results for the Pearson correlation coefficient obtained for the one-third octave
+frequency bands for irritability (a) are capable of significantly explaining those obtained for
+the spectrum for the variable of interrupting a conversation with someone nearby (d), with
+a correlation coefficient of 0.56 and a significance level of p < 0.001.
+
+Appl. Sci. 2024, 14, 11212
+13 of 18
+(A) 
+(B) 
+Figure 4. Correlation coefficients between subjective variables and the equivalent unweighted noise
+level for each of the 1/3 octave frequency bands: (A) variables (a), (b), (c), (h) and (i); (B) variables
+(d), (e), (f), and (g).
+Several findings can be observed from Table 7. Firstly, it is noted that the frequency
+band structure that causes the effect of irritability (a) is like the one that causes the effect of
+interrupting a conversation, regardless of whether it is with someone nearby (d) or on the
+phone (f). This result, in addition to reinforcing the previous ones, is based on a detailed
+analysis of their spectra, and indicates a greater degree of similarity between the spectra
+that cause these three noise effects. In the same way, startle (b) is shown to be closely related
+to annoyance in the ears (c). Another noteworthy aspect from Table 7 is that the two effects
+of interrupting a conversation, (d) and (f), seem to have a common cause in terms of the
+spectrum structure, as well as the effects of having to raise the volume in a face-to-face
+conversation (e) or on the phone (g). Moreover, when the medium of communication is
+
+Appl. Sci. 2024, 14, 11212
+14 of 18
+the telephone, a similar spectral structure of the noise causes both to have to raise the
+volume (g) or to pause the conversation (f). Something similar takes place in face-to-face
+
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

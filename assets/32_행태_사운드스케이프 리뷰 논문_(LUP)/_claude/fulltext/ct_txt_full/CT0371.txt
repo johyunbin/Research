@@ -1,0 +1,675 @@
+Titre:
+Title:
+Three pedestrian phasing with audible pedestrian signals 
+configurations: Experience of blind or visually impaired persons in 
+Quebec City (Canada)
+Auteurs:
+Authors:
+François Routhier, Josiane Lettre, Caroline Pigeon, Valérie Martel, 
+René Binet, Véronique Vézina, Olivier Collomb d‘Eyrames, Owen 
+Waygood, Mir Abolfazl Mostafavi, & Ernesto Morales 
+Date: 2024
+Type: Article de revue / Article
+Référence:
+Citation:
+Routhier, F., Lettre, J., Pigeon, C., Martel, V., Binet, R., Vézina, V., d‘Eyrames, O. C., 
+Waygood, O., Mostafavi, M. A., & Morales, E. (2024). Three pedestrian phasing 
+with audible pedestrian signals configurations: Experience of blind or visually 
+impaired persons in Quebec City (Canada). Journal of Transport & Health, 39, 
+101938 (14 pages). https://doi.org/10.1016/j.jth.2024.101938
+Document en libre accès dans PolyPublie
+Open Access document in PolyPublie
+URL de PolyPublie:
+PolyPublie URL: https://publications.polymtl.ca/60310/
+Version: Version officielle de l'éditeur / Published version 
+Révisé par les pairs / Refereed 
+Conditions d’utilisation:
+Terms of Use: Creative Commons Attribution 4.0 International (CC BY) 
+Document publié chez l’éditeur officiel
+Document issued by the official publisher
+Titre de la revue:
+Journal Title: Journal of Transport & Health (vol. 39) 
+Maison d’édition:
+Publisher: Elsevier BV
+URL officiel:
+Official URL: https://doi.org/10.1016/j.jth.2024.101938
+Mention légale:
+Legal notice:
+Ce fichier a été téléchargé à partir de PolyPublie, le dépôt institutionnel de Polytechnique Montréal
+This file has been downloaded from PolyPublie, the institutional repository of Polytechnique Montréal
+https://publications.polymtl.ca
+
+Three pedestrian phasing with audible pedestrian signals 
+configurations: Experience of blind or visually impaired persons in 
+Quebec City (Canada)
+François Routhier a,b,*, Josiane Lettre b, Caroline Pigeon c, Val´erie Martel d, 
+Ren´e Binet e, V´eronique V´ezina f,g, Olivier Collomb d’Eyrames g, E. Owen Waygood h, 
+Mir Abolfazl Mostafavi b,i,j, Ernesto Morales a,b
+a School of Rehabilitation Sciences, Universit´e Laval, Quebec City, QC, Canada
+b Centre for interdisciplinary research in rehabilitation and social integration, Centre int´egr´e universitaire de sant´e et de services sociaux de la 
+Capitale-Nationale, Quebec City, QC, Canada
+c Laboratoire Ergonomie et Sciences Cognitives pour les Transports, Universit´e Gustave Eiffel, Lyon, France
+d Blindness and Visual Impairment Program, Centre int´egr´e universitaire de sant´e et de services sociaux de la Capitale-Nationale, Quebec City, QC, 
+Canada
+e Regroupement des personnes handicap´ees visuelles (r´egions 03-12), Quebec City, QC, Canada
+f Comit´e des usagers, Centre int´egr´e universitaire de sant´e et de services sociaux de la Capitale-Nationale, Quebec City, QC, Canada
+g Regroupement des organismes de personnes handicap´ees de la r´egion 03, Quebec City, QC, Canada
+h Department of Civil, Geological and Mining Engineering, Polytechnique Montr´eal, Montreal, QC, Canada
+i Department of Geomatics, Universit´e Laval, Quebec City, QC, Canada
+j Centre for research in geospatial data and intelligence, Universit´e Laval, Quebec City, QC, Canada
+A R T I C L E I N F O
+Keywords:
+Visual impairment
+Audible pedestrian signals
+Accessibility
+Inclusive city
+Participatory research
+A B S T R A C T
+Objective: Audible pedestrian signals are strategically placed in some intersections to enhance 
+safety, independence and accessibility for blind or visually impaired persons. This study appraised 
+the sense and level of safety of blind or visually impaired persons with respect to three types of 
+pedestrian phasing with audible pedestrian signals configurations that exist in Quebec City, 
+Canada. These include: 1) exclusive phasing with non-directional audible pedestrian signals; 2) 
+exclusive phasing with directional audible pedestrian signals; and 3) concurrent phasing with 
+directional audible pedestrian signals.
+Methods: Experiments with 18 participants were conducted at six crossing corridors that were 
+carefully selected by members of an advisory committee that included diverse stakeholders. In 
+addition to the three possible pedestrian phasing with audible pedestrian signals configurations, 
+situations involving short and long crossing distances were included. Each corridor was crossed 
+three times by each participant. For each crossing, participants’ trajectories were objectively 
+determined using a satellite positioning system which uses a relative positioning mode. Partici­
+pants’ sense of safety was also questioned after each crossing using a visual analog scale.
+Results: The results obtained do not allow for the identification of an ideal configuration or even a 
+configuration to avoid based on the level of safety. However, findings suggest that the exclusive 
+* Corresponding author. Centre for interdisciplinary research in rehabilitation and social integration Centre int´egr´e universitaire de sant´e et de 
+services sociaux de la Capitale-Nationale, 525 Wilfrid-Hamel Boulevard, Quebec City, (QC), G1M 2S8, Canada.
+E-mail address: francois.routhier@rea.ulaval.ca (F. Routhier). 
+Contents lists available at ScienceDirect
+Journal of Transport & Health
+journal homepage: www.elsevier.com/locate/jth
+https://doi.org/10.1016/j.jth.2024.101938
+Received 27 August 2024; Received in revised form 29 October 2024; Accepted 30 October 2024 
+Journal of Transport & Health 39 (2024) 101938 
+Available online 8 November 2024 
+2214-1405/© 2024 The Authors. 
+Published by Elsevier Ltd. 
+This is an open access article under the CC BY license 
+( http://creativecommons.org/licenses/by/4.0/ ). 
+
+phasing with directional audible pedestrian signals configuration is perceived to be the safest 
+option by the participants.
+Conclusion: This study may have practical implications on the design of intersections (e.g., se­
+lection of a type of pedestrian phasing with audible pedestrian signal) and the training of blind or 
+visually impaired pedestrians.
+1. Introduction
+To move around independently and securely is crucial for active social engagement in any person’s life. However, blind or visually 
+impaired persons encounter numerous obstacles and difficulties when crossing intersections, even those equipped with pedestrian 
+signals (Barlow et al., 2005, 2009; Scott et al., 2014; Wall et al., 2004). They must navigate these perilous points with limited or no 
+visual information. They rely on interpreting specific environmental cues, like traffic sounds, to analyze intersections and traffic signal 
+cycles, and to establish and maintain alignment while crossing (Barlow et al., 2005, 2010; Leroux et al., 2014). Relying on these cues 
+does not ensure complete safety, given various vehicle movement types that are allowed, such as turning across pedestrian crosswalks 
+(Leroux et al., 2014; Scott et al., 2014). Promoting autonomy for all is a significant equity objective for many cities.
+Audible pedestrian signals (APS) are strategically placed at some intersections to enhance safety, independence and accessibility for 
+blind or visually impaired persons (Bentzen et al., 2006; Leroux et al., 2014; Mailhot et al., 2014; National Academies of National 
+Academies of SciencesEngineeringand Medicine, 2011; Scott et al., 2008; Wall et al., 2004). The observed benefits of APS include an 
+increase in independence in locating the crosswalk, as well as a reduction in the starting delay for crossing and an increase in the 
+number of crossings completed within the allotted time (Scott et al., 2008). APS have been commonly implemented in many countries. 
+In the province of Quebec (Canada), the provincial transport department established a standard in 2003 that outlined the operational 
+guidelines for these types of devices (Hall et al., 1996; Minist`ere des transports du Qu´ebec, 2011; Ratelle et al., 1999). It specified a set 
+of criteria, including the utilization of directional sound sources with alternating APS positioned at each end of a crosswalk. The aim is 
+to assist blind or visually impaired pedestrians in establishing and maintaining a straight line while crossing (Laroche et al., 2000; 
+Stevens, 1993). Literature have documented the effectiveness and utility of these alternating APS from one side of the intersection to 
+the other in guiding blind or visually impaired pedestrians in the correct direction before and during street crossings (Tauchi et al., 
+1998). The standardized system in the province of Quebec also mandates that a pushbutton locator tone must be set to activate and 
+confirm the signal. This type of device has been implemented in various countries, including Australia, New Zealand and Sweden 
+(Barlow et al., 2009; National Academies of Sciences, Engineering, and Medicine, 2011; Noyce and Bentzen, 2005; Wall et al., 2005), 
+and seems to help finding the pushbutton and to decrease veering tendencies when added after the end of the “walk” signal (Barlow 
+et al., 2009; Wall et al., 2005). The newly revised Pedestrian Right-of-Way Accessibility Guidelines in the United States also sets out 
+similar requirements, being explicit about the need for APS to address pedestrian safety (Architectural and Transportation Barriers 
+Compliance Board, 2023).
+APS are typically set up at specific intersections along pedestrian crosswalks and are paired with traffic signals. Several years ago, 
+Quebec City, the capital of the province of Quebec, Canada, with around 540,000 residents, adopted a traffic management system 
+featuring exclusive pedestrian phases. A phase denotes a portion of a traffic light signal dedicated to specific traffic movements, such as 
+East-West traffic and then North-South traffic in a two-phase system. During exclusive phasing, automobile traffic is completely halted 
+for one phase, allowing only pedestrians to move. Most intersections in Quebec City do not technically apply a true exclusive phase, as 
+vehicles are allowed to turn right on a red vehicle signal. However, turning right on a red is not permitted in Quebec City during the day 
+in crossing corridors with APS. The duration of exclusive phases is determined based on the length of the longest direct (not diagonal) 
+crosswalk at the intersection, encompassing both the "walk" and "don’t walk" signal indications. Before the 2003 standard, non- 
+directional APS were deployed at several intersections (i.e., those with exclusive pedestrian phases), which still remain operational. 
+Fig. 1. Three different types of pedestrian phasing with audible pedestrian signal configurations found in Quebec City, Canada: A) exclusive phasing 
+with non-directional audible pedestrian signals; B) exclusive phasing with directional audible pedestrian signals; and C) concurrent phasing with 
+directional audible pedestrian signals.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+2 
+
+Unlike directional APS, non-directional APS emits sound from a single source situated at one corner, providing audible cues akin to the 
+visual "walk" (continuous sound) and "don’t walk" (intermittent sound) signal indications. With evolving standards, there are currently 
+three distinct configurations of pedestrian phasing with APS for blind or visually impaired pedestrians in Quebec City. These con­
+figurations encompass: 1) exclusive phasing with non-directional APS; 2) exclusive phasing with directional APS; and 3) concurrent 
+phasing (where pedestrians are served concurrently with adjacent traffic movement through an on-demand pushbutton) with direc­
+tional APS (Fig. 1).
+During a consultation process regarding the upgrade of APS in Quebec City, advocacy groups representing the rights of individuals 
+with disabilities voiced apprehensions regarding the implementation of signals that comply with the 2003 standard. They were pri­
+marily concerned with the challenges related to adaptation faced by blind or visually impaired persons. Due to such changes, addi­
+tional intensive training with orientation and mobility specialists was required. Additionally, the advocacy groups questioned the 
+effective safety of the non-standardized system, particularly in an area with highly variable configurations, and were ready to commit 
+to a research project. The lack of trust in the existing systems among blind or visually impaired individuals can significantly hinder 
+their daily mobility, preventing them from traveling independently and potentially affecting their overall quality of life. Even though 
+Canada and other countries have been using various types of pedestrian phasing with APS for some years now, there is limited 
+available evidence on the behavior and perception of blind or visually impaired individuals regarding these different configurations.
+In this respect, the overall purpose of this exploratory study was to investigate the three types of pedestrian phasing with APS 
+configurations found in Quebec City area with the aim of improving the safety and autonomy of blind or visually impaired persons. As a 
+first step, through an online survey and individual interviews, we appraised the preferences, expectations, and sense of safety of blind 
+or visually impaired persons regarding the three types of pedestrian phasing with APS configurations that exist in Quebec City. Thirty- 
+two blind or visually impaired persons were asked to complete the survey which contained a series of simulations. Subsequently, semi- 
+directed, individual interviews with 11 of the individuals who had completed the survey were conducted to complement the collected 
+information. No formal consensus regarding many of the issues discussed were established as participants’ responses varied too 
+significantly. However, the results tend to demonstrate that the addition of APS to pedestrian signals heightens the sense of safety of 
+blind or visually impaired persons (Routhier et al., 2023). Findings also suggest that the exclusive phasing with directional APS 
+configuration is perceived to be the safest option by the participants (Routhier et al., 2023). Findings are reported in another paper 
+(Routhier et al., 2023).
+As a second step, following concerns raised by various partners, our research also sought to evaluate the objective level of safety of 
+the three types of configurations found in Quebec City. Findings from this last phase of the project are reported in this paper. In this 
+study, the level of safety refers to the characteristics of the trajectory followed (e.g., deviation, duration). The sense of safety was also 
+reassessed in this last phase. It refers to the participants’ perceived level of safety (based on their profile and personal experiences) and 
+comfort (e.g., ease of mobility, accessibility, traffic noise, audible signal volume) (Ovstedal and Olaussen, 2002; Roussel, 2014; 
+Thomas et al., 2015).
+2. Methods
+An advisory committee was set up to support the completion of this exploratory study. It was made up of community stakeholders 
+advocating for the rights of people with disabilities (n = 3), orientation and mobility specialists (n = 2), and municipal and provincial 
+agents (n = 2). The advisory committee’s role consisted of validating the project milestones, advising on the content of the data 
+collection tools, participating in the recruitment process, monitoring project progress, and proposing courses of action. The study was 
+approved by the Research Ethics Board in rehabilitation and social integration at the Centre int´egr´e universitaire de sant´e et de services 
+sociaux de la Capitale-Nationale (REB number: 2018-435, RIS_2017-571). All participants provided written informed consent.
+2.1. Recruitment
+Blind or visually impaired persons were recruited: 1) with the help of a regional non-profit organization, the Regroupement des 
+personnes handicap´ees visuelles (RPHV; roughly translates to “Association of people who are visually impaired”), in particular via their 
+newsletter; 2) with the help of the Blindness and Visual Impairment Program of the Centre int´egr´e universitaire de sant´e et de services 
+sociaux de la Capitale-Nationale, specifically program stakeholders provided project information to their clients; and 3) through 
+snowball sampling.
+We aimed to include a diverse range of participants, taking into consideration factors such as the degree of visual impairment and 
+the types of assistive technologies employed, as well as their level of independence in navigating both familiar and unfamiliar sur­
+roundings, and their prior experience with APS. To be eligible for inclusion, individuals were required to meet the following criteria: 1) 
+be between the ages of 18 and 65 (inclusively); 2) be visually impaired as defined by Quebec legislation; 3) be familiar with pedestrian 
+crossing signals; 4) use audible pedestrian crossings; 5) live in the eastern part of the province of Quebec; 6) have no significant 
+auditory asymmetry; 7) use or be able to use a long detection cane as a mobility aid (not a guide dog that can correct the trajectory); 
+and 8) have no cognitive or communication impairments that might affect understanding of instructions, completion of tasks and 
+communication with research staff.
+2.2. Participants
+Eighteen individuals took part in the experiments. Most participants were between 46 and 65 years of age (n = 14; 77.8%) and 
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+3 
+
+women made up 61.1% of the sample pool (n = 10). A large majority of participants had been living with visual impairments since 
+birth (n = 15; 83.3%) and had a residual sight (n = 14; 77.8 %). Considering the exploratory nature of the study, it was decided to limit 
+the sample size to 18 participants. Discussions with project partners suggested that this was a realistic number based on the pool of 
+potential participants from the involved organizations.
+2.3. Variables
+To assess the sense and level of safety with respect to the three types of pedestrian phasing with APS configurations found in Quebec 
+City, six crossing corridors within four intersections were selected by the advisory committee to ensure a representation of the situ­
+ations and environments encountered by individuals with visual impairments. In addition to the three possible configurations, we were 
+looking for situations involving: 1) short crossings, i.e. 15 ± 2.5 m, and 2) longer crossings, i.e. 25 ± 2.5 m. Due to technical issues 
+related to the sound emission of APS during the data collection conducted with the first four participants, it was decided to replace one 
+crossing corridor (i.e., concurrent phasing with directional APS, long crossing) with another very similar one.
+The sociodemographic and clinical data of the participants were collected using a questionnaire developed for the project. Through 
+direct observations, various items were documented using an observation grid developed for each crossing corridor, including: ease of 
+locating the pedestrian pushbutton, activation of the audible signal (if applicable, the tone confirming signal activation), alignment 
+with the pedestrian crosswalk in preparation for the crossing, moment of initiation of the crossing (in relation to the beginning of the 
+audible signal), contact with obstacles, and location of the end of the crossing. The information collected using these observation grids 
+enabled us to validate some of the results obtained. Each crossing was also recorded on video, which enabled the visual validation of 
+several aspects related to the participants’ trajectory. Finally, participants’ sense of safety was questioned after each crossing using a 
+visual analog scale ranging from 1 ("not safe at all") to 5 ("completely safe"). It is a tool generally used to assess subjective experiences 
+in a simple and effective way.
+For each crossing, participants’ trajectories were objectively measured using a satellite positioning system, employing Trimble R8 
+type receivers. This is a GPS system that uses a relative positioning mode, meaning that positioning is measured using two receivers. 
+The first receiver is fixed and its position is known, while the second receiver is mobile and its position is determined relative to the 
+first. This system allows for achieving a positional accuracy of at least 2 cm, once the corrections required by the method are applied a 
+posteriori. This level of accuracy is more than sufficient for the study’s needs (Santerre et al., 2012; Van Sickle and Dutton). Such an 
+approach has been used in much more demanding conditions, such as for sports performance analysis (Lambert, 2002; Waegli et al., 
+2007). In the context of the current study, the fixed receiver was located at the building of the Ministry of Natural Resources and 
+Forests in Quebec City, while the mobile receiver was attached to a support that participants carried on their back while crossing the 
+intersections (Fig. 2).
+Fig. 2. The mobile GPS receiver carried by one of the participants in this study.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+4 
+
+2.4. Data acquisition procedure
+Each participant was met during an individual session lasting about 3 h. To mitigate the impact of variability in external and 
+environmental factors on participants’ performance, data collection was generally conducted at the same time of day and under similar 
+climatic and acoustic conditions for each participant. Indeed, most of the experiments (n = 15; 83.3%) were carried out during summer 
+2018 in fair weather periods. Three experiments (16.7%) took place in autumn, but only one of them was carried out in light rain. 
+Before starting the experiment, a sociodemographic and clinical questionnaire was completed with the participant. Subsequently, the 
+research team and the participant moved to the field, where the participant was invited to cross the six previously identified crossing 
+corridors. Each corridor was crossed three times (i.e., three trials at each crossing corridor, always in the same direction). During the 
+experiments, a research assistant provided explanations and starting instructions, including the following information: name of the 
+intersection and crossing corridor, type of configuration, length of the crossing corridor, number of lanes in each direction, time 
+allowed for the crossing, presence of a raised median and/or of a bicycle path. This assistant, along with a second assistant, ensured the 
+participant’s safety during the crossing by positioning themselves on either side of the participant. A third assistant, positioned at the 
+opposite end of the corridor, recorded the crossing on video. Once the crossing was completed, the second assistant was responsible for 
+filling out an observation grid and questioning the participant about their sense of safety. For logistical reasons, all participants 
+experienced the crossing corridors in the same order.
+2.5. Data analysis
+The participants’ characteristics obtained through the sociodemographic and clinical questionnaire were compiled using 
+descriptive statistics (frequencies). The sense of safety expressed by participants on a visual analog scale was also analyzed using 
+descriptive statistics (means, standard deviations). For this ordinal variable, statistical differences between crossing corridors and trials 
+were analyzed using a non-parametric ANOVA-type test (R software, package nparLD, version 2.1) (Noguchi et al., 2012). This test is 
+more robust when dealing with small sample sizes and is suitable for ordinal data. A significance level of 0.05 was set. The collected 
+GPS data were extracted, and the percentage of participants located within a safety corridor according to the percentage progression 
+across the pedestrian crosswalk was calculated for each corridor and each trial. The safety corridor was predetermined for each 
+crossing corridor by two orientation and mobility specialists based on the location of curb cuts and road markings. It is the widest area 
+encompassed by the road-painted pedestrian crosswalk and the rise in the sidewalk at the end of the curb cut. Since the software did not 
+allow for a single analysis, three separate nparLD ANOVA-type tests were conducted, one for each trial. When a significant interaction 
+was observed (trial x crossing corridor), the crossing corridors by portion of the route were compared. To determine which corridors 
+differed from each other, pairwise comparisons using a two-sided equality of proportions test (with continuity correction, due to the 
+small sample size) were performed. The percentage of participants located on the inner and outer side of the safety corridor according 
+to the percentage progression across the pedestrian crosswalk was also calculated for each corridor and each trial.
+3. Results
+3.1. Sense of safety
+After each trial (three per crossing corridor), participants were asked to evaluate their sense of safety on a scale ranging from 1 ("not 
+at all safe") to 5 ("completely safe"). Table 1 presents descriptive statistics for the three trials conducted at each of the six crossing 
+corridors. The trials × crossing corridors comparison was performed using a nparLD ANOVA-type test. Referring to Fig. 3, significant 
+differences are observed between the trials (p < 0.001) and between the crossing corridors (p < 0.001), but without a significant 
+interaction (p = 0.455) for the trials × crossing corridors. In short, the colored curves are statistically parallel. The ordinate of the 
+graph represents a statistic called Relative Treatment Effect (RTE), which is interpreted similarly to the Vargha and Delaney’s A (VDA) 
+statistic (Vargha and Delaney, 2000). If there were no differences between the trials and the crossing corridors, all points would have a 
+RTE equal to 0.5. A RTE greater than 0.64 or less than 0.36 indicates an appreciably higher or lower sense of safety (Vargha and 
+Delaney, 2000). It is observed that participants feel safer during a short crossing at a crossing corridor with exclusive phasing and a 
+directional APS (crossing corridor 5). Conversely, participants feel less safe during a long crossing at a crossing corridor with exclusive 
+phasing and a non-directional APS (crossing corridor 2). Additionally, participants’ sense of safety is consistently lower during the first 
+Table 1 
+Participants’ sense of safety for each crossing corridor at each trial.
+Crossing corridors
+Trial 1
+Trial 2
+Trial 3
+Mean ± SD
+Mean ± SD
+Mean ± SD
+1. Exclusive phasing with non-directional APS, short crossing
+4.1 ± 1.1
+4.4 ± 0.7
+4.6 ± 0.6
+2. Exclusive phasing with non-directional APS, long crossing
+3.3 ± 1.1
+3.8 ± 1.0
+4.1 ± 0.6
+3. Concurrent phasing with directional APS, short crossing
+4.1 ± 0.9
+4.4 ± 0.7
+4.4 ± 0.7
+4. Exclusive phasing with directional APS, long crossing
+4.2 ± 0.8
+4.3 ± 0.9
+4.3 ± 0.8
+5. Exclusive phasing with directional APS, short crossing
+4.6 ± 0.5
+4.8 ± 0.4
+4.8 ± 0.4
+6. Concurrent phasing with directional APS, long crossing
+3.7 ± 1.2
+4.1 ± 1.3
+4.1 ± 1.2
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+5 
+
+trial, which could correspond to a learning effect. It should be noted that 27.8% (n = 5 out of 18) of participants were familiar with the 
+first crosswalk, 33.3% (n = 6 out of 18) with the second, 38.9% (n = 7 out of 18) with the third, 5.6% (n = 1 out of 18) with the fourth, 
+5.6% (n = 1 out of 18) with the fifth, and 71.4% (n = 10 out of 14) with the sixth. Although this variable might impact the sense of 
+safety, it was not considered in the analyses due to the unknown extent of familiarity with the crossing corridors (e.g., whether a 
+crossing corridor was crossed only once or on a daily basis).
+3.2. Level of safety
+From the raw data collected using the GPS system, it is possible to illustrate the route taken and to calculate, for each trial, each 
+crossing corridor and each 5% of the route, the percentage of participants situated within the safety corridor (see Table 2). Supple­
+mental material provides examples of the trajectories taken by participants. The analysis of GPS trajectories does not allow for the 
+consideration of an average route for the three trials. From one trial to another, participants followed routes that differ considerably. 
+For this reason, GPS data must be analyzed separately for each trial. No clear trends emerge from the ANOVA to identify statistical 
+differences between the six crossing corridors. As can be observed in Figs. 4–6, from trial to trial, the differences between the crossing 
+corridors are not located at the same portions of the route. For instance, in trial 2, the differences between crossing corridors (trial x 
+crossing corridor interaction: p = 0.019) occur between 90% and 100% of the route, whereas in trial 3, the differences (interaction: p 
+= 0.003) are mostly present at the beginning of the route. For trial 1, no significant interaction was observed (p = 0.116).
+In post-hoc tests, when pairwise comparisons are made between the crossing corridors using equality of proportions tests, very few 
+significant differences are obtained, and no clear trend emerges among the three trials. For instance, the significant differences be­
+tween two crossing corridors for one trial are not similarly observed for the other two trials. The significant differences observed in trial 
+2 between crossing corridors 2 and 6 from 65% to 100% of the route, and between crossing corridors 5 and 6 from 85% to 100% of the 
+route, are the only ones that stand out. Therefore, for these end portions of the route, it can be noted that the percentage of participants 
+within the safety corridor for crossing corridors 2 and 5 is significantly lower than that for crossing corridor 6.
+Using the raw data collected through the GPS system, the percentage of participants situated outside the safety corridor was also 
+calculated for each trial, each crossing corridor, and each 5% interval of the route. In these cases, it was also determined whether the 
+participants were positioned on the inner or outer side of the safety corridor (Tables 3 and 4). Although several nuances exist due to 
+environmental characteristics specific to each of the six studied crossing corridors, participants were generally considered to be in a 
+risk zone when they were on the inner side of the safety corridor (i.e., towards the stopped cars with a red light) and generally in a 
+danger zone when they were on the outer side of the safety corridor (i.e., in the open intersection zone). It is noticeable that the 
+percentage of participants located on the inner side of the safety corridor, hence in a risk zone, is higher for crossing corridors 2 and 6, 
+which are two of the three long crossings. For crossing corridor 2, this percentage is higher at the beginning and at the end of the route, 
+whereas for crossing corridor 6, it is higher only at the beginning of the route. These results are likely attributable to the location of the 
+poles with pedestrian pushbuttons, which are in line with the risk zones, and therefore outside the safety corridors. It is also observed 
+that the percentage of participants located on the outer side of the safety corridor, thus in a danger zone, is higher for crossing corridor 
+5, as well as for crossing corridors 1 and 3, but to a lesser extent. It is important to note that these are all short crossings, and that it is 
+mainly in the second half of the route that participants find themselves in this danger zone. These results can be interpreted in two 
+different ways regarding the degree of danger. On one hand, in the case of crossing corridors 1 and 5, where exclusive phasing is 
+present, vehicles do not circulate during the crossing. Therefore, pedestrian deviations should not result in collisions. However, they 
+might deviate enough to still be on the road when the pedestrian phase ends and vehicles start moving again, which can become a 
+source of insecurity and danger. On the other hand, the parallel traffic alongside crossing corridor 3 might pose a risk of collision with 
+vehicles traveling in parallel. However, their presence provides an auditory cue for pedestrians to adjust their trajectory during the 
+crossing.
+The number of participants who came into contact with a raised median, an obstacle only present in the case of long crossings (i.e., 
+crossing corridors 2, 4, and 6), was recorded for each trial. This contact was generally made with their cane or their feet. When all trials 
+are combined, it is observed that four participants came into contact with the raised median at crossing corridor 2. None of these 
+Fig. 3. Effect of crossing corridors on participants’ sense of safety at each trial.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+6 
+
+Table 2 
+Percentage of participants in safety according to crossing progression for each crossing corridor and at each triala.
+In green: 100% of participants are in the safety corridor. In yellow: 75 to 99.9% of participants are in the safety corridor.
+a Generally, the total number of participants is 18 for crossing corridors 1 to 5, and 14 for crossing corridor 6. However, there are missing data. This is essentially 
+attributable to the fact that some of the signals emitted by satellites could not be captured by the GPS receiver due to the presence of tree leaves.
+b 1) exclusive phasing with non-directional APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing with directional 
+APS, short crossing; 4) exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short crossing; 6) concurrent phasing with 
+directional APS, long crossing.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+7 
+
+Fig. 4. Percentage of participants in safety at trial 1 according to crossing progression. A black arrow indicates the presence of a statistically 
+significant difference between the crossing corridors at a specific portion of the route. Crossing corridors: 1) exclusive phasing with non-directional 
+APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing with directional APS, short crossing; 4) 
+exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short crossing; 6) concurrent phasing with 
+directional APS, long crossing.
+Fig. 5. Percentage of participants in safety at trial 2 according to crossing progression. A black arrow indicates the presence of a statistically 
+significant difference between the crossing corridors at a specific portion of the route. Crossing corridors: 1) exclusive phasing with non-directional 
+APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing with directional APS, short crossing; 4) 
+exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short crossing; 6) concurrent phasing with 
+directional APS, long crossing.
+Fig. 6. Percentage of participants in safety at trial 3 according to crossing progression. A black arrow indicates the presence of a statistically 
+significant difference between the crossing corridors at a specific portion of the route. Crossing corridors: 1) exclusive phasing with non-directional 
+APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing with directional APS, short crossing; 4) 
+exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short crossing; 6) concurrent phasing with 
+directional APS, long crossing.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+8 
+
+Table 3 
+Percentage of participants in a risk zonea according to crossing progression for each crossing corridor and at each trialb.
+In red: ≥20% of participants are in a risk zone.
+a The risk zone corresponds, within this table, to the inner side of the safety corridor.
+b Generally, the total number of participants is 18 for crossing corridors 1 to 5, and 14 for crossing corridor 6. However, there are missing data. This is essentially 
+attributable to the fact that some of the signals emitted by satellites could not be captured by the GPS receiver due to the presence of tree leaves.
+c 1) exclusive phasing with non-directional APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing with directional 
+APS, short crossing; 4) exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short crossing; 6) concurrent phasing with 
+directional APS, long crossing.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+9 
+
+Table 4 
+Percentage of participants in a danger zonea according to crossing progression for each crossing corridor and at each trialb.
+In red: ≥15% of participants are in a danger zone.
+a The danger zone corresponds, within this table, to the outer side of the safety corridor.
+b Generally, the total number of participants is 18 for crossing corridors 1 to 5, and 14 for crossing corridor 6. However, there are missing data. This is essentially 
+attributable to the fact that some of the signals emitted by satellites could not be captured by the GPS receiver due to the presence of tree leaves.
+c 1) exclusive phasing with non-directional APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing with directional 
+APS, short crossing; 4) exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short crossing; 6) concurrent phasing with 
+directional APS, long crossing.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+10 
+
+participants completed their crossing within the safety corridor. At crossing corridor 4, two participants came into contact with the 
+raised median. The impact resulted in one participant falling (no injuries were reported or observed), who was subsequently 
+accompanied by the research assistants to the finish point. The other participant did not complete their crossing within the safety 
+corridor. Nine participants came into contact with the raised median at crossing corridor 6. Among them, seven were able to complete 
+the crossing within the safety corridor.
+It should be noted that information regarding the success or failure of crossing within the allotted time for the pedestrian phase was 
+not systematically recorded, making it impossible to draw any conclusions in relation to this aspect of the crossing.
+Table 5 presents the number of instances where participants initiated their crossing outside the safety corridor and, among them, 
+those where participants completed their crossing within the safety corridor. Across all crossing corridors, it is notable that for a small 
+proportion of instances, participants begin their crossing outside the safety corridor (9.9%), and that for the vast majority of them 
+participants are positioned on the inner side of the corridor, thus within a risk zone and not a danger zone. This is generally attributable 
+to the location of the pole with the pedestrian pushbutton, which are directly in line with the risk zone in some crossing corridors. The 
+proportion of instances where participants were successfully aligning themselves to complete their crossing in the safety zone varies 
+from trial to trial and from one crossing corridor to another. Of the 29 instances where a participant started their crossing from the 
+inner side of the safety corridor, thus within a risk zone, 15 (51.7%) were completed within the safety corridor, 13 (44.8%) were 
+completed within a risk zone, and one (3.5%) was completed within a danger zone. For the two instances where participants initiated 
+their crossing from the outer side of the safety corridor, thus within a danger zone, participants completed their crossing in that same 
+danger zone. Consequently, even though in only 48.4% of the instances participants correctly adjusted their trajectory to enter the 
+safety zone, very few dangerous trajectories were observed, regardless of the type of configuration or trial. However, it is noteworthy 
+that the percentage of instances where participants correctly adjusted their trajectory is higher for crossing corridor 6.
+4. Discussion
+Through experiments conducted at six crossing corridors, this research appraised the sense of safety and level of safety of blind or 
+visually impaired persons regarding the three types of pedestrian phasing with APS configurations that exist in Quebec City, Canada.
+4.1. Sense of safety
+Looking separately at long crossings and short crossings, the traffic control system with an exclusive pedestrian phase that uses the 
+directional APS appears to provide a higher sense of safety during the experiments than the other two types of configurations (i.e., 
+exclusive phasing with non-directional APS and concurrent phasing with directional APS). This is in line with the existing literature 
+(Bentzen et al., 2006; Ivan et al., 2017) and the findings from the first two phases of this study where many participants indicated that 
+they had a heightened sense of safety when there is: a) an absence of car movement, b) a pushbutton locator tone, c) the emission of a 
+sound confirming that the sound signal command has been activated, and d) an alternating APS at either end of the intersection 
+(Routhier et al., 2023).
+The exclusive phasing with non-directional APS configuration has the advantage of being widely familiar; participants are 
+accustomed to it since it has been common in the Quebec City area for a long time. However, in these experiments, participants’ sense 
+of safety was at its lowest during a long crossing at a corridor with this type of configuration. This is consistent with the results from the 
+interviews conducted as a first step of this project, where almost half of the participants pointed out the disadvantages of the non- 
+directional APS, namely due to the challenges maintaining proper alignment when crossing (Routhier et al., 2023). Overall, in the 
+current experiments, participants’ sense of safety with this type of configuration is similar to that expressed with the concurrent 
+phasing with directional APS configuration. This observation differs from that made following our online survey, where it was found 
+that this last configuration (i.e., concurrent phasing with directional APS) was perceived as the least safe (Routhier et al., 2023). 
+Actually, opinions expressed on the concurrent phasing with directional APS configuration were polarized. Nearly 50% of the 
+interviewed participants expressed a sense of insecurity due to the simultaneous presence of vehicles and pedestrians on the road. 
+Table 5 
+Arrival location for instances where participants started their crossing outside the safety corridor.
+Crossing corridora
+Departureb from outside the safety corridor
+Arrival inside the safety corridor when the departure is outside the safety corridor
+Inner side
+Outer side
+1
+3
+0
+1 (33.3%)
+2
+11
+0
+5 (45.5%)
+3
+2
+2
+0 (0.0%)
+4
+2
+0
+0 (0.0%)
+5
+3
+0
+2 (66.7%)
+6
+8
+0
+7 (87.5%)
+TOTAL
+29
+2
+15 (48.4%)
+a 1) exclusive phasing with non-directional APS, short crossing; 2) exclusive phasing with non-directional APS, long crossing; 3) concurrent phasing 
+with directional APS, short crossing; 4) exclusive phasing with directional APS, long crossing; 5) exclusive phasing with directional APS, short 
+crossing; 6) concurrent phasing with directional APS, long crossing.
+b The departure zone here comprises the first two 5% sections of the crossing, i.e. the first 10% of the crossing.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+11 
+
+Nonetheless, individuals who were accustomed to this configuration and had a higher tolerance for risk appreciated it. Existing 
+literature highlights some benefits of concurrent phasing, including shorter disruptions to both pedestrian and vehicular flow and the 
+potential for blind or visually impaired individuals to use parallel traffic sounds to initiate and maintain their crossing alignment 
+(Bentzen et al., 2004; Ivan et al., 2017).
+4.2. Level of safety
+While no clear trend emerges from the analyses conducted using the GPS data collected to identify statistically significant dif­
+ferences among the six selected crossing corridors with respect to the participants’ level of safety, one point does draw attention. 
+Among the few statistical differences that stand out, it can be observed that in trial 2, the percentage of participants located within the 
+safety corridor in crossing corridor 5 (exclusive phasing with directional APS, short crossing) is significantly lower than that in crossing 
+corridor 6 (concurrent phasing with directional APS, long crossing) at the very end of the route (85% vs. 100%). The objective level of 
+safety is, therefore, different in this case from the sense of safety expressed by the participants. Indeed, participants’ sense of safety was 
+highest in crossing corridor 5. For crossing corridor 5, the exclusive phasing means that all car movements are prohibited while in 
+crossing corridor 6, parallel movement of vehicles is permitted. Thus, although individuals in crossing corridor 5 may have finished 
+outside of the designated safety corridor, the fact that vehicle movement is absent might help explain why participants rated it safer 
+despite the problems of crossing within the safety corridor. However, as this statistical difference in trial 2 is not observed in the other 
+two trials, it may only be “noise”. It is difficult to determine whether the near absence of statistically significant differences obtained 
+between the crossing corridors regarding level of safety can be attributed to methodological/contextual factors (e.g., the impact of the 
+GPS system on participants’ trajectories, the presence of buses, the presence of cyclists) or if the level of safety is genuinely not 
+significantly different between configurations. The results obtained do not allow for the identification of an ideal configuration or even 
+a configuration to avoid.
+Regardless of the type of configuration, participants consistently feel safer during a short crossing than during a long crossing. 
+Indeed, the results suggest that a short intersection seems to reduce the risk of losing one’s alignment, thereby increasing participants’ 
+sense of safety. However, it is surprising to note that this is not necessarily confirmed by the collected GPS data, while the percentage of 
+participants within the safety corridor is not systematically higher in the case of short crossings. Furthermore, participants were more 
+likely to find themselves in a danger zone (i.e., on the outer side of the safety corridor) in the case of short crossings than in the case of 
+long crossings. Obviously, it is impossible to prioritize the sense of safety at the expense of the level of safety, and vice versa. Although 
+the level of safety cannot be set aside for clear reasons, the sense of safety is equally important as it is a prerequisite for participation (i. 
+e., being independently mobile). However, since the results related to the level of safety do not identify a preferred or prohibited 
+configuration, but the results regarding the sense of safety are clear (preference for the configuration of exclusive phasing with 
+directional APS), it is recommended, as a future step, that a larger-scale evaluation of the level of safety allowing for more detailed 
+analyses (e.g., according to visual profiles) be conducted. Such a study should be carried out in a real use context and could include 
+cities other than just Quebec City.
+4.3. Study limitations
+The GPS system receiver that participants had to carry on their backs was quite bulky, and despite efforts to minimize its incon­
+venience, it is possible that it influenced the participants’ trajectories. Additionally, for logistical reasons, all participants experienced 
+the six selected crossing corridors in the same order. A fatigue effect may have had an impact on the results. Furthermore, due to the 
+small sample pool, it was impossible to perform separate analyses comparing participants with functional residual sight to those 
+without or socio-demographic factors such as gender, age, or years of experience. Unfortunately, a detailed description of visual 
+impairments (e.g., characteristics such as visual acuity and visual field) was not collected. However, considering the small sample pool, 
+we would not have been able to conduct analyses documenting the impact of these difficulties on the participants’ sense of safety and 
+level of safety. Similarly, older adults were excluded from the study due to their often distinct walking behaviors, including variations 
+in gait patterns and balance. This decision aimed to manage the already significant variability within our sample. Additionally, given 
+our small sample size, conducting specific analyses for older adults would not have been feasible. Although generalizability is limited 
+because the study was conducted in only one city, the unique experimental context of this area, including the use of the rather unique 
+exclusive phasing with non-directional APS configuration, provides valuable contribution for documentation of advantages and dis­
+advantages of different types of pedestrian phasing with APS configurations from the perspective of blind or visually impaired persons. 
+This study highlights the complexity of this type of evaluation, as multiple factors must be considered to gain a comprehensive un­
+derstanding of the phenomenon. Given the numerous parameters and variables involved in this project (configuration type, inter­
+section characteristics, participant characteristics, etc.), a larger sample would have allowed for more extensive analyses. However, 
+conducting such a large-scale experiment is expensive and logistically challenging. While it is difficult to expand further in a real-world 
+setting, controlled environment experiments (e.g., virtual reality laboratories) also have limitations, particularly in terms of gener­
+alizing the results. Finally, future studies might examine how the speed, volume of traffic, or vehicles types impact perceptions of 
+safety. For instance, cyclists and electric vehicles may impacts some individuals’ sense of safety, as they do not make much noise.
+5. Conclusion
+Through this study, it was possible to investigate, in a real-world setting, within the same population and on the same territory, the 
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+12 
+
+sense and level of safety of 18 blind or visually impaired persons regarding three different types of pedestrian phasing with APS 
+configurations. Due to the small sample size, the results must be interpreted with caution, but they do address a gap in knowledge with 
+respect to APS paired with traffic signals and perceived safety and objective safety experienced by their target users. The results 
+obtained do not allow for the identification of an ideal configuration or even a configuration to avoid with regard to the level of safety. 
+However, the findings suggest that the exclusive phasing with directional audible pedestrian signals configuration is perceived to be 
+the safest option by the participants. The results from this project will enhance the existing body of knowledge and expertise related to 
+accessibility for individuals with disabilities. In particular, this research could have practical applications in shaping the design of 
+intersections equipped with APS, determining the most suitable APS type based on intersection features, providing guidance for the 
+training of blind or visually impaired pedestrians by orientation and mobility specialists (e.g., familiarization with different types of 
+configurations, description of the issues associated with each configuration, follow-up over time), and emphasizing the significance of 
+educating road users about pedestrians who are blind or visually impaired. Interestingly, this study led one of our partners to take 
+things a step further and carry out a comparative analysis of the various APS implemented in other countries, as well as their 
+deployment and maintenance strategies, in order to identify innovation opportunities for Quebec (Regroupement des personnes 
+handicap´ees visuelles).
+CRediT authorship contribution statement
+François Routhier: Writing – original draft, Supervision, Project administration, Methodology, Investigation, Funding acquisition, 
+Formal analysis, Conceptualization. Josiane Lettre: Writing – original draft, Methodology, Investigation, Formal analysis, Concep­
+tualization. Caroline Pigeon: Writing – review & editing, Methodology, Formal analysis, Conceptualization. Val´erie Martel: Writing 
+– review & editing, Methodology, Formal analysis, Conceptualization. Ren´e Binet: Writing – review & editing, Methodology, Formal 
+analysis, Conceptualization. V´eronique V´ezina: Writing – review & editing, Methodology, Formal analysis, Conceptualization. 
+Olivier Collomb d’Eyrames: Writing – review & editing, Methodology, Formal analysis, Conceptualization. E. Owen Waygood: 
+Writing – review & editing, Methodology, Formal analysis, Conceptualization. Mir Abolfazl Mostafavi: Writing – review & editing, 
+Methodology, Formal analysis, Conceptualization. Ernesto Morales: Writing – review & editing, Methodology, Formal analysis, 
+Conceptualization.
+Funding
+This work was supported by the Office des personnes handicap´ees du Qu´ebec (OPHQ), the R´eseau Provincial de Recherche en Adaptation- 
+R´eadaptation (REPAR), the Regroupement des personnes handicap´ees visuelles (r´egions 03–12) and the Comit´e des usagers from the Centre 
+int´egr´e universitaire de sant´e et de services sociaux de la Capitale-Nationale. F. Routhier is supported by a Senior Research Scholar grant 
+from the Fonds de recherche du Qu´ebec - Sant´e [grant number 296761].
+Declaration of competing interest
+The authors do not have any conflicts of interest to declare.
+Acknowledgments
+The authors thank the research assistants who helped with data collection. They also acknowledge Jean Leblond, Ph.D., statistician, 
+for his support in the analysis of quantitative data, as well as David Fiset, MA, for his support in coordinating the project.
+Appendix ASupplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.jth.2024.101938.
+Data availability
+Data will be made available on request. 
+References
+Architectural and Transportation Barriers Compliance Board, 2023. Accessibility guidelines for pedestrian facilities in the public right-of-way. Fed. Regist. 88 (151), 
+53604–53662.
+Barlow, J.M., Bentzen, B.L., Bond, T., 2005. Blind pedestrians and the changing technology and geometry of signalized intersections: safety, orientation, and 
+independence. J. Vis. Impair. Blind. (JVIB) 99 (10), EJ720652.
+Barlow, J.M., Bentzen, B.L., Franck, L., 2010. Environmental accessibility for students with vision loss. In: Wiener, W.R., Welsh, R.L., Blasch, B.B. (Eds.), Foundations 
+of Orientation and Mobility, Volume I, History and Theory, third ed. AFB Press, New York, NY, pp. 324–385.
+Barlow, J.M., Scott, A.C., Bentzen, B.L., 2009. Audible beaconing with accessible pedestrian signals. AER Journal 2 (4), 149–158.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+13 
+
+Bentzen, B.L., Barlow, J.M., Bond, T., 2004. Challenges of unfamiliar signalized intersections for pedestrians who are blind: research on safety. Transport. Res. Rec.: J. 
+Transport. Res. Board 1878 (1), 51–57.
+Bentzen, B.L., Scott, A.C., Barlow, J.M., 2006. Accessible pedestrian signals: effects of device features. Transport. Res. Rec.: J. Transport. Res. Board 1982 (1), 30–37.
+Hall, G., Ratelle, A., Zabihaylo, C., 1996. Vers une nouvelle d´efinition du signal sonore. Institut Nazareth et Louis-Braille, Longueuil, QC; Association montr´ealaise 
+pour les aveugles. Montreal, QC. 
+Ivan, J.N., McKernan, K., Zhang, Y., Ravishanker, N., Mamun, S.A., 2017. A study of pedestrian compliance with traffic signals for exclusive and concurrent phasing. 
+Accid. Anal. Prev. 98, 157–166.
+Lambert, M., 2002. Utilisation du GPS pour l’analyse de performances sportives. D´epartement des sciences g´eomatiques. Universit´e Laval. QC.
+Laroche, C., Leroux, T., Gigu`ere, C., Poirier, P., 2000. Field evaluation of audible traffic signals for blind pedestrians. In: Proceedings of the XIVth Triennial Congress of 
+the International Ergonomics Association and 44th Annual Meeting of the Human Factors and Ergonomics Society. Human Factors and Ergonomics Society, 
+pp. 730–733. Washington, DC. 
+Leroux, T., Ratelle, A., Zabihaylo, C., Ricard, C., Mailhot, A., Poulin, S., 2014. Traverser `a l’aide du signal sonore: Performance du coucou. In: Actes du 15e symposium 
+scientifique sur l’incapacit´e visuelle et la r´eadaptation : L’accessibilit´e et ses multiples facettes, ´Ecole d’optom´etrie de l’Universit´e de Montr´eal, Montreal, QC, 
+Institut Nazareth et Louis-Braille, Longueuil. QC, pp. 8–14.
+Mailhot, A., Ratelle, A., Leroux, T., Zabihaylo, C., 2014. ´Etude comparative de signaux sonores am´enag´es pour l’axe nord-sud. In: Actes du 16e symposium scientifique 
+sur l’incapacit´e visuelle et la r´eadaptation : Le partenariat recherche-clinique, pour une meilleure participation, ´Ecole d’optom´etrie de l’Universit´e de Montr´eal, 
+Montreal, QC, Institut Nazareth et Louis-Braille. QC, pp. 20–25. Longueuil. 
+Minist`ere des transports du Qu´ebec, 2011. Normes : Ouvrages Routiers, Tome 5 : Signalisation Routi`ere. Les Publications du Qu´ebec QC, Qu´ebec. Signaux sonores, 
+Section 8.9,. 
+National Academies of Sciences, Engineering, and Medicine, 2011. Accessible Pedestrian Signals: A Guide to Best Practices (Workshop Edition 2010). The National 
+Academies Press, Washington, DC. 
+Noguchi, K., Gel, Y.R., Brunner, E., nparLD, F. Konietschke, 2012. An R software package for the nonparametric analysis of longitudinal data in factorial experiments. 
+J. Stat. Software 50 (12).
+Noyce, D.A., Bentzen, B.L., 2005. Determination of pedestrian push-button activation duration at typical signalized intersections. Transport. Res. Rec.: J. Transport. 
+Res. Board 1939 (1), 63–68.
+Ovstedal, L., Olaussen, E., 2002. Understanding pedestrian comfort in European cities: how to improve walking conditions? Proceedings of the European Transport 
+Conference. Association for European Transport, UK. 
+Ratelle, A., Zabihaylo, C., Gresset, J., Laroche, C., Alarie, R., Geoffroy, R., et al., 1999. ´Evaluation de l’efficacit´e d’un signal sonore alternatif et activ´e sur demande 
+dans une traverse `a six voies par une population de personnes fonctionnellement non-voyantes. Institut Nazareth et Louis-Braille. QC, Longueuil. 
+Regroupement des personnes handicap´ees visuelles (r´egions 03-12). Analyse comparative de syst`emes de feux sonores `a l’international. https://rphv0312.org/ 
+publications/nos-etudes-et-recherches/analyse-comparative-de-systemes-de-feux-sonores-a-linternational-2023/. (Accessed 24 July 2024).
+Roussel, J., 2014. Marche et confort dans l’espace public. Actes du 4e Colloque francophone international du GERI COPIE, La ville sous nos pieds : Connaissances et pratiques 
+favorables aux mobilit´es pi´etonnes, Institut national de la recherche scientifique. Centre Urbanisation Culture Soci´et´e, Montreal, QC, pp. 77–85.
+Routhier, F., Lettre, J., Pigeon, C., Fiset, D., Martel, V., Binet, R., et al., 2023. Evaluation of three pedestrian phasing with audible pedestrian signals configurations in 
+Quebec City (Canada): an exploratory study of blind or visually impaired persons’ sense of safety, preferences, and expectations. Disabil. Rehabil. 1–13.
+Santerre, R., Cocard, M., Bourgon, S., Kamali, O., Kirouac, V., Lamothe, P., et al., 2012. Research activities in precise positioniong at laval university. Geomatica 66 
+(2), 89–101.
+Scott, A.C., Barlow, J.M., Bentzen, B.L., Bond, T.L.Y., Gubbe, D., 2008. Accessible pedestrian signals at complex intersections: effects on blind pedestrians. Transport. 
+Res. Rec.: J. Transport. Res. Board 2073 (1), 94–103.
+Scott, A.C., Bentzen, B.L., Barlow, J.M., Guth, D., Graham, J., 2014. Far-side audible beaconing of accessible pedestrian signals: is it confusing? Transport. Res. Rec.: J. 
+Transport. Res. Board 2464 (1), 135–143.
+Stevens, A., 1993. A Comparative Study of the Ability of Totally Blind Adults to Align and Cross the Street at an Offset Intersection Using an Alternating versus Non- 
+alternating Audible Traffic Signal. University of Sherbrooke, Sherbrooke, QC. 
+Tauchi, M., Sawai, H., Takato, J., Yoshiura, T., Takeuchi, K., 1998. Development and evaluation of a novel type of audible traffic signal for the blind pedestrians. In: 
+Siffermann, E., Williams, M., Blasch, B.B. (Eds.), Proceedings of the 9th International Mobility Conference, Rehabilitation Research and Development Center, 
+Veterans Administration Medical Center, pp. 108–111.
+Thomas, L., Ryus, P., Semler, C., Thirsk, N.J., Krizek, K., Zegger, C., 2015. Delivering Safe, Comfortable, and Connected Pedestrian and Bicycle Networks: A Review of 
+International Practices. Department of Transportation – Federal Highway Administration, Washington, DC. 
+Van Sickle, J., and J. A. Dutton. GPS and GNSS for Geospatial Professionals. https://www.e-education.psu.edu/geog862/node/1725. Accessed July 24, 2024. College 
+of Earth and Mineral Sciences, The Pennsylvania State University; V3 Consultants, Lakewood, CO.
+Vargha, A., Delaney, H.D., 2000. A critique and improvement of the CL common language effect size statistics of McGraw and Wong. J. Educ. Behav. Stat. 25 (2), 
+101–132.
+Waegli, A., Bonnaz, J.-M., Skaloud, J., 2007. L’analyse de performance sportive `a l’aide d’un syst`eme GPS/INS low-cost : ´evaluation de capteurs inertiels de type 
+MEMS. Revue XYZ 113, 19–24.
+Wall, R.S., Ashmead, D.H., Bentzen, B.L., Barlow, J., 2004. Directional guidance from audible pedestrian signals for street crossing. Ergonomics 47 (12), 1318–1338.
+Wall, R., Ashmead, D., Bentzen, B.L., Barlow, J., 2005. Audible pedestrian signals as directional beacons. Int. Congr. 1282, 1089–1093.
+F. Routhier et al. 
+Journal of Transport & Health 39 (2024) 101938 
+14

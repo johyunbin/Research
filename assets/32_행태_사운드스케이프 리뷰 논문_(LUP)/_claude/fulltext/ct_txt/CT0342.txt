@@ -1,0 +1,777 @@
+Academic Editors: Ercan Altinsoy and
+Margret Sibylle Engel
+Received: 13 June 2025
+Revised: 4 August 2025
+Accepted: 19 August 2025
+Published: 21 August 2025
+Citation:
+Lindborg, P.; Lam, L.H.;
+Kam, Y.C.; Yue, R. Sensory Heritage Is
+Vital for Sustainable Cities: A Case
+Study of Soundscape and Smellscape
+at Wong Tai Sin. Sustainability 2025, 17,
+7564. https://doi.org/10.3390/
+su17167564
+Correction Statement:
+This article
+has been republished with a minor
+change. The change does not affect
+the scientific content of the article and
+further details are available within the
+backmatter of the website version of
+this article.
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Sensory Heritage Is Vital for Sustainable Cities: A Case Study of
+Soundscape and Smellscape at Wong Tai Sin
+PerMagnus Lindborg 1,*
+, Lok Him Lam 2
+, Yui Chung Kam 3
+and Ran Yue 1
+1
+School of Creative Media, City University of Hong Kong, Hong Kong, China; ranyue6-c@my.cityu.edu.hk
+2
+Division of Public Policy, The Hong Kong University of Science and Technology, Hong Kong, China;
+lhlamah@connect.ust.hk
+3
+Independent Researcher, Hong Kong, China; yuickam@proton.me
+*
+Correspondence: pm.lindborg@cityu.edu.hk
+Abstract
+Sensory heritage encompasses culturally valued practices, rituals, and everyday activities
+experienced through the senses. While sight often dominates, hearing and smelling are
+generally more immersive and pervasive. Soundscape research is a well-established field
+within urban studies; however, smellscape remains insufficiently recognised. This study is
+part of Multimodal Hong Kong, a project aimed at documenting sensory cultural heritage
+across the city by capturing the complex interplay between soundscape, smellscape, urban
+experiences, everyday activities, and memory. We investigated the multisensory environ-
+ment at Wong Tai Sin Temple through acoustic measurements and perceptual ratings of
+soundscape and smellscape across 197 locations within and around the site. Additionally,
+semi-structured interviews were conducted with visitors (N = 54, 15,015 words of tran-
+script), which were analysed using content analysis and natural language processing. The
+results indicate that elevated noise levels mainly arise from human voices and pipe music
+within the temple compound, as well as traffic noise in the surrounding area. The smell of
+incense dominates near the temple altars, whereas natural, grassy odours prevail in the
+adjacent park. Interview responses confirm that incense burning constitutes a traditional
+religious practice forming a distinctive olfactory marker for Chinese temples, but it is also
+perceived as having adverse health implications. This study contributes to the growing
+body of sensory heritage research, underscoring the importance of both soundscape and
+smellscape in fostering culturally inclusive, vibrant, and sustainable urban environments.
+Keywords: sensory heritage; soundscape; smellscape; environment; sustainability; urban
+studies; memory; Chinese temple; Hong Kong
+1. Introduction
+In cities such as Hong Kong, there is an ongoing tension between human traditions,
+technologically driven aspirations embodied in ‘smart cities’, and natural contextual con-
+straints such as climate change. Compounded by the city’s high population density, these
+challenges impose significant conditions on its sustainable urban development. While
+security, public health, and the economy rank highest among the concerns of residents
+and decision-makers, issues such as general well-being, cultural identity, and heritage are
+also prominent—particularly given their continuous interaction with more fundamental
+and quantifiable matters. Much remains to be done to raise awareness of the value these
+qualities contribute.
+Sustainability 2025, 17, 7564
+https://doi.org/10.3390/su17167564
+
+Sustainability 2025, 17, 7564
+18 of 51
+Culturally valued urban spaces typically embody an “intertwined tangible-intangible
+duality, expressed both as physical constructions and as a set of social, traditional prac-
+tices” [1]. Within this framework, sensory heritage is of vital importance. The concept
+traces its origins to sensory history and anthropology [2–4], and multisensory approaches
+have gained increasing significance within heritage studies [5–7]. This body of research
+conceptualises sensory heritage building upon two well-established categories: tangible
+and intangible heritage. Tangible heritage pertains to physical artefacts in the built environ-
+ment, emphasising “architecture, their homogeneity or their place in the landscape” [8].
+Intangible cultural heritage (ICH) [9] encompasses any “non-corporeal manifestation of
+tradition-based creativity that reflects the community’s social or cultural identity. It in-
+cludes . . . the social, intellectual and cultural processes that . . . have made possible the
+development of a distinct cultural tradition whose preservation and protection is impor-
+tant” [10]. In Hong Kong, these forms of heritage fall under the respective auspices of the
+Antiquities and Monuments Office and the Intangible Cultural Heritage Office (see [11] for
+further discussion).
+However, these frameworks have been criticised [12,13] for an inherent hierarchisa-
+tion of the senses, whereby items appreciable by sight (e.g., monuments, bridges, dance
+performances) are prioritised over those accessible through touch (e.g., sculptures, textiles)
+or hearing (e.g., soundscapes), and these in turn are prioritised over smell or taste. The
+concept of sensory heritage captures something that transcends the UNESCO definitions,
+which are framed in terms of physical objects and tradition-based practices. To begin
+identifying what this ‘thing’ might be, we may acknowledge that the specific urban sites
+valued by a community combine both physically persistent and ephemeral qualities. Two
+observations highlight gaps in the definitions outlined above. Firstly, some aspects of the
+experience within physical environments—for example, the sounds and smells they con-
+tain—may be ephemeral, insofar as the individual objects from which they originate may
+quickly vanish, yet these qualities can be continuously replenished to create a long-term,
+steady-state presence. Hence, sounds and smells can assume a physical character [14].
+Secondly, the actions producing those sounds and smells might not be entirely intentional
+(unlike the clearly intentional intangible cultural heritage exemplified by, say, a traditional
+dance performance), but rather side-products of various activities, whether ‘cultural’ or
+otherwise (cf. semi-designed environments [15]). The actions themselves may be mundane
+or everyday occurrences, but importantly, the perception of such sounds and smells can
+come to hold significance—potentially over time—for a community. Thus, sounds and
+smells acquire a cultural character. Therefore, the concept of sensory heritage is both novel
+and essential for understanding valued urban sites.
+The focus here on sounds and smells is undoubtedly a simplification compared to the
+full multisensory complexity experienced in natural environments. As noted above, vision
+plays a primary role in the appreciation of cultural heritage, and intermodal relationships
+among visual, auditory, and olfactory senses combine with significant effect [16,17]. Visual
+and cognitive factors can dominate smell perception; for example, a notable experiment
+found that the smell of white wine dyed red was described using red wine descriptors by
+students of œnology [18].
+Throughout our lives, multisensing is the norm, and lived experiences are encoded in
+multisensory memory. There is ample evidence that smells can trigger episodic memory
+recall [19], and non-olfactory stimuli can elicit smell memories, whether accurate or not [20].
+If a smell is not part of a lived experience (forming a true memory), it might be regarded
+as a projection of an imagined scent [17,21]. Both smells and sounds can facilitate spatial
+recall through activities such as sketching or clay-making, thereby imparting a sense of
+tangibility to recalled memories [22].
+
+Sustainability 2025, 17, 7564
+19 of 51
+Inching towards a definition of sensory heritage, we draw on research in urban
+soundscape and smellscape. The International Organisation for Standardisation (ISO)
+defines soundscape as a “perceptual construct, related to a physical phenomenon. [It is
+the] acoustic environment as perceived or experienced and/or understood by a person or
+people, in context” [23]. Soundscape can have positive cultural value as well as negative
+impact on community health. Similarly, smellscape is the perceived olfactory environment,
+which arises from a complex mixture of volatile compounds. Although smell has long
+been part of human experience and informal inquiry for centuries, systematic smellscape
+research only began to emerge in the 1980s [24–26]. As Bembibre notes, “the significance of
+smell in connection with heritage is rarely recognised. This is caused by (1) fragmented
+knowledge of the sensory worlds of the past and the present, (2) the low awareness of
+the importance of smells and olfaction in intangible heritage practices, and (3) the lack of
+adequate methods to identify, record and safeguard smells” [4]. Bearing these challenges
+in mind, we tentatively define sensory heritage as the sum total of culturally valued
+sensorial experiences of a community—manifested as sights, sounds, smells, tastes, and
+textures—enabled through practices, rituals, and everyday activities, along with associated
+narratives and memories.
+Sensory heritage is beginning to be recognised in national legislation. France’s “Mau-
+rice the Rooster” law [27] aims to safeguard specific environmental sounds and smells
+(patrimoine sensoriel sur les sons et odeurs) [28]. This law emphasises the importance of rural
+traditions and sensory experiences as integral elements of France’s cultural identity. To de-
+velop a robust legal framework for sensory heritage, policy research should build not only
+on existing legislation that regulates nuisances such as noise and malodour but also seek to
+identify the valued sensory elements—positive sounds and smells—that local communities
+consider important to protect and promote for their cultural and social benefits.
+Sensory heritage is a vital component of people’s connection to their environment,
+both present and past, mediated through memory, stories, and history. While the concept
+need not be confined to a strict definition, greater awareness and emphasis on it can
+yield broader economic benefits. Everyday activities and narratives shape individual
+and collective identity, potentially enhancing the lived experiences of communities. To
+illustrate how sensory heritage can be understood as the intersection of everyday practices,
+legislative frameworks, soundscape, smellscape, built heritage, and intangible cultural
+heritage (ICH), please refer to the schematic overview in Figure 1.
+Figure 1. Overview of concepts related to sensory heritage.
+
+Sustainability 2025, 17, 7564
+20 of 51
+With the present case study, we place the spotlight on Wong Tai Sin Temple, a unique
+site that is simultaneously representative of Chinese temples within Hong Kong’s urban
+fabric, intertwining culture, religion, tourism, and sensory experiences. Our approach
+was a mixed-methods one. The first set of research questions addressed the descriptive
+characteristics of the chosen site: What is Wong Tai Sin’s place within the physical cityscape?
+What role does it play in the cultural landscape? How does it contribute to shaping the
+city’s identity? What is the nature of its acoustic environment, and how is the soundscape
+perceived? How can its smellscape be effectively characterised?
+Measurements and observations were complemented by interviews with visitors from
+diverse backgrounds to gain a deeper understanding of sensory heritage from multiple
+stakeholder perspectives. Through this, we explored how people relate sensory perceptions
+to cultural practices: Which specific sounds and smells contribute to the overall appreciation
+of the site? How do soundscape and smellscape relate to, shape, and inform cultural and
+religious practices? Finally, we posed questions to contextualise the study: What broader
+conclusions can be drawn from Wong Tai Sin that apply to other sites in Hong Kong and
+beyond? How might soundscape and smellscape be harnessed to support the development
+of sensory heritage policy?
+1.1. Context
+The term ‘Chinese temples’ refers to places of worship for Chinese religions, including
+folk religion, Buddhism, Taoism, and Confucianism. In Cantonese, the main language of
+Hong Kong, terms like 廟(miu6 in Jyutping romanization) or 寺廟(zi6 miu6) are used.
+A liberal definition would also include monasteries 觀(gun3), nunneries 庵(am1), and
+shrines built for religious purposes, even if they are strictly speaking not temples in the
+context of Mandarin or Cantonese languages. The legal definition of Hong Kong’s Chinese
+Temples Ordinance follows the more liberal usage of the term [29].
+There are more than 300 registered Chinese temples; the largest grouping is managed
+by The Chinese Temples Committee, established in 1928. Most temples were built before
+the 1950s on sites that were originally on seafronts or grounds relatively empty and far
+from residential areas. With the city’s extensive urban development, they are now typically
+surrounded by residential, commercial, and industrial buildings [13,30,31]. Today, many
+local residents are secularised, and attending Chinese temples might for them be more an
+expression of respect for tradition, which is an important matter, rather than an activity
+borne out of religious fervour [32].
+1.2. Site Characteristics
+One of the oldest and largest Chinese temples in Hong Kong is Wong Tai Sin Temple
+黃大仙祠(wong4 daai6 sin1 ci4; henceforth abbreviated as WTS). The name translates
+as ‘Wong’s great immortal shrine’ in honour of a shepherd who, around 2300 years ago,
+healed the sick and became a Taoist deity. Literally, 黃means ‘yellow’, which is a common
+Cantonese name [33]. WTS is situated in the northern part of Kowloon peninsula towards
+Lion Rock Country Park, shown in Figure 2. The first structures on the site were erected
+in 1921. Today, the temple compound covers an area of approximately 18,000 m2, with
+multiple buildings including the Main Temple (嗇色園黃大仙祠sik1 sik1 jyun4 wong4
+daai6 sin1 ci4), water features, and a park, Good Wish Garden (從心苑cung4 sam1 jyun2).
+The architecture is traditional, with red pillars, a gold-coloured roof with blue friezes,
+yellow latticework, and multi-coloured carvings. The distinct colours can be seen in the
+aerial photo in Figure 3.
+
+Sustainability 2025, 17, 7564
+21 of 51
+Figure 2. Hong Kong with Kowloon and Wong Tai Sin (yellow dot) at the centre.
+Figure 3. Built-up urban environment on all sides of Wong Tai Sin. Note the gold-coloured roof of
+the main temple, the green-roofed buildings around it, the park to the north, and the large highway,
+Lung Cheung Road, to the south.
+WTS is a well-known institution that, in many respects, exemplifies traditional Chinese
+temples. Originally serving local residents, WTS has since attained such prominence that
+the surrounding urban area has adopted its name. Currently, it ranks among the ten
+most significant tourist destinations in Hong Kong, attracting over three million visitors
+
+Sustainability 2025, 17, 7564
+22 of 51
+annually. Consequently, diverse groups of people engage with the temple in varied ways,
+coexisting within the same establishment. The sounds and smells at WTS emanate from
+distinct practices that are typical for Chinese temples (such as music, ritual drumming, and
+incense burning), various other human activities (crowd voices and sounds from traffic or
+construction), and from nature. Whilst these sounds and smells form an integral part of
+cultural and religious expressions, they may in some cases bring nuisance or even negative
+health impacts (such as respiratory diseases) [30,34].
+With more than 10,000 visitors each day, WTS is a prominent and bustling shrine,
+renowned for its claim to “make every wish come true upon request” 有求必應(jau5
+kau4 bit1 jing3). The photos in Figures 4 and 5 give an impression of its colours, layout,
+and activities. The temple is unique in that it embraces three major religions—Taoism,
+Buddhism, and Confucianism—with halls dedicated to deities from each, such as the Three
+Saints Hall 三聖堂(saam3 sing3 tong4), which dates from 1972. The complex is managed
+by the religious charitable organisation Sik Sik Yuen 嗇色園(sik1 sik1 jyun4), promoting its
+function as a symbol of Hong Kong identity. WTS is notable for being the only temple in
+Hong Kong authorised to conduct Taoist wedding ceremonies, and its ‘beliefs and customs’
+have been listed as an intangible cultural heritage of China. [35,36].
+Figure 4. Visitors in front of the Main Hall, view towards the north.
+Figure 5. Water features and park, view towards the south.
+
+Sustainability 2025, 17, 7564
+23 of 51
+2. Materials and Methods
+The mixed-methods approach employed in this study involved multiple steps. To
+give a better understanding of the process, Figure 6 illustrates the overall structure and
+sequence from field data collection via analysis and modelling to integrated interpretation.
+Figure 6. Flowchart of the study.
+2.1. Field Data Collection
+Acoustic measurements, audiovisual recordings, soundscape and smellscape ratings,
+GPS location, timestamp, and observational remarks were annotated at each location using
+a field protocol in QuestionPro. We noted temperature, rainfall, and air quality for each
+day of visit. Data collection followed best practices [1,37–39], including the capture of
+360◦video and 3D audio (first-order Ambisonics) at many of the locations; however, these
+recordings are not part of the present study.
+Figure 6 gives an overview of the temple site indicating the main function of buildings
+and open areas. Note that only those in the centre (Park with water features, Divination
+outlets, Main Temple, Prayer area, Secondary temple, Open area) are within the WTS
+compound proper, surrounded by various zones and transport (Road, Pedestrian road,
+Construction sites, Temporary housing, Plaza, Highway, MTR, Shopping mall, Plaza,
+Residential highrise).
+2.2. Acoustic Measures
+Sound pressure level (Level-equivalent A-weighted and C-weighted SPL) measure-
+ments were made with an iTestMic2 connected to the ‘SPL Pro’ app on iPhone and, in some
+cases, a Type 2 SPL meter. Before field collection commenced, the microphone gains of all
+SPL meters were calibrated using an Extech 407744 Sound Calibrator.
+2.3. Soundscape Ratings
+Pleasantness, Eventfulness, and Sound type were estimated following recommenda-
+tions in the International Organisation for Standardisation [40]. Our protocol used nine-step
+Likert scales for the eight unipolar scales underpinning Pleasantness and Eventfulness
+(labelled −4 = Strongly disagree, −2 = Somewhat disagree, 0 = Neither agree nor disagree,
+2 = Somewhat agree, 4 = Strongly agree). Note that Pleasantness and Eventfulness are
+construed as two orthogonal bipolar dimensions, calculated from ratings on eight unipolar
+scales [41,42]. For the five Sound types (Traffic noise, Fan noise, Other noise, Sounds from
+human beings, Natural sounds), 9-step Likert scales were similarly used (labelled 0 = Do
+not hear at all, 2 = Only a little, 4 = Moderately, 6 = A lot, 8 = Dominates completely).
+
+Sustainability 2025, 17, 7564
+24 of 51
+2.4. Smellscape Ratings
+For on-site smellscape ratings, we started with a ‘smellwheel’ [43], which we had used
+in previous works [13,17]. For the present case study, we operationalised a set of smell
+rating scales proposed by Zarzo [44]. To judge the limitations in their applicability to the
+present application in the field, we briefly describe their design.
+Humans possess a physiological capacity to detect and distinguish a vast number of
+smells. However, people’s ability to identify and describe individual smells or complex
+mixtures is relatively limited [20]. Over forty years ago, Dravnieks and colleagues [45,46]
+compiled an extensive ‘Smell Atlas’ assigning hedonic values (pleasantness ratings) to various
+odorous stimuli, including food items (such as lemon, dill, fried chicken, sour milk), non-food
+items (such as paint, cat urine, leather, tar), as well as adjectives not tied to specific sources
+(such as warm, stale, heavy). In 2021, Zarzo [44] re-analysed the atlas with a large sample
+rating 160 stimuli using 146 descriptors. Through principal component analyses on this
+high-dimensional dataset, they categorised smell compounds into a parsimonious model of
+24 classes, which forms the foundation for our field ratings of environmental smells. The smell
+items in our field protocol thus fall into three types. Firstly, Pleasant is a single scale to estimate
+the general pleasantness of the smellscape. Secondly, a set of 10 scales cover non-food smell
+sources: Floral, Musk, Woody, Camphoraceous, Chemical solvent, Burnt, Sulfidic, Animal,
+Sickening, and Foetid decay. Thirdly, 13 scales cover food-related smell sources: Fruity, Citrus,
+Spicy, Balsamic.vanilla, Balsamic.caramel, Herbaceous, Green, Buttery, Nutty, Cooked.meat,
+Fatty, Fishy, and Sour. The presence of each smell is rated on a 9-step Likert scale (0 = Not
+present, 2 = A little, 4 = Some, 6 = A lot, 8 = Extremely much). Given the constraints of how
+the 24-categories model was constructed, the ‘Zarzo scales’ that we have employed here are
+not expected to provide a detailed description of complex smellscapes in general. It is likely
+that the characteristics of any specific site may warrant a more narrow or expanded set of
+descriptors and rating scales, which may be determined before data collection (e.g., based on
+previous studies) or afterwards (e.g., based on further dimensionality reduction).
+To improve the quality of smellscape annotations using this operational protocol,
+the researchers devoted considerable time to structured ‘olfactometry panel training’,
+following the recommendations of Belgiorno and collaborators [47]. The team’s individual
+skills and olfactory sensitivity were developed over approximately 15 training sessions
+conducted in the laboratory, each lasting about two hours and held roughly every other
+week, both prior to and during the present case study. Each session comprised several
+tasks. Firstly, blind smell tests were performed using both self-collected samples (such as
+soil, fruit, cardboard, coffee powder, etc.) and the ‘scratch-and-sniff’ booklets from the
+University of Pennsylvania Smell Identification Test (UPSIT; [48]). The accuracy of smell
+identification was monitored for each member, showing general improvement over time.
+Secondly, group discussions were held to share and refine descriptive vocabulary and
+deepen understanding of the smells, their chemical nature, and cultural significance. This
+training enhanced the members’ awareness of smells and their confidence in conducting
+smellscape annotations. Thirdly, a web-based interface for in-field smellscape annotation
+was developed (see Supplementary Materials File S2).
+2.5. Interviews
+We developed a method for interviewing visitors to gain insight into their experiences,
+memories, and opinions of Wong Tai Sin Temple [49,50]. Using convenience sampling,
+members of the research team individually approached a diverse range of visitors, both
+inside and in the immediate vicinity of the temple (see Figure 4). After obtaining consent to
+participate and to be audio recorded, a semi-structured interview was conducted covering
+four thematic areas: the interviewee’s personal background, their expectations, their thoughts
+
+Sustainability 2025, 17, 7564
+25 of 51
+and feelings regarding sounds and the soundscape, and their impressions of smells and the
+smellscape (see Supplementary Materials File S4). The conversation was always held in a
+language that was comfortable for the participant and within the capability of the researchers
+(English, Cantonese, Mandarin, Swedish, or French). Interviewees were free to discontinue
+at any point and were not compensated. Interviews typically lasted four to six minutes.
+Audio recordings were later processed for clarity and transcribed. By engaging with diverse
+stakeholders—including local residents and visitors, tourists, worshippers, staff members,
+and merchants—our aim was to capture a broad spectrum of perspectives on the sounds and
+smells of WTS, in particular, and of Chinese temples in general.
+2.6. Analysis and Topic Modelling
+The analysis of interview responses was based on classical content analysis involving
+interpretative close-reading [51] and natural language processing with BERTopic [52]. Sen-
+timent analysis was conducted both through interpretative ratings by the researchers and
+automatically using natural language processing tools. During the analysis, our approach
+alternated between interpretative and computational methods. Details are provided below.
+3. Analysis and Results—Field Data
+The team visited WTS on eight separate occasions between 18 November 2024 and
+20 January 2025, all weekdays in the early afternoon, around three hours each time. The
+winter weather in Hong Kong was typical: mild, dry, and sunny [53]. The mean temperature
+was 21 ◦C (range 18.7 to 25.5 ◦C) and precipitation was much less than 1 mm/day, except
+for one day, which received 7.3 mm of rain in the night and morning well before our visit.
+The Hong Kong Air Quality Health Index (AQHI) is reported on a scale from 1 to 10+
+(lower is better). During the three months of our visits, the mean AQHI was 4.2 and at no
+time (measurements are reported every hour) was it above 6.
+Field data were collected at 197 locations inside the temple compound (prayer areas,
+park, open areas), and on all four sides around it (roads, residential areas, large open plaza
+outside the main entrance). See Figure 7 and further on. An overview is given in Table 1.
+Table 1. Overview of mean, median, interquartile range, and unit for 13 acoustic, soundscape, and
+smellscape variables for 197 locations. See the sections below for details.
+Type
+Variable
+Mean
+Median
+Low Quartile
+High Quartile
+Unit
+Acoustic
+LAeq
+65.3
+65.15
+63.2
+67.1
+dBA, 1 min.
+LCeq
+74.33
+73.2
+71.8
+77.1
+dBC, 1 min.
+Soundscape
+Pleasantness
+0.01
+0.0
+−0.1
+0.1
+−1–+1
+Eventfulness
+0.02
+0.02
+−0.09
+0.13
+−1–+1
+Humans
+4.9
+5.0
+3.0
+6.0
+scale 1–9
+Nature
+2.86
+3.0
+1.0
+4.0
+scale 1–9
+Traffic
+3.59
+3.0
+1.0
+6.0
+scale 1–9
+Fan
+2.25
+1.0
+1.0
+3.0
+scale 1–9
+Other
+4.88
+5.0
+3.0
+7.0
+scale 1–9
+Smellscape
+Pleasant
+2.0
+2.0
+1.0
+3.0
+scale 1–9
+FA1. Off-putting/chemical
+0.0
+−0.27
+−0.71
+0.52
+latent factor
+FA2. Incense
+0.0
+−0.16
+−0.77
+0.59
+latent factor
+FA3. Grassy
+0.0
+−0.11
+−0.68
+0.54
+latent factor
+
+Sustainability 2025, 17, 7564
+26 of 51
+Figure 7. Layout of functions at WTS.
+3.1. Imputing Data
+For 18 locations, a SPL meter was not available but smellscape and soundscape ratings
+were made. Together with one technical dropout, these missing data (9.6% of acoustic
+measurements) were imputed with median values across the site (since dB is a logarithmic
+scale). In ratings of the soundscape, usage of the web interface may have caused some
+of the missing data. Annotators occasionally used the NA option (i.e., ‘no response’) in
+the sense of ‘Do not hear [this sound type] at all’. Missing data for Sound type (9.0% of
+ratings on five scales) were imputed by means. The comparatively few missing ratings for
+Pleasantness and Eventfulness (5.4%, on eight semantic scales) were also imputed by means.
+In smellscape ratings, the imprecision in our web interface design may have caused most
+of the missing data (12.8% of ratings on 24 Zarzo scales). The relatively high percentage
+was likely due to some team members using the NA option (‘no response’) as a shorthand
+for ‘[this smell is] Not present’. The incoherence in usage within the team was discovered
+about halfway into the data collection, but not seen as a problem. Therefore, these data
+points have been imputed as 0 (zero) in the analysis.
+3.2. Acoustic Measures
+One-third of SPL measurements were made with an iTestMic and two-thirds with a
+Type 2 m, all calibrated. As can be seen in Figure 8, LAeq (1 min.) was on average 66.3 dB,
+in a range between 54 and 78 dB, and LCeq (1 min.) was on average 75.5 dB, in a range
+between 67 and 90 dB.
+
+Sustainability 2025, 17, 7564
+27 of 51
+LAeq
+50
+60
+70
+80
+90
+LCeq
+50
+60
+70
+80
+90
+Figure 8. Histograms of LAeq and LCeq (1 min) at 197 locations.
+Hong Kong’s Environmental Impact Assessment Ordinance stipulates a daytime
+acceptable noise level (ANS) of 60 dBA [54,55]. Within our dataset, no fewer than 92% of
+the LAeq measurements exceeded this threshold, with 58% surpassing 65 dBA. Additionally,
+the Noise Control Ordinance (NCO) [56] regulates noise generated by construction sites that
+affect ‘noise sensitive receivers’ such as residential buildings; however, it does not extend
+to noise originating from locations such as urban parks or temples, nor to external noise
+penetrating these sites. This regulatory framework contrasts with that of the European
+Union, where directives aim to protect designated ‘quiet areas’ [57]. For instance, some EU
+member states or cities enforce substantially lower noise limits, often set at 50 dBA or even
+45 dBA [58]. In this context, the noise levels observed in Kowloon and Hong Kong Island
+are generally markedly higher [39,55].
+The geographical distribution of sound levels across the WTS site is illustrated in
+Figure 9. Compare with the overview of functional areas illustrated in Figure 4. LAeq
+is represented by the left half (light grey) of the filled circles, and LCeq by the right half
+(dark grey). We may note that towards the centre of the illustration, i.e., inside the temple
+compound, the LAeq values are as large as the LCeq. This indicates that most of the energy
+is within the A-weighted profile, which is typical for voices and music. By contrast, towards
+the upper area near the main road on the north side, LCeq is higher than LAeq, indicating
+prevalence of low-frequency energy, which is typical for street noise. The same is true for
+the lower right side, where we find the overall highest levels close to the highway on the
+south side.
+3.3. Soundscape Ratings
+Pleasantness and Eventfulness were calculated from ratings on eight Likert scales [15,59].
+The geographical distribution can be seen in Figure 10. We note that Pleasantness was
+generally higher than Eventfulness in most parts of the temple compound except the road
+area, main prayer area, the central open area, and the south-east part of the plaza that was
+near a construction site and highway.
+Sound type ratings were made in categories of Humans, Nature, Traffic, Fan, and
+Other [40]. Note that ‘music’ falls under the last category. A Kruskal–Wallis test showed
+that there were differences between categories (χ2(4) = 201, p ≈0 ***). Subsequent two-
+
+Sustainability 2025, 17, 7564
+28 of 51
+sample post-hoc tests were conducted with correction for family-wise error inflation. The
+amounts of Humans and Other were not different (p = 0.69 n.s.), and neither were Nature
+and Traffic (p = 0.12 n.s.) different. The former pair (Humans + Other) was more common
+than the latter (Nature + Traffic) with a difference corresponding to 1.7 steps on the Likert
+rating scale (range: 1 . . . 9) (χ2(1) = 93, p ≈0 ***), which was again more common than Fan
+(χ2(1) = 18, p = 0.00002 ***) with a difference of 1.0 steps. See Figure 11 for a boxplot.
+LAeq | LCeq
+Figure 9. Geographical distribution of sound pressure level at the site: LAeq (left parts, light grey)
+and LCeq (right halves, dark grey) at 178 locations. The size of halfcircles is proportional to Leq dB
+value, A- and C-weighted.
+Pleasantness | Eventfulness
+Figure 10. Pleasantness (left part of circles) and Eventfulness (right part of circles) at 197 locations.
+The half-moon shapes are proportional in size to how pleasant or eventful the location was rated.
+
+Sustainability 2025, 17, 7564
+29 of 51
+Humans
+Nature
+Traffic
+Fan
+Other
+2
+4
+6
+8
+Figure 11. Ratings of Sound type in five categories. Boxplots with median and interquartile range
+box; violin plots with mean and 95% confidence interval around the mean.
+Since there were few sounds in the Fan category, it will not be further investigated.
+While the overall amounts of Traffic and Nature as well as Humans and Other, respectively,
+did not significantly differ, their geographical distributions are of interest, as can be seen in
+the maps in Figure 12.
+Nature | Traffic
+Humans | Other
+Figure 12. Geographical distributions of Sound type at 197 locations. (Left panel): Nature (green)
+and Traffic (purple). (Right panel): Humans (blue) and Other (yellow). The size of half-moon shapes
+is proportional to the amount of each Sound type at that location.
+In the left panel, we may observe that traffic sounds dominate in the southern part
+of the site, near the highway. Natural sounds dominate in the central park area of the
+temple compound. Despite the proximity to the large road on the north side, traffic noise
+does not mask natural sound sources mainly thanks to a large difference in elevation
+and a tall concrete wall. By comparison, traffic noise from the southern highway faces
+no such obstacles and can penetrate into the main central areas of the temple compound.
+Note also that there are some sites in the lower right area with lots of nature sounds;
+these are large flocks of birds in trees aligning the major road. In the right panel, we
+can compare the distributions of human sound sources, i.e., voices, and ‘other sounds’,
+which, in this case, are mainly background music pumped out from the many temple
+compound loudspeakers. The difference in geographical distribution is not as striking as in
+the previous example. There is a tendency of human sounds dominating the central area in
+
+Sustainability 2025, 17, 7564
+30 of 51
+front of the main temple, as well as on the plaza outside the main gate. In the park area,
+there are comparatively fewer human sounds (typically, voices).
+3.4. Smellscape Ratings
+The protocol for ratings of environmental smell sources was based on the 24 ‘Zarzo
+scales’ [44]. See Method section for details, and Supplementary Materials File S3 for
+plots of each rating scale at the WTS site. Meanwhile, Figure 13 shows boxplots of the
+ratings on each of the smell scales. It is clear from inspecting the boxplots that several
+categories of smell, such as Fetid, Fruity, or Fishy, were hardly detected at all, and thus, the
+corresponding scales would not be useful to describe the smellscape at WTS. This was by no
+means surprising, and future case studies might want to optimise their smellscape protocol
+by considering a smaller and more specific subset. We decided to retain the twelve scales
+with the highest means for the next step in the analysis. They were Burnt (mean = 4.07),
+Musk (3.6), Woody (3.11), Chemical (2.51), Sulfidic (2.02), Camphor (2.01), Pleasant (2),
+Herbal (1.91), Floral (1.87), Sour (1.81), Green (1.8), and Sickening (1.68).
+Pleasant
+Floral
+Musk
+Woody
+Camphor
+Chemical
+Burnt
+Sulfidic
+Animal
+Sickening
+Fetid
+2
+4
+6
+8
+Pleasantness & Non-food odours
+Fruity
+Citrus
+Spicy
+Vanilla
+Caramel
+Herbal
+Green
+Buttery
+Nutty
+Cooked
+Fatty
+Fishy
+Sour
+2
+4
+6
+8
+Food odours
+Figure 13. Boxplots of smell ratings across the WTS site according to 24 Zarzo scales. The filled
+circles represent mean values. Note that the scales are grouped into three kinds: Pleasant, Non-food,
+and Food.
+Since Pleasant is a non-source-specific rating, we treated it separately. The other 11 re-
+tained smell scales (listed above) were subjected to exploratory factor analysis (EFA).
+In EFA, latent factors are theoretical constructs that explain the observed data patterns.
+It assumes that the observed variables are influenced by these unobserved factors plus
+unique error variance. The goal is to model the structure of relationships and understand
+the underlying causes or constructs behind the data. For the current data, a Bartlett test
+(K(10) = 285, p ≈0 ***) provides evidence that factor analysis would yield meaningful
+
+Sustainability 2025, 17, 7564
+31 of 51
+latent factors. A scree plot comparing actual and simulated data, as well as the Very Simple
+Structure metric and BIC (https://doi.org/10.1207/s15327906mbr1404_2), indicated that
+three factors would be appropriate. Boot-strapped parallel analysis, comparing actual
+and simulated factor structures (https://doi.org/10.1007/BF02289447), determined which
+scales to include in each. The best model with three latent factors explained 40.8% of
+total variance.
+The first latent factor explained 20.8% of the total variance and was mainly defined
+by ratings on four rating scales: Sulfidic (loading = 0.93), Sour (0.74), Chemical (0.68), and
+Sickening (0.45). As discussed by Zarzo [44], what these descriptors have in common is
+that they relate to unpleasant, pungent, or irritating sensory qualities, and most likely
+unpleasant odours that provoke discomfort. Therefore, the latent factor was labelled Off-
+putting/chemical. The second latent factor, explaining 16.8%, was defined by Burnt (0.79),
+Woody (0.78), and Musk (0.45). These descriptors are generally related to warm, natural,
+and smoky aromas. In the present context, they were clearly reflective of the practice
+of burning incense, and therefore we labelled this latent factor Incense. The third latent
+factor explained 10.4% and was defined by the scales Herbal (0.75) and Green (0.53); it was
+labelled Grassy.
+Figure 14 shows the geographical distribution for Pleasant ratings and the three la-
+tent factors. We may note that Incense was concentrated in the central areas of the com-
+pound, near the three main altars where joss sticks are burned as part of ritual prayers.
+Off-putting/chemical was prominent in front of the Main Altar, which has the highest con-
+centration of crowds of people. It was also prominent at the periphery near the main road to
+the north and the highway to the south. Grassy was dominant in the park area to the north.
+Pleasant smells were not clearly clustered, though appeared to be stronger in the middle
+open area (somewhat similar to Incense) and in the park (similar to Grassy).
+Pleasant
+Off-putting/chemical
+Incense
+Grassy
+Figure 14. Ratings of smellscape at 197 locations, in terms of General pleasantness and the three
+latent smell factors Off-putting/chemical, Incense, and Grassy. The size of circles is proportional to
+the intensity of smell sources or pleasantness.
+
+Sustainability 2025, 17, 7564
+32 of 51
+3.5. Canonical Correlation Analysis
+We turned to Canonical Correlation Analysis (CCA) [17,60] to explore the degrees
+of overall association between the three different kinds or modalities of data that the
+analysis had yielded so far, i.e., acoustic measurements, soundscape ratings, and smellscape
+ratings. Like the exploratory factor analysis (EFA) employed in the previous step, CCA
+is a multivariate dimensionality reduction technique to identify linear combinations of
+observed variables that represent underlying latent variables (factors or canonical variates).
+While EFA examines relationships within a single set of variables, CCA compares two
+sets that may have differing numbers of variables, and finds the projection that accounts
+for the most of the covariance between the two. The set of canonical correlations indicate
+the strength of association between two sets of variables. The first canonical correlation
+captures the strongest linear relationship between the two variable sets and is usually the
+most important.
+The dataset comprised 197 observations, each corresponding to a distinct data collec-
+tion location at WTS. Acoustic measurements were represented by two variables, namely
+LAeq and LCeq. To characterise the soundscape, we included six variables—Pleasantness,
+Eventfulness, Humans, Nature, Traffic, Other (excluding Fan)—while the smellscape was
+described by Pleasant alongside the three latent factors, namely Off-putting/chemical,
+Incense, and Grassy. All analyses were conducted using cancor in R [61].
+In the first CCA, we compared acoustic measurements with soundscape ratings. The
+first canonical correlate was 0.62, pointing to an overall strong relationship. In the pattern
+of covariances (between the variables of each matrix and the first canonical variate), it was
+found that loadings were high onto LAeq (0.73) and LCeq (0.95) and, at the same time, high
+onto Traffic (0.86) and medium negatively onto Nature (−0.46). This indicates that noise
+levels were strongly associated with more Traffic sounds and, to some extent, with fewer
+Nature sounds as well.
+In the next case, we compared acoustic measurements with smellscape ratings. The
+first canonical correlate was 0.39, indicating a weak relationship. In the pattern of covari-
+ances, the loading was high onto LAeq (0.95) and, at the same time, high negatively onto
+Grassy (−0.73). This indicates that lower noise levels were found at locations with more
+Grassy smells, but note that the overall association was weak.
+Lastly, we compared soundscape and smellscape ratings. The first canonical correlate
+was 0.64, indicating a strong overall relationship with an interesting pattern of covariances.
+Loadings were high negatively for Traffic (−0.86) and Other sounds (−0.55, mostly mu-
+sic) and, at the same time, high negatively for Off-putting/chemical smells (−0.89) and
+medium for Pleasant smells (0.48). The signs for these loadings indicate that locations
+with more Traffic and Other sounds also had more Off-putting/chemical smells that were
+less Pleasant.
+4. Analysis and Results—Interviews
+In addition to collecting field data, the team members also conducted a total of
+54 interviews with WTS visitors and stakeholders, within the temple compound and at
+the plaza just outside the main entrance. The template for the semi-structured interviews
+is given in Supplementary Materials File S4. Interviewees were mostly individuals (25 fe-
+males, 22 males), two people together (6), and, on one occasion, a group (see Figure 15).
+Typically, one individual provided most of the responses. In most cases, the interviewees
+were tourists (32), while in others, they were local visitors (9), workers (9), volunteers (3),
+or unknown (1). Age was between 20 and 80, with a median at 35 years. Nationality
+was mostly Hong Kong SAR (18) or Mainland PRC (14), followed by Other Asian (7),
+European (12), and unknown (3). Their ethnicity was Chinese (33), Caucasian (9), Other
+
+Sustainability 2025, 17, 7564
+33 of 51
+Asian (5), and unknown (7). For details, see Supplementary Materials File S5. Interviews
+were conducted in English (20), Mandarin Chinese (18), Cantonese (15), and French (1).
+Transcriptions were produced either manually by ear or using automated speech-to-text
+tools (Sonix.ai or Capcut.com), then translated into English with the assistance of Perplex-
+ity.ai and subsequently verified by the team’s multilingual members. All analyses were
+conducted on the English versions. See Supplementary Materials File S1 for a datasheet
+containing all information, including transcriptions in the original languages alongside
+their translations.
+Figure 15. One of the authors with a group of visitors, near the shops outside the main gate. View
+towards the west, with MTR to the left and mall to the right.
+4.1. Thematic Analysis
+The interview dataset was organised in 1511 rows with one statement per row. State-
+ments mainly alternated between interviewer (728 rows) and interviewee (783 rows). Each
+interview contained on average 25 statements, in a range between 5 and 85. Text analysis
+was made on the interviewee statements (i.e., responses only) using both automatic (natural
+language processing) and qualitative–interpretative methods.
+The median number of responses per interview was 12, in a range between 3 and
+52. The median number of words per interview was 202, in a range between 31 and
+758. First, we applied a Bag-of-Words (BoW) approach using koRpus [62]. In total, the
+dataset of interview responses contained 15015, and 2135 were different (1572 after lem-
+matisation). Amongst 756 unique nouns, the most common were people (130, 4.7%),
+incense (118, 4.2%), temple (102, 3.7%), time (79, 2.8%), yes (66, 2.4%), place (58, 2.1%),
+smell (50, 1.8%), and sound (46, 1.7%). There were 316 unique adjectives, and the most
+common were good (86, 6.8%), different (67, 5.3%), much (60, 4.7%), other (47, 3.7%),
+many (42, 3.3%), nice (33, 2.6%), first (30, 2.4%), okay (24, 1.9%), chinese (23, 1.8%). These
+frequency counts gave the initial direction for interpretation and defining emergent topics
+and CA codes.
+
+Sustainability 2025, 17, 7564
+34 of 51
+4.1.1. Topic Modelling
+To systematically identify the key themes discussed by interviewees, we conducted
+topic modelling of the 783 responses. The input text documents were preprocessed in R [61]
+to allow a comprehensive custom tokenisation (e.g., ’Wong Tai Sin’ →’wong_tai_sin’),
+careful handling of negations (e.g., ‘cannot’ →‘can not’, ‘haven’t’ →‘have not’), and
+lemmatization using the koRpus library [62]. We then employed BERTopic v0.17.0 [52], an
+advanced topic modelling technique that combines transformer embeddings of text docu-
+ments with clustering and dimensionality reduction to extract interpretable topics using a
+custom class-based variation of TF-IDF (Term Frequency-Inverse Document Frequency).
+We combined BERTopic clustering in Google Colab (https://colab.research.google.
+com, accessed on 9 June 2025) with libraries including UMAP (Uniform Manifold Approxi-
+mation and Projection) to perform non-linear dimensionality reduction [63]; HDBSCAN
+(
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

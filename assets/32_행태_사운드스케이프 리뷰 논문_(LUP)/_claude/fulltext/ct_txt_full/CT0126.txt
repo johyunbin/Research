@@ -1,0 +1,1598 @@
+Effects of noise on pedestrians in urban environments where road trafﬁc is
+the main source of sound
+David Montes González, Juan Miguel Barrigón Morillas, Guillermo Rey-Gozalo⁎
+Laboratorio de Acústica (Lambda), Departamento de Física Aplicada, Instituto Universitario de Investigación para el Desarrollo Territorial Sostenible (INTERRA), Escuela
+Politécnica, Universidad de Extremadura (University of Extremadura), Avda. de la Universidad, s/n, 10003 Cáceres, Spain
+H I G H L I G H T S
+G R A P H I C A L
+A B S T R A C T
+• Increase in some noise effects perceived
+by pedestrians with building height
+• Signiﬁcant negative correlation between
+temperature and some noise effects
+• Good explanations of the variability of
+noise effects from some acoustic variables
+• Urban-environmental models to signiﬁ-
+cantly explain the perception of noise ef-
+fects
+• Categorisation method could help to pre-
+dict noise effects on pedestrians in cities.
+A B S T R A C T
+A R T I C L E
+I N F O
+Editor: Pavlos Kassomenos
+Keywords:
+Effects of noise
+Noise annoyance
+Road trafﬁc noise
+In situ survey
+Urban variables
+Environmental variables
+Research combining the measurement of objective variables with surveys of people's perception of noise on city streets
+is useful in terms of understanding the impact of urban noise on the population and improving the environment. Al-
+though previous investigations have analysed the factors that may inﬂuence the noise annoyance of citizens, it is usu-
+ally considered as a global aspect. This paper presents research based on in situ surveys and objective variables (urban,
+meteorological and noise indicators) to evaluate some speciﬁc effects of noise on pedestrians in urban environments
+where road trafﬁc is the main source of sound. The results show signiﬁcant relationships of the effects of noise and per-
+ceptions of how noisy urban environments are with variables such as building height, road category and temperature,
+with correlation coefﬁcients ranging from 0.37 to 0.64. Signiﬁcant correlations between these subjective variables and
+the acoustic variables were also found, with explanations of variability that reached values of up to 50 %. A multivar-
+iate analysis revealed that both urban variables (especially the category of street) and environmental variables can be
+an alternative or a complement to models predicting the effects and perception of environmental noise based only on
+acoustic variables.
+1. Introduction
+Environmental noise pollution in urban contexts is one of the challenges
+facing society today, mainly due to its impact on human health and well-
+being (EEA, 2020). Infrastructures for the transport of people and goods
+are considered to be the main source of noise in this type of environment.
+Science of the Total Environment 857 (2023) 159406
+⁎ Corresponding author.
+E-mail address: guille@unex.es (G. Rey-Gozalo).
+http://dx.doi.org/10.1016/j.scitotenv.2022.159406
+Received 11 May 2022; Received in revised form 20 September 2022; Accepted 9 October 2022
+Available online 12 October 2022
+0048-9697/© 2022 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+In fact, transport noise has become the second most important environmen-
+tal source of ill health in Europe, after ﬁne particulate matter pollution
+(WHO, 2018). Recent research keeps pointing out a close relationship be-
+tween trafﬁc noise and different types of diseases and health disorders
+such as anxiety (Lan et al., 2020) (Hegewald et al., 2020), depression and
+psychological problems (Eze et al., 2020) (Baudin et al., 2018), obesity
+(Cai et al., 2020) (Foraster et al., 2018), hypertension and cardiovascular
+risk (Baudin et al., 2020) (Khosravipour and Khanlari, 2020), annoyance
+and sleep disorders (Paiva et al., 2019) (Basner and McGuire, 2018), and
+metabolic diseases (Huang et al., 2020) (Thiesse et al., 2018). Trafﬁc
+noise is not an isolated issue, and is associated with other aspects such as
+urban planning (Renterghem et al., 2020) (Barrigón Morillas et al.,
+2021b) (Yuan et al., 2019), air quality (Silva and Mendes, 2012), socio-
+economic factors (Xu et al., 2020) (Tong and Kang, 2021) and weather
+conditions (Guan et al., 2020) (Sánchez-Fernández et al., 2021).
+The study of environmental noise levels in cities using the noise indica-
+tors for day (Ld), evening (Le), night (Ln) and day-evening-night (Lden) estab-
+lished in the European Noise Directive (END, 2002) is often carried out by
+means of strategic noise maps considering the different sources of noise
+(Ozkurt et al., 2014) (Paschalidou et al., 2019) (Hinze et al., 2022) and
+following the guidelines of international guidelines and standards (WG-
+AEN (Working Group Assessment of Exposure to Noise), 2007) (ISO
+1996-2, 2017). In the speciﬁc case of road trafﬁc noise, which is considered
+to be the main source of environmental noise (EEA, 2014), simulations
+using commercial software are carried out for this purpose taking into
+account different variables such as vehicle ﬂow (Ascari et al., 2015)
+(Fiedler and Zannin, 2015), sound power (Barrigón Morillas et al.,
+2021a), vehicle speed (Ögren et al., 2018), and the characteristics of the
+façades (Calleri et al., 2018). These noise models are validated through
+long- and short-term in situ measurements (Zagubień and Wolniewicz,
+2021) (Montes González et al., 2020a) (Aletta et al., 2020) that follow
+different sampling strategies (Quintero et al., 2019) (Gómez Escobar
+et al., 2012b) and measurement procedures (Montes González et al.,
+2020b) (ANSI S12.18, 1994). Based on the results of noise maps for the
+exposure of the population to noise pollution, action plans for the mitiga-
+tion of environmental noise are then designed (Ögren et al., 2018)
+(Vázquez et al., 2016). In addition, initiatives related to urban planning
+that focus on the development and promotion of quiet areas have been pro-
+posed in the scientiﬁc literature to try to make these types of environments
+more pleasant for the resident population and to improve the sense of well-
+being (Calleja et al., 2017) (Rey Gozalo et al., 2019) (Vogiatzis and Remy,
+2017) (Hong et al., 2020).
+However, there is a growing tendency to complement this type of
+research based on objective noise indices with studies that allow us to
+obtain an assessment of people's satisfaction with the sound quality of
+urban spaces (Koprowska et al., 2018) (Youssouﬁet al., 2020) (Aletta
+et al., 2018). The concept of sound quality can be understood as the degree
+of adequacy of the acoustic characteristics of a space to the activities carried
+out in the area. In this regard, conducting surveys on city streets is an
+approach that provides interesting information for an analysis of the degree
+of satisfaction and annoyance of residents, not only in relation to the sound
+environment but also to other features such as cleanliness, air quality,
+aesthetics of the environment, odours, etc. (Lionello et al., 2020) (Engel
+et al., 2020) (Jiang et al., 2016) (Ba and Kang, 2019).
+Noise indicators such as LAeq, LAFmin, LAFmax y LN are commonly used in
+environmental noise studies (Paszkowski et al., 2018) (Maristany et al.,
+2016). The effects of noise are generally measured based on indicators
+that take the equivalent A-weighted sound level as a reference (WHO,
+2011) (ISO 1996-2, 2017) (END, 2002), although the maximum sound
+level is also considered in this regard (WHO, 2018). The relationships
+between objective acoustic indices and subjective variables related to the
+effects of noise in cities can be studied in order to analyse which aspects
+can inﬂuence annoyance of citizens and their preferences for the use of
+urban spaces (Bouzid et al., 2020) (Van Gerven et al., 2009) (Estévez-
+Mauriz et al., 2018) (Ma et al., 2021), so that these can be taken into
+consideration by urban planners at the design stage. Most previous research
+has only assessed the overall effect of noise in terms of annoyance, but a
+consideration of more speciﬁc aspects of the effects of noise on people
+may also be of interest. In addition, it is also interesting to analyse the inﬂu-
+ence of environmental and urban variables on the perception or effects of
+noise in the same way as was done with physical characteristics of sound
+and people-related factors (Ouis, 2001).
+This paper presents the results of research carried out by means of in situ
+surveys and measurements in Cáceres (Spain) to assess the effects of noise
+on people in urban environments in which road trafﬁc is the main sound
+source and to study its relationships with urban, environmental and acous-
+tic variables.
+2. Methodology
+2.1. Survey, sampling and data collection procedure
+The methodology followed in this study was based on a process of in situ
+surveys and measurements, carried out simultaneously by four people in
+the streets of Cáceres (Spain), in which values of both subjective and objec-
+tive variables were collected. This study was carried out on working days
+(Monday to Friday) in the time period from 9 a.m. to 7 p.m., during the
+year 2020 (January and February) before the COVID-19 alarm state. The
+sampling points were randomly selected on urban roads with different
+functionality for vehicle mobility. Thus, they were sampled from main
+city streets, Category 1, used for connection to other cities or interconnec-
+tion of preferred streets, to Category 5 streets corresponding to residential
+neighbourhood streets (Barrigón Morillas et al., 2021a). The objective
+was to sample different urban settings with variability in urban and envi-
+ronmental characteristics. For this purpose, 29 different locations were
+sampled in the city of Cáceres as shown in Fig. 1.
+The design of the survey was approved by the ethics and bioethics
+committee of the University of Extremadura (37//2020), and an informed
+consent form was ﬁlled out by each participant in each survey, according to
+the Declaration of Helsinki. The effects of environmental noise on people
+walking down the street was the dimension assessed in the survey using
+nine questions. An 11-point numerical scale was used for each question
+(where 0 was “not at all” and 10 “extremely”). The points on this numerical
+scale are equally spaced and therefore provides a justiﬁcation for treating
+the data as continuous in statistical tests (ISO/TS 15666, 2021). This type
+of scale is more suitable for linear regression analysis (Brink et al., 2016).
+The 11-point numerical scale is recommended by the International
+Standardization Organization (ISO/TS 15666, 2021) and used in current
+studies (Brink et al., 2019) (Schäffer et al., 2020) because it also has advan-
+tages over verbal scales in its comprehension by people of different nation-
+alities (Fields et al., 2001). Face-to-face was the method used for data
+collection in the survey. Any evidence of hearing loss detected by the inter-
+viewer during the presentation or conduct of the survey led to the exclusion
+of the responses obtained. In the ﬁrst seven questions related to effect of
+noise (see Table 1), respondents were asked to what extent or how often
+the environmental noise in that street causes them: a) irritability;
+b) startle; c) annoyance in the ears; d) interrupting a conversation with
+someone nearby; e) raising the volume of their voice to speak with someone
+nearby; f) interrupting a phone conversation; and g) raising the volume of
+their voice on a phone conversation. Respondents were also asked to rate
+their perceptions of the environment was h) in the city in general; and
+i) on that particular street. Other demographic characteristics were also
+collected: age, sex and level of education.
+Different aspects have been considered to justify the representativeness
+of the sample size. Fritz and Mackinnon (Fritz and MacKinnon, 2007) point
+out the importance of having sample sizes necessary for 0.8 power for the
+tests to be used. Therefore, the appropriate sample size for correlation
+and multiple linear regression was determined using G*Power software
+(Kang, 2021). It was deduced that 100 people were required for a power
+of 0.95 and a medium effect size according to Cohen (Cohen, 1988). On
+the other hand, Nunnally (Nunnally, 1978) and Thorndike (Thorndike,
+1982) recommend a sample size 10 times the number of items. The present
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+2
+
+study had 9 items; therefore, the recommended sample would be 90 sub-
+jects. However, Kline (Kline, 1994) suggests sampling at least 100 subjects
+when the number of items is low. Finally, taking into account the number of
+inhabitants of the city of Cáceres and the variability in the scores registered
+in preliminary studies (σ ≈2.8), the estimate of the population mean for a
+sample size of 105 subjects would give an error of 0.5 (Rodríguez del Águila
+and González-Ramírez, 2014). This error is not high and is similar to the
+standard error of the mean that would be obtained in the study. A total of
+105 people were surveyed (44 % of whom were male and 56 % female,
+aged between 17 and 80, with education from primary to university
+level) despite the low response rate (25 %) and the termination of the
+study due to COVID's state alarm. A similar number of surveys were com-
+pleted at each sampling point.
+It is not unusual to ﬁnd previous studies with a sample size similar to
+this study. Fritz and Mackinnon (Fritz and MacKinnon, 2007) show results
+from a review of the survey literature where >50 % of the studies have a
+sample size of <200. Douglas (Douglas and Murphy, 2016), Van Reterghem
+(Van Renterghem and Botteldooren, 2012), Pirrera (Pirrera et al., 2014),
+Tao (Tao et al., 2020) and Paiva (Paiva et al., 2019) carried out survey stud-
+ies in highly populated urban areas with a similar number of surveys to
+show the representativeness of the overall perception in the city where
+each survey was conducted at a different point/household.
+The objective variables were classiﬁed into three different groups (see
+Table 1) and were collected both through a GIS database of Cáceres and
+with visual inspection on site simultaneously with the surveys. First, a set
+of urban variables associated with the features of the street were registered,
+such as the length (L) and width (W) of the street, the average height of the
+buildings (H), the relationship between building height and street width
+(H/W), and the category of street (SC). The streets were classiﬁed into
+the following categories (Barrigón Morillas et al., 2021a):
+• Category 1: Preferential streets for connection with other towns and inter-
+connection of those preferential streets.
+• Category 2: Streets that provide access to major distribution nodes in a
+town or are used as an alternative to category 1 during trafﬁc saturation.
+• Category 3: Streets that lead to regional roads, streets that provide access
+from street categories 1 and 2 to centres of interest in a town (hospitals,
+shopping malls, etc.), and streets that clearly allow communication
+between street categories 1 and 2.
+• Category 4: All of the other streets that clearly allow communication
+between the three previously deﬁned types and the principal streets in a
+town's different districts that were not included in the previously deﬁned
+categories.
+• Category 5: The rest of a town's streets except trafﬁc-restricted streets.
+Next, a group of variables related to environmental conditions were reg-
+istered. The temperature (T), relative humidity (RH) and air pressure (AP)
+Fig. 1. Locations of the surveys and measuring points in Cáceres (from Google Earth).
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+3
+
+were measured at microphone height by a portable weather station, and
+monitoring was carried out to ensure that the wind speed (WS) did not
+exceed 5 m/s. The luminosity (LU) at each measuring point was also logged
+using a luxmeter. Considering that indicated in the Weber-Fechner Law
+(Dehaene, 2003) (Reichl et al., 2010), the logarithm of luminosity
+(logLU) was considered to study its relationship with the effects of noise.
+Finally, different sound indicators were measured using a type 1
+analyser, including the A-weighted equivalent sound level (LAeq), the
+maximum sound level (LAFmax) and the percentile levels (L10, L50 and L90).
+For this purpose, a type 1 sound level meter-analyser was used, and the
+microphone was placed 1.5 m above the ground and at a similar distance
+(2 m from the nearest point of the sound source) from the main sound
+source of road trafﬁc (Montes González et al., 2020b). Fifteen minutes
+sound measurements were made avoiding placing the microphone on
+reﬂective surfaces (Montes Gonzalez et al., 2018). If the microphone was
+placed at a distance between 0.5 and 2 m from the building façade, a correc-
+tion of −3 dB was applied following the recommendations of ISO 1996-2
+(ISO 1996-2, 2017; Montes González et al., 2020a). A veriﬁcation of the
+calibration before and after each series of measurements was carried out
+using a type 1 sound calibrator. The sound measurements were carried
+out simultaneously with the surveys as indicated above. The researcher
+conducting the sound measurements was separated at a sufﬁcient distance
+so that the sound levels registered were not inﬂuenced by the interviewers.
+At least one sound measurement was performed at each sampling point. In
+addition, sound sources were registered during the measurements. Road
+trafﬁc was the main noise source with a signiﬁcant presence at the different
+sampling points. In fact, total trafﬁc ﬂow explained 83 % of the variability
+of LAeq (dB).
+2.2. Statistical analysis
+The average values of the objective and subjective variables registered
+in the measurements performed at each sampling point (N = 29) were
+used in the subsequent descriptive and inferential analyses. The responses
+obtained at each sampling point were averaged considering different
+aspects. The urban variables are static and the environmental and noise
+variables presented a low variability at each sampling point (see Fig. 2S
+in the Supplementary Material). The responses given to each subjective var-
+iable also presented a stable and low variability at each sampling point as
+shown in Fig. 1S in the Supplementary Material. Therefore, similar results
+are obtained in the per-survey and per-point correlation analyses as
+shown in Tables 1S, 2S, 3S and 4S. However, the analysis by surveys does
+not meet the premises of normality, homoscedasticity and linearity (an
+expected result given the no or low variability of the objective variables)
+leading to a loss of test power (non-parametric tests have lower power)
+and the impossibility of performing bivariate and multivariate linear
+regression analyses. Furthermore, considering the difference in the number
+of respondents between the different points and the fact that the variability
+of the variables is due to their different locations, a treatment by surveys
+would bias the results towards those points with a greater number of
+surveys.
+A descriptive analysis of the average values and their deviation was
+carried out with the subjective variables, i.e., those related to the effects
+of noise. This descriptive analysis was complemented by a comparative
+study of the mean values using the t-test. Parametric tests were used since
+the variables met the assumptions of normality, homoscedasticity and line-
+arity. Next, an analysis of the relationships between the objective and sub-
+jective variables was carried out. First, the signiﬁcance of the relationship
+between the two types of variables was analysed using Pearson's correlation
+coefﬁcient, except for the “street category” variable, where Spearman's
+correlation coefﬁcient was used, given its ordinal nature. Next, a bivariate
+regression analysis was carried out for those variables that showed a signif-
+icant correlation. Finally, only those variables that did not show collinearity
+(variance inﬂation factor < 5) and which contributed to a signiﬁcant
+increase in the explanation of the subjective variables were included in
+the multivariate regression models. Stepwise regression and the Bayesian
+information criterion (BIC) were used to choose the best performing model.
+3. Results and discussion
+This section presents an analysis of the results obtained for the effects of
+noise on people and the relationships between the subjective and objective
+variables, and is organised into subsections corresponding to the different
+groups deﬁned for the objective variables.
+3.1. Noise and its effects
+As a starting point, Fig. 2 shows the mean and the error in the mean for
+the responses obtained in all the streets surveyed for questions a) to
+i) described in Section 2 in relation to the effects of noise on people.
+Fig. 2 reveals that the only noise effects with mean values of above 3
+were irritability (3.6) and startle (3.3). Around the mean value of 3 were
+the effects of annoyance in the ears (2.9) and raising the volume in a con-
+versation, either with someone present in the environment (3.0) or talking
+Table 1
+Subjective and objective variables registered in the city of Cáceres.
+Variables
+Meaning
+Value range
+Subjective variables
+(survey)
+a)
+Irritability
+0–10
+b)
+Startle
+0–10
+c)
+Annoyance ears
+0–10
+d)
+Interrupting conversation
+0–10
+e)
+Raising volume
+0–10
+f)
+Interrupting phone
+0–10
+g)
+Raising phone
+0–10
+h)
+Noisy city
+0–10
+i)
+Noisy street
+0–10
+Objective
+variables
+Urban
+L
+Street length
+85–1000 m
+W
+Street width
+9–40 m
+H
+Average buildings height
+0–27 m
+H/W
+Relationship between building height
+and street width
+0–1.6
+SC
+Street category
+1–5
+Environ.
+T
+Temperature
+9–23 °C
+RH
+Relative humidity
+19–95 %
+AP
+Air pressure
+1000–1013
+hPa
+WS
+Wind speed
+0–3.5 m/s
+LU
+Luminosity
+1–94 klux
+Acoustic
+LAeq
+A-weighted equivalent sound level
+48–73 dB
+LAFmax
+A-weighted maximum sound level
+70–89 dB
+LAF10
+A-weighted 10th percentile sound
+level
+47–77 dB
+LAF50
+A-weighted 50th percentile sound
+level
+40–70 dB
+LAF90
+A-weighted 90th percentile sound
+level
+37–60 dB
+Fig. 2. Mean and standard error of the ratings given for all the streets surveyed for
+the subjective variables related to effects of noise on people.
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+4
+
+on the telephone (2.8). Below these values, around a mean value of 2.5, the
+effects of interrupting a conversation were found, with a value of 2.6 when
+face-to-face and 2.5 on the phone. Although a statistical analysis using t-test
+only showed the existence of signiﬁcant differences (p < 0.05) between the
+effect of irritability and the effects of interrupting a conversation face-to-
+face or on the phone, the existence of a consistency can be considered in
+the mean results. It can be observed for example that for both means of
+communication, the effect of raising the volume of the voice reaches higher
+mean values than that of interrupting a conversation.
+When analysing the values for the participants' perceptions of how noisy
+is the city or street in which the survey was conducted, it can be noted that
+the city was rated at a value of 5.5, that is, above the average value of the
+employed scale. While the street was rated at 4.8, very close to the average
+value of the scale. If comparing these results for the noise perception of an
+environment with the values obtained for the speciﬁc effects of noise, it can
+be found that there is a signiﬁcant increase in the average values. In fact, a
+statistical analysis using t-test revealed signiﬁcant differences in both values
+of the perception with respect to all the values of the effects. For “noisy
+city”, a signiﬁcant difference with p < 0.001 was found in all cases. While
+for “noisy street”, a signiﬁcant difference with p < 0.05 was obtained for
+irritability and startle and p < 0.001 for the others. No signiﬁcant differ-
+ences were detected between “noisy city” and “noisy street”.
+Given that this study considered a number of speciﬁc noise effects, it
+was difﬁcult to ﬁnd previous research in the scientiﬁc literature that treated
+these effects in the same way in order to establish a direct comparison and
+discussion. In the particular case of annoyance, some authors have reported
+ratings of the general perception of noise annoyance that would somehow
+cover all the speciﬁc noise effects addressed in the present study
+(Öhrström et al., 2006; Gómez Escobar et al., 2012a). Taking this into
+account, it would be expected that in general, the rating of overall
+perceived annoyance in similar urban environments would be higher
+than for each of the effects analysed separately. Other research also
+analysed the annoyance perceived by people in green areas and urban
+parks considering various types of sound sources, and distinctions have
+been drawn, for example, between annoyance caused by construction,
+screams, animals and road trafﬁc (Rey Gozalo et al., 2019).
+3.2. Analysis of the relationships between subjective and objective variables
+The outcomes obtained from the analysis of the correlations between
+subjective and objective variables are shown in Table 2. With regard to
+the urban variables, only two of the variables considered in this group
+(average building height and street category) showed signiﬁcant correla-
+tions with the subjective variables related to noise and its effects. The L,
+W, and H/W did not show any signiﬁcant correlation with the subjective
+variables (p > 0.05). Both urban variables (H and SC) differ in the number
+of subjective variables with which they have signiﬁcant relationships and in
+the intensity of these relationships. While the height variable is strictly geo-
+metric, the street category is based on the functionality of the street as a
+means of communication. According to the results reported in previous
+studies, road categories signiﬁcantly stratify noise, so that noise values
+decrease from Categories 1 to 5 (Barrigón Morillas et al., 2021a). The sub-
+jective variables analysed here with respect to the effects and perception of
+noise show a signiﬁcant negative correlation with respect to the road cate-
+gory, except for items c) and h). The degree of association between the type
+of road and the subjective variables related to raising the voice showed
+associations with a degree of signiﬁcance of <0.001, which are comparable
+to those found for the noise indicators. Concerning the environmental
+variables, the temperature showed the greatest number of signiﬁcant
+relationships with the answers given by the respondents. In addition, the
+variables of atmospheric pressure and luminosity showed only one signiﬁ-
+cant relationship, in these cases with the perception of how noisy the envi-
+ronment was in the street and city, respectively. The RH and WS did not
+show any signiﬁcant correlation with the subjective variables (p > 0.05).
+Finally, the acoustic variables generally showed signiﬁcant negative rela-
+tionships with all or almost all of the subjective variables studied with a
+greater or smaller degree of association. This indicates that, as expected,
+there is a close relationship between the sound indicators and the effects
+of noise. It can be noted that the LAeq, LAF10 and LAF50 indicators are associ-
+ated with all the subjective variables analysed here; the LAF90 indicator is
+associated with almost all of them, while LAFMax is the indicator that
+shows the weakest relationship with the subjective variables.
+3.2.1. Urban variables
+Table 3 shows the values of the different parameters of the regression
+analysis between the subjective variables and the average building height
+(H) that showed a signiﬁcant correlation in Table 2. The values of this inde-
+pendent variable ranged between 0 and 27 m for the studied streets as
+shown in Table 1.
+When the results obtained for average building height (H) are analysed,
+it is possible to see that this variable can explain between 14 % and 20 % of
+the variation in the subjective variables related to the effects of noise on the
+population in urban environments, such as irritability (14 %), startle
+(17 %), annoyance in the ears (20 %) and the perception of how noisy
+the street is (17 %). Considering results obtained in previous studies, the
+explanation of the variability of subjective variables by the predictor H is
+not low. It should be noted that these previous studies used multiple predic-
+tor variables and acoustic variables. This study has the novelty of analysing
+the perception of speciﬁc noise effects and the speciﬁc contribution of pre-
+dictor variables based on urban and environmental features. Average build-
+ing height and other building characteristics are also used as independent
+variables to predict noise annoyance in multivariate models. Although
+these models may have a better explanation of the variability than the
+one obtained in this study, it must be considered that they are models
+Table 2
+Correlation coefﬁcient between objective and subjective variables.
+Subjective variables
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+Urban variables
+H (m)
+0.37⁎
+0.41⁎
+0.44⁎
+0.19 n.s.
+0.08 n.s.
+0.02 n.s.
+0.02 n.s.
+−0.13 n.s.
+0.41⁎
+SC
+−0.44⁎⁎
+−0.48⁎⁎
+−0.20 n.s.
+−0.62⁎⁎⁎
+−0.58⁎⁎⁎
+−0.49⁎⁎
+−0.64⁎⁎⁎
+−0.29 n.s.
+−0.53⁎⁎
+Environ. variables
+T (°C)
+−0.41⁎
+−0.39⁎
+−0.32 n.s.
+−0.43⁎
+−0.48⁎⁎
+−0.18 n.s.
+−0.32 n.s.
+0.43⁎
+−0.44⁎
+AP (hPa)
+−0.30 n.s.
+−0.23 n.s.
+−0.26 n.s.
+−0.11 n.s.
+−0.24 n.s.
+−0.13 n.s.
+−0.22 n.s.
+0.09 n.s.
+−0.38⁎
+logLU
+−0.21n.s.
+−0.32 n.s.
+−0.22 n.s.
+−0.06 n.s.
+−0.32 n.s.
+0.12 n.s.
+−0.13 n.s.
+0.52⁎⁎
+−0.29 n.s.
+Acoustic variables
+LAeq (dB)
+0.69⁎⁎⁎
+0.61⁎⁎⁎
+0.46⁎
+0.63⁎⁎⁎
+0.65⁎⁎⁎
+0.54⁎⁎
+0.64⁎⁎⁎
+−0.38⁎
+0.63⁎⁎⁎
+LAFmax (dB)
+0.57⁎⁎
+0.41⁎
+0.26 n.s.
+0.44⁎
+0.50⁎⁎
+0.28 n.s.
+0.42⁎
+−0.50⁎⁎
+0.47⁎
+LAF10 (dB)
+0.71⁎⁎⁎
+0.66⁎⁎⁎
+0.49⁎⁎
+0.62⁎⁎⁎
+0.65⁎⁎⁎
+0.54⁎⁎
+0.63⁎⁎⁎
+−0.38⁎
+0.64⁎⁎⁎
+LAF50 (dB)
+0.71⁎⁎⁎
+0.69⁎⁎⁎
+0.59⁎⁎⁎
+0.66⁎⁎⁎
+0.70⁎⁎⁎
+0.60⁎⁎⁎
+0.69⁎⁎⁎
+−0.38⁎
+0.66⁎⁎⁎
+LAF90 (dB)
+0.64⁎⁎⁎
+0.71⁎⁎⁎
+0.66⁎⁎⁎
+0.61⁎⁎⁎
+0.64⁎⁎⁎
+0.57⁎⁎
+0.62⁎⁎⁎
+−0.30 n.s.
+0.64⁎⁎⁎
+n.s.: Non-signiﬁcant correlation (p > 0.05).
+⁎ Signiﬁcant at p ≤0.05.
+⁎⁎ Signiﬁcant at p ≤0.01.
+⁎⁎⁎ Signiﬁcant at p ≤0.001.
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+5
+
+with many independent variables. Preisendörfer et al. (Preisendörfer et al.,
+2022) obtain explanations of the variability for road trafﬁc annoyance
+between 23 % and 31 % using multivariate models that include 17 factors,
+including some related to building characteristics. Another recent study
+obtained a McFadden's pseudo r-squared value of 0.263 for the multivariate
+noise annoyance model including seven independent variables (Chung
+et al., 2022).
+Table 3 also shows that most the values of the slope coefﬁcient for the
+four subjective variables are similar and positive; that is, the noise effects
+related to these variables that respondents report to perceive increase as
+the average height of the buildings increases. When the average building
+height (H) rises from the minimum to the maximum values of the range
+studied here (0–27 m), irritability (a) ranges between 1.8 and 4.8; startle
+(b) increases from 1.6 to 4.5; annoyance in the ears (c) rises from 0.9 to
+4.4; and the perception of how noisy the street is i) increases from 3.1 to
+6.1. Although the maximum height of the streets under evaluation was
+27 m, corresponding to buildings of approximately nine storeys, there are
+large cities in which the height of buildings is greater than this. It would
+therefore be interesting to continue this line of research by expanding the
+study to cities containing streets with larger average building heights.
+3.2.2. Environmental variables
+The results of the regression analysis between the subjective variables
+and the environmental variables with signiﬁcant correlations in Table 2
+are shown in Table 4. The values of the slope, intercept coefﬁcient, coefﬁ-
+cient of determination (R2) and signiﬁcance level are given for the variable
+of temperature (T). Since in the case of air pressure (AP) and luminosity
+(logLU), a signiﬁcant correlation was only found for one of the subjective
+variables, the results are shown in Eq. 1 and Eq. 2 for air pressure (AP)
+and luminosity (logLU), respectively. The ranges of these independent
+variables were approximately 9–23 °C for temperature, 1000–1013 hPa
+for air pressure and 1–94 klux for luminosity as shown in Table 1.
+i ¼ 211:82−0:21  AP R2 ¼ 0:14
+
+
+ð1Þ
+h ¼ 44:31 þ 1:58  logLU R2 ¼ 0:27
+
+
+ð2Þ
+Among the environmental variables in Table 2, temperature (T) shows sig-
+niﬁcant relationships with several subjective variables such as a), b), d), e),
+h) and, i). In this regard, temperature can explain between 15 % and 23 %
+of the variability of these subjective variables. In contrast, the remaining
+two environmental variables only showed a signiﬁcant relationship with
+one of the objective variables. This was the perception of how noisy the
+street is (i) for the case of air pressure (AP), which explained 14 % of the
+variation, while for luminosity it was the perception of how noisy the city
+is (h), with a 27 % explanation of its variation. If these results are compared
+with those of previous studies analysing the relationship between meteoro-
+logical variables and noise annoyance from different sound sources, they
+are satisfactory. For example, Miedema et al. (Miedema et al., 2005)
+found a R2 <0.19 but for multivariate models that did not only include
+meteorological variables. Lden (dB), aircraft and railway variables were
+also considered in the multivariate models. Only sound indicators show a
+high correlation with noise effects as shown in Table 2.
+Regarding the variable of temperature (T), the values of the slope coef-
+ﬁcient with respect to almost all of the correlated subjective variables were
+similar and had a negative sign, indicating that the values given by the
+respondents for the subjective variables decrease as the temperature
+increases. In contrast, a positive value was obtained for the subjective var-
+iable of perception of how noisy the city is (h). In the case of the signiﬁcant
+relationship between air pressure (AP) and the perception of how noisy the
+street is (i), the slope coefﬁcient was negative, meaning that the rating of
+this variable decreases as air pressure increases. However, for the relation-
+ship between luminosity (logLU) and the perception of how noisy the city is
+(i), this coefﬁcient had a positive value. Hence, of the environmental vari-
+ables considered, temperature showed the highest number of signiﬁcant
+relationships with the different effects of noise and the perception of how
+noisy is the environment. The negative slope suggests that people may
+perceive the effects of noise as being of lower intensity in environments
+with softer temperatures.
+Another aspect of interest in Table 4 is the analysis of the values of inter-
+cept coefﬁcients. For the signiﬁcant relationships of temperature and lumi-
+nosity with the subjective variables, all values were positive and within the
+interval of the 0–10 rating scale used in the surveys. This gives an idea of
+the base value when temperature and luminosity tend to zero.
+The values of the subjective variables resulting from applying these
+equations remained within the scale of 0–10 for ranges of approximately
+−9–25 °C for temperature, 983–1025 hPa for air pressure and 0–105
+klux for luminosity. These ranges of environmental variables are wide
+and include a great range of environmental conditions in which these
+regression models could be considered valid.
+3.2.3. Acoustic variables
+The values for the different parameters of the regression analysis
+between the subjective dependent variables and the acoustic independent
+variables that showed signiﬁcant correlation in Table 2 are presented in
+Table 5. For each of these ﬁve variables, that is the A-weighted equivalent
+sound level (LAeq), maximum sound level (LAFmax) and percentile levels (L10,
+L50 and L90), the values of the slope, intercept, determination coefﬁcient
+(R2) and signiﬁcance level are given. For the streets studied, these indepen-
+dent variables took values in the range 48–73 dBA for LAeq, 70–89 dBA for
+LAFmax, 47–77 dBA for L10, 40–70 dBA for L50 and 37–60 dBA for L90 as
+shown in Table 1.
+Most of the relationships between the subjective variables related to the
+effects of noise on people and the acoustic variables are signiﬁcant
+(Table 4). These relationships have a higher level of signiﬁcance in the
+Table 3
+Regression parameters among all subjective variables and the objective urban
+variable of average building height (H).
+Subjective variables
+a)
+b)
+c)
+i)
+Average building height
+(H)
+Slope
+0.11
+0.11
+0.13
+0.11
+Intercept
+1.83
+1.55
+0.92
+3.09
+Determination
+coefﬁcient
+0.14⁎
+0.17⁎
+0.20⁎
+0.17⁎
+⁎ Signiﬁcant at p ≤0.05.
+Table 4
+Regression parameters between the subjective variables and the environmental variable of temperature (T).
+Subjective variables
+a)
+b)
+d)
+e)
+h)
+i)
+Temperature (T)
+Slope
+−0.22
+−0.18
+−0.22
+−0.28
+0.13
+−0.21
+Intercept
+6.83
+5.93
+5.78
+7.05
+3.6
+7.94
+Determination coefﬁcient
+0.17⁎
+0.15⁎
+0.18⁎
+0.23⁎⁎
+0.18⁎
+0.20⁎
+⁎ Signiﬁcant at p ≤0.05.
+⁎⁎ Signiﬁcant at p ≤0.01.
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+6
+
+case of LAeq, L10, L50 and L90, which can explain up to 50 % of the variation
+in some variables such as a) and b). The variation had a value of between
+47 % and 29 % for the other effects of noise on the population, such as c),
+d), e), f), g), i). In the case of the acoustic variable LAFmax, the results for
+the signiﬁcant correlation explain variations in the subjective variables of
+between 32 % and 17 %. The explanations of the variability of the studied
+variables related to the effects of noise reach high values in the case of some
+acoustic variables taking into account that they are subjective variables.
+The LAeq is the indicator most commonly used in previous studies to study
+its relationship with noise annoyance. A Spearman's rho <0.24 was found
+in the correlation between noise annoyance and Lden by Dzhambov et al.
+(Dzhambov et al., 2017) and Felcyn et al. (Felcyn et al., 2018). A similar
+value of Pearson's correlation coefﬁcient (r = 0.26–0.30) was also found
+by Paviotti et al. (Paviotti and Vogiatzis, 2012) and Tao et al. (Tao et al.,
+2020). Therefore, the explanation of variability does not exceed 9 % in
+these previous bivariate analyses. In multivariate studies using different
+sound indicators or combinations of them, R2 values similar to those in
+this study are achieved (Nguyen et al., 2012) (Lee et al., 2021).
+It is interesting to see how the capacity of the sound indices analysed
+here to explain the annoyance in the ears (c) increases as the value becomes
+more representative of the background noise level at the site. The LAFmax
+index is not signiﬁcant and LAeq is signiﬁcant at 95 %, while LAF50 and
+LAF90 are signiﬁcant at 99.9 %. The last of these explains the highest vari-
+ability (43 %). The statistical sound variables are therefore better than
+the energetic sound variables in this respect, in relation to the variable c).
+Note that the case of the variable b) is similar in terms of the explained
+variability, while the variable a) does not follow the same pattern. In the
+cases of the variables d), e), f), g), and i), the index LAF50 seems to be the
+best predictor of their variability, which is an indicator of average values
+over time. Finally, it is also interesting to note that that the capacity of
+the sound indices analysed to explain the variability of the perception of
+how noisy is the city (h) is low or not signiﬁcant in all cases. It can be
+observed that LAF90 is not signiﬁcant, while LAFmax is signiﬁcant at 99 %,
+the only variable for which this is seen.
+Another noteworthy point in relation to Table 5 is that for each acoustic
+variable, the slope of the linear regression equation is positive for all issues
+related to the effects of noise or the perception of the studied environment;
+that is, the value indicated by the respondents for the subjective variables
+increases as the sound indicators take on a higher value. However, this is
+not the case for the subjective variable perception of how noisy the city is
+(h), where the negative value of the slope reﬂects an inversely proportional
+linear relationship. The value of the subjective variables resulting from
+applying these equations remains within the scale 0–10 for a range of
+sound levels of approximately 51–87 dBA for LAeq, 68–101 dBA for LAFmax,
+52–98 dBA for L10, 44–86 dBA for L50 and 39–79 dBA for L90. These ranges
+for the acoustic variables, over which the subjective variables remain
+within the scale used in the survey, cover a wide range of urban environ-
+ments in which road trafﬁc is the predominant source of noise, meaning
+that the linear equations obtained in this study relating the subjective
+variables to the acoustic variables could be considered valid for many
+other cities of different sizes.
+3.3. Multivariate regression analysis
+In addition to the bivariate regression analysis presented in the previous
+sections for each group of objective variables, a multivariate analysis was
+also carried out using stepwise regression. The street category (SC) was
+recoded as a dummy variable in order to include it as an independent
+variable in the regression analysis. Consequently, the ﬁve different street
+categories were grouped into main streets (Categories 1 to 3) and
+neighbourhood streets (Categories 4 and 5). Neighbourhood streets were
+considered as the reference level (value = 0) for this binary variable (SCb).
+Since Table 1 revealed that the acoustic variables are those that individ-
+ually explained a higher percentage of the variability of the subjective
+variables related to the effects of environmental noise and the perception
+of noisy urban spaces, a stepwise regression was ﬁrst proposed in this
+section considering only the urban and environmental variables. The aim
+was to study the extent to which combinations of these objective variables
+would allow for a prediction of the effects of environmental noise and its
+perception in urban environments with no need for in situ acoustic measure-
+ments and, therefore, reducing the production costs of carrying out this
+type of research associated with acoustic measurement equipment.
+Table 6 shows the results from the stepwise regression between the subjec-
+tive variables and the urban and environmental variables, where B is the re-
+gression coefﬁcient and R2 (coefﬁcient of determination) shows the
+percentage of explanation of the variability of the subjective variable.
+Although all urban and environmental variables were initially consid-
+ered in the multivariate regression analysis, the resulting models have
+only one independent variable in most cases (see Table 6). In this regard,
+bivariate models obtained from a stepwise regression, based essentially
+on urban variables, provide explanations of between 18 % and 44 % for
+the variability in the effects and the perception of environmental noise.
+This explanation of variability is similar to that provided by sound indica-
+tors for some effects (c: annoyance ears, and f: interrupting phone). It is
+also interesting to note the effect of the street category on the prediction
+of most of the subjective variables, which suggests that this categorisation
+Table 5
+Regression parameters among all subjective variables and the objective acoustic variables LAeq, LAFmax, L10, L50 and L90.
+Subjective variables
+a)
+b)
+c)
+d)
+e)
+f)
+g)
+h)
+i)
+LAeq
+Slope
+0.24
+0.18
+0.15
+0.21
+0.25
+0.18
+0.24
+−0.08
+0.20
+Intercept
+−11.49
+−8.24
+−6.49
+−10.61
+−12.63
+−8.43
+−12.20
+10.42
+−7.54
+R2
+0.47⁎⁎⁎
+0.37⁎⁎⁎
+0.21⁎
+0.39⁎⁎⁎
+0.42⁎⁎⁎
+0.29⁎⁎
+0.41⁎⁎⁎
+0.15⁎
+0.40⁎⁎⁎
+LAFmax
+Slope
+0.22
+0.14
+–
+0.16
+0.21
+–
+0.17
+−0.11
+0.16
+Intercept
+−14.17
+−7.98
+–
+−10.65
+−14.16
+–
+−11.23
+14.54
+−8.17
+R2
+0.32⁎⁎
+0.17⁎
+–
+0.19⁎
+0.25⁎⁎
+–
+0.17⁎
+0.25⁎⁎
+0.22⁎
+LAF10
+Slope
+0.20
+0.16
+0.13
+0.17
+0.20
+0.14
+0.19
+−0.06
+0.16
+Intercept
+−9.60
+−7.34
+−5.59
+−8.50
+−10.21
+−6.81
+−9.78
+9.62
+−5.82
+R2
+0.50⁎⁎⁎
+0.44⁎⁎⁎
+0.24⁎⁎
+0.39⁎⁎⁎
+0.42⁎⁎⁎
+0.29⁎⁎
+0.40⁎⁎⁎
+0.14⁎
+0.42⁎⁎⁎
+LAF50
+Slope
+0.20
+0.17
+0.16
+0.18
+0.22
+0.16
+0.21
+−0.06
+0.17
+Intercept
+−7.81
+−6.29
+−5.82
+−7.55
+−9.38
+−6.37
+−9.12
+9.08
+−4.68
+R2
+0.50⁎⁎⁎
+0.47⁎⁎⁎
+0.34⁎⁎⁎
+0.43⁎⁎⁎
+0.49⁎⁎⁎
+0.36⁎⁎⁎
+0.48⁎⁎⁎
+0.15⁎
+0.44⁎⁎⁎
+LAF90
+Slope
+0.22
+0.21
+0.21
+0.20
+0.24
+0.18
+0.23
+–
+0.19
+Intercept
+−7.53
+−7.31
+−7.67
+−7.59
+−9.17
+−6.65
+−8.67
+–
+−5.03
+R2
+0.41⁎⁎⁎
+0.50⁎⁎⁎
+0.43⁎⁎⁎
+0.37⁎⁎⁎
+0.41⁎⁎⁎
+0.33⁎⁎
+0.38⁎⁎⁎
+–
+0.41⁎⁎⁎
+–: Non-signiﬁcant correlation (p > 0.05).
+⁎ Signiﬁcant at p ≤0.05.
+⁎⁎ Signiﬁcant at p ≤0.01.
+⁎⁎⁎ Signiﬁcant at p ≤0.001.
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+7
+
+method could also be useful for predicting the effects of environmental
+noise on people and their perceptions of noise in urban spaces.
+Table 6 also reveals that in the case of the subjective variable raising the
+volume of the voice (e), models based on a combination of urban and envi-
+ronmental objective variables allow for a high explanation of its variability.
+For this noise effect, a model containing only the urban variable SCb
+explains 45 % of its variation. When combined in a multivariate model
+with an environmental variable such as temperature (T), a signiﬁcant
+increase in explanation of up to 54 % is found. Moreover, when the urban
+variable of average building height (H) is included, the explanation of the
+variability of raising volume (e) reaches a value of 63 %. This percentage
+of variability is much higher than that found for any of the sound indicators
+shown in Table 5. Hence, reliable predictions for some variables related to
+the effects of environmental noise in urban environments can be obtained
+from a combination of urban and environmental variables, and this offers
+a possible alternative to models based on acoustic variables. In this context,
+the urban variable related to street geometry, i.e. the average building
+height (H), also showed a relationship with the perception of the sound
+environment (de la Prida et al., 2019).
+After the analysis considering only the urban and environmental objec-
+tive variables, a new multivariate regression analysis between the subjec-
+tive variables and all the objective variables (urban, environmental and
+acoustic variables) was carried out. The hypothesis was to analyse whether
+the use of both urban and environmental variables could complement the
+predictions made by acoustic variables with respect to the effects and per-
+ceptions of noise. Thus, in addition to looking for possible alternative
+models containing only urban-environmental variables, the aim was also
+to develop models that complement the predictions made by the acoustic
+variables. The results presented in Table 7 show that for the variables:
+raising volume (e), interrupting phone (f), raising phone (g) and noisy
+city (h), the inclusion of urban and environmental variables improves the
+prediction. In these models, the acoustic index LAF50 provides an explana-
+tion of variability of 49 % for raising volume (e), 36 % for interrupting
+phone, and 48 % for raising phone (g) (see Table 5), which increases to
+59 %, 48 %, and 65 %, respectively, with the variables SCb, logLU, and H.
+For the perception of how noisy is the city (h), a model is obtained in
+which the acoustic index LAFmax explains 25 % of its variability (see
+Table 5), reaching a value of 41 % with the environmental variable lumi-
+nosity (logLU). The percentage explanations for the variability of the differ-
+ent effects and perceptions of noise are high compared to results obtained in
+recent studies (Chung et al., 2022) (Lee et al., 2021) (Preisendörfer et al.,
+2022) (Tangermann et al., 2022). Chung et al. (Chung et al., 2022) consider
+that a Pearson's r of 0.60 is strong in view of the subjectivity of the variables
+analysed. Furthermore, these multivariate models have a high efﬁciency
+given the low number of independent variables. Lee et al. (Lee et al.,
+2021) use 12 independent variables to achieve a 60 % explanation of the
+variability of noise annoyance.
+4. Conclusions
+An analysis performed of the relationships between the responses of sur-
+veyed pedestrians in urban environments about some speciﬁc effects of
+noise and their perceptions of noisy environments with those values regis-
+tered for urban, environmental and acoustic variables led to the following
+conclusions.
+Concerning the urban variables, an increase in the average height of the
+buildings increases some related perceived noise effects. In fact, a signiﬁ-
+cant positive correlation was found for the subjective variables irritability
+(a), startle (b), annoyance in the ears (c) and perception of how noisy the
+street is (i) with the average height of the buildings on the street, with
+explanations of the variability ranging from 14 % to 20 %. When the envi-
+ronmental variables were taken into account, a signiﬁcant negative correla-
+tion was found only between temperature (T) and several variables related
+to the effects of noise and the perception of noisy environments. This ﬁnd-
+ing suggests that the values assigned by the respondents for these variables
+tended to decrease as the temperature increased. This study makes an
+initial approach to the analysis of the possible effects that urban and envi-
+ronmental variables have on the annoyance or effects of noise, and presents
+a methodology that can be applied in other urban environments with differ-
+ent characteristics and conditions. The considered ranges of environmental
+variables allow to cover a great range of environmental conditions, but it
+would also be interesting to extend this research to cities in which streets
+have a wider range of average building heights.
+The explanations of the variability in the subjective variables related to
+the perception of the effects of noise reach noteworthy values in the case of
+some acoustic variables. The indicators LAeq, L10, L50 and L90 explained up to
+50 % of the variation of irritability (a) and startle (b) and values of between
+29 % and 47 % were found for other effects of noise on the population and
+the perception of noisy environments. It is also interesting to highlight the
+capacity of some sound indices such as LAF50 and LAF90 to explain the vari-
+able ear annoyance (c), which increases as the index becomes more repre-
+sentative of the background noise level at the site and reaches an
+explanation of variability of 43 % in the case of LAF90. For the variables
+interrupting a conversation with someone nearby (d), raising the volume
+of the voice to talk with someone nearby (e), interrupting a phone conver-
+sation (f), raising the volume of the voice on a phone conversation (g) and
+perception of how noisy is the street (i), the index LAF50 was the better pre-
+dictor of their variability. In the case of the perception of how noisy is the
+city (h), LAFmax was the only variable that showed a signiﬁcant correlation
+at 99 %.
+A stepwise regression analysis showed that if only urban and environ-
+mental variables are considered, models with a single urban or environ-
+mental variable provide explanations of between 18 % and 44 % of the
+effects and perception of environmental noise. Furthermore, the efﬁcient
+combination of these urban and environmental variables in multivariate
+models can lead to an increase in the explanation of subjective variables
+provided by acoustic variables. In this vein, increases in the explanation
+of the variability of between 10 % and 17 % were found for some subjective
+variables. In the case of the subjective variable raising volume (e), a model
+based on the combination of variables as SCb, average building height
+(H) and temperature (T) was able to provide explanations of up to 63 %
+Table 7
+Multivariate regression parameters between subjective variables and urban,
+environmental and acoustic variables.
+Subjective variables
+Objective variables
+Constant
+B
+R2
+e)
+LAF50
+−5.88
+0.15
+0.59
+SCb
+1.88
+f)
+LAF50
+−9.71
+0.19
+0.48
+logLU
+1.81
+g)
+LAF50
+−6.11
+0.17
+0.65
+SCb
+1.82
+H
+−0.09
+h)
+LAFmax
+11.63
+−0.09
+0.41
+logLU
+1.28
+Table 6
+Regression parameters among the subjective variables and the urban and environ-
+mental variables.
+Subjective variables
+Objective variables
+Constant
+B
+R2
+a)
+SCb
+3.05
+1.82
+0.18
+b)
+SCb
+2.74
+1.68
+0.20
+c)
+H
+0.92
+0.13
+0.20
+d)
+SCb
+1.85
+2.29
+0.30
+e)
+SCb
+8.83
+2.82
+0.63
+T
+−0.31
+H
+−0.13
+f)
+SCb
+1.87
+1.98
+0.25
+g)
+SCb
+1.85
+3.08
+0.44
+h)
+logLU
+4.31
+1.58
+0.27
+i)
+SCb
+6.28
+−2.08
+0.29
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+8
+
+of its variability. The variable SCb again provided an increase of about 10 %
+in the explanation of the subjective variables in these models. Therefore,
+the results suggest that the categorisation method, in addition to being use-
+ful in stratifying road trafﬁc noise in cities, could also be valuable in terms
+of predicting the effects of environmental noise on people and their percep-
+tion of noise in urban spaces.
+The speciﬁc analysis of each urban and environmental variable re-
+corded in this study has shown those that have a signiﬁcant relationship
+with the speciﬁc effects of noise and therefore those that can be used as
+an alternative or complement in future prediction models of noise effects.
+The number of respondents in this study implies a limitation, as the
+sample size of 105 individuals, being an adequate number to be representa-
+tive of the population studied, is at the lower limit. In addition, the presence
+of the same or similar values for the objective variables recorded in the
+different surveys carried out at each sampling point precluded the use of
+bivariate and multivariate linear regression analysis by surveys as they
+did not meet the assumptions of normality, homoscedasticity and random-
+ness. For this reason, the study was limited to studying the mean values
+obtained at each sampling point which, due to the also low and constant
+variability of the subjective variables at each sampling point, the results
+obtained by points were similar to those obtained by surveys. The variabil-
+ity of the objective and subjective variables was mainly due to their differ-
+ent locations and, therefore, using a survey analysis would bias the results
+of the overall perception of the city because the same number of surveys
+were not carried out at each point. Despite limitations in the sample size
+(105) due to the emergence of the pandemic and in an analysis based on
+values by location (29), the careful methodology and, fundamentally, the
+novel design of the questions asked in the survey can serve as a guide for
+future studies to validate the results obtained in this study.
+Funding
+This project was co-ﬁnanced by European Regional Development Fund
+(ERDF) and Junta de Extremadura (IB18050 and GR18107). This work was
+also supported by Consejería de Economía, Ciencia y Agenda Digital of
+Junta de Extremadura through grants for attracting and returning research
+talent to R&D&I centres belonging to the Extremadura Science, Technology
+and Innovation System (TA18019), where University of Extremadura was
+the beneﬁciary entity.
+CRediT authorship contribution statement
+David Montes González: Software, Formal analysis, Investigation, Data
+curation, Writing – original draft, Writing – review & editing, Visualization.
+Juan Miguel Barrigón Morillas: Conceptualization, Methodology,
+Software, Validation, Formal analysis, Investigation, Resources, Data
+curation, Writing – original draft, Writing – review & editing, Supervision,
+Project administration, Funding acquisition. Guillermo Rey-Gozalo: Meth-
+odology, Software, Formal analysis, Investigation, Data curation, Writing –
+original draft, Writing – review & editing, Visualization, Funding acquisition.
+Data availability
+Data will be made available on request.
+Declaration of competing interest
+The authors declare that they have no known competing ﬁnancial inter-
+ests or personal relationships that could have appeared to inﬂuence the
+work reported in this paper.
+Acknowledgements
+The authors would like to acknowledge the contribution of Pedro
+Atanasio, Ana Bejarano and Manuel Parejo for conducting the in situ
+measurements and surveys.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.
+org/10.1016/j.scitotenv.2022.159406.
+References
+Aletta, F., Van Renterghem, T., Botteldooren, D., 2018. Inﬂuence of personal factors on sound
+perception and overall experience in urban green areas. A case study of a cycling path
+highly exposed to road trafﬁc noise. Int. J. Environ. Res. Public Health 15. https://doi.
+org/10.3390/ijerph15061118.
+Aletta, F., Oberman, T., Mitchell, A., Tong, H., Kang, J., 2020. Assessing the changing urban
+sound environment during the COVID-19 lockdown period using short-term acoustic
+measurements. Noise Mapp. 7, 123–134. https://doi.org/10.1515/noise-2020-0011.
+ANSI S12.18, 1994. Procedures for Outdoor Measurement of Sound Pressure Level. Acoustical
+Society of America, New York, USA.
+Ascari, E., Licitra, G., Teti, L., Cerchiai, M., 2015. Low frequency noise impact from road traf-
+ﬁc according to different noise prediction methods. Sci. Total Environ. 505, 658–669.
+https://doi.org/10.1016/j.scitotenv.2014.10.052.
+Ba, M., Kang, J., 2019. Effect of a fragrant tree on the perception of trafﬁc noise. Build. Envi-
+ron. 156, 147–155. https://doi.org/10.1016/j.buildenv.2019.04.022.
+Barrigón Morillas, J.M., Montes Gonzalez, D., Gómez Escobar, V., Rey Gozalo, G., Vílchez-
+Gómez, R., 2021a. A proposal for producing calculated noise mapping deﬁning the
+sound power levels of roads by street stratiﬁcation. Environ. Pollut. 270, 116080.
+https://doi.org/10.1016/j.envpol.2020.116080.
+Barrigón Morillas, J.M., Rey Gozalo, G., Montes González, D., Vílchez-Gómez, R., Gómez-
+Escobar, V., 2021b. Variability of trafﬁc noise pollution levels as a function of city size
+variables. Environ. Res. 199, 111303. https://doi.org/10.1016/j.envres.2021.111303.
+Basner, M., McGuire, S., 2018. WHO environmental noise guidelines for the European region:
+a systematic review on environmental noise and effects on sleep. Int. J. Environ. Res. Pub-
+lic Health 15. https://doi.org/10.3390/ijerph15030519.
+Baudin, C., Lefèvre, M., Champelovier, P., Lambert, J., Laumon, B., Evrard, A.-S., 2018. Air-
+craft noise and psychological ill-health: the results of a cross-sectional study in France.
+Int. J. Environ. Res. Public Health 15. https://doi.org/10.3390/ijerph15081642.
+Baudin, C., Lefèvre, M., Babisch, W., Cadum, E., Champelovier, P., Dimakopoulou, K.,
+Houthuijs, D., Lambert, J., Laumon, B., Pershagen, G., Stansfeld, S., Velonaki, V.,
+Hansell, A., Evrard, A.-S., 2020. The role of aircraft noise annoyance and noise sensitivity
+in the association between aircraft noise levels and hypertension risk: results of a pooled
+analysis from seven european countries. Environ. Res. 191. https://doi.org/10.1016/j.
+envres.2020.110179.
+Bouzid, I., Derbel, A., Elleuch, B., 2020. Factors responsible for road trafﬁc noise annoyance in
+the city of SfaxTunisia. Appl. Acoust. 168. https://doi.org/10.1016/j.apacoust.2020.
+107412.
+Brink, M., Schreckenberg, D., Vienneau, D., Cajochen, C., Wunderli, J.-M., Probst-Hensch, N.,
+Röösli, M., 2016. Effects of scale, question location, order of response alternatives, and
+season on self-reported noise annoyance using ICBEN scales: a ﬁeld experiment. Int.
+J. Environ. Res. Public Health 13. https://doi.org/10.3390/ijerph13111163.
+Brink, M., Schäffer, B., Vienneau, D., Foraster, M., Pieren, R., Eze, I.C., Cajochen, C., Probst-
+Hensch, N., Röösli, M., Wunderli, J.-M., 2019. A survey on exposure-response relation-
+ships for road, rail, and aircraft noise annoyance: differences between continuous and in-
+termittent noise. Environ. Int. 125, 277–290. https://doi.org/10.1016/j.envint.2019.01.
+043.
+Cai, Y., Zijlema, W.L., Sørgjerd, E.P., Doiron, D., de Hoogh, K., Hodgson, S., Wolffenbuttel, B.,
+Gulliver, J., Hansell, A.L., Nieuwenhuijsen, M., Rahimi, K., Kvaløy, K., 2020. Impact of
+road trafﬁc noise on obesity measures: observational study of three European cohorts. En-
+viron. Res. 191. https://doi.org/10.1016/j.envres.2020.110013.
+Calleja, A., Díaz-Balteiro, L., Iglesias-Merchan, C., Soliño, M., 2017. Acoustic and economic
+valuation of soundscape: an application to the ‘Retiro’ urban Forest Park. Urban For.
+Urban Green. 27, 272–278. https://doi.org/10.1016/j.ufug.2017.08.018.
+Calleri, C., Shtrepi, L., Armando, A., Astolﬁ, A., 2018. Evaluation of the inﬂuence of building
+façade design on the acoustic characteristics and auditory perception of urban spaces.
+Build. Acoust. 25, 77–95. https://doi.org/10.1177/1351010X18757353.
+Chung, W.K., Lin, M., Chau, C.K., Masullo, M., Pascale, A., Leung, T.M., Xu, M., 2022. On the
+study of the psychological effects of blocked views on dwellers in high dense urban envi-
+ronments. Landsc. Urban Plan. 221, 104379. https://doi.org/10.1016/j.landurbplan.
+2022.104379.
+Cohen, J., 1988. Statistical Power Analysis for the Behavioral Sciences. second edition. Law-
+rence Erlbaum Associates, United States of America. https://doi.org/10.1016/C2013-0-
+10517-X.
+Dehaene, S., 2003. The neural basis of the Weber-Fechner law: a logarithmic mental number
+line. Trends Cogn. Sci. 7, 145–147. https://doi.org/10.1016/S1364-6613(03)00055-X.
+Douglas, O., Murphy, E., 2016. Source-based subjective responses to sleep disturbance from
+transportation noise. Environ. Int. 92–93, 450–456. https://doi.org/10.1016/j.envint.
+2016.04.030.
+Dzhambov, A., Tilov, B., Markevych, I., Dimitrova, D., 2017. Residential road trafﬁc noise and
+general mental health in youth: the role of noise annoyance, neighborhood restorative
+quality, physical activity, and social cohesion as potential mediators. Environ. Int. 109,
+1–9. https://doi.org/10.1016/j.envint.2017.09.009.
+EEA, 2014. Noise in Europe 2014. 2014. European Environment Agency. Publications Ofﬁce
+of the European Union, Luxembourg.
+EEA, 2020. EEA Report No 22/2019. Environmental Noise in Europe - 2020. 2020. European
+Environment Agency. Publications Ofﬁce of the European Union, Luxembourg.
+END, 2002. Directive 2002/49/EC of the European Parliament and of the Council of 25 June
+2002 Relating to the Assessment and Management of Environmental Noise (END).
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+9
+
+Ofﬁcial Journal L189. The European Parliament and the Council of the European Union,
+Brussels 0012–0026., 2002.
+Engel, M.S., Fels, J., Pfaffenbach, C., 2020. A socio-cultural perspective of sound and location
+perception: a case study in Aachen Germany. Sci. Total Environ. 717. https://doi.org/10.
+1016/j.scitotenv.2020.137147.
+Estévez-Mauriz, L., Forssén, J., Dohmen, M.E., 2018. Is the sound environment relevant for
+how people use common spaces? Build. Acoust. 25, 307–337. https://doi.org/10.1177/
+1351010X18790832.
+Eze, I.C., Foraster, M., Schaffner, E., Vienneau, D., Pieren, R., Imboden, M., Wunderli, J.-M.,
+Cajochen, C., Brink, M., Röösli, M., Probst-Hensch, N., 2020. Incidence of depression in
+relation to transportation noise exposure and noise annoyance in the SAPALDIA study.
+Environ. Int. 144. https://doi.org/10.1016/j.envint.2020.106014.
+Felcyn, J., Preis, A., Kokowski, P., Gałuszka, M., 2018. A comparison of noise mapping data
+and people's assessment of annoyance: how can noise action plans be improved? Transp.
+Res. Part Transp. Environ. 63, 72–120. https://doi.org/10.1016/j.trd.2018.04.019.
+Fiedler, P.E.K., Zannin, P.H.T., 2015. Noise mapping as a tool for urban planning. J. Sci. Ind.
+Res. 74, 114–116.
+Fields, J.M., De Jong, R.G., Gjestland, T., Flindell, I.H., Job, R.F.S., Kurra, S., Lercher, P.,
+Vallet, M., Yano, T., Guski, R., Felscher-Suhr, U., Schumer, R., 2001. Standardized
+general-purpose noise reaction questions for community noise surveys: research and a
+recommendation. J. Sound Vib. 242, 641–679. https://doi.org/10.1006/jsvi.2000.3384.
+Foraster, M., Eze, I.C., Vienneau, D., Schaffner, E., Jeong, A., Héritier, H., Rudzik, F., Thiesse,
+L., Pieren, R., Brink, M., Cajochen, C., Wunderli, J.-M., Röösli, M., Probst-Hensch, N.,
+2018. Long-term exposure to transportation noise and its association with adiposity
+markers and development of obesity. Environ. Int. 121, 879–889. https://doi.org/10.
+1016/j.envint.2018.09.057.
+Fritz, M.S., MacKinnon, D.P., 2007. Required sample size to detect the mediated effect.
+Psychol. Sci. 18, 233–239. https://doi.org/10.1111/j.1467-9280.2007.01882.x.
+Gómez Escobar, V., Barrigón Morillas, J.M., Rey Gozalo, G., Vaquero, J.M., Méndez Sierra,
+J.A., Vílchez-Gómez, R., Carmona Del Río, F.J., 2012a. Acoustical environment of the me-
+dieval centre of Cáceres (Spain). Appl. Acoust. 73, 673–685. https://doi.org/10.1016/j.
+apacoust.2012.01.006.
+Gómez Escobar, V., Barrigón Morillas, J.M., Rey Gozalo, G., Vílchez-Gómez, R., Carmona Del
+Río, J., Méndez Sierra, J.A., 2012b. Analysis of the grid sampling method for noise map-
+ping. Arch. Acoust. 37, 499–514. https://doi.org/10.2478/v10168-012-0062-z.
+Guan, H., Hu, S., Liu, G., Zhang, L., 2020. The combined effects of temperature and noise on
+the comfort perceptions of young people with a normal Body Mass Index. Sustain. Cities
+Soc. 54, 101993. https://doi.org/10.1016/j.scs.2019.101993.
+Hegewald, J., Schubert, M., Freiberg, A., Starke, K.R., Augustin, F., Riedel-Heller, S.G., Zeeb,
+H., Seidler, A., 2020. Trafﬁc noise and mental health: a systematic review and meta-
+analysis. Int. J. Environ. Res. Public Health 17, 1–26. https://doi.org/10.3390/
+ijerph17176175.
+Hinze, B., Tsakiris, J., Tang, W., 2022. Development of australia-wide transportation noise
+maps: an application in the estimation of population exposure in Victoria. Acoust. Aust.
+https://doi.org/10.1007/s40857-022-00264-7.
+Hong, J.Y., Lam, B., Ong, Z.-T., Ooi, K., Gan, W.-S., Kang, J., Yeong, S., Lee, I., Tan, S.-T., 2020.
+Effects of contexts in urban residential areas on the pleasantness and appropriateness of
+natural sounds. Sustain. Cities Soc. 63. https://doi.org/10.1016/j.scs.2020.102475.
+Huang, T., Chan, T.-C., Huang, Y.-J., Pan, W.-C., 2020. The association between noise expo-
+sure and metabolic syndrome: a longitudinal cohort study in Taiwan. Int. J. Environ.
+Res. Public Health 17, 1–14. https://doi.org/10.3390/ijerph17124236.
+ISO 1996-2, 2017. Description, Measurement and Assessment of Environmental Noise. Part 2:
+Determination of Environmental Noise Levels. 2017. International Organization for Stan-
+dardization, Geneva.
+ISO/TS 15666, 2021. Assessment of Noise Annoyance by Means of Social and Socio-acoustic
+Surveys. 2021. International Organization for Standardization, Geneva 2021.
+Jiang, L., Masullo, M., Maffei, L., 2016. Effect of odour on multisensory environmental evalu-
+ations of road trafﬁc. Environ. Impact Assess. Rev. 60, 126–133. https://doi.org/10.
+1016/j.eiar.2016.03.002.
+Kang, H., 2021. Sample size determination and power analysis using the G*Power software.
+J. Educ. Eval. Health Prof. 18. https://doi.org/10.3352/JEEHP.2021.18.17.
+Khosravipour, M., Khanlari, P., 2020. The association between road trafﬁc noise and myocar-
+dial infarction: a systematic review and meta-analysis. Sci. Total Environ. 731. https://
+doi.org/10.1016/j.scitotenv.2020.139226.
+Kline, P., 1994. An Easy Guide to Factor Analysis. Sage, Newbury Park.
+Koprowska, K., Łaszkiewicz, E., Kronenberg, J., Marcińczak, S., 2018. Subjective perception of
+noise exposure in relation to urban green space availability. Urban For. Urban Green. 31,
+93–102. https://doi.org/10.1016/j.ufug.2018.01.018.
+Lan, Y., Roberts, H., Kwan, M.-P., Helbich, M., 2020. Transportation noise exposure and anx-
+iety: a systematic review and meta-analysis. Environ. Res. 191. https://doi.org/10.1016/
+j.envres.2020.110118.
+Lee, J.K., Jang, J., Chang, S.I., Lee, S.I., 2021. Annoyance modeling using personal and situa-
+tional variables for construction site noise in urban areas. Appl. Acoust. 182, 108256.
+https://doi.org/10.1016/j.apacoust.2021.108256.
+Lionello, M., Aletta, F., Kang, J., 2020. A systematic review of prediction models for the expe-
+rience of urban soundscapes. Appl. Acoust. 170. https://doi.org/10.1016/j.apacoust.
+2020.107479.
+Ma, K.W., Mak, C.M., Wong, H.M., 2021. Effects of environmental sound quality on sound-
+scape preference in a public urban space. Appl. Acoust. 171. https://doi.org/10.1016/j.
+apacoust.2020.107570.
+Maristany, A., López, M.R., Rivera, C.A., 2016. Soundscape quality analysis by fuzzy logic: a
+ﬁeld study in Cordoba,Argentina. Appl. Acoust. 111, 106–115. https://doi.org/10.
+1016/j.apacoust.2016.04.013.
+Miedema, H.M.E., Fields, J.M., Vos, H., 2005. Effect of season and meteorological conditions
+on community noise annoyance. J. Acoust. Soc. Am. 117, 2853–2865. https://doi.org/
+10.1121/1.1896625.
+Montes Gonzalez, D., Barrigón Morillas, J.M., Rey Gozalo, G., 2018. Acoustic behaviour of
+plates made of different materials for measurements with the microphone ﬂush mounted.
+Appl. Acoust. 132, 135–141. https://doi.org/10.1016/j.apacoust.2017.11.011.
+Montes González, D., Barrigón Morillas, J.M., Rey Gozalo, G., Atanasio Moraga, P., 2020a. Mi-
+crophone position and noise exposure assessment of building façades. Appl. Acoust. 160.
+https://doi.org/10.1016/j.apacoust.2019.107157.
+Montes González, D., Barrigón Morillas, J.M., Rey Gozalo, G., Godinho, L., 2020b. Evaluation
+of exposure to road trafﬁc noise: effects of microphone height and urban conﬁguration.
+Environ. Res. 191. https://doi.org/10.1016/j.envres.2020.110055.
+Nguyen, T.L., Nguyen, H.Q., Yano, T., Nishimura, T., Sato, T., Morihara, T., Hashimoto, Y.,
+2012. Comparison of models to predict annoyance from combined noise in Ho Chi
+Minh City and Hanoi. Appl. Acoust. 73, 952–959. https://doi.org/10.1016/j.apacoust.
+2012.04.005.
+Nunnally, J.C., 1978. Psychometric Theory. McGraw-Hill, New York.
+Ögren, M., Molnár, P., Barregard, L., 2018. Road trafﬁc noise abatement scenarios in Gothenburg
+2015–2035. Environ. Res. 164, 516–521. https://doi.org/10.1016/j.envres.2018.03.011.
+Öhrström, E., Skånberg, A., Svensson, H., Gidlöf-Gunnarsson, A., 2006. Effects of road trafﬁc
+noise and the beneﬁt of access to quietness. J. Sound Vib. 295, 40–59. https://doi.org/10.
+1016/j.jsv.2005.11.034.
+Ouis, D., 2001. Annoyance from road trafﬁc noise: a review. J. Environ. Psychol. 21, 101–120.
+https://doi.org/10.1006/jevp.2000.0187.
+Ozkurt, N., Sari, D., Akdag, A., Kutukoglu, M., Gurarslan, A., 2014. Modeling of noise pollu-
+tion and estimated human exposure around Istanbul Atatürk Airport in Turkey. Sci.
+Total Environ. 482–483, 486–492. https://doi.org/10.1016/j.scitotenv.2013.08.017.
+Paiva, K.M., Cardoso, M.R.A., Zannin, P.H.T., 2019. Exposure to road trafﬁc noise: annoyance,
+perception and associated factors among Brazil's adult population. Sci. Total Environ.
+650, 978–986. https://doi.org/10.1016/j.scitotenv.2018.09.041.
+Paschalidou, A.K., Kassomenos, P., Chonianaki, F., 2019. Strategic noise maps and action
+plans for the reduction of population exposure in a Mediterranean port city. Sci. Total En-
+viron. 654, 144–153. https://doi.org/10.1016/j.scitotenv.2018.11.048.
+Paszkowski, W., Kotus, J., Poremski, T., Kostek, B., 2018. Evaluation of sound quality features
+on environmental noise effects – a case study applied to road trafﬁc noise. Metrol. Meas.
+Syst. 25, 517–531. https://doi.org/10.24425/123901.
+Paviotti, M., Vogiatzis, K., 2012. On the outdoor annoyance from scooter and motorbike noise
+in the urban environment. Sci. Total Environ. 430, 223–230. https://doi.org/10.1016/j.
+scitotenv.2012.05.010.
+Pirrera, S., Valck, E.D., Cluydts, R., 2014. Field study on the impact of nocturnal road trafﬁc
+noise on sleep: the importance of in- and outdoor noise assessment, the bedroom location
+and nighttime noise disturbances. Sci. Total Environ. 500–501, 84–90. https://doi.org/
+10.1016/j.scitotenv.2014.08.061.
+Preisendörfer, P., Liebe, U., Enzler, H.B., Diekmann, A., 2022. Annoyance due to residential
+road trafﬁc and aircraft noise: empirical evidence from two European cities. Environ.
+Res. 206, 112269. https://doi.org/10.1016/j.envres.2021.112269.
+de la Prida, D., Pedrero, A., Navacerrada, M.Á., Díaz, C., 2019. Relationship between the geo-
+metric proﬁle of the city and the subjective perception of urban soundscapes. Appl.
+Acoust. 149, 74–84. https://doi.org/10.1016/j.apacoust.2019.01.025.
+Quintero, G., Aumond, P., Can, A., Balastegui, A., Romeu, J., 2019. Statistical requirements
+for noise mapping based on mobile measurements using bikes. Appl. Acoust. 156,
+271–278. https://doi.org/10.1016/j.apacoust.2019.07.020.
+Reichl, P., Egger, S., Schatz, R., D’Alconzo, A., 2010. The logarithmic nature of QoE and the
+role of the weber-fechner law in QoE assessment. 2010 IEEE International Conference
+on Communications, pp. 1–5. https://doi.org/10.1109/ICC.2010.5501894.
+Renterghem, T.V., Dekoninck, L., Botteldooren, D., 2020. Multi-stage sound planning method-
+ology for urban redevelopment. Sustain. Cities Soc. 62, 102362. https://doi.org/10.
+1016/j.scs.2020.102362.
+Rey Gozalo, G., Barrigón Morillas, J.M., Montes González, D., 2019. Perceptions and use of
+urban green spaces on the basis of size. Urban For. Urban Green. 46. https://doi.org/
+10.1016/j.ufug.2019.126470.
+Rodríguez del Águila, M.M., González-Ramírez, A.R., 2014. Sample size calculation. Allergol.
+Immunopathol. (Madr.) 42, 485–492. https://doi.org/10.1016/j.aller.2013.03.008.
+Sánchez-Fernández, M., Barrigón Morillas, J.M., Montes González, D., Rey Gozalo, G., 2021.
+Relationship between temperature and road trafﬁc noise under actual conditions of con-
+tinuous vehicle ﬂow. Transp. Res. Part Transp. Environ. 100, 103056. https://doi.org/10.
+1016/j.trd.2021.103056.
+Schäffer, B., Brink, M., Schlatter, F., Vienneau, D., Wunderli, J.M., 2020. Residential green is
+associated with reduced annoyance to road trafﬁc and railway noise but increased annoy-
+ance to aircraft noise exposure. Environ. Int. 143. https://doi.org/10.1016/j.envint.2020.
+105885.
+Silva, L.T., Mendes, J.F.G., 2012. City noise-air: an environmental quality index for cities. Sus-
+tain. Cities Soc. 4, 1–11. https://doi.org/10.1016/j.scs.2012.03.001.
+Tangermann, L., Vienneau, D., Hattendorf, J., Saucy, A., Künzli, N., Schäffer, B., Wunderli,
+J.M., Röösli, M., 2022. The association of road trafﬁc noise with problem behaviour in
+Adolescents: a cohort study. Environ. Res. 207, 112645. https://doi.org/10.1016/j.
+envres.2021.112645.
+Tao, Y., Chai, Y., Kou, L., Kwan, M.-P., 2020. Understanding noise exposure, noise annoyance,
+and psychological stress: incorporating individual mobility and the temporality of the
+exposure-effect relationship. Appl. Geogr. 125, 102283. https://doi.org/10.1016/j.
+apgeog.2020.102283.
+Thiesse, L., Rudzik, F., Spiegel, K., Leproult, R., Pieren, R., Wunderli, J.M., Foraster, M.,
+Héritier, H., Eze, I.C., Meyer, M., Vienneau, D., Brink, M., Probst-Hensch, N., Röösli,
+M., Cajochen, C., 2018. Adverse impact of nocturnal transportation noise on glucose reg-
+ulation in healthy young adults: effect of different noise scenarios. Environ. Int. 121,
+1011–1023. https://doi.org/10.1016/j.envint.2018.05.036.
+Thorndike, R.L., 1982. Applied Psychometrics. Houghton-Mifﬂin, Boston.
+Tong, H., Kang, J., 2021. Relationships between noise complaints and socio-economic factors
+in England. Sustain. Cities Soc. 65, 102573. https://doi.org/10.1016/j.scs.2020.102573.
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+10
+
+Van Gerven, P.W.M., Vos, H., Van Boxtel, M.P.J., Janssen, S.A., Miedema, H.M.E., 2009. An-
+noyance from environmental noise across the lifespan. J. Acoust. Soc. Am. 126, 187–194.
+https://doi.org/10.1121/1.3147510.
+Van Renterghem, T., Botteldooren, D., 2012. Focused study on the quiet side effect in dwell-
+ings highly exposed to road trafﬁc noise. Int. J. Environ. Res. Public Health 9,
+4292–4310. https://doi.org/10.3390/ijerph9124292.
+Vázquez, V.F., Luong, J., Bueno, M., Terán, F., Paje, S.E., 2016. Assessment of an action
+against environmental noise: acoustic durability of a pavement surface with crumb rub-
+ber. Sci. Total Environ. 542, 223–230. https://doi.org/10.1016/j.scitotenv.2015.10.102.
+Vogiatzis, K., Remy, N., 2017. Soundscape design guidelines through noise mapping method-
+ologies: an application to medium urban agglomerations. Noise Mapp. 4, 1–19. https://
+doi.org/10.1515/noise-2017-0001.
+WG-AEN (Working Group Assessment of Exposure to Noise), 2007. Good Practice Guide for
+Strategic Noise Mapping and the Production Associated Data on Noise Exposure.
+European Commission, Brussels, Belgium (Position Paper 2) Version 2.
+WHO, 2011. Burden of Disease From Environmental Noise. 2011. World Health Organization,
+Regional Ofﬁce for Europe, Copenhagen.
+WHO, 2018. Environmental Noise Guidelines for the European Region. 2018. World Health
+Organization, Regional Ofﬁce for Europe, Copenhagen.
+Xu, C., Yiwen, Z., Cheng, B., Li, L., Zhang, M., 2020. Study on environmental Kuznets Curve
+for noise pollution: a case of 111 Chinese cities. Sustain. Cities Soc. 63, 102493.
+https://doi.org/10.1016/j.scs.2020.102493.
+Youssouﬁ, S., Houot, H., Vuidel, G., Pujol, S., Mauny, F., Foltête, J.-C., 2020. Combining visual
+and noise characteristics of a neighborhood environment to model residential satisfac-
+tion: an application using GIS-based metrics. Landsc. Urban Plan. 204. https://doi.org/
+10.1016/j.landurbplan.2020.103932.
+Yuan, M., Yin, C., Sun, Y., Chen, W., 2019. Examining the associations between urban built
+environment and noise pollution in high-density high-rise urban areas: a case study in
+Wuhan,China. Sustain. Cities Soc. 50, 101678. https://doi.org/10.1016/j.scs.2019.
+101678.
+Zagubień, A., Wolniewicz, K., 2021. Impact of measuring microphone location on the result of
+environmental noise assessment. Appl. Acoust. 172. https://doi.org/10.1016/j.apacoust.
+2020.107662.
+D. Montes González et al.
+Science of the Total Environment 857 (2023) 159406
+11

@@ -1,0 +1,897 @@
+Urban Forestry & Urban Greening 95 (2024) 128325
+Available online 10 April 2024
+1618-8667/© 2024 Elsevier GmbH. All rights reserved.
+Is the grass greener or the water bluer? Drivers of local park visitation 
+patterns in Phoenix, Arizona 
+Jake R. Nelson a,*, Youngjae Won b, Jieun Kim b, Michelle Stuhlmacher c, Yushim Kim b 
+a Department of Geoscience, Auburn University, Auburn, AL, United States 
+b School of Public Affairs, Arizona State University, Phoenix, AZ, United States 
+c Department of Geography and GIS, DePaul University, Chicago, IL, United States 
+A R T I C L E I N F O 
+Keywords: 
+Bluespace 
+GIS 
+Greenspace 
+Human mobility 
+Visitation Patterns 
+A B S T R A C T 
+Urban green and blue spaces provide mental and physical health benefits for their surrounding communities, but 
+the key to many of these benefits is the utilization of the urban greenspace for recreation or relaxation. For some 
+communities, use is limited by physical access to the greenspace while for other communities, the characteristics 
+of the greenspace play an important role in encouraging or discouraging use. What drives communities to use 
+their local greenspace with respect to all other available greenspace in an urban area remains an underexplored 
+question. To fill this gap, we leverage a large human mobility dataset to track a year of park visitation by res­
+idents across the Phoenix, AZ, metropolitan area combined with a spatial autoregressive model using spatially 
+lagged dependent variables. Our results suggest that it is not vegetation but the presence of water features within 
+a park that encourages higher visitation to local parks. Water features also influence visitation to parks outside a 
+communities local area; its presence within a local park decreased how often individuals visited non-local parks 
+as a proportion of their total park visitation. We discuss the implications of these finding in the context of a desert 
+city that lacks both greenspace and water. 
+1. Introduction 
+Urban green and blue spaces benefit the social, mental, and physical 
+health of a community. Urban greenspace can be parks, woodland, 
+cemeteries, community gardens, green allotments, and other features 
+dominated by a green vegetation characteristic (Taylor and Hochuli, 
+2017). Urban greenspace has been associated with reductions in mental 
+health risks and cardiovascular disease (Richardson et al., 2013), an 
+increase in community cohesion (Weinstein et al., 2015), and stronger 
+social ties (Ka´zmierczak, 2013). Moreover, greenspaces serve as 
+important mitigators of climate hazards through reductions in pollution 
+and particulate matter, localized flooding from stormwater, and urban 
+heat islands (Lei et al., 2021; Xu et al., 2022). Bluespace, on the other 
+hand, is an all-encompassing name for water features within the urban 
+environment such as natural or artificial rivers, streams, lakes, and 
+ponds. Like greenspace, bluespace also provides health benefits, 
+particularly for mental well-being (Smith et al., 2021; V¨olker and Kis­
+temann, 2015). 
+To realize these benefits, a community needs to have access to and 
+regularly utilize their surrounding green and blue spaces. The World 
+Health Organization (WHO) recommends that individuals residing in 
+urban areas have access to at least .5 – 1 ha of greenspace that is no more 
+than 300 m from their residence (WHO, 2017). European countries such 
+as Berlin and Italy follow similar planning guidelines, suggesting in­
+dividuals have access to greenspace areas ranging from 6 m2 to 9 m2 per 
+person (EEA, 2022). In addition to physical proximity to sufficient 
+greenspace, a growing body of research examines features of urban 
+greenspace that influence access and visits. For instance, Kim and col­
+leagues (2023) examined how the spatial distribution of local parks 
+related to park visitation among different social groups based on age, 
+income, race, and ethnicity. They found that the percentage of the 
+elderly population in a neighborhood showed significant access and visit 
+disparities: the increase in the percentage of the elderly population in a 
+neighborhood decreased the access to local parks but increased the visits 
+to local parks. 
+Often local greenspace (e.g., greenspace within walking distance) is 
+touted as a mechanism for enhancing greenspace access opportunities in 
+urban areas because the presence of greenspace in closer proximity to a 
+community decreases the amount of time and resources needed to utilize 
+the greenspace (Mears et al., 2020). Relatedly, communities that have 
+* Corresponding author. 
+E-mail address: jrn0037@auburn.edu (J.R. Nelson). 
+Contents lists available at ScienceDirect 
+Urban Forestry & Urban Greening 
+journal homepage: www.elsevier.com/locate/ufug 
+https://doi.org/10.1016/j.ufug.2024.128325 
+Received 1 December 2023; Received in revised form 22 February 2024; Accepted 8 April 2024 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+2
+more local greenspace available have more opportunities for greenspace 
+exposure (Jarvis et al., 2020) but despite local greenspace being 
+geographically closer or in higher abundance, whether communities use 
+their local greenspace may also be a question of other features such as its 
+quality (de Vries et al., 2020). While previous work has evaluated the 
+mechanisms behind greenspace visitation patterns from various vantage 
+points, it has predominately focused on the entire constellation of 
+greenspace that exists within a city, metropolitan area, or region. There 
+exists a lack of distinction between local and regional greenspace visi­
+tation which may obfuscate how and why communities utilize their local 
+greenspace or opt to travel to greenspace further away. 
+To better understand the extent to which characteristics of green­
+space drive communities to utilize local greenspace, we evaluate the role 
+of greenspace access, availability, and quality on greenspace use. Spe­
+cifically, we evaluate local greenspace visitation patterns to determine 
+what factors promote local greenspace use and how those factors change 
+with respect to visits to all greenspace in an urban area. We focus on two 
+quality metrics of greenspace as the primary drivers for use, the overall 
+vegetation health and the presence of a water feature, while controlling 
+for access and availability measures. Distinguishing between the effects 
+of greenspace and bluespace on visitation patterns becomes increasingly 
+salient in the context of hot and arid urban environments, such as 
+Phoenix, Arizona, where both vegetation and water features are scarce 
+but can serve as important mitigators of urban heat effects. Our research, 
+therefore, seeks to understand what the critical drivers of local green­
+space visits are in the context of a hot and arid urban city. 
+1.1. Greenspace access 
+Whether communities of different socioeconomic make-up have 
+adequate access to greenspace and its benefits is a question of ongoing 
+inquiry. Access is generally considered as the ease with which an indi­
+vidual can interact with greenspace, measured in terms of distance and 
+overall availability (Comber et al., 2008). Under certain conceptuali­
+zations of access, some high-minority communities do have more access 
+to greenspace when compared to their White counterparts (Boone et al., 
+2009). However, a large body of work suggests that access to greenspace 
+is lower in low-income and high-minority communities (Chen et al., 
+2020). These findings hold at the regional and national-level scales 
+within the United States (Klompmaker et al., 2023) and in other coun­
+tries (EEA, 2022). 
+Access to greenspace has been predominantly based on measures of 
+geographic proximity, likely reflecting the definitions suggested by 
+authoritative bodies such as the World Health Organization (WHO, 
+2017). Using Euclidean or network distance to measure the distance 
+from a community to the nearest greenspace is the de facto choice for 
+estimating access (Chen et al., 2020; Comber et al., 2008) although some 
+have utilized more nuanced approaches using gravity-based models that 
+consider both the supply (i.e., the amount of greenspace available) and 
+the demand side (i.e., the number of people trying to access greenspace) 
+of access. Still, there is almost always some consideration of distance as 
+the primary factor of greenspace accessibility (He and Li, 2022) – 
+whether that be Euclidean distance (Chen et al., 2020), network distance 
+as a walkability score (Juul and Nordbø, 2023), or something else. In 
+short, distance to greenspace is often considered a key determinant for 
+researchers examining whether a community can take advantage of the 
+benefits that greenspace offers. Indeed, when asked about their prefer­
+ences for greenspace and its use, surveyed individuals often mention 
+proximity as a primary driver (or barrier) of greenspace use (del Saz 
+Salazar and García Men´endez, 2007). Therefore, it is important to note 
+that among the research that investigates greenspace access, there is an 
+assumption (either implicit or explicit) that the closer a community is to 
+available greenspace, the more they will use it. 
+1.2. Greenspace availability 
+There are ongoing questions of whether distance alone is the primary 
+driver of greenspace use (Jones et al., 2009; Kim et al., 2023). Although 
+related, there is an important conceptual difference between greenspace 
+access and greenspace availability that is not always made. Greenspace 
+availability can be thought of as the amount of greenspace located 
+within a given distance of a community. In this sense, researchers 
+focused on availability operate under the assumption that more green­
+space (in terms of area or count) would allow for more individuals to 
+utilize the greenspace (Rey Gozalo et al., 2019), and therefore it is more 
+available for the community. Availability measures can be as simple as 
+asking how many greenspaces exist within a given community or 
+whether some form of greenspace is within a certain distance. Others 
+have taken the availability measure a step further with simultaneous 
+consideration of greenspace area. Schipperijn et al. (2010) consider area 
+and location as indicators of greenspace availability, which provides 
+important nuance for their questions of community engagement with 
+the greenspace. They found that while most of the study participants 
+(62 %) reported some form of greenspace existing within 300 m of their 
+residence, only 41 % had greenspace of at least 1 hectare within 300 m 
+while less than 20 % had a greenspace greater than 5 ha within 300 m. 
+More importantly, their results indicate that most of the participants do 
+not engage with their closest greenspace and suggest that greenspace 
+area may be driving this behavior (people seek larger greenspace more 
+than close greenspace). This same logic of greenspace availability has 
+also been applied when measuring the quantity of greenspace (the 
+number of greenspace locations) that a given community can reach 
+within a short walk or drive (You, 2016). 
+1.3. Greenspace use 
+Access and availability of greenspace may not guarantee its use 
+(Jarvis et al., 2020). Indeed, the relationship between access and use is 
+more complicated than is often assumed and driven by a variety of 
+contextual factors associated with the greenspace (Ahn et al., 2020; 
+Corley et al., 2018). For example, Cronin-de-Chavez et al. (2019) iden­
+tified multiple barriers to greenspace use that went beyond that of total 
+area, transportation, or distance. Specifically, they noted that the 
+availability of amenities, access to natural environments, the existence 
+of recreational activities, and potential for social interactions were 
+major determinants of whether a family would use a greenspace. Other 
+findings have echoed this result, suggesting that the primary drivers for 
+use include suitable pathways, restroom facilities, playgrounds, and 
+“pleasant green areas” (Maruthaveeran, 2010). These studies suggest 
+that although a greenspace may be accessible, whether the greenspace is 
+used also depends on characteristics of the greenspace that attract or 
+promote use. The features of a greenspace and its overall attractiveness 
+have previously been defined as the quality of the greenspace (Corley 
+et al., 2018; Ahn et al., 2020). 
+1.4. Greenspace quality: vegetation and water features 
+The quality of greenspace is multifaceted and can be subjective 
+(Zhang et al., 2017). Some individuals may place a strong emphasis on 
+park amenities when thinking about quality while others may judge 
+quality by the level of safety and cleanliness of a greenspace (Stessens 
+et al., 2020). Likewise, others may consider both along with factors such 
+as smell, maintenance, and overall comfort. Measurement of park 
+quality often involves surveys or observational field exercises to capture 
+the full breadth of features that contribute to a greenspace’s intrinsic 
+quality. While better for capturing a variety of qualitative factors, this 
+type of data collection limits the scope of a study to a smaller region, a 
+subset of available greenspace, or a subset of users (Brindley et al., 2019; 
+Zhang et al., 2017). To alleviate some of the limitations that data 
+collection can introduce, scholars often use proxies for quality that are 
+J.R. Nelson et al. 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+3
+more widely available and correlate with other variables that contribute 
+to greenspace quality and encourage its use (Yang et al., 2021). 
+Among the features that determine the quality of greenspace, vege­
+tation is a key factor that plays a particularly important role when it 
+comes to use (Wang et al., 2019). Indeed, people visit nature because it 
+provides opportunities to encounter, experience, and enjoy plants, ani­
+mals, and natural landscapes (Cronin-de-Chavez et al., 2019), all of 
+which have been shown to have positive mental and physical benefits. 
+More importantly, recent studies emphasize the importance of the 
+naturalness of a greenspace on its perceived quality (Fongar et al., 
+2019), which is often measured with respect to the biodiversity, species 
+richness, and abundance of vegetation within the greenspace (Shuvo 
+et al., 2021). Proxies for vegetation health and quality generally rely on 
+metrics generated using remotely sensed data such as the Normalized 
+Difference Vegetation Index (NDVI) (Wang et al., 2019; S. Zhang and 
+Zhou, 2018) or through multi-item measures gathered by surveys of 
+park users (Zhang et al., 2017). In these studies, higher greenspace 
+quality (i.e., greater greenness) is often associated with more greenspace 
+use (Fongar et al., 2019). 
+Urban water-related elements also play a significant role in 
+providing mental health benefits which may reflect the quality of the 
+greenspace (Smith et al., 2021; V¨olker and Kistemann, 2015). Specif­
+ically, urban bluespace promotes mental relaxation through passive 
+activities such as sitting and hearing the sound of water (Vierikko et al., 
+2020; V¨olker and Kistemann, 2015). It is more expensive to maintain 
+and therefore can be a sign of higher investment in the area which would 
+correlate with better quality overall. According to the findings from 
+Vierikko et al., (2020), bluespace is also associated with more green­
+space visitation. Specifically, water features such as fountains and arti­
+ficial lakes within greenspace showed a strongly positive correlation 
+with the satisfaction of urban residents and greenspace visitors. Addi­
+tionally, a survey of park users in Europe, found that the presence of 
+water was one of the more desirable qualities of a greenspace (Bijker and 
+Sijtsma, 2017). 
+1.5. Greenspace use and visitation 
+Determining whether greenspace access, availability, and quality are 
+associated with use requires a measure of visitation. Previous studies 
+have often relied on surveys for this purpose. For instance, Cohen et al., 
+(2010) collected survey information from nearly 4300 users in southern 
+California to explain the drivers for park use. Others have investigated 
+use through more intimate data collection strategies, such as interviews 
+with park users, to gather more nuanced information on both the bar­
+riers and facilitators of use (Cronin-de-Chavez et al., 2019). With 
+increased access to big data from a variety of social media sites (e.g., 
+Twitter) as well as other forms of mobile data, georeferenced informa­
+tion from cell phones is gaining traction as a viable indicator of green­
+space use. By utilizing cell phone location data, researchers quantified 
+the distance between individuals and greenspace locations over a given 
+period of time (Song et al., 2018) or specifically counted the number of 
+times individuals visited a greenspace over a given time period (Kim 
+et al., 2023; Song et al., 2022). 
+While most studies have looked at total greenspace visitation pat­
+terns, they do little to distinguish between drivers of local visitation as it 
+relates to visit patterns to all greenspace within an urban area. For 
+example, access and availability studies generally focus on regional 
+greenspace locations and factors such as proximity to evaluate differ­
+ences in visitation (Jones et al., 2009), while studies that focus on 
+greenspace quality are generally broader in geographic scope and show 
+a willingness by visitors to travel to greenspace that is of higher 
+perceived quality (Bijker and Sijtsma, 2017). Understanding how local 
+park visitation patterns vary in the context of an individual’s overall 
+greenspace visits can provide a unique lens from which to make de­
+cisions surrounding how to facilitate more greenspace exposure. For 
+example, when Vierikko and Colleagues (2020) interviewed 1474 
+visitors across 33 parks in four European cities, they found that moti­
+vation to visit greenspace was strongly related to high structural di­
+versity of the greenspace. That is, variation in the park’s features (i.e., its 
+qualities) made it more desirable to visit regardless of distance. On the 
+other hand, the same study also found that visitors to parks with fewer 
+qualities did so primarily because of their (closer) proximity. 
+Thus, it is still an open question whether being close to greenspace is 
+enough to encourage visitation, or whether greenspace needs to also 
+include certain qualities for it to be fully utilized. The objective of this 
+work is to examine the quality of the park as measured by its greenness 
+(vegetation abundance and health) and blueness (the presence of water) 
+to deepen our understanding of what promotes local greenspace visita­
+tion and what discourages it. This research therefore fills a gap by 
+looking at both local park visitation patterns on their own and in the 
+context of visits to all available parks in an urban area to build a more 
+complete picture of greenspace visitation patterns. 
+1.6. Hypotheses 
+The quality of a greenspace defined by its environmental charac­
+teristics (i.e., vegetation and water features) matters. Recent analyses 
+note that “pleasant green areas” and “natural environments” are key 
+promoters of use (Cronin-de-Chavez et al., 2019), while others find that 
+the greenness level of a park in combination with other characteristics 
+such as water (bluespace), is associated with higher visitation (Zhang 
+and Zhou, 2018). We expect that high-quality local greenspace 
+measured by vegetation health and the presence of bluespace will have a 
+positive effect (increase) on local visitation, all else equal. 
+H1.
+: As the quality of local greenspace increases, visitation from the 
+community surrounding that greenspace also increases, all else equal. 
+H1a.
+: Census Block Groups that have local parks with higher greenness 
+values will have higher visitation to their local parks. 
+H1b.
+: Census Block Groups with local park bluespace will have higher 
+visitation to their local parks. 
+It follows that if proximity to local greenspace increases visitation 
+frequency, the share of visits to other parks in the region by that same 
+community will decrease, especially if they have access to high-quality 
+local parks. Therefore, we expect visits to local greenspace to increase 
+relative to total greenspace visits, especially when the quality of the 
+local greenspace is high. This leads to our second hypothesis: 
+H2.
+: As the quality of local greenspace (greenness or bluespace) increases, 
+the share of visits that Census Block Group residents make to parks outside the 
+local area with respect to visits to all parks in the metro region will decrease, 
+all else equal. 
+2. Methods and data 
+2.1. Study area 
+We investigate the distribution of parks as a form of local greenspace 
+in an area of the United States that is particularly susceptible to the 
+effects of climate change and where greenspace plays an important 
+mitigating role: Phoenix, Arizona. We constrained our study to focus on 
+parks located within the geographical scope of the Phoenix MSA and to 
+Census Block Groups (CBGs) that make up the Phoenix-Mesa urban area 
+(Fig. 1). To define parks, we followed Trust for Public Land’s (TPL) 
+criteria, encompassing publicly accessible open spaces, including pub­
+licly owned local, state, and national parks, trails, and open spaces (TPL, 
+2023). We use the geographic boundary file from TPL to define park 
+locations across the study area. 
+J.R. Nelson et al. 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+4
+2.2. Dependent variables 
+We leverage recent data on human mobility to measure visitation 
+patterns to parks in the study area. We obtained park visitation data 
+from Safegraph, a data company known for providing anonymized and 
+aggregated location data and offering insights into visitation patterns 
+and visitation trends to various places of interest (POIs). Specifically, we 
+used Safegraph’s monthly patterns dataset, which records visitor flow 
+between CBGs as origins and POIs as destinations (Safegraph, 2022). 
+Safegraph data was initially marketed as a customer segmentation tool 
+to help understand consumer spending patterns, however, it has been 
+growing in use for academic research focused on human mobility 
+(Haraguchi et al., 2022). Although tests of validity and representative­
+ness of the Safegraph data as a proxy for place visitation are beyond the 
+scope of this work, it has been previously documented in a number of 
+studies (see Parolin and Lee, (2021) and Yabe et al., (2021) for 
+examples). 
+We pulled Safegraph visit data from the months between January 1 
+and December 31, 2019 (before COVID-19 shutdowns). Prior to calcu­
+lating visit counts to each park, the Safegraph visitation data was 
+normalized to account for the number of devices detected from each 
+CBG i to park j, in a given year (y) and month (t), and the population of 
+each CBG i from which a resident visits a park. We account for multiple 
+visits from a CBG to a park from a single park visitor by multiplying by 
+the visit-to-visitor ratio (Eq. 1). 
+Normalized
+Visitijyt = Device
+Countijyt
+Device
+Residingiyt
+× Populationi × Visitjyt
+Visitorjyt
+(1) 
+The Safegraph data provided us with the normalized visit that each 
+CBG made to parks recorded in the Safegraph dataset. Next, using the 
+geographic boundary file of each park within the TPL data set and the 
+centroid of each CBG (Fig. 1), we performed a proximity analysis around 
+each CBG to define the local park(s) associated with each CBG. For this 
+study, we define local park as those where any part of the park boundary 
+is located within a 1 km radius of the CBG’s centroid. We use a 1 km 
+radius to capture the parks that someone living within each CBG could 
+reasonably reach within a 10-minute walk. While the threshold for how 
+far someone would walk to get to a park varies, previous studies on park 
+accessibility often use the 10-minute cutoff for the measurement of 
+equitable access (Kim et al., 2023; Koohsari et al., 2013; Nesbitt et al., 
+2019). Individuals who live within a 10-minute walk of a park are 
+associated with more use of that park (Toftager et al., 2011). For each 
+park within the 1 km radius of the CBG, we added an indicator to 
+establish whether the CBG-park pair was local or not. This allowed us to 
+determine the total number of visits made to local parks as well as the 
+total number of visits made to all other parks in the study region from 
+wach CBG. Where the latter is concerned, we define the total number of 
+visits to all parks (inclusive of local parks) as the metro park visit count 
+(Eq. 2). When determining which parks qualify as local for each CBG we 
+also recorded the exact distance between each CBG centroid and the 
+nearest park (whether local or not) and included this as an additional 
+measure in the dataset. 
+We used the normalized Safegraph park visitation data to compute 
+our first dependent variable (DV) of "CBG’s local park visits per capita" by 
+summing the normalized visits from each CBG to their local parks and 
+dividing it by the CBG population. The resulting value was right skewed 
+with the majority of CBGs visiting parks infrequently while a small 
+subset of CBGs visited parks at a much higher frequency. Prior to 
+Fig. 1. Analysis study extent with CBGs outlined in red. The Phoenix-Mesa Urban area is outlined in blue. Greenspace locations are denoted by green patches while 
+the CBGs that contained bluespace have been indicated with a blue dot. 
+J.R. Nelson et al. 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+5
+proceeding with the analysis, we applied a log transform to the variable 
+to impose a normal distribution. Our second dependent variable was the 
+"metro park visit ratio" representing the proportion of visits to other 
+parks in the metro region relative to local park visits. In effect, this 
+measure implies visits to parks beyond the CBG’s local area. If CBG 
+residents visit local parks more than other parks in the metro region, we 
+would expect this value to decrease. Using the same normalized visita­
+tion data, we constructed this variable in a similar manner; subtracting 
+the proportion of local park visits out of total visits to all parks in the 
+metro from 1 (see Eq. 2 below). We provide brief descriptions of what 
+the two variables measure in Table 1 below. 
+Metro Park Visit Ratioi = 1 −
+Local Park Visit Counts of CBG i
+Metro Region Park Visits of CBG i
+(2) 
+It is important to note that not all parks within the TPL dataset are 
+represented within the Safegraph POI dataset. When constructing the 
+dependent variables, we therefore excluded CBGs that were either 
+missing local parks or those with local parks missing visitation data in 
+the Safegraph dataset. We did this for two reasons. First, our primary 
+interest was in how park quality impacts local park visits. If a given 
+CBG/community does not have a local park, then we can’t say with any 
+certainty whether they would visit a local park given a certain level of 
+park quality. Second, Safegraph’s visit data is somewhat limited by the 
+POIs that they track visitation to. We opted not to make any assumptions 
+about visits (e.g., by imputing the data) to local parks that did not have 
+any Safegraph visitation data. In recognition that CBGs missing local 
+parks may have an impact on the visitation metrics to local parks from 
+each CBG, we did include a control variable describing the percentage of 
+local parks that were missing for each CBG. In other words, following the 
+identification of the number of local parks associated with each CBG 
+based on TPL data, we proceeded to compare this list of local parks with 
+those featured in the Safegraph visitation data. This enabled us to 
+calculate the degree of overlap in local parks present in both datasets for 
+the CBGs. After excluding CBGs that did not have any local parks or 
+visitation data in the SafeGraph dataset, the final dataset included 1637 
+CBGs (about 77 % of CBG’s in the study area). 
+2.3. Independent variables 
+Our primary interest is in the effect of park quality on local park 
+visitation as measured by the vegetation and water features. To measure 
+the vegetation of parks, we utilized the Normalized Difference Vegeta­
+tion Index (NDVI) which quantifies the vegetation abundance and health 
+for each park within the TPL dataset (Stuhlmacher et al., 2022; Tucker, 
+1979). Remotely sensed data of the study site was acquired using Google 
+Earth Engine (GEE), a cloud-based platform for multi-scale geospatial 
+analysis (Gorelick et al., 2017). GEE serves as both a mechanism for data 
+access and data analysis facilitated using JavaScript or Python API’s. For 
+our analysis, we utilized GEE to obtain Sentinel-2 imagery from 2019 
+which was first filtered to remove images with greater than 20 % cloud 
+cover. Next, a cloud mask was applied pixel by pixel using QA (Quality 
+Assessment) band values. Park NDVI was calculated from the resulting 
+cloud-free composite image. We calculated the average NDVI value for 
+each park using the bounds of the TPL park polygon data file (.shp). For 
+CBGs with multiple local parks, we calculated the average NDVI value of 
+the local parks and assigned that to the CBG as its measure using the 
+pair-wise CBG-park table. 
+When calculating the NDVI we considered two different time periods 
+to account for the seasonality of vegetation cover in the Phoenix region. 
+Our first NDVI calculation was based on the average NDVI values 
+collected over the course of a full year. However, given the rather 
+oppressive temperatures and lack of rainfall that Phoenix experiences 
+during the summer months, NDVI can be significantly lower during this 
+time of year. This would be especially true for parks that aren’t irrigated 
+and may be considered as lower quality. To reduce the bias that seasonal 
+temperatures may have on park NDVI, we also considered a second 
+NDVI measure based on the 6-month period spanning October – April 
+when temperatures are more comfortable, and parks are less likely to be 
+drought-stricken (Appendix Fig. 1). We evaluated the annual NDVI 
+values for our primary analysis but reported the results of the 6-month 
+analysis in the Supplemental Info (SI Tables 2 and 3). To determine 
+whether parks contained a water feature we used the 2019 National 
+Land Cover Data Set’s open water class (Dewitz & USGS, 2021) to 
+calculate the proportion of each park polygon covered by open water 
+pixels (Table 2). For the statistical analysis this variable was simplified 
+to a binary presence/absence. 
+Fig. 2 shows the distribution of local park NDVI values associated 
+with each CBG, along with the location of block groups containing 
+bluespace. NDVI values range from −1–1. Negative values and those 
+closer to 0 indicate very sparse vegetation or vegetation that could be 
+unhealthy. Values closer to 1 indicate healthier and more abundant 
+vegetation. Therefore, darker green colors in Fig. 2 indicate areas where 
+the local park NDVI values are higher (healthier and more abundant 
+vegetation) while lighter green areas indicate lower NDVI values (less 
+abundant vegetation and/or not as healthy). Blue circles show which 
+CBGs have bluespace in their local parks. 
+In addition to the park’s NDVI values and presence of water, we also 
+included several other control variables related to park characteristics. 
+We included controls for distance to the nearest local park as a measure 
+related to park access by each CBG using the Euclidean distance to the 
+nearest boundary of the local parks from the CBG shape centroid. For 
+CBGs with more than one local park, we only recorded the shortest 
+distance. Since some local parks may be larger and designed to serve 
+users outside the region (e.g., national parks), we added together the 
+acreage of a CBGs local parks to control for the total local park areas 
+available. Finally, we recorded the total number of local parks available 
+to each CBG (within the 1 km buffer). 
+Table 1 
+Explanation of the two dependent variables used in the study. 
+Variable 
+Description 
+Per capita local park 
+visits 
+Visits made to parks located within 1 km of a CBG’s centroid 
+divided by the population of the CBG. 
+Metro park visit 
+ratio 
+The inverse ratio of local park visits to metro park visits 
+describes how many visits were made to local parks in 
+relation to total visits made to all parks in the metro region 
+made from the CBG. 
+Table 2 
+Descriptive statistics of the variables used in the analysis. 
+Variable 
+Mean 
+Std Dev 
+Min 
+Max 
+Dependent Variable(s) 
+Per capita local park visits 
+2.59 
+2.14 
+0.00 
+23.80 
+Metro park visit ratio 
+0.82 
+0.12 
+0.12 
+1.00 
+Independent Variables: 
+Park Access, Availability 
+and Quality 
+Min distance to the nearest 
+local park 
+460.56 
+291.17 
+0.00 
+2922.30 
+Total local park acreage 
+418.40 
+1655.63 
+0.00 
+16,837.74 
+Number local parks 
+2.83 
+2.22 
+1.00 
+17.00 
+Water percent cover 
+.02 % 
+2.0 % 
+0.00 
+34 % 
+Water presence 
+N/A 
+N/A 
+0.00 
+1.00 
+Local park average NDVI 
+0.27 
+0.09 
+0.00 
+0.56 
+CBG Characteristics 
+Population density 
+6721.15 
+4541.93 
+8.60 
+41393.84 
+Proportion White 
+77 % 
+15 % 
+15 % 
+100 % 
+Proportion Hispanic 
+32 % 
+26 % 
+0 % 
+100 % 
+Per capita income 
+31,771.82 
+17,170.14 
+1175.00 
+168,302.00 
+Median age of resident 
+37.63 
+10.87 
+16.10 
+76.80 
+Neighborhood age (median 
+year home built) 
+1982.00 
+13.31 
+1940.00 
+2012.00 
+Percent of local parks 
+missing from CBG 
+13 % 
+21 % 
+0 % 
+91 % 
+J.R. Nelson et al. 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+6
+We use controls for the socioeconomic and demographic character­
+istics of each CBG in light of other studies that have documented in­
+equities in both park access and greenspace amenities related to 
+historically underrepresented groups and communities of lower socio- 
+economic status (Kim et al., 2023; Nelson et al., 2021; Rigolon et al., 
+2018). Socioeconomic and demographic data for each of the CBGs were 
+sourced from the American Community Survey 2015–2019 5-year 
+dataset. We used the unique identifier of the CBGs to assign the 
+socio-economic and demographic information to each CBG. Very few 
+variables contained missing values after joining the socio-economic and 
+demographic values to the CBGs (<0.5 %), but for the ones that were we 
+imputed the values using the mean of the missing CBGs neighbors (i.e., 
+neighborhood age). Highly skewed variables were log-transformed to 
+impose normality. We provide the full list of variables and their 
+descriptive statistics prior to any transformations in Table 2. 
+2.4. Statistical analysis 
+We focused on identifying the factors associated with park visitation 
+patterns and their influence on whether communities visit their local 
+park, with special attention paid to park characteristics that reflect 
+quality, namely, the abundance and health of vegetation and the pres­
+ence of water within the park. Prior to running a full statistical analysis, 
+we performed several tests for spatial autocorrelation to determine 
+whether spatial effects would need to be accounted for in our modeling. 
+The Moran’s I test resulted in a value of.241 and was significant (p<.01), 
+indicating the data, and more specifically our dependent variable, was 
+spatially clustered. Thus, a conventional OLS regression model was not 
+appropriate. Operating under the assumption that an increase in local 
+park quality (either greenness or water features) would increase local 
+park visits, while an increase in local park quality would decrease visits 
+to parks outside of the local area, we applied a spatial autoregressive 
+(SAR) model using a spatially lagged dependent variable with a first- 
+order queen contiguity weights matrix to evaluate the relationship be­
+tween our dependent and independent variables of interest. The model 
+was implemented in Python using the spreg analysis library. The same 
+SAR model was used to assess the relationship between park charac­
+teristics and visitation patterns for both dependent variables. 
+3. Results 
+The spatial distribution of our two dependent variables, per capita 
+local park visits and metro park visit ratio, is plotted in Fig. 3. To reit­
+erate, the local park visits are those made to parks within 1 km of the 
+CBG centroid while the metro park visit ratio (Eq. 2) reflects the number 
+of local park visits out of all visits to metro parks made by individuals in 
+a CBG. The distribution of the values is somewhat opposite one another. 
+Areas with high per capita local park visits (Fig. 3A) tend to have lower 
+values of the metro park visit ratio (Fig. 3B), suggesting that CBGs with 
+higher rates of local park visits will visit parks outside of this local area 
+at a lower rate. Generally speaking, per capita local park visits were 
+higher in the central and north-central CBGs of Phoenix as well as in 
+north Mesa and parts of Glendale (west Phoenix). The spatial distribu­
+tion of the metro park visit ratio values was more heterogeneous with 
+high values spread throughout central Phoenix, in portions of east and 
+west Mesa, and in North Scottsdale. Per capita visits across all CBGs 
+tended to be lower (mean of 2.5), with only a few CBGs having signifi­
+cantly higher per capita local visits in east Mesa and in portions of 
+central Phoenix. 
+Models 1 and 2 in Table 2 explore per capita local park visits using 
+NDVI values calculated over the whole year. Model 1 includes the effect 
+of NDVI alone while Model 2 adds the indicator for the presence of 
+water/bluespace within the park. Models 3 and 4 (Table 4) focus on the 
+metro park visit ratio using the same NDVI and bluespace variables, 
+respectively. All variables have a variance inflation factor (VIF) below 3 
+(Supplemental Info Table 1). 
+For models 1 and 2, per capita local park visits appear to be driven by 
+access and availability which is consistent with previous studies. Spe­
+cifically, the minimum distance to the nearest local parks plays an 
+influential role, with per capita visits significantly increasing as the 
+distance to the nearest local park decreases. The number of local parks is 
+a positive and significant factor in local park visitation, indicating that 
+communities with a higher number of local parks will have a higher 
+local park per capita visitation rate on average. The amount of park 
+space is also a key factor. The positive and significant relationship 
+suggests that communities with larger local parks visit them more 
+frequently. 
+The NDVI variable measuring vegetation health and abundance is 
+only significant in Model 1 when we do not account for the presence of 
+water. Moreover, the relationship between NDVI and park visitation is in 
+an unexpected direction but only to a small degree. In Model 1, we find 
+that as the NDVI of the local park increases, local park visitation de­
+creases. The directionality of this relationship persists when we control 
+for the presence of water (Model 2), however, the relationship between 
+NDVI and park visitation becomes statistically insignificant. Water 
+presence does have a positive and significant effect on local park visi­
+tation, indicating that the number of local visits increases significantly 
+when a local park has a water feature. 
+There are several characteristics of the communities that also appear 
+to influence the frequency of local park visits. Specifically, we find a 
+positive and significant relationship between local park visits and in­
+come, suggesting that wealthier communities visit local parks more 
+frequently, all else equal. We also find that communities with higher 
+proportions of Hispanic residents visit local parks more frequently. The 
+age of the neighborhood and the median age of the community members 
+are not significantly related to local park visitation, nor is the population 
+density of the community. 
+Models 3 and 4 focus on the metro park visit ratio. A positive 
+Table 3 
+SAR model results for per capita local park visits. Model 1 includes the effect of 
+NDVI alone, while Model 2 adds the indicator for the presence of water/blue 
+space within the park. 
+Model 1 
+Model 2 
+Variable 
+Coefficient 
+Std. 
+Error 
+p- 
+val 
+Coefficient 
+Std. 
+Error 
+p- 
+val 
+Minimum dist. 
+to park (log) 
+-0.1391 
+0.0076 
+*** 
+-0.1396 
+0.0076 
+*** 
+Local park 
+count 
+0.0361 
+0.0026 
+*** 
+0.0348 
+0.0026 
+*** 
+Local park 
+area 
+0.0358 
+0.0065 
+*** 
+0.0286 
+0.0068 
+*** 
+NDVI (annual) 
+-0.1005 
+0.0502 
+* 
+-0.0683 
+0.0509 
+Water 
+presence 
+0.0397 
+0.0112 
+*** 
+Percent local 
+park 
+missing 
+-0.2257 
+0.0260 
+*** 
+-0.2197 
+0.0260 
+*** 
+%White 
+0.0250 
+0.0363 
+0.0237 
+0.0362 
+%Hispanic 
+0.0660 
+0.0255 
+** 
+0.0677 
+0.0254 
+** 
+Per capita 
+income 
+(log) 
+0.1333 
+0.0330 
+*** 
+0.1332 
+0.0329 
+*** 
+Median 
+resident age 
+-0.0002 
+0.0006 
+-0.0002 
+0.0006 
+Median house 
+age 
+-0.0008 
+0.0004 
+-0.0008 
+0.0004 
+* 
+Population 
+density 
+0.0000 
+0.0000 
+0.0000 
+0.0000 
+Constant 
+1.4358 
+0.7821 
+1.4173 
+0.7792 
+Rho 
+0.3622 
+0.0272 
+*** 
+0.3612 
+0.0272 
+*** 
+R2 (pseudo) 
+0.463 
+0.467 
+AIC 
+-932.383 
+-942.867 
+* p < 0.05 
+** p < 0.01 
+*** p < 0.001 
+J.R. Nelson et al. 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+7
+Fig. 2. NDVI values of local parks assigned to each CBG. NDVI values determined using values for all months in the year 2019. 
+Fig. 3. Spatial distribution of the dependent variable for per capita local park visits (A) and the visit ratio of local to metro park visits (B) associated with each CBG 
+across the study extent. 
+J.R. Nelson et al. 
+
+Urban Forestry & Urban Greening 95 (2024) 128325
+8
+coefficient on an independent variable suggests that the community 
+visits to metro parks relative to local parks is higher, while a negative 
+coefficient suggests the visits to parks outside the local area decrease as 
+the value of the variable increases. We find a smaller subset of significant 
+variables, although all of the access measures we included- number of 
+local parks, park areas, and minimum distance to local parks - remain 
+significant predictors. The direction of their relationship indicates that 
+access to more local parks and larger local park areas (both indicative of 
+availability) decreases the visits to parks outside the local area. As one 
+might expect, local parks that are further away (access) decrease the 
+share of local park visits, which, to some extent, is a function of how we 
+have defined what a “local” park is (within 1 km of a CBG centroid). 
+Aside from the coefficient for median house age of the CBG (which is 
+positive), all other variables related to the CBG characteristics are 
+insignificant. 
+The local park NDVI variable is not a significant predictor of the 
+metro park visit ratio, but it is worth mentioning that the coefficient is 
+positive and would suggest more visits to parks outside the local vicinity 
+as the local park NDVI increases. Again, the direction of this coefficient 
+runs counter to what we expected. In Model 4, the presence of water in 
+the local parks continues to have an influential effect on park visitation. 
+Local parks that have water increase visitation to local parks relative to 
+all parks visits in the region. 
+We also evaluated the effect of the 6-month NDVI values on local 
+park visits and to those outside the local area. Aside from small changes 
+in the magnitude of the coefficients, the significance and relationship 
+between each of the variables remained the same regardless of the time- 
+period that the NDVI was computed for (Supplemental Info Table 2 and 
+Table 3). 
+4. Discussion 
+Planning guidelines for greenspace provision are largely focused on 
+equitable access and availability of greenspace (EEA, 2022; WHO, 2017). 
+Solutions to inequitable greenspace distribution are primarily focused 
+on integrating more local greenspace into communities with minimal 
+access and availability. However, irrespective of access and availability, 
+local greenspace use may differ depending on the neighborhoods’ de­
+mographic characteristics (e.g., Kim et al., 2023) or the local parks’ 
+features. Although the park may be accessible from a purely geographic 
+proximity perspective, the community use of the green space could be 
+limited if it does not provide the features and qualities that the would-be 
+park users look for in greenspace (Knapp et al., 2019). As a result, 
+community members will either not visit local greenspace, or seek out 
+greenspace that is further away (and at less frequent intervals). The 
+result is less exposure to local greenspace with fewer opportunities for 
+the social and health benefits they provide. In this paper, we evaluated 
+the visitation patterns of parks in a large metropolitan region with 
+respect to two important drivers of park use (greenness and the presence 
+of bluespace) to deepen our understanding of how and why greenspace 
+is visited. There are several important contributions of this work. 
+We leveraged a temporally and spatially expansive dataset 
+describing patterns of human movement. This is an important departure 
+from much of the greenspace use literature that can often be limited by 
+data collection strategies that rely on surveys or interviews. Although 
+these survey or interview data can provide important context, they are 
+limited in spatial scope, participants, and the number of parks consid­
+ered. To get around that, we use mobility data to track the normalized 
+number of visits made to a major subset of parks across the entire 
+Phoenix-Mesa metropolitan area. We tracked these visits for every 
+Census Block Group in the region. After controlling for several important 
+confounding variables related to park accessibility (area, distance, and 
+number), we found that vegetation health and abundance (NDVI) were 
+associated with a significant decrease in local park visitation. This result 
+supports a growing body of work that suggests that vegetation quality is 
+less of a reason to visit a park when compared to other characteristics 
+(Bahriny and Bel
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

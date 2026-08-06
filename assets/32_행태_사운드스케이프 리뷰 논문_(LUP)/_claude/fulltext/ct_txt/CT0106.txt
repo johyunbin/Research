@@ -1,0 +1,6354 @@
+Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+Contents
+ lists
+ available
+ at
+ ScienceDirect
+Sustainable
+ Cities
+ and
+ Society
+jou
+ rnal
+ h
+ om
+ epage:
+ www.elsevier.com/locate/scs
+Differences
+ in
+ soundscape
+ appreciation
+ of
+ walking
+ sounds
+ from
+different
+ footpath
+ materials
+ in
+ urban
+ parks
+Francesco
+ Aletta a, Jian
+ Kang a,∗, Arianna
+ Astolﬁb, Samuele
+ Fuda b
+a School
+ of
+ Architecture,
+ University
+ of
+ Shefﬁeld,
+ Shefﬁeld,
+ United
+ Kingdom
+b Department
+ of
+ Energy,
+ Politecnico
+ di
+ Torino,
+ Torino,
+ Italy
+a
+ r
+ t i
+ c l e 
+i n
+ f o
+Article
+ history:
+Received
+ 12
+ October
+ 2015
+Received
+ in
+ revised
+ form
+ 27
+ January
+ 2016
+Accepted
+ 4
+ March
+ 2016
+Available
+ online
+ 10
+ March
+ 2016
+Keywords:
+Soundscape
+Noise
+ annoyance
+Urban
+ parks
+Walking
+ sounds
+a
+ b
+ s
+ t r
+ a c t
+The
+ perception
+ of the acoustic
+ environment,
+ namely
+ the soundscape,
+ in urban parks
+ has attracted
+ increas-
+ing attention.
+ There is a growing
+ belief
+ that the management
+ of the acoustic
+ environment
+ of urban
+ parks
+should
+ be addressed
+ within a broader
+ soundscape
+ methodology
+ rather than a merely
+ noise control
+ one.
+One of the most frequent
+ sound
+ sources
+ in urban parks is walking
+ sound; however walking sound
+ per-
+ception
+ so far has mainly
+ been investigated
+ for indoor
+ environments.
+ This paper aims
+ to
+ investigate
+ the
+overall
+ effect
+ of walking
+ sounds
+ from different
+ walked-on
+ materials
+ on people’s
+ soundscape,
+ combined
+with
+ other non-acoustical
+ factors. Moreover,
+ this research
+ investigates
+ how perception
+ varies
+ when the
+walking
+ sound is self-produced
+ or simply
+ listened.
+ To this
+ purpose, two laboratory
+ experiments
+ in Italy
+and
+ UK
+ were
+ carried out with four walked-on
+ materials
+ that were
+ considered
+ to
+ be possible
+ design solu-
+tions for the footpaths
+ of urban parks: grass, wood, stone
+ and gravel. Results
+ showed
+ a signiﬁcant
+ effect
+of
+ materials
+ on perceived
+ noise annoyance
+ and soundscape
+ quality,
+ as well as a partial
+ inﬂuence of other
+non-acoustical
+ factor.
+ Considering
+ the individual
+ responses
+ for the four selected materials,
+ gravel
+ was
+associated
+ to the worst soundscape
+ quality (M = 38.42)
+ while grass to the best one (M = 65.05). While a
+group
+ effect (Italian and UK samples)
+ was observed
+ for perceived
+ noise annoyance
+ corresponding
+ to the
+materials,
+ no signiﬁcant
+ group effect was found for soundscape
+ evaluation.
+ Eventually,
+ people
+ simply
+listening
+ to the walking
+ sounds
+ resulted to be less tolerant towards
+ them, with respect to
+ people who
+self-produced
+ the sounds
+ by walking.
+©
+ 2016 Elsevier B.V. All rights
+ reserved.
+1.
+ Introduction
+The
+ Directive
+ 2002/49/EC
+ of
+ the
+ European
+ Parliament
+ and
+ of
+ the
+Council
+ relating
+ to
+ the
+ Assessment
+ and
+ Management
+ of
+ Environ-
+mental
+ Noise
+ (European
+ Parliament
+ and
+ Council,
+ 2002),
+ also
+ known
+as
+ Environmental
+ Noise
+ Directive
+ (END),
+ requires
+ that
+ the
+ Member
+States
+ of
+ the
+ European
+ Union
+ deﬁne
+ and
+ protect
+ ‘quiet
+ areas’.
+ Even
+though
+ the
+ criteria
+ for
+ identifying
+ such
+ areas
+ are
+ still
+ being
+ dis-
+cussed,
+ it
+ is
+ generally
+ appreciated
+ that
+ within
+ the
+ city
+ realm
+ such
+areas
+ tend
+ to
+ coincide
+ with
+ urban
+ parks.
+ Indeed,
+ urban
+ parks
+ repre-
+sent
+ a
+ vital
+ asset
+ for
+ modern
+ cities
+ and
+ they
+ are
+ therefore
+ receiving
+increasingly
+ research
+ attention
+ from
+ a
+ wide
+ range
+ of
+ different
+ disci-
+plines
+ like
+ urban
+ planning
+ and
+ design,
+ environmental
+ psychology,
+∗Corresponding
+ author
+ at:
+ School
+ of
+ Architecture,
+ University
+ of
+ Shefﬁeld,
+ Western
+Bank,
+ Arts
+ Tower—S10
+ 2TN
+ Shefﬁeld
+ United
+ Kingdom.
+E-mail
+ addresses:
+ f.aletta@shefﬁeld.ac.uk, francesco.aletta@virgilio.it
+ (F.
+ Aletta),
+j.kang@shefﬁeld.ac.uk
+ (J.
+ Kang),
+ arianna.astolﬁ@polito.it
+ (A.
+ Astolﬁ),
+samuele.fuda@studenti.polito.it
+ (S.
+ Fuda).
+sociology,
+ and
+ acoustics
+ (Thompson,
+ 2002; Chiesura,
+ 2004;
+ Yang
+ &
+Kang,
+ 2005; Brambilla
+ &
+ Maffei,
+ 2006).
+There
+ is
+ a
+ growing
+ belief
+ that
+ the
+ management
+ of
+ the
+ acous-
+tic
+ environment
+ of
+ urban
+ parks
+ should
+ be
+ addressed
+ also
+ through
+a
+ soundscape
+ methodology,
+ rather
+ than
+ an
+ ordinary
+ noise
+ control
+methodology
+ (Aletta
+ &
+ Kang,
+ 2015).
+ The
+ deﬁnition
+ of
+ ‘soundscape’
+has
+ recently
+ been
+ standardised
+ as
+ the
+ “acoustic
+ environment
+ as
+perceived
+ or
+ experienced
+ and/or
+ understood
+ by
+ a
+ person
+ or
+ peo-
+ple,
+ in
+ context”
+ (International
+ Organization
+ for
+ Standardization,
+2014).
+ Thus,
+ there
+ is
+ a
+ clear
+ difference
+ between
+ the
+ acoustic
+ envi-
+ronment
+ (i.e.
+ the
+ physical
+ phenomenon)
+ and
+ the
+ soundscape
+ (i.e.
+the
+ perceptual
+ construct),
+ and
+ over
+ the
+ years
+ more
+ and
+ more
+ mod-
+els
+ and
+ methods
+ are
+ being
+ developed
+ to
+ evaluate
+ soundscape
+ (e.g.
+Aletta,
+ Kang,
+ &
+ Axelsson,
+ 2016; Axelsson,
+ Nilsson,
+ &
+ Berglund,
+ 2010;
+Axelsson,
+ Lundén,
+ &
+ Nilsson,
+ 2013; Cain,
+ Jennings,
+ &
+ Poxon,
+ 2013).
+Overall,
+ the
+ noise
+ control
+ and
+ soundscape
+ methodologies
+ have
+ dif-
+ferent
+ approaches,
+ but
+ they
+ are
+ complementary:
+ the
+ ﬁrst
+ considers
+sound
+ as
+ a
+ ‘waste’
+ and
+ emphasises
+ ‘discomfort’,
+ whilst
+ the
+ lat-
+ter
+ considers
+ sound
+ as
+ a
+ ‘resource’
+ and
+ emphasises
+ ‘preference’
+(Brown,
+ 2012).
+ Both
+ approaches
+ are
+ increasingly
+ integrated
+ and
+http://dx.doi.org/10.1016/j.scs.2016.03.002
+2210-6707/©
+ 2016
+ Elsevier
+ B.V.
+ All
+ rights
+ reserved.
+
+368
+ 
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+applied
+ together
+ in
+ the
+ broader
+ framework
+ of
+ ‘urban
+ sound
+ plan-
+ning’
+ by
+ researchers
+ (e.g.
+ Alves,
+ Altreuther,
+ &
+ Scheuren,
+ 2014; Alves
+et
+ al.,
+ 2015;
+ Asdrubali,
+ 2014) and
+ local
+ authorities
+ (Lavia,
+ Eastel,
+Close,
+ Witchel,
+ Axelsson,
+ 2012; Eastel
+ et
+ al.,
+ 2014).
+Within
+ the
+ soundscape
+ approach
+ it
+ is
+ essential
+ to
+ deal
+ with
+ the
+nature
+ of
+ sounds
+ (e.g.
+ wanted
+ or
+ unwanted
+ sounds)
+ and
+ great
+ atten-
+tion
+ should
+ be
+ paid
+ to
+ how
+ all
+ present
+ sound
+ sources
+ interact
+ and
+are
+ perceived
+ by
+ people
+ in
+ a
+ given
+ context.
+ Considering
+ the
+ acous-
+tic
+ environment
+ of
+ urban
+ parks,
+ this
+ study
+ investigated
+ a
+ particular
+sound
+ source,
+ namely
+ the
+ walking
+ sound.
+ The
+ access
+ to
+ urban
+ parks
+is
+ a
+ core
+ value
+ in
+ modern
+ communities
+ (Kornblum,
+ 1978)
+ and
+ the
+presence
+ of
+ people
+ making
+ a
+ walk
+ looking
+ for
+ calmness,
+ or
+ as
+ a
+ part
+of
+ their
+ route
+ across
+ the
+ urban
+ realm
+ implies
+ that
+ walking
+ sounds
+can
+ be
+ a
+ frequent
+ sound
+ source
+ in
+ such
+ contexts,
+ and
+ consequently
+they
+ can
+ affect
+ their
+ soundscape.
+ Many
+ other
+ sound
+ sources
+ are
+likely
+ to
+ be
+ experienced
+ in
+ urban
+ parks,
+ corresponding
+ to
+ differ-
+ent
+ activities
+ other
+ than
+ walking
+ (e.g.
+ sport
+ activities,
+ barbecuing),
+however
+ a
+ larger
+ variety
+ in
+ functions
+ is
+ usually
+ associated
+ to
+ a
+ larger
+size
+ of
+ the
+ urban
+ park,
+ while
+ walking
+ can
+ be
+ essentially
+ expected
+for
+ any
+ urban
+ park,
+ regardless
+ of
+ its
+ size
+ (Burgess,
+ Harrison,
+ &
+ Limb,
+1988).
+1.1.
+ The
+ soundscape
+ of
+ urban
+ parks
+Urban
+ parks’
+ soundscapes
+ have
+ been
+ investigated
+ in
+ many
+studies
+ so
+ far.
+ Brambilla
+ &
+ Maffei
+ (2006)
+ showed
+ that
+ ‘expecta-
+tion’
+ is
+ affecting
+ the
+ noise
+ annoyance
+ perceived
+ in
+ urban
+ parks.
+More
+ speciﬁcally,
+ the
+ more
+ congruent
+ the
+ acoustic
+ environment
+of
+ the
+ urban
+ parks,
+ the
+ smaller
+ the
+ perceived
+ noise
+ annoyance.
+In
+ their
+ study,
+ non-natural
+ sounds
+ were
+ found
+ to
+ be
+ inappropri-
+ate
+ to
+ the
+ urban
+ parks’
+ context.
+ In
+ other
+ studies
+ by
+ Brambilla
+ and
+his
+ colleagues
+ (Brambilla,
+ Gallo,
+ &
+ Zambon,
+ 2013; Brambilla,
+ Gallo,
+Asdrubali,
+ &
+ D’Alessandro,
+ 2013) they
+ showed
+ that
+ some
+ acoustic
+parameters
+ like
+ the
+ centre
+ of
+ gravity
+ of
+ the
+ unweighted
+ spectrum
+lg(G)
+ and
+ the
+ 5th
+ percentile
+ N5 of
+ the
+ loudness
+ could
+ be
+ good
+ pre-
+dictors
+ of
+ the
+ perceived
+ quality
+ of
+ the
+ acoustics
+ environments
+ of
+urban
+ parks.
+ However,
+ other
+ researchers
+ reported
+ that
+ many
+ other
+non-acoustical
+ factors
+ are
+ likely
+ to
+ affect
+ the
+ soundscape
+ of
+ urban
+parks,
+ like
+ environmental
+ and
+ urban
+ zoning
+ (Margaritis
+ &
+ Kang,
+2016),
+ and
+ distance
+ from
+ main
+ routes
+ (e.g.
+ Szeremeta
+ &
+ Zannin,
+2009),
+ surrounding
+ context
+ (e.g.
+ Jabben,
+ Weber,
+ &
+ Verheijen,
+ 2015),
+or
+ speciﬁc
+ audio-visual
+ sources
+ (e.g.
+ fountains)
+ in
+ the
+ park
+ (e.g.
+Axelsson,
+ Nilsson,
+ Hellström,
+ &
+ Lundén,
+ 2015).
+Researchers
+ explored
+ the
+ potential
+ ‘restorativeness’
+ and
+ ‘tran-
+quillity’
+ that
+ the
+ acoustic
+ environments
+ of
+ such
+ places
+ are
+ likely
+to
+ provide
+ and
+ inspire,
+ considering
+ the
+ positive
+ consequences
+ that
+they
+ can
+ have
+ for
+ the
+ quality
+ of
+ life
+ improvement
+ (Payne,
+ 2013;
+Jabben
+ et
+ al.,
+ 2015).
+ In
+ terms
+ of
+ psychological
+ restoration
+ from
+ envi-
+ronmental
+ noise,
+ the
+ availability
+ of
+ such
+ green
+ spaces
+ might
+ affect
+the
+ overall
+ human
+ experience
+ and
+ community
+ life.
+ From
+ the
+ sound-
+scape
+ point
+ of
+ view,
+ it
+ is
+ therefore
+ important
+ to
+ understand
+ what
+sound
+ sources
+ could
+ help
+ to
+ create
+ a
+ positive
+ acoustic
+ environment
+and
+ what
+ sources
+ are,
+ conversely,
+ likely
+ to
+ spoil
+ it.
+1.2.
+ Walking
+ sounds
+ in
+ the
+ context
+ of
+ urban
+ parks
+Walking
+ sounds,
+ i.e.
+ the
+ sounds
+ produced
+ by
+ the
+ footsteps
+ of
+people
+ walking,
+ have
+ previously
+ been
+ found
+ to
+ be
+ a
+ non-verbal
+sound
+ with
+ one
+ of
+ the
+ highest
+ ecological
+ frequency
+ (Ballas,
+ 1993).
+Nonetheless,
+ they
+ received
+ relatively
+ small
+ attention
+ in
+ acoustics
+and
+ they
+ were
+ mainly
+ investigated
+ for
+ indoor
+ environments
+ (e.g.
+Johansson,
+ Hammer,
+ &
+ Nilsson,
+ 2004).
+ On
+ the
+ other
+ hand,
+ in
+ out-
+door
+ environments,
+ it
+ seems
+ reasonable
+ to
+ assume
+ that
+ walking
+sounds
+ will
+ achieve
+ frequencies
+ as
+ high
+ as
+ per
+ indoor
+ environ-
+ments;
+ therefore,
+ further
+ investigation
+ on
+ this
+ speciﬁc
+ sound
+ source
+can
+ be
+ valuable.
+ Within
+ the
+ context
+ of
+ urban
+ parks,
+ if
+ the
+ character-
+Table
+ 1
+Participants
+ samples’
+ composition
+ for
+ Experiments
+ 1
+ and
+ 2.
+Experiment
+ 
+Group
+ 
+Mage
+SDage
+M
+ 
+F
+ 
+Total
+1
+ 
+University
+ of
+ Shefﬁeld
+ 
+27.0
+ 
+4.49
+ 
+11
+ 
+14
+ 
+25
+Politecnico
+ di
+ Torino
+28.3
+ 
+8.36
+ 
+17
+ 
+21
+ 
+38
+2
+ 
+University
+ of
+ Shefﬁeld
+ 
+26.9
+ 
+5.00
+ 
+10
+ 
+15
+ 
+25
+istics
+ of
+ the
+ walkers
+ have
+ to
+ be
+ discarded,
+ the
+ most
+ relevant
+ factor
+affecting
+ the
+ walking
+ sounds
+ will
+ most
+ likely
+ be
+ the
+ material
+ of
+ the
+footpaths.
+ The
+ urban
+ parks
+ footpaths’
+ materials
+ might
+ vary
+ largely
+across
+ countries
+ and
+ cities.
+ The
+ choice
+ of
+ such
+ materials
+ is
+ often
+ a
+consequence
+ of
+ landscape
+ integration
+ criteria,
+ as
+ well
+ as
+ cost
+ and
+availability
+ issues.
+ However,
+ it
+ is
+ worth
+ pointing
+ out
+ that
+ different
+materials
+ will
+ produce
+ different
+ walking
+ sounds,
+ which
+ are
+ in
+ turn
+likely
+ to
+ result
+ in
+ different
+ soundscapes.
+1.3.
+ Objectives
+ of
+ this
+ research
+Considering
+ that
+ the
+ acoustic
+ environment
+ is
+ the
+ result
+ of
+ all
+sound
+ sources
+ at
+ the
+ receiver
+ in
+ a
+ given
+ context,
+ it
+ is
+ worthwhile
+questioning
+ to
+ what
+ extent
+ an
+ extremely
+ frequent
+ sound
+ source
+ like
+walking
+ sound
+ could
+ affect
+ the
+ perception
+ of
+ the
+ acoustic
+ environ-
+ment,
+ namely
+ the
+ soundscape,
+ in
+ urban
+ parks.
+ The
+ main
+ objectives
+of
+ this
+ study
+ are:
+• Examining
+ whether
+ there
+ is
+ an
+ overall
+ effect
+ of
+ walking
+ sounds
+from
+ different
+ walked-on
+ materials
+ on
+ people’s
+ soundscape.
+• Examining
+ whether
+ the
+ above
+ mentioned
+ effect
+ is
+ inﬂuenced
+ by
+a
+ set
+ of
+ non-acoustical
+ factors;
+ namely:
+-
+ People
+ (i.e.
+ different
+ groups
+ of
+ users).
+- Context
+ (i.e.
+ different
+ background
+ noises).
+-
+ Activity
+ (i.e.
+ different
+ listening
+ styles).
+• Examining
+ whether
+ the
+ above
+ mentioned
+ effect
+ is
+ changing
+ if
+people
+ are
+ simply
+ listening
+ to
+ the
+ walking
+ sound
+ or
+ producing
+it
+ themselves.
+To
+ this
+ purpose,
+ two
+ laboratory
+ experiments
+ involving
+ eighty-
+eight
+ participants
+ in
+ total
+ were
+ carried
+ out
+ with
+ four
+ plausible
+walked-on
+ materials
+ that
+ were
+ considered
+ to
+ be
+ potential
+ design
+solutions
+ for
+ the
+ footpaths
+ of
+ urban
+ parks:
+ grass,
+ wood,
+ stone
+ and
+gravel.
+2.
+ Methods
+This
+ study,
+ following
+ a
+ previous
+ study
+ (Fuda,
+ Aletta,
+ Kang,
+ &
+Astolﬁ,
+ 2015),
+ was
+ designed
+ to
+ test
+ the
+ effect
+ of
+ different
+ foot-
+path
+ materials
+ on
+ individual
+ soundscape
+ assessment
+ of
+ a
+ simulated
+urban
+ park
+ acoustic
+ environment
+ and
+ to
+ explore
+ potential
+ differ-
+ences
+ between
+ groups
+ of
+ sitting
+ and
+ walking
+ listeners.
+ Four
+ types
+ of
+material
+ were
+ considered,
+ with
+ different
+ levels
+ of
+ hardness:
+ grass,
+wood,
+ stone
+ and
+ gravel.
+ There
+ were
+ two
+ experiments,
+ Experiment
+1
+ and
+ Experiment
+ 2,
+ where
+ the
+ materials
+ were
+ common
+ for
+ both
+experiments.
+ Therefore
+ they
+ will
+ be
+ reported
+ only
+ once,
+ before
+describing
+ separately
+ the
+ methods
+ for
+ Experiment
+ 1
+ and
+ Exper-
+iment
+ 2
+ in
+ detail,
+ in
+ Sections
+ 2.2
+ and
+ 2.3, respectively.
+ Table
+ 1
+summarises
+ the
+ overall
+ participants’
+ samples
+ composition,
+ while
+more
+ details
+ are
+ provided
+ for
+ both
+ experiments
+ in
+ Sections
+ 2.2.1
+and
+ 2.3.1
+ accordingly.
+2.1.
+ Experimental
+ materials
+ and
+ settings
+A
+ wooden
+ stage
+ (2400
+ ×
+ 600
+ ×
+ 120
+ mm)
+ was
+ constructed
+ and
+located
+ in
+ the
+ middle
+ of
+ the
+ semi-anechoic
+ chamber
+ of
+ the
+ Univer-
+sity
+ of
+ Shefﬁeld.
+ Four
+ materials
+ were
+ selected
+ to
+ cover
+ the
+ platform
+in
+ turn,
+ as
+ shown
+ in
+ Fig.
+ 1, namely:
+
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+ 
+369
+Fig.
+ 1.
+ The
+ wooden
+ platform
+ used
+ for
+ the
+ experiment
+ on
+ the
+ left,
+ covered
+ in
+ turn
+ with
+ the
+ four
+ selected
+ materials:
+ a)
+ Grass,
+ b)
+ Wood,
+ c)
+ Stone,
+ and
+ d)
+ Gravel.
+a)
+ Grass:
+ lawn
+ turf
+ on
+ a
+ 20-mm
+ layer
+ of
+ topsoil
+ (2400
+ ×
+ 600
+ mm,
+grass
+ height
+ 20–25
+ mm)
+b)
+ Wood:
+ ﬁve
+ elements
+ of
+ white
+ wood
+ (planed
+ tongue
+ and
+ groove
+ﬂooring
+ 18
+ ×
+ 121
+ ×
+ 2400
+ mm)
+c)
+ Stone:
+ 
+three
+ 
+slabs
+ 
+of
+ 
+peak
+ 
+smooth
+ 
+grey
+ 
+stone
+(600
+ ×
+ 600
+ ×
+ 35
+ mm)
+d)
+ Gravel:
+ 30-mm
+ thick
+ layer
+ of
+ stones
+ (granulometric
+ mix
+3–12
+ mm)
+Grass
+ was
+ selected
+ as
+ reference
+ material,
+ since
+ it
+ was
+ assumed
+to
+ be
+ the
+ most
+ ecologically
+ consistent
+ for
+ an
+ urban
+ park.
+ The
+ other
+materials
+ were
+ selected
+ because
+ they
+ are
+ likely
+ to
+ be
+ possible
+design
+ options
+ for
+ footpaths
+ in
+ urban
+ parks
+ and
+ it
+ was
+ decided
+to
+ use
+ both
+ solid
+ (i.e.
+ stone
+ and
+ wood)
+ and
+ aggregate
+ (i.e.
+ gravel)
+materials
+ (Aletta,
+ Kang,
+ Fuda,
+ &
+ Astolﬁ,
+ 2015).
+In
+ the
+ semi-anechoic
+ chamber
+ of
+ the
+ University
+ of
+ Shefﬁeld,
+ the
+sounds
+ of
+ the
+ footsteps
+ on
+ the
+ four
+ materials
+ were
+ recorded
+ by
+an
+ experimenter
+ wearing
+ a
+ head-mounted
+ binaural
+ kit
+ (in-ear
+ 1/8”
+microphones,
+ DPA)
+ connected
+ to
+ a
+ portable
+ recorder
+ (Edirol
+ R-44).
+For
+ each
+ of
+ the
+ four
+ materials,
+ the
+ experimenter
+ walked
+ back
+ and
+forth
+ for
+ 15
+ s,
+ at
+ a
+ speed
+ of
+ 2
+ steps
+ per
+ second
+ (Johansson
+ et
+ al.,
+2004).
+ Even
+ though
+ walking
+ speeds
+ can
+ vary
+ greatly
+ depending
+on
+ several
+ factors,
+ the
+ average
+ human
+ preferred
+ walking
+ speed
+is
+ about
+ 1.4
+ mps
+ (i.e.
+ approx.
+ 2
+ steps
+ per
+ second
+ for
+ an
+ adult)
+(Browning,
+ Baker,
+ &
+ Herron,
+ Kram,
+ 2006),
+ so
+ this
+ speed
+ was
+ overall
+considered
+ to
+ be
+ representative
+ for
+ parks’
+ users.
+ The
+ experimenter
+(Male,
+ 27
+ years
+ old,
+ weight
+ 75
+ kg,
+ height
+ 175
+ cm)
+ wore
+ shoes
+ with
+soft
+ sole
+ (this
+ choice
+ will
+ be
+ further
+ explained
+ in
+ Section
+ 2.3.2).
+Furthermore,
+ 
+a
+ 
+generally
+ 
+quiet
+ 
+background
+ 
+sound
+(LAeq-15secs =
+ 55
+ dB)
+ 
+was
+ 
+recorded
+ 
+in
+ 
+Weston
+ 
+Park
+ 
+(Shefﬁeld,
+UK)
+ by
+ means
+ of
+ a
+ dummy
+ head
+ (Neumann
+ KU100)
+ connected
+ to
+a
+ portable
+ recorder
+ (Edirol
+ R-44),
+ in
+ order
+ to
+ achieve
+ a
+ plausible
+acoustic
+ environment
+ for
+ an
+ urban
+ park.
+ Weston
+ Park
+ is
+ located
+ in
+the
+ campus
+ of
+ the
+ University
+ of
+ Shefﬁeld.
+ It
+ is
+ not
+ directly
+ exposed
+to
+ road
+ trafﬁc
+ noise
+ and
+ is
+ often
+ preferred
+ by
+ students
+ and
+ fam-
+ilies
+ for
+ leisure
+ activities.
+ This
+ background
+ noise
+ was
+ selected
+ to
+represent
+ a
+ realistic
+ urban
+ park
+ condition,
+ where
+ the
+ acoustic
+ envi-
+ronment
+ was
+ a
+ well-adjusted
+ composition
+ of
+ natural,
+ anthropic
+and
+ non-intrusive
+ mechanical
+ sounds.
+ A
+ second
+ background
+ sound
+was
+ recorded
+ in
+ the
+ same
+ way
+ in
+ a
+ different
+ urban
+ park,
+ Valley
+Gardens
+ (Brighton
+ &
+ Hove,
+ UK).
+ Valley
+ Gardens
+ Park
+ is
+ in
+ the
+ city
+centre,
+ connecting
+ the
+ seaside
+ to
+ the
+ inner
+ part
+ of
+ Brighton
+ and
+ it
+is
+ surrounded
+ by
+ major
+ roads.
+ The
+ rationale
+ for
+ selecting
+ a
+ second
+background
+ was
+ providing
+ a
+ different
+ acoustic
+ context,
+ slightly
+more
+ affected
+ by
+ road
+ trafﬁc
+ noise.
+ For
+ the
+ sake
+ of
+ convenience,
+the
+ 15-second
+ excerpt
+ recorded
+ in
+ Valley
+ Gardens
+ was
+ edited
+ to
+achieve
+ the
+ same
+ equivalent
+ level
+ (i.e.
+ LAeq-1 secs =
+ 55
+ dB)
+ of
+ the
+background
+ recorded
+ in
+ Weston
+ Park.
+ The
+ equivalent
+ sound
+ level
+is
+ the
+ sound-pressure
+ level
+ (expressed
+ in
+ dB),
+ equivalent
+ to
+ the
+total
+ sound
+ energy
+ over
+ the
+ given
+ period
+ of
+ time,
+ so
+ the
+ two
+ audio
+excerpts
+ were
+ similar
+ in
+ terms
+ of
+ energy
+ content.
+ Fig.
+ 2
+ shows
+some
+ differences
+ between
+ the
+ two
+ parks.
+Afterwards,
+ the
+ recordings
+ with
+ the
+ four
+ materials
+ were
+ cali-
+brated
+ and
+ mixed
+ in
+ turn
+ with
+ the
+ background
+ noise
+ recorded
+ in
+Table
+ 2
+Sound-pressure
+ level
+ (SPL),
+ loudness
+ (L),
+ roughness
+ (R),
+ sharpness
+ (S),
+ and
+ ﬂuctu-
+ation
+ strength
+ (Fls)
+ mean
+ values
+ of
+ the
+ four
+ walking
+ sounds
+ and
+ the
+ background
+noises.
+Parameter
+ 
+Material
+ 
+Background
+Grass
+ 
+Wood
+ 
+Stone
+ 
+Gravel
+ 
+Weston
+ Park
+ 
+Valley
+ Gardens
+SPL−dB(A)
+ 
+28.5
+ 
+48.6
+ 
+40.1
+ 
+66.1
+ 
+55.0
+ 
+55.0
+L−soneGF
+ 
+0.81
+ 
+3.04
+ 
+2.23
+ 
+15.05
+ 
+9.06
+ 
+10.6
+S−acum
+2.680
+1.720
+1.880
+2.695
+1.930
+ 
+1.890
+R−asper
+ 
+0.047
+ 
+1.180
+ 
+0.628
+ 
+3.580
+ 
+1.315
+ 
+1.620
+Fls−vacil
+ 
+0.014
+ 
+0.177
+ 
+0.051
+ 
+0.354
+ 
+0.013
+ 
+0.012
+Weston
+ Park
+ and
+ the
+ background
+ noise
+ recorded
+ in
+ Valley
+ Gardens,
+in
+ order
+ to
+ obtain
+ eight
+ auditory
+ stimuli
+ (combination
+ of
+ walking
+sounds
+ and
+ background)
+ to
+ be
+ used
+ in
+ Experiment
+ 1.
+ It
+ is
+ worth
+pointing
+ out
+ that
+ the
+ auditory
+ stimuli
+ used
+ in
+ this
+ study
+ do
+ not
+represent
+ a
+ perfectly
+ consistent
+ auralisation
+ of
+ the
+ investigated
+urban
+ parks’
+ acoustic
+ environments,
+ since
+ a
+ number
+ of
+ factors
+ were
+disregarded
+ (e.g.
+ directivity
+ of
+ the
+ source,
+ different
+ absorption
+ con-
+tributions
+ of
+ the
+ materials
+ to
+ the
+ background
+ noise,
+ etc.);
+ however,
+considering
+ the
+ holistic
+ perception
+ focus
+ of
+ the
+ experiments,
+ it
+ was
+assumed
+ that
+ they
+ could
+ provide
+ the
+ necessary
+ ‘plausibility’
+ (Lindau
+&
+ Weinzierl,
+ 2012).
+For
+ descriptive
+ purposes,
+ a
+ set
+ of
+ acoustic
+ and
+ psychoacoustic
+metrics
+ (i.e.
+ sound-pressure
+ level,
+ loudness,
+ sharpness,
+ roughness,
+and
+ ﬂuctuation
+ strength)
+ were
+ calculated
+ by
+ means
+ of
+ the
+ ArtemiS
+software
+ (HEAD
+ acoustics®)
+ separately
+ for
+ the
+ recordings
+ of
+ the
+four
+ walking
+ sounds
+ and
+ the
+ Weston
+ Park
+ and
+ Valley
+ Gardens
+ back-
+ground
+ noises.
+ The
+ mean
+ values
+ for
+ all
+ the
+ computed
+ parameters
+are
+ reported
+ in
+ Table
+ 2
+ (Fuda
+ et
+ al.,
+ 2015).
+ Sound-pressure
+ level
+ is
+the
+ ratio
+ between
+ the
+ actual
+ sound
+ pressure
+ and
+ a
+ ﬁxed
+ reference
+pressure
+ (the
+ threshold
+ of
+ hearing
+ in
+ general).
+ Loudness
+ is
+ a
+ percep-
+tual
+ measure
+ of
+ the
+ sound
+ energy
+ content’s
+ effect
+ on
+ the
+ human
+ ear.
+Sharpness
+ measures
+ the
+ high
+ frequency
+ content
+ of
+ a
+ sound.
+ Rough-
+ness
+ is
+ a
+ complex
+ effect
+ which
+ relates
+ to
+ subjective
+ perception
+ of
+rapid
+ amplitude
+ modulation
+ of
+ a
+ sound,
+ while
+ Fluctuation
+ strength
+is
+ used
+ for
+ slower
+ amplitude
+ modulation
+ (Fastl
+ &
+ Zwicker,
+ 1990).
+2.2.
+ Experiment
+ 1:
+ sitting
+ participants
+The
+ experiment
+ took
+ place
+ in
+ two
+ different
+ venues:
+ the
+semi-anechoic
+ chamber
+ of
+ the
+ University
+ of
+ Shefﬁeld
+ and
+ the
+ semi-
+anechoic
+ chamber
+ of
+ the
+ Politecnico
+ di
+ Torino.
+ The
+ background
+noise
+ in
+ both
+ chambers
+ caused
+ by
+ electric
+ devices
+ was
+ less
+ than
+25
+ dB.
+2.2.1.
+ Participants
+Two
+ separate
+ groups
+ of
+ participants
+ were
+ selected
+ at
+ the
+ Univer-
+sity
+ of
+ Shefﬁeld
+ (UK)
+ and
+ at
+ the
+ Politecnico
+ di
+ Torino
+ (Italy)
+ to
+ take
+part
+ in
+ the
+ experiment.
+ Shefﬁeld’s
+ group
+ consisted
+ of
+ twenty-ﬁve
+undergraduates
+ and
+ postgraduates,
+ 21–41
+ years
+ old
+ (14
+ women
+and
+ 11
+ men,
+ Mage =
+ 27.0
+ years,
+ SD
+ =
+ 4.49).
+ Torino’s
+ group
+ consisted
+of
+ thirty-eight
+ undergraduates
+ and
+ postgraduates,
+ 22–45
+ years
+ old
+(21
+ women
+ and
+ 17
+ men,
+ Mage =
+ 28.3
+ years,
+ SD
+ =
+ 8.36).
+ The
+ rationale
+
+370
+ 
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+Fig.
+ 2.
+ Pictures
+ taken
+ in
+ Weston
+ Park
+ (left)
+ and
+ Valley
+ Gardens
+ Park
+ (right).
+Table
+ 3
+The
+ twelve
+ conditions
+ of
+ the
+ experimental
+ design;
+ black
+ dots
+ represent
+ which
+ levels
+were
+ presented
+ for
+ the
+ corresponding
+ condition.
+Factors
+ 
+Levels
+ 
+Experimental
+ conditions
+1
+ 
+2
+ 
+3
+ 
+4
+ 
+5
+ 
+6
+ 
+7
+ 
+8
+ 
+9
+ 
+10
+ 
+11
+ 
+12
+FM
+ 
+Grass
+ 
+• 
+•
+ 
+•
+Wood
+ 
+• 
+• 
+•
+Stone
+ 
+•
+ 
+• 
+•
+Gravel
+ 
+•
+ 
+•
+ 
+•
+BN
+ 
+Weston
+ Park
+ 
+• 
+• 
+•
+ 
+•
+ 
+• 
+•
+ 
+•
+ 
+•
+Valley
+ Gardens
+ 
+•
+ 
+• 
+• 
+•
+CT
+ 
+No
+ Task
+ 
+• 
+• 
+•
+ 
+•
+ 
+•
+ 
+• 
+• 
+•
+Task
+ 
+• 
+•
+ 
+•
+ 
+•
+for
+ having
+ two
+ groups
+ of
+ participants
+ in
+ different
+ countries
+ was
+achieving
+ a
+ diverse
+ sample
+ in
+ terms
+ of
+ socio-cultural
+ backgrounds,
+since
+ previous
+ studies
+ showed
+ that
+ differences
+ between
+ different
+cultural
+ groups
+ in
+ terms
+ of
+ sound
+ preference
+ and
+ perception
+ might
+occur
+ (e.g.
+ Yu
+ &
+ Kang,
+ 2014).
+2.2.2.
+ Procedure
+The
+ design
+ consisted
+ of
+ twelve
+ experimental
+ conditions.
+ Three
+multi-levelled
+ factors
+ were
+ manipulated
+ in
+ the
+ experimental
+design
+ presented
+ to
+ participants:
+• Footpath
+ Material
+ (FM):
+ 4
+ levels
+ (Grass,
+ Wood,
+ Stone,
+ Gravel)
+• Background
+ Noise
+ (BN):
+ 2
+ levels
+ (Weston
+ Park,
+ Valley
+ Gardens)
+• Cognitive
+ Task
+ (CT):
+ 2
+ levels
+ (Task,
+ No
+ Task)
+The
+ experimental
+ design
+ only
+ included
+ a
+ sub-set
+ of
+ all
+ pos-
+sible
+ combinations
+ of
+ the
+ factors’
+ levels,
+ as
+ reported
+ in
+ Table
+ 3.
+The
+ rationale
+ was
+ to
+ consider
+ a
+ ‘reference’
+ condition
+ (i.e.
+ Walking
+sounds/Weston
+ Park/No
+ Task)
+ and
+ to
+ manipulate
+ the
+ two
+ remain-
+ing
+ factors
+ in
+ turn.
+Both
+ in
+ Shefﬁeld
+ and
+ Torino
+ participants
+ took
+ part
+ individually
+in
+ the
+ semi-anechoic
+ chamber,
+ through
+ an
+ automated
+ procedure
+conducted
+ via
+ a
+ laptop
+ and
+ calibrated
+ headphones
+ (Sennheiser
+ HD
+600).
+ The
+ cognitive
+ task
+ consisted
+ of
+ two-digit
+ sums
+ randomly
+ asso-
+ciated
+ to
+ the
+ experimental
+ conditions.
+Participants
+ were
+ invited
+ to
+ sit
+ on
+ a
+ chair
+ and
+ relax,
+ imagining
+they
+ were
+ sitting
+ on
+ a
+ bench
+ in
+ an
+ urban
+ park.
+ They
+ were
+ afterwards
+given
+ the
+ headphones
+ and
+ the
+ session
+ begun.
+ The
+ twelve
+ auditory
+stimuli
+ were
+ submitted
+ to
+ participants
+ in
+ a
+ randomized
+ sequence
+to
+ control
+ for
+ possible
+ order
+ effects.
+ For
+ each
+ scenario,
+ participants
+had
+ to
+ answer
+ two
+ questions
+ by
+ dragging
+ a
+ cursor
+ on
+ a
+ 100-point
+scale:
+• “On
+ a
+ scale
+ from
+ 0
+ (not
+ at
+ all)
+ to
+ 100
+ (extremely),
+ how
+ much
+ are
+you
+ annoyed
+ by
+ the
+ sonic
+ environment?”
+ (AN)
+• “On
+ a
+ scale
+ from
+ 0
+ (very
+ bad)
+ to
+ 100
+ (very
+ good),
+ how
+ would
+ you
+assess
+ the
+ sonic
+ environment?”
+ (SQ)
+When
+ the
+ scenarios
+ of
+ the
+ ‘Task’
+ level
+ were
+ presented,
+ a
+ two-
+digit
+ sum
+ was
+ shown
+ on
+ the
+ screen
+ of
+ the
+ laptop
+ while
+ reproducing
+the
+ audio
+ ﬁles.
+ Participants
+ were
+ required
+ to
+ type
+ the
+ solution
+ in
+and
+ after
+ to
+ answer
+ the
+ same
+ questions.
+ Success
+ response
+ rate
+ was
+not
+ analysed
+ as
+ the
+ goal
+ of
+ the
+ task
+ was
+ simply
+ to
+ distract
+ partic-
+ipants,
+ providing
+ a
+ more
+ holistic,
+ rather
+ than
+ attentive,
+ listening
+style.
+2.3.
+ Experiment
+ 2:
+ walking
+ participants
+The
+ rationale
+ for
+ performing
+ Experiment
+ 2
+ was
+ testing
+ whether
+some
+ differences
+ exist
+ in
+ the
+ soundscape
+ appreciation
+ of
+ different
+walked-on
+ materials
+ when
+ people
+ are
+ simply
+ listening
+ to
+ the
+ walk-
+ing
+ sounds
+ or
+ they
+ produce
+ them
+ directly
+ (i.e.
+ they
+ are
+ the
+ walkers).
+For
+ this
+ purpose
+ a
+ subset
+ of
+ data
+ from
+ a
+ previous
+ study
+ was
+ used
+(Aletta
+ et
+ al.,
+ 2015) in
+ order
+ to
+ implement
+ such
+ comparison.
+The
+ experiment
+ took
+ place
+ in
+ the
+ semi-anechoic
+ chamber
+ of
+the
+ University
+ of
+ Shefﬁeld.
+ The
+ room
+ set-up
+ included
+ a
+ white
+screen
+ (2.30
+ ×
+ 2.00
+ m),
+ a
+ projector,
+ a
+ couple
+ of
+ loudspeakers
+ (Gen-
+elec
+ 8040B)
+ and
+ a
+ sub-woofer
+ (Genelec
+ 7070B).
+ A
+ picture
+ of
+ the
+ park
+was
+ projected
+ on
+ the
+ screen.
+ The
+ background
+ noise
+ in
+ the
+ semi-
+
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+ 
+371
+Fig.
+ 3.
+ Box-and-whisker
+ plots
+ showing
+ individual
+ responses
+ for
+ the
+ four
+ materials
+ for
+ Noise
+ Annoyance.
+Fig.
+ 4.
+ Box-and-whisker
+ plots
+ showing
+ individual
+ responses
+ for
+ the
+ four
+ materials
+ for
+ Soundscape
+ Quality.
+anechoic
+ chamber
+ caused
+ by
+ the
+ projector
+ and
+ the
+ corresponding
+laptop
+ was
+ less
+ than
+ 25
+ dB.
+2.3.1.
+ Participants
+Twenty-ﬁve
+ undergraduates
+ and
+ postgraduates
+ at
+ the
+ Univer-
+sity
+ of
+ Shefﬁeld,
+ 22–40
+ years
+ old,
+ participated
+ in
+ the
+ experiment
+(15
+ women
+ and
+ 10
+ men,
+ Mage =
+ 26.9
+ years,
+ SD
+ =
+ 5.0).
+ The
+ ethnic
+ dis-
+tribution
+ of
+ the
+ sample
+ was
+ 64%
+ White
+ or
+ Caucasian,
+ 20%
+ Asian
+ or
+Paciﬁc
+ Islander
+ and
+ 16%
+ Hispanic
+ or
+ Latino.
+ To
+ avoid
+ potential
+ Type
+I
+ and
+ Type
+ II
+ errors,
+ the
+ sample
+ size
+ was
+ designed
+ through
+ an
+ a
+ pri-
+ori
+ computation
+ (Faul,
+ Erdfelder,
+ Lang,
+ &
+ Buchner,
+ 2007)
+ to
+ achieve
+a
+ minimum
+ power
+ (1- probability
+ of
+ error)
+ of
+ 80%,
+ a
+ probability
+ of
+error
+ ()
+ of
+ 5%
+ and
+ a
+ medium
+ effect
+ size
+ (f)
+ of
+ 0.25
+ (Cohen,
+ 1988).
+The
+ 25
+ participants
+ who
+ completed
+ the
+ experiment
+ were
+ rewarded
+for
+ volunteering
+ with
+ a
+ 10
+ GBP
+ gift
+ card.
+2.3.2.
+ Procedure
+Participants
+ were
+ invited
+ to
+ the
+ Acoustics
+ Laboratory
+ of
+ the
+ Uni-
+versity
+ of
+ Shefﬁeld
+ and
+ were
+ required
+ to
+ wear
+ shoes
+ with
+ soft
+ sole
+(i.e.
+ ‘sneakers’):
+ this
+ request
+ aimed
+ to
+ control
+ for
+ the
+ shoes
+ vari-
+able
+ and
+ to
+ limit
+ its
+ effect.
+ Participants
+ were
+ individually
+ asked
+ to
+enter
+ in
+ the
+ semi-anechoic
+ chamber.
+ The
+ background
+ sound
+ record-
+ing
+ of
+ Weston
+ Park
+ and
+ the
+ picture
+ of
+ the
+ park
+ were
+ reproduced
+constantly.
+ Participants
+ were
+ required
+ to
+ walk
+ in
+ a
+ natural
+ way
+
+372
+ 
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+Fig.
+ 5.
+ Individual
+ scores
+ of
+ the
+ four
+ materials
+ for
+ the
+ Soundscape
+ Quality
+ (SQ)
+ variable,
+ depending
+ on
+ the
+ sitting
+ or
+ walking
+ participants.
+Fig.
+ 6.
+ Estimated
+ marginal
+ means
+ of
+ the
+ SQ
+ scores
+ for
+ the
+ four
+ materials
+ for
+ the
+ sitting
+ (Experiment
+ 1)
+ and
+ walking
+ (Experiment
+ 2)
+ samples.
+on
+ the
+ platform,
+ watching
+ the
+ screen
+ and
+ listening
+ to
+ the
+ whole
+sonic
+ environment.
+ Due
+ to
+ the
+ relatively
+ small
+ length
+ of
+ the
+ plat-
+form
+ (2400
+ mm),
+ participants
+ were
+ able
+ to
+ make
+ 5–6
+ steps:
+ in
+ case
+they
+ wished
+ to
+ walk
+ again,
+ they
+ were
+ instructed
+ to
+ get
+ off
+ of
+ the
+platform,
+ go
+ back
+ and
+ start
+ from
+ the
+ beginning.
+For
+ each
+ material,
+ participants
+ were
+ asked
+ to
+ answer
+ the
+ follow-
+ing
+ question
+ by
+ putting
+ a
+ mark
+ on
+ a
+ 100-mm
+ continuous
+ scale:
+ “On
+a
+ scale
+ from
+ 0
+ (very
+ bad)
+ to
+ 100
+ (very
+ good)
+ how
+ would
+ you
+ assess
+the
+ sonic
+ environment?”.
+ This
+ question
+ was
+ asked
+ in
+ the
+ same
+ way
+as
+ per
+ Experiment
+ 1
+ and
+ will
+ be
+ further
+ referred
+ to
+ Soundscape
+Quality
+ (SQ),
+ for
+ the
+ sake
+ of
+ comparison.
+
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+ 
+373
+Fig.
+ 7.
+ Soundscape
+ Quality
+ assessment
+ means
+ of
+ the
+ four
+ materials
+ for
+ the
+ sitting
+ (Experiment
+ 1)
+ and
+ walking
+ (Experiment
+ 2)
+ participants.
+Fig.
+ 8.
+ Scatterplots
+ of
+ the
+ correlations
+ of
+ Soundscape
+ Quality
+ with
+ Loudness
+ (left)
+ and
+ Roughness
+ (right).
+For
+ practical
+ reasons
+ (i.e.
+ time
+ needed
+ for
+ replacing
+ the
+ mate-
+rials),
+ it
+ was
+ not
+ possible
+ to
+ randomise
+ the
+ sequence
+ for
+ each
+participant.
+ Therefore,
+ three
+ different
+ experimental
+ sessions
+ were
+organised
+ (two
+ groups
+ of
+ eight
+ and
+ one
+ of
+ nine)
+ and
+ for
+ each
+ ses-
+sion
+ a
+ different
+ sequence
+ of
+ the
+ four
+ materials
+ was
+ sorted
+ in
+ order
+to
+ limit
+ as
+ much
+ as
+ possible
+ any
+ potential
+ order
+ effect.
+3.
+ Results
+The
+ results
+ section
+ is
+ made
+ of
+ three
+ subsections.
+ The
+ ﬁrst
+ subsec-
+tion
+ analyses
+ the
+ results
+ of
+ Experiment
+ 1,
+ basically
+ addressing
+ the
+ﬁrst
+ two
+ objective
+ of
+ this
+ research
+ stated
+ in
+ Section
+ 1.3, whilst
+ the
+second
+ subsection
+ addresses
+ the
+ third
+ main
+ objective
+ by
+ compar-
+ing
+ the
+ results
+ of
+ Experiment
+ 1
+ and
+ Experiment
+ 2.
+ Eventually,
+ the
+last
+ subsection
+ proposes
+ some
+ preliminary
+ associations
+ between
+mean
+ subjective
+ data
+ and
+ objective
+ data
+ associated
+ to
+ the
+ walked-
+on
+ materials
+ recorded
+ during
+ the
+ experimental
+ set-up.
+3.1.
+ Experiment
+ 1
+The
+ individual
+ responses
+ to
+ the
+ questions
+ presented
+ during
+the
+ experiment
+ were
+ associated
+ to
+ two
+ independent
+ variables:
+
+374
+ 
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+‘Noise
+ Annoyance’ (AN)
+ and
+ ‘Soundscape
+ Quality’ (SQ),
+ accord-
+ingly.
+ A
+ one-way
+ repeated
+ measures
+ ANOVA
+ was
+ conducted
+ on
+both
+ variables,
+ by
+ aggregating
+ the
+ No
+ Task–Task
+ levels,
+ to
+ test
+the
+ null
+ hypothesis
+ that
+ there
+ is
+ no
+ change
+ in
+ participants’
+responses
+ with
+ respect
+ to
+ the
+ walked-on
+ materials
+ (i.e.
+ no
+ Footpath
+Material
+ effect).
+ The
+ ANOVA
+ results
+ showed
+ a
+ signiﬁcant
+ Foot-
+path
+ Material
+ effect:
+ Wilks’
+ Lambda
+ =
+ 0.350,
+ F(3,186)
+ =
+ 115.240,
+p
+ <
+ 0.001,
+ 2 =
+ 1.000
+ for
+ Noise
+ Annoyance;
+ similarly
+ for
+ Sound-
+scape
+ Quality:
+ Wilks’
+ Lambda
+ =
+ 0.438,
+ F(3,186)
+ =
+ 79.641,
+ p
+ <
+ 0.001,
+2 =
+ 1.000.
+ Therefore,
+ there
+ was
+ signiﬁcant
+ statistical
+ evidence
+to
+ reject
+ the
+ null
+ hypothesis
+ for
+ both
+ the
+ Noise
+ Annoyance
+ and
+Soundscape
+ Quality
+ variables.
+ Regarding
+ Noise
+ Annoyance,
+ gravel
+(M
+ =
+ 58.91,
+ SD
+ =
+ 24.55)
+ differed
+ signiﬁcantly
+ (p
+ <
+ 0.001)
+ from
+ grass
+(M
+ =
+ 26.34,
+ SD
+ =
+ 21.47),
+ wood
+ (M
+ =
+ 32.68,
+ SD
+ =
+ 20.95)
+ and
+ stone
+(M
+ =
+ 24.45,
+ SD
+ =
+ 19.19).
+ Likewise,
+ regarding
+ Soundscape
+ Quality,
+gravel
+ (M
+ =
+ 32.00,
+ SD
+ =
+ 21.99)
+ resulted
+ to
+ be
+ signiﬁcantly
+ different
+from
+ all
+ other
+ materials
+ (p
+ <
+ 0.001):
+ grass
+ (M
+ =
+ 58.95,
+ SD
+ =
+ 20.84),
+wood
+ (M
+ =
+ 52.98,
+ SD
+ =
+ 21.38)
+ and
+ stone
+ (M
+ =
+ 58.72,
+ SD
+ =
+ 20.33).
+ Figs.
+3
+ and
+ 4
+ show
+ the
+ individual
+ responses
+ for
+ the
+ Noise
+ annoyance
+ and
+Soundscape
+ Quality
+ variables
+ accordingly,
+ for
+ each
+ materials,
+ sepa-
+rately
+ for
+ the
+ Background
+ Noise
+ factor’s
+ level
+ and
+ according
+ to
+ two
+groups
+ samples
+ (i.e.
+ Shefﬁeld
+ in
+ the
+ UK
+ and
+ Torino
+ in
+ Italy).
+In
+ order
+ to
+ investigate
+ the
+ effect
+ of
+ the
+ Background
+ Noise
+(related
+ to
+ the
+ context)
+ and
+ the
+ Cognitive
+ Task
+ (related
+ to
+ the
+activity)
+ factors
+ on
+ the
+ Noise
+ Annoyance
+ and
+ Soundscape
+ Quality
+variables,
+ some
+ paired
+ samples
+ t-tests
+ were
+ performed
+ separately
+for
+ the
+ four
+ footpath
+ materials.
+ Table
+ 3
+ shows
+ that
+ there
+ was
+ a
+signiﬁcant
+ effect
+ of
+ Background
+ Noise
+ on
+ the
+ Noise
+ Annoyance
+ for
+the
+ grass
+ conditions
+ and
+ a
+ signiﬁcant
+ effect
+ on
+ Soundscape
+ Qual-
+ity
+ for
+ the
+ wood
+ condition.
+ On
+ the
+ other
+ hand,
+ a
+ signiﬁcant
+ effect
+of
+ the
+ Cognitive
+ Task
+ was
+ observed
+ on
+ both
+ Noise
+ Annoyance
+ and
+Soundscape
+ Quality
+ for
+ the
+ wood,
+ stone
+ and
+ gravel
+ conditions.
+Furthermore,
+ an
+ independent-samples
+ t-test
+ was
+ conducted
+ to
+compare
+ Noise
+ Annoyance
+ and
+ Soundscape
+ Quality
+ scores
+ between
+the
+ sample
+ groups
+ (i.e.
+ Torino
+ and
+ Shefﬁeld),
+ but
+ no
+ signiﬁcant
+differences
+ were
+ observed
+ in
+ the
+ Noise
+ Annoyance
+ scores
+ for
+Torino
+ (M
+ =
+ 35.82,
+ SD
+ =
+ 24.28)
+ and
+ Shefﬁeld
+ (M
+ =
+ 35.26,
+ SD
+ =
+ 27.58);
+t
+ (754)
+ =
+ 0.296,
+ p
+ =
+ 0.768.
+ Contrariwise,
+ a
+ signiﬁcant
+ difference
+ in
+the
+ Soundscape
+ Quality
+ scores
+ was
+ observed
+ between
+ the
+ Torino
+(M
+ =
+ 52.42,
+ SD
+ =
+ 22.88)
+ and
+ Shefﬁeld
+ (M
+ =
+ 48.00,
+ SD
+ =
+ 24.99)
+ groups;
+t
+ (754)
+ =
+ 2.503,
+ p
+ =
+ 0.013.
+ Results
+ suggest
+ that
+ for
+ this
+ application,
+cultural
+ and
+ personal
+ characteristics
+ are
+ potentially
+ inﬂuential
+ fac-
+tors
+ on
+ the
+ soundscape
+ appreciation
+ (e.g.
+ Soundscape
+ Quality)
+ of
+walking
+ sounds
+ in
+ urban
+ parks,
+ while
+ such
+ factors
+ tend
+ to
+ be
+ less
+relevant
+ when
+ applied
+ to
+ discomfort
+ and
+ burden
+ criteria
+ (e.g.
+ Noise
+Annoyance)
+ (Liu,
+ Kang,
+ Luo,
+ &
+ Behm,
+ 2013).
+3.2.
+ Comparison
+ between
+ experiment
+ 1
+ and
+ experiment
+ 2
+The
+ analysis
+ of
+ the
+ results
+ presented
+ in
+ this
+ section
+ consists
+of
+ two
+ parts.
+ In
+ the
+ ﬁrst
+ part,
+ an
+ analysis
+ of
+ variance
+ (ANOVA)
+between
+ groups
+ was
+ performed
+ for
+ the
+ individual
+ responses
+ to
+the
+ Soundscape
+ Quality
+ (SQ)
+ question,
+ in
+ order
+ to
+ detect
+ statisti-
+cally
+ signiﬁcant
+ effects
+ of
+ the
+ walked-on
+ materials.
+ In
+ the
+ second
+part,
+ a
+ set
+ of
+ independent
+ sample
+ t-tests
+ were
+ performed
+ for
+ the
+Soundscape
+ Quality
+ variable
+ for
+ each
+ footpath
+ material
+ between
+the
+ sample
+ of
+ Experiment
+ 1
+ (sitting
+ participants)
+ and
+ Experiment
+2
+ (walking
+ participants).
+3.2.1.
+ Analysis
+ of
+ variance
+ for
+ the
+ materials’
+ effect
+The
+ question
+ presented
+ to
+ participants
+ in
+ both
+ Experiment
+ 1
+and
+ Experiment
+ 2
+ (i.e.
+ “On
+ a
+ scale
+ from
+ 0
+ to
+ 100
+ how
+ would
+ you
+assess
+ the
+ sonic
+ environment?”)
+ was
+ associated
+ to
+ an
+ independent
+variable,
+ ‘Soundscape
+ Quality’
+ (SQ),
+ and
+ an
+ ANOVA
+ was
+ performed
+on
+ the
+ 88
+ ×
+ 4
+ individual
+ responses
+ (combining
+ the
+ two
+ samples
+together),
+ considering
+ the
+ four
+ materials
+ as
+ different
+ ‘treatments’
+Table
+ 4
+t-tests
+ for
+ paired
+ samples
+ for
+ the
+ Noise
+ Annoyance
+ (AN)
+ and
+ Soundscape
+ Quality
+(SQ)
+ variables
+ (Shefﬁeld
+ and
+ Torino
+ samples
+ aggregated).
+Variable
+ 
+Tested
+ factor
+ 
+Material
+ 
+t
+ 
+df
+ 
+Sig.
+AN
+ 
+BN
+ (Weston
+ Park/ValleyGardens)
+ 
+Grass
+ 
+−2.206
+ 
+62
+ 
+0.031
+Wood
+ 
+−1.221
+ 
+62
+ 
+0.227
+Stone
+ 
+−0.642
+ 
+62
+ 
+0.523
+Gravel
+ 
+−0.888
+ 
+62
+ 
+0.378
+CT (No
+ Task/Task)
+ 
+Grass
+ 
+−1.677
+ 
+62
+ 
+0.099
+Wood
+ 
+−2.127
+ 
+62
+ 
+0.037
+Stone
+ 
+−2.639
+62
+ 
+0.011
+Gravel
+ 
+3.261
+ 
+62
+ 
+0.002
+SQ
+ 
+BN
+ (Weston
+ Park/Valley
+ Gardens)
+ 
+Grass
+ 
+1.467
+ 
+62
+ 
+0.147
+Wood
+ 
+2.378
+ 
+62
+ 
+0.021
+Stone
+ 
+−0.310
+ 
+62
+ 
+0.758
+Gravel
+ 
+1.392
+ 
+62
+ 
+0.169
+CT
+ (No
+ Task/Task)
+ 
+Grass
+ 
+1.427
+ 
+62
+ 
+0.159
+Wood
+ 
+3.289
+ 
+62
+ 
+0.002
+Stone
+ 
+2.512
+ 
+62
+ 
+0.015
+Gravel
+ 
+−2.610
+ 
+62
+ 
+0.011
+for
+ the
+ participants.
+ A
+ between-subjects
+ repeated
+ measures
+ ANOVA
+was
+ conducted
+ on
+ the
+ Soundscape
+ Quality
+ variable
+ to
+ evaluate
+the
+ null
+ hypothesis
+ that
+ there
+ is
+ no
+ change
+ in
+ participants’
+ scores
+depending
+ on
+ the
+ presented
+ walked-on
+ materials.
+ The
+ results
+ of
+ the
+ANOVA
+ showed
+ a
+ signiﬁcant
+ material
+ effect:
+ Wilks’
+ Lambda
+ =
+ 0.495,
+F(3,84)
+ =
+ 28.550,
+ p
+ <
+ 0.001,
+ 2 =
+ 1.000
+ for
+ the
+ Soundscape
+ Qual-
+ity
+ variable.
+ Therefore,
+ there
+ is
+ signiﬁcant
+ statistical
+ evidence
+ to
+reject
+ the
+ null
+ hypothesis
+ for
+ this
+ variable.
+ Nevertheless,
+ follow
+up
+ comparisons
+ showed
+ that
+ only
+ gravel
+ resulted
+ to
+ be
+ signiﬁ-
+cantly
+ different
+ from
+ all
+ other
+ materials
+ with
+ p
+ <
+ 0.001.
+ Post
+ hoc
+analysis
+ showed
+ that
+ gravel
+ was
+ the
+ worst
+ material
+ in
+ terms
+ of
+Soundscape
+ Quality
+ (M
+ =
+ 38.42,
+ SD
+ =
+ 22.82);
+ the
+ following
+ materi-
+als
+ were
+ wood
+ (M
+ =
+ 61.46,
+ SD
+ =
+ 19.61),
+ stone
+ (M
+ =
+ 64.38,
+ SD
+ =
+ 19.01)
+and
+ grass
+ (M
+ =
+ 65.05,
+ SD
+ =
+ 21.35).
+ Fig.
+ 5
+ shows
+ the
+ individual
+ scores
+of
+ the
+ four
+ materials
+ for
+ the
+ Soundscape
+ Quality,
+ depending
+ on
+ the
+sitting
+ (Experiment
+ 1)
+ or
+ walking
+ (Experiment
+ 2)
+ participants.
+Furthermore,
+ a
+ between-subjects
+ effect
+ was
+ found
+ to
+ be
+ statisti-
+cally
+ signiﬁcant:
+ F(1,86)
+ =
+ 23.913,
+ p
+ <
+ 0.001,
+ 2 =0.998,
+ showing
+ that
+differences
+ between
+ the
+ two
+ sample
+ groups
+ exist
+ in
+ terms
+ of
+ Sound-
+scape
+ Quality
+ assessment.
+ Fig.
+ 6
+ reports
+ the
+ estimated
+ marginal
+means
+ of
+ the
+ Soundscape
+ Quality
+ scores
+ for
+ the
+ four
+ materials,
+ sep-
+arately
+ for
+ the
+ sitting
+ and
+ walking
+ samples,
+ clearly
+ showing
+ such
+ a
+pattern.
+3.2.2.
+ Analysis
+ of
+ differences
+ between
+ sitting
+ and
+ walking
+participants
+In
+ order
+ to
+ further
+ investigate
+ possible
+ differences
+ between
+ the
+sitting
+ and
+ walking
+ conditions
+ in
+ terms
+ of
+ soundscape
+ assessments
+of
+ the
+ four
+ walked-on
+ materials,
+ a
+ set
+ of
+ independent-samples
+t-tests
+ were
+ conducted.
+ The
+ Soundscape
+ Quality
+ scores
+ across
+the
+ two
+ experiments
+ were
+ compared
+ pair-wise
+ for
+ each
+ material.
+Table
+ 4
+ reports
+ the
+ descriptive
+ statistics
+ of
+ the
+ Soundscape
+ Quality
+scores
+ for
+ each
+ material,
+ according
+ to
+ the
+ sitting-walking
+ condition.
+There
+ was
+ a
+ signiﬁcant
+ difference
+ in
+ the
+ scores
+ for
+ sitting
+and
+ walking
+ for
+ all
+ materials:
+ grass,
+ t(86)
+ =
+ 2.814,
+ p
+ =
+ 0.006;
+ wood,
+t(86)
+ =
+ 2.878,
+ p
+ =
+ 0.005;
+ stone,
+ t(86)
+ =
+ 3.552,
+ p
+ =
+ 0.001;
+ and
+ gravel,
+t(86)
+ =
+ 5.199,
+ p
+ <
+ 0.0016.
+ These
+ results
+ suggest
+ that
+ the
+ sitting-
+walking
+ condition
+ does
+ have
+ an
+ effect
+ on
+ perceived
+ soundscape
+quality,
+ regardless
+ of
+ the
+ walked-on
+ material.
+ Speciﬁcally,
+ the
+results
+ suggest
+ that
+ when
+ people
+ are
+ walking,
+ thus
+ producing
+ the
+walking
+ sound
+ themselves,
+ their
+ perceived
+ soundscape
+ quality
+ is
+higher
+ than
+ when
+ they
+ are
+ sitting,
+ acting
+ as
+ simple
+ listeners.
+ Fig.
+ 7
+compares
+ the
+ mean
+ Soundscape
+ Quality
+ scores
+ between
+ the
+ sitting
+and
+ walking
+ conditions,
+ separately
+ for
+ each
+ material
+ (Table
+ 5).
+
+F.
+ Aletta
+ et
+ al.
+ / Sustainable
+ Cities
+ and
+ Society
+ 27
+ (2016)
+ 367–376
+ 
+375
+Table
+ 5
+Descriptive
+ statistics
+ of
+ the
+ individual
+ Soundscape
+ Quality
+ scores.
+N
+ 
+Mean
+ 
+Std.
+ Deviation
+ 
+Std.
+ Error
+ Mean
+Grass
+ 
+Walking
+ 
+25
+ 
+74.84
+ 
+20.70
+ 
+4.14
+Sitting
+ 
+63
+ 
+61.17
+20.49
+ 
+2.58
+Wood
+ 
+Walking
+ 
+25
+ 
+70.64
+ 
+17.06
+ 
+3.41
+Sitting
+ 
+63
+ 
+57.82
+ 
+19.48
+ 
+2.45
+Stone
+ 
+Walking
+ 
+25
+ 
+75.12
+ 
+15.14
+ 
+3.03
+Sitting
+ 
+63
+ 
+60.13
+ 
+18.81
+ 
+2.37
+Gravel
+ 
+Walking
+ 
+25
+ 
+56.04
+ 
+19.10
+ 
+3.82
+Sitting
+ 
+63
+ 
+31.43
+ 
+20.37
+ 
+2.57
+3.3.
+ Correlations
+ between
+ acoustic
+ metrics
+ and
+ soundscape
+quality
+A
+ set
+ of
+ bivariate
+ correlation
+ tests
+ (Pearson
+ product-moment)
+were
+ carried
+ out
+ to
+ point
+ out
+ possible
+ associations
+ between
+ the
+mean
+ values
+ of
+ the
+ individual
+ scores
+ for
+ the
+ Soundscape
+ Quality
+variable
+ (aggregated
+ over
+ the
+ two
+ experiments)
+ and
+ the
+ acous-
+tic
+ parameters
+ calculated
+ for
+ the
+ different
+ walked-on
+ materials,
+associated
+ to
+ the
+ walking
+ sounds
+ recorded
+ by
+ the
+ experimenter
+before
+ the
+ participants’
+ sessions.
+ The
+ correlation
+ between
+ Sound-
+scape
+ Quality
+ and
+ Loudness
+ resulted
+ to
+ be
+ statistically
+ signiﬁcant,
+r
+ =
+ −0.998,
+ p
+ =
+ 0.002,
+ as
+ well
+ as
+ the
+ correlation
+ between
+ Sound-
+scape
+ Quality
+ and
+ Roughness,
+ r
+ =
+ −0.982,
+ p
+ =
+ 0.018.
+ Fig.
+ 8
+ shows
+the
+ Soundscape
+ Quality
+ scores
+ plotted
+ vs
+ Loudness
+ and
+ Roughness.
+No
+ other
+ statistically
+ signiﬁcant
+ correlations
+ were
+ found
+ between
+Soundscape
+ Quality
+ and
+ the
+ other
+ acoustic
+ parameters.
+ Therefore,
+in
+ this
+ case,
+ the
+ louder
+ and
+ the
+ rougher
+ the
+ walking
+ sounds,
+ the
+worse
+ the
+ appreciation
+ of
+ Soundscape
+ Quality.
+Due
+ to
+ the
+ limited
+ dataset
+ and
+ the
+ small
+ errors
+ generated
+ by
+the
+ aggregation
+ of
+ the
+ individual
+ responses,
+ it
+ is
+ not
+ likely
+ that
+such
+ correlations
+ can
+ be
+ generalised.
+ However
+ this
+ suggests
+ that
+walking
+ sounds
+ could
+ be
+ approached
+ in
+ the
+ future
+ within
+ a
+ broader
+framework
+ for
+ the
+ design
+ of
+ walked-on
+ materials.
+4.
+ Conclusions
+ and
+ discussions
+In
+ this
+ study,
+ two
+ laboratory
+ experiments
+ were
+ carried
+ out
+ in
+order
+ to
+ investigate
+ potential
+ differences
+ in
+ soundscape
+ apprecia-
+tion
+ of
+ walking
+ sounds
+ generated
+ from
+ different
+ footpath
+ materials
+in
+ urban
+ parks
+ contexts.
+ There
+ is
+ an
+ ongoing
+ debate
+ about
+ the
+‘ecological
+ validity’
+ of
+ soundscape
+ data
+ collected
+ under
+ laboratory
+conditions
+ (e.g.
+ Guastavino,
+ Katz,
+ Polack,
+ Levitin,
+ &
+ Dubois,
+ 2005).
+On
+ the
+ other
+ hand,
+ a
+ number
+ of
+ comparative
+ studies
+ between
+ real
+and
+ reproduced
+ scenarios
+ have
+ already
+ shown
+ the
+ effectiveness
+ of
+laboratory
+ experiments
+ in
+ providing
+ valuable
+ results
+ for
+ the
+ per-
+ception
+ of
+ acoustic
+ environments
+ (e.g.
+ Maffei,
+ Masullo,
+ Pascale,
+Ruggiero,
+ &
+ Puyana
+ Romero,
+ 2015).
+ Within
+ the
+ framework
+ of
+ this
+research,
+ four
+ materials
+ including
+ grass,
+ wood,
+ stone
+ and
+ gravel
+were
+ selected
+ for
+ the
+ experiments,
+ as
+ they
+ were
+ considered
+ to
+ be
+plausible
+ design
+ solutions
+ for
+ footpaths
+ in
+ urban
+ park.
+The
+ main
+ conclusions
+ of
+ this
+ study
+ are:
+(1)
+ Different
+ walked-on
+ materials
+ are
+ likely
+ to
+ have
+ an
+ effect
+on
+ people’s
+ soundscape
+ appreciation:
+ indeed,
+ a
+ statistically
+signiﬁcant
+ materials
+ effect
+ was
+ observed
+ on
+ both
+ the
+ Noise
+Annoyance
+ (AN)
+ and
+ Soundscape
+ Quality
+ (SQ)
+ variables.
+ In
+ the
+investigated
+ cases,
+ gravel
+ received
+ the
+ worst
+ assessment.
+ The
+mean
+ differences
+ between
+ gravel
+ and
+ the
+ other
+ materials
+ were:
+31.1%
+ for
+ AN
+ and
+ 24.9%
+ for
+ SQ.
+(2)
+ No
+ statistical
+ differences
+ were
+ found
+ between
+ the
+ Italian
+ and
+the
+ UK
+ sample
+ groups
+ for
+ SQ,
+ while
+ a
+ small
+ statistical
+ mean
+difference
+ (4%)
+ was
+ observed
+ for
+ AN.
+(3)
+ The
+ factors
+ Background
+ Noise
+ (BN)
+ and
+ Cognitive
+ Task
+ (CT)
+ are
+not
+ affecting
+ the
+ AN
+ and
+ SQ
+ responses
+ related
+ to
+ the
+ different
+walking
+ sounds
+ in
+ a
+ systematic
+ way
+ and
+ statistically
+ signiﬁcant
+differences
+ only
+ occur
+ for
+ some
+ materials.
+(4)
+ Statistically
+ signiﬁcant
+ differences
+ were
+ observed
+ in
+ SQ
+ scores
+for
+ all
+ materials
+ between
+ the
+ two
+ experiments
+ of
+ sitting
+ and
+walking
+ participants,
+ the
+ bigger
+ difference
+ being
+ for
+ gravel
+(24.2%)
+ and
+ then
+ for
+ stone
+ (15.0%),
+ grass
+ (13.7%)
+ and
+ wood
+(12.8%).
+ Overall,
+ the
+ walking
+ participants
+ gave
+ higher
+ SQ
+ scores,
+while
+ sitting
+ participants
+ were
+ less
+ tolerant.
+In
+ the
+ investigated
+ cases,
+ grass
+ resulted
+ to
+ be
+ the
+ most
+ appreci-
+ated
+ materials,
+ while
+ gravel
+ was
+ the
+ least
+ appreciated.
+ Nonetheless,
+this
+ study
+ suggests
+ that
+ other
+ factors
+ interacting
+ with
+ the
+ walking
+sounds
+ (e.g.
+ background
+ noise,
+ listeners’
+ activities)
+ should
+ also
+ be
+considered.
+ Further
+ research
+ could
+ also
+ consider
+ a
+ broader
+ range
+ of
+walking
+ styles
+ (e.g.
+ jogging,
+ running).
+In
+ order
+ to
+ test
+ the
+ ecological
+ validity
+ of
+ the
+ results,
+ it
+ would
+ be
+valuable
+ to
+ compare
+ them
+ with
+ data
+ collected
+ on
+ site
+ with
+ real
+ sce-
+narios.
+ However,
+ this
+ study
+ overall
+ suggests
+ that
+ there
+ is
+ room
+ for
+implementing
+ new
+ design
+ strategies
+ to
+ urban
+ parks,
+ in
+ particular
+for
+ the
+ footpath
+ materials
+ and
+ their
+ corresponding
+ walking
+ sounds.
+In
+ general,
+ this
+ claims
+ for
+ further
+ investigation
+ on
+ the
+ soundscape
+of
+ urban
+ parks
+ and
+ the
+ management
+ of
+ quiet
+ areas
+ in
+ the
+ urban
+realm.
+Acknowledgement
+This
+ research
+ received
+ funding
+ through
+ the
+ People
+ Programme
+(Marie
+ Curie
+ Actions)
+ of
+ the
+ European
+ Union’s
+ 7th
+ Framework
+ Pro-
+gramme
+ FP7/2007-2013
+ under
+ REA
+ grant
+ agreement
+ n◦290110,
+SONORUS
+ “Urban
+ Sound
+ Planner”.
+References
+Aletta,
+ F.,
+ &
+ Kang,
+ J.
+ (2015).
+ Soundscape
+ approach
+ integrating
+ noise
+ mapping
+techniques:
+ a
+ case
+ study
+ in
+ Brighton
+ UK.
+ Noise
+ Mapping,
+ 2(1),
+ 1–12.
+Aletta,
+ F.,
+ Kang,
+ J.,
+ Fuda,
+ S.,
+ &
+ Astolﬁ,
+ A.
+ (2015).
+ The
+ effect
+ of
+ walking
+ sounds
+ from
+different
+ materials
+ on
+ the
+ soundscape
+ of
+ urban
+ parks.
+ Journal
+ of
+ Environmental
+Engineering
+ and
+ Landscape
+ Management,
+ in
+ preparation.
+Aletta,
+ F.,
+ Kang,
+ J.,
+ &
+ Axelsson
+ Ö.
+ (2016).
+ Soundscape
+ descriptors
+ and
+ a
+ conceptual
+framework
+ for
+ developing
+ predictive
+ soundscape
+ models.
+ Landscape
+ and
+ Urban
+Planning,
+ 149, 65–74.
+Alves,
+ S.,
+ Altreuther,
+ B.,
+ &
+ Scheuren,
+ J.
+ (2014).
+ Holistic
+ concept
+ for
+ urban
+ sound
+planning
+ applied
+ to
+ real
+ sites.
+ In
+ Proceedings
+ of
+ the
+ forum
+ acusticum
+ 2014
+conference.
+Alves,
+ S.,
+ Estévez-Mauriz,
+ L.,
+ Aletta,
+ F.,
+ Echevarria-Sanchez,
+ G.
+ M.,
+ &
+ Puyana
+Romero,
+ V.
+ (2015).
+ Towards
+ the
+ integration
+ of
+ urban
+ sound
+ planning
+ in
+ urban
+development
+ processes:
+ the
+ study
+ of
+ four
+ test
+ sites
+ within
+ the
+ SONORUS
+project.
+ Noise
+ Mapping,
+ 2(1),
+ 57–85.
+Asdrubali,
+ F.
+ (2014).
+ New
+ frontiers
+ in
+ environmental
+ noise
+ research.
+ Noise
+Mapping, 1,
+ 1–2.
+Axelsson,
+ Ö.,
+ Nilsson,
+ M.,
+ &
+ Berglund,
+ B.
+ (2010).
+ A
+ principal
+ components
+ model
+ of
+soundscape
+ perception.
+ Journal
+ of
+ the
+ Acoustical
+ Society
+ of
+ America,
+ 128(5),
+2836–2846.
+Axelsson,
+ Ö.,
+ Nilsson,
+ M.
+ E.,
+ Hellström,
+ B.,
+ &
+ Lundén,
+ P.
+ (2014).
+ A
+ ﬁeld
+ experiment
+on the
+ impact
+ of
+ sounds
+ from
+ a
+ jet-and-basin
+ fountain
+ on
+ soundscape
+ quality
+in
+ an
+ urban
+ park.
+ Landscape
+ and
+ Urban
+ Planning,
+ 123(1),
+ 49–60.
+Axelsson,
+ Ö.,
+ Lundén,
+ P.,
+ &
+ Nilsson,
+ M.
+ E.
+ (2013).
+ Sound
+ Cities:
+ computational
+modelling
+ of
+ urban
+ soundscape
+ quality.
+ In
+ Proceedings
+ of
+ the
+ internoise
+ 2013
+conference.
+Ballas,
+ J.
+ A.
+ (1993).
+ Common
+ factors
+ in
+ the
+ identiﬁcation
+ of
+ an
+ assortment
+ of
+ brief
+everyday
+ sounds.
+ Journal
+ of
+ Experimental
+ Psychology, 19,
+ 250–267.
+Brambilla,
+ G.,
+ Gallo,
+ V.,
+ Asdrubali,
+ F.,
+ &
+ D’Alessandro,
+ F.
+ (2013).
+ The
+ perceived
+quality
+ of
+ soundscape
+ in
+ three
+ urban
+ parks
+ in
+ Rome.
+ Journal
+ of
+ the
+ Acoustical
+Society
+ of
+ America,
+ 832–839.
+Brambilla,
+ G.,
+ Gallo,
+ V.,
+ &
+ Zambon,
+ G.
+ (2013).
+ The
+ soundscape
+ quality
+ in
+ some
+ urban
+parks
+ in
+ Milan,
+ Italy.
+ International
+ Journal
+ of
+ Environmental
+ Research
+ and
+ Public
+Health,
+ 10, 2348–2369.
+Brambilla,
+ G.,
+ &
+ Maffei,
+ L.
+ (2006).
+ Responses
+ to
+ noise
+ in
+ urban
+ parks
+ and
+ in
+ rural
+quiet
+ areas.
+ Act
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

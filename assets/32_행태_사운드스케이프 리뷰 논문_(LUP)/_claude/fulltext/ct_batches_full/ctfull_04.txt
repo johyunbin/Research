@@ -1,0 +1,2700 @@
+==============================================================================
+### REC 166 | FINAL_INCLUDE | 2021 | Land
+TITLE: Environmental Features Influence Walking Speed: The Effect of Urban Greenery
+(20쪽 · 77,984자 · 절단 없음)
+==============================================================================
+
+land
+Article
+Environmental Features Inﬂuence Walking Speed: The Effect of
+Urban Greenery
+Marek Franˇek *
+and Lukáš Režný
+
+
+Citation: Franˇek, M.; Režný, L.
+Environmental Features Inﬂuence
+Walking Speed: The Effect of Urban
+Greenery. Land 2021, 10, 459.
+https://doi.org/10.3390/
+land10050459
+Academic Editors: Silvija
+Krajter Ostoi´c and Dagmar Haase
+Received: 31 March 2021
+Accepted: 19 April 2021
+Published: 24 April 2021
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Faculty of Informatics and Management, University of Hradec Králové, Rokitanského 62, 500 03 Hradec Králové,
+Czech Republic; lukas.rezny@uhk.cz
+* Correspondence: marek.franek@uhk.cz; Tel.: +420-49-333-2374
+Abstract: The study investigated the rarely addressed topic of how visual environmental features
+can inﬂuence walking speed. Young adult participants were asked to walk on a route that leads
+through areas composed of urban parks and areas with a built environment with a large amount of
+greenery. Their walking speed was measured in selected sections. The participants walked with a
+small video camera, and their walk was recorded. The temporal information was derived from the
+video recordings. Subsequently, the participants evaluated the environmental features of the route by
+speciﬁc spatio-cognitive dimensions of environmental preference. The results show that walking
+speed in speciﬁc sections of the walking route systematically differed and reﬂected the environmental
+features. The walking speed was lower in sections with high natural characteristics and a high
+environmental preference. Noise here was perceived as less annoying than in sections with lower
+natural characteristics. The results are explained in terms of approach avoidance behavior. The
+ﬁndings are in accordance with environmental preference research that documents various beneﬁts
+of walking in the natural environment.
+Keywords: walking speed; greenery; urban environment; stress; relaxation
+1. Introduction
+Recently, physical inactivity has been a major public health problem [1]. Regular
+walking is a way of increasing daily physical activities. Walking is healthy, everyday
+moderate-intensity physical activity and has positive consequences for physical health
+(e.g., [2,3]). Walking is a basic physical activity that is easy to implement and is affordable
+and inexpensive. Regular walks are safe, and unlike other sports, there is practically no
+risk of injuries. Moreover, urban walking is a sustainable and environmentally friendly
+behavior. In recent decades, there has been increasing interest in research on walkability
+and walkable environments (for a review, see [4,5]). However, a fast pace of life is occurring
+in large cities, which includes a fast walking speed (e.g., [6,7]). Recent data suggest that
+the walking speed in large cities may gradually increase [8] as a response to the increasing
+level of urban stressors, such as noise [9]. Furthermore, it has been shown that a fast pace
+of life may be associated with coronary disease [10]. Therefore, it is important to focus
+attention on urban environmental stressors and explore environmental features that may
+reduce their impacts. Thus, the study is aimed to investigate how urban greenery may
+inﬂuence walking speed.
+Walkability research is focused on the diverse environmental features of a walkable
+environment. However, a rarely addressed topic is how visual environmental features can
+inﬂuence walking speed. Given that a fast pace of life in large cities may be a potential
+health problem, it would be useful to explore environmental features that may affect
+walking speed. This study aimed to link walkability research with investigations of
+environmental preferences and psychological reactions to the natural environment and to
+explore walking speed as a response to the visual features of a walking environment.
+Land 2021, 10, 459. https://doi.org/10.3390/land10050459
+https://www.mdpi.com/journal/land
+
+Land 2021, 10, 459
+2 of 20
+1.1. Walkability and Beneﬁts of Walking
+Walkability is usually deﬁned as the extent to which urban areas are easily walkable
+and friendly to people who walk or a measure of how convenient the built environment is to
+walk to predict levels of walking in a speciﬁc urban area [5]. Walkability typically involves
+various physical characteristics of an area, such as accessibility, pleasurableness, greenspace,
+diversity of land use, dwelling density, trafﬁc safety, the number of intersections, and street
+connectivity [11,12]. Walkability is related to indicators of higher physical activity [13,14],
+lower obesity [15–17], and physical health [18–21].
+Although there is general agreement on the beneﬁts of walking in general, research
+within the ﬁeld of environmental psychology provides further evidence of the positive
+effects of walking in a natural setting or urban nature compared to built settings without nat-
+ural elements. Research has documented psychophysiological stress recovery and affective
+beneﬁts after a walk in a natural setting compared to walking in an urban setting [22–25],
+improvement in cognitive function immediately after a natural walk [22,23,25–27], and
+even more positive body image after a natural walk [28]. Thus, the overall health beneﬁts
+of urban walking can be increased with positive psychological effects if individuals walk
+in a natural setting or urban environment that contains some natural elements.
+1.2. Walking Speed and Environmental Features
+Previous research has shown that urban walking speed may be inﬂuenced by cultural,
+economic, and social factors (e.g., [29–31]) or atmospheric conditions [32–34]. Another line
+of research investigated capacity and pedestrian density [35–37] and modeled pedestrian
+trafﬁc (e.g., [38–40]). Bosina and Weidmann’s [41] review of existing literature investigating
+pedestrian walking speed summarized variables that inﬂuence walking speed: physical
+pedestrian properties (e.g., age, gender, body height), cultural differences (e.g., size of the
+settlement areas, cultural environment), emotional inﬂuences (e.g., mood, time pressure,
+trip purpose), and environmental inﬂuences (e.g., time of day, temperature pedestrian
+density, attractiveness of the environment). Although these authors considered the at-
+tractiveness of the environment within environmental inﬂuences, this factor has not been
+adequately explored. Thus, our previous research was devoted to features of the physical
+environment associated with attractiveness that may inﬂuence walking speed. Speciﬁ-
+cally, we explored how the level of naturalness in urban walking routes may inﬂuence
+this behavior.
+It was shown [42] that the walking speed within a route changed in relation to speciﬁc
+environmental features of the walking route in an urban environment. In general, walking
+speed was faster in environments without any greenery and with trafﬁc, while walking
+speed was slower in environments with greenery and lower levels of trafﬁc. The slowest
+walking speed was found in alleys with mature old trees. The areas where participants
+walked slowly were also those they liked most. Importantly, these ﬁndings were observed
+in diverse vegetation periods, in spring and fall. A similar tendency was observed in a
+further study conducted on a different walking route [43]. Walking speed was slowest
+in sections with a higher level of greenery. Curiously, walking speed may accelerate
+immediately near ugly but not dangerous environments (e.g., dirty and damaged facades
+of houses, grafﬁti on a wall). In our subsequent study [44], participants listened to music
+at various tempi while walking on an urban route. It was found that fast music increased
+walking speed, but for both fast and slow music, participants walked more slowly in
+sections with a high amount of greenery than in other sections. In the next study [45]
+that was conducted with a partly similar route as in the previous experiment [44], the
+participants listened to trafﬁc noise through headphones while walking. Trafﬁc noise
+increased their walking speed compared to the control condition. However, participants’
+walking speed was also slower in the more natural sections than in the less natural sections
+while listening to the trafﬁc noise and under the control condition. Thus, it seems that a
+level of perceived naturalness along a route is a crucial factor that decreases walking speed.
+It affects walking speed more than unpleasant acoustical stimuli, such as trafﬁc noise.
+
+Land 2021, 10, 459
+3 of 20
+1.3. Approach-Avoidance Behavior
+The described effects of speciﬁc environmental features on walking speed have been
+explained [42] in terms of the theory of approach-avoidance behavior, which was elaborated
+within the ﬁeld of environmental psychology by Mehrabian and Russell [46]. However, the
+behavioral approach-avoidance distinction is a more general concept in psychology. Ap-
+proach and avoidance behavior can be seen as the fundamental building blocks that allow
+individuals to react and adapt to changing environmental properties [47]. It is considered
+to be a basic process that includes arousal and valence [48] and operates across various
+levels, from basic reﬂexes to cortical processes and social behavior [49]. Mehrabian and
+Russell [46] used these two forms of distinctive behaviors in the analysis of the affective
+reaction to a physical environment. Approach behavior refers to behaviors when an indi-
+vidual is trying to establish contact with the environment and remain inside it. It consists
+of diverse types of behavior: physical movement towards the environment, attention to the
+features of the environment, environment exploration, positive attitude towards the envi-
+ronment, and an attempt to perform any kind of activity in the environment. In contrast,
+behavioral reactions corresponding to avoidance behavior consist of an intention to attempt
+to avoid contact with the environment and to move quickly away. Thus, the approach to an
+environment may result in the deceleration of walking speed, while avoidance may result
+in the acceleration of walking speed.
+This theory by Mehrabian and Russell [46] has been extensively tested in consumer
+research (for a review, see [50,51]), speciﬁcally in studies that investigated the effects
+of various dimensions of retail environments (e.g., temperature, noise, music, layout,
+equipment, signs, symbols) on customer reactions. Our previous study [42] explored
+whether the approach-avoidance model can be used to explain changes in walking speed
+in sections with different environmental features. The results showed that acceleration in
+walking speed in sections of a route with a relatively low amount of greenery and a high
+level of trafﬁc and noise was linked with avoidance behavior (measured by dimensions
+of pleasure, arousal, and dominance from the Mehrabian-Russell questionnaire), while
+deceleration of walking speed occurred in sections with a high amount of greenery and a
+low level of trafﬁc and noise.
+1.4. Preferred Environment
+A large body of research has shown that natural environments containing vegetation
+are preferred over urban and human-made environments, and in the urban setting, en-
+vironments that contain some amount of vegetation are preferred (e.g., [52–58]). Within
+the ﬁeld of environmental psychology, there have been attempts to explain environmental
+preference using cognitive analyses of visual features of an environment and to deﬁne
+the cognitive dimensions that inﬂuence it. Kaplan [59], in his pioneering work, proposed
+that environmental preference is based mainly on four cognitive dimensions: coherence,
+complexity, legibility, and mystery. A higher level of perceived coherence, complexity, leg-
+ibility, and mystery could result in a higher environmental preference. Herzog [56,60]
+subsequently elaborated a cognitive analysis of the preferred environment. In addition to
+the variables of coherence, readability, complexity, and mystery from Kaplan’s model, he
+established further cognitive dimensions. For instance, spaciousness is related to the spatial
+conﬁguration of the environment. This variable describes the perception of sufﬁcient space
+in the environment for the possibility of free and unrestricted movement within the envi-
+ronment. Another dimension is nature, the number of natural elements. The more natural
+elements that are present in the environment, the more preferred it is. These cognitive
+dimensions have been widely used in subsequent environmental preference investigations
+(e.g., [60–64]). Environmental psychology research has also established the concept of
+restoration of an environment, where a crucial role is played by cognitive visual dimensions
+(e.g., [60,65]).
+
+Land 2021, 10, 459
+4 of 20
+1.5. The Present Study
+The objective of the present study was to investigate the effect of visual environmental
+features on pedestrian walking speed. The previous studies [42–44] documented the
+faster walking speed in urban environments without any greenery and with trafﬁc in
+contrast to slower walking speed in urban environments with greenery and lower trafﬁc
+levels. However, these studies contrasted urban natural environments with environments
+without greenery, but we do not know whether people react similarly to different amounts
+of greenery in urban environments. To better understand these mechanisms it is also
+necessary to know how people perceive the environment they walk through and whether
+their walking behavior reﬂects their perception of the environment, speciﬁcally, their
+environmental preference and liking the environment. The change of walking speed as
+a response to a visual environment with a speciﬁc function of greenery may be a speciﬁc
+and underexplored example of speciﬁc sensorimotor reactions. Better knowledge about
+these mechanisms can advance scientiﬁc knowledge in the ﬁeld. Moreover, understanding
+this problem more deeply might help architects and urban designers to create a more
+sustainable urban design.
+Thus, we selected a walking route that leads through areas composed of urban parks
+and areas with a built environment but a large amount of greenery. Study 1 analyzes
+walking speed in eleven selected sections of this route. In Study 2, the participants evaluate
+the environmental features of the walking route by speciﬁc spatio-cognitive dimensions
+of environmental preference. The effect of the purpose of the walk on walking speed is
+explored in Study 3. It is hypothesized that walking speed will decelerate in the sections
+of the route with a high environmental preference. Furthermore, it is expected that the
+tendency to slow down in the preferred environment and speed up in the environment with
+a low level of preference will be more pronounced when people can actively observe their
+surroundings than when people go through the environment without paying attention
+to it.
+2. Study 1
+The goal of this study was to explore the effect of environmental features on walking
+speed. The participants were asked to walk around urban routes with different amounts of
+greenery. Their walking speed was measured in eleven selected sections of the walking route.
+2.1. Materials and Methods
+2.1.1. Participants
+A total of 105 undergraduates attending psychology courses participated in the study.
+The students were young adults aged 19 to 28 years (M = 20.96 years, SD = 1.23), and the
+sample was composed of 52 men and 53 women.
+2.1.2. Walking Route
+The study was conducted in the central area of Hradec Králové. This city has approxi-
+mately 100,000 inhabitants. The walking route was a circuit with a length of 1.75 km. The
+route was located on a ﬂat surface with asphalt pavement. The route was chosen because it
+did not to run alongside other visually distinctive visual features, such as buildings with
+distinctive architecture, distinctive urban mobiliary, shops, advertisements, etc. Walking
+speed was measured on eleven selected sections (Figure 1). The sections were chosen to
+provide a direct path and avoid crossing crossroads or other obstacles.
+Section 1 (60 m) and section 2 (60 m)—The walking path leading through a small park.
+On the left is a river, and on the right of the road behind are mature trees.
+Section 3 (100 m) and section 4 (100 m)—The walking path approached the road from
+the right side. On the left side there are mature trees, behind them is a hillside overgrown
+with grass, and behind that are a meadow and a river.
+
+Land 2021, 10, 459
+5 of 20
+Section 5 (60 m), section 6 (80 m) and section 7 (90 m)—The walking path leads through
+a dense oak alley with mature trees. On the left there is a meadow leading to the river, and
+on the right, there are low trees.
+Section 8 (80 m)—A city street. There are villas with gardens on the left, a strip of
+greenery and mature trees on the right, and a road behind them.
+Section 9 (60 m)—A city street. There is a small park on the left and a school building
+behind it, a road on the right and houses behind it.
+Section 10 (80 m)—A city street. On the left side behind the school building, there is a
+view of a park with tall old trees, a road on the right, and houses behind it.
+Section 11 (100 m)—A city street. On the left side, there is a moat near the sidewalk,
+and behind it, there is a long low building (former barracks); on the right side, there is a
+strip of greenery with low landscaped trees, with a road and houses behind them. There is
+a busy intersection nearby.
+ 
+Figure 1. Walking route. Sections 1–11, where walking speed was measured, are indicated.
+2.1.3. Measurement of Walking Speed
+The participants walked with a small video camera (Sony Bloggie MHS-PM5K, Sony
+Corporation, Tokyo, Japan) attached to a belt around their waist (size 19 × 108 × 55 mm3,
+weight 110 g). Through a ﬁsheye lens, the environment, the participant’s feet, and the
+participant’s arms were captured. The beginning and end of each section of the route
+were indicated by a line drawn on the sidewalk. An evaluator marked two frames of
+the video recording to create the beginning and end of the annotation for each section
+in the software Elan (see https://tla.mpi.nl/tools/tla-tools/elan/ (accessed on 15 April
+2021). Every annotation represented the entire section of the track so that the extent of time
+subjects spent there could be determined. This enabled us to calculate the average speed
+reached by the participants in speciﬁc sections. The data are in Supplementary Materials,
+Table S1.
+2.1.4. Procedure
+Before the experiment, the participants were asked to sign informed consent forms.
+Then, they were informed that they would take part in a study in which their task was
+to walk around a route. The route was shown and explained to them using a map. They
+were instructed to walk through the route at their normal walking speed. Furthermore,
+
+Land 2021, 10, 459
+6 of 20
+they were asked to not stop walking and not to call or speak with other pedestrians. They
+were not informed about the goal of the study. They then received a belt with a video
+camera and walked approximately 400 m to the initial point of the route. Here, the re-
+search assistant switched their camera on and showed them the direction of their walk.
+The participants walked individually around the route. The walk lasted approximately
+20 min. The walking route was marked by orange arrows painted on the sidewalk. To
+control for a possible effect of the order of individual sections of the route, the participants
+walked on the route either from section 1 to section 11 (direction 1–11) or from section 11
+to section 1 (direction 11–1). The participants were randomly assigned to a speciﬁc con-
+dition. In direction 1–11, 53 participants walked (26 males, 27 females), in direction 11–1,
+52 participants walked (26 males, 26 females).
+The study was conducted in April 2013 on three workdays: 23 April (only afternoon),
+24 April and 25 April. On the afternoon of 23 April, it was cloudy, with mild wind and a
+temperature of approximately 20 degrees Celsius. On the morning of 24 April, it was sunny,
+and the temperature was approximately 20 degrees. The afternoon of 24 April was sunny
+and had a temperature of approximately 23 degrees. On the morning of 25 April, it was
+cloudy, and the temperature was approximately 22 degrees. On the afternoon of 25 April,
+it was cloudy, and the temperature was approximately 25 degrees. The grass was green,
+bushes were bright green, and trees along the route were sparsely covered with leaves.
+2.2. Results and Discussion
+Table 1 and Figure 2 show the average walking speeds in the individual sections.
+The average walking speed in directions 1–11 was 1.62 m/s (SD = 0.14) and was faster
+than the average walking speed in directions 11–1, which was 1.59 m/s (SD = 0.15).
+However, the difference was not signiﬁcant (t = 1.29, p = 0.20). To test the assumption
+that the environmental characteristics of speciﬁc sections and the direction of the walk
+affect the walking speed, a mixed analysis of variance (ANOVA) was conducted to test the
+effects of individual sections (11 sections) and the direction of the walk (direction 1–11—
+direction 11–1) on walking speed in individual sections of the route. The direction of the
+walk on the route was chosen as the between-subject factor, the section of the route was
+chosen as the within-subject (repeat-measures) factor, and the speed of walking was used
+as the dependent variable. The calculations were conducted by the software Statistica 12
+(TIBCO Software Inc., Palo Alto, CA, USA). ANOVA indicated a statistically signiﬁcant
+within-subjects main effect of the section walked (F10,102 = 19.40, p < 0.001, η2 = 0.16). A
+post hoc Tukey test showed that the participants’ walking speeds differed statistically
+signiﬁcantly in the following pairs of sections:1–5, 1–6, 1–7, 2–4, 2–5, 2–6, 2–7, 3–5, 3–6,
+3–7, 4–5, 4–6, 4–7, 4–9, 4–11, 5–8, 5–9, 5–10, 5–11, 6–8, 6–9, 6–10, 6–11, 7–8, 7–9, 7–10, and
+7–11. The between-subjects main effect of the direction of the walk was not signiﬁcant
+(F1,102 = 1.65, p = 0.20, η2 = 0.02). The interaction between the section walked and the
+direction of the walk was signiﬁcant (F10,102 = 6.61, p < 0.001, η2 = 0.06).
+Table 1. The average walking speeds (m/s) in speciﬁc sections of the route in Study 1.
+Section
+Direction 1–11
+Direction 11–1
+M
+SD
+M
+SD
+Section 1
+1.65
+0.12
+1.58
+0.15
+Section 2
+1.65
+0.14
+1.59
+0.14
+Section 3
+1.64
+0.14
+1.58
+0.15
+Section 4
+1.62
+0.14
+1.59
+0.15
+Section 5
+1.60
+0.15
+1.57
+0.15
+Section 6
+1.59
+0.15
+1.57
+0.15
+Section 7
+1.59
+0.15
+1.57
+0.15
+Section 8
+1.62
+0.15
+1.60
+0.15
+Section 9
+1.63
+0.15
+1.60
+0.14
+Section 10
+1.62
+0.15
+1.60
+0.15
+Section 11
+1.62
+0.15
+1.62
+0.15
+Average speed on the route
+1.63
+0.15
+1.59
+0.15
+
+Land 2021, 10, 459
+7 of 20
+ 
+Figure 2. Average walking speeds (m/s) in speciﬁc sections of the route in Study 1.
+The results showed that the walking speed in individual sections differed. The walking
+speeds in sections 5, 6, and 7 were signiﬁcantly slower than the walking speed in other
+sections. sections 5, 6, and 7 were located in the dense oak alley, which was surrounded
+on one side by a meadow and on the other side by vegetation. Clearly, this part of the
+route had higher natural character than the other sections of the route. Moreover, there
+were observed differences in walking speed between section 10 and the previous section
+(section 9 in walking direction 1–11 and section 11 in walking direction 11–1), but these
+differences were not signiﬁcant (see Figure 2). Section 10 was characterized by a sudden
+change in the environment, in contrast to the previous sections, which consisted of an open
+space with a park and mature old trees.
+The interaction between the section walked and the direction of the walk revealed that
+in the direction 11–1, walking speed decreased at the ﬁnal parts of the route; in sections 1–4,
+the walking speed was signiﬁcantly lower than in the direction 1–11. Importantly, the
+walking speed in section 11 was almost equal in both walking directions, regardless of
+whether this section was the ﬁrst or the last section of the route. We speculate that in
+this section, the sidewalk was narrow, and there was a deep moat between its edge and
+the adjoining building, causing a decrease in walking speed. Thus, the participants who
+started in section 11 walked slightly slower than those who started the walk in section 1 and
+continued to section 11. It seems that the initial speed within the walking route inﬂuenced
+the speed on the whole route.
+Although the route was chosen because it did not to run alongside other visually
+distinctive architecture, one exception may be section 11 that ran all along the long low
+building, former barracks build in a 18th-century military style that is not a common
+architectonical style in this city. On the other hand, the building had a very simple facade
+with minimal architectural details that did not catch attention, we suppose. Moreover, the
+data did not show any systematic effect of this architecture on walking behavior.
+3. Study 2
+The goal of this study was to evaluate the environmental features of eleven sections
+of the walking route from Study 1. The environments were evaluated by spatio-cognitive
+
+Land 2021, 10, 459
+8 of 20
+dimensions based on studies by Kaplan [59] and Herzog [56,60]. Moreover, perceived noise,
+trafﬁc, and amount of natural elements were assessed. Finally, the participants’ liking of
+the environment and intention to leave the environment (approach-avoidance behavior)
+were assessed.
+3.1. Materials and Methods
+3.1.1. Participants
+A total of 72 undergraduates attending psychology courses participated in the study.
+The students were young adults aged 19 to 23 years (M = 20.81 years, SD = 0.90), and the
+sample was composed of 35 men and 37 women. All of them took part in Study 1.
+3.1.2. Measures
+On the eleven sections of the walking route employed in Study 1, the participants were
+required to rate the environment using eleven items on the questionnaire (see Table 2).
+Table 2. The questionnaire used in Study 2.
+Item
+Dimension
+Spatio-cognitive dimensions
+1.
+There is enough space to move around sufﬁciently and without
+restrictions
+Space
+2.
+The individual elements of the environment are in harmony with
+each other.
+Coherence
+3.
+It’s easy to understand where I am now, what the place is, how to
+get out of here and where to go next.
+Legibility
+4.
+The environment contains a large number of various elements.
+Complexity
+5.
+If I enter the environment and move on, it is possible that I will
+ﬁnd many other interesting things there.
+Mystery
+6.
+The environment offers relaxation, calming, and an escape from
+everyday stress.
+Relaxation
+Environmental features
+7.
+There is a lot of trafﬁc.
+Trafﬁc
+8.
+There is noise here.
+Noise
+9.
+There are a lot of natural elements here.
+Naturalness
+Approach-avoidance behavior
+10.
+I prefer to leave this place
+Liking
+11.
+I like the environment.
+Items 1–6 described spatio-cognitive dimensions of the environment. These items
+were selected from the study by Herzog [60]. Item 1 was related to the spatio-cognitive
+dimension space, item 2 was related to the spatio-cognitive dimension coherence, and item 3
+was related to the spatio-cognitive dimension legibility. Item 4 was related to the spatio-
+cognitive dimension complexity, item 5 was related to the spatio-cognitive dimension
+mystery, and item 6 was related to the dimension restoration. Items 7–9 described properties
+of the environment. Item 7 was related to perceived trafﬁc, item 8 was related to perceived
+noise, and item 9 was related to the perceived amount of natural elements (naturalness). Item
+10 described intention to leave the environment (avoidance behavior), and item 11 described
+the participants’ liking of the environment. The level of agreement/disagreement with these
+items was expressed on a 5-point Likert-type scale with anchors 1: Absolutely disagree
+and 5: Absolutely agree. The data are in Supplementary Materials, Table S1.
+3.1.3. Procedure
+The participants walked together in a group with the author of the study along
+the walking route that was employed in Study 1. In approximately the middle of each
+
+Land 2021, 10, 459
+9 of 20
+section of the walking route, the participants stopped and recorded their evaluations
+on a questionnaire form. To prevent participants from inﬂuencing each other in their
+evaluation of an environment, they were asked not to talk to each other while completing
+the questionnaire. The ﬁrst group of participants (N = 34, 20 females) moved along the route
+from section 1 to section 11, while the second group of participants (N = 38, 17 females)
+moved along the route from section 11 to section 1. The form of vegetation and weather
+was approximately the same as at the time of Study 1. The study was conducted during
+one working day, 2 May 2013.
+3.2. Results and Discussion
+The scores of the estimation of perceived spatio-cognitive dimensions of the speciﬁc
+section of the walking route are shown in Figure 3a. The scores of the estimation of
+perceived environmental properties of the speciﬁc section of the walking route are shown
+in Figure 3b, and the scores of the intention to leave the environment and liking of the
+environment are shown in Figure 3c.
+To test the assumption that the environmental features of speciﬁc sections affect
+perceived spatio-cognitive dimensions, perceived environmental properties, intention to
+leave the environment (approach-avoidance behavior), and liking the environment (see
+Table 3), a series of one-way repeated measures ANOVAs were conducted. The preliminary
+analysis did not reveal differences between the estimation of participants moving from
+section 1 to section 11 and those moving from section 11 to 1. Therefore, the direction
+of the walk on the route was not included in the ANOVA model. The calculations were
+conducted by the software Statistica 12 (TIBCO Software Inc., Palo Alto, CA, USA).
+Space. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a moderate effect on the level of perceived space. The
+signiﬁcantly highest levels of perceived space were in sections 5, 6, and 7 (compared to
+sections 3, 4, 8, 9, 10, 11), and section 10 had signiﬁcantly higher perceived space compared
+to surrounding sections 9 and 11.
+Coherence. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a moderate effect on the level of perceived coherence.
+Sections 5, 6, and 7 had the highest level of perceived coherence compared to the other
+sections. In contrast, the signiﬁcantly lowest level of perceived coherence was found in
+section 11 compared to the other sections (except sections 10 and 1).
+Table 3. Results of the ANOVA for all questionnaire items used in Study 2.
+Item
+F
+p
+η2
+df
+Spatio-cognitive dimensions
+1. Space
+39.27
+0.001
+0.34
+1,10
+2. Coherence
+46.72
+0.001
+0.40
+1,10
+3. Legibility
+9.86
+0.001
+0.12
+1,10
+4. Complexity
+10.82
+0.001
+0.13
+1,10
+5. Mystery
+7.31
+0.001
+0.09
+1,10
+6. Relaxation
+104.932
+0.001
+0.60
+1,10
+Environmental properties
+7. Trafﬁc
+264.43
+0.001
+0.79
+1,10
+8. Noise
+179.36
+0.001
+0.72
+1,10
+9. Nature
+100.88
+0.001
+0.60
+1,10
+Approach-avoidance behavior
+10. Leave
+64.66
+0.001
+0.48
+1,10
+Environmental preference
+11. Liking
+75.45
+0.001
+0.52
+1,10
+
+Land 2021, 10, 459
+10 of 20
+Figure 3. Average scores for spatio-cognitive dimensions (a), properties of the environment (b) and intention to leave the
+environment and liking (c).
+Legibility. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a small effect on the level of perceived legibility. A
+signiﬁcantly higher level of perceived legibility was found for sections 1 and 2 compared to
+sections 5, 6, 7, 9, and 11 and for section 10 compared to sections 5, 6, and 7. A signiﬁcantly
+lower level of legibility was found in section 11 than in the other sections (except section 10).
+Complexity. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a small effect on the level of perceived complexity. A higher
+level of perceived complexity was found in sections 1, 2, and 8–10. The signiﬁcantly lowest
+levels of perceived complexity were found in section 5 and section 6.
+Mystery. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a small effect on the level of perceived mystery. A sig-
+niﬁcantly higher level of perceived mystery was found in section 6 and section 7 (except
+combinations 6–9, 6–10, 7–9, 7–10), and the signiﬁcantly lowest level of perceived mystery
+was found in section 11 (compared to sections 5, 6, 7, 9 and 10).
+Restoration. The one-way repeated measures ANOVA showed that the environmen-
+tal features of speciﬁc sections had a high effect on the level of perceived relaxation.
+Sections 5, 6, and 7 had signiﬁcantly higher levels of relaxation, and section 10 had a higher
+level of perceived relaxation than sections 9 and 11. The signiﬁcantly lowest level of relax-
+ation was observed in section 11 compared to the other sections (except combination 9–11).
+Trafﬁc.
+The one-way repeated measures ANOVA showed that the environmen-
+tal features of speciﬁc sections had a moderate effect on the perceived level of trafﬁc.
+Sections 5, 6, and 7 had signiﬁcantly lower levels of perceived trafﬁc than the other sec-
+tions; in contrast, sections 9, 10, and 11 had signiﬁcantly higher levels of perceived trafﬁc
+than the other sections.
+
+Land 2021, 10, 459
+11 of 20
+Noise. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a high effect on the level of perceived surrounding noise.
+The results were similar to the perceived level of trafﬁc in speciﬁc sections, indicating that
+noise is mainly generated by trafﬁc.
+Naturalness. The one-way repeated measures ANOVA showed that the environmental
+features of speciﬁc sections had a high effect on perceived naturalness. There was a
+signiﬁcantly increased level of naturalness from section 3 to section 7, and section 10
+had a signiﬁcantly higher level of perceived naturalness compared to the surrounding
+sections 9 and 11.
+Intention to leave the environment. The one-way repeated measures ANOVA showed
+that the environmental features of speciﬁc sections had a high effect on the intention to
+leave the environment. A signiﬁcantly lower level of intention to leave the environment
+occurred in sections 5, 6, and 7 compared to other sections, while the signiﬁcantly highest
+level of intention to leave the environment occurred in sections 9 and 11 compared to
+other sections.
+Liking the environment. The one-way repeated measures ANOVA showed that the
+environmental features of speciﬁc sections had a high effect on liking the environment.
+Sections 5, 6, and 7 had signiﬁcantly higher levels of environmental preference than the
+other sections, and section 11 had signiﬁcantly lower levels of environmental preference.
+The results indicate that the environmental features of speciﬁc sections of the walking
+route had signiﬁcant effects on the perceived qualities of the environment. They had a
+signiﬁcant and mediate effect on perceived coherence, space, and restoration. The effect
+of speciﬁc sections was almost the same among these spatiotemporal dimensions. The
+effect on perceived legibility, complexity, and mystery was also signiﬁcant but smaller.
+Thus, coherence, space, and restoration seem to be the spatio-cognitive dimensions that
+best described the differences between various environments of the walking route. The
+environmental features of speciﬁc sections also had signiﬁcant mediating effects on the
+perceived level of trafﬁc and noise and a high effect on perceived naturalness. These results
+are consistent with the scores of perceived spatio-cognitive dimensions and liking scores.
+Curiously, the scores of the spatio-cognitive dimensions legibility and complexity that are
+supposed to be combined with the preferred natural environment (Kaplan, 1975) showed
+an opposite trend to the scores of coherence, space, mystery and restoration.
+The results consistently showed a speciﬁc character of sections 5, 6, and 7, which are
+composed of a long dense oak alley. These sections had the highest scores for perceived
+naturalness and liking. Accordingly, the spatio-cognitive dimensions of environmental
+preference coherence, space, mystery, and restoration had the highest scores in these sections.
+Moreover, perceived noise and trafﬁc were the lowest here. Another section with a similar
+speciﬁc character is presented in section 10 with a view of the park with tall old trees.
+Importantly, these ﬁndings reﬂect changes in walking speed on the route observed
+in Study 1. The slowest walking speed was in sections 5, 6, and 7, which had the highest
+level of liking and perceived naturalness, a low level of noise and trafﬁc, and high values
+of coherence, space, mystery, and restoration. The same holds for section 10 compared with
+the surrounding sections 9 and 10. The results also conﬁrm that changes in walking speed
+may be explained in terms of approach-avoidance behavior. Perceived avoidance behavior
+(the intention to leave the environment) was lowest in the sections that were liked most
+and where walking speed was lower than in the other sections.
+4. Study 3
+In Study 1, the purpose of walking was not speciﬁed. In particular, the purpose of
+walking may be related to the extent to which the participants observe the surrounding
+environment, which may inﬂuence their walking speed. There is evidence that business
+and commuter trafﬁc have the highest walking speeds, while leisure trips have the lowest
+walking speeds [41]. Therefore, in the present study, participants were given different
+instructions: either to observe the environment carefully while walking or to ignore the
+
+Land 2021, 10, 459
+12 of 20
+environment and look ahead. The objective was to explore the extent to which the differ-
+ence between active monitoring of the surroundings or trying to walk the route without
+monitoring the surroundings can affect walking speed in individual sections of the route.
+The study was conducted on the same route as in Study 1, but for practical reasons, the
+route length was shortened; it contained only the sections where the largest difference in
+walking speed was observed in Study 1.
+4.1. Materials and Methods
+4.1.1. Participants
+A total of 79 undergraduates attending psychology courses participated in the study.
+The students were young adults aged 19 to 25 years (M = 21.11 years, SD = 1.05), and the
+sample was composed of 38 men and 41 women.
+4.1.2. Walking Route
+The walking route was partly the same as in Study 1, but it was shorter, encompassing
+only sections 1–8.
+4.1.3. Procedure
+The procedure and measurement of walking speed were the same as in Study 1. There
+were two conditions: “look around” and “do not look around”. Under the condition “look
+around”, the participants received the following instruction: “While walking along the route,
+look carefully around you. Try to remember what was interesting on the route”. In contrast, under
+the condition “do not look around”, the participants received the following instruction:
+“While walking along the route, try to ignore your surroundings and just look at the road ahead”.
+The participants were randomly assigned to a speciﬁc condition. Under the condition
+look around, 41 participants walked (20 males, 21 females); under the condition do not look
+around, 38 participants walked (18 males, 20 females).
+The study was conducted in April 2016 on three workdays, 26 April (only afternoon),
+27 April, and 28 April. On the afternoon of 23 April, it was cloudy, with a temperature
+of approximately 10 degrees Celsius. On the morning of 24 April, it was cloudy, and the
+temperature was approximately 6 degrees. On the afternoon of 24 April, it was cloudy
+with a temperature of approximately 7 degrees. On the morning of 25 April, it was cloudy,
+and the temperature was approximately 7 degrees. On the afternoon of 25 April, it was
+cloudy, with a temperature of approximately 10 degrees. The grass was green, bushes were
+bright green, and trees along the route were sparsely covered with leaves.
+4.2. Results and Discussion
+Table 4 and Figure 4 show the average walking speeds in individual sections. The
+average walking speed under the condition look around was 1.60 m/s (SD = 0.14); this was
+slower than the average walking speed under the condition do not look around, 1.65 m/s
+(SD = 0.13). The difference was signiﬁcant (t = 2.19, p < 0.05, Cohen’s d = 0.37). To test the
+assumption that the environmental characteristics of speciﬁc sections and the condition of
+the walk affect the walking speed, a mixed ANOVA was conducted to test the effects of
+speciﬁc sections (8 sections) and the condition (look around-do not look around) on walking
+speed in individual sections of the route. The condition of the walk on the route was
+chosen as the between-subject factor, the section of the route was chosen as the within-
+subject (repeat-measures) factor, and the speed of walking was used as the dependent
+variable. The calculations were conducted by the software Statistica 12 (TIBCO Software
+Inc., Palo Alto, CA, USA). ANOVA indicated a statistically signiﬁcant within-subjects
+main effect of section walked (F7,73 = 53.21, p < 0.001, η2 = 0.42). A post hoc Tukey test
+showed that the participants’ walking speeds differed statistically signiﬁcantly in almost
+all pairs of sections except sections 1–2, 2–3, 3–4, 3–8, 4–8, 5–6, and 6–7. Furthermore,
+ANOVA indicated a statistically signiﬁcant between-subjects main effect of the condition
+
+Land 2021, 10, 459
+13 of 20
+(F1,73 = 4.79, p ≤0.05, η2 = 0.06). The interaction between the section walked and the
+condition was also signiﬁcant (F7,73 = 4.51, p < 0.001, η2 = 0.06).
+Table 4. The average walking speeds (m/s) in speciﬁc sections of the route in Study 3.
+Section
+Look around
+Do Not Look around
+M
+SD
+M
+SD
+Section 1
+1.62
+0.14
+1.67
+0.13
+Section 2
+1.62
+0.15
+1.67
+0.12
+Section 3
+1.60
+0.15
+1.66
+0.13
+Section 4
+1.59
+0.15
+1.66
+0.12
+Section 5
+1.55
+0.15
+1.63
+0.13
+Section 6
+1.54
+0.14
+1.63
+0.13
+Section 7
+1.52
+0.14
+1.62
+0.13
+Section 8
+1.58
+0.15
+1.66
+0.12
+Average speed on the route
+1.60
+0.14
+1.65
+0.13
+The results showed that the instruction signiﬁcantly inﬂuenced overall walking speed
+on the route. As expected, under the condition do not look around, the participants walked
+faster than under the condition look around. Interestingly, the walking speed under the look-
+around condition was approximately the same as that in Study 1. This ﬁnding shows that
+the instruction do not look around led to a change in behavior and reduced observation of the
+environment, which results in faster walking speed. However, regardless of the instructions
+and walking speed, the data showed the same trend under both conditions, speciﬁcally
+the signiﬁcantly slowest walking speed in sections 5, 6, and 7 formed by an oak alley and
+a signiﬁcant increase in walking speed in section 8 formed by a city street with a smaller
+level of greenery. The temporal pattern in walking speed for the route is in accordance
+with the pattern found in Study 1. It shows a very robust effect of environmental features
+on walking speed. The robustness of the trend is also supported by the fact that Study 3
+was conducted at a substantially colder temperature and slightly denser vegetation than
+Study 1. The limitation was that the research methodology did not enable control of actual
+head movements and the direction of the eyes, but the signiﬁcant differences between
+average speeds under both conditions indicate that the instruction was largely respected.
+ 
+Figure 4. Average walking speeds (m/s) in speciﬁc sections of the route in Study 3.
+
+Land 2021, 10, 459
+14 of 20
+5. General Discussion
+The present study investigated the rarely explored effect of visual environmental
+features on pedestrian walking speed. The results showed that walking speed in speciﬁc
+sections of the walking route systematically differed and reﬂected the environmental
+features. While our previous studies [42,44] demonstrated the difference between walking
+speeds in green areas and sections without greenery, the present study was conducted on a
+route where all analyzed sections contained a certain amount of greenery and examined
+the amount of greenery within the environment combined with changes in walking speed.
+The slowest walking speed was found in sections 5, 6, and 7, which were formed by a
+dense oak alley with mature trees surrounded by a meadow and low trees. The cognitive
+analysis of the visual properties of the route showed that the participants perceived a
+high level of space, complexity, legibility, coherence, mystery, and relaxation in these
+sections. These spatio-cognitive dimensions are usually combined in the environmental
+psychology literature with the preferred environment (e.g., [56,59,60]). These sections
+were also liked most. Additionally, the highest level of perceived naturalness and a
+low level of perceived noise and trafﬁc were found here. Furthermore, slowing down
+was observed in section 10 compared to the surrounding sections 9 and 11. Importantly,
+sections 9, 10 and 11 were located along a road with intense car trafﬁc. The slowing down
+in this section clearly demonstrated the effect of visual features compared to the effect of
+soundscape characteristics of the environment. In section 10, an impressive view opened
+up suddenly to a small park with tall old trees. Although it was located on a busy street,
+the perceived level of relaxation and liking was signiﬁcantly higher in this section than in
+the surrounding sections 9 and 11.
+It is worth commenting on the robustness of our ﬁndings. In addition to this study,
+we conducted a series of investigations on walking speed on the same route (sections 1–8)
+under different additional experimental conditions. In the study [66] conducted in fall
+2013 and fall 2014, participants were ﬁrst primed with pictures of shopping malls or trees
+and then walked around this route. The type of priming inﬂuenced them for all walking
+speeds on the route. In the study [45] conducted in spring 2017, the participants listened
+to trafﬁc noise or natural sounds from headphones while walking. The type of acoustic
+stimulus also inﬂuenced them for all walking speeds on the route. However, under all
+experimental and control conditions, we observed a similar temporal pattern of walking
+speed: the participants gradually slowed down along sections 1, 2, 3, and 4, the slowest
+walking speed was in sections 5, 6, and 7, which had the highest natural character, and
+they subsequently walked faster in section 8.
+Although we argue that the naturalness of the environment had a crucial effect on
+walking speed, the effect of noise should also be taken into account. In sections 5, 6, and 7,
+the level of perceived noise and trafﬁc was very small because this part of the route was
+far from streets with trafﬁc. However, as mentioned above, in section 10, the walking
+speed and the levels of relaxation and liking were signiﬁcantly higher than those in sur-
+rounding sections 9 and 11, although the levels of perceived noise and trafﬁc were equal
+in sections 9 and 10. However, perceived levels of noise did not refer to the actual level
+of noise that was objectively measured as the acoustic pressure levels in speciﬁc areas.
+The public available data [67] showed that the trafﬁc noise in sections 4–8 was approx-
+imately Lday = 55–60 dBA, while the trafﬁc noise in sections 1–3 and 9–11 was smaller,
+approximately Lday = 50–55 dBA. Thus, noise in areas with more greenery was subjec-
+tively perceived as smaller than it actually was, namely, in sections 5, 6, and 7. This ﬁnding
+is consistent with studies that found that the evaluation of sound environments can be
+affected by co-occurring visual settings. A natural setting makes noise less annoying
+(e.g., [68–70]). Moreover, it was found that greenery can mask views on streets with trafﬁc;
+thus, noise may be perceived as less annoying (e.g., [71,72]). This may explain why the
+lowest perceived level of noise was in sections 5, 6, and 7, which were exposed to the noise
+of heavy trafﬁc from a noisy, invisible motor road 300 m away with higher Lday than
+sections 9–11, where the perceived level of noise was signiﬁcantly higher. In addition, our
+
+Land 2021, 10, 459
+15 of 20
+previous studies [44,45] showed that acoustic stimuli were less important for pedestrians
+than visual stimuli because the visual features had similar effects on changes in walking
+speed even when the participants were listening to music, trafﬁc noise or natural sounds.
+Walking speed was the slowest in the section of the routes where the environment
+was liked most, and in the section where people expressed the lowest level of intention
+to leave the environment. Thus, the observed walking behavior may also be explained
+in terms of approach-avoidance behavior. These two forms of behavior are based on an
+affective reaction to the environment, which results in trying to establish contact with the
+environment (positive emotions) or intending to avoid the environment (negative emotion).
+Although this theory was tested in various types of service environments [50], it seems that
+it can also explain ﬂuctuations in pedestrians’ walking speed. Of course, when people are
+walking, they usually do not stop (or cannot stop) observing or joining the environment
+that they like, but it seems that they can unintentionally slow down. Importantly, we
+observed similar behavior even in the condition where the participants were asked to
+ignore their surroundings and just look at the road ahead.
+Furthermore, it is worth commenting on why it is important to explore visual environ-
+mental factors that may slow pedestrian walking speed. A fast walk is not an undesirable
+behavior if it is a part of sports activities, for instance. However, the everyday walking
+speed of pedestrians can be associated with the overall fast pace of life as a response to
+certain environmental stimuli. The concept of the pace of life appeared several decades
+ago and has been deﬁned as the “relative rapidity or density of experiences, meanings,
+perceptions and activities” ([73], p. 14). It is expected that the pace of life is a response to
+stimulatory overload and various urban stressors, including crowding and trafﬁc [29]. The
+pace of life has been operationalized from temporal aspects of various urban behaviors
+and activities, e.g., mean walking speed, mean working speed, and mean clock accu-
+racy [7]. Urban pedestrian walking speed was investigated mainly in the 1970s and the
+1980s (e.g., [6,29,74]). Interestingly, Levine and Norenzayan [7] compared the pace of life,
+including walking speed, in large cities from 31 countries and found that the predictors
+for a fast pace were a higher economic level and individualistic culture, with a faster pace
+of city life in West European countries and Japan. This ﬁnding was also supported by a
+more recent study [75]. Importantly, there is evidence that a faster pace of life in large cities
+is associated with a greater likelihood of heart attacks [6,7]. Levine, Lynch, Miyake, and
+Lucia [10] explored the pace of life in metropolitan cities in the US and found a correlation
+between mortality rates from a coronary heart attack and a fast pace of life. Fast movement
+speed could be a potential risk factor for heart diseases, and it has been interpreted in
+parallel to Type A behavior patterns, which are associated with competitiveness, time
+urgency, hostility, and aggressivity. It was also shown that there is a positive correlation
+between an individual’s pace of life and risk attitude, which can result in risky solutions to
+trafﬁc situations [76].
+It is worth noting that our participants walked on the route relatively quickly. Bohan-
+non [77] compared walking speed in various age groups (20–79 years) and reported an
+average comfortable gait speed of approximately 1.40 m/s and maximal gait speed of ap-
+proximately 2.50 m/s for males and females in their twenties. A meta-analysis of relevant
+studies [78] supported this ﬁnding, but the limitation of these studies was that walking
+speed was measured only over short distances, usually up to 10 m. In real situations,
+walking speed could differ according to the purpose of the walk. Our results showed that
+the participants walked more quickly than the reported gait speed of 1.40 m/s. Most likely,
+their intention was to complete the walk on the route quickly; therefore, their walking
+speed differed from obvious walking speed for recreation purposes when people observe
+and enjoy the surrounding environment. Nevertheless, walking speed in the present study
+varied depending on the visual environmental features of the route.
+Thus, the present ﬁndings may provide a useful contribution to research on walkabil-
+ity. Our research has shown that natural elements on urban roads increase liking of the
+environment and can result in slower walking speeds. In addition, it was shown that trafﬁc
+
+Land 2021, 10, 459
+16 of 20
+noise, which is an environmental stressor [79], is less annoying in a green environment.
+Thus, natural features of a walking route may result in a decrease in tension and a feeling
+of time urgency. In accord with this claim, Davydenko and Peetz [80] showed that time
+spent walking in a natural setting was overestimated compared to actual time, in contrast
+to walking in a man-made setting. Creating an environment that may cope with perceived
+time urgency and decelerate the fast pace of life would be very useful. Thus, investigations
+of these phenomena have relevance.
+The ﬁndings have some practical implications. Still, some architects and urban de-
+signers prefer urban design solutions with a minimal amount of greenery. For instance,
+they often argue that trees and greenery have not been typical in old middle age cities, that
+greenery gradually grows up and it may hide view on the architecture, that it occupies
+a space that may be used for other activities, and, moreover, that greenery needs special
+care, which may be expensive for municipal budgets (e.g., [81]). Although positive bio-
+logical functions of urban greenery are widely known, there is less public awareness of
+the positive psychological effects of greenery that the current research in environmental
+psychology is discovering. Our ﬁndings can enhance knowledge on these positive psy-
+chological functions of urban greenery and provide architects and urban authorities more
+information as to why greenery can be important in new urban design solutions. Moreover,
+a wider awareness of the positive psychological functions of urban greenery could also
+help environmental organizations struggling to keep existing greenery that is considered
+to be removed for reasons that are not often rational.
+It is worth commenting on the generalizability of our ﬁndings relative to our small
+samples, which consisted of young adults only. Firstly, the studies were limited to young
+people, which might limit the generalization of our result. There is no doubt that for
+comparison, it could be useful to have older people in the sample as well. On the other
+hand, there is no evidence for age or gender effects in responses to the natural environment
+(for review, see [25,82,83]). Typically, young, healthy people walk faster than older adults,
+but this does not mean that they perceive and react to natural environments differently
+than older people. Secondly, the present studies are based on an experimental approach,
+which limits the number of participants, because, for practical and technical reasons,
+it is not possible to conduct experiments with hundreds of participants. In contrast,
+above mentioned studies that measured urban walking speed (e.g., [7,8,29]) employed
+the observation method, where they measured the walking speed of a large number of
+pedestrians in real urban environments. However, the drawback of this approach is that
+it is not possible to inﬂuence the direction of their walk, to control the purpose of their
+walking, and other factors. However, a suggestion for future research could be to use
+GPS methodology that enables researchers to simply track movements of large number of
+people and select appropriate urban traces with diverse environments to measure walking
+speed. To sum up, the present study showed that people, while walking on an urban route
+with diverse environments, tend to slow down in the environment with a higher amount of
+greenery, and simultaneously, they liked this environment more in contrast to environments
+with a smaller amount of greenery. Although the effect of greenery on walking speed was
+also observed in our previous investigations [42–45], to generalize these ﬁndings requires
+more replications on different routes, in different cities, and even in different countries.
+However, many questions still remain open and cannot be successfully answered by the
+present study. We explained this ﬁnding with the theory of approach-avoidance behavior,
+proposing that people being attracted by speciﬁc environments tend to afﬁliate with them,
+explore them, and stay in them. For instance, people may be in the course of their urban
+walk attracted by interesting shop windows, aggressive advertisements, or by any other
+distinctive objects. Here, we can apply environmental psychology concepts of “hard” and
+“soft” fascinations [63,84,85]. According to this concept, nature represents the environment
+with soft fascination that is more restorative than hard fascinating environments (e.g., visit
+a shopping mall, sports match, watching TV, etc.). Thus, the soft fascinating function of
+natural elements may be to softly attract attention and elicit the need to observe natural
+
+Land 2021, 10, 459
+17 of 20
+elements, which can inﬂuence the pace of the walk. However, this explanation needs
+more empirical evidence and further research. One possible way may be to use eye-
+tracking technology and explore what people are observing and simultaneously register
+their walking pace.
+Secondly, given that the response to a visual environment with a speciﬁc function of
+greenery may be speciﬁc sensorimotor reactions, the still unanswered point is a possible
+synchronization of walking speed with visual structures on the route. Many studies
+describe rhythmical motor synchronization with auditory and visual stimuli (for a review,
+see [86,87]), but no one studied a possible synchronization with a “rhythm” of outdoor
+visual stimuli. We know that the theory of architecture often speaks about a “rhythm” of
+various architectural structures, such as building facades (windows, pillars, etc.) (e.g., [88]).
+A spatial regularity of certain architectonical features may be perceived as some form of
+regular rhythm. Is it possible that a walker synchronizes with the regular spatial structure
+of architecture in some way? Furthermore, this form of synchronization may occur in
+a walk in a natural environment. For instance, tree alleys usually have regular spatial
+arrangements; there are equal distances between individual trees. This could result in
+positive feelings and maybe also in slowing down because the environment is perceived
+as pleasant. Consistently, in the present study, we observed the slowest walking speed in
+sections 5–7 formed by the alley. In contrast, an irregular spatial arrangement may result in
+dissatisfaction and an unconscious intention to leave the environment. Clearly, this point
+needs future research.
+Our research also has further limitations. Firstly, in any experiment conducted in real
+outdoor conditions, it is difﬁcult to control all variables. We could not control immediate
+changes in atmospheric conditions or changes in trafﬁc. Although the route was not
+frequently used by other walkers, our participants sometimes met other pedestrians.
+Therefore, we divided the experiment into one-hour blocks and we randomly assigned
+the participants to the experimental conditions. Additionally, the video recordings were
+carefully checked, and data were removed when a participant did not respect the rules of
+the experiment (for instance, he/she stopped) or was disturbed by anything on the route.
+Another limitation might be that the study was conducted only in one vegetation
+period in early spring. We do not know whether people would react in the same way in
+different vegetation periods, for instance, in late fall when the trees have no foliage or in
+wintertime with snow. It is also worth noting that Study 1 and Study 2 were conducted
+in 2013, while Study 3 was conducted in 2016. However, other than small changes in
+vegetation, the route appearances did not differ substantially.
+6. Conclusions
+This study explored the effects of the environmental features of an urban route on
+walking speed. It was found that walking speed was slower in the environment with a
+higher level of naturalness. This environment was also more liked, and noise, which is an
+urban environmental stressor, was perceived as less annoying in this environment than in
+an environment with a lower number of natural elements. The results are in accordance
+with environmental preference research that has documented various beneﬁts of walking
+in the natural environment. The addition of green elements on urban walking routes can
+increase positive feelings from a walk, provide a greater walk experience, and reduce
+stress and tension. The ﬁndings also have some practical implications for architects, urban
+designers, and the actions of environmental activists and organizations.
+Supplementary Materials: The following are available online at https://www.mdpi.com/article/10
+.3390/land10050459/s1, Table S1: dataset.
+Author Contributions: M.F. and L.R. conceived and designed the experiments; M.F. and L.R. per-
+formed the experiments; M.F. and L.R. analyzed the data; M.F. wrote the paper. All authors have
+read and agreed to the published version of the manuscript.
+
+Land 2021, 10, 459
+18 of 20
+Funding: The study was supported by the Student Speciﬁc Research Grants 1/2021 and 3/2021 from
+the Faculty of Informatics and Management at the University of Hradec Králové.
+Institutional Review Board Statement: The study was conducted according to the guidelines of the
+Declaration of Helsinki, and approved by the Committee for Research Ethics at the University of
+Hradec Králové, No. 6/2020, 23 November 2020.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: The datasets supporting this article have been uploaded as part of the
+Supplementary Materials.
+Acknowledgments: We thank Tereza Barková, Vít Brouˇcek, Ondˇrej Chyba, and Jan Petružálek for
+their help in organizing and conducting the experiments.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+References
+1.
+Kohl, H.W.; Craig, C.L.; Lambert, E.V.; Inoue, S.; Alkandari, J.R.; Leetongin, G.; Kahlmeier, S. The pandemic of physical inactivity:
+Global action for public health. Lancet 2012, 380, 294–305. [CrossRef]
+2.
+Morris, J.N.; Hardman, A.E. Walking to Health. Sports Med. 1997, 23, 306–332. [CrossRef] [PubMed]
+3.
+Hanson, S.; Jones, A. Is there evidence that walking groups have health beneﬁts? A systematic review and meta-analysis. Br. J.
+Sports Med. 2015, 49, 710–715. [CrossRef]
+4.
+Owen, N.; Humpel, N.; Leslie, E.; Bauman, A.; Sallis, J.F. Understanding environmental inﬂuences on walking—Eview and
+research agenda. Am. J. Prev. Med. 2004, 27, 67–76. [CrossRef] [PubMed]
+5.
+Wang, H.; Yang, Y. Neighbourhood walkability: A review and bibliometric analysis. Cities 2019, 93, 43–61. [CrossRef]
+6.
+Levine, R.V.; Bartlett, K. Pace of Life, Punctuality, and Coronary Heart Disease in Six Countries. J. Cross-Cultural Psychol. 1984, 15,
+233–255. [CrossRef]
+7.
+Levine, R.V.; Norenzayan, A. The Pace of Life in 31 Countries. J. Cross-Cultural Psychol. 1999, 30, 178–205. [CrossRef]
+8.
+Wiseman, R. Quirkology. In How We Discover the Big Truths in Small Things; Basic Books: New York, NY, USA, 2007.
+9.
+Lercher, P. Environmental noise and health: An integrated research perspective. Environ. Int. 1996, 22, 117–129. [CrossRef]
+10.
+Levine, R.V.; Lynch, K.; Miyake, K.; Lucia, M. The Type A city: Coronary heart disease and the pace of life. J. Behav. Med. 1989, 12,
+509–524. [CrossRef]
+11.
+Frank, L.D.; Sallis, J.F.; Saelens, B.E.; Leary, L.; Cain, K.; Conway, T.L.; Hess, P.M. The development of a walkability index:
+Application to the Neighborhood Quality of Life Study. Br. J. Sports Med. 2010, 44, 924–933. [CrossRef] [PubMed]
+12.
+Zuniga-Teran, A.A.; Orr, B.J.; Gimblett, R.H.; Chalfoun, N.V.; Marsh, S.E.; Guertin, D.P.; Going, S.B. Designing healthy communi-
+ties: Testing the walkability model. Front. Arch. Res. 2017, 6, 63–73. [CrossRef]
+13.
+Althoff, T.; Sosiˇc, R.; Hicks, J.L.; King, A.C.; Delp, S.L.; Leskovec, J. Large-scale physical activity data reveal worldwide activity
+inequality. Nat. Cell Biol. 2017, 547, 336–339. [CrossRef]
+14.
+Horiuchi, M.; Fukuoka, Y.; Handa, Y.; Abe, D.; Pontzer, H. Measuring the Energy of Ventilation and Circulation during Human
+Walking using Induced Hypoxia. Sci. Rep. 2017, 7, 4938. [CrossRef]
+15.
+Krinski, K.; Machado, D.G.S.; Lirani, L.S.; DaSilva, S.G.; Costa, E.C.; Hardcastle, S.J.; Elsangedy, H.M. Let’s Walk Outdoors!
+Self-Paced Walking Outdoors Improves Future Intention to Exercise in Women With Obesity. J. Sport Exerc. Psychol. 2017, 39,
+145–157. [CrossRef]
+16.
+Mabire, L.; Mani, R.; Liu, L.; Mulligan, H.; Baxter, D. The Inﬂuence of Age, Sex and Body Mass Index on the Effectiveness of
+Brisk Walking for Obesity Management in Adults: A Systematic Review and Meta-Analysis. J. Phys. Act. Health 2017, 14, 389–407.
+[CrossRef] [PubMed]
+17.
+Molina-Garcia, P.; Migueles, J.H.; Cadenas-Sanchez, C.; Esteban-Cornejo, I.; Mora-Gonzalez, J.; Rodriguez-Ayllon, M.;
+Plaza-Florido, A.; Vanrenterghem, J.; Ortega, F.B. A systematic review on biomechanical characteristics of walking in children
+and adolescents with overweight/obesity: Possible implications for the development of musculoskeletal disorders. Obes. Rev.
+2019, 20, 1033–1044. [CrossRef] [PubMed]
+18.
+Lee, I.-M.; Buchner, D.M. The Importance of Walking to Public Health. Med. Sci. Sports Exerc. 2008, 40, S512–S518. [CrossRef]
+[PubMed]
+19.
+Heesch, K.C.; Van Uffelen, J.G.; Van Gellecum, Y.R.; Brown, W.J. Dose–response relationships between physical activity, walking
+and health-related quality of life in mid-age and older women. J. Epidemiol. Community Health 2012, 66, 670–677. [CrossRef]
+20.
+Sugiyama, T.; Leslie, E.; Giles-Corti, B.; Owen, N. Associations of neighbourhood greenness with physical and mental health:
+Do walking, social coherence and local social interaction explain the relationships? J. Epidemiol. Community Health 2008, 62, e9.
+[CrossRef] [PubMed]
+21.
+Todd, M.; Adams, M.A.; Kurka, J.; Conway, T.L.; Cain, K.L.; Buman, M.P.; Frank, L.D.; Sallis, J.F.; King, A.C. GIS-measured
+walkability, transit, and recreation environments in relation to older Adults’ physical activity: A latent proﬁle analysis. Prev. Med.
+2016, 93, 57–63. [CrossRef]
+
+Land 2021, 10, 459
+19 of 20
+22.
+Hartig, T.; Mang, M.; Evans, G.W. Restorative Effects of Natural Environment Experiences. Environ. Behav. 1991, 23, 3–26.
+[CrossRef]
+23.
+Hartig, T.; Evans, G.W.; Jamner, L.D.; Davis, D.S.; Gärling, T. Tracking restoration in natural and urban ﬁeld settings. J. Environ.
+Psychol. 2003, 23, 109–123. [CrossRef]
+24.
+Teas, J.; Hurley, T.D.; Msph, S.G.; Mph, K.O. Walking outside Improves Mood for Healthy Postmenopausal Women. Clin. Med.
+Oncol. 2007, 1, CMO.S343. [CrossRef]
+25.
+Bratman, G.N.; Daily, G.C.; Levy, B.J.; Gross, J.J. The beneﬁts of nature experience: Improved affect and cognition. Landsc. Urban
+Plan. 2015, 138, 41–50. [CrossRef]
+26.
+Berman, M.G.; Jonides, J.; Kaplan, S. The Cognitive Beneﬁts of Interacting With Nature. Psychol. Sci. 2008, 19, 1207–1212.
+[CrossRef]
+27.
+Taylor, A.F.; Kuo, F.E. Children With Attention Deﬁcits Concentrate Better After Walk in the Park. J. Atten. Disord. 2009, 12,
+402–409. [CrossRef]
+28.
+Swami, V.; Barron, D.; Furnham, A. Exposure to natural environments, and photographs of natural environments, promotes more
+positive body image. Body Image 2018, 24, 82–94. [CrossRef]
+29.
+Bornstein, M.H.; Bornstein, H.G. The pace of life. Nat. Cell Biol. 1976, 259, 557–559. [CrossRef]
+30.
+Kirkcaldy, B.; Furnham, A.; Levine, R. Attitudinal and personality correlates of a nation’s pace of life. J. Manag. Psychol. 2001, 16,
+20–34. [CrossRef]
+31.
+Walmsley, D.J.; Lewis, G.J. The Pace of Pedestrian Flows in Cities. Environ. Behav. 1989, 21, 123–150. [CrossRef]
+32.
+Rotton, J.; Shats, M.; Standers, R. Temperature and Pedestrian Tempo—Walking without awareness. Environ. Behav. 1990, 22,
+650–674. [CrossRef]
+33.
+Klenk, J.; Büchele, G.; Rapp, K.; Franke, S.; Peter, R. Walking on sunshine: Effect of weather conditions on physical activity in
+older people. J. Epidemiol. Community Health 2012, 66, 474–476. [CrossRef]
+34.
+Liang, S.; Leng, H.; Yuan, Q.; Wang, B.; Yuan, C. How does weather and climate affect pedestrian walking speed during cool and
+cold seasons in severely cold areas? Build. Environ. 2020, 175, 106811. [CrossRef]
+35.
+Isobe, M.; Adachi, T.; Nagatani, T. Experiment and simulation of pedestrian counter ﬂow. Phys. A 2004, 336, 638–650. [CrossRef]
+36.
+Duim, E.; Lebrão, M.L.; Antunes, J.L.F. Walking speed of older people and pedestrian crossing time. J. Transp. Health 2017, 5,
+70–76. [CrossRef]
+37.
+Russo, B.J.; James, E.; Aguilar, C.Y.; Smaglik, E.J. Pedestrian Behavior at Signalized Intersection Crosswalks: Observational Study
+of Factors Associated with Distracted Walking, Pedestrian Violations, and Walking Speed. Transp. Res. Rec. J. Transp. Res. Board
+2018, 2672, 1–12. [CrossRef]
+38.
+Løvås, G.G. Modeling and simulation of pedestrian trafﬁc ﬂow. Transp. Res. Part B Methodol. 1994, 28, 429–443. [CrossRef]
+39.
+Helbing, D.; Molnár, P.; Farkas, I.J.; Bolay, K. Self-Organizing Pedestrian Movement. Environ. Plan. B Plan. Des. 2001, 28, 361–383.
+[CrossRef]
+40.
+Tordeux, A.; Lämmel, G.; Hänseler, F.S.; Steffen, B. A mesoscopic model for large-scale simulation of pedestrian dynamics. Transp.
+Res. Part C Emerg. Technol. 2018, 93, 128–147. [CrossRef]
+41.
+Bosina, E.; Weidmann, U. Estimating pedestrian speed using aggregated literature data. Phys. A Stat. Mech. Appl. 2017, 468, 1–29.
+[CrossRef]
+42.
+Franˇek, M. Environmental Factors Inﬂuencing Pedestrian Walking Speed. Percept. Mot. Ski. 2013, 116, 992–1019. [CrossRef]
+43.
+Franˇek, M.; Režný, L. Analysis of factors affecting variations in walking speed in urban environment with natural elements. Cesk
+Psychol. 2014, 58, 14–30.
+44.
+FranäK, M.; Noorden, L.E.; Režný, L. Tempo and walking speed with music in the urban context. Front. Psychol. 2014, 5, 1361.
+[CrossRef]
+45.
+Franˇek, M.; Režný, L.; Šefara, D.; Cabal, J. Effect of Trafﬁc Noise and Relaxations Sounds on Pedestrian Walking Speed. Int. J.
+Environ. Res. Public Health 2018, 15, 752. [CrossRef]
+46.
+Mehrabian, A.; Russell, J.A. An Approach to Environmental Psychology; The MIT Press: Cambridge, MA, USA, 1974.
+47.
+Ko-shland, D.E. The seven pillars of life. Science 2002, 295, 2215–2216. [CrossRef]
+48.
+Lang, P.J. The emotion probe: Studies of motivation and attention. Am. Psychol. 1995, 50, 372–385. [CrossRef] [PubMed]
+49.
+Elliot, A.J.; Church, M.A. A hierarchical model of approach and avoidance achievement motivation. J. Pers. Soc. Psychol. 1997, 72,
+218–232. [CrossRef]
+50.
+Bitner, M.J. Servicescapes: The Impact of Physical Surroundings on Customers and Employees. J. Mark. 1992, 56, 57. [CrossRef]
+51.
+Krey, N.; Espinosa, J.A.; Cao, J.T. A Meta-Analytical Review of PAD within Retail Environments: An Abstract. In Developments in
+Marketing Science: Proceedings of the Academy of Marketing Science; Springer Science and Business Media LLC: Berlin, Germany,
+2017; p. 175.
+52.
+Ulrich, R.S. Natural versus Urban Scenes. Environ. Behav. 1981, 13, 523–556. [CrossRef]
+53.
+Ulrich, R.S. Human responses to vegetation and landscapes. Landsc. Urban Plan. 1986, 13, 29–44. [CrossRef]
+54.
+Kaplan, S. Aesthetics, Affect, and Cognition. Environ. Behav. 1987, 19, 3–32. [CrossRef]
+55.
+Kaplan, R.; Kaplan, S. The Experience of Nature: A Psychological Perspective; Cambridge University Press: Cambridge, UK, 1989.
+56.
+Herzog, T.R. A cognitive analysis of preference for urban nature. J. Environ. Psychol. 1989, 9, 27–43. [CrossRef]
+
+Land 2021, 10, 459
+20 of 20
+57.
+Regan, C.L.; Horn, S.A. To nature or not to nature: Associations between environmental preferences, mood states and demographic
+factors. J. Environ. Psychol. 2005, 25, 57–66. [CrossRef]
+58.
+Van Den Berg, A.E.; Hartig, T.; Staats, H. Preference for Nature in Urbanized Societies: Stress, Restoration, and the Pursuit of
+Sustainability. J. Soc. Issues 2007, 63, 79–96. [CrossRef]
+59.
+Kaplan, S. An Informal Model for the Prediction of Preference. In Land-Scape Assessment; Zube, E.H., Brush, R.O., Fabos, J.G., Eds.;
+Dowden, Hutchinson & Ross: Stroudsburg, PA, USA, 1975; pp. 92–101.
+60.
+Herzog, T.R. A cognitive analysis of preference for urban spaces. J. Environ. Psychol. 1992, 12, 237–248. [CrossRef]
+61.
+Herzog, T.R.; Miller, E.J. The Role of Mystery in Perceived Danger and Environmental Preference. Environ. Behav. 1998, 30,
+429–449. [CrossRef]
+62.
+Stamps, A.E. Simulation Effects on Environmental Preference. J. Environ. Manag. 1993, 38, 115–132. [CrossRef]
+63.
+Staats, H.; Kieviet, A.; Hartig, T. Where to recover from attentional fatigue: An expectancy-value analysis of environmental
+preference. J. Environ. Psychol. 2003, 23, 147–157. [CrossRef]
+64.
+Cassarino, M.; Setti, A. Complexity as Key to Designing Cognitive-Friendly Environments for Older People. Front. Psychol.
+2016, 7, 1329. [CrossRef]
+65.
+Korpela, K.; Hartig, T. Restorative qualities of favorite places. J. Environ. Psychol. 1996, 16, 221–233. [CrossRef]
+66.
+Franˇek, M.; Režný, L. The Effect of Priming with Photographs of Environmental Settings on Walking Speed in an Outdoor
+Environment. Front. Psychol. 2017, 8, 73. [CrossRef]
+67.
+Hlukové Mapy. 2017. (Noise Maps 2017). Available online: https://geoportal.mzcr.cz/SHM/ (accessed on 15 April 2021).
+68.
+Viollon, S.; Lavandier, C.; Drake, C. Inﬂuence of visual setting on sound ratings in an urban environment. Appl. Acoust. 2002, 63,
+493–511. [CrossRef]
+69.
+Li, H.; Chau, C.; Tang, S. Can surrounding greenery reduce noise annoyance at home? Sci. Total Environ. 2010, 408, 4376–4384.
+[CrossRef] [PubMed]
+70.
+Lee, P.J.; Hong, J.Y.; Jeon, J.Y. Assessment of rural soundscapes with high-speed train noise. Sci. Total Environ. 2014, 482-483,
+432–439. [CrossRef] [PubMed]
+71.
+Watts, G.; Chinn, L.; Godfrey, N. The effects of vegetation on the perception of trafﬁc noise. Appl. Acoust. 1999, 56, 39–56.
+[CrossRef]
+72.
+Bangjun, Z.; Lili, S.; Guoqing, D. The inﬂuence of the visibility of the source on the subjective annoyance due to its noise. Appl.
+Acoust. 2003, 64, 1205–1215. [CrossRef]
+73.
+Werner, C.M.; Altman, I.; Oxley, D. Temporal aspects of homes: A transactional perspective. In Home Environments; Altman, I.,
+Werner, C.M., Eds.; Plenum Press: New York, NY, USA, 1985; pp. 1–32.
+74.
+Lowin, A.; Hottes, J.H.; Sandler, B.E.; Bornstein, M. The Pace of Life and Sensitivity to Time in Urban and Rural Settings: A
+Preliminary Study. J. Soc. Psychol. 1971, 83, 247–253. [CrossRef] [PubMed]
+75.
+Bettencourt, L.M.A.; Lobo, J.; Helbing, D.; Kühnert, C.; West, G.B. Growth, innovation, scaling, and the pace of life in cities. Proc.
+Natl. Acad. Sci. USA 2007, 104, 7301–7306. [CrossRef]
+76.
+Goldbach, C.; Hoffmann, C.; Hoppe, J.; Pitz, T.; Thommes, K. The fast and the furious—An experimental investigation of the pace
+of life and risky speed choice in trafﬁc. PLoS ONE 2020, 15, e0236589. [CrossRef]
+77.
+Bohannon, R.W.; Andrews, A.W. Normal walking speed: A descriptive meta-analysis. Physiotherapy 2011, 97, 182–189. [CrossRef]
+[PubMed]
+78.
+Bohannon, R.W. Comfortable and maximum walking speed of adults aged 20—79 years: Reference values and determinants. Age
+Ageing 1997, 26, 15–19. [CrossRef] [PubMed]
+79.
+Evans, G. Environmental Stress; Cambridge University Press: Cambridge, UK, 1984.
+80.
+Davydenko, M.; Peetz, J. Time grows on trees: The effect of nature settings on time perception. J. Environ. Psychol. 2017, 54, 20–26.
+[CrossRef]
+81.
+Atelier Hájek. Available online: http://www.atelierhajek.cz/projekty-namesti-28-rijna.php (accessed on 15 April 2021).
+82.
+Bowler, D.E.; Buyung-Ali, L.M.; Knight, T.M.; Pullin, A.S. A systematic review of evidence for the added beneﬁts to health of
+exposure to natural environments. BMC Public Health 2010, 10, 456. [CrossRef]
+83.
+McMahan, E.A.; Estes, D. The effect of contact with natural environments on positive and negative affect: A meta-analysis. J.
+Posit. Psychol. 2015, 10, 507–519. [CrossRef]
+84.
+Herzog, T.R.; Black, A.M.; Fountaine, K.A.; Knotts, D.J. Reﬂection and Attentional Recovery as Distinctive Beneﬁts of Restorative
+Environments. J. Environ. Psychol. 1997, 17, 165–170. [CrossRef]
+85.
+Basu, A.; Duvall, J.; Kaplan, R. Attention Restoration Theory: Exploring the Role of Soft Fascination and Mental Bandwidth.
+Environ. Behav. 2018, 51, 1055–1081. [CrossRef]
+86.
+Levitin, D.J.; Grahn, J.A.; London, J. The Psychology of Music: Rhythm and Movement. Annu. Rev. Psychol. 2018, 69, 51–75.
+[CrossRef]
+87.
+Repp, B.H. Sensorimotor synchronization: A review of the tapping literature. Psychon. Bull. Rev. 2005, 12, 969–992. [CrossRef]
+88.
+Zucker, P.; Rasmussen, S.E. Experiencing Architecture. J. Aesthet. Art Crit. 1961, 19, 357. [CrossRef]
+
+
+==============================================================================
+### REC 322 | FINAL_INCLUDE | 2024 | Applied Sciences
+TITLE: Estimation of the Occurrence and Significance of Noise Effects on Pedestrians Using Acoustic Variables Related to Sound Energy in Urban Environments
+(18쪽 · 66,840자 · 절단 없음)
+==============================================================================
+
+Citation: Morillas, J.M.B.; Montes
+González, D.; Vílchez-Gómez, R.;
+Rey-Gozalo, G. Estimation of the
+Occurrence and Significance of Noise
+Effects on Pedestrians Using Acoustic
+Variables Related to Sound Energy in
+Urban Environments. Appl. Sci. 2024,
+14, 11212. https://doi.org/10.3390/
+app142311212
+Academic Editors: Alexander Sutin
+and Masayuki Takada
+Received: 5 October 2024
+Revised: 21 November 2024
+Accepted: 28 November 2024
+Published: 2 December 2024
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+Article
+Estimation of the Occurrence and Significance of Noise Effects
+on Pedestrians Using Acoustic Variables Related to Sound
+Energy in Urban Environments
+Juan Miguel Barrigón Morillas
+, David Montes González *
+, Rosendo Vílchez-Gómez
+and Guillermo Rey-Gozalo
+Laboratorio de Acústica (Lambda), Departamento de Física Aplicada, Instituto Universitario de Investigación
+para el Desarrollo Territorial Sostenible (INTERRA), Escuela Politécnica, Universidad de Extremadura,
+Avda. de la Universidad, s/n, 10003 Cáceres, Spain; barrigon@unex.es (J.M.B.M.); vilchez@unex.es (R.V.-G.);
+guille@unex.es (G.R.-G.)
+* Correspondence: davidmg@unex.es; Tel.: +34-927257233
+Abstract: The impact of environmental noise on the health and well-being of people living in cities is
+an issue that has been addressed in the scientific literature to try to develop effective environmental
+policies. In this context, road traffic is the main source of noise in urban environments, but it is not
+the only source of noise that pedestrians hear. This paper presents an experimental study using
+in situ surveys and acoustic measurements to analyse the capacity of acoustic variables related to
+sound energy to estimate the occurrence and importance of noise effects in urban environments.
+The results revealed that average sound energy indicators can be considered most significant in
+terms of the perception of the noise effects studied on pedestrians. When estimating noise effects
+from them, frequency weightings related to flat or nearly flat spectra (Z and C weightings) were
+found to provide better results than an A weighting; however, it was also concluded that if the
+average energy is considered, the use of a temporal I weighting did not lead to improvements. The
+perception of how noisy a street is, it is strongly associated with a low frequency, and annoyance was
+the effect that generally showed the strongest significant correlations with acoustic indicators. The
+indicators of minimum sound levels explained a larger proportion of the variability of noise effects
+than the indicators of maximum energy; they were even better in this regard than any of the average
+energy indicators in terms of explaining the variability of startle and annoyance in the ears, and
+they were found to be equivalent when interruption of a telephone conversation was assessed. Both
+acoustic variables associated with sound energy in different parts of the audible spectrum and Leq in
+each one-third octave band showed significant correlations with the effects of noise on pedestrians.
+Similarities in the structure of the spectra were found between some of these effects.
+Keywords: noise annoyance; irritability; startle; interrupting conversation; noise measurements;
+in situ survey
+1. Introduction
+The impact of environmental noise on people residing in urban areas is a subject of
+interest due to its negative effects on well-being and various spheres of human health [1–4].
+Although various types of noise sources are present in cities, transport infrastructure is
+the main cause of noise [5–7], and road traffic has been identified as the most significant
+source [8]. In this context, a target has been set in Europe to reduce the number of people
+chronically disturbed by transport noise by 30% by 2030 [9].
+Strategic noise maps have become a very useful tool, both for assessing the acoustic
+situation of a given environment and for implementing action plans for transport noise
+mitigation [10–12]. However, given that the reality in urban environments is often fairly
+complex, due to the presence of noise sources whose behaviour cannot always be predicted
+Appl. Sci. 2024, 14, 11212. https://doi.org/10.3390/app142311212
+https://www.mdpi.com/journal/applsci
+
+Appl. Sci. 2024, 14, 11212
+2 of 18
+by software models, it is essential to carry out in situ acoustic measurements to validate
+the results provided by noise maps for noise indicators [13–15]. Several strategies can
+be followed to reduce the exposure of the population to environmental noise in cities,
+such as those associated with changes in urban mobility, actions on the noise sources, and
+pedestrianisation of urban areas [16–18]. The scientific literature also shows that variables
+associated with urban planning are closely linked to noise pollution in cities, and that it
+would be advisable to take them into consideration in the process of the urban development
+of cities [19–21]. These measures can also be combined with other initiatives that contribute
+to improving the sense of well-being of people living in cities, such as increasing the
+number of green urban areas to provide quiet and less-polluted spaces for relaxation and
+leisure activities [22–25].
+However, another aspect that is just as important as collecting objective data on
+noise levels in a given environment to assess the acoustic situation is an understanding
+of people’s subjective perception of the sound quality of urban spaces [26–28]. Research
+carried out by means of questionnaires allows for the collection of useful information
+on people’s satisfaction and annoyance with different features of urban environments,
+including noise [29–33]. Surveys have also been used to study noise disturbance to activities
+such as conversing, thinking, reading and resting, as well as the effects of noise such as
+irritability, starle, and annoyance in the ears [31,34]. From data collected via on-site sound
+registers and questionnaires, the association between people’s perceptions of urban noise
+and objective sound variables can be analysed. Noise indicators such as LAeq, Leq, Ldn,
+LAeq,24h, Lmin, Lmax, LN, and L10–L90 have been employed in the scientific literature to
+study the relationships between the characteristics of environmental noise and some of the
+effects it has on people [27,30,31,35,36]. Some of these indicators have shown, in previous
+studies on noise effects, a clear dose–response relationship, unlike the psychoacoustic
+parameters that are usually used in soundscape studies based on ISO 12913 [37].
+The human response to environmental sounds is conditioned in a complex way by
+the energetic, spectral, and temporal characteristics of the sound wave and, of course,
+by the characteristics of individuals [38]. Two very broad lines of work are common for
+analysing the human response to sounds, the study of noise effects and the study of the
+soundscape. In this paper, the authors focus their attention on the study of the effects of
+noise on people in the urban environment. The term “noise” is commonly used for sounds
+that have negative human effects. To estimate the occurrence and intensity of each of the
+effects of noise, different sound indicators have been developed, each of which evaluates
+different aspects of the characteristics of the sound. The present study is based on indicators
+that are usually found in class 1 sound level meter–analysers. These were grouped based
+on the way in which they deal with the energy aspects that characterise the sound wave.
+This allowed for the analysis of the relevance of these characteristics, and the way in which
+they are considered in the sound indicators, to estimate the occurrence and significance of
+certain effects of noise on people.
+To sum up, the aim of this paper is to analyse the capacity of acoustic variables related
+to sound energy in estimating the occurrence and significance of some noise effects on
+pedestrians, considering the different sound sources that are usually present in these street
+environments. This study seeks to identify which acoustic indicators are most strongly
+correlated with perceived noise effects, such as annoyance and others not usually taken
+into account like irritability, startle, or some effects related to interference with spoken
+communication, through in situ surveys and acoustic measurements.
+2. Materials and Methods
+An investigation was carried out in the streets of Cáceres, Spain, using a method based
+on surveys and on-site sound measurements. Four researchers carried out sampling to
+record objective and subjective variables simultaneously. Sampling points were randomly
+selected on different urban roads according to their functionality for vehicle mobility [39]
+(Figure 1). Measurements and surveys were performed in 2020, during daytime hours, be-
+
+Appl. Sci. 2024, 14, 11212
+3 of 18
+fore the declaration of the state of emergency and the lockdown due to COVID-19. A total of
+105 individuals, aged between 18 and 80 years, with a roughly equal gender ratio (44% male,
+56% female) and varying educational levels (from primary school to university), completed
+the survey (Table 1). The questionnaires can be found in the Supplementary Materials.
+Figure 1. Survey points in Cáceres (from Google Earth).
+Table 1. Sociodemographic characteristics of the sample.
+Variable
+Sample (%)
+Cáceres (%) [40]
+Age
+18–25 years
+19.0
+6.7
+26–35 years
+11.4
+10.7
+36–45 years
+21.0
+15.1
+46–55 years
+20.0
+16.8
+56–65 years
+13.3
+14.8
+>66 years
+15.2
+18.0
+Sex
+Male
+43.8
+48.1
+Female
+56.2
+51.9
+Education
+Missing
+-
+8.2
+Primary or secondary school
+23.8
+33.9
+High school
+24.8
+17.9
+Degree
+51.4
+33.8
+Work activity
+Worker
+59.0
+41.7
+Unemployed
+6.7
+9.0
+Retired
+16.2
+13.1
+Homemaker
+6.7
+11.9
+Student
+11.4
+22.0
+
+Appl. Sci. 2024, 14, 11212
+4 of 18
+Table 2 shows all the subjective variables collected via the surveys and the objective
+variables obtained from acoustic measurements, together with a brief description of their
+meaning and the range of values for each of them. This survey was validated by the ethics
+and bioethics committee of the University of Extremadura in the report with reference
+37//2020 and, following the Declaration of Helsinki, each participant filled out a decla-
+ration of informed consent. In cases where evidence of hearing loss was detected by the
+interviewer during the survey, the respondent’s answers were not considered. Regarding
+the subjective variables, pedestrians were first interviewed to determine the extent to which
+or how often the environmental noise in that street caused the following: (a) irritability;
+(b) startle; (c) annoyance in the ears; (d) interruption of a conversation with someone nearby;
+(e) them to raise the volume of their voice to speak with someone nearby; (f) interruption
+of a phone conversation; and (g) them to raise the volume of their voice during a phone
+conversation. They were then asked to rate their (h) acoustic perception of the environment
+on that street, and (i) the degree to which the noise annoyed them during the survey. A box
+plot of the answers for the subjective variables (a)–(i) is shown in Figure 2.
+Figure 2. A box plot of the answers for the subjective variables (a)–(i).
+The response rate for the in-situ surveys was 25%. A response rate of 20–25% is
+considered acceptable for surveys, as shown by previous studies [41–43]. This rate did not
+affect the study’s objective of achieving a power of at least 0.8 in the statistical tests to be
+used [44] and a medium effect size [44,45]. In fact, a power of 0.94 was achieved with the
+number of surveys conducted (105 participants) [45]. Considering the 96,000 inhabitants of
+the city of Cáceres [46] and the variability of item responses in preliminary studies (σ ≈2.8),
+an acceptable error of 0.5 for the population average was obtained for this population
+size [47]. Therefore, the sample interviewed was representative of the city of Cáceres for
+the analyses carried out. Recent survey studies in large cities interviewed a similar number
+of citizens [48,49].
+The acoustic objective variables were collected by means of a class 1 sound level
+meter–analyser and were classified into three categories based on their association with
+different aspects of the sound energy (see Table 2). In situ measurements over 15 min were
+carried out using a microphone 1.5 m above ground level [50] and, where possible, free
+field conditions were considered [51]. In cases where the microphone had to be placed
+at a distance of between 0.5 and 2 m from building façades, a correction of −3 dB was
+made following the guidelines of the ISO 1996-2 standard [51–53]. The distance between
+the microphone and the closest point of the main sound source (road traffic) was 2 m, and
+there were no obstacles between the source and receiver [54]. A class 1 sound calibrator
+was used to verify the calibration of the sound level meter–analyser before and after each
+series of measurements. Since the measurements were carried out at the same time as the
+
+Appl. Sci. 2024, 14, 11212
+5 of 18
+surveys, the team member responsible for the sound measurements moved to a sufficient
+distance to ensure that the recorded sound levels were not influenced by the interviews.
+During the surveys, the sound sources present in the environment were noted. In a review
+of these sound sources, in addition to the different sources associated with road traffic
+(related to the engine, exhaust, brakes, etc.), the following types of sources and examples
+can be distinguished:
+Table 2. Subjective and objective variables registered in the city of Cáceres, together with a brief
+description of their meaning and the range of values for each of them.
+Variables
+Meaning
+Value Range
+(a)
+Irritability
+0–10
+(b)
+Startle
+0–10
+(c)
+Annoyance in the ears
+0–10
+(d)
+Interruption of a conversation with
+someone nearby
+0–10
+(e)
+Raising the volume of their voice to speak with
+someone nearby
+0–10
+(f)
+Interruption of a phone conversation
+0–10
+(g)
+Raising the volume of their voice during a
+phone conversation
+0–10
+(h)
+Noisiness of the street
+0–10
+(i)
+Annoyance
+0–10
+Acoustic
+objective
+variables
+(measurements)
+Energy (full
+audible
+spectrum)
+LZeq
+Unweighted equivalent sound level
+60–81 dB
+LAeq
+A-weighted equivalent sound level
+48–73 dB
+LCeq
+C-weighted equivalent sound level
+58–79 dB
+LAIeq
+A,I-weighted equivalent sound level
+52–75 dB
+LCIeq
+C,I-weighted equivalent sound level
+63–81 dB
+Loudness
+Subjective judgement of the intensity of a sound
+7–30 sones
+Loudness level
+Loudness level = 10 × log2(Loudness) + 40
+68–89 phones
+NR
+Highest noise ratio curve touched by the
+measured spectrum
+45–71
+NC
+Highest noise criteria curve touched by the
+measured spectrum
+43–70
+NCB
+Highest balanced noise criteria curve touched by
+the measured spectrum
+42–65
+Energy
+(maximum or
+minimum)
+LASmax
+A,S-weighted maximum sound level
+68–87 dB
+LAFmax
+A,F-weighted maximum sound level
+70–89 dB
+LAImax
+A,I-weighted maximum sound level
+70–91 dB
+LCSmax
+C,S-weighted maximum sound level
+77–96 dB
+LCFmax
+C,F-weighted maximum sound level
+80–99 dB
+LCImax
+C,I-weighted maximum sound level
+81–100 dB
+LCpeak
+C-weighted peak sound level
+90–111 dB
+LASmin
+A,S-weighted minimum sound level
+35–55 dB
+LAFmin
+A,F-weighted minimum sound level
+33–54 dB
+LAImin
+A,I-weighted minimum sound level
+35–55 dB
+LCSmin
+C,S-weighted minimum sound level
+48–65 dB
+LCFmin
+C,F-weighted minimum sound level
+46–62 dB
+LCImin
+C,I-weighted minimum sound level
+49–66 dB
+Energy (parts of
+audible
+spectrum)
+Leq20–200Hz
+Equivalent sound level in the range 20–200 Hz
+59–81 dB
+SIL3
+Speech interference level (average Leq of 1000,
+2000 and 4000 Hz octave bands)
+41–65 dB
+SIL
+Speech interference level (average Leq of 500,
+1000, 2000 and 4000 Hz octave bands)
+42–65 dB
+PSIL
+Preferred speech interference level (average Leq of
+500, 1000 and 2000 Hz octave bands)
+43–68 dB
+LCeq −LAeq
+Difference between LCeq and LAeq
+1–4 dB
+
+Appl. Sci. 2024, 14, 11212
+6 of 18
+•
+Sound events associated with traffic, but excluding sounds due to the engine and
+rolling noise: ambulance sirens, horn usage, loud music coming from inside the
+vehicle, car doors closing, traffic light sounds for visually impaired pedestrians, etc.
+These sounds were detected in 18.8% of the surveys conducted.
+•
+Sounds related to natural sound sources: birdsong without specifying the type, stork
+sounds, sounds generated by the wind, and sounds generated by water. These ap-
+peared in 35.2% of the surveys.
+•
+Sounds of human origin or from their pets: conversations, footsteps, children playing,
+a baby crying, a dog barking, footsteps, phone call sounds, etc. These appeared in
+82.0% of the surveys.
+•
+Finally, sounds of work or machinery origin: unspecified construction noises, lawn-
+mowers, grinders, chainsaws, cranes, etc. These appeared in 9.4% of the surveys.
+One-third octave band noise profile of the measurements at the different points con-
+sidered are shown in Figure 3, where the lines of various colors refer to the different
+measurement locations.
+Figure 3. One-third octave band noise profile of the measurements at the different points considered.
+The acoustic variables associated with the sound energy of the sound environments,
+which were obtained from the sound level meter, were structured into three blocks for
+analysis based on the different aspects that characterise the sound wave (Table 2). The first
+group included variables that essentially measure the energy of the sound wave over the
+full audible spectrum and represented average values over the 15 min of measurement, with
+higher or lower adaptations to the response of human hearing. Although the NR, NC, and
+NCB indices are commonly used in enclosures and buildings to evaluate their suitability
+for certain uses, they were considered to be of interest when characterising the streets
+under assessment, since they are indicators of the maximum values in an environment
+above which disturbance to certain activities is produced. The second group consisted of
+variables measuring the maximum or minimum values of the sound-wave energy over
+the whole audible spectrum during the 15 min measurement period, with certain spectral
+adaptations (A, C) to the response of the human ear, some temporal considerations on the
+signal treatment (F, S, I), and considering the signal without temporal treatment (peak).
+Finally, the third group of acoustic variables included those measuring the energy aspects
+of the sound wave and were based on the absolute or relative significance of certain parts
+of the audible spectrum over the 15 min measurement period.
+An inferential analysis of the association between the subjective variables (perception
+of noise effects) and objective variables (indicators related to sound energy) was carried out.
+For this purpose, a bivariate relationship was analysed using a Pearson test of the values
+registered at the sampled points. This parametric test was applied since the distribution
+
+Appl. Sci. 2024, 14, 11212
+7 of 18
+of the data fulfilled the assumptions of normality. For this purpose, the residuals of the
+correlated variables were analysed by the Shapiro–Wilk test. The p-value was greater
+than 0.05; therefore, the hypothesis that the data did not differ significantly from a normal
+distribution was accepted.
+3. Results and Discussion
+This section presents an analysis of the results obtained for the relationships between
+the subjective variables related to the effects of noise on pedestrians and the acoustic
+variables. It is divided into three subsections, based on the different types of acoustic
+variables involved in the study.
+3.1. Acoustic Variables Associated with Sound Energy over the Whole Audible Spectrum
+In this section, an analysis is conducted of the explanatory capacity of the acoustic
+variables that essentially measure sound energy over the whole audible spectrum using
+different adaptation levels to the response of the human ear (Table 3). According to the way
+in which these indicators consider the human response in the frequency spectrum, they
+can be grouped into two blocks. The first are those that have an adaptation independent of
+sound intensity (equivalent levels), while the second are those in which this adaptation
+depends on the sound energy. This second group of variables can be further divided into
+two types: those that consider masking effects (loudness and loudness level), and those
+that do not (NR, NC, and NCB). From Table 3, it can be seen that all the acoustic variables
+associated with sound energy over the whole audible spectrum can explain, with significant
+relations, the occurrence and intensity of all the effects of noise on pedestrians considered
+in this study.
+Table 3. Correlation coefficients between subjective variables and acoustic variables associated with
+sound energy over the whole audible spectrum.
+LZeq
+LAeq
+LCeq
+LAIeq
+LCIeq
+Loudness
+Loudness Level
+NR
+NC
+NCB
+(a)
+0.70 ***
+0.69 ***
+0.71 ***
+0.67 ***
+0.69 ***
+0.67 ***
+0.69 ***
+0.69 ***
+0.69 ***
+0.69 ***
+(b)
+0.70 ***
+0.61 ***
+0.68 ***
+0.61 ***
+0.69 ***
+0.59 ***
+0.62 ***
+0.59 ***
+0.59 ***
+0.62 ***
+(c)
+0.60 ***
+0.46 *
+0.58 **
+0.46 *
+0.57 **
+0.45 *
+0.50 **
+0.43 *
+0.43 *
+0.49 **
+(d)
+0.64 ***
+0.63 ***
+0.64 ***
+0.62 ***
+0.64 ***
+0.61 ***
+0.63 ***
+0.62 ***
+0.63 ***
+0.62 ***
+(e)
+0.71 ***
+0.65 ***
+0.68 ***
+0.67 ***
+0.69 ***
+0.66 ***
+0.67 ***
+0.61 ***
+0.63 ***
+0.66 ***
+(f)
+0.53 **
+0.54 **
+0.53 **
+0.53 **
+0.51 **
+0.53 **
+0.55 **
+0.52 **
+0.54 **
+0.53 **
+(g)
+0.62 ***
+0.64 ***
+0.62 ***
+0.65 ***
+0.62 ***
+0.66 ***
+0.64 ***
+0.61 ***
+0.63 ***
+0.64 ***
+(h)
+0.75 ***
+0.63 ***
+0.73 ***
+0.64 ***
+0.72 ***
+0.63 ***
+0.67 ***
+0.61 ***
+0.61 ***
+0.66 ***
+(i)
+0.76 ***
+0.79 ***
+0.76 ***
+0.81 ***
+0.76 ***
+0.79 ***
+0.80 ***
+0.77 ***
+0.79 ***
+0.81 ***
+* Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at p ≤0.001.
+From a general analysis of Table 3, several points can be noted. It can be seen that
+the sound variables in the first group (LZeq, LAeq, LCeq, LAIeq, LCIeq) are better able to
+explain the variability in the effects of noise on pedestrians than those in the second group
+(loudness, loudness level, NR, NC, NCB), or at least in an equivalent way. From the
+variables in the first group, for almost all of the subjective variables, LZeq or LCeq are
+better than or similar to LAeq in terms of explaining the variability in the effects analysed
+here. Even some of the effects of noise that could be considered in a classic study, such
+as startle (b), annoyance in the ears (c), and an assessment of the street as noisy (h), the
+commonly used LAeq indicator is poor in explaining the variability of these three subjective
+variables and is clearly worse than LZeq. Moreover, the I time weighting, which was
+used for the LAIeq and LCIeq indicators, had no significant influence on the values of the
+correlation coefficients for any of the effects studied. In relation to the second group, which
+relates to different adaptations depending on the sound level, it can firstly be observed
+that the loudness level or NCB are better than or equivalent to the other three variables
+(loudness, NR, and NC) in terms of explaining the variability in the effects. Loudness is an
+
+Appl. Sci. 2024, 14, 11212
+8 of 18
+indicator that was specifically developed to allow a good relationship with the perception
+of sound level, and this can be seen to be rather worse than LZeq for the effects of startle (b);
+annoyance in the ears (c), and in particular (as it is closely related to the objective of this
+variable), a perception of the street as noisy (h). However, when the values of annoyance
+(i) were analysed, the results were more as expected. It should also be highlighted that, in
+general, none of the energy indicators studied here were very effective in explaining the
+appearance or variability of the effects related to face-to-face or telephone communication,
+although loudness and loudness level had the highest correlation coefficients in regard
+to interrupting a phone conversation (f) and raising the volume of their voice on a phone
+conversation (g), respectively. In this sense, it is worth noting that the difference found for
+the effect of raising the volume of their voice in a conversation with a nearby person (e) if we
+compare with the results with the rest of the effects related to verbal communication, (d), (f),
+and (g), for all the energy indicators except NR and NC. Moreover, for the remaining effects,
+NR and NC seemed to play a weaker role in explaining the variability of all the subjective
+variables apart from annoyance (i) and irritability (a). In view of these results, it may be
+useful to take into account indicators such as NR, NC, and NCB in noise characterisation
+studies in urban outdoor environments, regardless of whether they are generally used
+indoors. The outcome for the NCB indicator is of particular interest; it was better than or
+similar to the others, even when compared to the loudness and loudness level, which are
+rather more complex indices to obtain, since they take into account in greater detail the
+way in which humans perceive sounds.
+After describing the general aspects listed in Table 3, a detailed analysis was conducted
+of the implications of these results. Firstly, it is important to point out that the average
+energy of the sound wave over the full spectrum is a relevant sound characteristic for
+estimating the occurrence and importance of effects such as irritability (a), startle (b),
+raising the volume of the conversation in situ (e), the noisy street (h), and annoyance (i),
+with Pearson correlation coefficients of between 0.70 and 0.81. The highest values for the
+explanation of variability were obtained for annoyance, and this has a certain uniformity
+for all the acoustic variables analysed in this section.
+In relation to conversations, some differences were found between the variables of
+raising the volume of the conversation in situ (e) and on the phone (g). When a conversation
+is held in person, the average energy over the full spectrum is a relevant aspect, and the
+indicators that do not include weights for low frequencies, such as LZeq or LCeq, seem
+to explain a higher proportion of the variability than those that do, such as LAeq. On
+the other hand, if a conversation is held on the phone, the average energy in the full
+spectrum is less useful, and the medium–high frequency seems to be more important in
+explaining the variability than the low frequency. When the results for in situ (d) and
+phone (f) conversation interruption are studied, the in-situ effect is explained to a greater
+extent. Since all of the acoustic variables have basically the same explanatory power for
+this effect of noise, this means that high, medium, or low frequencies all seem to have a
+similar impact.
+It is worth noting the result obtained for the loudness indicator, which, in addition
+to a variable frequency correction depending on the intensity of the sound, takes into
+account an exponential expression based on the loudness level and the masking effect
+of some frequencies on others, since it does not seem to be important in the estimation
+of the relevance of the effects that may be caused by environmental noise. Raising the
+volume of a telephone conversation (g) is the only effect for which the correlation coeffi-
+cient for loudness is higher than for the other acoustic indicators of this section. When
+compared with the values found for LZeq, for example, the loudness results are especially
+poor for annoyance in the ears (c), with values similar to those obtained for NR and
+NC. It is important to note that for the variable of annoyance (i), the loudness level and
+NCB are better indicators than the others with frequency-varying corrections for intensity,
+including loudness.
+
+Appl. Sci. 2024, 14, 11212
+9 of 18
+As can be observed from Table S1 of the Supplementary Materials, all of the subjective
+variables were positively correlated with the objective acoustic variables associated with
+sound energy over the whole audible spectrum, with slope values ranging between 0.13
+and 0.35. In general, the highest slope values were found for the relationships between
+the variables of irritability (a), raising the volume of the conversation (e), interrupting
+a phone conversation (f), raising the volume of a phone conversation (g), a noisy street
+(h), and annoyance (i), and the sound indicators LZeq, LCeq, and LCIeq. The results show
+that a variation of 3 dB in these acoustic variables represents a variation of approximately
+one point on the 0–10 rating scale for the variables associated with the perception of
+noise effects.
+3.2. Acoustic Variables Associated with Maximum or Minimum Values of Sound Energy
+An analysis is presented in this section of the explanatory capacity of acoustic variables
+that basically measure the maximum and minimum values of the sound energy over the
+whole audible spectrum and the measurement time, with certain spectral adaptations
+(A, C) to the response of the human ear, certain temporal considerations with regard to the
+signal treatment (F, S, I), and also taking into account the signal without temporal treatment
+(peak). Table 4 shows the correlation coefficients and the levels of significance obtained for
+the linear relations between the subjective variables and the acoustic variables related to
+the maximum values of the sound energy.
+Table 4. Correlation coefficients between subjective variables and acoustic variables related to the
+maximum values of the sound energy.
+LASmax
+LAFmax
+LAImax
+LCSmax
+LCFmax
+LCImax
+LCpeak
+(a)
+0.53 **
+0.57 **
+0.58 ***
+0.46 *
+0.43 *
+0.45 *
+0.53 **
+(b)
+0.34 n.s.
+0.41 *
+0.46 *
+0.37 *
+0.39 *
+0.46 *
+0.50 **
+(c)
+0.19 n.s.
+0.26 n.s.
+0.30 n.s.
+0.32 n.s.
+0.31 n.s.
+0.35 n.s.
+0.36 n.s.
+(d)
+0.42 *
+0.44 *
+0.45 *
+0.36 n.s.
+0.36 n.s.
+0.34 n.s.
+0.22 n.s.
+(e)
+0.41 *
+0.50 **
+0.53 **
+0.39 *
+0.40 *
+0.39 *
+0.30 n.s.
+(f)
+0.27 n.s.
+0.28 n.s.
+0.31 n.s.
+0.31 n.s.
+0.30 n.s.
+0.27 n.s.
+0.14 n.s.
+(g)
+0.35 n.s.
+0.42 *
+0.45 *
+0.37 *
+0.38 *
+0.36 n.s.
+0.26 n.s.
+(h)
+0.37 *
+0.47 *
+0.51 **
+0.49 **
+0.49 **
+0.48 **
+0.46 *
+(i)
+0.61 ***
+0.67 ***
+0.70 ***
+0.53 **
+0.55 **
+0.55 **
+0.50 **
+n.s. Non-significant correlation (p > 0.05). * Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at
+p ≤0.001.
+The first observation that can be made from the group of indicators related to the
+maximum values of the sound energy, compared to those analysed in the previous section,
+is that there is a significant loss in their capacity to explain the appearance and intensity
+of the noise effects analysed. In particular, it is remarkable that the maximum levels have
+little or no capacity to explain effects such as annoyance in the ears (c) and interruption
+of a phone conversation (f). This is even unexpected given that effects such as startle (b)
+or annoyance in the ears (c) could be expected to be explained by the maximum values.
+Hence, at least for the sound level ranges measured here (see Table 2), the maximum levels
+are not good estimators of the analysed noise effects.
+Despite this, it may be of interest to highlight that an increase in the value of the
+correlation coefficient is observed for all noise effects when moving from an S weighting to
+F and I weightings for medium and high frequencies (A weighting). This does not occur
+for the C-weighted sound indicator columns. This effect may be related to the stronger
+influence of low frequencies on the value of the indicator when the C weighting is used,
+and to the fact that a smaller influence from the time weighting is to be expected for longer
+wavelengths of the sound.
+Once the findings related to the maximum values have been analysed, Table 5 shows
+the correlation coefficients and the levels of significance obtained for the linear relations
+
+Appl. Sci. 2024, 14, 11212
+10 of 18
+between the subjective variables and the acoustic variables related to the minimum values
+of the sound energy. From a first approximation, it can be seen that the indicators of the
+minimum sound levels analysed here explain a greater proportion of the variability in the
+noise effects than the indicators of maximum energy. In the case of some of the effects
+analysed, they are even better in terms of explaining the variability (b, c) or are equivalent
+(f) to the average energy indicators; this may be an unexpected result, and to the best
+of the authors’ knowledge, has not been reported previously. The result for effect (c) is
+particularly remarkable, with a significant increase in the value of the correlation coefficient
+with respect to that obtained with the average sound energy indicators.
+Table 5. Correlation coefficients between subjective variables and acoustic variables related to the
+minimum values of the sound energy.
+LASmin
+LAFmin
+LAImin
+LCSmin
+LCFmin
+LCImin
+(a)
+0.56 **
+0.59 ***
+0.56 **
+0.66 ***
+0.66 ***
+0.66 ***
+(b)
+0.66 ***
+0.69 ***
+0.66 ***
+0.71 ***
+0.72 ***
+0.70 ***
+(c)
+0.66 ***
+0.69 ***
+0.66 ***
+0.69 ***
+0.70 ***
+0.66 ***
+(d)
+0.55 **
+0.57 **
+0.55 **
+0.60 ***
+0.61 ***
+0.60 ***
+(e)
+0.56 **
+0.54 **
+0.56 **
+0.57 **
+0.58 **
+0.55 **
+(f)
+0.52 **
+0.54 **
+0.52 **
+0.52 **
+0.55 **
+0.51 **
+(g)
+0.53 **
+0.53 **
+0.52 **
+0.52 **
+0.54 **
+0.49 **
+(h)
+0.57 **
+0.60 ***
+0.58 ***
+0.66 ***
+0.66 ***
+0.65 ***
+(i)
+0.46 *
+0.45 *
+0.46 *
+0.49 **
+0.50 **
+0.49 **
+* Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at p ≤0.001.
+From an overall analysis of this type of indicator in terms of frequency and time
+weightings, it can be seen that the indicators of minimum values that take into account low
+frequencies (C weighting) can explain a higher proportion of the variability than those with
+an A weighting. It should be noted that, so far, the relevance of a low frequency was clear
+for only three of the effects. For the minimum energy sound indicators, it seems that for all
+the effects, the C weighting gives better results than the A weighting. These results may
+indicate that, for some of the effects studied here, both the average and minimum energies
+may help to explain the appearance or importance of an effect.
+Similar behaviour is observed for all in the case of time weightings, although an F
+weighting achieves the best results. It should be pointed out that for some effects, and
+mainly those associated with conversation, the I weighting differs more significantly from
+the F weighting. Finally, it should be noted that, unlike the indicators in the previous
+section, the least amount of explanation of variability is obtained for annoyance (i). It
+therefore appears that this effect is most specifically related to the average energy. As is
+shown in the previous section, this may be the reason why the indicators currently used
+to measure the effects of environmental noise are mainly based on average energy values.
+In addition, the results for the A weighting for this effect justify the continued use of this
+weighting to some extent, even though it is not optimal for other effects, according to the
+results found in this research.
+From Table S1 of the Supplementary Materials, it can be seen that all subjective
+variables are correlated with the indicators associated with the maximum or minimum
+values of sound energy, with slope values ranging between 0.07 and 0.29. However, the
+highest slope values are seen for the indicators of the minimum sound levels. In general, a
+variation in these minimum energy indicators of between 3.5 and 5 dB corresponds to a
+variation of approximately one point on the 0–10 rating scale for all subjective variables.
+3.3. Acoustic Variables Associated with Sound Energy in Different Parts of the Audible Spectrum
+3.3.1. Variables Related to Specific Parts of the Audible Spectrum
+This third section shows the results of an analysis of the capacity of the acoustic
+variables representing the sound energy over the whole period of measurement to explain
+
+Appl. Sci. 2024, 14, 11212
+11 of 18
+the variability in the noise effects, by considering the absolute or relative relevance of certain
+parts of the audible spectrum. Table 6 shows that the acoustic variables Leq20–200Hz, SIL3,
+SIL, and PSIL are significantly related to the effects of noise under study on pedestrians.
+For some effects, it could be calculated that they explain around or more than 50% of
+their variability.
+Table 6. Correlation coefficients between subjective variables and acoustic variables associated with
+sound energy in different parts of the audible spectrum.
+Leq20−200Hz
+SIL3
+SIL
+PSIL
+LCeq-LAeq
+(a)
+0.69 ***
+0.69 ***
+0.68 ***
+0.68 ***
+−0.42 *
+(b)
+0.69 ***
+0.60 ***
+0.61 ***
+0.61 ***
+−0.25 n.s.
+(c)
+0.61 ***
+0.47 *
+0.48 **
+0.46 *
+−0.26 n.s.
+(d)
+0.62 ***
+0.62 ***
+0.63 ***
+0.63 ***
+−0.38 *
+(e)
+0.67 ***
+0.65 ***
+0.67 ***
+0.65 ***
+−0.11 n.s.
+(f)
+0.50 **
+0.52 **
+0.54 **
+0.54 **
+0.35 n.s.
+(g)
+0.58 ***
+0.63 ***
+0.64 ***
+0.64 ***
+−0.25 n.s.
+(h)
+0.75 ***
+0.66 ***
+0.66 ***
+0.63 ***
+−0.27 n.s.
+(i)
+0.72 ***
+0.80 ***
+0.80 ***
+0.79 ***
+−0.36 n.s.
+n.s. Non-significant correlation (p > 0.05). * Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant at
+p ≤0.001.
+The results for this group of sound indices corroborate the previous findings in
+Section 3.1, and reinforce the conclusions drawn from them. For the effects of irritability (a),
+interrupting a conversation (d, and interrupting a phone conversation (f), the low-frequency
+indicator Leq20–200Hz or the medium- and high-frequency indicators SIL3, SIL, and PSIL
+give similar results. This also occurs for raising the volume of a conversation (e) with
+these indicators, although this was not exactly the same as in Section 3.1 for indicators
+that cover the whole frequency spectrum. In turn, for startle (b), annoyance in the ears (c),
+and a noisy street (h), it is the low-frequency indicator that explains a higher proportion
+of its variability, whereas for the effect of raising the volume of a phone conversation (g),
+the medium- and high-frequency indicators give slightly better results, as in Section 3.1.
+The medium- and high-frequency indicators again provide the greatest explanation of the
+variability for annoyance (i).
+It can also be seen that indicators that take into account the average energy in some
+specific parts of the audible spectrum give better results than those that reflect the relative
+importance of some parts of the spectrum with respect to others. In fact, Leq20–200Hz shows
+similar results to those obtained with the LZeq, LCeq, and LCIeq indicators, for all the effects
+analysed here except annoyance (i). In addition, apart from annoyance, the SIL3, SIL, and
+PSIL indicators have very similar values to the other indicators seen in Section 3.1 and also
+to each other.
+One result that may be striking in principle is that shown by the LCeq-LAeq indicator,
+with significant negative relationships in the case of the effects of irritability (a) and in-
+terrupting conversation (d). These two effects have similarities in terms of the outcomes
+observed with the different indicators analysed in Table 3 and the results in the first four
+columns of Table 6. This is interesting because it seems that this indicator, despite giving a
+low explanation of the variability, may be able to detect a differential effect of the spectrum
+on the occurrence and importance of these effects, which were not detected by the previous
+acoustic indicators in Table 3 or the spectral indicators themselves in Table 6. In view of
+this finding, it seems of interest to perform a study of the sound spectrum in frequency
+bands to try to analyse in detail what this indicator may be revealing.
+Table S1 of the Supplementary Materials shows that all subjective variables are cor-
+related with Leq20–200Hz, SIL3, SIL, and PSIL, with slope values ranging between 0.15 and
+0.32. Again, the highest slope values were found for the relations of the variables irritability
+(a), raising the volume of a conversation (e), interrupting a phone conversation (f), raising
+the volume of a phone conversation (g), a noisy street (h), and annoyance (i), and the sound
+
+Appl. Sci. 2024, 14, 11212
+12 of 18
+indicator Leq20–200Hz. A variation of slightly more than 3 dB in Leq20–200Hz results in a
+variation of approximately one point on the 0–10 rating scale for these subjective variables.
+3.3.2. Analysis in One-Third Octave Frequency Bands
+Since the one-third octave frequency bands are those closest to the critical bands of the
+human ear [38], an analysis was carried out of the relations between the subjective variables
+associated with the effects of noise and the equivalent sound levels for each of the one-
+third octave frequency bands. The aim was to study the capacity of the frequency bands to
+explain the occurrence and importance of the effects considered here. It is necessary to point
+out that all of the subjective variables related to the effects of noise on pedestrians were
+significantly correlated with Leq in each of the one-third octave bands with a significance
+level of at least p ≤0.05, and many of these correlations had values of p ≤0.01 or p ≤0.001.
+The intensity of these significant correlations can be seen in Figure 4. If the values of
+the correlation coefficients between variables (a), (b), (c), (h), and (i) with the equivalent
+unweighted noise levels for each of the one-third octave frequency bands are analysed
+(Figure 4a), it can be seen that the correlation coefficient for irritability (a) reaches maximum
+values of around 0.7 in the low-frequency bands between 100 and 160 Hz and in the mid–
+high frequencies (800–2000 Hz). In this regard, it is worth noting that one of the one-third
+octave band sections with higher values of the correlation coefficient coincide with the
+bands where the road traffic noise level reaches the highest values [55]. In the case of startle
+(b), annoyance in the ears (c), and a noisy street (i), high correlation values were observed
+with the sound level recorded in the one-third octave frequency band of 25 Hz, with r
+values of 0.70, 0.67, and 0.75, respectively. In addition, the variable of a noisy street (h) also
+reached values of approximately 0.75 at 50 Hz and 5 kHz. As is shown in Tables 3 and 6, the
+subjective variable of perceived annoyance (i) had the highest correlation coefficient, with
+values of approximately 0.78 for the one-third octave bands between 200 Hz and 16 kHz
+and a maximum value of 0.82 at 100 Hz.
+From the results of the correlation coefficients between variables (d), (e), (f), and
+(g) (related to interference within conversations) and the equivalent unweighted noise
+level for each of the one-third octave frequency bands (Figure 4b), it seems that mid-
+frequency and low-frequency bands above 50 Hz play a similar role in interruptions to
+in-person (d) and telephone (f) conversations. However, different results were found when
+analysing the response to raising the volume of conversations. Low-frequency bands show
+high relevance in the case of conversations with someone nearby (e), with values for the
+correlation coefficient of up to 0.77 around the 25 Hz band, whereas mid–high frequency
+bands are more important in terms of raising the volume in telephone conversations (g),
+with a maximum r value of 0.68 in the 500 Hz band. This detailed analysis of the one-third
+octave frequency bands again indicates a possible effect of the noise level measured in the
+different parts of the audible sound spectrum on the need to raise the voice in conversations,
+depending on whether they are conducted in the street or by telephone.
+In addition, it is of interest to carry out an objective analysis of the possible relation
+between the structures of the correlation coefficients obtained for the noise spectrum in the
+one-third octave bands for the different noise effects under study. The aim in this case is
+to look for similarities in the structure, rather than similarities in the absolute intensity of
+the explanations. For this purpose, a correlation study was carried out between the values
+of the correlation coefficients for the different pairs of effects to be considered, such as
+those in Table 7. The dependent variable was taken as the one that appears in the rows; for
+example, the results for the Pearson correlation coefficient obtained for the one-third octave
+frequency bands for irritability (a) are capable of significantly explaining those obtained for
+the spectrum for the variable of interrupting a conversation with someone nearby (d), with
+a correlation coefficient of 0.56 and a significance level of p < 0.001.
+
+Appl. Sci. 2024, 14, 11212
+13 of 18
+(A) 
+(B) 
+Figure 4. Correlation coefficients between subjective variables and the equivalent unweighted noise
+level for each of the 1/3 octave frequency bands: (A) variables (a), (b), (c), (h) and (i); (B) variables
+(d), (e), (f), and (g).
+Several findings can be observed from Table 7. Firstly, it is noted that the frequency
+band structure that causes the effect of irritability (a) is like the one that causes the effect of
+interrupting a conversation, regardless of whether it is with someone nearby (d) or on the
+phone (f). This result, in addition to reinforcing the previous ones, is based on a detailed
+analysis of their spectra, and indicates a greater degree of similarity between the spectra
+that cause these three noise effects. In the same way, startle (b) is shown to be closely related
+to annoyance in the ears (c). Another noteworthy aspect from Table 7 is that the two effects
+of interrupting a conversation, (d) and (f), seem to have a common cause in terms of the
+spectrum structure, as well as the effects of having to raise the volume in a face-to-face
+conversation (e) or on the phone (g). Moreover, when the medium of communication is
+
+Appl. Sci. 2024, 14, 11212
+14 of 18
+the telephone, a similar spectral structure of the noise causes both to have to raise the
+volume (g) or to pause the conversation (f). Something similar takes place in face-to-face
+conversations, but with a weaker effect. For a perception of the street as noisy (h), the
+spectral structure of this effect appears to be closely related to that of annoyance in the
+ears (c) and is also somewhat related to having to raise the volume in a conversation with
+someone nearby (e). Finally, it is worth noting that annoyance (i) shows similarities in
+terms of the frequency spectrum with three of the four effects on conversation quality,
+i.e., (d), (f), and (g).
+Table 7. Correlation coefficients between the values of the correlation coefficients of variables (a)–(i)
+in Figure 4.
+(b)
+(c)
+(d)
+(e)
+(f)
+(g)
+(h)
+(i)
+(a)
+−0.01 n.s.
+−0.38 *
+0.56 ***
+−0.38 *
+0.53 **
+0.32 n.s.
+−0.39 *
+0.31 n.s.
+(b)
+0.70 ***
+−0.08 n.s.
+0.29 n.s.
+−0.07 n.s.
+−0.02 n.s.
+−0.03 n.s.
+−0.52 **
+(c)
+−0.38 *
+0.31 n.s.
+−0.50 **
+−0.41 *
+0.60 ***
+−0.68 ***
+(d)
+0.11n.s.
+0.73 ***
+0.54 **
+−0.30 n.s.
+0.60 ***
+(e)
+0.24 n.s.
+0.55 **
+0.37 *
+0.25 n.s.
+(f)
+0.90 ***
+−0.45 **
+0.74 ***
+(g)
+−0.29 n.s.
+0.74 ***
+(h)
+−0.23 n.s.
+n.s. Non-significant correlation (p > 0.05). * Significant at p ≤0.05. ** Significant at p ≤0.01. *** Significant
+at p ≤0.001.
+It may be of interest to note that in some cases, significant linear relationships with
+a negative sign are obtained, indicating that, to some extent, the structures of the sound
+spectra that cause some effects are inverse to those that cause others. In this sense, it is
+important to note, for example, that with a significance value of p ≤0.001, the spectral
+structure related to perceived annoyance (i) is opposite to that related to annoyance in the
+ears (c), and to that related to startle (b), with p ≤0.01. The spectral structure related to
+perceiving the street as noisy (h) is the opposite of that related to interrupting a conversation
+on the phone (f) (p ≤0.01) or to that related to the effect of irritability (a) (p ≤0.05).
+4. Conclusions
+An experimental study was carried out that involved taking acoustic measurements in
+the streets of Cáceres (Spain) at the same time as administering pedestrian surveys, in order
+to study the ability of acoustic variables related to sound energy in urban environments to
+estimate the occurrence and importance of noise effects. The results obtained in the present
+study showed that many of the noise effects studied here were significantly correlated with
+a large proportion of these acoustic variables, reaching values for the correlation coefficient
+of above 0.8 in some cases.
+The findings of the study indicate that the average energy of the sound wave over the
+full spectrum is an important sound characteristic in terms of explaining the variability of
+effects such as irritability (a), startle (b), raising the volume of the conversation in situ (e), a
+noisy street (h), and annoyance (i). For almost all of the effects analysed here, LZeq or LCeq
+were better than or similar to LAeq in terms of explaining their variability. Moreover, a time I
+weighting did not have any significant influence on the values of the correlation coefficients
+for any of the subjective variables. Other indicators that consider different adaptations
+depending on the sound level, such as loudness, loudness level, NR, NC, and NCB, did
+not generally provide an improvement, except for interrupting a phone conversation (f),
+raising the volume of their voice on a phone conversation (g), and annoyance (i).
+The indicators based on the minimum sound levels analysed here explained a greater
+proportion of the variability in the noise effects than the indicators of maximum energy.
+They were even better for explaining the variability in startle (b) and annoyance in the ears
+(c), or equivalent for interrupting a phone conversation (f), to all of the average energy
+
+Appl. Sci. 2024, 14, 11212
+15 of 18
+indicators. In regard to the minimum energy sound indicators, it seems that the C weighting
+gives better results than the A weighting for all the noise effects.
+Concerning acoustic variables associated with sound energy in different parts of the
+audible spectrum, it has been found in the present work that Leq20–200Hz, SIL3, SIL, and
+PSIL were significantly related to the effects of noise under study on pedestrians, with
+explanations of their variability of around 50% or more. In addition, all subjective variables
+related to the effects of noise on pedestrians were significantly correlated with Leq in each
+of the one-third octave bands with a significance level of at least p ≤0.05, with different
+values of the correlation coefficient for each subjective variable depending on the part of
+the audible spectrum. Similarities in the structure of the spectrum were found between
+some of these effects.
+These findings of this work suggest that urban noise reduction strategies should focus
+on mitigating low-frequency sounds, which are strongly linked to perceptions of noisiness.
+Practical measures could include reducing traffic volume, promoting quieter vehicles,
+and using materials that dampen low-frequency noise. Additionally, using minimum
+sound level indicators and adopting Z and C weightings for noise assessments can help
+city managers to better predict and address noise-related health problems other than
+annoyance, such as irritability or impaired speech communication, thus improving the
+overall well-being of citizens.
+Societies and urban environments can vary in terms of social structures and relation-
+ships, traffic patterns, population density, etc. This can influence the acoustic characteristics
+of environments and also how these characteristics influence the effects of noise on people.
+This paper has focused on some of the effects of noise and on the energetic characteristics
+of urban sound environments. The authors are aware of the limitations of their work given
+the number of surveys (105), although an acceptable statistical power was reached, and
+the fact that it was carried out in a single city. These results may potentially be valid, at
+least in urban centres with similar sociological structures, with a similar range of sound
+level values, and with similar types of noise sources, both traffic and non-traffic related.
+Thus, the authors encourage the scientific community to carry out studies in other cities
+with similar approaches and objectives to those proposed in this study. This could perhaps
+validate and generalise the conclusions of this research. But, it would certainly allow a
+better understanding of the way in which the different acoustic variables are capable of
+reflecting the effects of noise on people. In this way, it would advance the development of
+more effective and perhaps globally applicable urban noise-reduction strategies.
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/app142311212/s1, Questionnaires and Table S1: Slope coefficients
+of the relations between the subjective and objective variables.
+Author Contributions: J.M.B.M.: Conceptualization, Methodology, Software, Validation, Formal
+analysis, Investigation, Resources, Data Curation, Writing—Original Draft, Writing—Review and
+Editing, Supervision, Project administration, Funding acquisition. D.M.G.: Methodology, Software,
+Formal analysis, Investigation, Data Curation, Writing—Original Draft, Writing—Review and Edit-
+ing, Visualization. R.V.-G.: Methodology, Software, Formal analysis, Investigation, Data Curation,
+Writing—Review and Editing, Visualization. G.R.-G.: Methodology, Software, Formal analysis, In-
+vestigation, Data Curation, Writing—Review and Editing, Visualization. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This project was co-financed by the European Regional Development Fund (ERDF) and
+Junta de Extremadura (IB18050 and GR21061). This work was also supported by Consejería de
+Economía, Ciencia y Agenda Digital of Junta de Extremadura through grants for attracting and
+returning research talent to R&D&I centres belonging to the Extremadura Science, Technology and
+Innovation System (TA18019), where the University of Extremadura was the beneficiary entity.
+Institutional Review Board Statement: The design of the survey was validated by the ethics and
+bioethics committee of the University of Extremadura in the report with reference 37//2020.
+
+Appl. Sci. 2024, 14, 11212
+16 of 18
+Informed Consent Statement: Surveys of the population were conducted in this study. Following
+the Declaration of Helsinki, each participant filled out a declaration of informed consent.
+Data Availability Statement: The original contributions presented in the study are included in the
+article/supplementary material, further inquiries can be directed to the corresponding author.
+Acknowledgments: The authors would like to acknowledge the contribution of Pedro Atanasio, Ana
+Bejarano, and Manuel Parejo for their contribution during the measurement and survey process.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1.
+Hahad, O.; Jimenez, M.T.B.; Kuntic, M.; Frenis, K.; Steven, S.; Daiber, A.; Münzel, T. Cerebral consequences of environmental
+noise exposure. Environ. Int. 2022, 165, 107306. [CrossRef]
+2.
+Tangermann, L.; Vienneau, D.; Hattendorf, J.; Saucy, A.; Künzli, N.; Schäffer, B.; Wunderli, J.M.; Röösli, M. The association of road
+traffic noise with problem behaviour in adolescents: A cohort study. Environ. Res. 2022, 207, 112645. [CrossRef]
+3.
+Begou, P.; Kassomenos, P.; Kelessis, A. Effects of road traffic noise on the prevalence of cardiovascular diseases: The case of
+Thessaloniki, Greece. Sci. Total Environ. 2020, 703, 134477. [CrossRef] [PubMed]
+4.
+Min, J.; Min, K. Cumulative exposure to nighttime environmental noise and the incidence of peptic ulcer. Environ. Int. 2018, 121,
+1172–1178. [CrossRef] [PubMed]
+5.
+Fiorini, C.V. Railway noise in urban areas: Assessment and prediction on infrastructure improvement combined with settlement
+development and regeneration in central Italy. Appl. Acoust. 2022, 185, 108413. [CrossRef]
+6.
+Barrigón Morillas, J.M.; Rey Gozalo, G.; Montes Gonzalez, D.; Sánchez-Fernández, M.; Bachiller León, A. A comprehensive
+experimental study of the influence of temperature on urban road traffic noise under real-world conditions. Environ. Pollut. 2022,
+309, 119761. [CrossRef] [PubMed]
+7.
+Wing, S.E.; Larson, T.V.; Hudda, N.; Boonyarattaphan, S.; Rosario, I.D.; Fruin, S.; Ritz, B. Aircraft noise and vehicle traffic-related
+air pollution interact to affect preterm birth risk in Los Angeles, California. Sci. Total Environ. 2022, 829, 154678. [CrossRef]
+[PubMed]
+8.
+EEA. Outlook to 2030—Can the Number of People Affected by Transport Noise Be Cut by 30%? European Environment Agency;
+Publications Office of the European Union: Luxembourg, 2022.
+9.
+COM/2021/400. Pathway to a Healthy Planet for All EU Action Plan: Towards Zero Pollution for Air, Water and Soil; European
+Commission: Brussels, Belgium, 2021.
+10.
+Wosniacki, G.G.; Zannin, P.H.T. Framework to manage railway noise exposure in Brazil based on field measurements and
+strategic noise mapping at the local level. Sci. Total Environ. 2021, 757, 143721. [CrossRef]
+11.
+Rey-Gozalo, G.; Barrigón Morillas, J.M.; Montes González, D. Analysis and Management of Current Road Traffic Noise. Curr.
+Pollut. Rep. 2022, 8, 315–327. [CrossRef]
+12.
+Khomenko, S.; Cirach, M.; Barrera-Gómez, J.; Pereira-Barboza, E.; Iungman, T.; Mueller, N.; Foraster, M.; Tonne, C.; Thondoo,
+M.; Jephcote, C.; et al. Impact of road traffic noise on annoyance and preventable mortality in European cities: A health impact
+assessment. Environ. Int. 2022, 162, 107160. [CrossRef]
+13.
+Faulkner, J.-P.; Murphy, E. Road traffic noise modelling and population exposure estimation using CNOSSOS-EU: Insights from
+Ireland. Appl. Acoust. 2022, 192, 108692. [CrossRef]
+14.
+Rey Gozalo, G.; Gómez Escobar, V.; Barrigón Morillas, J.M.; Montes González, D.; Atanasio Moraga, P. Statistical attribution of
+errors in urban noise modeling. Appl. Acoust. 2019, 153, 20–29. [CrossRef]
+15.
+Prezelj, J.; Murovec, J. Traffic noise modelling and measurement: Inter-laboratory comparison. Appl. Acoust. 2017, 127, 160–168.
+[CrossRef]
+16.
+Can, A.; L’Hostis, A.; Aumond, P.; Botteldooren, D.; Coelho, M.C.; Guarnaccia, C.; Kang, J. The future of urban sound
+environments: Impacting mobility trends and insights for noise assessment and mitigation. Appl. Acoust. 2020, 170, 107518.
+[CrossRef]
+17.
+Paschalidou, A.K.; Kassomenos, P.; Chonianaki, F. Strategic Noise Maps and Action Plans for the reduction of population
+exposure in a Mediterranean port city. Sci. Total Environ. 2019, 654, 144–153. [CrossRef]
+18.
+Licitra, G.; Ascari, E.; Fredianelli, L. Prioritizing Process in Action Plans: A Review of Approaches. Curr. Pollut. Rep. 2017, 3,
+151–161. [CrossRef]
+19.
+Barrigón Morillas, J.M.; Rey Gozalo, G.; Montes González, D.; Vílchez-Gómez, R.; Gómez-Escobar, V. Variability of traffic noise
+pollution levels as a function of city size variables. Environ. Res. 2021, 199, 111303. [CrossRef] [PubMed]
+20.
+Han, X.; Huang, X.; Liang, H.; Ma, S.; Gong, J. Analysis of the relationships between environmental noise and urban morphology.
+Environ. Pollut. 2018, 233, 755–763. [CrossRef] [PubMed]
+21.
+Ariza-Villaverde, A.B.; Jiménez-Hornero, F.J.; Ravé, E.G.D. Influence of urban morphology on total noise pollution: Multifractal
+description. Sci. Total Environ. 2014, 472, 1–8. [CrossRef]
+22.
+Wang, P.; Zhou, B.; Han, L.; Mei, R. The motivation and factors influencing visits to small urban parks in Shanghai, China. Urban
+For. Urban Green. 2021, 60, 127086. [CrossRef]
+
+Appl. Sci. 2024, 14, 11212
+17 of 18
+23.
+Misiune, I.; Julian, J.P.; Veteikis, D. Pull and push factors for use of urban green spaces and priorities for their ecosystem services:
+Case study of Vilnius, Lithuania. Urban For. Urban Green. 2021, 58, 126899. [CrossRef]
+24.
+Rey Gozalo, G.; Barrigon Morillas, J.M.; Montes Gonzalez, D. Perceptions and use of urban green spaces on the basis of size.
+Urban For. Urban Green. 2019, 46, 126470. [CrossRef]
+25.
+Gidlöf-Gunnarsson, A.; Öhrström, E. Noise and well-being in urban residential environments: The potential role of perceived
+availability to nearby green areas. Landsc. Urban Plan. 2007, 83, 115–126. [CrossRef]
+26.
+Lionello, M.; Aletta, F.; Kang, J. A systematic review of prediction models for the experience of urban soundscapes. Appl. Acoust.
+2020, 170, 107479. [CrossRef]
+27.
+Maristany, A.; López, M.R.; Rivera, C.A. Soundscape quality analysis by fuzzy logic: A field study in Cordoba, Argentina. Appl.
+Acoust. 2016, 111, 106–115. [CrossRef]
+28.
+Ricciardi, P.; Delaitre, P.; Lavandier, C.; Torchia, F.; Aumond, P. Sound quality indicators for urban places in Paris cross-validated
+by Milan data. J. Acoust. Soc. Am. 2015, 138, 2337–2348. [CrossRef] [PubMed]
+29.
+Cleary-Gaffney, M.; Espey, B.; Coogan, A.N. Association of perceptions of artificial light-at-night, light-emitting device us-
+age and environmental noise appraisal with psychological distress, sleep quality and chronotype: A cross sectional study.
+Heliyon 2022, 8, e11284. [CrossRef]
+30.
+Li, W.; Zhai, J.; Zhu, M. Characteristics and perception evaluation of the soundscapes of public spaces on both sides of the
+elevated road: A case study in Suzhou, China. Sustain. Cities Soc. 2022, 84, 103996. [CrossRef]
+31.
+Zhang, L.; Ma, H. Investigation of Chinese residents’ community response to high-speed railway noise. Appl. Acoust. 2021, 172, 107615.
+[CrossRef]
+32.
+Morihara, T.; Sato, T.; Yano, T. Re-analysis of socio-acoustic survey data in Tomakomai: Seasonal effects of a tree belt on road
+traffic noise annoyance. Appl. Acoust. 2022, 196, 108861. [CrossRef]
+33.
+Okokon, E.O.; Turunen, A.W.; Ung-Lanki, S.; Vartiainen, A.-K.; Tiittanen, P.; Lanki, T. Road-traffic noise: Annoyance, risk
+perception, and noise sensitivity in the finnish adult population. Int. J. Environ. Res. Public. Health 2015, 12, 5712–5734. [CrossRef]
+[PubMed]
+34.
+Montes González, D.; Barrigón Morillas, J.M.; Rey-Gozalo, G. Effects of noise on pedestrians in urban environments where road
+traffic is the main source of sound. Sci. Total Environ. 2023, 857, 159406. [CrossRef] [PubMed]
+35.
+Ma, K.W.; Mak, C.M.; Wong, H.M. Effects of environmental sound quality on soundscape preference in a public urban space.
+Appl. Acoust. 2021, 171, 107570. [CrossRef]
+36.
+Paszkowski, W.; Kotus, J.; Poremski, T.; Kostek, B. Evaluation of sound quality features on environmental noise effects—A case
+study applied to road traffic noise. Metrol. Meas. Syst. 2018, 25, 517–531. [CrossRef]
+37.
+Rey-Gozalo, G.; Trujillo Carmona, J.; Barrigón Morillas, J.M.; Vílchez-Gómez, R.; Gómez Escobar, V. Relationship between
+objective acoustic indices and subjective assessments for the quality of soundscapes. Appl. Acoust. 2015, 97, 1–10. [CrossRef]
+38.
+Fastl, H.; Zwicker, E. Psychoacoustics: Facts and Models, Psychoacoustics: Facts and Models; Springer: Berlin/Heidelberg, Germany, 2007.
+[CrossRef]
+39.
+Barrigón Morillas, J.M.; Montes Gonzalez, D.; Gómez Escobar, V.; Rey Gozalo, G.; Vílchez-Gómez, R. A proposal for producing
+calculated noise mapping defining the sound power levels of roads by street stratification. Environ. Pollut. 2021, 270, 116080.
+[CrossRef]
+40.
+INE (Instituto Nacional de Estadística), 2021. Censo de Población y Viviendas. Instituto Nacional de Estadística, Madrid.
+Available online: https://www.ine.es/Censo2021/Wizard.do?WIZARD=1&reqCode=pasoSeleccionColectivo (accessed on
+20 October 2024).
+41.
+Deutskens, E.; de Ruyter, K.; Wetzels, M.; Oosterveld, P. Response Rate and Response Quality of Internet-Based Surveys: An
+Experimental Study. Mark. Lett. 2004, 15, 21–36. [CrossRef]
+42.
+Wu, M.-J.; Zhao, K.; Fils-Aime, F. Response rates of online surveys in published research: A meta-analysis. Comput. Hum. Behav.
+Rep. 2022, 7, 100206. [CrossRef]
+43.
+Díaz de Rada Igúzquiza, V.; Palacios Gómez, J.L. Comparación de las tasas de respuesta en el uso combinado de modalidades de
+encuesta. Rev. Esp. Invest. Sociol. 2024, 141, 159–170. [CrossRef]
+44.
+Fritz, M.S.; MacKinnon, D.P. Required sample size to detect the mediated effect. Psychol. Sci. 2007, 18, 233–239. [CrossRef]
+45.
+Cohen, J. Statistical Power Analysis for the Behavioral Sciences, 2nd ed.; Lawrence Erlbaum Associates: Mahwah, NJ, USA, 1988.
+[CrossRef]
+46.
+National Institute of Statistics. 2021. Available online: https://www.ine.es/ss/Satellite?L=es_ES&c=INESeccion_C&p=1254
+735110672&pagename=ProductosYServicios/PYSLayout&param1=PYSDetalleFichaSeccionUA&param3=1259944561392&_
+charset_=UTF-8&cid=1259944638308 (accessed on 20 October 2024).
+47.
+Rodríguez del Águila, M.M.; González-Ramírez, A.R. Sample size calculation. Allergol. Immunopathol. 2014, 42, 485–492.
+[CrossRef] [PubMed]
+48.
+Paiva, K.M.; Cardoso, M.R.A.; Zannin, P.H.T. Exposure to road traffic noise: Annoyance, perception and associated factors among
+Brazil’s adult population. Sci. Total Environ. 2019, 650, 978–986. [CrossRef]
+49.
+Tao, Y.; Chai, Y.; Kou, L.; Kwan, M.-P. Understanding noise exposure, noise annoyance, and psychological stress: Incorporating
+individual mobility and the temporality of the exposure-effect relationship. Appl. Geogr. 2020, 125, 102283. [CrossRef]
+
+Appl. Sci. 2024, 14, 11212
+18 of 18
+50.
+Montes González, D.; Barrigón Morillas, J.M.; Rey Gozalo, G.; Godinho, L. Evaluation of exposure to road traffic noise: Effects of
+microphone height and urban configuration. Environ. Res. 2020, 191, 110055. [CrossRef]
+51.
+Barrigón Morillas, J.M.; Montes González, D.; Rey Gozalo, G. A review of the measurement procedure of the ISO 1996 standard.
+Relationship with the European Noise Directive. Sci. Total Environ. 2016, 565, 595–606. [CrossRef] [PubMed]
+52.
+Zagubie´n, A.; Wolniewicz, K. Impact of measuring microphone location on the result of environmental noise assessment. Appl.
+Acoust. 2021, 172, 107662. [CrossRef]
+53.
+Montes González, D.; Barrigón Morillas, J.M.; Rey Gozalo, G.; Atanasio Moraga, P. Microphone position and noise exposure
+assessment of building façades. Appl. Acoust. 2020, 160, 107157. [CrossRef]
+54.
+Montes González, D.; Barrigón Morillas, J.M.; Rey Gozalo, G.; Godinho, L. Effect of parking lanes on assessing the impact of road
+traffic noise on building façades. Environ. Res. 2020, 184, 109299. [CrossRef]
+55.
+UNE-EN 1793-3:1998; Road Traffic Noise Reducing Devices—Test Method for Determining the Acoustic Performance—Part 3:
+Normalized Traffic Noise Spectrum. Spanish Association for Standardization: Madrid, Spain, 1998.
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

@@ -1,0 +1,853 @@
+Research Article
+Social-ecological relationships on biodiverse and health-promoting 
+city soundscapes
+Monika Egerer a,*
+, Peter Annigh¨ofer b, Sophie Arzberger b
+, Tobias Bahlmann a, 
+Stefanie Burger a
+, Michaela Coenen c,d
+, Andrew Fairbairn e
+, Andr´e Fiebig f, Flora Heckner g, 
+Naoka Hisada c,d, Gisela Immich c,d
+, Eleja Kraft h, Niklas Meier f, Sebastian T. Meyer e
+, 
+Maximilian Mühlbauer i
+, Katrin Petroschkat h
+, Birgit M. Probst a,j
+, Susanne Schmitt h, 
+Gabriela Voicu e, Stephan Voss c,d, Julie Weissmann i, Stephan Pauleit g
+a Urban Productive Ecosystems, School of Life Sciences, Technical University of Munich, Freising, Germany
+b Forest and Agroforest Systems, School of Life Sciences, Technical University of Munich, Freising, Germany
+c Institute for Medical Information Processing, Biometry, and Epidemiology – IBE, Chair of Public Health and Health Services Research, Faculty of Medicine, LMU 
+Munich, Munich, Germany
+d Pettenkofer School of Public Health, Munich, Germany
+e Terrestrial Ecology Research Group, School of Life Sciences, Technical University of Munich, Freising, Germany
+f Engineering Acoustics, Institute of Fluid Dynamics and Technical Acoustics, Technische Universit¨at Berlin, Berlin, Germany
+g Strategic Landscape Planning and Management, School of Life Sciences, Technical University of Munich, Freising, Germany
+h Neurobiology, Faculty of Biology, LMU Munich, Munich, Germany
+i BUND Naturschutz in Bayern e.V., Kreisgruppe München, Munich, Germany
+j Department of Psychology, Charlotte Fresenius Hochschule, Munich, Germany
+A R T I C L E I N F O
+Keywords:
+Urban green infrastructure
+Biodiversity
+Human wellbeing
+Restoration
+Urban planning
+Transdisciplinary research
+Urban soundscapes
+A B S T R A C T
+Urban soundscapes indicate biodiversity and environmental conditions, including urban stressors. Although 
+relationships among soundscapes, biodiversity, and mental health effects exist, better quantification is needed to 
+inform biodiversity-based health interventions. We present the pilot phase of the CitySoundscapes project, a 
+transdisciplinary effort to develop methods for surveying biodiversity and human wellbeing associated with 
+urban soundscapes. This approach involved citizens and practitioners across conservation, planning and health 
+sectors as well as various urban contexts. In this initial one-year phase of our research, we investigated how 
+soundscape characteristics relate to green space structural complexity, how to measure biodiversity using 
+acoustic monitoring (here, vocal bird species), and people’s acoustic perceptions. We also piloted participatory 
+approaches to identify where there are places of high biodiversity, high acoustic comfort and perceived resto­
+ration. Our goal was not to deliver exhaustive ecological results, but to test and combine methods from ecology, 
+environmental psychology, and urban planning for feasibility and complementarity. We present these methods 
+and an approach to assess relationships among sound, biodiversity and wellbeing in urban spaces of varying 
+vegetation structure. This case study provides a perspective on how green spaces and their structural features 
+could relate to soundscapes and acoustic comfort and restoration, as well as how green spaces offer habitat for a 
+diversity of sound-producing organisms. This methodological and conceptual contribution offers the groundwork 
+for ecological and inter- and transdisciplinary research. The preliminary insights can inform ecological under­
+standing and practical strategies for healthier, more biodiverse cities.
+Introduction
+A ‘soundscape’ can be defined as the entire collection of sounds 
+produced by humans (anthrophonic sounds), by the living environment 
+(biophonic sounds) and by the physical environment (geophonic 
+sounds) (Krause, 2013). In cities, a milieu of various audible stimuli 
+come together in the soundscape to influence the lived experience of 
+urban residents and human health in relation to the built environment, 
+* Corresponding author.
+E-mail address: monika.egerer@tum.de (M. Egerer). 
+Contents lists available at ScienceDirect
+Basic and Applied Ecology
+journal homepage: www.elsevier.com/locate/baae
+https://doi.org/10.1016/j.baae.2025.12.007
+Received 31 May 2025; Accepted 10 December 2025 
+Basic and Applied Ecology 90 (2026) 73–88 
+Available online 11 December 2025 
+1439-1791/© 2025 The Author(s). Published by Elsevier GmbH on behalf of Gesellschaft für Ökologie. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). 
+
+as well as to green and blue infrastructure (Pijanowski et al., 2011). 
+Furthermore, the sounds of animals within urban green and blue spaces 
+can be indicators of biodiversity and environmental conditions and can 
+affect human health (Basner et al., 2014). Our work combines concep­
+tual and methodological approaches from an urban ecology and envi­
+ronmental psychology perspective to explore relationships between 
+urban green space structural complexity, biodiversity and human well­
+being. We also include multispecies-oriented approaches to convey a 
+more holistic understanding of soundscapes, particularly in our public 
+outreach work. All three approaches, briefly described here below, stress 
+complementary aspects of soundscapes.
+Interdisciplinary perspectives on soundscapes
+The field of ecoacoustics investigates the (ecological) role of sounds 
+from both natural and human sources in ecosystems, in which sound can 
+be both a subject of study to understand ecological processes as well as a 
+tool for monitoring biodiversity, assessing habitat characteristics, and 
+determining the effects of human activity on the environment (Farina, 
+2018). From an urban ecological perspective, natural soundscapes 
+(biophonic and geophonic sounds) indicate trees, wind, and water, as 
+well as sound-producing organisms (e.g., birds, bats, grasshoppers, 
+frogs) that rely on sound to communicate and survey their environ­
+ments. The biophonic component of soundscapes can be used to assess 
+which species are present within a space and to identify the urban green 
+space structures and also what urban green space structures may be 
+associated with species presence. For example, dense understory vege­
+tation relates to a high diversity of bird sounds whilst also absorbing 
+anthropogenic noise (Uebel et al., 2021). As cities densify and lose 
+vegetation, soundscapes become less audibly diverse and less biophonic 
+due to increasing anthropogenic sounds (Hasegawa et al., 2022; Joo 
+et al., 2011), likely reflecting the decline of sound-producing organisms 
+and the homogenization of urban animal communities. Vegetated spaces 
+can support plant and animal life in cities that are often characterized by 
+imperviousness and green space loss (Perillo et al., 2017). Vegetation 
+structural complexity — "the degree of heterogeneity in biomass dis­
+tribution in three-dimensional space" (Ehbrecht et al., 2021) — can be 
+an important predictor of urban biodiversity (Beninde et al., 2015).
+In the cognitive-psychological dimension, the soundscape concept 
+focuses on how an individual person perceives and experiences the 
+acoustic environment (Kang et al., 2018; Moebus et al., 2020). The in­
+ternational standard definition ((ISO 12913-1:2014)) defines a sound­
+scape as an acoustic environment that is perceived, experienced and/or 
+understood by one or more people in the respective spatial context. 
+While this standard provides a widely applied operational framework, 
+soundscape research more broadly is embedded in multiple epistemo­
+logical traditions, ranging from cognitive psychology and (eco)acoustics 
+to public health and urban planning. From this cognitive psychology 
+perspective, a soundscape exists specifically in the moment it is 
+perceived by an individual, where preferences for different sounds are 
+variable (Moebus et al., 2020). From a public health perspective, some 
+sounds (traffic, construction) can induce stress and anxiety, and are 
+considered “noise” with both temporary and permanent negative im­
+pacts on human health and associated social inequities ( Goines et al., 
+2007). Residents may seek out spaces that are quieter with lower levels 
+of noise pollution from traffic or construction. On the other hand, some 
+sounds (birds twitching, trees in the breeze, flowing water) can facilitate 
+calmness, stress recovery, nature connection, perceived restoration 
+(Berto et al., 2010; Francomano et al., 2022) and in turn enhanced 
+cognitive performance (Buxton et al., 2021). Thus, soundscapes are an 
+important dimension of urban landscapes that relate to perceptions of 
+nature and human health outcomes in cities (Radicchi et al., 2021).
+More recent conceptualizations of soundscapes in the humanities, 
+arts and social sciences consider the agency of more-than-human species 
+in the active shaping of shared acoustic worlds, and the responsibility 
+and ethical obligations of humans in the planning of those environments 
+(Ruiz Arana, 2021, 2024). This transdisciplinary perspective and 
+approach to soundscapes aims to de-center soundscape approaches that 
+narrowly focus on human interest and acknowledge that sounds can be 
+meaningful and have effects in a multiplicity of ways across species and 
+individuals (Ogden et al., 2013; Tsing, 2015). As Jordan Lacey proposes 
+in their reflection of ‘the posthuman listener’, “a soundscape is 
+more-than-human insofar as it always exceeds any one person’s appre­
+hension, while at the same time being differentiated by each sensing 
+body into a diversity of listening experiences … Accordingly, sensory 
+attentiveness – ‘the cultivation of skills for both paying attention to 
+others and meaningfully responding’ (Van Dooren et al., 2016) – is 
+positioned here as the ethical and practical foundation for understand­
+ing soundscapes” (Lacey, 2024: 274).
+Interdisciplinary research on soundscapes
+The various disciplinary work on soundscapes has resulted in a 
+diverse body of basic and applied research (Pijanowski, 2024). How­
+ever, there is still relatively little integrative, inter– and trans­
+disciplinary research on soundscapes. Green and blue space structure 
+and complexity likely influence how auditory sensory experiences relate 
+measures of human wellbeing to measured sounds of biodiversity 
+(Francomano et al., 2022) and thus more biophonic soundscapes (Fisher 
+et al., 2021). But very few empirical studies have linked health metrics 
+related to human-perceived sound of environmental characteristics (e. 
+g., green space complexity, landscape imperviousness) with biodiversity 
+metrics related to sound (Buxton et al., 2021; Markevych et al., 2017). 
+The analysis and systematic evaluation of soundscapes from a human 
+health perspective (e.g., ISO 12,913 series of standards (Sun et al., 
+2019)) is also still in its infancy. The Perceived Restorativeness Sound­
+scape Scale (PRSS) is one of the few attempts to evaluate the psycho­
+logical recovery of people through a soundscape (Payne & Guastavino, 
+2018). Analysis and evaluation are challenging as soundscapes cannot 
+be described by numerical metrics alone but depend largely on human 
+perception. Furthermore, while few studies have found correlations 
+between acoustic indices and perceived biodiversity (bird richness) 
+(Rozario et al., 2025), metrics that are used in ecoacoustics to quanti­
+tatively describe soundscapes may not necessarily reflect human per­
+ceptions. 
+Individual 
+characteristics 
+of 
+people 
+(e.g., 
+nature-connectedness, age, emotional state) may also mediate these 
+biodiversity–wellbeing effects (Marselle et al., 2021a, b). Thus, sound­
+scapes can have the same quantitative measured level but be perceived 
+very differently by the listener (e.g. 50 dB sound of bird call vs. machine 
+noise) (Jennings & Cain, 2013). Participatory methods and tools with 
+people such as citizen science, crowdsourcing and interactive workshops 
+are also important to assess and understand the influence of the auditory 
+environment on the individual (Payne & Guastavino, 2018). Trans­
+disciplinary approaches in research and praxis that integrate biodiver­
+sity, ecoacoustics and public health are lacking, but are needed to 
+measure and promote biodiversity, restorative experiences, and human 
+wellbeing in urban landscape planning and management.
+Several studies argue that solutions lie in integrating the concern for 
+soundscapes and focusing on positive effects of soundscapes into the 
+early stages of urban planning and green space design (Farina, 2014; 
+Jaszczak et al., 2021; Lippold & Lawrence, 2019). Yet, most research 
+continues to focus on traditional approaches to noise reduction, avoid­
+ance, and abatement (Chen et al., 2022), rather than on soundscapes as 
+the intersection of biodiversity conservation and human health. Never­
+theless, the soundscape approach is gaining attention as an innovative 
+method for urban planning with identifying, analyzing, and evaluating 
+existing soundscapes (Haselhoff et al., 2022; Hosseini & Kowkabi, 2023; 
+Jennings & Cain, 2013). Methods implemented include soundwalks, 
+surveys, measurements, mixed reality, and participatory tools (Chen 
+et al., 2022). For example, the ‘Sounding Brighton’ project, launched by 
+the Noise Abatement Society in the UK aims to strengthen the consid­
+eration of soundscapes in urban planning and to raise awareness among 
+M. Egerer et al. 
+Basic and Applied Ecology 90 (2026) 73–88 
+74 
+
+the public, stakeholders and policy makers (Lavia et al., 2012). Some 
+good practice examples at the site level exist, such as establishing pocket 
+parks to reduce noise in neighborhoods (Guo et al., 2023), to offer a 
+unique soundscape experience, and to blend elements of traditional 
+parks with vibrant public spaces (Jia et al., 2020; Steele et al., 2019a, b). 
+Despite such promising efforts, urban strategies for soundscape planning 
+are still generally missing in most cities. This calls for urban planning 
+measures that relate the topics of ecoacoustics, biodiversity and human 
+wellbeing from a soundscape perspective.
+Our research focuses on soundscapes as one quantifiable sensory 
+aspect of urban landscapes to predict the relationship between biodi­
+versity and human restoration in urban areas (Markevych et al., 2017). 
+This relationship is relatively understudied from a combined research, 
+praxis, and public engagement perspective (Fig. 1). This study presents 
+workflows and methods that enable interdisciplinary research into the 
+social-ecological aspects of urban soundscapes. Our questions are: (1) 
+How are the characteristics of urban soundscapes related to urban green 
+space and their proximal structural complexity, as well as to local 
+biodiversity (here, the activity and richness of bird vocalisations)? (2) 
+How are urban soundscapes related to human acoustic comfort and 
+restoration? (3) Where are places with high biodiversity, acoustic 
+comfort and restoration effects? And (4) How can such spaces be fairly 
+promoted in urban planning and administrative processes? To answer 
+these questions, we integrate methods from ecoacoustics and environ­
+mental psychology, as well as urban planning and management with the 
+goal to develop recommendations for city planners and policy makers on 
+how to design green spaces that can promote both biodiversity and 
+human wellbeing.
+The purpose of this article is to present the initial phase in which we 
+tested and integrated diverse methods including acoustic indices, spe­
+cies detection, vegetation surveys, soundwalks, and community partic­
+ipation to assess their feasibility and complementarities. We position 
+this work as exploratory: while some of our research questions are 
+addressed empirically with pilot data here, others are explored through 
+preliminary insights and other studies. Together, these outcomes aim to 
+provide a foundation for developing an interdisciplinary framework for 
+future research. We demonstrate how we tested methods to characterize 
+soundscapes, and to quantify the relationships among biodiversity in 
+green spaces with a focus on birds, vegetation structural complexity, as 
+well as a method to measure soundscape perceptions and restoration. In 
+addition, we provide first suggestions for public engagement that inte­
+grate biodiversity and wellbeing promotion to identify good practice 
+examples that can inform tools to enhance the integration of biodiversity 
+and wellbeing in urban planning and green space management. We 
+reflect on our approaches and make recommendations for their 
+improvement for future soundscape studies. With the rise of interest in 
+social-ecological studies in basic and applied urban ecology, the purpose 
+and strength of this manuscript is in the methods and concepts presented 
+that we hope to be a valuable contribution to an interdisciplinary 
+ecological audience.
+Methods
+In our pilot project we conducted a case study in the city of Munich, 
+Germany. Here we focus on the methodological framework of the pilot 
+project, in which we explored methods that relate biodiversity, sound­
+scapes and human restoration metrics (Fig. 1). Munich is a relatively big 
+city of Germany with 1.64 million inhabitants in an area of 311 km2 
+Fig. 1. Conceptual diagram of the relationships among the social-ecological dimensions of urban soundscapes. Urban soundscape characteristics likely are influenced 
+by urban green space vegetation structure, which in turn influences biodiversity. Furthermore, urban soundscapes relate to dimensions of acoustic comfort and 
+human wellbeing (restoration). Key for urban planning is to identify places of high biodiversity, acoustic comfort and restoration with positive effects on human 
+wellbeing that can be equitably promoted in planning and sound-based policies. Graphic by Sophie Arzberger.
+M. Egerer et al. 
+Basic and Applied Ecology 90 (2026) 73–88 
+75 
+
+(Statistisches Amt München, 2025) that also offers a variety of urban 
+land uses with distinct environmental features as well as green spaces 
+established during different time periods that are characteristic of many 
+central European cities (e.g., English gardens, pocket parks, multifunc­
+tional parks). We established a consortium consisting of academic 
+research institutions, civil society organizations and municipal admin­
+istration to study how soundscapes vary across urban green space and 
+built infrastructure (or ‘gray space’) gradients. Here we briefly describe 
+our study system and methods in inter– and transdisciplinary research, 
+and how we have approached the analysis of biodiversity and human 
+restoration data. Our primary aim was to test the feasibility and 
+complementarity of multiple methodological approaches rather than to 
+provide comprehensive ecological results. The choices of timing, scale, 
+and sample size were therefore made to balance methodological breadth 
+with practical feasibility.
+Establishment of study sites
+Munich has a long history of urban green space development 
+including parks and gardens of various ages, sizes and structural char­
+acteristics as well as human use (Landeshauptstadt München, 2020). To 
+investigate such effects on biodiversity and wellbeing, we established 93 
+research sites (44 research plots in 33 green spaces (Arzberger et al., 
+2024), 14 city squares (Fairbairn et al., 2024), and 32 reference point 
+locations in the built surroundings (‘REF’) within the central ring (inner 
+city) of Munich as our study system (Fig. 2). The research plots represent 
+a gradient of local vegetation structural complexity as well as urban 
+landscape context and, except for the reference points, were located at 
+least 300 m in distance between one another to reduce spatial auto­
+correlation (Fontana et al., 2011).
+Green space structural complexity, bird diversity and soundscapes
+To collect information about vegetation structural complexity and 
+diversity, soundscape characteristics and bird diversity, we piloted the 
+combination of using mobile laser scanning (MLS) with passive acoustic 
+monitoring in urban green spaces (parks) and city squares. The vege­
+tation structure was recorded in each of the green space plots and city 
+square plots using a hand-held MLS (ZEB HORIZON, GeoSLAM Ltd, UK; 
+see Arzberger et al. (2024) for full description of methodology). Vege­
+tation structural complexity was assessed within a 15 m radius around 
+each recorder. We chose this plot size for MLS data collection due to the 
+small size of the squares and because the MLS delivers high-resolution 
+data only on a small scale and is not an appropriate method to cover 
+larger spatial scales. Furthermore, we focused on smaller scale vegeta­
+tion features here as previous studies on vocal bird diversity in Munich 
+using similar acoustic methods showed the importance of local vegeta­
+tion features within 100 m rather than the surrounding landscape (i.e., 
+based on NDVI in larger buffers of up to 1 km; Fairbairn et al., 2024, 
+2025b). Potential limitations around overall habitat complexity and 
+landscape connectivity are discussed below, and subsequent phases of 
+the project will incorporate larger spatial buffers and landscape 
+composition and connectivity measures.
+The raw data was processed using the manufacturer-specific soft­
+ware GeoSLAM Connect (version 2.2.0) and the open-source software 
+CloudCompare (CloudCompare, version v2.13.alpha, https://www. 
+danielgm.net/cc/, France). The processed data was analyzed with the 
+software R (version 4.2.6), using RStudio (version 2023.12.1) and the R- 
+package lidR (Roussel et al., 2020). To characterize the vegetation 
+structural complexity of each plot, we calculated ten MLS-metrics hy­
+pothesized to predict soundscape characteristics as well as (bird) 
+biodiversity (Table 1). With these vegetation structure metrics, several 
+of which were correlated, we performed a principal component analysis 
+(PCA). The vegetation metrics on the principal components (PCs) were 
+computed to assess which vegetation metrics contributed the most to 
+their respective PCs. Two principal components were calculated to 
+represent vegetation volume and height (PC1) and vegetation vertical 
+structural heterogeneity, from the low shrub layer to higher canopy 
+layer (PC2). The scores of PC1 and PC2 were extracted for each research 
+plot to be used as explanatory variables in our analysis.
+Fig. 2. Research sites in the inner city of Munich, Germany (as delineated by black line) where sound recordings took place (circles, squares, diamonds) as well as 
+soundwalk routes took place (colored lines). Graphic by Sophie Arzberger.
+M. Egerer et al. 
+Basic and Applied Ecology 90 (2026) 73–88 
+76 
+
+We conducted continuous 24-h acoustic recordings within each of 
+the research plots during two recording rounds of seven days each in all 
+study sites including urban green spaces, city squares and reference 
+points (Round 1: 11.08.2023 – 18.08.2023; Round 2: 24.08.2023 – 
+30.08.2023 (168 h of recordings for each plot)). We recorded in August 
+as part of our coordinated pilot phase; we acknowledge that bird vocal 
+activity often peaks in spring and early summer, however we can still 
+measure the vocal bird community for a relative assessment across 
+sampled sites. Relating vegetation structure to acoustic indices in this 
+dataset is therefore exploratory and provides information on bird 
+vocalization and thus bird communities in the time we surveyed. We 
+used passive acoustic monitoring devices from Frontier Lab (BAR & BAR 
+LT) placed three to four meters above the ground on lamp posts or trees 
+depending on available infrastructure and physical conditions. Re­
+cordings were taken at a sample rate of 48 kHz, a bit depth of 16 and a 
+gain of 40 dB (Fairbairn et al., 2024b). During preliminary analyses we 
+identified that one site was dominated by running water in a nearby 
+fountain; this site was removed from the analyses. At two sites, data 
+storage was compromised, and no data could be retrieved. Analyses 
+were based on 90 sites.
+From the collected acoustic data, we derived four different acoustic 
+indices to characterize the urban soundscapes (Fairbrass et al., 2017). 
+This included the Acoustic Diversity Index (ADI), Acoustic Evenness 
+Index (AEI), Bioacoustic Index (BI), and the Normalised Difference 
+Soundscape Index (NDSI) (Table 2). Hourly means were calculated for 
+all indices for the entire recording period (168 recording hours per site) 
+using the seewave and soundecology packages in their default settings in R 
+(Sueur et al., 2008; Villanueva-Rivera & Pijanowski, 2018). In addition, 
+we subset the data to focus on daytime (diurnal) soundscapes where 
+organisms of focus (vocal birds) are most dominant as well as when 
+people are most likely to experience soundscapes (04:00 to 20:00).
+We derived local songbird biodiversity using BirdNET, a deep arti­
+ficial neural network that can identify vocal bird species by call in 3-s 
+segments (Kahl et al., 2021). Bird vocal activity was analyzed using 
+BirdNET Analyzer, with overlap 0, sensitivity 1, and i including week of 
+the year and location for species filtering via BirdNET and eBird. We 
+followed the settings for BirdNET suggested by Fairbairn et al. (2025a)
+to produce the highest dataset resolution to validate results, keeping 
+only detections with a confidence of 0.8 or above. BirdNET detections 
+were validated by checking species detected ten times or fewer across all 
+sites and those detected only one time per site were removed for being 
+considered incidental and not resident to the site. We then calculated 
+alpha diversity (vocal bird species richness), a vocal Shannon’s Diversity 
+index (a standardized index that measures species diversity), and bird 
+species vocal activity rate (VAR; P´erez-Granadados et al., 2019) for each 
+site for each recording round. VAR was used for the calculation of vocal 
+Shannon’s Diversity.
+To test for differences in vocal bird diversity and soundscape indices 
+between urban green spaces, city squares, and reference points, we 
+applied the Kruskal–Wallis test followed by pairwise Wilcoxon rank-sum 
+tests as post hoc analyses, as not all variables were normally distributed. 
+We built generalized linear models to test the relationships between 
+vegetation structural complexity (PC1, PC2) and the four soundscape 
+acoustic indices derived from the acoustic recordings. Response values 
+Table 1 
+Selected example of structural metrics and their units derived from MLS data and 
+used to create principal components that represent different aspects of vegeta­
+tion structural complexity, as well as potential hypothesized relevance to bird 
+diversity.
+Metric
+Explanation
+Units
+Relevance for bird 
+diversity
+Canopy Cover
+Ratio between the 
+canopy pixels 
+(threshold height of 
+3 m) and the total 
+number of pixels 
+within the canopy 
+height model. 
+Indicates how much 
+of the area is 
+covered by the 
+canopy.
+Percentage (%)
+Canopy cover 
+influences habitat 
+availability, 
+protection from 
+predators, and 
+nesting sites for birds. 
+Higher canopy cover 
+can support more bird 
+species.
+Mean Height
+The average height 
+of all points in the 
+point cloud. 
+Provides an 
+indication of the 
+general vertical 
+structure of the 
+vegetation.
+Meters (m)
+Taller vegetation can 
+provide nesting 
+opportunities for 
+different bird species 
+and support greater 
+vertical stratification 
+in habitats.
+Box 
+Dimension
+A measure of 
+structural 
+complexity 
+calculated using 
+fractal geometry. 
+Higher values 
+indicate more 
+complex structures 
+within the point 
+cloud (Seidel, 
+2018).
+Dimensionless
+Structural complexity 
+is associated with 
+diverse microhabitats 
+and resources, which 
+attract a variety of 
+bird species with 
+different ecological 
+needs.
+Gini 
+Coefficient
+Measure of 
+statistical 
+dispersion to 
+describe the vertical 
+distribution of the 
+vegetation. The 
+Gini coefficient can 
+be used to quantify 
+the density of 
+understory 
+vegetation and the 
+asymmetry of the 
+vertical vegetation 
+profile.
+Dimensionless 
+(0–1)
+Height inequality 
+reflects vertical 
+habitat 
+heterogeneity, which 
+can support diverse 
+bird species by 
+providing various 
+feeding, nesting, and 
+roosting 
+opportunities.
+Clark-Evans 
+Aggregation 
+Index
+A metric indicating 
+spatial point 
+distribution: values 
+〈1 suggest 
+clustering, values =
+1 indicate random 
+distribution, and 
+values 〉1 suggest 
+regular spacing.
+Dimensionless
+Aggregation patterns 
+of vegetation 
+influence the spatial 
+distribution of birds. 
+Clustered vegetation 
+can support bird 
+species that prefer 
+dense habitats, while 
+regular spacing may 
+favor those needing 
+open areas.
+Point Density
+Ratio between the 
+number of points in 
+the point cloud and 
+the number of 
+points in a 
+predefined cylinder 
+based on the plot- 
+specific maximum 
+canopy height. 
+Provides insight 
+into vegetation 
+density.
+Percentage (%)
+Dense vegetation 
+often correlates with 
+increased availability 
+of cover and food 
+resources, which 
+attract more birds and 
+provide protection.
+Density at 
+DBH
+Ratio between the 
+point density of the 
+diameter at breast 
+Percentage (%)
+The density of 
+vegetation within 1 to 
+2 m from the ground 
+Table 1 (continued)
+Metric 
+Explanation 
+Units 
+Relevance for bird 
+diversity
+height layer (1–2 
+m) in comparison to 
+the point density of 
+the layer with the 
+maximum point 
+density. Related to 
+the shrub and 
+understory layer
+(e.g., shrubs) can be 
+important for birds 
+that forage or nest 
+near the ground or on 
+tree trunks (e.g. 
+woodpeckers, small 
+passerines.
+M. Egerer et al. 
+Basic and Applied Ecology 90 (2026) 73–88 
+77 
+
+were the hourly values for all sites from the entire recording period (7 
+days, 168 recording hours per site) and then the average value per site. 
+All analyses were performed in the R Statistical Environment version 
+4.4.3.
+Soundwalks to measure soundscape perceptions, acoustic comfort, and 
+restoration
+We carried out a feasibility study to test a method to conduct 
+“soundwalks” to measure soundscape perceptions, acoustic comfort, 
+mood and restoration. In environmental psychology and acoustic 
+soundscape research, the soundwalk methodology is a research method 
+for investigating environmental sounds, in which human participants 
+stop along a defined route, consciously listen to the acoustic environ­
+ment, and evaluate the soundscape according to different standardized 
+question 
+sets 
+(Behrendt, 
+2018). 
+We 
+conceptualized 
+two 
+German-language questionnaire variants based in the DIN ISO/TS 12, 
+913–2 conceptual framework that links soundscape experience to 
+human restoration for data collection.
+The questionnaire had the following main components: (1) an ‘affect 
+grid’ (9 × 9 square grid) to evaluate two different dimensions of mood 
+states: horizontal dimension: pleasure or displeasure (from left to right; 
+1–9) and vertical dimension: arousal versus sleepiness, where arousal 
+refers how “activated” someone feels (from bottom to top; 1–9) (Russell 
+et al., 1989); (2) standardized soundwalk questions following either 
+variant (i) DIN ISO/TS std 12,913–2 (ISO/TS 12913-2, 2018) or variant 
+(ii) “Perceived Restorativeness Soundscape Scale” (PRSS) (German-­
+language translation) following Payne (2013); (3) a graphical query of 
+ones’ relation to nature (Kleespies et al., 2021); (4) two questions on 
+disturbing or perceived restorative ambient sound; and (5) sociodemo­
+graphic questions. Part 2 asked how soundscapes and multisensory as­
+pects are experienced including questions to be answered on a Likert 
+scale, including: “There is a lot for me to explore in this sound environment”; 
+“I find this sound environment fascinating”; “I like to spend time in sound 
+environments like this one”; “The sounds come together to create a harmo­
+nious sound environment”. The DIN ISO/TS 12,913–2 questionnaire 
+measures different psychoacoustic parameters, like sharpness, tonality, 
+roughness or fluctuation strength which can be correlate to the indi­
+vidual perception and assessment of environmental noise sources, e.g. 
+road traffic noise (ISO/TS 12913-2, 2018). Part 2 measures eight af­
+fective attributes will be used to calculate a rating in the main di­
+mensions of pleasantness and eventfulness. The second soundscape 
+questionnaire was the German non-validated translation of the PRSS, 
+which consists of 44 items, rated by a 9-point Likert Scale (0 = not at all; 
+9 = completely). The scale is designed to assess perceptions of a 
+soundscape’s potential to provide psychological restoration based on the 
+attention restoration theory by Kaplan and Kaplan (1989).
+For both questionnaires, different psychoacoustic indicators can be 
+calculated that related to the restorative potential of environmental 
+soundscapes. The survey was available either via a paper-based ques­
+tionnaire or smartphone. We then conducted qualitative interviews after 
+the soundwalk with volunteers to ask for their feedback to improve the 
+quality of the soundwalks for the future. The pilot survey in the original 
+German format as well English translation (note: the survey was only 
+conducted in German) can be found in Appendix A, 1.1.
+We tested the soundwalk design in three different green spaces in 
+Munich (Fig. 2) over six soundwalks with 27 volunteer residents that 
+were recruited using posters and flyers in local businesses, social 
+network platforms, and networks of civil society organizations. The 
+feasibility study enabled us to test tools (surveys, site selection, route 
+design) and to study how residents perceive soundscapes. The three 
+soundwalk study sites were selected from the same sites as 2.2. to 
+represent different green space contexts of varying structural complexity 
+and biodiversity (Fig. 2): Westend Park (lower structural complexity), 
+Luitpoldpark (middle structural complexity), and Englisher Garten (high 
+structural complexity). Along these routes, participants stopped for five 
+minutes in three to four listening locations as well as a reference control 
+area, such as subway stations that were the initial meeting point for the 
+walks and completed the survey questions. Each of the listening loca­
+tions were also respective data collection points for structural 
+complexity data as well as acoustic monitoring. The routes ranged from 
+1.6 to 3.3 km and were 60 to 90 min in duration.
+Data were collected and managed using REDCap (Research Elec­
+tronic Data Capture) hosted at the Department of Medical Information 
+Processing, Biometry, and Epidemiology – IBE at LMU Munich. REDCap 
+is a secure, web-based software platform designed to support data cap­
+ture for research studies, providing: (1) an intuitive interface for vali­
+dated data capture; (2) audit trails for tracking data manipulation and 
+export procedures; (3) automated export procedures for seamless data 
+downloads to common statistical packages; and (4) procedures for data 
+integration and interoperability with external sources (Harris et al., 
+2009, 2019). For data analyses, we summarized all soundwalk ques­
+tionnaires per listening location across all respondents. For the affect 
+grid, we calculated the frequency of each x- and y-values for each 
+listening spot and soundwalk track from the 9 × 9 square grid. Because 
+of the two dimensions (positive/negative affect and arousal/sleepiness) 
+both dimensions were accumulated separately. A neutral emotional 
+state is represented in the center of the grid. Any positive feelings are 
+characterized by a high value in dimensions. For the DIN-ISO ques­
+tionnaire as well as for the PRSS questionnaire, different acoustic indices 
+for restoration can be and were calculated (e.g., traffic noise or 
+Table 2 
+Description of the three acoustic categories (biophony, geophony, anthro­
+phony), based on e.g., Krause (2013) and Pijanowski et al. (2011), and the four 
+acoustic indices calculated here to characterize the urban soundscapes in study 
+sites in Munich, based on Fairbrass et al. (2017): the Acoustic Diversity Index 
+(ADI), Acoustic Evenness Index (AEI), Bioacoustic Index (BI), and the Normal­
+ised Difference Soundscape Index (NDSI).
+Acoustic information or 
+index
+Description
+Biophony
+Acoustic signals produced by non-human 
+organisms (e.g., bird song, insect stridulation, 
+mammal calls). In our analysis, these were 
+primarily detected in the mid-frequency range 
+(~2–10 kHz), where most avian and insect 
+vocalizations occur.
+Geophony
+Non-biological natural sounds generated by 
+geophysical processes (e.g., wind, rain, flowing 
+water). These were typically concentrated in lower 
+frequencies (<2 kHz for wind and water flow) but 
+can overlap with higher bands during rainfall.
+Anthrophony
+Human-produced sounds associated with human 
+activities including mechanical, industrial, and 
+social activity (e.g., traffic, aircraft, voices, 
+construction). These can dominate low to mid 
+frequencies (typically 20 Hz–2 kHz for traffic and 
+machinery) but also can extended into higher 
+frequencies for human speech (~0.3–6 kHz), 
+especially in cities.
+Acoustic Diversity Index (ADI)
+ADI measures the diversity of frequency and 
+amplitude distribution between a distinct time 
+window; it is based on Shannon Diversity Index 
+(SDI).
+Acoustic Evenness Index (AEI)
+AEI measures the concentration of dispersion of 
+energy amongst frequency bins; like the ADI but 
+uses Gini-coefficient instead of SDI (Reserve ADI).
+Bioacoustic Index (BI)
+BI measures the amplitudes in the biophonic 
+frequency range of 2–10 kHz; it is a function of 
+both amplitude and number of occupied frequency 
+bands (in 1 kHz steps) between a defined frequency 
+range. Values are relative to the quietest 1 kHz 
+frequency band; higher values indicate greater 
+disparity between the loudest and quietest bands.
+Normalised Difference 
+Soundscape Index (NDSI)
+NDSI measures the ratio of amplitudes within the 
+ranges of biophonic (2–10 kHz) and anthrophonic 
+(1–2 kHz) sounds, estimates anthropogenic 
+disturbance.
+M. Egerer et al. 
+Basic and Applied Ecology 90 (2026) 73–88 
+78 
+
+fascination).
+Interactive and participatory approaches
+In parallel, we piloted small-scale interactive and participatory ap­
+proaches designed to engage residents with sound environments, to raise 
+awareness of soundscapes, and to test the feasibility of integrating more 
+interactive practices into soundscape research. Here we tested partici­
+patory mapping methods, citizen science for acoustic data on bird song 
+and interactive activities to qualitatively engage people in the moni­
+toring, learning and shaping of their urban soundscapes. With these 
+formats, we wanted to explore the contribution of biodiverse environ­
+ments to urban soundscapes as experienced directly by people through 
+their emotional and multisensory encounters with sounds and subse­
+quent sound-based biodiversity. In addition, we sought to raise aware­
+ness of people’s capacity and role in designing health-promoting 
+soundscapes that support human wellbeing but also connect to the needs 
+of other species. While not systematically evaluated in this phase, 
+qualitative feedback indicated strong public interest, and we discuss 
+these preliminary outcomes as inspiration for future, more structured 
+interactive approaches below.
+We piloted the methods in an “Urban Sound Lab,” a free walk-in 
+workshop hosted at the BIOTOPIA Lab (Munich) on four separate days 
+in 2023. Publicity was done via social media (Instagram), press releases, 
+newsletters, and the museum’s event program, resulting in ~100 visi­
+tors. The main aim of the workshop was to trial the suitability of the 
+participatory formats from participant and scientist perspectives, using 
+visitor feedback regarding the usability and exploratory observation of 
+the process. The three interactive stations were offered: (1) participatory 
+soundscape mapping using qualitative methods; (2) an immersive audio 
+station; and (3) an introduction to citizen science digital tools to monitor 
+and crowd source acoustic data on soundscapes.
+With the participatory mapping exercise, we followed an analogous, 
+multisensory oriented participatory cartographic approach (Fagerholm 
+et al., 2021; Korpilo et al., 2023) by asking people to spatially locate, 
+name and evaluate the visual and audible qualities that make up 
+favorable and unfavorable acoustic environments in the city of Munich 
+from their actual experiences. For this we used a physical map on which 
+participants could mark places with a sticker and attach a written 
+description as to how the specific place sounds to them as well as their 
+emotional state when they are there. We analyzed these text responses 
+using structuring qualitative content analysis (Mayring, 2014; Kuckartz, 
+2014). This approach involves systematically coding responses into 
+thematic categories that are either theory-driven (from prior literature) 
+or emerge inductively from the material. Codes are then aggregated into 
+categories, and their presence and frequency are assessed as indicators 
+of subjective relevance. This method was chosen because it allows 
+ecologically oriented data (place, sound type) to be meaningfully com­
+bined with experiential and affective dimensions, producing both 
+qualitative depth and semi-quantitative indicators that can inform 
+planning and ecological research.
+With the immersive audio station, we exposed people via head­
+phones connected to a digital platform with a range of acoustic re­
+cordings taken across Munich. Here we used two types of soundscapes 
+that were presented to participants: (i) more ‘natural’ soundscapes 
+(selected from our acoustic recording database for having relatively 
+more biophonic sounds including bird song within green spaces in 
+Munich (Fairbairn et al., 2024)); (ii) more ‘urban’ soundscapes (selected 
+from our acoustic recording database for having relatively more 
+anthrophonic sounds including traffic and construction within gray 
+spaces in Munich Fairbairn et al., 2024). We then asked participants to 
+record voice messages that qualitatively describe what they hear and 
+how it makes them feel. Here the participants did not get any specifi­
+cations, other than to record their feelings freely to learn about the 
+descriptive words that people use to capture soundscapes and their 
+sensations towards them. People were also allowed to listen to responses 
+from other participants as a way of building a sense of the city as a 
+shared soundscape that can be experienced very differently based on 
+personal perceptions and experiences. The qualitative analysis of the 
+audio recordings followed Saldana (2013). The mentioned words were 
+classified into the categories “High stress”, “Moderate stress” and “No 
+stress” and into “Positive”, “Neutral” and “Negative”. As a follow-up, we 
+asked people to complete a survey including demographic information, 
+an affect grid (as in 2.3) and some questions regarding the methodology 
+of the station itself.
+With the citizen science digital tools station, we offered an interac­
+tive introduction to digital apps and platforms that people can use to 
+collect acoustic data on soundscapes around the world. As an example, 
+we used the citizen science Dawn Chorus Project (see: https://dawn-ch 
+orus.org/). We introduced participants to the Dawn Chorus App and 
+taught them how to document 60-s soundscape recordings, as well 
+encouraged them to explore the Dawn Chorus soundmap – a virtual map 
+of global citizen science recordings of early morning birdsong, with 
+many examples from Munich to engage with the recordings made locally 
+in Munich. Collectively, these formats provided different modes of 
+listening to soundscapes with different emphasis on the aspects of 
+technology and citizen science in soundscapes.
+Results
+Vegetation structural complexity, soundscapes and bird diversity
+A total of 15,624 h of recordings were collected across all study sites 
+with 168 h per site. The recordings captured 53 vocal bird species and 
+206,866 individual calls across all sites, with an average of 28 distinct 
+vocal bird species per site and 476 vocalizations per hour across all sites. 
+The vocal Shannon Diversity Index ranged from 1.5 to 3.5, with an 
+average of 2.4 per site. The most vocally active bird species across all 
+sites included the Carrion Crow (Corvus corone), Short-toed Treecreeper 
+(Certhis brachydactyla), and Great Spotted Woodpecker (Dendrocopos 
+major) (Appendix A, 1.2).
+NDSI and AEI were higher in green spaces in comparison to REF sites, 
+but ADI was significantly higher in the REF sites (Fig. 3). There was no 
+significant difference in BI among urban green spaces, squares and REF 
+sites. The bird species richness was significantly higher in green spaces 
+compared to the other sites, but the difference between the squares and 
+REF sites was insignificant. We observed no significant linear relation­
+ship between the soundscape indices and the vegetation structure 
+(Fig. 4).
+Soundwalk feasibility, perceived soundscapes, acoustic comfort, mood and 
+restoration
+Fig. 5 provides an overview of a sample selection from the collected 
+data of the pilot study, including values of one item from ISO/TS 
+12,913–2, namely ‘traffic noise’ (a; response to “To what extent do you 
+presently hear the following four types of sounds?: traffic noise (e. g. cars, 
+busses, trains, air planes)”), as well as a dimension of the Perceived 
+Restorativeness Soundscape Scale, namely ‘fascination’ (b; response to “I 
+find this soundscape fascinating”). Study participants reported that both 
+instruments were appropriate for the planned study on soundwalks and 
+the perception of the acoustic environment. The participants were able 
+to classify the standardized questionnaires, relate them to their envi­
+ronment and provide plausible assessments. However, when completing 
+the Perceived Restorativeness Soundsca
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

@@ -1,0 +1,858 @@
+Academic Editors: Benedetto
+Barabino, Saša Ahac, Josipa
+Domitrovi´c and Miroslav Vuji´c
+Received: 12 March 2025
+Revised: 28 May 2025
+Accepted: 28 May 2025
+Published: 1 June 2025
+Citation:
+Paydar, M.; Kamani Fard,
+A. Older Adults’ Walking Behavior
+and the Associated Built Environment
+in Medium-Income Central
+Neighborhoods of Santiago, Chile.
+Infrastructures 2025, 10, 137.
+https://doi.org/10.3390/
+infrastructures10060137
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Older Adults’ Walking Behavior and the Associated Built
+Environment in Medium-Income Central Neighborhoods of
+Santiago, Chile
+Mohammad Paydar 1,*
+and Asal Kamani Fard 2,*
+1
+Escuela de Arquitectura Santiago, Facultad de Ciencias Sociales y Artes, Universidad Mayor, Av. Portugal 351,
+Santiago 8330231, Chile
+2
+Departamento de Planificación y Ordenamiento Territorial, Facultad de Ciencias de la Construcción y
+Ordenamiento Territorial, Universidad Tecnológica Metropolitana, Dieciocho 390, Santiago 8330526, Chile
+*
+Correspondence: mohammad.paydar@umayor.cl (M.P.); akamani@utem.cl (A.K.F.)
+Abstract: The prevalence of car dependence and sedentary lifestyles has created concern
+in the transportation and health sectors. Walking is the most popular and practical kind
+of exercise that can significantly enhance health. In Chile, more than half of older adults
+have health issues and almost 72% of the elderly population never engages in physical
+activity. This study aims to investigate the relationship between older adults’ walking
+behavior and the built environment along the streets and parks in Santiago’s middle-
+income neighborhoods. Six medium-income central and pericentral neighborhoods of
+Santiago were selected. The average number of older persons who walk along the paths and
+two modified audit forms were used to measure walking behavior and built environment
+features, respectively. Both correlation analysis and backward regression were used to
+examine the associations. While elements like the existence of bus stops, pedestrian streets,
+and general cleanliness contribute to the enhanced number of older adults who walk along
+street segments, the presence of insecurity signs was found to be negatively associated
+with the number of older adults who walk in the neighborhood parks. Furthermore,
+complexity and mystery showed a negative association with the number of older adults in
+the neighborhood parks. Urban policymakers might use these findings to encourage older
+adults to walk more in Santiago’s medium-income neighborhoods.
+Keywords: older adults; walking behavior; built environment; parks; medium-income
+neighborhoods
+1. Introduction
+The preponderance of sedentary lifestyles and car dependence has raised concerns
+in both health and transportation fields [1]. Walking is among the most popular and
+practical of all physical exercises since it does not require any specific equipment, locations,
+or abilities and can be easily integrated into daily life [2–4]. Regular walking has been
+shown to significantly improve health by lowering the risk of obesity and stroke and
+enhancing bone health and cognitive function [5,6]. In addition, walking is essential for
+sustainable mobility, active living, and urban vitality [7–9]. Chile is one of the countries
+with the largest older adult populations in Latin America [10] and more than 82% of the
+older adult population in this country lives in urban areas in line with global trends [11,12].
+Furthermore, in Chile, older persons aged ≥65 years has a higher prevalence of physical
+inactivity than the younger age groups [13,14]. Almost 72% of the elderly population never
+Infrastructures 2025, 10, 137
+https://doi.org/10.3390/infrastructures10060137
+
+Infrastructures 2025, 10, 137
+2 of 22
+engages in physical activity, more than half (51.3%) have health issues that make it difficult
+for them to perform daily tasks, and less than 5% walk more than 14 blocks (almost 1.5 km)
+each day [15].
+In addition, there has been a growing focus on the built environment’s function in
+encouraging walking behavior, and related research has shown conclusively that built
+environment features can influence walking [16,17]. The built environment plays an im-
+portant role in the improvement in the walking behavior of older adults since they are
+more sensitive to the suitability of the built environment for walking than other people [16].
+The five D variables—Density, Diversity, Design, Destination accessibility, and Distance
+to transit—can be used to operationalize the characteristics of the macro-scale built envi-
+ronment [18,19]. Researchers usually focus on the individual’s duration and frequency of
+individual-level walking trips on the neighborhood scale [20] and the precise geographical
+contexts of individual walking trips are usually unknown in such studies. Accordingly,
+some studies concentrated on micro-scale streetscape elements (such as sidewalks and
+vegetation), emphasizing the value of aesthetic features and micro-design elements along
+paths in enhancing the walking behavior of older persons [21]. At the street level, these
+environmental factors are more accessible to investigate than at the neighborhood level.
+Given that numerous studies have shown that Chilean public places are inhospitable to
+senior citizens, the emphasis on the street scale becomes even more crucial [22–25]. More-
+over, population-level walking behavior, such as pedestrian volume in street segments, can
+provide a more precise picture regarding the geographical context of the built environment
+that influences the walking behavior of older adults. It also stimulates urban vitality more
+effectively in addition to bringing many social, economic, and environmental benefits [5,6].
+Furthermore, older individuals mostly use parks and plazas for their daily walking
+experiences, in addition to the streets and sidewalks. Several studies have examined how
+older persons walk in these areas [26]. According to Kaplan and Kaplan [27], pedestrians’
+visual preferences in such natural and semi-natural environments were typically assessed
+using the four visual qualities of legibility, complexity, coherence, and mystery [28–30]. The
+visual preferences of older persons along their pathways are likewise associated with their
+walking experiences in these semi-natural settings [21]. This study aims to investigate the
+relationships between older persons’ walking behavior and the related street-level built
+environment features in the central and pericentral communes of Santiago, Chile. These
+relationships are analyzed in the parks and plazas in the selected neighborhoods as well as
+on the sidewalks on streets. Additionally, it was demonstrated that these associations may
+be impacted by the socioeconomic status of neighborhoods [31]. To decrease the impact
+of neighborhoods with varying socioeconomic status on these relationships, this study
+focuses on medium-income neighborhoods in Santiago, Chile. The following are this
+study’s research questions:
+-
+What features of the built environment are linked to the number of senior citizens
+who walk along Santiago’s median-income neighborhood street segments?
+-
+Are there any design-related aspects associated with older persons’ walking behavior
+along neighborhood park pathways in Santiago’s median-income neighborhoods?
+-
+Which visual qualities associated with visual preferences are linked to older persons’
+walking behavior on local park pathways?
+2. Literature Review
+2.1. The Built Environment Factors Associated with the Walking Behavior of Older Adults
+According to ecological models and previous empirical studies, the built environment
+plays an important role in improving the walking behavior of older adults [32–34]. This
+is partly because older persons are more sensitive than other groups regarding the ap-
+
+Infrastructures 2025, 10, 137
+3 of 22
+propriateness of the built environment for walking [16]. This sensitivity comes from the
+vulnerability of older adults and their need for more suitability in built environments such
+as comfort-related aspects during walking. Previous studies have shown the associations
+of several built environment factors with the walking behavior of older adults, including
+population/housing density [35], access to different facilities and attractive places such as
+retail outlets and restaurants, as well as recreational spaces such as parks and playgrounds
+in Singapore, England, and the United States [36–38]; access to parks and green spaces in
+Latin American countries such as Brazil and Chile [39–41]; the presence of public transit
+facilities such as proximity to public transport/bus stops [42]; mixed land use in Canada,
+China, and Hong Kong [43–45]; the infrastructure and the functional aspects of walking
+environments, such as the presence of sidewalks, sidewalk width, sidewalk continuity,
+well-connected street network, street density, and topography [46]; walking facilities, such
+as sidewalk quality and benches [47]; safety, including both traffic safety and personal
+security [48,49]; perceived insecurity in Santiago, Chile [50]; the environmental features
+that relate to personal security/insecurity including street lighting, the presence of other
+people, signs of disorders, physical incivilities, and stray animals [39,51,52]; and perceived
+traffic safety as well as actual safety, including factors such as the percentage of street
+lengths with speed limits [42,53,54].
+Given the need to evaluate older persons’ walking experiences in urban public places
+with more attention, the aesthetic-and-design-related aspects of path context become
+especially important [49]. These aesthetic-and-design-related aspects of path context may
+help to create a more enjoyable walking experience [32] and such interesting or delightful
+daily walking experiences should be increased on a street scale to improve older persons’
+health. Numerous aesthetic-and-design-related factors of path context have been shown to
+be associated with the walking behavior of older adults including the presence of parks
+and green spaces and the presence of natural features [38,55,56]; trees along the walkways,
+front gardens, and levels of greenery [57–59]; littering along the sidewalks [59]; the type of
+building facades and their maintenance [52,60]; the visibility of landmarks, the degree of
+enclosure, the scale of street space and transparent facades [61]; the length of street sections,
+off-street parking lot spaces, building height, and articulation in building design in Temuco,
+Chile [62]; and greater pathway width, more vegetation, tranquility along the pathways,
+and more comfortable pathway environments for pets in Cautin Park, the biggest urban
+park in the Araucanian Region of Chile [21]. These aesthetic and design-related path context
+elements have been studied at both the street and neighborhood scales concerning older
+adults’ walking experiences. However, studies that concentrated on the street scale provide
+more accurate data about how these factors affect older adults’ walking experiences.
+Regarding the studies conducted in Chile on the walking behavior of older adults,
+Herrmann-Lunecke et al. [15] found that wide and unobstructed sidewalks, well-designed
+curb ramps, and pedestrian-friendly crossings encourage walking among older persons.
+Greenery, trees, benches, public restrooms, and public drinking fountains enhance their
+walking experience as well. In another study, Herrmann-Lunecke et al. [63], who investi-
+gated older persons walking behavior in central neighborhoods of Santiago, found that the
+presence/absence of greenery, the conditions of the facades, and the level of cleanliness
+of the streets affect older persons’ walking experience and can increase/diminish their
+willingness to walk. Also, damaged and poorly designed pedestrian infrastructure can
+cause fear, provoke accidents, and become serious hazards. Paydar and Kamani Fard [62],
+who examined the association between the built environment and the walking behavior
+of older adults in Temuco, Chile, found the associations between the walking behavior of
+older adults and several built environment factors including destination (the number of
+parks and the land use mix), functionality (street connectivity, length of street sections, and
+
+Infrastructures 2025, 10, 137
+4 of 22
+off-street parking lots), and aesthetics (views of nature, building height, and articulation in
+building design). Other problems that impede older individuals’ ability to walk in Chilean
+cities include poorly maintained, narrow sidewalks [64], unfriendly street crossings, and
+traffic lights with short pedestrian cycles [65]. Other studies have highlighted how the lack
+of services (e.g., public restrooms) and benches makes walking unpleasant [66]. Further-
+more, recent studies also showed an increase in perceived insecurity in different areas of
+Santiago during the pandemic [67]. Due to security issues, people in Santiago now avoid
+going out at night (87.5%), implement security measures in their homes (68%), or adjust
+their departure times (65.7%) [68]. Gajardo et al. [69] and Herrmann-Lunecke et al. [70]
+concluded that older people travel through Santiago, not because of the amenities they
+encounter but rather because of the support they receive from friends and family and the
+individual strategies they have developed to cope with the many obstacles they face.
+2.2. The Qualities That Contribute to Visual Landscape Preferences
+There is evidence from experimental and empirical studies that exposure to natural
+surroundings and urban greenery is associated with restoration from stress and mental
+fatigue [71–73]. The scientific underpinnings for this restorative impact of engagement with
+the natural environment and urban greenery are provided by “Psycho-Physiological Stress
+Reduction Theory” and “Attention Restoration Theory” [74]. According to the “Psycho-
+Physiological Stress Reduction Theory,” people who are under significant amounts of
+stress may benefit from exposure to nature, such as views of natural environments since
+it can help them feel happier [75,76]. As per Kaplan and Kaplan [27], the “Attention
+Restoration Theory” posits that involuntary attention to rich and captivating stimuli in
+natural environments might enhance performance in demanding cognitive tasks.
+Studies on visual landscape preferences could also consider the relationship between
+walking experiences and environmental design elements. One of the most important theo-
+ries in visual landscape preference research [77,78] is information-processing theory, which
+argues that two fundamental human reactions to an environment—the need to compre-
+hend and the need to explore—determine a scene’s preference. Kaplan and Kaplan [27]
+argue that four important information variables—complexity, coherence, mystery, and
+legibility—determine users’ preferences for visual landscapes. These four important visual
+preference predictors provide information to understand why people prefer such environ-
+ments and how comfortable people are in such places. Zhang [30] found that the most
+favored visual images in public areas are influenced by specific landscape elements includ-
+ing vegetation, such as trees, seasonal flowers, and open grassland, as well as elements of
+perceived landscape aesthetics, such as coherence and legibility. Cheng [28] discovered
+that visual landscape preferences are influenced by four aspects of perceived landscape
+aesthetics: complexity, mystery, coherence, and legibility. Moreover, studies on restorative
+environments have revealed the role of urban nature in increasing the restorative potential
+of urban settings as well as the preference for natural overbuilt urban settings [79,80].
+According to Pazhouhanfar et al. [81], perceived restorativeness in urban natural settings
+was positively explained by coherence, complexity, and mystery. These visual qualities
+might also influence older adults’ walking behavior in local parks.
+2.3. Walking Behavior and Socioeconomic Status (SES)
+Physical activity and the socioeconomic condition of the neighborhood can be signifi-
+cantly correlated [82]. By reviewing 17 studies, Adkins et al. [31] concluded that socioe-
+conomic status likely influences how the built environment affects walking and physical
+activity. People who lived in supportive built environments were more likely to walk and
+be physically active than those who did not, and neighborhoods with higher socioeconomic
+
+Infrastructures 2025, 10, 137
+5 of 22
+levels had more walking amenities [31]. On the other hand, neighborhoods with lower
+income levels are more likely to have low-quality micro-scale features [83]. Despite being
+among the most prosperous countries in the area, Chile continues to rank among the most
+unequal in Latin America [84]. Herrmann-Lunecke et al. [84] found that respondents who
+lived in low-income districts in Santiago reported feeling four times more stressed than
+those who lived in high-income neighborhoods, highlighting the lack of green spaces and
+trees in these areas. According to Paydar and Kaman Fard [85], compared to Temuco’s
+higher-income neighborhoods, there are many more pathways in lower-income areas that
+people avoid when walking. The inequality, which is apparent in several Chilean cities, em-
+phasizes how the socioeconomic level of neighborhoods influences walking behavior and
+the social and built environment aspects that are associated with it. Therefore, it is prefer-
+able to control the influence of socioeconomic level on such assessment when analyzing the
+correlations between walking behavior and the street-scale built environment.
+2.4. The Literature Review-Based Research Gap
+According to the literature review, even though previous studies worldwide demon-
+strated the importance of 5D-related variables (Density, Diversity, Design, Distance to
+Destination Accessibility, and Distance to Transit) in the walking behavior of older adults,
+the studies conducted in Chile demonstrated the greater significance of the aesthetic-and-
+design-related aspects of path context concerning the walking experience of older adults
+due to the general lack of appeal of public spaces for walking among older adults in Chile.
+The population-level walking behavior of senior citizens along the streets and paths of
+local parks could be used to assess this. Additionally, the significance of specific urban
+design elements—such as legibility, complexity, coherence, and mystery—that are linked to
+visual preferences in nearby parks encourages research on the connections between these
+elements and how older adults walk along park pathways. Furthermore, it is necessary to
+adjust for the impact of socioeconomic status on the connections between older individuals’
+walking habits and the related built environment characteristics. To lessen the impact of
+neighborhoods with varying socioeconomic status on these relationships, this study selects
+the neighborhoods with a medium level of socioeconomic status.
+3. Methodology
+Santiago is the capital and largest city of Chile and one of the largest cities in the
+Americas. It is located in the country’s central valley and is the center of the Santiago
+Metropolitan Region, which has a population of seven million, representing 40% of Chile’s
+total population. Even though Chile is one of the wealthiest nations in Latin America,
+there is still a great deal of inequality in the country, with the wealthy enjoying high living
+standards while the rest of the country lags far behind. Six neighborhoods were selected
+for this study from a map of Santiago neighborhoods with median income status located in
+the central and pericentral communes of this city (Figure 1). These neighborhoods have
+a high proportion of middle-income individuals in terms of their socioeconomic status.
+The city center is home to the selected neighborhoods of “Barrio Universitario”, “Barrio
+Yungai”, “Barrio Lastarria”, and “Barrio Brazil”. The remaining neighborhoods, such
+as “Villa Portales” and “Villa Olimpica”, are located in the surrounding districts of the
+city center.
+Founded as a colonial town in 1541 using a square grid of peripheral blocks, Santiago
+Center was the earliest developed area of the city [86]. Town planning was governed by
+these rules, which also governed the social, political, and economic facets of the Spanish
+colonies. According to these rules, Santiago Center was designed with a rectilinear grid of
+118 × 118 m blocks and 10.25 m-wide roadways [86]. Beginning in the 20th century, road-
+
+Infrastructures 2025, 10, 137
+6 of 22
+ways were paved and pedestrian and vehicle traffic was segregated to improve the safety
+and speed of motorized transportation [86]. In Santiago Center, sidewalks are typically
+paved with cement, asphalt, or tiles and range in width from 2.50 to 4 m, with exceptions
+where sidewalks can be as wide as 6 m.
+ 
+Figure 1. Map of Santiago, Chile, and the six selected neighborhoods from the central and pericentral
+communes.
+With respect to street audit, firstly, different audit tools—developed in different con-
+texts around the world—were considered including the Irvine–Minnesota Inventory (I–M),
+Walking Suitability Assessment Form (WSAF), Pedestrian Environment Data Scan (PEDS),
+Systematic Pedestrian and Cycling Environmental Scan (SPACES), Walkable Places Survey
+(WPS), and Analytic Audit Tool. By comparing and adjusting the previously mentioned
+audit tools within this context, it was found that the Pedestrian Environment Data Scan
+(PEDS) is a more appropriate audit tool to measure built environment factors of street
+segments in our context [87]. This is because the majority of environmental factors included
+in this kind of audit are strongly linked with the environmental variables shown by the
+selected neighborhoods in this study. As a result, the factors along the street segments were
+measured using the PEDS as the foundation. Inter and intra-rater reliability of items in the
+instrument has previously been found to be high [87]. However, the PEDS was modified
+by adding some items taken from the Systematic Pedestrian and Cycling Environmental
+Scan (SPACES) due to certain requirements in this context. For example, “maintenance of
+green spaces”, “building height”, and “surveillance (visibility) from the windows” were
+taken from the SPACES and incorporated into the PEDS. Inter and intra-rater reliability of
+items in the SPACES instrument has previously been found to be high as well [88]. Finally,
+a factor called all signs of insecurity—which includes all physical and social aspects of
+insecurity observed in the selected neighborhoods—was added to the audit tool because
+of the recent decline in perceived security in Santiago and the failure to measure social
+aspects of insecurity through factors like overall cleanliness. To offer this item with all
+of these likely indicators of insecurity that exist in the segments, we conducted an ob-
+servation to collect all of the observed signs of insecurity in the selected neighborhoods.
+These signs of insecurity were graffiti with unpleasant messages; abandoned buildings
+with an unpleasant appearance; vacant/undeveloped land; the presence of drunken, street
+people, or aggressive people; and finally stray dogs. There were forty-two items in the final
+audit instrument.
+
+Infrastructures 2025, 10, 137
+7 of 22
+Within a 400 m radius of the geometric center of each selected neighborhood, which
+is the acceptable distance used in several studies to measure the effects of environmental
+factors on walking [89,90], trained auditors carried out an objective environmental audit on
+each segment—both sides—by filling in a modified version of the Pedestrian Environment
+Data Scan (PEDS) as explained previously. Data were collected from March to July of
+2024. In all the neighborhoods that were selected, 494 street segments and 36 park or
+plaza segments were labeled. The parks were small neighborhood parks and two of the
+selected neighborhoods lacked any parks or plazas. A reliability audit was conducted
+where three field auditors re-audited the segments of each zone. All the items, except
+three—which showed low inter-rater reliability (kappa < 0.40)—had moderate to high inter-
+rater reliability (kappa > 0.40) [91]. The items with low inter-rater reliability were excluded
+from the summary environmental measures. These items are “sidewalk completeness”,
+“the level of front yard gardens,” and “the percentage of blind walls in the segment”. The
+final thirty-nine items—used for summary measures (Table 1)—are related to destinations
+including the presence of different types of destinations (6 items), land use mix (3 items),
+functionality including the design of the walkway’s structural features (9 items), design of
+the street’s structural features (7 items), design related to permeability (street connectivity)
+(1 item), safety, including traffic safety (4 items), personal security (3 items), and finally
+aesthetics of the streetscape (9 items).
+A simplified audit tool was used concerning the parks and plaza paths in the selected
+neighborhoods. Since they are absent from parks and plazas, a number of the criteria that
+were measured in the street segments were first eliminated from the audit tool. Second,
+several components’ values were modified to reflect their situation in parks and plazas.
+One component was created in the audit in this regard since, for example, the walkways in
+Chilean parks and plazas might be classified as either “having pavement” or “without pave-
+ment”. Third, the audit tool was updated to include a few park and plaza-related elements
+that had been clarified by previous studies. These factors were “number of benches”, “the
+level of shade”, “visual connections with landmarks,” and “visual connections with water”.
+Thus, the surrounding environment includes the park environment surrounding
+the pathway, which includes both spatial and visual dimensions, such as the degree of
+enclosure and visual connections with water. Pathway attributes, on the other hand, refer
+to the characteristics of the pathway itself within or along its boundaries, such as pavement,
+width, and number of benches. Pathway characteristics were measured using an approach
+similar to that of the street segments. It was modified, nevertheless, by several current park
+environment assessment instruments [92–94]. Each pathway section was traversed by the
+observer, who noted its characteristics. Three observations were made of each pathway
+segment. There were eighteen items in the final audit instrument. A reliability audit was
+conducted where three field auditors re-audited the segments of each zone. All the items
+had moderate to high inter-rater reliability (kappa > 0.40). These items—used for summary
+measures—are shown in Table 2.
+Concerning the measurements of the four primary visual qualities along the routes
+(legibility, coherence, complexity, and mystery), we talked with three experts in the field
+of urban planning about the description of the qualities and the criteria to assess them.
+Table 3 outlines the consensus standards for each visual quality [95,96]. We then asked
+these three experts to judge the level of each walkway by walking down it and using the
+criteria for each visual quality. The final degree of each visual quality was determined
+using the average measurements made by these three experts along every path.
+
+Infrastructures 2025, 10, 137
+8 of 22
+Table 1. The summary measures regarding the built environment through audit instruments in the street segments.
+Domain
+Variable (Factor)
+Variable Description
+Mean
+(in Total Zones) [SD]
+Destinations
+Presence of destinations (access
+to destinations)
+Housing
+1 = present, 0 = not present
+0.67 [0.47]
+Office/institutional
+1 = present, 0 = not present
+0.15 [0.39]
+Restaurant/café/commercial
+1 = present, 0 = not present
+0.31 [0.49]
+Industrial
+1 = present, 0 = not present
+0.09 [0.28]
+Vacant/undeveloped
+1 = present, 0 = not present
+0.07 [0.25]
+Parks and plazas
+1 = present, 0 = not present
+0.23 [0.42]
+Diversity
+Mixed land use
+The proportion of segments with the mix of residential
+and commercial land uses to the whole street segments in
+each buffer
+0.37 [0.48]
+The proportion of segments with the mix of residential
+and institutional land uses to the whole street segments
+in each buffer
+0.17 [0.37]
+The proportion of segments with the mix of residential,
+institutional, and commercial land uses to the whole
+street segments in each buffer
+0.09 [0.28]
+Functionality (Design)
+Walkway’s structural features
+Presence of a pathway for pedestrians
+1 = present, 0 = not present
+0.91 [0.28]
+Quality of pavement
+1 = poor, 2 = fair, 3 = good
+2.29 [0.54]
+Sidewalk width
+1 < 4 feet, 2 = between 4 and 8 feet, 3 > 8 feet
+1.60 [0.59]
+Physical barriers/path obstructions
+1 = present, 0 = not present
+0.48 [0.50]
+The buffer between the road and the path
+1 = present, 0 = not present
+0.77 [0.42]
+
+Infrastructures 2025, 10, 137
+9 of 22
+Table 1. Cont.
+Domain
+Variable (Factor)
+Variable Description
+Mean
+(in Total Zones) [SD]
+Curb cuts
+1 = none, 2 = 1–4, 3 > 4
+1.70 [0.85]
+Slope
+1 = slight hilly, 0 = flat
+0.11 [0.31]
+Amenities (All types)
+1 = present, 0 = not present
+0.43 [0.49]
+Presence of benches
+1 = present, 0 = not present
+0.26 [0.43]
+Street’s structural features
+Low volume street
+1 = yes, 0 = no
+0.71 [0.45]
+High volume street
+1 = yes, 0 = no
+0.22 [0.41]
+Wayfinding (are there wayfinding aids?)
+1 = yes, 0 = no
+0.79 [0.40]
+On-street parking
+1 = parallel or diagonal, 0 = none
+0.50 [0.50]
+Off-street parking lot spaces
+1 = yes, 0 = no
+0.20 [0.40]
+Presence of bicycle lanes (are there bicycle lanes
+on the segment?)
+1 = yes, 0 = no
+0.11 [0.30]
+Presence of bus stations
+1 = yes, 0 = no
+0.16 [0.36]
+Permeability (street connectivity)
+Street connectivity
+1 = the segment with two intersections, 0 = dead end
+0.94 [0.24]
+Safety
+Traffic safety
+Traffic control devices
+1 = present, 0 = not present
+0.64 [0.48]
+Crossing aids
+1 = present, 0 = not present
+0.43 [0.49]
+Posted speed limit
+1 = present, 0 = not present
+0.03 [0.15]
+Crosswalks
+1 = none, 2 = 1–2, 3 = 3–4, 4 > 4
+1.68 [0.64]
+Personal security
+Surveillance (visibility) (can be observed from a
+window, verandah, porch, and garden)
+1 = can be observed from less than 50% of buildings
+2 = can be observed from between 50–74% of buildings
+3 = can be observed from more than 75% of buildings
+2.18 [0.68]
+
+Infrastructures 2025, 10, 137
+10 of 22
+Table 1. Cont.
+Domain
+Variable (Factor)
+Variable Description
+Mean
+(in Total Zones) [SD]
+Roadway/path lighting
+1 = yes, 0 = no
+0.95 [0.22]
+Presence of all signs of insecurity whether
+physical or social aspects
+1 = yes, 0 = no
+0.78 [0.41]
+Aesthetics of the Streetscape
+Number of trees
+1 = non for very few, 2 = some, 3 = many/dense
+2.06 [0.65]
+Presence of flowers
+1 = yes, 0 = no
+0.19 [0.39]
+General cleanliness (can you see trash, graffiti,
+broken windows, discarded objects, etc.?)
+1 = none or almost (no trash/bad
+graffiti/broken facilities)
+2 = yes, a little (little trash/bad graffiti/broken facilities)
+3 = yes, a lot (a lot of trash/bad graffiti/broken facilities)
+1.72 [0.58]
+Maintenance and cleanliness of green spaces
+1 = poor (much litter/ no grass cutting)
+2 = fair (some litter/grass cutting in some places)
+3 = good (no litter/grass cutting in many places)
+2.18 [0.55]
+Building maintenance
+1 = poor (much unrepaired and unmaintained facade
+is observed)
+2 = fair (to some extent, the unrepaired and
+unmaintained facade is observed)
+3 = good (unrepaired and unmaintained facade is
+not observed)
+2.32 [0.52]
+Building height
+1 = short, 2 = medium, 3 = tall
+1.77 [0.61]
+Articulation in building designs
+1 = little or no articulation, 2 = some articulation,
+3 = highly articulated
+1.82 [0.62]
+Public art (is there public art that is visible in this
+segment?)
+1 = yes, 0 = no
+0.37 [0.47]
+Degree of enclosure
+1 = little or no enclosure, 2 = some enclosure,
+3 = highly enclosed
+2.02 [0.71]
+
+Infrastructures 2025, 10, 137
+11 of 22
+Table 2. The summary measures of the park’s attributes through the audit instrument.
+Variable (Factor)
+Variable Description
+Mean
+(in Total Zones) [SD]
+Floor material
+1 = pathway with pavement (concrete)
+0 = pathway without any specific pavement (with sand)
+0.67 [0.47]
+Quality of pavement
+1 = good, 0 = fair
+0.69 [0.46]
+Sidewalk width
+1 < 4 feet, 2 = between 4 and 8 feet, 3 > 8 feet
+1.97 [0.44]
+Physical barriers/path obstructions
+1 = present, 0 = not present
+0.44 [0.50]
+Slope
+1 = slight hilly, 0 = flat
+0.25 [0.43]
+The presence of flowers
+1 = present, 0 = not present
+(flowers planted in any form and any amount was considered)
+0.50 [0.50]
+Number of benches
+1 = no benches
+2 = 1–3 benches
+3 = 4–7 benches
+2.69 [0.58]
+The level of shade
+1 = the shaded area is less than 30% of the pathway
+2 = the shaded area is between 30%and 70% of the pathway
+3 = the shaded area is more than 70% of the pathway
+(the degree of shade is measured by the percentage of shade (projected on the ground) to
+the total area of the pathway segment for all the pathways between 10:00 a.m.–11:00 a.m.
+on sunny days)
+2.00 [0.54]
+Visual connectivity with landmarks
+1 = yes, 0 = no
+0.81 [0.40]
+Visual connectivity with water
+1 = yes, 0 = no
+0.36 [0.48]
+Presence of bicycle lanes (are there bicycle lanes on the segment?)
+1 = yes, 0 = no
+0.17 [0.37]
+Number of trees
+1 = many/dense, 0 = few/some
+0.53 [0.50]
+Maintenance and cleanliness of green spaces
+1 = poor (much litter/no grass cutting)
+2 = fair (some litter/grass cutting in some places)
+3 = good (no litter/grass cutting in many places)
+2.28 [0.56]
+Public art (is there public art that is visible in this segment?)
+1= yes, 0 = no
+0.31 [0.46]
+Degree of enclosure
+1 = no lateral visibility (the entire lateral sightlines are blocked on both sides)
+2 = moderate lateral visibility (the lateral sightlines are interrupted at some parts of the
+pathway on both sides)
+3 = continuous lateral visibility (the lateral sightlines are not interrupted on the whole
+pathway on both sides)
+1.78 [0.79]
+Presence of all signs of insecurity whether physical or social aspects
+1 = yes, 0 = no
+0.47 [0.50]
+
+Infrastructures 2025, 10, 137
+12 of 22
+Table 3. The indicators for measurements of the visual qualities.
+The Visual Quality
+The Indicators for Measurements
+Coherence
+Unity or harmony in color and texture along the pathways
+Complexity
+Variety of objects, shapes, colors, and textures along the pathways
+Legibility
+Visual access along the pathways and the visibility of the landmarks along the pathways
+Mystery
+The presence of places with limited visual connectivity with surroundings along the
+pathways and the number of obstructing elements along the pathways
+Furthermore, pedestrian flows were surveyed using a technique called “gate counts”,
+which consists of setting up a series of imaginary lines (or gates) in the urban space and
+then counting the number of people passing in both directions through these lines [86]. The
+researcher stood in the middle of a pathway segment during the observations and counted
+the number of pedestrians who crossed an imaginary line at the researcher’s position,
+which was perpendicular to the pathway’s direction. Digital counters were utilized by the
+observer to keep track of how many people were passing the gate. We conducted the on-site
+observations over two months in March and April 2024. Four randomly chosen weekdays
+and two weekend days were chosen each week for observations. For management conve-
+nience, we divided observations into two sessions, the morning period and the evening
+period. For every street segment and park path, we made 20 rounds of observations. Each
+segment was observed for two minutes in each observation round. Thus, each pathway
+segment was observed 20 times, each time for two minutes. Table 4 shows the mean and
+standard deviations of the number of senior citizens for the roadway segments and parks
+in all the selected neighborhoods.
+Table 4. The summary measures of the number of older adults in the street segments and the
+pathways along the neighborhood parks.
+Variable (Factor)
+Variable Description
+Mean
+(in Total Zones) [SD]
+In the Street Segments
+In the Pathways of Parks
+Number of older adults
+Continuous
+5.92 [5.8]
+25.70 [32.30]
+Finally, SPSS software version 23.0 was used to analyze the data. To implement a
+model validation technique, the street segments were randomly divided into training
+(70%) and testing (30%) subsets before the modeling process [97,98]. The walking behavior
+associated with street segment l is considered to be a linear combination of its physical
+attributes (Xn,l):
+f l = a0 +
+N
+∑
+n=1
+anXn,l
+Initially, the distribution of f l was examined. The second step was to find the Pearson
+univariate correlations between each street feature and f l. Third, a calculation was made
+of the inter-correlation matrix of the Pearson correlations between the street features. To
+limit potential multicollinearity, if the inter-correlation between two street features was
+larger than half (i.e., r > 0.5), only the street feature with the highest correlation with
+f l was retained for additional analysis. Then, all retained street features were added as
+independent variables to the multivariate model. A stepwise backward procedure was
+used to determine the independent variables for the final model (i.e., exclusion criterion:
+pout > 0.05). Each link characteristic was estimated by the final multivariate model’s
+unstandardized (B) regression coefficients, which can then be used to model older adults’
+walking behavior. In addition, the associations between the average number of pedestrians
+
+Infrastructures 2025, 10, 137
+13 of 22
+observed and the features of the pathway design in the park segments were also examined
+using correlation analysis. This is because there are only 36 path segments in all of the parks
+in the selected neighborhoods which restricted regression analysis from being performed.
+4. Results
+4.1. Relationships Between Older Adults’ Walking Behavior and Street Segments’ Characteristics
+The results show that average numbers of older adults are significantly larger on
+pathways with certain design characteristics. Table 5 shows these pathway design fea-
+tures that significantly correlate with the average of older persons who walk in the street
+segments. The adjusted R2 of the multivariate linear model is 0.204. This shows that the
+independent variables explain 20.4% of the variance in older adults’ walking behavior.
+According to the findings, there are more elderly pedestrians when there are more benches.
+The number of older adults has a negative association with both low- and high-volume
+streets when compared to pedestrian streets. This demonstrates that when there are no cars
+on the road, elderly individuals walk a lot more. According to functional considerations,
+the presence of bus stops and orientation tools results in a higher proportion of elderly
+pedestrians who walk. Among the parameters that are connected with the number of senior
+pedestrians, the presence of bus stations has the highest coefficient. There are also more
+elderly pedestrians where parks and plazas are present. The number of elderly pedestrians
+is inversely correlated with mixed land use, which is determined by the proportion of office
+and residential land uses. Finally, among aesthetic considerations, the quantity of elderly
+pedestrians is strongly correlated with overall cleanliness and the availability of flowers.
+Table 5. The results of backward regression analysis for predicting the number of older adults along
+the street segments (N = 494).
+Variables
+B
+Std. Error
+Functionality (Design)
+Walkway’s structural features
+Presence of benches
+0.667 *
+0.332
+Street’s structural features
+Low volume street
+−1.349 *
+0.563
+High volume street
+−1.246 *
+0.629
+Existence of bus stations
+1.503 **
+0.402
+Are there any orientation aids?
+0.783 *
+0.404
+Destinations
+Access to destinations
+Presence of parks and plazas
+0.686 *
+0.346
+Diversity
+Mixed land use: residential + office
+−0.917 *
+0.372
+Aesthetics of the streetscape
+General cleanliness
+0.560 *
+0.256
+Presence of flowers
+0.842 *
+0.350
+* p < 0.05; ** p < 0.01. Dependent variable: average number of older adults in the street segment; adjusted R
+square: 0.204.
+4.2. Relationships Between Older Adults’ Walking Behavior and the Pathways in the Parks
+and Plazas
+Table 6 shows the features of park pathways that have a significant association with the
+average number of senior citizens using the parks’ pathways in the selected neighborhoods.
+As previously mentioned, four out of the six selected neighborhoods have parks at the
+neighborhood level, while the other two lack any parks or plazas. The table shows that
+the number of elderly pedestrians in parks and plazas is negatively associated with the
+existence of any indications of insecurity. Additionally, the number of senior citizens as
+pedestrians in the local parks has a positive association with the pathways’ enclosure level.
+
+Infrastructures 2025, 10, 137
+14 of 22
+Finally, among the visual attributes, the number of elderly pedestrians has a negative
+correlation with complexity and mystery. Among the factors linked to the number of
+elderly pedestrians in the local parks, mystery also has the greatest negative correlation
+(correlation: −0.536).
+Table 6. The results of Pearson correlation analysis between the average number of older adults and
+the characteristics of parks’ pathways (N = 36).
+Average Number of
+Older Adults
+Safety (personal
+security/insecurity)
+Presence of all signs of insecurity
+Pearson correlation
+−0.362 *
+sig. (2-tailed)
+0.030
+N
+36
+Aesthetic
+Enclosure level
+Pearson correlation
+0.323
+sig. (2-tailed)
+0.050
+N
+36
+Visual Qualities
+Complexity
+Pearson correlation
+−0.367 *
+sig. (2-tailed)
+0.028
+N
+36
+Mystery
+Pearson correlation
+−0.536 **
+sig. (2-tailed)
+0.001
+N
+36
+** Correlation is significant at the 0.01 level (2-tailed). * Correlation is significant at the 0.05 level (2-tailed).
+5. Discussion
+5.1. The Variables Linked to the Number of Elderly People Who Walk in the Street Segments
+The first research question in this study was to identify the built environment variables
+that are linked to the number of elderly pedestrians in street segments. Bus stations have
+a favorable relationship with the average number of elderly pedestrians. According to
+Jia et al. [42], closeness to bus stops and public transportation was the characteristic most
+strongly linked to older persons’ walking behavior. Bus stations serve as an attraction
+for older pedestrians, increasing their walking rates in the selected neighborhoods. This
+research shows that older pedestrians depend on buses for their daily travels. Therefore,
+the bus transit system should be strengthened by the city’s transportation and urban
+policymakers to encourage elderly persons in Santiago’s middle-class neighborhoods to
+walk more.
+Additionally, the number of elderly pedestrians in the street segments is inversely
+correlated with both low- and high-volume streets when compared to pedestrian streets.
+Compared to low-volume street segments (70.6%) and high-volume street segments (22.3%)
+in the selected neighborhoods, pedestrian streets make up a small portion of all street
+segments (7.1%). Nonetheless, elderly people prefer to use pedestrian-only streets rather
+than sidewalks on the roadways. This may have to do with senior pedestrians’ safety
+worries when they are in front of cars or even more comfortable pedestrian situations made
+possible by the route’s low vehicle density. Previous studies have demonstrated that older
+people’s walking behavior in both macro- and micro-scale walking environments is related
+to the safety-related features of crossing the streets [48,49]. Older individuals’ walking
+habits are positively correlated with the proportion of streets with speed limits [42,53]. In
+
+Infrastructures 2025, 10, 137
+15 of 22
+Santiago, Chile, Herrmann-Lunecke et al. [15] found that pedestrian-friendly crossings
+promote walking among senior citizens. One of the issues that hinder older people’s
+capacity to walk in Chilean cities is unfriendly street crossings and traffic signals with short
+pedestrian cycles [65]. To encourage older people to walk in Santiago’s medium-income
+areas, this study highlights the necessity of creating or expanding pedestrian streets in
+addition to the necessity of improving safety-related aspects along the streets.
+Additionally, there was a favorable correlation between the number of elderly pedestri-
+ans and the presence of benches. Previous studies in various countries have frequently noted
+the use of a bench to improve older people’s walking [99,100]. For example, Herrmann-
+Lunecke et al. [15] found that the walking experience of senior citizens in Santiago, Chile, is
+enhanced by the availability of benches, public restrooms, and drinking fountains. Walking
+is unpleasant when there are no benches, according to other studies [66]. These results
+are supported by this study as well. Moreover, the presence of signs at each intersection
+showing the names of the streets reinforces older people’s walking behavior. The presence
+of these signs helps elderly people find their way more easily when they are walking, and it
+usually helps visitors rather than locals. This result demonstrates that the elderly residents
+of the selected communities also depend on these signs to guide their walking around.
+This might have something to do with the gradual loss of spatial and directional skills that
+come with aging [101]. Older persons are more likely to rely on navigational signals when
+walking because their ability to do so is weakening with age.
+Furthermore, there is a favorable correlation between the presence of parks and plazas
+and the number of elderly pedestrians. According to earlier research, older
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

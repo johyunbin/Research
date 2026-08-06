@@ -1,0 +1,1268 @@
+Citation: Paydar, M.; Kamani Fard,
+A.; Gárate Navarrete, V. Design
+Characteristics, Visual Qualities, and
+Walking Behavior in an Urban Park
+Setting. Land 2023, 12, 1838.
+https://doi.org/10.3390/
+land12101838
+Academic Editors: Richard Smardon
+and Maria Ignatieva
+Received: 21 July 2023
+Revised: 19 September 2023
+Accepted: 21 September 2023
+Published: 26 September 2023
+Copyright:
+© 2023 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed
+under
+the
+terms
+and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+land
+Article
+Design Characteristics, Visual Qualities, and Walking Behavior
+in an Urban Park Setting
+Mohammad Paydar 1,*
+, Asal Kamani Fard 2
+and Verónica Gárate Navarrete 1
+1
+Escuela de Arquitectura Temuco, Facultad de Ciencias Sociales y Artes, Universidad Mayor,
+Av. Alemania 0281, Temuco 4780000, Chile; veronica.garate@umayor.cl
+2
+Departamento de Planiﬁcación y Ordenamiento Territorial, Facultad de Ciencias de la Construcción y
+Ordenamiento Territorial, Universidad Tecnológica Metropolitana, Dieciocho 161, Santiago 8330383, Chile;
+akamani@utem.cl
+*
+Correspondence: mohammad.paydar@umayor.cl; Tel.: +56-990-618-894
+Abstract: The design characteristics of urban parks’ pathways are important in facilitating leisure
+walking and maintaining the minimum rate of physical activity, thus improving public health. This
+study examined and explored the relationships between design characteristics as well as certain visual
+qualities of Cautin Park, the biggest urban park in the Araucanian Region of Chile, and the tendency
+for walking as well as walking behavior. A mix of quantitative and qualitative methods was used to
+examine the objectives. Several design attributes were found to be related to the tendency for walking
+and the walking behavior in this urban park, including greater pathway width, more vegetation,
+tranquility along the pathways, and more comfortable pathway environments for pets. Additionally,
+these correlations were assessed based on gender and age, and it was found that adolescents showed
+the greatest difference from other groups. For instance, adolescents walk signiﬁcantly more along
+pathways with more connectivity to activity zones. Among the visual qualities, only legibility shows a
+signiﬁcant correlation with the number of all types of pedestrians, as well as subgroups of adolescents,
+adult men, and adult women. These results were reviewed, and their implications were discussed.
+Urban planners and designers could apply these ﬁndings when designing future urban parks in
+this context.
+Keywords: urban park; pedestrian mobility; design attributes; visual qualities; Temuco; Isla Cautin Park
+1. Introduction
+Chile is a country with a high sedentary rates [1]. Nearly 35% of people aged >15 years
+in Chile are living with obesity [2,3]. Obesity-related health conditions are the top risk
+factor for death and disability [4]. Meanwhile, regular physical activity has multiple health
+beneﬁts [5]; thus, the level of physical activity should be improved in this country. Practiced
+by people of all ages worldwide, walking is an easily accessible physical activity [6] that
+contributes to maintaining the minimum rate of physical activity and improving physical
+health [7]. For instance, it is the most popular leisure-time physical activity among US
+adults [8]. According to ecological models, the built environment is an important factor
+that inﬂuences walking behavior [9,10]. Among the factors of the built environment, the
+presence of urban parks is an important factor in improving walking behavior, especially
+walking for recreation on the neighborhood scale [11,12].
+Walking in parks is primarily considered a type of leisure walking [13]. Recreational
+walking is closely related to the characteristics of the immediate environment [14]. Ac-
+cordingly, the design characteristics of urban parks’ pathways are important in facilitating
+leisure walking. In addition, previous studies have raised the importance of both Attrac-
+tiveness for walking and Walking behavior while considering leisure walking [15]. Thus,
+both of these aspects could be important when considering the association between the
+design-related attributes along the pathways and walking in the urban park’s pathways.
+Land 2023, 12, 1838. https://doi.org/10.3390/land12101838
+https://www.mdpi.com/journal/land
+
+Land 2023, 12, 1838
+2 of 23
+Age and gender are frequently found to be connected to walking when socio-demographic
+factors are taken into account [9,16–18]. Prior research has mainly focused on the relationship
+between various design elements along pathways and the walking behavior of people of
+a specific age, particularly older seniors [19], with reference to walking behavior along the
+pathways of urban parks. However, because age and gender are important factors, it is
+possible to evaluate this association simultaneously based on different age and gender groups.
+In addition, affordance theory contends that public spaces should be designed in a way that
+meets the needs of different users from different categories, including those based on age
+and gender, while taking related theories into account. It is important to understand the
+needs of these users of different ages and genders to design urban park pathways that can
+appropriately satisfy the expectations of different users.
+In addition, the criteria of landscape design give signiﬁcant weight to the concepts of
+visual quality and visual preference [20]. According to Daniel [21], landscape quality is a
+result of the interactions between a landscape’s features and how they affect people. The
+most important factor regarding the natural environment is its visual and/or landscape
+quality, and the attractiveness of recreational areas offered by urban parks is directly related
+to their visual quality [20,22]. Visual preference for a landscape is inﬂuenced by four main
+information variables, complexity, coherence, mystery, and legibility, according to Kaplan
+and Kaplan [23]. In natural or semi-natural settings, like urban parks, these attributes
+represent visual preferences along the routes. These elements also show up in the literature
+on urban design as characteristics of urban design that inﬂuence general walkability and
+walking behavior [24]. These four characteristics, which are crucial to the visual preference
+for a landscape, may therefore also be linked to walking behavior. Therefore, it is necessary
+to assess these key visual characteristics to comprehend the relationship between visual
+preference and walking behavior (Figure 1).
+Based on differences on age and 
+gender 
+The principal visual qualities along each 
+urban park pathway (coherence, complexity, 
+legibility, and mystery) 
+Physical/visual design attributes 
+along the urban parks 
+Walking preference/behavior in the urban parks´ 
+pathways 
+Figure 1. The conceptual framework.
+It is also hypothesized that age and gender may have an impact on how visual
+characteristics contribute to walking behavior. For instance, women typically steer clear of
+situations where crime is a possibility, and certain visual characteristics, such as legibility
+and mystery, may be linked to the probability of crime. Additionally, compared to other
+age groups, adolescents have a greater desire to explore their surroundings, and some
+visual elements, such as mystery, may better meet this need by increasing the likelihood
+that they will explore the paths. The link between visual preferences and walking behavior
+must therefore take into account the roles of age and gender (Figure 1).
+Cautin Park, with an area of 27.7 hectares, is the biggest urban park in Temuco and
+the region of Araucania, Chile. It attracts people from different parts of the city, who spend
+part of their recreational time in this park. As stated previously, the design aspects of the
+pathways in this park could play an important role in the improvement in the tendency to
+
+Land 2023, 12, 1838
+3 of 23
+walk, as well as the walking behavior of the inhabitants in this park, due to the importance
+of this park as the biggest park and the only urban park of this type in this city and the
+region. The local population’s health and level of physical activity would beneﬁt from this.
+The impacts of both design characteristics and visual qualities on improving walking
+behavior in urban parks have rarely been examined simultaneously in previous studies. The
+main objective of this study is to evaluate the relationship between design characteristics
+(as well as visual qualities) and pedestrians’ walking behavior (as well as their tendency
+to walk) in Cautin Park. This evaluation was carried out based on differences in age and
+gender. On this basis, the respondents were classiﬁed into the categories of adolescents,
+adults (male and female), and older adults (male and female). The conceptual framework
+of this study is shown in Figure 1. The main research questions of this study are as follows:
+-
+What pathway design characteristics are associated with the tendency to walk/walking
+behavior of pedestrians in Cautin Park? And how do age and gender affect these asso-
+ciations?
+-
+What visual qualities are associated with the walking behavior of pedestrians in
+Cautin Park? And how are these associations inﬂuenced by age and gender?
+2. Literature Review
+2.1. Walking for Recreation and Its Associated Built Environmental Factors
+Previous studies on the neighborhood scale have demonstrated the relationship be-
+tween walking for recreation and environmental factors, including land use mix [25]; the
+presence of walking trails [26]; infrastructure for walking, including the state of the footpath
+and the standard of its surface [27,28]; the proximity of recreational facilities [26,28]; the
+presence of accessible destinations (mostly services) like shops, parks, and beaches [27,29];
+the availability of public transit services, including factors like proximity to bus stops
+and public transportation [29,30]; nearby non-residential locations [31]; and perceived and
+actual trafﬁc safety, including elements like the percentage of street length with speed
+limits [26,29]; personal security, including less concern about crime [27,32]; and perceived
+neighborhood aesthetics, as well as the existence of aesthetic elements like the proportion
+of tree canopy coverage, the upkeep of walkways, cleanliness, and the view of the archi-
+tecture [26,27,33]. In addition, Borst et al. [15] evaluated the relationships between the
+perceived attractiveness of streets for walking and (physical) street characteristics. They
+found that three main aspects affect the perceived attractiveness of streets for walking,
+namely the tidiness of the street, its scenic value, and the presence of activity or other
+people along the street [15].
+2.2. The Contribution of Age and Gender to Walking Behavior
+Age and gender are directly associated with walking behavior, sometimes through the
+impact on the association between the built environment and walking behavior [17,34–36].
+Due to health and mobility problems that develop as people age, aging is inversely correlated
+with walking [17,18,34]. However, Paydar et al. [37] found a negative relationship between
+age and walking behavior in Temuco, Chile. According to studies by Harrison et al. [34] and
+Krogstad et al. [9], men walk much more than women. Giles-Corti and Donovan [38], for
+instance, discovered that women engage in less physical activity than men. Older women
+were less physically active, according to Mesters et al. [18], who sought to uncover socio-
+demographic and social-cognitive determinants of physical activity among Dutch women.
+Van Cauwen-berg et al. [39] examined the contribution of gender to the association between
+walking behavior and the built environment and discovered that women described their
+preference for walking more frequently and intensely when they found the environment more
+familiar and safer from crime.
+2.3. Walking Behavior and Its Contributing Factors in the Urban Park Environment
+Most design aspects related to walking behavior along pathways have been explored
+and examined on the neighborhood scale. Concerning the urban park setting, although
+
+Land 2023, 12, 1838
+4 of 23
+park pathways have been identiﬁed as important settings to encourage physical activity
+and walking [40], the relationships between the characteristics of the park pathways and
+walking behavior have rarely been considered in previous studies [19]. Compared with the
+neighborhood pathways, the aesthetics and comfort-related aspects were highlighted more
+than other aspects in the design of urban park pathways. Kaczynski et al. [40] found that
+parks with paved trails are more likely to be used for physical activity than those without
+paved trails. Zhai and Korca [19] evaluated the impacts of park design characteristics along
+the walkways on the walking behavior of older adults. They found that seniors prefer
+pathways that have soft and even pavement, benches, ﬂowers, and light ﬁxtures. Trails
+with soft pavement, the level of shade, the pathway width, the presence of benches, and
+the presence of ﬂowers and trees contribute to improving walking behavior in the urban
+park setting [19,41,42].
+In addition to the physical attributes along the pathways, the aspects related to path-
+way surroundings were also important to improve walking behavior on the neighborhood
+scale, as well as in the urban park setting [19,43]. The various aspects of path surroundings
+in these studies include visual interest, lateral visibility, the scale of street space, the visibility
+of landmarks along the pathways, the view of public gardens, the transparency of fronting
+structures, visible activity, street trees, the coherence of the built forms, and lighting [43–45].
+The enclosure type along the pathways contributes to improving walking behavior in
+natural and urban park settings [19,46]. Water has a positive impact on observers’ emo-
+tional state and the preference for walking as well [47]. According to Lynch [44], visual
+connection with landmarks may inﬂuence people’s walking movement [44,48]. Finally, the
+pathway’s connection with activity zones also inﬂuences the level of walking in the park
+environment [49].
+2.4. The Contribution of Path Context and Landscape Visual Preference to Enriching Walking
+Experiences
+The picturesque theory asserts that some spatial compositions and particular design
+elements elicit a more vivid aesthetic experience than other compositions [48]. The relation-
+ships between heightened aesthetic experience and speciﬁc design elements, such as the
+variety of open spaces connected by narrow and bending streets, the controlled view of
+spaces, the sense of enclosure, landmark objects as visual focal points, and complexity in
+the surfaces and details, were discovered by Isaacs, who supported this theory.
+The relationship between the design aspects of the environment and walking experi-
+ences could also be considered in studies on visual landscape preferences [50]. Information-
+processing theory, one of the most signiﬁcant theories in research on visual landscape
+preferences [51,52], suggests that the preference for a scene is dependent upon two basic
+human responses to an environment: the need to understand and a desire to explore.
+Information can be derived immediately from an environment or it can be inferred. Ac-
+cording to Kaplan and Kaplan [23], the four primary information variables, complexity,
+coherence, mystery, and intelligibility, inﬂuence preferences for visual landscapes. Coher-
+ence, complexity, legibility, and mystery—the four signiﬁcant environmental preference
+predictors—provide the knowledge to comprehend why people choose such places and
+how comfortable people are in one place [53]. Cheng [54] found that perceived landscape
+aesthetics contribute to visual landscape preference through four components: complexity,
+mystery, coherence, and legibility. Zhang [53] discovered that the most favored visual
+landscapes in public spaces include a combination of particular landscape elements, such
+as vegetation, trees, seasonal ﬂowers, and open grassland, as well as the elements of per-
+ceived landscape aesthetics, such as intelligibility and coherence. According to Polat and
+Akay [20], water surface area, widths of pedestrian walkways, the function of recreational
+areas, plant composition, plant color composition, and plant species diversity can positively
+affect the visual quality of a landscape area. Kaplan and Kaplan [23] deﬁned complexity as
+“the number of different visual elements in a scene”. According to Ewing and Handy [24],
+complexity is a measure of a location’s visual richness and is based on how many dis-
+
+Land 2023, 12, 1838
+5 of 23
+tinguishable differences a viewer is exposed to in a given amount of time. Duarte [55]
+discovered that complexity (more distinct types of landscape elements) implies a strong
+preference for the streetscape in the built environment.
+Coherence in a scene refers to its structure and organization, as well as its patterns of
+brightness, size, and texture. Mystery relates to a scene’s depth and the hidden qualities
+that may draw one closer to explore and gain more information. In earlier investigations
+of the natural environment, mystery and coherence were scored highly as predictors of
+preference [53]. However, Herzog and Kropscott [56] found that mystery is negatively
+correlated with preference in forest settings. Legibility helps people to understand an
+environment and “to comprehend and to function effectively” when the environment
+provides cues and landmarks that assist, for example, with wayﬁnding. These four variables
+are sometimes called “information variables” and have been suggested as predictors of
+landscape visual preferences [57–59]. These four variables have also been highlighted in the
+urban design literature as urban design qualities [24]. According to Lynch’s research [44],
+legibility in urban environments can be deﬁned as how easily a city’s components can
+be identiﬁed and arranged into a logical pattern. In the context of the city, he contends
+that legibility is essential [44]. According to Isaacs [48], it is more effective to improve
+pedestrians’ visual preferences when the pathway offers a balance between clarity, a variety
+of components, and interesting visual exploration. According to Ewing and Handy [24],
+these visual and perceptual aspects of urban design are also related to general walkability
+and walking patterns. Therefore, these key features, including coherence, complexity,
+legibility, and mystery, which are engaged in the pedestrians’ visual preference along each
+pathway, may also be related to the walking behavior along parks’ paths.
+2.5. The Contribution of Age and Gender in the Association between Visual Qualities along
+Pathways and Walking Behavior
+Previous research on visual preferences has demonstrated that age and gender also
+play a role in the relationship between physical characteristics and visual preferences.
+Balling and Falk [60] discovered a signiﬁcant relationship between the age component
+and various preferences. High naturalism was determined to be an essential landscape
+component for young (age 12–19) and middle-aged adults (age 19–65) but less so for elderly
+(age above 65) persons, according to Zube et al. [61]. They claimed that young and older
+persons valued the complexity of landforms more than other age groups, making it a
+signiﬁcant landscape feature. Additionally, the relationship between visual attributes and
+visual preference varies according to age and gender. Women, more than men, are sensitive
+to spatial conditions that evoke fear and react more strongly to it [62]. For instance, several
+academics have claimed that dense vegetation serves as a meeting place for criminals and
+fosters conditions that encourage criminal activity [63,64], which may go against women’s
+aesthetic preferences. This lets us also infer that visual qualities such as legibility and
+mystery, due to their relationships with fear, may function differently for visual preference,
+as well as the walking behavior of women. Additionally, compared to adults, adolescents
+are more curious to learn about their surroundings [65]. This could lead to the conclusion
+that the visual quality that would encourage more curiosity—such as mystery—could be
+more consistent with the visual preferences and walking habits of adolescents along the
+pathways of urban parks.
+3. Methods
+3.1. Case Study
+Temuco, the capital of the Araucania region, is a medium-sized southern city with a
+population of about three hundred thousand people, according to the 2017 census. The
+study was conducted in Cautin Park, which has an area of 27.7 hectares, making it the
+biggest urban park in Temuco and the region of Araucania (Figure 2). The park was
+developed within the framework of Chile’s Green Area Plan between 2015 and 2016,
+aiming to improve the quality of life of the inhabitants by improving the quality of public
+
+Land 2023, 12, 1838
+6 of 23
+spaces in terms of their ecological, cultural, and social values. This urban park attracts
+people of different ages from different parts of the city who spend part of their daily time
+on recreation. According to Paydar et al. [37], Temuco lacks several parks and plazas, and
+this urban park, which was inaugurated in 2022, was created in response to the lack of
+urban parks in Temuco.
+Figure 2. Location of the park in Temuco and in the Araucanía region.
+This park is situated close to the city’s historic core and is organized as a ring of
+six thematic squares connected by a central esplanade with views of the surrounding
+natural landmarks, like Ielol Hill. Plaza del Encuentro, which features an amphitheater
+for large gatherings; Plaza de las Tradiciones, which consists of a multipurpose esplanade
+and a soccer ﬁeld; Plaza de la Infancia, which is intended for children in their various
+developmental stages; the Memorial of Human Rights, which serves as a place to remember
+the political executions that took place under the military dictatorship; Plaza Del Medio
+Ambiente, which has picnic areas and a ﬂood area in case the river rises; and Plaza de los
+Deportes Urbanos, home to a BMX track, skatepark, and skating rink (Figure 3). These
+plazas are linked with a main circulation that surrounds the central esplanade, made up of
+a wetland, designed as a mitigation measure against eventual ﬂooding and that serves as a
+birdlife habitat. Additionally, the park’s core area (near to Plaza de la Infancia) has a place
+that resembles a native forest thanks to the abundance of native trees there. Figure 4 shows
+some images from different parts of this urban park.
+3.2. The Quantitative Approach
+This study includes all the pathways in the park, except for pathways that are too
+short (less than 3 m). A pathway segment, which is deﬁned as an individual pathway that
+begins from one intersection to another intersection and with no other intersections on
+it, is used as the unit of analysis. To avoid any kind of bias, the path segments related to
+the entrances were eliminated. In total, 39 pathway segments were recognized in Cautin
+Park. The gate method was used during our on-site observation to collect the walking
+behavior data [66]. The researcher stood in the middle of a pathway segment during the
+observations and counted the number of park visitors who crossed an imaginary line at
+the researcher’s position, which was perpendicular to the pathway’s direction [67]. Digital
+counters were utilized by the observer to keep track of how many people were passing
+the “gate.” We conducted the on-site observations over two months in November and
+December of 2022. Four randomly chosen weekdays and two weekend days were chosen
+each week for observations. For management convenience, we divided observations into
+two sessions, the morning period and the evening period. We conducted 30 rounds of
+
+Land 2023, 12, 1838
+7 of 23
+observations in Cautin Park. Each pathway segment was observed for two minutes in each
+observation round. Thus, each pathway segment was observed 30 times, each time for
+two minutes.
+ 
+Figure 3. Isla Cautín Urban Park with its different areas.
+ 
+ 
+ 
+ 
+Figure 4. Images of the urban park of Cautín Island (including the Memorial of Human Rights).
+Seniors are easier to identify compared to other age groups since they typically have
+more face wrinkles, slower walking speed, and shorter step length [68]. Seniors also have
+unique facial features, such as noticeable lateral pouches, according to Pitanguy et al. [69].
+Therefore, during the on-site observations, we identiﬁed seniors using the following criteria:
+the existence of prominent facial wrinkles, the appearance of white hair, short steps, or
+impaired motor skills.
+In this study, park design characteristics refer to all spatial and physical attributes
+that shape a park environment. The physical/visual attributes were selected based on the
+literature review. Pathway attributes refer to the features of the pathway itself within or
+along its boundaries, such as pavement, width, and the presence of benches. Pathway
+
+Land 2023, 12, 1838
+8 of 23
+surroundings include the park environment around the pathway, comprising spatial and
+physical dimensions, such as the degree of enclosure and visual connections with water.
+The pathway connection with activity zones refers to whether the pathway segment can
+direct users toward an activity zone. The activity zones are the places where pedestrians
+can engage in activities, such as activities at the child playground plaza and the activities
+in the food feria.
+Data on pathway design characteristics were collected through on-site observations.
+The protocol for measuring pathway characteristics was developed based on several exist-
+ing measurement tools for park environments [70–72]. Each section of the pathway was
+traversed by the observer, who noted its characteristics. Every pathway segment was seen
+twice, and the outcomes of the two observations were compared. If the measurements
+from the ﬁrst two rounds of observations were not consistent, a third round of observa-
+tions was made. The same observer made all the observations. The pathway length was
+calculated in AutoCAD 2019 (Version 23.0) software. In the ﬁnal process of the selection
+of design features, after the measurement of all variables along the park’s pathways, the
+design features, including the level of cleanness along the pathways, the type of pavement
+material, the pavement quality in terms of its maintenance, slope or stairs along the park
+pathways, the presence of obstacle/s along the pathways, and the level of grafﬁti, did
+not show variability along the different pathways of Cautin Park. For instance, all the
+pathways have the same pavement material, and there are no slopes or stairs along any
+of the pathway segments from our observations. Likewise, the two variables related to
+water elements, “water on the side” and “visual connection with water”, showed a lack of
+variability along the different pathways of Cautin Park due to the observation of just one
+waterfall along one pathway, which is visible just along the same pathway. Thus, all the
+aforementioned variables were excluded from further evaluation in the statistical process,
+since the variability is the prerequisite for the selection of the variables in our statistical
+models. In this way, the only remaining variable related to the pathway surfaces is the
+pathway pavement type, in terms of pathways with pavement (concrete) and unpaved
+pathways (covered by sand). The remaining 12 design features (variables), which showed
+variability along Cautin Park´s pathways, entered the statistical analysis. These pathway
+design characteristics, along with their types and measurements, are shown in Table 1.
+We discussed the description of the urban design qualities and the criteria to measure
+them with three experts from the ﬁeld of urban design concerning the measures of the four
+main visual qualities along the routes (legibility, coherence, complexity, and mystery). The
+consensus standards for each aspect of urban design are listed in Table 2 [73,74]. Then,
+based on the criteria for each visual quality, we asked these three experts to walk along
+each pathway and rate its level. These three experts’ average measurements throughout
+each pathway served as the basis for determining the ﬁnal level of each visual quality.
+3.3. The Qualitative Approach
+Regarding the qualitative approach of the study, we conducted 60 face-to-face inter-
+views with ﬁve groups of users—adolescents (12 persons), adult men (12 persons), adult
+women (12 persons), older adult men (12 persons), and older adult women (12 persons)—in
+Cautin Park to inquire about their preferred and disliked pathway design characteristics
+for walking. The main criterion for selecting the participants for the interview was that
+they should have a habit of leisurely walking in the park and thus that they can answer
+the questions based on their experience. One person from the research team approached
+the people present in the park based on the speciﬁed number in each group and, while
+introducing himself and the summary of this research, asked if that person was willing to
+be interviewed. He also asked about the possibility of audio recording from the respondent
+and performing the interview.
+The interview consisted of ﬁve questions: (1) Could you please show me where you
+usually walk? (2) What are the characteristics of these pathways that you like? (3) Which
+pathways in the park do you not use for walking? (4) Why? and (5) Would you please tell
+
+Land 2023, 12, 1838
+9 of 23
+me your age? Participants were given colored maps showing images taken along various
+park pathways to assist them in deciding which park places and pathways they liked and
+disliked. Each interview lasted between 10 and 15 min, and the data were entered using a
+data entry form.
+Table 1. Measurement of Park Pathway Design Characteristics.
+No
+Physical/Visual Design Attribute
+Type
+Measurements
+1
+Pathway pavement
+Categorical
+a. Pathway with Pavement (concrete)
+b. pathway without any speciﬁc pavement (with sand)
+2
+Pathway form
+Categorical
+a. Curving
+b. Straight
+(Curving pathways are those that are straight in direction but
+have curved boundaries.)
+3
+Presence of Benches
+Categorical
+a. No Benches
+b. 1–3 Benches
+c. 4–7 Benches
+4
+Presence of ﬂowers
+Categorical
+a. No ﬂowers
+b. Have ﬂowers on he sides
+(Flowers planted in any form; any amount was considered.)
+5
+Degree of shade
+Categorical
+a. Shade is less than 30% of the pathway
+b. Shade is between 30% and 70% of the pathway
+c. Shade is more than 70% of the pathway
+(The degree of shade is measured by the percentage of shade
+(projected on the ground) to the total area of the pathway
+segment for all the pathways between 10:00 a.m. and 11:00 a.m.
+on sunny days.)
+6
+Presence of light ﬁxtures
+Categorical
+a. No lights
+b. Have lights on sides
+7
+Pathway width
+Categorical
+a. <2 m,
+b. ≥2 m, <3 m
+c. ≥3 m, <4 m
+d. ≥4 m, <5 m
+e. 5 m and wider
+8
+Pathway length
+Numerical
+Measured in meters based on master plan and satellite images
+9
+Enclosure type
+Categorical
+a. Tall objects on neither side
+b. Tall objects on one side
+c. Tall objects on both sides
+(The enclosure type, which is dominant in the longest proportion
+of the pathway, was used to represent the whole pathway.)
+10
+Degree of Enclosure
+Categorical
+a. No lateral visibility (The entire lateral sightlines are blocked on
+both sides)
+b. Moderate lateral visibility (The lateral sightlines are
+interrupted at some parts of the pathway on both sides.)
+c. Continuous lateral visibility (The lateral sightlines are not
+interrupted on the whole pathway on both sides.)
+11
+Visual connection with landmark
+Categorical
+a. No visual connection with landmark
+b. Landmark can be seen in the background
+c. Landmark can be seen in the foreground/middle ground
+(Landmarks refer to the canopy structures in different parts of the
+park.)
+12
+Pathway connection with activity zones
+Categorical
+a. No connection with activity zones
+b. Have connection with 1 activity zone
+c. Have connection with 2 or more activity zones
+(The connection with activity zones is determined by pathway’s
+immediate neighboring areas in four directions, including its two
+ends and two sides.)
+Table 2. The indicators for measurements of the visual qualities.
+The Visual Quality
+The Indicators for Measurements
+Coherence
+Unity or harmony in color and texture along the pathways
+Complexity
+Variety of objects, shapes, colors, and textures along the pathways
+Legibility
+Visual access along the pathways and the visibility of the landmarks along the pathways
+Mystery
+Limitations regarding visual and physical accessibility with surroundings along the
+pathways that may arouse curiosity and lead to surprise in pedestrians
+
+Land 2023, 12, 1838
+10 of 23
+3.4. Analysis
+For categorical pathway design characteristic variables, we applied ANOVA analysis
+to explore the differences in the average number of observed pedestrians on pathways
+with different characteristics. For continuous pathway design characteristic variables (i.e.,
+pathway length) and visual qualities, correlation analyses were used to investigate the
+relationships between the average number of observed pedestrians and the pathway’s
+design characteristics. Finally, content analysis was performed to explore the interview
+data. In this regard, the factors were coded based on two major categories of pathways for
+walking, liked and disliked characteristics, as the responses to two consequent questions
+during the interview. Then, the number of repetitions of each factor and its frequency
+concerning each category were calculated for all respondents, as well as each subcategory,
+based on age and gender differences [19]. The comparison between the results of statistical
+and content analyses helped us to have a more credible understanding of the connections
+between pathway design characteristics and seniors’ walking behavior.
+4. Results
+4.1. Descriptive Statistics
+At the overall park level, a total of 7018 walkers we observed in Cautin Park, including
+1385 pedestrians as adolescents, 5423 adult pedestrians, and 210 older adult pedestrians.
+The evening period is the peak period, whereas considerably fewer pedestrians were
+observed in the morning period. At the pathway segment level, the average number of
+observed pedestrians in all observations was calculated for each segment (30 rounds of
+observations for each segment) to represent the usage of each pathway segment (Figure 5).
+The average maximum number of users observed on a pathway segment (for two minutes)
+was 5.82 pedestrians per segment.
+ 
+Figure 5. Average number of pedestrians on road segments (number of road segments: 39).
+Concerning the physical/visual design attributes along the pathways, the majority
+of the pathways (69.2%) have pavement, as compared to unpaved pathways (covered
+by sand) (30.8%). The curving form (66.7%) is more common than the straight form
+(33.3%). The majority of the pathways have between four and seven benches (51.3%). “Less
+
+Land 2023, 12, 1838
+11 of 23
+than 30% shade” was observed along the majority of the pathways (64.1%). There are
+more pathways with light ﬁxtures (59%) than pathways without light ﬁxtures (41%). The
+pathways with more than 5 m (33.3%) are the most common type of pathways in terms
+of pathway width. The average length of the pathways is 91.77 m, which shows that
+pedestrians face rather long pathways to walk in this urban park. In terms of enclosure,
+the majority of pathways (61.5%) show moderate lateral visibility compared to “no lateral
+visibility” (12.8%) and “continuous lateral visibility” (25.6%). This shows that a medium
+degree of enclosure is observed along most of the pathways, and this enclosure is due to
+both “tall objects on one side” (46.2%) and “tall objects on both sides” (41%). Landmarks
+(as certain canopy structures in the parks) could be observed along most of the pathways
+(66.6%). In addition, most of the pathways are connected to one activity zone (46.2%) or
+do not have any connection to activity zones (48.7%). Finally, in terms of visual qualities,
+legibility shows higher values (mean: 3.97) than other visual qualities, including coherence
+(mean: 2.95), complexity (mean: 2.36), and mystery (mean: 1.82). This shows that the
+pathways, on average, show the highest value concerning legibility and the lowest values
+concerning mystery.
+4.2. The Findings of the Quantitative Approach
+4.2.1. The Associations between Walking Behavior and Park Pathway Design
+Characteristics (While Taking into Account the Age and Gender Subgroups)
+Consistently, the results show that the average number of observed pedestrians is
+signiﬁcantly larger on pathways with certain design characteristics. These pathway design
+characteristics include pathway pavement and pathway width. More speciﬁcally, the
+results indicate that the pedestrians signiﬁcantly walk along the pathways with pavement
+compared to unpaved pathways (Table 3). Pedestrians also walk signiﬁcantly more along
+pathways that are more than 2 m wide (all types which cover more than 2 m width) rather
+than the pathways less than 2 m wide (Table 4).
+Table 3. One-Way Analysis of Variance of Average Number of Observed Pedestrians (for all pedestri-
+ans and adolescents) (Number of pathway segments: 39).
+All Pedestrians
+Adolescent
+df
+MS
+F
+Sig.
+df
+MS
+F
+Sig.
+1. Pathway pavement
+Between
+Groups
+1
+4.880
+16.693
+0.000 **
+1
+2.697
+7.542
+0.009 **
+2. Pathway form
+Between
+Groups
+1
+0.430
+1.043
+0.314
+1
+0.017
+0.040
+0.843
+3. Presence of Benches
+Between
+Groups
+2
+0.845
+2.171
+0.129
+2
+0.906
+2.311
+0.114
+4. Presence of ﬂowers
+Between
+Groups
+1
+0.001
+0.002
+0.968
+1
+0.079
+0.185
+0.669
+5. Degree of shade
+Between
+Groups
+2
+0.902
+2.337
+0.111
+2
+1.171
+3.105
+0.057
+6. Presence of light ﬁxtures
+Between
+Groups
+1
+0.023
+0.054
+0.817
+1
+0.334
+0.792
+0.379
+7. Pathway width
+Between
+Groups
+4
+2.091
+9.700
+0.000 **
+4
+1.698
+6.321
+0.001 **
+8. Enclosure type
+Between
+Groups
+2
+0.463
+1.127
+0.335
+2
+0.603
+10.475
+0.242
+9. Degree of Enclosure
+Between
+Groups
+2
+0.535
+1.317
+0.281
+2
+1.244
+3.331
+0.047 **
+10. Visual connection with landmark
+Between
+Groups
+2
+0.807
+2.063
+0.142
+2
+1.893
+5.612
+0.008 **
+11. Pathway connection with activity zones
+Between
+Groups
+2
+0.519
+1.275
+0.292
+2
+2.010
+6.080
+0.005 **
+Notes. ** Sig. < 0.05.
+
+Land 2023, 12, 1838
+12 of 23
+Table 4. ANOVA Post Hoc test (LSD) analysis of the Average Number of Observed Pedestrians (all
+pedestrians, as well as pedestrians separated based on age and gender) (N: 39) (only for the design
+features that showed the overall signiﬁcance (p < 0.05) and have more than two values, which is the
+prerequisite of the post hoc test) (just the signiﬁcant relationships are shown).
+(I)
+(J)
+Mean Difference (I–J)
+SE
+Sig.
+Overall Sig.
+Pathway width
+(all pedestrians)
+<2 m
+Between 3 and 4 m
+−0.88735 *
+0.23399
+0.005
+0.000
+Between 4 and 5 m
+−1.27295 *
+0.24472
+0.000
+More than 5 m
+−1.08824 *
+0.20134
+0.000
+Pathway width
+(Adolescents)
+<2 m
+Between 3 and 4 m
+−1.05590 *
+0.26119
+0.002
+0.001
+Between 4 and 5 m
+−1.12319 *
+0.27316
+0.002
+More than 5 m
+−0.88477 *
+0.22474
+0.003
+Pathway width
+(Adults)
+<2 m
+Between 3 and 4 m
+−1.59075 *
+0.48704
+0.020
+0.000
+Between 4 and 5 m
+−2.52657 *
+0.50936
+0.000
+More than 5 m
+−2.17423 *
+0.41908
+0.000
+Pathway width
+(Adults Men)
+<2 m
+Between 3 and 4 m
+−1.54175 *
+0.44120
+0.011
+0.000
+Between 4 and 5 m
+−2.51691 *
+0.46142
+0.000
+More than 5 m
+−2.01250 *
+0.37964
+0.000
+Pathway width
+(Adults Women)
+<2 m
+Between 3 and 4 m
+−1.63975 *
+0.55252
+0.041
+0.000
+Between 4 and 5 m
+−2.53623 *
+0.57784
+0.001
+More than 5 m
+−2.33597 *
+0.47542
+0.000
+Degree of
+Enclosure
+(Adolescents)
+Moderate lateral
+visibility
+Continuous lateral visibility
+−0.57447 *
+0.22996
+0.044
+0.047
+Visual connection
+with landmark
+(Adolescents)
+No visual
+connection with
+Landmark
+Landmark can be seen in the
+background
+−0.58711 *
+0.22777
+0.037
+0.008
+Landmark can be seen in the
+foreground/middle ground
+−0.71572 *
+0.22777
+0.009
+Pathway
+connection with
+activity zones
+(Adolescents)
+No connection
+with activity
+zones
+Has a connection with 1
+activity zone
+−0.52547 *
+0.18748
+0.022
+0.004
+Has a connection with 2 or
+more activity zones
+−1.19565 *
+0.42372
+0.021
+*. The mean difference is signiﬁcant at the 0.05 level.
+Regarding the categories based on variations in gender and age, the ﬁndings are
+consistent with the ﬁndings regarding all pedestrians in terms of the kinds of routes,
+whether they are paved or unpaved (tables 3, 5 and 6). As compared to unpaved routes,
+all age groups walk more frequently along paved pathways (tables 3, 5 and 6). The routes
+with a greater width also result in signiﬁcantly greater walking by all groups, except for
+older adults (tables 3, 5 and 6). The routes with width of more than 2 m (all varieties that
+cover more than 2 m) are signiﬁcantly more frequently used for walking by adolescents,
+adults, adults (men), and adults (women) than the pathways with less than 2 m wide
+(Table 4). In addition, only older adults (men) walk signiﬁcantly more along the pathways
+with the curb type (Table 6) as compared to other groups. The greatest differences between
+the subgroups of pedestrians were found for adolescents as compared to other groups.
+Adolescents walk signiﬁcantly more along pathways with less enclosure, greater visibility of
+landmarks, and more connection to activity zones (Table 3). More speciﬁcally, adolescents
+walk signiﬁcantly more along pathways with continuous lateral visibility rather than
+moderate lateral visibility (Table 4). They also walk signiﬁcantly more along pathways
+that provide visibility to landmarks even in the background or foreground/middle ground
+rather than the pathways with no visual connection with landmarks (Table 4). Finally,
+adolescents walk signiﬁcantly more along pathways with one, two, or more connections
+with activity zones rather than pathways with no connection to activity zones (Table 4).
+
+Land 2023, 12, 1838
+13 of 23
+Table 5. One-Way Analysis of Variance of Average Number of Observed Pedestrians (For Adults
+with gender separation as well) (number of pathway segments: 39).
+Adults
+Adults (Men)
+Adults (Women)
+df
+MS
+F
+Sig.
+df
+MS
+F
+Sig.
+df
+MS
+F
+Sig.
+1. Pathway pavement
+Between
+Groups
+1
+19.851
+16.247
+0.000 **
+1
+18.589
+18.051
+0.000 **
+1
+21.155
+13.964
+0.001 **
+2. Pathway form
+Between
+Groups
+1
+2.099
+1.234
+0.274
+1
+2.317
+1.576
+0.217
+1
+1.893
+0.930
+0.341
+3. Presence of Benches
+Between
+Groups
+2
+3.059
+1.868
+0.169
+2
+2.894
+2.047
+0.144
+2
+3.236
+1.647
+0.207
+4. Presence of ﬂowers
+Between
+Groups
+1
+0.033
+0.019
+0.892
+1
+0.001
+0.001
+0.977
+1
+0.159
+0.076
+0.784
+5. Degree of shade
+Between
+Groups
+2
+3.154
+1.933
+0.159
+2
+3.642
+2.654
+0.084
+2
+2.715
+1.362
+0.269
+6. Presence of light ﬁxtures
+Between
+Groups
+1
+0.004
+0.002
+0.963
+1
+0.033
+0.021
+0.885
+1
+0.003
+0.002
+0.968
+7. Pathway width
+Between
+Groups
+4
+8.326
+8.914
+0.000 **
+4
+7.658
+9.992
+0.000 **
+4
+9.084
+7.557
+0.000 **
+8. Enclosure type
+Between
+Groups
+2
+1.732
+1.012
+0.374
+2
+2.064
+1.414
+0.256
+2
+1.429
+0.692
+0.507
+9. Degree of Enclosure
+Between
+Groups
+2
+1.506
+0.874
+0.426
+2
+1.423
+.951
+0.396
+2
+1.597
+0.777
+0.467
+10. Visual connection with
+landmark
+Between
+Groups
+2
+2.079
+1.229
+0.305
+2
+2.268
+1.566
+0.223
+2
+1.972
+0.969
+0.389
+11. Pathway connection
+with activity zones
+Between
+Groups
+2
+0.998
+0.570
+0.571
+2
+1.389
+0.927
+0.405
+2
+0.688
+0.326
+0.724
+Notes. ** Sig. < 0.05.
+Table 6. One-Way Analysis of Variance of Average Number of Observed Pedestrians (For Older
+Adults with gender separation as well) (number of pathway segments: 39).
+Older Adults
+Older Adults (Men)
+Older Adults (Women)
+df
+MS
+F
+Sig.
+df
+MS
+F
+Sig.
+df
+MS
+F
+Sig.
+1. Pathway pavement
+Between
+Groups
+1
+0.060
+6.992
+0.012 **
+1
+0.030
+4.518
+0.040 **
+1
+0.102
+6.334
+0.016 **
+2. Pathway form
+Between
+Groups
+1
+0.016
+1.598
+0.214
+1
+0.033
+5.090
+0.030 **
+1
+0.005
+0.257
+0.615
+3. Presence of Benches
+Between
+Groups
+2
+0.020
+2.170
+0.129
+2
+0.011
+1.579
+0.220
+2
+0.033
+1.871
+0.169
+4. Presence of ﬂowers
+Between
+Groups
+1
+0.001
+0.056
+0.814
+1
+0.000
+0.011
+0.916
+1
+0.002
+0.080
+0.779
+5. Degree of shade
+Between
+Groups
+2
+0.004
+0.378
+0.688
+2
+0.001
+0.186
+0.831
+2
+0.010
+0.522
+0.598
+6. Presence of light ﬁxtures
+Between
+Groups
+1
+0.001
+0.085
+0.772
+1
+0.001
+0.102
+0.752
+1
+0.001
+0.053
+0.818
+7. Pathway width
+Between
+Groups
+4
+0.017
+1.860
+0.140
+4
+0.013
+1.978
+.120
+4
+0.034
+2.081
+0.105
+8. Enclosure type
+Between
+Groups
+2
+0.001
+0.061
+0.941
+2
+0.001
+0.093
+0.911
+2
+0.001
+0.066
+0.936
+9. Degree of Enclosure
+Between
+Groups
+2
+0.004
+0.349
+0.708
+2
+0.002
+0.289
+0.751
+2
+0.006
+0.323
+0.726
+10. Visual connection with
+landmark
+Between
+Groups
+2
+0.017
+1.798
+0.180
+2
+0.012
+1.706
+0.196
+2
+0.027
+1.519
+0.233
+11. Pathway connection
+with activity zones
+Between
+Groups
+2
+0.008
+0.833
+0.443
+2
+0.001
+0.153
+0.858
+2
+0.024
+1.344
+0.274
+Notes. ** Sig. < 0.05.
+There are no more signiﬁcant associations between the number of all pedestrians (and
+the number of pedestrians based on age and gender) and the other physical/visual features
+along the pathways. Furthermore, the result of the correlational analysis shows that there
+is no association between the number of pedestrians (and the number of pedestrians based
+on age and gender) and pathway length (coefﬁcient: 0.004; p: 0.983).
+
+Land 2023, 12, 1838
+14 of 23
+4.2.2. The Association between Visual Qualities and the Length of the Pathways and
+Walking Behavior
+According to the correlational analysis (Table 7), among the visual qualities along the
+pathways and the length of the pathways, only legibility shows a signiﬁcant correlation
+with the number of all pedestrians (coefﬁcient: 0.477; p: 0.002). In terms of the subgroups
+based on age and gender, again, legibility is the only variable that shows a signiﬁcant
+correlation with the number of pedestrians concerning adolescents (coefﬁcient: 0.403;
+p: 0.011), adults (coefﬁcient: 0.466; p: 0.003), adults (men) (coefﬁcient: 0.475; p: 0.002) and
+adults (women) (coefﬁcient: 0.449; p: 0.004
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

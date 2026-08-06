@@ -1,0 +1,5845 @@
+Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+Contents
+ lists
+ available
+ at
+ ScienceDirect
+Landscape
+ and
+ Urban
+ Planning
+j
+ o
+ ur
+ na
+ l
+ ho
+ me
+ pag
+ e:
+ www.elsevier.com/locate/landurbplan
+Research
+ Paper
+Park
+ attributes
+ that
+ encourage
+ park
+ visitation
+ among
+ adolescents:
+ A
+conjoint
+ analysis
+Jenny
+ Veitch a,∗, Jo Salmon a, Benedicte
+ Deforche b,c, Ariane
+ Ghekiere b,c,d,
+Jelle
+ Van
+ Cauwenberg b,c,d, Shaun
+ Bangay e, Anna
+ Timperio a
+a Deakin
+ University,
+ Geelong,
+ Australia,
+ Institute
+ for
+ Physical
+ Activity
+ and
+ Nutrition
+ (IPAN)
+b Ghent
+ University,
+ Faculty
+ of
+ Medicine
+ and
+ Health
+ Sciences,
+ Department
+ of
+ Public
+ Health,
+ Belgium
+c Vrije
+ Universiteit
+ Brussel,
+ Faculty
+ of
+ Physical
+ Education
+ and
+ Physiotherapy,
+ Department
+ of
+ Movement
+ and
+ Sports
+ Sciences,
+ Belgium
+d Fund
+ for
+ Scientiﬁc
+ Research
+ Flanders
+ (FWO),
+ Brussels,
+ Belgium
+e School
+ of
+ Information
+ Technology,
+ Deakin
+ University,
+ Burwood,
+ Victoria,
+ Australia
+h
+ i g h l i g
+ h
+ t s
+• Slides
+ were the most important
+ attribute
+ for park visitation
+ among adolescents.
+• Absence
+ of rubbish/grafﬁti
+ was
+ the second most important
+ attribute for visitation.
+• Swings
+ and walking paths were the third
+ and fourth
+ most
+ important
+ attributes.
+• Identifying
+ important
+ park attributes
+ will help to maximise
+ park visitation.
+a
+ r t
+ i c l e 
+i n f o
+Article
+ history:
+Received
+ 8
+ June
+ 2016
+Received
+ in
+ revised
+ form
+15
+ November
+ 2016
+Accepted
+ 11
+ December
+ 2016
+Available
+ online
+ 5
+ February
+ 2017
+Keywords:
+Adolescents
+Parks
+Features
+Conjoint
+ analysis
+Visitation
+a
+ b
+ s
+ t r a
+ c t
+Parks provide
+ opportunities
+ for people of all ages to engage in physical
+ activity,
+ connect
+ socially
+ with
+family
+ and friends,
+ and have contact
+ with nature.
+ Despite these
+ beneﬁts,
+ park visitation among
+ ado-
+lescents
+ is particularly
+ low; however,
+ little is known
+ about what attributes
+ would attract
+ adolescents
+to
+ visit parks.
+ This study examined
+ the
+ relative
+ importance
+ of park features
+ that might inﬂuence their
+decision
+ to visit a park. Adolescents
+ were recruited
+ in 2014–5
+ from four secondary
+ schools
+ located
+ in
+Melbourne,
+ Australia.
+ Participants
+ completed
+ an adaptive
+ choice
+ based conjoint
+ (ACBC) task during
+ one
+school
+ class-lesson.
+ This methodology
+ makes
+ it possible
+ to identify
+ the relative
+ importance
+ of individual
+park
+ features.
+ Ten park attributes were included
+ in the survey
+ and part-worth
+ utility and importance
+scores
+ were estimated
+ for each attribute with Hierarchical
+ Bayes
+ analyses
+ using
+ Sawtooth
+ Software.
+ Par-
+ticipants
+ (n = 92) had a mean
+ age of 14.7 years
+ (SD = 1.0) and 57% were female.
+ Importance
+ scores
+ showed
+that
+ playground
+ slides
+ (particularly
+ long steep
+ slides)
+ were the most important
+ attribute
+ for park
+ visita-
+tion
+ (16.1%;
+ 95% CI = 15.0, 17.2),
+ followed
+ by an absence
+ of rubbish/grafﬁti
+ (13.0%;
+ 95% CI = 11.2,
+ 14.8),
+ and
+the
+ presence
+ of swings
+ (12.4%; 95% CI = 11.4, 13.3), walking/cycling
+ paths
+ (12.1%;
+ 95% CI = 11.0,
+ 13.2) and
+BMX
+ tracks/skate
+ bowls (10.6%;
+ 95% CI = 9.3, 11.9). These ﬁndings
+ can assist
+ those involved in designing
+parks
+ to identify
+ attributes
+ that should be prioritised
+ to ensure
+ visitation
+ by adolescents
+ is maximised.
+The
+ novel methodology
+ utilised
+ may be transferable
+ to other studies
+ of the built environment
+ among
+other
+ population
+ groups.
+©
+ 2016 Elsevier
+ B.V. All rights
+ reserved.
+1.
+ Introduction
+Parks
+ are
+ an
+ important
+ public
+ resource
+ that
+ provide
+ oppor-
+tunities
+ for
+ people
+ of
+ all
+ ages
+ to
+ engage
+ in
+ physical
+ activity,
+connect
+ socially
+ with
+ family
+ and
+ friends,
+ and
+ have
+ contact
+ with
+∗Corresponding
+ author
+ at:
+ Institute
+ for
+ Physical
+ Activity
+ and
+ Nutrition
+ (IPAN),
+Deakin
+ University,
+ 221
+ Burwood
+ Highway,
+ Burwood
+ VIC
+ 3125,
+ Australia.
+E-mail
+ address:
+ jenny.veitch@deakin.edu.au
+ (J.
+ Veitch).
+nature.
+ Despite
+ the
+ beneﬁts
+ associated
+ with
+ park
+ visitation,
+ parks
+are
+ generally
+ under-utilised
+ and,
+ research
+ within
+ Australia
+ and
+internationally
+ shows
+ that
+ park
+ visitation
+ among
+ adolescents
+ is
+particularly
+ low
+ (Floyd
+ et
+ al.,
+ 2011;
+ Lindberg
+ &
+ Schipperijn,
+ 2015).
+For
+ example,
+ a
+ recent
+ observational
+ study
+ of
+ park
+ visitors
+ in
+ Mel-
+bourne,
+ Australia,
+ showed
+ that
+ only
+ seven
+ percent
+ of
+ all
+ park
+visitors
+ were
+ teens
+ (aged
+ 13–20
+ years),
+ with
+ the
+ majority
+ of
+ park
+users
+ being
+ younger
+ children
+ and
+ adults
+ (Veitch
+ et
+ al.,
+ 2015).
+It
+ is
+ plausible
+ that
+ the
+ features
+ and
+ amenities
+ in
+ parks
+ may
+not
+ appeal
+ to
+ adolescents,
+ discouraging
+ visitation.
+ Indeed,
+ it
+ is
+ a
+http://dx.doi.org/10.1016/j.landurbplan.2016.12.004
+0169-2046/©
+ 2016
+ Elsevier
+ B.V.
+ All
+ rights
+ reserved.
+
+J.
+ Veitch
+ et
+ al.
+ / Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+ 
+53
+common
+ perception
+ among
+ parents
+ and
+ children
+ that
+ amenities
+ in
+neighbourhood
+ parks
+ are
+ typically
+ better
+ suited
+ to
+ younger
+ chil-
+dren
+ (Veitch,
+ Bagley,
+ Ball,
+ &
+ Salmon,
+ 2006; Veitch,
+ Salmon,
+ &
+ Ball,
+2007).
+ However,
+ little
+ is
+ known
+ about
+ what
+ features/amenities
+would
+ attract
+ adolescents
+ to
+ visit
+ parks.
+ Most
+ studies
+ examining
+ the
+importance
+ of
+ speciﬁc
+ park
+ features
+ for
+ visitation
+ and
+ park-based
+physical
+ activity
+ have
+ been
+ conducted
+ with
+ adults
+ (Kaczynski,
+Potwarka,
+ &
+ Saelens,
+ 2008) and
+ children
+ (Timperio
+ et
+ al.,
+ 2008;
+Veitch
+ et
+ al.,
+ 2007),
+ and
+ these
+ ﬁndings
+ may
+ or
+ may
+ not
+ be
+ relevant
+to
+ adolescents.
+Further,
+ parks
+ provide
+ a
+ setting
+ where
+ adolescents
+ can
+ partic-
+ipate
+ in
+ physical
+ activity.
+ Few
+ adolescents
+ participate
+ in
+ enough
+physical
+ activity
+ to
+ meet
+ current
+ recommendations
+ of
+ 60
+ min
+ of
+moderate-
+ to
+ vigorous-intensity
+ physical
+ activity
+ every
+ day
+ (Hallal
+et
+ al.,
+ 2012).
+ Longitudinal
+ studies
+ have
+ shown
+ that
+ a
+ steep
+ decline
+in
+ physical
+ activity
+ occurs
+ between
+ childhood
+ and
+ adolescence
+(Nelson,
+ Gordon-Larsen,
+ Song,
+ &
+ Popkin,
+ 2006),
+ with
+ continued
+declines
+ across
+ the
+ lifespan
+ (Telama,
+ Yang,
+ Laakso,
+ &
+ Viikari,
+1997).
+ Importantly,
+ adolescents
+ have
+ been
+ shown
+ to
+ be
+ engage
+in
+ moderate-
+ to
+ vigorous-intensity
+ physical
+ activity
+ when
+ using
+playgrounds
+ in
+ parks
+ (Oreskovic
+ et
+ al.,
+ 2015).
+ Thus,
+ creating
+ and
+enhancing
+ opportunities
+ for
+ adolescents
+ to
+ be
+ active
+ at
+ parks
+ is
+critical.
+One
+ of
+ the
+ few
+ studies
+ to
+ examine
+ adolescents’
+ perceptions
+ on
+park
+ features
+ (Veitch
+ et
+ al.,
+ 2016)
+ used
+ photography
+ imagery
+ to
+identify
+ characteristics
+ of
+ parks
+ that
+ are
+ perceived
+ to
+ be
+ impor-
+tant
+ for
+ park
+ visitation
+ and
+ park-based
+ physical
+ activity.
+ That
+ study
+found
+ physically
+ challenging
+ play
+ equipment
+ is
+ likely
+ to
+ encourage
+adolescents
+ to
+ visit
+ parks
+ whereas
+ rules,
+ rubbish,
+ grafﬁti,
+ and
+ skate
+bowls
+ may
+ discourage
+ visitation.
+ Although
+ these
+ ﬁndings
+ will
+ help
+to
+ inform
+ future
+ research
+ aiming
+ to
+ better
+ understand
+ what
+ park
+features
+ are
+ important
+ for
+ adolescents,
+ the
+ relative
+ importance
+ of
+different
+ park
+ features
+ is
+ still
+ unknown
+ (Cohen
+ et
+ al.,
+ 2006).
+Parks
+ receive
+ signiﬁcant
+ investment
+ for
+ modiﬁcations
+ and
+ re-
+development,
+ particularly
+ from
+ local
+ authorities.
+ To
+ ensure
+ that
+park
+ renewal
+ and
+ development
+ stimulates
+ park
+ visitation
+ to
+ opti-
+mal
+ levels
+ it
+ is
+ important
+ to
+ understand
+ which
+ park
+ features
+ are
+most
+ likely
+ to
+ attract
+ visitors
+ from
+ all
+ age
+ groups.
+ While
+ natural
+experiment
+ study
+ designs
+ can
+ determine
+ the
+ impact
+ of
+ changes
+ to
+speciﬁc
+ park
+ attributes
+ on
+ park
+ visitation
+ (Veitch,
+ Ball,
+ Crawford,
+Abbott,
+ &
+ Salmon,
+ 2012; Veitch
+ et
+ al.,
+ 2014),
+ they
+ are
+ costly,
+ time-
+consuming
+ and
+ difﬁcult
+ to
+ conduct
+ as
+ control
+ of
+ the
+ environmental
+change
+ is
+ outside
+ of
+ the
+ researcher’s
+ control
+ (Craig
+ et
+ al.,
+ 2012;
+Hunter
+ et
+ al.,
+ 2015).
+ Virtual
+ experiments
+ in
+ a
+ ‘laboratory’
+ setting
+based
+ on
+ conjoint
+ analyses
+ can
+ be
+ an
+ alternative
+ to
+ natural
+ exper-
+iments
+ for
+ identifying
+ which
+ park
+ features
+ to
+ prioritise
+ in
+ park
+design.
+ Conjoint
+ analysis
+ is
+ a
+ quantitative
+ market
+ research
+ tech-
+nique
+ that
+ examines
+ the
+ joint
+ effects
+ of
+ park
+ characteristics
+ as
+they
+ are
+ presented
+ to
+ participants
+ in
+ different
+ combinations,
+ rather
+than
+ in
+ isolation.
+ This
+ makes
+ it
+ possible
+ to
+ identify
+ the
+ relative
+importance
+ of
+ individual
+ features
+ and
+ therefore
+ better
+ understand
+what
+ features
+ should
+ be
+ prioritised
+ in
+ the
+ design
+ and
+ manage-
+ment
+ of
+ parks
+ to
+ facilitate
+ and
+ encourage
+ use
+ of
+ these
+ spaces.
+Conjoint
+ analysis
+ has
+ successfully
+ been
+ used
+ previously
+ to
+ examine
+the
+ park
+ preferences
+ of
+ older
+ adults
+ (Alves,
+ Aspinall,
+ Thompson,
+ &
+Sugiyama,
+ 2008),
+ street
+ preferences
+ for
+ children’s
+ cycling
+ for
+ trans-
+port
+ (Ghekiere,
+ Deforche
+ et
+ al.,
+ 2015;
+ Ghekiere,
+ Van
+ Cauwenberg
+et
+ al.,
+ 2015),
+ adults
+ cycling
+ (Mertens
+ et
+ al.,
+ 2015),
+ and
+ walking
+among
+ older
+ adults
+ (Van
+ Cauwenberg
+ et
+ al.,
+ 2016);
+ however,
+ it
+ has
+not
+ been
+ applied
+ among
+ adolescents
+ to
+ examine
+ preferences
+ for
+park
+ features.
+The
+ aim
+ of
+ this
+ study
+ was
+ to
+ examine
+ the
+ relative
+ importance
+of
+ selected
+ environmental
+ attributes
+ (park
+ features)
+ that
+ might
+inﬂuence
+ adolescents’
+ decision
+ to
+ visit
+ a
+ park
+ using
+ an
+ experimen-
+tal
+ design,
+ based
+ on
+ an
+ adaptive
+ choice-based
+ conjoint
+ analysis
+approach.
+ Identifying
+ the
+ relative
+ importance
+ of
+ park
+ features
+ will
+inform
+ which
+ features
+ should
+ be
+ prioritised
+ in
+ the
+ design
+ of
+ parks
+to
+ facilitate
+ and
+ encourage
+ active
+ and
+ social
+ use
+ of
+ these
+ spaces
+ by
+this
+ age
+ group.
+ Parks
+ were
+ deﬁned
+ as
+ publically
+ accessible
+ urban
+green
+ spaces.
+2.
+ Methods
+This
+ was
+ a
+ cross-sectional
+ study
+ in
+ which
+ adolescents
+ completed
+a
+ web-based
+ survey
+ constructed
+ using
+ Sawtooth
+ SSI
+ Web
+ (v
+ 8.4.6)
+(www.sawtoothsoftware.com.au).
+ All
+ data
+ were
+ collected
+ between
+November
+ 2014
+ and
+ February
+ 2015.
+ The
+ study
+ was
+ approved
+ by
+the
+ Human
+ Ethics
+ Advisory
+ Group
+ (H167
+ 2013)
+ and
+ approval
+ to
+conduct
+ research
+ in
+ schools
+ was
+ granted
+ from
+ the
+ Department
+ of
+Education
+ and
+ Training.
+2.1.
+ Participants
+Purposive
+ sampling
+ was
+ used
+ to
+ ensure
+ that
+ adolescents
+ from
+a
+ range
+ of
+ socio-economic
+ status
+ (SES)
+ backgrounds
+ were
+ repre-
+sented.
+ All
+ suburbs
+ in
+ Victoria
+ were
+ categorised
+ into
+ low-,
+ middle-
+or
+ high-disadvantage
+ tertiles,
+ using
+ the
+ Australian
+ Bureau
+ of
+ Statis-
+tics’
+ Socio
+ Economic
+ Index
+ for
+ Areas
+ (SEIFA).
+ The
+ SEIFA
+ is
+ an
+area-based
+ measure
+ of
+ socio-economic
+ disadvantage,
+ constructed
+from
+ the
+ population
+ census
+ (Australian
+ Bureau
+ of
+ Statistics,
+ 2013).
+The
+ 10
+ closest
+ suburbs
+ within
+ 40
+ km
+ of
+ the
+ University
+ were
+ cho-
+sen
+ from
+ each
+ of
+ the
+ SEIFA
+ tertiles
+ and
+ each
+ week
+ three
+ secondary
+schools
+ from
+ each
+ tertile
+ were
+ selected
+ and
+ sent
+ an
+ invitation
+ to
+participate
+ in
+ the
+ study.
+ After
+ three
+ unsuccessful
+ attempts
+ to
+ make
+contact
+ with
+ the
+ Principal
+ at
+ a
+ school
+ no
+ further
+ attempts
+ were
+made
+ and
+ the
+ next
+ closest
+ school
+ to
+ the
+ University
+ within
+ the
+ tertile
+was
+ contacted.
+Overall,
+ 35
+ schools
+ were
+ contacted
+ and
+ invited
+ to
+ participate
+before
+ gaining
+ consent
+ from
+ four
+ schools
+ (11%
+ response
+ rate).
+ The
+four
+ schools
+ included
+ one
+ school
+ from
+ low
+ SES
+ (33%
+ response
+rate),
+ one
+ from
+ mid
+ SES
+ (17%
+ response
+ rate)
+ and
+ two
+ schools
+ from
+high
+ SES
+ (8%
+ response
+ rate)
+ areas.
+ The
+ main
+ reasons
+ for
+ non-
+participation
+ were
+ no
+ response
+ from
+ the
+ school
+ Principal
+ after
+ three
+attempts,
+ lack
+ of
+ time,
+ and
+ schools
+ being
+ inundated
+ with
+ requests
+to
+ participate
+ in
+ research
+ studies.
+ Once
+ a
+ school
+ was
+ recruited,
+the
+ Principal
+ or
+ a
+ delegated
+ staff
+ member
+ selected
+ two
+ classes
+of
+ year
+ 8–10
+ students
+ (aged
+ 13–16
+ years)
+ to
+ complete
+ the
+ study
+protocol
+ during
+ a
+ school
+ period.
+ The
+ classes
+ were
+ chosen
+ based
+on
+ availability
+ of
+ the
+ teacher
+ and
+ convenience
+ in
+ regards
+ to
+ the
+timetable
+ Student
+ packs
+ with
+ study
+ information
+ and
+ parental
+ con-
+sent
+ forms
+ were
+ sent
+ home
+ via
+ the
+ students
+ in
+ the
+ selected
+ classes;
+active
+ parental
+ consent
+ was
+ required.
+ Written
+ parental
+ consent
+ was
+obtained
+ for
+ 92
+ of
+ 196
+ students
+ (46.9%;
+ ranging
+ from
+ 45%
+ in
+ low
+ SES,
+75%
+ in
+ mid
+ SES,
+ to
+ 25%
+ in
+ high
+ SES
+ areas).
+2.2.
+ Protocol
+ and
+ measures
+The
+ web-based
+ survey
+ was
+ completed
+ using
+ tablets
+ dur-
+ing
+ one
+ school
+ class-lesson
+ and
+ the
+ task
+ took
+ approximately
+15–20
+ min
+ to
+ complete.
+ In
+ the
+ ﬁrst
+ section
+ of
+ the
+ survey,
+ par-
+ticipants
+ were
+ asked
+ to
+ complete
+ the
+ following
+ survey
+ items
+ for
+descriptive
+ purposes:
+ demographics
+ (age
+ and
+ sex);
+ usual
+ frequency
+(daily,
+ 2–3
+ times/week,
+ once/week;
+ 2–3
+ times/month,
+ once/month,
+<once/month,
+ not
+ visited
+ in
+ past
+ 3
+ months)
+ and
+ duration
+ (<30
+ min,
+30–59
+ min,
+ 1
+ <
+ 2
+ h,
+ 2
+ < 3
+ h,
+ 3
+ < 4
+ h,
+ 4
+ +
+ h)
+ of
+ park
+ visitation
+ in
+ the
+ past
+three
+ months;
+ usual
+ accompaniment
+ to
+ parks
+ (alone,
+ adult
+ family
+members,
+ siblings,
+ friends,
+ organised
+ group,
+ dog,
+ other);
+ time
+ taken
+to
+ walk
+ from
+ home
+ to
+ the
+ nearest
+ park
+ and
+ to
+ the
+ park
+ they
+ visit
+most
+ often
+ (1–5
+ min,
+ 6–10
+ min,
+ 11–20
+ min,
+ 21–30
+ min,
+ 31
+ +
+ min,
+don’t
+ know);
+ and
+ dog
+ ownership
+ (yes,
+ no).
+In
+ the
+ second
+ section
+ of
+ the
+ survey,
+ participants
+ completed
+ an
+Adaptive
+ Choice-Based
+ Conjoint
+ (ACBC)
+ task.
+ ACBC
+ analysis
+ is
+ a
+
+54
+ 
+J.
+ Veitch
+ et
+ al.
+ / Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+Table 1
+Ten
+ park
+ attributes
+ included
+ in
+ the
+ adaptive
+ choice
+ based
+ conjoint
+ (ACBC)
+ task.
+Attribute
+ 
+Attribute
+ level
+Slide
+Giant
+ slide
+Medium
+ Slide
+No
+ Slide
+Swings
+360◦swing
+Traditional
+ swing
+No
+ swing
+Flying
+ fox
+Flying
+ fox
+No
+ Flying
+ fox
+Table
+ Tennis
+ Table
+Table
+ tennis
+ table
+No
+ table
+ tennis
+ table
+Climbing
+ equipment
+Spiderweb
+No
+ climbing
+ equipment
+BMX
+ track/Skate
+ bowl
+BMX
+ track
+Skate
+ bowl
+No
+ skate
+ bowl
+ or
+ BMX
+ track
+Basketball
+ area
+Basketball
+ area
+No
+ basketball
+ area
+Walking
+ Paths
+Tree-lined
+ path
+Path
+ with
+ no
+ trees
+No
+ path
+Aesthetics
+Picturesque
+ (green
+ grass/shady
+ trees)
+Not
+ picturesque
+ (patchy
+ grass/few
+ trees)
+Maintenance/incivilities
+Rubbish/grafﬁti
+No
+ rubbish/grafﬁti
+quantitative
+ market
+ research
+ technique
+ that
+ makes
+ it
+ possible
+ to
+identify
+ the
+ relative
+ importance
+ of
+ each
+ characteristic
+ by
+ examin-
+ing
+ the
+ joint
+ effects
+ of
+ park
+ characteristics
+ as
+ they
+ are
+ presented
+to
+ participants
+ in
+ different
+ combinations,
+ rather
+ than
+ in
+ isola-
+tion
+ (Aspinall
+ et
+ al.,
+ 2010).
+ Participants
+ identify
+ their
+ preferences
+through
+ a
+ series
+ of
+ adaptive
+ choice-based
+ conjoint
+ tasks.
+ An
+ ACBC
+survey
+ is
+ an
+ interactive
+ experience,
+ customized
+ to
+ the
+ preferences
+and
+ opinions
+ of
+ each
+ individual
+ (Orme,
+ 2014).
+The
+ 10
+ park
+ attributes
+ included
+ in
+ the
+ survey
+ were
+ identiﬁed
+from
+ a
+ previous
+ study
+ by
+ Veitch
+ et
+ al.
+ (2016)
+ that
+ was
+ conducted
+with
+ a
+ different
+ sample
+ of
+ adolescents
+ recruited
+ from
+ the
+ same
+four
+ schools.
+ The
+ ﬁndings
+ from
+ that
+ study
+ showed
+ that
+ these
+ 10
+attributes
+ were
+ perceived
+ by
+ adolescents
+ to
+ inﬂuence
+ (positive
+ or
+negative)
+ their
+ willingness
+ to
+ visit
+ parks.
+ For
+ the
+ current
+ study,
+ each
+attribute
+ was
+ presented
+ with
+ two
+ (i.e.
+ present
+ or
+ absent)
+ or
+ three
+levels
+ (i.e.
+ optimal
+ level,
+ medium
+ level,
+ not
+ present)
+ and
+ included:
+slides
+ (giant
+ slide,
+ medium
+ slide,
+ no
+ slide);
+ swings
+ (360◦swing,
+traditional
+ swing,
+ no
+ swing);
+ ﬂying
+ fox
+ (ﬂying
+ fox,
+ no
+ ﬂying
+ fox);
+table
+ tennis
+ table
+ (table
+ tennis
+ table,
+ no
+ table
+ tennis
+ table);
+ climbing
+equipment
+ (spiderweb,
+ no
+ climbing
+ equipment);
+ BMX
+ track/skate
+bowl.
+(BMX
+ track,
+ skate
+ bowl,
+ no
+ BMX
+ track
+ or
+ skate
+ track);
+ basketball
+area
+ (basketball
+ area,
+ no
+ basketball
+ area);
+ walking
+ paths
+ (tree-lined
+path,
+ path
+ with
+ no
+ trees,
+ no
+ path);
+ aesthetics
+ (picturesque:
+ green
+grass/shady
+ trees,
+ not
+ picturesque:
+ patchy
+ grass/few
+ trees);
+ and
+maintenance/incivilities
+ (rubbish/grafﬁti,
+ no
+ rubbish/grafﬁti)
+ (see
+Table
+ 1).
+ In
+ all
+ ACBC
+ tasks,
+ a
+ written
+ description
+ of
+ the
+ attributes
+was
+ presented
+ (not
+ images);
+ however,
+ before
+ commencing
+ the
+tasks,
+ a
+ research
+ assistant
+ gave
+ a
+ verbal
+ description
+ of
+ what
+ was
+meant
+ for
+ each
+ attribute
+ and
+ level
+ and
+ showed
+ images
+ to
+ exemplify.
+Participants
+ could
+ view
+ these
+ images
+ if
+ desired
+ whilst
+ completing
+the
+ task.
+Firstly,
+ respondents
+ answered
+ a
+ ‘build
+ your
+ own’
+ item
+ where
+they
+ were
+ required
+ to
+ select
+ their
+ preferred
+ level
+ for
+ each
+ of
+ the
+10
+ attributes.
+ Secondly,
+ respondents
+ were
+ presented
+ with
+ a
+ series
+of
+ six
+ screening
+ questions.
+ In
+ these
+ questions,
+ descriptions
+ of
+ four
+possible
+ parks
+ with
+ various
+ combinations
+ of
+ attributes
+ and
+ levels
+ of
+attributes
+ (randomly
+ selected
+ by
+ the
+ software
+ program)
+ were
+ pre-
+sented.
+ Respondents
+ were
+ asked
+ to
+ indicate
+ how
+ likely
+ (i.e.
+ likely
+to
+ visit
+ vs.
+ unlikely
+ to
+ visit)
+ they
+ would
+ be
+ to
+ visit
+ each
+ of
+ the
+ four
+parks.
+ Based
+ on
+ these
+ screening
+ questions,
+ the
+ program
+ identiﬁed
+particular
+ attributes
+ in
+ parks
+ that
+ were
+ ‘avoided’
+ by
+ the
+ participant
+(i.e.
+ indicated
+ as
+ unlikely
+ to
+ visit).
+ The
+ program
+ presented
+ these
+‘avoided’
+ attributes
+ to
+ respondents
+ and
+ respondents
+ were
+ asked
+ to
+indicate
+ if
+ any
+ of
+ the
+ listed
+ attributes/levels
+ would
+ be
+ ‘totally
+ unac-
+ceptable’
+ or
+ an
+ ‘absolute
+ requirement’
+ and
+ to
+ mark
+ the
+ one
+ attribute
+that
+ was
+ most
+ unacceptable
+ and
+ the
+ one
+ attribute
+ that
+ was
+ most
+important
+ to
+ them.
+ This
+ process
+ enabled
+ the
+ program
+ to
+ customise
+the
+ remaining
+ tasks
+ to
+ focus
+ on
+ the
+ attributes
+ that
+ best
+ met
+ each
+individual’s
+ needs.
+ Finally,
+ respondents
+ were
+ shown
+ a
+ series
+ of
+ 15
+choice
+ tasks
+ that
+ included
+ a
+ description
+ of
+ two
+ possible
+ parks
+ with
+different
+ combinations
+ of
+ park
+ attributes
+ that
+ had
+ been
+ identiﬁed
+in
+ the
+ previous
+ sections
+ as
+ ‘possibilities’
+ (i.e.
+ attribute
+ levels
+ had
+not
+ been
+ marked
+ as
+ unacceptable).
+ Any
+ attributes
+ that
+ were
+ the
+same
+ in
+ both
+ parks,
+ were
+ ‘greyed
+ out’
+ so
+ that
+ it
+ was
+ easier
+ for
+ the
+participant
+ to
+ focus
+ on
+ the
+ differences
+ between
+ the
+ two
+ parks.
+ For
+these
+ choice
+ tasks,
+ respondents
+ selected
+ the
+ park
+ they
+ would
+ be
+most
+ likely
+ to
+ visit.
+2.3.
+ Data
+ analyses
+Descriptive
+ characteristics
+ of
+ the
+ sample
+ were
+ calculated
+ using
+SPSS
+ Statistics
+ 22.
+ Data
+ obtained
+ from
+ the
+ ACBC
+ survey
+ were
+analysed
+ using
+ Sawtooth
+ Software
+ SSI
+ Web
+ version
+ 8.4.6.
+ ACBC
+analyses
+ yield
+ two
+ types
+ of
+ parameters:
+ part-worth
+ utilities
+ and
+average
+ relative
+ importance
+ scores
+ (Orme,
+ 2014).
+ A
+ part-worth
+ util-
+ity
+ of
+ an
+ attribute
+ level
+ (i.e.
+ giant
+ slide,
+ medium
+ slide,
+ no
+ slide)
+represents
+ the
+ preference
+ for
+ that
+ attribute
+ level,
+ with
+ a
+ higher
+value
+ indicating
+ a
+ greater
+ preference
+ for
+ that
+ level
+ within
+ the
+ park
+attribute.
+ For
+ ease
+ of
+ interpretation,
+ these
+ part-worth
+ utilities
+ were
+zero-centered.
+ For
+ example,
+ if
+ the
+ attribute
+ levels
+ for
+ slides,
+ ‘giant
+slide’,
+ ‘medium
+ slide’,
+ ‘no
+ slide’
+ had
+ part-worth
+ utility
+ values
+ of
+ 8,
+2,
+ and
+ -10
+ respectively,
+ this
+ means
+ that
+ a
+ ‘giant
+ slide’
+ is
+ the
+ most
+preferred
+ level
+ and
+ ‘no
+ slide’
+ is
+ the
+ least
+ preferred
+ level.
+ Relative
+importance
+ scores
+ reﬂect
+ the
+ maximum
+ effect
+ each
+ attribute
+ has
+on
+ choice
+ (with
+ greater
+ importance
+ scores
+ reﬂecting
+ greater
+ effects
+on
+ choice).
+ Importance
+ scores
+ are
+ presented
+ as
+ a
+ percentage
+ and
+are
+ directly
+ related
+ to
+ the
+ environmental
+ attribute
+ ranges
+ (i.e.
+ the
+difference
+ between
+ the
+ least
+ and
+ most
+ favorable
+ environmental
+attribute
+ level)
+ that
+ were
+ used
+ in
+ the
+ experiment.
+Individual
+ part-worth
+ utility
+ and
+ importance
+ scores
+ were
+ esti-
+mated
+ with
+ Hierarchical
+ Bayes
+ analyses,
+ which
+ is
+ considered
+ the
+best
+ method
+ for
+ choice-based
+ conjoint
+ analyses
+ (Orme,
+ 2014).
+Preliminary
+ iterations
+ were
+ run
+ until
+ convergence
+ was
+ reached;
+40,000
+ draws
+ were
+ used
+ per
+ respondent.
+ For
+ each
+ part-worth
+ utility
+and
+ importance
+ score,
+ standard
+ errors
+ and
+ 95%
+ conﬁdence
+ intervals
+were
+ calculated
+ manually
+ in
+ Microsoft
+ Excel
+ 2013
+ to
+ determine
+signiﬁcant
+ differences
+ between
+ levels
+ of
+ each
+ attribute
+ (for
+ part-
+worth
+ utilities)
+ and
+ different
+ attributes
+ (for
+ importance
+ scores).
+ The
+overall
+ ﬁt
+ of
+ the
+ conjoint
+ model
+ was
+ interpreted
+ with
+ Root
+ Likeli-
+Hood
+ (RLH)
+ values.
+ RLH
+ values
+ range
+ from
+ zero
+ to
+ 1,
+ with
+ a
+ higher
+value
+ indicating
+ a
+ better
+ ﬁt
+ of
+ the
+ model
+ (Orme,
+ 2014).
+ Statistical
+signiﬁcance
+ was
+ set
+ at
+ 0.05.
+3.
+ Results
+Table
+ 2
+ presents
+ the
+ sample’s
+ characteristics.
+ The
+ participants
+(n
+ =
+ 92)
+ had
+ a
+ mean
+ age
+ of
+ 14.7
+ years
+ (SD
+ = 1.0)
+ and
+ 57%
+ were
+ female.
+Almost
+ 23%
+ attended
+ a
+ school
+ located
+ in
+ a
+ high
+ SES
+ area,
+ 42%
+ in
+ a
+mid SES
+ area
+ and
+ 35%
+ in
+ a
+ low
+ SES
+ area.
+ Twenty-ﬁve
+ percent
+ of
+participants
+ were
+ regular
+ park
+ visitors
+ reporting
+ that
+ they
+ had
+ vis-
+ited
+ a
+ park
+ at
+ least
+ once
+ per
+ week
+ over
+ the
+ past
+ three
+ months,
+ 40%
+
+J.
+ Veitch
+ et
+ al.
+ / Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+ 
+55
+Table 2
+Characteristics
+ of
+ participants
+ (n
+ =
+ 92).
+Overall
+Age,
+ mean
+ (SD)
+ 
+14.7
+ (1.0)
+Sex
+ (%)
+Female
+ 
+57.6
+School
+ attended
+ (%)
+Low
+ SES
+ 
+34.7
+Mid
+ SES
+ 
+42.4
+High
+ SES
+ 
+22.8
+Usual
+ frequency
+ of
+ park
+ visitation
+ in
+ the
+ past
+ 3
+ months
+ (%)
+Daily
+ 
+4.3
+2–3
+ times
+ per
+ week
+ 
+10.9
+Once
+ per
+ week
+ 
+9.8
+2–3
+ times
+ per
+ month
+ 
+22.8
+≤Once
+ per
+ month
+ 
+34.8
+Have
+ not
+ visited
+ a
+ park
+ in
+ the
+ past
+ 3
+ months
+ 
+17.4
+Usual
+ duration
+ of
+ park
+ visit
+ in
+ the
+ past
+ 3
+ months
+ (%)
+<30
+ min
+ 
+22.8
+30–59
+ min
+17.4
+1
+ to
+ <2
+ h
+ 
+33.7
+2
+ or
+ more
+ hours
+ 
+8.7
+Have
+ not
+ visited
+ a
+ park
+ in
+ the
+ past
+ 3
+ months
+ 
+17.4
+Usual
+ accompaniment
+ (%)a
+Alone
+ 
+7.6
+Adult
+ family
+ members
+27.2
+Siblings
+ 
+35.9
+Friends
+ 
+47.8
+Organised
+ group
+ 
+5.4
+Dog
+ 
+18.5
+Other
+ 
+4.3
+Time
+ taken
+ to
+ walk
+ from
+ home
+ to
+ nearest
+ park
+ (%)
+1–5
+ min
+ 
+44.6
+6–10
+ min
+ 
+29.3
+11–20
+ min
+ 
+15.2
+21
+ + min
+ 
+4.4
+Don’t
+ know
+ 
+6.5
+Time
+ taken
+ to
+ walk
+ from
+ home
+ to
+ park
+ visited
+ most
+ often
+ (%)
+1–5
+ min
+ 
+29.3
+6–10
+ min
+29.3
+11–20
+ min
+ 
+17.4
+21
+ + min
+ 
+18.5
+Don’t
+ know
+ 
+5.4
+Dog
+ ownership
+ (%)
+ 
+41.3
+Participated
+ in
+ organised
+ sport
+ outside
+ school
+hours
+ in
+ past
+ year
+ (%)
+37.0
+Days
+ physically
+ active
+ for
+ 60
+ min
+ in
+ a
+ typical
+ week,
+mean
+ (SD)
+4.43
+ (1.93)
+Days physically
+ active
+ for
+ 60
+ min
+ in
+ the
+ past
+ 7
+ days,
+mean
+ (SD)
+4.52
+ (4.52)
+a Multiple
+ responses
+ allowed.
+reported
+ that
+ they
+ usually
+ visited
+ the
+ park
+ for
+ one
+ hour
+ or
+ less,
+ and
+48%
+ usually
+ visited
+ parks
+ with
+ friends.
+ Forty-ﬁve
+ percent
+ of
+ partic-
+ipants
+ could
+ walk
+ to
+ their
+ nearest
+ park
+ in
+ ﬁve
+ minutes
+ or
+ less,
+ 29%
+could
+ walk
+ to
+ the
+ park
+ they
+ usually
+ visit
+ in
+ ﬁve
+ minutes
+ or
+ less
+ and
+41%
+ owned
+ a
+ dog.
+3.1.
+ Part-worth
+ utilities
+Within
+ each
+ park
+ attribute,
+ part-worth
+ utilities
+ signiﬁcantly
+increased
+ in
+ the
+ expected
+ direction
+ (Fig.
+ 1).
+ For
+ example,
+ having
+ no
+slide
+ had
+ a
+ signiﬁcantly
+ lower
+ preference
+ (−73.08;
+ 95%
+ CI
+ =
+ −78.9,
+−67.2)
+ than
+ a
+ medium
+ slide
+ (−5.74;
+ 95%
+ CI
+ =
+ −13.9,
+ 2.4)
+ which
+ again
+had
+ a
+ signiﬁcantly
+ lower
+ preference
+ than
+ a
+ giant
+ slide
+ (78.82;
+ 95%
+CI
+ =
+ 70.9,
+ 86.8).
+ This
+ implies
+ that
+ a
+ giant
+ slide
+ was
+ preferred
+ over
+a
+ medium
+ slide
+ which
+ in
+ turn
+ was
+ preferred
+ over
+ having
+ no
+ slide.
+Similarly,
+ having
+ no
+ walking
+ path
+ had
+ a
+ signiﬁcantly
+ lower
+ pref-
+erence
+ (−46.34;
+ 95%
+ CI
+ =
+ −52.3,−40.4)
+ than
+ a
+ path
+ with
+ no
+ trees
+(-7.94;
+ 95%
+ CI
+ =
+ −16.3,
+ 0.4)
+ which
+ again
+ was
+ lower
+ than
+ a
+ tree-lined
+path
+ (54.29;
+ 95%
+ CI
+ =
+ 45.5,
+ 63.1).
+ This
+ implies
+ that
+ a
+ tree-lined
+ path
+was
+ preferred
+ over
+ a
+ path
+ with
+ no
+ trees
+ which
+ in
+ turn
+ was
+ preferred
+over
+ having
+ no
+ path.
+3.2.
+ Importance
+Slides
+ were
+ the
+ most
+ important
+ attribute
+ for
+ park
+ visitation
+(16.1%;
+ 95%
+ CI
+ =
+ 15.0,
+ 17.2)
+ (Fig.
+ 2).
+ This
+ was
+ followed,
+ by
+ absence
+of
+ rubbish/grafﬁti
+ (13.0%;
+ 95%
+ CI
+ =
+ 11.2,
+ 14.8),
+ presence
+ of
+ swings
+(12.4%;
+ 95%
+ CI
+ =
+ 11.4,
+ 13.3),
+ presence
+ of
+ walking
+ paths
+ (12.1%;
+ 95%
+CI
+ =
+ 11.0,
+ 13.2)
+ and
+ presence
+ of
+ BMX
+ tracks/skate
+ bowl
+ (10.6%;
+ 95%
+CI
+ =
+ 9.3,
+ 11.9),
+ which
+ did
+ not
+ signiﬁcantly
+ differ
+ from
+ each
+ other.
+These
+ were
+ followed
+ by
+ aesthetics
+ (9.7%;
+ 95%
+ CI
+ =
+ 8.5,
+ 10.9)
+ which
+was
+ signiﬁcantly
+ lower
+ than
+ rubbish/grafﬁti,
+ swings
+ and
+ walking
+paths
+ but
+ not
+ BMX
+ tracks;
+ and
+ basketball
+ rings
+ (8.6%;
+ 95%
+ CI
+ =
+ 7.5,
+9.7)
+ which
+ was
+ signiﬁcantly
+ lower
+ than
+ rubbish/grafﬁti,
+ swings,
+walking
+ paths
+ and
+ BMX
+ tracks
+ but
+ not
+ signiﬁcantly
+ lower
+ than
+ aes-
+thetics.
+ The
+ importance
+ of
+ climbing
+ equipment
+ (6.6%;
+ 95%
+ CI
+ =
+ 5.8,
+7.4)
+ and
+ ﬂying
+ foxes
+ (6.3%;
+ 95%
+ CI
+ =
+ 5.
+ 6,
+ 7.0)
+ was
+ signiﬁcantly
+ lower
+than
+ basketball
+ rings
+ and
+ aesthetics,
+ but
+ did
+ not
+ differ
+ in
+ impor-
+tance
+ from
+ each
+ other.
+ Presence
+ of
+ table
+ tennis
+ tables
+ was
+ the
+ least
+important
+ attribute
+ of
+ a
+ park
+ within
+ our
+ sample
+ of
+ adolescents
+(4.7%;
+ 95%
+ CI
+ =
+ 4.1,
+ 5.3).
+4.
+ Discussion
+The
+ aim
+ of
+ this
+ study
+ was
+ to
+ examine
+ the
+ relative
+ importance
+ of
+park
+ attributes
+ that
+ may
+ inﬂuence
+ adolescents’
+ preference
+ to
+ visit
+a
+ park.
+ To
+ our
+ knowledge
+ this
+ is
+ the
+ ﬁrst
+ time
+ that
+ ACBC
+ analysis
+has
+ been
+ performed
+ to
+ examine
+ the
+ relative
+ importance
+ of
+ park
+ fea-
+tures
+ among
+ this
+ important
+ age
+ group.
+ There
+ is
+ a
+ dearth
+ of
+ research
+on
+ what
+ speciﬁc
+ park
+ attributes
+ are
+ associated
+ with
+ park
+ visita-
+tion
+ among
+ adolescents.
+ Furthermore,
+ identifying
+ which
+ attributes
+have
+ higher
+ importance
+ compared
+ to
+ other
+ attributes
+ is
+ necessary
+to
+ better
+ understand
+ what
+ to
+ prioritise
+ in
+ park
+ design
+ in
+ order
+ to
+make
+ park
+ settings
+ more
+ inviting
+ for
+ youth
+ to
+ visit.
+ Additionally,
+actual
+ changes
+ to
+ the
+ environment
+ are
+ long-lasting
+ and
+ without
+prior
+ knowledge
+ of
+ what
+ features
+ are
+ important
+ to
+ include
+ in
+ a
+park
+ refurbishment,
+ they
+ may
+ have
+ sub-optimal
+ or
+ unanticipated
+negative
+ effects
+ on
+ park
+ visitation.
+This
+ study
+ found
+ that
+ the
+ presence
+ of
+ slides
+ was
+ the
+ most
+ impor-
+tant
+ attribute.
+ This
+ was
+ followed
+ by
+ the
+ absence
+ of
+ rubbish/grafﬁti,
+and
+ the
+ presence
+ of
+ swings
+ and
+ a
+ tree-lined
+ path.
+Slides,
+ and
+ a
+ giant
+ (very
+ long
+ and
+ steep)
+ slide
+ in
+ particular,
+were
+ rated
+ as
+ the
+ most
+ important
+ attribute.
+ Our
+ previous
+ research
+has
+ shown
+ that
+ children
+ desire
+ challenging
+ and
+ adventurous
+ play
+equipment
+ (Veitch
+ et
+ al.,
+ 2006,
+ 2007)
+ and
+ among
+ adolescents,
+ steep
+slides
+ were
+ identiﬁed
+ as
+ a
+ feature
+ that
+ would
+ make
+ them
+ want
+ to
+visit
+ and
+ be
+ active
+ in
+ a
+ park
+ (Veitch
+ et
+ al.,
+ 2016).
+ Play
+ equipment
+ in
+parks
+ is
+ typically
+ designed
+ to
+ cater
+ for
+ younger
+ children
+ and
+ more
+challenging
+ equipment
+ that
+ provides
+ ‘excitement’
+ and
+ a
+ physical
+challenge
+ is
+ rarely
+ provided
+ (Veitch
+ et
+ al.,
+ 2007).
+ Playgrounds
+ have
+been
+ shown
+ to
+ be
+ associated
+ with
+ moderate-
+ to
+ vigorous-intensity
+physical
+ activity
+ among
+ adolescents
+ (Oreskovic
+ et
+ al.,
+ 2015) and
+adolescents
+ observed
+ in
+ parks
+ are
+ most
+ likely
+ to
+ be
+ observed
+ using
+playgrounds
+ (Reed
+ &
+ Hooker,
+ 2012),
+ thus
+ conﬁrming
+ that
+ parks
+are
+ spaces
+ that
+ promote
+ physical
+ activity
+ among
+ adolescents.
+ It
+ is
+important
+ that
+ park
+ playgrounds
+ are
+ designed
+ to
+ cater
+ for
+ all
+ age
+groups,
+ particularly
+ adolescents
+ who
+ are
+ often
+ undergoing
+ substan-
+tial
+ declines
+ in
+ physical
+ activity
+ as
+ they
+ age.
+A
+ pleasant
+ environment
+ without
+ grafﬁti
+ or
+ litter
+ was
+ the
+ second
+most
+ highly
+ rated
+ attribute.
+ It
+ is
+ possible
+ that
+ the
+ presence
+ of
+ graf-
+ﬁti
+ and
+ litter
+ is
+ associated
+ with
+ a
+ perceived
+ unsafe
+ environment,
+for
+ example,
+ people
+ engaging
+ in
+ socially
+ undesirable
+ behaviours,
+which
+ may
+ be
+ a
+ deterrent
+ to
+ park
+ visitation
+ (Veitch
+ et
+ al.,
+ 2006).
+
+56
+ 
+J.
+ Veitch
+ et
+ al.
+ / Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+Fig.
+ 1.
+ Part-worth
+ utilities
+ of
+ the
+ park
+ attribute
+ levels
+ for
+ each
+ park
+ attribute
+ (95%
+ CI).
+*Part-worth
+ utilities
+ should
+ be
+ compared
+ within
+ one
+ attribute
+ and
+ not
+ across
+ attributes.
+ A
+ higher
+ part-worth
+ utility
+ signiﬁes
+ a
+ stronger
+ preference
+ for
+ that
+ attribute
+ level.
+CI
+ =
+ Conﬁdence
+ interval.
+Park
+ aesthetics
+ (i.e.
+ a
+ picturesque
+ setting
+ with
+ trees
+ and
+ landscap-
+ing)
+ were
+ also
+ considered
+ relatively
+ important
+ with
+ a
+ ranking
+ of
+ six
+out
+ of
+ the
+ 10
+ attributes.
+ This
+ is
+ consistent
+ with
+ previous
+ research,
+for
+ example,
+ in
+ a
+ study
+ by
+ Edwards,
+ Hooper,
+ Knuiman,
+ Foster,
+ and
+Giles-Corti
+ (2015)
+ the
+ presence
+ of
+ more
+ trees
+ in
+ the
+ park
+ was
+ asso-
+ciated
+ with
+ higher
+ park
+ use
+ for
+ physical
+ activity
+ among
+ adolescents.
+In
+ addition,
+ perceived
+ park
+ quality
+ which
+ included
+ measures
+ of
+amenities,
+ maintenance,
+ aesthetics
+ and
+ safety
+ was
+ positively
+ asso-
+ciated
+ with
+ park
+ visitation
+ among
+ adolescents
+ (Ries
+ et
+ al.,
+ 2009).
+0.00
+2.00
+4.00
+6.00
+8.00
+10.00
+12.00
+14.00
+16.00
+18.00
+Slides
+No rubb ish/graﬃ
+Swings
+Paths
+BMX track
+Aesthecs
+Basketball area
+Climbing equipment
+Flying fox
+Table tennis table
+Importance (%)
+Average importance of park features
+Fig.
+ 2.
+ Average
+ importance
+ of
+ park
+ attributes.
+
+J.
+ Veitch
+ et
+ al.
+ / Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+ 
+57
+Basketball
+ courts
+ have
+ previously
+ been
+ shown
+ to
+ be
+ a
+ popu-
+lar
+ park
+ feature
+ among
+ adolescents
+ (Baran
+ et
+ al.,
+ 2014;
+ Lindberg
+&
+ Schipperijn,
+ 2015)
+ and
+ associated
+ with
+ higher
+ levels
+ of
+ objec-
+tively
+ measured
+ non-school
+ physical
+ activity
+ among
+ adolescent
+girls
+ (Cohen
+ et
+ al.,
+ 2006);
+ however,
+ in
+ the
+ current
+ study
+ the
+ pres-
+ence
+ of
+ basketball
+ courts
+ was
+ ranked
+ 7th
+ out
+ of
+ 10
+ attributes.
+In
+ addition,
+ climbing
+ equipment,
+ ﬂying
+ foxes
+ and
+ table
+ tennis
+tables
+ were
+ ranked
+ 8th
+ to
+ 10th
+ respectively,
+ suggesting
+ that
+ certain
+play/sports
+ features
+ in
+ parks
+ may
+ not
+ be
+ appealing
+ to
+ adolescents.
+It
+ appears
+ important
+ that
+ parks
+ are
+ well
+ maintained
+ and
+ possess
+ a
+combination
+ of
+ appealing
+ facilities
+ and
+ aesthetics
+ that
+ encourage
+adolescents
+ to
+ visit
+ and
+ be
+ physically
+ active.
+4.1.
+ Limitations/strengths
+This
+ study
+ was
+ novel
+ in
+ the
+ use
+ of
+ ACBC
+ analysis
+ and
+ demon-
+strated
+ that
+ this
+ methodology
+ is
+ an
+ effective
+ way
+ of
+ examining
+ the
+relative
+ importance
+ of
+ individual
+ environmental
+ park
+ attributes
+ to
+increase
+ park
+ visitation
+ among
+ this
+ population
+ group.
+ It
+ is
+ impor-
+tant
+ to
+ acknowledge
+ that
+ park
+ planning
+ involves
+ the
+ consideration
+of
+ multiple
+ factors
+ and
+ is
+ not
+ solely
+ based
+ on
+ the
+ inclusion
+ of
+ indi-
+vidual
+ attributes.
+ Our
+ results
+ are
+ constrained
+ by
+ the
+ fact
+ that
+ the
+sample
+ size
+ was
+ relatively
+ small
+ and
+ it
+ was
+ not
+ possible
+ to
+ explore
+differences
+ by
+ sex
+ or
+ SES
+ or
+ for
+ other
+ sub-groups
+ such
+ as
+ park
+users
+ and
+ non-users.
+ The
+ ﬁndings
+ may
+ have
+ been
+ inﬂuenced
+ by
+participants’
+ previous
+ park
+ experiences
+ and
+ we
+ acknowledge
+ that
+young
+ people
+ living
+ in
+ different
+ places
+ may
+ have
+ different
+ pref-
+erences.
+ However,
+ a
+ strength
+ of
+ the
+ study
+ was
+ the
+ inclusion
+ of
+adolescents
+ attending
+ schools
+ located
+ in
+ a
+ range
+ of
+ SES
+ areas
+ as
+park
+ use
+ by
+ adolescents
+ has
+ been
+ shown
+ to
+ vary
+ by
+ SES
+ (Edwards
+et
+ al.,
+ 2015).
+ In
+ addition,
+ in
+ the
+ ACBC
+ tasks,
+ the
+ attributes
+ were
+described
+ with
+ a
+ written
+ description
+ and
+ it
+ is
+ possible
+ that
+ different
+ﬁndings
+ could
+ have
+ resulted
+ if
+ images
+ rather
+ than
+ written
+ descrip-
+tions
+ of
+ attributes
+ were
+ used
+ as
+ participants
+ may
+ have
+ interpreted
+the
+ descriptions
+ differently
+ from
+ each
+ other.
+Another
+ limitation
+ of
+ this
+ research
+ is
+ that
+ the
+ ﬁndings
+ have
+ not
+been
+ validated
+ by
+ testing
+ people’s
+ behaviour
+ in
+ response
+ to
+ actual
+changes
+ in
+ their
+ neighbourhood
+ environment;
+ however,
+ natural
+experiments
+ are
+ costly,
+ time-consuming
+ and
+ due
+ to
+ time
+ con-
+straints
+ they
+ are
+ difﬁcult
+ to
+ conduct.
+ Further,
+ participants
+ were
+ only
+able
+ to
+ rate
+ 10
+ pre-selected
+ attributes
+ with
+ two
+ or
+ three
+ levels
+ and
+ it
+is
+ possible
+ that
+ other
+ attributes
+ (i.e.
+ sports
+ ovals,
+ park
+ size)
+ may
+ be
+more/less
+ important
+ than
+ the
+ attributes
+ included.
+ However,
+ these
+attributes
+ were
+ selected
+ based
+ on
+ ﬁndings
+ from
+ a
+ previous
+ study
+with
+ adolescents
+ attending
+ the
+ same
+ school
+ (Veitch
+ et
+ al.,
+ 2016).
+ In
+addition,
+ the
+ relatively
+ low
+ response
+ rates
+ of
+ schools
+ and
+ students
+may have
+ impacted
+ the
+ representativeness
+ of
+ those
+ included
+ in
+ the
+study.
+ Future
+ studies
+ should
+ also
+ consider
+ examining
+ the
+ percep-
+tions
+ of
+ adolescents
+ living
+ in
+ rural
+ areas
+ as
+ park
+ features
+ have
+ been
+shown
+ to
+ differ
+ in
+ urban
+ versus
+ rural
+ parks
+ (Veitch,
+ Salmon,
+ Ball,
+Crawford,
+ &
+ Timperio,
+ 2013).
+ Finally,
+ this
+ study
+ only
+ examined
+ the
+relative
+ importance
+ of
+ selected
+ park
+ features
+ that
+ might
+ inﬂuence
+adolescents’
+ decision
+ to
+ visit
+ a
+ park
+ therefore
+ future
+ studies
+ should
+consider
+ examining
+ the
+ relative
+ importance
+ of
+ park
+ features
+ for
+encouraging
+ park-based
+ physical
+ activity.
+5.
+ Conclusions
+Due
+ to
+ the
+ physical
+ and
+ mental
+ health
+ beneﬁts
+ of
+ visiting
+ parks
+and
+ the
+ low
+ levels
+ of
+ park
+ visitation
+ observed
+ among
+ adolescents,
+it
+ is
+ critical
+ that
+ urban
+ planners
+ and
+ policy
+ makers
+ consider
+ park
+features
+ that
+ encourage
+ youth
+ visitation
+ when
+ redeveloping
+ parks
+or
+ building
+ new
+ parks.
+ This
+ study
+ found
+ that
+ the
+ presence
+ of
+slides
+ (particularly
+ long
+ steep
+ slides)
+ was
+ the
+ most
+ important
+ park
+attribute,
+ followed
+ by
+ the
+ absence
+ of
+ rubbish/grafﬁti,
+ and
+ the
+ pres-
+ence
+ of
+ swings
+ and
+ a
+ walking
+ path.
+ These
+ ﬁndings
+ may
+ be
+ limited
+by
+ the
+ small
+ sample
+ size;
+ however,
+ this
+ study
+ clearly
+ shows
+ ACBC
+ is
+a
+ feasible
+ approach
+ to
+ examine
+ the
+ relative
+ importance
+ of
+ park
+ fea-
+tures
+ that
+ may
+ inﬂuence
+ adolescents’
+ preference
+ to
+ visit
+ a
+ park.
+ The
+novel
+ methodology
+ utilised
+ in
+ this
+ study
+ may
+ also
+ be
+ transferable
+to
+ other
+ studies
+ of
+ the
+ built
+ environment
+ among
+ other
+ popula-
+tion
+ groups.
+ Future
+ studies
+ should
+ consider
+ using
+ this
+ methodology
+among
+ more
+ diverse
+ and
+ representative
+ samples
+ to
+ examine
+ the
+relative
+ importance
+ of
+ park
+ features
+ for
+ particular
+ sub-groups
+ (i.e.
+males
+ vs
+ females,
+ those
+ living
+ in
+ neighbourhoods
+ of
+ varying
+ level
+of
+ disadvantage,
+ users
+ vs
+ non-users
+ of
+ parks).
+ Experimental
+ studies
+such
+ as
+ natural
+ experiments
+ should
+ also
+ be
+ considered
+ to
+ examine
+whether
+ adolescents’
+ park
+ visitation
+ increases
+ by
+ improving
+ the
+built
+ features
+ in
+ parks.
+Competing
+ interests
+The
+ author’s
+ declare
+ that
+ there
+ are
+ no
+ competing
+ interests.
+Author
+ contributions
+JV,
+ JS
+ and
+ AT
+ conceived
+ and
+ planned
+ the
+ study.
+ BD,
+ JvC
+ and
+ AG
+provided
+ expert
+ input
+ into
+ the
+ design
+ and
+ analysis.
+ SB
+ assisted
+with
+ the
+ study
+ design.
+ JV
+ drafted
+ the
+ manuscript
+ and
+ all
+ authors
+contributed
+ critical
+ feedback
+ on
+ drafts.
+Acknowledgements
+This
+ study
+ was
+ funded
+ by
+ a
+ Deakin
+ University
+ Central
+ Research
+Grants
+ Scheme.
+ JV
+ is
+ supported
+ by
+ a
+ National
+ Health
+ and
+ Medical
+Research
+ Council
+ Early
+ Career
+ Fellowship
+ (ID
+ 1053426).
+ JS
+ is
+ sup-
+ported
+ by
+ a
+ National
+ Health
+ and
+ Medical
+ Research
+ Council
+ Principal
+Research
+ Fellowships
+ (ID
+ 1026216).
+ AT
+ is
+ supported
+ by
+ a
+ Future
+Leader
+ Fellowship
+ (ID
+ 100046)
+ from
+ the
+ National
+ Heart
+ Founda-
+tion
+ of
+ Australia.
+ AG
+ is
+ funded
+ by
+ a
+ grant
+ from
+ Scientiﬁc
+ Research
+Foundation
+ Flanders
+ (FWO,
+ GA11111N).
+ JVC
+ is
+ funded
+ by
+ a
+ PhD
+Fellowship
+ from
+ Scientiﬁc
+ Research
+ Foundation
+ Flanders
+ (FWO,
+11N0313N).
+ We gratefully
+ acknowledge
+ Kate
+ Parker
+ and
+ Kate
+ Dul-
+laghan
+ for
+ their
+ assistance
+ with
+ data
+ collection,
+ as
+ well
+ as
+ the
+schools
+ and
+ students
+ who
+ participated
+ in
+ the
+ study.
+References
+Alves,
+ S.,
+ Aspinall,
+ P.,
+ Thompson,
+ C.
+ W.,
+ &
+ Sugiyama,
+ T.
+ (2008).
+ Preferences
+ of
+ older
+people
+ for
+ environmental
+ attributes
+ of
+ local
+ parks.
+ Facilities,
+ 26(11/12),
+433–453.
+Aspinall,
+ P.
+ A.,
+ Thompson,
+ C.
+ W.,
+ Alves,
+ S.,
+ Sugiyama,
+ T.,
+ Brice,
+ R.,
+ &
+ Vickers,
+ A.
+(2010).
+ Preference
+ and
+ relative
+ importance
+ for
+ environmental
+ attributes
+ of
+neighbourhood
+ open
+ space
+ in
+ older
+ people.
+ Environment
+ and
+ Planning
+B-Planning
+ &
+ Design,
+ 37(6),
+ 1022–1039.
+Australian
+ Bureau
+ of
+ Statistics
+ (2013).
+ Socio-Economic
+ Indexes
+ for
+ Areas
+ (SEIFA)
+2011,
+ Australia
+ Canberra,
+ Australia:
+ Retrieved
+ from
+ www.abs.gov.au/ausstats/
+abs@.nsf/mf/2033.0.55.001.
+Baran,
+ P.
+ K.,
+ Smith,
+ W. R.,
+ Moore,
+ R.
+ C.,
+ Floyd,
+ M.
+ F.,
+ Bocarro,
+ J.
+ N.,
+ Cosco,
+ N.
+ G.,
+ &
+Danninger,
+ T.
+ M. (2014).
+ Park
+ use
+ among
+ youth
+ and
+ adults:
+ Examination
+ of
+individual,
+ social,
+ and
+ urban
+ form
+ factors.
+ Environment
+ and
+ Behavior,
+ 46(6),
+768–800.
+Cohen,
+ D.
+ A.,
+ Ashwood,
+ S.,
+ Scott,
+ M.,
+ Overton,
+ A.,
+ Evenson,
+ K.
+ R.,
+ Staten,
+ L.,
+ .
+ .
+ . &
+Catellier,
+ D.
+ (2006).
+ Public
+ parks
+ and
+ physical
+ activity
+ among
+ adolescent
+ girls.
+Pediatrics,
+ 118(5),
+ 1381–1389.
+Craig,
+ P.,
+ Cooper,
+ C.,
+ Gunnell,
+ D.,
+ Haw,
+ S.,
+ Lawson,
+ K.,
+ Macintyre,
+ S.,
+ . . . &
+ Thompson,
+S. (2012).
+ Using
+ natural
+ experiments
+ to
+ evaluate
+ population
+ health
+interventions:
+ New
+ medical
+ research
+ council
+ guidance.
+ Journal
+ of
+ Epidemiology
+and Community
+ Health, 66(12),
+ 1182–1186.
+Edwards,
+ N.,
+ Hooper,
+ P.,
+ Knuiman,
+ M.,
+ Foster,
+ S.,
+ &
+ Giles-Corti,
+ B.
+ (2015).
+Associations
+ between
+ park
+ features
+ and
+ adolescent
+ park
+ use
+ for
+ physical
+activity.
+ International
+ Journal
+ of
+ Behavioral
+ Nutrition
+ and
+ Physical
+ Activity,
+ 12(1),
+21.
+Floyd,
+ M.
+ F.,
+ Bocarro,
+ J.
+ N.,
+ Smith,
+ W.
+ R.,
+ Baran,
+ P.
+ K.,
+ Moore,
+ R.
+ C.,
+ Cosco,
+ N.
+ G.,
+ . . . &
+Fang,
+ K.
+ (2011).
+ Park-based
+ physical
+ activity
+ among
+ children
+ and
+ adolescents.
+American
+ Journal
+ of
+ Preventive
+ Medicine,
+ 41(3),
+ 258–265.
+Ghekiere,
+ A.,
+ Deforche,
+ B.,
+ Mertens,
+ L.,
+ De
+ Bourdeaudhuij,
+ I.,
+ Clarys,
+ P.,
+ de
+ Geus,
+ B.,
+.
+ . . &
+ Van
+ Cauwenberg,
+ J. (2015).
+ Creating
+ cycling-friendly
+ environments
+ for
+
+58
+ 
+J.
+ Veitch
+ et
+ al.
+ / Landscape
+ and
+ Urban
+ Planning
+ 161
+ (2017)
+ 52–58
+children:
+ Which
+ micro-scale
+ factors
+ are
+ most
+ important?
+ An
+ experimental
+study
+ using
+ manipulated
+ photographs.
+ Public
+ Library
+ of
+ Science, 10(12),
+e0143302.
+Ghekiere,
+ A.,
+ Van
+ Cauwenberg,
+ J.,
+ Mertens,
+ L.,
+ Clarys,
+ P.,
+ de
+ Geus,
+ B.,
+ Cardon,
+ G.,
+ . . .
+& Deforche,
+ B.
+ (2015).
+ Assessing
+ cycling-friendly
+ environments
+ for
+ children:
+Are
+ micro-environmental
+ factors
+ equally
+ important
+ across
+ different
+ street
+settings?
+ International
+ Journal
+ of
+ Behavioral
+ Nutrition
+ and
+ Physical
+ Activity, 12,
+54.
+Hallal,
+ P.
+ C.,
+ Andersen,
+ L.
+ B.,
+ Bull,
+ F.
+ C.,
+ Guthold,
+ R.,
+ Haskell,
+ W.,
+ Ekelund,
+ U.,
+ &
+ Lancet
+Physical
+ Activity
+ Series
+ Working,
+ G.
+ (2012).
+ Global
+ physical
+ activity
+ levels:
+Surveillance
+ progress,
+ pitfalls,
+ and
+ prospects.
+ Lancet, 380(9838),
+ 247–257.
+Hunter,
+ R.
+ F.,
+ Christian,
+ H.,
+ Veitch,
+ J.,
+ Astell-Burt,
+ T.,
+ Hipp,
+ J.
+ A.,
+ &
+ Schipperijn,
+ J.
+(2015).
+ The
+ impact
+ of
+ interventions
+ to
+ promote
+ physical
+ activity
+ in
+ urban
+green
+ space:
+ A
+ systematic
+ review
+ and
+ recommendations
+ for
+ future
+ research.
+Social
+ Science
+ and
+ Medicine,
+ 124, 246–256.
+Kaczynski,
+ A.,
+ Potwarka,
+ L.,
+ &
+ Saelens,
+ B.
+ (2008).
+ Association
+ of
+ park
+ size,
+ distance,
+and
+ features
+ with
+ physical
+ activity
+ in
+ neighbourhood
+ parks.
+ American
+ Journal
+ of
+Public
+ Health, 98(8),
+ 1451–1456.
+Lindberg,
+ M.,
+ &
+ Schipperijn,
+ J.
+ (2015).
+ Active
+ use
+ of
+ urban
+ park
+facilities—Expectations
+ versus
+ reality.
+ Urban
+ Forestry
+ &
+ Urban
+ Greening,
+ 14,
+909–918.
+Mertens,
+ L.,
+ Van
+ Cauwenberg,
+ J.,
+ Ghekiere,
+ A.,
+ Van
+ Holle,
+ V.,
+ De
+ Bourdeaudhuij,
+ I.,
+Deforche,
+ B.,
+ . . . &
+ Van
+ Dyck,
+ D.
+ (2015).
+ Does
+ the
+ effect
+ of
+ micro-environmental
+factors
+ on
+ a
+ street’s
+ appeal
+ for
+ adults’
+ bicycle
+ transport
+ vary
+ across
+ different
+macro-environments?
+ An
+ experimental
+ study.
+ Public
+ Library
+ of
+ Science, 10(8),
+e0136715.
+Nelson,
+ M. C.,
+ Gordon-Larsen,
+ P.,
+ Song,
+ Y.,
+ &
+ Popkin,
+ B.
+ M.
+ (2006).
+ Built
+ and
+ social
+environments
+ associations
+ with
+ adolescent
+ overweight
+ and
+ activity.
+ American
+Journal
+ of
+ Preventive
+ Medicine,
+ 31(2),
+ 109–117.
+Oreskovic,
+ N.
+ M.,
+ Perrin,
+ J. M.,
+ Robinson,
+ A.
+ I.,
+ Locascio,
+ J.
+ J.,
+ Blossom,
+ J.,
+ Chen,
+ M. L.,
+.
+ . .
+ &
+ Goodman,
+ E.
+ (2015).
+ Adolescents’
+ use
+ of
+ the
+ built
+ environment
+ for
+physical
+ activity.
+ BMC
+ Public
+ Health, 15, 251.
+Orme,
+ B.
+ (2014).
+ Getting
+ started
+ with
+ conjoint
+ analysis:
+ Strategies
+ for
+ product
+ design
+and
+ pricing
+ research.
+ Manhattan
+ Beach,
+ CA:
+ Research
+ Publishers.
+Reed,
+ J.
+ A.,
+ &
+ Hooker,
+ S.
+ P.
+ (2012).
+ Where
+ are
+ youth
+ physically
+ active?
+ A
+ descriptive
+examination
+ of
+ 45
+ parks
+ in
+ a
+ southeastern
+ community.
+ Childhood
+ Obesity
+(Print),
+ 8(2),
+ 124–131.
+Ries,
+ A.
+ V.,
+ Voorhees,
+ C.
+ C.,
+ Roche,
+ K.
+ M.,
+ Gittelsohn,
+ J.,
+ Yan,
+ A.
+ F.,
+ &
+ Astone,
+ N.
+ M.
+(2009).
+ A
+ quantitative
+ examination
+ of
+ park
+ characteristics
+ related
+ to
+ park
+ use
+and physical
+ activity
+ among
+ urban
+ youth.
+ Journal
+ of
+ Adolescent
+ Health, 45(3
+Suppl),
+ S64–70.
+Telama,
+ R.,
+ Yang,
+ X.,
+ Laakso,
+ L.,
+ &
+ Viikari,
+ J.
+ (1997).
+ Physical
+ activity
+ in
+ childhood
+and
+ adolescence
+ as
+ predictor
+ of
+ physical
+ activity
+ in
+ young
+ adulthood.
+ American
+Journal
+ of
+ Preventive
+ Medicine,
+ 13(4),
+ 317–323.
+Timperio,
+ A.,
+ Giles-Corti,
+ B.,
+ Crawford,
+ D.,
+ Andrianopoulos,
+ N.,
+ Ball,
+ K.,
+ Salmon,
+ J.,
+ &
+Hume,
+ C.
+ (2008).
+ Features
+ of
+ public
+ open
+ spaces
+ and
+ physical
+ activity
+ among
+children:
+ Findings
+ from
+ the
+ CLAN
+ study.
+ Preventive
+ Medicine,
+ 47, 514–518.
+Van
+ Cauwenberg,
+ J.,
+ De
+ Bourdeaudhuij,
+ I.,
+ Clarys,
+ P.,
+ Nasar,
+ J.,
+ Salmon,
+ J.,
+ Goubert,
+ L.,
+&
+ Deforche,
+ B.
+ (2016).
+ Street
+ characteristics
+ preferred
+ for
+ transportation
+walking
+ among
+ older
+ adults:
+ A
+ choice-based
+ conjoint
+ analysis
+ with
+manipulated
+ photographs.
+ International
+ Journal
+ of
+ Behavioral
+ Nutrition
+ and
+Physical
+ Activity,
+ 13(1),
+ 6.
+Veitch,
+ J.,
+ Bagley,
+ S.,
+ Ball,
+ K.,
+ &
+ Salmon,
+ J.
+ (2006).
+ Where
+ do
+ children
+ usually
+ play?
+ A
+qualitative
+ study
+ of
+ parents’
+ perceptions
+ of
+ inﬂuences
+ on
+ children’s
+ active
+free-play.
+ Health
+ &
+ Place,
+ 12(4),
+ 383–393.
+Veitch,
+ J.,
+ Salmon,
+ J.,
+ &
+ Ball,
+ K.
+ (2007).
+ Children’s
+ perceptions
+ of
+ the
+ use
+ of
+ public
+open
+ spaces
+ for
+ active
+ free-play.
+ Children’s
+ Geographies,
+ 5(4),
+ 409–422.
+Veitch,
+ J.,
+ Ball,
+ K.,
+ Crawford,
+ D.,
+ Abbott,
+ G.
+ R.,
+ &
+ Salmon,
+ J.
+ (2012).
+ Park
+improvements
+ and
+ park
+ activity:
+ A
+ natural
+ experiment.
+ American
+ Journal
+ of
+Preventive
+ Medicine,
+ 42(6),
+ 616–619.
+Veitch,
+ J.,
+ Salmon,
+ J.,
+ Ball,
+ K.,
+ Crawford,
+ D.,
+ &
+ Timperio,
+ A.
+ (2013).
+ Do
+ features
+ of
+public
+ open
+ spaces
+ vary
+ between
+ urban
+ and
+ rural
+ areas?
+ Preventive
+ Medicine,
+56(2), 107–111.
+Veitch,
+ J.,
+ Salmon,
+ J.,
+ Carver,
+ A.,
+ Timperio,
+ A.,
+ Crawford,
+ D.,
+ Fletcher,
+ E.,
+ &
+ Giles-Corti,
+B. (2014).
+ A
+ natural
+ experiment
+ to
+ examine
+ the
+ impact
+ of
+ park
+ renewal
+ on
+park-use
+ and
+ park-based
+ physical
+ activity
+ in
+ a
+ disadvantaged
+ neighbourhood:
+The REVAMP
+ study
+ methods.
+ BMC
+ Public
+ Health, 14, 600.
+Veitch,
+ J.,
+ Carver,
+ A.,
+ Abbott,
+ G.,
+ Giles-Corti,
+ B.,
+ Timperio,
+ A.,
+ &
+ Salmon,
+ J.
+ (2015).
+How
+ active
+ are
+ people
+ in
+ metropolitan
+ parks?
+ An
+ observational
+ study
+ of
+ park
+visitation
+ in
+ Australia.
+ BMC
+ Public
+ Health, 15, 610.
+Veitch,
+ J.,
+ Salmon,
+ J.,
+ Parker,
+ K.,
+ Bangay,
+ S.,
+ Deforche,
+ B.,
+ &
+ Timperio,
+ A.
+ (2016).
+Adolescents’
+ ratings
+ of
+ features
+ of
+ parks
+ that
+ encourage
+ park
+ visitation
+ and
+physical
+ activity.
+ International
+ Journal
+ of
+ Behavioral
+ Nutrition
+ and
+ Physical
+Activity,
+ 13, 73.

@@ -1,0 +1,706 @@
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 1 
+ 
+The influence of crowd density on the sound environment in 
+commercial pedestrian streets 
+ 
+Qi Meng a, b Jian Kang a, b* 
+a School of Architecture, Harbin Institute of Technology, Harbin, 150001, China 
+b School of Architecture, Western Bank, University of Sheffield, S10 2TN 
+c State Key Laboratory of Aerodynamics, China Aerodynamics Research and Development 
+Center, Mianyang, Sichuan 621000, China 
+*Correspondence author: Email: j.kang@sheffield.ac.uk 
+Abstract 
+Commercial pedestrian streets are typically historic or cultural centres in cities, and their 
+environment, which includes the sound environment, is notably important. The objective of 
+this study is to explore the relationships between crowd density and evaluation of the sound 
+environment in commercial pedestrian streets. At the case study site in Harbin, China, on-site 
+measurements were performed, and a questionnaire survey was carried out. The analysis of 
+the sound pressure level showed that when the crowd density is less than 0.05 persons/m2, the 
+effect on the sound pressure level is insignificant, whereas when the crowd density is greater 
+than 0.05 persons/m2, the sound pressure level increases with crowd density. The analysis of 
+sound sources showed that several typical sound sources, such as traffic noise, can be masked 
+by sounds due to the crowd density. The analysis of the acoustics showed that when the 
+crowd density is less than or greater than a certain value, e.g., 0.10 to 0.25 persons/m2, the 
+acoustic comfort evaluation score decreases with a lower or higher crowd density. In terms of 
+audiovisual characteristics, the subjective loudness can increase with a greater crowd density, 
+whereas the acoustic comfort can decrease. Results for an indoor underground shopping street 
+are also presented for comparison. 
+Keywords: Crowd density; commercial pedestrian street; subjective loudness; acoustic 
+comfort; audiovisual interaction 
+Date received: 7 August 2014 Date accepted:18 December 2014 
+Publish online:26 December 2014 
+ 
+ 
+ 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 2 
+ 
+1. Introduction 
+As typical urban open spaces, commercial pedestrian streets, which are often historic or 
+cultural centres in cities, are common in China. Despite many studies on how to enhance the 
+comfort and safety of commercial pedestrian streets in the last several years (Foltˆete and 
+Piombini, 2007; Leng and Sun, 2009), the 2011 environmental bulletin of China cited 
+environmental problems, particularly acoustic problems, as still being major detrimental 
+factors in the use and evaluation of commercial pedestrian streets by users (Ministry of 
+Environmental Protection of the People's Republic of China, MEPPRC, 2011). 
+Previous studies have suggested that the evaluation of the sound environment of an 
+urban open space depends strongly on the different sound sources, specific characteristics of 
+the space, various physical environmental conditions, and users' social and behavioural 
+characteristics (Ballas, 1993; Gaver, 1993; Maffiolo et al., 1997; Dubois, 2000; Ge and Hokao, 
+2004 and 2005, Kang and Zhang, 2010). For sound factors, it has been demonstrated that for 
+sounds with multiple tonal components, the perceptual process is different from that of single 
+tonal component because the attention of subjects is not automatically focused (Bodden and 
+Heinrichs, 2001). Several special sound sources can also be evaluated higher by users, even if 
+the sound level is generally low(Farina et al., 2011; Nilsson, 2010; Jeon et al., 2012;). In terms 
+of spatial characteristics, Kang (2001) indicated that a suitable reverberation time, e.g., 1–2 s, 
+can make street music more enjoyable. In terms of environmental characteristics, the 
+importance of temperature and humidity in the environment in evaluating the acoustics has 
+been demonstrated (Yang and Kang, 2005, Yu, 2009). Regarding user characteristics, the 
+results primarily focus on individual differences, such as gender, age, income, occupation, 
+education, and their behavioural characteristics (Zimer and Ellermeier, 1999; Karlsson, 2000; 
+Ellermeier et al., 2001; Crociata et al. 2012 and 2013). whereas there have only been a limited 
+number of studies regarding the influence of crowd distribution on the sound environment. 
+Therefore, the present study examines the influence of crowd density on the sound 
+environment with objective characteristics, i.e., sound pressure level and sound sources, and 
+subjective characteristics, i.e., evaluation of acoustics and audiovisual interaction, based on 
+measurements and a series of subjective surveys in a typical commercial pedestrian street. For 
+comparison, results of an indoor underground shopping street are also presented. 
+2. Methodology 
+2.1. Survey site 
+In China, commercial pedestrian streets are nearly in every city centre. Most of these streets 
+are traditional streets, and therefore, the building heights on both sides of these streets are 
+generally low, e.g., 2 to 4 floors (8 to 16 m in height), and the aspect ratio of the street cross-
+section typically ranges from 1:1 to 1:3 (Guo, 2010). These types of streets are rather similar 
+to many streets in Europe (Ashihara, 1983). 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 3 
+ 
+In the present study, a traditional commercial pedestrian street, the Central Avenue in 
+Harbin, China, was chosen as the case site. It is a historic and cultural centre, built in 1898 by 
+the Russians, and the buildings on both sides of the streets are of 3 to 4 floors. The street is 
+1450 m in length and 20 m wide. Because traffic noise is typically the primary source of noise 
+in urban open spaces (Miedema and Vos, 1998; Lebiedowska, 2005), survey locations were 
+selected from a section on this street with a traffic road, which is 20 m wide, as shown in Fig. 
+1a. The crowd density on one side of the street is high and is low on the other side; therefore, 
+the survey points are along both sides of the street and are denoted R1 to R6 on the generally 
+high crowd density side and R1' to R6' on the generally low crowd density side. The spacing 
+between survey points is 5 m. R1 and R1' are 10 m away from the border of the traffic road to 
+ensure that the pedestrians' behaviour is generally the same (Yu and Kang, 2009). 
+(a) 
+ (b) 
+ 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 4 
+ 
+(c) 
+ (d) 
+Figure 1. The survey site and the measurement points along the commercial pedestrian street 
+(a), photograph of the crowd density at point R2 (b), measurement of crowd density at point 
+R2 (c), schematic of the underground shopping street (d) 
+2.2. Questionnaire survey 
+To study the influence of crowd density on the acoustic characteristics, including the 
+subjective loudness and acoustic comfort, a questionnaire survey was carried out, 
+simultaneously with the crowd density measurements, and every questionnaire was generally 
+completed in 3-4 minutes. In total 662 valid questionnaires were obtained. Approximately 20 
+to 30 interviews were conducted at each survey point. The interviewees in all the field surveys 
+were randomly selected, and their educational and social backgrounds and their on-site 
+behaviours were shown to be representative (Yu and Kang, 2010). The surveys were 
+conducted at various times from morning to evening, which were divided into three periods: 
+09:00 to 11:59, 12:00 to 14:59, and 15:00 to 18:00. A five-point bipolar category scale was 
+used in the questionnaire design. Subjective loudness was evaluated with five levels: 1, very 
+quiet; 2, quiet; 3, neither quiet nor noisy; 4, noisy; and 5, very noisy. Acoustic comfort was 
+evaluated with five levels: 1, very uncomfortable; 2, uncomfortable; 3, neither comfortable 
+nor uncomfortable; 4, comfortable; and 5, very comfortable. Before the formal investigation 
+was conducted, the reliability and validity of the questionnaire were tested for suitability of 
+the final questionnaire (Raimbault, 2006). Considering that interviewees were required to be 
+in the sound environment for a period of time to properly evaluate the spaces (Kang, 2004), 
+users who were in the commercial pedestrian street for less than half an hour were not 
+interviewed. The surveys were conducted every 10 minutes at the survey locations to ensure 
+stochastic behaviour in the survey (Yang and Kang, 2005). 
+ 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 5 
+ 
+2.3. Crowd density measurement 
+The crowd density was measured at every survey point in an area of 5 m*20 m, and these 
+areas were divided into 1m by 1m grids. Figure 1b shows an example at point R2. The 
+pedestrians can be sorted by these grids. In Fig. 1c, the locations of pedestrians are marked 
+that can be used for further statistical analysis. The red dots denote pedestrians in the 
+photographs, whereas the blue dots denote pedestrians who were not in the photographs, 
+which is because, the photographs were taken on a balcony and several pedestrians under the 
+balcony were missed but marked by another person while the photographs were taken. The 
+crowd density for every survey point is shown as the average number of persons per square 
+meter (persons/m2) in 5 minutes. 
+2.4. Sound level measurement 
+The sound pressure level was measured immediately following each interview. For each 
+measurement, the microphone of the sound level meter was positioned approximately 1 m 
+away from any reflective surfaces and 1.2 m to 1.5 m above the ground to reduce the effect of 
+acoustic reflection (Kang 2006). This measurement method was also used to measure the 
+indoor sound pressure level in previous studies (Chen et al., 1991; Pettersson, 1997; Walerian 
+et al., 2001). The sound level meter was set in slow-mode and A-weight, and a reading was 
+taken every 3 s to 5 s. A total of 5 minutes of data were obtained at each survey position, and 
+the corresponding LAeq was derived. Simultaneously, several other environment factors, e.g., 
+air temperature, relative humidity, and luminance, were also measured, although they are not 
+analysed in this paper. 
+2.5. Consideration of other factors 
+For the sake of examining the differences between indoor and open spaces, an underground 
+shopping street, as shown in Figure 1d, was also selected. The same questionnaire survey and 
+same measurements of crowd density and environment factors were also performed for this 
+street (Meng et al, 2013; Meng and Kang, 2013). 
+In terms of the audiovisual interaction, two videos were taken during the investigations 
+where photographs of the crowd density were taken: one with a higher crowd density of 0.28 
+persons/m2, and the other at a lower crowd density of 0.08 persons/m2. Two audios were also 
+taken during the investigation at the location where the sound pressure level was measured, 
+one at a higher sound pressure level of 76 dBA, and the other at a lower sound pressure level 
+of 69 dBA. For each video the sound pressure level variation was within about 3 dBA, which 
+was rather stable(Kang et al, 2012). 
+2.6. Statistical analysis 
+The results were analysed with SPSS Software 15.0 (Yin and Liu, 2008) using linear and 
+nonlinear correlations from regression analysis, Pearson/Spearman correlations (two-tailed), 
+and mean differences (t-test, two-tailed) for factors with two scales. 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 6 
+ 
+3. Results and analysis 
+Based on the survey and the measurement results, this section presents the effect of crowd 
+density on the sound environment by considering both objective characteristics, e.g., sound 
+pressure level and sound sources, and subjective characteristics, e.g., evaluation of acoustic 
+comfort and subjective loudness, as well as audiovisual interactions. 
+3.1. Influence of sound pressure level 
+The relationships between crowd density and the measured LAeq are shown in Figure 2a, 
+where linear regressions and the coefficient of determination R2 are also presented. Figure 2a 
+shows that there is a general correlation between the crowd density and the measured sound 
+level (p<0.001), although the coefficient of determination R2 was only 0.261 (dotted line) 
+when the crowd density ranged from 0 to 0.40 persons/m2. To evaluate this trend, at a scale of 
+0.02 persons/m2, the mean crowd density with the mean LAeq is also presented in Figure 2a 
+using the solid block. It can be observed that the influence of crowd density exhibited a 
+positive, linear trend with an R2 value of 0.724, and there was also a positive correlation with 
+an R2 value of 0.401 (solid line) when the crowd density was greater than 0.05 persons/m2. It 
+is interesting to note that the relationships between the crowd density, when it was less than 
+0.05 persons/m2, and the measured LAeq are not significant based on a significance level 
+defined as p>0.1. A possible reason is that sound level is primarily influenced by other sound 
+sources, e.g., a PA system or traffic noise, when the crowd density is generally less than 0.05 
+persons/m2. 
+(a) 
+ (b) 
+Figure 2. Influence of crowd density on the measured sound pressure level on the commercial 
+pedestrian street (a) and the influence of crowd density on the measured sound pressure level 
+on the underground shopping street (b) 
+It is interesting to note that the relationship between the crowd density and the measured 
+LAeq is also linear for the underground shopping street, with a coefficient of determination R2 
+of 0.437. 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 7 
+ 
+A model was also created to calculate the influence of crowd density on sound pressure 
+level, where 2-256 people were randomly arranged in an open area of 20 m*20 m, where the 
+receiver R was located in the middle of the area. All the people were more than 3 m away 
+from the receiver R to avoid any bias by single individuals (Kang, 2006). Figure 3(a) presents 
+an example of the model with 128 people. For the sake of convenience, reflections from the 
+ground and walls were not considered in this model, and in the calculation, the sound power 
+level of every person was fixed at 60 dBA (Zhang, 2008). 
+The sound pressure level for one person at receiver R is calculated by 
+ 
+ 
+ 
+ 
+ 
+(1) 
+where Lp is the sound pressure level, Lw is the sound power level, and r is the distance 
+between the person and receiver R. 
+The sound pressure level for all persons at receiver R is calculated by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+The relationships between the crowd density and the calculated LAeq are shown in 
+Figure 3b, in which linear regressions and the coefficient of determination R2 are also 
+presented. It is interesting to note that when the crowd density is greater than 0.05, the slope 
+ratios of the regression equation for the measurement and calculation are nearly the same, 
+where the regression equations are y=33.74x+67.12 (measurement) and y=30.68x+55.96 
+(calculation). This result confirms that the sound pressure level can generally be altered by 
+crowd density with or without other sound sources. 
+(a) 
+ (b) 
+Figure 3. A model used to simulate the influence of crowd density on sound pressure level on 
+the commercial pedestrian street with 128 points in the area (a) and the calculation results (b) 
+3.2. Influence of sound sources 
+The interviewees were asked to describe up to five sounds they heard in the commercial 
+pedestrian street during the interview and to note the three sounds they heard first (Semidry, 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 8 
+ 
+2006). In this section, the percentages of hearing the typical sound sources with different 
+crowd densities are analysed. 
+3.2.1. Influence of traffic noise 
+A statistical analysis of the survey results showed that traffic noise was most cited by users, 
+with a frequency of 526 times. The percentage of users who heard traffic noise at different 
+crowd densities is shown in Figure 4, where G1 indicates the data for R1 to R3 and R1' to R3', 
+which represent the area near the traffic road, and G2 indicates the data for R4 to R6 and R4' 
+to R6', which represent the area far away from the traffic road. 
+(a) 
+ (b) 
+(c) 
+Figure 4. The percentage of users who heard traffic noise at different crowd densities (a), 
+where G1 represents the data for R1 to R3 and R1' to R3', G2 represents the data for R4 to R6 
+and R4' to R6', the percentage of users who heard traffic noise at R1 to R6 (b) and R1' to R6' 
+(c) 
+Figure 4a shows that the percentage of users hearing traffic noise ranged from 59% to 22% 
+when users were near (<20 m) the traffic road, whereas the percentage ranged from 35% to 0% 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 9 
+ 
+when users were far (25 to 35 m) from the traffic road for crowed densities ranging from 0.02 
+to 0.32. The users near the traffic road heard more traffic noise than users who were far from 
+the traffic road, regardless of the crowd density, with a mean difference of 24% (p<0.01). 
+Traffic noise can be masked by crowd density: when the crowd density doubled, the 
+percentage of users who heard traffic noise generally decreased to 7%. Compared with crowd 
+density, distance was more effective in reducing the traffic noise that was heard. 
+Further analysis of the influence of crowd density on traffic noise was conducted, the 
+results of which are shown in Figures 4b to 4e, where R1-R6 were located in an area of 
+relatively low crowd density area, e.g., a crowd density ranging from 0.01 to 0.06 persons/m2, 
+whereas R1’-R6’ were located in an area of relatively high crowd density, e.g., a crowd 
+density ranging from 0.16 to 0.31 persons/m2. In this section, Dn denotes these particular 
+crowd densities, where D1=0.01, D2=0.03, D3=0.06, D4=0.16, D5=0.23, and D6=0.31 
+persons/m2. 
+As shown in Figures 4b and 4c, all users at R1’ and R2’ and most of the users at R1 and 
+R2 could hear traffic noise when the crowd densities were D1 and D2. This result 
+demonstrates that when a user is generally within 15 m from a traffic road, crowd density 
+cannot mask traffic noise. When the users were at R3'-R6', the traffic noise they heard 
+decreased to 66% (D1), 69% (D2), and 69% (D3), respectively. This result indicates that 
+when the crowd density is relatively low, the effect of distance in masking traffic noise does 
+not vary and decreases by an average of 3.5% traffic noise per meter. When the users were at 
+R3 and R6, the traffic noise they heard decreased to 75% (D4) and 83% (D5), respectively. 
+This result indicates that when the crowd density is relatively high, the effect of distance in 
+masking traffic noise is enhanced. It should be noted that the percentage of users who heard 
+traffic noise was 0% at R6, and therefore, the distance from R2 to R5 was used, for which the 
+percentage of users who heard traffic noise decreased to 77%. The effect of distance in 
+masking traffic noise was generally 4% per meter on average when the crowd density was 
+relatively high. 
+3.2.2. Influence of other sound sources 
+In addition to traffic noise, there were three other sound sources that were also generally cited 
+by users (>300 times): PA systems (482 times), music from shops (325 times), and 
+surrounding conversations (318 times). Therefore, the influence of crowd density on these 
+three sound sources were also investigated, with the results presented in Figure 5, where G1 
+indicates the data for R1-R3 and R1'-R3' and represents the area near the traffic road and G2 
+indicates the data for R4-R6 and R4'-R6' and represents the area far from the traffic road. 
+It is interesting to note from Figure 5a that the percentage of users who heard a PA 
+system generally decreased from 19% to 37% when users were near the traffic road, whereas 
+the figure generally increased from 52% to 32% when users were far from the traffic road 
+when the crowed density ranged from 0.02 to 0.32. A rather different trend was thus observed 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 10 
+ 
+when users heard a PA system at different crowd densities. One possible reason why this 
+result was obtained is that when users were near the traffic road, the large crowd density 
+could mask part of the traffic noise, which was the primary sound source, and therefore, users 
+heard more of the PA system. When users were far from the traffic road, the greater crowd 
+density may have allowed users to pay attention to other sound sources, such as surrounding 
+conversations and footsteps. Subsequently, their focus on the PA system may have been 
+decreased. 
+(a) 
+ (b) 
+(c) 
+ (d) 
+Figure 5. Percentage of users who heard other sound sources at different crowd densities, 
+where G1 represents the data for R1 to R3 and R1' to R3', G2 represents the data for R4 to R6 
+and R4' to R6' for a PA system (a), music from shops (b), surrounding conversations (c), and 
+the influence of crowd density on number of speakers (d) 
+With respect to music from shops, as shown in Figure 5b, hearing preference did not 
+vary appreciably, ranging from 12% to 18% when users were near the traffic road, whereas 
+hearing preference ranged from 13% to 22% when users were far from the traffic road when 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 11 
+ 
+the crowed density ranged from 0.02 to 0.32. There are two reasons that may explain why 
+hearing music from shops did not change. One is that sound sources are generally directional, 
+and therefore, other sound sources cannot mask them effectively. The other is that music from 
+shops typically has linguistic meaning and therefore can more easily attract attention from 
+users compared with other sound sources lacking such meaning. 
+As shown in Figure 5c, the percentage of noise heard from surrounding conversations 
+ranged from 0 to 23% when users were near the traffic road, whereas the percentage ranged 
+from 0 to 29% when users were far from the traffic road when the crowd density ranged from 
+0.02 to 0.32. When the crowd density was extremely low, i.e., 0.02 persons/m2, surrounding 
+speech was completely masked by other sound sources. The percentage of noise heard from 
+surrounding speech grew rapidly, i.e., from 3% to 22% in G1 and 7% to 26% in G2, when the 
+crowd density ranged from 0.04 persons/m2 to 0.16 persons/m2. On the other hand, the 
+percentage of noise heard from surrounding conversation increased slowly, i.e., from 21% to 
+23% and 26% to 29%, when the crowd density was even higher, from 0.16 persons/m2 to 0.32 
+persons/m2, respectively. 
+Further investigation was conducted to explain why the noise from surrounding 
+conversations increased slowly when the crowd density was very high. Sixteen volunteers 
+were instructed to record how many people were talking in an area measuring 20 m*20 m in 
+the commercial pedestrian street. Each volunteer stayed within a 5 m*5 m area, and every 15 
+minutes, the volunteers simultaneously recorded data. The relationship between crowd density 
+and the number of speakers is shown in Figure 5d, where the corresponding regressions and 
+coefficients of determination R2 are also presented. Figure 5d shows that when the crowd 
+density was relatively high, e.g., greater than 0.16, the number of speakers increased slowly. 
+It can be observed that more people spoke with each other in a low crowd density in the open 
+space. 
+3.3. Influence of subjective evaluation 
+The relationships between the measured crowd density and the subjective perception of sound 
+level (1, very quiet; 2, quiet; 3, neither quiet nor noisy; 4, noisy; and 5, very noisy), referred to 
+as subjective loudness below, are shown in Figure 6a, where the corresponding linear 
+regressions and correlation coefficients R2 are presented. Figure 6a shows that there was 
+generally a strong positive correlation between the crowd density and the subjective loudness 
+(p<0.001), with a correlation coefficient of R2=0.307. As the crowd density increased, the 
+mean score of subjective loudness increased. The influence of crowd density on subjective 
+loudness in an underground shopping street is also presented in Figure 6b for comparison, 
+where the corresponding linear regressions and the correlation coefficient R2 are also 
+presented. Figure 6b shows that there was also a strong positive correlation between the 
+crowd density and the subjective loudness (p<0.001), with a correlation coefficient of 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 12 
+ 
+R2=0.551. It should be noted that the effect of crowd density on subjective sound level was 
+generally stronger in the underground shopping street than it was in the commercial 
+pedestrian street, perhaps due to the enclosed feature of the space. 
+(a) 
+ (b) 
+Figure 6. Relationships between crowd density and subjective loudness on the commercial 
+pedestrian street (a) and on the underground shopping street (b) 
+In Figure 7a, the relationships between crowd density and perceived acoustic comfort 
+level (1, very uncomfortable; 2, uncomfortable; 3, neither comfortable nor uncomfortable; 4, 
+comfortable; and 5, very comfortable) are shown with the corresponding quadratic regressions 
+and correlation coefficients R2. It can be observed that there was generally a strong correlation 
+between the crowd density and the subjective perception of acoustic comfort (p<0.001), with 
+an R2 value of 0.313. It is interesting that the relationship between the crowd density and 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 13 
+ 
+perceived acoustic comfort is parabolic. When the crowd density was lower or greater than a 
+certain value, approximately 0.10 to 0.25 persons/m2, the acoustic comfort score decreased 
+with both decreasing and increasing crowd density. In other words, people felt that the 
+acoustic environment was less comfortable with both a lower and a higher crowd density. A 
+possible reason to explain why acoustic comfort is low when the crowd density is low, is that 
+in a commercial pedestrian street, people appear to prefer a lively environment, as stated by 
+one customer: ‘I don’t want to shop in dull stores; instead, I would like to be surrounded by 
+noise and lively crowd’. However, if the crowd density becomes relatively high, for example, 
+greater than 0.25 persons/m2, people will begin to feel acoustically uncomfortable. A further 
+study was performed to test this hypothesis. Sixteen volunteers were invited to perform the 
+same investigation regarding the influence of acoustic comfort as a function of crowd density 
+in a different area located 100 m away from the traffic road and on the same commercial 
+pedestrian street. This distance was far enough such that the traffic noise was not an issue to 
+users (Kang, 2006). The results obtained are shown in Figure 7b, where the relationships 
+between the crowd density and the perceived acoustic comfort level are shown with the 
+corresponding quadratic regressions and correlation coefficients R2. Figure 7b shows that the 
+relationship between the crowd density and the perceived acoustic comfort level is also 
+parabolic in shape, with an R2 value of 0.539 (p<0.001). This result agrees with the reasoning 
+based on user preference. 
+It is interesting that in the underground shopping street, similar parabolic tendencies in 
+acoustic comfort evaluation were also found, as shown in Figure 7c, with an R2 value of 0.382 
+(p<0.001). It should be noted that in the underground shopping street, users reported a higher 
+level of acoustic comfort at a certain crown density, approximately 0.05 to 0.20 persons/m2, 
+which is 0.05 persons/m2 lower than that in the commercial pedestrian street. A possible 
+reason for this finding is that the spatial scale of the underground shopping street is lower than 
+that of the commercial pedestrian street, and therefore, the perception of the same level of 
+acoustic comfort requires a lower crowd density. 
+3.4. Audiovisual influence 
+In terms of audiovisual interaction, Southworth (1969) found that attention to visual forms 
+reduces the conscious perception of sound when aural and visual settings are coupled and vice 
+versa. The interaction between auditory and visual perception gives people a sense of 
+involvement, which leads to more comfort, particularly when the auditory perceptions are 
+related to visual components. Therefore, in this study, several experiments concerning the 
+influence of crowd density on audiovisual interactions were also performed. 
+ 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 14 
+ 
+(a) 
+ (b) 
+(c) 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 15 
+ 
+Figure 7. Relationship between crowd density and perceived acoustic comfort level on the 
+commercial pedestrian street with a traffic road (a); relationship between crowd density and 
+perceived acoustic comfort level on the commercial pedestrian street without a traffic road (b) 
+and on the underground shopping street (c) 
+Two videos and two audio recordings, which were recorded at the survey sites, were 
+combined into four groups in post-production, where group A featured the video recorded at a 
+low crowd density and the audio recorded at a low sound pressure level, group B featured the 
+video recorded at a high crowd density and the audio recorded at a low sound pressure level, 
+group C featured the video recorded at a low crowd density and the audio recorded at a high 
+sound pressure level, and group D featured the video recorded at a high and the audio 
+recorded at a high sound pressure level. Sixty-four volunteers were chosen to listen to the four 
+groups of video and audio in the laboratory using headphones to simulate the conditions of 
+the original environment. The volunteers were all graduate students of the same year; half of 
+the them were men and half of them were women. These volunteers were trained to judge the 
+sound level from the videos before the test to ensure they could accurately evaluate the 
+acoustics. The volunteers were also divided into four groups, with 16 people per group, such 
+that half of the total number of volunteers in each group were men and half were women. One 
+group of volunteers was told to listen to one of the videos and to then evaluate the loudness of 
+the video and their level of acoustic comfort. 
+Table 1 Influence of crowd density considering audiovisual effect. 
+ 
+Group 
+A 
+Group 
+B 
+Mean difference 
+between A and B 
+Group 
+C 
+Group 
+D 
+Mean difference 
+between D and 
+C 
+Subjective 
+loudness 
+2.75 
+3.06 
+0.31** 
+3.51 
+3.75 
+0.24** 
+Acoustic 
+comfort 
+3.02 
+2.81 
+-0.21** 
+3.25 
+2.93 
+-0.32** 
+** means significance p<0.01 
+The results are shown in Table 1 with the means and mean differences (t-test). Table 1 
+shows that the mean difference in subjective loudness between group B and group A was 0.31 
+with a significance of p<0.01, whereas the mean difference between group D and group C 
+was 0.24 with a significance of p<0.01. This result shows that when the sound level is 
+generally the same, users located in an area of high crowd density will evaluate subjective 
+loudness as being high. 
+The mean difference in acoustic comfort level is also presented in Table 1, which shows 
+that the mean difference between group B and group A was -0.21 with a significance level of 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 16 
+ 
+p<0.01, whereas the mean difference between group D and group C was -0.32 with a 
+significance level of p<0.01. This result shows that when the sound level is generally the 
+same, users in an area of high crowd density will evaluate their acoustic comfort level as 
+being low. 
+ 
+4. Conclusions 
+Based on measurements and a questionnaire survey conducted in a traditional commercial 
+pedestrian street and an underground shopping street, sound environments with different 
+crowd densities were evaluated. 
+The influence of crowd density on sound levels was generally insignificant, when the 
+crowd density was less than 0.05 persons/m2, whereas the sound pressure level increased with 
+crowd density when the crowd density was greater than 0.05 persons/m2. This result was also 
+indicated by theoretical calculations. The influence of crowd density on the sound pressure 
+level was more significant in the underground shopping street than it was in the commercial 
+pedestrian street, with an R2 value of 0.437. 
+Traffic noise could not be completely masked when interviewees were located 10 to 20 
+m away from the traffic road, whereas when the interviewees were located 25 to 35 m away 
+from the traffic road, the traffic noise was strongly masked, even when the crowd density was 
+extremely low, i.e., 0.02, where less than 40% of the interviewees reported hearing traffic 
+noise. 
+Regarding the other sound sources, the PA system was heard with greater frequency as 
+the crowd density increased when the interviewees were located 10 to 20 m away from the 
+traffic road, whereas the sound from the PA system gradually became masked as the crowd 
+density increased when the interviewees were located 25 to 35 m away from the traffic road. 
+The influence of crowd density on music from shops was insignificant: only 10-20% of the 
+people could hear music from shops when the crowd density was either high or low. The 
+sounds emanating from surrounding conversations could be enhanced as the crowd density 
+increased regardless of whether the interviewees were near or far from the traffic road. 
+In evaluating acoustic levels, the influence of subjective loudness was also insignificant 
+when the crowd density was less than 0.05 persons/m2, whereas when the crowd density was 
+greater than 0.05 persons/m2, subjective loudness was enhanced the crowd density increased. 
+It is interesting that the relationship between crowd density and acoustic comfort level was 
+parabolic, i.e., when the crowd density was less than 0.10 persons/m2 or greater than 0.25 
+persons/m2, the acoustic comfort level was evaluated as being lower with decreasing or 
+increasing crowd density. In the underground shopping street, the relationship between the 
+crowd density and the acoustic comfort evaluation was also parabolic, where greater acoustic 
+comfort was perceived at densities ranging from approximately 0.05 to 0.20 persons/m2. 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 17 
+ 
+With respect to audiovisual influence, at essentially the same sound level, a higher crowd 
+density was correlated with greater subjective loudness, and was correlated with lower 
+acoustic comfort. 
+ 
+Acknowledgments: This work was funded by the State Natural Science Foundation of 
+China (Project Number: 51308145) and the Fundamental Research Funds for the Central 
+Universities (Grant No. HIT. NSRIF 2014076). 
+ 
+References 
+Ashihara, Y. (1983).The Aesthetic Townscape. The MIT Press, Boston, USA. 
+Ballas, J.A.(1993). Common factors in identification of an assortment of brief everyday 
+sounds. Journal of Experimental Psychology: Human Perception and Performance, 19, 250–
+267. 
+Bodden, M. and Heinrichs, R. (2001). Moderators of sound quality of complex sounds with 
+multiple tonal components. Proceedings of the 17th International Congress on Acoustics 
+(ICA), Rome, Italy. 
+Chen, C.J., Hiramatsu, K., Ooue, T., Takagi, K., and Yamamoto, T. (1991). Measurement of 
+noise-evoked blood pressure by means of averaging method: Relation between blood pressure 
+rise and SPL. Journal of Sound and Vibration, 151(3), 383–394. 
+Crociata, S.D., Martellotta, F., and Simone, A. (2012). A measurement procedure to assess 
+indoor environment quality for hypermarket workers. Building and Environment, 47, 288–299. 
+Crociata, S.D., Simone, A., and Martellotta, F. (2013). Acoustic comfort evaluation for 
+hypermarket workers. Building and Environment, 59, 369–378. 
+Dubois, D. (2000). Categories as acts of meaning: the case of categories in olfaction and 
+audition. Cognitive Science Quarterly, 1, 35–68. 
+Ellermeier W., Eigenstetter M., and Zimmer K. (2001). Psychoacoustic correlates of 
+individual noise sensitivity. Journal of Acoustic Society of American, 109, 1464–1473. 
+Farina, A., Pieretti, N., and Piccioli, L. (2011). The soundscape methodology for long-term 
+bird monitoring: A Mediterranean Europe case-study. Ecological Informatics, 6, 354–363. 
+Foltˆete, J.C. and Piombini, A. (2007). Urban layout, landscape features and pedestrian usage. 
+Landscape and Urban Planning, 81, 225–234. 
+Ge, J., and Hokao, K. (2004). Research on sound environment of urban open space from the 
+viewpoint of soundscape - A case study of saga forest garden, Japan. Acta Acustica unit with 
+Acustica, 90, 555–563. 
+Ge, J., and Hokao, K. (2005). Applying the methods of image evaluation and spatial analysis 
+to study the sound environment of urban street areas. Journal of environmental psychology, 
+25, 455–466. 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 18 
+ 
+Gaver, W. (1993). What in the world do we hear? An ecological approach to auditory event 
+perception. Ecological Psychology, 5, 11–29. 
+Guo, Y.Y. (2010).Urban commercial pedestrian street of the universal design research. 
+Master Thesis, Shan dong Jian zhu University, Jinan, China. (In Chinese) 
+Jeon, J.Y., Lee, P.J.,You, J. and Kang, J. (2012). Acoustical characteristics of water sounds 
+for soundscape enhancement in urban open spaces. Journal of Acoustic society of American, 
+131, 1357–1366. 
+Kang, J. (2006). Urban Sound Environment, Taylor and Francis, London, UK. 
+Kang, J., and Zhang, M. (2010). Semantic differential analysis of the soundscape in urban 
+open public spaces. Building and Environment, 45,150–157. 
+Kang, J., Meng, Q., and Jin, H. (2012). Effects of Individual Sound Sources on the Subjective 
+Loudness and Acoustic Comfort in Underground Shopping Streets. Science of the Total 
+Environment 435-436: 80–89. 
+Karlsson, H. (2000). The acoustic environment as a public domain. The Journal of Acoustic 
+Ecology, 1, 10–13. 
+Lebiedowska, B. (2005). Acoustic background and transport noise in urbanised areas: a note 
+on the relative classification of the city soundscape. Transport Res Part D, 10, 341–345. 
+Leng, H., and Sun, Y. (2009). Study of measures about climatic environment safety in the 
+central pedestrian street of Harbin. Journal of Harbin Institute of Technology (New Series), 
+16(suppl.2 ), 60–64. 
+Maffiolo, V., David, S., Dubois, D., Vogel, C., Castellengo, M., and Polack, J.D. (1997). 
+Sound characterization of urban environment. Proceedings of Inter-Noise, Budapest, Hungary. 
+Meng, Q., Kang, J., and Jin, H. (2013). Field Study on the Influence of Spatial and 
+Environmental Characteristics on the Evaluation of Subjective Loudness and Acoustic 
+Comfort in Underground Shopping Streets. Applied Acoustics, 74, 1001–1009. 
+Meng Q., and Kang J. (2013). Influence of social and behavioural characteristics of users on 
+their evaluation of subjective loudness and acoustic comfort in shopping malls. PLOS ONE, 
+8(1), e54497, 1–10. 
+Miedema, H.M.E., and Vos, H. (1998). Exposure-response relationships for transportation 
+noise, Journal of Acoustic Society of American, 104, 3432–3445. 
+Ministry of Environmental Protection of the People's Republic of China, MEPPRC (2011) 
+The environment bulletin 2011 of China. China statistics Press, Beijing, China. (In Chinese) 
+Nilsson, M. E., Alvarsson, J., Radsten-Ekman, M., and Bolin, K. (2010). Auditory masking of 
+wanted and unwanted sounds in a city park. Noise Control Engineering Journal, 58, 524–531. 
+Pettersson, B. (1997). Indoor noise and high sound levels-A transcription of the Swedish 
+national board of health and welfare’s guidelines. Journal of Sound and Vibration, 205(4), 
+475–480. 
+
+Qi Meng, Jian Kang: Science of the Total Environment 
+[DOI:10.1016/j.scitotenv.2014.12.060] 
+ 
+Science of the Total Environment, Volume 511, 2015, pages:249-258 
+page 19 
+ 
+Raimbault, 
+M. (2006).Qualitative judgments 
+of 
+urban 
+soundscapes: 
+Questioning 
+questionnaires and semantic scales, Acta Acustica unit with Acustica, 92, 929–937. 
+ Semidry, C. (2006). Listening to a city with the sound walk method. Acta Acust., 92, 959–
+964. 
+Southworth, M. (1969). The sonic environment of cities. Environment and Behavior, 1, 49–70. 
+Walerian, E., Janczur, R., and Czechowicz, M.(2001). Sound level forecasting for city-centers. 
+Part 1: Sound level due to a road within an urban canyon. Applied Acoustics, 62,: 359–380. 
+Yin, H.J., and Liu, E. (2008). SPSS15.0 for Windows, Social Sciences Academic Press, 
+Beijing, China. (in Chinese) 
+Yang, W., and Kang, J. (2005) Acoustic comfort evaluation in urban open public spaces. 
+Applied Acoustics 66: 211–229. 
+Yu, L., and Kang, J. (2006). Integration of social/demographic factors into the soundscape 
+evaluation of urban open spaces using artificial neural networks. Proceedings of the 35 Inter-
+Noise, Honolulu, USA. 
+Yu, L., and Kang, J. (2008) Effects of social, demographical and behavioural factors on the 
+sound level evaluation in urban open spaces. Journal of Acoustic Society of American, 123, 
+772–783. 
+Yu, L., and Kang, J. (2010). Factors influencing the sound preference in urban open spaces. 
+Applied Acoustics, 71, 622–633. 
+Yu, L. (2009).Soundscape Evaluation and ANN Modelling in Urban Open Spaces. PhD 
+Thesis. Sheffield: University of Sheffield. UK. 
+Zhang, Z. (2008).Speech definition simulation of underground shopping street, Master Thesis, 
+Harbin Institute of Technology, Harbin, China. (In Chinese) 
+Zimer, K., and Ellermeier, W. (1999). Psychometric properties of four measures of noise 
+sensitivity: a comparison. Journal of Environmental Psychology, 19, 295–302.

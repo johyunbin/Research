@@ -1,0 +1,7 @@
+rec,verdict,reason_code,rationale,boundary_rule
+184,FINAL_INCLUDE,,"동반 상태·관계강도·활동유형을 예측변수로 사운드스케이프 평가를 분석한 역방향 설계(Table 3–8). 셰필드·쑤저우 옥외 광장 현장 설문 304부, 동반 여부가 말소리·아이소리 인지와 사회적 음 선호에 유의.",
+208,FINAL_EXCLUDE,X3,Table 1의 12개 설계속성·Table 2의 4개 시각품질 어디에도 음환경 변수 없음. 초록의 'tranquility'는 정성 인터뷰 코드로만 언급되고 음향적으로 측정·정의되지 않음.,
+209,FINAL_EXCLUDE,X4,무향실 랩 실험(N=25). 아웃컴이 Sonic Pertinence·Soundscape Quality·Haptic Comfort·Walking Quality 4종 지각 평정뿐이며 보행속도·경로·체류 등 관찰 행태 측정 없음.,
+220,FINAL_INCLUDE,,"청각 지각(사운드스케이프 쾌적성·이벤트성)이 PLS-SEM 매개변수로 투입되어 정적·동적 활동빈도에 유의한 간접효과(Table 8·Figure 6). 가로 40지점 설문 471부, 자기보고 활동빈도 8종.",
+233,FINAL_EXCLUDE,X3,SOPARC 관찰로 PA_METs를 측정했으나 Table 1 독립변수(입지·식생·시설·미관)에 음환경 지표 전무. 'noise reduction'은 고찰의 선행연구 인용일 뿐 측정 변수 아님.,
+268,FINAL_EXCLUDE,X4,SPL 36회 측정·음원 분류·소음지도만 산출. '이용유형·이용강도'는 서술적 맥락 기술이며 인원수·활동 코딩 등 정량 행태 측정 없음(저자도 이용자 지각·선호 비대상 명시).,

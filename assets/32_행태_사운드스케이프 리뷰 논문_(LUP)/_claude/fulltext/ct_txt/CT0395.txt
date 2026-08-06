@@ -1,0 +1,743 @@
+Contents lists available at ScienceDirect
+Ecological Informatics
+journal homepage: www.elsevier.com/locate/ecolinf
+ 
+Associations among park features, physical activities, and sensory 
+perceptions from online reviews: A domain-specific named entity recognition 
+model
+Wenpei Li a,b
+, Jiarui Chi c, Jiaqian Wu d, Xin Zhang e, Jie Zhang a, Wenya Zhai f,g, 
+Pengyuan Liu h, Christiane M. Herr i,∗, Rudi Stouffs a
+,∗
+a Department of Architecture, National University of Singapore, Singapore
+b School of Design, Southern University of Science and Technology, China
+c School of Future Technology, Tianjin University, China
+d School of Architecture and Urban Planning, Huazhong University of Science and Technology, China
+e Institute of Computing and Intelligence, Harbin Institute of Technology, China
+f Wuhan Planning & Design Institute, China
+g School of Urban Design, Wuhan University, China
+h Urban Analytics Subject Group, Urban Studies & Social Policy Division, University of Glasgow, United Kingdom
+i School of Design, Southern University of Science and Technology, Shenzhen, Guangdong China
+A R T I C L E I N F O
+Dataset link: https://github.com/Wenpeimuzi/
+Landscape-NLP, https://doi.org/10.5281/zeno
+do.17767378
+Keywords:
+Big data
+Perceptions
+Physical activity
+Natural language processing
+Named entity recognition
+ 
+A B S T R A C T
+Research on human–environment interactions remains fragmented, with limited exploration of how diverse 
+park features jointly relate to multiple physical activity (PA) levels and sensory perceptions. Large-scale textual 
+data offer new opportunities to capture public experiences of parks. However, prevailing natural language 
+processing approaches, such as lexicon-based and prompt-based methods, often lack contextual sensitivity 
+and accuracy. To address these limitations, we developed a landscape character named entity recognition 
+(LCNER) model fine-tuned on a manually curated dataset to simultaneously extract park features, sensory 
+perceptions, and three PA levels from online reviews. Among six pre-trained language models evaluated, 
+the DeBERTa-large–based LCNER achieved the highest mean F1 score (0.896 ± 0.001) and outperformed 
+domain-lexicon baselines, with the largest improvements observed for the best-performing entity categories: 
++0.558 in precision, +0.231 in recall, and +0.395 in F1 score. Quasi-binomial analyses revealed that facility-
+related features provided better model fit for moderate-to-vigorous PA (MVPA) and sound perception than 
+for other activities and sensory types. Several features exhibited opposite associations with MVPA and 
+sedentary behavior. Moreover, certain activity-oriented facilities were negatively associated with sensory 
+perceptions, suggesting a potential trade-off between active engagement and sensory awareness. Overall, 
+LCNER demonstrates the potential to unify the extraction of park features, activity levels, and sensory 
+perceptions from online texts, advancing understanding of how park environments shape human experiences 
+and behaviors. Code and prompts are available at https://github.com/Wenpeimuzi/Landscape-NLP.
+1. Introduction
+Insufficient physical activity and rising sedentary behavior have 
+emerged as pressing global public health challenges, contributing sub-
+stantially to the burden of non-communicable diseases (Lee et al., 2012; 
+Bai et al., 2023). The World Health Organization’s Global Physical 
+Activity Action Plan (Organization, 2019) emphasizes the importance 
+of modifying the built environment such as parks to support active 
+∗Corresponding authors.
+E-mail addresses: e0788017@u.nus.edu (W. Li), jerrychi2004@gmail.com (J. Chi), M202374251@hust.edu.cn (J. Wu), izhx404@gmail.com (X. Zhang), 
+jiezhang_jz@u.nus.edu (J. Zhang), 357559824@qq.com (W. Zhai), Pengyuan.Liu@glasgow.ac.uk (P. Liu), cmherr@sustech.edu.cn (C.M. Herr), 
+stouffs@nus.edu.sg (R. Stouffs).
+lifestyles. At the same time, sensory qualities of public spaces have been 
+increasingly recognized as important influences on visitors’ overall 
+experiences and the restorative potential of parks (Korpilo et al., 2024; 
+Lin et al., 2025; Grahn and Stigsdotter, 2010). Together, park features, 
+activities, and sensory perceptions represent three key dimensions of 
+human–environment interactions, which this study refers to as ‘‘land-
+scape characters’’ (Brown and Brabyn, 2012; Koblet and Purves, 2020). 
+https://doi.org/10.1016/j.ecoinf.2025.103548
+Received 1 September 2025; Received in revised form 1 December 2025; Accepted 2 December 2025
+Ecological Informatics 93 (2026) 103548 
+Available online 6 December 2025 
+1574-9541/© 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC license ( http://creativecommons.org/licenses/by- 
+nc/4.0/ ). 
+
+W. Li et al.
+Correspondingly, research has progressed along two parallel trajecto-
+ries: one aiming to enhance physical activity through park design (Ives 
+et al., 2017; Kabisch et al., 2015; Knobel et al., 2021; Tsai et al., 2019), 
+and the other seeking to improve sensory environments to promote 
+more pleasant and supportive public spaces (Zheng et al., 2024; Korpilo 
+et al., 2023; Lin et al., 2025). Yet emerging evidence indicates that 
+human activities and sensory perceptions are interrelated in park envi-
+ronments (Deng et al., 2020; Lin et al., 2025), raising questions about 
+whether design strategies that promote one dimension may reinforce 
+or conflict with the other. Understanding these interconnections is 
+therefore essential for designing parks that maximize overall health and 
+experiential benefits, but research integrating these dimensions remains 
+scarce.
+Micro-scale park features, such as path width, vegetation arrange-
+ment, shading, and seating, are particularly relevant because they 
+are more feasible and cost-effective to modify than macro-scale or 
+surrounding environmental factors (e.g., increasing park density or 
+number) (Zhang et al., 2023; Abu-Omar et al., 2017; Petrunoff et al., 
+2022). Existing research on the relationship between park features and 
+physical activity are not consistent, which may partly result from the 
+omission or inconsistent operationalization of micro-scale character-
+istics, underscoring the need to examine these features more system-
+atically (Markevych et al., 2017; McCormack et al., 2010; Kaczynski 
+et al., 2009). Similarly, sensory perceptions have been shown to relate 
+differently to various park elements (Farahani et al., 2023; Zhou et al., 
+2023; Jeon and Hong, 2015), highlighting the need for more fine-
+grained classifications of features to enable more accurate examination 
+of their sensory correlates (Zhang et al., 2025a). Therefore, a more fine-
+grained and consistently operationalized measurement of micro-scale 
+features is essential for accurately examining their relationships with 
+both physical activity and sensory perceptions.
+However, current methods for measuring park features, physical 
+activities, and sensory perceptions face limitations. Sensory perceptions 
+are typically assessed through questionnaires or Public Participation 
+Geographic Information Systems (PPGIS), physical activity through 
+self-reports, field observations, or GPS tracking, and park features 
+through field audits and questionnaires (Zheng et al., 2024; Chan 
+et al., 2022; Zhang et al., 2019; Mepparambath et al., 2024; Korpilo 
+et al., 2023). These approaches rely on predefined frameworks that are 
+largely top–down and are prone to recall bias (Butler, 2016; Brown 
+and Weber, 2011; Bruns and Stemmer, 2018; Koblet and Purves, 2020). 
+Their high data-collection costs also lead to limited sample sizes, con-
+strained spatial and temporal coverage, and narrow representation of 
+landscape character dimensions (Van de Mortel, 2008; Zhang et al., 
+2024b; Koblet and Purves, 2020; Wang et al., 2021a; Zhang et al., 
+2022b; Li et al., 2024b). Such limitations contribute to variability 
+across studies and restrict comparability (Zhang et al., 2019; Floyd 
+et al., 2009; McCormack et al., 2010). These challenges underscore the 
+need for scalable, bottom-up, and more efficient approaches for measur-
+ing park features, physical activities, and sensory perceptions (Remme 
+et al., 2021).
+Geo-located textual data from online review platforms provides a 
+promising complement by offering cost-effective and large-scale, nat-
+urally occurring descriptions of park features, activities, and sensory 
+impressions (Väisänen et al., 2021; Li et al., 2024b; Chen et al., 2020b). 
+These resources can uncover relationships that smaller surveys or ob-
+servational studies often struggle to detect, complementing traditional 
+data (Hao et al., 2023; Huai et al., 2023). Recent advances have 
+demonstrated that textual big data can be used to predict sensory 
+perceptions and to link physical elements to sensory experiences (Zheng 
+et al., 2024; Koblet and Purves, 2020; Wang et al., 2025b). Research 
+indicates that PA-related tweets correlate with county-level physical 
+activity rates and are negatively associated with inactivity (Liu et al., 
+2019; Cesare et al., 2019), further confirming the utility of textual 
+big data in analyzing activity and sensory dimensions (Sun et al., 
+2023; Liu and Young, 2018; Ghermandi and Sinclair, 2019). Despite 
+this progress, existing research typically treats sensory perceptions or 
+physical activities in isolation, leaving cross-dimensional relationships 
+largely unexplored.
+Methodologically, landscape studies still rely largely on unsuper-
+vised or rule-based natural language processing (NLP) approaches such 
+as topic modeling and lexicon-based methods (Li et al., 2024b; Gugulica 
+and Burghardt, 2023; Lore et al., 2024; Song et al., 2020; Li et al., 
+2024a; Kong and Sarmiento, 2022; Tang et al., 2023). These ap-
+proaches have difficulty capturing overlapping and context-dependent 
+concepts (Li et al., 2024b; Huai and Van de Voorde, 2022; Lore et al., 
+2024). For example, mentions of ‘‘physical activity’’ and ‘‘activity-
+related facilities’’ frequently appear together, which reduces classi-
+fication accuracy. Generative large language models (LLMs) such as 
+GPT-4 can mitigate some of these issues with minimal annotation (Luo 
+et al., 2025; Zhang and Su, 2024), yet they often underperform domain-
+specific supervised models (Kalyan, 2024; Liu et al., 2021), incur high 
+computational costs, and risk inconsistency due to ongoing model 
+updates (Kalyan, 2024; Wang et al., 2024). These limitations highlight 
+the need for more robust, reproducible, and fine-grained NLP methods 
+capable of reliably extracting diverse environmental attributes.
+Supervised models trained on domain-specific datasets offer a
+promising alternative. Although traditional supervised deep learning 
+requires extensive manual labeling, transfer learning with Bidirec-
+tional Encoder Representations from Transformers (BERT) and its vari-
+ants (Devlin et al., 2018; Conneau et al., 2019; He et al., 2020; Warner 
+et al., 2024) greatly reduces annotation efforts compared with con-
+ventional architectures (Howard and Ruder, 2018; Devlin et al., 2019; 
+Kalyan, 2024; Wang et al., 2023b). Existing applications in landscape 
+research primarily adopt fine-tuned sentence-classification models to 
+identify specific types of activities (Fan et al., 2023), assess park 
+satisfaction (Wang et al., 2021b), or characterize park accessibility and 
+attractiveness (Zhao et al., 2025). However, these approaches require 
+training a separate model for each feature or perception category, re-
+sulting in high computational and operational costs. In contrast, named 
+entity recognition (NER) provides a more efficient and fine-grained 
+solution by extracting multiple features simultaneously. Although NER 
+has shown promise in various urban applications such as ecosystem 
+services identification (Zhang et al., 2024b), flood location extrac-
+tion (Yan et al., 2024), agriculture (Yao et al., 2024), and aeronautical 
+intelligence (Baigang and Yi, 2023), it remains underutilized in land-
+scape studies due to the lack of domain-specific annotated datasets. 
+This scarcity not only restricts the development of specialized NER 
+models but also restricts broader comparisons across emerging NLP 
+approaches.
+Importantly, NER provides the foundation for higher-level tasks 
+such as recommendation systems, knowledge graph construction and 
+aspect-based sentiment analysis (ABSA) (Zhang et al., 2022a; Baigang 
+and Yi, 2023; Wang et al., 2018). ABSA is particularly valuable because 
+visitors often express multiple and sometimes contrasting sentiments 
+toward different park features within a single review (Zhang et al., 
+2022a; Scaria et al., 2023). However, most urban studies still rely on 
+sentence-level sentiment scores or lexicon-based ABSA, which provide 
+limited granularity and often require substantial manual effort (Li et al., 
+2024a; Wang et al., 2023a; Dai et al., 2024; Yuan et al., 2025; Sadick 
+and Chinazzo, 2025). Effective ABSA depends on accurately identifying 
+aspect terms, which is precisely the function of NER (Jayakody et al., 
+2024; Scaria et al., 2023). Developing custom NER models can there-
+fore address major NLP challenges in landscape research by facilitating 
+fine-grained feature extraction and fine-grained sentiment analysis.
+To address these gaps, this study introduces a Landscape Charac-
+ter Named Entity Recognition (LCNER) model that enables, the fine-
+grained, simultaneous extraction of park features, physical activity 
+levels, and multi-sensory perceptions from large-scale textual data. This 
+integrated approach allows these dimensions to be analyzed within 
+a unified framework, revealing cross-dimensional relationships that 
+were previously difficult to capture using traditional measurement. This 
+study seeks to answer three key questions: 
+Ecological Informatics 93 (2026) 103548 
+2 
+
+W. Li et al.
+• How can a landscape character NER (LCNER) model improve 
+the extraction of park features, physical activities, and sensory 
+perceptions compared with lexicon-based methods?
+• Which park features are associated with greater light and
+moderate-to-vigorous physical activity (MVPA) and less sedentary 
+behavior?
+• How do features associated with sensory perceptions interact with 
+those linked to MVPA within park environments?
+The study contributes by:
+• Developing a supervised LCNER model and systematically bench-
+marking it against lexicon-based methods, demonstrating clear 
+performance gains and advancing landscape-oriented NLP tech-
+niques.
+• Providing new empirical evidence on which park features are 
+associated with higher MVPA and lower sedentary behavior, of-
+fering actionable insights for design and intervention.
+• Offering new cross-dimensional insights, this study investigates 
+the statistical relationships between sensory-related features and 
+those that support MVPA, revealing potential trade-offs that can 
+inform interventions that balance higher-intensity activity promo-
+tion with sensory engagement.
+2. Human–environment interaction via textual big data
+In this section, we situate our work within the broader field of 
+human–environment interaction research and textual big data analyt-
+ics.
+Textual data from social media platforms (e.g., Twitter/X) are com-
+monly used to study visitors’ preferences, activities, and perceptions of 
+parks, capturing spatiotemporal variations (Li et al., 2024b; Ghermandi 
+and Sinclair, 2019), such as changes in activities pre- and post-COVID-
+19 (Cui et al., 2025) and seasonal patterns (Roberts et al., 2019). 
+In contrast, review platforms (e.g., TripAdvisor, Google Maps, Ctrip) 
+offer longer texts, where users tend to focus more on landscape fea-
+tures (Kong and Sarmiento, 2022; Villeneuve and O’Brien, 2020; Huai 
+and Van de Voorde, 2022). These characteristics make review data 
+particularly suitable for identifying perceived elements and examining 
+multi-element relationships (Huai and Van de Voorde, 2022; Wang 
+et al., 2021b). These platforms have proven valuable for scalable, 
+longitudinal explorations across various contexts, including urban parks 
+and streetscapes, with spatial scales ranging from neighborhood to 
+national levels (Sun et al., 2023; Li et al., 2022; Grzyb et al., 2021).
+Current methods for measuring human–environment interactions 
+typically rely on sentence classification, matching keywords or phrases 
+derived from clustering and topic modeling to sentence content (Huai 
+and Van de Voorde, 2022; Liu et al., 2019; Cui et al., 2022; Wang et al., 
+2022). However, these methods require extensive manual interpreta-
+tion and often identify latent rather than target features. Lexicon-based 
+strategies are more targeted but lack contextual sensitivity (Huai and 
+Van de Voorde, 2022; Kong et al., 2023; Li et al., 2024a). Semi-
+supervised methods, such as lexicon-based pseudo-labeling, reduce an-
+notation costs but still face generalization limitations (Zheng et al., 
+2024). Supervised classifiers, like ERNIE-based models for physical 
+activity recognition (Gugulica and Burghardt, 2023; Fan et al., 2023), 
+show promise but remain constrained by single-task settings, high 
+annotation costs, and limited transferability. A supervised NER model 
+linking sensory perceptions to cultural ecosystem services (CES) has 
+demonstrated the potential of entity-level extraction (Zhang et al., 
+2024b), yet there remains a need for domain-specific NER capable of 
+simultaneously identifying features, activity levels, and sensory percep-
+tions.
+Sentiment scores associated with target elements provide another 
+way to represent human–environment interactions (Zhang et al., 2025b; 
+Wang et al., 2023a; Dai et al., 2024). However, most existing studies 
+use sentence-level sentiment scores (Li et al., 2024a; Ballesteros-Olza 
+et al., 2024; Yuan et al., 2025; Zhang and Su, 2024; Sadick and 
+Chinazzo, 2025), which lack the granularity needed for feature-level 
+analysis. Rule-based dependency parsing in ABSA struggles with ambi-
+guity, multi-aspect sentiments and reproducibility (Wang et al., 2023a; 
+Dai et al., 2021; Jayakody et al., 2024). Although GPT-based mod-
+els perform well in sentiment polarity detection, they underperform 
+in aspect extraction and sentiment intensity detection (Luo et al., 
+2025; Zhang and Su, 2024). By enabling explicit feature extraction, a 
+domain-specific NER model such as LCNER could enhance the granu-
+larity of ABSA and support more fine-grained, entity-specific sentiment 
+mapping.
+Beyond quantitative measurement, recent studies increasingly ex-
+plore the underlying mechanisms of human–environment interactions. 
+Methods like co-occurrence networks, community detection algorithms, 
+and association rule mining reveal relationships between features (Wan 
+et al., 2021). Zheng et al. (2024) used the Walktrap algorithm to study 
+how physical features influence multisensory perceptions, while Wan 
+et al. (2021) found that natural elements enhance well-being and 
+artificial features enhance aesthetic perceptions. Other studies integrate 
+text-derived indicators with spatial data such as street-view imagery 
+to explore multi-source interaction pathways (Wang et al., 2023a; 
+Tang et al., 2023; Sun et al., 2023). For example, Sun et al. (2023) 
+linked physical activity to blue-space visibility and street-level features, 
+and Roberts et al. (2017) identified amenity quantity as a significant 
+predictor. However, differentiating physical activity into varying in-
+tensity levels remains rare (Grzyb et al., 2021; Cui et al., 2022; Sun 
+et al., 2023; Zhang et al., 2025b), limiting our understanding of how 
+specific park features relate to diverse behavioral responses. These 
+findings highlight the potential of big data to support urban planning 
+and targeted environmental interventions.
+3. Methodology
+We begin by developing a workflow to fine-tune a supervised NER 
+model, LCNER, to extract park features, sensory perceptions, and phys-
+ical activity levels from textual data, as shown in Fig. 1. We then 
+evaluate the final LCNER model, selected from six large language model 
+backbones, against widely used lexicon-based methods to demonstrate 
+its improvements. Finally, we apply LCNER to all public parks in Sin-
+gapore to explore the correlations between park features and physical 
+activity, as well as between park features and sensory perceptions.
+3.1. Research site
+Singapore, one of the most densely populated and urbanized cities 
+globally, has undergone significant transformations in its green space 
+(GS) forms and distribution due to industrial, commercial, and infras-
+tructural development (Zhang and Su, 2024; Richards et al., 2020). 
+Approximately 80% of the population resides in government-subsidized 
+high-rise Housing & Development Board (HDB) flats, which typically 
+lack private gardens. As a result, the government has made continu-
+ous efforts to provide high-quality public parks that meet residents’ 
+needs (Yuen and Soh, 2017). Additionally, Singapore’s high mobile 
+connectivity and widespread social media engagement, with over 70% 
+of the population actively uses social platforms (Richards and Tunçer, 
+2018), make it an ideal setting for leveraging big data to monitor 
+human–environment interactions in near real-time.
+3.2. Data collection
+Textual data were collected from TripAdvisor and Google Maps, 
+two widely recognized platforms for capturing public perceptions and 
+experiences of urban spaces (Yang and Zhang, 2024; Huai and Van de 
+Voorde, 2022; Park et al., 2022; Ballesteros-Olza et al., 2024). In Sin-
+gapore, parks include both managed areas and unmanaged ones, such 
+Ecological Informatics 93 (2026) 103548 
+3 
+
+W. Li et al.
+Fig. 1. Research framework based on unstructured textual data.
+as primary and secondary forests in nature reserves and undeveloped 
+lands (Tan et al., 2013). This study focuses on managed public parks 
+overseen by the National Parks Board (NParks). We compiled our site 
+list using NParks-managed park shapefiles from 2012 and 2022 (Board, 
+2012, 2022), and added locations classified as parkland by the Urban 
+Redevelopment Authority in 2023. Unlike prior studies that focus 
+on high-traffic parks (Huai and Van de Voorde, 2022; Cheng et al., 
+2022), our dataset includes all parks with at least three Google Maps 
+reviews. To account for the substantial variation in review volume, 
+we incorporate review-count weights in subsequent analyses to reduce 
+noise from sparsely reviewed parks and improve the robustness of 
+association estimates. In total, data were collected from 314 parks 
+(Fig. 2), reserves, and playgrounds, yielding 109,869 reviews after data 
+cleaning, which involved removing blank, irrelevant, and duplicate 
+comments. Parks located on offshore islands around Singapore and 
+those requiring entry fees, such as zoos and Gardens by the bay, were 
+excluded from the study. The dataset used for annotation was collected 
+before October 2024, while additional reviews from October 2024 to 
+May 2025 were included for further analysis of park features related 
+to sensory perceptions and physical activities. As the study focuses on 
+advancing NLP techniques for landscape-character extraction, we rely 
+solely on textual data and retain TripAdvisor reviews, which were too 
+sparse for quantitative analysis, to diversify the annotated corpus and 
+improve model robustness.
+The Institutional Review Board (IRB) of the first author’s organi-
+zation approved the use of the review data. All data collection and 
+analysis complied with the terms of use and fair-use guidelines of 
+the respective platforms (Google, 2025; TripAdvisor, 2025). To protect 
+user privacy, all personally identifiable information was removed and 
+anonymized prior to analysis. The original raw data were deleted 
+after the completion of analysis, and only the anonymized version was 
+retained. Data was stored in an encrypted, access-controlled repository 
+accessible only to the research team. The storage environment complies 
+with institutional data-protection policies and supports secure sharing 
+upon formal request.
+3.3. Indicators description
+Building on environmental audit and observation tools, such as 
+the Natural Environment Scoring Tool (NEST) (Gidlow et al., 2018), 
+Neighborhood Green Space Tool (NGST) (Gidlow et al., 2012), and En-
+vironmental Assessment of Public Recreation Spaces (EAPRS) (Saelens 
+et al., 2006), along with existing literature (Zhang et al., 2019; Joseph 
+and Maddock, 2016; Väisänen et al., 2021; Ghermandi et al., 2022), 
+we developed a comprehensive taxonomy of entities related to human–
+environment interactions. The LCNER dataset and model framework 
+categorize these entities into three primary dimensions: park features 
+(further divided into natural elements and artificial facilities), physical 
+activities, and perceptions. These dimensions are further organized into 
+24 categories, reflecting widely recognized landscape characters, as 
+summarized in Table A (see Appendix).
+Natural park features are subdivided into seven categories based on 
+commonly accepted classifications linked to health outcomes. Facilities 
+are grouped by their functional use into categories such as moderate-
+to-vigorous physical activity (MVPA) facilities (F_MVPA), sedentary-
+activity facilities (F_sedentary), recreational facilities (F_recreation), 
+cultural and aesthetic facilities (F_cultural), catering (F_catering), and 
+transport (F_transport). We also specifically include signage (F_sign), 
+paths (F_path), and lighting (F_lights), given their documented rele-
+vance to physical activity and park use in several studies (McCormack 
+et al., 2010; Zhang et al., 2019). This flexible classification allows 
+researchers to adapt annotated entities to their specific study goals. 
+Physical activity is categorized into three intensity levels, as in tradi-
+tional research, enabling a more nuanced analysis of environmental in-
+fluences. Regarding sensory perceptions, we focus on sound, olfactory, 
+and tactile modalities, which though often underexamined, are salient 
+in park settings (Zheng et al., 2024). Visual perception was excluded 
+because it is implicitly embedded in landscape descriptions and is more 
+appropriately assessed through image-based analyses (Zhang et al., 
+2023; Zhou et al., 2023). We also consider psychological perceptions, 
+particularly perceived crowding. Together, these perceptions provide 
+rich information that shapes visitors’ experiences and well-being.
+3.4. Indicators measurement
+3.4.1. Supervised methods
+This study presents a formalized NER framework tailored to the 
+landscape architecture domain, which required the creation of an an-
+notated corpus and guidelines due to the absence of suitable domain-
+specific datasets. To comply with fair use policies and improve analyti-
+cal feasibility, park reviews were segmented into individual sentences. 
+Ecological Informatics 93 (2026) 103548 
+4 
+
+W. Li et al.
+Fig. 2. Park location in research site.
+Fig. 3. Example of NER annotation format. Each sentence may contain multiple entity types (highlighted by boxes), with different colors representing distinct 
+label types. Each row corresponds to a single annotated label for a specific entity span. A span may be assigned multiple labels from different categories based 
+on context (e.g., ‘‘hot spring water’’ labeled as N_water, F_recreation, and P_tactile). However, labels within the same category (e.g., F_service) are not assigned 
+to the same span more than once.
+This approach serves three purposes: (1) facilitating annotation and 
+computational processing by controlling review length, (2) improving 
+anonymization by reducing identifiable information and contextual 
+specificity, and (3) ensuring compliance with data-sharing constraints.
+To ensure diversity, 1000 sentences were randomly sampled from 
+each predefined token-length interval (30–50, 50–70, 70–90, 90–110, 
+110–130, 130–150, and 150–300 tokens). The annotation process re-
+vealed significant class imbalance, with certain entity types
+(e.g., ‘‘lights’’ and ‘‘sensory perceptions’’) underrepresented compared 
+to others (e.g., ‘‘animals’’ and ‘‘plants’’). To address this, we employed 
+the DeBERTa-v3-large MNLI–FEVER–ANLI–Ling model from Hugging 
+Face (Laurer et al., 2024) as a zero-shot classifier to estimate sentence 
+relevance to scarce entity categories, guiding targeted sample enrich-
+ment. Annotations were recorded in a simple CSV format (Fig. 3), which 
+simplifies the process and lowers the barrier for researchers with min-
+imal programming experience. Annotation guidelines, defining entity 
+categories and span boundaries, were developed collaboratively. Initial 
+annotations were performed by one researcher and independently 
+reviewed by another; discrepancies were resolved through consen-
+sus discussions. Inter-annotator agreement (IAA) was assessed using 
+Cohen’s 𝜅, where 𝜅> 0.8 indicates reliable annotation.
+To reduce the cost of data annotation, we adopted an iterative LLM-
+assisted annotation workflow (Fig. 1). The process began with training 
+an initial LCNER model using a seed set of 7000 GPT-4 annotated and 
+manually corrected sentences. This model was then used to pre-label 
+subsequent data batches, which were verified and corrected by humans, 
+with a particular focus on low-frequency entity types. Each iteration 
+incorporated the expanded dataset into model re-training, progressively 
+improving model accuracy and label coverage. This process was re-
+peated until further gains were marginal, resulting in a robust and 
+diverse dataset for final evaluation. The final LCNER dataset consists of 
+10,635 sentences containing 34,008 annotated entities, of which 60.7% 
+originated from Google Maps reviews.
+Most recent NER pipelines augment pretrained LLMs with a spe-
+cialized decoding layer, typically a conditional random field (CRF) or 
+a GlobalPointer (GP) module (Baigang and Yi, 2023; Jehangir et al., 
+2023). Each pretrained LLM in this study is paired with a GP decoding 
+layer for structured span extraction, as the GP-based framework outper-
+forms CRF-based and token-level classification approaches, particularly 
+on complex and imbalanced datasets (Su et al., 2022; Yao et al., 2024). 
+Unlike traditional CRF taggers, which assign labels token by token, GP 
+formulates NER as a span detection problem. It uses a global matrix 
+to model entity boundaries and jointly classifies all entity types in a 
+single forward pass. Given a sentence 𝑋= [𝑥1, … , 𝑥𝑛] with 𝑛 tokens, 
+the pretrained LLM produces contextual embeddings:
+𝐇= [𝐡1, … , 𝐡𝑛]⊤∈R𝑛×𝑑,
+Ecological Informatics 93 (2026) 103548 
+5 
+
+W. Li et al.
+where 𝑑 is dimension of representation. For each entity type 𝑘∈
+{1, … , 𝐾} and token position 𝑖, we compute type-specific ‘‘query’’ and 
+‘‘key’’ vectors:
+𝐪(𝑘)
+𝑖
+= 𝑊(𝑘)
+𝑞
+𝐡𝑖+ 𝐛(𝑘)
+𝑞,
+𝐤(𝑘)
+𝑗
+= 𝑊(𝑘)
+𝑘
+𝐡𝑗+ 𝐛(𝑘)
+𝑘,
+where 𝐪(𝑘)
+𝑖 is the query vector for entity type 𝑘 at position 𝑖, and 𝐤(𝑘)
+𝑗 is 
+the key vector at position 𝑗.
+The GlobalPointer span score for a candidate span (𝑖, 𝑗) with 𝑖≤𝑗
+and type 𝑘 is computed as 
+𝑠(𝑘)
+𝑖,𝑗= (𝐪(𝑘)
+𝑖
+)⊤𝐤(𝑘)
+𝑗.
+(1)
+This architecture addresses label imbalance and reduces parameter 
+overhead when adding new entity types. It enables efficient span 
+boundary prediction and is particularly robust to nested, overlapping, 
+and long-range entities. In post-processing, when multiple spans of the 
+same category are detected within a sentence (e.g., both ‘‘playground’’ 
+and ‘‘water playground’’ tagged as F_recreation), we retain only the 
+longest span (‘‘water playground’’). Additionally, once a span is labeled 
+with a given category (e.g., F_recreation), it is prevented from being 
+labeled under any other category sharing the same ‘‘F_’’ prefix, ensur-
+ing exclusive assignment within the same dimension. This restriction 
+applies only within the same prefix group (dimension) and does not 
+affect cross-dimension nested entities (e.g., F_recreation nested within 
+Act_light). Under identical data and hyperparameter settings, this rule 
+slightly increased precision (from 0.894 to 0.900) while marginally 
+decreasing F1 (from 0.8965 to 0.8963), indicating a small precision-
+oriented trade-off that improves internal consistency without substan-
+tially affecting overall performance.
+The annotated dataset was divided into training, validation, and 
+test sets using a group-based split by park name, ensuring that all 
+sentences from the same park were assigned to one subset to prevent 
+data leakage. A greedy balancing algorithm assigned parks to subsets 
+in an approximate 70/10/20 ratio, producing three disjoint partitions 
+with comparable linguistic contexts.
+To determine a strong supervised baseline for subsequent exper-
+iments, we compared six transformer-based NER models using the 
+70/10/20 group-based split. These included four widely used general-
+purpose architectures (BERT-large, XLM-RoBERTa-large, DeBERTa-
+large, and ModernBERT-large) and two NER-specialized models, (
+SpanBERT-large and LUKE) (Devlin et al., 2018; Conneau et al., 2019; 
+He et al., 2020; Warner et al., 2024; Joshi et al., 2020; Yamada 
+et al., 2020). Each model was trained under identical settings using 
+a linear decay learning rate schedule, a dropout rate of 0.1 within 
+transformer layers, a learning rate of 3.5e−5, a batch size of 16, and 15 
+total training steps, and the training was repeated across five random 
+seeds(41–45) to account for initialization variability. For each seed, the 
+checkpoint achieving the highest validation F1 score was retained, and 
+its performance was evaluated on the test subset. Model comparison 
+was based on the mean F1 score, precision, and recall across the 
+five seeds. We further evaluated the domain robustness of the LCNER 
+model using the Google-Maps-only subset of the held-out test set, which 
+originally comprised both Google Maps and TripAdvisor reviews, with 
+approximately 60.7% of the samples coming from Google Maps.
+After identifying the best-performing supervised model, we con-
+ducted hyperparameter optimization through an exhaustive grid search 
+over learning rates (5.0e−5, 4.5e−5, 4.0e−5, 3.5e−5, 3.0e−5, 2.5e−5) 
+and total training steps (5, 10, 15). Based on the optimal configu-
+ration, we then implemented 5-fold cross-validation to assess model 
+generalization. The training and validation sets were merged into a 
+unified training pool, and GroupKFold (by park) was reapplied to avoid 
+lexical leakage. Model performance was summarized as the mean ± SD 
+across folds, and per-class F1 scores were reported with 95% confidence 
+intervals (CIs) derived from fold-wise performance distributions.
+3.4.2. Unsupervised method
+In landscape studies, lexicon-based methods are the dominant un-
+supervised approach due to their low annotation requirements and
+operational simplicity. These methods treat the quantification of
+environment–human interactions as a sentence classification task,
+where sentences are assigned to predefined categories based on the 
+presence of context-relevant keywords.
+To benchmark our supervised NER approach against this stan-
+dard, we constructed a domain-specific lexicon and expanded it us-
+ing Word2Vec (Vargas-Calderón and Camargo, 2019). Initial sentence 
+labels were assigned through exact word matching, serving as our 
+lexicon-only baseline. To enhance this baseline, we implemented a 
+two-stage ‘‘lexicon + LLM’’ pipeline: sentences flagged by the lexicon 
+were further validated by a zero-shot large language model (Laurer, 
+2023). Only sentences confirmed by both approaches were retained, 
+yielding an improved unsupervised baseline, which has been shown to 
+significantly increase classification accuracy.
+3.4.3. Model comparison
+Although LCNER is fundamentally an entity-recognition model
+rather than a sentence classifier, we used two evaluation granularities 
+to facilitate a comprehensive comparison with lexicon-based methods: 
+entity identification and sentence classification. In entity identification 
+(LCNER-span), each extracted entity span is assessed individually. In 
+sentence classification (LCNER), a sentence is deemed related to a given 
+category if it contains at least one correctly identified entity of that 
+type. This span-to-sentence mapping converts LCNER’s outputs into 
+sentence-level labels, aligning with standard text-analysis practices.
+We evaluate all methods — lexicon-only, lexicon + LLM, LCNER-
+span, and LCNER — using precision (P), recall (R), and F1 score (F1), 
+providing a fair benchmark for the supervised NER framework against 
+established lexicon-based baselines.
+The choice of baseline is informed by field conventions: lexicon-
+based methods provide the most accessible and reproducible solution 
+when annotated data is scarce or unavailable. By demonstrating sig-
+nificant improvements in classification accuracy with the supervised 
+LCNER model, we highlight the added value and potential of LLMs for 
+domain-specific applications.
+3.5. LCNER application
+The fine-tuned LCNER model was applied to 314 parks to demon-
+strate its practical utility. LCNER extracted mentions of landscape 
+features, sensory perceptions (olfactory, sound, tactile), and physical 
+activity categories (MVPA, light PA, sedentary) from each park’s Google 
+Maps reviews. For each park, the proportion of reviews mentioning 
+each feature was calculated and used as a quantitative indicator in 
+subsequent analyses.
+Quasi-binomial generalized linear models (GLMs) with a logit link 
+were employed to examine associations between park features and 
+different activities or sensory perceptions. This model is well suited 
+for proportion outcomes that often exhibit overdispersion and het-
+eroskedasticity, particularly when review volumes vary widely across 
+parks. Unlike beta-based models that require the exclusion or transfor-
+mation of boundary values (0 or 1), the quasi-binomial specification 
+accommodates such proportions directly through a dispersion parame-
+ter that adjusts for extra-binomial variance. The regressions’ goodness 
+of fit is evaluated using a pseudo 𝑅2 of McFadden, which cannot be 
+interpreted as the variance explained by the model (Chagas et al., 2024; 
+McFadden, 1972).
+In each model, the dependent variable represented the proportion 
+of reviews mentioning a given activity or perception, and independent 
+variables were the proportions of park features grouped into three 
+categories (natural elements, facilities, and crowd). Predictors with 
+a variance inflation factor (VIF) above 5 were removed to reduce 
+multicollinearity (O’brien, 2007). To examine standardized coefficients, 
+Ecological Informatics 93 (2026) 103548 
+6 
+
+W. Li et al.
+Fig. 4. Span-level inter-annotator agreement result.
+all variables were centered at their mean and scaled by their standard 
+deviation (SD). The coefficients are interpreted as the change in the 
+log-odds of the response variable associated with a one-SD increase 
+in the predictor. Models were fitted with review counts as analytic 
+weights to account for differences in review numbers across parks. 
+Residual heteroskedasticity was tested using the Breusch–Pagan test. 
+All regressions were estimated with heteroskedasticity-consistent (HC3) 
+standard errors to ensure robust inference. To avoid potential bias 
+introduced by spatial autocorrelation, we conducted pre-tests for all 
+regression models. The Moran’s I tests on model residuals (𝑝> 0.05) 
+indicated no significant spatial dependence, suggesting that spatial 
+effects did not bias the model estimates (Anselin et al., 2009).
+To control for multiple testing, p-values were adjusted using the 
+Benjamini–Hochberg false discovery rate (FDR, 𝑞< 0.05) based on 
+robust p-values (Benjamini and Hochberg, 1995). FDR-adjusted results 
+across all predictors are reported in the main text, with group-level 
+corrections provided in the Supplementary Material. To assess robust-
+ness, sensitivity analyses were conducted by restricting the sample to 
+observations with nonzero outcomes (𝑦> 0). All statistical analyses 
+were performed using R statistical software.
+4. Results
+4.1. Fine-tuned LCNER model evaluation
+On a random 5% subset (535 sentences), token-level agreement 
+reached 𝜅= 0.900, indicating substantial consistency between anno-
+tators. Span-level F1 (strict boundary match) was 0.94 (𝑃
+= 0.94, 
+𝑅= 0.95), and the corresponding confusion matrices are provided in 
+Supplementary Material 1. Detailed per-category F1, precision, and re-
+call scores are shown in Fig. 4. Among all categories, both N_terrain and 
+F_recreation showed precision below 0.90, with N_terrain exhibiting the 
+lowest consistency. The categories F_cultural, F_active, N_weather, and 
+Act_light achieved F1 scores between 0.90 and 0.94, indicating slightly 
+lower agreement compared with other categories.
+In addition to assessing annotation consistency, we examined how 
+dataset size influenced model performance, using the same 10/20 val-
+idation and test split and identical hyperparameter settings. As shown 
+in Fig. A.1, the initial model already performed well with 2444 training 
+samples, although notable disparities were observed among the three 
+metrics. As the training set expanded to 7444 samples, precision, recall, 
+and F1 all exceeded 0.895. Further expansion was not pursued due to 
+the limited marginal gain relative to the annotation effort required. Fig. 
+A.2 (see Appendix) displays the training loss and validation F1 curves 
+for each seed of every model. This provides a comprehensive view of 
+model convergence and stability.
+Fig. 5 reports three key evaluation metrics (F1-score, recall, and 
+precision) for all models, averaged over five random seeds to ensure ro-
+bustness. DeBERTa-large achieves the highest average F1-score (0.896 
+± 0.001), followed by XLM-RoBERTa-large and BERT-large. In contrast, 
+LUKE (0.876 ± 0.002) and ModernBERT-large (0.878 ± 0.007) yield 
+lower F1-scores, suggesting greater difficulty in balancing precision 
+and recall, with ModernBERT-large exhibiting the highest variability. 
+For recall, DeBERTa-large (0.895 ± 0.002) again ranks first, indicat-
+ing stronger sensitivity to true entities. XLM-RoBERTa-large (0.882 ±
+0.008) and BERT-large (0.882 ± 0.001) follow, while ModernBERT-
+large records the lowest recall (0.851 ± 0.014). Regarding precision, 
+ModernBERT-large (0.908 ± 0.005) and XLM-RoBERTa-large (0.901 
+± 0.004) lead, highlighting their effectiveness in minimizing false 
+positives. BERT-large (0.895 ± 0.005) and DeBERTa-large (0.897 ±
+0.002) show slightly lower but stable values, while SpanBERT-large 
+and LUKE perform less favorably. Overall, DeBERTa-large offers the 
+best balance between precision and recall and is therefore selected for 
+subsequent analyses. The relatively small differences in precision across 
+models indicate that DeBERTa-large controls false positives comparably 
+to others while delivering superior overall accuracy.
+Among the six baseline models evaluated, the LCNER variant with 
+seed 43 achieved the highest F1 score and was used to identify the 
+optimal hyperparameter configuration through grid search. Using this 
+configuration (learning rate 3.0e−5, ten training iterations, and ten 
+epochs), the model was retrained on the combined training and vali-
+dation sets to produce the final version for downstream analyses and 
+deployment. This final model achieved an micro F1 score of 0.895, with 
+precision and recall of 0.896 and 0.895, respectively. When evaluated 
+on the Google-Maps-only test subset, the model achieved a slightly 
+lower F1 score of 0.897, with precision and recall both near 0.897, 
+suggesting minor stylistic differences between the two platforms and 
+consistent performance on Google Maps reviews.
+Table 1 presents the mean ± standard deviation and 95% confidence 
+intervals (95% CI) of precision, recall, and F1-score for each entity cat-
+egory, based on five-fold cross-validation. The LCNER model achieved 
+consistently strong performance, with macro-averaged precision, recall, 
+and F1-scores of 0.893 ± 0.021 (95% CI: 0.867–0.918), 0.883 ± 0.018 
+(95% CI: 0.860–0.906), and 0.888 ± 0.019 (95% CI: 0.864–0.912), 
+respectively. Performance was highest for activity entities such as 
+Act_MVPA (F1 score of 0.913 ± 0.014) and natural features including 
+N_animal and N_weather, indicating strong detection of concrete, well-
+defined entities. In contrast, N_terrain yielded a lower F1-score (0.833 
+± 0.056), suggesting that terrain-related mentions are often described 
+implicitly or with greater lexical variation. Facility-related categories 
+(e.g., F_cultural, F_MVPA) and subjective perception entities such as 
+P_crowd also exhibited moderately lower performance. Overall, the 
+LCNER model demonstrated robust generalization across diverse entity 
+types, with slightly reduced accuracy for facility-related and subjective 
+categories due to their higher linguistic variability and contextual 
+ambiguity.
+Ecological Informatics 93 (2026) 103548 
+7 
+
+W. Li et al.
+Fig. 5. Violin plots of six models’ F1-score, recall, and precision across five random seeds. Each violin’s width at a given value reflects the relative density of 
+observations at that score. The central blue line marks the median, and the shaded region spans the full distribution. Mean (± standard deviation) values are 
+overlaid above each violin.
+Table 1
+Mean ± standard deviation and 95% confidence intervals (95% CI) of precision, recall, and F1-score for each entity category, calculated 
+from the five-fold cross-validation results of the best-performing LCNER model.
+ Category
+Precision
+Recall
+F1-score
+ 
+ Act_MVPA
+0.922 ± 0.012 (95%CI:0.907–0.937)
+0.905 ± 0.016 (95%CI:0.885–0.925)
+0.913 ± 0.014 (95%CI:0.897–0.930) 
+ Act_light
+0.859 ± 0.021 (95%CI:0.834–0.885)
+0.834 ± 0.027 (95%CI:0.801–0.867)
+0.846 ± 0.017 (95%CI:0.825–0.867) 
+ Act_sedentary
+0.895 ± 0.036 (95%
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

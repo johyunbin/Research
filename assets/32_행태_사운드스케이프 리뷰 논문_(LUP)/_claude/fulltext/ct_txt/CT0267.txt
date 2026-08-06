@@ -1,0 +1,688 @@
+Journal of Transport Geography 115 (2024) 103811
+Available online 8 February 2024
+0966-6923/© 2024 Elsevier Ltd. All rights reserved.
+Sociospatial inclusiveness of streets through the lens of urban pedestrian 
+mobilities: Go-along interviews with less mobile pedestrians in Singapore 
+Yongcheng Wang a,d,*, Yiik Diew Wong a, Bo Du b, Kit Meng Lum a, Kelvin Goh c 
+a School of Civil and Environmental Engineering, Nanyang Technological University, Singapore 
+b Division of Psychology, School of Social Sciences, Nanyang Technological University, Singapore 
+c Land Transport Authority, Singapore 
+d Department of Civil Design and Engineering, School of Sustainable Design, University of Toyama, Japan 
+A R T I C L E I N F O 
+Keywords: 
+Go-along interview 
+Active mobility 
+Inclusive streets 
+Accessibility 
+Older adults 
+People with disabilities 
+A B S T R A C T 
+The increasing emphasis on vulnerable pedestrians and on the social aspects of active mobility, such as walking, 
+has raised the profile of mobile methods for investigating mobilities in densely built environments. This paper 
+examines the everyday mobility practices and perceptions of less mobile pedestrians, i.e., older adults and people 
+with disabilities (PWDs), through mobile ethnographic interviewing. In total, 26 older adults and 7 PWDs were 
+recruited for go-along interviews in localities familiar to them in Singapore. These semi-structured go-alongs 
+generated a wealth of qualitative data covering topics ranging from their travel patterns to their perceptions of 
+the built environment and their attitudes towards space sharing. Interview transcripts, field notes and video 
+footage enabled an in-depth analysis of both the verbal and nonverbal aspects of the active mobility behaviour. 
+The analysis revealed emerging sociospatial themes, including movement within an extended pedestrian 
+network, such as detouring and taking shortcuts, and ambivalence towards space sharing caused in part by 
+unclear rights-of-way among active transport modes and preconceptions of social norms. These themes have 
+implications for how to shape travel behaviour based on a more inclusive approach to urban planning and 
+neighbourhood design that instils a deeper humanistic understanding. 
+1. Introduction 
+Urban and transport planning has shown a resurgent interest in 
+revitalising walking as a basic form of physical activity. By extension, 
+there is a need for the built environment to better accommodate geri­
+atric and aided pedestrian mobilities. Together, these two developments 
+correspond to the two salient principles of inclusive street design: 
+inclusiveness of all transport modes and all mobility capacities. With 
+active transport and physical activity as key objectives of inclusive street 
+design, extensive research has been conducted on the effects of the built 
+environment across macro-, meso- and microscales. This has generated a 
+vast body of knowledge ranging from urban metrics (e.g., the land use 
+mix) to pedestrian facilities that are useful for public health in­
+terventions (Bauman et al., 2012; Heath et al., 2006; Saelens and Handy, 
+2008; Sallis et al., 2006). In line with the parity of macroscale and 
+microscale urban settings and elements, neighbourhood walkability 
+studies have contributed to refining measurement instruments and 
+facilitated comparisons between cities and regions (Wang and Yang, 
+2019). However, aggregating built environmental attributes and corre­
+lating them with physical activity at a neighbourhood level and above 
+obscures the lived and affective experiences of individual pedestrians 
+(Lee and Dean, 2018; van Cauwenberg et al., 2012), particularly those 
+with limited mobility, as well as the interaction of the physical and so­
+cial realms as experienced and negotiated by pedestrians (Castrodale, 
+2017; Heath et al., 2006). 
+In Singapore, the vision of inclusive streets is gaining ground in 
+public discourse and in policymaking concerning urban development. In 
+addition to enhancing the connectivity and serviceability of the road 
+network and public transport system, the Land Transport Master Plan 
+lists a “liveable and inclusive community” as one of three key focuses 
+(LTA, 2013) that was subsequently recaptured under the “Walk Cycle 
+Ride SG” vision (LTA, 2016a). This focus is congruent with the growing 
+* Corresponding author at: Postal address: B8-117, Department of Civil Design and Engineering, School of Sustainable Design, University of Toyama, 3190 Gofuku, 
+Toyama 930-8555, Japan. 
+E-mail addresses: wangyc@sus.u-toyama.ac.jp (Y. Wang), cydwong@ntu.edu.sg (Y.D. Wong), dubo0001@e.ntu.edu.sg (B. Du), ckmlum@ntu.edu.sg (K.M. Lum), 
+kelvin_goh@lta.gov.sg (K. Goh). 
+Contents lists available at ScienceDirect 
+Journal of Transport Geography 
+journal homepage: www.elsevier.com/locate/jtrangeo 
+https://doi.org/10.1016/j.jtrangeo.2024.103811 
+Received 18 July 2023; Received in revised form 6 January 2024; Accepted 22 January 2024 
+
+Journal of Transport Geography 115 (2024) 103811
+2
+recognition that streets are a type of open public space, functioning as 
+both links and places and serving both traffic and human activity (Jones 
+et al., 2007). However, confounding Singapore’s urban mobility land­
+scape is a rapidly ageing population; it has been projected that by 2030, 
+one in four Singaporean citizens will be aged 65 years or older, repre­
+senting an 8-fold increase since 1970 (MOH, 2023). Additionally, the 
+prevalence of disability as of 2015 was estimated to be more than 13% of 
+residents aged 50 years and above (3EMSC, 2016), which, among other 
+issues, is driving a continuing endeavour to build a disability-inclusive 
+society and mindset (MSF, 2022). 
+The remainder of this paper proceeds with an explanation of the 
+rationale behind adopting a mobile method for investigating the 
+multifaceted mobility needs of those who are commonly regarded as less 
+mobile. This approach represents a departure from a predominantly 
+physical conceptualisation of accessibility and walkability. The pro­
+cedures of go-along interviews with older adults are extended to people 
+with disabilities (PWDs), having vision or physical impairment as a 
+convenience sample booster. A descriptive summary is presented based 
+on a textual analysis of the transcripts. Along with field notes and video 
+footage, a rich qualitative data corpus has been explored in depth. 
+Several themes emerge and are presented in the mirroring subsections of 
+Sections 5 and 6; the former includes direct references to the partici­
+pants, while the latter relates the observations to Singapore’s transport 
+policies and regulations as well as to the relevant accessibility literature. 
+These observations and interpretations lead to our concluding remarks 
+on the implications of these themes for urban and transport planning. 
+2. Theoretical motivation 
+2.1. Mobility needs of vulnerable pedestrians 
+The development of the conceptualisation of accessibility and, by 
+extension, walkability can also be seen as a perennial call for built 
+environmental and societal inclusiveness, in which the field of envi­
+ronmental gerontology is showing increasing interest (Cerin et al., 2017; 
+S´anchez Gonz´alez and Roguez-Roguez, 2016). The heterogeneity of 
+health conditions or impairments causes multifaceted accessibility is­
+sues (Luiu et al., 2017). Although the association between walkability 
+and walking for transport holds true throughout adulthood, the greater 
+variability of mobility capability among less mobile people necessitates 
+more tailored accessibility measurements (e.g., minutes versus metres as 
+a distance metric) and corresponding planning interventions (Cerin 
+et al., 2017). However, less mobile people, such as those who are 
+partially sighted, may not be as recognisable in everyday encounters. 
+Thus, the built environment (i.e., whether a street is friendly) may have 
+a greater impact on these sensitive user groups. Broader street design 
+should be able to cater to their special needs and accessibility barriers, 
+such as slippery surfaces, narrow doorways, and dropped curbs with no 
+adjacent tactile warning; these can be identified and removed to facili­
+tate a smooth journey (Lavery et al., 1996). Similarly, in a pedestrian 
+level-of-service scoring scheme, ten physical elements, including tactile 
+paving and wheelchair-accessible drinking fountains, were singled out 
+to estimate street accessibility for PWDs (Asadi-Shekari et al., 2013). In 
+this vein, the myriad of built environmental factors associated with 
+pedestrian transportation, such as the provision of pedestrian facilities, 
+traffic management and safety, and the proximity of destination land 
+uses (Ferrer et al., 2015), differ in terms of their sensitivity to individual 
+factors rather than in the range between able-bodied and less mobile 
+pedestrians. 
+Reflecting critical thinking on accessibility in transport and urban 
+planning is Martens’s (2015) recommendation to develop a “potential 
+accessibility and mobility framework”. Such a framework would, for 
+instance, stress the importance of people’s needs and their ability to 
+pursue out-of-residence activities in transport-land use systems. 
+Mobility needs go beyond the utilitarian dimension of accessibility and 
+extend into more psychologically advanced levels, as Musselwhite and 
+Haddad (2010) theorised, including people’s affective needs for inde­
+pendence and control and aesthetic needs when the purpose of travel 
+itself is hedonic experience. Meeting these needs is vital for the mental 
+and social dimensions of quality of life that are less adequately 
+addressed in transport planning (Lee and Sener, 2016), especially for 
+older adults and PWDs. 
+2.2. Sociality of walking 
+The rich variety of walking types (K¨arrholm et al., 2017) and the 
+complex social implications manifested through walking can be better 
+investigated in mobilities studies (mainly qualitative) than in transport 
+geography (mainly quantitative), which is mainly a derivative of posi­
+tivist spatial science (Cresswell, 2011), or through the collaboration of 
+the two disciplines (Hanson, 2015). Lager et al. (2015) employed the 
+concept of social capital to study older adults’ everyday mobilities and 
+explored their intra- and intergenerational social interactions afforded 
+by walking and gatherings. Analogous to the analysis by Vanoutrive 
+et al. (2018) of motorway network growth, the potential convergence of 
+positivistic and hermeneutical stances in transport and mobilities 
+studies is also relevant to the case of pedestrian networks in which so­
+cietal factors such as politics in decision-making can significantly 
+strengthen the explanatory power with respect to infrastructural 
+development. Out-of-residence physical activity, or retirement homes in 
+Middleton’s (2018) interview study, was found to be mediated by the 
+affective and emotional aspects of walking experiences, which are 
+pertinent to better person-environment fits. In Middleton’s (2018) ex­
+amination of the microgeographies of everyday urban walking, the 
+theme of what makes a “good pedestrian” emerges as a spatiotemporal 
+practice that also involves social norms and identities. These studies, 
+except Lee and Dean’s (2018), share an avoidance of committing to a 
+priori theories and attempts to retain the contexts of mobility practices. 
+This study aims to offer some grounded vignettes of how the bodily 
+movement of less mobile pedestrians is reassembled into an intricate 
+web of behaviour, perception, attitudes and preferences within the 
+spatiotemporal constraints of a pedestrian trip. These vignettes may 
+serve as inputs for the formulation of future confirmatory studies on one 
+or more active mobility aspects discussed in this paper. Bearing this aim 
+in mind, in the next subsections, we describe the study area and the 
+methods of data collection and analysis. 
+3. Material and methods 
+3.1. Conducting go-along interviews 
+Go-along interviews were conducted in Singapore, which had a 
+tropical climate with a mean annual temperature of approximately 27 ◦C 
+(MSS, 2018), a population of 5.61 million and a land area of 719.9 km2 
+at the time of data collection (DOS, 2017). The total population con­
+sisted of 3.97 million residents (3.44 million Singaporean citizens and 
+0.53 million permanent residents) and 1.65 million non-residents who 
+held long-term permits to stay or work in the country (DOS, 2017). 
+Given the reliance on rich qualitative data to reveal both the physi­
+cality and sociality of everyday walking experiences and mobility 
+practices, on-the-move methods are a compelling choice. Often situated 
+in the new mobilities paradigm (Cresswell, 2011; Sheller and Urry, 
+2006) or the mobility turn (Faist, 2013), the need for cross-disciplinary 
+thinking for mobility practices has thus spawned diverse applications of 
+mobile methods that enable researchers to be in the same physical 
+setting as and a more collaborative environment with mobile research 
+subjects. As a hybrid of unobtrusive, detached observation (Tomi´c et al., 
+2015) and reflective sit-down interviews, go-along interviewing is an 
+effective tool that facilitates a researcher’s task through the participa­
+tion in movement to unearth inner layers of the research subjects’ lived 
+experiences in the dimensions of perception, spatial practices, bi­
+ography, social architecture, and the social realm (Hein et al., 2008; 
+Y. Wang et al. 
+
+Journal of Transport Geography 115 (2024) 103811
+3
+Kusenbach, 2003). At the conceptual level, our approach responds to 
+van Wee’s (2016) accessibility research agenda, particularly with 
+respect to slow modes and accessibility perceptions, and Cerin et al.’ 
+(2017) synthesis that built environment perceptions are likelier to pre­
+dict active travel than objective measurements. At the operational level 
+(Amaya et al., 2022), all go-along interviews were arranged in urban 
+areas but the routes were chosen by the participants rather than desig­
+nated by the researchers (Sun and Lau, 2021) as an attempt to strike a 
+balance between control for inter-individual variability and accommo­
+dation for participants’ self-efficacy. 
+Drawing from a previous similar methodology (Ferrer et al., 2015; 
+Simons et al., 2014), greetings and questions about general travel pat­
+terns were not employed as paper-and-pencil questionnaires but rather 
+served to warm the participants up for the go-along interviewing format 
+and determine the pedestrian routes that were familiar to the partici­
+pants. This introductory part usually took place at the beginning of an 
+interview in a seated setting, after which the interviewer accompanied 
+the participant on a pedestrian excursion. The transition question on the 
+notion of inclusive streets was intended to be a stimulus, and the in­
+terviews dwelled mainly on pedestrian experiences, attitudes towards 
+space sharing among various street users and desirable features. See 
+Supplementary Material 1 for the semi-structured go-along field guide. 
+One-on-one go-along interviews took place in a mundane and day-to- 
+day setting outdoors in the daytime, mostly starting from a mass rapid 
+transit (MRT) station or the participant’s residence. The participants’ 
+choice of interview location was consistent with the general mobility 
+pattern of older adults in Singapore, which is concentrated in public 
+housing estates that are typically equipped with retail and recreational 
+facilities (Cao et al., 2019; Koh et al., 2015). As shown in Fig. 1, the 
+interview locations in urban areas were geographically spread across the 
+main island of Singapore. The interviews were recorded using an action 
+camera. The length of an interview depended on the route that the 
+participant and the interviewer discussed and agreed on at the outset as 
+well as the participant’s willingness to show the interviewer around. 
+These factors resulted in an effective audio/video length (on foot or 
+wheelchair and excluding trip portions on a bus or any other transport 
+mode) ranging from 10 to 70 minutes (with a median of 28 minutes). 
+Approval for the go-along method was obtained from the Institutional 
+Review Board of Nanyang Technological University prior to the in­
+terviews. All participants were offered a supermarket voucher worth 20 
+Singapore dollars as reimbursement for their time. 
+The go-along interviews (n = 33) were conducted in two phases. In 
+the first phase in the first quarter of 2017, convenience sampling using 
+the contacts of previous research projects, which was later supple­
+mented by snowballing, was employed to recruit older adult participants 
+(n = 26) who were between 64 and 79 years old and were able to travel 
+independently without the use of mobility devices or walking aids. In the 
+second phase in March 2018, outreach to enlist the help of relevant 
+voluntary welfare organisations (VWOs) resulted in additional partici­
+pants (n = 7) being introduced from the PWD groups with vision or 
+physical impairment (two partially sighted people, one blind person and 
+four wheelchair users between 21 and 49 years old). In the combined 
+sample, there were 14 males and 19 females; 26 interviews were con­
+ducted in English, and seven were conducted in Chinese. All participants 
+were Singapore citizens. 
+3.2. Coding the interview transcripts and thematic analysis 
+Field notes were produced within two days of each go-along inter­
+view to describe the route taken and to record pertinent responses and 
+observations of interest. The audio recordings were then transcribed 
+verbatim, and the transcripts were imported into NVivo 12. Two-cycle 
+descriptive coding was performed to facilitate theme identification 
+(Salda˜na, 2016). The first cycle of descriptive coding employed text 
+searches for any mentions of built environmental factors, and further 
+inspection excluded search results that yielded irrelevant meanings. This 
+count component, which shows the frequency and distribution of spe­
+cific keywords, is intended to aid in the extraction of themes in 
+perspective and to complement the subsequent in-depth thematic 
+analysis (Guest et al., 2011). The second cycle relied on the primary 
+qualitative data obtained in both verbal (i.e., reading the transcripts) 
+and nonverbal (i.e., viewing the video footage) forms. The data involved 
+Fig. 1. Starting locations of go-along interviews in the urban areas of Singapore. (Refer to Supplementary Material 2 for the plotted pedestrian routes.) 
+Y. Wang et al. 
+
+Journal of Transport Geography 115 (2024) 103811
+4
+discussion of the specific spatial practices imbued with personal per­
+ceptions, which would not have been feasible had the transcripts been 
+the only source. The results of the two cycles are presented in the 
+following subsections of descriptive results and thematic results. Ref­
+erences to participants are made using alphanumeric labels (A denotes 
+older adults and B denotes PWDs). Editing of the flow of speech or 
+grammatical mistakes in the participants’ quotations was kept to a 
+minimum. 
+4. Descriptive results – a snapshot of the interview contents 
+This section briefly presents an overview of what types of road users, 
+as well as the interactions among them, that the participants mentioned 
+during the go-alongs and the participants’ reactions to the free associ­
+ation question on inclusive streets. Many older adult participants 
+mentioned pedestrians in the context of pedestrian footpaths and in­
+teractions with on-road motorists and other users. However, this 
+keyword was not mentioned as frequently as other transport modes, 
+such as cycling and public transit, perhaps because being engaged in the 
+practice of walking reduced the need for self-referencing as a pedestrian. 
+The even lower frequency of mentions of pedestrians by only one PWD 
+participant may be partially attributed to the fact that four of the seven 
+participants were in wheelchairs; thus, the act of walking per se was not 
+directly applicable. Nevertheless, as illustrated in Fig. 2, almost all of the 
+participants repeatedly mentioned the act of walking and items related 
+to transit riders, such as buses and the MRT. This largely reflects the 
+nature of go-along interviews, as some entailed transit rides as part of 
+the participants’ everyday mobility practices and of Singapore’s typical 
+built environment. The absence of intentional prompts in the space- 
+sharing questions notwithstanding, motorists were mentioned as 
+frequently as cyclists were. As pedestrian travel involves movement 
+along paths and negotiation at points of conflict, what first came to 
+mind, according to the participants, was the interaction between pe­
+destrians and motorists, which poses a safety threat. Although personal 
+mobility devices (PMDs) were consciously included in the space-sharing 
+questions in response to the introduction of the code of conduct for the 
+safe sharing of paths (LTA, 2016b) (for discussion, see Section 6.3) and, 
+consequently, the popularity of PMDs, they were not mentioned as 
+frequently as cyclists were. This result can be explained by the similar­
+ities of the physical setting and the behaviour of cyclists and PMD riders 
+along a pedestrian footpath, which is the most likely location on the road 
+cross-section for them to coexist; in general, the discussion of such in­
+teractions mutually applies to each other. Furthermore, it was implicit in 
+the participants’ accounts that the speeds of non-motorised bicycles and 
+motorised PMDs make a substantive difference to pedestrians, who are 
+often the most vulnerable users in terms of the potential impact of 
+collision and perceived safety. 
+The free association question about the phrase “inclusive streets” led 
+to confusion among almost all of the participants, who asked for a 
+repetition or explanation. After the researcher explained the concept in 
+lay terms by saying that inclusive streets are designed for everyone (i.e., 
+transport modes and mobility capability), most participants still did not 
+understand the terminology, which resulted in a relatively low fre­
+quency of the word “inclusive”. However, the participants shared their 
+mostly positive opinions about the concept and were quick to voice some 
+desirable features of their own. For example, participant A11 (female, 
+68, part-time worker) did not understand the “terminology”, but as we 
+walked through the apartment blocks in Tiong Bahru Estate (Fig. 3), she 
+expressed that inclusive streets could “provide for people more facilities 
+that they need like shelter, easier access … and safety for the elderly, 
+things to hold on for safety” along streets. This response pattern reaf­
+firmed a communicative challenge that had been foreseen from the 
+outset in terms of the semi-structured interview design. In general, the 
+participants tried to understand the concept of inclusive streets, prob­
+ably in part due to the widely known phenomenon of social desirability 
+or because they wanted to help in a researcher-participant setting. 
+Including the terminology in the questions enriched the verbal aspect of 
+the interviewing process insofar as it acted as a cognitive stimulus. 
+5. Thematic analysis results – sociospatial themes 
+This section presents the sociospatial themes that emerged from the 
+verbal and nonverbal data collected. The field notes prepared immedi­
+ately after each interview also served as useful supplements for identi­
+fying emerging themes, contradictions or ambivalent attitudes through 
+triangulation with the two aforementioned major data sources. The 
+pedestrian routes taken were plotted and exported in KML format (see 
+Supplementary Material 2). For visualisation purposes, when the file 
+was opened in Google Earth, the base aerial image was selected such that 
+the image date was as close to the interview date as possible. The 
+overlaid images are screenshots of the go-along video footage. The 
+footage was taken by the action camera fixed on the researcher’s 
+shoulder to avoid causing discomfort to the participants, and the 
+perspective of the researcher could be approximated as that of the 
+participant during the go-alongs. As with the routes, a high proportion of 
+semi-outdoor (e.g., sheltered walkways) and indoor locations prevented 
+the action camera from obtaining good-quality satellite signals, so the 
+pedestrian routes were plotted manually instead. 
+5.1. Cut-throughs and informal paths 
+Cut-throughs and informal paths were found to form part of the 
+extended pedestrian network, including for less mobile pedestrians. As 
+expected, footpaths along streets, which were apparently preferred 
+among older adults (Booth et al., 2000), were only one component of a 
+wider pedestrian network. Participants would at some point veer off 
+major roads and enter a local, intricate pedestrian network. In the order 
+of relative position from major roads, the elements of such a pedestrian 
+network include walking surfaces outside buildings; sheltered footpaths 
+along building frontages, which are a prominent feature of traditional 
+shophouses as well as commercial buildings; footpaths linking to other 
+destinations; and alternative routes through buildings, which, for 
+instance, are facilitated by a direct linkage between transit nodes and 
+commercial buildings. In the case of Singapore’s public housing estates, 
+which occupy a large proportion of the urban landscape, crisscrossing 
+internal footpaths and void decks, which are typical design features at 
+the ground level of public residential blocks, add porosity to pedestrian 
+Fig. 2. Word cloud of item mentions. The colours refer to the proportions of 
+pooled participants (n = 33) divided into quarters of percentages (i.e., Almost 
+all: > 75%; Many: 50% < %p ≤75%; Some: 25% < %p ≤50%; A few: ≤25%). 
+For the complete table of descriptive results, see Supplementary Material 3. 
+Y. Wang et al. 
+
+Journal of Transport Geography 115 (2024) 103811
+5
+networks, as opposed to private condominiums and other entities where 
+the through traffic of pedestrians is not allowed. The utilisation of such 
+intuitive and localised spatial knowledge was observed, for instance, 
+when participant A11 chose an informal pedestrian (an opening of the 
+road divider) over a nearby raised zebra crossing (Fig. 3). Similarly, 
+participant A8 (female, 64, retiree) began the interview at an MRT 
+station and used the pedestrian footbridge that connects the concourse 
+to the adjacent shopping mall on the second floor, stating, “Many people 
+do not come to the shopping mall for shopping per se but to avoid the 
+warm temperature outside.” Moreover, when walking past an escalator 
+leading to the ground level and entering the mall, this participant noted, 
+“If I were to go from there [the station] to here [the mall], I would go 
+through air-conditioned places wherever possible because it is simply 
+too hot.” Although past research has shown that the discrepancy 
+between objective and perceived accessibility to shops is associated with 
+attitudes towards different transport modes (Ma and Cao, 2019), which 
+is what the vision of inclusive streets aims to nudge, participant A8’s 
+account further illustrates the potential of extended pedestrian networks 
+in coordination with conventional street design. 
+Accessibility at the facility level and connectivity at the network 
+level were the contentious issues raised by the participants when dis­
+cussing their walking experiences and challenges. When asked whether 
+she thought streets in Singapore were accessible to all, participant A10 
+(female, 71, retiree) made use of the locality to elaborate: 
+“It’s only some of the roads or walkway. It’s not well-designed in the 
+sense that to… To reach one place from another, for example, I need 
+to go over to the opposite, the next block. Now, I have to cut through 
+Fig. 3. The route participant A11 took during the go-along around Tiong Bahru, Singapore (base photograph: Google Earth 2016). 
+Fig. 4. A segment of the go-along with A10 around Simei, Singapore (base photograph: Google Earth 2017). 
+Y. Wang et al. 
+
+Journal of Transport Geography 115 (2024) 103811
+6
+the car park to go through this. Otherwise, I have to squeeze through 
+all these small little lanes” (Fig. 4). 
+Participant A10 proceeded to highlight the slight changes in height 
+and the unevenness of walking surfaces as a trip hazard. For instance, 
+the stone pavers (Fig. 4) in the meadow directly linking the street and 
+residential block are cheap and in need of upkeep. Despite the connec­
+tivity improvement, “… they should make a better pavement. … Then, 
+it’ll be safer. If not like that, in between, elderly people can sometimes 
+just miss a little gap. They will just trip and fall”. This portrayal of un­
+evenness as a source of angst agrees with the findings of Herrmann- 
+Lunecke et al. (2021), who further examined the difference in built 
+environment perception across socioeconomic strata. 
+5.2. Detouring versus jaywalking 
+The adaptive behaviour of detouring and jaywalking occurred during 
+the encounter of accessibility barriers, but this behaviour also represents 
+the possibility of converting accessibility constraints into opportunities. 
+Steps and stairs are major barriers that the participants had to circum­
+vent; these barriers were identified in other go-along studies in 
+Singapore (Cao et al., 2019; Moˇcnik et al., 2022) and are common in 
+densely populated cities. For example, Hong Kong’s convoluted pedes­
+trian network of at-grade streets, overhead footbridges and underground 
+passageways tends to be a daunting task for older adults to navigate (Sun 
+and Lau, 2021). Although Singapore’s urban density may not be as high 
+as that of Hong Kong in general, some of the adaptive behaviour of 
+detouring that occurred in our study was quite striking. From her home 
+to her destination (a shopping mall on a major artery by bus), participant 
+A5 alighted on the same side. However, on the way back, she had to 
+access the bus stop on the other side of the road, which can only be 
+crossed using a pedestrian overhead bridge that has yet to be fitted with 
+an elevator. As illustrated in Fig. 5, the unfortunate inaccessibility due to 
+her physical constraints was compensated by a bus ride that happened to 
+take a U-turn nearby. 
+“Because of my legs. And I also cannot take this (bridge). … I can’t 
+take, I can take, but I think I need one and a half hours”. [At another 
+location, further explaining the same problem] “Long ago, they 
+didn’t have the barriers. So, I could just run across. Jaywalked. Now, 
+they want us to use the overhead bridge, but then, for people like me, 
+it’s difficult. With my legs with arthritis, very difficult. … I will show 
+you where I always get another bus to come back here. Crazy, right?” 
+(A5, female, 66, retiree). 
+“People will feel that it is more convenient to walk (across) than to 
+climb up the stairs, especially for their (old) age. The police call it 
+jaywalking, but you don’t expect old people to climb up and down, 
+right? So, sometimes, it [the definition of jaywalking] has to be 
+flexible” (A12, male, 72, part-time worker). 
+To a lesser degree, the stairs in the underground pedestrian network 
+connecting a shopping mall at the basement level slightly deterred 
+partially-sighted participant B1 from choosing this apparently more 
+comfortable route over the ground-level route (Fig. 6). At the ground 
+level, a higher degree of pedestrian-vehicle conflict poses a greater 
+challenge, particularly when crossing the street. However, instead of 
+adhering to formal traffic rules, the participants made informal crossing 
+decisions based on the need for direct routes, their perceptions of traffic 
+safety, their self-awareness of visual disabilities and how visible such 
+visual disabilities are to others. For example, one participant said the 
+following: 
+“Here, I will wait and make sure (there is) no car, or I just follow. 
+Now, there’s a car. In my case, I still can gauge it, but for my hus­
+band, he can’t. He will definitely need help if I am not with him. I’ll 
+always say you go out, you must take the cane. With the cane, at least 
+people will know. Some passers-by will also help us. Then, if this 
+driver sees, they will also slow down” (B1, female, 44, partially 
+sighted, part-time worker). 
+5.3. Ambivalence towards space sharing 
+Some go-alongs revealed an ambivalence towards space sharing, 
+which was implicated in underappreciated traffic rules as well as the 
+perceived identity of other users. The discussion of space sharing among 
+pedestrians, cyclists and other road user groups reflects the topic’s 
+multifaceted nature beyond the provision of pedestrian and cyclist fa­
+cilities and includes a desired mutual understanding of considerate user 
+behaviour. Separate paths for pedestrians and cyclists seemed to be an 
+obvious infrastructural solution, as suggested by the participants. 
+However, echoing the findings of Lanza et al. (2022) on the 
+Fig. 5. Actual and intended segments of the go-along with A5 around Marine Parade, Singapore (base photograph: Google Earth 2017). 
+Y. Wang et al. 
+
+Journal of Transport Geography 115 (2024) 103811
+7
+infrastructure switching behaviour of micromobility users, the sharing 
+of footpaths by pedestrians and cyclists remains the dominant situation 
+where the difference in travelling speeds creates safety issues that more 
+adversely affect vulnerable road users. 
+“In their PMD, their bikes, there they are travelling at high speeds 
+when they pass by. It’s like a challenge for us. So, it’s very ironic that 
+we, the visually impaired, do all the avoiding when we walk around” 
+(B4, male, 36, partially sighted, full-time worker). 
+E-scooters were perceived to pose a danger to pedestrians due to 
+their high travelling speed, while mobility scooters used by older adults 
+were considered positive due to the autonomy in everyday travel that 
+they provide. Some participants brought up the issues of parked bicycles 
+encroaching on pedestrian footpaths and the ringing or alerting 
+behaviour of cyclists to overtake pedestrians, which, if done excessively, 
+can be annoying. 
+The rights-of-way by transport mode are usually well designated, 
+with some shared facilities. Acknowledging the need for a space-sharing 
+mindset, one participant stated, “As you know, we have to share the 
+lane. Last time, not so many cyclists. But we also cannot be so selfish”, 
+and she cited interpersonal reasons: “because my husband is also one of 
+these cyclists” (A20, female, 63, retiree). When asked how the space- 
+sharing situation could be improved, however, some participants 
+singled out education as the key despite acknowledging that some por­
+tions of walking paths were too narrow. While not necessarily 
+mentioned in a negative light, residents whose nationalities were other 
+than Singaporean were woven into this discourse. For example, one 
+participant shared the following: 
+“Even on the pedestrian pathway, they also cycle a lot. Because there 
+are a lot of Chinese nationals here, a lot of residents here … there are 
+pros and cons. If we don’t allow them, these cyclists, I can see a lot 
+are elderly, you know, like my age. I think they are used to cycling in 
+China, right? It’s one of their means of transport, correct?” (A9, fe­
+male, 70, retiree). 
+“Work-wise, the workers are okay. Usually they will let pedestrians 
+walk past, and they will just stop. Then, sometimes, I think the 
+workers are okay because they just lay out the construction area. 
+They will tell us to walk here, walk here. At least they will advise us 
+regardless of whether we are normal or if we have any disability” 
+(B1, see also Fig. 6). 
+However, when asked how pedestrians should behave more 
+considerately, another participant elaborated, “Indians, those who come 
+from India, called foreign workers, will walk in a row and not give way, 
+forcing you to step sideways”. Upon further sharing an episode in which 
+he confronted them and told them about the rules on the street (i.e., to 
+give way), he used an umbrella to re-enact the scene, gestured as if he 
+were poking it at someone and said, “I know they are foreigners, right. If 
+they were to get into a fight, they would be in trouble. Then, they would 
+step aside obediently” (A19, male, 79, retiree). He said this in a slightly 
+aggressive tone, stressing their difference in nationality and insinuating 
+an unequal power relationship. This narrative contrasts with his earlier 
+comment that it is difficult to educate people or change their travel 
+habits. 
+6. Discussion 
+This section mirrors the structure of the previous section, provides 
+further discussion based on the aforementioned sociospatial themes, and 
+frames them in broader urban mobility and social contexts. 
+6.1. Extended pedestrian networks 
+Alternative informal paths and public spaces (Fig. 4), including void 
+decks that are ubiquitous at the ground level of public housing estates, 
+constitute an important part of the pedestrian network that the partic­
+ipants actually use to navigate. Some of these paths or physical elements 
+are highly symbolic: they implicitly function in a way similar to traffic 
+signs, allowing or prohibiting certain travel behaviours. For example, an 
+opening in a median (see Fig. 5) or in a fence subliminally serves as 
+permission or as an invitation to cross the road informally at a specific 
+location. Another example is the well-trodden paths on the grass verges 
+of streets, as a materialisation of desire lines. 
+Pedestrian behaviour has been found to be associated with a variety 
+of built environment elements (Adkins et al., 2012; Boarnet et al., 2011) 
+and is mediated by knowledge and perception (Booth et al., 2000; 
+Herbolsheimer et al., 2021; Herrmann-Lunecke et al., 2021). This 
+mediation effect is consistent across vastly different urban contexts, such 
+Fig. 6. Actual and alternative segments of the go-along with B1 in Orchard Road, Singapore (base photograph: Google Earth 2018). 
+Y. Wang et al. 
+
+Journal of Transport Geography 115 (2024) 103811
+8
+as North America (Herbolsheimer et al., 2021) and Latin America 
+(Herrmann-Lunecke et al., 2021), but close attention to microscale 
+characteristics remains imperative. The evaluation of accessibility or 
+attractiveness is based on a known set of links; thus, informal or un­
+conventional paths, such as the cut-throughs observed in buildings and 
+across planted verges, may be overlooked. At the city level, desire lines 
+have attracted scholarly attention, and a recent study modelled desired 
+transport corridors compared with the existing road network (Bahbouh 
+et al., 2017). To borrow a critique of long-haul mobilities, Hughes and 
+Mee (2018) caution that the narrow focus on predetermined paths may 
+spuriously frame journey disruptions as an intrinsically negative force. 
+Regarding active mobility for shorter distances, this calls for a higher- 
+resolution survey of extended pedestrian networks and land use pat­
+terns (Iacono et al., 2010). Nevertheless, our study suggests that there is 
+a major limitation to the sole use of objective measurements given the 
+semiotics of the built environment. The missing links in existing GIS 
+databases and unmet mobility needs must be identified prior to ana­
+lysing accessibility more systematically in conjunction with perceptions 
+and emotions. 
+Similarly, the connectivity level of pedestrian networks should be 
+based on consideration of the informal paths and public spaces that 
+already function in people’s everyday mobilities and the desired yet 
+missing links, which will benefit not only less mobile pedestrians but 
+also all pedestrians. The go-alongs focused on individual pedestrian 
+movement and blurred the line between formal and informal compo­
+nents in an extended pedestrian network that transcends the public and 
+semi-public domains. Moreover, the planning, construction and man­
+agement of such an integrated pedestrian network will require the 
+continued collaboration of various stakeholders. For example, the route 
+choice of participant B1 (see Fig. 6) to avoid underground pedestrian 
+networks due to frequent changes in level suggests that, unfortunately, 
+the devil is in the details. In 2004, the Urban Redevelopment Authority 
+released a master plan for underground pedestrian links in the Orchard 
+Road area, which identified critical links whose construction would be 
+subsidised by the government and was extended until 2022 (URA, 
+2021). The lukewarm adoption of the plan by mall owners and de­
+velopers (ST, 2016) and the recently announced plan to revamp Orchard 
+Road and to enhance ground-level urban vibrancy indicate that inclu­
+sive streets for both traffic and human activity are prioritised in street 
+design. Such prioritisation also offers opportunities to make the built 
+environment more inclusive by monitoring and rectifying inaccessible 
+design elements in a more effective manner. To that end, a variety of 
+street auditing instruments have been used to survey the physical ele­
+ments along street segments and to evaluate the provision of primarily 
+active transport modes (Boarnet et al., 2006; Day et al., 2006; Millstein 
+et al., 2013). The findings from older adults and PWDs reveal that more 
+attention should be given to the fine details of the built environment to 
+ensure a smooth and hazard-free journey for everyone. 
+6.2. Converting accessibility constraints into opportunities 
+The unintended detour travel (Fig. 5) elucidates the intertwining 
+relationship between accessibility and connectivity and the profound 
+impact that it has on shaping the travel patterns of less mobile pedes­
+trians. One street connectivity measure is the number of connecting 
+sidewalks or crosswalks (Clifton et al., 2007), which was found to be 
+positively associated with the prevalence of walking on streets (Monir­
+uzzaman and P´aez, 2016). In a broader sense, grade-separated and at- 
+grade crossing facilities both contribute to street connectivity, 
+although accessibility issues for less mobile pedestrians may be masked 
+due to the oversight of microscopic elements such as stairs. While 
+reducing such inaccessibility, for example, by installing lifts at pedes­
+trian overhead bridges, appears to be straightforward, a fuller picture of 
+the resulting adaptive behaviour is needed to understand the mobility 
+practices of vulnerable pedestrians. In this light, H¨agerstrand’s (1970, 
+1989) conceptualisation of space-time constraints is instrumental: 
+capability constraints in the form of limited physical ability interact with 
+the other two types of time-space constraints: coupling constraints, 
+which take the form of “bundles” due to personal commitments or other 
+utilitarian purposes, and authority constraints, which control entitle­
+ment to resources through “domains”. The observed adaptive detouring 
+can thus be regarded as an outcome of the interaction of tightened 
+capability constraints and relaxed coupling constraints (H¨agerstrand, 
+1970; P´aez and Scott, 2007) among retired older adults. This finding 
+also corresponds to previous research that found that the overall impact 
+of the built environment on the unmet travel needs of older adults was 
+limited, especially for those with a car (Haustein and Siren, 2014; Luiu 
+et al., 2017), which can be realised only with substantial extra effort. 
+Some interviews included a bus or train ride in between to capture 
+the participants’ active mobility behaviour in the first and last stages of 
+the trip. The extra time spent could be simply treated as “deadweight”, 
+but the transit time was not a complete waste because the conversation 
+continued, lending some anecdotal support to the notion that travel time 
+is not always unproductive (Lyons and Urry, 2005). Specifically, this 
+chained mobility practice, either voluntary or involuntary, resonates to 
+Bissell’s (2018), p. 76) participant observation of and introspection into 
+how time is produced and reproduced through commuting routines, 
+albeit with a warning of over-optimism about commute productivity 
+against the precarity of certain commuters, which is applicable to less 
+mobile pedestrians. Therefore, an integrative approach is needed to 
+understand the negative effects of the remaining inaccessible features in 
+the built environment, to address the component of waiting and stillness 
+in mobility practices (Cresswell, 2012) and to recognise the potential 
+offset of the concurrent use of travel time for transport and activity, 
+either on foot or in transit. 
+6.3. Towards a space-sharing culture in non-motorised transport 
+The challenge of space sharing is more acute in Singapore because 
+pedestrian footpaths are typically only 1.5 m wide. This issue is exac­
+erbated by the growing popularity of PMDs and the introduction of 
+dockless systems of shared bicycles with the ensuing incivility problems 
+such as indiscriminate parking. The confusion about and contentious 
+claims by the participants over space sharing, particularly between pe­
+destrians and cyclists, reflect a potentially steep learning curve of the 
+traffic rules with regard to rights-of-way among a diversified host of 
+pedestrians and non-pedestrians on the sidewalk. A reduction in the 
+speed limit on footpaths is a welcome move (LTA, 2019a), as some 
+participants in this study cited annoying and reckless cycling behaviour, 
+such as unnecessary alerting from behind and the failure to slow down 
+when overtaking pedestrians. While determining which types of active 
+mobility devices are allowed on roads, footpaths and/or shared paths is 
+invariably a regulatory fine-tuning task, equally important is the mission 
+to inculcate a friendly and inclusive street environment supported by a 
+widespread space-sharing cultu
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

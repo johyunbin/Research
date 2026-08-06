@@ -1,0 +1,101 @@
+﻿uid,source,text_basis,orig_no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+1005,db-search,full,1005,Mixed methods,Y,Y,Y,Y,CT,N,N,2,low,"정성 요소 방법 미기술, 설문·Strava 표본 비연결, 노출추정 단일 구간 의존"
+1009,db-search,full,1009,Quantitative non-randomised,Y,Y,Y,CT,Y,CT,Y,3,moderate,"재생 음압 교정 미보고, 반복측정 자료에 독립성 가정 검정 적용"
+1018,db-search,full,1018,Quantitative descriptive,Y,Y,Y,Y,CT,Y,Y,4,high,"행동분류 관찰자 신뢰도 미보고, 실측 LAeq가 회귀모형에 미투입"
+1020,db-search,full,1020,Quantitative descriptive,Y,Y,Y,N,N,Y,N,2,low,"회귀계수 본문-표 다수 불일치, 20–30세 30명 패널, 77dB 임계 비유의"
+1053,db-search,full,1053,Quantitative descriptive,Y,Y,Y,CT,CT,N,N,1,low,"공원 24% 결측 제외 근거 미기술, Poisson 과분산·공간자기상관 미검토"
+1069,db-search,full,1069,Quantitative non-randomised,Y,Y,Y,Y,Y,CT,Y,4,high,"조건 배정 무작위화·관찰자 간 신뢰도 미보고, 개인 인구통계 부재"
+1076,db-search,full,1076,Quantitative descriptive,Y,Y,Y,N,Y,Y,CT,3,moderate,"인구통계 수치 미제시, 5개 공원 이질성 미통제, 매개효과 유의성 서술 상충"
+1110,db-search,full,1110,Quantitative descriptive,Y,Y,Y,Y,N,N,N,2,low,"청각 변수 전량 이미지 예측치, 공간자기상관 미처리 상태로 무작위 분할"
+1115,db-search,full,1115,Quantitative descriptive,Y,Y,Y,Y,CT,Y,Y,4,high,"도시 간 소음지표 비등가(16h 6등급 대 18h 5등급), 2011 센서스와 2017 소음의 시점 불일치"
+1121,db-search,full,1121,Quantitative descriptive,Y,Y,Y,N,Y,CT,N,2,low,"학생 92.6% 편중, 구간평균 회귀로 R2 과대, 상호작용 추론에 검정 부재"
+1122,db-search,full,1122,Quantitative non-randomised,Y,Y,N,CT,CT,N,CT,0,low,"온라인 편의표집과 연령 편중, 재생 음압 미통제, 교란 보정·조작점검 부재"
+1138,db-search,full,1138,Quantitative descriptive,Y,Y,CT,N,Y,CT,N,1,low,"통계분석 전무(표준편차·검정 없음), 인터뷰 30명 인구특성과 질적 분석절차 미보고"
+1149,db-search,full,1149,Mixed methods,Y,Y,Y,N,N,N,N,1,low,"표본수·장비·척도 출처 내부 모순, 통계 계수 미보고, 정량 귀무결과와 결론 상충"
+1174,db-search,full,1174,Quantitative descriptive,Y,Y,Y,CT,CT,Y,Y,3,moderate,"청각지표가 SVI 예측치(현장 r=0.575), 평일 2일 한정, 개인 사회경제 속성 미통제"
+1177,db-search,full,1177,Mixed methods,Y,Y,Y,Y,N,CT,Y,3,moderate,"정량 표본 소규모로 대표성 저자 부인, 정성 코딩 신뢰도 미보고, 불일치 논의 부재"
+1178,db-search,full,1178,Quantitative non-randomised,Y,Y,CT,Y,Y,N,Y,3,moderate,"취기 조건이 다른 날에 배정돼 날짜와 교락, 구형성 위배에 보정 미기재"
+1202,db-search,full,1202,Quantitative descriptive,Y,Y,Y,N,Y,CT,CT,2,low,"학생 편의표집으로 주민 대표성 결여, 1인 다응답의 군집 상관 미보정"
+121,db-search,full,121,Quantitative non-randomised,Y,Y,Y,N,N,Y,Y,3,moderate,"개인 소음노출 미측정, 패널 탈락 40% 이상이며 체계적 차이 확인됨"
+1211,db-search,full,1211,Quantitative descriptive,Y,Y,Y,N,CT,Y,Y,3,moderate,"단일 사례(모녀 1쌍)로 일반화 불가, 음환경 노출을 비교정 LUFS로 이분화"
+1221,db-search,full,1221,Quantitative descriptive,Y,Y,Y,N,N,CT,CT,1,low,"핵심 척도 신뢰도 alpha 0.64~0.67, 본문 계수와 표 값 불일치, 평일·단일 가로 한정"
+1226,db-search,full,1226,Quantitative descriptive,Y,Y,Y,Y,Y,N,Y,4,high,"응답률 30~58%·무응답 편의 미검증, 자기보고 신체활동으로 공통방법편의 우려"
+123,db-search,full,123,Quantitative descriptive,Y,Y,CT,CT,N,CT,N,0,low,"표본크기·응답률·표집절차 미보고, 다중검정 무보정 단변량 분석"
+1232,db-search,full,1232,Qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"전문가 12인 온라인 진행, 참여자 검증 미실시로 전이가능성 제한"
+1242,db-search,full,1242,Quantitative descriptive,Y,Y,Y,CT,Y,Y,Y,4,high,단일 해안지·오후 시간대·성비 편중으로 표본 대표성 불확실
+1258,db-search,full,1258,Quantitative descriptive,Y,Y,CT,N,Y,Y,Y,3,moderate,"응답자 표집절차 미기술, 청년층 87%로 연령 대표성 결여"
+1272,db-search,full,1272,Quantitative non-randomised,Y,Y,N,Y,Y,Y,Y,4,high,대학생 40명·남성 편중 표본과 VR 환경으로 일반화 제한
+1280,db-search,full,1280,Quantitative descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"배포 설문 수 미보고로 무응답률 불명, 2개 마을·단일 계절"
+1306,db-search,full,1306,Quantitative descriptive,Y,Y,Y,N,CT,N,Y,2,low,"음환경 실측 부재·앱 이용자 자기선택 편의, 설명력 R2=0.402"
+14,db-search,full,14,Quantitative non-randomised,Y,Y,Y,Y,Y,CT,Y,4,high,"요일·시간대·기상 등 시간적 교란 미통제, 관찰자 신뢰도 미보고"
+271,db-search,full,271,Mixed methods,Y,Y,Y,N,N,N,N,1,low,"단일사례 파일럿, 정성·정량 통합 형식적이며 음압레벨·관찰자 신뢰도 미보고"
+323,db-search,full,323,Quantitative non-randomised,Y,Y,Y,Y,Y,Y,CT,4,high,"세션 중 신호대잡음비 미검증, 영상 코딩 신뢰도 미보고"
+341,db-search,full,341,Quantitative descriptive,Y,Y,CT,CT,Y,CT,N,1,low,"응답률 미보고, 주요 행동 결과에 통계검정 없음, 결정계수 중복 보고"
+372,db-search,full,372,Qualitative,Y,Y,Y,N,Y,Y,CT,3,moderate,"사운드 목적 아닌 인터뷰의 2차분석, IPA와 키워드 추출 절차 불일치"
+379,db-search,full,379,Mixed methods,Y,Y,Y,N,N,N,N,1,low,"공원당 20명 소표본·통계검정 부재, 정성·정량 결과 통합 미흡"
+406,db-search,full,406,Quantitative non-randomised,Y,Y,CT,Y,CT,Y,Y,3,moderate,총 표본 수와 결측 미보고·하얼빈 단일 시장 한정
+435,db-search,full,435,Qualitative,Y,Y,Y,Y,Y,Y,CT,4,high,분석 절차 미기술·의도적 표집 10명으로 전이가능성 제한
+461,db-search,full,461,Quantitative RCT,Y,Y,CT,CT,Y,CT,Y,2,low,무작위화 절차·기저 동등성·평가자 눈가림 모두 미보고
+469,db-search,full,469,Quantitative descriptive,Y,Y,Y,Y,Y,Y,Y,5,high,TSE 중앙값 분할로 70명 제외·단일 목적지 1주간 조사
+480,db-search,full,480,Quantitative non-randomised,Y,Y,CT,Y,CT,Y,Y,3,moderate,회수율·결측 미보고·가로 간 비교에 도시 문화 교란 잔존
+481,db-search,full,481,Quantitative non-randomised,Y,Y,CT,Y,Y,Y,Y,4,high,단일 광장 UAV 표본·성비 맞춘 인위적 선별로 대표성 불확실
+492,db-search,full,492,Mixed methods,Y,Y,Y,Y,Y,CT,CT,3,moderate,양-질 결과 불일치 논의 부재·코더 간 신뢰도 미보고·단일문항 리커트
+494,db-search,full,494,Quantitative descriptive,Y,Y,Y,Y,Y,CT,Y,4,high,무응답률 미보고·유효 표본 182명으로 소규모
+520,db-search,full,520,Qualitative,Y,Y,Y,Y,Y,CT,Y,4,high,활동군당 셀이 3~20명으로 작고 통계 검정 없이 경향 해석
+53,db-search,full,53,Quantitative non-randomised,Y,Y,CT,Y,N,Y,Y,3,moderate,"소표본 편의표집, 실험2 좌우 위치 기록 누락으로 결측 발생"
+532,db-search,full,532,Quantitative RCT,Y,Y,CT,CT,CT,CT,Y,1,low,무작위화·기저 동등성·눈가림 미보고·설문 결측 수 미보고
+539,db-search,full,539,Quantitative descriptive,Y,Y,Y,CT,CT,CT,Y,2,low,3점 회상 척도·고학력 편중·무응답률 미보고·다중비교 보정 없음
+560,db-search,full,560,Quantitative descriptive,Y,Y,Y,CT,Y,N,Y,3,moderate,"응답률 53%·무응답 편의 미분석, 단일 도시 현장 편의표집"
+566,db-search,full,566,Mixed methods,Y,Y,Y,Y,Y,Y,CT,4,high,"정량 요소 자기선택 표본·시기 교란, 한계 절 없음"
+602,db-search,full,602,Quantitative descriptive,Y,Y,Y,N,Y,CT,Y,3,moderate,평가자 전원 20~30대 학생·실제 가로 이용자 아님
+617,db-search,full,617,Quantitative descriptive,Y,Y,Y,N,CT,CT,N,1,low,"남성 학생 27명 한정, 구간 반복측정을 독립표본 취급한 의사반복"
+661,db-search,full,661,Quantitative non-randomised,Y,Y,N,Y,Y,N,Y,3,moderate,"참가자 10명, 차량 시각모델·속도가 음향조건과 교락"
+665,db-search,full,665,Quantitative non-randomised,Y,Y,CT,Y,Y,N,Y,3,moderate,음악 조건 SPL 11 dB 높아 음종과 음압 교락
+666,db-search,full,666,Quantitative non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"동질 학생 30명 표본, 자극 제시순서 고정으로 순서효과 미통제"
+694,db-search,full,694,Quantitative descriptive,Y,Y,Y,CT,CT,N,Y,2,low,"참여율 약 25%·무응답 편의 미검토, COVID 태도 문항 비검증"
+7,db-search,full,7,Undetermined,CT,CT,CT,CT,CT,CT,CT,0,low,"스캔본 PDF·본문 텍스트 부재로 평가 불가 (scanned PDF, manual check needed)"
+71,db-search,full,71,Quantitative descriptive,Y,Y,Y,CT,Y,N,Y,3,moderate,"응답률 59%·무응답 편의 분석 부재, 녹지접근 단일문항 측정"
+724,db-search,full,724,Mixed methods,Y,Y,CT,Y,CT,CT,N,1,low,"면접 코딩틀·신뢰도 미보고, 2011/2019 자료 시차, 한계 기술 없음"
+725,db-search,full,725,Quantitative descriptive,Y,Y,Y,N,Y,N,Y,3,moderate,"온라인 자기선택 표집·젊은 고학력 여성 편중, 무응답률 산출 불가"
+726,db-search,full,726,Mixed methods,Y,Y,Y,Y,Y,CT,N,3,moderate,"코더 눈가림·신뢰도 부재, 에세이 111편 독립표본 취급, 두 군 활동 비동등"
+732,db-search,full,732,Quantitative descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"응답률·거부율 미보고, 대상지별 표본 극심 불균형, 결측 평균대치"
+746,db-search,full,746,Qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"자원자 모집·주간 한정, 연구자 동행에 따른 반응성 가능(저자 인정)"
+760,db-search,full,760,Mixed methods,Y,Y,Y,CT,CT,N,N,1,low,"질적 절차 신뢰도 미보고, 행태관찰 1일 60분, 양적·질적 불일치 미논의"
+761,db-search,full,761,Quantitative descriptive,Y,Y,Y,Y,Y,CT,Y,4,high,"접근 대비 거부율 미보고, 맑은 날 주간에만 조사"
+762,db-search,full,762,Mixed methods,Y,Y,Y,Y,Y,CT,N,3,moderate,"단일 발코니 고정지점 표집, 저자가 평정단 참여, 일기 성찰성 미보고"
+791,db-search,full,791,Quantitative descriptive,Y,Y,CT,N,N,N,N,0,low,"기기 탐지=인구 대리 검증 부재, 소음계 교정 미보고, 통계검정 없이 인과 결론"
+799,db-search,full,799,Quantitative descriptive,Y,Y,Y,N,Y,Y,CT,3,moderate,"경적 빈발 3개 교차로만 선정, 반복측정 군집구조 미보정"
+804,db-search,full,804,Quantitative descriptive,Y,Y,Y,CT,Y,Y,CT,3,moderate,"다중비교 보정 없는 다수 상관검정, 약한 상관 과대해석, 단일 공원"
+818,db-search,full,818,Quantitative descriptive,Y,Y,Y,CT,Y,Y,Y,4,high,단일 공원·연휴 포함 8일 조사로 방문객 구성 편중(저자 인정)
+821,db-search,full,821,Quantitative descriptive,Y,Y,CT,CT,Y,Y,Y,3,moderate,"응답자 모집·온라인 배포 경로 불명, 단일 공원 저녁 시간대 한정"
+833,db-search,full,833,Mixed methods,Y,Y,Y,Y,Y,Y,CT,4,high,"참여자 자기선택으로 취약집단 미포함, 휴대형 소음측정 한계(저자 인정)"
+858,db-search,full,858,Quantitative descriptive,Y,Y,CT,N,Y,CT,N,1,low,온라인 편의표본·전공 편중에 8개 클러스터 집계 회귀로 통계 근거 취약
+862,db-search,full,862,Quantitative descriptive,Y,Y,Y,Y,CT,Y,N,3,moderate,"여름 3일 단일 공원, 31개 지점에 9변수 회귀로 과적합·다중검정 미보정"
+883,db-search,full,883,Quantitative descriptive,Y,Y,Y,Y,CT,CT,Y,3,moderate,대규모 전국 표본이나 단일문항 회상 측정·응답률 미보고와 신뢰구간 표기 오류
+901,db-search,full,901,Quantitative descriptive,Y,Y,Y,CT,Y,Y,N,3,moderate,2일 단일 공원 관측이며 Table 4-5의 t·p값 불일치로 모형 결과 신뢰 제한
+930,db-search,full,930,Quantitative descriptive,Y,Y,CT,N,Y,CT,N,1,low,"표본 수 불일치와 남성 편중, 회귀식 오기와 낮은 설명력"
+931,db-search,full,931,Quantitative non-randomised,Y,Y,CT,Y,Y,CT,Y,3,moderate,설계·측정은 견고하나 인구학 정보 부재와 기온·요일 교란 미보정
+941,db-search,full,941,Quantitative non-randomised,Y,Y,CT,Y,CT,N,Y,2,low,노출이 시간대·교차로 거리와 교란되고 보행자 특성 미수집으로 인과 해석 제한
+951,db-search,full,951,Quantitative descriptive,Y,Y,Y,N,Y,CT,Y,3,moderate,다층모형은 적절하나 Strava 표본이 남성·경쟁러너에 편중돼 일반화 제한
+964,db-search,full,964,Quantitative descriptive,Y,Y,CT,N,CT,Y,N,1,low,청년 20명 표본에 9개 지점 값의 유사반복 회귀와 계수 표기 불일치
+971,db-search,full,971,Quantitative non-randomised,Y,Y,CT,Y,CT,N,Y,2,low,온도 수준이 관측 장소와 교란되고 n=3 상관계수 사용으로 결과 해석 취약
+979,db-search,full,979,Qualitative,Y,Y,Y,Y,Y,CT,Y,4,high,"자료·분석 일관성은 높으나 소수 발췌로 정신증 과민성 일반화, 비교군 없음"
+980,db-search,full,980,Quantitative descriptive,Y,Y,Y,CT,Y,Y,N,3,moderate,"단일 공원·명절 표집 대표성 제한, 매개분석 표 부호가 상관분석과 상충"
+984,db-search,full,984,Quantitative descriptive,Y,Y,Y,CT,N,Y,N,2,low,"Ln 백분위지수를 측정시간으로 오해, 검정기법 미명시, 경관·소리 문항 미분리"
+999,db-search,full,999,Quantitative non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"표본 30명 전원 대학원생, 자극 제시순서 무작위화·counterbalancing 미보고"
+CT0001,citation-tracking,full,1,Quantitative descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"응답률·표본 인구학적 특성 미보고로 대표성은 타 논문 인용에 의존, 측정한 기온·습도·조도는 분석 미반영"
+CT0007,citation-tracking,full,7,Quantitative descriptive,Y,Y,Y,Y,Y,CT,N,3,moderate,35개 GLM을 다중비교 보정 없이 검정. 접촉·거절 인원 미보고로 무응답 편의 판단 불가. 체류시간은 자기보고 4구간뿐.
+CT0025,citation-tracking,full,25,Quantitative non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"남성만 표집해 대표성 제한, 조건 배정 순서·시간대 교란 미보고. 노출 조작과 결과 측정 절차는 정밀"
+CT0090,citation-tracking,full,90,Quantitative non-randomised,Y,Y,N,Y,Y,Y,Y,4,high,완전 전문 확인 결과 Exp2는 성별 균형 배정의 비무작위 집단대비이고 이탈 9명·템포 배정 교란 재분석이 본문에 명시됨. 1차의 3.3 CT와 3.4 N은 절단 인공물
+CT0126,citation-tracking,full,126,Quantitative descriptive,Y,Y,Y,N,Y,N,Y,3,moderate,2.2에서 분석단위를 sampling point N=29 지점평균으로 명시하고 지점 내 저변동(Fig 1S·2S)·per-survey 정규성 위배·지점별 설문수 불균형을 집계 근거로 제시 — 4.5=Y의 직접 근거. 따라서 CT0322와 공유하는 Cáceres 105명 데이터의 유효 추론 N은 29 지점이며 MA4 상관 클러스터 중복 투입 금지 판단이 원문으로 뒷받침됨. 등급을 가른 것은 응답률 25%와 COVID 경보 조기 종료(4.2·4.4). 객관 음향 실측+주관 설문이나 양쪽 모두 정량이라 mixed methods 아님
+CT0137,citation-tracking,full,137,Quantitative descriptive,Y,Y,Y,N,Y,N,N,2,low,음압 실측과 설문이 모두 정량이고 민족지 관찰은 분석법·통합 절차가 없어 mixed 아님(1차 범주 정정). 다중응답을 독립 사례로 세어 n을 144-232로 부풀린 검정이 결정적
+CT0166,citation-tracking,full,166,Quantitative non-randomised,Y,Y,N,Y,Y,Y,Y,4,high,노출(구간 환경)은 무작위 아님 - 방향(2.1.4)과 지시문(4.1.3)만 무작위이므로 RCT 아닌 non-randomised. 전문 확인으로 Study 2 평정자=Study 1 참가자 전원(3.1.1)이고 Lday 50-60/50-55 dBA 소음지도값 제시(5절)임이 드러남. 잔여 약점은 단일 대학 학부생 편의표본
+CT0175,citation-tracking,full,175,Quantitative descriptive,Y,Y,Y,N,N,N,Y,2,low,"응답률 5~11%·대학 구성원 한정 표본에 음환경은 4범주 단일 문항, 응답 쏠림으로 귀무 결과 해석 제약"
+CT0184,citation-tracking,full,184,Quantitative descriptive,Y,Y,Y,N,Y,CT,Y,3,moderate,개입·노출 배정 없는 단일 횡단 설문이라 범주를 4번대로 정정(1차 3.5=N은 범주 부적합의 산물). 표집틀·응답률·응답자 인구학 구성이 전문 어디에도 없음
+CT0220,citation-tracking,full,220,Quantitative descriptive,Y,Y,Y,N,N,CT,N,1,low,"지적된 Table 9 불일치 확인됨 — Building 경로 95%CI[-0.035,0.005]가 0을 포함하는데 p=0.015 유의로 보고. 40지점 공간지표를 471명 독립관측으로 처리, Table 7 Run은 R2=0.108인데 F=2.128, 악취 문항 역코딩 없음"
+CT0322,citation-tracking,full,322,Quantitative descriptive,Y,Y,Y,Y,Y,N,N,3,moderate,"객관 음향 실측+주관 설문이나 둘 다 정량이므로 mixed 아님. 상관 분석단위를 표본지점 값이라 밝히면서도(2절) 지점 수와 지점별 집계 절차를 전문 어디에도 보고하지 않음 - 절단 아닌 실제 미보고. 유의 임계(r=0.36 n.s./0.37 *, 0.47 */0.48 **)는 n=29를 시사해 보고된 105명과 불일치하며 검정력 0.94 주장의 근거 n과도 어긋남. 응답률 25%, 다중비교 보정 없음"
+CT0335,citation-tracking,full,335,Mixed methods,Y,Y,Y,Y,Y,Y,N,4,high,"전문 확보로 6.2-7절의 통합 해석과 P5 불일치 처리가 확인되어 5.3·5.4가 CT에서 Y로 전환. 인터뷰 코딩·분석 절차 전무와 Friedman에 F통계량·Tukey 사후검정·t(2,16) 표기 오류로 5.5만 N"
+CT0348,citation-tracking,full,348,Quantitative descriptive,Y,Y,Y,N,Y,N,Y,3,moderate,단일 도시 2개 가로만 검증해 대표성 제한. YOLO 처리 실패 이미지·이상치를 선별 제외했으나 제외 비율 미보고.
+CT0356,citation-tracking,full,356,Quantitative descriptive,Y,Y,Y,N,N,CT,N,1,low,Discussion의 Park 평균거리 1.65-3.37이 Table 4의 7.68-15.22와 직접 모순. 참가자 10명이 각 4-6개면 76속성 산출 불가. 자택 PC 재생인데 '보정된 재생'이라 주장하고 상관계수·유의성 검정은 부재
+CT0371,citation-tracking,full,371,Quantitative non-randomised,Y,Y,N,Y,N,N,Y,2,low,2.4와 4.3에 '전원이 동일 순서로 6개 회랑 통과'(all participants experienced the crossing corridors in the same order)가 명시되어 조건 무작위 배정 부재가 확정 — RCT 아닌 non-randomised로 배정. 동일 18명이 6개 회랑을 반복 통과하는 피험자 내 준실험이며 nparLD ANOVA·비율동등성 검정으로 조건 간 대비를 수행하므로 descriptive 아님. GPS 궤적·VAS 모두 정량이라 mixed methods 아님(질적 면담 단계는 별도 논문 Routhier et al. 2023)
+CT0414,citation-tracking,full,414,Mixed methods,Y,Y,Y,Y,Y,Y,N,4,high,"표4 감각공간 합 2,249가 관측 1,167 초과해 카이제곱 독립성 위배. 관찰 2일, 질적 인용문·포화·관찰자 신뢰도 미보고."

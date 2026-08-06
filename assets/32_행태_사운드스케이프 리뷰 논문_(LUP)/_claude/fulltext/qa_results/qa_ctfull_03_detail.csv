@@ -1,0 +1,16 @@
+no,item,item_no,verdict,rationale
+90,participants representative of target population,3.1,N,"METHODS Participants·GENERAL DISCUSSION: 두 실험 모두 단일 대학 심리학 수강 학부생(19~32세) 편의표본이고 저자도 문화적 동질 집단이라 인정, 일반 보행자 대표성 없음"
+90,measurements appropriate for outcome and exposure,3.2,Y,"Measurement of walking speed·Analysis of synchronization: 허리 카메라와 Elan 주석·Matlab 보간격 산출, Musical stimuli·Personality는 BMRI-2와 NEO-FFI 표준 도구"
+90,complete outcome data,3.3,Y,"Participants: Exp1은 79명 중 72명(91%)이 음악조건 참여하고 이탈 사유 명시, Exp2는 121명 전원(동기 62·비동기 59)이 분석에 포함"
+90,confounders accounted for in design and analysis,3.4,Y,"Procedure·Music condition RESULTS: 성별·보행방향을 ANOVA 요인으로 투입, Exp2는 성별 균형 배정, 템포 배정 교란은 저자가 진단해 완보·속보군 내에서 재분석"
+90,exposure administered as intended,3.5,Y,"Procedure: 동일 1.8km 경로에 화살표 표시, 5분 간격 개별 출발과 mp3·헤드폰 지급, 전 구간 비디오 기록으로 노출 이행을 확인"
+184,sampling strategy relevant to research question,4.1,Y,"Method Sampling and research sites: 파일럿 음향·이용자 조사로 2개 광장을 선별하고 최성수 시간대 현장 배포, 공공공간 이용자라는 연구질문에 부합"
+184,sample representative of target population,4.2,N,Sampling and research sites: 표집틀 없이 광장 2개소 현장 표집뿐이고 응답자 연령·성별 구성표가 전문 어디에도 없어 대표성 근거 부재
+184,measurements appropriate,4.3,Y,"Questionnaire design: ISO 12913·Axelsson 기술어 차용, Kang and Zhang 7점 척도, Cronbach 알파 0.733과 중복문항 이중검증, 01dB solo 음압계"
+184,risk of nonresponse bias low,4.4,CT,"Sampling and research sites: 배포 304부와 분석 301건만 제시, 접촉 인원·거절 건수·응답률이 전문 전체 검색에도 없어 판단 불가"
+184,statistical analysis appropriate to research question,4.5,Y,"Data analysis·Results: 자료형별 이항로지스틱·카이제곱·Spearman·선형회귀 적용, Kolmogorov-Smirnov·Levene·VIF·Durbin-Watson으로 가정 검증. 다만 다중검정 보정 없음"
+137,sampling strategy relevant to research question,4.1,Y,2.1 Selection of Case Study·2.4 Off-Site Survey: 규제가 느슨한 사례도시 리촨에서 실제 광장무가 열리는 2개소를 선정하고 지역 소셜미디어로 거주민 모집
+137,sample representative of target population,4.2,N,2.4 Off-Site Survey·3.2: 자기선택 온라인 106명 중 60세 이상은 3%뿐이고 저자도 온라인 배포가 연령 접근을 왜곡한다고 인정
+137,measurements appropriate,4.3,Y,"2.2 Onsite Measurements·2.4: Castle GA216L에 윈드스크린·1.5m 삼각대, A특성 slow 1분씩 3지점 3회 측정, 기술어는 선행연구 27-29에서 차용"
+137,risk of nonresponse bias low,4.4,N,2.4 Off-Site Survey·3.2: 소셜미디어 개방형 배포라 모집단 분모와 응답률이 없고 저자도 접근 편향 탓에 추가 표집이 필요하다고 서술
+137,statistical analysis appropriate to research question,4.5,N,"Table 13·15·16: n이 144·224·232로 응답자 106명을 초과해 다중응답을 독립 사례로 계수, Table 3의 표준오차 0.053도 SD 1.19와 불일치"

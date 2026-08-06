@@ -1,0 +1,4 @@
+﻿cluster,uid,label,g,v,src,note
+MA3,CT0025,"Mathews & Canon 1975 (조용 vs 소음, 도움행동)",1.0728,0.09987,"Table 2 cells; F(1,76)=20.00, P<.001; n1=n2=40",2×2 OR=7.00 → Chinn d. cue 2셀 합산. Moser 1988과 동일 변환경로
+MA4,CT0126,Montes González 2022 (LAeq ↔ 대화 방해),0.7753,0.03846,Table 2 LAeq × e) 0.65***,분석단위는 105명이 아니라 sampling point N=29(원문 §2.2 명시). CT0322와 동일 데이터 — 한 편만 채택
+MA4,CT0184,Cao & Kang 2021 (동반상태 → 말소리 인지),0.1665,0.00336,"Table 8 단일예측 Beta 0.165 = R, t=2.895",역방향(행태→지각). MA4는 양방향 혼재 클러스터라 프레임 정합

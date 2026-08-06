@@ -1,0 +1,6 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+335,mixed methods,Y,Y,Y,Y,CT,CT,N,2,low,"본문 6.2절 이후 절단, 인터뷰 분석 절차 미보고, 설문·현장 각 n=16 편의표본에 7명 중복"
+348,quantitative descriptive,Y,Y,Y,N,Y,CT,CT,2,low,"참가자 없는 센서·모델링 연구, 4절 이후 절단으로 실가로 검증 분석 미확인, 단일 도시 2개 가로 한정"
+356,quantitative descriptive,Y,Y,Y,N,N,CT,N,1,low,"본문이 결과 클러스터 B 서술에서 절단, 평가자 10명·재생음압 미보정, 상관 주장에 유의성 검정 부재"
+371,quantitative non-randomised,Y,Y,N,Y,N,N,Y,2,low,"친숙도·고정 순서 교란 미보정, GPS 결측률과 시간 내 횡단 성공 미기록, 편의·눈덩이 표집 18명"
+414,mixed methods,Y,Y,Y,Y,Y,Y,N,4,high,"표4 카이제곱이 중복 계수된 관측치 사용, 관찰 2일뿐, 관찰자 간 신뢰도·질적 포화 미보고"

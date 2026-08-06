@@ -1,0 +1,2206 @@
+王悦萁，胡振国，朱玲．城市公园视听要素对休闲体力活动影响的情绪中介效应研究[J]．风景园林，2026，33（3）：90-101．
+城市公园视听要素对休闲体力活动影响的情绪中介效应研究
+王悦萁  胡振国  朱玲*
+摘要：【目的】城市公园内视听环境要素对休闲体力活动（leisure-time physical activity, LTPA）的促进
+作用亟待深入剖析，本研究基于视听交互框架，聚焦“视听环境要素—情绪感知—LTPA”的作用路径，
+检验其在环境要素影响行为中的中介效应。【方法】以辽宁省辽阳市太子河公园144 个景观节点为样本，
+在同点位数据采集与联合建模框架下，结合语义分割、人机对抗评分、问卷调查和行为观测等途径，对
+环境要素进行异质性分析，探索视听反馈与人群的情绪状态及LTPA 间的直接、中介关系。【结果】照
+明指引比例、活动器材比例、休憩要素比例以及蓝视率、自然声源和铺装材质6 项指标能显著提升安全、
+活力与丰盈等积极情绪；较高的声暴露级会增加低落情绪并削弱访客对美好环境的感知，过度围合与城
+市背景同样会弱化访客的审美体验。天空开敞度、蓝视率、照明指引比例与自然声源对轻度和中度
+LTPA 具有正向促进作用；中度LTPA 参与者更偏好围合空间与服务设施支撑；重度LTPA 的进行则更依
+赖功能性铺装与线性滨水空间。天空开敞度和自然声源经由情绪感知影响轻度LTPA，空间围合度经由情
+绪感知影响中度LTPA，均呈现部分中介作用。【结论】情绪感知是将视听线索转化为实际活动行为的关
+键心理路径。可通过平衡蓝绿视域，完善导览系统、照明设施及休憩服务，优化自然声景并管控噪声，
+依据活动强度分区配置功能性铺装与设施等策略，提升城市公园对不同强度LTPA 的承载能力，进而提
+高公共空间的健康效益。
+关键词：风景园林；城市公园；视听交互；情绪感知；休闲体力活动；计算机视觉；人机对抗
+中图分类号：TU985.12
+文献标识码：A
+文章编号：1673-1530(2026)03-0090-12
+DOI：10.3724/j.fjyl.LA20250363
+收稿日期：2025-07-12
+修回日期：2026-01-16
+文章亮点：
+1、构建城市公园同点位“双模态—情绪—行为”
+联合建模框架，融入Mask2Former、TrueSkill 模
+型与现场声学实测，并以逐步回归及Bootstrap 中
+介检验方法实现在节点尺度上环境对行为影响力
+的精准、可复制评估。
+2、从内部空间视角揭示“环境—情绪—行为”机
+制模型，系统解析不同强度休闲体力活动的差异
+化响应特征及关键中介路径的效应占比。
+3、形成可操作的场地优化策略谱系，为城市公园
+健康效益提升提供可落地的空间与声景优化策略。
+ 
+健康是人类发展的基础性福祉与核心需
+求之一，维持健康受到多种复杂因素的交互
+影响。《健康中国行动（2019—2030 年）》
+指出“构建全民健身公共服务体系，推动公
+共体育设施免费或低收费开放”，强调通过
+优化公共空间促进全民健康
+[1]。在此背景下，
+相较于封闭式健身场所，城市公园作为普惠
+性健康资源的空间载体，以绿地系统为核心
+架构，通过整合游憩设施、水体景观与生物
+栖息地资源，构建起具有高可达性的城市生
+态复合体系。该体系不仅具有生态调节功能，
+更通过生理维度的运动支持与感官刺激、心
+理维度的压力缓释与社会联结等多元实现路
+径，在公众健康促进中发挥关键性的公共基础
+设施支撑作用。休闲体力活动（leisure-time
+physical activity, LTPA）在强度、时间、地点
+等方面具备较高的选择灵活性，在心理层面
+ （如舒缓情绪
+[2]、提高注意力
+[3]、缓解焦虑
+[4]、
+增强自我
+[5] 及社会
+[6] 认同感）和生理层面（如
+降低心血管疾病
+[7]、糖尿病
+[8]、癌症
+[9] 等慢性
+疾病的发病率）具有显著调节作用。随着国
+民生活质量的提升，在日常生活中居民参与
+LTPA 的比例持续增加，同时，LTPA 被认为
+是易受外部环境影响的体力活动（physical
+activity, PA）形式
+[10]。已有研究表明，环境质
+量优良的户外空间不仅能够有效促进LTPA 的
+开展
+[11]，还能进一步放大LTPA 对身心健康的
+积极效益
+[12]。然而，当前关于LTPA 的研究多
+聚焦于环境与行为的直接关联，视觉与听觉
+线索通常被并列描述，缺乏同点位的视听联
+合建模研究，情绪感知作为环境线索影响行
+为的关键心理枢纽尚未得到系统检验。鉴于
+公园场景中视听线索往往在同一时空节点共
+现，并可能通过情绪调节影响个体对安全、
+愉悦与活力的主观评估，进而影响其活动强
+度与停留意愿
+[13-14]，亟待以“视听环境要素—
+情绪感知—LTPA”这一链条为框架开展实证
+研究。此外，有必要在节点尺度上整合视听
+要素的识别与情绪评价，将情绪置于中介位
+置进行检验，从而明确经由情绪传导的关键
+环境要素及其作用方向，为以人的感知为核
+心导向的景观更新与精细化配置提供具有可
+操作性的理论依据与实证支持。
+既往研究表明，视听环境要素可通过影
+响个体的审美评价与情绪感知，进而作用于
+LTPA 意向与场所选择。在视觉层面，视觉作
+为主要的信息获取途径，贡献了约87% 的外
+界信息量，同时75%~90% 的人类活动受到视
+觉刺激的影响
+[15]。个体的视觉反馈不仅会影响
+其对审美及情绪价值的认知，还会进一步对
+其行为选择产生影响
+[16]。景观视觉异质性与审
+美质量、公众视觉感知密切相关
+[17]。有研究表
+明，人们更易在绿地景观中产生步行意向，
+且相较于在室内跑步机上行走更不易感到疲
+劳
+[18]；此外，具备活动设施支持的场所更能有
+效吸引个体参与户外活动
+[19]。在听觉层面，自
+然声源，如鸟鸣、树叶摩擦声和流水声等，
+ Landscape Architecture　   2026/03
+©Beijing Landscape Architecture Journal Periodical Office Co., Ltd. Published by Landscape Architecture Journal. This is an open access article under the CC BY-NC-ND license.
+90
+
+通常与积极情绪及行为意向正相关
+[20]，那些包
+含宜人自然声源的区域更容易被访客感知为
+具有恢复功能的空间，并更易被选择为进行
+LTPA 的场所
+[21]。同时听觉反馈也会影响访客
+对活动类型的选择，访客在以自然声源为主
+的区域更倾向进行散步、冥想及社会互动等
+活动
+[22]。
+已有大量综述与实证研究表明，视听通
+道对城市环境感知具有联合作用，视觉线索
+会对声景评价产生显著影响
+[23]，反之，听觉信
+息也会反馈至个体对景观偏好的判断
+[24]，亦有
+研究采用结构方程模型等方法刻画视听通
+道之间的作用路径
+[25]。然而，多数研究仍以实
+验室或虚拟现实情境中的非同点位刺激组合
+为主要研究场景
+[26]，或在统计分析中侧重于各
+通道的主效应估计
+[27]，相对缺乏在场所尺度上
+对同一空间节点进行的同步数据采集、变量
+对齐及交互项估计的实证研究。基于此薄弱
+环节，本研究聚焦城市开放空间，将“同点
+位联合建模”与“情绪中介检验”方法相结
+合，旨在识别视觉与听觉线索经由情绪感知
+传导至不同强度LTPA 的关键路径及其作用
+方向。
+情绪感知是以情境为中心的状态性反应，
+并非“附属变量”，而是将环境线索转化为
+行为选择的重要心理枢纽，能显著影响个体
+行为意向与选择
+[28]，为避免概念歧义，本研究
+明确界定情绪在研究与建模中的位置：在“视
+听交互—情绪感知”的链条上，情绪作为被
+解释变量，承接同点位的视觉与听觉线索；在
+ “视听环境要素—情绪感知—LTPA”的链条
+上，情绪作为中介变量，连接视听线索与不
+同强度LTPA 的行为响应。这一设定在理论上
+将环境心理学中的情绪唤醒与愉悦度机制
+[14, 29]
+引入城市开放空间的行为解释框架；实践上，
+将情绪置于中介位置，把宏观“提升活动意
+愿”的目标拆解为可落地的设计与改造方案。
+基于上述设定，本研究在统计建模层面仅验
+证“视听环境要素—情绪感知—LTPA”链条
+的中介路径，并据此计算间接效应及其占比，
+不设置情绪与视听要素的调节项，亦不验证
+情绪对增强感知的反向路径。进一步地，本
+研究把“视听交互”界定为在同一空间节点
+实现视觉与听觉2 类信息的同步采集、特征
+对齐与联合建模；在统计上将2 类模态变量
+同时纳入同一模型并估计中介项，以识别经
+由情绪传导至LTPA 的关键路径与方向。
+综上所述，“感知”特指个体对外部视
+听线索的接收与加工，“情绪”为感知后形
+成的状态性反应，属人体主观与生理反馈，
+与行为反应同归结果层，“情绪感知”的量
+化通过情绪状态评分实现。从作用逻辑上看，
+视听线索需先经视觉或听觉感知进入信息加
+工，进而诱发情绪感知变化，最终影响访客
+参与不同强度LTPA 的可能性。基于上述逻辑，
+本研究以城市公园这一具备健康干预潜力的
+普惠性公共空间为对象，选取辽宁省辽阳市
+太子河公园的144 个景观节点为样本，围绕
+ “视听环境要素—情绪感知—LTPA”链条，
+构建同点位双模态分析框架。在研究方法上：
+1）在同一空间节点并行采集视听客观要素与
+主观情绪数据，采用联合入模的方法，避免
+跨样本并置偏差，识别视听交互联合效应；
+2）将状态性情绪感知置于“视听环境要素—
+情绪感知—LTPA”链条之中，采用中介分析
+给出路径占比，从“设计—心理—行为”层
+面提供可量化证据；3）将LTPA 分为轻、中、
+重3 种强度，揭示要素、情绪、行为在不同
+强度下的异质性，为空间分区与要素对位配
+置提供依据。在研究数据上，综合运用语义
+分割（视觉）、现场声学测量（听觉）、人
+机对抗评分（情绪）以及行为观测（LTPA）
+4 种测量与量化方法，构建“视听环境要素—
+情绪感知—LTPA”的研究链条。在统计建模
+与作用机制检验分析上，采用逐步回归与相
+关结构分析，并以Bootstrap 检验中介路径。
+基于此，本研究尝试回答3 个问题：1）城市
+公园内部视听要素如何共同作用于公众即时
+情绪及活动行为？2）不同强度LTPA 对视听
+环境是否呈现差异化响应？3）情绪感知是否
+构成连接视听线索与活动行为的关键心理
+环节？
+ 1  研究场地与预调研
+太子河公园作为辽宁省辽阳市内最大的
+综合性公园，地处新老城区交界，南北长
+8 km，规划用地面积7.07 km
+2，其中水体面
+积2.27 km
+2，绿化面积4.8 km
+2。太子河公园
+地处人口密集区，交通便利，出入口与公交
+接驳完善、停车位充足，是市民周末休闲的
+重要场所。园内设有八大园区及一岛区，在
+功能定位上各具特色，功能涵盖自然景观、
+专项健身、儿童游乐、文化展示、水上运动
+ （皮划艇训练基地等）、休闲健身、聚会露
+营等多个维度，能够满足不同年龄层及多样
+化需求。植被按园区主题配置，不同园区植
+物的种类、空间布局和层次设计各具特色，
+并以主次道路与栈道串联。由此可见，太子
+河公园在空间形态、设施供给、景观构成与
+人群使用等方面均具备典型的城市公园特征，
+可作为检验“视听环境要素—情绪感知—
+LTPA”链条的代表性场所。
+基于上述特征，为识别场地内LTPA 的
+典型活动空间及其相关视听环境要素，并为
+正式调研中的视听设备布点位置提供依据，
+本研究于2024 年4 月25—30 日对研究场地
+进行了预调研。通过对场地的全面勘察，以
+桥体为分界线，对8 个已建成的免费园区进
+行分区，并整合东西两岸，最终划定4 个区
+域作为研究对象（图1）。在此期间，选定
+144 个频繁进行LTPA 的景观节点作为研究样
+本，确保节点覆盖了大部分典型的活动空间
+及视听景观类型，且根据空间形态将节点进
+一步分为77 个面状定点空间（如广场、草坪、
+球场等）和67 个线状移动空间（如滨水栈道、
+跑步道等）。此外，在预调研过程中，对79 名
+LTPA 参与者进行了面访，记录其参与LTPA
+的时间和活动类，同时，受访者还被要求对
+情绪感知量化模型中的场景图像进行两两比
+较，本研究基于其反馈计算得分，为后续训
+练人机对抗模型提供数据。
+ 2  要素选取
+本研究围绕“视听环境要素—情绪感知—
+LTPA”链条构建要素体系，要素选取强调与
+研究问题的匹配性与可操作性。一方面，所
+选要素需能够在公园真实情境中稳定观测并
+实现标准量化，以支撑同点位视听线索的获
+取与变量对齐；另一方面，要素需具备明确
+研究 / Research
+91
+
+的理论可追溯性与设计干预指向，并在预调
+研与既有研究的共同证据下，与情绪感知及
+LTPA 存在潜在关联。
+ 2.1  视觉、听觉环境要素
+在视听交互的总体框架下，本研究围绕
+ “视、听要素选取”构建经验性变量要素集。
+在环境评估体系中，物理环境激发的正向感
+官体验已成为空间价值的重要评估标准
+[30]。视
+觉层面，综合刘滨谊等
+[31]、毕芳菲等
+[32]、范榕
+等
+[33] 关于景观空间视觉吸引机制等系列理论，
+从空间、自然、人为、色彩4 个维度中提取
+19 项视觉环境要素（表1）
+[31-40] 以全面刻画
+景观节点的视觉环境特征。
+进一步考虑到听觉作为影响情绪感知与
+行为选择的重要环境线索，需同步纳入要素
+选取。尽管视觉是环境信息获取的主要来源，
+但高质量声音在调节负面情绪、塑造获益性
+环境方面同样关键。既有研究表明，不同声
+源相互作用中，自然声源可缓解目标噪声的
+不良感知，提高声景整体质量，并有助于
+营造具有修复效应的场所
+[34]。基于此，依
+据ISO/TS 12913-2: 2018《声学—声景—第
+2 部分：数据收集和报告要求》（Acoustics—
+Soundscape—Part2:
+ Data
+ Collection
+ and
+Reporting Requirements）
+[35] 并参考《瑞典
+声景质量协议》（The Swedish Soundscape-
+Quality Protocol）
+[36]，筛选环境声学要素与声
+源类型，以构建听觉环境要素集。
+ 2.2  休闲体力活动指标
+世界卫生组织将PA 定义为“任何由骨
+骼肌收缩导致能量消耗的身体运动”，按参
+与情境，PA 通常可分为LTPA、职业体力活
+动、通勤体力活动和家务体力活动等，其中
+LTPA 在居民总体PA 结构中占有较大比重，
+也是与健康效益关联最为密切的PA 形式之
+一
+[41]。LTPA 强度采用代谢当量（metabolic
+equivalent of task, MET）作为指标进行划分。
+在预调研中，研究者在研究区内随机对79 名
+LTPA 参与者进行了面访，通过标注记录和调
+查问卷的方式获取了他们日常进行LTPA 的时
+间和类别，总结出24 种LTPA 类型，并参照
+Cheng 等
+[42] 对LTPA 消耗水平的划分标准进行
+标注分类（表2）。
+ 3  研究数据与研究方法
+ 3.1  图像采集与语义分割
+本研究以“频繁进行的LTPA”为首要筛
+选条件，对基于预调研选定的144 个景观节
+点作为样本进行图像采集，为控制形态差异
+致偏，采用统一影像采集协议：使用GoPro
+HERO7 广角镜头（120°），距地1.6 m、水
+平180°拍摄，并按空间类型统一操作：面状
+空间在活动区域中心采集3 张全景；线状空
+间则以行走间道路延伸方向为基准视角，并
+在拍摄图片边线后延补摄2 张全景（共3 张）
+以确保影像覆盖场地环境。最终共采集432 张
+图像，并使用ArcGIS 10.8 软件将图像与各点
+位坐标进行匹配（图1）。
+在计算机视觉领域，Mapillary Vistas 是
+重要的大规模街景图像公开数据集，包含
+25 000 张高分辨率图像（2 048 像素×1 024 像
+素），涵盖66 类城市场景元素
+[43]，广泛应用
+于视觉环境领域的研究。本研究基于该数据
+集，引用一种基于编码器-解码器结构的
+Mask2Former 语义分割模型
+[44]。在处理过程
+中，首先将输入图像（包括采集到的432 张
+图像中的LTPA 相关要素，如休憩区及健身器
+材等）切分成小块（patch）；然后将这些小
+块进行线性投影，转为嵌入向量；再将嵌入
+向量送入带掩码自注意力机制的Transformer
+层，以学习区域注意力图；最后，解码器通
+过集合预测，输出类别掩码。将这些步骤应
+用于所有432 张图像，为后续语义分割提供
+基础（图2）。相关文献中的对比实验结果
+[44]
+显示，Mask2Former 模型在分割精度指标平
+ 
+1 太子河公园分区及研究节点
+Zoning and study sites diagram of Taizi River Park
+ 
+1
+200 400
+0
+0
+0
+50 100
+200
+300
+400 m
+0
+0
+50
+50
+50
+100
+100
+100
+200
+200
+200
+400 m
+400 m
+400 m
+300
+300
+300
+800
+1 600 m
+A区 
+A区 
+B区 
+D区 
+C区 
+面状空间 
+线状空间 
+B区 
+C区 
+D区 
+1 200
+N
+N
+N
+N
+N
+ Landscape Architecture　   2026/03
+92
+
+均交并比（mean intersection over union,
+mIoU）上优于传统方法，显著提升了分割准
+确性与鲁棒性，能够为识别LTPA 相关环境要
+素提供可靠支撑。
+ 3.2  色彩量化
+本研究结合语义分割技术与K 均值聚类
+算法（K-means clustering algorithm）开展色
+彩特征分析，流程主要分为4 个步骤。1）使
+用图像处理软件OpenCV 中的自动白平衡
+ （AWB）工具对图像进行预处理，依据中性
+灰区域的RGB 分量偏差估算色温并动态调整
+3 个通道增益，实现颜色的自动校准，消除不
+同光照引起的色彩偏移；2）对校准图像执行
+逐像素筛选，提取RGB 并按通道中值设阈
+ （<50）剔除阴影等低值像素，降低非目标干
+扰；3）将RGB 归一化处理至[0，1]，基于
+RGB 或LAB 色彩模型
+①进行计算，以欧氏距离
+迭代色彩聚类，聚类数k 通过手肘法（k∈[2，
+5]）确定；4）通过线性判别分析（linear
+discriminant analysis, LAD）对色彩分类进行
+降维处理，与LAB 色彩模型中的色彩占比分
+布相结合。最终基于聚类得到每张图像的主
+要色彩数据（图3），采用Zhai 等
+[38] 提出的
+基于主色提取计算框架的量化模型实现对场
+地色彩的系统量化，计算色彩饱和度、色彩
+丰富度及色彩和谐度3 项核心指标。
+ 3.3  情绪感知量化
+情绪感知在本研究中特指个体受特定
+公园情境下情绪状态的主观评定，属于状
+态性情绪反馈，而非稳定气质或人格。为实
+现对情绪感知的量化，本研究整合Yao 等
+[45]
+提出的“人机对抗”TrueSkill 评分机制与
+Dubey 等
+[46] 构建的6 类情绪分类体系，即
+低落（depressing）、无趣（boring）、美丽
+ （beautiful）、安全（safe）、活力（lively）、
+丰盈（wealthy），以构建一个群体敏感的情
+绪量化模型。该模型通过3 个步骤实施微调
+和量化（图4）。1）为提升场景适配性，在
+实采公园图像集上使用TrueSkill 评分机制对
+群体敏感性进行微调：按功能与使用热度分
+层抽样，确保图像信息覆盖林下步道、广场、
+亲水岸线、运动场地与静态休憩空间。2）组
+织79 位受访者对公园场景图像进行两两比较，
+ 
+表1  城市公园视觉、听觉环境要素描述性统计表
+[31-40]
+Tab. 1  Descriptive statistical table of visual and audio elements in urban parks
+[31-40]
+要素分类
+序号
+环境要素
+定义/计算方式
+量化方法
+视觉
+空间环境
+S1
+天空开敞度
+天空在图像中所占比例
+语义分割
+S2
+空间围合度
+垂直要素（陆生植被、园内建筑、栏杆）在图像
+中所占比例
+自然环境
+N1
+绿视率
+绿色植被（草坪、陆生植被、水生植被）在图像
+中所占比例
+N2
+植被层次
+单层型（草、灌、乔）=1；双层型（乔-草、乔-
+灌、灌-草）=2；三层型（乔-灌-草）=3
+赋值统计
+N3
+视觉主体植被健康程度
+[37]
+不健康=1（植被长势较差，叶色枯黄/异常，观
+赏价值低，树木树冠缺损≥40%）；一般=2（植
+被长势一般，叶色普遍正常，有一定观赏价值，
+树木树冠缺损10%-40%）；健康=3（枝叶丰盈，
+叶色正常，观赏价值较高，无明显病虫害和枯枝
+败叶树木树冠缺损<10%）
+N4
+花卉景观
+无=1；有=2
+N5
+土壤裸露度
+较低=1；一般=2；较高=3
+N6
+蓝视率
+水体在图像中所占比例
+语义分割
+N7
+水体质量
+无水体=0；干涸=1；浑浊=2；清澈=3
+赋值统计
+N8
+亲水体验
+无相关=0；人工垂直型驳岸（护栏型）=1；亲
+水栈道=2；自然生态型驳岸=3
+人为环境
+H1
+城市背景比例
+城市背景在图像中占比
+语义分割
+H2
+休憩要素比例
+园内座椅、长廊、遮阳空间占比
+H3
+照明指引比例
+路标、引导、记忆性装置、路灯空间占比
+H4
+活动器材比例
+可承载体力活动进行的器材占比
+H5
+铺装比例
+铺装在图像中所占比例
+H6
+铺装材质
+自然形成路径=1（铺装比例<3%）；硬性路面
+ （砖石、沥青、碎石）=2；木质=3；运动材质=4
+赋值统计
+色彩环境
+[38]
+C1
+色彩饱和度
+[39]a）
+主色RGB标准差与亮度均值的比值
+色彩量化
+C2
+色彩丰富度
+b）
+主色数量与占比熵
+C3
+色彩和谐度
+[40]c）
+色相环间距与互补色比例
+听觉
+声源类型
+V1
+自然声源
+语义差异尺度（1=完全听不到、2=较弱、3=可听
+但不主导、4=较强、5=完全占主导）
+赋值统计
+V2
+人类声源
+V3
+机械声源
+声源指数
+L1
+等效连续声级（equivalent
+continuous sound level, Leq）
+特定时间段内“稳定噪声”的声级值
+测量统计
+L2
+声暴露级（a-weighted sound
+exposure level, Lae）
+单次噪声事件的总声能归一化1 s内的等效声级
+L3
+声标准偏差（standard deviation
+of sound level, SD）
+声音波动频率强度
+　　注：a）色彩饱和度：将BGR格式图像转换为LAB颜色空间，利用其a、b通道分别表征红-绿与黄-蓝色度范围的特征；
+b）色彩丰富度：将图像转换至HSV空间并构建色相分量直方图，其分布跨度（最大值与最小值之差）可表征色相多样性
+水平；c）色彩和谐度：将图像经BGR空间转换至HSV色域（其色彩表征更贴合人眼感知机制），运用K均值聚类算法对像
+素进行聚类处理生成k个簇集并定位聚类中心。
+ 
+表2  研究区内LTPA 强度与活动类型划分
+[42]
+Tab. 2  Summary and intensity classification of the LTPA types within the study area
+[42]
+LTPA分类
+活动强度/3.5 mL·kg
+−1
+具体活动类型
+轻度LTPA
+2.0~4.4
+散步、太极、气功、乐器演奏、合唱、踢毽子、抽陀螺、休闲健身器械、
+人力游船、钓鱼
+中度LTPA
+4.5~5.9
+快走、广场舞、交谊舞、羽毛球、乒乓球、游泳
+重度LTPA
+6.0~8.4
+跑步、骑行、篮球、足球、网球、皮划艇、滑冰（冬季）
+研究 / Research
+93
+
+要求他们在每组图像中选出令其感到更舒适、
+更愉悦或更不烦躁的场景。与此同时，本研
+究记录了受访者的群体身份信息（如年龄、
+性别、职业等），以便后续建模分析不同群体
+在情绪感知上的偏好差异。3）采用TrueSkill
+评分机制对各公园场景的潜在情绪效用进行
+贝叶斯估算，首先在群体层面设置不同的先
+验均值与方差，用以刻画人群偏好差异。其
+次，将场景图像进行配对，并依据受访者的
+两两判别结果计算得分，通过迭代更新参数
+直至收敛，最终得到一个连续的情绪效用评
+分，作为后续建模所需的软标签。获得收敛
+的情绪效用评分后，将该连续值归一化至[0，
+1] 区间，在此基础上，通过序位逻辑回归确
+定阈值，将归一化的评分映射至预定义的6 类
+ 
+2 语义分割结果示意图
+Example of semantic segmentation results
+ 
+植被天空水体人类座椅健身
+器材
+游乐
+设施
+休憩
+矮墙
+围栏草地铺装垃圾桶帐篷摩托车自行车
+2
+L 通道明度
+B 通道（蓝-黄）
+原图RGB
+L 通道
+A 通道（绿-红）
+LDA聚类后
+LAB聚类中心色度及其占比分布
+B 通道
+A 通道
+3
+11.521%
+12.132%
+10.959%
+14.270%
+5.485%
+12.554%
+5.095%
+3.355%
+8.591%
+16.038%
+ 
+3 色彩量化示意图
+Example of color quantization
+ 
+4 深度学习人机对抗示意图
+Schematic diagram of human-machine confrontation in
+deep learning
+ 
+4
+第一步 Mask2former语义分割
+Transformer
+解码器
+类别
+加和与归一化
+样本数
+更低落
+高组：
+高组：
+高组：
+高组：
+高组：
+高组：
+中组：
+中组：
+中组：
+中组：
+中组：
+中组：
+低组：
+低组：
+低组：
+低组：
+低组：
+低组：
+高组：
+TrueSkill = 20.33
+TrueSkill = 22.52
+TrueSkill = 23.29
+TrueSkill = 27.28
+TrueSkill = 23.04
+TrueSkill = 20.97
+TrueSkill = 13.42
+TrueSkill = 15.44
+TrueSkill = 16.72
+TrueSkill = 21.66
+TrueSkill = 15.59
+TrueSkill = 15.09
+TrueSkill = 8.00
+TrueSkill = 8.14
+TrueSkill = 9.87
+TrueSkill = 11.92
+TrueSkill = 7.70
+TrueSkill = 9.11
+TrueSkill
+=27.28
+更安全
+更美丽
+更活力
+更无趣
+更丰盈
+单杠
+电线杆 
+路灯
+指示牌
+指示灯
+井盖
+垃圾桶
+座椅
+健身器材
+消防栓
+帐篷
+休息设施
+吊床
+裸露土地
+人行道
+专业跑道
+环境特征
+石板路
+栈道
+滨水道
+汽车
+自行车
+园区巴士
+房车
+摩托车
+行人
+骑行者
+服务区
+矮墙
+护栏
+建筑
+游乐设施
+栅栏
+天空
+水体
+色彩植被
+草坪
+植被
+停车场
+硬质道路
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+5
+10
+6
+加和与归一化
+加和与归一化
+自注意力
+V
+V
+K
+K
+Q
+Q
+掩码注意力
+前馈网络
+掩码
+掩码 
+主干网络
+ 注：V为根据匹配提取的值（Value），K为信息索引（Key），Q为查询（Query）。
+像素解码器
+左边胜[1]
+右边胜[3]
+平局[2]
+图像特征
+查询特征
+第三步 对样本区域扩样推理
+第二步 TrueSkill计算得分
+人机对抗界面示意
+美丽
+无趣
+安全
+活力
+低落
+丰盈
+ Landscape Architecture　   2026/03
+94
+
+情绪，形成带置信度的伪标签。这些伪标签
+将作为监督信号，用于后续模型的微调训练。
+在微调训练阶段，为缓解数据中存在的类别
+不均衡与群体差异问题，训练中采用了类别
+不平衡重加权方法与群体条件损失函数，以
+有效抑制潜在的样本偏差。
+ 3.4  环境声学数据收集
+依据ISO/TS 12913-2: 2018《声学—声
+景—第2 部分：数据收集和报告要求》
+[35]，选
+择2024 年5 月6—30 日无降水且风速小于
+5 m/s 的弱干扰天气进行环境声学数据采集，
+考虑到进行LTPA 不受交通高峰限制，采集时
+间定为每日8:00—20:00。测量仪器布点在线
+状空间与研究点位一一对应；对于面积较小、
+分布密集且承载活动类型相近的面状空间在
+几何中心位置测量声学数据，其中，靠近桥
+体点位在通勤与非通勤时段各测一次声学数
+据取均值；儿童活动区在工作日与休息日各
+测一次取均值，以提高数据准确性与代表性。
+各点位使用HS5671D 型噪声频谱分析仪连续
+测量3 h，记录每个点位的等效连续声级
+ （Leq）、声暴露级（Lae）及声标准偏差（SD）。
+ 3.5  听觉信息问卷调查与行为观测
+问卷调查与行为观测于2024 年5 月2—4、
+13、16、21 日进行。根据现场温度、风速与
+噪声记录，6 日环境条件相近，覆盖工作日与
+休息日，能够降低气候与受访者日程安排差
+异导致的偏差及样本缺失。
+1）听觉信息问卷调查。依据《瑞典声景
+质量协议》
+[36] 及Dunbavin 等
+[35] 的研究设计了
+声源调查表，并在128 个声学测量点附近发
+放。受访者对3 类共13 种典型声源（表3）
+[36]
+进行李克特五级评分。为降低个体差异，同点
+位声源打分取均值。共回收有效问卷312 份，
+约合2.17 份/节点，受访者性别比近1∶1，平
+均年龄为48.2 岁。
+2）行为观测。选取2024 年5 月3、4 日
+ （休息日）与5 月13 日（工作日）为行为观
+测日。依据预调研结果，设定3 个观测时段：
+6:00—8:00、10:00—12:00、15:00—20:30。
+15 名经培训的观测员按区域点位图与记录表，
+对观测区域内LTPA 的强度与频次进行拍摄记
+录。为消除场地规模影响，采用行为密度指
+标进行量化分析。
+ 3.6  数据分析
+1）采用极差归一化方法（min-max
+normalization）对环境要素的量化结果进行标
+准化处理。2）基于SPSS 23.0 软件，以25 项
+视听环境要素为自变量，分别以情绪感知与
+LTPA 作为因变量构建多元逐步回归模型；筛
+选出20 项显著要素，并依据标准化回归系
+数评估其对情绪及3 种强度LTPA 的影响。
+3）对3 组变量实施Mantel 检验，分析各自
+相关性。4）参照温忠麟等
+[47] 提出的中介效应
+分析流程，构建“视听环境要素—情绪感
+知—LTAP”链条的中介模型（图5）：以筛
+选出的视听显著要素为自变量，以情绪感知
+为中介变量，基于SPSS Amos24 平台，采用
+Bootstrap 法重复抽样5 000 次（95% 置信区
+间），检验2 种变量对不同强度LTPA 的直接
+与间接效应。
+ 4  研究结果与分析
+ 4.1  休闲体力活动分布情况
+根据行为观测结果，本研究记录到共有
+3 689 人次进行轻度LTPA，2 329 人次进行中
+度LTPA，1 833 人次进行重度LTPA。通过自
+然断点法对参与3 种强度LTPA 人群的行为密
+度进行量化、分级，绘制城市公园LTPA 分布
+特征图（图6）。结果显示，访客对3 种强
+度LTPA 场地的选择均向可视水域聚集。其中，
+轻度LTPA 多在亲水线性空间（配有自然型驳
+ 
+表3  声源分类及打分标准
+[36]
+Tab. 3  Classification of sound sources and scoring criteria
+[36]
+声源类别
+声源目录
+打分标准
+自然声源
+鸟鸣、虫鸣、流水声、树叶摩擦声、犬吠
+1=完全听不到、2=较弱、
+3=可听但不主导、4=较强、
+5=完全占主导
+人类声源
+交谈声、儿童嬉戏声、脚步声、健身活动声
+机械声源
+交通声、施工声、外放音乐声、广播宣传声
+ 
+5 中介模型
+Intermediary model
+ 
+5
+注：
+中介效应占比为 100%。
+c 为总效应，c' 为直接效应，a ×b 为间接效应，其中
+c =a ×b + c'；效应占比（P
+P
+）计算式为 （a ×b ）/c ，完全
+视听要素 
+（X）
+情绪感知 
+（M）
+c
+a
+b
+c'
+视听要素 
+（X）
+休闲体力活动 
+（Y）
+休闲体力活动 
+（Y）
+低落
+无趣
+美丽
+安全
+活力 
+丰盈 
+=
+ 
+6 LTPA 行为密度分布
+Distribution of behavioral density in LTPA
+ 
+轻度LTPA分布
+中度LTPA分布
+重度LTPA分布
+0 
+400 
+N
+800 
+1 600 
+2 400 
+3 200 m
+研究范围 
+低密度 
+较低密度 
+中密度 
+较高密度 
+高密度 
+内部道路 
+主城区河流 
+6
+研究 / Research
+95
+
+岸木栈道、植被丰富且伴随自然音源）周边
+进行，中度LTPA 偏好在适度围合且服务设施
+完备的节点进行，重度LTPA 多沿地面平坦、
+景致及服务设施连续的滨水沿线且视域开阔
+的空间进行，开展3 种强度的LTPA 的空间分
+布展现出显著的空间异质性。
+ 4.2  场地视听环境特征
+为呈现研究场地在视、听觉维度上的整
+体基线特征，本研究汇总144 个节点的视听
+环境要素特征并分析其集中趋势与离散度。
+在视觉维度上，样本空间形态兼具开敞、半
+围合与围合等复合结构，自然要素（植被、
+水体）占视觉主导地位，人工服务设施分布
+较为稀疏、功能节点密度较低，铺装以硬质
+为主；色彩整体层次丰富且协调。这一结果
+验证了所选节点在视觉层面对典型城市公园
+环境的表征能力。听觉维度上，声源分布的
+空间异质性显著，自然与人类声源占主要成
+分，共同构建了以生态背景与社交互动为特
+征的声源环境框架；声场能量分布处于中等
+动态区间并呈现随时空变化的特征，符合公
+共休闲空间属性。综上，研究选取的144 个
+样本能够涵盖城市公园典型视觉界面与声景
+组合，视觉层面以自然要素主导的开放及围
+合混合空间为基底，听觉层面则形成自然生
+态与社交声源动态平衡的声场格局。
+ 4.3  视听要素对情绪感知及休闲体力活动
+的影响
+对视听要素与情绪感知之间的多元逐步
+回归结果（表4）进行分析，可以发现照明指
+引比例及活动器材比例与安全、活力、丰盈
+3 个维度均呈显著正相关，表明清晰的导视系
+统与充足的活动器材可激发访客的积极情绪；
+休憩要素比例对安全情绪产生正向影响，说
+明场地提供了能够缓解疲劳和日晒的休息座
+椅及遮阳设施，增强了安全体验；蓝视率和
+亲水体验能显著提升安全及丰盈情绪，表明
+宽广水域及可近水设计有助于访客产生宁静
+满足的情绪；铺装材质正向作用于安全和活
+力，说明平整防滑的地铺有助于提升安全感
+与活动意愿；而土地裸露度过高则会抑制活
+力情绪。声暴露级分别与低落和美丽情绪呈
+正、负相关，表明较高的声污染强度会增加
+低落情绪并削弱访客对美好环境的感知；同
+时，空间围合度及城市背景比例过高同样会
+弱化访客的美感体验；相反，花卉景观及自
+然声源显著提升访客对美丽的感知，自然声
+源亦有助于产生丰盈情绪，表明场地中的树
+叶摩擦声、鸟鸣等自然声源，更易于让访客
+感知环境的美丽，并产生积极情绪。
+对视听要素与LTPA 之间的多元逐步回归
+结果（表5）进行分析可以发现，天空开敞度
+与3 种强度的LTPA 均显著相关，不同的是，
+与轻度LTPA 及重度LTPA 呈正相关，与中度
+LTPA 则为负相关，这可能是由于园区内的中
+度LTPA 多以舞蹈及依托场地的球类运动为
+主，高天空开敞度不仅意味着缺少遮阳空间，
+还因周边植被或遮蔽物的缺失，导致私密性
+不足以及无法抵抗风对球类运动的干扰，这
+一推测可通过空间围合度及活动器材比例二
+者对中度LTPA 的显著正向影响予以印证。照
+明指引比例则与3 种强度的LTPA 均呈显著正
+相关，说明LTPA 更倾向于在清晰明朗的路面
+上进行，尤其是轻度LTPA。蓝视率与轻度、
+中度2 种强度的LTPA 均产生正向影响，符合
+部分项目依托水域及近水选址的特点。土地
+裸露度与轻度LTPA 呈显著正相关，相反，与
+重度LTPA 呈负相关，反映了轻度LTPA 路线
+规划自由的特点及重度LTPA 对平整防滑、连
+ 
+表4  视听要素与情绪感知的多元逐步回归分析
+Tab. 4  Multiple stepwise regression analysis of audio-visual elements and emotional perception
+情绪维度
+模型参数
+环境要素
+β
+   值
+t 值
+VIF
+低落
+R 
+2=0.351
+调整R 
+2=0.337
+F=25.212
+土地裸露度
+−0.302
+−4.232**
+1.096
+等效连续声级
+−0.375
+−4.304**
+1.639
+声暴露级
+0.536
+5.971**
+1.735
+无趣
+R 
+2=0.258
+调整R 
+2=0.247
+F=24.476
+等效连续声级
+0.420
+4.945**
+1.367
+声标准偏差
+−0.576
+−6.795**
+1.367
+美丽
+R 
+2=0.239
+调整R 
+2=0.212
+F=8.683
+空间围合度
+−0.192
+−2.332*
+1.232
+城市背景比例
+−0.236
+−2.979**
+1.135
+花卉景观
+0.274
+3.426**
+1.157
+自然声源
+0.250
+3.317**
+1.032
+声暴露级
+−0.323
+−4.242**
+1.051
+安全
+R 
+2=0.614
+调整R 
+2=0.597
+F=36.266
+蓝视率
+0.257
+3.880**
+1.552
+亲水体验
+0.153
+2.358*
+1.484
+休憩要素比例
+0.135
+2.336*
+1.180
+照明指引比例
+0.267
+4.293**
+1.370
+活动器材比例
+0.217
+3.139**
+1.696
+铺装材质
+0.224
+4.116**
+1.047
+活力
+R 
+2=0.533
+调整R 
+2=0.512
+F=26.037
+天空开敞度
+0.129
+2.082*
+1.132
+植被健康度
+0.256
+3.947**
+1.233
+土地裸露度
+−0.133
+−2.140*
+1.125
+照明指引比例
+0.262
+3.797**
+1.395
+活动器材比例
+0.181
+2.799**
+1.221
+铺装材质
+0.261
+3.888**
+1.321
+丰盈
+R 
+2=0.441
+调整R 
+2=0.416
+F=17.993
+蓝视率
+0.185
+2.364*
+1.508
+亲水体验
+0.146
+2.017*
+1.291
+照明指引比例
+0.161
+2.148*
+1.383
+活动器材比例
+0.252
+3.750**
+1.110
+自然声源
+0.165
+2.276*
+1.285
+人类声源
+0.290
+3.884**
+1.367
+　　注：**代表p≤0.01，*代表p<0.05，6个模型的残差分布均符合正态分布，且VIF值均小于5，表明模型不存在多重共
+线性且整体拟合效果显著。
+ Landscape Architecture　   2026/03
+96
+
+续性路面的需求，这一点可以由铺装材质对
+重度LTPA 的显著影响佐证。自然声源对轻
+度LTPA 呈显著正相关，说明包含自然要素的
+声源对轻度LTPA 具有促进作用。
+ 4.4  相关性分析与中介效应
+视听要素、情绪感知及LTPA 三者间的
+相关性分析显示（图7），3 种强度LTPA 与
+情绪感知中活力、安全、丰盈及视听要素中
+的人为感知维度皆呈显著正相关，且人为感
+知对其上3 种情绪同样具有显著影响，尤其
+是对活力与安全。这说明强化提升这3 种情
+绪感知可促进LTPA 的进行。然而，低落、无
+趣及美丽则与LTPA 的相关性不显著或呈负相
+关，也许正如前文所述，感官体验与情绪感
+知之间存在双向影响关系，而行为决策源于
+身体与环境之间的实时互动。因此，外界环
+境中负向感知的投射会引发消极情绪，并进
+一步阻止积极的行为决策。同时，声源指数
+维度与除低落及无趣外的其余维度皆不相关
+或负相关，说明控制或减少声污染对调节负
+面情绪进而促进LTPA 进行有所助益。
+通过构建中介模型并基于Bootstrap 法检
+验中介效应后发现，9 个模型路径的中介效应
+显著（图8），且均为部分中介效应，表明视
+听要素既可通过情绪感知间接影响LTPA，也
+存在不经情绪感知路径的直接作用。其中，
+空间感知对LTPA 的影响程度最高，天空开敞
+度及空间围合度分别经由情绪感知的中介效
+应对轻度及中度LTPA 的影响最大，中介效应
+比分别达到了53.80% 及56.28%。自然、人
+为感知中的蓝视率及照明指引比例2 个要素
+通过情绪感知调节均可以影响轻度LTPA
+及中度LTPA。而声源类型中的自然声源经由
+情绪效应对轻度LTPA 的影响达到41.81%。
+视听要素对情绪与活动均有差异化影响，且
+情绪感知在多条路径上发挥部分中介效应。
+ 5  讨论
+本研究以城市公园为研究情境，围绕“视
+听环境要素—情绪感知—LTPA”链条，探讨
+视听线索对情绪及不同强度LTPA 的共同作用
+及异质性，同时检验其经由情绪感知的中介
+效应路径。本研究基于视听交互框架，将情
+绪感知界定为场地诱发的状态性情绪反馈，
+视其为连接客观环境与行为响应的关键心理
+环节。从场所尺度检验视听环境要素对情绪
+及LTPA 的作用路径，揭示“环境—情绪—行
+为”的链式机制。通过对实地收集的视听环
+境、情绪评价和行为观测数据进行分析，本
+ 
+表5  视听要素与3 种强度LTPA 的多元逐步回归分析
+Tab. 5  Multiple stepwise regression analysis of audiovisual elements and three intensities of LTPA
+体力活动
+模型参数
+环境要素
+β
+   值
+t 值
+VIF
+轻度LTPA
+R 
+2=0.645
+调整R 
+2=0.629
+F=41.467
+天空开敞度
+0.130
+2.357*
+1.177
+绿视率
+0.308
+5.681**
+1.133
+土地裸露度
+0.144
+2.686**
+1.108
+蓝视率
+0.216
+3.369**
+1.579
+照明指引比例
+0.407
+6.612**
+1.462
+自然声源
+0.186
+3.343**
+1.196
+中度LTPA
+R 
+2=0.606
+调整R 
+2=0.589
+F=35.134
+天空开敞度
+−0.135
+−2.287*
+1.217
+空间围合度
+0.157
+2.314*
+1.599
+蓝视率
+0.147
+2.458*
+1.242
+休憩要素比例
+0.223
+3.722**
+1.249
+照明指引比例
+0.293
+4.506**
+1.470
+活动器材比例
+0.366
+5.445**
+1.574
+重度LTPA
+R 
+2=0.579
+调整R 
+2=0.560
+F=31.364
+天空开敞度
+0.224
+3.817**
+1.118
+植被健康度
+0.137
+2.127*
+1.350
+土地裸露度
+−0.154
+−2.629**
+1.119
+亲水体验
+0.135
+2.296*
+1.125
+照明指引比例
+0.252
+3.885**
+1.366
+铺装材质
+0.393
+6.410**
+1.219
+　　注：**代表p≤0.01，*代表p<0.05，3个模型的残差分布均符合正态分布，且VIF值均小于5，表明模型不存在多重共
+线性且整体拟合效果显著。
+ 
+7 视听要素、情绪感知与LTPA 的相关性分析
+Correlation analysis among audiovisual elements, emotional perception and LTPA
+ 
+低落 
+无趣 
+美丽 
+活力 
+安全 
+丰盈 
+轻度LTPA 
+轻度LTPA 
+丰盈 
+安全
+活力
+美丽 
+无趣 
+低落 
+中度LTPA 
+中度LTPA 
+重度LTPA 
+重度LTPA 
+空间环境 
+自然环境 
+人为环境 
+色彩环境 
+声源类型 
+声源指数 
+皮尔逊相关性 
+1.0 
+0.5 
+0.0 
+﹣1.0 
+﹣0.5 
+p ＜ 0.05 * 
+p ≤ 0.01 ** 
+p ≤ 0.001 *** 
+曼特尔检验 p 值 
+＜0.01 
+＜0.2 
+0.2～0.4 
+1.00
+*** 
+﹣0.21
+* 
+0.03
+﹣0.04
+﹣0.06
+﹣0.03
+﹣0.10
+0.03
+0.07
+0.13
+0.00
+0.05
+0.08
+0.02
+0.11
+﹣0.40
+*** 
+0.17
+* 
+0.19
+* 
+0.72
+*** 
+0.47
+*** 
+0.51
+*** 
+0.46
+*** 
+0.74
+*** 
+0.57
+*** 
+0.66
+*** 
+0.59
+*** 
+0.49
+*** 
+0.43
+*** 
+0.55
+*** 
+0.33
+*** 
+0.34
+*** 
+0.52
+*** 
+0.59
+*** 
+0.18
+* 
+0.23
+** 
+0.19
+* 
+0.22
+* 
+1.00
+*** 
+1.00
+*** 
+1.00
+*** 
+1.00
+*** 
+1.00
+*** 
+1.00
+*** 
+1.00
+*** 
+1.00
+*** 
+0.01～0.05 
+＞0.05 
+曼特尔检验 r 值 
+7
+研究 / Research
+97
+
+研究得出了3 点关键发现。1）城市公园中的
+蓝视率、天空开敞度、自然声源、照明指引
+比例等要素能显著提升安全、活力、丰盈等
+积极情绪体验，进而提高轻度及中度LTPA 进
+行的概率；2）情绪感知在多条路径上呈部分
+中介效应，提供了“环境—情绪—行为”机
+制模型的定量支持。例如，“天空开敞度—
+轻度LTPA”链条中情绪中介效应占比约为
+53.80%，“空间围合度—中度LTPA”链条中
+情绪中介效应占比约为56.28%，“自然声源—
+轻度LTPA”链条中情绪中介效应占比约为
+41.81%。这表明开放视域和良好的亲水环境
+有助于激发访客积极情绪并促进他们进行舒
+缓的身体活动，而适度围合的绿地空间通过
+增强安全感显著促进游客进行中度LTPA。相
+较之下，重度LTPA 未呈现显著的情绪中介路
+径，这可能是因为高强度活动更具目标导向
+性，访客选择进行高强度LTPA 更受空间安全
+性与功能性的直接影响；3）消极的环境因素
+会带来负面情绪后果，例如过高的噪声水平
+会增强低落、无趣等消极情绪并削弱人对环
+境美感的感知，从而可能抑制访客对LTPA 的
+参与。而自然声源的存在在一定程度上可以
+缓解机械噪声的负面影响，体现出积极声源
+对情绪与行为的保护作用。
+与单一视觉或听觉通道研究相比，单一
+感官通道与情绪或LTPA 的关联易波动且解释
+力有限。相比之下，视听整合分析更能构建
+贴近实际环境的空间反馈模型，从而准确反
+映环境与行为之间的互动关系。既有理论亦
+被印证：优质的户外空间有助于提升愉悦情
+绪并激发活动意向，户外步行可改善情绪并
+增强参与意愿
+[18]；在听觉层面，自然声源缓解
+压力、改善情绪的作用与“自然声景促进心
+理恢复”的结论一致
+[20]；在视觉层面，蓝绿视
+域与协调色彩能够提升美感与活力感知，这
+与“视觉异质性提升环境审美质量”的研究
+证据相符
+[17]；此外，充足的照明与游憩设施可
+增强安全感，与“设施支持有利于提升户外
+活动参与”的研究结论一致
+[19]。
+本研究也揭示了一些不同于传统认知的
+现象。最显著的是，中度LTPA 表现出对较高
+空间围合度和邻近服务设施的偏好，这与以
+往强调“开敞空间更有利于PA”的主流观点
+存在差异
+[21]。这一现象可能源于广场舞或羽毛
+球等活动的参与者更依赖适度围合带来的安
+全感、私密性与社群氛围，并需要活动场地
+配备休憩座椅、遮阳和饮水等设施。围合空
+ 
+8 情绪感知中介效应检验
+Test of the mediating effect of emotional perception
+ 
+8
+8-9
+8-8
+8-7
+8-6
+8-5
+8-4
+活力
+活力
+活力
+活力
+活力
+活力
+活力
+活力
+活力
+低落
+低落
+低落
+低落
+情绪感知
+情绪感知
+情绪感知
+情绪感知
+情绪感知
+情绪感知
+情绪感知
+情绪感知
+情绪感知
+效应比 = 32.29%
+效应比 = 37.19%
+效应比 = 36.49%
+效应比 = 31.44%
+效应比 = 53.80%
+效应比 = 41.81%
+效应比 = 31.53%
+效应比 = 56.28%
+效应比 = 49.45%
+路径C'
+路径C'
+路径C'
+路径C'
+路径C'
+路径C'
+路径C'
+路径C'
+路径C'
+路径C
+路径C
+路径C
+路径C
+路径C
+路径C
+路径C
+路径C
+路径C
+路径AB
+路径AB
+路径AB
+路径AB
+路径AB
+路径AB
+路径AB
+路径AB
+路径AB
+路径A
+路径A
+路径A
+路径A
+路径A
+路径A
+路径A
+路径A
+路径A
+路径B
+路径B
+路径B
+路径B
+路径B
+路径B
+路径B
+路径B
+路径B
+β = 0.434 ; p = 0.001
+β = 0.380 ; p = 0.001
+β = 0.282 ; p = 0.001
+β = 0.447 ; p = 0.001
+β = 0.158 ; p = 0.037
+β = 0.238 ; p = 0.002
+β = 0.406 ; p = 0.001
+β = 0.167 ; p = 0.043
+β = 0.275 ; p = 0.003
+β = 0.644 ; p = 0.000
+β = 0.644 ; p = 0.000
+β = 0.321 ; p = 0.000
+β = 0.639 ; p = 0.021
+β = 0.337 ; p = 0.000
+β = 0.328 ; p = 0.000
+β = 0.456 ; p = 0.031
+β = 0.404 ; p = 0.034
+β = 0.634 ; p = 0.031
+β = 0.321 ; p = 0.000
+β = 0.349 ; p = 0.000
+β = 0.505 ; p = 0.000
+β = 0.321 ; p = 0.045
+β = 0.547 ; p = 0.000
+β = 0.520 ; p = 0.000
+β = 0.410 ; p = 0.031
+β = 0.531 ; p = 0.026
+β = 0.425 ; p = 0.044
+β = 0.641; p = 0.001
+β = 0.605 ; p = 0.001
+β = 0.444 ; p = 0.002
+β = 0.652 ; p = 0.001
+β = 0.342 ; p = 0.001
+β = 0.409 ; p = 0.001
+β = 0.593 ; p = 0.002
+β = 0.382 ; p = 0.001
+β = 0.544 ; p = 0.002
+β = 0.207 ; p = 0.003
+β = 0.225 ; p = 0.002
+β = 0.162 ; p = 0.001
+β = 0.205 ; p = 0.005
+β = 0.184 ; p = 0.001 
+β = 0.171 ; p = 0.001
+β = 0.187 ; p = 0.001
+β = 0.215 ; p = 0.001
+β = 0.269 ; p = 0.001
+95% CI∈[0.755, 1.122]
+照明指引比例—情绪—轻度 LTPA 
+自然声源—情绪—轻度 LTPA
+休憩要素比例—情绪—中度 LTPA
+蓝视率—情绪—轻度 LTPA 
+绿视率—情绪—轻度 LTPA 
+蓝视率—情绪—中度 LTPA
+照明指引比例—情绪—中度 LTPA
+天空开敞度—情绪—轻度 LTPA
+空间围合度—情绪—中度 LTPA
+95% CI∈[0.483, 0.728]
+95% CI∈[0.453, 0.918]
+95% CI∈[0.788, 1.138]
+95% CI∈[0.204, 0.560]
+95% CI∈[0.279, 0.635]
+95% CI∈[0.884, 1.549]
+95% CI∈[0.317, 0.684]
+95% CI∈[0.391, 0.686]
+95% CI∈[0.114, 0.504]
+95% CI∈[0.087, 0.399]
+95% CI∈[0.102, 0.449]
+95% CI∈[0.106, 0.488]
+95% CI∈[0.099, 0.352]
+95% CI∈[0.079, 0.342]
+95% CI∈[0.180, 0.566]
+95% CI∈[0.145, 0.444]
+95% CI∈[0.160, 0.423]
+照明指引比例
+蓝视率
+绿视率
+自然声源
+天空开敞度
+照明指引比例
+蓝视率
+空间围合度
+休憩要素比例
+轻度LTPA
+轻度LTPA
+轻度LTPA
+轻度LTPA
+轻度LTPA
+中度LTPA
+中度LTPA
+中度LTPA
+中度LTPA
+0.79
+0.77
+0.78
+0.20
+0.79
+0.79
+0.20
+0.20
+0.76
+0.19
+0.92
+0.93
+0.93
+0.93
+0.78
+0.92
+0.92
+0.96
+0.75
+0.96
+0.76
+0.95
+0.62
+0.63
+0.62
+0.62
+0.62
+0.62
+0.61
+0.61
+0.62
+安全
+安全
+安全
+安全
+安全
+安全
+安全
+安全
+安全
+丰盈
+丰盈
+丰盈
+丰盈
+丰盈
+丰盈
+丰盈
+丰盈
+丰盈
+8-3
+8-2
+8-1
+ Landscape Architecture　   2026/03
+98
+
+间不仅提供了“被看见的安全感”，还增强
+了社交可能性，从而提升活动的舒适度与持
+续性。这一机制也体现在本研究中人为环境
+与安全、活力的相关性上。此外，重度LTPA
+对情绪中介不敏感，更依赖场地的功能性，
+提示后续研究需分情境深化，进一步区分不
+同强度LTPA 的空间需求与设施约束。
+基于上述结论，本研究从促进LTPA 进
+行角度为城市公园的场地设计提供4 点建议。
+1）针对轻度LTPA 的蓝视通廊：在遮蔽型节
+点中嵌入可视水面的“透气口”，通过小尺
+度开口结合导视标识，提升蓝视率与空间通
+达性，服务于轻度LTPA 的停留与漫游动线；
+在线性栈道保持连续开敞的视域，削减视觉阻
+隔，从而增强游览的视觉连贯性与步行体验。
+2）针对中度LTPA 的空间围合与配套服务：
+在中度LTPA 热点区域，优化空间围合（如绿
+篱、廊架、半围合小品），并完善休憩座椅、
+直饮水点、遮阳设施与器材等服务设施的配
+置，通过增强安全感与社交可能性，提升活
+动持续性与参与黏性。3）针对重度LTPA 的
+ “性能优先”策略：在线性滨水空间中，采
+用防滑、减震且连续无缝的功能性铺装；在
+游泳入水点及高强度活动区域设置安全救援
+与冲洗设施，以保障运动体验的安全性与连
+续性。4）自然声景营造与声暴露管理：在等
+效连续声级和声暴露级较高的路段，布置树
+阵、水体或小型生境，结合鸟类栖息地与流
+水装置等自然声源，同时设置文明提示牌，
+降低机械噪声暴露，构建“客观降噪+主观掩
+蔽”的双重声景优化策略。
+本研究在研究视角和方法上具有一定的
+创新性，对城市开放空间环境行为研究做出
+了方法论上的拓展。首先，在作用机制建模
+上，将“状态性情绪感知”引入城市公园环
+境与LTPA 关系的分析框架，验证了情绪作为
+中介变量的重要作用，弥合了客观环境量化
+指标与主观心理体验、行为决策间的理论断
+层，并构建可检验的“环境—情绪—行为”
+机制模型，定量揭示了环境线索转化为行为
+结果的心理过程。其次，在视听整合评估上，
+构建涵盖视觉与听觉维度的双模态指标体系，
+结合图像语义要素与现场声学测量结果，在
+节点尺度实现数据对齐与综合统计分析，突
+破以往单一感官研究局限，同时考察视、听
+因素的交互影响，为公园环境研究提供了可
+复制、可拓展的新路径。最后，在人机评分
+融合方面，引入计算机视觉及人工智能协同
+机器识别与群体主观评估，实现主客观互证，
+提升量化评估的稳健性与可解释性。
+尽管本研究取得了上述成果，仍存在一
+些局限性，需要在后续研究中加以关注和改
+进。首先，本研究采用横断面研究设计，虽
+经Bootstrap 中介检验支撑“视听环境要素—
+情绪感知—LTPA”链条的合理性，但仍在因
+果关系、方向的识别上存在局限。其次，在
+样本与数据处理方面，将个体层面的听觉问
+卷聚合为节点均值可能忽略了个体差异的影
+响，同时观察时段与样本构成或致选择偏差，
+代表性受限。此外，尽管本研究在多元回归与
+路径分析中控制了多重共线性并辅以Mantel
+检验，复杂模型仍可能存在错误膨胀等统计
+偏误。未来可开展纵向追踪研究、现场干预
+实验或半实验情境，操控声源与开敞度等变
+量并进行多时点观测以增强因果推断；同时
+纳入年龄、性别、健康状况、社群属性等调
+节变量，以探讨不同人群在“环境—情绪—
+行为”链式机制上的反应差异。
+ 6  结论
+本研究围绕城市公园场景下“环境—情
+绪—行为”的联动关系展开探讨，定量验证
+了情绪感知在视听环境影响LTPA 过程中的关
+键中介作用，深化了对环境要素促进行为机
+制的理解。在实践层面，研究结果为提升城
+市公园健康效益提供了重要启示，通过平衡
+蓝绿景观视野、强化场地导视与照明系统、
+营造安全感、优化自然声景并控制噪声暴露，
+以及根据不同强度活动需求提供差异化的空
+间与设施支持，城市公园可更有效地激发公
+众参与LTPA 的积极性，提升场地健康效益。
+未来，本研究所构建的分析框架与优化策略
+可为相关领域提供理论支持与实践参考，推
+动将情绪感知纳入环境干预以促进行为改变
+的研究路径，为健康城市和积极空间的营造
+提供科学依据。
+注释(Note)：
+ 
+① LAB 色彩模型（Lab color space）是由国际照明委员会
+ （Commission Internationale de l’
+ 
+Éclairage, CIE）定义的
+色彩空间。其中L 代表亮度，A 代表绿-红通道，B 代表蓝-
+黄通道。
+参考文献(References)：
+ [1] 健康中国行动推进委员会.健康中国行动（2019—2030
+年）[EB/OL].（2019-07-15）[2024-05-01].https://www.gov.
+cn/xinwen/2019-07/15/content_5409694.htm.
+The Healthy China Action Promotion Committee. Healthy
+China Initiative (2019−2030) [EB/OL]. (2019-07-15) [2024-05-
+01].  https://www.gov.cn/xinwen/2019-07/15/content_
+5409694.htm.
+ [2] KIECOLT-GLASER J K, RENNA M E, SHROUT M R, et al.
+Stress Reactivity: What Pushes Us Higher, Faster, and
+Longer—and Why It Matters[J]. Current Directions in
+Psychological Science, 2020, 29 (5): 492-498.
+ [3] CASE L, SCHRAM B, JUNG J, et al. A Meta-Analysis of the
+Effect of Adapted Physical Activity Service-Learning
+Programs on College Student Attitudes Toward People with
+Disabilities[J]. Disability and Rehabilitation, 2021, 43 (21):
+2990-3002.
+ [4] MAHINDRU A, PATIL P, AGRAWAL V. Role of Physical
+Activity on Mental Health and Well-Being: A Review[J].
+Cureus, 2023, 15 (1): e33475.
+ [5] PEKMEZI D, JENNINGS E, MARCUS B H. Evaluating and
+Enhancing Self-Efficacy for Physical Activity[J]. ACSM’s
+Health & Fitness Journal, 2009, 13 (2): 16-21.
+ [6] EATHER N, WADE L, PANKOWIAK A, et al. The Impact of
+Sports Participation on Mental Health and Social Outcomes
+in Adults: A Systematic Review and the ‘Mental Health
+Through Sport’ Conceptual Model[J]. Systematic Reviews,
+2023, 12 (1): 102.
+ [7] DEMPSEY P C, ROWLANDS A V, STRAIN T, et al. Physical
+Activity Volume, Intensity, and Incident Cardiovascular
+Disease[J]. European Heart Journal, 2022, 43 (46): 4789-
+4800.
+ [8] LUO H H, HUANG Y X, ZHANG Q L, et al. Impacts of
+Physical Activity and Particulate Air Pollution on the Onset,
+Progression and Mortality for the Comorbidity of Type 2
+Diabetes and Mood Disorders[J]. Science of the Total
+Environment, 2023, 890: 164315.
+ [9] WANG Q Y, ZHOU W L. Roles and Molecular Mechanisms
+of Physical Exercise in Cancer Prevention and Treatment[J].
+Journal of Sport and Health Science, 2021, 10 (2): 201-210.
+ [10] HALLAL P C, REIS R S, PARRA D C, et al. Association
+Between Perceived Environmental Attributes and Physical
+Activity Among Adults in Recife, Brazil[J]. Journal of
+Physical Activity & Health, 2010, 7(Suppl 2): S213-S222.
+ [11] 王鑫，李雄.基于网络大数据的北京森林公园社会服务
+价值评价研究[J].中国园林，2017，33（10）：14-18.
+WANG X, LI X. Research on the Analysis of Social Services
+Value of Forest Park in Beijing Based on Network Big
+Data[J]. Chinese Landscape Architecture, 2017, 33 (10): 14-
+18.
+ [12] WANG X X, ZHOU Q F, ZHANG M J, et al. Exercise in the
+Park or Gym? The Physiological and Mental Responses of
+Obese People Walking in Different Settings at Different
+Speeds: A Parallel Group Randomized Trial[J]. Frontiers in
+研究 / Research
+99
+
+Psychology, 2021, 12: 728826.
+ [13] JEKAUC D, BRAND R. Editorial: How Do Emotions and
+Feelings
+ Regulate
+ Physical
+ Activity?[J]. 
+Frontiers
+ in
+Psychology, 2017, 8: 1145.
+ [14] YANG J X, ZHOU Q, LIU X Y, et al. Biased Perception
+Misguided by Affect: How Does Emotional Experience Lead
+to Incorrect Judgments About Environmental Quality?[J].
+Global Environmental Change, 2018, 53: 104-113.
+ [15] 宋扬，吴丹蓉，吕勤智.乡村视觉识别系统设计（Ⅵ）
+在半山村景观环境中的应用设计[J].浙江工业大学学报（社
+会科学版），2017，16（3）：266-271.
+SONG Y, WU D R, LV Q Z. A Study of the Application of Visual
+Identity System(Ⅵ) of Rural Areas in the Landscape Design
+of Banshancun Village[J]. Journal of Zhejiang University of
+Technology (Social Science), 2017, 16 (3): 266-271.
+ [16] COTTET M, PIÉGAY H, BORNETTE G. Does Human
+Perception of Wetland Aesthetics and Healthiness Relate to
+Ecological
+ Functioning?[J]. 
+Journal
+ of
+ Environmental
+Management, 2013, 128: 1012-1022.
+ [17] 马冰倩，徐程扬，刘江，等.城镇森林视觉景观异质性
+对美学质量的影响[J].浙江农林大学学报，2019，36（2）：
+366-374.
+MA B Q, XU C Y, LIU J, et al. Visual Heterogeneity and Visual
+Landscape Quality of Urban Forests as an Architectural
+Backdrop[J]. Journal of Zhejiang A&F University, 2019,
+36 (2): 366-374.
+ [18] FOCHT B C. Brief Walks in Outdoor and Laboratory
+Environments: Effects on Affective Responses, Enjoyment,
+and Intentions to Walk for Exercise[J]. Research Quarterly
+for Exercise and Sport, 2009, 80 (3): 611-620.
+ [19] MCCORMACK G R, ROCK M, TOOHEY A M, et al.
+Characteristics of Urban Parks Associated with Park Use and
+Physical Activity: A Review of Qualitative Research[J].
+Health & Place, 2010, 16 (4): 712-726.
+ [20] ALVARSSON J J, WIENS S, NILSSON M E. Stress
+Recovery
+ During
+ Exposure
+ to
+ Nature
+ Sound
+ and
+Environmental
+ Noise[J]. 
+International
+ Journal
+ of
+Environmental Research and Public Health, 2010, 7 (3): 1036-
+1046.
+ [21] ZHANG M, KANG J. Towards the Evaluation, Description,
+and Creation of Soundscapes in Urban Open Spaces[J].
+Environment and Planning B: Planning and Design, 2007,
+34 (1): 68-86.
+ [22] JENNINGS P, CAIN R. A Framework for Improving Urban
+Soundscapes[J]. Applied Acoustics, 2013, 74 (2): 293-299.
+ [23] LIU J, KANG J, BEHM H, et al. Effects of Landscape on
+Soundscape Perception: Soundwalks in City Parks[J].
+Landscape and Urban Planning, 2014, 123: 30-40.
+ [24] GAN Y H, LUO T, BREITUNG W, et al. Multi-sensory
+Landscape Assessment: The Contribution of Acoustic
+Perception to Landscape Evaluation[J]. The Journal of the
+Acoustical Society of America, 2014, 136 (6): 3200.
+ [25] ZHAO J W, XU W Y, YE L. Effects of Auditory-Visual
+Combinations on Perceived Restorative Potential of Urban
+Green Space[J]. Applied Acoustics, 2018, 141: 169-177.
+ [26] JEON J Y, JO H I. Effects of Audio-Visual Interactions on
+Soundscape and Landscape Perception and Their Influence
+on Satisfaction with the Urban Environment[J]. Building and
+Environment, 2020, 169: 106544.
+ [27] JIN T F, LU J Y, SHAO Y H. Exploring the Impact of
+Visual and Aural Elements in Urban Parks on Human
+Behavior and Emotional Responses[J]. Land, 2024, 13 (9):
+1468.
+ [28] FELISATTI A, FISCHER M H. Experimental Methods in
+Embodied Cognition: How Cognitive Psychologists Approach
+Embodiment[M]. London: Routledge, 2023.
+ [29] KIM C, KIM J, THAPA B. Bidirectional Association
+Between Leisure Time Physical Activity and Well-Being:
+Longitudinal Evidence[J]. Journal of Leisure Research, 2020,
+51 (5): 559-580.
+ [30] 秦昕璐，刘晖.感知与表达：从视知觉体验看景观空间
+营建[J].城市建筑，2019，16（28）：179-182,188.
+QIN X L, LIU H. Perception and Expression: Construction of
+the Landscape Space from the View of Visual Perception
+Experience[J]. Urbanism and Architecture, 2019, 16 (28): 179-
+182,188.
+ [31] 刘滨谊，范榕.景观空间视觉吸引要素及其机制研究[J].
+中国园林，2013，29（5）：5-10.
+LIU B Y, FAN R. Research on Visual Attraction Elements and
+Mechanism of Landscape Space[J]. Chinese Landscape
+Architecture, 2013, 29 (5): 5-10.
+ [32] 毕芳菲，刘加平，蔺宝钢.基于景观视觉吸引的文旅空
+间建设策略研究：以关中历史文化街区为例[J].中国园林，
+2023，39（2）：84-89.
+BI F F, LIU J P, LIN B G. Research on the Construction
+Strategy of Cultural Tourism Space Based on Landscape
+Visual Attraction: A Case Study of Guanzhong Historical and
+Cultural Block[J]. Chinese Landscape Architecture, 2023,
+39 (2): 84-89.
+ [33] 范榕，李卫正，乌日汗.基于无人机图像分割的环太湖
+绿道景观空间视觉吸引特性研究[J].中国园林，2019，
+35（5）：74-79.
+FAN R, LI W Z, WU R H. Study on Spatial Visual Attraction of
+Landscape Space Around Taihu Lake Greenway Based on
+UAV
+ Image
+ Segmentation[J]. 
+Chinese
+ Landscape
+Architecture, 2019, 35 (5): 74-79.
+ [34] MA K W, MAK C M, WONG H M. Effects of Environmental
+Sound Quality on Soundscape Preference in a Public Urban
+Space[J]. Applied Acoustics, 2021, 171: 107570.
+ [35] DUNBAVIN P. ISO/TS 12913-2: 2018-Soundscape-Part 2:
+Data Collection and Reporting Requirements: What’s It All
+About[J]. Acoustics Bulletin, 2018, 43: 55-57.
+ [36] AXELSSON Ã, NILSSON M E, BERGLUND B. The Swedish
+Soundscape-Quality
+ Protocol[J]. 
+The
+ Journal
+ of
+ the
+Acoustical Society of America, 2012, 131 (4): 3476.
+ [37] 干靓，唐艺源，尹杰.沿江型湿地公园景观环境特征对
+人群自然感知及感知复愈性的影响：以上海后滩公园为例
+[J].中国园林，2024，40（1）：26-32.
+GAN J, TANG Y Y, YIN J. Effects of Landscape and
+Environmental Characteristics of Riverine Wetland Park on
+People’s
+ Perception
+ of
+ Nature
+ and
+ Perceived
+Restorativeness: Case Study of Shanghai Houtan Park[J].
+Chinese Landscape Architecture, 2024, 40 (1): 26-32.
+ [38] ZHAI Y J, GONG R Y, HUO J Z, et al. Building Façade
+Color Distribution, Color Harmony and Diversity in Relation to
+Street Functions: Using Street View Images and Deep
+Learning[J]. ISPRS International Journal of Geo-Information,
+2023, 12 (6): 224.
+ [39] PALUS H. Colorfulness of the Image: Definition,
+Computation, and Properties[C]// KOLACZ K, SOCHAKI J.
+Lightmetry and Light and Optics in Biomedicine 2004.
+Bellingham: SPIE-The International Society for Optical
+Engineering, 2006, 6158: 42-47.
+ [40] KHALED A, ABDEL-KADER R F, YASEIN M S. A Hybrid
+Color Image Quantization Algorithm Based on K-Means and
+Harmony
+ Search
+ Algorithms[J]. 
+Applied
+ Artificial
+Intelligence, 2016, 30 (4): 331-351.
+ [41] CASPERSEN C J, POWELL K E, CHRISTENSON G M.
+Physical Activity, Exercise, and Physical Fitness: Definitions
+and Distinctions for Health-related Research[J]. Public
+Health Reports, 1985, 100 (2): 126-131.
+ [42] HERRMANN S D, WILLIS E A, AINSWORTH B E, et al.
+2024 Adult Compendium of Physical Activities: A Third
+Update of the Energy Costs of Human Activities[J]. Journal
+of Sport and Health Science, 2024, 13 (1): 6-12.
+ [43] NEUHOLD G, OLLMANN T, BULÒ S R, et al. The Mapillary
+Vistas Dataset for Semantic Understanding of Street
+Scenes[C]//PELILLO M, IKEUCHI K. 2017 IEEE International
+Conference on Computer Vision. Venice: IEEE, 2017: 5000-
+5009.
+ [44] CHENG B W, MISRA I, SCHWING A G, et al. Masked-
+Attention
+ Mask
+ Transformer
+ for
+ Universal
+ Image
+Segmentation[C]//CHELLAPPA R, MATAS J, SHAH M. 2022
+IEEE/CVF Conference on Computer Vision and Pattern
+Recognition. New Orleans: IEEE, 2022: 1280-1289.
+ [45] YAO Y, LIANG Z T, YUAN Z H, et al. A Human-Machine
+Adversarial Scoring Framework for Urban Perception
+Assessment Using Street-View Images[J]. International
+Journal of Geographical Information Science, 2019, 33 (12):
+2363-2384.
+ [46] DUBEY A, NAIK N, PARIKH D, et al. Deep Learning the
+City: Quantifying Urban Perception at a Global Scale[C]//
+LEIBE B, MATAS J, SEBE N, et al. Computer Vision − ECCV
+2016. Cham: Springer, 2016: 196-212.
+ [47] 温忠麟，叶宝娟.中介效应分析：方法和模型发展[J].心
+理科学进展，2014，22（5）：731-745.
+WEN Z L, YE B J. Analyses of Mediating Effects: The
+Development of Methods and Models[J]. Advances in
+Psychological Science, 2014, 22 (5): 731-745.
+图表来源(Sources of Figures and Tables)：
+图1~8 由作者绘制。表1 由作者根据参考文献[31]~[40] 绘
+制；表2 由作者根据参考文献[42] 绘制；表3 由作者根据
+参考文献[36] 绘制；表4、5 由作者绘制。
+ （编辑 / 刘昱霏）
+作者简介：
+王悦萁 / 女 / 沈阳建筑大学建筑与规划学院在读博士研究
+生 / 研究方向为城市景观与人群需求
+胡振国 / 男 / 硕士 / 沈阳建筑大学建筑与规划学院规划系
+副主任、副教授 / 研究方向为乡村建设、活力营造
+朱玲 / 女 / 博士 / 天津大学建筑学院风景园林系主任、英
+才教授、博士生导师 / 天津大学规划建筑设计研究总院总
+景观师 / 研究方向为城市景观与城市设计、生态景观规划
+与设计
+通信作者邮箱：zhuling2008@126.com
+ Landscape Architecture　   2026/03
+100
+
+WANG Y Q, HU Z G, ZHU L. Emotional Mediation of the Effect of Urban Park Audiovisual Elements on Leisure-Time Physical Activity[J]. Landscape Architecture,
+2026, 33(3): 90-101. DOI: 10.3724/j.fjyl.LA20250363.
+Emotional Mediation of the Effect of Urban Park Audiovisual Elements on
+Leisure-Time Physical Activity
+WANG Yueqi, HU Zhenguo, ZHU LING*
+ 
+Abstract:
+[Objective] As one of the basic well-beings and primary needs for the survival
+and development of mankind, health is closely influenced by a variety of
+multidimensional and complex influencing factors. Leisure-time physical
+activity (LTPA) is a physical activity of large flexibility in such factors as activity
+strength, duration, location selection and others, and together with the
+outstanding regulation effect on the physiological and psychological aspects,
+has seen a continuous and gradually expanded role in daily life. It is therefore
+regarded as the most promising type of changeable physical activities. Urban
+parks as a spatial store of comprehensive health resources have been rooted in
+green space system. They are combined with various service resources,
+providing a physical environment for LTPA. However, the majority of current
+research on LTPA predominantly concentrates on the direct relationship
+between the environment and behavior. Visual and auditory cues are typically
+presented in a parallel manner, lacking joint modeling at the same
+spatiotemporal location. Emotional perception, as a crucial psychological pivot
+through which environmental cues influence behavior, has not undergone
+systematic scrutiny. This has led to difficulties in the precise implementation of
+relevant design strategies. In the context of park settings, visual and auditory
+cues frequently co-occur at the same spatiotemporal point. They may influence
+an individual's subjective evaluations of safety, pleasure, and vitality through
+emotional regulation, thereby affecting their activity intensity and inclination to
+remain in the area. Consequently, there is an urgent need to conduct empirical
+research using the framework of "audio-visual environmental elements−
+emotional perception−leisure physical activities".
+[Methods] In this paper, 144 landscape nodes in Taizi River Park, Liaoyang City,
+Liaoning Province were classified meticulously. In terms of visual object, the
+image acquisition method is conducted on a sunny day, and the circumferential
+three pictures are shot for each landscape node. ArcGIS 10.8 software was
+applied to match the image with GPS spatial data. The mask2Former semantic
+segmentation model was applied to the image data. According to Mapillary
+Vistas dataset, leisure-time physical activity related image vectors were
+embedded to build customized model according to the research purpose. The
+acquired image data were analyzed by this method. Color features (color
+saturation, color richness, and color harmony) of obtained image were
+analyzed using K-means algorithm. A “human-machine duel” score sheet was
+used for the emotional evaluation of the environment. For the acoustics, the
+environmental sound cues and the source category for the audio part were
+noted according to the ISO/TS 12 913-2 standard and the soundscape
+screening of the Swedish soundscape quality scale protocol. Combining above-
+mentioned audiovisual data with other methods including questionnaire
+surveys and behavioral observation data, multiple stepwise regression model
+and mediation effect analysis were carried out to investigating the direct and
+mediating relationships among environmental elements of urban park, visitors’
+emotional states and leisure physical activities.
+[Results] Through the analysis of the audio-visual environment, emotional
+evaluation, and behavioral observation data collected in the field, this study has
+yielded a series of crucial findings. Visual and auditory elements within urban
+parks, including the blue view ratio, sky openness, natural sounds, and light
+guidance, can significantly enhance visitors' positive emotional experiences
+(such as a sense of security, vitality, and fulfillment). This, in turn, further
+increases the likelihood of light-intensity and moderate-intensity LTPA.
+Emotional perception exerted a partial mediating effect along multiple
+pathways, providing quantitative evidence for the "environment−emotion−
+behavior" framework. Specifically, sky openness and natural sound sources
+influenced light LTPA through emotional perception, while spatial enclosure
+affected moderate LTPA. These results suggest that an open skyline and a
+favorable water-related environment are conducive to eliciting positive
+emotions and promoting gentle physical activities. Moreover, moderately
+enclosed green spaces significantly facilitate moderate activities by enhancing
+the sense of security. In contrast, no significant emotional mediation pathway
+was identified for high-intensity physical activities. This might be attributed to
+the fact that high-intensity activities are more goal-driven and performance-
+oriented. Environmental factors primarily act on such activities by directly
+influencing aspects such as safety and convenience, rather than indirectly
+through emotions.
+[Conclusion] This research delved into the interrelationship of "environment−
+emotion−behavior" within the context of urban parks, quantitatively validating
+the pivotal mediating role of emotional perception in the process where the
+audiovisual
+ environment
+ influences
+ LTPA.
+ This
+ has
+ advanced
+ the
+comprehension of the mechanisms through which environmental elements
+facilitate behaviors. On a practical level, the research findings offer significant
+implications for enhancing the health-promoting benefits of urban parks.
+Looking ahead, the analytical framework and optimization strategies
+established in this study can serve as a theoretical foundation and practical
+reference for related disciplines. They can also drive the research agenda of
+integrating emotional perception into environmental interventions to promote
+behavioral change, thereby providing a scientific underpinning for the creation
+of healthy cities and active spaces.
+Keywords: landscape architecture; urban park; audiovisual interaction;
+emotional perception; leisure-time physical activity; computer vision; human-
+machine confrontation
+Authors:
+WANG Yueqi is a Ph.D. candidate in the School of Architecture and Planning, Shenyang
+Jianzhu University. Her research focuses on urban landscapes and human needs.
+HU Zhenguo, Master, is an associate professor and deputy director of the Department of
+Urban Planning, the School of Architecture and Planning, Shenyang Jianzhu University. His
+research focuses on rural development and the creation of vibrant communities.
+ZHU Ling, Ph.D. is a distinguished professor, doctoral supervisor, and the Department of
+Landscape Architecture in the School of Architecture, Tianjin University, and chief
+landscape architect at the Planning and Architecture Design Research Institute of Tianjin
+University. Her research focuses on urban landscape and urban design, as well as
+ecological landscape planning and design.
+Corresponding author Email: zhuling2008@126.com
+研究 / Research
+101

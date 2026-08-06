@@ -1,0 +1,1311 @@
+Academic Editor: Maria Rosa Trovato
+Received: 5 December 2024
+Revised: 24 December 2024
+Accepted: 27 December 2024
+Published: 29 December 2024
+Citation: Han, T.; Tang, L.; Liu, J.;
+Jiang, S.; Yan, J. The Influence of
+Multi-Sensory Perception on Public
+Activity in Urban Street Spaces: An
+Empirical Study Grounded in
+Landsenses Ecology. Land 2025, 14, 50.
+https://doi.org/10.3390/
+land14010050
+Copyright: © 2024 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+The Influence of Multi-Sensory Perception on Public Activity in
+Urban Street Spaces: An Empirical Study Grounded in
+Landsenses Ecology
+Tianqi Han 1,2, Lina Tang 3
+, Jiang Liu 1,2,*
+, Siyu Jiang 3,4 and Jinshan Yan 3,4
+1
+School of Architecture and Urban-Rural Planning, Fuzhou University, Fuzhou 350108, China;
+221520007@fzu.edu.cn
+2
+Fujian Key Laboratory of Digital Technology for Territorial Space Analysis and Simulation,
+Fuzhou 350108, China
+3
+Key Laboratory of Urban Environment and Health, Institute of Urban Environment, Chinese Academy
+of Sciences, Xiamen 361021, China; lntang@iue.ac.cn (L.T.); syjiang@iue.ac.cn (S.J.); jsyan@iue.ac.cn (J.Y.)
+4
+University of Chinese Academy of Sciences, Beijing 100049, China
+*
+Correspondence: jiang.liu@fzu.edu.cn
+Abstract: The design of street spaces significantly influences public behavior and quality of
+life. Understanding how various urban street spatial characteristics affect public behavior,
+alongside the role of multi-sensory perception, enables designers and planners to create
+more human-centered urban environments. Grounded in landsenses ecology, this study
+employs correlation analysis, regression analysis, and Partial Least-Squares Structural
+Equation Modeling (PLS-SEM) to examine the effects of different urban street spatial
+characteristics on public behavior and the mediating role of multi-sensory perception.
+The findings reveal that street spatial characteristics, particularly the Water Surface Ratio
+(WSR) and Waterfront Density (WD), have a pronounced impact on behavioral traits, with
+higher public activity frequencies in areas with elevated WSR and WD. Notably, WSR
+significantly affects static behaviors, such as sunbathing (β = 0.371, p < 0.001), and dynamic
+behaviors, such as walking (β = 0.279, p < 0.001). While road and water characteristics
+directly influence behavior, buildings and green spaces mainly affect public behavior
+through multi-sensory perception. Different sensory perceptions show varying effects, with
+olfactory perception playing a significant role in these experiences, alongside a notable
+chain-mediated effect between tactile perception and psychological cognition. These results
+provide valuable insights for integrating multi-sensory experiences into urban design.
+Keywords: landsenses evaluation indices; street space characteristics; PLS-SEM; mediation
+effect
+1. Introduction
+Cities are confronted with urgent health, social, and environmental challenges, as
+emphasized by the United Nations Sustainable Development Goals (SDGs) [1]. Urban
+planning plays a critical role in shaping the spatial structure of cities, influencing lifestyles
+and environmental exposures that ultimately affect human health and sustainable develop-
+ment [2]. As the concept of “One Health” gains global recognition, the connection between
+sustainable urban environments and public health becomes increasingly significant. This
+shift necessitates a focus on human well-being, education, and sustainable living prac-
+tices [3]. Streets, as vital public spaces within urban life, promote a positive perception that
+Land 2025, 14, 50
+https://doi.org/10.3390/land14010050
+
+Land 2025, 14, 50
+2 of 18
+maintains a continuous relationship between pedestrians and their surroundings [4]. This
+relationship is essential for enhancing the quality of the living environment.
+Urban streets are defined as roadways that facilitate daily social interactions among
+residents in towns and cities, along with the surrounding buildings, associated vegetation,
+and other facilities [5]. As fundamental components of the urban built environment,
+streets significantly influence individual behaviors through their transportation, social,
+and aesthetic functions [6]. Streets serve as some of the most frequented venues for
+walking, cycling, and various recreational activities [7]. Research indicates that high-
+quality street environments effectively promote active engagement among residents [8]
+and significantly influence public behavior characteristics [9], behavioral satisfaction [10],
+and route selection [11]. Street greenery significantly impacts both walking frequency
+and duration [9,12], while elements of the street environment, including pavement and
+facilities, influence pedestrians’ walking preferences [13,14]. Although land use types
+significantly impact people’s behavior, their influence is indirect, typically mediated by
+the physical characteristics of street space. For instance, wider roads typically incorporate
+more sidewalks and commercial facilities, which directly facilitate pedestrian activity [15].
+In contrast, areas near water offer a peaceful environment, encouraging people to engage in
+activities such as walking [16]. Therefore, the physical characteristics of street space have
+a more direct influence on people’s behavioral choices. However, most existing studies
+primarily focus on the relationship between street environments and walking behavior,
+leading to the insufficient exploration of other behavioral characteristics associated with
+streets. Previous studies have classified activities into static and dynamic behaviors based
+on varying levels of physical activity. Static behaviors are characterized by lower levels
+of physical exertion and energy expenditure, including actions such as resting, reading,
+conversing, or observing within a specific space [11]. In contrast, dynamic behaviors
+involve higher levels of physical activity, including spontaneous movements in specific
+areas, sports, and activities that rely on fitness and recreational facilities [17]. Understanding
+how the spatial characteristics of streets influence public behavior will help identify effective
+strategies for enhancing urban environments and improving residents’ quality of life.
+Various objective environmental characteristics offer the public a range of spatial
+experiences, triggering complex perceptions and behavior [17]. Scholars have employed
+the Stimulus–Organism–Response (SOR) model to clarify a series of behavioral responses
+elicited by the objective environment as a source of stimuli [18]. Landsenses ecology
+emphasizes individuals’ perceptual experiences in urban environments, focusing on the
+systematic nature of multi-sensory perception and the holistic aspects of psychological
+cognition. This underscores the necessity of investigating land use planning, construction,
+and management from multiple related perspectives, including natural elements, physical
+perception, psychological cognition, socio-economics, processes, and risks [19]. Research
+indicates that multi-sensory perception is a fundamental condition for enhancing residents’
+satisfaction in urban environments, while psychological cognition serves as a direct factor
+influencing this satisfaction [20]. Furthermore, characteristics of visual and auditory per-
+ception significantly affect tourists’ experiences [21], while sensory perceptions—including
+visual, auditory, and olfactory—have notable effects on psychological restoration [22,23].
+However, existing studies have paid inadequate attention to the impacts of multi-sensory
+perception and psychological cognition on public activity characteristics. As significant
+mediators between the environment and behavior, perceptual information influences indi-
+viduals’ cognitive and emotional experiences of space through various channels, including
+vision, hearing, smell, and touch, thereby directly shaping their behavioral decisions and
+activity patterns [4]. This influence not only determines the duration of individuals’ stays
+in specific environments, the types of activities they engage in, and their frequency of
+
+Land 2025, 14, 50
+3 of 18
+activity but also reflects the close relationship between psychological states and the environ-
+ment. Understanding these mediating roles can aid in designing environments that more
+effectively meet individuals’ sensory needs, thereby enhancing the overall user experience.
+Urban street spaces serve as direct facilitators of individuals’ perception and under-
+standing of the urban environment. Comprehending the interplay between the components
+of urban streets and public behavior characteristics is essential for constructing health-
+centered cities that prioritize human well-being [24]. However, while the characteristics of
+street spaces, multi-sensory perception, and psychological cognition significantly influence
+public behavior, comprehensive assessments of their interactions and effects on behavior
+are still limited. Although some frameworks have identified pathways between physical
+environmental characteristics and behavioral traits [25,26], few studies have assessed the
+mediating roles of multi-sensory perception and psychological cognition. Furthermore,
+existing research often focuses on isolated sensory perceptions. Human sensory perception
+operates as an integrated system; thus, it is crucial to examine both individual sensory
+experiences and the cumulative effects of multi-sensory perception. Psychological cogni-
+tion is fundamentally based on multi-sensory perception, as it synthesizes information
+from diverse sensory modalities, enabling individuals to form a comprehensive under-
+standing of their environment [27]. This synthesis not only influences emotional responses
+and decision-making processes but also shapes behavioral outcomes [28,29]. Therefore,
+examining the mediating roles of multi-sensory perception and psychological cognition
+is crucial for gaining a deeper understanding of how street spatial characteristics affect
+public behavior.
+This study focuses on street spatial characteristics across four categories: road, build-
+ing, green space, and water. It quantifies relevant spatial data to explore how these features
+influence public behavioral traits, with multi-sensory perception and psychological cogni-
+tion serving as mediators, as illustrated in Figure 1. This research addresses the following
+scientific questions: (1) What key spatial features influence people’s behavioral traits on
+urban streets? (2) How could multi-sensory perception and psychological cognition shape
+the pathways through which urban street spatial characteristics impact people’s behavior?
+This study could provide a theoretical foundation for improving urban space design and
+enhancing residents’ quality of life.
+Figure 1. The influence of the spatial characteristics of urban streets on behavioral traits is examined
+from the perspective of landsenses ecology.
+
+Land 2025, 14, 50
+4 of 18
+2. Method
+2.1. Study Area and Sampling Points
+The study was conducted in Fuzhou, a coastal city situated in the eastern part of Fujian
+Province, China, with a typical subtropical monsoon climate characterized by warm and
+humid conditions, as well as greenery present throughout the year. The research area is
+located in Gulou District, a central urban area in the northwest section of Fuzhou integrating
+various functional areas, such as historical districts, parks, residential areas, and commercial
+zones. This area features significant landmarks, including Wushan Mountain, the Three
+Lanes and Seven Alleys historical district, and Xihu Park. Since 2012, the research area
+has implemented a slow transportation system, with plans for a network that incorporates
+riverfront, waterfront, lakeside, and park connectivity, aimed at creating a distinctive “Min
+culture slow life” experience. Considering data availability and the feasibility of field
+research, this study selects 11 service-oriented streets and 8 landscape-oriented streets as
+subjects for analysis. The selection criteria for the sites are as follows: (1) The selection of
+sample sites considered various spatial environmental factors, including roads, buildings,
+green spaces, and water characteristics, ensuring that the spatial characteristics of the
+sites varied, thereby guaranteeing their representativeness. (2) To minimize the influence
+of any single sensory factor (such as traffic noise), the site selection process emphasized
+a balanced multisensory experience. Finally, based on the field survey, sites that were
+under construction or deemed unsuitable for research were excluded, resulting in a total of
+40 viable research sites, as shown in Figure 2.
+Figure 2. Spatial distribution map of the study area and sample points.
+2.2. Data on Street Spatial Features
+The research area was categorized into four types of spatial environmental elements—
+roads (including urban roads, internal roadways, sidewalks, and hard surfaces), buildings,
+green space, and rivers—using Google satellite imagery of the Gulou District from 2022
+(Google Earth). Road network data for the Gulou District of Fuzhou City were obtained
+from Open Street Map while building outline data and the number of floors were acquired
+using Local Space Viewer software (version V4.2.0). To analyze the key spatial features in-
+fluencing landscape perception evaluations of streets in the research area and to account for
+the scale of sensory perception, buffer zones with a radius of 100 m were established around
+selected points for survey and indicator calculations [30]. The methods for quantifying
+urban street space indicators are detailed in Table 1.
+
+Land 2025, 14, 50
+5 of 18
+Table 1. Quantification of the urban street space indicators.
+Elements
+Indicators
+Calculation Formula
+Explanation
+Road
+Road Width (RW)
+RW = Dv + Ds
+Dv denotes the width of the vehicle lane.
+Ds represents the width of the sidewalk.
+Road Area Ratio (RAR)
+RAR = Sr
+S
+Sr denotes the road surface area within the
+buffer zone.
+S denotes the total area within the buffer
+zone. RAR calculation in this study mainly
+includes urban main roads and side roads,
+excluding roads within residential areas.
+Building
+Building Density (BD)
+BD = Sg
+S
+Sg denotes the ground floor area within the
+buffer zone.
+Floor Area Ratio (FAR)
+FAR = Sb
+S
+Sb denotes the total building area within the
+buffer zone.
+Building Height (BH)
+BH = ∑n
+i=1 Hi
+n
+Hi denotes the height of the i-th building
+within the buffer zone, while n denotes the
+number of buildings within the buffer zone.
+Green Space
+Green Rate (GR)
+GR = Sg
+S
+Sg denotes the total area of green space
+within the buffer zone.
+Landscape Shape Index
+(LSI)
+LSI = 0.25Cg
+√
+Sg
+Cg denotes the total perimeter of green
+space within the buffer zone.
+Fragmentation Index (FI)
+FI =
+Ni
+∑Si
+Ni denotes the number of patches within
+the buffer zone corresponding to the i-th
+green area, while Si represents the area of
+the i-th green space within the buffer zone.
+Water
+Water Surface Ratio (WSR)
+WSR = Sw
+S
+Sw denotes the total area of water within
+the buffer zone. WSR refers to the
+proportion of the water surface area within
+the buffer zone—including lakes, rivers,
+and artificial ponds—relative to the total
+area of the buffer zone.
+Waterfront Density (WD)
+WD = Cw
+S
+Cw denotes the perimeter of the water’s
+edge within the buffer zone.
+2.3. Public Survey Data
+2.3.1. Landsenses Evaluation Indices of Urban Streets
+Urban streets serve as essential environments for community activities, where environ-
+mental factors such as light, sound, smell, color, shape, and texture significantly influence
+individual perceptions and behaviors. This study establishes an evaluation index system
+aimed at assessing the perception of urban streets based on their spatial characteristics.
+Drawing on established landsenses indicators [29,31,32], the system encompasses five
+dimensions—visual, auditory, olfactory, tactile, and psychological—and integrates land-
+senses elements associated with roads, buildings, green spaces, and water, as shown in
+Table 2.
+Each of these dimensions is designed to capture specific sensory experiences and their
+impact on individual psychology. Previous studies typically categorize the street interface
+into four key components: canopy, building wall, ground plane, and roadside plane [33].
+This study primarily focuses on visual perception, particularly factors such as building
+design, paving material color, and vegetation richness, which collectively shape the street’s
+visual impression and influence pedestrians’ emotional responses and behavioral choices.
+Auditory perception, on the other hand, emphasizes the evaluation of the pleasantness and
+eventfulness of the street’s soundscape [34], particularly focusing on how these auditory
+
+Land 2025, 14, 50
+6 of 18
+characteristics influence pedestrian behavior patterns. Olfactory perception primarily
+concerns odors. While positive odors can enhance the overall environmental perception [35],
+urban streets are frequently exposed to negative smells such as trash, waterborne odors, and
+vehicle exhaust. This study specifically addresses how these factors significantly influence
+the perception of street quality. Tactile perception focuses on the physical characteristics of
+the street, particularly the smoothness of the pavement, the comfort of resting facilities, and
+their ability to meet pedestrian needs [36]. Street design should focus on optimizing these
+sensory experiences, providing an environment that is not only safe and comfortable but
+also attractive, thereby promoting positive pedestrian behavior [33]. In conclusion, the aim
+of this study is to comprehensively understand how the sensory elements of urban streets
+shape public behavior and influence the overall perception of space, thereby providing a
+theoretical basis for optimizing street design.
+Table 2. Landsenses indicators of urban street.
+Sensory Perception
+Characterization Indicators
+Visual
+The building is colorful.
+The pavement color is very comfortable.
+The vegetation is very lush.
+Sound
+The soundscape is pleasant.
+The soundscape is eventful.
+Olfactory
+Odor of the garbage.
+Odor of the water.
+Odor of automobile exhaust.
+Tactile
+The pavement is smooth.
+The rest facilities are well-equipped.
+The rest facilities are comfortable.
+Psychological
+The atmosphere of interaction is well.
+It has a sense of security.
+It is attractive.
+2.3.2. Questionnaire Design
+The public survey data for this study were collected using a structured questionnaire.
+The questionnaire consisted of three main sections. The first section gathered basic demo-
+graphic information about the respondents. The second section focused on the evaluation
+of sensory experience and psychological perception related to the spatial characteristics
+of the streets. Drawing on the previously established evaluation index system for land-
+senses ecology, respondents were instructed to assess their environment after a one-minute
+observation across five dimensions: visual, auditory, olfactory, tactile, and psychological,
+using a scale ranging from 1 (strongly disagree) to 7 (strongly agree). The third section
+focused on the types and frequencies of the respondents’ activities. Based on observations
+of the behaviors of street users, these activities were classified as static or dynamic, as
+shown in Table 3. Respondents were asked to indicate the frequency of their activities
+using a seven-point Likert scale, ranging from 1 (rarely) to 7 (very frequently). The survey
+utilized a random sampling method. Prior to participation, respondents were thoroughly
+informed of the study’s objectives and gave their consent. Participants were subsequently
+guided through the completion of the questionnaire. To ensure the representativeness
+of the sample, respondents were selected from a broad spectrum of demographic back-
+grounds, including gender, age, and occupation, thereby improving the generalizability
+and applicability of the results. The random selection and demographic diversity of the
+sample bolstered the reliability and validity of the study’s findings. To account for crowd
+
+Land 2025, 14, 50
+7 of 18
+activity and ensure the feasibility of the survey, data collection was conducted on clear
+weather weekdays during three specific time periods: from 8:00 to 11:00 a.m., from 2:00 to
+5:00 p.m., and from 5:00 to 8:00 p.m. Ultimately, a total of 471 valid questionnaires were
+collected from 40 sampling sites.
+Table 3. Classification of behavior types in urban streets.
+Behavior Type
+Concrete Behavior
+Static activities
+breathe the fresh air, sunbathe, chat, play cards.
+Dynamic activities
+run, walk, walk the dog, shopping
+2.4. Construction of the Conceptual Model
+This study investigates four categories of street spatial characteristics: buildings, roads,
+green spaces, and water. From the perspective of landsenses ecology, this research aims
+to quantify individuals’ multi-sensory perception and psychological cognition while in-
+vestigating the mechanisms through which street spatial characteristics influence behavior.
+The model is designed to illustrate the pathways through which the four categories of
+street spatial characteristics impact the two dimensions of activity types, with street spatial
+characteristics serving as independent variables, behavioral traits as dependent variables,
+and multi-sensory perception and psychological cognition as mediators. A structural
+equation model is proposed, as illustrated in Figure 3, along with the following specific
+research hypotheses:
+ 
+Figure 3. Impact pathways of urban street spatial characteristics on behavioral outcomes.
+
+Land 2025, 14, 50
+8 of 18
+H1: Street spatial characteristics significantly affect behavioral traits.
+H2: Multi-sensory perception has a significant mediating effect in the relationship between
+street spatial characteristics and behavioral traits.
+H3:
+Multi-sensory perception and psychological cognition have a significant chain-
+mediating effect in the relationship between street spatial characteristics and behavioral
+traits [26,29].
+This study employed Partial Least Squares-Structural Equation Modeling (PLS-SEM)
+as the statistical technique. PLS-SEM is utilized to test the hypotheses, offering distinct ad-
+vantages over traditional structural equation models, particularly for smaller sample sizes
+and exploratory research [37]. This multivariate analysis comprises two interconnected
+components: the measurement model, which assesses reliability and validity to confirm
+the predictive potential of observed variables for their latent constructs, and the structural
+model, which evaluates the predictive relationships among these constructs through hy-
+pothesis testing and mediation analysis. The sample size for this study (N = 471) exceeds
+the recommended minimum of ten times the number of questionnaire items (32 items),
+thereby ensuring reliable outcomes from the PLS-SEM analysis. Although PLS-SEM pro-
+vides substantial advantages, several limitations need to be addressed. Firstly, even though
+the sample size surpassed the recommended threshold, its representativeness might still
+restrict the broader applicability of the findings [37]. Moreover, PLS-SEM necessitates a
+balance between sample size adequacy and the robustness of standardized model evalua-
+tion criteria, which highlights areas requiring methodological refinement [38]. Statistical
+analysis was carried out using Smart PLS 3.0.
+3. Results
+3.1. Basic Characteristics of Urban Street Spatial Features
+The spatial characteristics of the streets in the study area are detailed in Table 4. The
+average Road Width (RW) is 13.9 m, with the majority of streets designed with two lanes
+to accommodate bidirectional traffic. The average Building Height (BH) is approximately
+24 m, primarily comprising seven-story residential structures, and the average Building
+Density (BD) is 28.5%, reflecting an appropriate level of land use intensity. The average
+Green Rate (GR) is 35.5%, and the low fragmentation value suggests that the green spaces
+in the study area are relatively intact, indicating a high level of green space development.
+Few roads are located near rivers, and both the Water Surface Ratio (WSR) and Waterfront
+Density (WD) are low.
+Table 4. Statistical analysis of street space features.
+Elements
+Indicators
+Mean
+Max
+Min
+Standard Deviation
+Road
+RW/m
+13.9
+20.0
+8.3
+3.0
+RAR/%
+41.9
+66.6
+12.5
+13.4
+Building
+BD/%
+28.5
+45.4
+8.6
+8.7
+FAR
+2.017
+4.843
+0.196
+1.075
+BH/m
+24.499
+50.267
+5.279
+9.542
+Green Space
+GR/%
+35.5
+64.2
+20.5
+12.0
+LSI
+11.367
+20.732
+5.417
+3.713
+FI/%
+0.106
+0.299
+0.009
+0.074
+Water
+WSR/%
+0.079
+0.345
+0.000
+0.113
+WD/%
+0.856
+3.642
+0.000
+1.121
+
+Land 2025, 14, 50
+9 of 18
+3.2. Sample Statistics
+As shown in Figure 4, among the 471 valid responses, 267 (57%) are male, while 204
+(43%) are female, yielding a gender ratio of approximately 1:1.3. The largest proportion
+of respondents falls within the age group of 25 to 30 years, comprising 21% of the total.
+Furthermore, 77% of respondents indicate that their commuting time to the survey location
+does not exceed 0.5 h.
+ 
+Figure 4. Composition analysis of the respondent group.
+Individual characteristics (such as gender, age, etc.) are potential factors contributing
+to differences in the evaluation of street perception indicators. Given the non-normal
+distribution of the data, non-parametric tests are employed to investigate the difference
+in perception indicators among groups with varying individual characteristics and to
+identify statistically significant variations. The results, as summarized in Table 5, show
+that gender exhibits significant differences in Well-equipped facilities, Interaction, and
+Security, with males assigning higher scores than females. No significant differences are
+observed across age groups for any perception indicators. Educational background demon-
+strates significant differences in the evaluation of Sound Pleasantness, Garbage Odors, and
+Automobile Exhaust Odors, indicating variations in how individuals with different educa-
+tional backgrounds evaluated these aspects. Similarly, people with different occupations
+show different opinions on Garbage Odors, Well-equipped Facilities, and Interaction, with
+unemployed individuals assigning lower scores to Garbage Odors but higher scores to
+Well-equipped Facilities and Interaction compared to students and employed individuals.
+Finally, residential distance shows significant differences in the perception of “the pavement
+color is very comfortable”, with non-local visitors and those living within 30 min of the
+sampled street providing the highest ratings.
+Individual characteristics also show significant variation in their association with
+public behavioral patterns in street environments. As presented in Table 6, gender shows
+significant differences in static behaviors, including chatting, playing cards, and sunbathing,
+with males engaging in these activities more frequently than females. Age shows notable
+differences across all behaviors except chatting and shopping, with individuals aged 51–60
+being the most active group across most activities. Educational background exhibits
+significant differences across all behaviors. Respondents with undergraduate or specialty
+degrees are the most active ones in shopping, while those with higher education levels
+participate more frequently in other activities. Conversely, residential distance from the
+sampled site does not reveal any significant difference in behavioral patterns.
+
+Land 2025, 14, 50
+10 of 18
+Table 5. Summary of the non-parametric test results examining the relationships between individual
+characteristics and landsenses indicators.
+Indicator
+Gender
+Age
+Educational
+Background
+Career
+Residence
+Time
+Visual
+Building
+0.054
+0.086
+0.312
+0.262
+0.378
+Pavement
+0.711
+0.212
+0.847
+0.243
+0.004 **
+Vegetation
+0.194
+0.576
+0.247
+0.192
+0.851
+Sound
+Pleasantness
+0.358
+0.268
+0.027 *
+0.052
+0.488
+Eventfulness
+0.558
+0.990
+0.146
+0.842
+0.476
+Olfactory
+Garbage
+0.590
+0.094
+0.024 *
+0.012 *
+0.878
+Water
+0.632
+0.316
+0.381
+0.936
+0.521
+Automobile
+0.64
+0.263
+0.042 *
+0.871
+0.360
+Tactile
+Pavement
+0.551
+0.101
+0.058
+0.171
+0.177
+Well-equipped
+facilities
+0.039 *
+0.091
+0.063
+0.033 *
+0.878
+Comfortable facilities
+0.268
+0.274
+0.186
+0.440
+0.787
+Psychological
+Interaction
+0.045 *
+0.125
+0.318
+0.050 *
+0.748
+Security
+0.007 **
+0.349
+0.207
+0.488
+0.712
+Attraction
+0.257
+0.247
+0.187
+0.076
+0.279
+* p < 0.05, ** p < 0.01, *** p < 0.001.
+Table 6. Summary of non-parametric test results analyzing the relationships between individual
+characteristics and behavioral frequencies.
+Behavior
+Gender
+Age
+Educational
+Background
+Career
+Residence
+Time
+Static
+activity
+breath the fresh air
+0.998
+0.004 **
+0.001 **
+0.000 ***
+0.287
+chat
+0.024 *
+0.138
+0.001 **
+0.575
+0.840
+play cards
+0.026 *
+0.002 **
+0.000 ***
+0.000 ***
+0.487
+sunbathe
+0.008 **
+0.011 *
+0.000 ***
+0.005 **
+0.460
+Dynamic
+activities
+walk the dog
+0.952
+0.006 **
+0.005 **
+0.015 *
+0.501
+run
+0.282
+0.015 *
+0.012 *
+0.092
+0.348
+walk
+0.829
+0.002 **
+0.012 *
+0.000 ***
+0.552
+shopping
+0.441
+0.061
+0.032 *
+0.024 *
+0.668
+* p < 0.05, ** p < 0.01, *** p < 0.001.
+3.3. Relationship Between Street Spatial Characteristics and Behavioral Traits
+As shown in Figure 5, regarding road characteristics, Road Width (RW) is positively
+correlated with activities such as enjoying fresh air, sunbathing, and walking but negatively
+correlated with shopping. The Road Area Ratio (RAR) is negatively correlated exclusively
+with running, while it is positively correlated with shopping. In terms of building char-
+acteristics, Building Density (BD) does not show a significant correlation with chatting;
+however, it is significantly negatively correlated with other behaviors, except for shop-
+ping. The correlation results for the Floor Area Ratio (FAR) align with those of Building
+Density (BD), indicating no significant correlation with either chatting or sunbathing. The
+average Building Height (BH) is significantly positively correlated only with chatting and
+sunbathing. Concerning green space, the Green Rate (GR) is positively correlated with
+running but shows a significant negative correlation with both chatting and shopping. The
+Landscape Shape Index (LSI) demonstrates a positive correlation with chatting, walking,
+and shopping behaviors. The Fragmentation Index (FI) is negatively correlated with activi-
+ties including enjoying fresh air, sunbathing, walking dogs, running, and walking, while
+it shows a positive correlation with shopping. Regarding water, both the Water Surface
+
+Land 2025, 14, 50
+11 of 18
+Ratio (WSR) and Waterfront Density (WD) are significantly positively correlated with all
+behaviors except shopping, which shows a negative correlation.
+Figure 5. Correlation analysis results between the spatial characteristics of urban streets and
+behavioral traits.
+3.4. Influence of Street Spatial Characteristics on Behavior Traits
+3.4.1. Factors Influencing the Impact of Street Spatial Characteristics on Behavioral Traits
+To further investigate the influence of street spatial characteristics on behavior, a
+multiple regression analysis is conducted, treating behavioral traits as the dependent
+variable and street spatial characteristics as the independent variable, as shown in Table 7.
+The results indicate that water characteristics could significantly influence the frequency of
+public behavior. Road characteristics have a limited effect, influencing only the activities
+associated with enjoying fresh air and shopping. Building characteristics are related to
+activities such as enjoying fresh air, running, walking, and shopping. Green space could
+significantly affect the frequency of all behaviors, except for dog walking and running.
+Table 7. Multiple stepwise regression analysis of street spatial characteristics and behavior.
+Type
+Dependent
+Variable
+Independent
+Variable
+Beta
+VIF
+t
+R2
+F
+Static
+activity
+Breathe the
+fresh air
+RW
+0.138
+1.479
+2.716 **
+0.186
+21.226 ***
+FAR
+−0.137
+1.68
+−2.525 *
+GR
+−0.186
+1.41
+−3.738 ***
+WSR
+0.213
+3.134
+2.884 **
+WD
+0.147
+2.508
+2.214 *
+chat
+GR
+−0.134
+1.005
+−2.944 ***
+0.039
+9.397 ***
+WD
+0.154
+1.005
+3.387 **
+play cards
+WD
+0.268
+1.000
+6.020 ***
+0.072
+36.242 ***
+sunbathe
+GR
+−0.116
+1.073
+−2.588 **
+0.129
+34.533 ***
+WSR
+0.371
+1.073
+8.299 ***
+
+Land 2025, 14, 50
+12 of 18
+Table 7. Cont.
+Type
+Dependent
+Variable
+Independent
+Variable
+Beta
+VIF
+t
+R2
+F
+Dynamic
+activities
+walk the dog
+WD
+0.229
+1.000
+5.102 **
+0.053
+26.028 ***
+Run
+BD
+−0.206
+1.159
+−4.388 ***
+0.108
+2.128 ***
+WD
+0.191
+1.159
+4.059 ***
+walk
+FAR
+−0.194
+1.415
+−3.823 ***
+0.150
+27.500 ***
+GR
+−0.284
+1.261
+−5.92 ***
+WSR
+0.279
+1.215
+5.939 ***
+shopping
+RAR
+0.149
+1.261
+3.239 **
+0.218
+32.386 ***
+BD
+0.198
+2.287
+3.2 **
+GR
+−0.129
+1.497
+−2.58 *
+WSR
+−0.14
+1.793
+−2.556 *
+* p < 0.05, ** p < 0.01, *** p < 0.001.
+3.4.2. The Impact Pathways of Street Spatial Characteristics on Behavioral Traits
+When evaluating the Structural Equation Model (SEM), the quality of the model is
+primarily assessed through reliability and validity tests. The evaluation typically involves
+Composite Reliability (CR) and Average Variance Extracted (AVE) for each latent variable
+to gauge the model’s reliability and validity [37]. After normalizing the data, we conducted
+reliability and validity analyses and found that the CR coefficients exceeded 0.8, and the
+AVE values were all above 0.6. These results indicate that the model demonstrates good
+internal consistency and convergent validity.
+To meet the requirements for structural validity, the factor loadings of all indica-
+tors (representing the influence of observable variables on latent variables) must exceed
+0.55 [37,39]. However, the factor loadings for the RAR, BH, LSI, and FI are below this
+threshold. To enhance the model’s validity, we consider excluding these indicators. Addi-
+tionally, the indicators for walking and shopping do not meet the established criteria and
+are subsequently removed from the model.
+In terms of direct effects, only road and water characteristics significantly influence
+both static and dynamic behaviors. As shown in Table 8, the 95% confidence intervals for
+the estimated indirect effects do not include zero, indicating that there is a mediating effect
+of multi-sensory perception within this relationship.
+Table 8. Results of the mediation effects of multi-sensory perception on the relationship between
+street spatial characteristics and behavioral traits.
+Dependent
+Variable
+Independent
+Variable
+Direct Effect
+Indirect Effect
+Estimates (β)
+p
+95%CI
+Estimates (β)
+p
+95%CI
+Static
+activity
+Road
+−0.091
+0.023
+[−0.172,−0.015]
+0.141
+0.001
+[0.098,0.192]
+Building
+0.032
+0.652
+[−0.108,0.169]
+−0.087
+0.008
+[−0.155,−0.024]
+Green space
+−0.075
+0.080
+[−0.158,0.010]
+−0.095
+0.001
+[−0.151,−0.044]
+Water
+0.192
+0.001
+[0.081,0.304]
+0.176
+0.001
+[0.109,0.248]
+Dynamic
+activities
+Road
+−0.100
+0.022
+[−0.187,−0.013]
+0.097
+0.000
+[0.057,0.144]
+Building
+−0.053
+0.470
+[−0.199,0.090]
+−0.054
+0.040
+[−0.103,−0.001]
+Green space
+0.020
+0.716
+[−0.083,0.129]
+−0.055
+0.015
+[−0.101,−0.011]
+Water
+0.127
+0.039
+[0.004,0.246]
+0.121
+0.001
+[0.058,0.198]
+Figure 6 illustrates the significant pathways of indirect effects. Roads exert a direct
+influence on both static and dynamic behaviors, alongside a positive indirect effect medi-
+ated by auditory, olfactory, and tactile perceptions. Although buildings do not exhibit a
+
+Land 2025, 14, 50
+13 of 18
+significant direct effect on static and dynamic behaviors, they negatively influence these
+behaviors indirectly through tactile perception. Green spaces do not significantly impact
+static and dynamic behaviors; however, they negatively affect static behaviors through
+auditory and tactile perceptions and have a negative influence on dynamic behaviors via
+tactile perception. Water has a direct effect on both static and dynamic behaviors, providing
+a positive indirect influence on static behaviors through auditory, olfactory, and tactile
+perceptions, as well as a positive indirect effect on dynamic behaviors through olfactory
+and tactile perceptions.
+Figure 6. Influence pathways of urban street spatial characteristics on behavioral traits.
+As shown in Table 9, further investigation into the mediating roles of multi-sensory
+perception and psychological cognition demonstrates that street spatial characteristics exert
+a chain-mediated effect on static behaviors through tactile perception and psychological
+cognition. Additionally, water influence psychological cognition through visual perception,
+which subsequently affects static behaviors.
+Table 9. Significant pathways of chain mediation effects.
+Influence Path
+Estimates (β)
+p
+95%CI
+Road -> tactile perception ->
+psychological cognition -> static activity
+0.014
+0.015
+[0.004,0.027]
+Building -> tactile perception ->
+psychosocial cognition -> static activity
+−0.019
+0.015
+[−0.035,0.005]
+Green space -> tactile perception ->
+psychological cognition -> static activity
+−0.016
+0.018
+[−0.031,−0.005]
+Water -> tactile perception ->
+psychological cognition -> static activity
+0.014
+0.025
+[0.004,0.028]
+Water -> visual perception ->
+psychological cognition -> static activity
+0.006
+0.045
+[0.001,0.013]
+4. Discussion
+4.1. The Relationship Between Street Spatial Characteristics and Behavioral Traits
+Street spatial characteristics significantly influence public behavioral traits, with the
+presence of water exerting a particularly pronounced effect on activity levels. Environments
+featuring water are generally more appealing to the public [40], aligning with prior research
+
+Land 2025, 14, 50
+14 of 18
+that indicates spaces near water are more attractive and that water plays a significant role
+in influencing static behaviors in parks [16,17]. Conversely, the proportion of green space
+has a notable negative impact on public behavior. Previous studies have shown that the
+influence of urban green spaces is nonlinear; for instance, the visibility of green streetscapes
+and NDVI levels exhibit nonlinear effects on walking tendencies [41,42]. Moreover, the
+quantity of green spaces has a significant inverted U-shaped effect on life satisfaction, with
+an optimal proportion of 11% maximizing public life satisfaction [43]. In our case, the
+Green Rate (GR) ranges from 20.5% to 64.2%, which falls within the declining segment of
+this threshold. Therefore, while increasing green space may continue to positively influence
+behavior, exceeding the optimal ratio could diminish these beneficial effects and potentially
+result in negative outcomes. The adverse impact of the Green Rate (GR) is more pronounced
+on static behaviors, consistent with previous findings that visitors prefer lower per capita
+green space when seated compared to when walking [44].
+According to the regression analysis results, both Road Width (RW) and Road Area
+Ratio (RAR) significantly and positively influence activity frequency. This supports earlier
+research indicating that Road Width (RW) is a critical variable influencing street activity [45],
+significantly impacting the fulfillment of walking needs [46], and showing a strong posi-
+tive correlation with social interactions among middle-aged and elderly individuals [47].
+Apart from shopping, building characteristics correlate negatively with behavior. Previous
+studies suggest a nonlinear relationship between Building Density (BD) and pedestrian
+traffic; specifically, in urban centers where Building Density (BD) exceeds 0.3, building
+characteristics negatively impact walking [48]. Future research should concentrate on
+the specific effects of spatial characteristics on behavior in high-density environments to
+enhance public activity experiences.
+4.2. Pathways Through Which Street Spatial Characteristics Influence Behavior
+Multi-sensory perception plays a crucial mediating role in the relationship between
+street spatial characteristics and behavioral traits. Specifically, roads and water not only
+directly influence both static and dynamic behaviors but also exert an indirect effect through
+multi-sensory perception. Conversely, building and green space characteristics primarily
+impact static and dynamic behaviors via multi-sensory perception. Previous research
+indicates that soundscapes significantly affect pedestrians’ walking routes and behavioral
+patterns [49], influencing walking speed and extending dwell time [50,51]. Similarly, odors
+can affect crowd movement speed and dwell time [51]. Furthermore, pavement evenness,
+as well as the number and placement of resting facilities, are critical factors influencing
+outdoor activities [52]. These findings collectively underscore the significant influence of
+multi-sensory perception on behavior.
+However, existing studies have primarily focused on the role of multi-dimensional
+physical perception in psychological restoration, with limited exploration of its effects on
+behavior. Prior research has highlighted the significant impact of visual, auditory, and
+olfactory senses on public restoration [22,23,53]. Among these, olfactory perception is
+particularly vital in the restoration process [53], supporting this study’s conclusion that
+olfactory perception has the most substantial impact on behavioral activities. Humans
+possess a remarkable sense of smell, often surpassing that of many animals [54]. Research
+has demonstrated that in urban forest parks, children’s olfactory experiences have the
+most significant influence on their behavior [55]. Moreover, when examining the effects of
+multi-sensory stimulation in urban green spaces on physiological stress, olfactory stimuli
+have been found to be more effective than visual stimuli in alleviating stress [56].
+In the pathway of “street spatial characteristics—sensory perception—psychological
+cognition—behavioral traits”, roads, buildings, green spaces, and water influence psycho-
+
+Land 2025, 14, 50
+15 of 18
+logical cognition through tactile perception, which subsequently affects static behaviors.
+Tactile perception and psychological cognition serve as chain mediators in this process.
+Evidence indicates that multi-sensory stimulation from pleasant landscape features can
+lead to positive cognitive evaluations [28,29], thereby enhancing public behavior. Research
+from the perspective of landsenses ecology emphasizes the significance of tactile perception
+indicators [32,57]. For hearing-impaired visitors, tactile experiences are notably richer
+than those from other non-visual senses [58]. Furthermore, studies on the restorative
+effects of multi-sensory perception in urban green spaces suggest that tactile perception
+has an indirect relationship with psychological restoration, influencing residents’ behavior
+and emotional responses, which in turn affects restoration outcomes [59]. This implies a
+closer connection between tactile perception and emotional cognition compared to other
+senses. In this study, individuals develop positive tactile perceptions through interactions
+with various paving materials and the use of resting facilities, fostering a strong cognitive
+atmosphere that influences behaviors such as playing cards and chatting. Thus, tactile
+perception plays a crucial role in understanding the environment and interacting with
+surrounding elements.
+4.3. Research Limitations and Future Studies
+While this study primarily focuses on the impact of street spatial characteristics on
+public behavior, land use and social activities may indirectly influence these behaviors by
+shaping spatial functions and patterns of human mobility. Future research could examine
+how these factors intersect with sensory experiences to shape public activity patterns in
+urban streets. Moreover, this study does not fully address the potential impacts of seasonal
+climate variations on pedestrian behavior and street space usage. Variations in temperature
+and humidity, in particular, may affect pedestrian comfort and, consequently, alter the
+types and frequency of activities in urban streets. Future studies could investigate how
+these climatic variations interact with human behavior and spatial usage, offering deeper
+insights into how climate shapes public engagement with urban environments.
+5. Conclusions
+Urban streets serve as essential public spaces that connect individuals to their envi-
+ronment, with spatial characteristics playing a pivotal role in shaping public perception
+and behavior. This study explores the influence of street spatial characteristics on public
+behavioral traits, emphasizing the mediating role of multi-sensory perception. Grounded
+in landsenses ecology, the research employs methodologies such as spatial analysis, cor-
+relation analysis, regression analysis, and Structural Equation Modeling (SEM). The key
+findings are summarized as follows:
+(1)
+Among street spatial characteristics, water elements have the most substantial impact
+on public behavioral traits. Areas with higher Water Surface Ratios (WSRs) promote
+nature-based activities, while higher Waterfront Density (WD) fosters social and
+physical activities, such as chatting, running, and walking dogs.
+(2)
+Roads and water features influence behaviors directly and indirectly through multi-
+sensory perception, particularly auditory, olfactory, and tactile modalities. Conversely,
+buildings and green spaces affect behaviors primarily through sensory pathways, with
+certain characteristics, such as Building Density (BD) and Green Rate (GR), having
+negative impacts.
+(3)
+Olfactory perception surpasses other sensory modalities in influencing public behav-
+ior. Unpleasant odors significantly deter public engagement, even in visually and
+acoustically appealing areas, highlighting the importance of managing odor sources
+in urban environments.
+
+Land 2025, 14, 50
+16 of 18
+This study underscores the need to integrate multi-sensory perception into urban
+planning to enhance public engagement and well-being. Special attention should be given
+to olfactory landscapes and the interplay between tactile perception and psychological
+cognition. By optimizing these sensory dimensions, urban spaces can become safer, more
+attractive, and better connected to the communities they serve.
+Author Contributions: Conceptualization, T.H., L.T. and J.L.; methodology, T.H. and J.L.; software,
+T.H.; validation, T.H., S.J. and J.Y.; formal analysis, T.H.; investigation, T.H. and S.Y; resources, J.L.;
+data curation, T.H.; writing—original draft preparation, T.H.; writing—review and editing, L.T.,
+J.L., S.J. and J.Y.; visualization, T.H.; supervision, L.T. and J.L; project administration, J.L.; funding
+acquisition, J.L. All authors have read and agreed to the published version of the manuscript.
+Funding:
+This work was supported by the National Natural Science Foundation of China
+(NO.52378049).
+Data Availability Statement: Due to the privacy and confidentiality of the respondents, the question-
+naire data used in this study cannot be made publicly available. However, the data can be accessed
+upon reasonable request and under the condition that participant privacy is ensured, by contacting
+the corresponding author.
+Acknowledgments: We express gratitude to two individuals for their contributions: Master’s student
+Mengqiao Zhang and Shiying Li from Fuzhou University provided assistance in data collection and
+article revision.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+1.
+UN General Assembly. Resolution Adopted by the General Assembly: Transforming Our World: The 2030 Agenda for Sustainable
+Development A/RES/70/1; United Nations: New York, NY, USA, 2015.
+2.
+Lowe, M.; Adlakha, D.; Sallis, J.F.; Salvo, D.; Cerin, E.; Moudon, A.V.; Higgs, C.; Hinckson, E.; Arundel, J.; Boeing, G.; et al. City
+planning policies to support health and sustainability: An international comparison of policy indicators for 25 cities. Lancet Glob.
+Health 2022, 10, e882–e894. [CrossRef] [PubMed]
+3.
+Ye, C.; Schröder, P.; Yang, D.; Chen, M.; Cui, C.; Zhuang, L. Toward healthy and liveable cities: A new framework linking public
+health to urbanization. Environ. Res. Lett. 2022, 17, 064035. [CrossRef]
+4.
+Rezvanipour, S.; Hassan, N.; Ghaffarianhoseini, A.; Danaee, M. Why does the perception of street matter? A dimensional analysis
+of multisensory social and physical attributes shaping the perception of streets. Arch. Sci. Rev. 2021, 64, 359–373. [CrossRef]
+5.
+Abusaada, H.; Elshater, A. Effect of people on placemaking and affective atmospheres in city streets. Ain Shams Eng. J. 2021, 12,
+3389–3403. [CrossRef]
+6.
+Tang, J.; Long, Y. Measuring visual quality of street space and its temporal variation: Methodology and its application in the
+Hutong area in Beijing. Landsc. Urban Plan. 2019, 191, 103436. [CrossRef]
+7.
+Lu, Y. Using Google Street View to investigate the association between street greenery and physical activity. Landsc. Urban Plan.
+2019, 191, 103435. [CrossRef]
+8.
+Salazar-Miranda, A.; Heine, C.; Duarte, F.; Schechtner, K.; Ratti, C. Measuring the impact of slow zones on street life using social
+media. Cities 2022, 131, 104010. [CrossRef]
+9.
+Lu, Y.; Sarkar, C.; Xiao, Y. The effect of street-level greenery on walking behavior: Evidence from Hong Kong. Soc. Sci. Med. 2018,
+208, 41–49. [CrossRef]
+10.
+Song, J.; Zhou, S.; Kwan, M.-P.; Liang, S.; Lu, J.; Jing, F.; Wang, L. The effect of eye-level street greenness exposure on walking
+satisfaction: The mediating role of noise and PM2.5. Urban For. Urban Green. 2022, 77, 127752. [CrossRef]
+11.
+Liu, J.; Wei, Y.; Lu, S.; Wang, R.; Chen, L.; Xu, F. The elderly’s preference for the outdoor environment in Fragrant Hills Nursing
+Home, Beijing: Interpreting the visual-behavioural relationship. Urban For. Urban Green. 2021, 64, 127242. [CrossRef]
+12.
+Ki, D.; Lee, S. Analyzing the effects of Green View Index of neighborhood streets on walking time using Google Street View and
+deep learning. Landsc. Urban Plan. 2021, 205, 103920. [CrossRef]
+13.
+Jin, L.; Lu, W.; Sun, P. Preference for Street Environment Based on Route Choice Behavior While Walking. Front. Public Health
+2022, 10, 880251. [CrossRef]
+14.
+Yan, Q.; Luo, S.; Jiang, J. Urban Residents’ Preferred Walking Street Setting and Environmental Factors: The Case of Chengdu
+City. Buildings 2023, 13, 1199. [CrossRef]
+
+Land 2025, 14, 50
+17 of 18
+15.
+Elzeni, M.M.; Elmokadem, A.A.; Badawy, N.M. Impact of urban morphology on pedestrians: A review of urban approaches.
+Cities 2022, 129, 103840. [CrossRef]
+16.
+Yao, W.; Yun, J.; Zhang, Y.; Meng, T.; Mu, Z. Usage behavior and health benefit perception of youth in urban parks: A case study
+from Qingdao, China. Front. Public Health 2022, 10, 923671. [CrossRef] [PubMed]
+17.
+Li, J.; Huang, Z.; Zhu, Z.; Ding, G. Coexistence Perspectives: Exploring the impact of landscape features on aesthetic and
+recreational values in urban parks. Ecol. Indic. 2024, 162, 112043. [CrossRef]
+18.
+Mehrabian, A.; Russell, J.A. An Approach to Environment Psychology; MIT: Cambridge, MA, USA, 1974.
+19.
+Zhao, J.; Liu, X.; Dong, R.; Shao, G. Landsenses ecology and ecological planning toward sustainable development. Int. J. Sustain.
+Dev. World Ecol. 2016, 23, 293–297. [CrossRef]
+20.
+He, S.; Chen, D.; Shang, X.; Han, L.; Shi, L. Resident Satisfaction of Urban Green Spaces through the Lens of Landsenses Ecology.
+Int. J. Environ. Res. Public Health 2022, 19, 15242. [CrossRef] [PubMed]
+21.
+Guo, X.; Liu, J.; Chen, Z.; Hong, X.-C. Harmonious Degree of Sound Sources Influencing Visiting Experience in Kulangsu Scenic
+Area, China. Forests 2023, 14, 138. [CrossRef]
+22.
+Wei, Y.; Hou, Y. Forest Visitors’ Multisensory Perception and Restoration Effects: A Study of China’s National Forest Parks by
+Introducing Generative Large Language Model. Forests 2023, 14, 2412. [CrossRef]
+23.
+Li, S.; Chen, T.; Chen, F.; Mi, F. How Does the Urban Forest Environment Affect the Psychological Restoration of Residents? A
+Natural Experiment in Environmental Perception from Beijing. Forests 2023, 14, 1986. [CrossRef]
+24.
+Mehta, V.; Bosson, J.K. Revisiting Lively Streets: Social Interactions in Public Space. J. Plan. Educ. Res. 2018, 41, 160–172.
+[CrossRef]
+25.
+Gao, W.; Jia, M.; Zhao, M.; Gao, Y.; Meng, H. Review of Progress and Quantitative Measurement Methods of Research on Street
+Space. City Plan. Rev. 2022, 46, 106–114.
+26.
+Wang, Y.; Zhou, Q.; Yang, X.; Nan, J. Research on Process Framework and Evaluation System of Urban Public Spatial Perception.
+Urban Plan. Int. 2022, 37, 80–89.
+27.
+Zhao, J.; Yan, Y.; Deng, H.; Liu, G.; Dai, L.; Tang, L.; Shi, L.; Shao, G. Remarks about landsenses ecology and ecosystem services.
+Int. J. Sustain. Dev. World Ecol. 2020, 27, 196–201. [CrossRef]
+28.
+Liu, C.; Tang, L.; Yan, J.; Ouyang, J. Direct and indirect effects of multisensory modalities on visitor’s thermal comfort in an urban
+park in a humid-hot climate. Int. J. Sustain. Dev. World Ecol. 2023, 30, 319–328. [CrossRef]
+29.
+Wu, Y.; Tang, L.; Huang, C.; Shao, G.; Hou, J.; Sabel, C.E. Enhancing human well-being through cognitive and affective pathways
+linking landscape sensation to cultural ecosystem services. Landsc. Ecol. 2024, 39, 175. [CrossRef]
+30.
+Mao, Y.; Xia, T.; Hu, F.; Chen, D.; He, Y.; Bi, X.; Zhang, Y.; Cao, L.; Yan, J.; Hu, J.; et al. The greener the living environment, the
+better the health? Examining the effects of multiple green exposure metrics on physical activity and health among young students.
+Environ. Res. 2024, 250, 118520. [CrossRef]
+31.
+Shao, J.; Qiu, Q.; Qian, Y.; Tang, L. Optimal visual perception in land-use planning and design based on landsenses ecology. Int. J.
+Sustain. Dev. World Ecol. 2020, 27, 233–239. [CrossRef]
+32.
+Zheng, T.; Yan, Y.; Lu, H.; Pan, Q.; Zhu, J.; Wang, C.; Zhang, W.; Rong, Y.; Zhan, Y. Visitors’ perception based on five physical
+senses on ecosystem services of urban parks from the perspective of landsenses ecology. Int. J. Sustain. Dev. World Ecol. 2020, 27,
+214–223. [CrossRef]
+33.
+Li, Y.; Li, M.; Xu, Y.; Tao, J. “Interface-element-perception” model to evaluation of urban sidewalk visual landscape in the core
+area of Beijing. Front. Arch. Res. 2024, 13, 960–977. [CrossRef]
+34.
+Liu, J.; Yang, L.; Xiong, Y.; Yang, Y. Effects of soundscape perception on visiting experience in a renovated historical block. Build.
+Environ. 2019, 165, 106375. [CrossRef]
+35.
+Ba, M.; Kang, J. Perception and Behaviour under the Audio-olfactory Interaction in Urban Public Open Spaces. South Archit. 2022,
+10, 19–29.
+36.
+Asadi-Shekari, Z.; Moeinaddini, M.; Aghaabbasi, M.; Cools, M.; Shah, M.Z. Exploring effective micro-level items for evaluating
+inclusive walking facilities on urban streets (applied in Johor Bahru, Malaysia). Sustain. Cities Soc. 2019, 49, 101563. [CrossRef]
+37.
+Hair, J.F.; Risher, J.J.; Sarstedt, M.; Ringle, C.M. When to use and how to report the results of PLS-SEM. Eur. Bus. Rev. 2019, 31,
+2–24. [CrossRef]
+38.
+Hair, J.F.; Sarstedt, M.; Ringle, C.M.; Sharma, P.N.; Liengaard, B.D. Going beyond the untold facts in PLS–SEM and moving
+forward. Eur. J. Mark. 2024, 58, 81–106. [CrossRef]
+39.
+Zhang, Y.; Chen, N.; Du, W.; Li, Y.; Zheng, X. Multi-source sensor based urban habitat and resident health sensing: A case study
+of Wuhan, China. Build. Environ. 2021, 198, 107883. [CrossRef]
+40.
+White, M.; Smith, A.; Humphryes, K.; Pahl, S.; Snelling, D.; Depledge, M. Blue space: The importance of water for preference,
+affect, and restorativeness ratings of natural and built scenes. J. Environ. Psychol. 2010, 30, 482–493. [CrossRef]
+41.
+Curl, A.; Mason, P. Neighbourhood perceptions and older adults’ wellbeing: Does walking explain the relationship in deprived
+urban communities? Transp. Res. Part A Policy Pract. 2019, 123, 119–129. [CrossRef]
+
+Land 2025, 14, 50
+18 of 18
+42.
+Zang, P.; Qiu, H.; Zhang, H.; Chen, K.; Xian, F.; Mi, J.; Guo, H.; Qiu, Y.; Liao, K. The built environment’s nonlinear effects on the
+elderly’s propensity to walk. Front. Ecol. Evol. 2023, 11, 1103140. [CrossRef]
+43.
+Bertram, C.; Rehdanz, K. The role of urban green space for human well-being. Ecol. Econ. 2015, 120, 139–152. [CrossRef]
+44.
+Lin, W.; Chen, Q.; Jiang, M.; Zhang, X.; Liu, Z.; Tao, J.; Wu, L.; Xu, S.; Kang, Y.; Zeng, Q. The effect of green space behaviour and
+per capita area in small urban green spaces on psychophysiological responses. Landsc. Urban Plan. 2019, 192, 103637. [CrossRef]
+45.
+Li, Y.; Yabuki, N.; Fukuda, T. Exploring the association between street built environment and street vitality using deep learning
+methods. Sustain. Cities Soc. 2022, 79, 103656. [CrossRef]
+46.
+Vichiensan, V.; Nakamura, K. Walkability Perception in Asian Cities: A Comparative Study in Bangkok and Nagoya. Sustainability
+2021, 13, 6825. [CrossRef]
+47.
+Sun, X.; Wang, L.; Wang, F.; Soltani, S. Behaviors of seniors and impact of spatial form in small-scale public spaces in Chinese old
+city zones. Cities 2020, 107, 102894. [CrossRef]
+48.
+Zeng, Q.; Wu, H.; Zhou, L.; Huang, G.; Li, Y.; Dewancker, B.J. Toward pedestrian-friendly cities: Nonlinear and interaction effects
+of building density on pedestrian volume. J. Transp. Geogr. 2024, 119, 103954. [CrossRef]
+49.
+Liu, J.; Xiong, Y.; Wang, Y.; Luo, T. Soundscape effects on visiting experience in city park: A case study in Fuzhou, China. Urban
+For. Urban Green. 2018, 31, 38–47. [CrossRef]
+50.
+Maculewicz, J.; Erkut, C.; Serafin, S. How can soundscapes affect the preferred walking pace? Appl. Acoust. 2016, 114, 230–239.
+[CrossRef]
+51.
+Meihui, B.; Kang, J.; Li, Z. The effects of sounds and food odour on crowd behaviours in urban public open spaces. Build. Environ.
+2020, 182, 107104. [CrossRef]
+52.
+Wang, X.; Tang, P.; He, Y.; Woolley, H.; Hu, X.; Yang, L.; Luo, J. The correlation between children’s outdoor activities and
+community space characteristics: A case study utilizing SOPARC and KDE methods in Chengdu, China. Cities 2024, 150, 105002.
+[CrossRef]
+53.
+Yildirim, M.; Globa, A.; Gocer, O.; Brambilla, A. Multisensory nature exposure in the workplace: Exploring the restorative benefits
+of smell experiences. Build. Environ. 2024, 262, 111841. [CrossRef]
+54.
+McGann, J.P. Poor human olfaction is a 19th-century myth. Science 2017, 356, eaam7263. [CrossRef]
+55.
+Xu, J.; Chen, L.; Liu, T.; Wang, T.; Li, M.; Wu, Z. Multi-Sensory Experience and Preferences for Children in an Urban Forest Park:
+A Case Study of Maofeng Mountain Forest Park in Guangzhou, China. Forests 2022, 13, 1435. [CrossRef]
+56.
+Hedblom, M.; Gunnarsson, B.; Iravani, B.; Knez, I.; Schaefer, M.; Thorsson, P.; Lundström, J.N. Reduction of physiological stress
+by urban green space in a multisensory virtual experiment. Sci. Rep. 2019, 9, 10113. [CrossRef] [PubMed]
+57.
+Zheng, T.; Pan, Q.; Zhang, X.; Wang, C.; Yan, Y.; Van De Voorde, T. Research Note: Linking sensory perceptions with landscape
+elements through a combined approach based on prior knowledge and machine learning. Landsc. Urban Plan. 2024, 242, 104928.
+[CrossRef]
+58.
+Chan, C.-S.; Shek, K.F.; Agapito, D. The sensory experience of visitors with hearing impairment in Hong Kong Wetland Park
+based on spatial sensory mapping and self-reported textual analysis. Landsc. Urban Plan. 2022, 226, 104491. [CrossRef]
+59.
+Zhang, T.; Liu, J.; Li, H. Restorative Effects of Multi-Sensory Perception in Urban Green Space: A Case Study of Urban Park in
+Guangzhou, China. Int. J. Environ. Res. Public Health 2019, 16, 4943. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

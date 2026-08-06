@@ -1,0 +1,1435 @@
+JOURNAL OF DEGRADED AND MINING LANDS MANAGEMENT 
+Volume 11, Number 3 (April 2024):5695-5706, doi:10.15243/jdmlm.2024.113.5695 
+ISSN: 2339-076X (p); 2502-2458 (e), www.jdmlm.ub.ac.id 
+ 
+Open Access 5695 
+ 
+ 
+Research Article 
+Peri-urban forests: an exploratory study of users' recreational activities: 
+The case of the El Meridj-Est recreational forest in Constantine, Algeria 
+Chourouk Bouttaba1*, Nouibat Brahim1, Meriem Benmechiche2 
+1 Institute Urban Technical Management, Mohamed Boudiaf University of M’sila, Laboratory City, Environment, Society, 
+and Sustainable Development, University of M’sila Algeria 
+2 Institute of Management of Urban Techniques (IGTU), University of Constantine 3, Salah Boubnider. The Laboratory of 
+Dynamic, Intelligent and Resilient Territories (LABTERDIR), University of Constantine 3, Salah Boubnider, Algeria 
+*corresponding author: chourouk.bouttaba@univ-msila.dz 
+ 
+ 
+Abstract 
+Article history: 
+Received 22 November 2023 
+Revised 11 February 2024 
+Accepted 28 February 2024 
+ 
+Peri-urban forests are wooded areas under the influence of urbanization 
+and are becoming increasingly attractive as recreational areas for urban 
+populations. This study focused specifically on the El Meridj-Est 
+recreational forest, located in Constantine, the capital of eastern Algeria. 
+This study selected this forest as the main case study because of its 
+distinction as the region's most frequented woodland site. This research 
+aimed to understand the practices of 350 users of this forest and to identify 
+the determining factors behind the high affluence at El Meridj. This study 
+also examined their individual and family perceptions, expectations, and 
+concerns, adopting a methodological approach combining detailed 
+qualitative and quantitative social survey techniques. This study fills a 
+research gap in the field of peri-urban green space management with 
+regard to social interactions and recreational activities in these spaces. It 
+also highlights the importance of taking local specificities into account 
+when studying recreational spaces. These results, potentially generalizable 
+to other similar geographical and cultural contexts, offer practical 
+perspectives for the management and conservation of peri-urban forests 
+while minimizing the negative impacts of anthropogenic pressures leading 
+to the degradation of these natural environments. 
+Keywords: 
+green space 
+peri-urban forest 
+proximity 
+recreational use 
+user 
+ 
+ 
+To cite this article: Bouttaba, C., Brahim, N. and Benmechiche, M. 2024. Peri-urban forests: an exploratory study of users' 
+recreational activities: The case of the El Meridj-Est recreational forest in Constantine, Algeria. Journal of Degraded and 
+Mining Lands Management 11(3):5695-5706, doi:10.15243/jdmlm.2024.113.5695. 
+ 
+Introduction 
+Modern society is evolving rapidly with scientific 
+advances and major industrial discoveries, leading to 
+an exponential increase in the world's population, 
+exceeding 7 billion individuals in 2014 (Gherraz, 
+2021). By 2030, more than 60% of this population will 
+live in cities (Nóblega-Carriquiry et al., 2023), which 
+are already responsible for almost 75% of global CO2 
+emissions (Kefale et al., 2023). Population growth and 
+peri-urban expansion, accompanied by distinct 
+phenomena linked to the unequal distribution of 
+individuals, are causing major landscape upheavals on 
+a global scale (Salbitano et al., 2017). They have 
+endangered human well-being and that of nature 
+(Sarabi et al., 2023). 
+To meet these challenges, contemporary society 
+has set itself new objectives aimed at ensuring human 
+survival in the best possible conditions, while 
+promoting coherent development in harmony with the 
+environment (Clergeau and Machon, 2014). Natural 
+activities and spaces have had a profound impact on 
+territories, 
+with 
+the 
+new 
+planning 
+challenge 
+emphasizing the greening of cities, public gardens, 
+green facades, urban parks, urban and peri-urban 
+forests have gained considerable importance in recent 
+years (Van Uffelen, 2013). Several research studies 
+have highlighted the importance of urban and peri-
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5696 
+ 
+urban forests during the global COVID-19 pandemic 
+(Oprica et al., 2022). The economic and societal 
+confinements of 2020 and 2021 have been associated 
+with risks to the physical and mental health of confined 
+people. In this situation, the importance of spending 
+time in forests has become more evident than ever, and 
+contact with public green spaces is now considered to 
+have a more important role in the mental and physical 
+health of individuals than before the pandemic 
+(Ugolini et al., 2021). A recent study of 1,000 
+European cities even showed that greening these areas 
+could save up to 43,000 human lives every year 
+(United Nations Economic Commission for Europe, 
+2021). 
+However, these forests are also a habitat for 
+many terrestrial species worldwide, including in 
+Africa. Unfortunately, their decline due to human 
+activities represents a serious threat to their survival 
+and persistence, thus contributing to the growing loss 
+of biodiversity (Cueva et al., 2022). Urbanization of 
+cities encroaching on natural territories disrupts 
+ecological balances, alters the landscape, and creates 
+obstacles that impede the free movement of wildlife. 
+As a result, certain species populations become 
+isolated, reducing their genetic diversity and making 
+them more vulnerable to environmental change and 
+natural disasters (Maseko et al., 2023). 
+As a result of this context and the social 
+phenomena that also have direct effects on natural 
+environments, forest frequentation needs to be 
+regularly re-evaluated quantitatively and qualitatively 
+through sociological surveys carried out at various 
+territorial scales to understand the extent of the social 
+function that has developed alongside increasingly 
+stressful lifestyles (Zhang et al., 2022), and to know 
+the practices and perceptions of users in wooded areas, 
+but also to plan developments intended for them 
+(Papillon, 2014), In addition, visitor monitoring can 
+identify conflicts between visitor groups, potentially 
+problematic areas in recreational spaces and future 
+trends (Cassford and Muhar, 2023). 
+This is the background to the present research, 
+which is of crucial importance in the study area, where 
+there is a lack of landscaped urban green spaces with a 
+total ratio of only 5.39 m² per inhabitant (The 
+Environment Department, 2022), well below the 9 m2 
+recommended by the World Health Organization 
+(Yang et al., 2023). This care has led to increased 
+pressure on the use of peri-urban forests. 
+In Algeria, Constantine is a wilaya that plays a 
+leading 
+role 
+in 
+the 
+country, 
+historically, 
+geographically, and economically (Benghadbane and 
+Khreis, 2019). It is a cultural, educational, and 
+industrial epicenter that deserves special attention in 
+terms of scientific research. However, there is very 
+little research focusing on the assessment of social 
+interactions and recreational activities in the peri-
+urban forests of this region. It is in this context that the 
+contribution stands out, highlighting an in-depth 
+analysis of forest use carried out specifically in a peri-
+urban area known as "El MERIDJ-EAST". As a result, 
+this study aimed to take stock of users' practices and to 
+assess their level of satisfaction in relation to various 
+aspects. The reason for choosing this forest is based on 
+previous research, which confirms that this natural 
+area, "El MERIDJ-EAST", is the most popular public 
+green space and leisure area in the wilaya, with 31% 
+of the population using green spaces in 2009 (Ali 
+Khoudja, 2010) and an updated percentage of 51% of 
+the population of Constantine in 2022, ahead of the El 
+Baaraouiaa El Khroub forest (Benmechiche et al., 
+2022). 
+This article focuses on the practices of forest 
+users, and why they choose this peri-urban woodland 
+area over others. So, who are the users of the EL 
+MERIDJ forest? What are their main activities? Is 
+proximity the main determinant of outings organized 
+in this natural area, or are there other reasons? Do not 
+the perceptions, satisfactions, and individual and 
+family concerns of users determine a wide variety of 
+visits? 
+The importance of this research lies in the fact 
+that this management, which was traditionally planned 
+for the long and very long term, is now being disrupted 
+by spatial and social developments that are not 
+synchronized with natural biological cycles. There is a 
+significant gap between the slow regeneration of 
+forests and the often rapid evolution of social demands 
+(Wartmann et al., 2021). Understanding these 
+evolutions is crucial to consider holistic management 
+that benefits human societies, ecosystems, and 
+biodiversity (Tarasewicz and J ̈onsson, 2021). 
+The geographical location of the Wilaya of 
+Constantine: the nerve center of eastern Algeria 
+(Figure 1). Constantine is located 431 km from the 
+capital, Algiers, 245 km from the Algerian-Tunisian 
+border, 89 km from Skikda to the north, and 235 km 
+from Biskra to the south. Its strategic location, 
+equidistant from the coastline to the north and the 
+Aures massif to the south, provides a link between the 
+southern and coastal towns (Gherraz, 2021). 
+The forest heritage of the wilaya of Constantine 
+The socio-spatial and forestry characteristics of the 
+research area were presented using maps and figures to 
+grasp its particularity in terms of forest areas. The 
+forest cover of the wilaya of Constantine extends over 
+almost 27,000 ha with a rich and varied flora spread 
+over the twelve communes (Figure 2). It is classified 
+into two forest categories: natural forests and 
+recreational forests (Conservation des foréts, 2023). 
+Constantine's forests are veritable green jewels, fragile 
+ecosystems that require special attention to avoid any 
+harmful 
+or 
+destructive 
+action 
+(Haichour 
+and 
+Benabdeli, 2022). 
+Presentation of the El Merridj-East study area 
+The study area is an integral part of the Constantine 
+state forest and stands out as the region's most popular 
+recreational 
+woodland 
+(Figure 
+3). 
+Occupying 
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5697 
+ 
+a historical area of 2,220 hectares 76 ares 75 centiares 
+(in accordance with the Senatus consult of 1883), this 
+area was originally made up of eight cantons, 
+including EL Meridj, which originally encompassed 
+an area of 320 hectares 47 ares 06 centiares. However, 
+subsequent plot adjustments have reduced its current 
+size to 202 hectares. It is located 07 km east of the city 
+of Constantine. 
+ 
+ 
+Figure 1. Location of the wilaya of Constantine. 
+ 
+ 
+Figure 2. Forest distribution in the wilaya of Constantine. 
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5698 
+ 
+ 
+Figure 3. The forests most frequented by the inhabitants of the Constantine region. 
+ 
+This area, part of a peri-urban context between the 
+communes of Constantine and El Khroub, is of 
+particular interest due to its strategic location within 
+the wilaya of Constantine. It is bordered by 
+agricultural land to the north and east and by the east-
+west freeway to the east (Conservation des foréts, 
+2023). With a planned developed area of 30 ha, this 
+zone is accessible from the East-West freeway to the 
+east and crossed by a communal road linking the two 
+major towns in the wilaya of Constantine, attracting 
+many visitors from the region and beyond, particularly 
+at weekends and on public holidays. As a state-owned 
+forest, referenced in section 08, islet 06, El Meridj-
+East plays an essential role in preserving local 
+biodiversity and ecosystems. The area's vegetation is 
+characterized by a diversity of species, including both 
+coniferous and deciduous trees. Among the most 
+remarkable species are Aleppo pine, cypress, 
+eucalyptus, and holm oak, as well as a few specimens 
+of ash and cedar (Conservation des foréts, 2023). 
+Comprehensive analysis of the ecological 
+components and amenities of the El Meridj-East 
+recreational forest 
+As part of the academic study, this study focused on 
+the physical components of the study forest, carefully 
+examining its remarkable features for a better 
+understanding of the user behavior analyzed later in 
+this research. The diagnosis of these components was 
+carried out during several field trips, offering a direct 
+approach and in situ observation of its various features. 
+This field methodology enabled us to collect precise 
+and detailed data, as well as objectively assess the 
+elements studied while comparing what actually exists 
+in the forest with all that was proposed in the forest 
+redevelopment plans in 2012 at the level of the forest 
+conservation authority of the wilaya of Constantine. 
+This leisure area includes water features in the form of 
+two half-drained lakes, a waterfall, and an artificial 
+river (Figures 4 and 5). It also features play and 
+relaxation equipment, bronze fountains, animal 
+statues, sewage systems, water supply systems, 
+outdoor lighting, and reception facilities (hut, separate 
+sanitary facilities, multi-service kiosk, and restaurant). 
+ 
+A waterfall
+Forest area
+Play Equipment
+Artificial Lake
+Figure 4. Essential components of El Meridj forest. 
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5699 
+ 
+ 
+Figure 5. Location plan and composition of the El Meridj-East recreational forest. 
+ 
+Materials and Methods 
+The methodology employed in this study was carefully 
+designed to address the research problem, utilizing 
+both traditional and modern survey approaches. This 
+study sought to gather comprehensive insights by 
+employing a social survey method, integrating both 
+questionnaire 
+administration 
+and 
+face-to-face 
+interviews. 
+Data collection 
+To conduct the survey, a total of 70 respondents 
+representing diverse households, encompassing a total 
+of 350 individuals, were selected. It is noteworthy that 
+the average family size in Algeria is approximately 5 
+people per household, as reported by the Office 
+National des Statistiques in 2021. A strategic decision 
+was made to conduct part of the survey within the 
+forest, targeting users randomly selected on-site. This 
+face-to-face approach aimed to establish a higher level 
+of certainty regarding the authenticity of each 
+respondent as a genuine user of the forest ecosystem. 
+During the face-to-face interviews, participants 
+were individually engaged to fill out questionnaires. 
+This personal interaction allowed for in-depth 
+discussions on the subject, providing a platform for 
+users to express their opinions and motivations in 
+detail. The interactive nature of this approach 
+facilitated the development of ideas, enabling us to not 
+only listen to participants but also raise awareness 
+regarding the value of the ecosystemic services 
+provided by the forest. To prevent bias and ensure 
+diversity in responses, interviews were conducted 
+separately to avoid obtaining similar answers. The 
+tangible contact with the realities of the users and on-
+the-spot interviews held significant value, contributing 
+to the richness of the gathered data (paper 
+questionnaire). 
+The second phase of the survey was conducted 
+online, spanning from the beginning of December to 
+the start of February. A quantitative questionnaire 
+tailored for forest visitors was distributed through 
+social networks such as Facebook and LinkedIn. 
+Participants were encouraged to share insights into 
+their leisure activities within the forest. The online 
+approach allowed for efficient data collection from a 
+large number of individuals, overcoming field-related 
+challenges. 
+In the final phase, all questionnaire responses 
+were meticulously entered and processed using the 
+"Sphinx Survey" software. Sphinx Survey is a 
+powerful tool designed for survey data analysis and 
+management. Its primary purpose is to facilitate a 
+systematic and comprehensive examination of 
+collected 
+responses, 
+allowing 
+for 
+a 
+nuanced 
+understanding of the survey data. The software 
+employs advanced features that streamline the 
+processing of responses. One of its key functionalities 
+is the capability for flat sorting, which involves 
+organizing responses in a straightforward manner. 
+This allows researchers to identify patterns and trends 
+within individual variables, providing a detailed 
+snapshot of the dataset. Furthermore, Sphinx Survey 
+excels in cross-sorting, a feature that enables the 
+comparison of results based on different combinations 
+of variables. This is particularly valuable in our study, 
+where we aim to explore the intricate relationships 
+between various factors influencing perceptions and 
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5700 
+ 
+behaviors toward forest ecosystems. Cross-sorting 
+enhances our ability to draw meaningful connections 
+between different aspects of the survey data. 
+The software's visualization tools play a crucial 
+role in presenting the analyzed data. By transforming 
+raw data into graphical representations, the Sphinx 
+Survey facilitates a more accessible interpretation of 
+results. Researchers can generate charts, graphs, and 
+other visual aids that contribute to a clearer 
+presentation of findings. 
+In conjunction with survey tools, this study 
+seamlessly integrated ArcGIS 10.8 software, serving 
+as a critical technical asset to expound upon the 
+complex dynamics inherent in the Constantine forest 
+landscape. By harnessing its advanced Geographic 
+Information System (GIS) capabilities, ArcGIS 
+provided an exhaustive platform for spatial analysis 
+and mapping, significantly amplifying the research's 
+depth and breadth. The software played a pivotal role 
+in presenting a geospatial perspective to specific data, 
+allowing for an enriched understanding of the studied 
+phenomena. The research used ArcGIS to create a 
+detailed cartographic representation, providing a 
+nuanced view of the spatial distribution of forest 
+heritage in Constantine. This technical approach not 
+only enhanced the exploration of forest ecosystems but 
+also identified frequented areas, revealing patterns of 
+human interaction and enriching ecological analysis 
+within the wilaya with a full spatial context. 
+Results and Discussion 
+Examination of the results revealed that 64.3% of 
+respondents, representing their families, were women, 
+while men made up the remaining 35.7%. These 
+results suggest a clear prevalence of the female 
+population, indicating that they are proportionally 
+more numerous than men, even if they are rarely 
+present alone. Forest use is, therefore, not evenly 
+distributed. The age of those interviewed varies 
+between (16-29) and (30-49), with a percentage of 
+40% for the former and 48.6% for the latter. Users 
+aged between 50 and 64 are less numerous than the 
+others, with a percentage of 11.4%. For people aged 64 
+and over, advancing age determines a decrease in 
+outings, with a percentage of 0%. These results reflect 
+the large presence of the young population in the 
+forest, but advancing age implies the appearance of 
+difficulties that are reflected in the lower levels of use, 
+as shown in Figures 6 and 7. Understanding the age 
+distribution among forest users is crucial, as it can 
+significantly impact their preferences and needs. 
+Different age groups may harbor distinct expectations 
+and experiences when interacting with a forest or green 
+space (Zhao et al., 2022). 
+ 
+1 SPC : Socio-professional class 
+ 
+Figure 6. Gender profile of interviewees. 
+ 
+ 
+Figure 7. Age categories of interviewees. 
+ 
+Face-to-face social survey- online social survey- 
+statistical data- processing results 
+Quality maintenance- A quantitative questionnaire- 
+All the information collected to understand users' 
+recreational behavior- Data analysis using Sphinx plus 
+statistical software. From a socio-professional point of 
+view, the most widespread class of interviewees is 
+senior management with 31.4%, the majority of whom 
+are doctors-pharmacists and university lecturers, 
+followed by other employees with 27.1%, students 
+with 18.6%, respondents with no activity with 15.7%, 
+most of whom are housewives, and 0% for the retired 
+and blue-collar class, see (Figure 8). Comparing 
+population figures by SPC1 shows a strong relationship 
+between intellectual level and presence in the forest, 
+which fully confirms certain findings and analyses that 
+were made as part of the sociological surveys carried 
+out by INSEE2 on recreational uses of peri-urban 
+forests, clearly showing correlations between levels or 
+types of frequentation and the profession of users 
+(Papillon, 2014). Executives, higher intellectual 
+professions, and certain elites frequented woodland 
+and forest areas more often, where they had imposed 
+their references in the face of the uses and 
+"consumption" of these areas by the more working-
+class classes. According to the researchers, blue-collar 
+2 INSEE: French National Institute for Statistics and 
+Economic Studies 
+Gender
+Nb
+% cit.
+Women
+45
+64,3%
+Men
+25
+35,7%
+Total
+70
+100,0%
+64,3%
+35,7%
+Age
+Nb
+% cit.
+From 16 to 29
+28
+40,0%
+From 30 to 49
+34
+48,6%
+from 50 to 64
+8
+11,4%
+65 years and older
+0
+0,0%
+Total
+70
+100,0%
+40,0%
+48,6%
+11,4%
+0,0%
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5701 
+ 
+workers were less frequent visitors to the woods and 
+seemed less attracted to the natural environment than 
+the elite. 
+ 
+ 
+Figure 8. Socio-professional category of interviews. 
+ 
+As confirmed in a previous survey of users of green 
+spaces in France, city dwellers in large conurbations, 
+both in the provinces and in Paris, go to the forest less 
+often than rural dwellers. Logically, city dwellers are 
+more likely to visit "parks and green spaces in the city" 
+(Granet and Dobré, 2021). In contrast, in this study 
+forest, all of the users surveyed live in urban areas, the 
+majority of them in the new town of Ali Mendjeli 
+(42.9%). These city dwellers express a clear lack of 
+natural spaces in their town, prompting them to use the 
+forest as an alternative to urban green spaces, which 
+today represent major environmental and social 
+challenges that urban planning should not ignore, 
+especially in newly-created towns such as Ali 
+Mendjeli. An equally significant 32.9% of users come 
+from the city of Constantine despite the presence of 
+several colonial gardens that may not be conducive to 
+their roles. Some users also tell us that they may need 
+a change of environment to avoid monotony and 
+routine. Only 14.3% of users live in the same 
+commune where the forest is located, which may be 
+interpreted as the presence of another peri-urban 
+forest, "Baraouia", in the commune of Elkhroub, 
+which is also very attractive in Constantine. 1.4% of 
+users questioned came from Jijel, another wilaya in 
+Algeria (Figure 9), so most regular users and some 
+visitors are not local residents of this forest but rather 
+people from nearby urban or peri-urban areas who are 
+looking for a natural environment in response to the 
+lack of green spaces in their towns. With the answers 
+to this question, the attractiveness of the forest has 
+already been indirectly measured. 
+Knowledge about gardens, parks, and forests in 
+Constantine 
+The answers to this question show that public green 
+space is a fairly important place for respondents in 
+terms of their well-being and quality of life: 52.9% 
+perceive it as a garden, 47.1% as a park, it represents 
+nature for 44.3% and a leisure space for 44.3%, it also 
+represents a forest for 37.1%, 10% gave other answers, 
+or it represents for them a soothing, relaxing and 
+restful space (Figure 10). 
+ 
+ 
+Figure 9. Interviewers' city of residence. 
+ 
+ 
+Figure 10. The perception of a public green space. 
+ 
+52.9% of respondents said they had no public green 
+spaces near their homes, indicating limited access to 
+parks and public gardens. This can be interpreted by a 
+variety of factors, such as the non-availability of free 
+land for the creation of local green spaces or urban 
+planning policies that do not sufficiently encourage 
+their development (Figure 11). 
+ 
+ 
+Figure 11. Presence of public gardens. 
+ 
+The entire survey population (100%) prefers large-
+scale nature areas such as parks and forests for a 
+variety of reasons. According to respondents, these 
+large green spaces offer more room to relax and escape 
+from hectic city life. They also attract because of their 
+natural diversity, offering a variety of flora and fauna 
+to explore. On the other hand, the feel-good factor 
+directly affects their choice of open spaces; as all 
+SPC
+Nb
+% cit.
+student
+13
+18,6%
+employee
+19
+27,1%
+worker
+0
+0,0%
+executive
+22
+31,4%
+retailer
+4
+5,7%
+retired
+0
+0,0%
+no activity
+11
+15,7%
+other
+1
+1,4%
+Total
+70
+100,0%
+18,6%
+27,1%
+31,4%
+5,7%
+15,7%
+1,4%
+City of residence
+Nb
+% cit.
+Ali MENDJELI
+30
+42,9%
+Constantine
+23
+32,9%
+El khroub
+10
+14,3%
+Ain smara
+5
+7,1%
+Didouche mourad
+1
+1,4%
+El milia jijel
+1
+1,4%
+Total
+70
+100,0%
+42,9%
+32,9%
+14,3%
+7,1%
+1,4%
+1,4%
+The perception of a public green space
+Nb
+% obs.
+garden
+37
+52,9%
+Park
+33
+47,1%
+nature
+31
+44,3%
+leisure space
+31
+44,3%
+forest
+26
+37,1%
+other
+7
+10,0%
+Total
+70
+52,9%
+47,1%
+44,3%
+44,3%
+37,1%
+10,0%
+Are there any green spaces near your home?
+Nb
+% cit.
+Don't know
+1
+1,4%
+No
+37
+52,9%
+Yes
+32
+45,7%
+Total
+70
+100,0%
+1,4%
+52,9%
+45,7%
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5702 
+ 
+respondents seek privacy and to feel comfortable and 
+free, they also look for more activity options such as 
+hiking, picnicking, and running. So, for these reasons, 
+people may find something to suit their interests in 
+large-scale green spaces, preferring them to squares 
+and small gardens (Figure 12). 
+ 
+ 
+Figure 12. Preference for large green spaces. 
+ 
+Use of the EL MERIDJ-EST recreational forest 
+Figure 13 shows that 72% of respondents have been 
+frequenting the forest for a very long time, meaning 
+that they have visited the forest regularly over an 
+extended period, with a sizeable number of 
+respondents having frequented it since childhood and 
+for many years. This could indicate that forest use in 
+adulthood is often correlated with use in childhood: 
+those who had the opportunity to go to the forest as 
+children will go to the forest more often as adults. It is 
+interesting to note the diversity of responses received 
+regarding the frequency of forest visits. Of those 
+interviewed, 35.7% visit the forest with no defined 
+frequency, 5.7% visit regularly every week, 28.6% 
+visit once a month, and 30% visit only once a year or 
+less frequently. This diversity of frequency reflects the 
+different interests and preferences of users, as well as 
+the variability of social or seasonal situations. The 
+frequency of visits serves as an indicator of stability, 
+which sheds light on the understanding of user 
+behavior (Figure 14). 
+ 
+ 
+Figure 13. Beginning of forest frequentation by users. 
+ 
+As soon as the weather is fine (95.7%) in spring and 
+summer (34.3%), the interviewees come to enjoy the 
+good weather. These seasons, which are generally 
+considered pleasant for enjoying nature, attract more 
+visitors. The presence of special events or activities 
+during these seasons, such as guided hikes or 
+educational programs, also contributes to the 
+attractiveness of the forest. So, favorable weather 
+directly determines forest visits (Figure 15). 
+ 
+ 
+Figure 14. Frequency of visits to the forest. 
+ 
+ 
+Figure 15. Time frequency. 
+ 
+The majority of visitors (65.7%) spend a considerable 
+amount of time in the forest, with visits lasting more 
+than 2 hours, while (31.4%) of the sample spend 
+between one and 2 hours. Despite a lack of precision 
+in terms of time spent in the forest, the inclusion of 
+three headings ensures that the data is not distorted and 
+also highlights the major social trends that emerge 
+from the analysis of the survey results. According to 
+these results, it is important to monitor the amount of 
+time spent in the forest to avoid over-frequentation to 
+the detriment of the ecosystem. Managers need to take 
+measures to regulate visiting time, such as setting 
+capacity limits or implementing rotation systems to 
+enable all visitors to enjoy the space (Figure 16). 
+ 
+ 
+Figure 16. Time spent in the forest by users. 
+A relatively high proportion of users say they come 
+"most often with family" (87.1%), while the remaining 
+(12.9%) come with friends, who are mostly men, and 
+much less often walk alone (0%) (Figure 17). During 
+the interviews, users explained that the forest has 
+become a family area par excellence, particularly 
+Do you prefer large natural areas (parks and forests)?
+Nb
+% cit.
+Yes
+70
+100,0%
+No
+0
+0,0%
+Total
+70
+100,0%
+100,0%
+0,0%
+beginning of forest frequentation by users
+Nb
+% cit.
+recently
+2
+2,9%
+not long ago
+17
+24,3%
+for a very long time
+51
+72,9%
+Total
+70
+100,0%
+2,9%
+24,3%
+72,9%
+Number of frequencies
+Nb
+% cit.
+Once a week
+4
+5,7%
+Twice a week
+0
+0,0%
+more than three times a week
+0
+0,0%
+once a month
+20
+28,6%
+once a year
+21
+30,0%
+other
+25
+35,7%
+Total
+70
+100,0%
+5,7%
+0,0%
+0,0%
+28,6%
+30,0%
+35,7%
+Time frequency
+Nb
+% obs.
+In the spring
+67
+95,7%
+In the summer
+24
+34,3%
+In the autumn
+21
+30,0%
+In the w inter
+8
+11,4%
+Total
+70
+95,7%
+34,3%
+30,0%
+11,4%
+ Time spent in the forest
+Nb
+% cit.
+less than 30 minutes
+2
+2,9%
+Between 1 and 2 hours
+22
+31,4%
+More than 2 hours
+46
+65,7%
+Total
+70
+100,0%
+2,9%
+31,4%
+65,7%
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5703 
+ 
+following its redevelopment in 2012. The examination 
+of this variable reveals similar results to a comparable 
+study carried out in forests in France. In accordance 
+with the survey of visitors to outdoor leisure centers in 
+the Paris region, conducted under the supervision of 
+the Comité régional du tourisme between 2008 and 
+2010, this study can better define the profile of the 
+visitors. The vast majority, whatever the time of year, 
+come in company, mainly families (Bertrand and 
+Prédali, 2019). 
+. 
+ 
+Figure 17. How you are accompanied in the forest. 
+ 
+This study noticed in the field that women and men do 
+not frequent the forest in the same way, but to confirm 
+this, this study refined across-analysis with sphinx 
+software, where it was possible to cross-reference 
+several questions (for example, to find out the type of 
+company in the forest according to gender). Women go 
+there more often with family (72.1%), while men go 
+there more often with friends (88.9%) (Figure 18). 
+ 
+ 
+Figure 18. With whom accompanied in the forest 
+(gender). 
+ 
+In some highly urbanized areas of developed countries, 
+the attractiveness of green spaces and woodlands has 
+been measured by distance. Pedestrians are more 
+inclined to visit green spaces within 250 meters (for 30 
+hectares) or 1000 meters (for more than 30 hectares). 
+Motorists generally travel up to 5 kilometers, but 
+outings exceeding 15 minutes are mainly reserved for 
+weekends (Granet and Dobré, 2021), so these 
+measures have never been addressed as a priority by 
+woodland managers in the city of Constantine. The 
+aim of this study was to determine whether proximity 
+to the forest influences user attendance, as well as to 
+identify other factors that might influence this high 
+recreational attendance. One of the main questions 
+asked in the survey was how long it takes users to reach 
+the forest from their homes. Given that this parameter 
+is an effective indicator of the attractiveness of 
+woodland areas. 
+58.6% took less than 30 minutes to reach the forest, 
+25.7% took around an hour, and 7.1% took more than 
+an hour. So, the longer it takes to reach the forest, the 
+lower the percentage of users or respondents (Figure 
+19), and the further away the forest user's home is. 
+Except for that 8.6% who take just under 15 minutes 
+to get there (a negative correlation where the time 
+variable to reach the forest increases, the number of 
+users decreases), However, these quantitative figures 
+confirm the general trend in the use of peri-urban 
+woodlands in large foreign cities, where the level of 
+use is at least partly linked to the spatial or temporal 
+proximity of the woodlands. 
+ 
+ 
+Figure 19. Time to get to the forest. 
+ 
+In this research, three headings were used to determine 
+the approximate time spent in the forest, given that 
+users rarely check precisely how much time they spend 
+out, so despite a lack of precision, taking into account 
+three headings enabled us to avoid distorting the data. 
+Analysis of the responses shows that 65.7% of those 
+questioned say they stay "more than 2 hours" in the 
+forest, 31.4% stay between "1 and 2 hours" and only 
+2.9% make a short visit of "less than 30 minutes" 
+(Figure 20). These figures show the opposite situation 
+to that of recreational and state-owned forests in 
+developed countries, where the presence of local parks 
+and natural areas alleviates the pressure of 
+frequentation in these peri-urban forests, as they can 
+be seen in this research. In this case study, these long-
+duration visits can lead to a number of negative 
+consequences, 
+such 
+as 
+ecosystem 
+disturbance, 
+degradation of air quality, and the risk of fire. This 
+calls for urgent action on the part of the organizations 
+concerned to ensure that recreational outings in the 
+forest are properly managed. A correlation analysis 
+carried out with Sphinx between the travel time 
+variable and the duration of time spent in the forest 
+variable showed that the duration of visits does not 
+respond to any logic linking it to travel time but to the 
+choices and activities of users. In other words, Ya 
+shows zero correlation between the two variables. 
+All forest users come by car (100%) (Figure 21). 
+The majority of these users have a profile 
+corresponding to those who own a private car or who 
+have access to a car to get to the site. This indicates 
+that the forest is located in a remote area where it is 
+difficult to get around other than by car, as no public 
+transport is available to get there. Thus, owning a car 
+How you are acompanied in the forest
+Nb
+% cit.
+Alone
+0
+0,0%
+With your family
+61
+87,1%
+With friends
+9
+12,9%
+Total
+70
+100,0%
+87,1%
+12,9%
+Forest company by gender
+Women
+Men
+0%
+50%
+100%
+64,3%
+35,7%
+88,9%
+72,1%
+Alone
+100,0%
+With your family
+100,0%
+With friends
+100,0%
+Total
+100,0%
+Time to reach the forest
+Nb
+% cit.
+Less than 15 minutes
+6
+8,6%
+Less than 30 minutes
+41
+58,6%
+Less than hour
+18
+25,7%
+More than an hour
+5
+7,1%
+Total
+70
+100,0%
+8,6%
+58,6%
+25,7%
+7,1%
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5704 
+ 
+or other means of transport is a major determining 
+factor in the use of El Meridj. 
+ 
+ 
+Figure 20. Time spent in the forest in a function of 
+time of traveling. 
+ 
+ 
+Figure 21. Means of transport to reach the forest. 
+ 
+In this case, it is necessary to propose shuttle and car-
+sharing services as well as the inclusion of forest 
+accessibility in future tramway circuit extensions to 
+encourage more sustainable transport. These proposals 
+are also being implemented in several developed 
+countries, where strategies dedicated to leisure traffic 
+are being drawn up, notably in Switzerland and France. 
+This is due to the persistent problem of total absence, 
+as in our case, or lack of public transport serving 
+leisure areas (Lorenzi and Schild, 2002). 
+What brings you to ElMeridj forest (usage) 
+To better understand the meaning of the forest outing, 
+this study was interested in understanding the 
+motivations of the interviewees. The answers will help 
+us to identify users' expectations and adapt the services 
+and activities on offer accordingly. In addition, 
+individual preferences may be further influenced by 
+factors such as visibility, accessibility and safety of 
+forests, isolation, and lack of nearby public gardens 
+(Wajchman-Switalska et al., 2021). Respondents were 
+provided with a list of purposes for their visit, 
+accompanied by intensity scales, enabling us to 
+measure the importance of each objective for users. 
+Data presented in Figure 22 show that 50% of 
+users find "walking" in the forest important, a popular 
+and varied activity that includes walks, strolls and 
+observations of plants and animals. All these activities 
+fall into the broad category of "walking" in the forest. 
+40% of respondents consider the purpose of 
+"picnicking" to be important. They said that the 
+presence 
+of 
+picnic 
+areas 
+and 
+other 
+related 
+infrastructure is important in meeting their needs. This 
+variable has also shown statistical significance in other 
+previous research. 
+ 
+ 
+Figure 22. What brings people to the forest. 
+Same, a study carried out in the city of Cáceres in 
+Spain also found that the variable in question had a 
+significant percentage of forest use, reinforcing the 
+consistency of results between different research 
+studies (Rey Gozalo et al., 2019). 51.4% of 
+respondents consider the purpose of "resting" 
+Time spent in forest in function of time of tavelling
+less than 30 minutes
+Between 1 and 2 hours
+More than 2 hours
+0%
+20%
+40%
+60%
+80% 100%
+31,4%
+65,7%
+40%
+60%
+33,3%
+55,6%
+29,3%
+70,7%
+33,3%
+66,7%
+Less than 15 minutes
+100,0%
+Less than 30 minutes
+100,0%
+Less than hour
+100,0%
+More than an hour
+100,0%
+Total
+100,0%
+Means of transport to reach the forest
+Nb
+% cit.
+by car
+70
+100,0%
+by public transport
+0
+0,0%
+on foot
+0
+0,0%
+by bicycle
+0
+0,0%
+Total
+70
+100,0%
+100,0%
+Purposes for which people visit the town
+No importance
+Less important
+Important
+Very important
+Highly important
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%100,0%
+32,4%
+17,4%
+29,6%
+7,3%
+13,3%
+24,3%
+31,4%
+28,6%
+10%
+27,1%
+21,4%
+30%
+18,6%
+7,1% 11,4%
+44,3%
+10%
+27,1%
+25,7%
+18,6%
+24,3%
+12,9%
+18,6%
+84,3%
+14,3%
+52,9%
+27,1%
+17,1%
+72,9%
+17,1%
+7,1%
+51,4%
+12,9%
+28,6%
+18,6%
+18,6%
+40%
+11,4%
+11,4%
+7,1% 11,4%
+51,4%
+11,4%
+18,6%
+Make a promenade
+100,0%
+picnic
+100,0%
+ rest
+100,0%
+ work outdoors
+100,0%
+read
+100,0%
+siesta
+100,0%
+children's games
+100,0%
+isolation, contact with nature
+100,0%
+no gardens near you
+100,0%
+close to the city
+100,0%
+Total
+100,0%
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5705 
+ 
+important, indicating that many visitors seek to use the 
+forest as a place to relax. For 26.6% of respondents, 
+this purpose is extremely important, showing that 
+relaxation and tranquillity are a top priority for a 
+quarter of visitors, offering a refuge from the hustle 
+and bustle of urban life. A large proportion of users 
+(72.9%) and 52.9% declare that outdoor work and 
+reading 
+are 
+unimportant. 
+However, 
+7.1% 
+of 
+respondents, such as scientists or students, attach 
+importance to these activities for conducting fieldwork 
+as part of their work or research. 
+It seems that among those interviewed, 25.3% 
+consider the purpose of "enjoying children's play" to 
+be unimportant. However, 24.3% consider it 
+important, and (8.6% consider it extremely important). 
+During interviews on this topic, respondents raised 
+concerns about the degraded condition of children's 
+play areas in the forest, which limits their use and 
+compromises the experience of users, particularly 
+children. 44.3% of respondents attach importance to 
+the aspect of isolation and contact with nature in their 
+choice to frequent the study area. A further 10% 
+consider this reason to be very important, while 27.1% 
+rate it as extremely important. This suggests a need to 
+detach oneself from the hectic pace of urban life and 
+recharge one's batteries in a natural environment far 
+from the hustle and bustle of the city. To assess users' 
+level of awareness, this study sought to gather 
+information on their awareness of the services 
+provided by forests, the need to protect them, and their 
+knowledge of forest biodiversity. The results are 
+considered positive, with the vast majority of 
+respondents (92.9%) aware of the need to protect 
+forests for the environment (Figure 23) and an equally 
+large proportion (98.6%) aware of the biological 
+diversity present in forests and the importance of 
+preserving it to ensure the sustainability of ecosystems 
+and the survival of species (Figure 24). 
+ 
+ 
+Figure 23 Users' awareness of forest services. 
+ 
+ 
+Figure 24. Users' knowledge of forest ecosystems. 
+Conclusion 
+The El Meridj peri-urban forest, established as the 
+most visited site in Constantine's forest system, offers 
+a rich diversity of cultural ecosystem services, 
+including recreational, physical, and educational 
+activities, firmly solidifying its position as a premier 
+destination for nature-based tourism in the Wilaya of 
+Constantine. This study meticulously identified 
+various variables, such as the absence of nearby urban 
+green spaces, plant density, the forest's expansive size, 
+and proximity to the city. The significance of these 
+factors was thoroughly discussed, leveraging both 
+quantitative 
+and 
+qualitative 
+statistical 
+data. 
+Representing one of the pioneering research endeavors 
+in Algeria, this study comprehensively examined and 
+evaluated 
+the 
+recreational 
+use 
+of 
+peri-urban 
+woodlands. The outcomes of this research present a 
+promising opportunity to address the persistent 
+challenge of non-functional urban green spaces in 
+Constantine. By using these findings as a guide, 
+practitioners can explore innovative solutions to 
+rejuvenate and enhance the functionality of green 
+spaces, aligning urban development with community 
+needs and enhancing the overall quality of life for 
+residents. Consequently, this study makes a substantial 
+contribution to addressing tangible urban challenges. 
+Future urban planning and research practices should 
+adopt a perspective that considers the impact of 
+intensive natural environment use on wildlife. Regular 
+studies in this context can assist in identifying animal 
+and plant species most susceptible to human activities, 
+facilitating adjustments in Algerian policies and 
+practices to accommodate evolving ecosystem needs. 
+Acknowledgment 
+The authors would like to express their sincere gratitude to 
+Dr. Laafer Abdelkader from Blida 1 University, Ovamus 
+Laboratory, for his invaluable assistance and invaluable 
+support during the final phases of the development of this 
+work. His enlightened advice, expertise, and dedication 
+greatly enriched our research. 
+References 
+Ali-Khoudja, A. 2010. Urban Planning: the problem of urban 
+green space in the city of Constantine. Science & 
+Technologie D-no 32:9-18 (in French). 
+Benghadbane, F. and Khreis, S. 2019. The role of tourism 
+marketing in enhancing tourism development: a 
+comparative study between Constantine and Amman 
+cities. GeoJournal of Tourism and Geosites 24(1):146-
+160, doi:10.30892/gtg.24112-349. 
+Benmechiche, M., Naidja, A. and Bennacer, L. 2022. 
+Exploratory study of the use and perception of green 
+spaces by the inhabitants, the case of Constantine. 
+International Journal of Innovative Studies in Sociology 
+and 
+Humanities 
+7(4):35-45, 
+doi:10.20431/2456-
+4931.0704004. 
+Bertrand J. and Prédali F. 2019, Improve Service to Leisure 
+Islands. IAU IDF (in French). 
+Ecosystem and forestry services awarene
+Nb
+% cit.
+Yes
+65
+92,9%
+No
+5
+7,1%
+Total
+70
+100,0%
+92,9%
+7,1%
+Did you know that the forest is an
+ecosystem that shelters several species of
+plants and animals that are sometimes rare
+and endangered?
+Nb
+% cit.
+Yes
+69
+98,6%
+No
+1
+1,4%
+Total
+70
+100,0%
+98,6%
+1,4%
+
+C. Bouttaba et al. / Journal of Degraded and Mining Lands Management 11(3):5695-5706 (2024) 
+ 
+Open Access 5706 
+ 
+Cassford, G. and Muhar, A. 2023. Monitoring options for 
+visitor numbers in national parks and natural areas. 
+Journal for Nature Conservation 11(4):240-250, 
+doi:10.1078/1617-1381-00055. 
+Clergeau, P. and Machon, N. 2014. Where biodiversity is 
+hidden in the city. Versailles: Qua Forest conservation. 
+Conservation des foréts, 2023. Constantine: Forest 
+conservation, Constantine (in French) 
+Cueva, J., Almeida, I., Fröhlich, K., Dermann, A.F., 
+Dermann, F., Köhler, M., Großmann, J., Meier, W., 
+Bauhus, J., Schroeder, D., Sardemann, G., Thomas, C., 
+Romero, A. and Saha, S. 2022. Synergies and trade-offs 
+in ecosystem services from urban and peri-urban forests 
+and their implication to sustainable city design and 
+planning. Sustainable Cities and Society 82(12):103903, 
+doi:10.1016/j.scs.2022.103903. 
+Gherraz, H. 2021. The impact of green space on the urban 
+microclimate and the use of outdoor spaces (Case of the 
+city of Constantine). Constantine, Algeria: Mohamed 
+Khider-Biskra University (in French). 
+Granet, A.M. and Dobré, M. 2021. City dwellers and the 
+forest in France. Revue Forestière Française 61(5):521-
+534 (in French). 
+Haichour, S. and Benabdeli, K. 2022. Algeria’s forest 
+ecosystem in the face of anthropogenic and climatic 
+pressures. Geo-Eco-Trop 46(1):109-124. 
+Kefale, A., Fetene, A. and Desta, H. 2023. Users’ 
+preferences and perceptions towards urban green spaces 
+in rapidly urbanized cities: The case of Debre Berhan 
+and Debre Markos, Ethiopia. Helyon 9(4):e15262, 
+doi:10.1016/j.heliyon.2023.e15262. 
+Lorenzi, R. and Schild, P. 2002. Leisure transport strategy. 
+Federal Council report on the strategy for sustainable 
+leisure transport in fulfillment of postulate 02.3733, 
+Peter Bieri from December 12, 2002 (in German). 
+Maseko, M.S.T., Zungu, M.M., Gumede, T.S. and Downs, 
+C.T. 2023. Occupancy and detectability of African 
+crowned eagles in an urban mosaic landscape: The 
+importance of natural forest areas. Urban Forestry & 
+Urban 
+Greening 
+85:127976, 
+doi:10.1016/j.ufug.2023.127976. 
+
+
+…[본문 이후 절단 — 필요 시 원문 PDF 참조]

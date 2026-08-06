@@ -1,0 +1,3 @@
+no,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+166,quantitative non-randomised,Y,Y,N,Y,Y,Y,Y,4,high,노출(구간 환경)은 무작위 아님 - 방향(2.1.4)과 지시문(4.1.3)만 무작위이므로 RCT 아닌 non-randomised. 전문 확인으로 Study 2 평정자=Study 1 참가자 전원(3.1.1)이고 Lday 50-60/50-55 dBA 소음지도값 제시(5절)임이 드러남. 잔여 약점은 단일 대학 학부생 편의표본
+322,quantitative descriptive,Y,Y,Y,Y,Y,N,N,3,moderate,"객관 음향 실측+주관 설문이나 둘 다 정량이므로 mixed 아님. 상관 분석단위를 표본지점 값이라 밝히면서도(2절) 지점 수와 지점별 집계 절차를 전문 어디에도 보고하지 않음 - 절단 아닌 실제 미보고. 유의 임계(r=0.36 n.s./0.37 *, 0.47 */0.48 **)는 n=29를 시사해 보고된 105명과 불일치하며 검정력 0.94 주장의 근거 n과도 어긋남. 응답률 25%, 다중비교 보정 없음"
