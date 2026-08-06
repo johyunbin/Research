@@ -27,6 +27,11 @@ FIGDIR = os.path.join(BASE, "figures")
 FONT = "Times New Roman"
 FONT_EA = "바탕"   # 한글 본문(paper31 Normal 스타일과 동일 계열)
 SZ_TITLE, SZ_BODY, SZ_TABLE = 16, 12, 11
+LS_BODY, LS_HEAD = 2.0, 1.5      # paper31 실측 — 본문 더블·제목 1.5
+FIRST_INDENT = 0.2               # 본문 첫 줄 들여쓰기(in)
+# 그림별 삽입 폭(in) — 세로로 긴 도면은 좁게 넣어야 한 쪽에 들어간다
+FIG_W = {"Fig1_PRISMA": 5.9, "Fig2_Forest": 5.6, "Fig6_Framework": 5.4,
+         "Fig7_GeoTime": 5.0, "Fig8_Quality": 5.9}
 
 # 그림 캡션 — ★숫자는 figures/fig_data.json 에서 읽는다(캡션도 하드코딩하지 않는다).
 import json as _json
@@ -144,19 +149,39 @@ def add_rich(p, text, size=SZ_BODY, base_bold=False):
 
 
 def para(doc, text="", size=SZ_BODY, bold=False, align=None, indent=None,
-         space_after=0, space_before=0):
+         space_after=0, space_before=0, line_spacing=LS_BODY, first_indent=None):
+    """paper31 실측 기본값: 본문 줄간격 2.0(더블) · 첫 줄 들여쓰기 0.2in."""
     p = doc.add_paragraph()
     pf = p.paragraph_format
-    pf.line_spacing = 1.0
+    pf.line_spacing = line_spacing
     pf.space_after = Pt(space_after)
     pf.space_before = Pt(space_before)
     if align is not None:
         p.alignment = align
     if indent is not None:
         pf.left_indent = Inches(indent)
+    if first_indent is not None:
+        pf.first_line_indent = Inches(first_indent)
     if text:
         add_rich(p, text, size, base_bold=bold)
     return p
+
+
+def figure(doc, name, num):
+    """본문에서 그림을 인용한 자리에 이미지 + 캡션을 넣는다(paper31 배치와 동일)."""
+    png = os.path.join(FIGDIR, name + ".png")
+    if not os.path.exists(png):
+        print(f"  ⚠️ 그림 없음: {name}.png"); return False
+    pic = doc.add_paragraph()
+    pic.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    pic.paragraph_format.line_spacing = LS_BODY
+    pic.paragraph_format.space_before = Pt(10)
+    pic.paragraph_format.space_after = Pt(4)
+    pic.add_run().add_picture(png, width=Inches(FIG_W.get(name, 5.7)))
+    cap = para(doc, "", SZ_TABLE, space_after=12, line_spacing=1.0)
+    set_run(cap.add_run(f"Fig. {num}. "), SZ_TABLE, bold=True)
+    add_rich(cap, CAPTIONS[name], SZ_TABLE)
+    return True
 
 
 def enable_line_numbers(section):
@@ -185,7 +210,7 @@ def md_table(doc, lines):
             p.paragraph_format.line_spacing = 1.0
             p.paragraph_format.space_after = Pt(0)
             add_rich(p, row[j] if j < len(row) else "", SZ_TABLE, base_bold=(i == 0))
-    para(doc, "", SZ_TABLE)
+    para(doc, "", SZ_TABLE, line_spacing=1.0, space_after=6)
 
 
 def main():
@@ -195,7 +220,7 @@ def main():
     st = doc.styles["Normal"]
     st.font.name = FONT
     st.font.size = Pt(SZ_BODY)
-    st.paragraph_format.line_spacing = 1.0
+    st.paragraph_format.line_spacing = LS_BODY
     st.paragraph_format.space_after = Pt(0)
     rf = st.element.rPr.rFonts
     for a in ("w:ascii", "w:hAnsi", "w:cs"):
@@ -209,7 +234,7 @@ def main():
     enable_line_numbers(s)
 
     lines = md.split("\n")
-    i, n_tbl, n_head = 0, 0, 0
+    i, n_tbl, n_head, n_fig = 0, 0, 0, 0
     # 작업용 머리말(투고본에 실리지 않는 메타)은 제외한다
     SKIP_META = re.compile(r"^\*\*(Target journal|Registration|Draft)\*\*")
     # ⚠️ 로 시작하는 작업 메모는 투고본에 넣지 않는다(원본 md 에는 남는다)
@@ -245,11 +270,13 @@ def main():
             continue
         if st_ln.startswith("### "):                                 # 3수준 절
             n_head += 1
-            para(doc, st_ln[4:], SZ_BODY, bold=True, space_before=10, space_after=4)
+            para(doc, st_ln[4:], SZ_BODY, bold=True, space_before=12, space_after=4,
+                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.LEFT)
             i += 1; continue
         if st_ln.startswith("## "):                                  # 2수준 절
             n_head += 1
-            para(doc, st_ln[3:], SZ_BODY, bold=True, space_before=12, space_after=5)
+            para(doc, st_ln[3:], SZ_BODY, bold=True, space_before=16, space_after=6,
+                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.LEFT)
             i += 1; continue
         if st_ln in ("---", "***") or SKIP_META.match(st_ln):
             i += 1; continue
@@ -259,7 +286,7 @@ def main():
                 buf.append(lines[i].strip().lstrip(">").strip()); i += 1
             txt = " ".join(buf)
             if not WORKNOTE.search(txt):
-                para(doc, txt, SZ_TABLE, indent=0.3, space_after=6)
+                para(doc, txt, SZ_TABLE, indent=0.3, space_after=6, line_spacing=1.15)
             continue
         if st_ln.startswith("|"):                                    # 표
             buf = []
@@ -275,36 +302,36 @@ def main():
                 while i < len(lines) and lines[i].startswith("  ") and lines[i].strip() \
                         and not re.match(r"^\s*([-*]|\d+\.)\s+", lines[i]):
                     item += " " + lines[i].strip(); i += 1
-                para(doc, "• " + item, SZ_BODY, indent=0.25, space_after=2)
-            para(doc, "", SZ_BODY, space_after=4)
+                para(doc, item, SZ_BODY, indent=0.42, first_indent=-0.31,
+                     space_before=0, space_after=8, line_spacing=LS_HEAD)
             continue
         if not st_ln:
+            i += 1; continue
+
+        m = re.match(r"^<<FIG:(\w+)>>$", st_ln)                       # 본문 내 그림 삽입
+        if m:
+            n_fig += 1
+            if not figure(doc, m.group(1), n_fig):
+                n_fig -= 1
             i += 1; continue
 
         buf = [st_ln]                                                 # 본문 문단(줄바꿈 병합)
         i += 1
         while i < len(lines) and lines[i].strip() and not re.match(
-                r"^\s*(#{1,6}\s|\||>|[-*]\s|\d+\.\s|---)", lines[i]):
+                r"^\s*(#{1,6}\s|\||>|[-*]\s|\d+\.\s|---|<<FIG:)", lines[i]):
             buf.append(lines[i].strip()); i += 1
-        para(doc, " ".join(buf), SZ_BODY, space_after=6)
+        # 표/그림 캡션 문단은 들여쓰기 없이 단일 간격
+        txt = " ".join(buf)
+        if re.match(r"^\*\*(Table|Fig)", txt):
+            para(doc, txt, SZ_TABLE, space_before=8, space_after=4, line_spacing=1.0)
+        else:
+            para(doc, txt, SZ_BODY, space_after=0, first_indent=FIRST_INDENT)
 
-    # ── 그림 ──────────────────────────────────────────────────────
-    doc.add_page_break()
-    para(doc, "Figures", SZ_BODY, bold=True, space_after=8)
-    n_fig = 0
-    for k, name in enumerate(sorted(CAPTIONS), 1):
-        png = os.path.join(FIGDIR, name + ".png")
-        if not os.path.exists(png):
-            print(f"  ⚠️ 그림 없음: {name}.png"); continue
-        pic = doc.add_paragraph()
-        pic.alignment = WD_ALIGN_PARAGRAPH.CENTER
-        pic.paragraph_format.space_before = Pt(12)
-        pic.paragraph_format.space_after = Pt(3)
-        pic.add_run().add_picture(png, width=Inches(5.6))
-        cap = para(doc, "", SZ_TABLE, space_after=10)
-        set_run(cap.add_run(f"Fig. {k}. "), SZ_TABLE, bold=True)
-        add_rich(cap, CAPTIONS[name], SZ_TABLE)
-        n_fig += 1
+    # 본문에서 인용되지 않은 그림이 남았는지 — 조용히 빠지지 않게 한다
+    used = set(re.findall(r"<<FIG:(\w+)>>", md))
+    left = [k for k in CAPTIONS if k not in used]
+    if left:
+        print(f"  ⚠️ 본문에 삽입되지 않은 그림: {left}")
 
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     tag = "KO" if "_KO" in os.path.basename(SRC) else "EN"

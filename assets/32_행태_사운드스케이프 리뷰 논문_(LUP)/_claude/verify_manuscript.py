@@ -105,8 +105,10 @@ def main():
     ok, bad = [], []
     for label, val in facts.items():
         name = re.sub(r"\s*\d+$", "", label)
-        # 숫자가 원고 어딘가에 단어 경계로 있는가(천단위 콤마 표기도 허용)
-        pats = [rf"\b{val}\b", rf"\b{val:,}\b"]
+        # 숫자가 원고 어딘가에 있는가(천단위 콤마 허용).
+        # ⚠️ 한글본에서는 "113건"처럼 숫자 뒤에 한글이 붙어 `\b`가 성립하지 않는다.
+        #    앞뒤 경계를 "숫자가 아닌 것"으로 완화한다.
+        pats = [rf"(?<!\d){val}(?!\d)", rf"(?<!\d){val:,}(?!\d)"]
         found = any(re.search(p, ms) for p in pats)
         (ok if found else bad).append((name, val))
 
