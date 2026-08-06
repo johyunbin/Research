@@ -1,8 +1,8 @@
 ﻿kind,key,sub,n
-country,China,,40
-country,United Kingdom,,7
+country,China,,38
 country,Spain,,7
-country,Germany,,6
+country,United Kingdom,,6
+country,Germany,,5
 country,Italy,,4
 country,Australia,,4
 country,Czechia,,4
@@ -46,7 +46,7 @@ year,2016,both,1
 year,2016,reverse,1
 year,2017,reverse,1
 year,2017,both,1
-year,2018,forward,5
+year,2018,forward,4
 year,2018,reverse,2
 year,2019,reverse,2
 year,2019,forward,2
@@ -57,14 +57,14 @@ year,2021,reverse,6
 year,2021,both,1
 year,2021,forward,4
 year,2022,reverse,7
-year,2022,forward,4
+year,2022,forward,3
 year,2023,reverse,3
 year,2023,forward,7
 year,2024,both,2
 year,2024,reverse,2
-year,2024,forward,9
+year,2024,forward,8
 year,2025,forward,7
 year,2025,reverse,3
-year,2025,both,2
+year,2025,both,1
 year,2026,reverse,2
 year,2026,forward,9

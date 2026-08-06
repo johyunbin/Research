@@ -12,7 +12,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 FT = os.path.join(BASE, "fulltext")
 MA = os.path.join(FT, "ma")
 DEFAULT_MS = os.path.join(os.path.dirname(BASE), "01_논문작업",
-                          "Manuscript_EN_20260806_draft.md")
+                          "Manuscript_EN_20260806_r2.md")
 
 
 def rd(p):
@@ -109,8 +109,8 @@ def main():
         found = any(re.search(p, ms) for p in pats)
         (ok if found else bad).append((name, val))
 
-    must = {"코퍼스 96": r"\b96\b", "DB 갈래 81": r"\b81\b", "인용추적 15": r"\b15\b",
-            "현장실험 비율 18%": r"18%", "역방향 비율 40%": r"40%"}
+    must = {"코퍼스 98": r"\b98\b", "DB 갈래 81": r"\b81\b", "인용추적 15": r"\b15\b",
+            "보조검색 2": r"\btwo\b", "현장조작 비율 19%": r"19%", "역방향 비율 40%": r"40%"}
     missing = [k for k, pat in must.items() if not re.search(pat, ms)]
 
     # 메타분석 수치가 원고와 일치하는가

@@ -54,6 +54,11 @@ def norm_countries(raw):
 
 def main():
     rows = list(csv.DictReader(open(os.path.join(FT, "corpus_v4_extraction.csv"), encoding="utf-8-sig")))
+    # ⚠️ 민감도 전용 4편을 섞으면 그림과 본문이 다른 분모를 쓴다(독립 게이트 지적).
+    #    본문 §3.2와 같은 FINAL_INCLUDE 98편으로 맞춘다.
+    verd = {r["uid"]: r["final_verdict"] for r in
+            csv.DictReader(open(os.path.join(FT, "corpus_v4_verdicts.csv"), encoding="utf-8-sig"))}
+    rows = [r for r in rows if verd.get(r["uid"]) == "FINAL_INCLUDE"]
     from collections import Counter, defaultdict
     cc, unmapped = Counter(), Counter()
     for r in rows:
