@@ -92,8 +92,8 @@ def main():
         ("Avoid",       "speed up · leave",   "MA1   k = 4", "g = −0.50",     "low 4 / 4",      4),
         ("Pass",        "walk through",       "no pooling",  "narrative only", "—",             0),
         ("Linger",      "stay · sit",         "MA2   k = 3", "g = +0.31",     "high 1 · mod 2", 3),
-        ("Interact",    "talk · group",       "MA3   k = 3", "g = +0.57",     "high 2 · mod 1", 3),
-        ("Appropriate", "occupy · use space", "MA4   k = 5", "r = +0.43",     "high 1 · mod 3", 5),
+        ("Interact",    "talk · group",       "MA3   k = 4", "g = +0.65 *",   "high 2 · mod 2", 4),
+        ("Appropriate", "occupy · use space", "MA4   k = 7", "r = +0.41 **",  "high 2 · mod 4", 7),
     ]
     n = len(steps); gap = 1.6
     wstep = (GX1 - GX0 - gap * (n - 1)) / n
@@ -106,7 +106,7 @@ def main():
 
     for i, (name, sub, kline, eline, q, k) in enumerate(steps):
         x0 = GX0 + i * (wstep + gap)
-        col = T.SEQ(0.14 + 0.58 * (k / 5))
+        col = T.SEQ(0.14 + 0.58 * min(k / 7, 1.0))
         fg = T.SURF if k >= 3 else T.INK
         fg2 = "#e9f1fc" if k >= 3 else T.INK2
         ax.add_patch(Rectangle((x0, GY - 6.5), wstep, 13.0, facecolor=col,
@@ -123,7 +123,7 @@ def main():
         ax.text(x0 + wstep / 2, GY - 9.0, q, ha="center", va="center", fontsize=6.9,
                 color=T.INK2, zorder=5)
 
-    ax.text(GX0, GY - 12.4, "Band shading = number of pooled effect sizes (k). "
+    ax.text(GX0, GY - 12.4, "Band shading = number of pooled effect sizes (k); * p < .05, ** p < .01. "
             "Text below each band = MMAT quality of the contributing studies.",
             fontsize=6.9, color=T.INK2, ha="left")
     ax.text(GX0, GY - 15.0, "All four walking-speed effects come from low-quality studies — "
@@ -143,7 +143,7 @@ def main():
     # 카운트는 Table 1의 measure_gen에서 산출(하드코딩 금지 — Fig 5와 같은 규칙).
     from collections import Counter
     gc = Counter()
-    with open(os.path.join(FT, "table1_study_characteristics.csv"), encoding="utf-8-sig") as f:
+    with open(os.path.join(FT, "table1_v2.csv"), encoding="utf-8-sig") as f:
         import csv as _csv
         for r in _csv.DictReader(f):
             for g in (x.strip() for x in r["measure_gen"].split(";")):

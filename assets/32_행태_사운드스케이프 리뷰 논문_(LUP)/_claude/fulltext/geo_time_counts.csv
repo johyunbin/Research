@@ -1,23 +1,23 @@
 ﻿kind,key,sub,n
-country,China,,34
-country,United Kingdom,,6
-country,Germany,,4
+country,China,,40
+country,United Kingdom,,7
+country,Spain,,7
+country,Germany,,6
 country,Italy,,4
 country,Australia,,4
-country,Spain,,4
+country,Czechia,,4
+country,United States,,3
 country,Iran,,3
 country,Netherlands,,3
+country,Canada,,3
+country,Ireland,,3
 country,Not reported,,2
 country,France,,2
-country,United States,,2
 country,Sweden,,2
 country,Switzerland,,2
 country,Portugal,,2
-country,Czechia,,2
-country,Canada,,2
 country,South Korea,,2
 country,Algeria,,2
-country,Ireland,,2
 country,Norway,,1
 country,Greece,,1
 country,Brazil,,1
@@ -31,36 +31,39 @@ country,Malaysia,,1
 country,Argentina,,1
 country,Bulgaria,,1
 country,Türkiye,,1
+year,1975,forward,1
 year,1978,forward,1
 year,1988,forward,1
 year,2004,forward,1
 year,2007,forward,1
 year,2010,forward,1
 year,2010,reverse,1
-year,2014,forward,1
+year,2014,forward,2
+year,2014,reverse,1
 year,2016,forward,2
 year,2016,both,1
 year,2016,reverse,1
 year,2017,reverse,1
 year,2017,both,1
-year,2018,forward,4
+year,2018,forward,5
 year,2018,reverse,2
 year,2019,reverse,2
 year,2019,forward,2
-year,2019,both,1
+year,2019,both,2
 year,2020,reverse,2
 year,2020,forward,3
-year,2021,reverse,5
+year,2021,reverse,6
 year,2021,both,1
-year,2021,forward,3
+year,2021,forward,4
 year,2022,reverse,7
-year,2022,forward,2
-year,2023,reverse,2
+year,2022,forward,4
+year,2023,reverse,3
 year,2023,forward,7
 year,2024,both,2
 year,2024,reverse,2
-year,2024,forward,5
+year,2024,forward,8
 year,2025,forward,7
-year,2025,reverse,2
+year,2025,reverse,3
+year,2025,both,1
 year,2026,reverse,2
-year,2026,forward,8
+year,2026,forward,9

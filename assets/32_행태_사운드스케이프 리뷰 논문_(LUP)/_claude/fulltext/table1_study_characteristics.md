@@ -1,3 +1,5 @@
+> ⚠️ **구버전 — 81편 기준(데이터베이스 검색 갈래만).** 인용추적을 합친 96편 정본은 `table1_v2.md` 이다. 이 파일은 이력 보존용으로 남긴다.
+
 # Table 1. Characteristics of the 84 included studies
 
 Systematic review of soundscape–behaviour evidence in outdoor public space (OSF registration: osf.io/7ew8q). Studies are ordered by publication year and, within year, alphabetically by first author.

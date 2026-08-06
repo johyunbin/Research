@@ -150,17 +150,23 @@ def fig_forest():
             dict(label="Ba & Kang 2020 · music vs no sound", est=0.614, var=0.0432),
             dict(label="Bao 2026 · natural sound index (long stay)", est=0.214, var=0.0053)]
     s_p = dict(est=0.313, lo=-0.076, hi=0.703, k=3, I2=54.4, p=0.074, model="REML+HK")
-    soc = [dict(label="Chen 2023 · natural vs noise (group interaction)", est=0.977, var=0.0613),
+    # ★ 인용추적으로 추가된 효과는 ▲ 표시(citation searching). 수치 = ma/ma_v2_summary.md
+    soc = [dict(label="Mathews & Canon 1975 · quiet vs mower noise (helping) ▲",
+                est=1.073, var=0.0999),
+           dict(label="Chen 2023 · natural vs noise (group interaction)", est=0.977, var=0.0613),
            dict(label="Chen 2024 · natural vs noise (paired interaction)", est=0.547, var=0.0284),
            dict(label="Moser 1988 · quiet vs roadworks (helping)", est=0.432, var=0.0232)]
-    so_p = dict(est=0.569, lo=-0.020, hi=1.157, k=3, I2=43.5, p=0.053, model="REML+HK")
-    corr = [dict(label="Xu 2024 · pleasantness ↔ static behaviour", est=np.arctanh(0.564), var=1 / (419 - 3)),
+    so_p = dict(est=0.646, lo=0.188, hi=1.104, k=4, I2=48.6, p=0.021, model="REML+HK")
+    corr = [dict(label="Montes González 2022 · LAeq ↔ speech disruption ▲",
+                 est=np.arctanh(0.650), var=1 / (29 - 3)),
+            dict(label="Xu 2024 · pleasantness ↔ static behaviour", est=np.arctanh(0.564), var=1 / (419 - 3)),
             dict(label="Bao 2023 · dwell time ↔ restorativeness", est=np.arctanh(0.551), var=1 / (180 - 3)),
             dict(label="Béjaïa 2025 · sound ↔ walking comfort", est=np.arctanh(0.400), var=1 / (58 - 3)),
             dict(label="Study 1018 · sitting/walking groups", est=np.arctanh(0.360), var=1 / (310 - 3)),
-            dict(label="Wang 2025 · natural events ↔ queuing time", est=np.arctanh(0.209), var=1 / (315 - 3))]
-    c_p = dict(est=np.arctanh(0.426), lo=np.arctanh(0.222), hi=np.arctanh(0.594),
-               k=5, I2=89.8, p=0.005, model="REML+HK")
+            dict(label="Wang 2025 · natural events ↔ queuing time", est=np.arctanh(0.209), var=1 / (315 - 3)),
+            dict(label="Cao & Kang 2021 · companionship → sound noticing ▲",
+                 est=np.arctanh(0.165), var=1 / (301 - 3))]
+    c_p = dict(est=0.435, lo=0.231, hi=0.639, k=7, I2=90.5, p=0.002, model="REML+HK")
 
     fig, axes = plt.subplots(2, 2, figsize=(12.6, 6.4))
     forest_panel(axes[0, 0], walk, w_p, "(a) Walking speed — natural sound vs anthropogenic noise",
@@ -168,23 +174,38 @@ def fig_forest():
     forest_panel(axes[0, 1], stay, s_p, "(b) Staying / dwell time — positive sound vs control",
                  "Hedges' g  (positive = longer stay)", (-0.8, 1.4))
     forest_panel(axes[1, 0], soc, so_p, "(c) Social interaction — natural/quiet vs noise",
-                 "Hedges' g  (positive = more interaction)", (-0.6, 1.9))
+                 "Hedges' g  (positive = more interaction)", (-0.6, 2.1))
     forest_panel(axes[1, 1], corr, c_p, "(d) Soundscape perception ↔ behaviour (correlational)",
-                 "Fisher's z  (back-transformed r = 0.43)", (-0.2, 1.3))
+                 "Fisher's z  (back-transformed r = 0.41)", (-0.2, 1.4))
     fig.suptitle("Meta-analytic effects across four behavioural clusters", fontsize=11, x=0.007, ha="left")
+    fig.text(0.993, 0.982, "▲ = study added by citation searching", fontsize=7.6, color=MUT, ha="right")
     fig.tight_layout(rect=[0, 0, 1, 0.955], w_pad=3.2, h_pad=2.4)
     save(fig, "Fig2_Forest")
 
 
 # ---------------- Fig 3: Evidence map ----------------
+DOM_KEY = ["movement", "staying", "space-use", "social", "activity"]
+DOM_EN = ["Movement", "Staying", "Space use", "Social", "Activity"]
+SRC_KEY = ["교통/도로소음", "일반 소음", "자연음", "음악/부가음", "인간·군중음", "항공기소음"]
+SRC_EN = ["Traffic/road", "General noise", "Natural sounds", "Music/added",
+          "Human/crowd", "Aircraft"]
+
+
+def load_counts(kind):
+    """증거지도 집계는 하드코딩하지 않고 rebuild_evidence_map.py 산출에서 읽는다."""
+    out = {}
+    with open(os.path.join(BASE, "fulltext", "evidence_counts_v2.csv"),
+              encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            if r["kind"] == kind:
+                out[(r["row"], r["col"])] = int(r["n"])
+    return out
+
+
 def fig_evidence_map():
-    doms = ["Movement", "Staying", "Space use", "Social", "Activity"]
-    srcs = ["Traffic/road", "General noise", "Natural sounds", "Music/added", "Human/crowd", "Aircraft"]
-    M = np.array([[9, 13, 8, 6, 8, 0],
-                  [6, 6, 8, 8, 4, 0],
-                  [9, 10, 12, 7, 6, 1],
-                  [6, 8, 9, 3, 4, 0],
-                  [10, 11, 10, 5, 7, 1]])
+    doms, srcs = DOM_EN, SRC_EN
+    c = load_counts("domain_x_source")
+    M = np.array([[c.get((d, s), 0) for s in SRC_KEY] for d in DOM_KEY])
     fig, ax = plt.subplots(figsize=(6.4, 6.4))
     im = ax.imshow(M, cmap=T.SEQ, vmin=0, vmax=M.max(), aspect="auto")
     ax.set_xticks(range(len(srcs))); ax.set_xticklabels(srcs, fontsize=8, rotation=18, ha="right")
@@ -212,9 +233,11 @@ def fig_evidence_map():
 
 # ---------------- Fig 4: Direction × domain ----------------
 def fig_direction():
-    doms = ["Movement", "Staying", "Space use", "Social", "Activity"]
-    # 막대 폭 확대(정사각 캔버스 대응)
-    fwd = np.array([27, 13, 23, 14, 16]); rev = np.array([8, 7, 21, 12, 20]); both = np.array([3, 4, 4, 4, 4])
+    doms = DOM_EN
+    c = load_counts("direction_x_domain")
+    fwd = np.array([c.get((d, "forward"), 0) for d in DOM_KEY])
+    rev = np.array([c.get((d, "reverse"), 0) for d in DOM_KEY])
+    both = np.array([c.get((d, "both"), 0) for d in DOM_KEY])
     y = np.arange(len(doms)); h = 0.72
     fig, ax = plt.subplots(figsize=(6.4, 6.4))
     ax.barh(y, fwd, h, label="Forward (sound → behaviour)", color=T.BLUE, edgecolor=T.SURF, lw=1.4)
@@ -225,7 +248,7 @@ def fig_direction():
         ax.text(fwd[i] + rev[i] / 2, i, str(rev[i]), ha="center", va="center", color="white", fontsize=7.6)
     ax.set_yticks(y); ax.set_yticklabels(doms, fontsize=8.5); ax.invert_yaxis()
     ax.set_xlabel("Number of extracted study–outcome records", fontsize=8)
-    ax.set_xticks(range(0, 51, 10)); ax.set_axisbelow(True)
+    top=int((fwd+rev+both).max()); ax.set_xticks(range(0, top+11, 10)); ax.set_axisbelow(True)
     ax.xaxis.grid(True, color=T.GRID, lw=0.7); ax.yaxis.grid(False)
     ax.set_title("Direction of the studied relationship by behavioural domain", fontsize=9.5, loc="left", pad=26)
     ax.legend(fontsize=7.4, frameon=False, ncol=3, loc="lower center", bbox_to_anchor=(0.5, 1.005), columnspacing=1.6, handlelength=1.4, handleheight=0.9)
@@ -240,7 +263,7 @@ def fig_methods():
     노출 계측 전용 장비(소음계 등)는 '행태' 측정이 아니므로 G3로 세지 않는다."""
     from collections import Counter, defaultdict
     per = defaultdict(Counter)
-    with open(os.path.join(BASE, "fulltext", "table1_study_characteristics.csv"),
+    with open(os.path.join(BASE, "fulltext", "table1_v2.csv"),
               encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
             y = int(r["year"]) if r["year"].isdigit() else 0

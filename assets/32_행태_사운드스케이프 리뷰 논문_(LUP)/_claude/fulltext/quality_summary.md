@@ -1,3 +1,5 @@
+> ⚠️ **구버전 — 81편 기준(데이터베이스 검색 갈래만).** 인용추적을 합친 96편 정본은 `quality_v2.csv · quality_truncation_effect.md` 이다. 이 파일은 이력 보존용으로 남긴다.
+
 # Paper32 — MMAT 2018 품질평가 결과
 
 - 평가 84편(FINAL_INCLUDE 81 + SENS_ONLY 3) · 문항 판정 420건

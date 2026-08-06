@@ -1,3 +1,5 @@
+> ⚠️ **구버전 — 81편 기준(데이터베이스 검색 갈래만).** 인용추적을 합친 96편 정본은 `ma/ma_v2_summary.md` 이다. 이 파일은 이력 보존용으로 남긴다.
+
 # Paper32 — 메타분석 종합 (4개 클러스터, 2026-08-03)
 
 규약 `analysis_rules.md` · 입력 `ma_*_input.csv` · 원문 verbatim `effect_sizes_all.csv` ·

@@ -53,7 +53,7 @@ def norm_countries(raw):
 
 
 def main():
-    rows = list(csv.DictReader(open(os.path.join(FT, "ft_extraction_v2.csv"), encoding="utf-8-sig")))
+    rows = list(csv.DictReader(open(os.path.join(FT, "corpus_v3_extraction.csv"), encoding="utf-8-sig")))
     from collections import Counter, defaultdict
     cc, unmapped = Counter(), Counter()
     for r in rows:
@@ -164,7 +164,7 @@ def main():
 
     fig.suptitle("Geographic and temporal distribution of the included studies",
                  fontsize=11.4, x=0.012, ha="left", y=0.985)
-    fig.text(0.012, 0.955, f"n = {tot} studies (81 included + 3 sensitivity-only). "
+    fig.text(0.012, 0.955, f"n = {tot} studies (96 included + 4 reserved for sensitivity). "
              "Panel (a) is the basis for the generalisability caveat in the Discussion.",
              fontsize=7.8, color=T.INK2, ha="left")
     fig.subplots_adjust(left=0.20, right=0.975, top=0.905, bottom=0.062)

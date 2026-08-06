@@ -46,8 +46,8 @@ ITEMS = {
 
 
 def main():
-    q = list(csv.DictReader(open(os.path.join(FT, "quality_all.csv"), encoding="utf-8-sig")))
-    d = list(csv.DictReader(open(os.path.join(FT, "quality_detail_all.csv"), encoding="utf-8-sig")))
+    q = list(csv.DictReader(open(os.path.join(FT, "quality_v2.csv"), encoding="utf-8-sig")))
+    d = list(csv.DictReader(open(os.path.join(FT, "quality_detail_v2.csv"), encoding="utf-8-sig")))
 
     from collections import Counter, defaultdict
     # 범주 라벨 → 숫자 코드
@@ -162,7 +162,7 @@ def main():
 
     fig.suptitle("Methodological quality of the included studies (MMAT 2018)",
                  fontsize=11.4, x=0.008, ha="left", y=0.988)
-    fig.text(0.008, 0.962, "Screening questions S1–S2 were met by 83 of 84 studies. "
+    fig.text(0.008, 0.962, "Two identification routes pooled (databases + citation searching). "
              "'Can't tell' means the study did not report enough to judge — "
              "it is a reporting failure, not a design failure.",
              fontsize=7.6, color=T.INK2, ha="left")
