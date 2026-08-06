@@ -4,6 +4,7 @@ Paper32 — 원고 수치 ↔ 정본 데이터 대조
 집필 중 기억으로 쓴 숫자가 섞이는 것을 막는다. 원고에 등장하는 핵심 수치를 정본에서 재산출해 대조.
 사용: python verify_manuscript.py [원고경로]
 """
+import math
 import sys, os, csv, re
 from collections import Counter
 
@@ -114,17 +115,24 @@ def main():
     missing = [k for k, pat in must.items() if not re.search(pat, ms)]
 
     # 메타분석 수치가 원고와 일치하는가
-    mv = open(os.path.join(MA, "ma_v2_summary.md"), encoding="utf-8").read()
-    ma_checks = [("MA3 g=+0.646", r"\+0\.646", r"\+0\.646"),
-                 ("MA3 p=.021", r"0\.021", r"\.021"),
-                 ("MA4 r=+0.409", r"\+0\.409", r"\+0\.409"),
-                 ("MA1 g=−0.500", r"-0\.500", r"−0\.500")]
+    # ⚠️ 기대값을 여기 박아두면 정본이 바뀔 때 검증기만 낡는다(실제로 낡았다).
+    #    ma_forest_data.json(= ma_v2.py 산출)에서 읽어 원고에 그 값이 있는지 본다.
+    import json
+    fj = json.load(open(os.path.join(MA, "ma_forest_data.json"), encoding="utf-8"))
+    NAME = {"walking": "MA1 walking", "staying": "MA2 staying",
+            "social": "MA3 social", "correlation": "MA4 correlation"}
     ma_bad = []
-    for name, pat_src, pat_ms in ma_checks:
-        if not re.search(pat_src, mv):
-            ma_bad.append(f"{name} — 정본에 없음")
-        elif not re.search(pat_ms, ms):
-            ma_bad.append(f"{name} — 원고에 없음")
+    for key, nm in NAME.items():
+        p = fj[key]["pooled"]
+        # 추정치는 부호 표기가 원고마다 다르므로(−/-) 절대값 문자열로 찾는다.
+        # 상관 클러스터는 원고가 역변환 r 로 보고하므로 둘 중 하나만 있으면 통과.
+        cands = [f"{abs(p['est']):.3f}"]
+        if fj[key].get("back_r"):
+            cands += [f"{abs(math.tanh(p['est'])):.3f}", f"{abs(math.tanh(p['est'])):.2f}"]
+        if not any(re.search(re.escape(c), ms) for c in cands):
+            ma_bad.append(f"{nm} est={cands[0]} — 원고에 없음")
+        if not re.search(rf"\bk\b[^\n]{{0,12}}=\s*{p['k']}\b|\|\s*{p['k']}\s*\|", ms):
+            ma_bad.append(f"{nm} k={p['k']} — 원고에 없음")
 
     print(f"=== 원고 수치 검증 — {os.path.basename(ms_path)} ===\n")
     print(f"데이터 산출값이 원고에 존재: {len(ok)} / 누락 {len(bad)}")

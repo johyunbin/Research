@@ -17,41 +17,17 @@ FT = os.path.join(BASE, "fulltext")
 MA = os.path.join(FT, "ma")
 
 
-def reml_tau2(y, v, iters=500):
-    t2 = max(float(np.var(y, ddof=1) - np.mean(v)), 0.0) if len(y) > 1 else 0.0
-    for _ in range(iters):
-        w = 1 / (v + t2)
-        mu = np.sum(w * y) / np.sum(w)
-        new = max(float(np.sum(w ** 2 * ((y - mu) ** 2 - v)) / np.sum(w ** 2)), 0.0)
-        if abs(new - t2) < 1e-12:
-            break
-        t2 = new
-    return t2
+# ★ τ² 추정·풀링은 `ma_core` 하나만 쓴다.
+#   이 함수가 세 파일에 복제돼 있었고 셋 다 이름과 달리 **ML** 을 풀고 있었다(2026-08-06 적발).
+from ma_core import reml_tau2, pool as _core_pool, prediction_interval,     combine_within_study, var_from_ci
 
 
 def pool(rows):
-    y = np.array([r["g"] for r in rows], float)
-    v = np.array([r["v"] for r in rows], float)
-    k = len(y)
-    t2 = reml_tau2(y, v)
-    w = 1 / (v + t2)
-    mu = float(np.sum(w * y) / np.sum(w))
-    se = math.sqrt(1 / np.sum(w))
-    qhk = float(np.sum(w * (y - mu) ** 2) / (k - 1))
-    se_hk = se * math.sqrt(qhk)
-    tc = stats.t.ppf(0.975, k - 1)
-    wf = 1 / v
-    muf = float(np.sum(wf * y) / np.sum(wf))
-    Q = float(np.sum(wf * (y - muf) ** 2))
-    I2 = max(0.0, (Q - (k - 1)) / Q) * 100 if Q > 0 else 0.0
-    out = dict(k=k, est=mu, se_hk=se_hk, lo=mu - tc * se_hk, hi=mu + tc * se_hk,
-               p=float(2 * (1 - stats.t.cdf(abs(mu / se_hk), k - 1))), tau2=t2, I2=I2)
-    # 예측구간: mu ± t(k-2) * sqrt(tau2 + se^2)  (Higgins-Thompson-Spiegelhalter)
-    if k >= 3:
-        tp = stats.t.ppf(0.975, k - 2)
-        spread = math.sqrt(t2 + se ** 2)
-        out["pi_lo"] = mu - tp * spread
-        out["pi_hi"] = mu + tp * spread
+    """ma_core 로 위임 + HTS 예측구간 부착."""
+    out = _core_pool(rows)
+    lo, hi = prediction_interval(out)
+    if lo is not None:
+        out["pi_lo"], out["pi_hi"] = lo, hi
     return out
 
 
@@ -63,21 +39,59 @@ def rd(fn):
     return list(csv.DictReader(open(os.path.join(MA, fn), encoding="utf-8-sig")))
 
 
+def load_walk(rd, exclude_music=True):
+    """MA1 입력 — 규약 §3(클러스터×대비프레임당 논문 1효과)을 실제로 적용한다.
+
+    532 는 Exp1·Exp2 두 효과를 같은 대비프레임에서 보고한다. 종전 코드는 둘 다 넣어
+    k=4 로 풀링했는데 이는 **자체 규약 위반**이었다(2026-08-06 적발). 규약대로
+    논문 내 평균(효과 간 ρ=0.5 Borenstein)으로 합성한다.
+    """
+    rows = [dict(uid=r["no"], label=r["label"], g=float(r["g"]), v=float(r["var"]),
+                 contrast=r["contrast"])
+            for r in rd("ma_walking_input.csv") if "control" not in r["contrast"]]
+    if exclude_music:
+        rows = [r for r in rows if r["uid"] != "481"]        # 481=음악, 주분석 제외(D3-6)
+    out, seen = [], {}
+    for r in rows:
+        seen.setdefault(r["uid"], []).append(r)
+    for uid, grp in seen.items():
+        if len(grp) == 1:
+            out.append(grp[0]); continue
+        g, v = combine_within_study([(x["g"], x["v"]) for x in grp])
+        out.append(dict(uid=uid, label=grp[0]["label"].split(" Exp")[0] + " (Exp 합성)",
+                        g=g, v=v, contrast=grp[0]["contrast"],
+                        note=f"규약 §3 — 논문 내 {len(grp)}효과 평균(ρ=0.5)"))
+    return sorted(out, key=lambda r: r["uid"])
+
+
+def load_corr(rd, r_to_z):
+    """MA4 입력 — status=exclude 행은 넣지 않고, v_override 가 있으면 그 분산을 쓴다."""
+    out = []
+    for r in rd("ma_correlation_input.csv"):
+        if (r.get("status") or "include").strip() == "exclude":
+            continue
+        rv = float(r["r"])
+        if (r.get("v_override") or "").strip():
+            import math as _m
+            z, v = _m.atanh(rv), float(r["v_override"])
+        else:
+            z, v = r_to_z(rv, int(r["n"]))
+        out.append(dict(uid=r["no"], label=r["label"], g=z, v=v, r=rv,
+                        n=int(r["n"]) if (r.get("n") or "").strip() else None,
+                        src=r.get("src", "")))
+    return out
+
+
 def main():
     new = {r["uid"]: r for r in rd("ma_v2_new_inputs.csv")}
     qual = {r["uid"]: r["quality_tier"] for r in
             csv.DictReader(open(os.path.join(FT, "quality_v2.csv"), encoding="utf-8-sig"))}
 
-    walk = [dict(uid=r["no"], g=float(r["g"]), v=float(r["var"]))
-            for r in rd("ma_walking_input.csv")
-            if "control" not in r["contrast"] and r["no"] != "481"]
+    walk = load_walk(rd)
     stay = [dict(uid=r["no"], g=float(r["g"]), v=float(r["v"])) for r in rd("ma_staying_input.csv")]
     soc = [dict(uid=r["no"], g=float(r["g"]), v=float(r["v"])) for r in rd("ma_social_input.csv")]
     soc.append(dict(uid="CT0025", g=float(new["CT0025"]["g"]), v=float(new["CT0025"]["v"])))
-    corr = []
-    for r in rd("ma_correlation_input.csv"):
-        z, v = r_to_z(float(r["r"]), int(r["n"]))
-        corr.append(dict(uid=r["no"], g=z, v=v))
+    corr = [dict(uid=r["uid"], g=r["g"], v=r["v"]) for r in load_corr(rd, r_to_z)]
     for u in ("CT0126", "CT0184"):
         corr.append(dict(uid=u, g=float(new[u]["g"]), v=float(new[u]["v"])))
 
@@ -85,14 +99,21 @@ def main():
           ("MA3 social interaction", soc, "g"), ("MA4 perception–behaviour", corr, "z")]
 
     rows, L = [], []
+    # ⚠️ 서술문에 k·I² 를 손으로 박으면 정본이 바뀔 때 문장만 낡는다(실제로 낡았다).
+    #    클러스터 정의에서 매번 산출한다.
+    _res = {name: pool(r_) for name, r_, _u in CL}
+    ks = [o["k"] for o in _res.values()]
+    kmax, kmin = max(ks), min(ks)
+    kmax_i2 = max(_res.values(), key=lambda o: o["k"])["I2"]
     L.append("# Paper32 — 분석 보완 (독립 게이트 지적 대응)\n")
     L.append("\n독립 검증 게이트가 지적한 4건을 수치로 처리한다. 원고 Methods·Results에 반영할 값들이다.\n")
 
     # ── B3 예측구간 ────────────────────────────────────────────────
     L.append("\n## 1. 예측구간 (prediction interval)\n\n"
              "이질성이 큰 클러스터에서는 **신뢰구간이 평균의 정밀도**를, **예측구간이 다음 연구에서 "
-             "기대되는 값의 범위**를 말한다. MA4는 I² = 90.5%이므로 CI만 보고하면 불확실성을 크게 "
-             "과소 표현한다. Higgins–Thompson–Spiegelhalter 방식으로 산출했다.\n\n")
+             "기대되는 값의 범위**를 말한다. 최대 클러스터는 I² = %.1f%%이므로 CI만 보고하면 "
+             "불확실성을 크게 과소 표현한다. Higgins–Thompson–Spiegelhalter 방식으로 산출했다.\n\n"
+             % kmax_i2)
     L.append("| 클러스터 | k | 추정치 | 95% CI | **95% 예측구간** | I² |\n|---|---|---|---|---|---|\n")
     for name, r_, unit in CL:
         o = pool(r_)
@@ -114,8 +135,8 @@ def main():
     # ── B2 출판편향 ───────────────────────────────────────────────
     L.append("\n## 2. 출판편향 — 검정 불가와 그 함의\n\n"
              "사전 규약(`analysis_rules.md §6`)은 **k ≥ 10인 클러스터만 funnel plot과 Egger 검정**을 "
-             "수행하도록 정했다. 최대 클러스터가 k = 7이므로 **어느 클러스터에서도 검정을 수행할 수 "
-             "없다.** 이는 결과가 아니라 제약이며, 다음을 뜻한다.\n\n")
+             "수행하도록 정했다. 최대 클러스터가 k = %d이므로 **어느 클러스터에서도 검정을 수행할 수 "
+             "없다.** 이는 결과가 아니라 제약이며, 다음을 뜻한다.\n\n" % kmax)
     L.append("| 클러스터 | k | Egger 검정 최소 요건 | 수행 |\n|---|---|---|---|\n")
     for name, r_, _ in CL:
         L.append(f"| {name} | {len(r_)} | k ≥ 10 | ✕ |\n")
@@ -149,7 +170,8 @@ def main():
     # ── B4 하위그룹 ───────────────────────────────────────────────
     L.append("\n## 4. 등록 하위그룹 분석 — 수행 불가\n\n"
              "등록서는 세팅(공원/가로/광장)·설계(현장실험/관찰)·측정세대 등으로 하위그룹을 나누도록 "
-             "계획했다. 그러나 최대 클러스터가 k = 7이고 나머지는 k = 3~4다.\n\n")
+             "계획했다. 그러나 최대 클러스터가 k = %d이고 나머지는 k = %d~%d다.\n\n"
+             % (kmax, kmin, kmax - 1))
     L.append("| 클러스터 | k | 2개 하위그룹으로 나누면 | 판정 |\n|---|---|---|---|\n")
     for name, r_, _ in CL:
         k = len(r_)

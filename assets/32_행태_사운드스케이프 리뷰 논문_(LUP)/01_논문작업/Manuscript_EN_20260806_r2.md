@@ -58,16 +58,16 @@ of every included study and by a fourth index; the protocol was registered befor
 (osf.io/7ew8q). Ninety-eight studies were eligible. Quality was appraised with MMAT 2018 and effects
 pooled using random-effects REML with the Hartung–Knapp adjustment. All four clusters pointed in the
 predicted direction, but only two excluded zero for the mean effect: social interaction (*k* = 4,
-*g* = +0.65, 95% CI +0.19 to +1.10) and the perception–behaviour correlation (*k* = 7, *r* = +0.41,
-95% CI +0.23 to +0.56). **Prediction intervals included zero in every cluster**, and with a maximum
-*k* of 7 no test of reporting bias was possible, so pooled estimates are upper bounds. The
+*g* = +0.68, 95% CI +0.20 to +1.16) and the perception–behaviour correlation (*k* = 6, *r* = +0.43,
+95% CI +0.19 to +0.61). **Prediction intervals included zero in every cluster**, and with a maximum
+*k* of 6 no test of reporting bias was possible, so pooled estimates are upper bounds. The
 social-interaction result comes from two field experiments thirteen years apart using different noise
 sources; because no study contrasts natural sound against quiet, adding pleasant sound and removing
 unpleasant sound cannot be separated. The widely cited walking-speed effect rests entirely on
-low-quality studies, three of four effects manipulating audio through headphones rather than the
-space itself, and largely from one research programme on one route. Of the domain-level records
-extracted, 40% run in reverse — activity generating the soundscape — with near-parity in space use,
-activity and social behaviour. Measurement generations accumulate rather than replace one another.
+low-quality studies, three of the effects manipulating audio through headphones rather than the
+space itself, and largely from one research programme on one route. Of the 187 directional
+study × behavioural-domain records, 40% run in reverse — activity generating the soundscape — with
+near-parity in space use, activity and social behaviour. Measurement generations accumulate rather than replace one another.
 Ten planning levers are derived with graded confidence; none reaches high confidence, and the
 best-supported action is controlling operational noise where people are meant to interact.
 
@@ -89,9 +89,9 @@ wearables made behaviour observable at scale for the first time. A synthesis is 
 not possible five years ago.
 
 **1.3 The bidirectional framing.** The dominant framing treats sound as exposure and behaviour as
-outcome. Our corpus shows that framing is incomplete: 40% of the extracted domain-level records run
-in the reverse direction — crowd density, activity programming and companionship *generate* the
-acoustic environment. Space use, activity and social behaviour show near-parity between the two
+outcome. Our corpus shows that framing is incomplete: of the 187 records that run in one direction
+(the unit is the study × behavioural domain, not the study), 40% run in reverse — crowd density,
+activity programming and companionship *generate* the acoustic environment. Space use, activity and social behaviour show near-parity between the two
 directions. A review that only asks "what does sound do to people" misses half of what has been
 measured.
 
@@ -228,11 +228,11 @@ would be expected to fall, and is the quantity relevant to whether a planning de
 result.
 
 **Reporting bias could not be assessed.** The registered rule restricted funnel plots and Egger's test
-to clusters with *k* ≥ 10; the largest cluster here has *k* = 7, so no test was performed in any
+to clusters with *k* ≥ 10; the largest cluster here has *k* = 6, so no test was performed in any
 cluster. Small-study effects can therefore neither be detected nor excluded, and pooled estimates
 should be read as upper bounds.
 
-**Subgroup analyses were registered but not performed.** Splitting clusters of *k* = 3–7 by setting,
+**Subgroup analyses were registered but not performed.** Splitting clusters of *k* = 3–6 by setting,
 design or measurement generation yields subgroups of one to four estimates, below the pre-specified
 minimum of three, and Hartung–Knapp intervals become uninterpretable at *k* = 2. Sources of
 heterogeneity were instead examined narratively.
@@ -245,8 +245,10 @@ test whether conclusions depended on the supplementary search route. Full result
 
 ### 2.7 Departures from the registered protocol
 
-Ten departures are recorded in full in Supplementary S1. Four affected a reported result and are
-therefore stated here; the remainder concern procedure and are summarised in the table.
+Twenty-eight departures are recorded in full in Supplementary S1 and listed in Table A below. **Ten
+changed a reported result**; those six are stated in the text here, and the remainder concern
+procedure. We list all of them rather than a selection, because a deviation log that reports only the
+convenient departures is not a deviation log.
 
 **(1) MMAT categories were reassigned from full-text reading** rather than from the extracted design
 string (D2-1). Category determines which items apply, so this changed tiers. The most common
@@ -254,7 +256,7 @@ misassignment was treating "objective acoustic measurement plus questionnaire" a
 both components are quantitative.
 
 **(2) The pooled walking-speed cluster excludes a music-stimulus study** (D3-6). Including it moves the
-estimate from *g* = −0.500 (*p* = .179) to −0.742 (*p* = .082) — that is, **exclusion is the conservative
+estimate from *g* = −0.474 (*p* = .326) to −0.742 (*p* = .082) — that is, **exclusion is the conservative
 choice**, not one that favours our conclusion.
 
 **(3) A sign-coding error of our own was found and corrected** (D3-4). The social-interaction cluster
@@ -268,19 +270,47 @@ against visual and other sensory spaces — not sound against sound — and its 
 (2,249) exceed its observation units (1,167), so independence fails. Adding it would move
 *p* = .021 → .005 and *I*² = 49% → 77%. It is reported as a sensitivity analysis only.
 
-| # | Departure | Result affected? |
-|---|---|---|
-| D1-1 | All uncertain records carried to full text rather than excluded at abstract | Widened corpus; no rule changed |
-| D1-2 | Three boundary-case rules formalised post hoc, applied uniformly thereafter | Moved 3 studies to sensitivity only |
-| D1-3 | Title-level priority filter applied to citation-tracking output | Coverage limit; stated in Limitations |
-| D2-1 | MMAT categories reassigned from full text | **Yes — see (1)** |
-| D2-2 | RoB 2 not applied separately (only two randomised studies) | No |
-| D2-3 | One 1978 scanned report left category-undetermined | No (contributes no effect) |
-| D3-1 | Five registered clusters reduced to four (space-use unpoolable) | Cluster set |
-| D3-3 | Three unreported values reconstructed; each tested in sensitivity ⑤ | Bounded in S8 |
-| D3-6 | Walking-speed pool defined without the music-stimulus study | **Yes — see (2)** |
-| D5-4 | Four cluster-membership judgements on newly retrieved studies | **Yes — see (4)** |
-| D6-1 | Laboratory-reproduction rule applied to one branch only | Addressed by sensitivity ⑦ |
+**(5) Truncated full-text extraction changed four quality tiers** (D5-3), as described in §2.5.
+
+**(6) The result narrative was rewritten when the social-interaction cluster crossed *p* = .05**
+(D5-6). Our first synthesis argued that *all three* condition-contrast clusters included zero, and
+that only observational associations had accumulated. Retrieving one 1975 field experiment moved that
+cluster to *p* = .021 and the argument no longer held. We changed the claim because the result
+changed, not the reverse — the earlier claim is preserved verbatim in S1 so the two can be compared.
+
+**Table A. All departures from the registered protocol.** Generated from the deviation log
+(Supplementary S1); "Yes" marks a departure that changed a reported result.
+
+| # | Section | Departure | Effect on results |
+|---|---|---|---|
+| D1-1 | Search and selection | All records still uncertain after title/abstract screening were carried to full text rather than excluded | No — widened retrieval, criteria unchanged |
+| D1-2 | Search and selection | Three recurring boundary cases formalised as rules after registration, then applied uniformly | Moved 3 studies to sensitivity-only |
+| D1-3 | Search and selection | Title-level priority filter applied to citation-tracking output (registered three-block logic) | Coverage limit; stated in Limitations |
+| D1-4 | Search and selection | Citation-tracking branch initially stopped at 'reports sought'; completed by manual retrieval of 71 reports | Resolved — branch now complete (15 studies) |
+| D2-1 | Quality appraisal | MMAT categories reassigned from full-text reading rather than from the extracted design string | **Yes** — category determines items, so tiers changed |
+| D2-2 | Quality appraisal | RoB 2 not applied separately: only two randomised studies, neither reporting procedure or blinding | No |
+| D2-3 | Quality appraisal | One 1978 scanned report left category-undetermined (no text layer) | No — contributes no effect |
+| D3-1 | Meta-analysis | Five registered clusters reduced to four; space-use effects were unpoolable (no variance information) | Cluster set; studies remain in narrative synthesis |
+| D3-2 | Meta-analysis | Analysis rules (multiple-effect priority, pseudoreplication, non-convertible inputs) fixed in a separate document before any computation | No — pre-specified |
+| D3-3 | Meta-analysis | Three unreported values reconstructed (equal-split n; SD back-calculated from p; SE→SD) | Bounded by sensitivity ⑤ |
+| D3-4 | Meta-analysis | A sign-coding error of our own found and corrected (I² 93.6% → 43.5%) | **Yes** — corrected before any reporting |
+| D3-5 | Meta-analysis | Two sensitivity axes only partially executable (observation-n available for one study; two studies report group-level n only) | Stated per axis |
+| D3-6 | Meta-analysis | Walking-speed pool defined without the music-stimulus study | **Yes** — exclusion is the conservative direction (g −0.500 vs −0.742) |
+| D4-1 | Reporting | Conceptual framework placed in Discussion rather than Results | No — presentation only |
+| D4-2 | Reporting | English-language, journal-only restriction retained as registered | No — registered, not a deviation; consequential for interpretation |
+| D5-1 | Citation-tracking branch | Exclusion code for language added (Chinese-language journal indexed with English metadata) | One verdict changed |
+| D5-2 | Citation-tracking branch | Intention-outcome rule stated inconsistently across branch instructions | No — no verdict depended on it |
+| D5-3 | Citation-tracking branch | Full-text extraction cap truncated 13 of 16 citation-tracked studies; all re-appraised on complete text | **Yes** — 7 items and 4 tiers changed |
+| D5-4 | Citation-tracking branch | Four cluster-membership judgements on newly retrieved studies, including one exclusion that would have strengthened the result | **Yes** — see §2.7(4) |
+| D5-5 | Citation-tracking branch | Two publication pairs share samples; one member of each pair admitted to any pool | Prevents double-counting |
+| D5-6 | Citation-tracking branch | Result narrative revised after the social-interaction cluster crossed p = .05 | **Yes** — claim changed because the result changed |
+| D6-1 | Supplementary-index branch | Laboratory-reproduction rule applied to the citation-tracking branch only | No — no such study is poolable |
+| D6-2 | Supplementary-index branch | Registered supplementary index (OpenAlex) screened late, after self-audit found it unscreened | No — the 2 studies found contribute no effect |
+| D6-3 | Supplementary-index branch | Index language metadata found unreliable (2 of 5 retrieved texts not in English despite `language=en`) | Two verdicts changed |
+| D7-1 | Post-hoc statistical verification | τ² estimator was maximum likelihood although reported as REML; corrected and consolidated into a single module | **Yes** — all four clusters recomputed |
+| D7-2 | Post-hoc statistical verification | Walking-speed pool violated our own one-effect-per-study rule; the two experiments of one study combined as pre-specified | **Yes** — k 4 → 3, p .179 → .326 |
+| D7-3 | Post-hoc statistical verification | Two correlational inputs did not match the source: one effect had been constructed at pooling although extraction recorded none; one used a sample size that was not the analytic unit | **Yes** — k 7 → 6, r .409 → .425 |
+| D7-4 | Post-hoc statistical verification | The rank-correlation sensitivity excluded nothing because the source field was overwritten before filtering | **Yes** — real result k = 4, r = .484 |
 
 ---
 
@@ -307,6 +337,55 @@ WoS/Scopus/PubMed is therefore weak evidence of a missed study.
 
 The final corpus is **98 studies**, with four additional studies reserved for sensitivity analysis
 (102 analysed in total). Study characteristics are given in Table 1 and listed in full in S5.
+
+**Table 1.** Characteristics of the 98 included studies. Percentages are of 98 studies; categories marked † allow a study to appear more than once. The full study-level listing (identifier, route, year, journal, title, country, setting, design, sample, exposure, behavioural domain, measurement generation, direction, quality) is Supplementary S11.
+
+| Characteristic | Studies | % |
+|---|---|---|
+| **Publication period** | | |
+| ≤2009 | 5 | 5% |
+| 2010–2019 | 23 | 23% |
+| 2020–2026 | 70 | 71% |
+| **Study design** | | |
+| Mixed observation + survey | 34 | 35% |
+| Survey | 25 | 26% |
+| Field or natural experiment | 19 | 19% |
+| Field observation | 7 | 7% |
+| Sensor / big data | 6 | 6% |
+| Laboratory / VR experiment | 5 | 5% |
+| Other / not reported | 2 | 2% |
+| **Setting** † | | |
+| Street | 41 | 42% |
+| Park | 32 | 33% |
+| Square / plaza | 10 | 10% |
+| Other | 8 | 8% |
+| Campus | 5 | 5% |
+| Residential open space | 4 | 4% |
+| Waterfront | 4 | 4% |
+| **Country** † | | |
+| China | 38 | 39% |
+| Spain | 7 | 7% |
+| United Kingdom | 6 | 6% |
+| Germany | 5 | 5% |
+| Italy | 4 | 4% |
+| Australia | 4 | 4% |
+| Czechia | 4 | 4% |
+| France | 3 | 3% |
+| Other countries (n = 25) | 42 | — |
+| **Direction of relationship** | | |
+| forward | 57 | 58% |
+| reverse | 33 | 34% |
+| both | 8 | 8% |
+| **Behavioural measurement generation** † | | |
+| G1 | 54 | 55% |
+| G2 | 42 | 43% |
+| G3 | 24 | 24% |
+| **Methodological quality (MMAT 2018)** | | |
+| High | 22 | 22% |
+| Moderate | 40 | 41% |
+| Low | 36 | 37% |
+
+G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data measurement of behaviour.
 
 The two large branches differed instructively in yield. Records for which an abstract could be retrieved
 mechanically and confirmed a behavioural outcome converted at 46% (17 of 37); records for which no
@@ -359,14 +438,16 @@ branch, but since no such study is poolable, the inconsistency has no quantitati
 
 ### 3.4 Meta-analyses
 
-Four clusters met the pooling threshold (Fig. 2, Table 2).
+Four clusters met the pooling threshold (Fig. 2).
+
+**Table 2.** Pooled estimates for the four behavioural clusters. Random-effects REML with the Hartung–Knapp adjustment. CI = confidence interval (precision of the mean); PI = 95% prediction interval (range expected for a new study). **Every prediction interval includes zero.**
 
 | Cluster | *k* | Metric | Estimate | 95% CI | 95% PI | *p* | *I*² |
 |---|---|---|---|---|---|---|---|
-| Walking speed (natural sound vs noise) | 4 | *g* | −0.500 | −1.411, +0.412 | −2.56, +1.56 | .179 | 75.7% |
-| Staying / dwell time (positive sound vs control) | 3 | *g* | +0.313 | −0.076, +0.702 | −0.79, +1.41 | .074 | 54.4% |
-| **Social interaction (natural/quiet vs noise)** | **4** | ***g*** | **+0.646** | **+0.188, +1.104** | −0.06, +1.35 | **.021** | 48.6% |
-| Soundscape perception ↔ behaviour | 7 | *r* | +0.409 | +0.227, +0.564 | −0.08, +0.74 | .002 | 90.5% |
+| Walking speed (natural sound vs noise) | 3 | *g* | −0.474 | −2.055, +1.108 | −9.13, +8.19 | .326 | 81.4% |
+| Staying / dwell time (positive sound vs control) | 3 | *g* | +0.343 | −0.091, +0.778 | −1.67, +2.36 | .077 | 54.4% |
+| **Social interaction (natural/quiet vs noise)** | **4** | ***g*** | **+0.679** | **+0.201, +1.158** | −0.42, +1.78 | **.020** | 48.6% |
+| Soundscape perception ↔ behaviour | 6 | *r* | +0.425 | +0.191, +0.613 | −0.24, +0.82 | .007 | 92.0% |
 
 PI = prediction interval.
 
@@ -384,28 +465,28 @@ unrelated noise sources and different helping paradigms, which makes the agreeme
 cross-national replication.)
 
 **This significance is nevertheless contingent on one study obtained by citation searching.** The full
-leave-one-out profile for this cluster is: removing Chen and Kang (2023) gives *g* = +0.551
-(*p* = .057); removing Chen et al. (2024), +0.740 (*p* = .071); removing Moser (1988), +0.767
-(*p* = .044); removing Mathews and Canon (1975), +0.569 (*p* = .053). **Three of four removals cross
+leave-one-out profile for this cluster is: removing Chen and Kang (2023) gives *g* = +0.581
+(*p* = .056); removing Chen et al. (2024), +0.775 (*p* = .070); removing Moser (1988), +0.803
+(*p* = .043); removing Mathews and Canon (1975), +0.596 (*p* = .057). **Three of four removals cross
 back over *p* = .05.** The cluster is significant as a set rather than on the strength of any single
 study, and the citation-searched study is the one whose removal returns the cluster to its pre-retrieval
 state. We report this as a limitation of the result and, simultaneously, as evidence that the registered
 supplementary search route was not a formality.
 
-The correlational cluster, by contrast, is insensitive to search route (*r* = .409 with citation
-tracking, .426 without) and to any single study (leave-one-out range *r* = .372 to .449) but carries
-very high heterogeneity (*I*² = 90.5%), which is expected given that it mixes forward and reverse
+The correlational cluster, by contrast, is insensitive to search route (*r* = .425 with citation
+tracking, .445 without) and to any single study (leave-one-out range *r* = .372 to .484) but carries
+very high heterogeneity (*I*² = 92.0%), which is expected given that it mixes forward and reverse
 pathways and several behavioural outcomes.
 
 **Prediction intervals qualify both significant results.** The two intervals that exclude zero do so
 for the *mean* effect; the interval within which a new study's effect would be expected to fall
-includes zero in every cluster, including social interaction (−0.06 to +1.35) and the correlational
-cluster (*r* = −0.08 to +0.74). Neither result licenses the expectation that a further study will
-reproduce the sign. Reporting bias compounds this: with a maximum *k* of 7, no funnel plot or Egger
+includes zero in every cluster, including social interaction (−0.42 to +1.78) and the correlational
+cluster (*r* = −0.24 to +0.82). Neither result licenses the expectation that a further study will
+reproduce the sign. Reporting bias compounds this: with a maximum *k* of 6, no funnel plot or Egger
 test was possible, so small-study effects can be neither detected nor excluded, and every pooled
 estimate should be read as an upper bound.
 
-**The walking-speed cluster is the weakest in the corpus, and its weakness is instructive.** All four
+**The walking-speed cluster is the weakest in the corpus, and its weakness is instructive.** All three
 contributing effects come from studies rated low on MMAT; excluding low-quality studies leaves nothing
 to pool (*k* = 0). Three high-quality walking studies exist in the corpus, but none could enter the
 pool — one manipulated music tempo rather than environmental sound (Franěk et al., 2014), one reported
@@ -474,6 +555,23 @@ quiet route provision; control of mechanical and maintenance noise), five are lo
 That distribution is itself the review's principal finding for practice: this field can currently
 support *hypotheses to test with monitoring*, not design standards.
 
+**Table 3.** Ten planning levers derived from the corpus, with confidence grading. Confidence combines the number of contributing studies, their MMAT composition, whether a pooled interval excludes zero, diversity of settings, and behaviour under sensitivity analysis. **No lever reaches high confidence.** `Mixed` under Direction means that studies disagree in sign, not that the lever has several effects. Full evidence, caveats and study lists are Supplementary S14.
+
+| Lever | What is changed | Behavioural outcome | Direction | Studies | MMAT mix | Confidence |
+|---|---|---|---|---|---|---|
+| **L1** Programmed music in public space | Sound draws attention, pulls people towards the source and slows them, extending stay | Staying (dwell time); space use (approach to source); movement (slower wandering) | promotes | 7 | high 3 · mod 2 · low 2 | **moderate** |
+| **L2** Natural sound provision (water and birdsong) | Natural sound raises perceived restoration and safety, encouraging talk and lingering | Social interaction; staying (dwell time); vitality of activity | promotes | 6 | high 2 · mod 3 · low 1 | **moderate** |
+| **L3** Quiet routes for walking and cycling | Noise avoidance shifts route and mode choice, moving trips onto quieter alignments | Movement (route choice, mode choice, cycling volume) | promotes | 8 | high 4 · mod 1 · low 3 | **moderate** |
+| **L4** Remove or reschedule mechanical plant noise | Unpleasant machinery noise creates avoidance routes and acceleration, cutting stay and talk | Social interaction; staying; space use (removal of avoidance routes) | promotes | 7 | high 2 · mod 3 · low 2 | **moderate** |
+| **L5** Quiet side and designated quiet zones | A quiet façade or designated zone lowers the psychological barrier to outdoor stay and walking | Activity (walking, exercise, rest); space use; staying | mixed | 10 | high 2 · mod 4 · low 4 | **low** |
+| **L6** Acoustic zoning and enclosure of functions | Separating and enclosing noise-generating functions changes the density and interaction of adjacent activity | Space use (crowd density); social interaction (frequency, duration); staying | mixed | 6 | high 1 · mod 5 | **low** |
+| **L7** Programming sound-generating public activities | Human sound and activity attract watching and joining, converting passage into stay | Staying (watching, lingering); social interaction; space use | promotes | 6 | high 1 · mod 2 · low 3 | **low** |
+| **L8** Auditory guidance and warning signals | Directional signal sound directly adjusts crossing trajectory and response timing | Movement (crossing accuracy, detection timing, smoothness of deceleration) | mixed | 4 | high 1 · mod 2 · low 1 | **low** |
+| **L9** Slowing pedestrian pace by natural sound | Noise provokes avoidance and speeds passage; natural sound is assumed to reverse it | Movement (walking speed) | mixed | 5 | high 1 · low 4 | **very low** |
+| **L10** Speech-interference criteria for siting social space | Noise interferes with speech, forcing conversation to stop or voices to rise, and eventually deterring verbal interaction altogether | Social interaction (conversation duration, vocal effort); acceptance of verbal interaction | promotes | 3 | high 2 · mod 1 | **low** |
+
+**How to read the grades.** *moderate* (4) — Include in a design proposal, with post-occupancy monitoring · *low* (5) — Test as a hypothesis; do not write into a standard or guideline · *very low* (1) — No prescriptive basis at present.
+
 Two attributions matter more than the grades.
 
 **First, the social-interaction result cannot be attributed to either adding natural sound or removing
@@ -489,10 +587,10 @@ across the significance threshold came from one machinery-noise experiment retri
 searching.
 
 **Second, the walking-speed literature is narrower than its citation count suggests.** Beyond the
-quality collapse already reported, two structural features emerged during appraisal. Three of the four
+quality collapse already reported, two structural features emerged during appraisal. Most of the
 pooled effects manipulated audio **through headphones** during a walk rather than changing the sound of
-the space. And the walking evidence is substantially **one research programme**: three of the four
-pooled effects come from two studies by the same Czech group (Franěk et al., 2018, 2019), and the two
+the space. And the walking evidence is substantially **one research programme**: two of the three
+pooled effects come from studies by the same Czech group (Franěk et al., 2018, 2019), and the two
 new high-quality walking papers are from the same group on the same 1.75–1.8 km circuit, two of them
 sharing an identical belt-camera and annotation protocol. The remaining pooled effect is an Algerian
 field observation whose sign is opposite (Berkouk et al., 2020).
@@ -594,7 +692,7 @@ independent reviewers. Two publication pairs share samples; only one member of e
 pool. Reporting bias could not be assessed in any cluster because *k* never reached the pre-specified
 threshold of 10, so small-study effects remain a live possibility and the pooled estimates are upper
 bounds. Registered subgroup analyses were not performed for the same reason — clusters of three to
-seven estimates cannot be split. Prediction intervals include zero in all four clusters, so neither
+six estimates cannot be split. Prediction intervals include zero in all four clusters, so neither
 significant result should be read as a forecast for a new study. Finally, the significance of the
 social-interaction cluster depends on a single study obtained by citation searching, and would not
 have been observed from database searching alone.
@@ -610,7 +708,7 @@ only two exclude zero for the mean effect — and none excludes zero in its pred
 best-established behavioural consequence of the acoustic environment is **social**: machinery noise is
 associated with reduced interaction between strangers in two independent field experiments using
 different noise sources. The most frequently cited claim — that noise makes people walk faster — rests
-on four effects that are all rated low quality, mostly manipulate audio through headphones rather than
+on three effects that are all rated low quality, mostly manipulate audio through headphones rather than
 changing the space, and come substantially from a single research programme on a single route.
 
 Nearly half the evidence runs in the reverse direction: people's activity produces the soundscape as

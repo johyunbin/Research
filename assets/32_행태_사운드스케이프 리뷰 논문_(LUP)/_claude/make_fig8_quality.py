@@ -46,8 +46,15 @@ ITEMS = {
 
 
 def main():
-    q = list(csv.DictReader(open(os.path.join(FT, "quality_v2.csv"), encoding="utf-8-sig")))
-    d = list(csv.DictReader(open(os.path.join(FT, "quality_detail_v2.csv"), encoding="utf-8-sig")))
+    # ⚠️ 종전 코드는 102편(민감도 4편 포함) 전건을 집계해 본문 §3.3(98편)과 문항 백분율이
+    #    어긋났다(4.4 = 41% vs 31%). FINAL_INCLUDE 로 맞춘다.
+    verd = {r["uid"]: r["final_verdict"] for r in csv.DictReader(
+        open(os.path.join(FT, "corpus_v4_verdicts.csv"), encoding="utf-8-sig"))}
+    keep = lambda u: verd.get(u) == "FINAL_INCLUDE"
+    q = [r for r in csv.DictReader(open(os.path.join(FT, "quality_v2.csv"), encoding="utf-8-sig"))
+         if keep(r["uid"])]
+    d = [r for r in csv.DictReader(open(os.path.join(FT, "quality_detail_v2.csv"),
+                                        encoding="utf-8-sig")) if keep(r["uid"])]
 
     from collections import Counter, defaultdict
     # 범주 라벨 → 숫자 코드

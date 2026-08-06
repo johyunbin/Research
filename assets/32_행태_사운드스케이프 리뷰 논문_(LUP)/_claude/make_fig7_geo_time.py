@@ -169,7 +169,7 @@ def main():
 
     fig.suptitle("Geographic and temporal distribution of the included studies",
                  fontsize=11.4, x=0.012, ha="left", y=0.985)
-    fig.text(0.012, 0.955, f"n = {tot} studies (98 included + 4 reserved for sensitivity). "
+    fig.text(0.012, 0.955, f"n = {tot} included studies. "
              "Panel (a) is the basis for the generalisability caveat in the Discussion.",
              fontsize=7.8, color=T.INK2, ha="left")
     fig.subplots_adjust(left=0.20, right=0.975, top=0.905, bottom=0.062)

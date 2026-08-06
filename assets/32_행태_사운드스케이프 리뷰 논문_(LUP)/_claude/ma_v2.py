@@ -49,46 +49,13 @@ def r_to_z(r, n):
     return 0.5 * math.log((1 + r) / (1 - r)), 1 / (n - 3)
 
 
-def reml_tau2(y, v, iters=500):
-    t2 = max(float(np.var(y, ddof=1) - np.mean(v)), 0.0) if len(y) > 1 else 0.0
-    for _ in range(iters):
-        w = 1 / (v + t2)
-        mu = np.sum(w * y) / np.sum(w)
-        new = max(float(np.sum(w ** 2 * ((y - mu) ** 2 - v)) / np.sum(w ** 2)), 0.0)
-        if abs(new - t2) < 1e-12:
-            break
-        t2 = new
-    return t2
+# ★ τ² 추정·풀링은 `ma_core` 하나만 쓴다.
+#   이 함수가 세 파일에 복제돼 있었고 셋 다 이름과 달리 **ML** 을 풀고 있었다(2026-08-06 적발).
+from ma_core import reml_tau2, pool as _core_pool, prediction_interval,     combine_within_study, var_from_ci
 
 
 def pool(rows, back_r=False):
-    y = np.array([r["g"] for r in rows], float)
-    v = np.array([r["v"] for r in rows], float)
-    k = len(y)
-    if k == 0:
-        return None
-    if k == 1:
-        est, se = float(y[0]), math.sqrt(float(v[0]))
-        o = dict(k=1, est=est, lo=est - 1.96 * se, hi=est + 1.96 * se,
-                 p=float(2 * (1 - stats.norm.cdf(abs(est / se)))), tau2=0.0, I2=0.0, Q=0.0,
-                 pooled=False)
-    else:
-        t2 = reml_tau2(y, v)
-        w = 1 / (v + t2)
-        mu = float(np.sum(w * y) / np.sum(w))
-        se = math.sqrt(1 / np.sum(w))
-        qhk = float(np.sum(w * (y - mu) ** 2) / (k - 1))
-        se_hk = se * math.sqrt(qhk)
-        tc = stats.t.ppf(0.975, k - 1)
-        wf = 1 / v
-        muf = float(np.sum(wf * y) / np.sum(wf))
-        Q = float(np.sum(wf * (y - muf) ** 2))
-        o = dict(k=k, est=mu, lo=mu - tc * se_hk, hi=mu + tc * se_hk,
-                 p=float(2 * (1 - stats.t.cdf(abs(mu / se_hk), k - 1))), tau2=t2,
-                 I2=max(0.0, (Q - (k - 1)) / Q) * 100 if Q > 0 else 0.0, Q=Q, pooled=True)
-    if back_r:
-        o["r"] = math.tanh(o["est"]); o["r_lo"] = math.tanh(o["lo"]); o["r_hi"] = math.tanh(o["hi"])
-    return o
+    return _core_pool(rows, back_r=back_r)
 
 
 def line(tag, o, back_r=False):
@@ -101,6 +68,49 @@ def line(tag, o, back_r=False):
     return s + "\n"
 
 
+def load_walk(rd, exclude_music=True):
+    """MA1 입력 — 규약 §3(클러스터×대비프레임당 논문 1효과)을 실제로 적용한다.
+
+    532 는 Exp1·Exp2 두 효과를 같은 대비프레임에서 보고한다. 종전 코드는 둘 다 넣어
+    k=4 로 풀링했는데 이는 **자체 규약 위반**이었다(2026-08-06 적발). 규약대로
+    논문 내 평균(효과 간 ρ=0.5 Borenstein)으로 합성한다.
+    """
+    rows = [dict(uid=r["no"], label=r["label"], g=float(r["g"]), v=float(r["var"]),
+                 contrast=r["contrast"])
+            for r in rd("ma_walking_input.csv") if "control" not in r["contrast"]]
+    if exclude_music:
+        rows = [r for r in rows if r["uid"] != "481"]        # 481=음악, 주분석 제외(D3-6)
+    out, seen = [], {}
+    for r in rows:
+        seen.setdefault(r["uid"], []).append(r)
+    for uid, grp in seen.items():
+        if len(grp) == 1:
+            out.append(grp[0]); continue
+        g, v = combine_within_study([(x["g"], x["v"]) for x in grp])
+        out.append(dict(uid=uid, label=grp[0]["label"].split(" Exp")[0] + " (Exp 합성)",
+                        g=g, v=v, contrast=grp[0]["contrast"],
+                        note=f"규약 §3 — 논문 내 {len(grp)}효과 평균(ρ=0.5)"))
+    return sorted(out, key=lambda r: r["uid"])
+
+
+def load_corr(rd, r_to_z):
+    """MA4 입력 — status=exclude 행은 넣지 않고, v_override 가 있으면 그 분산을 쓴다."""
+    out = []
+    for r in rd("ma_correlation_input.csv"):
+        if (r.get("status") or "include").strip() == "exclude":
+            continue
+        rv = float(r["r"])
+        if (r.get("v_override") or "").strip():
+            import math as _m
+            z, v = _m.atanh(rv), float(r["v_override"])
+        else:
+            z, v = r_to_z(rv, int(r["n"]))
+        out.append(dict(uid=r["no"], label=r["label"], g=z, v=v, r=rv,
+                        n=int(r["n"]) if (r.get("n") or "").strip() else None,
+                        src=r.get("src", "")))
+    return out
+
+
 def main():
     # ── 기존 입력 로드 ─────────────────────────────────────────────
     def rd(fn):
@@ -109,15 +119,12 @@ def main():
     walk_all = [dict(uid=r["no"], label=r["label"], g=float(r["g"]), v=float(r["var"]),
                      contrast=r["contrast"])
                 for r in rd("ma_walking_input.csv") if "control" not in r["contrast"]]
-    walk = [r for r in walk_all if r["uid"] != "481"]          # 481=음악, 주분석 제외(정본)
+    walk = load_walk(rd)                                       # 규약 §3 합성 적용 · 481 제외(D3-6)
     stay = [dict(uid=r["no"], label=r["label"], g=float(r["g"]), v=float(r["v"]))
             for r in rd("ma_staying_input.csv")]
     soc = [dict(uid=r["no"], label=r["label"], g=float(r["g"]), v=float(r["v"]))
            for r in rd("ma_social_input.csv")]
-    corr = []
-    for r in rd("ma_correlation_input.csv"):
-        z, v = r_to_z(float(r["r"]), int(r["n"]))
-        corr.append(dict(uid=r["no"], label=r["label"], g=z, v=v, r=float(r["r"]), n=int(r["n"])))
+    corr = load_corr(rd, r_to_z)
 
     new_rows = []
 
@@ -239,8 +246,30 @@ def main():
              "추가하지 못했다. 조건 대비 실험의 희소성이라는 리뷰의 핵심 주장이 재확인된다.\n")
     open(os.path.join(MA, "ma_v2_summary.md"), "w", encoding="utf-8").write("".join(L))
 
+    # ── Figure 2용 기계 판독 export ──────────────────────────────────
+    # ★ Fig 2 는 종전에 효과값·풀링값을 **전부 하드코딩**하고 있었다. 정본이 바뀌어도
+    #   그림은 옛 숫자를 그리므로, 이번 드리프트를 만든 원인 중 하나다. 여기서 내보낸다.
+    import json
+    FOREST = [("walking", "MA1 보행속도 (주분석·불변)", walk, False),
+              ("staying", "MA2 체류 (주분석·불변)", stay, False),
+              ("social", "MA3 사회적 상호작용 (신규 CT0025 포함)", soc_v2, False),
+              ("correlation", "MA4 지각–행태 상관 (신규 2편 포함)", corr_v2, True)]
+    fx = {}
+    for key, tag, rows_, br in FOREST:
+        o = res[tag][0]
+        fx[key] = {
+            "effects": [{"uid": r["uid"], "label": r.get("label", r["uid"]),
+                         "est": r["g"], "var": r["v"],
+                         "route": ("citation-tracking" if str(r["uid"]).startswith("CT")
+                                   else "db-search")} for r in rows_],
+            "pooled": {k: o[k] for k in ("k", "est", "lo", "hi", "p", "I2", "tau2") if k in o},
+            "back_r": br,
+        }
+    with open(os.path.join(MA, "ma_forest_data.json"), "w", encoding="utf-8") as f:
+        json.dump(fx, f, ensure_ascii=False, indent=1)
+
     print("".join(L))
-    print(f"[저장] ma/ma_v2_summary.md · ma_v2_new_inputs.csv")
+    print(f"[저장] ma/ma_v2_summary.md · ma_v2_new_inputs.csv · ma_forest_data.json")
 
 
 if __name__ == "__main__":
