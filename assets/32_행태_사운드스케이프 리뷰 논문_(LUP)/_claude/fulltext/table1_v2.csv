@@ -68,34 +68,36 @@
 67,CT0220,citation-tracking,[CT0220] The Influence of Multi-Sensory Per…,2024,China,street,survey,471 (40개 조사지점; ser…,지각 사운드스케이프 2문항 'The soundscape is pleasant'·'T…,staying; social; activity; movement,G1,forward,low,,FINAL_INCLUDE
 68,CT0322,citation-tracking,[CT0322] Estimation of the Occurrence and S…,2024,Spain,street,observational,105 (보행자 설문 응답자; 상…,"도로교통이 주 음원인 도시가로 표본지점에서 15분 현장 실측(마이크 1.5 m, c…",social,G1,forward,moderate,,FINAL_INCLUDE
 69,CT0371,citation-tracking,[CT0371] Three pedestrian phasing with audi…,2024,Canada,street,field experiment,18 participants (1…,3종 pedestrian phasing x APS 구성(exclusive+non-d…,movement,G2;G3,forward,low,,FINAL_INCLUDE
-70,1009,db-search,Cao & Kang (2024),2024,UK,square,field experiment,120,"foreground vs background human sound, 360-degree scenes",social,G1,forward,moderate,,SENS_ONLY
-71,1069,db-search,Chen et al. (2024),2024,China,residential,field experiment,NR,"birdsong, water vs traffic, construction loudspeaker playback",social,G2,forward,high,MA3,FINAL_INCLUDE
-72,1076,db-search,Guo et al. (2024),2024,China,park,survey,419,perceived pleasantness and eventfulness; LAeq 43.9-67.7 dBA,staying; activity,G1,both,moderate,MA4,FINAL_INCLUDE
-73,1020,db-search,Jin et al. (2024),2024,China,park,mixed,10 sites,park LAeq near expressway; 77 dB threshold,space-use; activity,G1;G2,forward,low,,FINAL_INCLUDE
-74,1053,db-search,Joo et al. (2024),2024,USA,park,observational,355 parks,park noise level among 12 environmental predictors,space-use; activity,G3,forward,low,,FINAL_INCLUDE
-75,1018,db-search,Lai et al. (2024),2024,China,park,mixed,1044,"park LAeq with traffic, music, human, natural sounds",staying; movement; activity,G1;G2,reverse,high,MA4,FINAL_INCLUDE
-76,999,db-search,Lu et al. (2024),2024,China,lab(outdoor scene),lab experiment,30,68 dB traffic noise with activity sounds,activity; social,G1,reverse,moderate,,FINAL_INCLUDE
-77,984,db-search,Wang & Xiao (2024),2024,China,park,mixed,262+120,"musical fountain on vs off, broadcast music",staying; social; activity; space-use,G1,both,low,,FINAL_INCLUDE
-78,1005,db-search,Wogan & Kennedy (2024),2024,Ireland,street,mixed,335 (+81403 trips),"Dublin road traffic noise, cyclists 71-75 dB",movement; space-use; activity,G1;G3,forward,low,,FINAL_INCLUDE
-79,CT0348,citation-tracking,[CT0348] Noise Levels Due to Commercial and…,2025,Spain,street,mixed,NR (참가자 없음; 관측 단위 …,상업·여가활동에서 발생하는 인위적 소음(Street Canyon). 파사드 부착 키…,space-use,G3,reverse,moderate,,FINAL_INCLUDE
-80,CT0356,citation-tracking,[CT0356] Soundscape and public realm – a qu…,2025,Germany,square,quasi-experiment,"10 (IVP 평가자, 속성 76…",8개 지점의 실제 도시 음환경을 ZOOM-VR 1차 앰비소닉 마이크와 Insta36…,space-use; social; activity,G1;G2,both,low,,SENS_ONLY
-81,1178,db-search,Ba et al. (2025),2025,China,waterfront,field experiment,NR,light music or fan sound with odour,movement; staying,G2,forward,moderate,,FINAL_INCLUDE
-82,1115,db-search,Calafiore & Tong (2025),2025,UK; Australia,street,observational,NR,modelled noise maps along commuting itineraries,movement,G3,forward,high,,FINAL_INCLUDE
-83,1122,db-search,Chen & Kang (2025),2025,UK,lab(outdoor scene),lab experiment,NR,"bird and fountain sound tempo, NPC density",social; movement,G1,forward,low,,FINAL_INCLUDE
-84,1110,db-search,Gao & Fang (2025),2025,Australia,street,observational,8854 points,street-view-predicted noise intensity and sound quality,movement; activity,G3,forward,low,,FINAL_INCLUDE
-85,1121,db-search,Lin et al. (2025),2025,China,campus,mixed,NR,campus outdoor LAeq with thermal (PET) environment,activity,G1,reverse,low,,FINAL_INCLUDE
-86,1177,db-search,Mansouri et al. (2025),2025,Algeria,street,mixed,50+58,in-situ LAeq across five urban morphological zones,movement; space-use,G1,forward,moderate,MA4,FINAL_INCLUDE
-87,1138,db-search,Nguyen et al. (2025),2025,Vietnam; Japan,street,mixed,30,motorcycle horn signal patterns P1-P6,activity; social,G1;G2,reverse,low,,FINAL_INCLUDE
-88,1149,db-search,Yu (2025),2025,NR,park,mixed,NR,sound-moderating quiet art installations vs control zones,space-use; activity,G2,forward,low,,FINAL_INCLUDE
-89,1174,db-search,Zhang et al. (2025),2025,China,street,observational,NR,street-view-predicted soundscape and streetscape perception indicators,movement; activity,G3,forward,moderate,,FINAL_INCLUDE
-90,CT0414,citation-tracking,[CT0414] Behavioral mapping of multisensory…,2026,China,waterfront,qualitative,"1,167명 관찰 기록(user …",감각공간 4유형(시각/청각/촉각/후각) 중 청각지각공간 노출 — 자연음(bird s…,movement; staying; space-use; social,G1;G2,forward,high,MA3(sens),FINAL_INCLUDE
-91,1226,db-search,Dzhambov et al. (2026),2026,Bulgaria,residential,survey,4640,road traffic Lden (50 m grid) with PM2.5,activity,G1,forward,high,,FINAL_INCLUDE
-92,1280,db-search,Fu et al. (2026),2026,China,mixed,mixed,241 (+9000 photos),rural village Natural Sound Index; 5-min LAeq,staying; space-use; social,G1;G2,forward,moderate,MA2,FINAL_INCLUDE
-93,1306,db-search,Gao & Fang (2026),2026,China,street,observational,NR,"street-view-predicted natural, mechanical sound and noise intensity",movement; space-use,G3,forward,low,,FINAL_INCLUDE
-94,1211,db-search,Hüg et al. (2026),2026,Argentina,street,observational,2 (1 dyad),urban traffic noise context during dyad walking,movement; social,G2,forward,moderate,,FINAL_INCLUDE
-95,1202,db-search,Lin et al. (2026),2026,China (Hong Kong),residential,mixed,NR,"housing estate outdoor soundscape, binaural loudness and dominance",activity; space-use,G2,reverse,low,,FINAL_INCLUDE
-96,1232,db-search,Ozturk et al. (2026),2026,6 countries,street,qualitative,12,"expert-recalled street sounds: traffic, sirens, soundmarks",movement; social; space-use; staying,G1,forward,high,,FINAL_INCLUDE
-97,1258,db-search,Peng et al. (2026),2026,China,square,mixed,NR,greenway plaza LAeq/L10 by enclosure level,staying; social; activity,G1;G2,forward,moderate,,FINAL_INCLUDE
-98,1242,db-search,Ren et al. (2026),2026,China,waterfront,survey,201,"sea waves, wind and traffic sounds; LAeq",staying; activity; space-use,G1,reverse,high,,FINAL_INCLUDE
-99,1272,db-search,Sun et al. (2026),2026,Netherlands,lab(outdoor scene),lab experiment,40,quiet vs noisy street with eHMI sound,movement,G3,forward,high,,FINAL_INCLUDE
-100,1221,db-search,Zhou et al. (2026),2026,China,street,mixed,315,"commercial street LAeq, L10-L90 and perceived soundscape",staying; space-use,G1;G3,forward,low,MA4,FINAL_INCLUDE
+70,OAS0198,openalex-supplementary,[OAS0198] Acoustic and perceptual spatial de…,2024,France; Algeria,square,mixed,NR (인터뷰 응답자 수·측정지점…,광장 중앙 분수의 물소리 대 도시 교통 소음(urban drone). Fig.2 P…,space-use; social; staying,G1;G2,forward,low,,FINAL_INCLUDE
+71,1009,db-search,Cao & Kang (2024),2024,UK,square,field experiment,120,"foreground vs background human sound, 360-degree scenes",social,G1,forward,moderate,,SENS_ONLY
+72,1069,db-search,Chen et al. (2024),2024,China,residential,field experiment,NR,"birdsong, water vs traffic, construction loudspeaker playback",social,G2,forward,high,MA3,FINAL_INCLUDE
+73,1076,db-search,Guo et al. (2024),2024,China,park,survey,419,perceived pleasantness and eventfulness; LAeq 43.9-67.7 dBA,staying; activity,G1,both,moderate,MA4,FINAL_INCLUDE
+74,1020,db-search,Jin et al. (2024),2024,China,park,mixed,10 sites,park LAeq near expressway; 77 dB threshold,space-use; activity,G1;G2,forward,low,,FINAL_INCLUDE
+75,1053,db-search,Joo et al. (2024),2024,USA,park,observational,355 parks,park noise level among 12 environmental predictors,space-use; activity,G3,forward,low,,FINAL_INCLUDE
+76,1018,db-search,Lai et al. (2024),2024,China,park,mixed,1044,"park LAeq with traffic, music, human, natural sounds",staying; movement; activity,G1;G2,reverse,high,MA4,FINAL_INCLUDE
+77,999,db-search,Lu et al. (2024),2024,China,lab(outdoor scene),lab experiment,30,68 dB traffic noise with activity sounds,activity; social,G1,reverse,moderate,,FINAL_INCLUDE
+78,984,db-search,Wang & Xiao (2024),2024,China,park,mixed,262+120,"musical fountain on vs off, broadcast music",staying; social; activity; space-use,G1,both,low,,FINAL_INCLUDE
+79,1005,db-search,Wogan & Kennedy (2024),2024,Ireland,street,mixed,335 (+81403 trips),"Dublin road traffic noise, cyclists 71-75 dB",movement; space-use; activity,G1;G3,forward,low,,FINAL_INCLUDE
+80,CT0348,citation-tracking,[CT0348] Noise Levels Due to Commercial and…,2025,Spain,street,mixed,NR (참가자 없음; 관측 단위 …,상업·여가활동에서 발생하는 인위적 소음(Street Canyon). 파사드 부착 키…,space-use,G3,reverse,moderate,,FINAL_INCLUDE
+81,CT0356,citation-tracking,[CT0356] Soundscape and public realm – a qu…,2025,Germany,square,quasi-experiment,"10 (IVP 평가자, 속성 76…",8개 지점의 실제 도시 음환경을 ZOOM-VR 1차 앰비소닉 마이크와 Insta36…,space-use; social; activity,G1;G2,both,low,,SENS_ONLY
+82,OAS0157,openalex-supplementary,"[OAS0157] Prayers at Dawn, Fuji at Noon: Mus…",2025,Nigeria,mixed,qualitative,20 (목적표집한 시장 상인·모터…,작업자가 스스로 재생·연행하는 음환경 — 오전 6시~10시 가스펠·공동기도·권면(S…,social; activity; staying,G1;G2,both,low,,FINAL_INCLUDE
+83,1178,db-search,Ba et al. (2025),2025,China,waterfront,field experiment,NR,light music or fan sound with odour,movement; staying,G2,forward,moderate,,FINAL_INCLUDE
+84,1115,db-search,Calafiore & Tong (2025),2025,UK; Australia,street,observational,NR,modelled noise maps along commuting itineraries,movement,G3,forward,high,,FINAL_INCLUDE
+85,1122,db-search,Chen & Kang (2025),2025,UK,lab(outdoor scene),lab experiment,NR,"bird and fountain sound tempo, NPC density",social; movement,G1,forward,low,,FINAL_INCLUDE
+86,1110,db-search,Gao & Fang (2025),2025,Australia,street,observational,8854 points,street-view-predicted noise intensity and sound quality,movement; activity,G3,forward,low,,FINAL_INCLUDE
+87,1121,db-search,Lin et al. (2025),2025,China,campus,mixed,NR,campus outdoor LAeq with thermal (PET) environment,activity,G1,reverse,low,,FINAL_INCLUDE
+88,1177,db-search,Mansouri et al. (2025),2025,Algeria,street,mixed,50+58,in-situ LAeq across five urban morphological zones,movement; space-use,G1,forward,moderate,MA4,FINAL_INCLUDE
+89,1138,db-search,Nguyen et al. (2025),2025,Vietnam; Japan,street,mixed,30,motorcycle horn signal patterns P1-P6,activity; social,G1;G2,reverse,low,,FINAL_INCLUDE
+90,1149,db-search,Yu (2025),2025,NR,park,mixed,NR,sound-moderating quiet art installations vs control zones,space-use; activity,G2,forward,low,,FINAL_INCLUDE
+91,1174,db-search,Zhang et al. (2025),2025,China,street,observational,NR,street-view-predicted soundscape and streetscape perception indicators,movement; activity,G3,forward,moderate,,FINAL_INCLUDE
+92,CT0414,citation-tracking,[CT0414] Behavioral mapping of multisensory…,2026,China,waterfront,qualitative,"1,167명 관찰 기록(user …",감각공간 4유형(시각/청각/촉각/후각) 중 청각지각공간 노출 — 자연음(bird s…,movement; staying; space-use; social,G1;G2,forward,high,MA3(sens),FINAL_INCLUDE
+93,1226,db-search,Dzhambov et al. (2026),2026,Bulgaria,residential,survey,4640,road traffic Lden (50 m grid) with PM2.5,activity,G1,forward,high,,FINAL_INCLUDE
+94,1280,db-search,Fu et al. (2026),2026,China,mixed,mixed,241 (+9000 photos),rural village Natural Sound Index; 5-min LAeq,staying; space-use; social,G1;G2,forward,moderate,MA2,FINAL_INCLUDE
+95,1306,db-search,Gao & Fang (2026),2026,China,street,observational,NR,"street-view-predicted natural, mechanical sound and noise intensity",movement; space-use,G3,forward,low,,FINAL_INCLUDE
+96,1211,db-search,Hüg et al. (2026),2026,Argentina,street,observational,2 (1 dyad),urban traffic noise context during dyad walking,movement; social,G2,forward,moderate,,FINAL_INCLUDE
+97,1202,db-search,Lin et al. (2026),2026,China (Hong Kong),residential,mixed,NR,"housing estate outdoor soundscape, binaural loudness and dominance",activity; space-use,G2,reverse,low,,FINAL_INCLUDE
+98,1232,db-search,Ozturk et al. (2026),2026,6 countries,street,qualitative,12,"expert-recalled street sounds: traffic, sirens, soundmarks",movement; social; space-use; staying,G1,forward,high,,FINAL_INCLUDE
+99,1258,db-search,Peng et al. (2026),2026,China,square,mixed,NR,greenway plaza LAeq/L10 by enclosure level,staying; social; activity,G1;G2,forward,moderate,,FINAL_INCLUDE
+100,1242,db-search,Ren et al. (2026),2026,China,waterfront,survey,201,"sea waves, wind and traffic sounds; LAeq",staying; activity; space-use,G1,reverse,high,,FINAL_INCLUDE
+101,1272,db-search,Sun et al. (2026),2026,Netherlands,lab(outdoor scene),lab experiment,40,quiet vs noisy street with eHMI sound,movement,G3,forward,high,,FINAL_INCLUDE
+102,1221,db-search,Zhou et al. (2026),2026,China,street,mixed,315,"commercial street LAeq, L10-L90 and perceived soundscape",staying; space-use,G1;G3,forward,low,MA4,FINAL_INCLUDE

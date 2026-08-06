@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Paper32 — 증거지도 재집계 v2 (두 갈래 통합 코퍼스 96편 기준)
-1차 evidence_map.md는 81편 기준 수기 집계였다. 여기서는 corpus_v3_extraction.csv에서
+Paper32 — 증거지도 재집계 v2 (3갈래 통합 코퍼스 98편 기준)
+1차 evidence_map.md는 81편 기준 수기 집계였다. 여기서는 corpus_v4_extraction.csv에서
 기계적으로 산출해 그림·표와 단일 출처를 공유하게 만든다.
 출력: fulltext/evidence_map_v2.md · evidence_counts_v2.csv
 """
@@ -28,10 +28,10 @@ SOURCES = [
 
 
 def main():
-    rows = list(csv.DictReader(open(os.path.join(FT, "corpus_v3_extraction.csv"),
+    rows = list(csv.DictReader(open(os.path.join(FT, "corpus_v4_extraction.csv"),
                                     encoding="utf-8-sig")))
     verd = {r["uid"]: r["final_verdict"] for r in
-            csv.DictReader(open(os.path.join(FT, "corpus_v3_verdicts.csv"), encoding="utf-8-sig"))}
+            csv.DictReader(open(os.path.join(FT, "corpus_v4_verdicts.csv"), encoding="utf-8-sig"))}
     qual = {r["uid"]: r["quality_tier"] for r in
             csv.DictReader(open(os.path.join(FT, "quality_v2.csv"), encoding="utf-8-sig"))}
     inc = [r for r in rows if verd.get(r["uid"]) == "FINAL_INCLUDE"]
@@ -106,7 +106,7 @@ def main():
                 w.writerow(["generation_x_band", b, g, band[b][g]])
 
     L = [f"# Paper32 — 증거 지도 v2 (포함 {len(inc)}편)\n",
-         "\n⚠️ **이 문서는 `corpus_v3_extraction.csv`에서 기계적으로 산출된다**(수기 집계 아님). "
+         "\n⚠️ **이 문서는 `corpus_v4_extraction.csv`에서 기계적으로 산출된다**(수기 집계 아님). "
          "그림·표와 단일 출처를 공유하므로 수치가 어긋날 수 없다. 재생성 = `rebuild_evidence_map.py`.\n",
          f"\n갈래 구성: {dict(by_src)} · 민감도 전용 {len(rows)-len(inc)}편은 제외.\n",
          "\n## 1. 행태 도메인 × 음원 유형\n\n"
@@ -155,7 +155,7 @@ def main():
              "새 측정법이 옛 측정법을 **대체하지 않았다** — 측정 세대는 교체되지 않고 층위가 추가된다.\n")
 
     L.append("\n## 4. 갈래별 품질 구성\n\n| 갈래 | high | moderate | low |\n|---|---|---|---|\n")
-    for s in ("db-search", "citation-tracking"):
+    for s in ("db-search", "citation-tracking", "openalex-supplementary"):
         c = q_by_src[s]
         L.append(f"| {s} | {c['high']} | {c['moderate']} | {c['low']} |\n")
     L.append("\n**읽기**: 두 갈래의 품질 구성이 사실상 같다. 인용추적이 주변부 문헌만 "

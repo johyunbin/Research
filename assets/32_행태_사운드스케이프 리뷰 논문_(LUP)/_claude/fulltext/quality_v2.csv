@@ -83,6 +83,8 @@
 980,db-search,full,980,Quantitative descriptive,Y,Y,Y,CT,Y,Y,N,3,moderate,"단일 공원·명절 표집 대표성 제한, 매개분석 표 부호가 상관분석과 상충"
 984,db-search,full,984,Quantitative descriptive,Y,Y,Y,CT,N,Y,N,2,low,"Ln 백분위지수를 측정시간으로 오해, 검정기법 미명시, 경관·소리 문항 미분리"
 999,db-search,full,999,Quantitative non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"표본 30명 전원 대학원생, 자극 제시순서 무작위화·counterbalancing 미보고"
+OAS0157,openalex-supplementary,full,OAS0157,Qualitative,Y,Y,Y,Y,CT,N,CT,2,low,"§Data Analysis가 '내용분석' 한 문장뿐 — 코딩·포화·성찰성 미보고. Diener 3요인 웰빙 해석은 측정 없이 배정, 관찰 기간·횟수도 미보고."
+OAS0198,openalex-supplementary,full,OAS0198,Mixed methods,Y,Y,Y,N,N,N,N,1,low,체계적 행태관찰 프로토콜·계수 부재 — 벤치 이용·구역 빈도 주장이 실측·인터뷰 어디에도 근거 없음. 3개 성분이 서로 다른 광장에 분리 배정돼 통합 미실현.
 CT0001,citation-tracking,full,1,Quantitative descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"응답률·표본 인구학적 특성 미보고로 대표성은 타 논문 인용에 의존, 측정한 기온·습도·조도는 분석 미반영"
 CT0007,citation-tracking,full,7,Quantitative descriptive,Y,Y,Y,Y,Y,CT,N,3,moderate,35개 GLM을 다중비교 보정 없이 검정. 접촉·거절 인원 미보고로 무응답 편의 판단 불가. 체류시간은 자기보고 4구간뿐.
 CT0025,citation-tracking,full,25,Quantitative non-randomised,Y,Y,N,Y,Y,CT,Y,3,moderate,"남성만 표집해 대표성 제한, 조건 배정 순서·시간대 교란 미보고. 노출 조작과 결과 측정 절차는 정밀"

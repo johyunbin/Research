@@ -1,0 +1,111 @@
+sid,verdict,reason_code,note,doi,title
+111,EXCLUDE,E5,소음 건강 정책 논설·실증 아님,10.1016/j.outlook.2017.08.001,Reduce noise: Improve the nation's health
+112,EXCLUDE,E5,도시 청취 도서 서평·비실증,10.1353/atj.2020.0049,Tokyo Listening: Sound and Sense in a Contemporary City by Lorraine Plourde
+113,EXCLUDE,E7,카탈루냐어 지역 논문·문헌유형 불명,,El Sanatori del Montseny
+114,EXCLUDE,E5,특집호 편집 사설·실증 아님,10.1515/noise-2021-0015,Noise Mapping Special Issue: The noise climate at the time of SARS-CoV-2 Virus/COVID-19 Disease
+115,EXCLUDE,E5,신경발달 소음 논평·실증 아님,10.1038/s41370-024-00725-3,Neurodevelopmental costs of noise pollution–is history rhyming again?
+116,EXCLUDE,E5,도시화·정신건강 사설·비실증,10.4103/ipj.ipj_299_23,Declining mental health: An aftermath of fast-paced urbanization
+117,EXCLUDE,E2,치매 환자 임상 청각검사·실내 임상,10.1002/alz.080144,The auditory phenotype of behavioural variant frontotemporal dementia
+118,EXCLUDE,E5,제인 오스틴 소설 문학비평·비실증,10.1353/ecy.2023.a950265,“Noisy Pleasures” and “Noisy Evil[s]”: The Political Dimensions of Sound in Jane Austen’s Mansfield Park
+119,EXCLUDE,E4,위성영상 소음지도 추정·행태 아웃컴 없음,10.6008/cbpc2179-6858.2022.007.0006,Environmental noise assessment using vegetation indices extracted from satellite imaging
+120,EXCLUDE,E1,고대 문헌 속 조류 도서 서평,10.1093/auk/ukz001,Birds in the Ancient World: Winged Words
+121,EXCLUDE,E5,환경·정신건강 임상진료지침·비실증,10.4103/indianjpsychiatry.indianjpsychiatry_792_23,Clinical practice guidelines on the environment and mental well-being
+122,EXCLUDE,E5,예술 설치작품 소개 논설·비실증,10.21037/cdt.2017.03.08,The landscape of congenital heart disease
+123,EXCLUDE,E5,차량추종 교통소음 예측 시뮬레이션·행태 없음,,Research on Road Traffic Noise Prediction Model Based on Car-following Theory
+124,EXCLUDE,E1,동물 의사소통 진화 도서 서평,10.1641/0006-3568(2006)56[849:waash]2.0.co;2,The Evolution of Animal Communication: Reliability and Deception in Signaling Systems
+125,RETRIEVE,,도시광장 이용·체류 의향과 교통소음 함께 다룸,10.47116/apjcri.2025.08.30,"An Analysis of Environmental Design Perception and Experience in Urban Squares Based on Phenomenology of Perception: A Citizen Interview Study of Dongfanghong Square in Lanzhou, China"
+126,EXCLUDE,E7,말레이어 논문·언어 부적합,,Tahap kebisingan trafik dan kesannya terhadap persekitaran pengajaran-pembelajaran sekolah di pusat bandar Kuala Terengganu (Traffic noise and its impact on school teaching and learning environment in Kuala Terengganu city center)
+127,EXCLUDE,E4,관상동맥 석회화 결과·행태 아웃컴 아님,10.1097/01.ede.0000392485.59925.d8,Does Traffic Noise Explain the Association of Residential Proximity to Traffic With Coronary Artery Calcification?
+128,EXCLUDE,E4,SID 127 동일연구 독일 학회초록·건강 결과만,10.1055/s-0030-1266411,Does traffic noise explain the association of residential proximity to traffic with coronary artery calcification?
+129,EXCLUDE,E1,동물 전통·문화 도서 서평,10.1641/0006-3568(2004)054[0958:dfc]2.0.co;2,DIVING FOR CHOCOLATE
+130,EXCLUDE,E3,"직장인 스트레스·대처, 음환경 변수 없음",10.1016/0091-7435(79)90307-4,Perceived stress and coping behavior: A social-psychologic comparison of hypertensive and normotensive employees
+131,EXCLUDE,E7,INTER-NOISE 학회초록·차량 소음규제,,A speed and acceleration limit in the noise type approval of vehicles will enable silent cars to reveal their silence.
+132,EXCLUDE,E5,청소년 비만·야간소음 논평·비실증,10.1002/oby.20712,"Teens' obesity, noise and sleep deprivation: A perverse liaison. Let's move beyond “movida”"
+133,EXCLUDE,E6,대류권 전파 산란 물리학·주제 무관,10.1016/0021-9169(59)90103-5,Radio scattering by tropospheric irregularities
+134,EXCLUDE,E4,소음짜증·혈압 결과·행태 아웃컴 없음,10.1097/00001648-200407000-00416,"URBANIZATION, HOUSING QUALITY AND COMMUNITY NOISE ANNOYANCE"
+135,EXCLUDE,E6,건물일체형 태양광 리모델링·주제 무관,10.69554/tmpv1796,BIPV solutions in district renovations towards nearly zero-energy cities
+136,EXCLUDE,E2,학교 실내 대상·옥외 공공공간 아님,,Impact of Traffic-Related Environmental Noise on School Children and Teachers in a Northeast Brazilian Capital
+137,EXCLUDE,E2,치매 환자 임상 청각검사·실내 임상,10.1002/alz.091457,The auditory phenotype of behavioural variant and right temporal variant frontotemporal dementia
+138,EXCLUDE,E4,혈압·고혈압 유병 결과·행태 아님,10.1055/s-0030-1266410,Do proximity to high traffic and traffic noise influence blood pressure and hypertension in the general population?
+139,EXCLUDE,E1,조류-항공기 충돌 리뷰·동물 대상,10.1093/auk/119.3.587,Competition in the Air: Birds Versus Aircraft
+140,EXCLUDE,E2,실내 소매점 배경음악 실험·매장 내부,10.15728/bbr.2012.9.3.5,Influence of musical styles on customers attitude: experimental evidences in a retail store
+141,EXCLUDE,E1,열대림 조류 생물음향 모니터링·동물,10.15359/rca.58-2.1,"Caracterización acústica de fincas bajo pago por servicios ambientales en la Reserva Forestal Golfo Dulce, Costa Rica"
+142,EXCLUDE,E6,청소년 비만·두통 논평·주제 무관,10.1111/head.12374,Perceived Body Weight Status of Youngsters Interferes With Headache in Obese and Non‐Obese Subjects
+143,EXCLUDE,E4,ABS 방음패널 재료시험·인간 행태 없음,10.1016/j.protcy.2015.02.038,Soundproofing Performance Evaluation of Panels Made of Fibers of Acrylonitrile Butadiene Styrene Copolymer (ABS)
+144,EXCLUDE,E5,벤 존슨 희곡 소리 문학비평·비실증,10.1353/shb.2017.0044,“O’erwhelmed with Noise”: Sound-Houses and Sonic Experiments in Ben Jonson’s Epicene
+145,EXCLUDE,E1,동물 신호 도서 서평,10.1016/j.anbehav.2004.02.001,Animal Signals
+146,EXCLUDE,E5,초기 미국 소리 역사서 서평·비실증,10.1353/rah.2004.0027,When Sound Mattered
+147,EXCLUDE,E2,대학 기숙사 실내 만족도 평가,10.1007/s44217-024-00335-z,"Performance evaluation of students’ hostel of the college of Agriculture and Environmental Science Kaduna State University, Nigeria"
+148,EXCLUDE,E5,소음공해 동물·인체영향 종설·비실증,10.46505/ijbi.2021.3105,IMPACT OF SOUND POLLUTION ON ANIMAL AND HUMAN HEALTH
+149,EXCLUDE,E2,방음실 보청기 어음지각 실험·실내,10.1044/jshr.1704.724,Monaural and Binaural Speech Perception through Hearing Aids under Noise and Reverberation with Normal and Hearing-Impaired Listeners
+150,EXCLUDE,E5,미국 무용사 도서 서평·비실증,10.1525/jams.2021.74.3.663,"<i>Dancing Revolution: Bodies, Space and Sound in American Cultural History</i>, by Christopher J. Smith"
+151,EXCLUDE,E1,고래 발성 수동음향 모니터링·동물,10.1121/10.0010698,Spatio-temporal patterns of blue and fin whale sound production identified in National Oceanic Atmospheric Administration-National Park Service Ocean Noise Reference Station Network recording sites in the Pacific Ocean
+152,EXCLUDE,E5,민족음악학 학문론 에세이·비실증,10.14712/12128112.3516,Urbanity and Ethnomusicology; a Perspective from Singapore
+153,EXCLUDE,E5,녹지·사망률 코호트 연구 프로토콜,10.1186/2049-3258-73-s1-p16,Impact of green/blue spaces on specific morbidity and cause-specific mortality in Belgium: the GRESP-HEALTH project protocol (2015-2019)
+154,RETRIEVE,,캠퍼스 소음 실측과 집합·체류 행태 연계,10.54021/seesv5n1-116,"Acoustic analysis and control measures for noise in university: a case study of Adrar University, Algeria"
+155,EXCLUDE,E5,조류 발성 연구자 부고·비실증,10.1642/auk-17-135.1,"Peter R. Marler, 1928–2014"
+156,EXCLUDE,E5,멕시코 오페라 역사 연구·비실증,10.1093/oq/kbn018,"Staging the Nation: Race, Religion, and History in Mexican Opera of the 1940s"
+157,RETRIEVE,,시장·모터파크 음악과 사회적 상호작용 관찰,10.53982/agidigbo.2025.1302.15-j,"Prayers at Dawn, Fuji at Noon: Music, Spirituality and Everyday Wellbeing among Urban Informal Workers in Ibadan"
+158,EXCLUDE,E1,야생동물 소음반응 인지매개 논평·동물,10.1111/gcb.17083,Cognition as a neglected mediator of responses to anthropogenic noise
+159,EXCLUDE,E7,중국 지역 저널·언어·문헌유형 불명,,On the Types and Approaches of Urban Environment Treatment
+160,EXCLUDE,E2,치과 진료 중 음악요법·실내 임상,10.4103/ijmd.ijmd_12_17,Influence of music therapy to reduce anxiety during dental procedures in the Department of Prosthodontics
+161,EXCLUDE,E5,도시 소음공해 건강영향 종설,10.12692/jbes/27.4.28-31,Noise pollution in the urban environment and its impact on human health: A review
+162,EXCLUDE,E6,이징모형 자기엔트로피 계산·주제 무관,10.1016/j.matpr.2021.11.610,A Metropolis study of the isothermal magnetic entropy change in spin-1/2 Ising model
+163,EXCLUDE,E1,SID 139 중복·조류-항공기 충돌 리뷰,10.2307/4089960,Competition in the Air: Birds versus Aircraft
+164,EXCLUDE,E5,제국주의 감각사 역사 에세이·비실증,10.1111/j.1467-7709.2010.00909.x,"Empires of the Senses: How Seeing, Hearing, Smelling, Tasting, and Touching ShapedImperial Encounters"
+165,EXCLUDE,E5,바그다드 음악공간 강연 에세이·비실증,10.5406/21567417.66.1.03,The Social Spaces of Music Traditions in Baghdad before and after Destruction
+166,EXCLUDE,E5,소음·수면 건강영향 종설·비실증,10.1097/01.hj.0000833460.14917.2a,Noise Effects on Sleep and Health Consequences
+167,EXCLUDE,E5,대기오염 심혈관위험 사설·음환경 아님,10.1111/j.1365-2796.2011.02489.x,Air pollution and its cardiovascular and other risks
+168,EXCLUDE,E6,양자 보전생물학 논평·주제 무관,10.1111/conl.12195,Quantum Conservation Biology: A New Ecological Tool
+169,EXCLUDE,E6,간섭레이더 지진위험 실험·주제 무관,10.58286/29772,A Laboratory test aimed at demostrating the potential of an Interferometric Radar to estimate the Seismic Risk of damaged buildings
+170,EXCLUDE,E5,배경음악 정책 관점 논설·비실증,10.1097/01.hj.0000911304.65886.36,Hearing Health on Hold: Why We Need Silent Options
+171,EXCLUDE,E5,사운드 학술지 권두언·비실증,10.1525/res.2021.2.1.1,Introduction
+172,EXCLUDE,E6,NHS 데이터 옵트아웃·주제 무관,10.1093/pubmed/fdy059,The challenge of opt-outs from NHS data: a small-area perspective
+173,EXCLUDE,E5,소음-심질환 EEA보고서 논평·비실증,10.1093/eurheartj/ehaf1072,From noise to heart disease: European Environment Agency sounds the alarm for Europe 2025
+174,EXCLUDE,E5,돌봄과학 환경개념 사설·비실증,10.1111/scs.12620,On locating the metaparadigm concept environment within caring science
+175,EXCLUDE,E5,환경심리학 포용성 관점 논문·비실증,10.3389/fpsyg.2025.1674161,Toward a more just and inclusive environmental psychology: moving beyond genderwashing and performative inclusion
+176,EXCLUDE,E5,산림학 특집호 서문·비실증,10.5849/jof.16-010,A Special Issue of the &lt;I&gt;Journal of Forestry&lt;/I&gt;—Wilderness Science and Its Role in Wilderness Stewardship
+177,EXCLUDE,E5,근대초 지중해 포로 언어학습 사료연구,10.1111/rest.12565,"Language‐learning, orality, and multilingualism in early modern Anglophone narratives of Mediterranean captivity"
+178,EXCLUDE,E6,곤충학과 예술 연계 논설·주제 무관,10.1093/ae/tmae001,Art is Science is Art: Strengthening Connections Between Entomology and the Arts
+179,EXCLUDE,E7,ISEE 학회초록집·문헌유형 부적합,10.1097/ee9.0000000000000151,"ISEE Young Virtual Conference, Basel, Switzerland, 18-19 February, 2021"
+180,EXCLUDE,E5,배회 특집호 편집자 서문·비실증,10.5204/mcj.1598,Wandering
+181,EXCLUDE,E1,도로소음·절지동물 신호 가소성·동물,10.1111/1365-2435.12245,Road noise and signal divergence via developmental plasticity in an arthropod
+182,EXCLUDE,E6,구급의학 저널 논설·주제 무관,,Seeking basic needs and other tales of excess
+183,EXCLUDE,E5,포크너 소설 소음 문학비평·비실증,10.1353/fau.2012.0012,"“The Megaphone’s Bellowing and Bodiless Profanity”: If I Forget Thee, Jerusalem and the Culture of Cacophony"
+184,EXCLUDE,E5,뉴올리언스 흑인 음악사 연구·비실증,10.1093/musqtl/gdaa012,“Our Brothers Across Canal”: Forging Intraracial Unity through Western Art Music Practice in Mid-Nineteenth and Early Twentieth-Century New Orleans
+185,EXCLUDE,E5,FM시스템·인공와우 해설 기사·비실증,10.1044/leader.ftr6.11162006.22,Five Important Questions About FM Systems and Cochlear Implants
+186,EXCLUDE,E4,학회초록·정신건강 결과만·행태 아님,10.1097/01.ee9.0000611300.70501.8d,"On traffic-related air pollution and noise, mediating associations between urban design (including greenness) and mental health. Evidence from the Barcelona Health Survey"
+187,EXCLUDE,E3,야간 인공광 연구동향 기사·음환경 아님,10.1093/biosci/biad058,Artificial light at night: A research field in action
+188,EXCLUDE,E5,콩고분지 생물연구소 소개 기사·비실증,10.1002/bes2.1785,Biological Field Stations in the Heart of the Congo Basin Rainforest
+189,EXCLUDE,E6,제2언어 신경인지 논평·주제 무관,10.1111/lang.12618,The Neurocognitive Underpinnings of Second Language Processing: Knowledge Gains From the Past and Future Outlook: A Response to Open Peer Commentaries
+190,EXCLUDE,E6,텔레비전 교육 진정성 사례연구·주제 무관,10.5204/mcj.931,Crocodile Tears? Authenticity in Televisual Pedagogy
+191,EXCLUDE,E5,웃음·코미디 문화비평 에세이·비실증,10.1086/689658,"Taking Back the Laugh: Comedic Alibis, Funny Fails"
+192,EXCLUDE,E5,교실 음장시스템 도입 소개 기사·비실증,10.1044/leader.scm.11072006.1,Sound Field Systems on the Rise in Schools
+193,EXCLUDE,E6,가상세계 지식공학 사설·주제 무관,10.1111/j.1468-0394.2010.00556.x,Thinking inside the box
+194,EXCLUDE,E5,생태학회지 뉴스란·비실증,10.1890/1540-9295-11.3.116,Dispatches
+195,EXCLUDE,E7,학회 breakout 발표초록·예술연구,10.1016/j.jth.2017.11.062,Go your Gait! Artistic Research about Walking and Listening ( breakout presentation )
+196,EXCLUDE,E7,베토벤 학술대회 안내문·문헌유형 부적합,,"Fourth ""New Beethoven Research"" Conference: ""Beethoven and the Congress of Vienna"""
+197,EXCLUDE,E1,군사소음·파충류 스트레스 논평·동물,10.1002/ecy.4370,Stressed reptiles pay the metabolic price of war
+198,RETRIEVE,,공공광장 분수 소음과 사회적 실천·공간이용,10.54021/seesv5n3-086,Acoustic and perceptual spatial delimitation in public places - a multi-criteria method
+199,EXCLUDE,E5,국제식물학회 개최 보고·비실증,10.1002/tax.13247,"Report From The XX International Botanical Congress, Madrid, Spain, 21–27 July 2024"
+200,EXCLUDE,E5,노래 인류학 특집 서문·비실증,10.1111/aman.13785,Introduction
+201,EXCLUDE,E5,르네상스 이탈리아 여성·소리 역사·비실증,10.1215/0961754x-12264477,A Veil of Silence: Women and Sound in Renaissance Italy
+202,EXCLUDE,E6,알레르기 디지털헬스 탄소중립·주제 무관,10.1111/all.15880,The contribution of digital health to net zero patient care in allergic diseases: From concept to practice
+203,EXCLUDE,E5,아시아 아동 환경노출 스코핑 리뷰,10.1016/j.geopsy.2026.100058,Environmental exposures and cognitive-psychosocial development of children in Asia: A scoping review
+204,EXCLUDE,E6,고딕성당 모달시험·주제 무관,10.1111/j.1747-1567.2009.00523.x,FULL-SCALE MODAL TESTING OF VAULTED GOTHIC CHURCHES: LESSONS LEARNED
+205,EXCLUDE,E5,소아 수면문제 임상 종설·비실증,10.1542/pir.27.12.455,Sleep Problems
+206,EXCLUDE,E2,싱가포르 초등학교 교실 음향·실내,10.1121/1.5014701,Study of architectural design &amp; acoustic conditions of primary schools in Singapore
+207,EXCLUDE,E1,조류권 관련 논평·동물 대상,10.1016/j.cub.2022.09.046,The avisphere
+208,EXCLUDE,E5,역사 권력 사운드스케이프 워크숍 보고,10.1093/em/caab061,Sounds powerful
+209,RETRIEVE,,공원 코트 음향공 실험·시각장애 테니스 참여,10.52383/itfcoaching.v31i89.364,"Experiments to identify the optimal sound to use in a new sound ball to improve recruitment, retention, health, and wellness for blind and visually impaired tennis players"
+210,EXCLUDE,E6,멕시코 마약소설 생태비평·주제 무관,10.1093/isle/isw012,"Narco-Pastoral: Drug Trafficking, Ecology, and the Trope of the Noble Campesino in Three Mexican Narconovelas"
+211,EXCLUDE,E6,산호 감각 문학·환경비평·주제 무관,10.1093/isle/isab050,Sensing Black Coral
+212,EXCLUDE,E3,대기질 노출모델 학회초록·음환경 아님,10.1097/00001648-200611001-00121,Development and Application of Exposure Modeling Techniques to Support Efficient Air-Quality Management
+213,EXCLUDE,E7,공중보건 학회초록집·문헌유형 부적합,10.1097/md.0000000000042787,2nd International Conference on Public Health and Health Sciences (PHHS2025)
+214,EXCLUDE,E7,스웨덴 도로망 기관보고서·문헌유형 부적합,,IMPROVEMENTS TO THE MUNICIPAL ROAD NETWORK IN FIVE TOWNS: DEMONSTRATION PROJECT IN MAELARDALEN REGION OF THE SWEDISH NATIONAL ROAD ADMINISTRATION IN 2001/2002
+215,EXCLUDE,E5,대중음악 생산 이론 에세이·비실증,10.1093/musqtl/gdac009,“This Year’s Model”: Toward a Sloanist Theory of Popular Music Production
+216,EXCLUDE,E5,소음 환경기준 문헌·법제 검토·비실증,10.3390/su18146996,Noise as an Environmental Pressure Factor: Implications for Shaping Environmental Standards and Sustainable Environmental Management
+217,EXCLUDE,E5,캄보디아계 청취 서사 에세이·비실증,10.5406/19452349.40.3.05,Cambodian American Listening as Memory Work
+218,EXCLUDE,E5,스캐너 사운드아트 작가 에세이·비실증,10.5204/mcj.2390,Scan and Deliver
+219,EXCLUDE,E5,대중음악 명명 정치 에세이·비실증,10.1111/j.1524-2226.2006.00073.x,The Politics of Nomenclature
+220,RETRIEVE,,대형점포 입지·쇼핑행태와 교통소음 영향평가,10.2208/journalip.18.181,Location of Large-Scale Retail Stores under Economic Regulation and their Impact Assessment on Neighborhood Environment

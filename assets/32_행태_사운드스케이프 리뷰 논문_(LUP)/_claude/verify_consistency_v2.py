@@ -22,8 +22,8 @@ def rd(p):
 
 
 def main():
-    cv = rd(os.path.join(FT, "corpus_v3_verdicts.csv"))
-    ce = rd(os.path.join(FT, "corpus_v3_extraction.csv"))
+    cv = rd(os.path.join(FT, "corpus_v4_verdicts.csv"))
+    ce = rd(os.path.join(FT, "corpus_v4_extraction.csv"))
     q = rd(os.path.join(FT, "quality_v2.csv"))
     t1 = rd(os.path.join(FT, "table1_v2.csv"))
     ec = rd(os.path.join(FT, "evidence_counts_v2.csv"))
@@ -31,11 +31,11 @@ def main():
     inc = {r["uid"] for r in cv if r["final_verdict"] == "FINAL_INCLUDE"}
     sen = {r["uid"] for r in cv if r["final_verdict"] == "SENS_ONLY"}
     keep = inc | sen
-    chk("코퍼스 구성", len(inc) == 96 and len(sen) == 4,
+    chk("코퍼스 구성", len(inc) == 98 and len(sen) == 4,
         f"FINAL_INCLUDE {len(inc)} · SENS_ONLY {len(sen)}")
-    chk("갈래 구성", Counter(r["source"] for r in cv if r["uid"] in inc) ==
-        Counter({"db-search": 81, "citation-tracking": 15}) or True,
-        str(dict(Counter(r["source"] for r in ce if r["uid"] in inc))))
+    src = Counter(r["source"] for r in cv if r["uid"] in inc)
+    chk("3갈래 구성", src == Counter({"db-search": 81, "citation-tracking": 15,
+                                    "openalex-supplementary": 2}), str(dict(src)))
 
     chk("추출표 = 분석 대상", {r["uid"] for r in ce} == keep, f"{len(ce)}행 / 대상 {len(keep)}")
     chk("품질평가 = 분석 대상", {r["uid"] for r in q} == keep, f"{len(q)}편")
@@ -99,7 +99,7 @@ def main():
 
     # PRISMA 문서가 96편을 말하는가
     pf = open(os.path.join(FT, "prisma_flow.md"), encoding="utf-8").read()
-    chk("PRISMA 최종 포함 96", "n = 96" in pf)
+    chk("PRISMA 최종 포함 98", "n = 98" in pf)
     chk("PRISMA 인용추적 포함 15", "질적 종합 포함 ............................ n = 15" in pf)
 
     figs = ["Fig1_PRISMA", "Fig2_Forest", "Fig3_EvidenceMap", "Fig4_Direction",

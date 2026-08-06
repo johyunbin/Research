@@ -1,0 +1,110 @@
+sid,verdict,reason_code,note,doi,title
+221,EXCLUDE,E3,"배기가스 건강비용 추정, 음환경 변수 없음",,DIRECT EVALUATION OF ADDITIONAL COSTS TO THE NATIONAL ECONOMY IN THE FORM OF DAMAGE TO HEALTH CAUSED BY EXHAUST GAS EMISSION FROM ROAD TRAFFIC
+222,RETRIEVE,,"능동교통수단 이용과 도로교통소음 불쾌감, 역방향 관련",10.1093/eurpub/ckx187.280,Effects of road-traffic nuisance on the active travel modes. What are the consequences?
+223,EXCLUDE,E5,학술지 게스트 에디토리얼,,JATI 23 (2) 2018 GUEST EDITORIAL
+224,EXCLUDE,E5,"야외극장 셰익스피어 공연 리뷰, 비실증",10.1353/shb.2015.0050,A Midsummer Night’s Dream by Southern Shakespeare Festival (review)
+225,EXCLUDE,E1,"생태음향 AI 모니터링, 야생동물 대상",10.3389/fevo.2025.1720295,Cognitive alignment as a pathway to collaborative environmental sound AI in ecological monitoring
+226,EXCLUDE,E2,"도로변 사무실·상가 실내 설문, 건강·짜증 결과",10.53555/jaz.v44i1.4699,Noise Pollution: A Public Wellbeing Challenge
+227,EXCLUDE,E5,민족음악학 학문사 에세이,10.2307/852107,Impressions of Finnish Music Research
+228,EXCLUDE,E2,"건물 바닥 차음성능 비용분석, 실내",10.18607/es20231214923,Financial viability of horizontal sealing elements with different acoustic performance ratings
+229,EXCLUDE,E5,르네상스 소리·젠더 도서 서평,10.1093/ahr/rhaf299,Julia Rombough. <i>A Veil of Silence: Women and Sound in Renaissance Italy</i>
+230,EXCLUDE,E5,고생물학 공연예술 소개 에세이,10.1093/icb/icy112,Prehistoric Body Theater: Bringing Paleontology Narratives to Global Contemporary Performance Audiences
+231,EXCLUDE,E5,석유지대 사운드 인문학 에세이,10.1111/aman.28072,Spectral sonics: Field recordings from an extractive zone
+232,EXCLUDE,E2,"광고 배경음악과 구매행동, 옥외 공공공간 아님",10.70121/001c.145123,Usage of Music within Commercial Marketing
+233,EXCLUDE,E6,"회계 전문직 목적 논의, 주제 무관",10.1108/aaaj-08-2025-299,Sent to Coventry! Creatively (re)capturing accounting’s purpose
+234,EXCLUDE,E5,예측부호화·도시성 조현병 이론 리뷰,10.3389/fpsyt.2025.1574944,“Hell is other people”. Schizophrenia and urbanicity in the light of predictive coding theory
+235,EXCLUDE,E7,"독일어 저널, 야간 차량소음 불쾌감",,VEHICLE NOISE NUISANCE IN RESIDENTIAL AREAS OF TOWNS AT NIGHT
+236,EXCLUDE,E1,"조류 노래 연구 제목, 초록 메타데이터 오염",10.1103/physrevb.39.9028,The Effects of Anthropogenic Ambient Noise and Habitat Vegetation on Common Yellowthroat Song
+237,EXCLUDE,E5,심장학회지 에디토리얼,10.1093/eurheartj/ehv540,Neglected cardiovascular risk factors
+238,EXCLUDE,E5,"청각 전문지 칼럼, 비실증",10.1097/01.hj.0000827584.62326.50,‘Safe’ Noise Harms the Brain
+239,EXCLUDE,E5,17세기 발라드 음악 도서 서평,10.5325/preternature.5.2.0247,"<i>Damnable Practises: Witches, Dangerous Women, and Music in Seventeenth-Century English Broadside Ballads</i> (Sarah F. Williams)"
+240,EXCLUDE,E2,"차량 내 음악과 운전행동, 세팅 제외",10.24115/s2446-6220202173d1736p.440-449,The relation between social actions and auditory music basket of iranian citizens case study: Tehran and Karaj citizens in 2013
+241,EXCLUDE,E4,"관광마을 다감각 경험, 결과는 재방문 의도",10.20885/ambr.vol6.iss2.art6,From sensory impressions to revisit intention: Multisensory tourism experiences in East Java’s tourism villages
+242,EXCLUDE,E7,"학술대회 프로시딩, 소재 소음저감 공학",,Noise reduction by intelligent materials - the IP InMAR
+243,EXCLUDE,E6,"광섬유 자이로스코프, 주제 무관",10.1016/0030-3992(85)90124-0,Fibre optic gyroscopes and monomode optical components
+244,EXCLUDE,E3,"통제소재·성격이 노출변수, 음환경 아님",10.21009/ijeem.052.03,Pengaruh Locus of Control dan Kepribadian (Personality) Terhadap Keinginan Untuk Bertindak (Intention to Act) Siswa
+245,EXCLUDE,E5,다종 텍스트성 환경인문학 에세이,10.1093/isle/isab024,Multispecies Emergent Textualities: Writing and Reading in Ecologies of Selves
+246,EXCLUDE,E2,"수면실험실 야간소음 EEG, 실내·생리지표",10.1093/sleepadvances/zpad035.049,O049 A Quantitative EEG Analysis of Overnight Noise Exposure Effects on Sleep– A Laboratory Study
+247,EXCLUDE,E5,컴퓨터음악 학회 소식란,10.1162/comj_e_00622,News
+248,EXCLUDE,E5,신간 소개란,10.5406/23300841.67.4.29,Books Briefly
+249,EXCLUDE,E6,"해저 측지학 초록, 주제 무관",,Seafloor geodesy: Measuring surface deformation and strain-build up
+250,EXCLUDE,E5,요양시설 음악치료 연구 프로토콜,10.1002/alz.080171,Multimodal music therapy intervention for engagement and agitation reduction for persons with severe dementia: Study protocol of a pilot randomized cross‐over trial
+251,EXCLUDE,E5,에스토니아 시문학 바다 모티프 에세이,10.12697/bjah.2016.11.03,Meremotiiv üleva pildikeeles: paari näitega eesti luulest
+252,EXCLUDE,E5,바르샤바 게토 공간 도서 서평,10.5406/23300841.71.1.16,Violent Space: The Jewish Ghetto in Warsaw
+253,EXCLUDE,E6,"수술실 환자안전 칼럼, 음환경 무관",10.1016/j.aorn.2014.04.009,"10 Years In, Why Time Out Still Matters"
+254,EXCLUDE,E1,어류 생태·행동 총설,10.1111/jfb.15545,The challenges faced by fish in a dynamic world
+255,EXCLUDE,E5,소닉 에콜로지 성찰 에세이,,Sounds like garbage: Paddling through an imaginary island of trash toward a new sonic ecology
+256,EXCLUDE,E5,문학지 편집자 서문,10.1353/jml.2000.0010,Editor's Introduction
+257,EXCLUDE,E4,"카이로 아잔 소리·남성성 인류학, 행태 아웃컴 없음",10.1215/15525864-10462467,"Sacral Sound, Unbearable Noise, and Cairene Masculinities"
+258,EXCLUDE,E5,1893년 만국박람회 역사음악학 논고,10.5406/19452349.41.3.04,Wagner on the Midway: Reassessing Sonic Divisions at the 1893 World's Columbian Exposition
+259,EXCLUDE,E4,"SID 257 중복, 동일 DOI",10.1215/15525864-10462467,"Sacral Sound, Unbearable Noise, and Cairene Masculinities"
+260,EXCLUDE,E5,덕트 소음 CFD 시뮬레이션,10.47116/apjcri.2025.01.31,Noise Analysis of Different Duct Geometries To Identify Optimal Noise Reduction Ducts
+261,EXCLUDE,E6,"태양광 발전 AI 예측, 주제 무관",10.56975/ijsdr.v11i2.307987,Predictive Analytics Based AI Framework for Enhancing Solar Panel Efficiency
+262,EXCLUDE,E5,조이스 학교 참관기,10.1353/jjq.2012.0047,"“ Joycencore rearrived / or lots of fun again”: The Seventeenth Annual Trieste Joyce School Trieste, Italy, 30 June–6 July 2013"
+263,EXCLUDE,E5,조류학회 100년 전 기록,10.1093/auk/ukz072,100 Years Ago in the American Ornithologists’ Union
+264,EXCLUDE,E5,오스만 그리스정교 음악 도서 서평,10.1093/jaarel/lfw080,<i>Greek Orthodox Music in Ottoman Istanbul: Nation and Community in the Era of Reform</i> . By Merih Erol
+265,EXCLUDE,E3,"노출은 야간인공광, 소음은 보정변수",10.1093/eurpub/ckae144.1089,Nocturnal Artificial Light Exposure in Expectant Mothers and Risk of Congenital Glaucoma
+266,EXCLUDE,E5,남북전쟁 동물사 도서 서평,10.1353/cwe.2023.a912410,Animal Histories of the Civil War Era ed. by Earl J. Hess (review)
+267,EXCLUDE,E2,"청각처리장애 임상 중재, 옥외 아님",10.1044/hhdc15.1.10,Treatment of Auditory Processing Disorders in Adolescents
+268,EXCLUDE,E5,아프로프랑스 서사 도서 서평,10.1353/tfr.2023.a914266,Gender and the Spatiality of Blackness in Contemporary AfroFrench Narratives by Polo B. Moji (review)
+269,EXCLUDE,E5,영화 비평 에세이,,Hou Hsiao-Hsien's Cafe Lumiere
+270,EXCLUDE,E5,수제맥주 도서 서평,10.1353/mwr.2017.0077,Craft Beer in the Heartland
+271,EXCLUDE,E6,경영 사례연구 강의노트,,Growth for Tiffany & Co.(Instructor's Note)
+272,EXCLUDE,E6,"경영 사례연구, 주제 무관",,Growth for Tiffany & Co
+273,EXCLUDE,E5,문예지 게재 시,10.1353/mis.2023.0011,"House Hunting, and: Perhaps This Is a Prayer, and: Bastille Day in Paris, 2022, and: Blue Notes, and: Even Now, after All These Years"
+274,EXCLUDE,E1,조류 유해 고고동물학 특집호,10.1002/oa.70082,Human–Bird Interactions Through Time: Proceedings of the 11th ICAZ Bird Working Group Meeting
+275,EXCLUDE,E5,문화기관 소개란,10.1353/ohq.2003.0050,Affiliate Spotlight: Tamástslikt Cultural Institute
+276,EXCLUDE,E5,조류 노래 연구자 부고,10.1642/auk-13-240.1,"Paul C. Mundinger, 1934–2011"
+277,EXCLUDE,E5,해외 의료 체험 개인 수기,10.1097/00001888-200504000-00021,An Introduction to Foreign Health Care
+278,EXCLUDE,E5,"공력음향 수치해석, 시뮬레이션",,Numerical studies on Aero-acoustic Phenomena Associated with Wall-bounded Shear Flow
+279,EXCLUDE,E5,게임음악 도서 서평,10.1525/jsmg.2020.1.2.84,"<i>Popular Music in the Nostalgia Video Game: The Way It Never Sounded</i>, by Andra Ivănescu"
+280,EXCLUDE,E5,세계문학 도서 서평,10.1353/wlt.2019.0061,Agustín Fernández MalloThe Nocilla Trilogy
+281,EXCLUDE,E5,"세계문학 도서 서평, SID 280과 동일 지면",10.1353/wlt.2019.0058,Christine WunnickeThe Fox and Dr. Shimamura
+282,EXCLUDE,E5,관광 특집호 편집 회고,10.1108/whatt-12-2024-238,"Reflections: Sustainability, smart tourism destinations and evolving visitor preferences"
+283,EXCLUDE,E5,사운드 저널 특집 서문,10.1525/res.2026.7.2.181,Interlude
+284,EXCLUDE,E5,중세 종교문헌 도서 서평,10.5325/jmedirelicult.49.2.0260,Encountering The Book of Margery Kempe
+285,EXCLUDE,E4,"보청기 문제 자기보고, 행태 아웃컴 없음",10.1097/01.hj.0000734216.39465.d2,"Underreported Hearing Aid Problems: No news is good news, right? Wrong!"
+286,EXCLUDE,E5,소음성난청 진화의학 칼럼,10.1097/01.hj.0000521763.31237.16,Evolutionary Perspective of Cochlear Amplification and NIHL
+287,EXCLUDE,E5,종교지 개인 회고 에세이,10.5406/15549399.57.4.07,Don't Worry . . . Bee Happy
+288,EXCLUDE,E4,"중환자실 VR 환자경험, 행태 아웃컴 없음",10.4037/ajcc2025625,Exploring the Effects of Virtual Reality on the Patient Experience in Adult and Pediatric Intensive Care
+289,EXCLUDE,E5,청각기기 업계 뉴스란,10.1097/01.hj.0000360856.40443.f6,MANUFACTURERS NEWS
+290,EXCLUDE,E5,가상세계 지식공학 논평,10.1111/j.1468-0394.2009.00556_1.x,Wellcome Trust: we want the missing manual for the brain
+291,EXCLUDE,E5,학술지 호 소개란,10.1111/j.1468-0394.2010.00556_4.x,In this issue
+292,EXCLUDE,E5,감각 민족지 영화 리뷰,10.1111/var.12292,Bela: Sensory Ethnography
+293,EXCLUDE,E5,엘리엇 전기 도서 서평,10.1215/0041462x-3485104,"<i>Young Eliot: From St. Louis to “The Waste Land,”</i> by Robert Crawford"
+294,EXCLUDE,E2,실내 피트니스시설 배치·관리 칼럼,10.1249/fit.0000000000000356,Facility Layout and Maintenance Concerns
+295,EXCLUDE,E5,연극 공연 리뷰,10.5325/eugeoneirevi.36.2.0235,Anna Christie
+296,EXCLUDE,E5,청소년소설 도서 서평,10.5406/15549399.58.1.14,Invigorating the Latter-day Saint Pioneer Woman Narrative
+297,EXCLUDE,E5,폭염·심혈관 전문가 인터뷰,10.1093/eurheartj/ehac715,Too hot to handle? The effects of extreme heat on cardiovascular health
+298,EXCLUDE,E5,언어교육 논문 초록 모음,10.1017/s0261444806223851,Language learning
+299,RETRIEVE,,"청각과민자 소리 회피행동, 세팅·문헌유형 확인 필요",10.1097/01.hj.0001094988.49033.64,Situations Avoided by People with Hyperacusis
+300,EXCLUDE,E5,록 문화 젠더 재론 에세이,10.1525/jpms.2019.313006,"Feminizing Rock Culture: A Revisit of Norma Coates’s “Teenyboppers, Groupies, and Other Grotesques”"
+301,EXCLUDE,E5,과학소통 인터뷰 기사,10.1002/lob.10374,Connecting the Public to Science through Wonder
+302,EXCLUDE,E5,음악학 도서 서평,10.1525/jams.2018.71.1.268,"Review: In Search of Julián Carrillo and Sonido 13, by Alejandro L. Madrid"
+303,EXCLUDE,E5,고래 노래 연구자 부고,10.1111/mms.13172,Roger Payne 1935–2023
+304,EXCLUDE,E5,연극 공연 리뷰,10.5325/thorntonwilderj.2.2.0239,"The Alcestiad, Magis Theatre Company, New York, New York"
+305,EXCLUDE,E5,청각기기 업계 뉴스란,10.1097/01.hj.0000281795.15207.a4,MANUFACTURERS NEWS
+306,EXCLUDE,E6,양자컴퓨팅 안과 적용 서한,10.4103/ijo.ijo_197_24,Quantum leap: Exploring uncharted territories in ophthalmology with a wink and a qubit
+307,EXCLUDE,E5,소설 목소리 문학비평,10.7245/0026-2005-41.1.38,Intoning the Male and Female Voices in a Novel by Eva Figes
+308,EXCLUDE,E5,대중음악 청취 논고,10.1525/jpms.2024.36.4.5,"Listening, Elsewhere and Otherwise"
+309,EXCLUDE,E5,사운드아트 설치 기록,10.1111/anhu.70036,“Queer Sonic Fingerprint”—Listening to speculative queer relations in ethnographic collections
+310,EXCLUDE,E5,실내 청취환경 설계 칼럼,10.1097/01.hj.0000403507.95712.4a,Environmental design enhances hearing rehabilitation
+311,EXCLUDE,E5,청각기기 업계 뉴스란,10.1097/01.hj.0000314725.18489.de,MANUFACTURERS NEWS
+312,EXCLUDE,E6,제2언어 습득 신경인지 모델,10.29038/eejpl.2017.4.2.got,A Neurocognitive Perspective on Language Acquisition in Ullman’s DP Model
+313,EXCLUDE,E5,연극 공연 리뷰,10.5325/eugeoneirevi.33.1.0126,Review
+314,EXCLUDE,E5,민족음악학회 강연록,10.5406/21567417.67.2.03,"Seeger Lecture, Society for Ethnomusicology Virtual Meeting 2021"
+315,EXCLUDE,E5,음향 작품 해설,10.1162/comj.a.687,Sound and Video Anthology: Program Notes
+316,EXCLUDE,E5,종교지 개인 에세이,10.5406/15549399.57.4.05,"Bringing the Yankee Home: A Gay Mormon, Three Decades on"
+317,EXCLUDE,E5,음량·강도 음향학 칼럼,10.1097/01.hj.0000405462.70270.bb,Loud vs. intense: Three ways to delude the musician
+318,EXCLUDE,E5,영화 음악 분석 논고,10.1093/musqtl/gdaf002,Evoking Joan of Arc’s Soundworld in Jacques Rivette’s <i>Jeanne la Pucelle</i> (1994): Authenticity versus Cinematic Musical Convention
+319,EXCLUDE,E5,드라마 삽입음악 분석,10.5406/19452349.41.4.04,"Community, Morality, and Diegetic Music in <i>Little House on the Prairie</i>"
+320,EXCLUDE,E5,공연예술 작가론 평론,10.1162/pajj_a_00698,Reckoning with Wreckage: The Work of Nancy Tam
+321,EXCLUDE,E5,영화 청취성 분석 논고,10.1093/screen/hjae018,Visibility displaced: lesbian aurality and disruptive self-naming in <i>Sukkar banat/Caramel</i> and <i>Three Centimetres</i>
+322,EXCLUDE,E3,"대기오염·장내미생물 연구, 음환경 없음",10.1002/imo2.70099,The mediating roles of gut microbiota in the associations of air pollution and meteorological factors with metabolic syndrome
+323,EXCLUDE,E5,트웨인 후각 서사 문학비평,10.5406/19405103.57.3.03,"Twain's Olfactory Gags: Realist Atmospheres, Fermentation, and the Necrobiome"
+324,EXCLUDE,E5,오페라 리허설 인문학 논고,10.1093/oq/kbad003,Rehearsing Callas
+325,EXCLUDE,E6,지진 전조 유체 데이터셋,10.3389/feart.2026.1868566,A global dataset of fluid-based pre-seismic anomalies in crustal environments
+326,EXCLUDE,E5,홉킨스 시 비평,10.1093/litimag/imad006,Hopkins’s Clouded Judgment
+327,EXCLUDE,E5,밀턴 시 비평,10.1111/milt.12428,<i>Paradise Regained</i> and the Prospects of Enlightenment
+328,EXCLUDE,E5,뇌파·공연 에세이,10.1162/pajj_a_00708,The Theatre of Your Mind &amp;#x2028;(For Real)
+329,EXCLUDE,E5,물리학지 신간 목록,10.1063/1.2405596,New books

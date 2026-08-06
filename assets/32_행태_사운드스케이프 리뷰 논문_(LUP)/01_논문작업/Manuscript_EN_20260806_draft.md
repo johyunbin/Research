@@ -10,22 +10,24 @@
 
 Soundscape research has established how people *judge* acoustic environments; what they *do* in them
 has never been synthesised. We systematically reviewed and meta-analysed the relationship between the
-acoustic environment and observable behaviour in urban open space, treating it as bidirectional.
-Three databases were searched (2 August 2026) and backward and forward citation tracking was performed
-on every included study; the protocol was registered before screening (osf.io/7ew8q). Ninety-six
-studies met eligibility criteria — 81 from database searching and 15 from citation tracking. Quality
-was appraised with MMAT 2018 and effects pooled using random-effects REML with the Hartung–Knapp
-adjustment. All four clusters pointed in the predicted direction, but only two excluded zero: social
-interaction (*k* = 4, *g* = +0.65, 95% CI +0.19 to +1.10) and the perception–behaviour correlation
-(*k* = 7, *r* = +0.41, 95% CI +0.23 to +0.56); walking speed (*g* = −0.50) and dwell time (*g* = +0.31)
-did not. The social-interaction result is attributable to removal of machinery noise rather than
-addition of natural sound, and derives from independent field experiments fifty years apart. By
-contrast, the widely cited walking-speed effect rests entirely on studies rated low quality, three of
-four effects manipulating audio through headphones rather than the space itself. Forty percent of the
-evidence runs in reverse — activity generating the soundscape — with near-parity in space use,
-activity and social behaviour. Behavioural measurement generations accumulate rather than replace one
-another. We derive ten planning levers with graded confidence; none reaches high confidence, and the
-best-supported action is control of operational noise where people are meant to interact.
+acoustic environment and observable behaviour in urban open space, treating it as bidirectional. Three
+databases were searched (2 August 2026), supplemented by citation tracking of every included study; the
+protocol was registered before screening (osf.io/7ew8q). Ninety-six studies were eligible. Quality was
+appraised with MMAT 2018 and effects pooled using random-effects REML with the Hartung–Knapp
+adjustment. All four clusters pointed in the predicted direction, but only two excluded zero for the
+mean effect: social interaction (*k* = 4, *g* = +0.65, 95% CI +0.19 to +1.10) and the
+perception–behaviour correlation (*k* = 7, *r* = +0.41, 95% CI +0.23 to +0.56). **Prediction intervals
+included zero in every cluster**, and with a maximum *k* of 7 no test of reporting bias was possible,
+so pooled estimates are upper bounds. The social-interaction result comes from two field experiments
+thirteen years apart using different noise sources; because no study contrasts natural sound against
+quiet, adding pleasant sound and removing unpleasant sound cannot be separated. The widely cited
+walking-speed effect rests entirely on low-quality studies, three of four effects manipulating audio
+through headphones rather than the space itself, and largely from one research programme on one route.
+Forty per cent of extracted records run in reverse — activity generating the soundscape — with
+near-parity in space use, activity and social behaviour. Measurement generations accumulate rather
+than replace one another. Ten planning levers are derived with graded confidence; none reaches high
+confidence, and the best-supported action is controlling operational noise where people are meant to
+interact.
 
 **Keywords**: soundscape; behaviour; urban open space; systematic review; meta-analysis; landscape planning
 
@@ -84,17 +86,18 @@ Studies were eligible if they met all five criteria:
 1. **Population** — human participants (studies of animal behaviour, including soundscape ecology,
    were excluded).
 2. **Setting** — outdoor or semi-outdoor urban/landscape public space: parks, streets, squares,
-   waterfronts, outdoor campus and residential open space, and recreation areas. Laboratory studies
-   were eligible only when the stimulus reproduced an outdoor scene; these were reserved for
-   sensitivity analysis. Indoor, in-vehicle, hospital and workplace settings were excluded.
+   waterfronts, outdoor campus and residential open space, and recreation areas. Laboratory and
+   virtual-reality studies were eligible when the stimulus reproduced an outdoor scene, and were
+   included in the main synthesis with a sensitivity analysis excluding them. Indoor, in-vehicle,
+   hospital and workplace settings were excluded.
 3. **Exposure** — the acoustic environment (noise, natural sounds, music, or soundscape as a
    composite) as an exposure, **or** the reverse pathway in which behaviour and activity shape the
    acoustic environment.
 4. **Outcome** — at least one **observable behavioural outcome**: movement (walking speed, route,
    crossing), staying (dwell time, sitting), space use (visitation, occupancy), social interaction, or
    physical activity and leisure. Self-reported behaviour was eligible. Studies reporting only
-   perception, preference, annoyance, restorativeness, behavioural *intention*, or physiological
-   response were excluded.
+   perception, preference, annoyance, restorativeness or physiological response were excluded; studies
+   whose sole behavioural outcome was stated *intention* were retained for sensitivity analysis only.
 5. **Design** — empirical, peer-reviewed journal article in English.
 
 Two scope decisions were fixed at registration and are consequential for interpretation: Chinese-language
@@ -126,9 +129,13 @@ remaining 428 were screened on title, then 146 on abstract, then sought in full 
 prioritisation was not specified at registration and is recorded as a deviation.
 
 **Boundary rules.** Three recurring boundary cases were resolved by rules fixed before individual
-adjudication: laboratory reproduction of outdoor scenes → sensitivity analysis only; behavioural
-intention as the sole outcome → sensitivity analysis only; acoustic variables entering only as
-statistical controls → excluded.
+adjudication: residential noise exposure with non-specific physical activity → excluded; behavioural
+intention as the sole outcome → sensitivity analysis only; reverse-direction studies with appraisal
+outcomes → included, since the registered definition treats the reverse pathway as eligible. A fourth
+rule — laboratory reproduction of outdoor scenes → sensitivity analysis only — was introduced during
+the citation-tracking branch and therefore applied to that branch alone; the resulting inconsistency
+between branches is recorded in the deviation log and addressed by the corresponding sensitivity
+analysis.
 
 ### 2.5 Data collection and quality appraisal
 
@@ -163,10 +170,27 @@ was selected by a fixed priority (most direct and objective measure > primary an
 Where two publications shared a sample, only one entered any pool. For pseudoreplicated designs the
 participant *n* was used, not the observation *n*.
 
-Seven sensitivity analyses were run: leave-one-out; exclusion of MMAT-low studies; recomputation on
+Because heterogeneity was substantial in two clusters, we report **95% prediction intervals**
+(Higgins–Thompson–Spiegelhalter) alongside confidence intervals. The confidence interval describes the
+precision of the mean; the prediction interval describes the range in which the effect of a new study
+would be expected to fall, and is the quantity relevant to whether a planning decision can rely on the
+result.
+
+**Reporting bias could not be assessed.** The registered rule restricted funnel plots and Egger's test
+to clusters with *k* ≥ 10; the largest cluster here has *k* = 7, so no test was performed in any
+cluster. Small-study effects can therefore neither be detected nor excluded, and pooled estimates
+should be read as upper bounds.
+
+**Subgroup analyses were registered but not performed.** Splitting clusters of *k* = 3–7 by setting,
+design or measurement generation yields subgroups of one to four estimates, below the pre-specified
+minimum of three, and Hartung–Knapp intervals become uninterpretable at *k* = 2. Sources of
+heterogeneity were instead examined narratively.
+
+Eight sensitivity analyses were run: leave-one-out; exclusion of MMAT-low studies; recomputation on
 observation *n*; exclusion of rank correlations; exclusion of inputs that required an assumption to
-reconstruct; an alternative definition of the walking-speed pool; and — added post hoc — exclusion of
-the citation-tracking branch, to test whether conclusions depended on the supplementary search route.
+reconstruct; an alternative definition of the walking-speed pool; exclusion of studies that reproduced
+outdoor scenes in the laboratory; and — added post hoc — exclusion of the citation-tracking branch, to
+test whether conclusions depended on the supplementary search route.
 
 ---
 
@@ -215,37 +239,46 @@ observes the acoustic environment far more often than it manipulates it.
 Of the 96 included studies, 22 were rated high, 40 moderate and 34 low on MMAT (Fig. 8). Two findings
 in the item-level pattern matter more than the tier distribution.
 
-First, **the two randomised studies score lowest in the corpus.** This is not a design failure but a
-reporting failure: neither reports how randomisation was performed, whether groups were comparable at
-baseline, or whether assessors were blinded, so no credit can be given for the design.
+First, **the two randomised studies are given no credit for their design.** Neither reports how
+randomisation was performed, whether groups were comparable at baseline, or whether assessors were
+blinded; all three items are scored "can't tell", leaving them with one and two criteria met
+respectively. The strongest design in the corpus yields among its weakest appraisals, purely through
+under-reporting.
+
+Excluding the five studies that reproduced outdoor scenes in virtual reality changes no pooled
+estimate, because none of them contributed a poolable effect; they enter the narrative synthesis only.
 
 Second, and generalising that observation, **the largest deficits are deficits of reporting rather
-than of conduct.** Sample representativeness was clearly met in only 20% of quantitative descriptive
-studies, low non-response bias in 41%, and adequate control of confounding in 37% of non-randomised
-studies. In a field that reports sound pressure to three decimal places, response rates are routinely
+than of conduct.** Sample representativeness was clearly met in 10 of 51 quantitative descriptive
+studies (20%) and low non-response bias in 16 of 51 (31%); confounding was adequately controlled in
+9 of 22 non-randomised studies (41%). In a field that reports sound pressure to three decimal places, response rates are routinely
 absent.
 
 ### 3.4 Meta-analyses
 
 Four clusters met the pooling threshold (Fig. 2, Table 2).
 
-| Cluster | *k* | Metric | Estimate | 95% CI | *p* | *I*² |
-|---|---|---|---|---|---|---|
-| Walking speed (natural sound vs noise) | 4 | *g* | −0.500 | −1.411, +0.412 | .179 | 75.7% |
-| Staying / dwell time (positive sound vs control) | 3 | *g* | +0.313 | −0.076, +0.702 | .074 | 54.4% |
-| **Social interaction (natural/quiet vs noise)** | **4** | ***g*** | **+0.646** | **+0.188, +1.104** | **.021** | 48.6% |
-| Soundscape perception ↔ behaviour | 7 | *r* | +0.409 | +0.227, +0.564 | .002 | 90.5% |
+| Cluster | *k* | Metric | Estimate | 95% CI | 95% PI | *p* | *I*² |
+|---|---|---|---|---|---|---|---|
+| Walking speed (natural sound vs noise) | 4 | *g* | −0.500 | −1.411, +0.412 | −2.56, +1.56 | .179 | 75.7% |
+| Staying / dwell time (positive sound vs control) | 3 | *g* | +0.313 | −0.076, +0.702 | −0.79, +1.41 | .074 | 54.4% |
+| **Social interaction (natural/quiet vs noise)** | **4** | ***g*** | **+0.646** | **+0.188, +1.104** | −0.06, +1.35 | **.021** | 48.6% |
+| Soundscape perception ↔ behaviour | 7 | *r* | +0.409 | +0.227, +0.564 | −0.08, +0.74 | .002 | 90.5% |
+
+PI = prediction interval.
 
 All four estimates point in the theoretically predicted direction: noise accelerates passage, positive
 sound extends stay, quiet and natural sound increase social interaction, and appraisal covaries with
 behaviour at moderate strength. **The clusters differ sharply, however, in whether that direction is
 established with any precision.**
 
-Social interaction reaches significance on the strength of two field experiments separated by fifty
-years — Mathews and Canon (1975), in which a lawnmower raised ambient level from ~50 to ~87 dB(C) and
+Social interaction reaches significance on the strength of two field experiments thirteen years apart —
+Mathews and Canon (1975), in which a lawnmower raised the ambient level from ~50 to ~87 dB(C) and
 helping behaviour fell from 20 of 40 to 5 of 40 (OR = 7.00, *d* = +1.07), and Moser (1988), which used
-roadworks noise and the same 2 × 2 logic and reached the same sign. An independent replication at this
-interval, using an unrelated manipulation and population, is stronger evidence than *k* = 4 suggests.
+roadworks noise in a Paris street, applied the same 2 × 2 logic, and reached the same sign. The two used
+unrelated noise sources and different helping paradigms, which makes the agreement more informative than
+*k* = 4 alone suggests. (Mathews and Canon do not state where data were collected, so we do not claim
+cross-national replication.)
 
 **This significance is nevertheless contingent on one study obtained by citation searching.** Removing
 it returns the cluster to *k* = 3 and *p* = .053. We report this as a limitation of the result and,
@@ -254,6 +287,14 @@ simultaneously, as evidence that the registered supplementary search route was n
 The correlational cluster, by contrast, is insensitive to search route (*r* = .409 with citation
 tracking, .426 without) but carries very high heterogeneity (*I*² = 90.5%), which is expected given
 that it mixes forward and reverse pathways and several behavioural outcomes.
+
+**Prediction intervals qualify both significant results.** The two intervals that exclude zero do so
+for the *mean* effect; the interval within which a new study's effect would be expected to fall
+includes zero in every cluster, including social interaction (−0.06 to +1.35) and the correlational
+cluster (*r* = −0.08 to +0.74). Neither result licenses the expectation that a further study will
+reproduce the sign. Reporting bias compounds this: with a maximum *k* of 7, no funnel plot or Egger
+test was possible, so small-study effects can be neither detected nor excluded, and every pooled
+estimate should be read as an upper bound.
 
 **The walking-speed cluster is the weakest in the corpus, and its weakness is instructive.** All four
 contributing effects come from studies rated low on MMAT; excluding low-quality studies leaves nothing
@@ -322,23 +363,28 @@ support *hypotheses to test with monitoring*, not design standards.
 
 Two attributions matter more than the grades.
 
-**First, the significant social-interaction result belongs to noise removal, not natural sound
-addition.** It would have been easy to read the newly significant cluster as evidence for water
-features and birdsong. It is not. Of the four contributing effects, two manipulate machinery noise —
-roadworks (Moser, 1988) and a lawnmower (Mathews and Canon, 1975) — and these include the largest
-effect in the cluster (*d* = +1.07). The natural-sound effects are two, which under this review's own
-rules is below the threshold for an interpretable pooled interval. Prescribing a fountain on the
-strength of a result produced by switching off a mower would be a category error, and the distinction
-survives only because exposure was coded at the level of what was actually manipulated.
+**First, the social-interaction result cannot be attributed to either adding natural sound or removing
+noise.** It would be convenient to read the significant cluster as evidence for water features and
+birdsong, and equally convenient to read it as evidence for silencing machinery. Neither reading is
+supported. Splitting the four effects by exposure gives almost identical means (natural sound +0.76,
+machinery noise +0.75), and removing the roadworks study *raises* rather than lowers the pooled estimate
+(+0.65 → +0.77). More fundamentally, the two natural-sound studies contrast birdsong and water against
+traffic and construction — they add natural sound *and* remove noise simultaneously. **The corpus
+contains no contrast of natural sound against quiet**, so the two mechanisms are not separately
+identified by any study in it. What can be said is narrower: the increment that carried this cluster
+across the significance threshold came from one machinery-noise experiment retrieved by citation
+searching.
 
 **Second, the walking-speed literature is narrower than its citation count suggests.** Beyond the
 quality collapse already reported, two structural features emerged during appraisal. Three of the four
 pooled effects manipulated audio **through headphones** during a walk rather than changing the sound of
-the space; the only study that altered the environment itself is rated low and reports a difference of
-0.06 m/s. And the walking studies are substantially **one research programme** — the pooled studies and
-the two new high-quality walking papers are all Czech, three of them on the same 1.75–1.8 km circuit,
-two sharing an identical belt-camera and annotation protocol. A claim repeated on one route in one city
-is not the same as a replicated finding, and the meta-analytic *k* does not show this.
+the space. And the walking evidence is substantially **one research programme**: three of the four
+pooled effects come from two studies by the same Czech group, and the two new high-quality walking
+papers are from the same group on the same 1.75–1.8 km circuit, two of them sharing an identical
+belt-camera and annotation protocol. The remaining pooled effect is an Algerian field observation whose
+sign is opposite. Outside the pool, the one study that altered a real environment rather than headphone
+audio reports a difference of 0.06 m/s and is rated low. A claim repeated on one route in one city is
+not a replicated finding, and the meta-analytic *k* does not reveal this.
 
 ### 4.3 Implications for landscape planning
 
@@ -347,8 +393,7 @@ The practical reading of Table 3 is ordered by what can be defended.
 **Act on operational noise first.** The best-supported behavioural consequence in this corpus is that
 machinery noise suppresses social behaviour — including help offered to strangers. Ventilation plant,
 mowing schedules and construction windows are within routine operational control, cost little to
-change, and are supported by independent replication across fifty years, two countries and two noise
-sources.
+change, and are supported by two independent field experiments using different noise sources.
 
 **Treat added sound as a dwell-time instrument, not an attraction device.** Music extends the stay of
 people already present; the one high-quality test of arrival found no effect on the number of people
@@ -417,8 +462,13 @@ citation-tracked records whose abstracts confirmed a behavioural outcome, and th
 not be retrieved were overwhelmingly those screened on title alone, none of which proved eligible when
 obtained. Screening and extraction were performed by one reviewer with AI assistance and verification
 rather than by two independent reviewers. Two publication pairs share samples; only one member of each
-pair entered any pool. Finally, the significance of the social-interaction cluster depends on a single
-study obtained by citation searching, and would not have been observed from database searching alone.
+pair entered any pool. Reporting bias could not be assessed in any cluster because *k* never reached the pre-specified
+threshold of 10, so small-study effects remain a live possibility and the pooled estimates are upper
+bounds. Registered subgroup analyses were not performed for the same reason — clusters of three to
+seven estimates cannot be split. Prediction intervals include zero in all four clusters, so neither
+significant result should be read as a forecast for a new study. Finally, the significance of the
+social-interaction cluster depends on a single study obtained by citation searching, and would not
+have been observed from database searching alone.
 
 ## 5. Conclusions
 
@@ -427,9 +477,9 @@ distributed across behaviours, and its strongest and weakest parts are not where
 citation patterns suggest.
 
 Across 96 studies, four meta-analytic clusters all point in the theoretically predicted direction, yet
-only two exclude zero. The best-established behavioural consequence of the acoustic environment is
-**social**: machinery noise suppresses interaction between strangers, replicated across fifty years,
-two countries and two noise sources. The most frequently cited claim — that noise makes people walk
+only two exclude zero for the mean effect — and none excludes zero in its prediction interval. The best-established behavioural consequence of the acoustic environment is
+**social**: machinery noise is associated with reduced interaction between strangers in two independent
+field experiments using different noise sources. The most frequently cited claim — that noise makes people walk
 faster — rests on four effects that are all rated low quality, mostly manipulate audio through
 headphones rather than changing the space, and come substantially from a single research programme on
 a single route.
@@ -445,4 +495,4 @@ tested on behaviour.
 
 For research, the highest-value next study is unglamorous: one field experiment that manipulates the
 sound of a real place, randomises properly, and reports its methods completely. It would move a cell
-of this evidence base that fifty years of citation has not.
+of this evidence base that half a century of citation has not.

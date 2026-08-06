@@ -128,8 +128,30 @@ def main():
     redo_uids = {d["uid"] for d in redo_detail}
     detail += [d for d in first_detail if d["uid"] not in redo_uids] + redo_detail
 
+    # ── 보조검색 갈래(OAS) 품질 ────────────────────────────────────
+    oas_p = os.path.join(QA, "qa_oas_mmat.csv")
+    if os.path.exists(oas_p):
+        for r in csv.DictReader(open(oas_p, encoding="utf-8-sig")):
+            uid = str(r["no"]).strip()
+            ny = sum(1 for k in ("Q1", "Q2", "Q3", "Q4", "Q5")
+                     if (r.get(k) or "").strip().upper() == "Y")
+            rows[uid] = {"uid": uid, "source": "openalex-supplementary", "text_basis": "full",
+                         "orig_no": uid, "mmat_category": norm_cat(r.get("mmat_category")),
+                         "S1": r.get("S1", ""), "S2": r.get("S2", ""),
+                         **{k: (r.get(k) or "").strip().upper() for k in ("Q1","Q2","Q3","Q4","Q5")},
+                         "n_yes": ny,
+                         "quality_tier": "high" if ny >= 4 else ("moderate" if ny == 3 else "low"),
+                         "note": (r.get("note") or "").strip()}
+        dp = os.path.join(QA, "qa_oas_detail.csv")
+        if os.path.exists(dp):
+            for r in csv.DictReader(open(dp, encoding="utf-8-sig")):
+                detail.append({"uid": str(r["no"]).strip(), "item": r.get("item", ""),
+                               "item_no": r.get("item_no", ""),
+                               "verdict": (r.get("verdict") or "").strip().upper(),
+                               "rationale": r.get("rationale", "")})
+
     # ── 검증 ──────────────────────────────────────────────────────
-    corpus = {r["uid"] for r in csv.DictReader(open(os.path.join(FT, "corpus_v3_verdicts.csv"),
+    corpus = {r["uid"] for r in csv.DictReader(open(os.path.join(FT, "corpus_v4_verdicts.csv"),
                                                     encoding="utf-8-sig"))
               if r["final_verdict"] in ("FINAL_INCLUDE", "SENS_ONLY")}
     miss = sorted(corpus - set(rows))

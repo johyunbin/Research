@@ -162,7 +162,7 @@ def main():
 
     fig.suptitle("Methodological quality of the included studies (MMAT 2018)",
                  fontsize=11.4, x=0.008, ha="left", y=0.988)
-    fig.text(0.008, 0.962, "Two identification routes pooled (databases + citation searching). "
+    fig.text(0.008, 0.962, "Three identification routes pooled (databases, citation searching, supplementary index). "
              "'Can't tell' means the study did not report enough to judge — "
              "it is a reporting failure, not a design failure.",
              fontsize=7.6, color=T.INK2, ha="left")

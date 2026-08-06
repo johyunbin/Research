@@ -59,11 +59,11 @@ def main():
     old = {r["sid"]: r for r in csv.DictReader(open(
         os.path.join(FT, "table1_study_characteristics.csv"), encoding="utf-8-sig"))}
     ext = {r["uid"]: r for r in csv.DictReader(open(
-        os.path.join(FT, "corpus_v3_extraction.csv"), encoding="utf-8-sig"))}
+        os.path.join(FT, "corpus_v4_extraction.csv"), encoding="utf-8-sig"))}
     qual = {r["uid"]: r["quality_tier"] for r in csv.DictReader(open(
         os.path.join(FT, "quality_v2.csv"), encoding="utf-8-sig"))}
     verd = {r["uid"]: r["final_verdict"] for r in csv.DictReader(open(
-        os.path.join(FT, "corpus_v3_verdicts.csv"), encoding="utf-8-sig"))}
+        os.path.join(FT, "corpus_v4_verdicts.csv"), encoding="utf-8-sig"))}
 
     # ── 기존 84행 ↔ uid 매핑 ──────────────────────────────────────
     # 구 Table 1에는 uid 컬럼이 없다. 저자명은 제목에 없으므로 제목 매칭은 불가.

@@ -25,7 +25,7 @@ def main():
         print(f"⚠️ 원고 없음: {ms_path}"); return 1
     ms = open(ms_path, encoding="utf-8").read()
 
-    cv = rd(os.path.join(FT, "corpus_v3_verdicts.csv"))
+    cv = rd(os.path.join(FT, "corpus_v4_verdicts.csv"))
     t1 = rd(os.path.join(FT, "table1_v2.csv"))
     q = rd(os.path.join(FT, "quality_v2.csv"))
     ec = rd(os.path.join(FT, "evidence_counts_v2.csv"))
@@ -64,7 +64,7 @@ def main():
         spec.loader.exec_module(g7)
     except SystemExit:
         pass
-    ext = rd(os.path.join(FT, "corpus_v3_extraction.csv"))
+    ext = rd(os.path.join(FT, "corpus_v4_extraction.csv"))
     cc = Counter()
     for r in ext:
         if r["uid"] not in {x["uid"] for x in inc}:

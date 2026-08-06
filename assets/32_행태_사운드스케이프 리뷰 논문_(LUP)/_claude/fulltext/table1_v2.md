@@ -1,4 +1,4 @@
-# Table 1 — Study characteristics (100편)
+# Table 1 — Study characteristics (102편)
 
 두 식별 경로 통합. `source` = db-search(데이터베이스 검색) / citation-tracking(인용 추적).
 
@@ -73,37 +73,39 @@
 | 67 | [CT0220] The Influence of Mult… ▲ | 2024 | China | street | survey | 471 (40개 조사지점; ser… | 지각 사운드스케이프 2문항 'The soundscape is pleasa… | staying; social; activ… | G1 | forward | low |  |
 | 68 | [CT0322] Estimation of the Occ… ▲ | 2024 | Spain | street | observational | 105 (보행자 설문 응답자; 상… | 도로교통이 주 음원인 도시가로 표본지점에서 15분 현장 실측(마이크 1.… | social | G1 | forward | moderate |  |
 | 69 | [CT0371] Three pedestrian phas… ▲ | 2024 | Canada | street | field experiment | 18 participants (1… | 3종 pedestrian phasing x APS 구성(exclusive… | movement | G2;G3 | forward | low |  |
-| 70 | Cao & Kang (2024) | 2024 | UK | square | field experiment | 120 | foreground vs background human sound, 36… | social | G1 | forward | moderate |  |
-| 71 | Chen et al. (2024) | 2024 | China | residential | field experiment | NR | birdsong, water vs traffic, construction… | social | G2 | forward | high | MA3 |
-| 72 | Guo et al. (2024) | 2024 | China | park | survey | 419 | perceived pleasantness and eventfulness;… | staying; activity | G1 | both | moderate | MA4 |
-| 73 | Jin et al. (2024) | 2024 | China | park | mixed | 10 sites | park LAeq near expressway; 77 dB thresho… | space-use; activity | G1;G2 | forward | low |  |
-| 74 | Joo et al. (2024) | 2024 | USA | park | observational | 355 parks | park noise level among 12 environmental … | space-use; activity | G3 | forward | low |  |
-| 75 | Lai et al. (2024) | 2024 | China | park | mixed | 1044 | park LAeq with traffic, music, human, na… | staying; movement; act… | G1;G2 | reverse | high | MA4 |
-| 76 | Lu et al. (2024) | 2024 | China | lab(outdoor scene) | lab experiment | 30 | 68 dB traffic noise with activity sounds | activity; social | G1 | reverse | moderate |  |
-| 77 | Wang & Xiao (2024) | 2024 | China | park | mixed | 262+120 | musical fountain on vs off, broadcast mu… | staying; social; activ… | G1 | both | low |  |
-| 78 | Wogan & Kennedy (2024) | 2024 | Ireland | street | mixed | 335 (+81403 trips) | Dublin road traffic noise, cyclists 71-7… | movement; space-use; a… | G1;G3 | forward | low |  |
-| 79 | [CT0348] Noise Levels Due to C… ▲ | 2025 | Spain | street | mixed | NR (참가자 없음; 관측 단위 … | 상업·여가활동에서 발생하는 인위적 소음(Street Canyon). 파사… | space-use | G3 | reverse | moderate |  |
-| 80 | [CT0356] Soundscape and public… ▲ | 2025 | Germany | square | quasi-experiment | 10 (IVP 평가자, 속성 76… | 8개 지점의 실제 도시 음환경을 ZOOM-VR 1차 앰비소닉 마이크와 I… | space-use; social; act… | G1;G2 | both | low |  |
-| 81 | Ba et al. (2025) | 2025 | China | waterfront | field experiment | NR | light music or fan sound with odour | movement; staying | G2 | forward | moderate |  |
-| 82 | Calafiore & Tong (2025) | 2025 | UK; Australia | street | observational | NR | modelled noise maps along commuting itin… | movement | G3 | forward | high |  |
-| 83 | Chen & Kang (2025) | 2025 | UK | lab(outdoor scene) | lab experiment | NR | bird and fountain sound tempo, NPC densi… | social; movement | G1 | forward | low |  |
-| 84 | Gao & Fang (2025) | 2025 | Australia | street | observational | 8854 points | street-view-predicted noise intensity an… | movement; activity | G3 | forward | low |  |
-| 85 | Lin et al. (2025) | 2025 | China | campus | mixed | NR | campus outdoor LAeq with thermal (PET) e… | activity | G1 | reverse | low |  |
-| 86 | Mansouri et al. (2025) | 2025 | Algeria | street | mixed | 50+58 | in-situ LAeq across five urban morpholog… | movement; space-use | G1 | forward | moderate | MA4 |
-| 87 | Nguyen et al. (2025) | 2025 | Vietnam; Japan | street | mixed | 30 | motorcycle horn signal patterns P1-P6 | activity; social | G1;G2 | reverse | low |  |
-| 88 | Yu (2025) | 2025 | NR | park | mixed | NR | sound-moderating quiet art installations… | space-use; activity | G2 | forward | low |  |
-| 89 | Zhang et al. (2025) | 2025 | China | street | observational | NR | street-view-predicted soundscape and str… | movement; activity | G3 | forward | moderate |  |
-| 90 | [CT0414] Behavioral mapping of… ▲ | 2026 | China | waterfront | qualitative | 1,167명 관찰 기록(user … | 감각공간 4유형(시각/청각/촉각/후각) 중 청각지각공간 노출 — 자연음(… | movement; staying; spa… | G1;G2 | forward | high | MA3(sens) |
-| 91 | Dzhambov et al. (2026) | 2026 | Bulgaria | residential | survey | 4640 | road traffic Lden (50 m grid) with PM2.5 | activity | G1 | forward | high |  |
-| 92 | Fu et al. (2026) | 2026 | China | mixed | mixed | 241 (+9000 photos) | rural village Natural Sound Index; 5-min… | staying; space-use; so… | G1;G2 | forward | moderate | MA2 |
-| 93 | Gao & Fang (2026) | 2026 | China | street | observational | NR | street-view-predicted natural, mechanica… | movement; space-use | G3 | forward | low |  |
-| 94 | Hüg et al. (2026) | 2026 | Argentina | street | observational | 2 (1 dyad) | urban traffic noise context during dyad … | movement; social | G2 | forward | moderate |  |
-| 95 | Lin et al. (2026) | 2026 | China (Hong Kong… | residential | mixed | NR | housing estate outdoor soundscape, binau… | activity; space-use | G2 | reverse | low |  |
-| 96 | Ozturk et al. (2026) | 2026 | 6 countries | street | qualitative | 12 | expert-recalled street sounds: traffic, … | movement; social; spac… | G1 | forward | high |  |
-| 97 | Peng et al. (2026) | 2026 | China | square | mixed | NR | greenway plaza LAeq/L10 by enclosure lev… | staying; social; activ… | G1;G2 | forward | moderate |  |
-| 98 | Ren et al. (2026) | 2026 | China | waterfront | survey | 201 | sea waves, wind and traffic sounds; LAeq | staying; activity; spa… | G1 | reverse | high |  |
-| 99 | Sun et al. (2026) | 2026 | Netherlands | lab(outdoor scene) | lab experiment | 40 | quiet vs noisy street with eHMI sound | movement | G3 | forward | high |  |
-| 100 | Zhou et al. (2026) | 2026 | China | street | mixed | 315 | commercial street LAeq, L10-L90 and perc… | staying; space-use | G1;G3 | forward | low | MA4 |
+| 70 | [OAS0198] Acoustic and percept… | 2024 | France; Algeria | square | mixed | NR (인터뷰 응답자 수·측정지점… | 광장 중앙 분수의 물소리 대 도시 교통 소음(urban drone). F… | space-use; social; sta… | G1;G2 | forward | low |  |
+| 71 | Cao & Kang (2024) | 2024 | UK | square | field experiment | 120 | foreground vs background human sound, 36… | social | G1 | forward | moderate |  |
+| 72 | Chen et al. (2024) | 2024 | China | residential | field experiment | NR | birdsong, water vs traffic, construction… | social | G2 | forward | high | MA3 |
+| 73 | Guo et al. (2024) | 2024 | China | park | survey | 419 | perceived pleasantness and eventfulness;… | staying; activity | G1 | both | moderate | MA4 |
+| 74 | Jin et al. (2024) | 2024 | China | park | mixed | 10 sites | park LAeq near expressway; 77 dB thresho… | space-use; activity | G1;G2 | forward | low |  |
+| 75 | Joo et al. (2024) | 2024 | USA | park | observational | 355 parks | park noise level among 12 environmental … | space-use; activity | G3 | forward | low |  |
+| 76 | Lai et al. (2024) | 2024 | China | park | mixed | 1044 | park LAeq with traffic, music, human, na… | staying; movement; act… | G1;G2 | reverse | high | MA4 |
+| 77 | Lu et al. (2024) | 2024 | China | lab(outdoor scene) | lab experiment | 30 | 68 dB traffic noise with activity sounds | activity; social | G1 | reverse | moderate |  |
+| 78 | Wang & Xiao (2024) | 2024 | China | park | mixed | 262+120 | musical fountain on vs off, broadcast mu… | staying; social; activ… | G1 | both | low |  |
+| 79 | Wogan & Kennedy (2024) | 2024 | Ireland | street | mixed | 335 (+81403 trips) | Dublin road traffic noise, cyclists 71-7… | movement; space-use; a… | G1;G3 | forward | low |  |
+| 80 | [CT0348] Noise Levels Due to C… ▲ | 2025 | Spain | street | mixed | NR (참가자 없음; 관측 단위 … | 상업·여가활동에서 발생하는 인위적 소음(Street Canyon). 파사… | space-use | G3 | reverse | moderate |  |
+| 81 | [CT0356] Soundscape and public… ▲ | 2025 | Germany | square | quasi-experiment | 10 (IVP 평가자, 속성 76… | 8개 지점의 실제 도시 음환경을 ZOOM-VR 1차 앰비소닉 마이크와 I… | space-use; social; act… | G1;G2 | both | low |  |
+| 82 | [OAS0157] Prayers at Dawn, Fuj… | 2025 | Nigeria | mixed | qualitative | 20 (목적표집한 시장 상인·모터… | 작업자가 스스로 재생·연행하는 음환경 — 오전 6시~10시 가스펠·공동기… | social; activity; stay… | G1;G2 | both | low |  |
+| 83 | Ba et al. (2025) | 2025 | China | waterfront | field experiment | NR | light music or fan sound with odour | movement; staying | G2 | forward | moderate |  |
+| 84 | Calafiore & Tong (2025) | 2025 | UK; Australia | street | observational | NR | modelled noise maps along commuting itin… | movement | G3 | forward | high |  |
+| 85 | Chen & Kang (2025) | 2025 | UK | lab(outdoor scene) | lab experiment | NR | bird and fountain sound tempo, NPC densi… | social; movement | G1 | forward | low |  |
+| 86 | Gao & Fang (2025) | 2025 | Australia | street | observational | 8854 points | street-view-predicted noise intensity an… | movement; activity | G3 | forward | low |  |
+| 87 | Lin et al. (2025) | 2025 | China | campus | mixed | NR | campus outdoor LAeq with thermal (PET) e… | activity | G1 | reverse | low |  |
+| 88 | Mansouri et al. (2025) | 2025 | Algeria | street | mixed | 50+58 | in-situ LAeq across five urban morpholog… | movement; space-use | G1 | forward | moderate | MA4 |
+| 89 | Nguyen et al. (2025) | 2025 | Vietnam; Japan | street | mixed | 30 | motorcycle horn signal patterns P1-P6 | activity; social | G1;G2 | reverse | low |  |
+| 90 | Yu (2025) | 2025 | NR | park | mixed | NR | sound-moderating quiet art installations… | space-use; activity | G2 | forward | low |  |
+| 91 | Zhang et al. (2025) | 2025 | China | street | observational | NR | street-view-predicted soundscape and str… | movement; activity | G3 | forward | moderate |  |
+| 92 | [CT0414] Behavioral mapping of… ▲ | 2026 | China | waterfront | qualitative | 1,167명 관찰 기록(user … | 감각공간 4유형(시각/청각/촉각/후각) 중 청각지각공간 노출 — 자연음(… | movement; staying; spa… | G1;G2 | forward | high | MA3(sens) |
+| 93 | Dzhambov et al. (2026) | 2026 | Bulgaria | residential | survey | 4640 | road traffic Lden (50 m grid) with PM2.5 | activity | G1 | forward | high |  |
+| 94 | Fu et al. (2026) | 2026 | China | mixed | mixed | 241 (+9000 photos) | rural village Natural Sound Index; 5-min… | staying; space-use; so… | G1;G2 | forward | moderate | MA2 |
+| 95 | Gao & Fang (2026) | 2026 | China | street | observational | NR | street-view-predicted natural, mechanica… | movement; space-use | G3 | forward | low |  |
+| 96 | Hüg et al. (2026) | 2026 | Argentina | street | observational | 2 (1 dyad) | urban traffic noise context during dyad … | movement; social | G2 | forward | moderate |  |
+| 97 | Lin et al. (2026) | 2026 | China (Hong Kong… | residential | mixed | NR | housing estate outdoor soundscape, binau… | activity; space-use | G2 | reverse | low |  |
+| 98 | Ozturk et al. (2026) | 2026 | 6 countries | street | qualitative | 12 | expert-recalled street sounds: traffic, … | movement; social; spac… | G1 | forward | high |  |
+| 99 | Peng et al. (2026) | 2026 | China | square | mixed | NR | greenway plaza LAeq/L10 by enclosure lev… | staying; social; activ… | G1;G2 | forward | moderate |  |
+| 100 | Ren et al. (2026) | 2026 | China | waterfront | survey | 201 | sea waves, wind and traffic sounds; LAeq | staying; activity; spa… | G1 | reverse | high |  |
+| 101 | Sun et al. (2026) | 2026 | Netherlands | lab(outdoor scene) | lab experiment | 40 | quiet vs noisy street with eHMI sound | movement | G3 | forward | high |  |
+| 102 | Zhou et al. (2026) | 2026 | China | street | mixed | 315 | commercial street LAeq, L10-L90 and perc… | staying; space-use | G1;G3 | forward | low | MA4 |
 
 **약어** — Gen: G1 자기보고 · G2 체계적 관찰 · G3 센싱·궤적(복수 가능) · Dir: forward(음→행태) / reverse(행태→음) / both · MA: 메타분석 기여 클러스터, `(sens)`=민감도 전용, `(var)`=변형분석 · NR: not reported · ▲ = 인용추적으로 추가된 연구
 

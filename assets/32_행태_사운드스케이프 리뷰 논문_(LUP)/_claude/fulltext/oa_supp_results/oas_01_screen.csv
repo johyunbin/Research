@@ -1,0 +1,111 @@
+sid,verdict,reason_code,note,doi,title
+1,UNCERTAIN,,"홍콩 도시공원 환경질, 초록 없어 음환경·행태 판단 불가",10.1007/s10661-005-8039-2,Environmental Quality Of Urban Parks And Open Spaces In Hong Kong
+2,EXCLUDE,E1,도시소음 속 조류 발성 조정 연구,10.1642/0004-8038(2006)123[639:aciunc]2.0.co;2,AVIAN COMMUNICATION IN URBAN NOISE: CAUSES AND CONSEQUENCES OF VOCAL ADJUSTMENT
+3,EXCLUDE,E1,"SID 2 중복, 조류 발성 연구",10.1093/auk/123.3.639,Avian Communication in Urban Noise: Causes and Consequences of Vocal Adjustment
+4,EXCLUDE,E4,"시각장애인 사운드스케이프 지각 차원, 행태 아웃컴 없음",10.1080/12265934.2020.1713863,Appraising the sonic environment of urban parks using the soundscape dimension of visually impaired people
+5,RETRIEVE,,"배경음악이 보행자 이동에 미친 영향, 세팅 확인 필요",10.1016/j.physleta.2018.12.019,Experimental study on the effect of background music on pedestrian movement at high density
+6,EXCLUDE,E1,"도시 생물음향 논고, 동물 대상",10.1016/j.anbehav.2005.07.014,Urban bioacoustics: it's not just noise
+7,EXCLUDE,E4,"머신러닝 사운드스케이프 지수, 인간 행태 없음",10.3390/s23104797,Toward the Definition of a Soundscape Ranking Index (SRI) in an Urban Park Using Machine Learning Techniques
+8,EXCLUDE,E4,"도시 교통소음 모니터링·예측, 행태 없음",10.3390/app8020251,Monitoring and Prediction of Traffic Noise in Large Urban Areas
+9,EXCLUDE,E1,레크리에이션 소음이 야생동물 행동·공간이용 변화,10.1016/j.cub.2024.05.030,Experimental recreationist noise alters behavior and space use of wildlife
+10,EXCLUDE,E4,"가로녹지 소음저감 효과 측정, 행태 없음",10.3390/f13050765,"Assessing the Traffic Noise Reduction Effect of Roadside Green Space Using LiDAR Point Cloud Data in Shenzhen, China"
+11,RETRIEVE,,"가로음악 공연이 공공공간 이용·분위기 형성, 참여관찰",10.1111/1745-5871.12632,"Performance and atmosphere in urban public spaces: Street music in Guangzhou, China"
+12,EXCLUDE,E4,"표준화 속성 기반 사운드스케이프 평가, 지각만",10.1016/j.apacoust.2023.109627,Cross-cultural comparison of soundscape evaluation between Japanese and Vietnamese using standardized attributes
+13,EXCLUDE,E2,"택시 실내 소음·운전행동, 차량 내부 세팅",10.29252/jhehp.4.3.3,Association of Road Traffic Noise Exposure and Driving Behaviors
+14,EXCLUDE,E4,"헬리포트 소음 VR 평가, 지각·경관질만",10.3390/ijerph19106116,Assessing the Soundscape Appropriateness in the Vicinity of a Heliport in an Urban Park of Quito (Ecuador) Using Immersive Audio-Visual Scenarios
+15,EXCLUDE,E4,"라이다 식생과 생물·인위음 관계, 인간 없음",10.1016/j.ufug.2025.129131,Elucidating the influence of vegetation spatial characteristics on bio-anthrophonic soundscapes in urban parks using lidar data
+16,EXCLUDE,E1,"안데스 산림 무미류 음향, 동물",10.1016/j.rsase.2022.100903,Soundscapes of the Yungas Andean forest: Identifying the acoustic footprint of an anuran assemblage
+17,EXCLUDE,E4,"교통소음 센서망·동적 지도, 행태 없음",10.3390/app11188363,Optimized Sensors Network and Dynamical Maps for Monitoring Traffic Noise in a Large Urban Zone
+18,EXCLUDE,E3,"수관피복과 열섬, 음환경 변수 없음",,"TREE CANOPY COVER VARIATION EFFECTS ON URBAN HEAT ISLAND IN ENUGU CITY, NIGERIA"
+19,EXCLUDE,E4,"도시 음향쾌적성 통계분석, 지각 평가만",10.5505/megaron.2014.46338,An Applied Approach to the Examination of Urban Acoustic Comfort: The Soundscape Concept - Statistical Analysis
+20,EXCLUDE,E1,도시소음이 쥐 두 종 행동에 미친 영향,10.4236/nr.2017.82004,The Impact of Urban Noise on the Behavior of Two Mouse Species Belonging to the Genus &amp;lt;i&amp;gt;Apodemus&amp;lt;/i&amp;gt;
+21,EXCLUDE,E4,"아동용 회복적 사운드스케이프 척도 개발, 지각",10.3389/fpsyg.2024.1362096,Development and validation of the perceived restorative soundscape scale for children
+22,EXCLUDE,E4,"드론 소음 사운드워크, 쾌적성·다사성 지각만",10.1121/10.0039523,Shaping future soundscapes: Affective impact of unmanned aircraft systems noise in urban environments
+23,EXCLUDE,E5,"미디어아트 사운드스케이프 논고, 비실증",,"Situated Soundscapes: Redefining Media Art and the Urban Experience + Interview, Statement, Artwork"
+24,EXCLUDE,E4,"소음노출 변수의 통계적 거동, 인간 행태 아님",10.3397/1.2832081,The Behavior of Noise Exposure Variables in an Urban Noise Survey Sample
+25,EXCLUDE,E4,"국립공원 정온도 매핑, 지각 평가",10.1515/noise-2020-0025,Tranquillity mapping in New Zealand national parks – a pilot study
+26,EXCLUDE,E2,"철도역 대합실, 실내 세팅",10.4028/www.scientific.net/amr.518-523.3830,The Influence of Users' Behavioral Characteristics on Soundscape in the Waiting Halls of Railway Stations
+27,EXCLUDE,E4,"도로교통소음 측정 사례연구, 행태 없음",,Effect of Road Traffic Noise Pollution in Cuddalore Town: A Case Study
+28,EXCLUDE,E4,"주민 환경소음 지각 조사, 행태 없음",,Investigation of Environmental Noise Perception of Residents in Lu'an City
+29,EXCLUDE,E4,"이질 교통 소음 유발 파라미터 분석, 행태 없음",10.47577/technium.v13i.9572,A study of heterogeneous traffic noise trigger parameters for urban areas
+30,EXCLUDE,E5,"소음경관 디자인 이론 논고, 비실증",10.7146/se.v3i3.18442,"Conceptual overlays for urban soundscape design emerging from a transversal analysis of Lefebvre, Deleuze and Guattari, and Arendt"
+31,EXCLUDE,E1,"공원 생물음 음향지수 평가, 동물",10.47176/ijae.9.3.12371,"Evaluation of Biophonies in Isfahan Parks, Using Acoustic Indices"
+32,EXCLUDE,E4,"항공기 소음과 정신건강, 행태 아웃컴 없음",10.1016/0022-460x(78)90482-0,Effects of aircraft noise on mental health
+33,EXCLUDE,E4,"인도르시 환경소음 측정, 행태 없음",,Environmental Noise Assessment in Indore City
+34,EXCLUDE,E5,"위구르 사운드스케이프 서평, 비실증",10.5406/21567417.67.3.11,Soundscapes of Uyghur Islam
+35,EXCLUDE,E2,"매장 내 자극과 충동구매, 실내 소매 세팅",,External Stimuli and Impulsive Buying Behavior
+36,EXCLUDE,E4,"알렉산드리아 도시이미지·소음측정, 행태 아웃컴 없음",10.21608/auej.2017.19265,SOUNDSCAPE EXPERIENCE AND ITS IMPACT ON THE IMAGE OF ALEXANDRIA
+37,EXCLUDE,E2,공공도서관 실내 세팅,10.28932/srjd.v7i2.6470,The effect of soundscape on sense of place in the public library of Disarpus Bandung
+38,EXCLUDE,E1,소음이 조류에 미치는 영향 리뷰,10.1525/om.2012.74.1.6,Chapter 2: Effects of noise pollution on birds: A brief review of our knowledge
+39,EXCLUDE,E1,해양소음과 고래류 영향,10.1139/z07-101,The impacts of anthropogenic ocean noise on cetaceans and implications for management
+40,UNCERTAIN,,소음과 사회적 행동 언급하나 초록 없어 판단 불가,,Noise Pollution and Its Impact on Human Health and Social Behavior using Systems Approach-A Case Study in Kurnool City
+41,RETRIEVE,,"시장 소리가 이동·주의·사회적 상호작용 유발, 관찰",10.46248/kidrs.2025.2.49,"Sound, Symbol, and Space: An Ethnosemiotic Analysis of Vernacular Soundscapes in Honghai Morning Market"
+42,EXCLUDE,E3,"생태관광 지속가능성, 음환경 변수 없음",,"Prospects and sustainability of ecotourism in Finima Nature Park, Bonny Island, Rivers State, Nigeria"
+43,EXCLUDE,E4,"계절·청각요소와 청각선호, 지각만",,"Interaction Between Seasons and Auditory Elements, Features and Impressions of Soundscape in Influencing Auditory Preferences"
+44,EXCLUDE,E1,"일식 중 생물음 변화, 동물",10.1080/14888386.2020.1715834,Soundscape shifts during the 2017 total solar eclipse: an application of dispersed automated recording units to study ephemeral acoustic events
+45,EXCLUDE,E5,도시녹지 편익 종합 리뷰,10.9734/ijecc/2025/v15i95007,A Review on Urban Green Space Ecological and Socioeconomic Benefits: A Comprehensive Analysis
+46,EXCLUDE,E6,"도시개발과 지구물리학, 주제 무관",10.1088/1742-2140/4/3/e01,Sustainable urban development and geophysics
+47,EXCLUDE,E5,미국 국립공원 자원관리 정책 논고,10.24294/nrcr.v5i2.1578,"Natural resource management in American national parks: Principles, problems and enlightenment"
+48,EXCLUDE,E3,"자전거 이용 증진 조사, 음환경 노출 없음",10.1093/eurpub/ckaa166.096,Urban health and Physical Activity: how urban design can improve cycling
+49,EXCLUDE,E5,모라비안 사운드스케이프 서평,10.1525/jams.2022.75.1.200,"<i>Moravian Soundscapes: A Sonic History of the Moravian Missions in Early Pennsylvania</i>, by Sarah Justina Eyerly"
+50,RETRIEVE,,"노인 공원 인지→활동특성, 음환경 변수·언어 확인 필요",10.3724/j.fjyl.202409200552,Nonlinear Relationship Between the Elderly&amp;rsquo;s Perception of Green Spaces and Their Activity Characteristics
+51,EXCLUDE,E2,"다중감각장애 아동 교실 청취, 실내",10.1111/j.1467-8578.1992.tb00429.x,Does the Acoustic Environment Make a Difference to Children with Multi‐sensory Impairments?
+52,EXCLUDE,E5,건조환경·정신건강 방법론 리뷰,10.1016/j.copsyc.2019.08.026,"Studying the impact of built environments on human mental health in everyday life: methodological developments, state-of-the-art and technological frontiers"
+53,EXCLUDE,E2,모스크 실내 음향쾌적 설계,10.1016/j.rineng.2025.108142,Modern mosque design proposal and investigation of acoustic comfort conditions
+54,EXCLUDE,E5,"민족지 영상 리뷰, 비실증",10.1111/j.1548-7458.2009.01022.x,Oak Park Stories Directed by Jay Ruby
+55,EXCLUDE,E4,"녹지·대기오염·소음과 사망률, 행태 없음",10.1097/01.ee9.0000608120.50052.1d,"Associations of exposure to surrounding green, air pollution and traffic noise with mortality in a large national health survey"
+56,EXCLUDE,E4,"주거지 환경소음과 삶의 질, 행태 없음",10.21834/ebpj.v7i22.4161,"Environmental Noise in Residential Environments: The Case for Quality of Life in Minna, Nigeria"
+57,EXCLUDE,E4,"GPS 일기·신경과학 정신건강, 행태 아웃컴 없음",10.1016/j.euroneuro.2017.12.120,GPS-triggered electronic diaries and neuroscience to unravel risk and resilience factors of city dwellers mental health in everyday life
+58,EXCLUDE,E4,"나이지리아 소음 측정·규제, 행태 없음",10.12691/wjee-1-1-2,Effective Noise Control Measures and Sustainable Development in Nigeria
+59,EXCLUDE,E1,도시화와 조류 새벽합창 리뷰,10.1111/ibi.12949,A global synthesis of the impacts of urbanization on bird dawn choruses
+60,EXCLUDE,E5,"차로변경 소음 시뮬레이션, 비실증",10.5050/ksnve.2025.35.3.298,Microscopic Approach to Analyze the Impact of Lane Change on Road Traffic Noise
+61,EXCLUDE,E5,창면적비 환기·소음 최적화 시뮬레이션,10.20961/arst.v16i1.20092,WWR OPTIMIZATION FOR VENTILATION AND ENVIRONMENTAL NOISE CONTROL OF TROPICAL DWELLING
+62,EXCLUDE,E5,잔향실 음장재현 이론·설계,10.1121/1.1863032,Theory and design of sound field reproduction in reverberant rooms
+63,EXCLUDE,E1,도시소음 속 조류 노래 트레이드오프,10.1121/1.5137045,Singing in the city: Trade-offs between signal salience and vocal performance in the presence of anthropogenic noise
+64,EXCLUDE,E5,"소음공해 개관 기사, 비실증",10.1016/j.cub.2019.07.018,Noise pollution
+65,EXCLUDE,E1,볼리비아 대나무쥐 울음 기록,10.12933/therya_notes-25-202,"First record and detailed description of calls from the Bolivian bamboo rat Dactylomys boliviensis in Carrasco National Park, Bolivia"
+66,EXCLUDE,E4,"도시 공공공간 교통소음 측정·지각, 행태 없음",10.17271/2318847297220212964,Automotive traffic noise and urban public spaces
+67,EXCLUDE,E2,"배경음악·화면읽기 아이트래킹, 실내 실험",10.33736/jcshd.5933.2023,The Effects of Background Music on The Screen-Based Reading Material Among University Students: An Eye Tracking Study
+68,EXCLUDE,E4,"사운드스케이프와 도시매력·의도만, 행태 없음",10.47577/sustainability.v7i.11678,The Role of Soundscape on Urban Attractiveness in Traditional Cities
+69,EXCLUDE,E1,"조류 노래 논평, 동물",10.1093/beheco/arw103,Moving beyond species-specific noise-induced changes in birdsong: a comment on Roca et al.
+70,EXCLUDE,E1,교통소음과 회색앵무 활동,10.23880/jenr-16000342,"The Environmental Consequence of Automobile and Motor-bike Traffic Noise Intensity on the Activity of African Grey Parrots (Psithacus erittacus) in Limbe Botanic Garden, Southwest Region, Cameroon"
+71,EXCLUDE,E2,쇼핑몰 실내 세팅,10.30822/arteks.v7i3.1837,"The relationship of soundscape and shopping behaviors in Malioboro Mall and Ambarrukmo Plaza, Yogyakarta"
+72,EXCLUDE,E1,도시공원 식생관리·조류 음향 평가,10.1186/s42854-025-00072-y,Evaluating the efficacy of small-plot restorative management in an urban park using low-tech soundscape tools: an exploratory study
+73,RETRIEVE,,교통·항공소음 가로의 이웃 사회적 교류 평가,10.1121/1.409379,"Auto traffic noise, air traffic noise, and the environmental quality of city streets: Test of a model"
+74,EXCLUDE,E5,수면교육 체계적 리뷰 프로토콜,10.11124/jbisrir-2015-2311,"The effectiveness of sleep education programs in improving sleep hygiene knowledge, sleep behavior practices and/or sleep quality of college students: a systematic review protocol"
+75,EXCLUDE,E4,"공원 소음지도·지각 조사, 행태 없음",10.32890/jeth2022.2.6,"SOUNDSCAPE MAPPING OF AGODI PARK AND GARDENS, IBADAN SOUTHWESTERN NIGERIA"
+76,EXCLUDE,E5,스마트폰 소음 모니터링 개관,10.1007/s13762-022-04240-6,"Smartphones, a tool for noise monitoring and noise mapping: an overview"
+77,EXCLUDE,E5,"소음 저감 교통배정 모형, 비실증",,A TRAFFIC ASSIGNMENT MODEL TO REDUCE NOISE ANNOYANCE IN URBAN NETWORKS
+78,EXCLUDE,E1,도시소음과 조류 행동 변화,10.61511/jocae.v3i1.2025.2077,The behavioral changes of birds as a result of urban noise levels
+79,EXCLUDE,E1,"음향 생물다양성 개관, 동물",10.1016/j.cub.2021.08.063,Acoustic biodiversity
+80,EXCLUDE,E6,"학생 음주·약물 태도, 주제 무관",10.1016/0022-4375(90)90035-a,Drug and alcohol attitudes and usage among elementary and secondary students
+81,EXCLUDE,E3,"자전거도로 전후 연구, 음환경 없음",,Bicycle Tracks and Lanes: a Before-After Study
+82,EXCLUDE,E2,"학교 실내 아동 인지·혈압, 행태 아님",10.1121/1.2004991,Aircraft noise and the health and behavior of children
+83,EXCLUDE,E6,"ECG 잡음제거 알고리즘, 주제 무관",10.5958/2249-7315.2016.01018.2,Performance Analysis of Robust Recursive Least Square and its Lattice Structure for Noise Cancellation in ECG Signals
+84,EXCLUDE,E3,"장애인 공원설계 논의, 음환경 변수 없음",,The design analysis of the urban parks for the disable
+85,EXCLUDE,E4,카이로 환경소음·건강영향 개관,10.21608/ejom.2016.845,COMMUNITY NOISE IN GREATER CAIRO
+86,EXCLUDE,E1,야생동물원 코뿔소 음환경 측정,10.1121/1.4877667,"Measuring the sonic, infrasonic and seismic soundscape of the Southern White Rhinoceros <i>(Ceratotherium simum simum)</i> at a wildlife park conservation center"
+87,EXCLUDE,E4,"가로경관 청각이미지 평가구조, 지각만",,The Evaluation Structure of Auditory Images on the Streetscapes - The Semantic Issues of Soundscape based on the Students' Fieldwork -
+88,EXCLUDE,E5,"청각의 역사 논고, 비실증",10.1086/ahr.116.2.316,On Being Heard: A Case for Paying Attention to the Historical Ear
+89,EXCLUDE,E6,"힙합 도시전설 분석, 주제 무관",10.5406/19452349.40.4.15,“The Music Industry Funds Private Prisons”: Analyzing Hip-Hop Urban Legend
+90,EXCLUDE,E5,도시소음 저감 국제사례 리뷰,10.32347/2786-7269.2024.7.208-220,ANALYSIS OF THE DEGREE OF STUDY AND GLOBAL EXPERIENCE IN OPTIMIZING URBAN NOISE POLLUTION
+91,EXCLUDE,E4,"협곡·터널 도시공간 음향 거동, 행태 없음",10.17271/2318847297220212962,Acoustic Behavior and Design of Large Urban Spaces – Canyon and Tunnel
+92,EXCLUDE,E2,"교실 내 주의산만, 실내 세팅",10.1097/01.ede.0000362413.04194.60,Current Traffic Noise Exposure Assessment and Noise Effect of Distraction in Class Among Children in Xiʼan City
+93,EXCLUDE,E1,"노랑솔새 노래 주파수, 동물",10.13001/uwnpsrc.2017.5583,Environmental noise influences song frequency of Yellow Warblers (Dendroica petechia) in Grand Teton National Park
+94,EXCLUDE,E1,"SID 93 중복, 동물",10.13001/uwnpsrc.2018.5665,Environmental noise influences song frequency of Yellow Warblers (Dendroica petechia) in Grand Teton National Park
+95,EXCLUDE,E5,수목의 기후·소음 완화 개관,10.48044/jauf.1977.054,Trees Modify Metropolitan Climate and Noise
+96,EXCLUDE,E5,반종교개혁 사운드스케이프 서평,10.1525/jams.2015.68.2.435,"Review: Music, Piety, and Propaganda: The Soundscapes of Counter-Reformation Bavaria by Alexander J. Fisher"
+97,EXCLUDE,E5,유럽 대기오염 불평등 논평,10.1097/ee9.0000000000000383,Air pollution inequalities in Europe: A deeper understating of challenges in Eastern Europe and pathways forward towards closing the gap between East and West
+98,EXCLUDE,E5,"밤의 역사 서평, 비실증",10.1093/ehr/cem188,At Day's Close: A History of Nighttime
+99,EXCLUDE,E7,"학회 프로시딩, 초록 불일치",10.1098/rspb.2009.1155,Urban planning and traffic noise in Portugal: how did we get here?
+100,EXCLUDE,E2,카페·펍 등 실내 사회공간,10.21810/aer.v12i1.6112,Interferences Between Acoustic Communication Threads in Enclosed Social Environments of Istanbul
+101,EXCLUDE,E4,"지면효과 소음저감 실험, 행태 없음",10.1515/noise-2016-0001,Exploiting ground effects for surface transportnoise abatement
+102,EXCLUDE,E4,임신 중 소음노출과 태아성장,10.1016/j.envint.2023.107730,"Exposure to outdoor residential noise during pregnancy, embryonic size, fetal growth, and birth outcomes"
+103,EXCLUDE,E6,"도시 인프라 종합평가, 주제 무관",10.70028/dcea.v2i2.79,"Integrated Evaluation of Urban Transportation, Structural Performance, Environmental Impacts, and Human Safety in Developing Cities"
+104,EXCLUDE,E4,"열환경과 소음민원 분포, 대상 행태 아님",10.3390/su18147478,Amplified by Heat: Modeling the Spatially Varying Impact of Thermal Environment on Urban Noise Complaints
+105,EXCLUDE,E1,"선박소음과 고래, 동물",10.1121/1.2021023,"Compatibility of ships and whales in Glacier Bay, Alaska"
+106,EXCLUDE,E5,"공간과 음악 작곡론, 비실증",10.7757/persnewmusi.58.1.0005,Composing Music with a Space
+107,EXCLUDE,E5,"SID 106 중복, 작곡론",10.1353/pnm.2020.0000,Composing Music with a Space
+108,EXCLUDE,E1,조류와 항공기 충돌 리뷰,10.1642/0004-8038(2002)119[0587:citabv]2.0.co;2,COMPETITION IN THE AIR: BIRDS VERSUS AIRCRAFT
+109,EXCLUDE,E4,"쿠리치바 소음 짜증 설문, 행태 없음",10.1121/1.4777474,"Social survey carried out in the city of Curitiba, Brazil"
+110,EXCLUDE,E2,"수술실 소음, 실내 의료 세팅",10.1097/aln.0000000000000319,Noise in the Operating Room
