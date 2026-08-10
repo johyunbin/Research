@@ -167,12 +167,7 @@ def main():
     ax.text(1.0, 1.02, f"{recent} of {tot} studies ({recent/tot*100:.0f}%) published since 2020",
             transform=ax.transAxes, ha="right", fontsize=7.0, color=T.AXIS)
 
-    fig.suptitle("Geographic and temporal distribution of the included studies",
-                 fontsize=11.4, x=0.012, ha="left", y=0.985)
-    fig.text(0.012, 0.955, f"n = {tot} included studies. "
-             "Panel (a) is the basis for the generalisability caveat in the Discussion.",
-             fontsize=7.8, color=T.INK2, ha="left")
-    fig.subplots_adjust(left=0.20, right=0.975, top=0.905, bottom=0.062)
+    fig.subplots_adjust(left=0.20, right=0.975, top=0.955, bottom=0.062)
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig7_GeoTime.{ext}"), dpi=300)
     plt.close(fig)

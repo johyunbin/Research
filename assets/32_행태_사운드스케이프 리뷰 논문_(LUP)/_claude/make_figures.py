@@ -115,7 +115,7 @@ def forest_panel(ax, key, head, sub, xlab):
         xlab = "Fisher's $z$"                      # 길면 축이 잘린다(실측)
     ax.set_xlabel(f"{xlab}        $I^2$ = {pl['I2']:.0f}%,  $p$ = {pl['p']:.3f}{r_txt}",
                   fontsize=7.2, labelpad=4)
-    ax.set_title(f"{head} — {sub}", fontsize=8.4, loc="left", pad=6)
+    ax.set_title(head, fontsize=8.4, loc="left", pad=5)   # 부제는 캡션이 담당
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
 
@@ -125,18 +125,12 @@ def fig_forest():
     한 열로 세우면 각 패널이 전체 폭을 쓰고, 라벨 왼쪽 여백을 고정해 네 패널의
     x=0 기준선이 세로로 정렬된다 — 클러스터 간 비교가 가능해진다."""
     ns = [len(D["ma"][k]["effects"]) for k, *_ in PANE]
-    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 7.8),
+    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 7.4),
                              gridspec_kw={"height_ratios": [n + 2.4 for n in ns]})
     for (key, head, sub, xlab), ax in zip(PANE, axes):
         forest_panel(ax, key, head, sub, xlab)
-    fig.suptitle("Pooled effects across four behavioural clusters "
-                 "(REML random effects, Hartung–Knapp)",
-                 fontsize=9.6, x=0.012, ha="left", y=0.995)
-    fig.text(0.012, 0.972, "Squares are individual effects sized by inverse variance; diamonds "
-             "are pooled estimates.   ▲ retrieved by citation searching",
-             fontsize=7.0, color=MUT, ha="left", va="top")
-    # 라벨 폭을 고정해 네 패널의 축 시작점을 맞춘다
-    fig.subplots_adjust(left=0.315, right=0.985, top=0.925, bottom=0.048, hspace=1.05)
+    # ★ 제목·부제를 그림에 넣지 않는다 — 캡션이 담당한다(저널 관행).
+    fig.subplots_adjust(left=0.315, right=0.985, top=0.975, bottom=0.052, hspace=1.0)
     save(fig, "Fig2_Forest")
 
 
@@ -166,8 +160,6 @@ def fig_evidence_map():
     cb.set_label("studies (n)", fontsize=7.2, labelpad=6)
     cb.ax.tick_params(labelsize=6.8, length=2)
     cb.outline.set_visible(False)
-    ax.set_title("Evidence map — included studies by behavioural domain × sound source",
-                 fontsize=9.2, loc="left", pad=7)
     fig.tight_layout()
     save(fig, "Fig3_EvidenceMap")
 
@@ -199,9 +191,8 @@ def fig_direction():
     ax.grid(axis="x", lw=0.6); ax.set_axisbelow(True)
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
-    ax.legend(loc="lower left", bbox_to_anchor=(0.0, 1.01), ncol=3, fontsize=7.2,
+    ax.legend(loc="lower left", bbox_to_anchor=(0.0, 1.0), ncol=3, fontsize=7.2,
               handlelength=1.1, columnspacing=1.6, handletextpad=0.5)
-    ax.set_title("Direction of the studied relationship", fontsize=9.2, loc="left", pad=26)
     fig.tight_layout()
     save(fig, "Fig4_Direction")
 
@@ -228,7 +219,6 @@ def fig_methods():
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     ax.legend(loc="upper left", fontsize=7.2, handlelength=1.1, handletextpad=0.5)
-    ax.set_title("Behavioural measurement methods over time", fontsize=9.2, loc="left", pad=6)
     ax.margins(x=0.06)
     fig.tight_layout()
     save(fig, "Fig5_Methods")

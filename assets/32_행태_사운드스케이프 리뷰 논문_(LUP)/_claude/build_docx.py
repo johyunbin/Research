@@ -27,7 +27,9 @@ FIGDIR = os.path.join(BASE, "figures")
 FONT = "Times New Roman"
 FONT_EA = "바탕"   # 한글 본문(paper31 Normal 스타일과 동일 계열)
 SZ_TITLE, SZ_BODY, SZ_TABLE = 16, 12, 11
-LS_BODY, LS_HEAD = 2.0, 1.5      # paper31 실측 — 본문 더블·제목 1.5
+LS_BODY, LS_HEAD = None, None    # 본문·제목 모두 Normal(2.0) 상속
+#   ↑ 사용자가 직접 고친 11개 절 제목의 실측값(2026-08-10): JUSTIFY + 줄간격 미지정
+LS_NORMAL = 2.0                  # Normal 스타일 줄간격
 FIRST_INDENT = 0.2               # 본문 첫 줄 들여쓰기(in)
 # 그림별 삽입 폭(in) — 세로로 긴 도면은 좁게 넣어야 한 쪽에 들어간다
 FIG_W = {"Fig1_PRISMA": 5.9, "Fig2_Forest": 5.6, "Fig6_Framework": 5.4,
@@ -86,11 +88,14 @@ CAPTIONS = {
     "Fig6_Framework": (
         "Conceptual framework. The loop is bidirectional by construction: the forward path runs "
         "acoustic environment → appraisal → behaviour, the reverse path runs activity → sound "
-        "production → acoustic environment. Behaviour is unfolded as an engagement gradient and "
-        "each band carries the quantitative evidence attached to it. The framework's diagnostic "
-        "value is visible in the leftmost band — the avoidance and walking-speed evidence, the "
-        "most frequently cited claim in this literature, comes entirely from studies that MMAT "
-        "rates low."),
+        "production → acoustic environment. Below the loop, behaviour is unfolded as a gradient "
+        "of engagement, and each band carries the pooled evidence attached to it — band shading "
+        "is the number of pooled effects (k), asterisks mark p < .05 (*) and p < .01 (**), and "
+        "the line under each band gives the MMAT quality of the contributing studies. The "
+        "framework's diagnostic value is visible in the leftmost band: the avoidance and "
+        f"walking-speed evidence, the most frequently cited claim in this literature, comes "
+        f"entirely from studies that MMAT rates low, so excluding low-quality studies leaves "
+        f"nothing to pool."),
     "Fig7_GeoTime": (
         f"Geographic and temporal distribution of the {_FD['n_included']} included studies. "
         f"(a) {_FD['geo']['countries'][0][1]} studies "
@@ -100,14 +105,16 @@ CAPTIONS = {
         "reverse-direction studies appear only from the mid-2010s, so the bidirectional evidence "
         "base is younger still than the corpus as a whole."),
     "Fig8_Quality": (
-        "MMAT 2018 appraisal. Two findings drive the Discussion. First, the two randomised "
-        "studies score among the lowest rather than the highest: their reports omit the "
-        "randomisation procedure, baseline comparability and blinding entirely, so the design "
-        "cannot be credited. Second, the largest deficits are deficits of reporting — sample "
-        f"representativeness (item 4.2, clearly met in {_Q['4.2']['Y']} of {_Q['4.2']['n']}), "
-        f"low non-response bias (4.4, {_Q['4.4']['Y']} of {_Q['4.4']['n']}) and control of "
-        f"confounding (3.4, {_Q['3.4']['Y']} of {_Q['3.4']['n']}) fail mostly because the "
-        "information is absent, not because the studies are known to be biased."),
+        "MMAT 2018 appraisal. (a) Grade distribution within each MMAT category. (b) Selected "
+        "items, grouped to show the pattern that drives the Discussion: what the studies report "
+        "well concerns the measurement, and what they do not report concerns the people. Sample "
+        f"representativeness was clearly met in {_Q['4.2']['Y']} of {_Q['4.2']['n']} quantitative "
+        f"descriptive studies, low non-response bias in {_Q['4.4']['Y']} of {_Q['4.4']['n']}, and "
+        f"control of confounding in {_Q['3.4']['Y']} of {_Q['3.4']['n']} non-randomised studies. "
+        "The two randomised studies report neither the randomisation procedure, nor baseline "
+        "comparability, nor blinding, so their design cannot be credited at all. Grey means the "
+        "information is absent, not that the study is known to be biased. The full 25-item set is "
+        "Supplementary S10."),
 }
 
 
@@ -174,7 +181,7 @@ def figure(doc, name, num):
         print(f"  ⚠️ 그림 없음: {name}.png"); return False
     pic = doc.add_paragraph()
     pic.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    pic.paragraph_format.line_spacing = LS_BODY
+    pic.paragraph_format.line_spacing = 1.0
     pic.paragraph_format.space_before = Pt(10)
     pic.paragraph_format.space_after = Pt(4)
     pic.add_run().add_picture(png, width=Inches(FIG_W.get(name, 5.7)))
@@ -220,7 +227,7 @@ def main():
     st = doc.styles["Normal"]
     st.font.name = FONT
     st.font.size = Pt(SZ_BODY)
-    st.paragraph_format.line_spacing = LS_BODY
+    st.paragraph_format.line_spacing = LS_NORMAL
     st.paragraph_format.space_after = Pt(0)
     rf = st.element.rPr.rFonts
     for a in ("w:ascii", "w:hAnsi", "w:cs"):
@@ -231,7 +238,8 @@ def main():
     s.page_width, s.page_height = Inches(8.27), Inches(11.69)
     s.left_margin = Inches(1.18)
     s.right_margin = s.top_margin = s.bottom_margin = Inches(1.00)
-    enable_line_numbers(s)
+    # 사용자가 줄번호를 껐다(2026-08-10 docx 실측) — 그 결정을 따른다.
+    # enable_line_numbers(s)
 
     lines = md.split("\n")
     i, n_tbl, n_head, n_fig = 0, 0, 0, 0
@@ -271,12 +279,12 @@ def main():
         if st_ln.startswith("### "):                                 # 3수준 절
             n_head += 1
             para(doc, st_ln[4:], SZ_BODY, bold=True, space_before=12, space_after=4,
-                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.LEFT)
+                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.JUSTIFY)
             i += 1; continue
         if st_ln.startswith("## "):                                  # 2수준 절
             n_head += 1
             para(doc, st_ln[3:], SZ_BODY, bold=True, space_before=16, space_after=6,
-                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.LEFT)
+                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.JUSTIFY)
             i += 1; continue
         if st_ln in ("---", "***") or SKIP_META.match(st_ln):
             i += 1; continue

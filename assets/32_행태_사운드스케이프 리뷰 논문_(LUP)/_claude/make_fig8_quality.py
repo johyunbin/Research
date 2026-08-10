@@ -77,8 +77,8 @@ def main():
         if i in ITEMS:
             item_v[i][(r["verdict"] or "").strip().upper()] += 1
 
-    fig, axes = plt.subplots(2, 1, figsize=(8.4, 9.0),
-                             gridspec_kw={"height_ratios": [1.0, 2.55], "hspace": 0.34})
+    fig, axes = plt.subplots(2, 1, figsize=(8.4, 6.6),
+                             gridspec_kw={"height_ratios": [1.0, 1.55], "hspace": 0.42})
 
     # ── (a) 범주별 등급 ─────────────────────────────────────────────
     ax = axes[0]
@@ -116,64 +116,71 @@ def main():
             (f" · {n_und} undetermined (scanned original)" if n_und else ""),
             transform=ax.transAxes, ha="right", fontsize=7.0, color=T.AXIS)
 
-    # ── (b) 문항별 판정 ─────────────────────────────────────────────
+    # ── (b) 무엇이 잘 보고되고 무엇이 보고되지 않는가 ────────────────
+    # ★ 종전 판은 25문항 전건을 실어 메시지가 묻혔다("Figure 8 이해가 잘 안 된다").
+    #   본문이 실제로 논하는 문항만 남기고, **잘 보고된 것 / 보고되지 않은 것**을
+    #   두 묶음으로 갈라 논지를 그림에서 바로 읽히게 한다. 전건은 Supplementary S10.
     ax = axes[1]
-    rows, ylabels, group_marks = [], [], []
+    GOOD = [("3.2", "Non-randomised"), ("3.5", "Non-randomised"),
+            ("4.1", "Descriptive"), ("1.1", "Qualitative")]
+    POOR = [("4.2", "Descriptive"), ("4.4", "Descriptive"),
+            ("3.4", "Non-randomised"), ("3.1", "Non-randomised"),
+            ("2.1", "RCT"), ("2.2", "RCT"), ("2.4", "RCT")]
+    blocks = [("Reported well — about the measurement", GOOD),
+              ("Reported poorly or not at all — about the people", POOR)]
+
+    rows, ylabels, heads = [], [], []
     slot = 0.0
-    for code, cname in CATS:
-        keys = [k for k in sorted(ITEMS) if k.startswith(code + ".") and item_v.get(k)]
-        if not keys:
-            continue
-        n_cat = sum(item_v[keys[0]].values())
-        group_marks.append((slot, f"{cname}  (n = {n_cat})"))
-        slot += 1.0
-        for k in keys:
-            c = item_v[k]
+    for head, keys in blocks:
+        heads.append((slot, head)); slot += 1.0
+        for k, cat in keys:
+            c = item_v.get(k)
+            if not c:
+                continue
             tot = sum(c.values()) or 1
-            rows.append((slot, [c.get("Y", 0) / tot, c.get("CT", 0) / tot, c.get("N", 0) / tot]))
-            ylabels.append((slot, f"{k}  {ITEMS[k]}"))
+            rows.append((slot, [c.get("Y", 0) / tot, c.get("CT", 0) / tot, c.get("N", 0) / tot],
+                         c, tot))
+            ylabels.append((slot, f"{k}  {ITEMS[k]}", cat))
             slot += 1.0
-        slot += 0.5
+        slot += 0.6
+    slot -= 0.6            # 마지막 블록 뒤 여백 제거
 
     ymax = slot
-    for ypos, fracs in rows:
+    for ypos, fracs, c, tot in rows:
         yy = ymax - ypos
         left = 0.0
         for frac, col in zip(fracs, (YES, CT, NO)):
             if frac > 0:
-                ax.barh(yy, frac, left=left, height=0.66, color=col,
-                        edgecolor=T.SURF, linewidth=0.7, zorder=3)
-                if frac >= 0.13:
+                ax.barh(yy, frac, left=left, height=0.62, color=col,
+                        edgecolor=T.SURF, linewidth=0.8, zorder=3)
+                if frac >= 0.14:
                     ax.text(left + frac / 2, yy, f"{frac*100:.0f}%", ha="center", va="center",
-                            fontsize=6.4, color=T.SURF if col != CT else T.INK, zorder=5)
+                            fontsize=6.6, color=T.SURF if col != CT else T.INK, zorder=5)
             left += frac
+        ax.text(1.012, yy, f"{c.get('Y', 0)}/{tot}", va="center", ha="left",
+                fontsize=6.8, color=T.INK2, transform=ax.get_yaxis_transform())
 
-    ax.set_yticks([ymax - p for p, _ in ylabels])
-    ax.set_yticklabels([lab for _, lab in ylabels], fontsize=7.0)
-    for ypos, lab in group_marks:
-        ax.text(-0.005, ymax - ypos, lab, ha="right", va="center", fontsize=7.6,
+    ax.set_yticks([ymax - p for p, _, _ in ylabels])
+    ax.set_yticklabels([lab for _, lab, _ in ylabels], fontsize=7.4)
+    for ypos, head in heads:
+        ax.text(-0.005, ymax - ypos, head, ha="right", va="center", fontsize=7.8,
                 fontweight="bold", color=T.INK, transform=ax.get_yaxis_transform())
-    ax.set_xlim(0, 1); ax.set_ylim(-0.4, ymax + 0.6)
+    ax.set_xlim(0, 1); ax.set_ylim(-0.4, ymax + 0.4)
     ax.set_xticks([0, 0.25, 0.5, 0.75, 1.0])
     ax.set_xticklabels(["0%", "25%", "50%", "75%", "100%"], fontsize=7.4)
-    ax.set_xlabel("share of appraised studies", fontsize=8)
+    ax.set_xlabel("share of studies in the category that the item applies to", fontsize=8)
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
     handles = [plt.Rectangle((0, 0), 1, 1, color=c) for c in (YES, CT, NO)]
     ax.legend(handles, ["Yes — criterion met", "Can't tell — not reported", "No — not met"],
-              fontsize=7.2, loc="upper center", bbox_to_anchor=(0.5, 1.075), ncol=3,
+              fontsize=7.2, loc="upper center", bbox_to_anchor=(0.5, 1.10), ncol=3,
               handlelength=1.0, columnspacing=1.4)
-    ax.set_title("(b)  Item-level appraisal within each MMAT category",
-                 fontsize=9.6, loc="left", pad=24)
+    ax.set_title("(b)  Selected MMAT items — full item set in Supplementary S10",
+                 fontsize=9.6, loc="left", pad=22)
 
-    fig.suptitle("Methodological quality of the included studies (MMAT 2018)",
-                 fontsize=11.4, x=0.008, ha="left", y=0.988)
-    fig.text(0.008, 0.962, "Three identification routes pooled (databases, citation searching, supplementary index). "
-             "'Can't tell' means the study did not report enough to judge — "
-             "it is a reporting failure, not a design failure.",
-             fontsize=7.6, color=T.INK2, ha="left")
-    fig.subplots_adjust(left=0.315, right=0.975, top=0.915, bottom=0.045)
+    # ★ 그림에 제목을 넣지 않는다 — 캡션이 담당한다(저널 관행).
+    fig.subplots_adjust(left=0.315, right=0.975, top=0.955, bottom=0.045)
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig8_Quality.{ext}"), dpi=300)
     plt.close(fig)

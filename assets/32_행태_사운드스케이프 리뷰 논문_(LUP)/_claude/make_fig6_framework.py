@@ -57,8 +57,9 @@ def arrow(ax, p0, p1, color, rad=0.0, lw=2.0, z=4, ms=15):
 
 
 def main():
-    fig, ax = plt.subplots(figsize=(8.6, 9.8))
-    ax.set_xlim(0, 100); ax.set_ylim(0, 100); ax.axis("off")
+    fig, ax = plt.subplots(figsize=(8.6, 6.6))
+    # 세대 블록 삭제로 y<24 가 비었다 — 그만큼 잘라 여백을 없앤다
+    ax.set_xlim(0, 100); ax.set_ylim(23, 101); ax.axis("off")
 
     # ── 상단: 양방향 루프 ────────────────────────────────────────────
     box(ax, 50, 93, 32, 11, "#eef4fd", FWD, 1.3)
@@ -142,57 +143,13 @@ def main():
         ax.text(x0 + wstep / 2, GY - 9.0, q, ha="center", va="center", fontsize=6.9,
                 color=T.INK2, zorder=5)
 
-    ax.text(GX0, GY - 12.4, "Band shading = number of pooled effect sizes (k); * p < .05, ** p < .01. "
-            "Text below each band = MMAT quality of the contributing studies.",
-            fontsize=6.9, color=T.INK2, ha="left")
-    ax.text(GX0, GY - 15.0, f"All {_w[3]} walking-speed effects come from low-quality studies — excluding them leaves nothing to pool (k = 0).",
-            fontsize=6.9, color=REV, ha="left", fontweight="bold")
 
-    # ── 하단: 측정 3세대 ────────────────────────────────────────────
-    MY = 6.2
-    ax.plot([GX0, GX1], [16.4, 16.4], color=T.GRID, lw=0.9, zorder=1)
-    ax.text(GX0, 14.2, "Generations of behavioural measurement", fontsize=9.4,
-            fontweight="bold", color=T.INK, ha="left")
-    ax.text(GX0, 12.0, f"Generations accumulate rather than replace one another: G3 rose "
-            f"from {_D['generations']['G3'][1]} studies (2010s) to "
-            f"{_D['generations']['G3'][2]} (2020s) while G1 and G2 also grew. "
-            f"{_D['generations']['multi_generation_studies']} studies use two or more generations and are counted in each.",
-            fontsize=6.9, color=T.INK2, ha="left")
+    # ★ '측정 3세대' 블록은 삭제했다 — 같은 내용을 Fig5_Methods 가 이미 담고 있어
+    #   한 그림에 세 덩어리를 넣은 것이 이 도면을 읽기 어렵게 만든 주된 원인이었다.
 
-    # ⚠️ 종전 코드는 table1_v2.csv 전건(민감도 4편 포함 = 102편)을 세어
-    #    G1 58 · G2 43 을 그렸다. fig_data 의 FINAL_INCLUDE 98편 집계로 통일한다.
-    _g = _D["generations"]
-    gens = [("G1", "Self-report", "survey · recall", str(_g["total_G1"]), 0.30),
-            ("G2", "Systematic\nobservation", "mapping · counts", str(_g["total_G2"]), 0.58),
-            ("G3", "Sensing &\ntrajectory", "GPS · video · ML", str(_g["total_G3"]), 0.88)]
-    gw = (GX1 - GX0 - 2 * 2.4) / 3
-    CHIP = 10.0
-    for i, (tag, name, sub, cnt, shade) in enumerate(gens):
-        x0 = GX0 + i * (gw + 2.4)
-        c = T.SEQ(0.2 + 0.6 * shade)
-        ax.add_patch(Rectangle((x0, MY - 4.4), gw, 9.0, facecolor=T.SURF,
-                               edgecolor=T.BASE, linewidth=0.9, zorder=3))
-        ax.add_patch(Rectangle((x0, MY - 4.4), CHIP, 9.0, facecolor=c, edgecolor="none", zorder=4))
-        ax.text(x0 + CHIP / 2, MY + 2.7, tag, fontsize=7.8, fontweight="bold",
-                color=T.SURF, ha="center", va="center", zorder=5)
-        ax.text(x0 + CHIP / 2, MY - 0.6, cnt, fontsize=12.0, fontweight="bold",
-                color=T.SURF, ha="center", va="center", zorder=5)
-        ax.text(x0 + CHIP / 2, MY - 3.3, "studies", fontsize=6.0,
-                color="#e9f1fc", ha="center", va="center", zorder=5)
-        ax.text(x0 + CHIP + 2.4, MY + 1.8, name, fontsize=7.8, fontweight="bold",
-                color=T.INK, ha="left", va="center", zorder=5, linespacing=1.35)
-        ax.text(x0 + CHIP + 2.4, MY - 2.6, sub, fontsize=6.4, color=T.INK2, ha="left",
-                va="center", zorder=5)
+    # 제목·부제는 그림에 넣지 않는다(캡션이 담당).
 
-    fig.text(0.045, 0.982, "The soundscape–behaviour loop in public open space",
-             fontsize=12.6, fontweight="bold", color=T.INK, ha="left", va="top")
-    fig.text(0.045, 0.960, "A conceptual framework linking the acoustic environment, behaviour, "
-             f"and generations of measurement,\nwith the {_D['n_included']}-study evidence base "
-             "mapped onto it. Blue paths: sound shapes behaviour. "
-             "Orange paths: activity shapes sound.",
-             fontsize=8.0, color=T.INK2, ha="left", va="top", linespacing=1.5)
-
-    fig.subplots_adjust(left=0.02, right=0.98, top=0.925, bottom=0.012)
+    fig.subplots_adjust(left=0.02, right=0.98, top=0.985, bottom=0.015)
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig6_Framework.{ext}"), dpi=300)
     plt.close(fig)
