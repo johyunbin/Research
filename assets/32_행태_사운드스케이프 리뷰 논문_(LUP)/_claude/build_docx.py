@@ -174,6 +174,36 @@ def para(doc, text="", size=SZ_BODY, bold=False, align=None, indent=None,
     return p
 
 
+def h2(doc, text):
+    """2수준 제목 — Normal · JUSTIFY · bold · 검정(사용자 수정본 실측)."""
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    pf = p.paragraph_format
+    pf.line_spacing = None; pf.space_before = None; pf.space_after = None
+    pf.keep_with_next = True
+    add_rich(p, text, SZ_BODY, base_bold=True)
+    for r in p.runs:
+        r.font.bold = True
+        r.font.size = None                      # Normal(12pt) 상속 — 목표와 동일
+        r.font.color.rgb = RGBColor(0, 0, 0)
+    return p
+
+
+def h3(doc, text):
+    """3수준 제목 — Word `Heading 2` 스타일에 런을 TNR 12pt·bold 아님·검정으로 덮는다."""
+    p = doc.add_paragraph(style="Heading 2")
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    pf = p.paragraph_format
+    pf.line_spacing = None; pf.space_before = None; pf.space_after = None
+    pf.keep_with_next = True                # 간격 10pt 는 Heading 2 스타일이 준다
+    add_rich(p, text, SZ_BODY)
+    for r in p.runs:
+        r.font.bold = False
+        r.font.color.rgb = RGBColor(0, 0, 0)
+        r.font.size = Pt(SZ_BODY)
+    return p
+
+
 def figure(doc, name, num):
     """본문에서 그림을 인용한 자리에 이미지 + 캡션을 넣는다(paper31 배치와 동일)."""
     png = os.path.join(FIGDIR, name + ".png")
@@ -255,8 +285,8 @@ def main():
         st_ln = ln.strip()
 
         if st_ln.startswith("# "):                                   # 논문 제목
-            para(doc, st_ln[2:], SZ_TITLE, bold=True, space_after=12,
-                 align=WD_ALIGN_PARAGRAPH.CENTER)
+            para(doc, st_ln[2:], SZ_TITLE, bold=True, space_before=14,
+                 space_after=14, line_spacing=1.5)   # 좌측정렬(사용자 수정본 실측)
             i += 1; continue
         if st_ln == "## Author information":
             frontmatter = True
@@ -278,13 +308,11 @@ def main():
             continue
         if st_ln.startswith("### "):                                 # 3수준 절
             n_head += 1
-            para(doc, st_ln[4:], SZ_BODY, bold=True, space_before=12, space_after=4,
-                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.JUSTIFY)
+            h3(doc, st_ln[4:])
             i += 1; continue
         if st_ln.startswith("## "):                                  # 2수준 절
             n_head += 1
-            para(doc, st_ln[3:], SZ_BODY, bold=True, space_before=16, space_after=6,
-                 line_spacing=LS_HEAD, align=WD_ALIGN_PARAGRAPH.JUSTIFY)
+            h2(doc, st_ln[3:])
             i += 1; continue
         if st_ln in ("---", "***") or SKIP_META.match(st_ln):
             i += 1; continue
