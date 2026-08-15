@@ -77,44 +77,46 @@ def main():
         if i in ITEMS:
             item_v[i][(r["verdict"] or "").strip().upper()] += 1
 
-    fig, axes = plt.subplots(2, 1, figsize=(8.4, 6.6),
-                             gridspec_kw={"height_ratios": [1.0, 1.55], "hspace": 0.42})
+    fig, axes = plt.subplots(2, 1, figsize=(T.W_FULL, 5.4),
+                             gridspec_kw={"height_ratios": [1.0, 1.62], "hspace": 0.5})
 
     # ── (a) 범주별 등급 ─────────────────────────────────────────────
     ax = axes[0]
     codes = [c for c, _ in CATS if tier_by_cat.get(c)]
     labels = [f"{dict(CATS)[c]}" for c in codes]
-    tiers = [("high", T.SEQ(0.85), "high (4–5 criteria met)"),
-             ("moderate", T.SEQ(0.5), "moderate (3)"),
-             ("low", T.SEQ(0.18), "low (0–2)")]
+    # 등급은 순서형 — 단일 hue 3단 램프(어두움 = high)
+    tiers = [("high", T.ORD3[2], "high (4–5 criteria met)"),
+             ("moderate", T.ORD3[1], "moderate (3)"),
+             ("low", T.ORD3[0], "low (0–2)")]
     y = np.arange(len(codes))[::-1].astype(float)
     left = np.zeros(len(codes))
     for key, col, lab in tiers:
         v = np.array([tier_by_cat[c].get(key, 0) for c in codes], float)
-        ax.barh(y, v, left=left, height=0.58, color=col, edgecolor=T.SURF,
-                linewidth=0.8, label=lab, zorder=3)
+        ax.barh(y, v, left=left, height=0.6, color=col, edgecolor=T.SURF,
+                linewidth=0.7, label=lab, zorder=3)
         for yi, (l0, vi) in enumerate(zip(left, v)):
             if vi >= 2:
                 ax.text(l0 + vi / 2, y[yi], f"{int(vi)}", ha="center", va="center",
-                        fontsize=7.2, color=T.SURF if key != "low" else T.INK,
-                        fontweight="bold", zorder=5)
+                        fontsize=7.6, color=T.ink_on(col), fontweight="bold", zorder=5)
         left += v
     totals = left
     for yi, tot in zip(y, totals):
-        ax.text(tot + 0.7, yi, f"n = {int(tot)}", va="center", fontsize=7.4, color=T.INK2)
-    ax.set_yticks(y); ax.set_yticklabels(labels, fontsize=8.2)
-    ax.set_xlabel("studies (n)", fontsize=8)
-    ax.set_xlim(0, max(totals) * 1.16)
-    ax.grid(axis="x", zorder=0); ax.set_axisbelow(True)
-    for s in ("top", "right", "left"):
+        ax.text(tot + 0.7, yi, f"n = {int(tot)}", va="center", fontsize=7.5, color=T.INK2)
+    ax.set_yticks(y); ax.set_yticklabels(labels, fontsize=8)
+    ax.set_xlim(0, max(totals) * 1.18)
+    ax.xaxis.set_visible(False)               # 세그먼트 값이 전부 인쇄돼 있다
+    for s in ("top", "right", "left", "bottom"):
         ax.spines[s].set_visible(False)
-    ax.legend(fontsize=7.2, loc="upper right", ncol=1, handlelength=1.0,
+    ax.tick_params(axis="y", length=0)
+    ax.legend(fontsize=7.5, loc="upper right", ncol=1, handlelength=1.0,
               columnspacing=1.1, borderpad=0.2, labelspacing=0.34)
-    ax.set_title("(a)  Overall appraisal by MMAT category", fontsize=9.6, loc="left", pad=8)
+    ax.set_title("(a)  Overall appraisal by MMAT category", fontsize=9, loc="left",
+                 pad=8, fontweight="bold")
     n_und = sum(1 for r in q if catcode(r["mmat_category"]) == "?")
-    ax.text(1.0, 1.02, f"n = {len(q)} appraised" +
+    # 주석은 패널 오른쪽 아래 빈 공간에 — 제목 줄에 두면 겹친다(실측)
+    ax.text(1.0, 0.02, f"n = {len(q)} appraised" +
             (f" · {n_und} undetermined (scanned original)" if n_und else ""),
-            transform=ax.transAxes, ha="right", fontsize=7.0, color=T.AXIS)
+            transform=ax.transAxes, ha="right", va="bottom", fontsize=7.2, color=T.AXIS)
 
     # ── (b) 무엇이 잘 보고되고 무엇이 보고되지 않는가 ────────────────
     # ★ 종전 판은 25문항 전건을 실어 메시지가 묻혔다("Figure 8 이해가 잘 안 된다").
@@ -126,8 +128,8 @@ def main():
     POOR = [("4.2", "Descriptive"), ("4.4", "Descriptive"),
             ("3.4", "Non-randomised"), ("3.1", "Non-randomised"),
             ("2.1", "RCT"), ("2.2", "RCT"), ("2.4", "RCT")]
-    blocks = [("Reported well — about the measurement", GOOD),
-              ("Reported poorly or not at all — about the people", POOR)]
+    blocks = [("Reported well — the measurement", GOOD),
+              ("Reported poorly — the people", POOR)]
 
     rows, ylabels, heads = [], [], []
     slot = 0.0
@@ -151,36 +153,36 @@ def main():
         left = 0.0
         for frac, col in zip(fracs, (YES, CT, NO)):
             if frac > 0:
-                ax.barh(yy, frac, left=left, height=0.62, color=col,
-                        edgecolor=T.SURF, linewidth=0.8, zorder=3)
+                ax.barh(yy, frac, left=left, height=0.64, color=col,
+                        edgecolor=T.SURF, linewidth=0.7, zorder=3)
                 if frac >= 0.14:
                     ax.text(left + frac / 2, yy, f"{frac*100:.0f}%", ha="center", va="center",
-                            fontsize=6.6, color=T.SURF if col != CT else T.INK, zorder=5)
+                            fontsize=7.2, color=T.ink_on(col), zorder=5)
             left += frac
-        ax.text(1.012, yy, f"{c.get('Y', 0)}/{tot}", va="center", ha="left",
-                fontsize=6.8, color=T.INK2, transform=ax.get_yaxis_transform())
+        ax.text(1.014, yy, f"{c.get('Y', 0)}/{tot}", va="center", ha="left",
+                fontsize=7.2, color=T.INK2, transform=ax.get_yaxis_transform())
 
     ax.set_yticks([ymax - p for p, _, _ in ylabels])
-    ax.set_yticklabels([lab for _, lab, _ in ylabels], fontsize=7.4)
+    ax.set_yticklabels([lab for _, lab, _ in ylabels], fontsize=7.6)
     for ypos, head in heads:
-        ax.text(-0.005, ymax - ypos, head, ha="right", va="center", fontsize=7.8,
+        ax.text(-0.005, ymax - ypos, head, ha="right", va="center", fontsize=8,
                 fontweight="bold", color=T.INK, transform=ax.get_yaxis_transform())
     ax.set_xlim(0, 1); ax.set_ylim(-0.4, ymax + 0.4)
     ax.set_xticks([0, 0.25, 0.5, 0.75, 1.0])
-    ax.set_xticklabels(["0%", "25%", "50%", "75%", "100%"], fontsize=7.4)
+    ax.set_xticklabels(["0%", "25%", "50%", "75%", "100%"], fontsize=7.5)
     ax.set_xlabel("share of studies in the category that the item applies to", fontsize=8)
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
     handles = [plt.Rectangle((0, 0), 1, 1, color=c) for c in (YES, CT, NO)]
     ax.legend(handles, ["Yes — criterion met", "Can't tell — not reported", "No — not met"],
-              fontsize=7.2, loc="upper center", bbox_to_anchor=(0.5, 1.10), ncol=3,
-              handlelength=1.0, columnspacing=1.4)
-    ax.set_title("(b)  Selected MMAT items — full item set in Supplementary S10",
-                 fontsize=9.6, loc="left", pad=22)
+              fontsize=7.5, loc="upper center", bbox_to_anchor=(0.5, 1.115), ncol=3,
+              handlelength=1.0, columnspacing=1.3)
+    ax.set_title("(b)  Selected MMAT items — full set in Supplementary S10",
+                 fontsize=9, loc="left", pad=24, fontweight="bold")
 
     # ★ 그림에 제목을 넣지 않는다 — 캡션이 담당한다(저널 관행).
-    fig.subplots_adjust(left=0.315, right=0.975, top=0.955, bottom=0.045)
+    fig.subplots_adjust(left=0.345, right=0.955, top=0.945, bottom=0.055)
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig8_Quality.{ext}"), dpi=300)
     plt.close(fig)

@@ -32,8 +32,10 @@ LS_BODY, LS_HEAD = None, None    # 본문·제목 모두 Normal(2.0) 상속
 LS_NORMAL = 2.0                  # Normal 스타일 줄간격
 FIRST_INDENT = 0.2               # 본문 첫 줄 들여쓰기(in)
 # 그림별 삽입 폭(in) — 세로로 긴 도면은 좁게 넣어야 한 쪽에 들어간다
-FIG_W = {"Fig1_PRISMA": 5.9, "Fig2_Forest": 5.6, "Fig6_Framework": 5.4,
-         "Fig7_GeoTime": 5.0, "Fig8_Quality": 5.9}
+# ★ 삽입 폭 = 작화 폭(viz_theme.W_FULL = 6.05 in) — 축소 없이 1:1 로 넣는다.
+#   그림을 크게 그려 놓고 줄여 넣으면 글자가 4~6 pt 로 떨어진다(구판 실측).
+FIG_W = {}
+_FIG_DEFAULT_W = 6.05
 
 # 그림 캡션 — ★숫자는 figures/fig_data.json 에서 읽는다(캡션도 하드코딩하지 않는다).
 import json as _json
@@ -94,7 +96,7 @@ CAPTIONS = {
         "is the number of pooled effects (k), asterisks mark p < .05 (*) and p < .01 (**), and "
         "the line under each band gives the MMAT quality of the contributing studies. The "
         "framework's diagnostic value is visible in the leftmost band: the avoidance and "
-        f"walking-speed evidence, the most frequently cited claim in this literature, comes "
+        f"walking-speed evidence, a widely cited claim in this literature, comes "
         f"entirely from studies that MMAT rates low, so excluding low-quality studies leaves "
         f"nothing to pool."),
     "Fig7_GeoTime": (
@@ -103,8 +105,9 @@ CAPTIONS = {
         f"({_FD['geo']['countries'][0][1] / _FD['n_included'] * 100:.0f}%) were conducted in "
         f"{_FD['geo']['countries'][0][0]}. (b) {_FD['n_since_2020']} studies "
         f"({_FD['n_since_2020'] / _FD['n_included'] * 100:.0f}%) appeared in 2020 or later, and "
-        "reverse-direction studies appear only from the mid-2010s, so the bidirectional evidence "
-        "base is younger still than the corpus as a whole."),
+        "all but two reverse-direction studies appeared from 2016 onwards, so the bidirectional "
+        "evidence base is younger still than the corpus as a whole. Multi-country studies are "
+        "counted once per country; two studies did not report a country."),
     "Fig8_Quality": (
         "MMAT 2018 appraisal. (a) Grade distribution within each MMAT category. (b) Selected "
         "items, grouped to show the pattern that drives the Discussion: what the studies report "
@@ -215,7 +218,7 @@ def figure(doc, name, num):
     pic.paragraph_format.line_spacing = 1.0
     pic.paragraph_format.space_before = Pt(10)
     pic.paragraph_format.space_after = Pt(4)
-    pic.add_run().add_picture(png, width=Inches(FIG_W.get(name, 5.7)))
+    pic.add_run().add_picture(png, width=Inches(FIG_W.get(name, _FIG_DEFAULT_W)))
     cap = para(doc, "", SZ_TABLE, space_after=12, line_spacing=1.0)
     set_run(cap.add_run(f"Fig. {num}. "), SZ_TABLE, bold=True)
     add_rich(cap, CAPTIONS[name], SZ_TABLE)

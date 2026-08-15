@@ -86,12 +86,15 @@ def main():
                 w.writerow(["year", y, d, n])
 
     # ── 그림 ────────────────────────────────────────────────────────
-    fig, axes = plt.subplots(2, 1, figsize=(8.4, 8.4),
-                             gridspec_kw={"height_ratios": [1.25, 1.0], "hspace": 0.34})
+    # ★ v2: 정사각 2단 적층 → **가로 병렬**. (a)는 최대 막대(중국) 하나가 축을 지배해
+    #   오른쪽이 텅 비었었다 — 폭을 (a) 40 : (b) 60 으로 나눠 빈 공간을 없앤다.
+    #   주황 화살표 주석은 장식이라 뺐다. 중국 막대는 진한 단계로, 라벨은 수치에 병기.
+    fig, axes = plt.subplots(1, 2, figsize=(T.W_FULL, 3.0),
+                             gridspec_kw={"width_ratios": [1.0, 1.45], "wspace": 0.52})
 
     # (a) 국가 — 'Not reported'는 순위에서 빼고 캡션으로 보고
     ax = axes[0]
-    TOPN = 12
+    TOPN = 12          # Other 가 China 와 맞먹지 않게 — 편중이 그림의 논지다
     n_nr = cc.get("Not reported", 0)
     items = [(k, v) for k, v in cc.most_common() if k != "Not reported"]
     top = items[:TOPN]
@@ -99,30 +102,25 @@ def main():
     labels = [k for k, _ in top][::-1]
     vals = [v for _, v in top][::-1]
     if rest:
-        labels = [f"Other ({len(rest)} countries)"] + labels
+        labels = [f"Other ({len(rest)})"] + labels
         vals = [sum(v for _, v in rest)] + vals
     y = np.arange(len(vals))
-    ax.barh(y, vals, height=0.62, color=T.BLUE, edgecolor="none", zorder=3)
-    ax.set_yticks(y); ax.set_yticklabels(labels, fontsize=8)
-    ax.set_xlabel("studies (n)", fontsize=8)
-    ax.set_xlim(0, max(vals) * 1.16)
-    ax.grid(axis="x", zorder=0); ax.set_axisbelow(True)
-    for s in ("top", "right", "left"):
-        ax.spines[s].set_visible(False)
     tot = len(rows)
-    for yi, v in zip(y, vals):
-        ax.text(v + max(vals) * 0.012, yi, str(v), va="center", ha="left",
-                fontsize=7.4, color=T.INK2)
     top_country, top_n = items[0]
-    ax.annotate(f"{top_country}: {top_n} of {tot} studies ({top_n/tot*100:.0f}%)",
-                xy=(top_n, len(vals) - 1), xytext=(top_n * 0.52, len(vals) - 3.5),
-                fontsize=8.0, color=T.ORANGE, fontweight="bold",
-                arrowprops=dict(arrowstyle="-|>", color=T.ORANGE, lw=1.3,
-                                connectionstyle="arc3,rad=0.25"), zorder=6)
-    ax.set_title("(a)  Where the evidence comes from", fontsize=9.6, loc="left", pad=8)
-    ax.text(1.0, 1.02, f"multi-country studies counted once per country · "
-            f"{n_nr} did not report a country",
-            transform=ax.transAxes, ha="right", fontsize=7.0, color=T.AXIS)
+    cols = [T.DEEP if lab == top_country else T.BLUE for lab in labels]
+    ax.barh(y, vals, height=0.66, color=cols, edgecolor="none", zorder=3)
+    ax.set_yticks(y); ax.set_yticklabels(labels, fontsize=8)
+    ax.set_xlim(0, max(vals) * 1.30)
+    ax.xaxis.set_visible(False)               # 값이 전부 인쇄돼 있어 눈금이 중복이다
+    for s in ("top", "right", "left", "bottom"):
+        ax.spines[s].set_visible(False)
+    ax.tick_params(axis="y", length=0)
+    for yi, v, lab in zip(y, vals, labels):
+        txt = f"{v}  ({v/tot*100:.0f}%)" if lab == top_country else str(v)
+        ax.text(v + max(vals) * 0.03, yi, txt, va="center", ha="left", fontsize=7.5,
+                color=(T.DEEP if lab == top_country else T.INK2),
+                fontweight=("bold" if lab == top_country else "normal"))
+    ax.set_title("(a)  Country", fontsize=9, loc="left", pad=8, fontweight="bold")
 
     # (b) 연도 × 방향 — 2009년 이전은 한 칸으로 압축(1978~2003 공백 제거)
     ax = axes[1]
@@ -136,16 +134,16 @@ def main():
             return sum(yr[y].get(key, 0) for y in years if y < CUT)
         return yr[int(slot)].get(key, 0)
 
-    cats = [("forward", T.BLUE, "forward — sound → behaviour"),
-            ("reverse", T.ORANGE, "reverse — behaviour → sound"),
-            ("both", T.MUTED, "both directions")]
+    cats = [("forward", T.BLUE, "forward"),
+            ("both", T.NEUT, "both"),
+            ("reverse", T.TERRA, "reverse")]
     x = np.arange(len(span), dtype=float)
     x[1:] += 0.55                     # 압축 칸과 연도축 사이 시각적 분리
     bottom = np.zeros(len(span))
     for key, col, lab in cats:
         v = np.array([cnt(s, key) for s in span], float)
-        ax.bar(x, v, bottom=bottom, width=0.74, color=col, edgecolor=T.SURF,
-               linewidth=0.6, label=lab, zorder=3)
+        ax.bar(x, v, bottom=bottom, width=0.76, color=col, edgecolor=T.SURF,
+               linewidth=0.5, label=lab, zorder=3)
         bottom += v
     ax.axvline(0.78, color=T.GRID, lw=0.9, zorder=1)
     ax.set_ylabel("studies (n)", fontsize=8)
@@ -153,21 +151,18 @@ def main():
     for s in ("top", "right"):
         ax.spines[s].set_visible(False)
     ax.set_xticks(x)
-    ax.set_xticklabels(["≤2009"] + [(str(t) if t % 2 == 0 else "")
-                                    for t in range(CUT, y1 + 1)], fontsize=7.4)
+    ax.set_xticklabels(["≤'09"] + [(f"'{t % 100:02d}" if t % 2 == 0 else "")
+                                   for t in range(CUT, y1 + 1)], fontsize=7.5)
     ax.set_xlim(-0.8, x[-1] + 0.8)
-    n_pre = sum(sum(yr[y].values()) for y in years if y < CUT)
-    ax.text(0, bottom[0] + 0.35, f"{n_pre} studies\n1978–2009", ha="center", va="bottom",
-            fontsize=6.8, color=T.INK2, linespacing=1.4)
-    ax.legend(loc="upper left", fontsize=7.4, ncol=1, handlelength=1.1,
+    ax.legend(loc="upper left", fontsize=7.5, ncol=1, handlelength=1.0,
               borderpad=0.2, labelspacing=0.35)
-    ax.set_title("(b)  When it was published, and which direction it tested",
-                 fontsize=9.6, loc="left", pad=8)
+    ax.set_title("(b)  Year × direction", fontsize=9, loc="left", pad=8,
+                 fontweight="bold")
     recent = sum(sum(yr[y].values()) for y in years if y >= 2020)
-    ax.text(1.0, 1.02, f"{recent} of {tot} studies ({recent/tot*100:.0f}%) published since 2020",
-            transform=ax.transAxes, ha="right", fontsize=7.0, color=T.AXIS)
+    ax.text(1.0, 1.035, f"{recent/tot*100:.0f}% since 2020",
+            transform=ax.transAxes, ha="right", va="bottom", fontsize=7.2, color=T.AXIS)
 
-    fig.subplots_adjust(left=0.20, right=0.975, top=0.955, bottom=0.062)
+    fig.subplots_adjust(left=0.155, right=0.985, top=0.90, bottom=0.09)
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig7_GeoTime.{ext}"), dpi=300)
     plt.close(fig)
@@ -177,6 +172,7 @@ def main():
     print(f"  Not reported {cc.get('Not reported', 0)}건")
     if unmapped:
         print(f"  ⚠️ 국가 파싱 실패 원본값: {dict(unmapped)}")
+    n_pre = sum(sum(yr[y].values()) for y in years if y < CUT)
     print(f"  연도 {min(years)}~{y1} · 2009년 이전 {n_pre}편 압축 · 2020년 이후 {recent}편")
 
 

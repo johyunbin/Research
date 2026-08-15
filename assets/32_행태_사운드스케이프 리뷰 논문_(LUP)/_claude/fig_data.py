@@ -180,7 +180,7 @@ def main():
                       ("Abstract only", 2)],
                "assessed": 100, "ft_excluded": 16,
                "ftx": [("Setting not eligible", 7), ("No observed behaviour", 6),
-                       ("Perceptual outcome only", 1), ("No acoustic exposure", 1),
+                       ("Perceptual outcome", 1), ("No acoustic exposure", 1),
                        ("Not empirical", 1)],
                "sens": 3, "included": 81},
         "ct": {"identified": 2073, "backward": 413, "forward": 1660, "seeds": 84,

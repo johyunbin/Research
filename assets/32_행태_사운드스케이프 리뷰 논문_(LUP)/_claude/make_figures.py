@@ -24,7 +24,7 @@ import viz_theme as T
 T.apply()
 INK, ACC, MUT = T.INK, T.BLUE, T.AXIS
 
-W2 = 7.48          # 2단 폭(190 mm)
+W2 = T.W_FULL      # ★ 작화 폭 = docx 삽입 폭 — 그린 글자 크기가 곧 인쇄 크기
 D = json.load(open(os.path.join(FIG, "fig_data.json"), encoding="utf-8"))
 
 
@@ -101,21 +101,24 @@ def forest_panel(ax, key, head, sub, xlab):
     for e in eff:
         s = FOREST_LABEL.get(str(e["uid"]), str(e["uid"]))
         lbl.append(s + ("  ▲" if e["route"] == "citation-tracking" else ""))
-    ax.set_yticklabels(lbl + [f"Pooled,  $k$ = {pl['k']}"], fontsize=6.9)
+    ax.set_yticklabels(lbl + [f"Pooled,  $k$ = {pl['k']}"], fontsize=7.5)
     ax.get_yticklabels()[-1].set_color(T.FRAME_POS)
     ax.get_yticklabels()[-1].set_fontweight("bold")
     ax.tick_params(axis="y", length=0, pad=2)
-    ax.tick_params(axis="x", labelsize=7)
+    ax.tick_params(axis="x", labelsize=7.5)
     ax.xaxis.set_major_locator(plt.MaxNLocator(5))
-    # 통계는 x축 라벨에 합쳐 넣는다 — 축 바깥에 따로 두면 오른쪽으로 넘친다(실측)
+    # 통계는 패널 오른쪽 위에 별도 텍스트로 — x축 라벨과 뒤섞지 않는다(가독성)
     r_txt = ""
     if blk.get("back_r"):
-        r_txt = (f",  $r$ = {math.tanh(pl['est']):+.2f} "
+        r_txt = (f"\n$r$ = {math.tanh(pl['est']):+.2f} "
                  f"[{math.tanh(pl['lo']):+.2f}, {math.tanh(pl['hi']):+.2f}]")
-        xlab = "Fisher's $z$"                      # 길면 축이 잘린다(실측)
-    ax.set_xlabel(f"{xlab}        $I^2$ = {pl['I2']:.0f}%,  $p$ = {pl['p']:.3f}{r_txt}",
-                  fontsize=7.2, labelpad=4)
-    ax.set_title(head, fontsize=8.4, loc="left", pad=5)   # 부제는 캡션이 담당
+        xlab = "Fisher's $z$"
+    ax.text(1.0, 1.02, f"$I^2$ = {pl['I2']:.0f}%,  $p$ = {pl['p']:.3f}{r_txt}",
+            transform=ax.transAxes, ha="right", va="bottom", fontsize=7.2,
+            color=T.INK2, linespacing=1.4)
+    ax.set_xlabel(xlab, fontsize=7.8, labelpad=3)
+    ax.set_title(head, fontsize=9.0, loc="left", pad=14,
+                 fontweight="bold")   # 부제는 캡션이 담당
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
 
@@ -125,12 +128,12 @@ def fig_forest():
     한 열로 세우면 각 패널이 전체 폭을 쓰고, 라벨 왼쪽 여백을 고정해 네 패널의
     x=0 기준선이 세로로 정렬된다 — 클러스터 간 비교가 가능해진다."""
     ns = [len(D["ma"][k]["effects"]) for k, *_ in PANE]
-    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 7.4),
+    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 6.9),
                              gridspec_kw={"height_ratios": [n + 2.4 for n in ns]})
     for (key, head, sub, xlab), ax in zip(PANE, axes):
         forest_panel(ax, key, head, sub, xlab)
     # ★ 제목·부제를 그림에 넣지 않는다 — 캡션이 담당한다(저널 관행).
-    fig.subplots_adjust(left=0.315, right=0.985, top=0.975, bottom=0.052, hspace=1.0)
+    fig.subplots_adjust(left=0.335, right=0.985, top=0.955, bottom=0.055, hspace=1.15)
     save(fig, "Fig2_Forest")
 
 
@@ -138,28 +141,25 @@ def fig_forest():
 def fig_evidence_map():
     em = D["evidence_map"]
     M = np.array(em["cells"], float)
-    fig, ax = plt.subplots(figsize=(W2, 3.5))
-    im = ax.imshow(M, cmap=T.SEQ, aspect="auto", vmin=0, vmax=M.max())
-    ax.set_xticks(range(len(em["cols"]))); ax.set_xticklabels(em["cols"], fontsize=7.6)
-    ax.set_yticks(range(len(em["rows"]))); ax.set_yticklabels(em["rows"], fontsize=7.6)
+    fig, ax = plt.subplots(figsize=(W2, 2.75))
+    norm = plt.Normalize(vmin=0, vmax=M.max())
+    ax.imshow(M, cmap=T.SEQ, aspect="auto", norm=norm)
+    ax.set_xticks(range(len(em["cols"]))); ax.set_xticklabels(em["cols"], fontsize=8)
+    ax.set_yticks(range(len(em["rows"]))); ax.set_yticklabels(em["rows"], fontsize=8)
     ax.tick_params(length=0)
     ax.set_xticks(np.arange(-.5, len(em["cols"]), 1), minor=True)
     ax.set_yticks(np.arange(-.5, len(em["rows"]), 1), minor=True)
-    ax.grid(which="minor", color="white", lw=1.6)
+    ax.grid(which="minor", color="white", lw=1.5)
     ax.tick_params(which="minor", length=0)
     for s in ax.spines.values():
         s.set_visible(False)
-    hi = M.max() * 0.42                       # 대비 기준을 하나로 고정
+    # 컬러바는 뺐다 — 모든 칸에 정확한 값이 인쇄돼 있어 중복 장식이다.
     for i in range(M.shape[0]):
         for j in range(M.shape[1]):
             v = int(M[i, j])
-            ax.text(j, i, str(v), ha="center", va="center", fontsize=8,
-                    color=("white" if M[i, j] > hi else INK),
+            ax.text(j, i, str(v), ha="center", va="center", fontsize=8.5,
+                    color=T.ink_on(T.SEQ(norm(M[i, j]))),
                     fontweight=("bold" if v == 0 else "normal"))
-    cb = fig.colorbar(im, ax=ax, fraction=0.028, pad=0.015)
-    cb.set_label("studies (n)", fontsize=7.2, labelpad=6)
-    cb.ax.tick_params(labelsize=6.8, length=2)
-    cb.outline.set_visible(False)
     fig.tight_layout()
     save(fig, "Fig3_EvidenceMap")
 
@@ -168,31 +168,33 @@ def fig_evidence_map():
 def fig_direction():
     d = D["direction"]
     y = np.arange(len(d["rows"]))[::-1]
-    fig, ax = plt.subplots(figsize=(W2, 2.9))
-    h = 0.6
-    ax.barh(y, d["forward"], h, color=T.BLUE, label="Forward — sound → behaviour")
-    ax.barh(y, d["both"], h, left=d["forward"], color=T.MUTED,
-            label="Bidirectional")
-    ax.barh(y, d["reverse"], h,
-            left=[a + b for a, b in zip(d["forward"], d["both"])],
-            color=T.ORANGE, label="Reverse — behaviour → sound")
+    fig, ax = plt.subplots(figsize=(W2, 2.65))
+    h = 0.62
+    SEG = [("Forward — sound → behaviour", d["forward"], T.BLUE),
+           ("Bidirectional", d["both"], T.NEUT),
+           ("Reverse — behaviour → sound", d["reverse"], T.TERRA)]
+    left = np.zeros(len(y))
+    for lab, vals, col in SEG:
+        ax.barh(y, vals, h, left=left, color=col, label=lab,
+                edgecolor=T.SURF, linewidth=0.7)
+        for yi, l0, v in zip(y, left, vals):
+            if v >= 3:
+                ax.text(l0 + v / 2, yi, str(v), ha="center", va="center",
+                        fontsize=7.8, color=T.ink_on(col), fontweight="bold")
+        left += np.array(vals, float)
     for yi, f, b, r in zip(y, d["forward"], d["both"], d["reverse"]):
-        for val, left in ((f, 0), (b, f), (r, f + b)):
-            if val >= 3:
-                ax.text(left + val / 2, yi, str(val), ha="center", va="center",
-                        fontsize=7.4, color="white", fontweight="bold")
         ax.text(f + b + r + 1.2, yi, f"{r / (f + r) * 100:.0f}% reverse",
-                va="center", fontsize=7, color=MUT)
-    ax.set_yticks(y); ax.set_yticklabels(d["rows"], fontsize=8)
+                va="center", fontsize=7.5, color=T.INK2)
+    ax.set_yticks(y); ax.set_yticklabels(d["rows"], fontsize=8.5)
     ax.set_xlim(0, max(a + b + c for a, b, c in
-                       zip(d["forward"], d["both"], d["reverse"])) * 1.20)
-    ax.set_xlabel("study × behavioural-domain records", fontsize=7.6)
-    ax.tick_params(length=0, labelsize=7.4)
-    ax.grid(axis="x", lw=0.6); ax.set_axisbelow(True)
-    for s in ("top", "right", "left"):
+                       zip(d["forward"], d["both"], d["reverse"])) * 1.22)
+    ax.set_xlabel("study × behavioural-domain records", fontsize=8)
+    ax.tick_params(length=0)
+    ax.xaxis.set_visible(False)               # 값이 전부 인쇄돼 있어 눈금이 중복이다
+    for s in ("top", "right", "left", "bottom"):
         ax.spines[s].set_visible(False)
-    ax.legend(loc="lower left", bbox_to_anchor=(0.0, 1.0), ncol=3, fontsize=7.2,
-              handlelength=1.1, columnspacing=1.6, handletextpad=0.5)
+    ax.legend(loc="lower left", bbox_to_anchor=(0.0, 1.0), ncol=3, fontsize=7.5,
+              handlelength=1.1, columnspacing=1.5, handletextpad=0.5)
     fig.tight_layout()
     save(fig, "Fig4_Direction")
 
@@ -201,24 +203,25 @@ def fig_direction():
 def fig_methods():
     g = D["generations"]
     x = np.arange(len(g["bands"])); w = 0.26
-    SER = [("G1  Self-report", g["G1"], T.MUTED),
-           ("G2  Systematic observation", g["G2"], T.BLUE),
-           ("G3  Sensing · GPS · video", g["G3"], T.ORANGE)]
-    fig, ax = plt.subplots(figsize=(W2, 2.9))
+    # 세대는 순서형 — 3색이 아니라 한 hue 의 3단 램프(밝음→어두움 = G1→G3)
+    SER = [("G1  Self-report", g["G1"], T.ORD3[0]),
+           ("G2  Systematic observation", g["G2"], T.ORD3[1]),
+           ("G3  Sensing · GPS · video", g["G3"], T.ORD3[2])]
+    fig, ax = plt.subplots(figsize=(W2, 2.65))
     for i, (lab, vals, col) in enumerate(SER):
         pos = x + (i - 1) * w
-        ax.bar(pos, vals, w * 0.92, color=col, label=lab)
+        ax.bar(pos, vals, w * 0.9, color=col, label=lab)
         for p, v in zip(pos, vals):
             if v:
-                ax.text(p, v + 0.8, str(v), ha="center", fontsize=7.2, color=INK)
-    ax.set_xticks(x); ax.set_xticklabels(g["bands"], fontsize=8.2)
+                ax.text(p, v + 0.8, str(v), ha="center", fontsize=7.8, color=INK)
+    ax.set_xticks(x); ax.set_xticklabels(g["bands"], fontsize=8.5)
     ax.set_ylim(0, max(max(v) for _, v, _ in SER) * 1.20)
-    ax.set_ylabel("studies (n)", fontsize=7.6)
-    ax.tick_params(length=0, labelsize=7.4)
-    ax.grid(axis="y", lw=0.6); ax.set_axisbelow(True)
+    ax.set_ylabel("studies (n)", fontsize=8)
+    ax.tick_params(length=0)
+    ax.grid(axis="y"); ax.set_axisbelow(True)
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
-    ax.legend(loc="upper left", fontsize=7.2, handlelength=1.1, handletextpad=0.5)
+    ax.legend(loc="upper left", fontsize=7.5, handlelength=1.1, handletextpad=0.5)
     ax.margins(x=0.06)
     fig.tight_layout()
     save(fig, "Fig5_Methods")
