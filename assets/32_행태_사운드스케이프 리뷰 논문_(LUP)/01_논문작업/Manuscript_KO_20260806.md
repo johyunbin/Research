@@ -586,7 +586,7 @@ Table 3의 실무적 독해를 방어 가능성 순으로 정리한다.
 |---|---|---|
 | **S1** | Protocol deviation log (28 departures, with effect on results) | `deviation_log.md` |
 | **S2** | Pre-specified analysis rules (fixed before any effect was computed) | `analysis_rules.md` |
-| **S3** | Full search strings for the three databases and the supplementary index | `search_strings.md` |
+| **S3** | Full search strings for the three databases and the supplementary index | `search_strings_20260802_205110.md` |
 | **S4** | PRISMA 2020 flow with all three identification routes; PRISMA checklist | `prisma_flow.md` |
 | **S5** | All 98 included studies — identifiers, route, year, journal, title | `references_all_included.md` |
 | **S6** | Reports excluded at full text, with reason codes | `ft_verdicts_v2.csv`, `ct_screen_final.csv` |
