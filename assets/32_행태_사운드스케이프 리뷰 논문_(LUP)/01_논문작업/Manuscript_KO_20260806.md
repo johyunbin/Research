@@ -253,11 +253,11 @@ Zhang 등 [10]은 경관 요소와 사운드스케이프 지각의 연관을 메
 
 이 연구들의 인용을 추적해 풀에 없던 2,073건을 얻었다. 우선순위 필터 이후 428건을 제목에서, 146건을 초록에서 스크리닝하고 79건의 전문을 확보 대상으로 삼았다. 54편을 확보해 평가했고 38편을 배제, 1편을 민감도용으로 남겨 이 경로가 **15편**을 더했다. 데이터베이스 산출의 19%에 해당한다. 보조 색인은 329건을 스크리닝해 15건을 확보 대상으로 삼고 5편을 평가해 **2편**을 포함했다.
 
-보조 색인 갈래의 배제 구성 자체가 시사적이다. 배제 314건 중 **147건(47%)이 비실증**이었고 여기에는 서평, 사설, 논평, 부고까지 포함된다. OpenAlex가 세 데이터베이스보다 훨씬 넓게 색인하기 때문이며, 따라서 **WoS·Scopus·PubMed에 없다는 사실은 누락의 근거로 약하다.** 색인 범위가 넓다는 것은 관련 문헌을 더 많이 담는다는 뜻이기도 하지만, 걸러야 할 것도 그만큼 많이 담는다는 뜻이다.
+보조 색인 갈래의 배제 구성 자체가 시사적이다. 배제 314건 중 **147건(47%)이 비실증**이었고 여기에는 서평, 사설, 논평, 부고까지 포함된다. OpenAlex의 색인이 Web of Science·Scopus보다 훨씬 크기 때문이다[20]. 체계적 문헌고찰에서 OpenAlex를 검색원으로 쓰면 관행적 검색원보다 훨씬 많은 레코드가 나오고 그만큼 스크리닝 부담이 커진다는 것도 이미 보고돼 있다[21]. 색인 범위가 넓다는 것은 관련 문헌을 더 많이 담는다는 뜻이기도 하지만, 걸러야 할 것도 그만큼 많이 담는다는 뜻이다. 세 데이터베이스 밖에서 2편이 추가됐다는 사실 자체는 **데이터베이스 검색만으로 코퍼스가 닫히지 않았음**을 보여 준다.
 
 최종 코퍼스는 **98편**이고 민감도 분석 전용 4편이 별도로 있다(분석 대상 총 102편).
 
-두 개의 큰 갈래는 산출률에서 교훈적으로 갈렸다. 초록을 기계적으로 확보해 행태 결과를 확인할 수 있던 레코드는 **46%**가 살아남았고(37건 중 17건), 초록을 확보할 수 없어 제목만으로 통과시킨 레코드는 **한 편도 살아남지 못했다**(17건 중 0건). 주제적 그럴듯함이 아니라 **초록 확보 가능성이 스크리닝 정확도를 결정했다.** 이 관찰은 두 방향으로 쓰인다. 하나는 인용추적처럼 초록 확보가 어려운 경로에서 제목만으로 판단하는 것이 사실상 무작위에 가깝다는 경고이고, 다른 하나는 미확보로 남은 제목-판단 레코드 22건이 코퍼스를 바꿨을 가능성이 낮다는 근거다.
+두 개의 큰 갈래는 산출률에서 교훈적으로 갈렸다. 초록을 기계적으로 확보해 행태 결과를 확인할 수 있던 레코드는 **46%**가 살아남았고(37건 중 17건), 초록을 확보할 수 없어 제목만으로 통과시킨 레코드는 **한 편도 살아남지 못했다**(17건 중 0건). 주제적 그럴듯함이 아니라 **초록 확보 여부가 최종 포함과 강하게 연관됐다.** 제목만 보는 1차 선별이 제목과 초록을 함께 보는 선별보다 민감도가 낮다는 것은 방법론 연구에서도 보고된 바 있다[22]. 다만 초록을 확보한 레코드와 그러지 못한 레코드는 무작위로 나뉜 집단이 아니고 후자의 표본도 17건에 지나지 않으므로, 미확보로 남은 제목-판단 레코드 22건이 코퍼스에 미쳤을 영향은 배제할 수 없다.
 
 ### 3.2 Study characteristics
 
@@ -314,7 +314,7 @@ Zhang 등 [10]은 경관 요소와 사운드스케이프 지각의 연관을 메
 
 G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data measurement of behaviour.
 
-지리적 편중은 이 코퍼스의 가장 큰 제약이다. **98편 중 38편(39%)이 중국에서 수행**됐고 스페인(7), 영국(6), 독일(5)이 뒤를 잇는다. 사운드스케이프 평가가 문화적으로 조건화된다는 것은 이 분야의 기본 전제 중 하나이므로, 합성 추정치를 문화적으로 일반적인 값으로 읽어서는 안 된다.
+지리적 편중은 이 코퍼스의 가장 큰 제약이다. **98편 중 38편(39%)이 중국에서 수행**됐고 스페인(7), 영국(6), 독일(5)이 뒤를 잇는다. 교차문화 연구는 같은 유형의 도시 옥외공간이라도 국가에 따라 사운드스케이프 평가가 달라진다고 보고해 왔다[23,24]. 이런 비교는 지각 속성(perceptual attributes)의 번역과 문화 간 적응(cross-cultural adaptation) 절차에 따라 결과가 달라질 수 있어 그 자체로 까다롭기도 하다[25]. 어느 쪽이든 합성 추정치를 문화적으로 일반적인 값으로 읽어서는 안 된다.
 
 <<FIG:Fig7_GeoTime>>
 
@@ -351,15 +351,15 @@ Fig. 2b는 덜 분명한 두 번째 비대칭을 보인다. **역방향 연구�
 
 네 추정치 모두 이론적으로 예측된 방향을 가리킨다(Fig. 4). 소음은 통과를 가속하고, 긍정적 소리는 체류를 늘리며, 정온과 자연음은 사회적 상호작용을 늘리고, 평가는 행태와 중간 강도로 공변한다. **그러나 그 방향이 어느 정도의 정밀도로 확립됐는지는 클러스터마다 크게 다르며, 이 차이가 이 절의 핵심이다.**
 
-사회적 상호작용은 **13년 간격의 두 현장실험**에 힘입어 유의에 도달했다. Mathews와 Canon [20]에서 머플러를 뗀 잔디깎기가 주변음을 약 50에서 87 dB(C)로 올리자 떨어뜨린 물건을 주워 주는 비율이 40명 중 20명에서 40명 중 5명으로 떨어졌다(OR = 7.00, *d* = +1.07). Moser [19]는 파리의 가로에서 도로공사 소음을 써서 같은 2 × 2 논리를 적용해 같은 부호에 도달했다. 두 연구는 서로 무관한 소음원과 서로 다른 원조 패러다임을 썼다. 일치한다는 사실이 *k* = 4라는 숫자만으로 보이는 것보다 더 많은 정보를 주는 이유가 여기 있다. 다만 Mathews와 Canon은 자료를 어디서 수집했는지 밝히지 않았으므로 **국가 간 반복이라고는 주장하지 않는다.**
+사회적 상호작용은 **13년 간격의 두 현장실험**에 힘입어 유의에 도달했다. Mathews와 Canon [26]에서 머플러를 뗀 잔디깎기가 주변음을 약 50에서 87 dB(C)로 올리자 떨어뜨린 물건을 주워 주는 비율이 40명 중 20명에서 40명 중 5명으로 떨어졌다(OR = 7.00, *d* = +1.07). Moser [19]는 파리의 가로에서 도로공사 소음을 써서 같은 2 × 2 논리를 적용해 같은 부호에 도달했다. 두 연구는 서로 무관한 소음원과 서로 다른 원조 패러다임을 썼다. 일치한다는 사실이 *k* = 4라는 숫자만으로 보이는 것보다 더 많은 정보를 주는 이유가 여기 있다. 다만 Mathews와 Canon은 자료를 어디서 수집했는지 밝히지 않았으므로 **국가 간 반복이라고는 주장하지 않는다.**
 
-**그럼에도 이 유의성은 인용 검색으로 얻은 한 편에 조건부다.** leave-one-out 전건을 보면 Chen과 Kang [21]을 빼면 *g* = +0.581(*p* = .056), Chen 등 [22]을 빼면 +0.775(*p* = .070), Moser [19]를 빼면 +0.803(*p* = .043), Mathews와 Canon [20]을 빼면 +0.596(*p* = .057)이다. **네 번의 제거 중 세 번이 *p* = .05를 다시 넘어간다.** 즉 이 클러스터는 어느 한 연구가 아니라 집합으로서 유의하며, 인용 검색으로 얻은 연구는 그것을 빼면 클러스터가 회수 이전 상태로 돌아가는 바로 그 연구다. 이것은 결과의 한계인 동시에 **등록한 보조 검색 경로가 형식이 아니었다는 근거**이기도 하다.
+**그럼에도 이 유의성은 인용 검색으로 얻은 한 편에 조건부다.** leave-one-out 전건을 보면 Chen과 Kang [27]을 빼면 *g* = +0.581(*p* = .056), Chen 등 [28]을 빼면 +0.775(*p* = .070), Moser [19]를 빼면 +0.803(*p* = .043), Mathews와 Canon [26]을 빼면 +0.596(*p* = .057)이다. **네 번의 제거 중 세 번이 *p* = .05를 다시 넘어간다.** 즉 이 클러스터는 어느 한 연구가 아니라 집합으로서 유의하며, 인용 검색으로 얻은 연구는 그것을 빼면 클러스터가 회수 이전 상태로 돌아가는 바로 그 연구다. 이것은 결과의 한계인 동시에 **등록한 보조 검색 경로가 형식이 아니었다는 근거**이기도 하다.
 
 상관 클러스터는 반대의 성격을 보인다. 검색 경로에 둔감하고(인용추적 포함 *r* = .425, 제외 시 .445) 어느 한 연구에도 둔감하지만(leave-one-out 범위 *r* = .372 ~ .484) 이질성이 매우 높다(*I*² = 92.0%). 순방향과 역방향 경로, 그리고 여러 행태 결과를 한 풀에 섞고 있으므로 예상된 결과다. 이 클러스터가 말해 주는 것은 "지각과 행태가 대체로 함께 움직인다"는 정도이고, 어떤 지각이 어떤 행태와 얼마나 움직이는지는 말해 주지 않는다.
 
 **예측구간은 두 유의 결과를 모두 한정한다.** 0을 배제한 두 구간은 **평균 효과**에 대해 그러할 뿐이며, 새 연구의 효과가 놓일 것으로 기대되는 구간은 **네 클러스터 전부 0을 포함한다.** 사회적 상호작용은 −0.42 ~ +1.78, 상관 클러스터는 *r* = −0.24 ~ +0.82다. 어느 결과도 다음 연구가 같은 부호를 재현하리라 기대할 근거가 되지 못한다. 보고편향이 이를 가중한다. 최대 *k*가 6이므로 깔때기 그림도 Egger 검정도 불가능했고, 소규모 연구 효과는 탐지도 배제도 되지 않는다. **모든 합성 추정치는 상한이다.** 보행속도 클러스터의 예측구간(−9.13 ~ +8.19)은 *k* = 3에서 자유도가 1이 되어 사실상 정보를 담지 않는데, 그 수치를 그대로 싣는 것은 이 클러스터로 미래를 예측할 수 없음을 감추지 않기 위해서다.
 
-**보행속도 클러스터는 코퍼스에서 가장 약하고 그 약함이 교훈적이다.** 기여하는 세 효과가 전부 MMAT low 연구에서 나오므로 저품질을 제외하면 합성할 것이 남지 않는다(*k* = 0). 코퍼스에 고품질 보행 연구가 3편 있지만 어느 것도 풀에 들어가지 못했다. 하나는 환경음이 아니라 음악 템포를 조작했고[23], 하나는 소음 대 속도를 직접 검정하지 않았으며[24], 하나는 헤드폰으로 전달된 증강 발소리를 다뤘다[25]. **이 문헌에서 가장 자주 인용되는 주장, 곧 소음이 사람을 빨리 걷게 한다는 주장이 그 안에서 가장 불안정한 근거 위에 서 있다.**
+**보행속도 클러스터는 코퍼스에서 가장 약하고 그 약함이 교훈적이다.** 기여하는 세 효과가 전부 MMAT low 연구에서 나오므로 저품질을 제외하면 합성할 것이 남지 않는다(*k* = 0). 코퍼스에 고품질 보행 연구가 3편 있지만 어느 것도 풀에 들어가지 못했다. 하나는 환경음이 아니라 음악 템포를 조작했고[29], 하나는 소음 대 속도를 직접 검정하지 않았으며[30], 하나는 헤드폰으로 전달된 증강 발소리를 다뤘다[31]. **이 문헌에서 가장 자주 인용되는 주장, 곧 소음이 사람을 빨리 걷게 한다는 주장이 그 안에서 가장 불안정한 근거 위에 서 있다.**
 
 ### 3.5 Direction of the relationship (RQ2)
 
@@ -387,7 +387,7 @@ RQ3의 답은 명확하다. **누적이지 계승이 아니다**(Fig. 6).
 
 <<FIG:Fig3_EvidenceMap>>
 
-예외는 **항공기 소음**으로, 2편에서 나온 도메인 수준 레코드 4건뿐이다. 이것은 우연한 공백이 아니다. 항공기 소음은 환경소음 연구에서 가장 방대한 문헌을 가진 주제 중 하나이며 건강 영향과 짜증도에 관해서는 수백 편의 연구가 있다. 그런데 **공항 주변 사람들이 옥외공간에서 무엇을 하는지는 거의 측정된 적이 없다.** 소음 노출이 가장 심한 곳의 행태 증거가 가장 얇다는 것은 이 분야가 어떤 프레임에 갇혀 있었는지를 보여 준다.
+예외는 **항공기 소음**으로, 2편에서 나온 도메인 수준 레코드 4건뿐이다. 이것은 우연한 공백이 아니다. 항공기 소음은 환경소음 연구에서 축적이 두터운 주제다. 세계보건기구 유럽지역 환경소음 지침을 뒷받침한 체계적 문헌고찰만 보아도 짜증도(annoyance)[32]와 수면[33]에서 항공기 소음은 별도의 종합 대상이 될 만큼 연구가 모여 있고, 건강 영향 전반에서도 사정은 다르지 않다[4]. 그런데 **공항 주변 옥외공간에서 사람들이 무엇을 하는지를 측정한 연구는 우리 적격성 기준 안에서 그 2편이 전부였다.** 소음 노출이 가장 심한 곳의 행태 증거가 가장 얇다는 것은 이 분야가 어떤 프레임에 갇혀 있었는지를 보여 준다.
 
 ---
 
@@ -434,9 +434,9 @@ RQ3의 답은 명확하다. **누적이지 계승이 아니다**(Fig. 6).
 
 **첫째, 사회적 상호작용 결과는 자연음을 더한 것으로도 소음을 없앤 것으로도 귀속(attribution)되지 않는다.** 유의한 클러스터를 수경시설과 새소리의 근거로 읽는 것도, 기계를 조용히 시키는 것의 근거로 읽는 것도 편리하다. 어느 쪽도 지지되지 않는다. 네 효과를 노출로 나누면 평균이 거의 같고(자연음 +0.76, 기계음 +0.75), 도로공사 연구를 빼면 합성 추정치가 낮아지는 것이 아니라 **오히려 올라간다**(+0.68 → +0.80). 더 근본적으로, 두 자연음 연구는 새소리와 물소리를 교통·공사 소음과 대비한다. 자연음을 더하는 것과 소음을 없애는 것을 **동시에** 한다. **코퍼스에 자연음을 정온과 대비한 연구가 한 편도 없으므로**, 두 기전은 그 안의 어떤 연구로도 분리 식별되지 않는다. 말할 수 있는 것은 더 좁다. 이 클러스터를 유의 문턱 너머로 밀어올린 증분은 인용 검색으로 회수한 기계음 실험 한 편에서 왔다.
 
-**둘째, 보행속도 문헌은 인용 횟수가 시사하는 것보다 좁다.** 이미 보고한 품질 붕괴 외에 두 가지 구조적 특징이 평가 과정에서 드러났다. 하나는 전달 방식이다. 풀에 들어간 효과의 대부분이 공간의 소리를 바꾼 것이 아니라 보행 중 **헤드폰으로** 오디오를 조작했다. 헤드폰은 배경음 차폐, 개인의 선택권, 주의 자원 배분에서 공간의 소리와 근본적으로 다르다. 다른 하나는 출처의 집중이다. 보행 증거는 실질적으로 **하나의 연구 프로그램**이다. 풀에 들어간 세 효과 중 둘이 같은 체코 연구진의 연구에서 나오고[26,27], 새로 들어온 두 편의 고품질 보행 논문도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이며 그중 둘은 동일한 벨트 카메라·주석 프로토콜을 공유한다. 남은 하나의 효과는 부호가 반대인 알제리 현장 관찰이다[28].
+**둘째, 보행속도 문헌은 인용 횟수가 시사하는 것보다 좁다.** 이미 보고한 품질 붕괴 외에 두 가지 구조적 특징이 평가 과정에서 드러났다. 하나는 전달 방식이다. 풀에 들어간 효과의 대부분이 공간의 소리를 바꾼 것이 아니라 보행 중 **헤드폰으로** 오디오를 조작했다. 헤드폰은 배경음 차폐, 개인의 선택권, 주의 자원 배분에서 공간의 소리와 근본적으로 다르다. 다른 하나는 출처의 집중이다. 보행 증거는 실질적으로 **하나의 연구 프로그램**이다. 풀에 들어간 세 효과 중 둘이 같은 체코 연구진의 연구에서 나오고[34,35], 새로 들어온 두 편의 고품질 보행 논문도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이며 그중 둘은 동일한 벨트 카메라·주석 프로토콜을 공유한다. 남은 하나의 효과는 부호가 반대인 알제리 현장 관찰이다[36].
 
-풀 바깥에서 실제 가로의 소리를 바꾼 연구가 한 편 있다. Ba 등 [29]은 교통소음 55.6 dB(A)와 70.5 dB(A) 조건을 식물 향 농도와 교차시켜 은폐 관찰을 수행했다. 평균 군중 속도는 저소음에서 약 1.14 m/s, 고소음에서 약 1.21 m/s로 **소음 조건에서 약 0.07 m/s 빨랐고** 이는 문헌이 예측하는 방향이다. 저자들은 측정 격자 간 최대 차이가 0.06 m/s였다고 보고한다. 이 연구는 MMAT low다. 정리하면 **실제 환경을 조작한 유일한 근거가 내놓는 효과는 초속 몇 센티미터 수준**이다. 한 도시의 한 경로에서, 그것도 대체로 헤드폰으로 반복된 주장은 반복 검증된 발견이 아니며, 메타분석의 *k*는 이 사실을 드러내지 않는다.
+풀 바깥에서 실제 가로의 소리를 바꾼 연구가 한 편 있다. Ba 등 [37]은 교통소음 55.6 dB(A)와 70.5 dB(A) 조건을 식물 향 농도와 교차시켜 은폐 관찰을 수행했다. 평균 군중 속도는 저소음에서 약 1.14 m/s, 고소음에서 약 1.21 m/s로 **소음 조건에서 약 0.07 m/s 빨랐고** 이는 문헌이 예측하는 방향이다. 저자들은 측정 격자 간 최대 차이가 0.06 m/s였다고 보고한다. 이 연구는 MMAT low다. 정리하면 **실제 환경을 조작한 유일한 근거가 내놓는 효과는 초속 몇 센티미터 수준**이다. 한 도시의 한 경로에서, 그것도 대체로 헤드폰으로 반복된 주장은 반복 검증된 발견이 아니며, 메타분석의 *k*는 이 사실을 드러내지 않는다.
 
 ### 4.3 Implications for landscape planning
 
@@ -444,13 +444,13 @@ Table 3의 실무적 독해를 방어 가능성 순으로 정리한다.
 
 **운영 소음부터 손대라.** 이 코퍼스에서 가장 잘 지지되는 행태적 귀결은 기계 소음이 사회적 행태를 억제한다는 것이며, 낯선 사람에게 건네는 도움도 여기 포함된다. 이 처방이 실무적으로 매력적인 이유는 근거가 상대적으로 강해서만이 아니다. 환기 설비, 예초 일정, 공사 시간대는 **일상적 운영 통제 범위 안에** 있고 바꾸는 비용이 적다. 설계를 다시 하지 않아도 되고 예산 승인이 필요하지도 않다. 서로 다른 소음원을 쓴 두 개의 독립적 현장실험이 뒷받침한다는 점도 덧붙일 수 있다.
 
-**부가음은 유입 장치가 아니라 체류 도구로 다뤄라.** 음악은 이미 그 자리에 있는 사람의 체류를 늘린다. 유입을 검정한 유일한 고품질 연구[30]는 멈추는 인원수에 무효과였다. 방문객 수 증가를 근거로 정당화하는 프로그래밍은 증거가 보이는 것을 넘어선다. 실무에서 흔한 오류가 여기 있다. 광장 활성화 사업이 "이용자 수 증가"를 성과지표로 걸고 음향 개입을 도입하는 경우, 지표와 근거가 어긋난다.
+**부가음은 유입 장치가 아니라 체류 도구로 다뤄라.** 음악은 이미 그 자리에 있는 사람의 체류를 늘린다. 유입을 검정한 유일한 고품질 연구[38]는 멈추는 인원수에 무효과였다. 방문객 수 증가를 근거로 정당화하는 프로그래밍은 증거가 보이는 것을 넘어선다. 실무에서 흔한 오류가 여기 있다. 광장 활성화 사업이 "이용자 수 증가"를 성과지표로 걸고 음향 개입을 도입하는 경우, 지표와 근거가 어긋난다.
 
-**사회적 공간 입지에 회화 가능성 기준을 도입하라**(레버 L10, 이번 개정에서 신설). 사람들이 대화하도록 의도된 곳, 곧 벤치 클러스터와 테라스, 만남의 장소에서 관건이 되는 문턱은 짜증도가 아니라 **대화가 성립하는가**, 곧 회화 간섭(speech interference)이다. 증거는 절단값이 아니라 연속 기울기를 지지한다. 1 데시벨당 자기보고 발성 증대가 약 0.25점이다[31]. 이는 후보 입지를 비교하기에는 충분하고 기준을 세우기에는 부족하다. 두 지점의 등가소음도가 4 dB 차이라면 회화 방해 척도에서 약 1점 차이를 기대하라는 것이 이 근거가 말할 수 있는 전부다.
+**사회적 공간 입지에 회화 가능성 기준을 도입하라**(레버 L10, 이번 개정에서 신설). 사람들이 대화하도록 의도된 곳, 곧 벤치 클러스터와 테라스, 만남의 장소에서 관건이 되는 문턱은 짜증도가 아니라 **대화가 성립하는가**, 곧 회화 간섭(speech interference)이다. 증거는 절단값이 아니라 연속 기울기를 지지한다. 1 데시벨당 자기보고 발성 증대가 약 0.25점이다[39]. 이는 후보 입지를 비교하기에는 충분하고 기준을 세우기에는 부족하다. 두 지점의 등가소음도가 4 dB 차이라면 회화 방해 척도에서 약 1점 차이를 기대하라는 것이 이 근거가 말할 수 있는 전부다.
 
 **보행속도를 설계 성과지표로 쓰지 말고**, 헤드폰 연구 결과를 공공공간으로 옮기지 말라. 앞 절에서 본 이유 때문이다.
 
-우리가 **지지되지 않는다**고 보는 처방 전체는 Table 3 주석에 있다. 그중 둘은 실무에서 흔하므로 따로 짚는다. 수경시설로 교통소음을 마스킹(masking)해 이용을 늘린다는 처방은 **이 코퍼스에 행태로 검정한 연구가 한 편도 없다.** 자연음이 지각과 심리 지표를 개선한다는 근거는 축적돼 있으나[12], 지각이 개선된다는 것과 그 공간이 더 쓰인다는 것은 다른 명제다. 이 처방은 지각 연구에서 행태로 아직 옮겨지지 않았다. 그리고 소음 저감을 신체활동의 경로로 삼는 것은 단순히 미지지가 아니라 **반증된다.** 여기서 가장 큰 두 데이터셋이 소음과 활동의 정적 연관을 보고하는데[32,33], 활동이 도시의 시끄러운 곳에 집중되기 때문이다. 정온한 곳이 활동을 늘리는 것이 아니라 활동이 있는 곳이 시끄러운 것이다.
+우리가 **지지되지 않는다**고 보는 처방 전체는 Table 3 주석에 있다. 그중 둘은 실무에서 흔하므로 따로 짚는다. 수경시설로 교통소음을 마스킹(masking)해 이용을 늘린다는 처방은 **이 코퍼스에 행태로 검정한 연구가 한 편도 없다.** 자연음이 지각과 심리 지표를 개선한다는 근거는 축적돼 있으나[12], 지각이 개선된다는 것과 그 공간이 더 쓰인다는 것은 다른 명제다. 이 처방은 지각 연구에서 행태로 아직 옮겨지지 않았다. 그리고 소음 저감을 신체활동의 경로로 삼는 것은 단순히 미지지가 아니라 **반증된다.** 여기서 가장 큰 두 데이터셋이 소음과 활동의 정적 연관을 보고하는데[40,41], 활동이 도시의 시끄러운 곳에 집중되기 때문이다. 정온한 곳이 활동을 늘리는 것이 아니라 활동이 있는 곳이 시끄러운 것이다.
 
 ### 4.4 Methodological implications
 
@@ -550,33 +550,49 @@ Table 3의 실무적 독해를 방어 가능성 순으로 정리한다.
 
 [19] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
 
-[20] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
+[20] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
 
-[21] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
+[21] Stansfield C, Dehdarirad H, Thomas J, Mathew S, O'Mara‐Eves A. Analyzing the Utility of OpenAlex to Identify Studies for Systematic Reviews: Methods and a Case Study. Cochrane Evidence Synthesis and Methods. 2025;3. doi:10.1002/cesm.70038
 
-[22] Chen X, Kang J, Wang M. The impact of the community's sound environment on social interactions among residents. Building and Environment. 2024;266:112094. doi:10.1016/j.buildenv.2024.112094
+[22] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
 
-[23] Franěk M, van Noorden L, Režný L. Tempo and walking speed with music in the urban context. Frontiers in Psychology. 2014;5. doi:10.3389/fpsyg.2014.01361
+[23] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
 
-[24] Franěk M, Režný L. Environmental Features Influence Walking Speed: The Effect of Urban Greenery. Land. 2021;10:459. doi:10.3390/land10050459
+[24] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
 
-[25] Schrapel M, Happe J, Rohs M. EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas. i-com. 2022;21:219-237. doi:10.1515/icom-2022-0020
+[25] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
 
-[26] Franěk M, Režný L, Šefara D, Cabal J. Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed. International Journal of Environmental Research and Public Health. 2018;15:752. doi:10.3390/ijerph15040752
+[26] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
 
-[27] Franěk M, Režný L, Šefara D, Cabal J. Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons. PeerJ. 2019;7:e7711. doi:10.7717/peerj.7711
+[27] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
 
-[28] Berkouk D, Bouzir TAK, Maffei L, Masullo M. Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?. Sustainability. 2020;12:4619. doi:10.3390/su12114619
+[28] Chen X, Kang J, Wang M. The impact of the community's sound environment on social interactions among residents. Building and Environment. 2024;266:112094. doi:10.1016/j.buildenv.2024.112094
 
-[29] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
+[29] Franěk M, van Noorden L, Režný L. Tempo and walking speed with music in the urban context. Frontiers in Psychology. 2014;5. doi:10.3389/fpsyg.2014.01361
 
-[30] Aletta F, Lepore F, Kostara-Konstantinou E, Kang J, Astolfi A. An Experimental Study on the Influence of Soundscapes on People’s Behaviour in an Open Public Space. Applied Sciences. 2016;6:276. doi:10.3390/app6100276
+[30] Franěk M, Režný L. Environmental Features Influence Walking Speed: The Effect of Urban Greenery. Land. 2021;10:459. doi:10.3390/land10050459
 
-[31] Montes González D, Barrigón Morillas JM, Rey-Gozalo G. Effects of noise on pedestrians in urban environments where road traffic is the main source of sound. Science of The Total Environment. 2023;857:159406. doi:10.1016/j.scitotenv.2022.159406
+[31] Schrapel M, Happe J, Rohs M. EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas. i-com. 2022;21:219-237. doi:10.1515/icom-2022-0020
 
-[32] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+[32] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
 
-[33] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
+[33] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
+
+[34] Franěk M, Režný L, Šefara D, Cabal J. Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed. International Journal of Environmental Research and Public Health. 2018;15:752. doi:10.3390/ijerph15040752
+
+[35] Franěk M, Režný L, Šefara D, Cabal J. Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons. PeerJ. 2019;7:e7711. doi:10.7717/peerj.7711
+
+[36] Berkouk D, Bouzir TAK, Maffei L, Masullo M. Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?. Sustainability. 2020;12:4619. doi:10.3390/su12114619
+
+[37] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
+
+[38] Aletta F, Lepore F, Kostara-Konstantinou E, Kang J, Astolfi A. An Experimental Study on the Influence of Soundscapes on People’s Behaviour in an Open Public Space. Applied Sciences. 2016;6:276. doi:10.3390/app6100276
+
+[39] Montes González D, Barrigón Morillas JM, Rey-Gozalo G. Effects of noise on pedestrians in urban environments where road traffic is the main source of sound. Science of The Total Environment. 2023;857:159406. doi:10.1016/j.scitotenv.2022.159406
+
+[40] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+
+[41] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
 
 ---
 
