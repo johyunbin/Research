@@ -66,8 +66,9 @@ CAPTIONS = {
         "mean effect only — the 95% prediction interval includes zero in all four clusters."),
     "Fig3_EvidenceMap": (
         "Evidence map of behavioural domain by sound source. Cells count studies, and a study "
-        "contributes to every cell it covers. Every combination is populated except aircraft "
-        f"noise, which appears in {_FD['n_aircraft_records']} domain-level records from "
+        "contributes to every cell it covers. Every combination is populated except in the "
+        "aircraft-noise column, where three of the five domains are empty and the remaining "
+        f"cells hold {_FD['n_aircraft_records']} domain-level records from "
         f"{_FD['n_aircraft_studies']} studies — the clearest gap given the size of the "
         "aircraft-noise health literature."),
     "Fig4_Direction": (
