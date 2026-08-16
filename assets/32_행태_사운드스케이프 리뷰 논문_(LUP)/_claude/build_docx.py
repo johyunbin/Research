@@ -61,8 +61,10 @@ CAPTIONS = {
         "the three databases is weak evidence that a study was missed."),
     "Fig2_Forest": (
         "Pooled estimates for four behavioural clusters, from random-effects REML with the "
-        "Hartung–Knapp adjustment. Squares are individual effects, sized by inverse variance; "
-        "diamonds are pooled estimates; triangles mark studies retrieved by citation searching. "
+        "Hartung–Knapp adjustment. Squares are individual effects, sized by their "
+        "random-effects weight (printed with each effect and its 95% CI in the right-hand "
+        "columns); diamonds are pooled estimates; triangles mark studies retrieved by citation "
+        "searching. Panel (d) is displayed on the r scale. "
         f"Only social interaction (p = {_pl('social')['p']:.3f}) and the perception–behaviour "
         f"correlation (p = {_pl('correlation')['p']:.3f}) exclude zero, and both do so for the "
         "mean effect only — the 95% prediction interval includes zero in all four clusters."),
@@ -293,7 +295,10 @@ def main():
                  space_after=14, line_spacing=1.5)   # 좌측정렬(사용자 수정본 실측)
             i += 1; continue
         if st_ln == "## Author information":
+            # 사용자 검토본(2026-08-16 확정 서식)은 이 제목을 지면에 싣지 않는다 —
+            # md 에서는 전면부 블록의 경계 마커로만 쓴다.
             frontmatter = True
+            i += 1; continue
         elif st_ln.startswith("## "):
             frontmatter = False
         if frontmatter and st_ln and not st_ln.startswith("#"):

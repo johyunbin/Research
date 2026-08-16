@@ -78,6 +78,7 @@ BG_DOI = {
 # DOI 가 없는 1차 출처(표준·단행본)
 AUTHOR_FIX = {   # Crossref 에 저자가 비어 있는 레코드 — 원문 표지에서 보완
     "c941": "Ba M, Li Z, Kang J",
+    "southworth1969": "Southworth M",
 }
 BG_MANUAL = {
     "iso2014": "International Organization for Standardization. ISO 12913-1:2014 Acoustics — "

@@ -66,74 +66,105 @@ PANE = [("walking", "(a) Walking speed", "natural sound vs anthropogenic noise",
 
 
 def forest_panel(ax, key, head, sub, xlab):
+    """RevMan 형 패널 (사용자 2026-08-16 요청 — Zhang 2025 LUP 양식 준용):
+    플롯 오른쪽에 효과 [95% CI]·랜덤효과 가중치 % 를 수치 열로 인쇄하고,
+    Pooled 행 아래에 이질성(I²·Q·p)과 전체효과 p 를 한 줄로 싣는다.
+    (d) 상관 패널은 z 가 아니라 **r 공간으로 표시** — 인쇄 수치와 플롯이 일치한다."""
+    from scipy.stats import chi2 as _chi2
     blk = D["ma"][key]
     eff = blk["effects"]; pl = blk["pooled"]
     n = len(eff)
-    # 각 효과는 y = n..1, 풀링 다이아몬드는 y = -0.35 (구분선 아래)
+    as_r = bool(blk.get("back_r"))
+    tf = math.tanh if as_r else (lambda v: v)
+
+    # 랜덤효과 가중치(1/(v+τ²)) 와 이질성 Q(고정효과 가중)
+    w_re = [1 / (e["var"] + pl["tau2"]) for e in eff]
+    pct = [w / sum(w_re) * 100 for w in w_re]
+    w_fe = [1 / e["var"] for e in eff]
+    mu_fe = sum(w * e["est"] for w, e in zip(w_fe, eff)) / sum(w_fe)
+    Q = sum(w * (e["est"] - mu_fe) ** 2 for w, e in zip(w_fe, eff))
+    p_q = float(_chi2.sf(Q, n - 1))
+
     ys = list(range(n, 0, -1))
-    inv = [1 / e["var"] for e in eff]
-    for y, e, w in zip(ys, eff, inv):
+    for y, e, w in zip(ys, eff, w_re):
         se = math.sqrt(e["var"])
-        lo, hi = e["est"] - 1.96 * se, e["est"] + 1.96 * se
+        lo, hi = tf(e["est"] - 1.96 * se), tf(e["est"] + 1.96 * se)
         ax.plot([lo, hi], [y, y], color=INK, lw=0.9, solid_capstyle="butt", zorder=2)
         for x in (lo, hi):
-            ax.plot([x, x], [y - .13, y + .13], color=INK, lw=0.9, zorder=2)
-        ax.scatter([e["est"]], [y], s=22 + 150 * w / max(inv), marker="s",
+            ax.plot([x, x], [y - .12, y + .12], color=INK, lw=0.9, zorder=2)
+        ax.scatter([tf(e["est"])], [y], s=20 + 130 * w / max(w_re), marker="s",
                    color=T.BLUE, zorder=3, edgecolor="white", lw=0.8)
-    yD = -0.45
-    ax.axhline(0.28, color=T.GRID, lw=0.8, zorder=1)
-    ax.add_patch(plt.Polygon([[pl["lo"], yD], [pl["est"], yD + .26],
-                              [pl["hi"], yD], [pl["est"], yD - .26]],
+    yD = 0.0
+    ax.axhline(0.55, color=T.GRID, lw=0.8, zorder=1)
+    ax.add_patch(plt.Polygon([[tf(pl["lo"]), yD], [tf(pl["est"]), yD + .3],
+                              [tf(pl["hi"]), yD], [tf(pl["est"]), yD - .3]],
                              closed=True, fc=T.FRAME_POS, ec=T.FRAME_POS, zorder=4))
-    ax.axvline(0, color=MUT, lw=0.8, ls=(0, (4, 3)), zorder=0)
+    ax.plot([0, 0], [yD - 0.5, n + 0.7], color=MUT, lw=0.8, ls=(0, (4, 3)), zorder=0)
 
-    # x 범위: 효과 CI 와 풀링 CI 를 모두 담고 6% 여유
-    xs = [pl["lo"], pl["hi"]]
+    # x 범위
+    xs = [tf(pl["lo"]), tf(pl["hi"])]
     for e in eff:
         se = math.sqrt(e["var"])
-        xs += [e["est"] - 1.96 * se, e["est"] + 1.96 * se]
+        xs += [tf(e["est"] - 1.96 * se), tf(e["est"] + 1.96 * se)]
     lo, hi = min(xs), max(xs)
     pad = (hi - lo) * 0.10
     ax.set_xlim(lo - pad, hi + pad)
-    ax.set_ylim(yD - 0.95, n + 0.55)
+    ax.set_ylim(-1.8, n + 1.15)   # 하단을 넓혀 이질성 행이 축선과 겹치지 않게 한다
     ax.set_yticks(ys + [yD])
     lbl = []
     for e in eff:
         s = FOREST_LABEL.get(str(e["uid"]), str(e["uid"]))
         lbl.append(s + ("  ▲" if e["route"] == "citation-tracking" else ""))
-    ax.set_yticklabels(lbl + [f"Pooled,  $k$ = {pl['k']}"], fontsize=7.5)
+    ax.set_yticklabels(lbl + [f"Pooled  ($k$ = {pl['k']})"], fontsize=7.5)
     ax.get_yticklabels()[-1].set_color(T.FRAME_POS)
     ax.get_yticklabels()[-1].set_fontweight("bold")
     ax.tick_params(axis="y", length=0, pad=2)
-    ax.tick_params(axis="x", labelsize=7.5)
+    ax.tick_params(axis="x", labelsize=7.2)
     ax.xaxis.set_major_locator(plt.MaxNLocator(5))
-    # 통계는 패널 오른쪽 위에 별도 텍스트로 — x축 라벨과 뒤섞지 않는다(가독성)
-    r_txt = ""
-    if blk.get("back_r"):
-        r_txt = (f"\n$r$ = {math.tanh(pl['est']):+.2f} "
-                 f"[{math.tanh(pl['lo']):+.2f}, {math.tanh(pl['hi']):+.2f}]")
-        xlab = "Fisher's $z$"
-    ax.text(1.0, 1.02, f"$I^2$ = {pl['I2']:.0f}%,  $p$ = {pl['p']:.3f}{r_txt}",
-            transform=ax.transAxes, ha="right", va="bottom", fontsize=7.2,
-            color=T.INK2, linespacing=1.4)
-    ax.set_xlabel(xlab, fontsize=7.8, labelpad=3)
-    ax.set_title(head, fontsize=9.0, loc="left", pad=14,
-                 fontweight="bold")   # 부제는 캡션이 담당
+
+    # ── 오른쪽 수치 열 (효과 [95% CI] · Weight %) ───────────────────
+    sym = "$r$" if as_r else "$g$"
+    X_EST, X_W = 1.045, 1.62               # axes 좌표 — subplots_adjust(right=)와 짝
+    tr = ax.get_yaxis_transform()
+    ax.text(X_EST, n + 0.85, f"{sym} [95% CI]", transform=tr, fontsize=7.2,
+            color=T.INK2, va="center")
+    ax.text(X_W, n + 0.85, "Weight", transform=tr, fontsize=7.2,
+            color=T.INK2, va="center", ha="right")
+    MINUS = lambda s: s.replace("-", "−")
+    fmt_p = lambda p: "< 0.001" if p < 0.001 else f"= {p:.3f}"
+    for y, e, p in zip(ys, eff, pct):
+        se = math.sqrt(e["var"])
+        ax.text(X_EST, y, MINUS(f"{tf(e['est']):+.2f} [{tf(e['est']-1.96*se):+.2f}, "
+                f"{tf(e['est']+1.96*se):+.2f}]"), transform=tr, fontsize=7.2, va="center")
+        ax.text(X_W, y, f"{p:.1f}%", transform=tr, fontsize=7.2, va="center", ha="right")
+    ax.text(X_EST, yD,
+            MINUS(f"{tf(pl['est']):+.2f} [{tf(pl['lo']):+.2f}, {tf(pl['hi']):+.2f}]"),
+            transform=tr, fontsize=7.4, va="center", fontweight="bold", color=T.FRAME_POS)
+    ax.text(X_W, yD, "100%", transform=tr, fontsize=7.2, va="center", ha="right",
+            color=T.INK2)
+    # 이질성·전체효과 — Pooled 행 아래 한 줄
+    ax.text(0, -1.25, f"Heterogeneity: $I^2$ = {pl['I2']:.0f}%,  Q = {Q:.1f} "
+            f"($p$ {fmt_p(p_q)})   ·   Overall effect: $p$ {fmt_p(pl['p'])}",
+            transform=ax.get_yaxis_transform(), fontsize=6.8, color=T.INK2, va="center")
+
+    ax.set_xlabel(xlab, fontsize=7.6, labelpad=2)
+    ax.set_title(head, fontsize=9.0, loc="left", pad=5, fontweight="bold")
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
 
 
 def fig_forest():
-    """4행 1열. 2×2 로는 패널 폭이 3.4 in 뿐이라 라벨이 플롯을 잡아먹는다(실측).
-    한 열로 세우면 각 패널이 전체 폭을 쓰고, 라벨 왼쪽 여백을 고정해 네 패널의
-    x=0 기준선이 세로로 정렬된다 — 클러스터 간 비교가 가능해진다."""
+    """4행 1열 + 오른쪽 수치 열. 라벨 왼쪽 여백과 수치 열 폭을 네 패널에서 고정해
+    x=0 기준선과 열이 세로로 정렬된다."""
     ns = [len(D["ma"][k]["effects"]) for k, *_ in PANE]
-    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 6.9),
-                             gridspec_kw={"height_ratios": [n + 2.4 for n in ns]})
+    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 7.2),
+                             gridspec_kw={"height_ratios": [n + 2.9 for n in ns]})
     for (key, head, sub, xlab), ax in zip(PANE, axes):
+        if D["ma"][key].get("back_r"):
+            xlab = "Correlation $r$"
         forest_panel(ax, key, head, sub, xlab)
     # ★ 제목·부제를 그림에 넣지 않는다 — 캡션이 담당한다(저널 관행).
-    fig.subplots_adjust(left=0.335, right=0.985, top=0.955, bottom=0.055, hspace=1.15)
+    fig.subplots_adjust(left=0.30, right=0.665, top=0.965, bottom=0.05, hspace=1.05)
     save(fig, "Fig2_Forest")
 
 
