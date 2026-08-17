@@ -25,6 +25,34 @@ INK, ACC, MUT = T.INK, T.BLUE, T.AXIS
 D = json.load(open(os.path.join(FIG, "fig_data.json"), encoding="utf-8"))
 P, DB, CT, SP = D["prisma"], D["prisma"]["db"], D["prisma"]["ct"], D["prisma"]["supp"]
 
+
+def _consolidate_screen_excl():
+    """오른쪽 갈래 스크리닝 배제(제목+초록+보조색인)를 그림의 5줄 라벨로 접는다.
+    ★ 종전에는 이 통합을 손으로 계산해 하드코딩했다 — 수치는 맞았으나(2026-08-17 재검증)
+      fig_data 단일 소스 원칙 위반이라 코드로 옮긴다."""
+    from collections import Counter
+    c = Counter()
+    for k, v in CT["et"] + CT["ea"] + SP["excl"]:
+        c[k] += v
+    beh = c.pop("No behavioural outcome", 0)
+    ac = c.pop("No acoustic variable", 0)
+    ne = c.pop("Not empirical", 0) + c.pop("Not empirical (reviews etc.)", 0)
+    an = c.pop("Animal", 0) + c.pop("Animal / bioacoustics", 0)
+    rest = sum(c.values())          # Setting·Off topic·언어/문서유형·기타
+    return [("No behaviour outcome", beh), ("No acoustic variable", ac),
+            ("Not empirical", ne), ("Animal / bioacoustics", an),
+            ("Setting / language", rest)]
+
+
+def _consolidate_ftx():
+    """오른쪽 갈래 전문 배제(인용추적+보조색인) 통합."""
+    from collections import Counter
+    c = Counter()
+    for k, v in CT["ftx"] + (SP.get("ftx") or []):
+        k = {"No behavioural outcome": "No observed behaviour"}.get(k, k)
+        c[k] += v
+    return list(c.most_common())
+
 # ★ v2.1: 작화 폭 = 삽입 폭(W_FULL). 글자의 인쇄 크기는 상자 폭이 결정하므로
 #   본상자를 넓히고(24→26.5%) 긴 줄은 스크립트에서 두 줄로 쪼갠다.
 W, H = T.W_FULL, 7.8
@@ -127,9 +155,7 @@ def main():
                          f"supplementary index $\\bf{{{SP['screened']}}}$"], R_W)
     xbox(R_XX, YB["scr"] - 4.5, 13.5,
          f"Excluded   n = {CT['excl_title'] + CT['excl_abs'] + SP['excluded']:,}",
-         [("No behaviour outcome", 283), ("No acoustic variable", 78),
-          ("Not empirical", 173), ("Animal / bioacoustics", 45),
-          ("Setting / language", 84)], R_XW)
+         _consolidate_screen_excl(), R_XW)
     side(R_X + R_W, YB["scr"] + BH / 2, R_XX)
     down(cx, YB["scr"], YB["sought"] + BH)
 
@@ -138,8 +164,7 @@ def main():
                             f"index $\\bf{{{SP['sought']}}}$"], R_W)
     xbox(R_XX, YB["sought"] - 0.5, 9.0,
          f"Not obtained   n = {CT['not_retrieved'] + SP['not_retrieved'] + SP['prescreen']}",
-         [("No institution access", 22), ("Pay-per-view only", 3),
-          ("Index route, various", SP["not_retrieved"] + SP["prescreen"])], R_XW)
+         CT["nr"] + [("Index route, various", SP["not_retrieved"] + SP["prescreen"])], R_XW)
     side(R_X + R_W, YB["sought"] + BH / 2, R_XX)
     down(cx, YB["sought"], YB["assess"] + BH)
 
@@ -148,8 +173,7 @@ def main():
                             f"index $\\bf{{{SP['assessed']}}}$"], R_W)
     xbox(R_XX, YB["assess"] - 6.0, 14.5,
          f"Excluded   n = {CT['ft_excluded'] + SP['ft_excluded']}",
-         [("No acoustic variable", 20), ("No observed behaviour", 18),
-          ("Not in English", 3), ("Sensitivity only", CT["sens"])], R_XW)
+         _consolidate_ftx() + [("Sensitivity only", CT["sens"])], R_XW)
     side(R_X + R_W, YB["assess"] + BH / 2, R_XX)
     down(cx, YB["assess"], 12.2)
     ax.text(cx + 1.6, 14.4, f"$\\bf{{n = {CT['included']} + {SP['included']}}}$",
