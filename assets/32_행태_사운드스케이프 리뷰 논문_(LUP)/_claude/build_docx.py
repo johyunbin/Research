@@ -21,7 +21,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 BASE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(BASE)
 SRC = os.path.join(ROOT, "01_논문작업",
-                   sys.argv[1] if len(sys.argv) > 1 else "Manuscript_EN_20260806_r2.md")
+                   sys.argv[1] if len(sys.argv) > 1 else "Manuscript_KO.md")
 FIGDIR = os.path.join(BASE, "figures")
 
 FONT = "Times New Roman"

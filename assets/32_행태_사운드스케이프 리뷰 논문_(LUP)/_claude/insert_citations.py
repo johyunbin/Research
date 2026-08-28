@@ -26,7 +26,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 BASE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE)
 FT = os.path.join(BASE, "fulltext")
-MS = os.path.join(os.path.dirname(BASE), "01_논문작업", "Manuscript_KO_20260806.md")
+MS = os.path.join(os.path.dirname(BASE), "01_논문작업", "Manuscript_KO.md")
 
 from build_numbered_refs import cr, vancouver, AUTHOR_FIX   # noqa: E402  서식 규칙 재사용
 

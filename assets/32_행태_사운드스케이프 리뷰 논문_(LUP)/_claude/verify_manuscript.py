@@ -13,7 +13,7 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 FT = os.path.join(BASE, "fulltext")
 MA = os.path.join(FT, "ma")
 DEFAULT_MS = os.path.join(os.path.dirname(BASE), "01_논문작업",
-                          "Manuscript_EN_20260806_r2.md")
+                          "Manuscript_KO.md")
 
 
 def rd(p):

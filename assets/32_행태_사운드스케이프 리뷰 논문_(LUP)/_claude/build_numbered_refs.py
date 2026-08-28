@@ -16,7 +16,7 @@ import urllib.parse, urllib.request
 sys.stdout.reconfigure(encoding="utf-8")
 BASE = os.path.dirname(os.path.abspath(__file__))
 FT = os.path.join(BASE, "fulltext")
-MS = os.path.join(os.path.dirname(BASE), "01_논문작업", "Manuscript_KO_20260806.md")
+MS = os.path.join(os.path.dirname(BASE), "01_논문작업", "Manuscript_KO.md")
 UA = {"User-Agent": "paper32-SR/0.1 (mailto:wh8502@naver.com)"}
 
 # ── 본문 인용 표기 → 문헌 키 ────────────────────────────────────
