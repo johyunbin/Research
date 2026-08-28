@@ -5,7 +5,7 @@ Paper32 — 원고 markdown → Word(.docx)
   A4(8.27×11.69in) · 여백 L1.18/R·T·B 1.00in · Times New Roman
   제목 16pt bold · 본문·절제목 12pt(절제목 bold) · 표·표주 11pt(헤더 bold) · 줄간격 1.0
   줄번호(lnNumType) 켬 — Elsevier 요구
-출력: 01_논문작업/Manuscript_EN_<타임코드>.docx
+출력: 01_논문작업/Manuscript_{KO|EN}_{YYYYMMDD}_ver{N}.docx (구판은 자동으로 old/ 이관)
 """
 import sys, os, re, datetime
 
@@ -378,10 +378,32 @@ def main():
     if left:
         print(f"  ⚠️ 본문에 삽입되지 않은 그림: {left}")
 
-    ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+    # ★ 네이밍 규약(2026-08-17 사용자 확정): `Manuscript_{KO|EN}_{날짜}_ver{N}.docx`.
+    #   같은 날짜의 기존 빌드(old/ 포함)와 충돌하지 않는 최소 N. HHMMSS 타임코드는
+    #   "어느 게 최신인지 헷갈린다"는 사용자 지적으로 폐기.
+    import glob as _glob
     tag = "KO" if "_KO" in os.path.basename(SRC) else "EN"
-    out = os.path.join(ROOT, "01_논문작업", f"Manuscript_{tag}_{ts}.docx")
+    day = datetime.datetime.now().strftime("%Y%m%d")
+    outdir = os.path.join(ROOT, "01_논문작업")
+    taken = set()
+    for p in (_glob.glob(os.path.join(outdir, f"Manuscript_{tag}_{day}_ver*.docx"))
+              + _glob.glob(os.path.join(outdir, "old", f"Manuscript_{tag}_{day}_ver*.docx"))):
+        m = re.search(r"_ver(\d+)\.docx$", os.path.basename(p))
+        if m:
+            taken.add(int(m.group(1)))
+    ver = 0
+    while ver in taken:
+        ver += 1
+    out = os.path.join(outdir, f"Manuscript_{tag}_{day}_ver{ver}.docx")
     doc.save(out)
+    # ★ 구판 자동 격리: 방금 만든 것을 뺀 같은 태그의 ver 빌드는 old/ 로 옮긴다
+    #   (`_검토` 등 사용자 파일은 패턴에 안 걸려 안전). 현역 최종본은 항상 1개.
+    os.makedirs(os.path.join(outdir, "old"), exist_ok=True)
+    import shutil as _shutil
+    for p in _glob.glob(os.path.join(outdir, f"Manuscript_{tag}_*_ver*.docx")):
+        if os.path.abspath(p) != os.path.abspath(out):
+            _shutil.move(p, os.path.join(outdir, "old", os.path.basename(p)))
+            print(f"  [old/] ← {os.path.basename(p)}")
     print(f"[완료] 문단 {len(doc.paragraphs)} · 표 {n_tbl} · 절제목 {n_head} · 그림 {n_fig}")
     print(f"[저장] {out}")
     return out
