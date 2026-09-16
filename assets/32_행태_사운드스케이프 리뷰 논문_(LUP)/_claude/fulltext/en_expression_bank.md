@@ -49,6 +49,10 @@
 | Five years ago this review could not have been written | This synthesis is timely because the eligible literature has expanded rapidly |
 | (novelty) no synthesis of behaviour exists | we found no systematic synthesis spanning observable behaviour across movement, staying, space use, activity, and social interaction while treating both directions of the relationship as eligible evidence |
 | manipulated the acoustic environment (19%) | used field or natural experimental designs (19%) |
+| (연구 평가) low-quality studies / high-quality studies | studies rated low (high) on the MMAT — 등급은 평가 도구의 판정이며 상당 부분 미보고(can't tell) 탓이다 (2026-09-17 사용자 메모: "남의 연구를 저품질이라고 해도 돼?") |
+| (초록) over the past two decades, urban soundscape research… | Urban soundscape research has expanded substantially, yet… (시기 표현 삭제 — 사용자 메모) |
+| (초록) following a registered protocol (osf.io/7ew8q) | following a protocol pre-registered on OSF (초록에는 주소 없이 등록처만 — PRISMA 2020 Abstracts item 12 는 등록처 표기) |
+| (초록) searched on 2 August 2026 | searched in August 2026 (정확한 날짜는 §2.3 에만) |
 | (walking k) replicated finding | the meta-analytic k should not be interpreted as repeated independent confirmation that environmental noise causes faster walking |
 | walking speed … design target | treating walking speed as an unresolved and highly heterogeneous outcome rather than a design target |
 | (MA significance) forecast | none of the statistically significant mean estimates should therefore be interpreted as a forecast for a new study |
