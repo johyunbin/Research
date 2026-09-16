@@ -63,7 +63,10 @@
 ### Abstract
 - "…the relationship between acoustic conditions and observable behaviour in urban open spaces has not been systematically synthesised across behavioural domains."
 - "…considering from the outset both the forward pathway from acoustic environment to behaviour and the reverse pathway from activity to acoustic environment."
-- "None of the ten planning levers reached high planning evidence strength."
+- (2026-09-17 사용자 요청으로 쉽게 풀어 씀 — 용어만 나열하지 말고 결과의 뜻을 같은 문장에서 말한다)
+  - "Effects in all four behavioural clusters pointed in the theoretically expected direction, but only social interaction (…) and the sound–behaviour correlation (…) had mean estimates whose confidence intervals excluded zero. All four 95% prediction intervals also included zero, so a new setting cannot be assumed to show the same effect."
+  - "Newer sensing methods such as GPS and video were added alongside, rather than replacing, surveys and systematic observation."
+  - "Of the ten planning actions derived from the evidence, none was supported strongly enough to serve directly as a design standard." (구 표현 "None of the ten planning levers reached high planning evidence strength." 대체 — 등급명은 §4.2 에서만)
 - "…the evidence supports evidence-informed hypotheses for monitoring rather than universal design standards."
 - ⚠️ 250단어 한도 — 영문 조립 후 반드시 재계수.
 
