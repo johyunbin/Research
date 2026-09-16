@@ -63,6 +63,7 @@ PANE = [("walking", "(a) Walking speed", "natural sound vs anthropogenic noise",
         ("correlation", "(d) Sound–behaviour correlation", "acoustic or perceptual measure",
          "Fisher's $z$   (positive = sound measure and behaviour covary)")]
 # (d) 는 back-transformed r 까지 붙어 x라벨이 길어지므로 축약형을 쓴다
+FOREST_PITCH = 0.20   # 인치/행(= 14.4 pt) — 사용자 2026-09-16: 정사각형 겹침 해소
 
 
 def forest_panel(ax, key, head, sub, xlab):
@@ -92,7 +93,8 @@ def forest_panel(ax, key, head, sub, xlab):
         ax.plot([lo, hi], [y, y], color=INK, lw=0.9, solid_capstyle="butt", zorder=2)
         for x in (lo, hi):
             ax.plot([x, x], [y - .12, y + .12], color=INK, lw=0.9, zorder=2)
-        ax.scatter([tf(e["est"])], [y], s=20 + 130 * w / max(w_re), marker="s",
+        # 최대 변 ≈ 11 pt(s=121) < 행 간격 FOREST_PITCH(14.4 pt) — 인접 행 정사각형이 겹치지 않는다
+        ax.scatter([tf(e["est"])], [y], s=16 + 105 * w / max(w_re), marker="s",
                    color=T.BLUE, zorder=3, edgecolor="white", lw=0.8)
     yD = 0.0
     ax.axhline(0.55, color=T.GRID, lw=0.8, zorder=1)
@@ -157,14 +159,22 @@ def fig_forest():
     """4행 1열 + 오른쪽 수치 열. 라벨 왼쪽 여백과 수치 열 폭을 네 패널에서 고정해
     x=0 기준선과 열이 세로로 정렬된다."""
     ns = [len(D["ma"][k]["effects"]) for k, *_ in PANE]
-    fig, axes = plt.subplots(len(PANE), 1, figsize=(W2, 7.2),
-                             gridspec_kw={"height_ratios": [n + 2.9 for n in ns]})
-    for (key, head, sub, xlab), ax in zip(PANE, axes):
+    # 행 간격을 인치로 고정하고 패널 높이·그림 높이를 역산한다. 비율(height_ratios)로 나누면
+    # 그림 높이가 고정돼 k 가 큰 패널일수록 행이 촘촘해지고 정사각형이 겹친다.
+    span = [n + 2.95 for n in ns]            # forest_panel 의 ylim(-1.8, n + 1.15) 폭
+    TOP, BOTTOM, GAP = 0.28, 0.44, 0.78      # 인치 — 제목·눈금·축 이름 자리
+    H = sum(s * FOREST_PITCH for s in span) + GAP * (len(PANE) - 1) + TOP + BOTTOM
+    fig = plt.figure(figsize=(W2, H))
+    y = H - TOP
+    for (key, head, sub, xlab), s in zip(PANE, span):
+        h = s * FOREST_PITCH
+        y -= h
+        ax = fig.add_axes([0.30, y / H, 0.665 - 0.30, h / H])
         if D["ma"][key].get("back_r"):
             xlab = "Correlation $r$"
         forest_panel(ax, key, head, sub, xlab)
+        y -= GAP
     # ★ 제목·부제를 그림에 넣지 않는다 — 캡션이 담당한다(저널 관행).
-    fig.subplots_adjust(left=0.30, right=0.665, top=0.965, bottom=0.05, hspace=1.05)
     save(fig, "Fig2_Forest")
 
 

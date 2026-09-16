@@ -27,6 +27,7 @@
 | 맥락이 두 경로를 조절 | **context moderates both pathways** | — |
 | 소리–행태 상관 (MA4 클러스터명) | **sound–behaviour correlation** · 표: *Sound–behaviour correlation (acoustic or perceptual measure)* | soundscape perception ↔ behaviour, perception–behaviour association (LAeq·역방향 연구가 섞여 있어 부정확) |
 | 순방향·역방향 경로 | **forward and reverse pathways** | bidirectional relationship (관계가 양방향으로 입증됐다는 뜻으로 읽힘) |
+| 독립 코드 검토 (D7 오류 발견 경위) | **an independent code review of the meta-analytic implementation, aimed at finding errors** | an external verifier who did not write the manuscript (사람 검증자로 읽히나 실제는 코드 검토 도구였음) |
 
 ### 제목 (2026-09-16 확정)
 
@@ -116,6 +117,6 @@
 
 ## 4. 영문화 때 주의 (검토본에서 발견된 함정)
 
-- 검토본 영문의 **사실 오류는 옮기지 말 것**: 서지 메타데이터(Zhang Y→**Zhang R**, Nielbo KL→**FL**, Bild 저널 → **Journal of Planning Literature**), Table 4 L10 MMAT(**high 2 · moderate 1**가 정본), L1 방향(**promotes**가 정본), §4.4 "during protocol-deviation checking"(실제로는 외부 검증자에게 반박 임무를 맡겨 발견).
+- 검토본 영문의 **사실 오류는 옮기지 말 것**: 서지 메타데이터(Zhang Y→**Zhang R**, Nielbo KL→**FL**, Bild 저널 → **Journal of Planning Literature**), Table 4 L10 MMAT(**high 2 · moderate 1**가 정본), L1 방향(**promotes**가 정본), §4.4 "during protocol-deviation checking"(실제로는 독립 코드 검토에서 발견).
 - 검토본이 지운 근거 수치·인용은 한국어 원고에서 복원돼 있으므로 영문에도 넣을 것(+0.76/+0.75, +0.68→+0.80, [체코 연구진], 0.06 m/s, 0.25점/dB, 음악 유입 무효과).
 - 긴 대시(—)는 영문 산문에서도 최소화(사용자 선호).
