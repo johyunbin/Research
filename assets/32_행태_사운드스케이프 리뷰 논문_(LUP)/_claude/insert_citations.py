@@ -30,14 +30,15 @@ MS = os.path.join(os.path.dirname(BASE), "01_논문작업", "Manuscript_KO.md")
 
 from build_numbered_refs import cr, vancouver, AUTHOR_FIX   # noqa: E402  서식 규칙 재사용
 
-TOKEN = re.compile(r"\[\d+(?:,\d+)*\]|\{\{[A-Za-z0-9_]+(?:,[A-Za-z0-9_]+)*\}\}")
+TOKEN = re.compile(r"\[\d+(?:,\d+)*\]|\{\{#?[A-Za-z0-9_]+(?:,#?[A-Za-z0-9_]+)*\}\}")
 
 
 def token_keys(tok):
-    """토큰 → 키 목록. `[3,4]` → ['old:3','old:4'] · `{{a,b}}` → ['a','b']"""
+    """토큰 → 키 목록. `[3,4]` → ['old:3','old:4'] · `{{a,b}}` → ['a','b']
+    · `{{#9,#10,a}}` → ['old:9','old:10','a'] — 기존 번호와 신규 문헌을 한 괄호로 묶을 때"""
     if tok.startswith("["):
         return [f"old:{n}" for n in tok[1:-1].split(",")]
-    return tok[2:-2].split(",")
+    return [f"old:{k[1:]}" if k.startswith("#") else k for k in tok[2:-2].split(",")]
 
 # ── 삽입 정의 ────────────────────────────────────────────────────────
 # (앵커, 치환문). 앵커는 본문에 **정확히 1회** 등장해야 한다.
@@ -49,13 +50,25 @@ def token_keys(tok):
 #   r2 2026-08-16: §2.6 보고편향 문턱 근거 Sterne 2011 신설
 #   r3 2026-08-16: §1.1 첫 문단 인용(사용자 메모 "Reference 추가할것") — Southworth 1969
 #      "The Sonic Environment of Cities" = 도시 설계의 시각 편중·음환경 방치를 지적한 정전
+#   r4 2026-09-16: 외부 AI 검토본(Manuscript_KO_20260828_FINAL) 반영 — 서론·Discussion 을
+#      md 에 직접 한국어로 재작성하며 `{{key}}` 플레이스홀더를 본문에 넣었으므로 INSERTS 는
+#      비우고 NEW_REFS 만 채운다. 검토본 서지 6건 중 4건 채택·메타데이터 정정, 2건 기각:
+#        [44] 제1저자 Zhang Y → Zhang R · [46] Nielbo KL → FL · [49] 저널명 오류
+#        (Journal of Urban Design → Journal of Planning Literature, 본문 미인용이던 것을 §1.1 에 인용)
+#        기각: [48] Steele 2017 = JASA 학회 초록(1쪽) — 동일 주장을 Steele 2019 전문 논문이 뒷받침
 # ⚠️ r3 앵커는 치환문이 원문을 접두로 포함해 **재실행 시 중복 삽입**된다(dry-run 실측).
 #    실행 완료분은 즉시 비운다 — 다음 삽입 때 새 구성을 채울 것.
 INSERTS = []
 
 # ── 신규 배경 문헌 ───────────────────────────────────────────────────
-# key → DOI. **전건 Crossref 실재 확인을 통과한 것만 여기 넣는다.**
-NEW_REFS = {}
+# key → DOI. **전건 Crossref 실재 확인을 통과한 것만 여기 넣는다.** (확인일 2026-09-16)
+NEW_REFS = {
+    "bild2016":      "10.1177/0885412216662001",   # 계획 실무의 소리 취급 리뷰 (J Plan Lit)
+    "zhang2025ctx":  "10.1121/10.0036882",         # 사운드스케이프와 맥락 프레임워크 (JASA)
+    "hermida2019":   "10.3390/ijerph16040551",     # 사람–장소 상호작용 (IJERPH)
+    "nielbo2013":    "10.1121/1.4800502",          # 활동 적합성·어포던스 (POMA)
+    "steele2019":    "10.3390/ijerph16101865",     # Musikiosk 개입 — ★코퍼스 포함 연구(FINAL_INCLUDE)
+}
 
 # DOI 가 없는 1차 출처(표준·보고서·단행본) — 서지를 직접 적는다
 NEW_MANUAL = {}
@@ -63,6 +76,7 @@ NEW_MANUAL = {}
 # Crossref 레코드의 표기 오류 보정(고유명사·중복 페이지 표기만 — 내용은 건드리지 않는다)
 STRING_FIX = {
     "sterne2011": [("343:d4002-d4002", "343:d4002")],   # page 필드가 동일값 중복
+    "nielbo2013": [("2013:040059-040059", "2013;19:040059")],  # Crossref 에 권호 누락(POMA 19)
 }
 
 
@@ -107,7 +121,8 @@ def renumber(body, refs):
                 order.append(k)
 
     def sub(m):
-        return "[" + ",".join(str(num[k]) for k in token_keys(m.group())) + "]"
+        # 괄호 안은 오름차순(Vancouver 관례) — 번호 부여는 위에서 쓴 순서대로 이미 끝났다
+        return "[" + ",".join(str(n) for n in sorted(num[k] for k in token_keys(m.group()))) + "]"
 
     return TOKEN.sub(sub, body), order, num
 

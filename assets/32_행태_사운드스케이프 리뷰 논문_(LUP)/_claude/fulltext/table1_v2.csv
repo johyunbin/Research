@@ -1,5 +1,5 @@
 ﻿sid,uid,source,study,year,country,setting,design,n,exposure_short,behaviour_domain,measure_gen,direction,quality,in_ma,verdict
-1,CT0025,citation-tracking,[CT0025] Environmental noise level as a det…,1975,NR (본문에 수집국 미명시; 저자 소속 Uni…,lab(outdoor scene),field experiment,132 total (Exp1 실험…,Exp2: 머플러를 제거한 가솔린 릴형 잔디깎기를 가동해 낙하 지점 약 87 dB(…,social,G2,forward,moderate,MA3,FINAL_INCLUDE
+1,CT0025,citation-tracking,[CT0025] Environmental noise level as a det…,1975,NR (본문에 수집국 미명시; 저자 소속 Uni…,street,field experiment,132 total (Exp1 실험…,Exp2: 머플러를 제거한 가솔린 릴형 잔디깎기를 가동해 낙하 지점 약 87 dB(…,social,G2,forward,moderate,MA3,FINAL_INCLUDE
 2,7,db-search,Boles & Hayward (1978),1978,NR,street,NR,NR,urban noise and sidewalk density; levels NR,movement; social,NR,forward,low,,FINAL_INCLUDE
 3,14,db-search,Moser (1988),1988,France,street,field experiment,NR,roadworks jackhammer noise vs quiet; 70-80 dBA peak,social,G2,forward,high,MA3,FINAL_INCLUDE
 4,53,db-search,Wall et al. (2004),2004,USA,street,field experiment,12,"five audible pedestrian signals, 72 dBC",movement,G2,forward,moderate,,FINAL_INCLUDE

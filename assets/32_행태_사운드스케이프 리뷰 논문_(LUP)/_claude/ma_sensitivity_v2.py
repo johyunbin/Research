@@ -181,8 +181,10 @@ def main():
     L.append(line("⑤ MA2 −665(p→t 역산)",
                   rec("MA2 체류", "⑤ 665 제외", [r for r in stay if r["uid"] != "665"], "SD 미보고")))
 
-    walk_all = [dict(uid=r["no"], label=r["label"], g=float(r["g"]), v=float(r["var"]))
-                for r in rd("ma_walking_input.csv") if "control" not in r["contrast"]]
+    # ⚠️ 2026-09-16 정정: 종전 코드는 원자료를 직접 읽어 532 의 Exp1·Exp2 를 따로 넣었다(k=5).
+    #    D7-2 에서 주분석만 고치고 이 축은 같은 규약 위반이 남아 있었다(독립 검토 중 적발).
+    #    주분석과 같은 로더로 논문 내 합성을 적용한다 → k=4.
+    walk_all = load_walk(rd, exclude_music=False)
     for r in walk_all:
         r["tier"] = qual.get(r["uid"], "?"); r["route"] = "db-search"
     L.append(line("⑥ MA1 +481(음악 포함)", rec("MA1 보행속도", "⑥ 481 포함", walk_all, "노출·행태 이질")))

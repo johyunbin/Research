@@ -12,7 +12,7 @@
 | 7 | Chen 2023 | China | park | field experiment | natural vs noise (group interaction) | 73 | moderate | +0.98 [+0.49, +1.46] |
 | 8 | Chen 2024 | China | residential | field experiment | natural vs noise (paired interaction) | 146 | high | +0.55 [+0.22, +0.88] |
 | 9 | Moser 1988 | France | street | field experiment | quiet vs roadworks noise (helping) | 150 | high | +0.43 [+0.13, +0.73] |
-| 10 | Mathews & Canon 1975 ▲ | NR | laboratory (outdoor scene) | field experiment | quiet vs lawnmower noise (helping) | 80 | moderate | +1.07 [+0.45, +1.69] |
+| 10 | Mathews & Canon 1975 ▲ | NR | street | field experiment | quiet vs lawnmower noise (helping) | 80 | moderate | +1.07 [+0.45, +1.69] |
 | **Soundscape perception and behaviour (r)** | | | | | | | | |
 | 11 | Guo 2024 | China | park | survey | pleasantness with static behaviour | 419 | moderate | +0.56 [+0.49, +0.63] |
 | 12 | Zhou 2026 | China | street | mixed | natural sound events with queuing | 315 | low | +0.21 [+0.10, +0.31] |

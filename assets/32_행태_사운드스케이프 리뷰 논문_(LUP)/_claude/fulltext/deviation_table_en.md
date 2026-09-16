@@ -14,7 +14,7 @@
 | D3-3 | Meta-analysis | Three unreported values reconstructed (equal-split n; SD back-calculated from p; SE→SD) | Bounded by sensitivity ⑤ |
 | D3-4 | Meta-analysis | A sign-coding error of our own found and corrected (I² 93.6% → 43.5%) | **Yes** — corrected before any reporting |
 | D3-5 | Meta-analysis | Two sensitivity axes only partially executable (observation-n available for one study; two studies report group-level n only) | Stated per axis |
-| D3-6 | Meta-analysis | Walking-speed pool defined without the music-stimulus study | **Yes** — exclusion is the conservative direction (g −0.500 vs −0.742) |
+| D3-6 | Meta-analysis | Walking-speed pool defined without the music-stimulus study | **Yes** — exclusion is the conservative direction (g −0.474 vs −0.773) |
 | D4-1 | Reporting | Conceptual framework placed in Discussion rather than Results | No — presentation only |
 | D4-2 | Reporting | English-language, journal-only restriction retained as registered | No — registered, not a deviation; consequential for interpretation |
 | D5-1 | Citation-tracking branch | Exclusion code for language added (Chinese-language journal indexed with English metadata) | One verdict changed |

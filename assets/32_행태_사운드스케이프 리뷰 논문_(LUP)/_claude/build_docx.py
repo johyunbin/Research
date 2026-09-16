@@ -90,17 +90,20 @@ CAPTIONS = {
         f"{_G['G2'][1]} to {_G['G2'][2]}. Generations accumulate rather than replace one another; "
         f"{_G['multi_generation_studies']} studies use two or more concurrently and therefore "
         "appear in more than one series."),
+    # ★ 2026-09-16 외부 AI 검토본 캡션 채택 — 정량 정보는 개념도에서 뺐으므로 캡션도 개념만.
     "Fig6_Framework": (
-        "Conceptual framework. The loop is bidirectional by construction: the forward path runs "
-        "acoustic environment → appraisal → behaviour, the reverse path runs activity → sound "
-        "production → acoustic environment. Below the loop, behaviour is unfolded as a gradient "
-        "of engagement, and each band carries the pooled evidence attached to it — band shading "
-        "is the number of pooled effects (k), asterisks mark p < .05 (*) and p < .01 (**), and "
-        "the line under each band gives the MMAT quality of the contributing studies. The "
-        "framework's diagnostic value is visible in the leftmost band: the avoidance and "
-        f"walking-speed evidence, a widely cited claim in this literature, comes "
-        f"entirely from studies that MMAT rates low, so excluding low-quality studies leaves "
-        f"nothing to pool."),
+        "Reciprocal evidence framework linking context, acoustic environment, soundscape "
+        "appraisal, and observable behaviour. Spatial, physical, and socio-cultural context "
+        "shapes the acoustic environment and moderates how acoustic conditions are interpreted "
+        "and acted upon. Acoustic conditions may influence observable behaviour directly or "
+        "through soundscape appraisal. Behaviour and activity can, in turn, modify the acoustic "
+        "environment through occupancy and human sound production. The two pathways represent a "
+        "reciprocal evidence structure rather than a demonstrated closed causal feedback loop. "
+        "Behavioural outcomes are organised below the framework along an engagement gradient "
+        "from avoidance and passing to staying, interacting, and appropriating; this gradient is "
+        "used as a synthesis device and is not a validated behavioural scale. The figure is "
+        "conceptual; quantitative effect sizes, p-values, and study-quality information are "
+        "reported separately in the Results and evidence tables."),
     "Fig7_GeoTime": (
         f"Geographic and temporal distribution of the {_FD['n_included']} included studies. "
         f"(a) {_FD['geo']['countries'][0][1]} studies "

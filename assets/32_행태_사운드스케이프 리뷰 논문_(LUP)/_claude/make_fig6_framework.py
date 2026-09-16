@@ -1,159 +1,126 @@
 # -*- coding: utf-8 -*-
 """
-Paper32 — Figure 6: 개념 프레임워크 (등록 osf.io/7ew8q 산출물 약속 이행)
-"The soundscape-behaviour loop in public open space"
-  · 양방향 루프(forward 음→행태 / reverse 행태→음)
-  · 관여 경사(engagement gradient) 5단 — 밴드 농도 = 풀링된 효과크기 수(k), 캡션에 명시
-  · 행태 측정 3세대(자기보고 → 체계적 관찰 → 센싱·궤적)
-viz_theme 검증 팔레트 · 게재용이므로 도면 텍스트는 전부 영문.
-출력: figures/Fig6_Framework.png|pdf
+Paper32 — Figure 8(본문 번호): 상호적 증거 프레임워크 (reciprocal evidence framework)
+
+v3 (2026-09-16 외부 AI 검토 반영)
+  · 닫힌 인과 피드백 고리의 "증명"이 아니라 **상호적 증거 구조**를 그리는 개념도로 재정의
+  · 공간적·물리적·사회문화적 **맥락 층**을 틀 전체를 감싸는 프레임으로 추가 — 맥락이 두 경로를
+    모두 조절한다는 뜻을 화살표 없이 포함 관계로 표현(검토본은 떠 있는 주석이었다)
+  · 음환경 → 행태의 **직접 경로**(평가를 거치지 않는)를 점선으로 추가
+  · 역방향을 활동·점유 → 소리 발생 → 음환경의 두 단계로 분리
+  · ★ **정량 정보(k·g·p·MMAT 음영) 전부 제거** — 개념도는 개념만, 수치는 Results·표·forest 담당
+  · 관여의 경사는 **종합 장치(synthesis device)이지 검증된 서열 척도가 아님**을 도면에 명시.
+    서열 척도로 오독되지 않게 칸에 단계형 색 농도를 쓰지 않는다
+검토본 도면(Manuscript_KO_20260828_FINAL 내 이미지)은 문구가 SOUND PRODUCTION 상자를
+덮고 되돌아가는 화살표가 상자를 관통해 채택하지 않고, 개념만 받아 여기서 다시 그렸다.
+출력: figures/Fig6_Framework.png|pdf (파일명은 빌더 호환을 위해 유지)
 """
 import sys, os
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Rectangle
+from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import viz_theme as T
 
 sys.stdout.reconfigure(encoding="utf-8")
 BASE = os.path.dirname(os.path.abspath(__file__))
-FT = os.path.join(BASE, "fulltext")
 FIG = os.path.join(BASE, "figures")
 os.makedirs(FIG, exist_ok=True)
 T.apply()
 
-# ★ 수치는 전부 figures/fig_data.json 에서 읽는다(구판은 81편·구 MA 값을 하드코딩했다).
-import json as _json
-_D = _json.load(open(os.path.join(FIG, "fig_data.json"), encoding="utf-8"))
+FWD, REV = T.BLUE, T.TERRA
 
 
-def _ma(key):
-    b = _D["ma"][key]; p = b["pooled"]; q = b["quality_mix"]
-    SH = {"high": "high", "moderate": "mod", "low": "low"}
-    qs = " · ".join(f"{SH[k]} {v}" for k, v in q.items() if v) or "—"
-    star = "**" if p["p"] < .01 else ("*" if p["p"] < .05 else "")
-    if b.get("back_r"):
-        import math as _m
-        val = f"r = {_m.tanh(p['est']):+.2f} {star}".strip()
-    else:
-        val = f"g = {p['est']:+.2f} {star}".strip()
-    return f"k = {p['k']}", val, qs, p["k"]
-
-
-FWD, REV = T.BLUE, T.ORANGE
-
-
-def box(ax, cx, cy, w, h, fc, ec, lw=1.1, z=3):
+def box(ax, cx, cy, w, h, title, sub, fc=T.SURF, ec=T.BASE, lw=1.0, fs=8.0, z=3):
     ax.add_patch(FancyBboxPatch((cx - w / 2, cy - h / 2), w, h,
-                                boxstyle="round,pad=0,rounding_size=1.8",
+                                boxstyle="round,pad=0,rounding_size=1.6",
                                 facecolor=fc, edgecolor=ec, linewidth=lw, zorder=z))
+    ax.text(cx, cy + h * 0.17, title, ha="center", va="center", fontsize=fs,
+            fontweight="bold", color=T.INK, zorder=z + 1)
+    ax.text(cx, cy - h * 0.22, sub, ha="center", va="center", fontsize=6.3,
+            color=T.INK2, zorder=z + 1)
 
 
-def arrow(ax, p0, p1, color, rad=0.0, lw=2.0, z=4, ms=15):
+def arrow(ax, p0, p1, color, rad=0.0, lw=1.8, ls="-", ms=12, z=4):
     ax.add_patch(FancyArrowPatch(p0, p1, connectionstyle=f"arc3,rad={rad}",
                                  arrowstyle="-|>", mutation_scale=ms, linewidth=lw,
-                                 color=color, zorder=z, shrinkA=2, shrinkB=2))
+                                 linestyle=ls, color=color, zorder=z,
+                                 shrinkA=1.5, shrinkB=1.5))
 
 
 def main():
-    fig, ax = plt.subplots(figsize=(T.W_FULL, 5.1))
-    # 세대 블록 삭제로 y<24 가 비었다 — 그만큼 잘라 여백을 없앤다
-    ax.set_xlim(0, 100); ax.set_ylim(23, 101); ax.axis("off")
+    fig, ax = plt.subplots(figsize=(T.W_FULL, 5.0))
+    fig.subplots_adjust(left=0, right=1, top=1, bottom=0)
+    ax.set_xlim(0, 100); ax.set_ylim(0, 100); ax.axis("off")
 
-    # ── 상단: 양방향 루프 ────────────────────────────────────────────
-    box(ax, 50, 93, 40, 11, T.TINT_BLUE, FWD, 1.2)
-    ax.text(50, 95.6, "ACOUSTIC ENVIRONMENT", ha="center", va="center",
-            fontsize=8.8, fontweight="bold", color=T.INK, zorder=5)
-    ax.text(50, 91.0, "source composition · level · temporal variation\n"
-            "traffic  ·  natural  ·  music  ·  human",
-            ha="center", va="center", fontsize=6.8, color=T.INK2, zorder=5, linespacing=1.5)
+    # ── 맥락 프레임: 틀 전체를 감싼다 = 두 경로 모두를 조절 ─────────────
+    ax.add_patch(FancyBboxPatch((1.2, 23.0), 97.6, 75.8,
+                                boxstyle="round,pad=0,rounding_size=2.2",
+                                facecolor=T.TINT_NEUT, edgecolor=T.BASE, linewidth=0.9, zorder=1))
+    ax.text(3.6, 95.2, "SPATIAL · PHYSICAL · SOCIO-CULTURAL CONTEXT", ha="left", va="center",
+            fontsize=7.6, fontweight="bold", color=T.INK2, zorder=2)
+    ax.text(3.6, 91.4, "setting type · visual–acoustic congruence · purpose of stay · "
+            "time · culture", ha="left", va="center", fontsize=6.2, color=T.INK2, zorder=2)
+    ax.text(96.4, 95.2, "moderates both pathways", ha="right", va="center", fontsize=6.4,
+            style="italic", color=T.INK2, zorder=2)
 
-    box(ax, 84, 74, 28, 11, T.SURF, T.BASE, 1.0)
-    ax.text(84, 76.6, "APPRAISAL", ha="center", va="center",
-            fontsize=8.8, fontweight="bold", color=T.INK, zorder=5)
-    ax.text(84, 72.0, "pleasantness · eventfulness\n(ISO 12913) · expectancy fit",
-            ha="center", va="center", fontsize=6.8, color=T.INK2, zorder=5, linespacing=1.5)
+    # ── 노드 ─────────────────────────────────────────────────────────
+    AE = (50, 79.5); APP = (81.5, 57.5); BEH = (50, 34.5); ACT = (18.5, 46.5); SND = (18.5, 68.5)
+    box(ax, *AE, 31, 9.5, "ACOUSTIC ENVIRONMENT", "source composition · level · temporal pattern",
+        fc=T.TINT_BLUE, ec=FWD, lw=1.2, fs=8.2)
+    box(ax, *APP, 28, 9.5, "SOUNDSCAPE APPRAISAL", "perception · interpretation", fs=7.8)
+    box(ax, *BEH, 39, 9.5, "OBSERVABLE BEHAVIOUR",
+        "movement / passing · staying / space use · interaction",
+        fc=T.TINT_TERRA, ec=REV, lw=1.2, fs=8.2)
+    box(ax, *ACT, 28, 9.5, "ACTIVITY & OCCUPANCY", "density · programming · companionship",
+        fs=7.6)
+    box(ax, *SND, 28, 9.5, "SOUND PRODUCTION", "voices · activity sound · amplified sound",
+        fs=7.6)
 
-    box(ax, 16, 74, 28, 11, T.SURF, T.BASE, 1.0)
-    ax.text(16, 76.6, "ACTIVITY & OCCUPANCY", ha="center", va="center",
-            fontsize=8.0, fontweight="bold", color=T.INK, zorder=5)
-    ax.text(16, 72.0, "who · how many · doing what\n(people generate sound)",
-            ha="center", va="center", fontsize=6.8, color=T.INK2, zorder=5, linespacing=1.5)
+    # ── 순방향(파랑): 음환경 → 평가 → 행태, + 직접 경로(점선) ───────────
+    arrow(ax, (AE[0] + 15.5, AE[1] - 1.5), (APP[0], APP[1] + 4.75), FWD, rad=-0.28)
+    arrow(ax, (APP[0], APP[1] - 4.75), (BEH[0] + 19.5, BEH[1] + 1.0), FWD, rad=-0.28)
+    arrow(ax, (AE[0], AE[1] - 4.75), (BEH[0], BEH[1] + 4.75), FWD, lw=1.1, ls=(0, (4, 3)),
+          ms=10)
+    ax.text(51.8, 57.0, "direct", ha="left", va="center", fontsize=6.2, style="italic",
+            color=FWD, zorder=5)
+    ax.text(78.0, 74.5, "FORWARD", ha="center", va="center", fontsize=7.4, fontweight="bold",
+            color=FWD, rotation=-36, zorder=5)
 
-    box(ax, 50, 55, 36, 10.5, T.TINT_TERRA, REV, 1.2)
-    ax.text(50, 57.5, "BEHAVIOURAL RESPONSE", ha="center", va="center",
-            fontsize=8.8, fontweight="bold", color=T.INK, zorder=5)
-    ax.text(50, 53.2, "observable behaviour — unfolded below",
-            ha="center", va="center", fontsize=6.8, color=T.INK2, zorder=5)
+    # ── 역방향(테라코타): 행태 → 활동·점유 → 소리 발생 → 음환경 ─────────
+    arrow(ax, (BEH[0] - 19.5, BEH[1] + 1.0), (ACT[0], ACT[1] - 4.75), REV, rad=-0.28)
+    arrow(ax, (ACT[0], ACT[1] + 4.75), (SND[0], SND[1] - 4.75), REV)
+    arrow(ax, (SND[0], SND[1] + 4.75), (AE[0] - 15.5, AE[1] - 1.5), REV, rad=-0.28)
+    ax.text(21.5, 83.5, "REVERSE", ha="center", va="center", fontsize=7.4, fontweight="bold",
+            color=REV, rotation=36, zorder=5)
 
-    box(ax, 50, 74, 30, 13.5, T.TINT_NEUT, T.BASE, 0.9, z=2)
-    ax.text(50, 78.6, "MODERATORS", ha="center", va="center", fontsize=7.8,
-            fontweight="bold", color=T.INK2, zorder=5)
-    ax.text(50, 73.0, "setting type (park · street · square)\nvisual–acoustic congruence\n"
-            "purpose of stay · culture · person",
-            ha="center", va="center", fontsize=6.6, color=T.INK2, zorder=5, linespacing=1.7)
+    # ── 관여의 경사: 종합 장치 (정량 정보 없음) ───────────────────────────
+    arrow(ax, (BEH[0], BEH[1] - 4.75), (BEH[0], 19.6), T.BASE, lw=1.0, ms=9, z=2)
+    ax.text(3.0, 17.4, "Engagement gradient", ha="left", va="center", fontsize=8.0,
+            fontweight="bold", color=T.INK)
+    ax.text(97.0, 17.4, "synthesis device · not a validated ordinal behavioural scale",
+            ha="right", va="center", fontsize=6.2, style="italic", color=T.INK2)
+    steps = [("Avoidance", "speed up · leave"), ("Passing", "walk through"),
+             ("Staying", "linger · sit"), ("Interacting", "talk · help"),
+             ("Appropriating", "occupy · adapt")]
+    x0, x1, gap = 3.0, 97.0, 1.6
+    w = (x1 - x0 - gap * (len(steps) - 1)) / len(steps)
+    for i, (name, sub) in enumerate(steps):
+        cx = x0 + i * (w + gap) + w / 2
+        ax.add_patch(FancyBboxPatch((cx - w / 2, 5.2), w, 8.6,
+                                    boxstyle="round,pad=0,rounding_size=1.0",
+                                    facecolor=T.SURF, edgecolor=T.BASE, linewidth=0.9, zorder=3))
+        ax.text(cx, 10.9, name, ha="center", va="center", fontsize=7.6, fontweight="bold",
+                color=T.INK, zorder=4)
+        ax.text(cx, 7.4, sub, ha="center", va="center", fontsize=6.0, color=T.INK2, zorder=4)
+    ax.text(50, 2.2, "less engaged  →  more engaged", ha="center", va="center", fontsize=6.2,
+            color=T.INK2)
 
-    arrow(ax, (68.5, 89.2), (79.5, 80.4), FWD, rad=-0.22, lw=2.0)
-    arrow(ax, (83.5, 68.2), (68.5, 58.4), FWD, rad=-0.24, lw=2.0)
-    arrow(ax, (31.5, 58.4), (16.5, 68.2), REV, rad=-0.24, lw=2.0)
-    arrow(ax, (20.5, 80.4), (31.5, 89.2), REV, rad=-0.22, lw=2.0)
-
-    ax.text(79.8, 86.4, "FORWARD", fontsize=7.8, fontweight="bold", color=FWD,
-            ha="center", rotation=-40, zorder=6)
-    ax.text(20.2, 86.4, "REVERSE", fontsize=7.8, fontweight="bold", color=REV,
-            ha="center", rotation=40, zorder=6)
-
-    # ── 중단: 관여 경사 ─────────────────────────────────────────────
-    GY, GX0, GX1 = 34.5, 7, 93
-    # shade = 풀링된 효과크기 수 k / 5 (캡션에 명시 — 라벨 없는 색 인코딩 금지)
-    _w = _ma("walking"); _s = _ma("staying"); _c = _ma("social"); _r = _ma("correlation")
-    steps = [
-        ("Avoid",       "speed up · leave",   f"MA1   {_w[0]}", _w[1], _w[2], _w[3]),
-        ("Pass",        "walk through",       "no pooling",     "narrative only", "—", 0),
-        ("Linger",      "stay · sit",         f"MA2   {_s[0]}", _s[1], _s[2], _s[3]),
-        ("Interact",    "talk · group",       f"MA3   {_c[0]}", _c[1], _c[2], _c[3]),
-        ("Appropriate", "occupy · use space", f"MA4   {_r[0]}", _r[1], _r[2], _r[3]),
-    ]
-    n = len(steps); gap = 1.6
-    wstep = (GX1 - GX0 - gap * (n - 1)) / n
-
-    ax.text(GX0, 46.6, "Engagement gradient", fontsize=9.0, fontweight="bold",
-            color=T.INK, ha="left")
-    ax.text(GX1, 46.6, "less engaged  →  more engaged", fontsize=6.8,
-            color=T.INK2, ha="right")
-    arrow(ax, (50, 49.4), (50, 42.2), T.BASE, lw=1.2, z=2, ms=11)
-
-    for i, (name, sub, kline, eline, q, k) in enumerate(steps):
-        x0 = GX0 + i * (wstep + gap)
-        col = T.SEQ(0.22 + 0.68 * min(k / 6, 1.0))
-        fg = T.ink_on(col)                       # 배경 휘도로 글자색 결정(눈대중 금지)
-        fg2 = "#DCE7F1" if fg == T.SURF else T.INK2
-        ax.add_patch(Rectangle((x0, GY - 6.5), wstep, 13.0, facecolor=col,
-                               edgecolor=T.BASE if k < 3 else "none",
-                               linewidth=0.8, zorder=3))
-        ax.text(x0 + wstep / 2, GY + 4.5, name, ha="center", va="center", fontsize=8.5,
-                fontweight="bold", color=fg, zorder=5)
-        ax.text(x0 + wstep / 2, GY + 1.6, sub, ha="center", va="center", fontsize=6.4,
-                color=fg2, zorder=5)
-        ax.text(x0 + wstep / 2, GY - 1.8, kline, ha="center", va="center", fontsize=7.2,
-                fontweight="bold", color=fg, zorder=5)
-        ax.text(x0 + wstep / 2, GY - 4.4, eline, ha="center", va="center", fontsize=7.2,
-                fontweight="bold", color=fg, zorder=5)
-        ax.text(x0 + wstep / 2, GY - 9.0, q, ha="center", va="center", fontsize=6.6,
-                color=T.INK2, zorder=5)
-
-
-    # ★ '측정 3세대' 블록은 삭제했다 — 같은 내용을 Fig5_Methods 가 이미 담고 있어
-    #   한 그림에 세 덩어리를 넣은 것이 이 도면을 읽기 어렵게 만든 주된 원인이었다.
-
-    # 제목·부제는 그림에 넣지 않는다(캡션이 담당).
-
-    fig.subplots_adjust(left=0.02, right=0.98, top=0.985, bottom=0.015)
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig6_Framework.{ext}"), dpi=300)
     plt.close(fig)
-    print("[저장] figures/Fig6_Framework.png|pdf")
+    print("[저장] figures/Fig6_Framework.png|pdf (reciprocal evidence framework v3)")
 
 
 if __name__ == "__main__":

@@ -4,7 +4,7 @@
 
 | # | Study | Year | Country | Setting | Design | n | Exposure | Domain | Gen | Dir | Quality | MA |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | [CT0025] Environmental noise l… ▲ | 1975 | NR (본문에 수집국 미명시;… | lab(outdoor scene) | field experiment | 132 total (Exp1 실험… | Exp2: 머플러를 제거한 가솔린 릴형 잔디깎기를 가동해 낙하 지점 약 … | social | G2 | forward | moderate | MA3 |
+| 1 | [CT0025] Environmental noise l… ▲ | 1975 | NR (본문에 수집국 미명시;… | street | field experiment | 132 total (Exp1 실험… | Exp2: 머플러를 제거한 가솔린 릴형 잔디깎기를 가동해 낙하 지점 약 … | social | G2 | forward | moderate | MA3 |
 | 2 | Boles & Hayward (1978) | 1978 | NR | street | NR | NR | urban noise and sidewalk density; levels… | movement; social | NR | forward | low |  |
 | 3 | Moser (1988) | 1988 | France | street | field experiment | NR | roadworks jackhammer noise vs quiet; 70-… | social | G2 | forward | high | MA3 |
 | 4 | Wall et al. (2004) | 2004 | USA | street | field experiment | 12 | five audible pedestrian signals, 72 dBC | movement | G2 | forward | moderate |  |

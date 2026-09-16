@@ -30,6 +30,12 @@ DESIGN = [("field experiment", r"field experiment|현장실험|현장 실험|in-
           ("survey", r"survey|설문|questionnaire|cross-sectional|횡단")]
 
 
+# ★ 규칙 예외 (2026-09-16 독립 검토 적발): 정규화는 첫 매칭 우선이고 lab 규칙이 street 보다
+#   앞이라, 원문 세팅에 "Exp1은 실내 실험실"이 부기된 CT0025 가 lab(outdoor scene)으로 오코딩됐다.
+#   합성(MA3)에 들어간 것은 가로 보도 현장실험인 Exp2 이므로 street 가 맞다.
+SETTING_OVERRIDE = {"CT0025": "street"}
+
+
 def pick(text, table, default="mixed"):
     t = (text or "").lower()
     for label, pat in table:
@@ -113,7 +119,8 @@ def main():
             "study": base.get("study") or f"[{uid}] {short(r['title'], 34)}",
             "year": r["year"],
             "country": base.get("country") or short(r["country"], 26) or "NR",
-            "setting": base.get("setting") or pick(f"{r['setting']} {r['title']}", SETTING),
+            "setting": SETTING_OVERRIDE.get(r["uid"]) or base.get("setting")
+                       or pick(f"{r['setting']} {r['title']}", SETTING),
             "design": base.get("design") or pick(f"{r['design']} {r['measurement_method']}", DESIGN),
             "n": base.get("n") or short(r["sample_n"], 18) or "NR",
             "exposure_short": base.get("exposure_short") or short(r["exposure"], 46),

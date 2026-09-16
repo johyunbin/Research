@@ -133,31 +133,77 @@ CONF_NOTE = {
 }
 
 
+# ★ v2 (2026-09-16 외부 AI 검토 반영): "confidence grading" → "planning evidence strength".
+#   GRADE 류 검증된 certainty 체계로 오독되지 않게 명칭을 바꾸고, 행태 결과 문구를
+#   "May …" 식 가능성 서술로 낮췄다. 문구는 검토본(Manuscript_KO_20260828_FINAL) 채택.
+#   ⚠️ 수치 열(Studies·MMAT mix·Direction·Strength)은 계속 design_matrix_v2.csv 가 정본 —
+#      검토본이 바꾼 L10 "high 2 · low 1"·L1 "promotes / mixed" 는 데이터 근거가 없어 기각.
+PLAN_EN = {
+    "L1": ("Programme music in public space",
+           "May increase dwell time and approach to or engagement with the sound source; "
+           "evidence for increasing visitor numbers is weaker"),
+    "L2": ("Provide or enhance natural sounds (e.g., water, birdsong)",
+           "Associated with greater social interaction and staying; independent contributions "
+           "of natural sound and competing-noise removal remain unresolved"),
+    "L3": ("Provide quieter routes for walking and cycling",
+           "May influence route choice and the spatial distribution of movement by allowing "
+           "users to avoid noisier alignments"),
+    "L4": ("Remove, relocate, or reschedule mechanical and maintenance noise",
+           "May reduce avoidance and support staying and social interaction in intended "
+           "social spaces"),
+    "L5": ("Provide quieter sides or designated quiet zones",
+           "May support walking, exercise, rest, and staying where acoustic conditions are "
+           "otherwise constraining"),
+    "L6": ("Use acoustic zoning and spatial separation of functions",
+           "May redistribute crowd density, interaction, and staying across adjacent "
+           "activity areas"),
+    "L7": ("Programme sound-generating public activities",
+           "May convert passage into watching, lingering, and social interaction; evidence "
+           "for increasing overall visitor numbers is insufficient"),
+    "L8": ("Use auditory guidance and warning signals where appropriate",
+           "May modify crossing trajectories, detection timing, and movement responses"),
+    "L9": ("Treat natural sound as a potential modifier of pedestrian pace",
+           "Existing evidence is insufficient to justify designing specifically to slow "
+           "pedestrian movement through natural sound"),
+    "L10": ("Use speech-interference considerations when locating social spaces",
+            "Lower acoustic interference may support conversational interaction and reduce "
+            "vocal effort"),
+}
+STRENGTH_NOTE = {
+    "moderate": "may be included in a design proposal, with post-occupancy monitoring",
+    "low": "test as a hypothesis and do not write into a standard or guideline",
+    "very low": "no prescriptive basis at present",
+}
+
+
 def table3():
     rows = rd("design_matrix_v2.csv")
-    L = ["**Table 3.** Ten planning levers derived from the corpus, with confidence grading. "
-         "Confidence combines the number of contributing studies, their MMAT composition, whether "
-         "a pooled interval excludes zero, diversity of settings, and behaviour under sensitivity "
-         "analysis. **No lever reaches high confidence.** `Mixed` under Direction means that studies "
-         "disagree in sign, not that the lever has several effects. Full evidence, caveats and "
-         "study lists are Supplementary S14.\n\n",
-         "| Lever | What is changed | Behavioural outcome | Direction | Studies | MMAT mix | "
-         "Confidence |\n|---|---|---|---|---|---|---|\n"]
+    L = ["**Table 4.** Ten evidence-informed planning levers derived from the corpus. Planning "
+         "evidence strength is a pragmatic synthesis judgement based on contributing study count, "
+         "methodological-quality composition, statistical uncertainty, diversity of settings, and "
+         "sensitivity to analytical decisions; it is not a validated certainty-of-evidence "
+         "framework such as GRADE. **No lever reaches high strength.** “Mixed” indicates that "
+         "contributing studies differ in direction or that the behavioural implication remains "
+         "context-dependent. Full study-level evidence and caveats are provided in "
+         "Supplementary S14.\n\n",
+         "| Lever | Planning action | Behavioural outcome | Evidence direction | Studies | "
+         "MMAT mix | Planning evidence strength |\n|---|---|---|---|---|---|---|\n"]
     conf = Counter()
-    missing = [r["lever_id"] for r in rows if r["lever_id"] not in LEVER_EN]
+    missing = [r["lever_id"] for r in rows if r["lever_id"] not in PLAN_EN]
     if missing:
-        raise SystemExit(f"⚠️ 영문 대응문 없는 레버: {missing} — LEVER_EN 보완 필요")
+        raise SystemExit(f"⚠️ 영문 대응문 없는 레버: {missing} — PLAN_EN 보완 필요")
     for r in rows:
         conf[r["confidence"]] += 1
-        mech, outc = LEVER_EN[r["lever_id"]]
-        L.append(f"| **{r['lever_id']}** {wrap(r['lever_en'], 52)} | {mech} | {outc} | "
-                 f"{r['direction']} | {r['n_studies']} | "
-                 f"{wrap(r['quality_mix'], 26)} | **{r['confidence']}** |\n")
-    L.append("\n**How to read the grades.** "
-             + " · ".join(f"*{k}* ({conf[k]}) — {v}" for k, v in CONF_NOTE.items() if conf[k])
+        action, outc = PLAN_EN[r["lever_id"]]
+        mix = r["quality_mix"].replace("mod ", "moderate ")
+        L.append(f"| **{r['lever_id']}** | {action} | {outc} | {r['direction']} | "
+                 f"{r['n_studies']} | {mix} | **{r['confidence'].capitalize()}** |\n")
+    L.append("\n**How to read the strength levels.** "
+             + " · ".join(f"*{k.capitalize()}* ({conf[k]}): {v}"
+                          for k, v in STRENGTH_NOTE.items() if conf[k])
              + ".\n")
     open(os.path.join(FT, "table3_en.md"), "w", encoding="utf-8").write("".join(L))
-    print(f"[Table 3] 레버 {len(rows)}개 · confidence {dict(conf)}")
+    print(f"[Table 4] 레버 {len(rows)}개 · strength {dict(conf)}")
 
 
 if __name__ == "__main__":
