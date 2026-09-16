@@ -28,11 +28,11 @@
 
 [15] Wang Y, Wu Y, Qin T, Van de Weghe N, Huang H. Assessing the impact of urban soundscapes on physical activity: insights from a systematic review. Cities & Health. 2026:1-26. doi:10.1080/23748834.2026.2683259
 
-[16] Nielbo FL, Steele D, Guastavino C. Investigating soundscape affordances through activity appropriateness. Proceedings of Meetings on Acoustics. 2013;19:040059. doi:10.1121/1.4800502
+[16] Buxton RT, Pearson AL, Allou C, Fristrup K, Wittemyer G. A synthesis of health benefits of natural sounds and their distribution in national parks. Proceedings of the National Academy of Sciences. 2021;118. doi:10.1073/pnas.2013097118
 
-[17] Steele D, Bild E, Tarlao C, Guastavino C. Soundtracking the Public Space: Outcomes of the Musikiosk Soundscape Intervention. International Journal of Environmental Research and Public Health. 2019;16:1865. doi:10.3390/ijerph16101865
+[17] Nielbo FL, Steele D, Guastavino C. Investigating soundscape affordances through activity appropriateness. Proceedings of Meetings on Acoustics. 2013;19:040059. doi:10.1121/1.4800502
 
-[18] Buxton RT, Pearson AL, Allou C, Fristrup K, Wittemyer G. A synthesis of health benefits of natural sounds and their distribution in national parks. Proceedings of the National Academy of Sciences. 2021;118. doi:10.1073/pnas.2013097118
+[18] Steele D, Bild E, Tarlao C, Guastavino C. Soundtracking the Public Space: Outcomes of the Musikiosk Soundscape Intervention. International Journal of Environmental Research and Public Health. 2019;16:1865. doi:10.3390/ijerph16101865
 
 [19] Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021:n71. doi:10.1136/bmj.n71
 

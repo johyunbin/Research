@@ -70,34 +70,46 @@
 - "…the evidence supports evidence-informed hypotheses for monitoring rather than universal design standards."
 - ⚠️ 250단어 한도 — 영문 조립 후 반드시 재계수.
 
-### §1.1
-- "Landscape architecture and urban planning have long privileged what can be seen."
-- "Yet the conditions that make a public space tolerable, attractive, or socially usable are not exclusively visual."
-- "…sound has rarely been integrated as a behavioural planning variable."
-- "Compliance with an exposure limit and successful public-space use are not equivalent outcomes."
-- "Recent conceptual work further emphasises that soundscape outcomes are shaped by spatial-physical and socio-cultural context and may be understood as part of a dynamic relationship between people, place, and sound."
+### 서론 소절 제목 (2026-09-17 사용자 확정 — 리뷰 논문에서 흔히 쓰는 서술형 제목)
+- 1.1 Sound in landscape and urban planning
+- 1.2 From soundscape perception to observable behaviour
+- 1.3 Advances in measuring behaviour and sound
+- 1.4 Behaviour and activity as influences on the acoustic environment
+- 1.5 Previous reviews and contribution of this review
+- 1.6 Research questions
+- (같은 이유로) 4.2 Strength of evidence for planning actions (RQ4)
 
-### §1.2–1.3
-- "This accumulated evidence nevertheless has a clear outcome bias."
-- "Perceptual and behavioural outcomes may be related, but the strength and direction of that relationship should be measured rather than assumed."
-- "The link between appraisal and behaviour is therefore an empirical question."
-- "The recent increase reflects a measurement threshold: observable behaviour has become easier to record at scale."
-- "The field therefore has more data than it has manipulation."
+### ⛔ AI 투로 읽히는 표현 — 영문본에서도 쓰지 말 것 (사용자 메모 2026-09-17)
+- 절 참조 기호 "§2.2" → "Section 2.2" (한글본은 "2.2절")
+- 격언식 한 줄 결론: "Compliance with an exposure limit and successful public-space use are not equivalent outcomes." · "The field therefore has more data than it has manipulation." · "This is the gap this review addresses." · "This matters because…" · "X itself is not new."
+- 수사 의문문을 짧게 끊어 나열: "Do people use the space? Do they stay or pass through? Do they talk?"
+- 절 첫머리의 요약 선언문: "Several adjacent syntheses are related, but none covers the full scope of this review."
+- 제목의 수사: "What the field has established, and what it has not" · "Why now: …" · "The pathway that runs the other way"
+- 본문 중간 굵은 글씨 강조(초록 포함 — 사용자가 초록 굵은 글씨를 전부 해제함)
+- 대안: 근거와 사실을 먼저 쓰고 연결어(However, In addition, As a result)로 이어 가는 평이한 서술.
+
+### §1.1–1.3 (2026-09-17 재작성본 기준 핵심 문장)
+- "Landscape architecture and urban planning have long organised space around visual elements."
+- "Whether a public space is used for staying and social activity is not determined by visual conditions alone."
+- "Meeting a noise standard does not guarantee that a space will become one where people stay and interact."
+- "Most outcome variables in this literature are perceptual ratings, such as pleasantness, appropriateness, restoration, annoyance and preference, recorded by questionnaire."
+- "In this review, observable behaviour refers to actions that can be recorded externally rather than perceptions or appraisals; self-reported data are included when they describe the behaviour itself (Section 2.2)."
+- "Only 19% of studies in the corpus used field or natural experimental designs (Section 3.2)."
+- 용어: annoyance = 성가심도(사용자 확정, "짜증도" 금지) · pleasantness / eventfulness 는 영문 그대로
 
 ### §2.4 (AI 사용 공개 — 2026-09-16 사용자 확정: 원고 전체에서 간결하게 한 번만)
 - "Screening and data extraction (Section 2.5) were performed by a single reviewer who verified AI-assisted outputs."
 - ⚠️ 이 한 문장은 지우지 말 것 — 실제 절차이며 PRISMA 2020 item 8 과 공개 OSF 등록(AI 보조 스크리닝)에 대응한다.
   한계 절은 "…performed by a single reviewer rather than two independent reviewers (Section 2.4)"로 지시만 한다.
 
-### §1.4–1.6
-- "As the literature was examined, a second pathway became apparent."
-- "Here, activity and occupancy are treated as antecedents and the acoustic environment or soundscape as an outcome."
-- "This pattern suggests that collective and sustained forms of activity are already being studied as generators of the acoustic environment…"
-- "The contribution here is to bring these strands together within a systematic behavioural evidence base and to quantify the reciprocal evidence structure."
-- "Such findings are relevant context, but they cannot by themselves establish behavioural effects."
-- "…self-reported intention or perception should not automatically be interpreted as equivalent to observed behaviour."
-- RQ4: "What planning actions can reasonably be inferred from this evidence, and how strong is the planning evidence supporting each action?"
-- "We therefore distinguish empirical effect estimates from planning recommendations and avoid treating statistical significance as equivalent to prescriptive certainty."
+### §1.4–1.6 (2026-09-17 재작성본 기준)
+- "The dominant framing treats sound as the exposure and behaviour as the outcome."
+- "Of the 187 records whose direction could be determined, 74 (40%) were in the reverse direction (Section 3.5)."
+- "This suggests that collective and sustained activities are already studied as sources of the acoustic environment, although they have received less attention in the field's usual framing."
+- "Such findings are relevant background, but they cannot by themselves establish behavioural effects."
+- RQ3: "How has behavioural measurement changed over time, and do newer sensing methods replace earlier methods or are they used alongside them?"
+- RQ4: "What planning actions can reasonably be derived from this evidence, and how strong is the evidence supporting each action?"
+- "We therefore present effect estimates from the meta-analyses separately from the planning recommendations derived from them, and a statistically significant result is not treated as certainty for a design prescription."
 
 ### §4.1
 - "We define the conceptual framework shown in Fig. 8 as a reciprocal evidence framework rather than as proof of a closed causal feedback loop."

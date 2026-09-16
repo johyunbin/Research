@@ -51,7 +51,7 @@ EN = {
              "re-appraised on complete text", "**Yes** — 7 items and 4 tiers changed"),
     "D5-4": ("Four cluster-membership judgements on newly retrieved studies, including one "
              "exclusion that would have strengthened the result",
-             "**Yes** — see §2.7(4)"),
+             "**Yes** — see Section 2.7(4)"),
     "D5-5": ("Two publication pairs share samples; one member of each pair admitted to any pool",
              "Prevents double-counting"),
     "D5-6": ("Result narrative revised after the social-interaction cluster crossed p = .05",

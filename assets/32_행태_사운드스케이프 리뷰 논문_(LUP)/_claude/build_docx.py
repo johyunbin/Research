@@ -25,7 +25,8 @@ ROOT = os.path.dirname(BASE)
 SRC = os.path.join(ROOT, "01_논문작업",
                    sys.argv[1] if len(sys.argv) > 1 else "Manuscript_KO.md")
 FIGDIR = os.path.join(BASE, "figures")
-TEMPLATE = os.path.join(BASE, "templates", "Manuscript_KO_format_20260917.docx")
+TEMPLATE = os.path.join(BASE, "templates", "Manuscript_KO_format_20260917_ver1.docx")
+#   ver1(2026-09-17 서론 점검본): 본문 양쪽 정렬 · 절/소절 제목 앞 빈 줄 — 사용자가 서론에서 직접 고친 서식
 
 # 그림별 삽입 폭(in) — ★ 삽입 폭 = 작화 폭(viz_theme.W_FULL = 6.05 in), 축소 없이 1:1.
 #   그림을 크게 그려 놓고 줄여 넣으면 글자가 4~6 pt 로 떨어진다(구판 실측).
@@ -169,18 +170,28 @@ class Fmt:
         i_decl = at(lambda s: s == "CRediT authorship contribution statement", "선언부 제목")
         i_supp = at(lambda s: s == "Supplementary material", "보충자료 제목")
         i_corr = at(lambda s: s.startswith("*Send correspondence"), "교신저자")
+        i_h1b = at(lambda s: s == "2. Methods", "2수준 절 제목")
         role = {
             "title": 0, "author": 1, "affil": 2, "fm_gap": 3,
             "corr_label": at(lambda s: s == "[Corresponding author]", "교신저자 라벨"),
             "corr": i_corr, "address": i_corr + 1,
             "abs_head": i_abs, "abs_body": i_abs + 1,
             "keywords": at(lambda s: s.startswith("Keywords"), "키워드"),
-            "h1": i_h1, "h2": i_h2, "body": i_h2 + 1,
+            "h1": i_h1, "h2": i_h2,
+            # 본문 견본 = 1.1 아래 양쪽 정렬 문단(사용자가 서론에서 정렬을 바꿨다 — 첫 문단만 보면 놓친다)
+            "body": next((k for k in range(i_h2 + 1, i_h1b) if T[k] and P[k]._p.pPr is not None
+                          and P[k]._p.pPr.find(qn("w:jc")) is not None), None),
+            "head_gap": at(lambda s: s.startswith("1.3 "), "1.3 소절 제목") - 1,
+            "rq": at(lambda s: s.startswith("RQ1."), "연구 질문 목록"),   # 글머리 기호 목록(사용자 2026-09-17)
             "fig_cap": at(lambda s: s.startswith("Fig. 1."), "그림 캡션"),
             "tbl_cap": at(lambda s: s.startswith("Table 1."), "표 캡션"),
             "decl_body": i_decl + 1, "decl_gap": i_decl + 2,
             "ref": at(lambda s: s.startswith("[1] "), "참고문헌"),
         }
+        if role["body"] is None:
+            raise SystemExit("⚠️ 서식 템플릿: 서론에서 양쪽 정렬된 본문 견본을 찾지 못했다")
+        if T[role["head_gap"]]:
+            raise SystemExit("⚠️ 서식 템플릿: 1.3 제목 앞 문단이 빈 줄이 아니다")
         self.pPr, self.rPr = {}, {}
         for k, i in role.items():
             pp = P[i]._p.pPr
@@ -254,6 +265,23 @@ def add_rich(p, text, base, sup=False):
             add_run(p, tok[1:-1], base, sup=sup)
         else:
             add_run(p, tok, base, sup=sup)
+
+
+def _no_gap_needed(doc):
+    """본문 끝이 빈 문단(표 뒤 빈 줄·쪽 나눔)이거나 제목(outlineLvl)이면 제목 앞 빈 줄을 넣지 않는다."""
+    last = doc.element.body.find(qn("w:sectPr")).getprevious()
+    if last is None or last.tag != qn("w:p"):
+        return False
+    if not "".join(last.itertext()).strip():
+        return True
+    return last.find(qn("w:pPr") + "/" + qn("w:outlineLvl")) is not None
+
+
+def heading(doc, F, role, text, gap=True):
+    """절·소절 제목. 앞에 빈 줄을 둔다(사용자 서론 점검본 2026-09-17) — 직전이 빈 줄이면 생략."""
+    if gap and not _no_gap_needed(doc):
+        emit(doc, F, "head_gap")
+    return emit(doc, F, role, text)
 
 
 def emit(doc, F, role, text=""):
@@ -355,15 +383,16 @@ def main():
                 emit(doc, F, "h1", name)
                 mode = "supp"; n_head += 1
             else:
-                if mode == "abstract":              # 서론은 새 쪽에서 시작한다
+                first = mode == "abstract"
+                if first:                           # 서론은 새 쪽에서 시작한다
                     _append_clone(doc, F.brk["intro"])
-                emit(doc, F, "h1", name)
+                heading(doc, F, "h1", name, gap=not first)
                 mode = "body"; n_head += 1
             i += 1
             continue
         if st_ln.startswith("### "):
             n_head += 1
-            emit(doc, F, "h2", st_ln[4:])
+            heading(doc, F, "h2", st_ln[4:])
             i += 1
             continue
         if not st_ln or st_ln in ("---", "***") or SKIP_META.match(st_ln):
@@ -420,6 +449,8 @@ def main():
                 emit(doc, F, "decl_body", txt)
         elif mode == "refs":
             emit(doc, F, "ref", txt)
+        elif re.match(r"^\*\*RQ\d\.\*\*", txt):
+            emit(doc, F, "rq", txt)
         elif CAPTION.match(txt):
             emit(doc, F, "tbl_cap", txt)
         else:
@@ -460,8 +491,11 @@ def main():
     import shutil as _shutil
     for p in _glob.glob(os.path.join(outdir, f"Manuscript_{tag}_*_ver*.docx")):
         if os.path.abspath(p) != os.path.abspath(out):
-            _shutil.move(p, os.path.join(outdir, "old", os.path.basename(p)))
-            print(f"  [old/] ← {os.path.basename(p)}")
+            try:
+                _shutil.move(p, os.path.join(outdir, "old", os.path.basename(p)))
+                print(f"  [old/] ← {os.path.basename(p)}")
+            except PermissionError:
+                print(f"  ⚠️ {os.path.basename(p)} 이 Word 등에서 열려 있어 old/ 이관을 건너뛰었다 — 닫은 뒤 옮길 것")
     print(f"[완료] 문단 {len(doc.paragraphs)} · 표 {n_tbl} · 절제목 {n_head} · 그림 {n_fig}")
     print(f"[저장] {out}")
     return out
