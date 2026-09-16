@@ -19,7 +19,7 @@
 | D4-2 | Reporting | English-language, journal-only restriction retained as registered | No — registered, not a deviation; consequential for interpretation |
 | D5-1 | Citation-tracking branch | Exclusion code for language added (Chinese-language journal indexed with English metadata) | One verdict changed |
 | D5-2 | Citation-tracking branch | Intention-outcome rule stated inconsistently across branch instructions | No — no verdict depended on it |
-| D5-3 | Citation-tracking branch | Full-text extraction cap truncated 13 of 16 citation-tracked studies; all re-appraised on complete text | **Yes** — 7 items and 4 tiers changed |
+| D5-3 | Citation-tracking branch | Full-text extraction cap truncated 13 of 16 citation-tracked studies; all re-appraised on complete text | **Yes** — item ratings changed in 7 studies and tiers in 5 (4 up, 1 down) |
 | D5-4 | Citation-tracking branch | Four cluster-membership judgements on newly retrieved studies, including one exclusion that would have strengthened the result | **Yes** — see Section 2.7(4) |
 | D5-5 | Citation-tracking branch | Two publication pairs share samples; one member of each pair admitted to any pool | Prevents double-counting |
 | D5-6 | Citation-tracking branch | Result narrative revised after the social-interaction cluster crossed p = .05 | **Yes** — claim changed because the result changed |

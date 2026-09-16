@@ -63,13 +63,13 @@ CAPTIONS = {
         "searching. Panel (d) is displayed on the r scale. "
         f"Only social interaction (p = {_pl('social')['p']:.3f}) and the sound–behaviour "
         f"correlation (p = {_pl('correlation')['p']:.3f}) exclude zero, and both do so for the "
-        "mean effect only — the 95% prediction interval includes zero in all four clusters."),
+        "mean effect only; the 95% prediction interval includes zero in all four clusters."),
     "Fig3_EvidenceMap": (
         "Evidence map of behavioural domain by sound source. Cells count studies, and a study "
         "contributes to every cell it covers. Every combination is populated except in the "
         "aircraft-noise column, where three of the five domains are empty and the remaining "
         f"cells hold {_FD['n_aircraft_records']} domain-level records from "
-        f"{_FD['n_aircraft_studies']} studies — the clearest gap given the size of the "
+        f"{_FD['n_aircraft_studies']} studies. This is the clearest gap given the size of the "
         "aircraft-noise health literature."),
     "Fig4_Direction": (
         "Direction of the studied relationship, by behavioural domain. The unit is the "
@@ -77,7 +77,7 @@ CAPTIONS = {
         f"{_FD['direction']['n_directional']} directional records "
         f"({_FD['direction']['pct_reverse_of_directional']}%) run in reverse. Movement and "
         "staying are dominated by forward designs, whereas space use, activity and social "
-        "behaviour approach parity between the two directions — the empirical basis for a "
+        "behaviour approach parity between the two directions, which provides the empirical basis for a "
         "bidirectional framing."),
     "Fig5_Methods": (
         "Behavioural measurement methods over time. Sensing, GPS, video and big-data measurement "
@@ -111,13 +111,13 @@ CAPTIONS = {
         "counted once per country; two studies did not report a country."),
     "Fig8_Quality": (
         "MMAT 2018 appraisal. (a) Grade distribution within each MMAT category. (b) Selected "
-        "items, grouped to show the pattern that drives the Discussion: what the studies report "
-        "well concerns the measurement, and what they do not report concerns the people. Sample "
+        "items grouped by reporting domain. Items on measurement were generally well reported, whereas "
+        "items on participants and sampling were often not reported. Sample "
         f"representativeness was clearly met in {_Q['4.2']['Y']} of {_Q['4.2']['n']} quantitative "
         f"descriptive studies, low non-response bias in {_Q['4.4']['Y']} of {_Q['4.4']['n']}, and "
         f"control of confounding in {_Q['3.4']['Y']} of {_Q['3.4']['n']} non-randomised studies. "
         "The two randomised studies report neither the randomisation procedure, nor baseline "
-        "comparability, nor blinding, so their design cannot be credited at all. Grey means the "
+        "comparability, nor blinding, so none of the design-specific items could be rated as met. Grey means the "
         "information is absent, not that the study is known to be biased. The full 25-item set is "
         "Supplementary S10."),
 }

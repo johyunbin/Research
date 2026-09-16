@@ -48,7 +48,7 @@ EN = {
     "D5-2": ("Intention-outcome rule stated inconsistently across branch instructions",
              "No — no verdict depended on it"),
     "D5-3": ("Full-text extraction cap truncated 13 of 16 citation-tracked studies; all "
-             "re-appraised on complete text", "**Yes** — 7 items and 4 tiers changed"),
+             "re-appraised on complete text", "**Yes** — item ratings changed in 7 studies and tiers in 5 (4 up, 1 down)"),
     "D5-4": ("Four cluster-membership judgements on newly retrieved studies, including one "
              "exclusion that would have strengthened the result",
              "**Yes** — see Section 2.7(4)"),
