@@ -77,6 +77,11 @@
 - "The recent increase reflects a measurement threshold: observable behaviour has become easier to record at scale."
 - "The field therefore has more data than it has manipulation."
 
+### §2.4 (AI 사용 공개 — 2026-09-16 사용자 확정: 원고 전체에서 간결하게 한 번만)
+- "Screening and data extraction (Section 2.5) were performed by a single reviewer who verified AI-assisted outputs."
+- ⚠️ 이 한 문장은 지우지 말 것 — 실제 절차이며 PRISMA 2020 item 8 과 공개 OSF 등록(AI 보조 스크리닝)에 대응한다.
+  한계 절은 "…performed by a single reviewer rather than two independent reviewers (Section 2.4)"로 지시만 한다.
+
 ### §1.4–1.6
 - "As the literature was examined, a second pathway became apparent."
 - "Here, activity and occupancy are treated as antecedents and the acoustic environment or soundscape as an outcome."
