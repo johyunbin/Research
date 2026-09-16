@@ -60,8 +60,8 @@ PANE = [("walking", "(a) Walking speed", "natural sound vs anthropogenic noise",
          "Hedges' $g$   (positive = longer stay)"),
         ("social", "(c) Social interaction", "natural or quiet vs noise",
          "Hedges' $g$   (positive = more interaction)"),
-        ("correlation", "(d) Perception ↔ behaviour", "correlational",
-         "Fisher's $z$   (positive = appraisal tracks behaviour)")]
+        ("correlation", "(d) Sound–behaviour correlation", "acoustic or perceptual measure",
+         "Fisher's $z$   (positive = sound measure and behaviour covary)")]
 # (d) 는 back-transformed r 까지 붙어 x라벨이 길어지므로 축약형을 쓴다
 
 

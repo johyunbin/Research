@@ -65,7 +65,7 @@ CAPTIONS = {
         "random-effects weight (printed with each effect and its 95% CI in the right-hand "
         "columns); diamonds are pooled estimates; triangles mark studies retrieved by citation "
         "searching. Panel (d) is displayed on the r scale. "
-        f"Only social interaction (p = {_pl('social')['p']:.3f}) and the perception–behaviour "
+        f"Only social interaction (p = {_pl('social')['p']:.3f}) and the sound–behaviour "
         f"correlation (p = {_pl('correlation')['p']:.3f}) exclude zero, and both do so for the "
         "mean effect only — the 95% prediction interval includes zero in all four clusters."),
     "Fig3_EvidenceMap": (

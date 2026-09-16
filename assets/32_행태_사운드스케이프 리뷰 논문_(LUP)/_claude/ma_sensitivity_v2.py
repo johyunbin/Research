@@ -203,12 +203,13 @@ def main():
         return None
 
     L.append("\n---\n\n## 판정\n\n")
+    m1 = get("MA1 보행속도", "주분석")
     m1low = get("MA1 보행속도", "저품질 제외")
     m3 = get("MA3 사회적 상호작용", "주분석")
     m3db = get("MA3 사회적 상호작용", "인용추적 제외")
     m4 = get("MA4 지각-행태 상관", "주분석")
     m4db = get("MA4 지각-행태 상관", "인용추적 제외")
-    L.append(f"1. **MA1은 저품질을 빼면 k={m1low['k']}** — 기여 4효과가 전부 MMAT low라 "
+    L.append(f"1. **MA1은 저품질을 빼면 k={m1low['k']}** — 기여 {m1['k']}효과가 전부 MMAT low라 "
              "풀링이 성립하지 않는다. 이 리뷰의 가장 큰 한계이며 은폐하지 않고 보고한다.\n")
     if m3 and m3db:
         L.append(f"2. **MA3의 유의성은 인용추적에 의존한다** — 인용추적분(CT0025)을 빼면 "

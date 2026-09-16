@@ -136,6 +136,21 @@ def main():
         if not re.search(rf"\bk\b[^\n]{{0,12}}=\s*{p['k']}\b|\|\s*{p['k']}\s*\|", ms):
             ma_bad.append(f"{nm} k={p['k']} — 원고에 없음")
 
+    # leave-one-out 값도 본문에 그대로 인용되므로 S8 산출과 대조한다.
+    # (D7 재계산 뒤 §3.4 의 LOO 수치가 구값으로 남아 있던 것을 게이트가 적발 — 2026-09-16)
+    sens = rd(os.path.join(MA, "ma_sensitivity_v2.csv"))
+    loo = [r for r in sens if r["analysis"].startswith("LOO")]
+    for r in loo:
+        if r["cluster"].startswith("MA3"):
+            g, pv = f"{abs(float(r['est'])):.3f}", f"{float(r['p']):.3f}".lstrip("0")
+            if not re.search(rf"{re.escape(g)}\(\*p\* = {re.escape(pv)}\)", ms):
+                ma_bad.append(f"MA3 {r['analysis']} g={g} p={pv} — 원고에 없음")
+    rs = [float(r["r_back"]) for r in loo if r["cluster"].startswith("MA4") and r["r_back"]]
+    if rs:
+        lo, hi = f"{min(rs):.3f}".lstrip("0"), f"{max(rs):.3f}".lstrip("0")
+        if not re.search(rf"\*r\* = {re.escape(lo)} ~ {re.escape(hi)}", ms):
+            ma_bad.append(f"MA4 LOO r 범위 {lo} ~ {hi} — 원고에 없음")
+
     print(f"=== 원고 수치 검증 — {os.path.basename(ms_path)} ===\n")
     print(f"데이터 산출값이 원고에 존재: {len(ok)} / 누락 {len(bad)}")
     for name, v in bad:

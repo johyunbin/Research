@@ -96,7 +96,7 @@ def main():
         corr.append(dict(uid=u, g=float(new[u]["g"]), v=float(new[u]["v"])))
 
     CL = [("MA1 walking speed", walk, "g"), ("MA2 staying", stay, "g"),
-          ("MA3 social interaction", soc, "g"), ("MA4 perception–behaviour", corr, "z")]
+          ("MA3 social interaction", soc, "g"), ("MA4 sound–behaviour correlation", corr, "z")]
 
     rows, L = [], []
     # ⚠️ 서술문에 k·I² 를 손으로 박으면 정본이 바뀔 때 문장만 낡는다(실제로 낡았다).

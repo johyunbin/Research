@@ -14,7 +14,7 @@
 | 양방향 증거 구조 | **bidirectional evidence structure** | bidirectional causal relationship |
 | 상호적 증거 구조 / 프레임워크 | **reciprocal evidence structure** / **reciprocal evidence framework** | closed feedback loop, causal loop |
 | 닫힌 인과 피드백 고리 | closed causal feedback loop (부정 문맥에서만) | — |
-| 연관적 증거 기반 (지각–행태 클러스터) | **an associative evidence base** | intervention effect (MA4 에 대해) |
+| 연관적 증거 기반 (소리–행태 상관 클러스터) | **an associative evidence base** | intervention effect (MA4 에 대해) |
 | 종합을 위한 장치 | **a synthesis device** | scale, index |
 | 검증된 서열 행태 척도가 아님 | **not a validated ordinal behavioural scale** | — |
 | 계획 근거 강도 | **planning evidence strength** | confidence, confidence grading, certainty |
@@ -25,7 +25,16 @@
 | 회화 간섭 고려 / 비교 선별 | **speech-interference considerations / comparative site screening** | speech-interference criterion |
 | 관여의 경사 단계 | **avoidance → passing → staying → interacting → appropriating** | avoid / pass / linger / interact / appropriate |
 | 맥락이 두 경로를 조절 | **context moderates both pathways** | — |
-| 사운드스케이프 지각–행태 연관 | **the soundscape-perception–behaviour association** | perception–behaviour effect |
+| 소리–행태 상관 (MA4 클러스터명) | **sound–behaviour correlation** · 표: *Sound–behaviour correlation (acoustic or perceptual measure)* | soundscape perception ↔ behaviour, perception–behaviour association (LAeq·역방향 연구가 섞여 있어 부정확) |
+| 순방향·역방향 경로 | **forward and reverse pathways** | bidirectional relationship (관계가 양방향으로 입증됐다는 뜻으로 읽힘) |
+
+### 제목 (2026-09-16 확정)
+
+**Soundscape and human behaviour in urban open space: a systematic review and meta-analysis of forward and reverse pathways**
+
+- 등록 제목(OSF)은 "…a systematic review of bidirectional relationships"였다. "relationship"은 관계의 존재를 전제하고,
+  본문은 양방향 **증거 구조**만 주장하므로 제목도 검토한 두 경로를 이름만 붙이는 형태로 바꿨다(Abstract 의
+  "forward pathway … reverse pathway"와 같은 어휘).
 
 ## 2. 과잉 주장 완화 — 문장 단위 치환
 

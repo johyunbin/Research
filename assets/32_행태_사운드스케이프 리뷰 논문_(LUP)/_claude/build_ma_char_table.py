@@ -50,7 +50,7 @@ CLUSTERS = [
     ("walking", "Walking speed (Hedges' g; negative = faster under noise)", "g"),
     ("staying", "Staying / dwell time (Hedges' g; positive = longer stay)", "g"),
     ("social", "Social interaction (Hedges' g; positive = more interaction)", "g"),
-    ("correlation", "Soundscape perception and behaviour (r)", "r"),
+    ("correlation", "Sound–behaviour correlation (r; acoustic or perceptual measure, either direction)", "r"),
 ]
 
 
