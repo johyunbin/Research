@@ -115,21 +115,29 @@ def main():
     n_und = sum(1 for r in q if catcode(r["mmat_category"]) == "?")
     # 주석은 패널 오른쪽 아래 빈 공간에 — 제목 줄에 두면 겹친다(실측)
     ax.text(1.0, 0.02, f"n = {len(q)} appraised" +
-            (f" · {n_und} undetermined (scanned original)" if n_und else ""),
+            (f" · {n_und} not categorised" if n_und else ""),
             transform=ax.transAxes, ha="right", va="bottom", fontsize=7.2, color=T.AXIS)
 
     # ── (b) 무엇이 잘 보고되고 무엇이 보고되지 않는가 ────────────────
     # ★ 종전 판은 25문항 전건을 실어 메시지가 묻혔다("Figure 8 이해가 잘 안 된다").
     #   본문이 실제로 논하는 문항만 남기고, **잘 보고된 것 / 보고되지 않은 것**을
-    #   두 묶음으로 갈라 논지를 그림에서 바로 읽히게 한다. 전건은 Supplementary S10.
+    #   두 묶음으로 갈라 논지를 그림에서 바로 읽히게 한다. 전건은 OSF 품질평가 자료.
+    #   2026-09-17: 묶음 이름을 해석("Reported well/poorly")에서 사실(충족 비율 구간)로 바꿨다 —
+    #   구간이 데이터와 어긋나면 아래 검사가 멈춘다.
     ax = axes[1]
     GOOD = [("3.2", "Non-randomised"), ("3.5", "Non-randomised"),
             ("4.1", "Descriptive"), ("1.1", "Qualitative")]
     POOR = [("4.2", "Descriptive"), ("4.4", "Descriptive"),
             ("3.4", "Non-randomised"), ("3.1", "Non-randomised"),
             ("2.1", "RCT"), ("2.2", "RCT"), ("2.4", "RCT")]
-    blocks = [("Reported well — the measurement", GOOD),
-              ("Reported poorly — the people", POOR)]
+    blocks = [("Met in ≥80% of studies", GOOD),
+              ("Met in <50% of studies", POOR)]
+    for keys, ok in ((GOOD, lambda s: s >= 0.8), (POOR, lambda s: s < 0.5)):
+        for k, _ in keys:
+            c = item_v.get(k) or {}
+            share = c.get("Y", 0) / (sum(c.values()) or 1)
+            if not ok(share):
+                raise SystemExit(f"⚠️ MMAT 문항 {k} 충족 비율 {share:.0%} 가 묶음 이름과 맞지 않는다")
 
     rows, ylabels, heads = [], [], []
     slot = 0.0
@@ -175,10 +183,10 @@ def main():
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
     handles = [plt.Rectangle((0, 0), 1, 1, color=c) for c in (YES, CT, NO)]
-    ax.legend(handles, ["Yes — criterion met", "Can't tell — not reported", "No — not met"],
+    ax.legend(handles, ["Yes", "Can't tell", "No"],
               fontsize=7.5, loc="upper center", bbox_to_anchor=(0.5, 1.115), ncol=3,
               handlelength=1.0, columnspacing=1.3)
-    ax.set_title("(b)  Selected MMAT items — full set in Supplementary S10",
+    ax.set_title("(b)  Selected MMAT items",
                  fontsize=9, loc="left", pad=24, fontweight="bold")
 
     # ★ 그림에 제목을 넣지 않는다 — 캡션이 담당한다(저널 관행).

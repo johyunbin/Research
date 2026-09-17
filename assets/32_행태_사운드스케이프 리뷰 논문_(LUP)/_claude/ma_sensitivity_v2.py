@@ -115,9 +115,14 @@ def main():
           ("MA3 사회적 상호작용", soc, False), ("MA4 지각-행태 상관", corr, True)]
 
     out, L = [], []
+    raw = []   # 반올림 전 값 — 원고 Table 3 은 이것을 읽는다(CSV 4자리 → 2·3자리 이중 반올림 방지)
 
     def rec(cluster, name, rows, note, br=False):
         o = pool(rows, br)
+        raw.append(dict(cluster=cluster, analysis=name, pooled=bool(o and o["pooled"]),
+                        studies=[r["uid"] for r in rows],
+                        **({k: o[k] for k in ("k", "est", "lo", "hi", "p", "I2", "r", "r_lo", "r_hi")
+                            if k in o} if o else {"k": 0})))
         out.append(dict(cluster=cluster, analysis=name, k=(o["k"] if o else 0),
                         est=(round(o["est"], 4) if o else ""),
                         lo=(round(o["lo"], 4) if o else ""), hi=(round(o["hi"], 4) if o else ""),
@@ -194,6 +199,9 @@ def main():
         w = csv.DictWriter(f, fieldnames=["cluster", "analysis", "k", "est", "lo", "hi", "p",
                                           "I2", "r_back", "pooled", "studies", "note"])
         w.writeheader(); w.writerows(out)
+    import json
+    with open(os.path.join(MA, "ma_sensitivity_v2_raw.json"), "w", encoding="utf-8") as f:
+        json.dump(raw, f, ensure_ascii=False, indent=1)
 
     # ── 핵심 판정 ──────────────────────────────────────────────────
     def get(cl, an):

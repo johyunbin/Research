@@ -104,20 +104,22 @@ def main():
         country = "; ".join(norm_countries(ext_country[r["uid"]])) or "NR"
         setting = {"lab(outdoor scene)": "laboratory (outdoor scene)",
                    "recreation": "recreation area"}.get(r["setting"], r["setting"])
-        design = {"lab experiment": "laboratory experiment"}.get(r["design"], r["design"])
+        design = {"lab experiment": "laboratory experiment",
+                  "observational": "observation"}.get(r["design"], r["design"])   # Table 1·2 와 같은 말
         out.append((study, country, cap(setting), cap(design),
                     cap(r["behaviour_domain"].replace("space-use", "space use")),
                     cap(r["direction"]), cap(r["quality"])))
     out.sort(key=lambda x: (x[0].lower(), x[0]))
     L += ["## Appendix B. Characteristics of included studies", "",
-          "**Table B1.** Studies included in the review (n = 98). Behavioural domains: movement, staying, "
-          "space use, activity and social interaction; a study can contribute to more than one domain. "
-          "Direction: forward = acoustic environment to behaviour; reverse = behaviour or activity to "
-          "acoustic environment or soundscape; both = both directions examined. MMAT = methodological "
-          "quality grade (Mixed Methods Appraisal Tool 2018). NR = not reported.", "",
+          # 표 제목은 짧게, 정의는 표 아래 주석으로(LUP 예시 Zhang et al. 2025 의 표 구성, 2026-09-17)
+          f"**Table B1.** Studies included in the review (n = {len(out)}).", "",
           "| Study | Country | Setting | Design | Behavioural domain | Direction | MMAT |",
           "|---|---|---|---|---|---|---|"]
     L += [f"| {' | '.join(c.replace('|', '/') for c in row)} |" for row in out]
+    L += ["", "*Note.* A study can contribute to more than one behavioural domain. Direction: forward = "
+          "acoustic environment to behaviour; reverse = behaviour or activity to acoustic environment "
+          "or soundscape; both = both directions examined. MMAT = Mixed Methods Appraisal Tool 2018 "
+          "grade. NR = not reported."]
     text = "\n".join(L) + "\n"
     open(os.path.join(FT, "appendix_ab.md"), "w", encoding="utf-8").write(text)
     print(f"[저장] fulltext/appendix_ab.md · 부록 A 4개 검색식 · 부록 B {len(out)}편")

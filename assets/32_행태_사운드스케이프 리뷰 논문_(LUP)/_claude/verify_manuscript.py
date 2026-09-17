@@ -124,32 +124,46 @@ def main():
     NAME = {"walking": "MA1 walking", "staying": "MA2 staying",
             "social": "MA3 social", "correlation": "MA4 correlation"}
     ma_bad = []
+    # ★ 2026-09-17 표기 변경: 효과크기·신뢰구간은 소수 둘째 자리, CI 는 그림·표와 같은 [하한, 상한],
+    #   p 는 소수 셋째 자리(선행 0 포함). 본문 문장에 "95% CI [..]" 가 그대로 있는지 본다.
+    def f2(x):
+        return f"{x:+.2f}".replace("-", "−")
+
     for key, nm in NAME.items():
         p = fj[key]["pooled"]
-        # 추정치는 부호 표기가 원고마다 다르므로(−/-) 절대값 문자열로 찾는다.
-        # 상관 클러스터는 원고가 역변환 r 로 보고하므로 둘 중 하나만 있으면 통과.
-        cands = [f"{abs(p['est']):.3f}"]
+        est, lo, hi = p["est"], p["lo"], p["hi"]
         if fj[key].get("back_r"):
-            cands += [f"{abs(math.tanh(p['est'])):.3f}", f"{abs(math.tanh(p['est'])):.2f}"]
-        if not any(re.search(re.escape(c), ms) for c in cands):
-            ma_bad.append(f"{nm} est={cands[0]} — 원고에 없음")
+            est, lo, hi = math.tanh(est), math.tanh(lo), math.tanh(hi)
+        want = f"= {f2(est)}, 95% CI [{f2(lo)}, {f2(hi)}]"
+        if want not in ms:
+            ma_bad.append(f"{nm} '{want}' — 원고 본문에 없음")
+        if f"*p* = {p['p']:.3f}" not in ms:
+            ma_bad.append(f"{nm} p = {p['p']:.3f} — 원고 본문에 없음")
         if not re.search(rf"\bk\b[^\n]{{0,12}}=\s*{p['k']}\b|\|\s*{p['k']}\s*\|", ms):
             ma_bad.append(f"{nm} k={p['k']} — 원고에 없음")
 
-    # leave-one-out 값도 본문에 그대로 인용되므로 S8 산출과 대조한다.
-    # (D7 재계산 뒤 §3.4 의 LOO 수치가 구값으로 남아 있던 것을 게이트가 적발 — 2026-09-16)
-    sens = rd(os.path.join(MA, "ma_sensitivity_v2.csv"))
-    loo = [r for r in sens if r["analysis"].startswith("LOO")]
-    for r in loo:
-        if r["cluster"].startswith("MA3"):
-            g, pv = f"{abs(float(r['est'])):.3f}", f"{float(r['p']):.3f}".lstrip("0")
-            if not re.search(rf"{re.escape(g)}\(\*p\* = {re.escape(pv)}\)", ms):
-                ma_bad.append(f"MA3 {r['analysis']} g={g} p={pv} — 원고에 없음")
-    rs = [float(r["r_back"]) for r in loo if r["cluster"].startswith("MA4") and r["r_back"]]
-    if rs:
-        lo, hi = f"{min(rs):.3f}".lstrip("0"), f"{max(rs):.3f}".lstrip("0")
-        if not re.search(rf"\*r\* = {re.escape(lo)} ~ {re.escape(hi)}", ms):
-            ma_bad.append(f"MA4 LOO r 범위 {lo} ~ {hi} — 원고에 없음")
+    # leave-one-out: Table 3 의 범위 행과 3.5절 문장을 반올림 전 값(ma_sensitivity_v2_raw.json)과 대조
+    # (D7 재계산 뒤 LOO 수치가 구값으로 남아 있던 것을 게이트가 적발한 이력 — 2026-09-16)
+    import json as _json
+    raw = _json.load(open(os.path.join(MA, "ma_sensitivity_v2_raw.json"), encoding="utf-8"))
+    for pre in ("MA1", "MA2", "MA3", "MA4"):
+        loo = [r for r in raw if r["cluster"].startswith(pre) and r["analysis"].startswith("LOO")]
+        es = [r["r"] if "r" in r else r["est"] for r in loo]
+        ps = [r["p"] for r in loo]
+        row = f"{f2(min(es))} to {f2(max(es))} | — | {min(ps):.3f} to {max(ps):.3f}"
+        if row not in ms:
+            ma_bad.append(f"{pre} LOO 범위 '{row}' — Table 3 에 없음")
+    m3 = sorted([r for r in raw if r["cluster"].startswith("MA3") and r["analysis"].startswith("LOO")],
+                key=lambda r: r["est"])
+    low = f"*g* = {f2(m3[0]['est'])}, *p* = {m3[0]['p']:.3f}"
+    if low not in ms:
+        ma_bad.append(f"MA3 LOO 최저 '{low}' — 3.5절에 없음")
+
+    # 원고의 Table 2·3 이 생성본(build_ma_char_table.py · build_ma_sensitivity_table.py)과 같은가
+    for name, fn in (("Table 2", "ma_char_table.md"), ("Table 3", "ma_sensitivity_table.md")):
+        gen = open(os.path.join(FT, fn), encoding="utf-8").read().strip()
+        if gen not in ms:
+            ma_bad.append(f"{name} 이 생성본 fulltext/{fn} 과 다르다 — 스크립트를 다시 돌려 붙여 넣을 것")
 
     print(f"=== 원고 수치 검증 — {os.path.basename(ms_path)} ===\n")
     print(f"데이터 산출값이 원고에 존재: {len(ok)} / 누락 {len(bad)}")

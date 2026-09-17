@@ -138,9 +138,9 @@ def main():
             return sum(yr[y].get(key, 0) for y in years if y < CUT)
         return yr[int(slot)].get(key, 0)
 
-    cats = [("forward", T.BLUE, "forward"),
-            ("both", T.NEUT, "both"),
-            ("reverse", T.TERRA, "reverse")]
+    cats = [("forward", T.BLUE, "Forward"),
+            ("both", T.NEUT, "Both"),
+            ("reverse", T.TERRA, "Reverse")]
     x = np.arange(len(span), dtype=float)
     x[1:] += 0.55                     # 압축 칸과 연도축 사이 시각적 분리
     bottom = np.zeros(len(span))
@@ -160,11 +160,8 @@ def main():
     ax.set_xlim(-0.8, x[-1] + 0.8)
     ax.legend(loc="upper left", fontsize=7.5, ncol=1, handlelength=1.0,
               borderpad=0.2, labelspacing=0.35)
-    ax.set_title("(b)  Year × direction", fontsize=9, loc="left", pad=8,
+    ax.set_title("(b)  Year and direction", fontsize=9, loc="left", pad=8,
                  fontweight="bold")
-    recent = sum(sum(yr[y].values()) for y in years if y >= 2020)
-    ax.text(1.0, 1.035, f"{recent/tot*100:.0f}% since 2020",
-            transform=ax.transAxes, ha="right", va="bottom", fontsize=7.2, color=T.AXIS)
 
     fig.subplots_adjust(left=0.155, right=0.985, top=0.90, bottom=0.09)
     for ext in ("png", "pdf"):
@@ -177,6 +174,7 @@ def main():
     if unmapped:
         print(f"  ⚠️ 국가 파싱 실패 원본값: {dict(unmapped)}")
     n_pre = sum(sum(yr[y].values()) for y in years if y < CUT)
+    recent = sum(sum(yr[y].values()) for y in years if y >= 2020)
     print(f"  연도 {min(years)}~{y1} · 2009년 이전 {n_pre}편 압축 · 2020년 이후 {recent}편")
 
 

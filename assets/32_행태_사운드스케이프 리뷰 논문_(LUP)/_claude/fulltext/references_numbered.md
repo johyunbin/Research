@@ -36,60 +36,74 @@
 
 [19] Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ. 2021:n71. doi:10.1136/bmj.n71
 
-[20] Hong QN, Fàbregues S, Bartlett G, Boardman F, Cargo M, Dagenais P, et al. The Mixed Methods Appraisal Tool (MMAT) version 2018 for information professionals and researchers. Education for Information. 2018;34:285-291. doi:10.3233/efi-180221
+[20] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
 
-[21] Hedges LV. Distribution Theory for Glass's Estimator of Effect size and Related Estimators. Journal of Educational Statistics. 1981;6:107-128. doi:10.3102/10769986006002107
+[21] Hong QN, Fàbregues S, Bartlett G, Boardman F, Cargo M, Dagenais P, et al. The Mixed Methods Appraisal Tool (MMAT) version 2018 for information professionals and researchers. Education for Information. 2018;34:285-291. doi:10.3233/efi-180221
 
-[22] Chinn S. A simple method for converting an odds ratio to effect size for use in meta-analysis. Statistics in Medicine. 2000;19:3127-3131. doi:10.1002/1097-0258(20001130)19:22<3127::aid-sim784>3.0.co;2-m
+[22] Hedges LV. Distribution Theory for Glass's Estimator of Effect size and Related Estimators. Journal of Educational Statistics. 1981;6:107-128. doi:10.3102/10769986006002107
 
-[23] Hartung J, Knapp G. On tests of the overall treatment effect in meta‐analysis with normally distributed responses. Statistics in Medicine. 2001;20:1771-1782. doi:10.1002/sim.791
+[23] Chinn S. A simple method for converting an odds ratio to effect size for use in meta-analysis. Statistics in Medicine. 2000;19:3127-3131. doi:10.1002/1097-0258(20001130)19:22<3127::aid-sim784>3.0.co;2-m
 
-[24] Higgins JPT, Thompson SG, Spiegelhalter DJ. A Re-Evaluation of Random-Effects Meta-Analysis. Journal of the Royal Statistical Society Series A: Statistics in Society. 2009;172:137-159. doi:10.1111/j.1467-985x.2008.00552.x
+[24] Hartung J, Knapp G. On tests of the overall treatment effect in meta‐analysis with normally distributed responses. Statistics in Medicine. 2001;20:1771-1782. doi:10.1002/sim.791
 
-[25] Sterne JAC, Sutton AJ, Ioannidis JPA, Terrin N, Jones DR, Lau J, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ. 2011;343:d4002. doi:10.1136/bmj.d4002
+[25] Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327:557-560. doi:10.1136/bmj.327.7414.557
 
-[26] Franěk M, van Noorden L, Režný L. Tempo and walking speed with music in the urban context. Frontiers in Psychology. 2014;5. doi:10.3389/fpsyg.2014.01361
+[26] Higgins JPT, Thompson SG, Spiegelhalter DJ. A Re-Evaluation of Random-Effects Meta-Analysis. Journal of the Royal Statistical Society Series A: Statistics in Society. 2009;172:137-159. doi:10.1111/j.1467-985x.2008.00552.x
 
-[27] Franěk M, Režný L. Environmental Features Influence Walking Speed: The Effect of Urban Greenery. Land. 2021;10:459. doi:10.3390/land10050459
+[27] Sterne JAC, Sutton AJ, Ioannidis JPA, Terrin N, Jones DR, Lau J, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ. 2011;343:d4002. doi:10.1136/bmj.d4002
 
-[28] Schrapel M, Happe J, Rohs M. EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas. i-com. 2022;21:219-237. doi:10.1515/icom-2022-0020
+[28] Franěk M, Režný L, Šefara D, Cabal J. Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed. International Journal of Environmental Research and Public Health. 2018;15:752. doi:10.3390/ijerph15040752
 
-[29] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
+[29] Franěk M, Režný L, Šefara D, Cabal J. Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons. PeerJ. 2019;7:e7711. doi:10.7717/peerj.7711
 
-[30] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
+[30] Berkouk D, Bouzir TAK, Maffei L, Masullo M. Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?. Sustainability. 2020;12:4619. doi:10.3390/su12114619
 
-[31] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
+[31] Franěk M, van Noorden L, Režný L. Tempo and walking speed with music in the urban context. Frontiers in Psychology. 2014;5. doi:10.3389/fpsyg.2014.01361
 
-[32] Chen X, Kang J, Wang M. The impact of the community's sound environment on social interactions among residents. Building and Environment. 2024;266:112094. doi:10.1016/j.buildenv.2024.112094
+[32] Franěk M, Režný L. Environmental Features Influence Walking Speed: The Effect of Urban Greenery. Land. 2021;10:459. doi:10.3390/land10050459
 
-[33] Franěk M, Režný L, Šefara D, Cabal J. Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed. International Journal of Environmental Research and Public Health. 2018;15:752. doi:10.3390/ijerph15040752
+[33] Schrapel M, Happe J, Rohs M. EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas. i-com. 2022;21:219-237. doi:10.1515/icom-2022-0020
 
-[34] Franěk M, Režný L, Šefara D, Cabal J. Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons. PeerJ. 2019;7:e7711. doi:10.7717/peerj.7711
+[34] Aletta F, Lepore F, Kostara-Konstantinou E, Kang J, Astolfi A. An Experimental Study on the Influence of Soundscapes on People’s Behaviour in an Open Public Space. Applied Sciences. 2016;6:276. doi:10.3390/app6100276
 
-[35] Berkouk D, Bouzir TAK, Maffei L, Masullo M. Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?. Sustainability. 2020;12:4619. doi:10.3390/su12114619
+[35] Ba M, Kang J, Li Z. The effects of sounds and food odour on crowd behaviours in urban public open spaces. Building and Environment. 2020;182:107104. doi:10.1016/j.buildenv.2020.107104
 
-[36] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
+[36] Fu Y, Zhang N, Gao Q, Dai H, Chen Q, Gao W. Research on the Effect of Rural Composite Environments on the Spatiotemporal Behavior and Perception of the Elderly: A Case Study of Qingdao, China. Buildings. 2026;16:1973. doi:10.3390/buildings16101973
 
-[37] Aletta F, Lepore F, Kostara-Konstantinou E, Kang J, Astolfi A. An Experimental Study on the Influence of Soundscapes on People’s Behaviour in an Open Public Space. Applied Sciences. 2016;6:276. doi:10.3390/app6100276
+[37] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
 
-[38] Montes González D, Barrigón Morillas JM, Rey-Gozalo G. Effects of noise on pedestrians in urban environments where road traffic is the main source of sound. Science of The Total Environment. 2023;857:159406. doi:10.1016/j.scitotenv.2022.159406
+[38] Chen X, Kang J, Wang M. The impact of the community's sound environment on social interactions among residents. Building and Environment. 2024;266:112094. doi:10.1016/j.buildenv.2024.112094
 
-[39] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+[39] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
 
-[40] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
+[40] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
 
-[41] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
+[41] Guo X, Jiang SY, Liu J, Chen Z, Hong XC. Understanding the Role of Visitor Behavior in Soundscape Restorative Experiences in Urban Parks. Forests. 2024;15:1751. doi:10.3390/f15101751
 
-[42] Stansfield C, Dehdarirad H, Thomas J, Mathew S, O'Mara‐Eves A. Analyzing the Utility of OpenAlex to Identify Studies for Systematic Reviews: Methods and a Case Study. Cochrane Evidence Synthesis and Methods. 2025;3. doi:10.1002/cesm.70038
+[42] Bao Y, Gao M, Zhao C, Zhou X. White Spaces Unveiled: Investigating the Restorative Potential of Environmentally Perceived Characteristics in Urban Parks during Winter. Forests. 2023;14:2329. doi:10.3390/f14122329
 
-[43] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
+[43] Montes González D, Barrigón Morillas JM, Rey-Gozalo G. Effects of noise on pedestrians in urban environments where road traffic is the main source of sound. Science of The Total Environment. 2023;857:159406. doi:10.1016/j.scitotenv.2022.159406
 
-[44] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
+[44] Cao J, Kang J. The influence of companion factors on soundscape evaluations in urban public spaces. Sustainable Cities and Society. 2021;69:102860. doi:10.1016/j.scs.2021.102860
 
-[45] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
+[45] Zhou L, Yu W, Zhang Y, Zhou W, Wu T. Effect of soundscapes and crowd density on economic behavior in commercial streets. Applied Acoustics. 2026;242:111101. doi:10.1016/j.apacoust.2025.111101
 
-[46] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
+[46] Mansouri Y, Matallah ME, Attar A, Mahar WA, Attia S. The Impact of Soundscape on Pedestrian Comfort, Perception and Walking Experience in Béjaïa, Algeria. Acoustics. 2025;7:64. doi:10.3390/acoustics7040064
 
-[47] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+[47] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
 
-[48] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
+[48] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+
+[49] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
+
+[50] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
+
+[51] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
+
+[52] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
+
+[53] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
+
+[54] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+
+[55] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3

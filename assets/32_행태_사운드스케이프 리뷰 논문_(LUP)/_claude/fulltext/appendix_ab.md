@@ -20,7 +20,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 
 ## Appendix B. Characteristics of included studies
 
-**Table B1.** Studies included in the review (n = 98). Behavioural domains: movement, staying, space use, activity and social interaction; a study can contribute to more than one domain. Direction: forward = acoustic environment to behaviour; reverse = behaviour or activity to acoustic environment or soundscape; both = both directions examined. MMAT = methodological quality grade (Mixed Methods Appraisal Tool 2018). NR = not reported.
+**Table B1.** Studies included in the review (n = 98).
 
 | Study | Country | Setting | Design | Behavioural domain | Direction | MMAT |
 |---|---|---|---|---|---|---|
@@ -33,13 +33,13 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Ba et al. (2023) | China | Street | Field experiment | Movement | Forward | Low |
 | Ba et al. (2025) | China | Waterfront | Field experiment | Movement; staying | Forward | Moderate |
 | Bao et al. (2023) | China | Park | Survey | Staying; space use | Reverse | Moderate |
-| Berkouk et al. (2020) | Algeria | Street | Observational | Movement | Forward | Low |
+| Berkouk et al. (2020) | Algeria | Street | Observation | Movement | Forward | Low |
 | Bild et al. (2018) | Netherlands | Mixed | Mixed | Activity; social; space use | Reverse | Moderate |
 | Bild et al. (2019) | Netherlands | Park | Qualitative | Activity; social; staying | Reverse | High |
 | Bishop & Marshall (2014) | Australia | Square | Mixed | Movement; staying; space use | Forward | Low |
 | Boles & Hayward (1978) | NR | Street | NR | Movement; social | Forward | Low |
 | Burrows et al. (2018) | Ireland | Park | Survey | Space use; activity | Forward | Low |
-| Calafiore & Tong (2025) | Australia; United Kingdom | Street | Observational | Movement | Forward | High |
+| Calafiore & Tong (2025) | Australia; United Kingdom | Street | Observation | Movement | Forward | High |
 | Cao & Kang (2021) | China; United Kingdom | Square | Survey | Social; activity | Reverse | Moderate |
 | Cerwén et al. (2016) | Sweden | Campus | Qualitative | Space use; staying; movement; social | Forward | Moderate |
 | Chen & Kang (2023) | China | Park | Field experiment | Social | Forward | Moderate |
@@ -57,8 +57,8 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Franěk et al. (2019) | Czechia | Street | Field experiment | Movement | Forward | Low |
 | Fu et al. (2023) | China | Park | Mixed | Activity; movement; space use | Reverse | Moderate |
 | Fu et al. (2026) | China | Mixed | Mixed | Staying; space use; social | Forward | Moderate |
-| Gao & Fang (2025) | Australia | Street | Observational | Movement; activity | Forward | Low |
-| Gao & Fang (2026) | China | Street | Observational | Movement; space use | Forward | Low |
+| Gao & Fang (2025) | Australia | Street | Observation | Movement; activity | Forward | Low |
+| Gao & Fang (2026) | China | Street | Observation | Movement; space use | Forward | Low |
 | Gidlöf-Gunnarsson & Öhrström (2007) | Sweden | Residential | Survey | Activity; space use | Forward | Moderate |
 | Guo et al. (2022) | China | Park | Survey | Space use; activity | Reverse | Moderate |
 | Guo et al. (2024) | China | Park | Survey | Staying; activity | Both | Moderate |
@@ -66,11 +66,11 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Herrmann-Lunecke et al. (2021) | Chile | Street | Qualitative | Movement; activity | Forward | High |
 | Hong & Jeon (2020) | South Korea | Street | Mixed | Space use | Reverse | Moderate |
 | Hosseini & Kowkabi (2023) | Iran | Street | Survey | Space use; social | Forward | Low |
-| Huang et al. (2023) | Finland | Street | Observational | Movement; activity | Forward | Moderate |
-| Hüg et al. (2026) | Argentina | Street | Observational | Movement; social | Forward | Moderate |
+| Huang et al. (2023) | Finland | Street | Observation | Movement; activity | Forward | Moderate |
+| Hüg et al. (2026) | Argentina | Street | Observation | Movement; social | Forward | Moderate |
 | Jin et al. (2024) | China | Park | Mixed | Space use; activity | Forward | Low |
 | Jo & Jeon (2020) | France | Laboratory (outdoor scene) | Laboratory experiment | Social; staying; activity; space use | Reverse | Moderate |
-| Joo et al. (2024) | United States | Park | Observational | Space use; activity | Forward | Low |
+| Joo et al. (2024) | United States | Park | Observation | Space use; activity | Forward | Low |
 | Kim & Shin (2021) | South Korea | Campus | Field experiment | Activity; movement; social | Reverse | Moderate |
 | Krog et al. (2010) | Norway | Recreation area | Quasi-experiment | Space use; activity | Forward | Moderate |
 | Lai et al. (2024) | China | Park | Mixed | Staying; movement; activity | Reverse | High |
@@ -90,7 +90,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Meng et al. (2018) | China | Square | Field experiment | Movement; staying; space use | Forward | High |
 | Merlino et al. (2023) | NR | Street | Qualitative | Movement; social | Forward | High |
 | Montes González et al. (2023) | Spain | Street | Survey | Social | Forward | Moderate |
-| Morillas et al. (2024) | Spain | Street | Observational | Social | Forward | Moderate |
+| Morillas et al. (2024) | Spain | Street | Observation | Social | Forward | Moderate |
 | Moser (1988) | France | Street | Field experiment | Social | Forward | High |
 | Nguyen et al. (2025) | Japan; Vietnam | Street | Mixed | Activity; social | Reverse | Low |
 | Ozturk et al. (2026) | Germany; Ireland; Italy; Switzerland; Türkiye; United Kingdom | Street | Qualitative | Movement; social; space use; staying | Forward | High |
@@ -106,9 +106,9 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Steele et al. (2019) | Canada | Park | Mixed | Staying; social; space use | Both | High |
 | Sun et al. (2026) | China | Waterfront | Qualitative | Movement; staying; space use; social | Forward | High |
 | Sun et al. (2026) | Netherlands | Laboratory (outdoor scene) | Laboratory experiment | Movement | Forward | High |
-| Takada et al. (2022) | Taiwan | Street | Observational | Social; movement | Reverse | Moderate |
+| Takada et al. (2022) | Taiwan | Street | Observation | Social; movement | Reverse | Moderate |
 | Tarlao et al. (2021) | Canada | Mixed | Survey | Social; space use | Reverse | Moderate |
-| Toutouh & Alba (2022) | Spain | Campus | Observational | Movement; space use | Reverse | Low |
+| Toutouh & Alba (2022) | Spain | Campus | Observation | Movement; space use | Reverse | Low |
 | Uebel et al. (2022) | Australia | Park | Survey | Space use; activity; social | Reverse | Moderate |
 | Wall et al. (2004) | United States | Street | Field experiment | Movement | Forward | Moderate |
 | Wang & Xiao (2024) | China | Park | Mixed | Staying; social; activity; space use | Both | Low |
@@ -118,7 +118,9 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Yin et al. (2023) | China | Park | Mixed | Space use; activity; staying | Forward | Low |
 | Yu & Kang (2010) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Mixed | Mixed | Space use; activity | Reverse | Low |
 | Yu (2025) | NR | Park | Mixed | Space use; activity | Forward | Low |
-| Zhang et al. (2025) | China | Street | Observational | Movement; activity | Forward | Moderate |
+| Zhang et al. (2025) | China | Street | Observation | Movement; activity | Forward | Moderate |
 | Zhao et al. (2018) | China | Street | Mixed | Social; space use | Reverse | Moderate |
-| Zhao et al. (2022) | China | Park | Observational | Activity; space use | Reverse | Moderate |
+| Zhao et al. (2022) | China | Park | Observation | Activity; space use | Reverse | Moderate |
 | Zhou et al. (2026) | China | Street | Mixed | Staying; space use | Forward | Low |
+
+*Note.* A study can contribute to more than one behavioural domain. Direction: forward = acoustic environment to behaviour; reverse = behaviour or activity to acoustic environment or soundscape; both = both directions examined. MMAT = Mixed Methods Appraisal Tool 2018 grade. NR = not reported.

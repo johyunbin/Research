@@ -45,78 +45,66 @@ def _pl(k):
     return _MA[k]["pooled"]
 
 
+# ★ 2026-09-17 LUP 리뷰 예시(Zhang et al. 2025) 기준으로 재작성: 캡션은 그림이 무엇을 보여 주는지와
+#   읽는 법(기호·색·단위·집계 규칙)만 쓴다. 결과 해석이나 강조("the clearest gap", "provides the
+#   empirical basis")는 본문 결과·논의 절의 몫이라 캡션에서 뺐다.
 CAPTIONS = {
     "Fig1_PRISMA": (
         "PRISMA 2020 flow diagram of study identification, screening and inclusion. Other methods "
         f"comprised backward and forward citation searching of the {_FD['prisma']['ct']['seeds']} "
-        "studies included or retained for sensitivity analysis through database searching and a "
-        "supplementary OpenAlex search for records not indexed in the three databases. Records from "
+        "studies included or retained for sensitivity analysis through database searching, and a "
+        "supplementary search of OpenAlex for records not indexed in the three databases. Records from "
         "citation searching were prefiltered by an automated title-level filter before screening."),
     "Fig2_Forest": (
-        "Pooled estimates for four behavioural clusters, from random-effects REML with the "
-        "Hartung–Knapp adjustment. Squares are individual effects, sized by their "
-        "random-effects weight (printed with each effect and its 95% CI in the right-hand "
-        "columns); diamonds are pooled estimates; triangles mark studies retrieved by citation "
-        "searching. Panel (d) is displayed on the r scale. "
-        f"Only social interaction (p = {_pl('social')['p']:.3f}) and the sound–behaviour "
-        f"correlation (p = {_pl('correlation')['p']:.3f}) exclude zero, and both do so for the "
-        "mean effect only; the 95% prediction interval includes zero in all four clusters."),
+        "Forest plots of the four behavioural clusters: (a) walking speed, (b) staying or dwell time, "
+        "(c) social interaction and (d) sound–behaviour correlation. Squares show the effect size of "
+        "each study, and their size reflects the study's weight in the random-effects model (REML with "
+        "the Hartung–Knapp adjustment); horizontal lines are 95% confidence intervals. Diamonds show the "
+        "pooled estimate and its 95% confidence interval, and the dashed vertical line marks no effect. "
+        "The columns on the right give each effect size with its 95% confidence interval and its "
+        "weight (%). "
+        "Effect sizes are Hedges' g in panels (a)–(c) and r in panel (d). Triangles mark studies "
+        "retrieved by citation searching. Heterogeneity (I² and Q) and the p value of the pooled effect "
+        "are given below each panel; prediction intervals and sensitivity analyses are given in Table 3."),
     "Fig3_EvidenceMap": (
-        "Evidence map of behavioural domain by sound source. Cells count studies, and a study "
-        "contributes to every cell it covers. Every combination is populated except in the "
-        "aircraft-noise column, where three of the five domains are empty and the remaining "
-        f"cells hold {_FD['n_aircraft_records']} domain-level records from "
-        f"{_FD['n_aircraft_studies']} studies. This is the clearest gap given the size of the "
-        "aircraft-noise health literature."),
+        "Evidence map of behavioural domain by sound source. Each cell gives the number of included "
+        "studies that examined the combination, and darker shading indicates more studies. A study "
+        "contributes to every combination it examined, so cell counts do not sum to the number of "
+        "included studies."),
     "Fig4_Direction": (
-        "Direction of the studied relationship, by behavioural domain. The unit is the "
-        f"study × behavioural-domain record. {_FD['direction']['total_reverse']} of "
-        f"{_FD['direction']['n_directional']} directional records "
-        f"({_FD['direction']['pct_reverse_of_directional']}%) run in reverse. Movement and "
-        "staying are dominated by forward designs, whereas space use, activity and social "
-        "behaviour approach parity between the two directions, which provides the empirical basis for a "
-        "bidirectional framing."),
+        "Direction of the relationship examined, by behavioural domain. Bars show the number of "
+        "study × behavioural-domain records classified as forward (acoustic environment to behaviour), "
+        "both, or reverse (behaviour or activity to acoustic environment or soundscape). The percentage "
+        "to the right of each bar is the share of reverse records among forward and reverse records."),
     "Fig5_Methods": (
-        "Behavioural measurement methods over time. Sensing, GPS, video and big-data measurement "
-        f"grew from {_G['G3'][1]} studies in 2010–2019 to {_G['G3'][2]} from 2020, while "
-        f"self-report grew from {_G['G1'][1]} to {_G['G1'][2]} and systematic observation from "
-        f"{_G['G2'][1]} to {_G['G2'][2]}. Generations accumulate rather than replace one another; "
-        f"{_G['multi_generation_studies']} studies use two or more concurrently and therefore "
-        "appear in more than one series."),
-    # ★ 2026-09-16 외부 AI 검토본 캡션 채택 — 정량 정보는 개념도에서 뺐으므로 캡션도 개념만.
+        "Behavioural measurement methods used in the included studies, by publication period. "
+        "G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data "
+        "measurement of behaviour. Studies that used more than one method are counted in each "
+        "corresponding series."),
     "Fig6_Framework": (
         "Reciprocal evidence framework linking context, acoustic environment, soundscape "
         "appraisal, and observable behaviour. Spatial, physical, and socio-cultural context "
         "shapes the acoustic environment and moderates how acoustic conditions are interpreted "
         "and acted upon. Acoustic conditions may influence observable behaviour directly or "
         "through soundscape appraisal. Behaviour and activity can, in turn, modify the acoustic "
-        "environment through occupancy and human sound production. The two pathways represent a "
-        "reciprocal evidence structure rather than a demonstrated closed causal feedback loop. "
-        "Behavioural outcomes are organised below the framework along an engagement gradient "
-        "from avoidance and passing to staying, interacting, and appropriating; this gradient is "
-        "used as a synthesis device and is not a validated behavioural scale. The figure is "
-        "conceptual; quantitative effect sizes, p-values, and study-quality information are "
-        "reported separately in the Results and evidence tables."),
+        "environment through occupancy and human sound production. Behavioural outcomes are "
+        "organised below the framework along an engagement gradient from avoidance and passing to "
+        "staying, interacting, and appropriating; this gradient is used as a synthesis device and "
+        "is not a validated behavioural scale."),
     "Fig7_GeoTime": (
         f"Geographic and temporal distribution of the {_FD['n_included']} included studies. "
-        f"(a) {_FD['geo']['countries'][0][1]} studies "
-        f"({_FD['geo']['countries'][0][1] / _FD['n_included'] * 100:.0f}%) were conducted in "
-        f"{_FD['geo']['countries'][0][0]}. (b) {_FD['n_since_2020']} studies "
-        f"({_FD['n_since_2020'] / _FD['n_included'] * 100:.0f}%) appeared in 2020 or later, and "
-        "all but two reverse-direction studies appeared from 2016 onwards, so the bidirectional "
-        "evidence base is younger still than the corpus as a whole. Multi-country studies are "
-        f"counted once per country; {dict(_FD['geo']['countries']).get('Not reported', 0)} studies "
-        "did not report the country of data collection."),
+        "(a) Number of studies by country of data collection. Multi-country studies are counted once "
+        "for each country, less frequent countries are grouped as Other (number of countries in "
+        f"parentheses), and the {dict(_FD['geo']['countries']).get('Not reported', 0)} studies that did "
+        "not report the country are not shown. (b) Number of studies by publication year and direction "
+        "of the relationship examined; studies published before 2010 are combined in the first bar."),
     "Fig8_Quality": (
-        "MMAT 2018 appraisal. (a) Grade distribution within each MMAT category. (b) Selected "
-        "items grouped by domain. Items on measurement were generally met, whereas items on sample "
-        "representativeness, non-response and confounding were often not met or could not be rated. Sample "
-        f"representativeness was met in {_Q['4.2']['Y']} of {_Q['4.2']['n']} quantitative "
-        f"descriptive studies, low non-response bias in {_Q['4.4']['Y']} of {_Q['4.4']['n']}, and "
-        f"control of confounding in {_Q['3.4']['Y']} of {_Q['3.4']['n']} non-randomised studies. "
-        "The two randomised studies did not report the randomisation procedure, baseline "
-        "comparability or blinding, so these items could not be rated. Grey indicates that the "
-        "information was not reported, not that the study is known to be biased."),
+        "Methodological quality of the included studies appraised with MMAT 2018. (a) Number of "
+        "studies rated high (4–5 criteria met), moderate (3) or low (0–2) in each MMAT study category. "
+        "(b) Share of studies rated Yes, Can't tell or No on selected items, grouped by the proportion "
+        "of studies meeting the criterion. The fraction to the right of each bar is the number of "
+        "studies meeting the criterion over the number of studies to which the item applies. "
+        "Can't tell indicates that the information needed to judge the criterion was not reported."),
 }
 
 
@@ -304,7 +292,56 @@ def figure(doc, F, name, num):
     return True
 
 
-def md_table(doc, F, lines):
+# 표 셀 글꼴 = 서식본 11 pt Times New Roman. 단어 폭은 시스템 글꼴 파일로 실측한다
+#   (글자 수 × 어림값은 실제보다 13% 넓게 잡혀 표가 본문 폭을 넘는다고 오판했다 — ver6 실측).
+#   글꼴 파일이 없는 기기에서는 어림값으로 대신한다.
+_CELL_PT, _PAD_IN, _CHAR_IN = 11, 0.16, 0.069     # 여백 = Table Grid 기본 좌우 0.08 in
+try:
+    from PIL import ImageFont as _IF
+    _FONT = {False: _IF.truetype("times.ttf", _CELL_PT * 10), True: _IF.truetype("timesbd.ttf", _CELL_PT * 10)}
+except Exception:
+    _FONT = None
+
+
+def _text_in(s, bold=False):
+    if _FONT is None:
+        return len(s) * _CHAR_IN
+    return _FONT[bold].getlength(s) / 10 / 72
+
+
+def _col_widths(rows, ncol, total_in):
+    """열 폭(인치). ① 열마다 가장 긴 단어(머리글 포함)가 끊기지 않는 최소 폭을 먼저 보장하고
+    ② 남는 폭은 셀 평균 길이(상한 28자)가 최소 폭보다 긴 열, 즉 줄바꿈이 자연스러운 텍스트 열에 나눈다.
+    글자 수 비례로만 나누면 셀 여백 같은 고정 폭이 빠져 "No."·"n" 같은 좁은 열에서 숫자와 머리글이
+    글자 단위로 끊긴다(ver6 실측). 그룹 제목 행(첫 칸만 채운 행)은 셀을 합치므로 계산에서 뺀다."""
+    plain = lambda s: re.sub(r"[*`]", "", s)
+    split = lambda s: [x for x in re.split(r"(?<=[-/–])|\s+", s) if x]   # 하이픈·빗금 뒤도 줄바꿈 자리
+    mins, wants = [], []
+    for j in range(ncol):
+        raw = [r[j] for r in rows[1:] if j < len(r) and r[j] and not _is_group(r)]
+        cells = [plain(c) for c in raw]
+        bold = [c.startswith("**") and c.endswith("**") for c in raw]   # 굵은 셀은 굵은 글꼴로 잰다
+        head = plain(rows[0][j]) if j < len(rows[0]) else ""
+        longest = max([_text_in(x, bold=b) for c, b in zip(cells, bold) for x in split(c)]
+                      + [_text_in(x, bold=True) for x in split(head)] + [0.0])
+        mean = sum(_text_in(c) for c in cells) / len(cells) if cells else 0.0
+        mn = longest + _PAD_IN
+        mins.append(mn)
+        wants.append(max(mn, min(mean, 28 * _CHAR_IN) + _PAD_IN))
+    if sum(mins) >= total_in:
+        print(f"  ⚠️ 표 열 {ncol}개의 최소 폭 합 {sum(mins):.2f} in > 본문 폭 {total_in:.2f} in — 일부 단어가 끊긴다")
+        return [total_in * m / sum(mins) for m in mins]
+    extra = total_in - sum(mins)
+    gain = [w - m for w, m in zip(wants, mins)]
+    base = gain if sum(gain) > 0 else mins
+    return [m + extra * g / sum(base) for m, g in zip(mins, base)]
+
+
+def _is_group(row):
+    return len(row) > 1 and row[0].startswith("**") and not any(c.strip() for c in row[1:])
+
+
+def md_table(doc, F, lines, after=True):
     rows = [[c.strip() for c in ln.strip().strip("|").split("|")] for ln in lines
             if not re.match(r"^\s*\|[\s:\-|]+\|\s*$", ln)]
     if not rows:
@@ -313,12 +350,24 @@ def md_table(doc, F, lines):
     t = doc.add_table(rows=len(rows), cols=ncol)
     t.style = "Table Grid"
     t.alignment = WD_TABLE_ALIGNMENT.CENTER
+    t.autofit = False
+    sec = doc.sections[0]
+    total = sec.page_width - sec.left_margin - sec.right_margin
+    widths = [int(Inches(x)) for x in _col_widths(rows, ncol, total / 914400)]
+    grid = t._tbl.tblGrid
+    for gc, wd in zip(grid.findall(qn("w:gridCol")), widths):
+        gc.set(qn("w:w"), str(int(wd / 635)))          # EMU → twip
     for i, row in enumerate(rows):
+        for j in range(ncol):
+            t.cell(i, j).width = widths[j]
         for j in range(ncol):
             p = t.cell(i, j).paragraphs[0]
             _set_ppr(p, F.cell_pPr)
             add_rich(p, row[j] if j < len(row) else "", F.cell_head if i == 0 else F.cell_body)
-    _append_clone(doc, F.tbl_after)
+        if i and _is_group(row):                        # 클러스터 제목 행은 한 줄 전체로
+            t.cell(i, 0).merge(t.cell(i, ncol - 1))
+    if after:          # 표 주석이 이어지면 표 뒤 간격은 주석 다음에 둔다
+        _append_clone(doc, F.tbl_after)
 
 
 def load_template():
@@ -402,7 +451,11 @@ def main():
             buf = []
             while i < len(lines) and lines[i].strip().startswith("|"):
                 buf.append(lines[i]); i += 1
-            md_table(doc, F, buf)
+            k = i
+            while k < len(lines) and not lines[k].strip():
+                k += 1
+            note_next = k < len(lines) and lines[k].strip().startswith("*Note.*")
+            md_table(doc, F, buf, after=not note_next)
             n_tbl += 1
             continue
         m = re.match(r"^<<FIG:(\w+)>>$", st_ln)                       # 본문 내 그림 삽입
@@ -450,6 +503,9 @@ def main():
             emit(doc, F, "rq", txt)
         elif CAPTION.match(txt):
             emit(doc, F, "tbl_cap", txt)
+        elif txt.startswith("*Note.*"):             # 표 주석(LUP 예시의 표 구성) — 캡션 서식
+            emit(doc, F, "tbl_cap", txt)
+            _append_clone(doc, F.tbl_after)
         else:
             if re.match(r"^([-*]|\d+\.)\s+", txt):
                 listish += 1

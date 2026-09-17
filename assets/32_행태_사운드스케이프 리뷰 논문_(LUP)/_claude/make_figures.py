@@ -214,9 +214,9 @@ def fig_direction():
     y = np.arange(len(d["rows"]))[::-1]
     fig, ax = plt.subplots(figsize=(W2, 2.65))
     h = 0.62
-    SEG = [("Forward — sound → behaviour", d["forward"], T.BLUE),
-           ("Bidirectional", d["both"], T.NEUT),
-           ("Reverse — behaviour → sound", d["reverse"], T.TERRA)]
+    SEG = [("Forward (sound → behaviour)", d["forward"], T.BLUE),
+           ("Both", d["both"], T.NEUT),
+           ("Reverse (behaviour → sound)", d["reverse"], T.TERRA)]
     left = np.zeros(len(y))
     for lab, vals, col in SEG:
         ax.barh(y, vals, h, left=left, color=col, label=lab,

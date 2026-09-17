@@ -20,6 +20,12 @@ D = json.load(open(os.path.join(BASE, "figures", "fig_data.json"), encoding="utf
 
 T1 = {r["uid"]: r for r in csv.DictReader(open(os.path.join(FT, "table1_v2.csv"),
                                                encoding="utf-8-sig"))}
+# 국가 = 부록 B·Fig. 7 과 같은 원천(추출표 country)·같은 정규화. 종전에는 table1 의 첫 국가만 적어
+# 다국가 연구(Cao & Kang 2021 = United Kingdom; China)가 부록 B 와 달랐다(독립 검증 적발, 2026-09-17).
+sys.path.insert(0, BASE)
+from make_fig7_geo_time import norm_countries   # noqa: E402
+EXT_COUNTRY = {r["uid"]: r["country"] for r in csv.DictReader(
+    open(os.path.join(FT, "corpus_v4_extraction.csv"), encoding="utf-8-sig"))}
 
 # 분석 표본 n — ma 입력표·추출표에서 확정한 값 (효과 단위·클러스터 규약 반영 · 추정치 금지)
 #   walking: n_pos+n_neg (532 는 Exp1+Exp2 논문 내 합성 = 58+44)
@@ -42,8 +48,8 @@ CONTRAST = {
     "931": "natural vs noise (group interaction)", "1069": "natural vs noise (paired interaction)",
     "14": "quiet vs roadworks noise (helping)", "CT0025": "quiet vs lawnmower noise (helping)",
     "1076": "pleasantness with static behaviour", "1221": "natural sound events with queuing",
-    "1177": "sound comfort with walking comfort", "980": "dwell time with restorativeness",
-    "CT0126": "LAeq with vocal effort", "CT0184": "companionship with sound noticing",
+    "1177": "sound comfort with walking comfort", "980": "dwell time with perceived restoration",
+    "CT0126": "LAeq with vocal effort", "CT0184": "companion presence with sound noticing",
 }
 
 CLUSTERS = [
@@ -84,25 +90,25 @@ def main():
             study = short_study(uid, e.get("label", uid))
             if e.get("route") == "citation-tracking":
                 study += " ▲"
-            country = (t["country"] or "NR").split(";")[0].split("(")[0].strip()
-            if country.startswith("NR"):
-                country = "NR"
-            country = {"UK": "United Kingdom", "Czech Republic": "Czechia"}.get(country, country)
+            country = "; ".join(norm_countries(EXT_COUNTRY[uid])) or "NR"
             setting = t["setting"].split(";")[0].strip()
             setting = {"lab(outdoor scene)": "laboratory (outdoor scene)"}.get(setting, setting)
             design = t["design"].split(";")[0].strip()
+            # 부록 B(Table B1)와 같은 표기 — 첫 글자 대문자(2026-09-17)
+            design = {"observational": "observation"}.get(design, design)   # Table 1 "Field observation" 과 같은 말
+            setting, design = setting[:1].upper() + setting[1:], design[:1].upper() + design[1:]
             eff = fmt_effect(e, kind).replace("-", "−")   # 표 전반과 동일한 typographic minus
-            rows.append(f"| {no} | {study} | {country} | {setting} | {design} "
+            rows.append(f"| {study} | {country} | {setting} | {design} "
                         f"| {CONTRAST.get(uid, '')} | {N_ANALYTIC.get(uid, 'NR')} "
-                        f"| {t['quality']} | {eff} |")
+                        f"| {t['quality'].capitalize()} | {eff} |")
 
-    md = ["| No. | Study | Country | Setting | Design | Contrast or measure | *n* | MMAT | Effect [95% CI] |",
-          "|---|---|---|---|---|---|---|---|---|"]
+    md = ["| Study | Country | Setting | Design | Contrast or measure | *n* | MMAT | Effect [95% CI] |",
+          "|---|---|---|---|---|---|---|---|"]
     # 클러스터 머리행은 9열에 맞춘다
     out = []
     for r in rows:
         if r.startswith("| **"):
-            out.append("| " + r.strip("| ").split("|")[0].strip() + " | | | | | | | | |")
+            out.append("| " + r.strip("| ").split("|")[0].strip() + " | | | | | | | |")
         else:
             out.append(r)
     md += out

@@ -268,8 +268,17 @@ def main():
     with open(os.path.join(MA, "ma_forest_data.json"), "w", encoding="utf-8") as f:
         json.dump(fx, f, ensure_ascii=False, indent=1)
 
+    # ── 원고 Table 3(합성·민감도 표)용 반올림 전 값 ──────────────────────
+    #   ma_v2_summary.md 는 소수 셋째 자리로 반올림돼 있어, 그것을 다시 둘째 자리로 줄이면
+    #   이중 반올림이 된다(초록 r 에서 실제로 있었던 사고). 표는 이 파일에서 읽는다.
+    raw = {name.replace("└", "").strip(): {k: o[k] for k in
+           ("k", "est", "lo", "hi", "p", "I2", "r", "r_lo", "r_hi") if k in o}
+           for name, (o, br) in res.items()}
+    with open(os.path.join(MA, "ma_v2_raw.json"), "w", encoding="utf-8") as f:
+        json.dump(raw, f, ensure_ascii=False, indent=1)
+
     print("".join(L))
-    print(f"[저장] ma/ma_v2_summary.md · ma_v2_new_inputs.csv · ma_forest_data.json")
+    print(f"[저장] ma/ma_v2_summary.md · ma_v2_new_inputs.csv · ma_forest_data.json · ma_v2_raw.json")
 
 
 if __name__ == "__main__":
