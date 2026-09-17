@@ -47,14 +47,11 @@ def _pl(k):
 
 CAPTIONS = {
     "Fig1_PRISMA": (
-        "PRISMA 2020 flow diagram covering all three registered identification routes: database "
-        "searching, citation tracking of every included study, and a supplementary index. "
-        f"The dominant exclusion reason in the database branch is animal or wildlife research "
-        f"({_FD['prisma']['db']['excl'][0][1]} records), reflecting the terminological overlap "
-        "between soundscape ecology and human soundscape research. In the supplementary branch, "
-        f"{_FD['prisma']['supp']['excl'][0][1]} of {_FD['prisma']['supp']['excluded']} exclusions "
-        "were non-empirical items such as book reviews and editorials, which is why absence from "
-        "the three databases is weak evidence that a study was missed."),
+        "PRISMA 2020 flow diagram of study identification, screening and inclusion. Other methods "
+        f"comprised backward and forward citation searching of the {_FD['prisma']['ct']['seeds']} "
+        "studies included or retained for sensitivity analysis through database searching and a "
+        "supplementary OpenAlex search for records not indexed in the three databases. Records from "
+        "citation searching were prefiltered by an automated title-level filter before screening."),
     "Fig2_Forest": (
         "Pooled estimates for four behavioural clusters, from random-effects REML with the "
         "Hartung–Knapp adjustment. Squares are individual effects, sized by their "
@@ -108,7 +105,8 @@ CAPTIONS = {
         f"({_FD['n_since_2020'] / _FD['n_included'] * 100:.0f}%) appeared in 2020 or later, and "
         "all but two reverse-direction studies appeared from 2016 onwards, so the bidirectional "
         "evidence base is younger still than the corpus as a whole. Multi-country studies are "
-        "counted once per country; two studies did not report a country."),
+        f"counted once per country; {dict(_FD['geo']['countries']).get('Not reported', 0)} studies "
+        "did not report the country of data collection."),
     "Fig8_Quality": (
         "MMAT 2018 appraisal. (a) Grade distribution within each MMAT category. (b) Selected "
         "items grouped by reporting domain. Items on measurement were generally well reported, whereas "
@@ -378,7 +376,7 @@ def main():
             elif name == "References":
                 emit(doc, F, "h1", name)
                 mode = "refs"; n_head += 1
-            elif name == "Supplementary material":
+            elif name == "Supplementary material" or name.startswith("Appendix"):
                 _append_clone(doc, F.brk["supp"])
                 emit(doc, F, "h1", name)
                 mode = "supp"; n_head += 1

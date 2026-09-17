@@ -48,21 +48,21 @@
 
 [25] Sterne JAC, Sutton AJ, Ioannidis JPA, Terrin N, Jones DR, Lau J, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ. 2011;343:d4002. doi:10.1136/bmj.d4002
 
-[26] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
+[26] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
 
-[27] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
+[27] Stansfield C, Dehdarirad H, Thomas J, Mathew S, O'Mara‐Eves A. Analyzing the Utility of OpenAlex to Identify Studies for Systematic Reviews: Methods and a Case Study. Cochrane Evidence Synthesis and Methods. 2025;3. doi:10.1002/cesm.70038
 
-[28] Stansfield C, Dehdarirad H, Thomas J, Mathew S, O'Mara‐Eves A. Analyzing the Utility of OpenAlex to Identify Studies for Systematic Reviews: Methods and a Case Study. Cochrane Evidence Synthesis and Methods. 2025;3. doi:10.1002/cesm.70038
+[28] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
 
-[29] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
+[29] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
 
-[30] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
+[30] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
 
-[31] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
+[31] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
 
-[32] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+[32] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
 
-[33] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
+[33] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
 
 [34] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
 

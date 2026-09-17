@@ -37,22 +37,25 @@ def save(fig, name):
 
 # ═══════════════════ Fig 2: Forest ═══════════════════
 FOREST_LABEL = {
-    "461": "Franěk 2018 · birdsong vs traffic",
-    "532": "Franěk 2019 · birdsong vs city noise (Exp 1–2)",
-    "617": "Berkouk 2020 · nature vs traffic",
-    "323": "Aletta 2016 · music vs no music",
-    "665": "Ba & Kang 2020 · music vs no sound",
-    "1280": "Fu 2026 · natural sound index",
-    "931": "Chen 2023 · natural vs noise (group)",
-    "1069": "Chen 2024 · natural vs noise (paired)",
-    "14": "Moser 1988 · quiet vs roadworks",
-    "CT0025": "Mathews & Canon 1975 · quiet vs mower",
-    "1076": "Guo 2024 · pleasantness ↔ static behaviour",
-    "1221": "Zhou 2026 · natural events ↔ queuing",
-    "1177": "Mansouri 2025 · sound ↔ walking comfort",
-    "980": "Bao 2023 · dwell time ↔ restorativeness",
-    "CT0126": "Montes González 2023 · LAeq ↔ speech",
-    "CT0184": "Cao & Kang 2021 · companionship → noticing",
+    # ★ 2026-09-17: 일반 리뷰의 forest plot 처럼 "저자 (연도)"만 쓴다. 대비 설명은 Table 3 에 있다.
+    #   저자 수 표기(1명·2명 "&"·3명 이상 "et al.")는 Crossref 저자 목록으로 확인했다
+    #   (fulltext/appendix_b_crossref_all.json) — 구판 "Ba & Kang 2020"은 저자 3명이라 오기였다.
+    "461": "Franěk et al. (2018)",
+    "532": "Franěk et al. (2019)",
+    "617": "Berkouk et al. (2020)",
+    "323": "Aletta et al. (2016)",
+    "665": "Ba et al. (2020)",
+    "1280": "Fu et al. (2026)",
+    "931": "Chen & Kang (2023)",
+    "1069": "Chen et al. (2024)",
+    "14": "Moser (1988)",
+    "CT0025": "Mathews & Canon (1975)",
+    "1076": "Guo et al. (2024)",
+    "1221": "Zhou et al. (2026)",
+    "1177": "Mansouri et al. (2025)",
+    "980": "Bao et al. (2023)",
+    "CT0126": "Montes González et al. (2023)",
+    "CT0184": "Cao & Kang (2021)",
 }
 PANE = [("walking", "(a) Walking speed", "natural sound vs anthropogenic noise",
          "Hedges' $g$   (negative = faster under noise)"),

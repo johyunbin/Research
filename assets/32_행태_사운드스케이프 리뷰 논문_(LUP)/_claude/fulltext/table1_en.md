@@ -27,11 +27,11 @@
 | Spain | 7 | 7% |
 | United Kingdom | 6 | 6% |
 | Germany | 5 | 5% |
+| Not reported | 4 | 4% |
 | Italy | 4 | 4% |
 | Australia | 4 | 4% |
 | Czechia | 4 | 4% |
-| France | 3 | 3% |
-| Other countries (n = 25) | 42 | — |
+| Other countries (n = 24) | 41 | — |
 | **Direction of relationship** | | |
 | forward | 57 | 58% |
 | reverse | 33 | 34% |

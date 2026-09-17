@@ -34,6 +34,10 @@ DROP = re.compile(r"(저자\s*소속|참가자|조사도시|실험실|기준|미
 
 
 def norm_countries(raw):
+    # ★ 수집국 미보고(NR…)는 괄호 속 저자 소속 국가를 건지지 않는다 — 소속국은 연구 수행국이 아니다
+    #   (2026-09-17 독립 검토 적발: CT0025 → United States, 1149 → Malaysia 로 잘못 집계되고 있었다)
+    if (raw or "").strip().upper().startswith("NR"):
+        return []
     out = []
     for p in re.split(r"[;,/]| and ", raw or ""):
         p = re.sub(r"\(.*?\)", " ", p)

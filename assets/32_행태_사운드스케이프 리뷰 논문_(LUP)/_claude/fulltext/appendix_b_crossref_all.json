@@ -1,0 +1,954 @@
+{
+ "CT0025": {
+  "authors": [
+   "Mathews",
+   "Canon"
+  ],
+  "issued": 1975,
+  "doi": "10.1037/0022-3514.32.4.571"
+ },
+ "7": {
+  "authors": [
+   "Boles",
+   "Hayward"
+  ],
+  "issued": 1978,
+  "doi": "10.1080/00224545.1978.9924035"
+ },
+ "14": {
+  "authors": [
+   "Moser"
+  ],
+  "issued": 1988,
+  "doi": "10.1016/s0272-4944(88)80035-5"
+ },
+ "53": {
+  "authors": [
+   "Wall",
+   "Ashmead",
+   "Bentzen",
+   "Barlow"
+  ],
+  "issued": 2004,
+  "doi": "10.1080/00140130410001712609"
+ },
+ "71": {
+  "authors": [
+   "Gidlöf-Gunnarsson",
+   "Öhrström"
+  ],
+  "issued": 2007,
+  "doi": "10.1016/j.landurbplan.2007.03.003"
+ },
+ "121": {
+  "authors": [
+   "Krog",
+   "Engdahl",
+   "Tambs"
+  ],
+  "issued": 2010,
+  "doi": "10.3390/ijerph7113890"
+ },
+ "123": {
+  "authors": [
+   "Yu",
+   "Kang"
+  ],
+  "issued": 2010,
+  "doi": "10.1016/j.apacoust.2010.02.005"
+ },
+ "CT0001": {
+  "authors": [
+   "Meng",
+   "Kang"
+  ],
+  "issued": 2015,
+  "doi": "10.1016/j.scitotenv.2014.12.060"
+ },
+ "CT0090": {
+  "authors": [
+   "FranÄ›k",
+   "van Noorden",
+   "ReÅ¾nÃ½"
+  ],
+  "issued": 2014,
+  "doi": "10.3389/fpsyg.2014.01361"
+ },
+ "271": {
+  "authors": [
+   "Bishop",
+   "Marshall"
+  ],
+  "issued": 2014,
+  "doi": "10.18848/2324-7576/cgp/v09i01/53520"
+ },
+ "323": {
+  "authors": [
+   "Aletta",
+   "Lepore",
+   "Kostara-Konstantinou",
+   "Kang",
+   "Astolfi"
+  ],
+  "issued": 2016,
+  "doi": "10.3390/app6100276"
+ },
+ "372": {
+  "authors": [
+   "Cerwén",
+   "Pedersen",
+   "Pálsdóttir"
+  ],
+  "issued": 2016,
+  "doi": "10.3390/ijerph13121229"
+ },
+ "379": {
+  "authors": [
+   "Lobo Soares",
+   "Bento Coelho"
+  ],
+  "issued": 2016,
+  "doi": "10.1515/noise-2016-0016"
+ },
+ "341": {
+  "authors": [
+   "Meng",
+   "Kang"
+  ],
+  "issued": 2016,
+  "doi": "10.1016/j.scitotenv.2016.08.130"
+ },
+ "406": {
+  "authors": [
+   "Meng",
+   "Sun",
+   "Kang"
+  ],
+  "issued": 2017,
+  "doi": "10.1016/j.scitotenv.2017.06.017"
+ },
+ "435": {
+  "authors": [
+   "Pakravan"
+  ],
+  "issued": 2017,
+  "doi": "10.1080/20551940.2018.1451221"
+ },
+ "CT0175": {
+  "authors": [
+   "Burrows",
+   "O’Mahony",
+   "Geraghty"
+  ],
+  "issued": 2018,
+  "doi": "10.3390/ijerph15040815"
+ },
+ "492": {
+  "authors": [
+   "Bild",
+   "Pfeffer",
+   "Coler",
+   "Rubin",
+   "Bertolini"
+  ],
+  "issued": 2018,
+  "doi": "10.3389/fpsyg.2018.01593"
+ },
+ "461": {
+  "authors": [
+   "Franěk",
+   "Režný",
+   "Šefara",
+   "Cabal"
+  ],
+  "issued": 2018,
+  "doi": "10.3390/ijerph15040752"
+ },
+ "481": {
+  "authors": [
+   "Meng",
+   "Zhao",
+   "Kang"
+  ],
+  "issued": 2018,
+  "doi": "10.3389/fpsyg.2018.00596"
+ },
+ "494": {
+  "authors": [
+   "Rey Gozalo",
+   "Barrigón Morillas",
+   "Montes González",
+   "Atanasio Moraga"
+  ],
+  "issued": 2018,
+  "doi": "10.1016/j.scitotenv.2017.12.148"
+ },
+ "480": {
+  "authors": [
+   "Zhao",
+   "Zhang",
+   "Meng",
+   "Kang"
+  ],
+  "issued": 2018,
+  "doi": "10.3390/app8122524"
+ },
+ "CT0137": {
+  "authors": [
+   "Xiao",
+   "Hilton"
+  ],
+  "issued": 2019,
+  "doi": "10.3390/ijerph16050840"
+ },
+ "520": {
+  "authors": [
+   "Bild",
+   "Pfeffer",
+   "Coler",
+   "Bertolini"
+  ],
+  "issued": 2019,
+  "doi": "10.3813/aaa.919327"
+ },
+ "532": {
+  "authors": [
+   "Franěk",
+   "Režný",
+   "Šefara",
+   "Cabal"
+  ],
+  "issued": 2019,
+  "doi": "10.7717/peerj.7711"
+ },
+ "539": {
+  "authors": [
+   "Liu",
+   "Wang",
+   "Zimmer",
+   "Kang",
+   "Yu"
+  ],
+  "issued": 2019,
+  "doi": "10.1016/j.ufug.2017.11.003"
+ },
+ "560": {
+  "authors": [
+   "Rey Gozalo",
+   "Barrigón Morillas",
+   "Montes González"
+  ],
+  "issued": 2019,
+  "doi": "10.1016/j.ufug.2019.126470"
+ },
+ "566": {
+  "authors": [
+   "Steele",
+   "Bild",
+   "Tarlao",
+   "Guastavino"
+  ],
+  "issued": 2019,
+  "doi": "10.3390/ijerph16101865"
+ },
+ "665": {
+  "authors": [
+   "Ba",
+   "Kang",
+   "Li"
+  ],
+  "issued": 2020,
+  "doi": "10.1016/j.buildenv.2020.107104"
+ },
+ "617": {
+  "authors": [
+   "Berkouk",
+   "Bouzir",
+   "Maffei",
+   "Masullo"
+  ],
+  "issued": 2020,
+  "doi": "10.3390/su12114619"
+ },
+ "602": {
+  "authors": [
+   "Young Hong",
+   "Yong Jeon"
+  ],
+  "issued": 2020,
+  "doi": "10.1016/j.buildenv.2020.107327"
+ },
+ "666": {
+  "authors": [
+   "Jo",
+   "Jeon"
+  ],
+  "issued": 2020,
+  "doi": "10.1016/j.landurbplan.2020.103890"
+ },
+ "661": {
+  "authors": [
+   "Soares",
+   "Silva",
+   "Pereira",
+   "Silva",
+   "Sousa",
+   "Freitas"
+  ],
+  "issued": 2020,
+  "doi": "10.3390/app10082913"
+ },
+ "CT0166": {
+  "authors": [
+   "Franěk",
+   "Režný"
+  ],
+  "issued": 2021,
+  "doi": "10.3390/land10050459"
+ },
+ "CT0184": {
+  "authors": [
+   "Cao",
+   "Kang"
+  ],
+  "issued": 2021,
+  "doi": "10.1016/j.scs.2021.102860"
+ },
+ "694": {
+  "authors": [
+   "Aletta",
+   "Van Renterghem"
+  ],
+  "issued": 2021,
+  "doi": "10.3390/ijerph182211774"
+ },
+ "760": {
+  "error": "HTTP Error 404: Not Found",
+  "doi": "10.22034/ijhcum.2021.01.02"
+ },
+ "724": {
+  "authors": [
+   "Alves",
+   "Di Gabriele",
+   "Carillo",
+   "Masullo",
+   "Maffei"
+  ],
+  "issued": 2021,
+  "doi": "10.1016/j.emospa.2021.100848"
+ },
+ "761": {
+  "authors": [
+   "Fang",
+   "Gao",
+   "Hedblom",
+   "Xu",
+   "Xiang",
+   "Hu",
+   "Chen",
+   "Qiu"
+  ],
+  "issued": 2021,
+  "doi": "10.3390/f12040468"
+ },
+ "746": {
+  "authors": [
+   "Herrmann-Lunecke",
+   "Mora",
+   "Vejares"
+  ],
+  "issued": 2021,
+  "doi": "10.1016/j.tbs.2021.01.002"
+ },
+ "726": {
+  "authors": [
+   "Kim",
+   "Shin"
+  ],
+  "issued": 2021,
+  "doi": "10.3390/ijerph18136957"
+ },
+ "762": {
+  "authors": [
+   "Lenzi",
+   "Sádaba",
+   "Lindborg"
+  ],
+  "issued": 2021,
+  "doi": "10.3389/fpsyg.2021.570741"
+ },
+ "725": {
+  "authors": [
+   "Li",
+   "Luo",
+   "Hou",
+   "Xia",
+   "Yao",
+   "Kang",
+   "Deng",
+   "Sun",
+   "Chen"
+  ],
+  "issued": 2021,
+  "doi": "10.3389/fpubh.2021.759444"
+ },
+ "732": {
+  "authors": [
+   "Tarlao",
+   "Steffens",
+   "Guastavino"
+  ],
+  "issued": 2021,
+  "doi": "10.1016/j.buildenv.2020.107490"
+ },
+ "862": {
+  "authors": [
+   "Zhao",
+   "Xu",
+   "Huang",
+   "Fang",
+   "Huang",
+   "Huang",
+   "Zheng",
+   "Dong",
+   "Chen",
+   "Yan",
+   "Zhong",
+   "Fu"
+  ],
+  "issued": 2022,
+  "doi": "10.3390/f13111751"
+ },
+ "CT0126": {
+  "authors": [
+   "Montes González",
+   "Barrigón Morillas",
+   "Rey-Gozalo"
+  ],
+  "issued": 2023,
+  "doi": "10.1016/j.scitotenv.2022.159406"
+ },
+ "CT0335": {
+  "authors": [
+   "Schrapel",
+   "Happe",
+   "Rohs"
+  ],
+  "issued": 2022,
+  "doi": "10.1515/icom-2022-0020"
+ },
+ "858": {
+  "authors": [
+   "Di Loreto",
+   "Serpilli",
+   "Lori"
+  ],
+  "issued": 2022,
+  "doi": "10.3390/acoustics4020031"
+ },
+ "821": {
+  "authors": [
+   "Guo",
+   "Jiang",
+   "Zhang",
+   "Zhang",
+   "Jiang"
+  ],
+  "issued": 2022,
+  "doi": "10.3390/su142215125"
+ },
+ "833": {
+  "authors": [
+   "Marquart",
+   "Stark",
+   "Jarass"
+  ],
+  "issued": 2022,
+  "doi": "10.1016/j.jth.2021.101325"
+ },
+ "799": {
+  "authors": [
+   "Takada",
+   "Tsunekawa",
+   "Hashimoto",
+   "Inada",
+   "Kim",
+   "Oeda",
+   "Yamauchi",
+   "Iwamiya"
+  ],
+  "issued": 2022,
+  "doi": "10.3390/app12125917"
+ },
+ "791": {
+  "authors": [
+   "Toutouh",
+   "Alba"
+  ],
+  "issued": 2022,
+  "doi": "10.3390/s22176585"
+ },
+ "883": {
+  "authors": [
+   "Uebel",
+   "Rhodes",
+   "Wilson",
+   "Dean"
+  ],
+  "issued": 2022,
+  "doi": "10.1002/pan3.10409"
+ },
+ "804": {
+  "authors": [
+   "Xu",
+   "Li",
+   "Gu",
+   "Xie",
+   "Jia"
+  ],
+  "issued": 2022,
+  "doi": "10.3390/f13060948"
+ },
+ "CT0007": {
+  "authors": [
+   "Fang",
+   "Qi",
+   "Hedblom",
+   "Gao",
+   "Qiu"
+  ],
+  "issued": 2024,
+  "doi": "10.1016/j.jort.2023.100728"
+ },
+ "941": {
+  "authors": [],
+  "issued": 2024,
+  "doi": "10.15302/j-laf-1-020106"
+ },
+ "980": {
+  "authors": [
+   "Bao",
+   "Gao",
+   "Zhao",
+   "Zhou"
+  ],
+  "issued": 2023,
+  "doi": "10.3390/f14122329"
+ },
+ "931": {
+  "authors": [
+   "Chen",
+   "Kang"
+  ],
+  "issued": 2023,
+  "doi": "10.1016/j.landurbplan.2023.104870"
+ },
+ "971": {
+  "authors": [
+   "Chen",
+   "Chen",
+   "Lin",
+   "Lin",
+   "Li",
+   "Li",
+   "Dong"
+  ],
+  "issued": 2023,
+  "doi": "10.3390/f14091758"
+ },
+ "901": {
+  "authors": [
+   "Fu",
+   "Ran",
+   "Huang",
+   "Chen",
+   "Fan",
+   "Fang",
+   "Ye",
+   "Dong",
+   "Yao",
+   "Chen"
+  ],
+  "issued": 2023,
+  "doi": "10.1016/j.ecolind.2023.110729"
+ },
+ "930": {
+  "authors": [
+   "Hosseini",
+   "Kowkabi"
+  ],
+  "issued": 2023,
+  "doi": "10.3390/su15054255"
+ },
+ "951": {
+  "authors": [
+   "Huang",
+   "Tian",
+   "Yuan"
+  ],
+  "issued": 2023,
+  "doi": "10.1016/j.scs.2022.104336"
+ },
+ "979": {
+  "authors": [
+   "Merlino",
+   "Mondada",
+   "Söderström"
+  ],
+  "issued": 2022,
+  "doi": "10.1177/14703572211052638"
+ },
+ "964": {
+  "authors": [
+   "Yin",
+   "Shao",
+   "Meng",
+   "Hao"
+  ],
+  "issued": 2023,
+  "doi": "10.3389/fpsyg.2023.1186806"
+ },
+ "CT0220": {
+  "authors": [
+   "Han",
+   "Tang",
+   "Liu",
+   "Jiang",
+   "Yan"
+  ],
+  "issued": 2024,
+  "doi": "10.3390/land14010050"
+ },
+ "CT0322": {
+  "authors": [
+   "Morillas",
+   "Montes González",
+   "Vílchez-Gómez",
+   "Rey-Gozalo"
+  ],
+  "issued": 2024,
+  "doi": "10.3390/app142311212"
+ },
+ "CT0371": {
+  "authors": [
+   "Routhier",
+   "Lettre",
+   "Pigeon",
+   "Martel",
+   "Binet",
+   "Vézina",
+   "Collomb d'Eyrames",
+   "Waygood",
+   "Mostafavi",
+   "Morales"
+  ],
+  "issued": 2024,
+  "doi": "10.1016/j.jth.2024.101938"
+ },
+ "OAS0198": {
+  "authors": [
+   "Derbal",
+   "Rahmane"
+  ],
+  "issued": 2024,
+  "doi": "10.54021/seesv5n3-086"
+ },
+ "1069": {
+  "authors": [
+   "Chen",
+   "Kang",
+   "Wang"
+  ],
+  "issued": 2024,
+  "doi": "10.1016/j.buildenv.2024.112094"
+ },
+ "1076": {
+  "authors": [
+   "Guo",
+   "Jiang",
+   "Liu",
+   "Chen",
+   "Hong"
+  ],
+  "issued": 2024,
+  "doi": "10.3390/f15101751"
+ },
+ "1020": {
+  "authors": [
+   "Jin",
+   "Lu",
+   "Shao"
+  ],
+  "issued": 2024,
+  "doi": "10.3390/land13091468"
+ },
+ "1053": {
+  "authors": [
+   "Joo",
+   "Clark",
+   "Kremer",
+   "Aronson"
+  ],
+  "issued": 2024,
+  "doi": "10.1007/s11252-024-01593-3"
+ },
+ "1018": {
+  "authors": [
+   "Lai",
+   "Ou",
+   "Zheng"
+  ],
+  "issued": 2024,
+  "doi": "10.1016/j.ecolind.2024.112022"
+ },
+ "999": {
+  "authors": [
+   "Lu",
+   "Xie",
+   "Zhu",
+   "Dai",
+   "Zhang",
+   "Tao",
+   "Wang"
+  ],
+  "issued": 2024,
+  "doi": "10.1016/j.scitotenv.2024.172198"
+ },
+ "984": {
+  "authors": [
+   "Wang",
+   "Xiao"
+  ],
+  "issued": 2024,
+  "doi": "10.1080/01426397.2024.2307003"
+ },
+ "1005": {
+  "authors": [
+   "Wogan",
+   "Kennedy"
+  ],
+  "issued": 2024,
+  "doi": "10.1016/j.heliyon.2024.e27918"
+ },
+ "CT0348": {
+  "authors": [
+   "Ramón-Turner",
+   "Bordón",
+   "González-Rodríguez",
+   "Lorenzo-Navarro",
+   "Castrillón-Santana",
+   "Álamo",
+   "Quevedo-Reina",
+   "Romero-Sánchez",
+   "Ester-Sánchez",
+   "Medina",
+   "García",
+   "Maeso",
+   "Aznárez"
+  ],
+  "issued": 2025,
+  "doi": "10.3390/s25123604"
+ },
+ "OAS0157": {
+  "authors": [
+   "ADEJUBE"
+  ],
+  "issued": 2025,
+  "doi": "10.53982/agidigbo.2025.1302.15-j"
+ },
+ "1178": {
+  "authors": [
+   "Ba",
+   "Li",
+   "Kang"
+  ],
+  "issued": 2025,
+  "doi": "10.1016/j.apacoust.2024.110378"
+ },
+ "1115": {
+  "authors": [
+   "Calafiore",
+   "Tong"
+  ],
+  "issued": 2025,
+  "doi": "10.1371/journal.pone.0325249"
+ },
+ "1122": {
+  "authors": [
+   "Chen",
+   "Kang"
+  ],
+  "issued": 2025,
+  "doi": "10.1016/j.jenvp.2025.102630"
+ },
+ "1110": {
+  "authors": [
+   "Gao",
+   "Fang"
+  ],
+  "issued": 2025,
+  "doi": "10.1016/j.tra.2025.104586"
+ },
+ "1121": {
+  "authors": [
+   "Lin",
+   "Li",
+   "Chen",
+   "Li"
+  ],
+  "issued": 2023,
+  "doi": "10.1080/13467581.2023.2292069"
+ },
+ "1177": {
+  "authors": [
+   "Mansouri",
+   "Matallah",
+   "Attar",
+   "Mahar",
+   "Attia"
+  ],
+  "issued": 2025,
+  "doi": "10.3390/acoustics7040064"
+ },
+ "1138": {
+  "authors": [
+   "Nguyen",
+   "Nishimura",
+   "Nishimura"
+  ],
+  "issued": 2025,
+  "doi": "10.3390/acoustics7020036"
+ },
+ "1149": {
+  "authors": [
+   "Yu"
+  ],
+  "issued": 2025,
+  "doi": "10.1080/17533015.2025.2593865"
+ },
+ "1174": {
+  "authors": [
+   "Zhang",
+   "Song",
+   "Ma",
+   "Qiu",
+   "Li",
+   "Kim"
+  ],
+  "issued": 2025,
+  "doi": "10.1016/j.trd.2025.104806"
+ },
+ "CT0414": {
+  "authors": [
+   "Sun",
+   "Li",
+   "Sun",
+   "Zhou",
+   "Xu"
+  ],
+  "issued": 2026,
+  "doi": "10.3389/fpsyg.2026.1733848"
+ },
+ "1226": {
+  "authors": [
+   "Dzhambov",
+   "Burov",
+   "Markevych",
+   "Kostadinov",
+   "Dimitrova",
+   "Helbich",
+   "Nieuwenhuijsen"
+  ],
+  "issued": 2026,
+  "doi": "10.1016/j.ijheh.2026.114816"
+ },
+ "1280": {
+  "authors": [
+   "Fu",
+   "Zhang",
+   "Gao",
+   "Dai",
+   "Chen",
+   "Gao"
+  ],
+  "issued": 2026,
+  "doi": "10.3390/buildings16101973"
+ },
+ "1306": {
+  "authors": [
+   "Gao",
+   "Fang"
+  ],
+  "issued": 2026,
+  "doi": "10.1016/j.jth.2026.102313"
+ },
+ "1211": {
+  "authors": [
+   "Hüg",
+   "Tommasini",
+   "Bermejo",
+   "Evin",
+   "Cano Brusa"
+  ],
+  "issued": 2026,
+  "doi": "10.1140/epjs/s11734-026-02140-1"
+ },
+ "1202": {
+  "authors": [
+   "Lin",
+   "Chau",
+   "Hou",
+   "Tang",
+   "Chung",
+   "Yu"
+  ],
+  "issued": 2026,
+  "doi": "10.1016/j.jum.2026.04.003"
+ },
+ "1232": {
+  "authors": [
+   "Ozturk",
+   "Aletta",
+   "Kang"
+  ],
+  "issued": 2026,
+  "doi": "10.3390/su18094369"
+ },
+ "1258": {
+  "authors": [
+   "Peng",
+   "Liu",
+   "Teng",
+   "Zhang",
+   "Keyhani",
+   "Wang"
+  ],
+  "issued": 2026,
+  "doi": "10.3390/urbansci10010060"
+ },
+ "1242": {
+  "authors": [],
+  "issued": 2026,
+  "doi": "10.15302/j-laf-2026-0017"
+ },
+ "1272": {
+  "authors": [
+   "Sun",
+   "Farah",
+   "Feng"
+  ],
+  "issued": 2026,
+  "doi": "10.1016/j.trf.2026.103707"
+ },
+ "1221": {
+  "authors": [
+   "Zhou",
+   "Yu",
+   "Zhang",
+   "Zhou",
+   "Wu"
+  ],
+  "issued": 2026,
+  "doi": "10.1016/j.apacoust.2025.111101"
+ }
+}

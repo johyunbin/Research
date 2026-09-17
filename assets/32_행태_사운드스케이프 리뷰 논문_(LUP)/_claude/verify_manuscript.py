@@ -113,7 +113,7 @@ def main():
         (ok if found else bad).append((name, val))
 
     must = {"코퍼스 98": r"\b98\b", "DB 갈래 81": r"\b81\b", "인용추적 15": r"\b15\b",
-            "보조검색 2": r"\btwo\b", "현장조작 비율 19%": r"19%", "역방향 비율 40%": r"40%"}
+            "보조검색 2": r"보조 색인 경로에서는[^\n]*2편을 포함했다", "현장조작 비율 19%": r"19%", "역방향 비율 40%": r"40%"}
     missing = [k for k, pat in must.items() if not re.search(pat, ms)]
 
     # 메타분석 수치가 원고와 일치하는가

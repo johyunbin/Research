@@ -540,6 +540,10 @@
     5
    ],
    [
+    "Not reported",
+    4
+   ],
+   [
     "Italy",
     4
    ],
@@ -553,10 +557,6 @@
    ],
    [
     "France",
-    3
-   ],
-   [
-    "United States",
     3
    ],
    [
@@ -580,7 +580,7 @@
     3
    ],
    [
-    "Not reported",
+    "United States",
     2
    ],
    [
@@ -636,10 +636,6 @@
     1
    ],
    [
-    "Malaysia",
-    1
-   ],
-   [
     "Argentina",
     1
    ],
@@ -656,7 +652,7 @@
     1
    ]
   ],
-  "n_countries": 33
+  "n_countries": 32
  },
  "time": {
   "years": [

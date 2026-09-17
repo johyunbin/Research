@@ -82,7 +82,10 @@ STRING_FIX = {
 
 def split_manuscript(t):
     i = t.index("## References")
-    j = t.index("---\n\n## Supplementary material")
+    # 참고문헌 뒤 첫 부록(2026-09-17 보충자료 → 부록 A·B 전환). 구판 원고 호환을 위해 둘 다 찾는다.
+    j = t.find("---\n\n## Appendix A")
+    if j < 0:
+        j = t.index("---\n\n## Supplementary material")
     return t[:i], t[i:j], t[j:]
 
 
