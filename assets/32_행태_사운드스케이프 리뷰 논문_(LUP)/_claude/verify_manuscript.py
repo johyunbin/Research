@@ -150,7 +150,7 @@ def main():
         loo = [r for r in raw if r["cluster"].startswith(pre) and r["analysis"].startswith("LOO")]
         es = [r["r"] if "r" in r else r["est"] for r in loo]
         ps = [r["p"] for r in loo]
-        row = f"{f2(min(es))} to {f2(max(es))} | — | {min(ps):.3f} to {max(ps):.3f}"
+        row = f"{f2(min(es))} to {f2(max(es))} | — | {min(ps):.3f}–{max(ps):.3f}"   # p 범위는 en dash(2026-09-17)
         if row not in ms:
             ma_bad.append(f"{pre} LOO 범위 '{row}' — Table 3 에 없음")
     m3 = sorted([r for r in raw if r["cluster"].startswith("MA3") and r["analysis"].startswith("LOO")],
@@ -164,6 +164,42 @@ def main():
         gen = open(os.path.join(FT, fn), encoding="utf-8").read().strip()
         if gen not in ms:
             ma_bad.append(f"{name} 이 생성본 fulltext/{fn} 과 다르다 — 스크립트를 다시 돌려 붙여 넣을 것")
+
+    # 사용자가 다시 그린 Fig. 1(01_논문작업/Figure.pptx)의 흐름도 숫자 = PRISMA 정본 수치인가
+    # (2026-09-17 그림 1·8 을 사용자 작도본으로 교체 — 스크립트가 그리지 않으므로 수치가 바뀌면 그림이 낡는다)
+    pptx_bad = []
+    pptx_path = os.path.join(os.path.dirname(BASE), "01_논문작업", "Figure.pptx")
+    try:
+        from pptx import Presentation
+        spec = importlib.util.spec_from_file_location("f1", os.path.join(BASE, "make_fig1_prisma_v2.py"))
+        f1 = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(f1)
+        DB, O = f1.DB, f1.O
+        want = {DB[k] for k in ("identified", "wos", "scopus", "pubmed", "duplicates", "screened", "excluded",
+                                "sought", "not_retrieved", "assessed", "ft_excluded")}
+        want |= {O[k] for k in ("cit", "supp", "dup", "auto", "screened", "excluded", "sought", "not_retrieved",
+                                "assessed", "ft_excluded")}
+        want |= {O["cit"] + O["supp"], O["dup"] + O["auto"], f1.D["n_included"], f1.D["n_sens"]}
+        allowed = want | {v for _, v in DB["ftx"]} | {v for _, v in O["ftx"]}
+
+        def shapes(ss):
+            for s in ss:
+                if s.shape_type == 6:
+                    yield from shapes(s.shapes)
+                else:
+                    yield s
+        slide = next(sl for sl in Presentation(pptx_path).slides
+                     if any(s.has_text_frame and "Identification of studies via databases" in s.text_frame.text
+                            for s in shapes(sl.shapes)))
+        txt = " ".join(s.text_frame.text for s in shapes(slide.shapes) if s.has_text_frame)
+        got = {int(x.replace(",", "")) for x in re.findall(r"n = ([\d,]+)", txt)}
+        if want - got:
+            pptx_bad.append(f"Figure.pptx 흐름도에 없는 정본 수치: {sorted(want - got)}")
+        if got - allowed:
+            pptx_bad.append(f"Figure.pptx 흐름도에만 있는 수치(정본에 없음): {sorted(got - allowed)}")
+    except FileNotFoundError:
+        pptx_bad.append("01_논문작업/Figure.pptx 없음")
+    ma_bad += pptx_bad
 
     print(f"=== 원고 수치 검증 — {os.path.basename(ms_path)} ===\n")
     print(f"데이터 산출값이 원고에 존재: {len(ok)} / 누락 {len(bad)}")

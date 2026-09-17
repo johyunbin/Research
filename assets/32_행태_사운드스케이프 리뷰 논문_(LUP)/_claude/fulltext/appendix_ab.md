@@ -18,6 +18,8 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 
 (soundscape OR soundscapes OR "acoustic environment" OR "sound environment" OR "acoustic comfort" OR "traffic noise" OR "environmental noise" OR "urban noise" OR "aircraft noise" OR "natural sound" OR "natural sounds" OR birdsong OR "water sound" OR "water sounds" OR "background music" OR "added sound") AND (behavior OR behaviour OR behavioral OR behavioural OR "walking speed" OR "pedestrian movement" OR "route choice" OR wayfinding OR "dwell time" OR lingering OR "time spent" OR sitting OR "space use" OR "park use" OR visitation OR "physical activity" OR "social interaction" OR "social interactions" OR prosocial OR antisocial OR avoidance OR "crowd behavior" OR "crowd behaviour") AND (urban OR city OR cities OR park OR parks OR street OR streets OR "public space" OR "public spaces" OR "open space" OR "open spaces" OR plaza OR square OR waterfront OR greenspace OR "green space" OR "recreational area" OR "recreational areas" OR campus)
 
+<<LANDSCAPE>>
+
 ## Appendix B. Characteristics of included studies
 
 **Table B1.** Studies included in the review (n = 98).

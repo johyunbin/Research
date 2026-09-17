@@ -126,6 +126,10 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 포함된 98편 중 70편(71%)이 2020년 이후에 게재됐으며, 출판연도의 중앙값은 2022년이고 가장 오래된 연구는 1975년에 발표됐다. 참가자 수를 보고한 56편의 중앙값은 124명(IQR 30–400)이었다. 나머지 연구는 가로 구간, GPS 궤적, 스트리트뷰 표본점처럼 참가자가 아닌 단위로 표본을 보고했으며, 가장 큰 표본은 자전거 통행 81,403건이었다. 세팅은 가로(41편)와 공원(32편)이 대부분이었고, 광장(10편), 캠퍼스, 주거 옥외공간, 수변이 뒤를 이었다. 연구 설계는 관찰과 설문을 결합한 혼합 연구(34편)가 가장 많았고, 설문 연구(25편), 현장실험 또는 자연실험(19편, 19%), 현장 관찰(7편), 센서·빅데이터 연구(6편), 실험실·가상현실 실험(5편)이 뒤를 이었다. 포함 연구의 특성은 Table 1에, 개별 연구의 특성은 Appendix B에 제시했다.
 
+연구가 수행된 국가는 중국이 38편(39%)으로 가장 많았고, 스페인(7편), 영국(6편), 독일(5편)이 뒤를 이었으며, 4편은 자료 수집 국가를 보고하지 않았다(Fig. 2a). 역방향 연구 33편 가운데 31편은 2016년 이후에 발표됐다(Fig. 2b).
+
+<<PAGEBREAK>>
+
 **Table 1.** Characteristics of the included studies (n = 98).
 
 | Characteristic | Studies | % |
@@ -175,21 +179,29 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 *Note.* Percentages are of the 98 included studies. † = a study can be counted in more than one category. G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data measurement of behaviour. Characteristics of each study are listed in Appendix B.
 
-연구가 수행된 국가는 중국이 38편(39%)으로 가장 많았고, 스페인(7편), 영국(6편), 독일(5편)이 뒤를 이었으며, 4편은 자료 수집 국가를 보고하지 않았다(Fig. 2a). 역방향 연구 33편 가운데 31편은 2016년 이후에 발표됐다(Fig. 2b).
-
 <<FIG:Fig7_GeoTime>>
 
 ### 3.3 Methodological quality of included studies
 
 포함된 98편의 MMAT 등급은 high 22편(22%), moderate 40편(41%), low 36편(37%)이었다(Fig. 3). MMAT 범주는 정량 기술 연구 51편, 비무작위 정량 연구 22편, 혼합 연구 15편, 질적 연구 7편, 무작위배정 연구 2편이었고, 1편은 범주를 판정할 수 없었다.
 
-<<FIG:Fig8_Quality>>
-
 문항별 판정은 다음과 같았다. 정량 기술 연구 51편 중 표본 대표성을 충족한 연구는 10편(20%)이었고 24편은 미충족, 17편은 판단불가로 판정됐다. 무응답 편의가 낮다고 판정된 연구는 16편(31%)이었으며, 14편은 미충족, 21편은 판단불가였다. 비무작위 정량 연구 22편 중 참가자가 목표 모집단을 대표한다고 판정된 연구는 4편(18%)이었고 9편은 미충족, 9편은 판단불가였으며, 교란을 적절히 통제한 연구는 9편(41%)이었고 7편은 미충족, 6편은 판단불가였다. 무작위배정 연구 2편은 무작위화 방법, 집단의 기저 동등성, 평가자 눈가림을 보고하지 않아 세 문항이 모두 판단불가로 판정됐으며, 각각 1개와 2개의 기준만 충족해 low 등급을 받았다. 어떤 기준도 충족하지 못한 연구는 4편이었다.
+
+<<FIG:Fig8_Quality>>
 
 ### 3.4 Meta-analyses (RQ1)
 
 네 개의 행태 클러스터가 메타분석 요건을 충족했으며, 16편의 연구가 합성에 기여했다. 기여 연구의 특성과 개별 효과크기는 Table 2에, 클러스터별 숲 그림은 Fig. 4에 제시했다. 평균 효과의 95% 신뢰구간이 0을 배제한 것은 사회적 상호작용과 소리–행태 상관의 두 클러스터였고, 95% 예측구간은 네 클러스터 모두 0을 포함했다(Table 3).
+
+보행속도 클러스터(*k* = 3)에서는 소음 조건에서 보행이 더 빨랐으나 합성 효과의 신뢰구간이 0을 포함했고(*g* = −0.47, 95% CI [−2.06, +1.11], *p* = 0.326), 이질성이 높았다(*I*² = 81.4%). 체코에서 수행된 두 현장실험은 새소리 조건보다 교통소음이나 도시소음 조건에서 보행속도가 빨랐다고 보고했지만(*g* = −1.02, −0.63)[28,29], 알제리 오아시스 지역의 가로에서 자연음과 교통음 조건을 비교한 관찰 연구에서는 반대 방향의 효과가 나타났다(*g* = +0.23)[30]. 세 연구는 모두 MMAT low 등급이었다. MMAT high 등급을 받은 보행 관련 연구 가운데 광장 배경음악의 효과를 다룬 연구는 노출 정의가 달라 제외했으며(2.9절), 인용 추적으로 확보한 세 편은 각각 음악 템포를 조작했거나[31], 소음과 보행속도의 관계를 직접 검정하지 않았거나[32], 헤드폰으로 전달한 증강 발소리를 다뤄[33] 합성에 포함되지 않았다.
+
+체류 클러스터(*k* = 3)에서는 긍정적인 소리 조건에서 체류가 더 길었으나 합성 효과의 신뢰구간이 0을 포함했다(*g* = +0.34, 95% CI [−0.09, +0.78], *p* = 0.077, *I*² = 54.4%). 세 효과는 모두 같은 방향이었다. 영국 대학 캠퍼스의 옥외공간[34]과 중국의 가로[35]에서 음악을 재생한 두 현장실험의 효과는 각각 *g* = +0.39와 +0.61이었고, 자연음 지수가 높은 조건과 낮은 조건의 체류를 비교한 중국의 혼합 연구에서는 *g* = +0.21이었다[36].
+
+사회적 상호작용 클러스터(*k* = 4)에서는 더 조용하거나 자연음이 있는 조건에서 사회적 상호작용이 많았고, 합성 효과의 신뢰구간이 0을 배제했다(*g* = +0.68, 95% CI [+0.20, +1.16], *p* = 0.020, *I*² = 48.6%). 네 효과는 모두 같은 방향이었다. 중국의 공원[37]과 주거단지 옥외공간[38]에서 수행된 두 현장실험은 자연음 조건과 소음 조건에서 집단 또는 두 사람 사이의 상호작용을 비교했고(*g* = +0.98, +0.55), 나머지 두 현장실험은 조용한 조건과 도로공사 소음[39] 또는 잔디깎기 소음[40] 조건에서 낯선 사람을 돕는 행동을 비교했다(*g* = +0.43, +1.07). 이 클러스터에는 MMAT low 등급 연구가 포함되지 않았다.
+
+소리–행태 상관 클러스터(*k* = 6)에서는 소리 지표와 행태 사이에 정적 상관이 나타났고(*r* = +0.42, 95% CI [+0.19, +0.61], *p* = 0.006), 이질성이 높았다(*I*² = 92.0%). 개별 상관계수는 +0.16에서 +0.65 사이에 분포했다. 도시공원 방문객의 사운드스케이프 쾌적성과 정적 행태[41], 공원 체류시간과 회복감 지각[42], 가로의 등가소음도(LAeq)와 발성 노력[43]의 상관은 +0.55 이상이었고, 광장에서의 동행 여부와 소리 인지[44], 상업 가로의 자연음 사건과 대기(queuing) 행동[45]의 상관은 +0.21 이하였다. 가로의 음향 쾌적성과 보행 쾌적성의 상관(*r* = +0.40)[46]은 신뢰구간이 가장 넓었다.
+
+<<LANDSCAPE>>
 
 **Table 2.** Characteristics and effect sizes of the studies contributing to the meta-analyses.
 
@@ -200,7 +212,7 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 | Franěk et al. (2019) | Czechia | Street | Field experiment | birdsong vs city noise (Exp 1 and 2) | 102 | Low | −0.63 [−1.12, −0.13] |
 | Berkouk et al. (2020) | Algeria | Street | Observation | natural vs traffic sound | 54 | Low | +0.23 [−0.31, +0.76] |
 | **Staying / dwell time (Hedges' g; positive = longer stay)** | | | | | | | |
-| Aletta et al. (2016) | United Kingdom | Campus | Field experiment | music vs no music | 596 | High | +0.39 [+0.19, +0.59] |
+| Aletta et al. (2016) | UK | Campus | Field experiment | music vs no music | 596 | High | +0.39 [+0.19, +0.59] |
 | Ba et al. (2020) | China | Street | Field experiment | music vs no sound | 97 | Moderate | +0.61 [+0.21, +1.02] |
 | Fu et al. (2026) | China | Mixed | Mixed | natural sound index (high vs low) | 241 | Moderate | +0.21 [+0.07, +0.36] |
 | **Social interaction (Hedges' g; positive = more interaction)** | | | | | | | |
@@ -214,71 +226,67 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 | Mansouri et al. (2025) | Algeria | Street | Mixed | sound comfort with walking comfort | NR | Moderate | +0.40 [+0.04, +0.67] |
 | Bao et al. (2023) | China | Park | Survey | dwell time with perceived restoration | 180 | Moderate | +0.55 [+0.44, +0.65] |
 | Montes González et al. (2023) ▲ | Spain | Street | Survey | LAeq with vocal effort | 29 | Moderate | +0.65 [+0.37, +0.82] |
-| Cao & Kang (2021) ▲ | China; United Kingdom | Square | Survey | companion presence with sound noticing | 301 | Moderate | +0.16 [+0.05, +0.27] |
+| Cao & Kang (2021) ▲ | China; UK | Square | Survey | companion presence with sound noticing | 301 | Moderate | +0.16 [+0.05, +0.27] |
 
-*Note.* ▲ = retrieved by citation searching. *n* = analytic sample for the pooled contrast, which can differ from the total sample of the study. Effect sizes are Hedges' *g* with 95% CI for the first three clusters and *r* with 95% CI for the sound–behaviour correlation cluster. MMAT = Mixed Methods Appraisal Tool 2018 grade. NR = not reported; where *n* was not reported, the variance was derived from the published CI.
+*Note.* ▲ = retrieved by citation searching. *n* = analytic sample for the pooled contrast, which can differ from the total sample of the study. Effect sizes are Hedges' *g* with 95% CI for the first three clusters and *r* with 95% CI for the sound–behaviour correlation cluster. MMAT = Mixed Methods Appraisal Tool 2018 grade. NR = not reported; where *n* was not reported, the variance was derived from the published CI. UK = United Kingdom.
+
+<<END LANDSCAPE>>
 
 <<FIG:Fig2_Forest>>
-
-보행속도 클러스터(*k* = 3)에서는 소음 조건에서 보행이 더 빨랐으나 합성 효과의 신뢰구간이 0을 포함했고(*g* = −0.47, 95% CI [−2.06, +1.11], *p* = 0.326), 이질성이 높았다(*I*² = 81.4%). 체코에서 수행된 두 현장실험은 새소리 조건보다 교통소음이나 도시소음 조건에서 보행속도가 빨랐다고 보고했지만(*g* = −1.02, −0.63)[28,29], 알제리 오아시스 지역의 가로에서 자연음과 교통음 조건을 비교한 관찰 연구에서는 반대 방향의 효과가 나타났다(*g* = +0.23)[30]. 세 연구는 모두 MMAT low 등급이었다. MMAT high 등급을 받은 보행 관련 연구 가운데 광장 배경음악의 효과를 다룬 연구는 노출 정의가 달라 제외했으며(2.9절), 인용 추적으로 확보한 세 편은 각각 음악 템포를 조작했거나[31], 소음과 보행속도의 관계를 직접 검정하지 않았거나[32], 헤드폰으로 전달한 증강 발소리를 다뤄[33] 합성에 포함되지 않았다.
-
-체류 클러스터(*k* = 3)에서는 긍정적인 소리 조건에서 체류가 더 길었으나 합성 효과의 신뢰구간이 0을 포함했다(*g* = +0.34, 95% CI [−0.09, +0.78], *p* = 0.077, *I*² = 54.4%). 세 효과는 모두 같은 방향이었다. 영국 대학 캠퍼스의 옥외공간[34]과 중국의 가로[35]에서 음악을 재생한 두 현장실험의 효과는 각각 *g* = +0.39와 +0.61이었고, 자연음 지수가 높은 조건과 낮은 조건의 체류를 비교한 중국의 혼합 연구에서는 *g* = +0.21이었다[36].
-
-사회적 상호작용 클러스터(*k* = 4)에서는 더 조용하거나 자연음이 있는 조건에서 사회적 상호작용이 많았고, 합성 효과의 신뢰구간이 0을 배제했다(*g* = +0.68, 95% CI [+0.20, +1.16], *p* = 0.020, *I*² = 48.6%). 네 효과는 모두 같은 방향이었다. 중국의 공원[37]과 주거단지 옥외공간[38]에서 수행된 두 현장실험은 자연음 조건과 소음 조건에서 집단 또는 두 사람 사이의 상호작용을 비교했고(*g* = +0.98, +0.55), 나머지 두 현장실험은 조용한 조건과 도로공사 소음[39] 또는 잔디깎기 소음[40] 조건에서 낯선 사람을 돕는 행동을 비교했다(*g* = +0.43, +1.07). 이 클러스터에는 MMAT low 등급 연구가 포함되지 않았다.
-
-소리–행태 상관 클러스터(*k* = 6)에서는 소리 지표와 행태 사이에 정적 상관이 나타났고(*r* = +0.42, 95% CI [+0.19, +0.61], *p* = 0.006), 이질성이 높았다(*I*² = 92.0%). 개별 상관계수는 +0.16에서 +0.65 사이에 분포했다. 도시공원 방문객의 사운드스케이프 쾌적성과 정적 행태[41], 공원 체류시간과 회복감 지각[42], 가로의 등가소음도(LAeq)와 발성 노력[43]의 상관은 +0.55 이상이었고, 광장에서의 동행 여부와 소리 인지[44], 상업 가로의 자연음 사건과 대기(queuing) 행동[45]의 상관은 +0.21 이하였다. 가로의 음향 쾌적성과 보행 쾌적성의 상관(*r* = +0.40)[46]은 신뢰구간이 가장 넓었다.
 
 ### 3.5 Sensitivity analyses and publication bias
 
 민감도 분석 결과는 Table 3에 제시했다. 보행속도와 체류 클러스터에서는 어떤 민감도 분석에서도 합성 효과가 유의하지 않았다. 보행속도 클러스터에서 광장 배경음악 연구를 포함하면 추정치는 *g* = −0.77(*p* = 0.145)로 커졌고, 체류 클러스터에서 방문빈도를 결과로 보고한 연구를 포함하면 *g* = +0.20(*p* = 0.471)으로 작아졌다. 보행속도 클러스터는 기여 연구가 모두 MMAT low 등급이어서 low 등급을 제외한 분석을 수행할 수 없었다.
 
-**Table 3.** Pooled estimates and sensitivity analyses for the four behavioural clusters.
-
-| Analysis | *k* | Estimate [95% CI] | 95% PI | *p* | *I*² |
-|---|---|---|---|---|---|
-| **Walking speed (Hedges' g)** | | | | | |
-| Main analysis | 3 | −0.47 [−2.06, +1.11] | −9.13, +8.19 | 0.326 | 81.4% |
-| Leave-one-out (range) | 2 | −0.81 to −0.21 | — | 0.153 to 0.713 | — |
-| Excluding low-quality studies | 0 | Not estimable | — | — | — |
-| Sample size from observations | 3 | −0.44 [−2.05, +1.17] | — | 0.362 | 91.1% |
-| Excluding imputed input | 2 | −0.40 | — | 0.641 | 90.1% |
-| Including plaza background-music study | 4 | −0.77 [−2.03, +0.48] | — | 0.145 | 88.6% |
-| **Staying / dwell time (Hedges' g)** | | | | | |
-| Main analysis | 3 | +0.34 [−0.09, +0.78] | −1.67, +2.36 | 0.077 | 54.4% |
-| Leave-one-out (range) | 2 | +0.29 to +0.43 | — | 0.131 to 0.310 | — |
-| Excluding imputed input | 2 | +0.29 | — | 0.185 | 46.9% |
-| Including visit-frequency outcome | 4 | +0.20 [−0.58, +0.99] | — | 0.471 | 75.5% |
-| **Social interaction (Hedges' g)** | | | | | |
-| Main analysis | 4 | +0.68 [+0.20, +1.16] | −0.42, +1.78 | 0.020 | 48.6% |
-| Leave-one-out (range) | 3 | +0.56 to +0.80 | — | 0.041 to 0.066 | — |
-| Excluding study from citation searching | 3 | +0.60 [−0.04, +1.24] | — | 0.057 | 43.5% |
-| Including study with non-independent observations | 5 | +0.81 [+0.40, +1.22] | — | 0.005 | 77.4% |
-| **Sound–behaviour correlation (r)** | | | | | |
-| Main analysis | 6 | +0.42 [+0.19, +0.61] | −0.24, +0.82 | 0.006 | 92.0% |
-| Leave-one-out (range) | 5 | +0.39 to +0.48 | — | 0.006 to 0.024 | — |
-| Excluding low-quality studies | 5 | +0.47 [+0.21, +0.67] | — | 0.009 | 91.2% |
-| Excluding studies from citation searching | 4 | +0.44 [+0.14, +0.67] | — | 0.020 | 91.8% |
-| Excluding rank correlations | 4 | +0.48 [+0.11, +0.74] | — | 0.028 | 93.4% |
-
-*Note.* Estimates are Hedges' *g* (walking speed, staying and social interaction) or *r* (sound–behaviour correlation) from REML random-effects models with the Hartung–Knapp adjustment. CI = confidence interval; PI = prediction interval. Leave-one-out rows give the range of estimates and *p* values across omitted studies. Confidence intervals are not shown for *k* = 2 because the Hartung–Knapp interval then uses a *t* distribution with one degree of freedom. Analyses excluding low-quality studies (staying and social interaction), studies from citation searching (walking speed and staying) and laboratory reproductions of outdoor scenes (all clusters) were identical to the main analysis and are not shown.
-
 사회적 상호작용 클러스터에서는 한 편씩 제외한 네 분석(leave-one-out) 가운데 세 분석에서 *p*가 0.05를 넘었다. Chen과 Kang [37]을 제외했을 때 추정치가 가장 낮았고(*g* = +0.56, *p* = 0.059), 신뢰구간이 0을 배제한 것은 Moser [39]를 제외한 경우뿐이었다(*g* = +0.80, *p* = 0.041). 인용 추적으로 확보한 연구[40]를 제외하면 *g* = +0.60(*p* = 0.057)이었고, 관찰 기록 간 독립성 문제로 주분석에서 제외한 연구를 포함하면 *g* = +0.81(*p* = 0.005)이었다.
 
 소리–행태 상관 클러스터에서는 한 편씩 제외한 분석의 추정치가 *r* = +0.39에서 +0.48 사이였고, 모든 민감도 분석에서 신뢰구간이 0을 배제했다. MMAT low 등급 연구를 제외하면 *r* = +0.47, 인용 추적으로 확보한 연구를 제외하면 *r* = +0.44, 순위상관을 제외하면 *r* = +0.48이었다. 옥외 장면을 실험실에서 재현한 연구는 어느 클러스터에도 기여하지 않았으므로 이를 제외한 분석은 주분석과 같았다. 기여 효과가 가장 많은 클러스터도 *k* = 6으로 사전에 정한 기준(*k* ≥ 10)에 미달해 출판편향은 평가하지 않았다.
+
+**Table 3.** Pooled estimates and sensitivity analyses for the four behavioural clusters.
+
+| Analysis | *k* | Estimate [95% CI] | 95% PI | *p* | *I*² (%) |
+|---|---|---|---|---|---|
+| **Walking speed (Hedges' g)** | | | | | |
+| Main analysis | 3 | −0.47 [−2.06, +1.11] | −9.13, +8.19 | 0.326 | 81.4 |
+| Leave-one-out (range) | 2 | −0.81 to −0.21 | — | 0.153–0.713 | — |
+| Excluding low-quality studies | 0 | Not estimable | — | — | — |
+| Sample size from observations | 3 | −0.44 [−2.05, +1.17] | — | 0.362 | 91.1 |
+| Excluding imputed input | 2 | −0.40 | — | 0.641 | 90.1 |
+| Adding background-music study | 4 | −0.77 [−2.03, +0.48] | — | 0.145 | 88.6 |
+| **Staying / dwell time (Hedges' g)** | | | | | |
+| Main analysis | 3 | +0.34 [−0.09, +0.78] | −1.67, +2.36 | 0.077 | 54.4 |
+| Leave-one-out (range) | 2 | +0.29 to +0.43 | — | 0.131–0.310 | — |
+| Excluding imputed input | 2 | +0.29 | — | 0.185 | 46.9 |
+| Adding visit-frequency outcome | 4 | +0.20 [−0.58, +0.99] | — | 0.471 | 75.5 |
+| **Social interaction (Hedges' g)** | | | | | |
+| Main analysis | 4 | +0.68 [+0.20, +1.16] | −0.42, +1.78 | 0.020 | 48.6 |
+| Leave-one-out (range) | 3 | +0.56 to +0.80 | — | 0.041–0.066 | — |
+| Excluding citation-searching study | 3 | +0.60 [−0.04, +1.24] | — | 0.057 | 43.5 |
+| Adding non-independent study | 5 | +0.81 [+0.40, +1.22] | — | 0.005 | 77.4 |
+| **Sound–behaviour correlation (r)** | | | | | |
+| Main analysis | 6 | +0.42 [+0.19, +0.61] | −0.24, +0.82 | 0.006 | 92.0 |
+| Leave-one-out (range) | 5 | +0.39 to +0.48 | — | 0.006–0.024 | — |
+| Excluding low-quality studies | 5 | +0.47 [+0.21, +0.67] | — | 0.009 | 91.2 |
+| Excluding citation-searching studies | 4 | +0.44 [+0.14, +0.67] | — | 0.020 | 91.8 |
+| Excluding rank correlations | 4 | +0.48 [+0.11, +0.74] | — | 0.028 | 93.4 |
+
+*Note.* Estimates are Hedges' *g* (walking speed, staying and social interaction) or *r* (sound–behaviour correlation) from REML random-effects models with the Hartung–Knapp adjustment. CI = confidence interval; PI = prediction interval. Leave-one-out rows give the range of estimates and *p* values across omitted studies. Confidence intervals are not shown for *k* = 2 because the Hartung–Knapp interval then uses a *t* distribution with one degree of freedom. Analyses excluding low-quality studies (staying and social interaction), studies from citation searching (walking speed and staying) and laboratory reproductions of outdoor scenes (all clusters) were identical to the main analysis and are not shown. Rows beginning with *Adding* include a study that was excluded from the main analysis (Section 2.9).
 
 ### 3.6 Direction of the relationship (RQ2)
 
 98편에서 추출한 행태 도메인 수준 레코드 212건 가운데 113건은 순방향(소리 → 행태), 74건은 역방향(행태 → 소리), 25건은 양방향이었다. 순방향 또는 역방향으로 분류된 187건 중 역방향은 74건(40%)이었고, 양방향 레코드까지 분모에 포함하면 35%였다.
 
-<<FIG:Fig4_Direction>>
-
 역방향 레코드의 비중은 행태 도메인에 따라 달랐다(Fig. 5). 이동(순방향 33건, 역방향 8건)과 체류(16건, 8건)에서는 순방향 레코드가 대부분이었지만, 공간이용(26건, 23건), 활동(18건, 21건), 사회적 행태(20건, 14건)에서는 두 방향의 레코드 수가 비슷했다. 역방향 연구에는 군중 밀도와 음압의 관계, 활동 프로그램에 따른 음환경 변화, 동행 여부와 소리 인지의 관계를 다룬 연구 등이 포함됐다.
+
+<<FIG:Fig4_Direction>>
 
 ### 3.7 Behavioural measurement methods (RQ3)
 
 센서, GPS, 영상, 빅데이터를 이용한 행태 측정(G3)은 2010–2019년 4편에서 2020년 이후 20편으로 늘었고, 같은 기간 자기보고(G1)는 14편에서 39편으로, 체계적 관찰(G2)은 11편에서 28편으로 늘었다(Fig. 6). 22편은 두 세대 이상의 방법을 함께 사용했으며, 이러한 연구는 2010년대 5편에서 2020년 이후 17편으로 늘었다.
 
 <<FIG:Fig5_Methods>>
+
+<<PAGEBREAK>>
 
 ### 3.8 Evidence map
 
@@ -288,46 +296,50 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 ---
 
+<<PAGEBREAK>>
+
 ## 4. Discussion
 
 ### 4.1 A reciprocal evidence framework for soundscape and behaviour
 
 본 리뷰는 Fig. 8의 개념 틀을 닫힌 인과 피드백 고리(closed causal feedback loop)를 입증한 모형이 아니라 상호적 증거 프레임워크(reciprocal evidence framework)로 제시한다.
 
-<<FIG:Fig6_Framework>>
-
 이 틀에는 두 가지 주요 경로가 있다. 순방향 경로는 음환경에서 사운드스케이프 평가를 거쳐 행태로 이어지고, 역방향 경로는 활동과 점유에서 소리 발생을 거쳐 다시 음환경으로 이어진다. 음환경은 평가를 거치지 않고 행태와 직접 연관될 수도 있다. 세팅 유형, 시각–청각 정합성(visual–acoustic congruence), 체류 목적, 시간적 조건, 사회·문화적 맥락을 포함한 맥락(context)은 두 경로를 모두 조절(moderate)할 수 있으며, 이러한 조절 요인은 기존 사운드스케이프 연구의 논의와 일치한다[9,10,12,13]. 본 리뷰가 양방향 증거 구조(bidirectional evidence structure)라는 용어를 사용하는 것도 이 때문이다. 역방향 연구가 존재한다고 해서 특정 세팅 안에서 닫힌 인과 고리가 입증된 것은 아니다. 또한 이 틀은 행태를 하나의 결과(endpoint)가 아니라 다양한 결과의 집합으로 다룬다. 종합을 위해 이 결과들을 회피(avoidance), 통과(passing), 체류(staying), 상호작용(interacting), 전유(appropriating)로 이어지는 관여의 경사(engagement gradient) 위에 배열했다. 이 경사는 결과를 정리하기 위한 종합 장치(synthesis device)이며 검증된 서열 행태 척도(validated ordinal behavioural scale)는 아니다.
 
 정량 증거는 이 경사를 따라 고르게 분포하지 않았다. 가장 강한 합성 결과는 사회적 상호작용에서 나타났고, 회피와 전유 양 끝의 증거는 훨씬 적었다. 따라서 이 틀은 관계를 단순하게 도식화하는 것보다 증거의 공백을 진단하는 데 더 유용하다. 증거의 상당 부분이 역방향 연구에서 나오는데도 이 분야는 주로 순방향 경로를 중심으로 연구돼 왔고, 전유처럼 공공공간 설계에서 중요하지만 정량 코퍼스에서는 드물게 나타나는 행태 결과도 이 틀을 통해 드러난다.
 
+<<FIG:Fig6_Framework>>
+
 ### 4.2 Strength of evidence for planning actions (RQ4)
 
-Table 4는 코퍼스에서 도출한 열 개의 계획 레버와 각 레버의 계획 근거 강도(2.8절)를 정리한 것이다.
-
-**Table 4.** Planning levers derived from the included studies and their planning evidence strength.
-
-| Lever | Planning action | Behavioural outcome | Evidence direction | Studies | MMAT mix | Planning evidence strength |
-|---|---|---|---|---|---|---|
-| **L1** | Programme music in public space | May increase dwell time and approach to or engagement with the sound source; evidence for increasing visitor numbers is weaker | promotes | 7 | high 3 · moderate 2 · low 2 | **Moderate** |
-| **L2** | Provide or enhance natural sounds (e.g., water, birdsong) | Associated with greater social interaction and staying; independent contributions of natural sound and competing-noise removal remain unresolved | promotes | 6 | high 2 · moderate 3 · low 1 | **Moderate** |
-| **L3** | Provide quieter routes for walking and cycling | May influence route choice and the spatial distribution of movement by allowing users to avoid noisier alignments | promotes | 8 | high 4 · moderate 1 · low 3 | **Moderate** |
-| **L4** | Remove, relocate, or reschedule mechanical and maintenance noise | May reduce avoidance and support staying and social interaction in intended social spaces | promotes | 7 | high 2 · moderate 3 · low 2 | **Moderate** |
-| **L5** | Provide quieter sides or designated quiet zones | May support walking, exercise, rest, and staying where acoustic conditions are otherwise constraining | mixed | 10 | high 2 · moderate 4 · low 4 | **Low** |
-| **L6** | Use acoustic zoning and spatial separation of functions | May redistribute crowd density, interaction, and staying across adjacent activity areas | mixed | 6 | high 1 · moderate 5 | **Low** |
-| **L7** | Programme sound-generating public activities | May convert passage into watching, lingering, and social interaction; evidence for increasing overall visitor numbers is insufficient | promotes | 6 | high 1 · moderate 2 · low 3 | **Low** |
-| **L8** | Use auditory guidance and warning signals where appropriate | May modify crossing trajectories, detection timing, and movement responses | mixed | 4 | high 1 · moderate 2 · low 1 | **Low** |
-| **L9** | Treat natural sound as a potential modifier of pedestrian pace | Existing evidence is insufficient to justify designing specifically to slow pedestrian movement through natural sound | mixed | 5 | high 1 · low 4 | **Very low** |
-| **L10** | Use speech-interference considerations when locating social spaces | Lower acoustic interference may support conversational interaction and reduce vocal effort | promotes | 3 | high 2 · moderate 1 | **Low** |
-
-*Note.* Planning evidence strength is a pragmatic synthesis judgement based on the number of contributing studies, their MMAT grades, statistical uncertainty, diversity of settings and sensitivity to analytical decisions (Section 2.8); it is not a validated certainty-of-evidence framework such as GRADE. Mixed = contributing studies differ in direction or the behavioural implication depends on context. Moderate = may be included in a design proposal with post-occupancy monitoring; Low = to be tested as a hypothesis and not written into a standard or guideline; Very low = no prescriptive basis at present.
-
-계획 근거 강도가 high에 도달한 레버는 없었다. 네 개 레버(음악 프로그래밍, 자연음 제공, 정온 경로 제공, 기계·유지관리 소음 통제)가 moderate, 다섯 개가 low, 한 개가 very low였다. 이 분포는 현재의 증거가 보편적 설계 기준보다는 모니터링을 동반한 설계 가설을 뒷받침한다는 점을 보여 준다. 등급과 별개로, 그럴듯하지만 본 리뷰의 자료로는 지지되지 않는 해석을 피하기 위해 세 가지를 짚어 둔다.
+Table 4는 코퍼스에서 도출한 열 개의 계획 레버와 각 레버의 계획 근거 강도(2.8절)를 정리한 것이다. 계획 근거 강도가 high에 도달한 레버는 없었다. 네 개 레버(음악 프로그래밍, 자연음 제공, 정온 경로 제공, 기계·유지관리 소음 통제)가 moderate, 다섯 개가 low, 한 개가 very low였다. 이 분포는 현재의 증거가 보편적 설계 기준보다는 모니터링을 동반한 설계 가설을 뒷받침한다는 점을 보여 준다. 등급과 별개로, 그럴듯하지만 본 리뷰의 자료로는 지지되지 않는 해석을 피하기 위해 세 가지를 짚어 둔다.
 
 첫째, 유의한 사회적 상호작용 클러스터를 자연음을 더한 효과나 소음을 없앤 효과 중 어느 하나로만 해석해서는 안 된다. 자연음 연구는 대개 새소리나 물소리를 교통 소음이나 공사 소음과 비교하므로, 자연음의 추가와 경쟁 소음의 제거가 교락(confounded)돼 있다. 네 효과를 노출 유형으로 나누면 평균이 거의 같았고(자연음 +0.76, 기계음 +0.75), 도로공사 연구를 제외하면 합성 추정치가 낮아지지 않고 오히려 높아졌다(+0.68 → +0.80). 코퍼스에는 자연음 조건을 다른 조건이 비슷한 정온 조건과 비교한 연구가 없었다. 따라서 더 조용하거나 자연음이 있는 조건이 더 많은 사회적 상호작용과 연관된다는 것까지는 말할 수 있지만, 자연음의 독립적인 기여는 확인되지 않았다. 또한 이 클러스터를 유의 수준 너머로 끌어올린 증분은 인용 검색으로 확보한 기계음 실험 한 편에서 나왔다.
 
 둘째, 보행속도에 관한 증거는 합성 결과의 이름이 주는 인상보다 범위가 좁다. 기여 효과의 대부분은 공공공간의 음환경이 아니라 보행 중 헤드폰으로 전달한 오디오를 조작한 결과였다. 헤드폰 청취는 배경음 차폐, 개인의 통제 가능성, 주의 배분 측면에서 환경음과 다르다. 또한 기여 연구는 하나의 연구 프로그램에 집중돼 있었다. 풀에 포함된 세 효과 중 두 효과가 같은 체코 연구진의 연구였고[28,29], 인용 추적으로 추가된 MMAT high 등급 보행 논문 두 편[31,32]도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이었다. 나머지 한 효과는 부호가 반대인 알제리의 현장 관찰 연구였다[30]. 따라서 메타분석의 *k*를 환경소음이 보행을 빠르게 한다는 독립적인 반복 확인으로 해석해서는 안 된다. 보행속도 풀 밖에서는 실제 가로의 소음을 조작하면서 군중 행태를 관찰한 연구가 한 편 있었다. Ba 등 [47]은 교통소음 55.6 dB(A) 조건과 70.5 dB(A) 조건에서 평균 군중 속도가 각각 약 1.14 m/s와 1.21 m/s로, 고소음 조건에서 약 0.07 m/s 빨랐다고 보고했다. 그러나 저자들이 보고한 측정 격자 간 최대 차이도 0.06 m/s였고, 이 연구는 MMAT low 등급으로 평가됐다. 이 결과는 합성 추정치와 방향은 같지만 일반적인 인과 효과를 입증하지는 않는다. 따라서 보행속도는 설계 목표로 삼기보다, 아직 결론이 나지 않았고 연구 간 이질성이 큰 결과로 다루는 것이 적절하다.
 
 셋째, 소리–행태 상관 클러스터는 개입 효과가 아니라 연관적 증거 기반(associative evidence base)으로 해석해야 한다. 이 클러스터의 결과는 검색 경로나 개별 연구의 제외에 따라 크게 달라지지 않았지만(3.5절), 순방향과 역방향 연구, 지각 지표와 객관적 음향 지표(LAeq), 여러 행태 결과가 함께 포함돼 이질성이 높았다(*I*² = 92.0%). 따라서 이 결과는 소리 지표와 행태가 대체로 함께 변한다는 점을 보여 주지만, 어떤 소리 지표가 어떤 행태와 어느 방향으로 얼마나 연관되는지는 알려 주지 않는다. 측정 방법의 차이도 이러한 이질성의 원인일 수 있다(4.4절).
+
+<<LANDSCAPE>>
+
+**Table 4.** Planning levers derived from the included studies and their planning evidence strength.
+
+| Lever | Planning action | Behavioural outcome | Evidence direction | Studies | MMAT (H / M / L) | Planning evidence strength |
+|---|---|---|---|---|---|---|
+| **L1** | Programme music in public space | May increase dwell time and approach to or engagement with the sound source; evidence for increasing visitor numbers is weaker | promotes | 7 | 3 / 2 / 2 | **Moderate** |
+| **L2** | Provide or enhance natural sounds (e.g., water, birdsong) | Associated with greater social interaction and staying; independent contributions of natural sound and competing-noise removal remain unresolved | promotes | 6 | 2 / 3 / 1 | **Moderate** |
+| **L3** | Provide quieter routes for walking and cycling | May influence route choice and the spatial distribution of movement by allowing users to avoid noisier alignments | promotes | 8 | 4 / 1 / 3 | **Moderate** |
+| **L4** | Remove, relocate, or reschedule mechanical and maintenance noise | May reduce avoidance and support staying and social interaction in intended social spaces | promotes | 7 | 2 / 3 / 2 | **Moderate** |
+| **L5** | Provide quieter sides or designated quiet zones | May support walking, exercise, rest, and staying where acoustic conditions are otherwise constraining | mixed | 10 | 2 / 4 / 4 | **Low** |
+| **L6** | Use acoustic zoning and spatial separation of functions | May redistribute crowd density, interaction, and staying across adjacent activity areas | mixed | 6 | 1 / 5 / 0 | **Low** |
+| **L7** | Programme sound-generating public activities | May convert passage into watching, lingering, and social interaction; evidence for increasing overall visitor numbers is insufficient | promotes | 6 | 1 / 2 / 3 | **Low** |
+| **L8** | Use auditory guidance and warning signals where appropriate | May modify crossing trajectories, detection timing, and movement responses | mixed | 4 | 1 / 2 / 1 | **Low** |
+| **L9** | Treat natural sound as a potential modifier of pedestrian pace | Existing evidence is insufficient to justify designing specifically to slow pedestrian movement through natural sound | mixed | 5 | 1 / 0 / 4 | **Very low** |
+| **L10** | Use speech-interference considerations when locating social spaces | Lower acoustic interference may support conversational interaction and reduce vocal effort | promotes | 3 | 2 / 1 / 0 | **Low** |
+
+*Note.* Planning evidence strength is a pragmatic synthesis judgement based on the number of contributing studies, their MMAT grades, statistical uncertainty, diversity of settings and sensitivity to analytical decisions (Section 2.8); it is not a validated certainty-of-evidence framework such as GRADE. Mixed = contributing studies differ in direction or the behavioural implication depends on context. MMAT (H / M / L) = number of contributing studies rated high, moderate and low. Moderate = may be included in a design proposal with post-occupancy monitoring; Low = to be tested as a hypothesis and not written into a standard or guideline; Very low = no prescriptive basis at present.
+
+<<END LANDSCAPE>>
 
 ### 4.3 Implications for landscape planning
 
@@ -390,6 +402,8 @@ This study analysed only publicly available, aggregated and de-identified data a
 추출 자료, 품질평가 결과, 메타분석 입력 자료와 분석 코드, 프로토콜 편차 기록은 OSF 프로젝트(osf.io/7ew8q)에 공개한다. 포함 연구의 원문은 출판사 저작권 대상이므로 재배포하지 않는다.
 
 ---
+
+<<PAGEBREAK>>
 
 ## References
 
@@ -524,6 +538,8 @@ PubMed (limits included in the string):
 OpenAlex, title and abstract search (filters: English; type, article; source type, journal):
 
 (soundscape OR soundscapes OR "acoustic environment" OR "sound environment" OR "acoustic comfort" OR "traffic noise" OR "environmental noise" OR "urban noise" OR "aircraft noise" OR "natural sound" OR "natural sounds" OR birdsong OR "water sound" OR "water sounds" OR "background music" OR "added sound") AND (behavior OR behaviour OR behavioral OR behavioural OR "walking speed" OR "pedestrian movement" OR "route choice" OR wayfinding OR "dwell time" OR lingering OR "time spent" OR sitting OR "space use" OR "park use" OR visitation OR "physical activity" OR "social interaction" OR "social interactions" OR prosocial OR antisocial OR avoidance OR "crowd behavior" OR "crowd behaviour") AND (urban OR city OR cities OR park OR parks OR street OR streets OR "public space" OR "public spaces" OR "open space" OR "open spaces" OR plaza OR square OR waterfront OR greenspace OR "green space" OR "recreational area" OR "recreational areas" OR campus)
+
+<<LANDSCAPE>>
 
 ## Appendix B. Characteristics of included studies
 

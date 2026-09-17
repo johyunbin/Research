@@ -91,6 +91,8 @@ def main():
             if e.get("route") == "citation-tracking":
                 study += " ▲"
             country = "; ".join(norm_countries(EXT_COUNTRY[uid])) or "NR"
+            # 사용자 ver6(2026-09-17) 편집: 이 표만 UK 약어(가로 쪽 표 폭). 약어 정의는 표 주석에 둔다.
+            country = country.replace("United Kingdom", "UK")
             setting = t["setting"].split(";")[0].strip()
             setting = {"lab(outdoor scene)": "laboratory (outdoor scene)"}.get(setting, setting)
             design = t["design"].split(";")[0].strip()

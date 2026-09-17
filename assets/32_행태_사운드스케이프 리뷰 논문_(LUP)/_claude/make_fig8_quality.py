@@ -77,8 +77,9 @@ def main():
         if i in ITEMS:
             item_v[i][(r["verdict"] or "").strip().upper()] += 1
 
-    fig, axes = plt.subplots(2, 1, figsize=(T.W_FULL, 5.4),
-                             gridspec_kw={"height_ratios": [1.0, 1.62], "hspace": 0.5})
+    # 2026-09-17 사용자: "(b) 의 상하 폭을 좀더 늘리자. 약간 납작한 느낌" → 전체 5.4→7.0 in, (b) 비중 1.62→1.95
+    fig, axes = plt.subplots(2, 1, figsize=(T.W_FULL, 7.0),
+                             gridspec_kw={"height_ratios": [1.0, 1.95], "hspace": 0.42})
 
     # ── (a) 범주별 등급 ─────────────────────────────────────────────
     ax = axes[0]
@@ -183,14 +184,17 @@ def main():
         ax.spines[s].set_visible(False)
     ax.tick_params(axis="y", length=0)
     handles = [plt.Rectangle((0, 0), 1, 1, color=c) for c in (YES, CT, NO)]
-    ax.legend(handles, ["Yes", "Can't tell", "No"],
-              fontsize=7.5, loc="upper center", bbox_to_anchor=(0.5, 1.115), ncol=3,
-              handlelength=1.0, columnspacing=1.3)
+    leg_b = ax.legend(handles, ["Yes", "Can't tell", "No"],
+                      fontsize=7.5, loc="upper center", bbox_to_anchor=(0.5, 1.115), ncol=3,
+                      handlelength=1.0, columnspacing=1.3)
     ax.set_title("(b)  Selected MMAT items",
                  fontsize=9, loc="left", pad=24, fontweight="bold")
 
     # ★ 그림에 제목을 넣지 않는다 — 캡션이 담당한다(저널 관행).
-    fig.subplots_adjust(left=0.345, right=0.955, top=0.945, bottom=0.055)
+    fig.subplots_adjust(left=0.345, right=0.955, top=0.955, bottom=0.05)
+    # 범례는 패널 위 0.27 in 에 고정 — 축 좌표(1.115)로 두면 패널을 키울수록 제목 쪽으로 올라간다
+    h_in = ax.get_position().height * fig.get_figheight()
+    leg_b.set_bbox_to_anchor((0.5, 1 + 0.27 / h_in))
     for ext in ("png", "pdf"):
         fig.savefig(os.path.join(FIG, f"Fig8_Quality.{ext}"), dpi=300)
     plt.close(fig)

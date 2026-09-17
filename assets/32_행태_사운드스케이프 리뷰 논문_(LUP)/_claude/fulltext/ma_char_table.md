@@ -5,7 +5,7 @@
 | Franěk et al. (2019) | Czechia | Street | Field experiment | birdsong vs city noise (Exp 1 and 2) | 102 | Low | −0.63 [−1.12, −0.13] |
 | Berkouk et al. (2020) | Algeria | Street | Observation | natural vs traffic sound | 54 | Low | +0.23 [−0.31, +0.76] |
 | **Staying / dwell time (Hedges' g; positive = longer stay)** | | | | | | | |
-| Aletta et al. (2016) | United Kingdom | Campus | Field experiment | music vs no music | 596 | High | +0.39 [+0.19, +0.59] |
+| Aletta et al. (2016) | UK | Campus | Field experiment | music vs no music | 596 | High | +0.39 [+0.19, +0.59] |
 | Ba et al. (2020) | China | Street | Field experiment | music vs no sound | 97 | Moderate | +0.61 [+0.21, +1.02] |
 | Fu et al. (2026) | China | Mixed | Mixed | natural sound index (high vs low) | 241 | Moderate | +0.21 [+0.07, +0.36] |
 | **Social interaction (Hedges' g; positive = more interaction)** | | | | | | | |
@@ -19,4 +19,4 @@
 | Mansouri et al. (2025) | Algeria | Street | Mixed | sound comfort with walking comfort | NR | Moderate | +0.40 [+0.04, +0.67] |
 | Bao et al. (2023) | China | Park | Survey | dwell time with perceived restoration | 180 | Moderate | +0.55 [+0.44, +0.65] |
 | Montes González et al. (2023) ▲ | Spain | Street | Survey | LAeq with vocal effort | 29 | Moderate | +0.65 [+0.37, +0.82] |
-| Cao & Kang (2021) ▲ | China; United Kingdom | Square | Survey | companion presence with sound noticing | 301 | Moderate | +0.16 [+0.05, +0.27] |
+| Cao & Kang (2021) ▲ | China; UK | Square | Survey | companion presence with sound noticing | 301 | Moderate | +0.16 [+0.05, +0.27] |

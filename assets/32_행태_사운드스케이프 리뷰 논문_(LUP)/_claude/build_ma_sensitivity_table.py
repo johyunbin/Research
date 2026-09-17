@@ -63,8 +63,9 @@ def est_ci(o, is_r):
 
 
 def row(label, o, is_r, pi=""):
+    # I² 는 열 제목에 단위(%)를 두고 값에는 붙이지 않는다(사용자 ver6 편집)
     return (f"| {label} | {o['k']} | {est_ci(o, is_r)} | {pi or '—'} | {pval(o['p'])} "
-            f"| {o['I2']:.1f}% |")
+            f"| {o['I2']:.1f} |")
 
 
 def loo_row(prefix, is_r):
@@ -73,11 +74,12 @@ def loo_row(prefix, is_r):
     es = [r["r"] if is_r else r["est"] for r in loo]
     ps = [r["p"] for r in loo]
     return (f"| Leave-one-out (range) | {'/'.join(str(k) for k in sorted(ks))} "
-            f"| {num(min(es))} to {num(max(es))} | — | {pval(min(ps))} to {pval(max(ps))} | — |")
+            f"| {num(min(es))} to {num(max(es))} | — | {pval(min(ps))}–{pval(max(ps))} | — |")
+    # 추정치 범위는 음수가 섞여 "to", p 범위는 양수라 en dash — 좁은 p 열에서 줄바꿈을 없앤다
 
 
 def main():
-    out = ["| Analysis | *k* | Estimate [95% CI] | 95% PI | *p* | *I*² |",
+    out = ["| Analysis | *k* | Estimate [95% CI] | 95% PI | *p* | *I*² (%) |",
            "|---|---|---|---|---|---|"]
 
     def head(text):
@@ -100,31 +102,31 @@ def main():
     out.append(loo_row("MA1", False))
     if sens("MA1", "저품질 제외")["k"] != 0:
         raise SystemExit("⚠️ 보행속도 low 제외 분석이 추정 가능해졌다 — 표 행 구성을 다시 볼 것")
-    out.append("| Excluding low-quality studies | 0 | Not estimable | — | — | — |")
+    out.append("| Excluding low-quality studies | 0 | Not estimable | — | — | — |")   # I² 열도 — (값 없음)
     out.append(row("Sample size from observations", sens("MA1", "③ 관측 n"), False))
     out.append(row("Excluding imputed input", sens("MA1", "⑤ 532 제외"), False))
-    out.append(row("Including plaza background-music study", sens("MA1", "⑥ 481 포함"), False))
+    out.append(row("Adding background-music study", sens("MA1", "⑥ 481 포함"), False))
 
     # ── 체류 ────────────────────────────────────────────────────────
     head("Staying / dwell time (Hedges' g)")
     main_row("staying", "MA2", False)
     out.append(loo_row("MA2", False))
     out.append(row("Excluding imputed input", sens("MA2", "⑤ 665 제외"), False))
-    out.append(row("Including visit-frequency outcome", v2("민감도: 방문빈도 포함"), False))
+    out.append(row("Adding visit-frequency outcome", v2("민감도: 방문빈도 포함"), False))
 
     # ── 사회적 상호작용 ────────────────────────────────────────────
     head("Social interaction (Hedges' g)")
     main_row("social", "MA3", False)
     out.append(loo_row("MA3", False))
-    out.append(row("Excluding study from citation searching", sens("MA3", "인용추적 제외"), False))
-    out.append(row("Including study with non-independent observations", v2("민감도: CT0414 추가"), False))
+    out.append(row("Excluding citation-searching study", sens("MA3", "인용추적 제외"), False))
+    out.append(row("Adding non-independent study", v2("민감도: CT0414 추가"), False))
 
     # ── 소리–행태 상관 ─────────────────────────────────────────────
     head("Sound–behaviour correlation (r)")
     main_row("correlation", "MA4", True)
     out.append(loo_row("MA4", True))
     out.append(row("Excluding low-quality studies", sens("MA4", "저품질 제외"), True))
-    out.append(row("Excluding studies from citation searching", sens("MA4", "인용추적 제외"), True))
+    out.append(row("Excluding citation-searching studies", sens("MA4", "인용추적 제외"), True))
     out.append(row("Excluding rank correlations", sens("MA4", "④ rho 제외"), True))
 
     # 표에서 뺀 분석이 정말 주분석과 같은지 확인한다(주석에 "identical" 이라고 쓰므로)

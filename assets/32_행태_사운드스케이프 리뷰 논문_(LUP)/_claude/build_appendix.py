@@ -110,7 +110,8 @@ def main():
                     cap(r["behaviour_domain"].replace("space-use", "space use")),
                     cap(r["direction"]), cap(r["quality"])))
     out.sort(key=lambda x: (x[0].lower(), x[0]))
-    L += ["## Appendix B. Characteristics of included studies", "",
+    # 사용자 ver6(2026-09-17): 부록 B 는 가로 쪽. 표시는 build_docx.py 가 구역 나눔으로 바꾼다.
+    L += ["<<LANDSCAPE>>", "", "## Appendix B. Characteristics of included studies", "",
           # 표 제목은 짧게, 정의는 표 아래 주석으로(LUP 예시 Zhang et al. 2025 의 표 구성, 2026-09-17)
           f"**Table B1.** Studies included in the review (n = {len(out)}).", "",
           "| Study | Country | Setting | Design | Behavioural domain | Direction | MMAT |",
