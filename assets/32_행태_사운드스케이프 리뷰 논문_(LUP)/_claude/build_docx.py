@@ -32,13 +32,17 @@ ROOT = os.path.dirname(BASE)
 SRC = os.path.join(ROOT, "01_논문작업",
                    sys.argv[1] if len(sys.argv) > 1 else "Manuscript_KO.md")
 FIGDIR = os.path.join(BASE, "figures")
-TEMPLATE = os.path.join(BASE, "templates", "Manuscript_KO_format_20260917_ver2.docx")
+TEMPLATE = os.path.join(BASE, "templates", "Manuscript_KO_format_20260917_ver3.docx")
 #   ver1(2026-09-17 서론 점검본): 본문 양쪽 정렬 · 절/소절 제목 앞 빈 줄
 #   ver2(2026-09-17 사용자 ver6 편집본): 3선 표 · 가로 쪽(Table 2·4·B1) · 그림 1·8 재작도 · 서론 앞 쪽 나눔 없음
+#   ver3(2026-09-17 사용자 ver7 최종 수정본, "내가 최종 수정한 버전을 가지고 향후 작업"): 교신저자 블록 복원
+#        (단독·교신 저자, 저자명 뒤 ¹* 위첨자) · 3.8절·4장 앞 쪽 나눔 제거 · 3.4절 앞 빈 줄 없음(<<NOGAP>>)
 USER_FIGDIR = os.path.join(FIGDIR, "user")     # 사용자가 다시 그린 그림(원본 = 01_논문작업/Figure.pptx)
 # 열 폭을 서식본 값 대신 내용으로 다시 나누는 표 — 사용자 위임(2026-09-17 "table 3과 4 는 글이 길어서
 # 폭을 조절하는데 한계"): 행 이름·MMAT 열을 줄이면서 폭도 새로 나눈다. 나머지 표는 사용자 폭 그대로.
-REFLOW_TABLES = {"Table 3", "Table 4"}
+REFLOW_TABLES = set()
+#   2026-09-17 ver3: Table 3·4 도 사용자 ver7 의 열 폭(사용자가 Table 4 MMAT·근거 강도 열을 넓힘)을 그대로 쓴다.
+#   표 내용이 크게 바뀌어 폭을 다시 나눠야 할 때만 {"Table 3", "Table 4"} 처럼 넣는다.
 
 # 그림별 삽입 폭(in) — ★ 삽입 폭 = 작화 폭(viz_theme.W_FULL = 6.05 in), 축소 없이 1:1.
 #   그림을 크게 그려 놓고 줄여 넣으면 글자가 4~6 pt 로 떨어진다(구판 실측).
@@ -327,7 +331,7 @@ def _set_ppr(p, pPr):
 
 
 INLINE = re.compile(r"(\*\*.+?\*\*|(?<!\*)\*[^*\n]+?\*(?!\*)|`[^`]+?`)", re.S)
-SUPER = re.compile(r"([¹²³⁴⁵⁶⁷⁸⁹⁰]+)")
+SUPER = re.compile(r"([¹²³⁴⁵⁶⁷⁸⁹⁰]+\*?)")     # 저자명 뒤 교신저자 표시 * 도 위첨자(사용자 ver7)
 _SUP_DIGIT = str.maketrans("¹²³⁴⁵⁶⁷⁸⁹⁰", "1234567890")
 
 
@@ -375,8 +379,13 @@ def _no_gap_needed(doc):
     return last.find(qn("w:pPr") + "/" + qn("w:outlineLvl")) is not None
 
 
+_NOGAP = [False]      # md <<NOGAP>> — 다음 제목 앞 빈 줄을 넣지 않는다(사용자 ver7: 3.4절 앞)
+
+
 def heading(doc, F, role, text, gap=True):
     """절·소절 제목. 앞에 빈 줄을 둔다(사용자 서론 점검본 2026-09-17) — 직전이 빈 줄이면 생략."""
+    if _NOGAP[0]:
+        gap, _NOGAP[0] = False, False
     if gap and not _no_gap_needed(doc):
         emit(doc, F, "head_gap")
     return emit(doc, F, role, text)
@@ -728,6 +737,8 @@ def main():
             if name == "Author information":        # 경계 마커 — 지면에 싣지 않는다
                 mode = "front"
             elif name == "Abstract":
+                if mode == "front" and "address" in F.pPr and not _is_spacer(_last(doc)):
+                    emit(doc, F, "fm_gap")                  # 교신 주소 뒤 빈 줄(사용자 ver7)
                 _append_clone(doc, F.brk["abstract"])
                 emit(doc, F, "abs_head", "ABSTRACT")
                 mode = "abstract"; n_head += 1
@@ -762,6 +773,10 @@ def main():
             i += 1
             continue
         if st_ln.startswith(">") or WORKNOTE.search(st_ln):          # 작업 메모·인용 블록
+            i += 1
+            continue
+        if st_ln == "<<NOGAP>>":
+            _NOGAP[0] = True
             i += 1
             continue
         if st_ln == "<<PAGEBREAK>>":

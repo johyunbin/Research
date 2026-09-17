@@ -211,7 +211,7 @@ def main():
     print(f"메타분석 수치 대조: {ma_bad if ma_bad else '✅ 일치'}")
 
     # 원고에 남은 플레이스홀더
-    todo = re.findall(r"\*\[.*?\]\*", ms)
+    todo = re.findall(r"(?<!\*)\*\[.*?\]\*(?!\*)", ms)   # **[Corresponding author]** 같은 굵은 라벨은 제외
     print(f"\n미작성 구간 {len(todo)}개: {[t[:40] for t in todo]}")
     return 1 if (bad or ma_bad) else 0
 
