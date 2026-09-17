@@ -1,0 +1,16 @@
+﻿id,item,item_no,verdict,rationale
+562,sampling strategy relevant to address research question,4.1,Y,§3.1: MTurk 에서 2017 미국 센서스 기준(연령·소득·학력·인종·고용)으로 표본을 맞춰 모집해 미국 거주자의 여가 보행 경로 선호라는 질문에 맞는 표집 전략.
+562,sample representative of the target population,4.2,Y,"§3.1·Table 1: 연령·소득·인종이 센서스와 가깝다고 보고(남성 56.1%로 다소 과대, 여가 보행자 87.8%)하고 MTurk 자기선택 한계를 저자가 논의함."
+562,measurements appropriate,4.3,N,Table 2·§5.3: 소음 수준을 정의 없는 low/medium/high 문자 기술로만 제시(음향 자극·측정 없음)했고 결과는 실제 행동이 아닌 가상 경로 선택(진술 선호)이라 음환경·행태 측정으로서 타당성이 약함.
+562,risk of nonresponse bias low,4.4,CT,§3.1: 완료 536부 중 불성실 응답 35부 제외만 보고하고 MTurk 노출 대비 참여율·무응답 특성은 보고하지 않음.
+562,statistical analysis appropriate to answer research question,4.5,Y,"§3.4: 개인 수준 계층베이즈 추정(40,000 draws), 95% CI 와 t 검정으로 수준·속성 간 차이를 검정하고 다중회귀로 개인 특성 효과를 분석함."
+713,sampling strategy relevant to address research question,4.1,Y,"§2.1·§3.1: 공원 5개 시설 위치에 방문객을 30명씩 배분해 위치 간 음환경·지각 비교라는 질문에 맞춘 표집(단, 접근·선정 방법은 기술하지 않음)."
+713,sample representative of the target population,4.2,N,§2.1·§3.1: 맑은 평일 하루에만 조사했고 남성 28.7%·매일 방문 49.3%로 치우쳤으며 방문객 모집단과의 비교가 없음.
+713,measurements appropriate,4.3,Y,"§2.1.1–2.1.2: B&K 2270 분석기 10분 측정과 ISO 532-1 라우드니스 산출, 방문빈도·체류시간 자기보고와 5점 의미분별 척도를 사용(음향은 위치당 1회 측정)."
+713,risk of nonresponse bias low,4.4,CT,§3.1: 위치별 '유효' 설문 30부만 보고하고 거절·무효 응답 수와 무응답 특성은 보고하지 않음.
+713,statistical analysis appropriate to answer research question,4.5,N,"§2.2·Table 4·Table 7: 위치당 1개 음향값을 응답자 150명에 붙여 독립 관측처럼 상관 분석하고 단계적 회귀를 썼으며, Table 4 계수 1.83·Table 7 SEB 0.60(CI 와 불일치) 등 보고 오류가 있음."
+186,participants representative of the target population,3.1,N,§2: 운전자 21명은 숙련도 범위를 포괄하도록 선정(성별×경력 4범주 각 5명)됐고 공격적 운전은 전문 운전자 1명의 연출이라 일반 운전자 집단을 대표하지 못함.
+186,measurements appropriate regarding outcome and exposure,3.2,CT,§2: 마이크를 엔진룸 흡기밸브 근처와 후륜 근처에 두었다고만 기술하고 마이크 기종·교정·주행변수 계측장비는 보고하지 않음; 수음점이 차량 근접장이라 가로 음환경 측정은 아님.
+186,complete outcome data,3.3,CT,§3·Table 2: 운전자 범주별 평균만 제시하고 시험 주행 횟수·차종 배정·결측 여부를 보고하지 않음.
+186,confounders accounted for in design and analysis,3.4,N,§2–3: 교통상황·시간대·요일이 달랐으나 차종·교통 조건 등을 통계적으로 보정하지 않고 평균 비교만 했으며 소음에 대한 추론통계가 없음.
+186,exposure/intervention administered as intended,3.5,Y,"§3: 공격적 운전자 평균속도 37.7 km/h vs 표준 29.7 km/h, 엔진회전수 2750 vs 1800 rpm 으로 의도한 공격적 운전 조건이 실제로 구현됨."

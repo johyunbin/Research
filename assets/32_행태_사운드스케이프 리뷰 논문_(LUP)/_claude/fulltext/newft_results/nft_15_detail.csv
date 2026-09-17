@@ -1,0 +1,6 @@
+﻿id,item,item_no,verdict,rationale
+1191,sampling strategy relevant to address research question,4.1,CT,"§2.1 [page 3]: 음원 유형·인간활동 수준으로 3개 구역을 나누고 사계절 주·야간에 녹음해 구역 간 비교에 맞는 표본 틀은 잡았으나, 설문·추적 대상 관광객의 모집·선정 방법과 표본 수를 보고하지 않아 판단할 수 없음."
+1191,sample representative of the target population,4.2,CT,전문 어디에도 응답자 수·인구학적 특성·관광객 모집단과의 비교가 없어 대표성을 판단할 수 없음.
+1191,measurements appropriate,4.3,N,"§2.1 [page 3]: 8채널 마이크 어레이(44.1 kHz, 표본당 30분 이상) 녹음은 적절하나, 쾌적·고요·자연성·방해 4차원을 모두 '매우 불만족–매우 만족' 5점 선택지로 측정했고 결과에서는 방해를 'Infection'으로 표기(Table 2·3 [page 8, 10])했으며, 체류시간·사진 빈도는 조작적 정의·측정 절차가 기술되지 않음."
+1191,risk of nonresponse bias low,4.4,CT,응답률·거절·결측·추적 탈락에 대한 보고가 전혀 없음.
+1191,statistical analysis appropriate to answer research question,4.5,N,"§3.2–3.3 [page 7–10]: 표본 수 미보고 상태에서 딥러닝 예측 성능(R², RMSE, 정확도)만 제시하고, Table 3 '통계 검정 결과'는 '10회 반복' 평균±SD 로 구역 간 추론통계가 없으며, 행태–음환경 관계는 §4 [page 10–11] 서술뿐 통계 분석이 없음."

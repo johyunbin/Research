@@ -1,0 +1,4 @@
+﻿id,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+562,Quantitative descriptive,Y,Y,Y,Y,N,CT,Y,3,moderate,"온라인 문자 속성 컨조인트(음향 자극 없음)로 결과가 진술 선호(의도)이며 MTurk 표본·응답률 미보고(§3.1–3.4, §5.3)."
+713,Quantitative descriptive,Y,Y,Y,N,Y,CT,N,2,low,"단일 평일·위치당 음향 1회 측정, 위치 수준 음향값의 의사반복, 표 수치 오류(Table 4·7); 행태(방문빈도)는 단계적 회귀 예측변수 하나(Table 7)."
+186,Quantitative non-randomised,Y,Y,N,CT,CT,N,Y,1,low,"공격적 조건 운전자 1명, 소음에 SD·추론통계 없음, 계측 교정 미보고(§2–3, Table 2)."

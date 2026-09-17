@@ -1,0 +1,11 @@
+﻿id,item,item_no,verdict,rationale
+1305,sampling strategy relevant to address research question,4.1,Y,18세 이상 그린운동 참여자라는 표적집단에 맞춰 SoSci Survey 링크를 소셜미디어·스포츠연맹·클럽으로 눈덩이 배포했다(Materials and methods p.2). 그린운동 이용자의 녹지 요소 평가라는 연구질문에 부합하는 모집 경로다.
+1305,sample representative of the target population,4.2,N,"눈덩이 편의표본으로 대학학위 58.6%(Table 2)의 고학력 표본이고, 저자가 20세 미만·60세 초과 과소대표와 높은 자연친화성·활동수준을 한계로 명시했다(Limitations p.7)."
+1305,measurements appropriate,4.3,CT,"요소 배터리 Cronbach α 0.88·0.88과 NR-6 α 0.82, 사전 문구 검토는 보고됐으나(p.2–3) 자연의 소리는 단일 중요도 문항이고 기상조건별 그린운동 활동 문항의 형식·척도·타당도가 보고되지 않아 판단할 수 없다."
+1305,risk of nonresponse bias low,4.4,N,완료 772부 중 결측으로 364부(약 47%)를 제외하고 408부만 분석했으며(Data analysis p.3) 제외자와의 비교나 배포 대비 응답률 정보가 없다.
+1305,statistical analysis appropriate to answer research question,4.5,Y,"기술통계, Spearman·Pearson 상관, Bonferroni 사후검정 ANOVA와 효과크기 보고(p.3)는 기술적 연구질문에 적합하다. 다만 다수 상관에 다중비교 보정이 없고 상관에 η²를 제시한 점은 약점이다."
+CT0142,sampling strategy relevant to address research question,4.1,Y,조사원이 7개 구역·2개 주 산책로를 걸으며 무작위로 1인을 선택하고 구역별 같은 수의 응답을 목표로 했다(§2.3). 방문객의 음 지각과 소음저감 WTP를 추정하려는 질문에 부합한다.
+CT0142,sample representative of the target population,4.2,N,비내국인·18세 미만·헤드폰 착용자·자전거/달리기 등 고강도 활동자를 제외했고(§2.3) 고령자 응답 거부로 25–44세가 절반을 차지했으며(§3.2.1) 방문객 통계가 없어 대표성을 비교할 수 없다(§2.1).
+CT0142,measurements appropriate,4.3,Y,ISO 1996-2에 따라 1.5 m 높이에서 전후 교정한 type II SLM으로 지점당 30분×4회 LAeq·Lmax·Lmin·L90·SEL을 측정했고(§2.2) 음원별 쾌/불쾌·0–5 성가심 문항과 표준 payment card 조건부가치 문항을 썼다(§2.3–2.4). 다만 측정(2015년 8월 후반)과 설문(8–10월) 시점이 달라 개인 응답과 측정값은 연결되지 않는다.
+CT0142,risk of nonresponse bias low,4.4,Y,접촉한 240명 중 191명이 응답해 응답률 79.6%다(§3.2.1). WTP 문항 무응답은 14명(7.3%)이다(§3.3).
+CT0142,statistical analysis appropriate to answer research question,4.5,Y,"WTP 구간자료를 Cameron–Huppert 최대우도모형과 Krinsky–Robb 부트스트랩 95% CI로 추정해(§2.4, Table 7) 연구질문에 적합하다. 다만 protest 응답을 0원으로 평균에 포함했고 희소 셀 교차표에 χ² 검정을 적용했다(Table 6)."

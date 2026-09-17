@@ -1,0 +1,11 @@
+﻿id,item,item_no,verdict,rationale
+1172,sampling strategy relevant to address research question,4.1,Y,건축·도시농촌계획·문화유산보존 분야 전문가를 초청하고 대운하 국가문화공원 방문 경험을 유효성 선별 기준으로 삼아(Questionnaire and interview design; Experimental process) 제목의 '전문가 관점' 연구질문에 부합한다. 다만 초청 경로·표집틀은 기술되지 않았다.
+1172,sample representative of the target population,4.2,N,"172명 중 25–30세 64.5%, 대학 소속 89.0%, 건축 전공 80.2%, 석사 86.0%로 치우쳤고(Table 4), 저자도 전문가 표본의 인구학적 특성 무시를 한계로 밝혔다(Conclusions 마지막 문단). 함의 대상인 공원 방문객 집단과도 다르다."
+1172,measurements appropriate,4.3,Y,"장소애착·보호 행동 문항은 선행연구 출처가 제시되고(Table 3) Cronbach α 0.799–0.935, AVE >0.5, CR >0.7(Table 5–6)로 신뢰도·수렴타당도가 보고됐다. 다만 행동 문항이 대부분 'I will …' 의도형이고 16개 음원을 모두 55 dB(A)로 정규화해 실제 노출 강도가 반영되지 않았다(Audio-visual materials; Discussion)."
+1172,risk of nonresponse bias low,4.4,Y,배포 180부 중 172부가 유효해 유효율 95.56%로(Experimental process) 무응답·무효 비율이 낮다.
+1172,statistical analysis appropriate to answer research question,4.5,Y,"AMOS 최대우도 SEM과 적합도 지표(χ2/df 1.833, GFI 0.904, RMSEA 0.070, CFI 0.904; Table 7), bias-corrected 95% CI 매개검정(Table 9)은 지각–장소애착–행동 경로 질문에 적합하다. 다만 NFI 0.812를 완화 기준(>0.8)으로 수용했고, 인공음→유산보존 행동이 Table 9에서는 부분매개인데 결론에서는 완전매개로 기술됐다."
+80,participants representative of the target population,3.1,Y,"19개 도시 옥외 공공공간에서 통행인보다 이용자 위주로 면접 대상을 무작위 선정해(§II) 총 10,031명(Table I)을 조사해 공간 이용자 모집단에 부합한다. 다만 거절률·표본 인구특성 분포는 보고되지 않았고 상하이 3개소(17–19)는 62–79명으로 작다."
+80,measurements appropriate regarding outcome and exposure,3.2,Y,"음 수준 평가는 영어 원문을 번역한 −2~2 5점 척도이고, 행태는 조사원이 면접 중 이어폰·읽기/쓰기·보기·이동 활동(에너지 소비 5범주: 앉기·서기·걷기·아이와 놀기·운동)으로 관찰 기록했다(§II). 'watching'의 조작적 정의와 관찰자 간 신뢰도가 보고되지 않은 점은 약점이다."
+80,complete outcome data,3.3,CT,"부지별 면접 수(Table I)만 있고 행태별 분석의 유효 n·결측이 보고되지 않았으며, 이어폰 분석은 착용자 10명 초과 부지로 제한됐다(§V, Table VII). 완전성을 판단할 수 없다."
+80,confounders accounted for in design and analysis,3.4,N,"행태 집단 간 연령·성별·직업·교육·거주 차이를 t 검정·상관으로 확인해 해석에 반영했으나(Table VIII, X, XI) 다변량 보정은 없고, 면접마다 측정한 SPL(§II)을 분석에 넣지 않아 부지 내 위치·시간별 음압 차이가 교란으로 남는다."
+80,exposure/intervention administered as intended,3.5,Y,행태는 자연 발생 노출로 면접 시점에 조사원이 기록했고 음 수준 평가·SPL 측정도 같은 면접 중 또는 직후에 이뤄져(§II) 노출 기록이 계획대로 결과 평가와 같은 시점에 수행됐다.

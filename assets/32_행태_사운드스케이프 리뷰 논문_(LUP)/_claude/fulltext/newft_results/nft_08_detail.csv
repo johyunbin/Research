@@ -1,0 +1,6 @@
+﻿id,item,item_no,verdict,rationale
+OAS0005,participants representative of the target population,3.1,N,"Experiment setup [page 2] 에서 참가자는 대학생 40명(남 18·여 22)뿐이고 모집 방법은 미보고이며, 참조문헌 [11] 참가자와 비슷하다는 서술만 있어 혼잡한 도시 보행자 일반을 대표한다고 보기 어렵다."
+OAS0005,measurements appropriate regarding outcome and exposure,3.2,Y,"고공 카메라(25 fps)·PeTrack 궤적과 Voronoi 밀도·속도 정의(식 1–4 [page 3]), 두 가지 보폭 추출법(Table 2·4)으로 이동 행태를 객관 측정했고 노출은 템포(120 BPM)를 편집해 정의했다 [page 2]; 재생 음압·스피커 배치는 미보고."
+OAS0005,complete outcome data,3.3,Y,"Table 1 의 조건별 실행이 모두 분석되었고(음악 조건 1회는 29명), 1차 방법으로 산출할 수 없던 1.82 ped/m 보폭은 궤적 기반 2차 방법으로 보완했다(Table 3·4 [page 7])."
+OAS0005,confounders accounted for in design and analysis,3.4,N,"같은 리듬 조건의 실행을 연속 블록으로 수행해(Experiment setup [page 2]) 순서·학습·피로 효과를 통제하거나 역균형화하지 않았고, 측정한 리듬 추종 능력(가능 25명·불가 15명)도 분석에 반영하지 않은 채 조건 간 F-test 만 제시했다."
+OAS0005,exposure/intervention administered as intended,3.5,Y,배경음악은 따르라는 지시 없이 재생되었고 음악 때문에 두리번거린 참가자가 없었으며 실험이 순조로웠다고 보고했다 [page 2].

@@ -1,0 +1,6 @@
+﻿id,item,item_no,verdict,rationale
+1218,sampling strategy relevant to address research question,4.1,Y,"공원 전역 격자 24개와 시야 차폐 보완 3개 등 27개 지점을 평일 2일·주말 2일 개장시간(06:00–21:00) 매시 동시 관측해(§2.1–2.2, Figure 1) 시간대별 이용 변화라는 연구질문에 부합"
+1218,sample representative of the target population,4.2,Y,전 지점 전수 관측으로 해당 공원의 여름철 이용자를 공간·시간적으로 포괄(§2.1–2.2); 단일 공원·여름 4일이라 일반화 한계는 저자가 명시(§4.4)
+1218,measurements appropriate,4.3,CT,"SOPARC 표준 프로토콜·훈련된 관찰자 2인 코딩(§2.2.1)이나 관찰자 간 신뢰도 미보고, 음환경은 녹음 스펙트로그램으로 음원 유형만 분류하고 음압레벨·교정·음원 변수 정량화 방식(빈도·지속시간·비율)을 밝히지 않음(§2.2.2); 조도는 사진에서 추정(§4.4)"
+1218,risk of nonresponse bias low,4.4,Y,"응답 기반이 아닌 파노라마 촬영 관찰이라 무응답 편의가 비해당이며, 시야 차폐는 보완 지점 3개로 대응(§2.1)"
+1218,statistical analysis appropriate to answer research question,4.5,CT,"ANOVA·Spearman(Benjamini–Hochberg FDR 보정)·다중회귀(VIF<5, Moran's I, Durbin–Watson)를 명시했으나(§2.3) 모형별 관측 수·변수 선택 절차가 보고되지 않았고, 고정 지점 반복 관측의 종속성을 모형화하지 않았다고 저자가 인정(§4.4)해 판단 불가"

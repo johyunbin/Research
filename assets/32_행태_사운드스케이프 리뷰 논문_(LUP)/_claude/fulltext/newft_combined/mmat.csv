@@ -1,0 +1,18 @@
+﻿batch,id,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+nft_04,1190,Qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"보행과제 GPS와 심층면접을 결합했지만 GPS는 경로 기술통계(Table 1)·지도·면접 보조로만 쓰이고 정량 분석이 없어 혼합이 아닌 질적 범주로 배정(§3 '질적 연구로 설계'). 면접 스크립트(Appendix 1)에 소리 문항이 없어 소음 근거는 자발적 언급 2건(§4.1 IDI9, §4.2 IDI12)에 그치고, 코더 수·신뢰도 미보고, 20–42세 18명·단일 출발–도착 쌍으로 일반화 불가(§5)."
+nft_06,562,Quantitative descriptive,Y,Y,Y,Y,N,CT,Y,3,moderate,"온라인 문자 속성 컨조인트(음향 자극 없음)로 결과가 진술 선호(의도)이며 MTurk 표본·응답률 미보고(§3.1–3.4, §5.3)."
+nft_06,713,Quantitative descriptive,Y,Y,Y,N,Y,CT,N,2,low,"단일 평일·위치당 음향 1회 측정, 위치 수준 음향값의 의사반복, 표 수치 오류(Table 4·7); 행태(방문빈도)는 단계적 회귀 예측변수 하나(Table 7)."
+nft_06,186,Quantitative non-randomised,Y,Y,N,CT,CT,N,Y,1,low,"공격적 조건 운전자 1명, 소음에 SD·추론통계 없음, 계측 교정 미보고(§2–3, Table 2)."
+nft_07,624,Qualitative,Y,Y,Y,Y,Y,N,Y,4,high,"여행기 텍스트를 근거이론으로 코딩한 실제 질적 자료수집·분석(§3·§4)이라 Qualitative 배정. 연구질문(§1 끝)과 자료가 맞고 코딩 절차·예시(Table 1–2)는 제시됐으나, 소리–활동–고요함 연결 등 핵심 관계 해석이 저자 판단('we believe', §5.3)과 미확인 경로(Fig. 1 점선)에 기대 1.4=N. 작성자 인구정보 부재 한계(§6)."
+nft_08,OAS0005,Quantitative non-randomised,Y,Y,N,Y,Y,N,Y,3,moderate,음악/무음 조건을 무작위 배정 없이 조건별 연속 블록으로 수행한 통제 보행실험이라 Quantitative non-randomised 로 배정(Experiment setup [page 2]). 궤적 측정은 정교하나 대학생 40명 편의표본·순서효과 미통제·재생 음압 미보고가 한계.
+nft_09,1218,Quantitative descriptive,Y,Y,Y,Y,CT,Y,CT,3,moderate,"현장 관찰+동시 녹음의 상관·회귀 관찰연구(선례 862·901 과 같은 범주). SOPARC 관찰자 신뢰도·음원 변수 정량화 방식·모형별 n 미보고, 반복관측 종속성 미반영(§4.4)"
+nft_10,1305,Quantitative descriptive,Y,Y,Y,N,CT,N,Y,2,low,"눈덩이 온라인 편의표본(Limitations p.7), 결측으로 772부 중 364부 제외(p.3), 자연의 소리는 단일 중요도 문항이고 기상조건별 활동 문항 정의 미보고, 다중 상관 보정 없음"
+nft_10,CT0142,Quantitative descriptive,Y,Y,Y,N,Y,Y,Y,4,high,"응답률 79.6%·표준 측정은 양호하나 비내국인·고강도 활동자 제외(§2.3), 측정(8월)과 설문(8–10월) 시점 불일치로 음 지표–WTP 연결 분석 없음, protest 응답을 0원으로 평균에 포함(§3.3)"
+nft_11,CT0223,Quantitative descriptive,Y,Y,Y,CT,CT,CT,Y,2,low,"현장 방문객 설문 기반 순서 로지스틱 관찰연구라 정량 기술 범주(선례 539·761·CT0007과 같음). 연구질문 2개가 명시되고(§1 [page 2]) 자료가 이에 답할 수 있으나, 대표성·응답률 미보고(§5 저자 인정), 5점 단일 만족 문항과 '계획' 체류시간 측정, 4개 사이트 통합 분석에서 사이트 효과 미반영이 약점."
+nft_13,888,Qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"근거이론 기반 심층면접 연구로 Qualitative 배정(§2.1). 면접 중 SPL 을 측정했으나 현장 맥락 기술에만 쓰이고 정량 분석이 없어 혼합 아님. 편의표집 23명·겨울철(1–3월)·광장 4곳으로 일반화가 제한되고(§5 [page 13]), 코더 수·코딩 신뢰도·연구자 성찰성은 미보고; 행태 관련 결과(§3.3.3·§3.4.2)는 소수 코드에 기반."
+nft_14,104,Quantitative descriptive,Y,Y,Y,CT,Y,CT,Y,3,moderate,"현장 설문 + 동시 객관 측정 연구라 정량 기술 범주로 배정(8월 교훈: 객관 음향측정+설문=정량). S1: 설계 단계에서 사운드스케이프 평가를 예측하는 컴퓨터 모형의 타당성 탐색이라는 목적이 명확함(§I). S2: 19개 사이트 대규모 설문·측정 자료로 답할 수 있음. 행태 요인은 ANN 입력변수 선별 단계에서만 분석되었고, txt 추출본의 Table III 음수 부호가 소실되어 원 PDF 에서 복원함."
+nft_14,499,Quantitative descriptive,Y,Y,Y,N,Y,CT,CT,2,low,음향 측정·사운드워크·면접 설문을 결합한 정량 기술 연구(질적 성분 없음). S1: 식재 사운드스케이프 요소·시공간 변화·선호를 정량 기술하고 설계 방법을 제안한다는 목적이 명확함(§1 말미). S2: 계절별 측정과 1260명 면접으로 답할 수 있음. 면접이 계절마다 이뤄졌는지는 불명확함(§2.2 '3일간' vs Fig. 5 계절별 선호).
+nft_15,1191,Quantitative descriptive,Y,CT,CT,CT,N,CT,N,0,low,"구역 간 비교·교란 보정이 없는 기술적 현장 조사로 분류. 응답자 수·특성 미보고, 지각 척도 표기 불일치('Infection'), 행태 자료(체류시간·사진 빈도)는 §2.1 [page 3]에 수집만 기술되고 결과 없이 §4 [page 10–11] 서술로만 제시되어 S2 판단불가."
+nft_16,1172,Quantitative descriptive,Y,Y,Y,N,Y,Y,Y,4,high,"전문가 172명(25–30세 64.5%·건축 80.2%, Table 4) 편향 표본이고 저자도 한계로 명시(Conclusions), 행동 결과가 실험실 직후 의도형 자기보고(Table 3), 음원 전부 55 dB(A) 정규화로 기계음 강도 미반영(Discussion), NFI 0.812(Table 7)·매개 표기 불일치(Table 9 대 Conclusions)"
+nft_16,80,Quantitative non-randomised,Y,Y,Y,Y,CT,N,Y,3,moderate,"행태 집단 비교에서 인구사회 요인 차이만 t 검정으로 점검(Table VIII, X, XI)하고 다변량 보정·면접별 SPL 반영 없음(§II, §V), 분석별 유효 n·결측 미보고(Table I만 제시), 관찰 행태 정의·관찰자 신뢰도 미보고"
+nft_17,709,Quantitative non-randomised,Y,Y,Y,Y,Y,Y,Y,5,high,"주 단위 교대(무작위 아님) 현장실험이라 non-randomised로 배정(§2.1 [page 4]). 음향·방문객 수 측정과 교란 보정(GAM)은 양호하나 정숙 행동 자체는 미측정, 설문은 최종 2주·응답률 55%·방법/결과 n 불일치(§2.3, §3.3), 단일 탐방로·단일 봄 시즌과 안내판에 의한 응답 점화 가능성은 저자 한계(§4 [page 11]). 조류 결과는 본 리뷰 범위 밖."

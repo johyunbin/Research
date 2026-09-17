@@ -1,0 +1,6 @@
+﻿id,item,item_no,verdict,rationale
+CT0223,sampling strategy relevant to address research question,4.1,Y,"§3.2 [page 3]: 2018년 5–7월 20일간 모든 요일·08–21시에 걸쳐 탐방로 인근에서 방문객을 무작위 선정(소집단은 남녀 1명씩, 단체는 인솔자와 반대 성별 1명)해 녹지 방문객의 자연관찰 중요도·만족 요인이라는 연구질문에 부합하는 표집."
+CT0223,sample representative of the target population,4.2,CT,"Table 1 [page 3]에 사이트별 표본·평균연령·성별·국적은 제시하나 방문객 모집단과의 비교가 없고, 저자가 표본 크기·대표성 한계와 응답 의향자·자연 호의적 방문객 편향 가능성을 인정(§5 [page 6]); 조사 시기도 여름 3개월 한정."
+CT0223,measurements appropriate,4.3,CT,"중요도·만족도는 5점 단일 문항(Appendix [page 6–7])으로 신뢰도·타당도 검증이 없고, 체류시간은 실제가 아닌 '오늘 머물 계획 시간' 문항(Appendix [page 6])이며, 음환경은 '자연의 소리 듣기' 만족 문항뿐 음향 측정·음원 평가가 없다."
+CT0223,risk of nonresponse bias low,4.4,CT,"§3.2 [page 3]에 접촉·거절 인원이나 응답률이 보고되지 않고, 저자가 '응답 의향이 있던 방문객의 의견'이라는 한계만 적었을 뿐(§5 [page 6]) 무응답 편의 분석은 없다."
+CT0223,statistical analysis appropriate to answer research question,4.5,Y,"5점 순서형 결과에 요인분석 후 순서 로지스틱 회귀와 OR을 적용해(§3.3 [page 3–4], Table 3·5) 연구질문에 적합하다. 다만 4개 사이트를 사이트 효과 없이 통합(§3.3에 사유 제시)하고 비례오즈 가정 검정이 없으며 0.1 유의수준도 사용한 점은 보고상 약점."

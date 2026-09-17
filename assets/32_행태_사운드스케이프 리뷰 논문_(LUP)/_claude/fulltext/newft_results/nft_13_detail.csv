@@ -1,0 +1,6 @@
+﻿id,item,item_no,verdict,rationale
+888,qualitative approach appropriate to answer research question,1.1,Y,"§1 말미 연구목적(공공공간 이용자 관점의 사운드스케이프 차원과 요소 간 관계 규명)이 탐색적이며, §2.1 은 이용자 자신의 언어에서 이론을 도출하는 근거이론 접근을 택해 질적 접근이 적합."
+888,qualitative data collection methods adequate,1.2,Y,§2.1–2.2: 4개 현장에서 이용자 23명을 약 30분 비구조화·개방형 심층면접(Table 2 면접 구조)하고 자료 포화 시점까지 모집했으며 면접 중 음원 기록·SPL 측정을 병행. 녹취·전사 세부는 간략.
+888,findings adequately derived from the data,1.3,Y,§2.3·Table 3: NVivo 12 로 open coding(176→105 항목)·axial coding(55 범주)·selective coding(4개 aspect) 절차를 단계별로 제시해 결과가 자료에서 도출됨.
+888,interpretation of results sufficiently substantiated by data,1.4,Y,§3 각 결과가 코드 번호(a3·a77 등)와 짧은 인용으로 뒷받침됨(§3.2.2·§3.3.1·§3.4.2). 다만 인용이 짧고 활동–선호 연결(§3.4.2)은 소수 코드에 기대어 있음.
+888,"coherence between data sources, collection, analysis and interpretation",1.5,Y,"근거이론 설계–심층면접–단계적 코딩–지각 구조 모형(Figure 1)·해석(§4)이 일관됨. 현장·문화 차이는 분석하지 않았다고 명시(§5 [page 13])하고, 윤리 진술에 'animal study' 오기가 있음([page 13])."

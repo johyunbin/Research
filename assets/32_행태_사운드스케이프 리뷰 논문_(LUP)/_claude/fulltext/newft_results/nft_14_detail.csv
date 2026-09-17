@@ -1,0 +1,11 @@
+﻿id,item,item_no,verdict,rationale
+104,sampling strategy relevant to address research question,4.1,Y,"도시 중심·주거지·관광지·철도역 4개 입지 유형에 걸친 6개국 19개 옥외공간을 조사해(§II.A, Table I) 사이트별·유형별 예측모형 구축이라는 연구질문에 부합한다. 다만 사이트 안 응답자 모집 방식은 본문에 없고 선행문헌(참고문헌 3·8·28)에 위임했다."
+104,sample representative of the target population,4.2,CT,"응답자 선정 절차와 이용자 모집단과의 비교가 보고되지 않았고, 중국 3개 사이트는 62–79명으로 작다(Table I). 대표성을 판단할 수 없다."
+104,measurements appropriate,4.3,Y,"각 면접 직전·직후 다중센서 측정국으로 1분 SPL(dBA)·기온·풍속·습도·조도를 측정했고(§II.A), 음량·쾌적성 평가 척도와 행태 항목 범주를 정의했다(Table II). 행태 항목은 이분·범주형 단순 문항이다."
+104,risk of nonresponse bias low,4.4,CT,응답률·거절 수가 보고되지 않았다.
+104,statistical analysis appropriate to answer research question,4.5,Y,"요인 선별에 척도 수준별로 Pearson/Spearman 상관·χ²·t검정을 쓰고(§II.B, Table III), ANN 을 학습/검정 상관계수·RMSE 로 평가하며 한 사이트는 20% 외부 평가셋으로 대응표본 t검정, OLR 과 비교했다(§III.B, §III.E). 다만 수많은 비교에 다중비교 보정이 없고 명목변수 B4(이동상태)를 상관으로 분석했다."
+499,sampling strategy relevant to address research question,4.1,Y,"14개 식재공간 지점마다 연령 3군×성별 할당(각 5명)으로 통행 이용객을 편의표집해 면접했고(§2.2), 지점별·계층별 선호를 기술하려는 목적에 부합한다."
+499,sample representative of the target population,4.2,N,편의표집에 연령·성별 균등 할당을 적용해(§2.2) 실제 이용객 구성을 반영하지 않으며 단일 공원 표본이다.
+499,measurements appropriate,4.3,Y,"AWA 6228-3 분석기로 LAeq·주파수를 3시간 간격 3회 반복 측정했고(§2.2), 선호는 5점 척도, 사운드워크 명료도는 선행연구(Jeon and Hong, 2015)의 3점 척도를 따랐다. 측정 지속시간·교정과 방문빈도 응답 범주는 보고되지 않았다."
+499,risk of nonresponse bias low,4.4,CT,면접 거절·응답률이 보고되지 않았다.
+499,statistical analysis appropriate to answer research question,4.5,CT,"Spearman 상관(Table 3)과 ANOVA(F = 17.092, §3.1)를 썼으나 분석 n·자유도가 보고되지 않았고, 1260명 전체로 계산했다면 Table 3 의 유의 표기(예: 0.110 비유의)와 맞지 않는다. LAeq–선호 관계는 Fig. 6 도시만 있고 검정이 없다."
