@@ -118,17 +118,13 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 ### 3.1 Study selection
 
-데이터베이스 검색에서 2,073건(Web of Science 1,010건, Scopus 850건, PubMed 213건)을 확인했다. 중복 757건을 제거한 1,316건을 스크리닝해 1,127건을 배제했고, 189건을 전문 확보 대상으로 선정했다. 이 가운데 89건은 전문을 확보하지 못했으며, 그중 84건은 스크리닝 단계에서 판단이 불확실한 레코드로 분류된 것이었다. 전문을 평가한 100편 가운데 16편을 배제하고 3편을 민감도 분석용으로 분류해, 데이터베이스 경로에서 81편을 포함했다. 데이터베이스 경로의 포함 연구 81편과 민감도 분석용 3편, 총 84편의 인용을 추적해 기존 풀에 없던 2,073건을 추가로 확인했다. 제목 기준 자동 선별 후 428건을 제목으로, 146건을 초록으로 스크리닝해 79건을 전문 확보 대상으로 선정했고, 확보한 54편 가운데 38편을 배제하고 1편을 민감도 분석용으로 분류해 15편을 추가로 포함했다. 이는 데이터베이스 경로 산출의 19%에 해당한다. 보조 색인 경로에서는 329건을 스크리닝해 15건을 전문 확보 대상으로 선정하고, 5편을 평가해 2편을 포함했다. 최종 코퍼스는 98편이며, 민감도 분석 전용 4편을 포함하면 분석 대상은 총 102편이다. 선별 과정은 Fig. 1에 제시했다.
+데이터베이스 검색에서 2,073건(Web of Science 1,010건, Scopus 850건, PubMed 213건)을 확인했다. 중복 757건을 제거한 1,316건을 스크리닝해 1,127건을 배제했고, 189건을 전문 확보 대상으로 선정했다. 이 가운데 89건은 전문을 확보하지 못했으며, 그중 84건은 스크리닝 단계에서 판단이 불확실한 레코드로 분류된 것이었다. 전문을 평가한 100편 가운데 16편을 배제하고 3편을 민감도 분석용으로 분류해, 데이터베이스 경로에서 81편을 포함했다. 데이터베이스 경로의 포함 연구 81편과 민감도 분석용 3편, 총 84편의 인용을 추적해 기존 풀에 없던 2,073건을 추가로 확인했다. 제목 기준 자동 선별 후 428건을 제목으로, 146건을 초록으로 스크리닝해 79건을 전문 확보 대상으로 선정했고, 확보한 54편 가운데 38편을 배제하고 1편을 민감도 분석용으로 분류해 15편을 추가로 포함했다. 이는 데이터베이스 경로 산출의 19%에 해당한다. 보조 색인 경로에서는 329건을 스크리닝해 15건을 전문 확보 대상으로 선정하고, 5편을 평가해 2편을 포함했다. 최종적으로 98편을 리뷰에 포함했으며, 민감도 분석에만 사용한 4편을 더하면 분석 대상은 102편이다. 선별 과정은 Fig. 1에 제시했다.
 
 <<FIG:Fig1_PRISMA>>
 
-보조 색인 경로의 배제 사유는 색인 범위의 특성을 보여 준다. 배제된 314건 중 147건(47%)은 서평, 사설, 논평, 부고를 포함한 비실증 문헌이었다. OpenAlex는 Web of Science나 Scopus보다 훨씬 넓은 범위를 색인하며[26], 체계적 문헌고찰에서 OpenAlex를 검색원으로 사용하면 기존 검색원보다 훨씬 많은 레코드가 검색돼 스크리닝 부담이 커진다는 점도 보고됐다[27]. 넓은 색인 범위는 관련 문헌을 더 많이 포함하는 동시에 걸러야 할 문헌도 늘린다. 그럼에도 세 데이터베이스 밖에서 2편이 추가됐다는 것은 데이터베이스 검색만으로는 적격 문헌을 모두 찾지 못했음을 보여 준다.
+### 3.2 Characteristics of included studies
 
-인용추적 경로에서는 초록 확보 여부에 따라 최종 포함률이 크게 달랐다. 초록에서 행태 결과를 확인할 수 있었던 레코드는 전문을 평가한 37건 중 16건(43%)이 포함되거나 민감도 분석용으로 분류됐지만, 초록을 확보하지 못해 제목만으로 통과시킨 레코드는 17건 중 한 건도 포함되지 않았다(0건). 즉 최종 포함 여부는 제목의 주제적 관련성보다 초록 확보 여부와 강하게 연관됐다. 제목만으로 1차 선별하면 제목과 초록을 함께 볼 때보다 민감도가 낮다는 점은 방법론 연구에서도 보고됐다[28]. 다만 두 집단은 무작위로 나뉜 것이 아니고 제목만 본 레코드가 17건에 불과하므로, 전문을 확보하지 못한 제목 판단 레코드 22건이 코퍼스에 미쳤을 영향은 배제할 수 없다.
-
-### 3.2 Study characteristics
-
-포함된 98편 중 70편(71%)이 2020년 이후에 게재됐으며, 출판연도의 중앙값은 2022년이고 가장 오래된 연구는 1975년에 발표됐다. 참가자 수를 보고한 56편의 중앙값은 124명(IQR 30–400)이었다. 나머지 연구는 가로 구간, GPS 궤적, 스트리트뷰 표본점처럼 참가자가 아닌 단위로 표본을 보고했으며, 가장 큰 표본은 자전거 통행 81,403건이었다. 표본 단위가 이처럼 다양한 것은 행태 측정 방법이 변화하고 있음을 보여 준다(3.6절). 세팅은 가로(41편)와 공원(32편)이 대부분이었고, 광장(10편), 캠퍼스, 주거 옥외공간, 수변이 뒤를 이었다. 연구 특성은 Table 1에 정리했다.
+포함된 98편 중 70편(71%)이 2020년 이후에 게재됐으며, 출판연도의 중앙값은 2022년이고 가장 오래된 연구는 1975년에 발표됐다. 참가자 수를 보고한 56편의 중앙값은 124명(IQR 30–400)이었다. 나머지 연구는 가로 구간, GPS 궤적, 스트리트뷰 표본점처럼 참가자가 아닌 단위로 표본을 보고했으며, 가장 큰 표본은 자전거 통행 81,403건이었다. 세팅은 가로(41편)와 공원(32편)이 대부분이었고, 광장(10편), 캠퍼스, 주거 옥외공간, 수변이 뒤를 이었다. 연구 설계는 관찰과 설문을 결합한 혼합 연구(34편)가 가장 많았고, 설문 연구(25편), 현장실험 또는 자연실험(19편, 19%), 현장 관찰(7편), 센서·빅데이터 연구(6편), 실험실·가상현실 실험(5편)이 뒤를 이었다. 포함 연구의 특성은 Table 1에, 개별 연구의 특성은 Appendix B에 제시했다.
 
 **Table 1.** Characteristics of the 98 included studies. Percentages are of 98 studies; categories marked † allow a study to appear more than once. Characteristics of each included study are listed in Appendix B.
 
@@ -179,25 +175,21 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data measurement of behaviour.
 
-지리적 편중은 이 코퍼스의 가장 큰 제약이다. 98편 중 38편(39%)이 중국에서 수행됐고, 스페인(7편), 영국(6편), 독일(5편)이 뒤를 이었다. 교차문화 연구들은 같은 유형의 도시 옥외공간이라도 국가에 따라 사운드스케이프 평가가 다르게 나타난다고 보고했으며[29,30], 이러한 비교 결과는 지각 속성(perceptual attributes)의 번역과 문화 간 적응(cross-cultural adaptation) 절차에 따라서도 달라질 수 있다[31]. 따라서 합성 추정치를 문화권과 무관하게 일반화해서는 안 된다.
+연구가 수행된 국가는 중국이 38편(39%)으로 가장 많았고, 스페인(7편), 영국(6편), 독일(5편)이 뒤를 이었으며, 4편은 자료 수집 국가를 보고하지 않았다(Fig. 2a). 역방향 연구 33편 가운데 31편은 2016년 이후에 발표됐다(Fig. 2b).
 
 <<FIG:Fig7_GeoTime>>
 
-Fig. 2b는 시기별 분포에서 나타나는 또 하나의 편중을 보여 준다. 역방향 연구 33편 가운데 31편이 2016년 이후에 발표돼, 1.4절에서 설명한 역방향 증거는 코퍼스 전체보다도 최근에 형성됐고 그만큼 축적이 얕다. 결과 해석에 가장 중요한 특성은 연구 설계의 분포다. 현장실험이나 자연실험 설계를 사용한 연구는 19편(19%)에 그쳤고, 가장 많은 설계는 관찰과 설문을 결합한 혼합 연구(34편)였으며 설문 연구(25편)가 뒤를 이었다. 즉 이 분야의 연구는 음환경을 변화시키기보다 관찰하는 경우가 훨씬 많았다. 관찰 연구도 중요한 근거를 제공하지만, 계획에 필요한 것은 어떤 요소를 바꾸면 행태가 어떻게 달라지는지에 대한 근거이므로, 조작 연구가 적다는 점은 개입 효과에 대한 추론을 직접 제약한다.
+### 3.3 Methodological quality of included studies
 
-### 3.3 Methodological quality
-
-포함된 98편의 MMAT 등급은 high 22편, moderate 40편, low 36편이었다. 다만 등급 분포만으로는 이 코퍼스의 질적 특성이 충분히 드러나지 않으며, 문항 수준에서 두 가지 패턴이 뚜렷하게 나타났다(Fig. 3).
+포함된 98편의 MMAT 등급은 high 22편(22%), moderate 40편(41%), low 36편(37%)이었다(Fig. 3). MMAT 범주는 정량 기술 연구 51편, 비무작위 정량 연구 22편, 혼합 연구 15편, 질적 연구 7편, 무작위배정 연구 2편이었고, 1편은 범주를 판정할 수 없었다.
 
 <<FIG:Fig8_Quality>>
 
-첫째, 무작위배정 연구 2편은 설계 관련 문항에서 점수를 받지 못했다. 두 연구 모두 무작위화 방법, 집단의 기저 동등성, 평가자 눈가림을 보고하지 않아 세 문항이 모두 판단불가로 판정됐고, 각각 한 개와 두 개의 기준만 충족했다. 코퍼스에서 가장 강한 설계를 사용한 연구가 보고 누락 때문에 낮은 평가를 받은 것이다. 다만 이 두 연구가 최하위는 아니며, 어떤 기준도 충족하지 못한 연구가 따로 4편 있었다. 둘째, 가장 큰 결손은 연구 수행상의 문제로 확인된 것이 아니라 보고의 누락이었다. 표본 대표성이 분명히 충족된 연구는 정량 기술 연구 51편 중 10편(20%), 무응답 편의가 낮다고 판정된 연구는 51편 중 16편(31%), 교란이 적절히 통제된 연구는 비무작위 연구 22편 중 9편(41%)이었다. 이 항목들의 충족률이 낮은 것은 연구가 편향됐다고 확인됐기 때문이 아니라 판단에 필요한 정보가 보고되지 않았기 때문이다. 음압은 소수점 셋째 자리까지 보고하면서도 응답률은 누락하는 경우가 흔했다. 소음과 성가심도의 용량-반응 관계를 대규모로 정량화할 수 있었던 것은 해당 문헌이 노출과 반응을 표준화된 방식으로 보고했기 때문인데[5], 행태 연구는 아직 그 수준에 이르지 못했다.
+문항별 판정은 다음과 같았다. 정량 기술 연구 51편 중 표본 대표성을 충족한 연구는 10편(20%)이었고 24편은 미충족, 17편은 판단불가로 판정됐다. 무응답 편의가 낮다고 판정된 연구는 16편(31%)이었으며, 14편은 미충족, 21편은 판단불가였다. 비무작위 정량 연구 22편 중 참가자가 목표 모집단을 대표한다고 판정된 연구는 4편(18%)이었고 9편은 미충족, 9편은 판단불가였으며, 교란을 적절히 통제한 연구는 9편(41%)이었고 7편은 미충족, 6편은 판단불가였다. 무작위배정 연구 2편은 무작위화 방법, 집단의 기저 동등성, 평가자 눈가림을 보고하지 않아 세 문항이 모두 판단불가로 판정됐으며, 각각 1개와 2개의 기준만 충족해 low 등급을 받았다. 어떤 기준도 충족하지 못한 연구는 4편이었다.
 
-옥외 장면을 VR로 재현한 5편을 제외해도 합성 추정치는 바뀌지 않았다. 이들 중 합성에 기여한 효과가 없었고 모두 서술적 종합에만 포함됐기 때문이다.
+### 3.4 Meta-analyses (RQ1)
 
-### 3.4 Meta-analyses
-
-네 개의 클러스터가 합성 요건을 충족했으며, 기여 연구의 특성과 개별 효과는 Table 3에 제시했다. 네 추정치의 부호는 모두 이론적 기대와 일치했다(Fig. 4). 소음이 큰 조건은 더 빠른 보행과, 긍정적인 소리는 더 긴 체류와, 더 조용하거나 자연음이 있는 조건은 더 많은 사회적 상호작용과 연관됐으며, 소리 지표(지각 평가 또는 음향 측정치)는 행태와 중간 정도의 강도로 함께 변했다. 그러나 이러한 방향이 어느 정도의 정밀도로 확인됐는지는 클러스터마다 크게 달랐으며, 충분한 정밀도로 확인한 클러스터는 없었다. 평균 효과의 신뢰구간이 0을 배제한 클러스터는 두 개였지만, 새로운 연구에서 기대되는 효과 범위를 나타내는 예측구간은 네 클러스터 모두 0을 포함했다.
+네 개의 클러스터가 메타분석 요건을 충족했다. 합성 결과는 Table 2에, 기여 연구의 특성과 개별 효과는 Table 3에, 숲 그림은 Fig. 4에 제시했다. 평균 효과의 신뢰구간이 0을 배제한 것은 사회적 상호작용과 소리–행태 상관의 두 클러스터였고, 95% 예측구간은 네 클러스터 모두 0을 포함했다.
 
 **Table 2.** Pooled estimates for the four behavioural clusters. REML random effects with the Hartung–Knapp adjustment. CI = confidence interval (precision of the mean); PI = 95% prediction interval (range expected for a new study). Every prediction interval includes zero.
 
@@ -235,35 +227,35 @@ Fig. 2b는 시기별 분포에서 나타나는 또 하나의 편중을 보여 �
 
 <<FIG:Fig2_Forest>>
 
-사회적 상호작용 클러스터는 13년 간격으로 수행된 두 현장실험에 힘입어 통계적으로 유의한 결과를 보였다. Mathews와 Canon [32]의 보도 현장실험(실험 2)에서는 머플러를 제거한 잔디깎기로 주변음을 약 50 dB(C)에서 87 dB(C)로 높이자, 떨어뜨린 물건을 주워 준 사람의 비율이 40명 중 20명에서 40명 중 5명으로 줄었다(OR = 7.00, *d* = +1.07). Moser [33]는 파리의 가로에서 도로공사 소음을 이용해 같은 2 × 2 설계를 적용했고 같은 방향의 결과를 얻었다. 두 연구는 서로 다른 소음원과 서로 다른 도움 행동 과제를 사용했으므로, 결과가 일치한다는 점은 *k* = 4라는 연구 수만으로 판단할 때보다 더 많은 정보를 준다. 다만 Mathews와 Canon은 자료 수집 지역을 밝히지 않았으므로 국가 간 반복으로 해석하지는 않았다. 또한 이 클러스터의 유의성은 인용 검색으로 확보한 한 편의 연구에 의존한다. 한 편씩 제외한 분석(leave-one-out)에서 Chen과 Kang [34]을 빼면 *g* = +0.556(*p* = .059), Chen 등 [35]을 빼면 +0.768(*p* = .066), Moser [33]를 빼면 +0.801(*p* = .041), Mathews와 Canon [32]을 빼면 +0.596(*p* = .057)으로, 네 번 중 세 번은 *p*가 .05를 넘었다. 즉 이 클러스터는 특정 한 연구가 아니라 연구들 전체로서 유의하며, 인용 검색으로 추가한 연구를 제외하면 추가 전의 비유의 상태로 돌아간다. 이는 결과의 한계인 동시에, 등록한 보조 검색 경로가 실제로 결론에 기여했음을 보여 준다.
+보행속도 클러스터(*k* = 3)에서는 소음 조건이 자연음 조건보다 빠른 보행과 연관됐지만 신뢰구간이 0을 포함했다(*g* = −0.474, 95% CI −2.055 ~ +1.108, *p* = .326, *I*² = 81.4%). 예측구간(−9.13 ~ +8.19)은 *k* = 3에서 자유도가 1이 되어 매우 넓었다. 기여한 세 효과가 모두 MMAT low 등급 연구에서 나왔으므로 low 등급을 제외한 분석은 수행할 수 없었다. MMAT high 등급을 받은 보행 관련 연구 가운데 광장 배경음악의 효과를 다룬 연구는 노출 정의가 달라 제외했으며(2.9절), 인용 추적으로 확보한 세 편은 각각 음악 템포를 조작했거나[26], 소음과 보행속도의 관계를 직접 검정하지 않았거나[27], 헤드폰으로 전달한 증강 발소리를 다뤄[28] 합성에 포함되지 않았다.
 
-상관 클러스터는 이와 다른 특성을 보였다. 이 클러스터는 검색 경로에 따라 결과가 거의 달라지지 않았고(인용추적 포함 *r* = .425, 제외 시 .445), 특정 한 연구를 제외해도 결과가 안정적이었지만(leave-one-out 범위 *r* = .387 ~ .477), 이질성은 매우 높았다(*I*² = 92.0%). 순방향과 역방향 연구, 지각 지표와 객관적 음향 지표(LAeq), 여러 행태 결과가 한 풀에 섞여 있으므로 예상할 수 있는 결과다. 이 클러스터는 소리 지표와 행태가 대체로 함께 변한다는 점을 보여 주지만, 어떤 소리 지표가 어떤 행태와 어느 방향으로 얼마나 연관되는지는 알려 주지 않는다. 따라서 이 클러스터는 개입 효과가 아니라 연관적 증거 기반(associative evidence base)으로 해석해야 한다.
+체류 클러스터(*k* = 3)에서는 긍정적인 소리 조건이 더 긴 체류와 연관됐지만 신뢰구간이 0을 포함했다(*g* = +0.343, 95% CI −0.091 ~ +0.778, *p* = .077, *I*² = 54.4%). 한 편씩 제외한 분석(leave-one-out)의 추정치는 +0.286 ~ +0.432 범위였고 모두 유의하지 않았다. 방문빈도를 결과로 보고한 연구를 추가하면 추정치는 +0.204(*p* = .471)로 낮아졌다.
 
-예측구간은 두 유의한 결과의 해석 범위를 제한한다. 두 클러스터에서 0을 배제한 것은 평균 효과의 신뢰구간이며, 새로운 연구의 효과가 나타날 것으로 기대되는 예측구간은 네 클러스터 모두 0을 포함했다. 사회적 상호작용의 예측구간은 −0.42 ~ +1.78, 상관 클러스터는 *r* = −0.24 ~ +0.82였다. 따라서 어느 결과도 다음 연구에서 같은 방향의 효과가 나타난다고 보장하지 못한다. 보고편향의 가능성도 이러한 불확실성을 키운다. 가장 큰 클러스터가 *k* = 6으로 사전에 정한 기준(*k* ≥ 10)에 미달해 깔때기 그림과 Egger 검정을 수행하지 않았으므로, 소규모 연구 효과는 확인하거나 배제할 수 없었다. 보행속도 클러스터의 예측구간(−9.13 ~ +8.19)은 *k* = 3에서 자유도가 1이 되어 사실상 정보를 제공하지 못하지만, 이 클러스터로는 새로운 결과를 예측할 수 없다는 점을 분명히 하기 위해 그대로 제시했다. 보행속도 클러스터는 네 클러스터 가운데 근거가 가장 약했다. 기여한 세 효과가 모두 MMAT low 등급 연구에서 나왔기 때문에 low 등급을 제외하면 합성할 효과가 남지 않았다(*k* = 0). 코퍼스에는 MMAT high 등급 보행 연구가 3편 있었지만 모두 풀에 포함되지 않았다. 한 편은 환경음이 아니라 음악 템포를 조작했고[36], 한 편은 소음과 보행속도의 관계를 직접 검정하지 않았으며[37], 나머지 한 편은 헤드폰으로 전달한 증강 발소리를 다뤘다[38]. 소음이 큰 조건에서 더 빨리 걷는다는 연관은 이 분야에서 널리 인용되지만, 이를 뒷받침하는 근거는 코퍼스에서 가장 불안정했다.
+사회적 상호작용 클러스터(*k* = 4)에서는 더 조용하거나 자연음이 있는 조건이 더 많은 사회적 상호작용과 연관됐으며, 신뢰구간이 0을 배제했다(*g* = +0.679, 95% CI +0.201 ~ +1.158, *p* = .020, *I*² = 48.6%). 기여 효과 가운데 두 편은 소음 조건과 조용한 조건에서 낯선 사람을 돕는 행동을 비교한 현장실험이었다[29,30]. 한 편씩 제외한 분석에서 Chen과 Kang [31]을 빼면 *g* = +0.556(*p* = .059), Chen 등 [32]을 빼면 +0.768(*p* = .066), Moser [30]를 빼면 +0.801(*p* = .041), Mathews와 Canon [29]을 빼면 +0.596(*p* = .057)으로, 네 번 중 세 번은 *p*가 .05를 넘었다. 인용 추적으로 확보한 연구[29]를 제외한 결과는 마지막 경우와 같았다. 이 클러스터에는 MMAT low 등급 연구가 포함되지 않았다. 관찰 기록 간 독립성 문제로 제외한 연구를 추가하면 추정치는 +0.809(*p* = .005)로 높아졌다.
+
+소리–행태 상관 클러스터(*k* = 6)에서는 소리 지표와 행태가 중간 정도의 정적 상관을 보였으며(*r* = +0.425, 95% CI +0.191 ~ +0.613, *p* = .006), 이질성은 매우 높았다(*I*² = 92.0%). 한 편씩 제외한 분석의 상관계수는 *r* = .387 ~ .477 범위였다. 인용 추적으로 확보한 연구를 제외하면 *r* = .445, 순위상관을 제외하면 *r* = .484, MMAT low 등급 연구를 제외하면 *r* = .470이었다.
+
+옥외 장면을 실험실에서 재현한 연구는 어느 클러스터에도 기여하지 않아, 이들을 제외한 민감도 분석의 결과는 주분석과 같았다. 결측값을 복원한 입력을 제외한 보행속도·체류 분석과 관측 단위에 따라 표본 크기를 다시 계산한 보행속도 분석에서도 추정치는 유의하지 않았다. 가장 큰 클러스터가 *k* = 6으로 사전에 정한 기준(*k* ≥ 10)에 미달해 출판편향은 평가하지 않았다.
 
 ### 3.5 Direction of the relationship (RQ2)
 
-98편에서 추출한 행태 도메인 수준 레코드 212건 가운데 113건은 순방향(소리 → 행태), 74건은 역방향(행태 → 소리), 25건은 양방향이었다. 순방향 또는 역방향으로 분류된 187건 중 역방향은 74건으로 40%를 차지했고, 양방향 레코드까지 분모에 포함하면 35%였다. 여기서 분석 단위는 연구 편수가 아니라 연구 × 행태 도메인 레코드다.
+98편에서 추출한 행태 도메인 수준 레코드 212건 가운데 113건은 순방향(소리 → 행태), 74건은 역방향(행태 → 소리), 25건은 양방향이었다. 순방향 또는 역방향으로 분류된 187건 중 역방향은 74건(40%)이었고, 양방향 레코드까지 분모에 포함하면 35%였다.
 
 <<FIG:Fig4_Direction>>
 
-역방향 레코드는 행태 도메인에 따라 고르게 분포하지 않았다(Fig. 5). 이동(순방향 33건, 역방향 8건)과 체류(16건, 8건)는 순방향 설계가 대부분이었다. 이들은 헤드폰을 착용하고 걷게 하거나 스피커를 켠 상태에서 체류시간을 측정하는 방식으로 실험적 조작이 쉬운 행태다. 반면 공간이용(26건, 23건), 활동(18건, 21건), 사회적 행태(20건, 14건)에서는 두 방향이 비슷했다. 행태가 집합적이고 지속적으로 나타나는 영역에서는 그 행태가 음환경을 만들어 내는 방식도 측정돼 왔다. 군중 밀도로 음압을 예측하거나, 활동 프로그램에서 방송 음악이 발생하거나, 동행 여부가 소리를 알아차리는 방식과 연관되는 경우가 그 예다. 이러한 연구는 소리를 노출로 보는 일반적인 틀에는 맞지 않지만, 설계자가 소음원뿐 아니라 활동 자체도 배치한다는 점에서 계획 실무와 더 직접적으로 연결된다. 소리를 노출로만 보는 단방향 틀은 방향성 레코드의 40%에 해당하는 증거를 놓치게 된다.
+역방향 레코드의 비중은 행태 도메인에 따라 달랐다(Fig. 5). 이동(순방향 33건, 역방향 8건)과 체류(16건, 8건)에서는 순방향 레코드가 대부분이었지만, 공간이용(26건, 23건), 활동(18건, 21건), 사회적 행태(20건, 14건)에서는 두 방향의 레코드 수가 비슷했다. 역방향 연구에는 군중 밀도와 음압의 관계, 활동 프로그램에 따른 음환경 변화, 동행 여부와 소리 인지의 관계를 다룬 연구 등이 포함됐다.
 
-### 3.6 Measurement generations (RQ3)
+### 3.6 Behavioural measurement methods (RQ3)
 
-행태 측정 방법은 새로운 방법이 기존 방법을 대체하기보다 함께 누적되는 양상을 보였다(Fig. 6). 센서, GPS, 영상, 빅데이터를 이용한 행태 측정은 2010–2019년 4편에서 2020년 이후 20편으로 다섯 배 늘었지만, 같은 기간 자기보고는 14편에서 39편으로, 체계적 관찰은 11편에서 28편으로 함께 늘었다. 22편은 두 세대 이상의 방법을 함께 사용했다.
+센서, GPS, 영상, 빅데이터를 이용한 행태 측정(G3)은 2010–2019년 4편에서 2020년 이후 20편으로 늘었고, 같은 기간 자기보고(G1)는 14편에서 39편으로, 체계적 관찰(G2)은 11편에서 28편으로 늘었다(Fig. 6). 22편은 두 세대 이상의 방법을 함께 사용했으며, 이러한 연구는 2010년대 5편에서 2020년 이후 17편으로 늘었다.
 
 <<FIG:Fig5_Methods>>
 
-이러한 누적은 두 가지 의미를 갖는다. 첫째, 여러 방법으로 결과를 교차 확인하는 삼각검증(triangulation)의 기반이 넓어지고 있다. 두 세대 이상을 병용한 연구는 2010년대 5편에서 2020년 이후 17편으로 늘었다. 예를 들어 GPS 궤적으로 측정한 이동과 참가자가 보고한 이동 경험을 같은 연구에서 비교하면, 한 가지 방법만으로는 알 수 없는 정보를 얻을 수 있다. 둘째, 같은 개념이 서로 다른 방식으로 측정된 결과가 한 문헌 안에 함께 존재하게 되므로, 종합할 때 측정 방법을 구분하지 않으면 이질성의 상당 부분이 설명되지 않은 채 남는다. 본 리뷰의 상관 클러스터에서 나타난 *I*² = 92%에도 이러한 요인이 섞여 있을 가능성이 크다.
+### 3.7 Evidence map
 
-### 3.7 Coverage and gaps
-
-증거 지도에서 행태 도메인과 음원의 조합은 한 음원을 제외하면 모두 연구가 존재했다(Fig. 7).
+행태 도메인과 음원의 조합은 항공기 소음을 제외한 모든 조합에서 연구가 확인됐다(Fig. 7). 항공기 소음에서는 다섯 도메인 중 세 도메인(이동, 체류, 사회적 행태)에 해당하는 연구가 없었고, 나머지 두 도메인의 레코드 4건은 모두 2편에서 나왔다.
 
 <<FIG:Fig3_EvidenceMap>>
-
-예외는 항공기 소음이었다. 다섯 도메인 중 세 도메인(이동, 체류, 사회적 행태)에는 연구가 없었고, 나머지 두 칸도 2편에서 나온 도메인 수준 레코드 4건이 전부였다. 이는 우연한 공백으로 보기 어렵다. 항공기 소음은 환경소음 연구에서 축적이 두터운 주제로, 세계보건기구 유럽지역 환경소음 지침의 근거가 된 체계적 문헌고찰에서도 성가심도(annoyance)[39]와 수면[40]에 관해 항공기 소음이 별도로 종합될 만큼 연구가 많았고, 건강 영향 전반에서도 마찬가지다[6]. 그러나 본 리뷰의 적격 기준을 충족하면서 공항 주변 옥외공간의 행태를 측정한 연구는 2편뿐이었다. 주거 소음 노출과 비특정 신체활동을 결합한 연구를 배제한 경계 규칙(2.4절)이 이 공백의 일부에 영향을 주었을 수 있다. 그럼에도 소음 노출이 가장 큰 곳에서 행태 증거가 가장 부족하다는 점은, 이 분야가 건강과 성가심도 중심의 틀에 머물러 왔음을 시사한다.
 
 ---
 
@@ -300,35 +292,37 @@ Table 4는 코퍼스에서 도출한 열 개의 계획 레버와 각 레버의 �
 
 **How to read the strength levels.** *Moderate* (4): may be included in a design proposal, with post-occupancy monitoring · *Low* (5): test as a hypothesis and do not write into a standard or guideline · *Very low* (1): no prescriptive basis at present.
 
-계획 근거 강도가 high에 도달한 레버는 없었다. 네 개 레버(음악 프로그래밍, 자연음 제공, 정온 경로 제공, 기계·유지관리 소음 통제)가 moderate, 다섯 개가 low, 한 개가 very low였다. 이 분포는 현재의 증거가 보편적 설계 기준보다는 모니터링을 동반한 설계 가설을 뒷받침한다는 점을 보여 준다. 등급과 별개로, 그럴듯하지만 본 리뷰의 자료로는 지지되지 않는 해석을 피하기 위해 두 가지 귀속(attribution) 문제를 짚어 둔다.
+계획 근거 강도가 high에 도달한 레버는 없었다. 네 개 레버(음악 프로그래밍, 자연음 제공, 정온 경로 제공, 기계·유지관리 소음 통제)가 moderate, 다섯 개가 low, 한 개가 very low였다. 이 분포는 현재의 증거가 보편적 설계 기준보다는 모니터링을 동반한 설계 가설을 뒷받침한다는 점을 보여 준다. 등급과 별개로, 그럴듯하지만 본 리뷰의 자료로는 지지되지 않는 해석을 피하기 위해 세 가지를 짚어 둔다.
 
 첫째, 유의한 사회적 상호작용 클러스터를 자연음을 더한 효과나 소음을 없앤 효과 중 어느 하나로만 해석해서는 안 된다. 자연음 연구는 대개 새소리나 물소리를 교통 소음이나 공사 소음과 비교하므로, 자연음의 추가와 경쟁 소음의 제거가 교락(confounded)돼 있다. 네 효과를 노출 유형으로 나누면 평균이 거의 같았고(자연음 +0.76, 기계음 +0.75), 도로공사 연구를 제외하면 합성 추정치가 낮아지지 않고 오히려 높아졌다(+0.68 → +0.80). 코퍼스에는 자연음 조건을 다른 조건이 비슷한 정온 조건과 비교한 연구가 없었다. 따라서 더 조용하거나 자연음이 있는 조건이 더 많은 사회적 상호작용과 연관된다는 것까지는 말할 수 있지만, 자연음의 독립적인 기여는 확인되지 않았다. 또한 이 클러스터를 유의 수준 너머로 끌어올린 증분은 인용 검색으로 확보한 기계음 실험 한 편에서 나왔다.
 
-둘째, 보행속도에 관한 증거는 합성 결과의 이름이 주는 인상보다 범위가 좁다. 기여 효과의 대부분은 공공공간의 음환경이 아니라 보행 중 헤드폰으로 전달한 오디오를 조작한 결과였다. 헤드폰 청취는 배경음 차폐, 개인의 통제 가능성, 주의 배분 측면에서 환경음과 다르다. 또한 기여 연구는 하나의 연구 프로그램에 집중돼 있었다. 풀에 포함된 세 효과 중 두 효과가 같은 체코 연구진의 연구였고[41,42], 인용 추적으로 추가된 MMAT high 등급 보행 논문 두 편[36,37]도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이었다. 나머지 한 효과는 부호가 반대인 알제리의 현장 관찰 연구였다[43]. 따라서 메타분석의 *k*를 환경소음이 보행을 빠르게 한다는 독립적인 반복 확인으로 해석해서는 안 된다. 보행속도 풀 밖에서는 실제 가로의 소음을 조작하면서 군중 행태를 관찰한 연구가 한 편 있었다. Ba 등 [44]은 교통소음 55.6 dB(A) 조건과 70.5 dB(A) 조건에서 평균 군중 속도가 각각 약 1.14 m/s와 1.21 m/s로, 고소음 조건에서 약 0.07 m/s 빨랐다고 보고했다. 그러나 저자들이 보고한 측정 격자 간 최대 차이도 0.06 m/s였고, 이 연구는 MMAT low 등급으로 평가됐다. 이 결과는 합성 추정치와 방향은 같지만 일반적인 인과 효과를 입증하지는 않는다. 따라서 보행속도는 설계 목표로 삼기보다, 아직 결론이 나지 않았고 연구 간 이질성이 매우 큰 결과로 다루는 것이 적절하다.
+둘째, 보행속도에 관한 증거는 합성 결과의 이름이 주는 인상보다 범위가 좁다. 기여 효과의 대부분은 공공공간의 음환경이 아니라 보행 중 헤드폰으로 전달한 오디오를 조작한 결과였다. 헤드폰 청취는 배경음 차폐, 개인의 통제 가능성, 주의 배분 측면에서 환경음과 다르다. 또한 기여 연구는 하나의 연구 프로그램에 집중돼 있었다. 풀에 포함된 세 효과 중 두 효과가 같은 체코 연구진의 연구였고[33,34], 인용 추적으로 추가된 MMAT high 등급 보행 논문 두 편[26,27]도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이었다. 나머지 한 효과는 부호가 반대인 알제리의 현장 관찰 연구였다[35]. 따라서 메타분석의 *k*를 환경소음이 보행을 빠르게 한다는 독립적인 반복 확인으로 해석해서는 안 된다. 보행속도 풀 밖에서는 실제 가로의 소음을 조작하면서 군중 행태를 관찰한 연구가 한 편 있었다. Ba 등 [36]은 교통소음 55.6 dB(A) 조건과 70.5 dB(A) 조건에서 평균 군중 속도가 각각 약 1.14 m/s와 1.21 m/s로, 고소음 조건에서 약 0.07 m/s 빨랐다고 보고했다. 그러나 저자들이 보고한 측정 격자 간 최대 차이도 0.06 m/s였고, 이 연구는 MMAT low 등급으로 평가됐다. 이 결과는 합성 추정치와 방향은 같지만 일반적인 인과 효과를 입증하지는 않는다. 따라서 보행속도는 설계 목표로 삼기보다, 아직 결론이 나지 않았고 연구 간 이질성이 매우 큰 결과로 다루는 것이 적절하다.
+
+셋째, 소리–행태 상관 클러스터는 개입 효과가 아니라 연관적 증거 기반(associative evidence base)으로 해석해야 한다. 이 클러스터의 결과는 검색 경로나 개별 연구의 제외에 따라 크게 달라지지 않았지만(3.4절), 순방향과 역방향 연구, 지각 지표와 객관적 음향 지표(LAeq), 여러 행태 결과가 함께 포함돼 이질성이 매우 높았다(*I*² = 92.0%). 따라서 이 결과는 소리 지표와 행태가 대체로 함께 변한다는 점을 보여 주지만, 어떤 소리 지표가 어떤 행태와 어느 방향으로 얼마나 연관되는지는 알려 주지 않는다. 측정 방법의 차이도 이러한 이질성의 원인일 수 있다(4.4절).
 
 ### 4.3 Implications for landscape planning
 
-Table 4를 실무에 적용할 때는 효과크기보다 근거의 방어 가능성을 기준으로 판단하는 것이 적절하다. 가장 먼저 고려할 조치는 사회적 상호작용이 의도된 공간에서 운영 소음을 통제하는 것이다. 현재 코퍼스에서 가장 분명한 행태적 함의는 기계·유지관리 소음에 노출된 세팅의 사회적 상호작용에 관한 것이며, 낯선 사람에게 도움을 주는 행동도 여기에 포함된다. 이 레버는 운영 측면에서도 적용하기 쉽다. 환기 설비 가동 일정, 유지관리 시간, 공사 기간은 공간 전체를 다시 설계하지 않고도 조정할 수 있는 경우가 많다. 서로 다른 소음원을 사용한 두 현장실험이 같은 방향의 결과를 보였다는 점도 이를 뒷받침한다. 증거는 여전히 제한적이지만 개입의 논리가 구체적이고 검증 가능하다.
+Table 4를 실무에 적용할 때는 효과크기보다 근거의 방어 가능성을 기준으로 판단하는 것이 적절하다. 가장 먼저 고려할 조치는 사회적 상호작용이 의도된 공간에서 운영 소음을 통제하는 것이다. 현재 코퍼스에서 가장 분명한 행태적 함의는 기계·유지관리 소음에 노출된 세팅의 사회적 상호작용에 관한 것이며, 낯선 사람에게 도움을 주는 행동도 여기에 포함된다. 이 레버는 운영 측면에서도 적용하기 쉽다. 환기 설비 가동 일정, 유지관리 시간, 공사 기간은 공간 전체를 다시 설계하지 않고도 조정할 수 있는 경우가 많다. 13년 간격으로 수행된 두 현장실험도 같은 방향의 결과를 보였다. Mathews와 Canon [29]의 보도 현장실험(실험 2)에서는 머플러를 제거한 잔디깎기로 주변음을 약 50 dB(C)에서 87 dB(C)로 높이자 떨어뜨린 물건을 주워 준 사람이 40명 중 20명에서 5명으로 줄었고(OR = 7.00), Moser [30]는 파리의 가로에서 도로공사 소음을 이용해 같은 2 × 2 설계를 적용한 결과 도움 행동이 줄었음을 보고했다. 두 연구는 서로 무관한 소음원과 서로 다른 도움 행동 과제를 사용했으므로, 결과가 일치한다는 점은 연구 수(*k* = 4)만으로 판단할 때보다 더 많은 정보를 준다. 다만 Mathews와 Canon은 자료 수집 지역을 밝히지 않았으므로 국가 간 반복으로 보기는 어렵다. 증거는 여전히 제한적이지만 개입의 논리가 구체적이고 검증 가능하다.
 
-음악 같은 부가음은 방문객 수를 늘리는 수단이라기보다 체류와 관여(engagement)를 늘리는 잠재적 도구로 보는 것이 적절하다. 음악은 체류 시간이나 음원과의 상호작용을 늘릴 수 있지만, 전체 방문객 수를 늘린다는 근거는 더 약하다. 방문객 수를 정량적으로 검정한 유일한 MMAT high 등급 연구[45]에서는 멈춰 서는 사람의 수에서 효과를 발견하지 못했다. 따라서 방문객 수 목표를 근거로 음향 프로그램 도입을 정당화하는 것은 현재 증거의 범위를 넘어선다. 벤치 군집, 테라스, 만남의 장소처럼 대화를 위한 공간의 입지를 정할 때는 회화 간섭(speech interference)을 고려할 필요가 있다(L10). 이러한 공간에서 중요한 것은 성가심도가 규제 기준보다 낮은지가 아니라 대화가 가능한지다. 기존 증거는 하나의 기준값보다 연속적인 관계를 지지한다. 등가소음도가 1 dB 높을수록 자기보고 발성 노력(vocal effort)이 약 0.25점 높아지는 연관이 보고됐으며[46], 이는 4 dB 차이가 같은 척도에서 약 1점에 해당함을 뜻한다. 이 정도의 근거는 후보지 간 비교 선별(comparative site screening)에는 활용할 수 있지만 단일한 처방 기준치를 정당화하지는 못한다.
+음악 같은 부가음은 방문객 수를 늘리는 수단이라기보다 체류와 관여(engagement)를 늘리는 잠재적 도구로 보는 것이 적절하다. 음악은 체류 시간이나 음원과의 상호작용을 늘릴 수 있지만, 전체 방문객 수를 늘린다는 근거는 더 약하다. 방문객 수를 정량적으로 검정한 유일한 MMAT high 등급 연구[37]에서는 멈춰 서는 사람의 수에서 효과를 발견하지 못했다. 따라서 방문객 수 목표를 근거로 음향 프로그램 도입을 정당화하는 것은 현재 증거의 범위를 넘어선다. 벤치 군집, 테라스, 만남의 장소처럼 대화를 위한 공간의 입지를 정할 때는 회화 간섭(speech interference)을 고려할 필요가 있다(L10). 이러한 공간에서 중요한 것은 성가심도가 규제 기준보다 낮은지가 아니라 대화가 가능한지다. 기존 증거는 하나의 기준값보다 연속적인 관계를 지지한다. 등가소음도가 1 dB 높을수록 자기보고 발성 노력(vocal effort)이 약 0.25점 높아지는 연관이 보고됐으며[38], 이는 4 dB 차이가 같은 척도에서 약 1점에 해당함을 뜻한다. 이 정도의 근거는 후보지 간 비교 선별(comparative site screening)에는 활용할 수 있지만 단일한 처방 기준치를 정당화하지는 못한다.
 
-반대로 보행속도는 일반적인 설계 성과지표로 사용하지 않는 것이 좋으며, 헤드폰을 이용한 청각–운동(auditory-motor) 연구 결과를 공공공간의 음향 개입에 그대로 적용해서도 안 된다. 흔히 제시되는 두 가지 처방도 본 리뷰의 행태 코퍼스로는 지지되지 않았다. 첫째, 수경시설로 교통소음을 마스킹(masking)해 공공공간 이용을 늘린다는 처방은 포함된 연구에서 행태적 개입으로 직접 검정된 적이 없다. 자연음이 지각이나 심리적 결과를 개선한다는 근거[16]가 공간 이용의 증가를 입증하는 것은 아니다. 둘째, 소음 저감을 신체활동을 늘리는 보편적인 방법으로 보는 관점은 가장 규모가 큰 관찰 자료에서 지지되지 않았다. 활동이 많은 장소는 음향적으로도 붐비는 경우가 많아, 이러한 자료에서는 소음과 활동이 오히려 정적으로 연관될 수 있다[47,48]. 따라서 역인과(reverse causation)와 맥락적 교란(contextual confounding)을 함께 고려해야 한다.
+반대로 보행속도는 일반적인 설계 성과지표로 사용하지 않는 것이 좋으며, 헤드폰을 이용한 청각–운동(auditory-motor) 연구 결과를 공공공간의 음향 개입에 그대로 적용해서도 안 된다. 흔히 제시되는 두 가지 처방도 본 리뷰의 행태 코퍼스로는 지지되지 않았다. 첫째, 수경시설로 교통소음을 마스킹(masking)해 공공공간 이용을 늘린다는 처방은 포함된 연구에서 행태적 개입으로 직접 검정된 적이 없다. 자연음이 지각이나 심리적 결과를 개선한다는 근거[16]가 공간 이용의 증가를 입증하는 것은 아니다. 둘째, 소음 저감을 신체활동을 늘리는 보편적인 방법으로 보는 관점은 가장 규모가 큰 관찰 자료에서 지지되지 않았다. 활동이 많은 장소는 음향적으로도 붐비는 경우가 많아, 이러한 자료에서는 소음과 활동이 오히려 정적으로 연관될 수 있다[39,40]. 따라서 역인과(reverse causation)와 맥락적 교란(contextual confounding)을 함께 고려해야 한다.
 
 ### 4.4 Methodological implications
 
-이 분야는 행태보다 소리를 더 일관되게 측정해 왔다. 가장 분명한 방법론적 약점 중 하나는 특정 설계 결함보다 불완전한 보고다. 표본 대표성, 무응답, 배정 절차, 분석 단위 같은 중요한 정보가 충분히 기술되지 않은 경우가 많았으며, 표본 대표성은 대략 다섯 편 중 한 편, 낮은 무응답 편의는 세 편 중 한 편에서만 분명하게 확인됐다. 이는 비교적 적은 비용으로 개선할 수 있는 문제로, 새로운 장비 없이 보고를 명확히 하는 것만으로도 품질평가와 정량 종합을 개선할 수 있다. 측정 방법의 세대는 서로를 대체하기보다 누적되는 것으로 보인다. 센싱 방법이 가장 빠르게 늘었지만 자기보고와 체계적 관찰도 계속 사용되고 있으며, 22편이 두 세대 이상의 방법을 함께 사용했다. 향후 연구는 주관적 평가를 관찰 가능한 행태 및 객관적 음향 측정과 함께 수집해 이러한 상호보완성을 활용할 수 있다.
+이 분야는 행태보다 소리를 더 일관되게 측정해 왔다. 방법론적 질 평가에서는 표본 대표성, 무응답 편의, 교란 통제 항목의 충족률이 낮았고, 기준을 충족하지 못한 경우와 함께 필요한 정보가 보고되지 않아 판단불가로 판정된 경우도 많았다(3.3절). 코퍼스에서 가장 강한 설계를 사용한 무작위배정 연구 2편도 무작위화 절차, 기저 동등성, 눈가림을 보고하지 않아 low 등급을 받았다. 음향 지표는 자세히 보고하면서도 응답률은 보고하지 않는 경우가 흔했다. 소음과 성가심도의 용량-반응 관계를 대규모로 정량화할 수 있었던 것은 해당 문헌이 노출과 반응을 표준화된 방식으로 보고했기 때문인데[5], 행태 연구는 아직 그 수준에 이르지 못했다. 보고의 누락은 새로운 장비 없이도 개선할 수 있으므로, 표본 선정, 응답률, 분석 단위를 명확히 보고하는 것만으로도 품질평가와 정량 종합의 기반을 넓힐 수 있다. 측정 방법의 세대는 서로를 대체하기보다 누적되는 것으로 보인다. 센싱 방법이 가장 빠르게 늘었지만 자기보고와 체계적 관찰도 계속 사용되고 있으며, 22편이 두 세대 이상의 방법을 함께 사용했다. 여러 방법을 병용하면 결과를 교차 확인하는 삼각검증(triangulation)이 가능해지지만, 같은 개념이 서로 다른 방식으로 측정된 결과를 종합할 때 측정 방법을 구분하지 않으면 이질성의 상당 부분이 설명되지 않은 채 남는다. 향후 연구는 주관적 평가를 관찰 가능한 행태 및 객관적 음향 측정과 함께 수집해 이러한 상호보완성을 활용할 수 있다.
 
-리뷰 과정에서는 증거 종합 방법 자체에 관한 세 가지 시사점도 확인됐다. 첫째, 자동 전문 추출은 보고되지 않은 항목을 판단불가로 채점하는 평가 도구와 결합할 때 문제를 일으킬 수 있다. 불완전하게 추출된 전문 때문에 점검한 16편 중 4편의 품질 등급이 최소 한 단계 낮게 평가됐고 그중 3편은 두 단계 낮게 평가됐으며(반대로 높게 평가된 연구도 1편 있었다), 그 결과 한 검색 경로 전체가 질이 낮은 문헌을 회수한 것처럼 보였다. 자동 추출을 사용하는 리뷰는 추출 한계를 기록하고, 품질평가가 완전한 전문에 근거했는지 확인해야 한다. 둘째, 색인 메타데이터는 문헌의 언어를 잘못 표시할 수 있다. 보조 색인으로 확보한 전문 5편 중 2편은 영어로 색인돼 있었지만 실제로는 한국어와 일본어로 작성돼 있었으므로, 언어 적격성은 메타데이터가 아니라 원문으로 확인해야 한다. 셋째, 메타분석 코드는 독립적으로 재현할 수 있어야 한다. 분석 코드를 오류를 찾는 목적으로 독립 검토한 결과 네 건의 구현 오류가 발견됐다(2.9절). 여기에는 세 파일에 복제된 τ² 추정 코드가 이름과 달리 최대우도 방정식을 풀고 있던 문제와, 추출 단계에서 `NR`로 기록된 효과 통계가 합성 단계에서 값으로 입력돼 있던 문제가 포함된다. 분석 코드를 독립적으로 다시 실행해 확인하는 절차는 원 분석자가 발견하기 어려운 오류를 막는 유용한 안전장치다.
+리뷰 과정에서는 증거 종합 방법 자체에 관한 세 가지 시사점도 확인됐다. 첫째, 자동 전문 추출은 보고되지 않은 항목을 판단불가로 채점하는 평가 도구와 결합할 때 문제를 일으킬 수 있다. 불완전하게 추출된 전문 때문에 점검한 16편 중 4편의 품질 등급이 최소 한 단계 낮게 평가됐고 그중 3편은 두 단계 낮게 평가됐으며(반대로 높게 평가된 연구도 1편 있었다), 그 결과 한 검색 경로 전체가 질이 낮은 문헌을 회수한 것처럼 보였다. 자동 추출을 사용하는 리뷰는 추출 한계를 기록하고, 품질평가가 완전한 전문에 근거했는지 확인해야 한다. 둘째, 보조 색인 검색은 유용했지만 그 결과를 해석할 때 주의가 필요하다. OpenAlex는 Web of Science나 Scopus보다 넓은 범위를 색인하며[41], 체계적 문헌고찰의 검색원으로 사용하면 검색 건수와 스크리닝 부담이 크게 늘어난다[42]. 실제로 보조 색인 경로에서 배제된 314건 중 147건(47%)은 서평, 사설, 논평, 부고 같은 비실증 문헌이었지만, 세 데이터베이스에 없는 적격 연구 2편도 이 경로에서 확인됐다. 또한 색인 메타데이터는 문헌의 언어를 잘못 표시할 수 있다. 이 경로로 확보한 전문 5편 중 2편은 영어로 색인돼 있었지만 실제로는 한국어와 일본어로 작성돼 있었으므로, 언어 적격성은 메타데이터가 아니라 원문으로 확인해야 한다. 셋째, 메타분석 코드는 독립적으로 재현할 수 있어야 한다. 분석 코드를 오류를 찾는 목적으로 독립 검토한 결과 네 건의 구현 오류가 발견됐다(2.9절). 여기에는 세 파일에 복제된 τ² 추정 코드가 이름과 달리 최대우도 방정식을 풀고 있던 문제와, 추출 단계에서 `NR`로 기록된 효과 통계가 합성 단계에서 값으로 입력돼 있던 문제가 포함된다. 분석 코드를 독립적으로 다시 실행해 확인하는 절차는 원 분석자가 발견하기 어려운 오류를 막는 유용한 안전장치다.
 
 ### 4.5 Research agenda
 
-이 코퍼스는 투입 대비 효과가 큰 여섯 가지 연구 우선순위를 시사한다. 첫째, 잘 보고된 보행 현장실험 한 편만으로도 증거 지도에서 보행속도 칸의 근거 수준을 실질적으로 바꿀 수 있다. 중요한 설계 요소는 특수 장비가 아니라 실제 환경음의 조작, 무작위 배정, 기저 동등성과 절차의 투명한 보고, 여러 경로나 세팅에서의 반복이다. 현재의 보행속도 추정치는 MMAT 평가가 낮은 연구와 헤드폰 기반 연구에 크게 의존하고 있어 견고한 결론을 뒷받침하지 못한다. 둘째, 항공기 소음과 행태의 관계는 대부분 연구되지 않았다. 행태 증거를 제공한 적격 연구는 2편뿐이었으며, 공항 주변 연구는 성가심도나 건강 결과뿐 아니라 옥외공간의 이용, 경로 선택, 체류, 사회적 활동을 측정할 필요가 있다. 셋째, 설계 개입이 음향 결과를 거쳐 행태로 이어지는 과정을 함께 검증해야 한다. 자연음 증거의 상당 부분은 음원 재생(playback)에 의존하므로, 식재나 수경시설처럼 실제 조경 설계에서 도입되는 개입이 만들어 내는 음환경과 그에 따른 행태 변화를 함께 평가할 필요가 있다.
+이 코퍼스는 투입 대비 효과가 큰 여섯 가지 연구 우선순위를 시사한다. 첫째, 잘 보고된 보행 현장실험 한 편만으로도 증거 지도에서 보행속도 칸의 근거 수준을 실질적으로 바꿀 수 있다. 중요한 설계 요소는 특수 장비가 아니라 실제 환경음의 조작, 무작위 배정, 기저 동등성과 절차의 투명한 보고, 여러 경로나 세팅에서의 반복이다. 현재의 보행속도 추정치는 MMAT 평가가 낮은 연구와 헤드폰 기반 연구에 크게 의존하고 있어 견고한 결론을 뒷받침하지 못한다. 둘째, 항공기 소음과 행태의 관계는 대부분 연구되지 않았다. 항공기 소음은 세계보건기구 유럽지역 환경소음 지침의 근거가 된 체계적 문헌고찰에서 성가심도[43]와 수면[44]에 관해 별도로 종합될 만큼 연구가 많고 건강 영향 전반에서도 마찬가지이지만[6], 본 리뷰의 적격 기준을 충족하면서 공항 주변 옥외공간의 행태를 측정한 연구는 2편뿐이었다(3.7절). 주거 소음 노출과 비특정 신체활동을 결합한 연구를 배제한 경계 규칙(2.4절)이 이 공백에 일부 영향을 주었을 수 있지만, 소음 노출이 큰 곳에서 행태 증거가 가장 부족하다는 점은 이 분야가 건강과 성가심도 중심의 틀에 머물러 왔음을 시사한다. 공항 주변 연구는 성가심도나 건강 결과뿐 아니라 옥외공간의 이용, 경로 선택, 체류, 사회적 활동을 측정할 필요가 있다. 셋째, 설계 개입이 음향 결과를 거쳐 행태로 이어지는 과정을 함께 검증해야 한다. 자연음 증거의 상당 부분은 음원 재생(playback)에 의존하므로, 식재나 수경시설처럼 실제 조경 설계에서 도입되는 개입이 만들어 내는 음환경과 그에 따른 행태 변화를 함께 평가할 필요가 있다.
 
 넷째, 개입 효과의 지속성을 측정해야 한다. 대부분의 개입은 수 시간에서 수 일 동안 진행됐고 한 계절 이상 이어진 경우는 드물었다. 개입을 중단한 뒤 행태 반응이 유지되는지, 익숙해지면서 약해지는지, 사라지는지는 아직 알 수 없다. 한 번 설치로 효과가 유지되는지, 지속적인 운영이 필요한지에 따라 사업비 구조가 달라지므로 이 문제는 예산 결정과 직접 관련된다. 다섯째, 역방향 관계를 예측하는 모형이 필요하다. 공간이용, 활동, 사회적 행태에는 역방향 증거가 상당히 축적돼 있지만, 활동과 점유가 음환경에 미치는 영향을 세팅 간에 예측할 수 있는 전이 가능한(transferable) 모형은 드물다. 인원 밀도로 음압을 예측하는 식이 몇 가지 있지만 계수를 서로 바꿔 쓸 수는 없다. 여섯째, 기본 통계의 보고를 표준화해야 한다. 적격 연구 가운데 상당수가 집단 크기, 산포 통계, 분석 단위를 보고하지 않아 정량 종합에 포함되지 못했다. 보고가 개선되면 연구 수를 늘리지 않고도 활용할 수 있는 증거 기반이 커질 수 있다.
 
 ### 4.6 Limitations
 
-이 연구에는 몇 가지 한계가 있다. 먼저 증거 기반이 지리적으로 편중돼 있고 비교적 최근에 형성됐다. 포함 연구의 39%가 중국에서 수행됐고 71%가 2020년 이후에 게재됐다. 등록 시점에 정한 영어 학술지 논문 제한도 이러한 분포와 맞물려 있다. 중국어 문헌을 제외했기 때문에 코퍼스에 포함된 중국 연구는 영어로 게재하기를 선택한 연구의 하위집합이다. 따라서 추정치를 문화권과 무관하게 보편적인 값으로 해석해서는 안 된다[29,30,31]. 또한 세 경로를 통틀어 122건의 전문을 확보하지 못했다(데이터베이스 89건, 인용추적 25건, 보조 색인 8건). 초록에서 행태 결과가 확인된 인용추적 레코드의 전문 확보율은 92%였고, 확보하지 못한 레코드는 주로 제목만으로 식별된 것이었으며, 제목만으로 식별돼 전문을 확보한 레코드 가운데 최종 적격으로 판정된 것은 없었다(3.1절). 이는 회수 편향에 대한 우려를 줄여 주지만 완전히 없애지는 못한다.
+이 연구에는 몇 가지 한계가 있다. 먼저 증거 기반이 지리적으로 편중돼 있고 비교적 최근에 형성됐다. 포함 연구의 39%가 중국에서 수행됐고 71%가 2020년 이후에 게재됐다. 등록 시점에 정한 영어 학술지 논문 제한도 이러한 분포와 맞물려 있다. 중국어 문헌을 제외했기 때문에 코퍼스에 포함된 중국 연구는 영어로 게재하기를 선택한 연구의 하위집합이다. 교차문화 연구들은 같은 유형의 도시 옥외공간이라도 국가에 따라 사운드스케이프 평가가 다르게 나타나며[45,46], 그러한 비교 결과가 지각 속성(perceptual attributes)의 번역과 문화 간 적응(cross-cultural adaptation) 절차에 따라서도 달라질 수 있다고 보고했다[47]. 따라서 추정치를 문화권과 무관하게 보편적인 값으로 해석해서는 안 된다. 또한 세 경로를 통틀어 122건의 전문을 확보하지 못했다(데이터베이스 89건, 인용추적 25건, 보조 색인 8건). 다만 초록에서 행태 결과가 확인된 인용추적 레코드의 전문 확보율은 92%였고, 확보하지 못한 레코드는 주로 제목만으로 식별된 것이었다. 전문을 평가한 인용추적 레코드 가운데 초록에서 행태 결과가 확인된 37건은 16건(43%)이 포함되거나 민감도 분석용으로 분류됐지만, 제목만으로 선별된 17건은 한 건도 포함되지 않았다. 최종 포함 여부가 제목의 주제적 관련성보다 초록 확보 여부와 강하게 연관된 것으로, 제목만으로 선별하면 제목과 초록을 함께 볼 때보다 민감도가 낮다는 보고와도 일치한다[48]. 이 결과는 전문을 확보하지 못한 레코드가 결론을 바꿨을 가능성이 낮음을 시사하지만, 두 집단은 무작위로 나뉘지 않았고 제목만 본 레코드가 17건에 불과하므로 미확보로 남은 제목 판단 레코드 22건의 영향은 배제할 수 없다.
 
 스크리닝과 추출은 두 명의 독립적인 리뷰어가 아니라 한 명의 리뷰어가 수행했다(2.4절). 두 쌍의 논문이 표본을 공유했으며, 각 쌍에서 한 편만 정량 합성에 포함했다. 점검과 검증 단계를 거쳤지만 이러한 절차는 선택 오류나 추출 오류를 완전히 배제하지 못한다. 정량 종합에도 한계가 있다. 어느 클러스터도 사전에 정한 *k* = 10 기준에 도달하지 않아 출판편향을 평가하지 못했으므로 소규모 연구 효과의 가능성이 남아 있다. 클러스터당 추정치가 3~6개에 불과해 등록한 하위그룹 분석도 수행하지 않았다. 무엇보다 네 예측구간이 모두 0을 포함하므로, 통계적으로 유의한 평균 추정치라도 새로운 연구의 결과를 예측하는 값으로 해석해서는 안 된다. 또한 사회적 상호작용 클러스터의 유의성은 인용 검색으로 확보한 연구 한 편에 의존하며, 이 연구는 데이터베이스 검색만으로는 찾을 수 없었을 것이다.
 
@@ -422,51 +416,51 @@ This study analysed only publicly available, aggregated and de-identified data a
 
 [25] Sterne JAC, Sutton AJ, Ioannidis JPA, Terrin N, Jones DR, Lau J, et al. Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials. BMJ. 2011;343:d4002. doi:10.1136/bmj.d4002
 
-[26] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
+[26] Franěk M, van Noorden L, Režný L. Tempo and walking speed with music in the urban context. Frontiers in Psychology. 2014;5. doi:10.3389/fpsyg.2014.01361
 
-[27] Stansfield C, Dehdarirad H, Thomas J, Mathew S, O'Mara‐Eves A. Analyzing the Utility of OpenAlex to Identify Studies for Systematic Reviews: Methods and a Case Study. Cochrane Evidence Synthesis and Methods. 2025;3. doi:10.1002/cesm.70038
+[27] Franěk M, Režný L. Environmental Features Influence Walking Speed: The Effect of Urban Greenery. Land. 2021;10:459. doi:10.3390/land10050459
 
-[28] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
+[28] Schrapel M, Happe J, Rohs M. EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas. i-com. 2022;21:219-237. doi:10.1515/icom-2022-0020
 
-[29] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
+[29] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
 
-[30] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
+[30] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
 
-[31] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+[31] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
 
-[32] Mathews KE, Canon LK. Environmental noise level as a determinant of helping behavior. Journal of Personality and Social Psychology. 1975;32:571-577. doi:10.1037/0022-3514.32.4.571
+[32] Chen X, Kang J, Wang M. The impact of the community's sound environment on social interactions among residents. Building and Environment. 2024;266:112094. doi:10.1016/j.buildenv.2024.112094
 
-[33] Moser G. Urban stress and helping behavior: Effects of environmental overload and noise on behavior. Journal of Environmental Psychology. 1988;8:287-298. doi:10.1016/s0272-4944(88)80035-5
+[33] Franěk M, Režný L, Šefara D, Cabal J. Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed. International Journal of Environmental Research and Public Health. 2018;15:752. doi:10.3390/ijerph15040752
 
-[34] Chen X, Kang J. Natural sounds can encourage social interactions in urban parks. Landscape and Urban Planning. 2023;239:104870. doi:10.1016/j.landurbplan.2023.104870
+[34] Franěk M, Režný L, Šefara D, Cabal J. Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons. PeerJ. 2019;7:e7711. doi:10.7717/peerj.7711
 
-[35] Chen X, Kang J, Wang M. The impact of the community's sound environment on social interactions among residents. Building and Environment. 2024;266:112094. doi:10.1016/j.buildenv.2024.112094
+[35] Berkouk D, Bouzir TAK, Maffei L, Masullo M. Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?. Sustainability. 2020;12:4619. doi:10.3390/su12114619
 
-[36] Franěk M, van Noorden L, Režný L. Tempo and walking speed with music in the urban context. Frontiers in Psychology. 2014;5. doi:10.3389/fpsyg.2014.01361
+[36] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
 
-[37] Franěk M, Režný L. Environmental Features Influence Walking Speed: The Effect of Urban Greenery. Land. 2021;10:459. doi:10.3390/land10050459
+[37] Aletta F, Lepore F, Kostara-Konstantinou E, Kang J, Astolfi A. An Experimental Study on the Influence of Soundscapes on People’s Behaviour in an Open Public Space. Applied Sciences. 2016;6:276. doi:10.3390/app6100276
 
-[38] Schrapel M, Happe J, Rohs M. EnvironZen: Immersive Soundscapes via Augmented Footstep Sounds in Urban Areas. i-com. 2022;21:219-237. doi:10.1515/icom-2022-0020
+[38] Montes González D, Barrigón Morillas JM, Rey-Gozalo G. Effects of noise on pedestrians in urban environments where road traffic is the main source of sound. Science of The Total Environment. 2023;857:159406. doi:10.1016/j.scitotenv.2022.159406
 
-[39] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
+[39] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
 
-[40] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
+[40] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
 
-[41] Franěk M, Režný L, Šefara D, Cabal J. Effect of Traffic Noise and Relaxations Sounds on Pedestrian Walking Speed. International Journal of Environmental Research and Public Health. 2018;15:752. doi:10.3390/ijerph15040752
+[41] Culbert JH, Hobert A, Jahn N, Haupka N, Schmidt M, Donner P, et al. Reference coverage analysis of OpenAlex compared to Web of Science and Scopus. Scientometrics. 2025;130:2475-2492. doi:10.1007/s11192-025-05293-3
 
-[42] Franěk M, Režný L, Šefara D, Cabal J. Effect of birdsongs and traffic noise on pedestrian walking speed during different seasons. PeerJ. 2019;7:e7711. doi:10.7717/peerj.7711
+[42] Stansfield C, Dehdarirad H, Thomas J, Mathew S, O'Mara‐Eves A. Analyzing the Utility of OpenAlex to Identify Studies for Systematic Reviews: Methods and a Case Study. Cochrane Evidence Synthesis and Methods. 2025;3. doi:10.1002/cesm.70038
 
-[43] Berkouk D, Bouzir TAK, Maffei L, Masullo M. Examining the Associations between Oases Soundscape Components and Walking Speed: Correlation or Causation?. Sustainability. 2020;12:4619. doi:10.3390/su12114619
+[43] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
 
-[44] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
+[44] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
 
-[45] Aletta F, Lepore F, Kostara-Konstantinou E, Kang J, Astolfi A. An Experimental Study on the Influence of Soundscapes on People’s Behaviour in an Open Public Space. Applied Sciences. 2016;6:276. doi:10.3390/app6100276
+[45] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
 
-[46] Montes González D, Barrigón Morillas JM, Rey-Gozalo G. Effects of noise on pedestrians in urban environments where road traffic is the main source of sound. Science of The Total Environment. 2023;857:159406. doi:10.1016/j.scitotenv.2022.159406
+[46] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
 
-[47] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+[47] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
 
-[48] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
+[48] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
 
 ---
 

@@ -109,15 +109,14 @@ CAPTIONS = {
         "did not report the country of data collection."),
     "Fig8_Quality": (
         "MMAT 2018 appraisal. (a) Grade distribution within each MMAT category. (b) Selected "
-        "items grouped by reporting domain. Items on measurement were generally well reported, whereas "
-        "items on participants and sampling were often not reported. Sample "
-        f"representativeness was clearly met in {_Q['4.2']['Y']} of {_Q['4.2']['n']} quantitative "
+        "items grouped by domain. Items on measurement were generally met, whereas items on sample "
+        "representativeness, non-response and confounding were often not met or could not be rated. Sample "
+        f"representativeness was met in {_Q['4.2']['Y']} of {_Q['4.2']['n']} quantitative "
         f"descriptive studies, low non-response bias in {_Q['4.4']['Y']} of {_Q['4.4']['n']}, and "
         f"control of confounding in {_Q['3.4']['Y']} of {_Q['3.4']['n']} non-randomised studies. "
-        "The two randomised studies report neither the randomisation procedure, nor baseline "
-        "comparability, nor blinding, so none of the design-specific items could be rated as met. Grey means the "
-        "information is absent, not that the study is known to be biased. The full 25-item set is "
-        "Supplementary S10."),
+        "The two randomised studies did not report the randomisation procedure, baseline "
+        "comparability or blinding, so these items could not be rated. Grey indicates that the "
+        "information was not reported, not that the study is known to be biased."),
 }
 
 
