@@ -18,5 +18,6 @@
 | Zhou et al. (2026) | China | Street | Mixed | natural sound events with queuing | 315 | Low | +0.21 [+0.10, +0.31] |
 | Mansouri et al. (2025) | Algeria | Street | Mixed | sound comfort with walking comfort | NR | Moderate | +0.40 [+0.04, +0.67] |
 | Bao et al. (2023) | China | Park | Survey | dwell time with perceived restoration | 180 | Moderate | +0.55 [+0.44, +0.65] |
+| Yu & Kang (2008) | China; Germany; Greece; Italy; Switzerland; UK | Mixed | Mixed | moving activity with loudness rating (19 sites) | 10,031 | Moderate | −0.01 [−0.09, +0.07] |
 | Montes González et al. (2023) ▲ | Spain | Street | Survey | LAeq with vocal effort | 29 | Moderate | +0.65 [+0.37, +0.82] |
 | Cao & Kang (2021) ▲ | China; UK | Square | Survey | companion presence with sound noticing | 301 | Moderate | +0.16 [+0.05, +0.27] |

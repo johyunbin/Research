@@ -106,6 +106,8 @@ def main():
     out.append(row("Sample size from observations", sens("MA1", "③ 관측 n"), False))
     out.append(row("Excluding imputed input", sens("MA1", "⑤ 532 제외"), False))
     out.append(row("Adding background-music study", sens("MA1", "⑥ 481 포함"), False))
+    # 2026-09-18 추가 전문평가분 — 주분석 제외 연구를 넣었을 때(판정 = ma_update_effects.csv)
+    out.append(row("Adding quiet-signage study", v2("민감도: 정숙 안내판 연구 포함(709)"), False))
 
     # ── 체류 ────────────────────────────────────────────────────────
     head("Staying / dwell time (Hedges' g)")
@@ -120,6 +122,8 @@ def main():
     out.append(loo_row("MA3", False))
     out.append(row("Excluding citation-searching study", sens("MA3", "인용추적 제외"), False))
     out.append(row("Adding non-independent study", v2("민감도: CT0414 추가"), False))
+    # 등록 민감도 (3) '행태 의도 연구 포함' — SENS_ONLY 중 이 클러스터에 대응하는 효과는 917 뿐
+    out.append(row("Adding behavioural-intention study", v2("민감도: 행태 의도 연구 포함(917)"), False))
 
     # ── 소리–행태 상관 ─────────────────────────────────────────────
     head("Sound–behaviour correlation (r)")
@@ -128,6 +132,9 @@ def main():
     out.append(row("Excluding low-quality studies", sens("MA4", "저품질 제외"), True))
     out.append(row("Excluding citation-searching studies", sens("MA4", "인용추적 제외"), True))
     out.append(row("Excluding rank correlations", sens("MA4", "④ rho 제외"), True))
+    out.append(row("Adding crowd-density study", v2("민감도: 군중밀도 연구 포함(CT0171)"), True))
+    out.append(row("Adding sound-importance or preference studies",
+                   v2("민감도: 소리 중요도·선호 연구 포함(1305·713)"), True))
 
     # 표에서 뺀 분석이 정말 주분석과 같은지 확인한다(주석에 "identical" 이라고 쓰므로)
     same = [("MA2", "저품질 제외"), ("MA3", "저품질 제외")]

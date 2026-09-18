@@ -3,7 +3,7 @@
 Paper32 — 산출물 상호 정합성 검증 v2 (두 갈래 통합 후)
 파일 간 같은 수치가 어긋나면 심사자가 잡는다. 여기서 먼저 잡는다.
 """
-import sys, os, csv, re
+import sys, os, csv, re, json
 from collections import Counter
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -87,12 +87,15 @@ def main():
     # 메타분석 v2 수치가 요약과 그림에서 일치
     mv = open(os.path.join(MA, "ma_v2_summary.md"), encoding="utf-8").read()
     fig = open(os.path.join(BASE, "make_figures.py"), encoding="utf-8").read()
-    for label, k, est in [("MA3", "4", "0.646"), ("MA4", "7", "0.435")]:
+    # ★ 2026-09-18: 기대값을 현행 정본으로 — D7(REML 정정·MA4 k 7→6) 뒤 갱신되지 않은 옛값(0.646·0.435)이었고,
+    #   9월 편입(80, MA4 k 6→7)까지 반영. 숲 그림은 make_figures.py 가 ma_forest_data.json 을 읽어 그리므로
+    #   스크립트 문자열 대신 그 JSON 의 클러스터별 k·추정치를 대조한다.
+    for label, k, est in [("MA3", "4", "0.679"), ("MA4", "7", "0.383")]:
         in_md = re.search(rf"{label}[^|]*\|\s*{k}\s*\|\s*\+{est}", mv) is not None
         chk(f"MA v2 요약에 {label} k={k} est={est}", in_md)
-    chk("Fig2가 MA3 k=4 반영", "k=4, I2=48.6, p=0.021" in fig.replace(" ", "")
-        .replace("k=4,I2=48.6,p=0.021", "k=4, I2=48.6, p=0.021") or "so_p = dict(est=0.646" in fig)
-    chk("Fig2가 MA4 k=7 반영", "c_p = dict(est=0.435" in fig)
+    fd = json.load(open(os.path.join(MA, "ma_forest_data.json"), encoding="utf-8"))
+    chk("숲 그림 입력 MA3 k=4", fd["social"]["pooled"]["k"] == 4 and round(fd["social"]["pooled"]["est"], 3) == 0.679)
+    chk("숲 그림 입력 MA4 k=7", fd["correlation"]["pooled"]["k"] == 7 and round(fd["correlation"]["pooled"]["est"], 3) == 0.383)
 
     # MA 기여 표기가 Table1과 실제 풀에서 일치
     ma_t1 = {r["uid"] for r in t1 if r["in_ma"] and "(" not in r["in_ma"]}
@@ -103,7 +106,7 @@ def main():
     pf = open(os.path.join(FT, "prisma_flow.md"), encoding="utf-8").read()
     # ★ 2026-09-18: 새 기대값(113·18). prisma_flow.md 는 수기 문서라 갱신 전까지 실패가 정상이다.
     chk("PRISMA 최종 포함 113", "n = 113" in pf)
-    chk("PRISMA 인용추적 포함 18", "질적 종합 포함 ............................ n = 18" in pf)
+    chk("PRISMA 인용추적 포함 18", re.search(r"## 2\. 인용 추적 경로.*?질적 종합 포함 \.+ n = 18", pf, re.S) is not None)  # prisma_flow.md 는 build_prisma_flow_md.py 생성본
 
     figs = ["Fig1_PRISMA", "Fig2_Forest", "Fig3_EvidenceMap", "Fig4_Direction",
             "Fig5_Methods", "Fig6_Framework", "Fig7_GeoTime", "Fig8_Quality"]

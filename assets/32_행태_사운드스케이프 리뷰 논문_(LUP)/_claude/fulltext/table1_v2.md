@@ -9,7 +9,7 @@
 | 3 | Moser (1988) | 1988 | France | street | field experiment | NR | roadworks jackhammer noise vs quiet; 70-… | social | G2 | forward | high | MA3 |
 | 4 | Wall et al. (2004) | 2004 | USA | street | field experiment | 12 | five audible pedestrian signals, 72 dBC | movement | G2 | forward | moderate |  |
 | 5 | Gidlöf-Gunnarsson & Öhrström (… | 2007 | Sweden | residential | survey | 500 | road traffic LAeq24h 60-68 dB; quiet-sid… | activity; space-use | G1 | forward | moderate |  |
-| 6 | [80] Effects of social, demogr… | 2008 | Germany; Greece;… | mixed | mixed | 10,031 interviewee… | Reverse pathway: interviewer-observed us… | movement; staying; act… | G1;G2 | reverse | moderate |  |
+| 6 | [80] Effects of social, demogr… | 2008 | Germany; Greece;… | mixed | mixed | 10,031 interviewee… | Reverse pathway: interviewer-observed us… | movement; staying; act… | G1;G2 | reverse | moderate | MA4 |
 | 7 | [104] Modeling subjective eval… | 2009 | Germany; Greece;… | square | survey | over 9000 intervie… | Reverse: user behavioural factors record… | activity; staying; spa… | G1 | reverse | moderate |  |
 | 8 | Krog et al. (2010) | 2010 | Norway | recreation | quasi-experiment | 1264+1370 | aircraft noise change after airport relo… | space-use; activity | G1 | forward | moderate |  |
 | 9 | Yu & Kang (2010) | 2010 | 6 countries | mixed | mixed | NR | natural, human, mechanical, instrumental… | space-use; activity | G1;G2 | reverse | low |  |
@@ -46,10 +46,10 @@
 | 40 | Hong & Jeon (2020) | 2020 | South Korea | street | mixed | 120 obs | street soundscape: traffic, human, natur… | space-use | G2 | reverse | moderate |  |
 | 41 | Jo & Jeon (2020) | 2020 | France | lab(outdoor scene) | lab experiment | 30 | 360-degree VR park audio-visual scenes | social; staying; activ… | G2 | reverse | moderate |  |
 | 42 | Soares et al. (2020) | 2020 | Portugal | lab(outdoor scene) | lab experiment | 10 | combustion vs electric vehicle vs no app… | movement | G3 | forward | moderate |  |
-| 43 | [709] Ecosystem services enhan… | 2021 | USA | recreation | field experiment | 537 survey respond… | Reverse: educational A-frame signs (e.g.… | movement; space-use | G1;G2;G3 | both | high |  |
-| 44 | [713] Effects of environmental… | 2021 | China (Hong Kong… | park | survey | 150 visitors (30 p… | Reverse: self-reported visit behaviour (… | space-use; staying | G1 | reverse | low |  |
+| 43 | [709] Ecosystem services enhan… | 2021 | USA | recreation | field experiment | 537 survey respond… | Reverse: educational A-frame signs (e.g.… | movement; space-use | G1;G2;G3 | both | high | MA1(sens) |
+| 44 | [713] Effects of environmental… | 2021 | China (Hong Kong… | park | survey | 150 visitors (30 p… | Reverse: self-reported visit behaviour (… | space-use; staying | G1 | reverse | low | MA4(sens) |
 | 45 | [CT0166] Environmental Feature… ▲ | 2021 | Czech Republic | mixed | mixed | Study 1 = 105명, St… | 흐라데츠크랄로베 도심 1.75 km 순환 보행로 11개 구간의 지각 음환… | movement | G3 | forward | high |  |
-| 46 | [CT0171] Effects of a human so… ▲ | 2021 | China | mixed | mixed | 323 valid question… | Reverse: crowd density (mean people per … | space-use | G1;G2;G3 | reverse | low |  |
+| 46 | [CT0171] Effects of a human so… ▲ | 2021 | China | mixed | mixed | 323 valid question… | Reverse: crowd density (mean people per … | space-use | G1;G2;G3 | reverse | low | MA4(sens) |
 | 47 | [CT0184] The influence of comp… ▲ | 2021 | United Kingdom; … | square | survey | 304 (Sheffield 184… | 두 도시 광장의 현장 음환경 — Peace Garden LAeq 65.0… | social; activity | G1 | reverse | moderate | MA4 |
 | 48 | Aletta & Van Renterghem (2021) | 2021 | Belgium | park | survey | 109 | ring-road traffic noise LA50 62-65 dBA i… | movement; space-use | G1 | reverse | low |  |
 | 49 | Alishahi et al. (2021) | 2021 | Iran | mixed | mixed | 129 | historic square sounds; ventilation fan … | space-use; staying | G1;G2 | forward | low |  |
@@ -72,7 +72,7 @@
 | 66 | Uebel et al. (2022) | 2022 | Australia | park | survey | 4105 | recalled park birdsong and road traffic … | space-use; activity; s… | G1 | reverse | moderate |  |
 | 67 | Xu et al. (2022) | 2022 | China | park | survey | NR | stated preference for 16 forest park sou… | activity; movement | G1 | reverse | moderate |  |
 | 68 | [888] A Perceptual Structure o… | 2023 | China; United Ki… | square | qualitative | 23 participants (1… | Everyday in-situ acoustic environments o… | activity; social; move… | G1 | both | high |  |
-| 69 | [917] Effects of soundscape on… | 2023 | China | lab(outdoor scene) | lab experiment | 38 children analys… | Eight soundscape stimuli built from 13 r… | social; staying; space… | G1;G2 | forward | high |  |
+| 69 | [917] Effects of soundscape on… | 2023 | China | lab(outdoor scene) | lab experiment | 38 children analys… | Eight soundscape stimuli built from 13 r… | social; staying; space… | G1;G2 | forward | high | MA3(sens) |
 | 70 | [CT0007] Do soundscape percept… ▲ | 2023 | China | park | survey | 2034 valid (2068 응… | 공원 현장의 8개 개별음 — 자연음(새소리·잎사귀 스침), 기계음(방송음… | staying | G1;G3 | reverse | moderate |  |
 | 71 | Ba et al. (2023) | 2023 | China | street | field experiment | NR | traffic noise 55.6 vs 70.5 dBA, lilac od… | movement | G3 | forward | low |  |
 | 72 | Bao et al. (2023) | 2023 | China | park | survey | 180 | winter park soundscape perception (calm,… | staying; space-use | G1 | reverse | moderate | MA4 |
@@ -93,7 +93,7 @@
 | 87 | Guo et al. (2024) | 2024 | China | park | survey | 419 | perceived pleasantness and eventfulness;… | staying; activity | G1 | both | moderate | MA4 |
 | 88 | Jin et al. (2024) | 2024 | China | park | mixed | 10 sites | park LAeq near expressway; 77 dB thresho… | space-use; activity | G1;G2 | forward | low |  |
 | 89 | Joo et al. (2024) | 2024 | USA | park | observational | 355 parks | park noise level among 12 environmental … | space-use; activity | G3 | forward | low |  |
-| 90 | Lai et al. (2024) | 2024 | China | park | mixed | 1044 | park LAeq with traffic, music, human, na… | staying; movement; act… | G1;G2 | reverse | high | MA4 |
+| 90 | Lai et al. (2024) | 2024 | China | park | mixed | 1044 | park LAeq with traffic, music, human, na… | staying; movement; act… | G1;G2 | reverse | high |  |
 | 91 | Lu et al. (2024) | 2024 | China | lab(outdoor scene) | lab experiment | 30 | 68 dB traffic noise with activity sounds | activity; social | G1 | reverse | moderate |  |
 | 92 | Wang & Xiao (2024) | 2024 | China | park | mixed | 262+120 | musical fountain on vs off, broadcast mu… | staying; social; activ… | G1 | both | low |  |
 | 93 | Wogan & Kennedy (2024) | 2024 | Ireland | street | mixed | 335 (+81403 trips) | Dublin road traffic noise, cyclists 71-7… | movement; space-use; a… | G1;G3 | forward | low |  |
@@ -115,7 +115,7 @@
 | 109 | Zhang et al. (2025) | 2025 | China | street | observational | NR | street-view-predicted soundscape and str… | movement; activity | G3 | forward | moderate |  |
 | 110 | [1191] A Perceived Acoustic La… | 2026 | China | recreation | mixed | NR (numbers of tou… | Acoustic environment zone (natural sound… | staying; activity | G3 | forward | low |  |
 | 111 | [1218] Dynamic Perspectives: S… | 2026 | China | park | observational | NR individuals (da… | Temporal soundscape recorded concurrentl… | space-use; activity; s… | G2;G3 | forward | moderate |  |
-| 112 | [1305] Transforming urban land… | 2026 | Germany | park | survey | 408 participants (… | Self-rated importance of natural sounds … | activity | G1 | both | low |  |
+| 112 | [1305] Transforming urban land… | 2026 | Germany | park | survey | 408 participants (… | Self-rated importance of natural sounds … | activity | G1 | both | low | MA4(sens) |
 | 113 | [CT0414] Behavioral mapping of… ▲ | 2026 | China | park | mixed | 1,167명 관찰 기록(user … | 감각공간 4유형(시각/청각/촉각/후각) 중 청각지각공간 노출 — 자연음(… | movement; staying; spa… | G1;G2 | forward | high | MA3(sens) |
 | 114 | Fu et al. (2026) | 2026 | China | mixed | mixed | 241 (+9000 photos) | rural village Natural Sound Index; 5-min… | staying; space-use; so… | G1;G2 | forward | moderate | MA2 |
 | 115 | Gao & Fang (2026) | 2026 | China | street | observational | NR | street-view-predicted natural, mechanica… | movement; space-use | G3 | forward | low |  |

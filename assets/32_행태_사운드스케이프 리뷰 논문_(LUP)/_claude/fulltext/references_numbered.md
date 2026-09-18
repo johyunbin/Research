@@ -90,20 +90,22 @@
 
 [46] Mansouri Y, Matallah ME, Attar A, Mahar WA, Attia S. The Impact of Soundscape on Pedestrian Comfort, Perception and Walking Experience in Béjaïa, Algeria. Acoustics. 2025;7:64. doi:10.3390/acoustics7040064
 
-[47] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
+[47] Yu L, Kang J. Effects of social, demographical and behavioral factors on the sound level evaluation in urban open spaces. The Journal of the Acoustical Society of America. 2008;123:772-783. doi:10.1121/1.2821955
 
-[48] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+[48] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
 
-[49] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
+[49] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
 
-[50] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
+[50] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
 
-[51] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
+[51] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
 
-[52] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
+[52] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
 
-[53] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
+[53] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
 
-[54] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+[54] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
 
-[55] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
+[55] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+
+[56] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3

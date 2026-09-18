@@ -9,6 +9,13 @@ Paper32 — 메타분석 v2 (인용추적 신규 효과 반영)
   MA3 사회     — **CT0025 추가**(Mathews & Canon 1975, 2×2 → OR → Chinn d). Moser 1988과 동일 계열.
                  CT0414는 대비가 '청각공간 vs 시각공간'이고 독립성 위배 → 민감도.
   MA4 상관     — **CT0126·CT0184 추가**. CT0137은 d→r 변환이 등록 규약 밖 → 변형분석으로 분리.
+
+2026-09-18 추가 전문평가분(코퍼스 113편) 반영 — 판정·계산은 `ma_update_effects.py` → `ma/ma_update_effects.csv`:
+  MA4 — **80 추가**(Yu & Kang 2008, 19개 사이트 rho 논문 내 합성). `ma_correlation_input.csv` 행으로 들어온다.
+        104(80 과 동일 표본)는 D5-5 로 제외. CT0171·1305·713 은 적합성이 애매해 민감도로만 계산.
+  MA1 — 709(정숙 안내판 개입)는 대비가 음환경 조건이 아니라 민감도로만.
+  MA3 — 917(행동 의도, SENS_ONLY)로 등록 민감도 (3) '행태 의도 연구 포함'을 계산.
+  MA2 — 변동 없음(새 연구 중 체류 대비를 계산할 수 있는 효과 없음).
 출력: fulltext/ma/ma_v2_*.csv|md
 """
 import sys, os, csv, math
@@ -187,18 +194,45 @@ def main():
     stay_lib = stay + [dict(uid="CT0175", label="Dublin 2018 (조용 → 주3회+ 방문, OR)",
                             g=g175, v=v175)]
 
+    # ── 2026-09-18 추가 전문평가분: 민감도·대안 (값은 ma_update_effects.csv 에서만 읽는다) ──
+    #   주분석 편입분(80)은 ma_correlation_input.csv 행으로 이미 corr 에 들어 있다.
+    upd = {(r["uid"], r["variant"]): r for r in rd("ma_update_effects.csv")}
+
+    def u(uid, variant="primary"):
+        r = upd[(uid, variant)]
+        return dict(uid=uid, label=r["label"], g=float(r["y"]), v=float(r["v"]))
+
+    walk_709 = walk + [u("709")]                                   # MA1 + 정숙 안내판 개입
+    soc_917 = soc_v2 + [u("917")]                                  # MA3 + 행동 의도(등록 민감도 3)
+    corr_171 = corr_v2 + [u("CT0171")]                             # MA4 + 군중밀도(측정점 단위)
+    corr_pref = corr_v2 + [u("1305"), u("713")]                    # MA4 + 소리 중요도·선호 평정
+    corr_all = corr_v2 + [u("CT0171"), u("1305"), u("713")]        # MA4 + 애매 후보 전부
+    corr_no80 = [r for r in corr_v2 if r["uid"] != "80"]           # 8월 주분석(9월 추가분 제외)
+    corr_80iv = corr_no80 + [u("80", "iv_rho0")]                   # 80 을 ρ = 0 역분산 합성으로
+    corr_80flip = corr_no80 + [u("80", "sign_flip")]               # 80 부호 반전
+    corr_104 = corr_no80 + [u("104", "B7")]                        # 80 대신 동일 표본 104(동행 B7)
+
     # ── 풀링 ───────────────────────────────────────────────────────
     res = {
         "MA1 보행속도 (주분석·불변)": (pool(walk), False),
         "  └ 민감도: 음악 하위스트림": (pool(walk_music), False),
+        "  └ 민감도: 정숙 안내판 연구 포함(709)": (pool(walk_709), False),
         "MA2 체류 (주분석·불변)": (pool(stay), False),
         "  └ 민감도: 방문빈도 포함(CT0175)": (pool(stay_lib), False),
         "MA3 사회적 상호작용 (신규 CT0025 포함)": (pool(soc_v2), False),
         "  └ 민감도: CT0414 추가": (pool(soc_lib), False),
         "  └ 민감도: CT0025 제외(구 주분석)": (pool(soc), False),
-        "MA4 지각–행태 상관 (신규 2편 포함)": (pool(corr_v2, True), True),
+        "  └ 민감도: 행태 의도 연구 포함(917)": (pool(soc_917), False),
+        "MA4 지각–행태 상관 (인용추적 2편·9월 80 포함)": (pool(corr_v2, True), True),
         "  └ 변형: CT0137 추가(d→r, 규약 밖)": (pool(corr_ext, True), True),
-        "  └ 민감도: 신규 제외(구 주분석)": (pool(corr, True), True),
+        "  └ 민감도: 인용추적 2편 제외": (pool(corr, True), True),
+        "  └ 민감도: 9월 추가분 제외(8월 주분석)": (pool(corr_no80, True), True),
+        "  └ 민감도: 군중밀도 연구 포함(CT0171)": (pool(corr_171, True), True),
+        "  └ 민감도: 소리 중요도·선호 연구 포함(1305·713)": (pool(corr_pref, True), True),
+        "  └ 민감도: 애매 후보 전부 포함(CT0171·1305·713)": (pool(corr_all, True), True),
+        "  └ 대안: 80 사이트 역분산 합성(ρ=0)": (pool(corr_80iv, True), True),
+        "  └ 대안: 80 부호 반전": (pool(corr_80flip, True), True),
+        "  └ 대안: 80 대신 104(동행 B7)": (pool(corr_104, True), True),
     }
 
     # ── 저장 ───────────────────────────────────────────────────────
@@ -223,6 +257,19 @@ def main():
              "| MA3 | CT0414 | **주분석 제외** — 대비가 '청각공간 vs 시각공간'이고 독립성 위배(합계 2,249 > 관측 1,167) |\n"
              "| MA4 | **CT0126·CT0184** | **주분석 포함** — 둘 다 r 계열, 프레임 정합 |\n"
              "| MA4 | CT0137 | **변형 분석** — M±SD를 d→r로 변환해야 하는데 등록 규약 §1에 없는 경로 |\n")
+    # 2026-09-18 추가 전문평가분 — 사유 문장은 ma_update_effects.csv 의 reason 열이 정본
+    L.append("\n## 2026-09-18 추가 전문평가분 편입 판단 (`ma_update_effects.csv`)\n\n"
+             "| 클러스터 | uid | 판정 | 효과 | 사유 |\n|---|---|---|---|---|\n")
+    KO = {"main": "**주분석 포함**", "sensitivity": "민감도 전용", "overlap": "제외(동일 표본)",
+          "not_computable": "제외(계산 불가)"}
+    for r_ in rd("ma_update_effects.csv"):
+        if r_["decision"] == "alt":
+            continue
+        eff = ("—" if not r_["y"] else
+               (f"r = {float(r_['r']):+.3f}" if r_["r"] else f"g = {float(r_['y']):+.3f}")
+               + f", v = {float(r_['v']):.5f}")
+        tag = f" {r_['variant']}" if r_["decision"] == "overlap" else ""
+        L.append(f"| {r_['cluster']} | {r_['uid']}{tag} | {KO[r_['decision']]} | {eff} | {r_['reason']} |\n")
     L.append(f"\n## MA3 신규 효과 상세 (CT0025)\n\n"
              f"Mathews & Canon (1975) *J Personality and Social Psychology* 현장실험.\n"
              f"잔디깎기 소음 87 dB(C) vs 주변 50 dB(C) 조건에서 물건을 떨어뜨린 사람을 돕는 행동을 관찰.\n\n"
@@ -236,14 +283,19 @@ def main():
              "그 경우이며, 추정치(방향)만 참고하고 구간은 보고하지 않는다.\n")
     L.append("\n## 해석\n\n")
     o3, o3o = res["MA3 사회적 상호작용 (신규 CT0025 포함)"][0], res["  └ 민감도: CT0025 제외(구 주분석)"][0]
-    o4, o4o = res["MA4 지각–행태 상관 (신규 2편 포함)"][0], res["  └ 민감도: 신규 제외(구 주분석)"][0]
+    o4, o4o = res["MA4 지각–행태 상관 (인용추적 2편·9월 80 포함)"][0], res["  └ 민감도: 인용추적 2편 제외"][0]
+    o4a = res["  └ 민감도: 9월 추가분 제외(8월 주분석)"][0]
     L.append(f"1. **MA3가 유의해졌다** — k {o3o['k']}→{o3['k']}, g {o3o['est']:+.3f}→{o3['est']:+.3f}, "
              f"p {o3o['p']:.3f}→{o3['p']:.3f}. 다만 I²가 {o3o['I2']:.1f}%→{o3['I2']:.1f}%로 "
              f"올랐다(CT0025의 효과가 크다).\n")
     L.append(f"2. **MA4는 안정적** — k {o4o['k']}→{o4['k']}, r {o4o['r']:+.3f}→{o4['r']:+.3f}, "
-             f"p {o4o['p']:.3f}→{o4['p']:.3f}. 신규 2편이 들어와도 추정치가 거의 움직이지 않는다.\n")
-    L.append("3. **MA1·MA2는 불변** — 인용추적이 이 두 클러스터에는 풀링 가능한 효과를 "
-             "추가하지 못했다. 조건 대비 실험의 희소성이라는 리뷰의 핵심 주장이 재확인된다.\n")
+             f"p {o4o['p']:.3f}→{o4['p']:.3f}. 인용추적 2편을 빼도 추정치가 크게 움직이지 않는다.\n")
+    L.append(f"   **9월 추가분(80)** — 8월 주분석 k {o4a['k']}, r {o4a['r']:+.3f}, p {o4a['p']:.3f}, "
+             f"I² {o4a['I2']:.1f}% → k {o4['k']}, r {o4['r']:+.3f}, p {o4['p']:.3f}, I² {o4['I2']:.1f}%. "
+             "대표본의 0 근처 효과가 들어와 평균이 내려간다.\n")
+    L.append("3. **MA1·MA2 주분석은 불변** — 인용추적·9월 추가분 모두 이 두 클러스터에 주분석 기준을 "
+             "충족하는 효과를 더하지 못했다(709 는 대비 불일치로 민감도 전용). "
+             "조건 대비 실험의 희소성이라는 리뷰의 핵심 주장이 재확인된다.\n")
     open(os.path.join(MA, "ma_v2_summary.md"), "w", encoding="utf-8").write("".join(L))
 
     # ── Figure 2용 기계 판독 export ──────────────────────────────────
@@ -253,7 +305,7 @@ def main():
     FOREST = [("walking", "MA1 보행속도 (주분석·불변)", walk, False),
               ("staying", "MA2 체류 (주분석·불변)", stay, False),
               ("social", "MA3 사회적 상호작용 (신규 CT0025 포함)", soc_v2, False),
-              ("correlation", "MA4 지각–행태 상관 (신규 2편 포함)", corr_v2, True)]
+              ("correlation", "MA4 지각–행태 상관 (인용추적 2편·9월 80 포함)", corr_v2, True)]
     fx = {}
     for key, tag, rows_, br in FOREST:
         o = res[tag][0]

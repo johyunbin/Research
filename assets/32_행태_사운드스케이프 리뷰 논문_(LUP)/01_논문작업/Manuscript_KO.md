@@ -2,7 +2,7 @@
 
 **Target journal**: Landscape and Urban Planning
 **Registration**: OSF Registries, osf.io/7ew8q (Generalized Systematic Review Registration)
-**Draft**: 2026-08-06 (한글본) · corpus 98 studies
+**Draft**: 2026-09-18 (한글본) · corpus 113 studies
 
 ---
 
@@ -26,7 +26,7 @@ Seoul, 04763, Republic of Korea
 
 ## Abstract
 
-도시 사운드스케이프 연구는 크게 축적됐으나, 음향 조건(acoustic conditions)과 도시 옥외공간의 관찰 가능한 행태 사이의 관계는 행태 도메인 전반에 걸쳐 체계적으로 종합된 적이 없다. 본 연구는 OSF에 사전등록한 프로토콜에 따라 체계적 문헌고찰과 메타분석을 수행했으며, 음환경에서 행태로 향하는 순방향 경로와 활동에서 음환경으로 향하는 역방향 경로를 처음부터 함께 고려했다. Web of Science, Scopus, PubMed 검색(2026년 8월)에 인용 추적과 보조 색인(supplementary index)을 더해 98편의 적격 연구를 확인했다. 방법론적 질은 MMAT 2018(Mixed Methods Appraisal Tool)로 평가했고, 정량 효과는 Hartung–Knapp 보정을 적용한 REML 랜덤효과 모형으로 합성했다. 네 행태 클러스터의 효과는 모두 이론적으로 기대되는 방향이었지만, 평균 효과가 통계적으로 뒷받침된 것은 사회적 상호작용(*k* = 4, *g* = +0.68, 95% CI [+0.20, +1.16])과 소리–행태 상관(sound–behaviour correlation; *k* = 6, *r* = +0.42, 95% CI [+0.19, +0.61])뿐이었다. 또한 네 클러스터 모두 95% 예측구간이 0을 포함해, 새로운 장소에서도 같은 효과가 나타난다고 장담할 수 없었다. 널리 인용되는 보행속도 연관의 근거는 모두 MMAT 평가에서 낮은 등급(low)을 받은 연구였고, 대부분 공공공간의 음환경을 조작한 것이 아니라 헤드폰으로 전달한 오디오에서 도출됐다. 방향성 레코드 187건 중 74건(40%)이 역방향이었으며, 공간이용·활동·사회적 행태에서는 두 방향이 대체로 균형을 이뤘다. GPS·영상 같은 센싱 방법이 늘어난 뒤에도 설문과 현장 관찰은 대체되지 않고 함께 쓰였다. 근거로부터 도출한 열 가지 계획 조치 가운데 설계 기준으로 바로 쓸 만큼 근거가 강한 것은 없었다. 현재 가장 방어 가능한 개입은 사회적 상호작용이 의도된 곳에서 운영 소음을 통제하는 것이며, 전반적으로 이 증거는 보편적 설계 기준이 아니라 모니터링으로 검증할 근거를 반영한 가설(evidence-informed hypotheses)을 지지한다.
+도시 사운드스케이프 연구는 크게 축적됐으나, 음향 조건(acoustic conditions)과 도시 옥외공간의 관찰 가능한 행태 사이의 관계는 행태 도메인 전반에 걸쳐 체계적으로 종합된 적이 없다. 본 연구는 OSF에 사전등록한 프로토콜에 따라 체계적 문헌고찰과 메타분석을 수행했으며, 음환경에서 행태로 향하는 순방향 경로와 활동에서 음환경으로 향하는 역방향 경로를 처음부터 함께 고려했다. Web of Science, Scopus, PubMed 검색(2026년 8월)에 인용 추적과 보조 색인(supplementary index)을 더해 113편의 적격 연구를 확인했다. 방법론적 질은 MMAT 2018(Mixed Methods Appraisal Tool)로 평가했고, 정량 효과는 Hartung–Knapp 보정을 적용한 REML 랜덤효과 모형으로 합성했다. 네 행태 클러스터의 효과는 모두 이론적으로 기대되는 방향이었지만, 평균 효과가 통계적으로 뒷받침된 것은 사회적 상호작용(*k* = 4, *g* = +0.68, 95% CI [+0.20, +1.16])과 소리–행태 상관(sound–behaviour correlation; *k* = 7, *r* = +0.36, 95% CI [+0.11, +0.57])뿐이었다. 또한 네 클러스터 모두 95% 예측구간이 0을 포함해, 새로운 장소에서도 같은 효과가 나타난다고 장담할 수 없었다. 널리 인용되는 보행속도 연관의 근거는 모두 MMAT 평가에서 낮은 등급(low)을 받은 연구였고, 대부분 공공공간의 음환경을 조작한 것이 아니라 헤드폰으로 전달한 오디오에서 도출됐다. 방향성 레코드 208건 중 88건(42%)이 역방향이었으며, 공간이용·활동·사회적 행태에서는 두 방향이 대체로 균형을 이뤘다. GPS·영상 같은 센싱 방법이 늘어난 뒤에도 설문과 현장 관찰은 대체되지 않고 함께 쓰였다. 근거로부터 도출한 열 가지 계획 조치 가운데 설계 기준으로 바로 쓸 만큼 근거가 강한 것은 없었다. 현재 가장 방어 가능한 개입은 사회적 상호작용이 의도된 곳에서 운영 소음을 통제하는 것이며, 전반적으로 이 증거는 보편적 설계 기준이 아니라 모니터링으로 검증할 근거를 반영한 가설(evidence-informed hypotheses)을 지지한다.
 
 **Keywords**: soundscape; behaviour; urban open space; systematic review; meta-analysis; landscape planning
 
@@ -50,13 +50,13 @@ Seoul, 04763, Republic of Korea
 
 ### 1.3 Advances in measuring behaviour and sound
 
-이 주제의 문헌은 최근 빠르게 늘었다. 본 리뷰에 포함된 98편 중 70편(71%)이 2020년 이후에 게재됐다. 이러한 증가는 행태와 소리를 측정하는 방법의 변화와 맞물려 있다. 과거에는 옥외공간의 행태를 기록하려면 조사원이 현장에서 직접 관찰해 코딩하거나 참가자를 모집해 설문을 해야 했기 때문에 표본이 작고 관찰 기간도 짧았다. 최근에는 GPS 궤적, 스마트폰 위치 자료, 크라우드소싱 활동 기록, 영상 분석, 웨어러블 센서를 이용해 훨씬 큰 규모로 행태를 측정할 수 있게 됐으며, 본 리뷰의 코퍼스에도 자전거 통행 81,403건이나 가로 구간 13,322개를 분석한 연구가 포함돼 있다. 음향 측정 역시 저가 센서 네트워크, 이미지 기반 추정, 모바일 사운드워크(soundwalk) 같은 방법이 확산되면서 쉬워졌다. 그 결과 같은 장소와 시간대에서 사람의 행태와 음환경을 함께 측정하는 연구가 가능해졌다.
+이 주제의 문헌은 최근 빠르게 늘었고, 이러한 증가는 행태와 소리를 측정하는 방법의 변화와 맞물려 있다. 과거에는 옥외공간의 행태를 기록하려면 조사원이 현장에서 직접 관찰해 코딩하거나 참가자를 모집해 설문을 해야 했기 때문에 표본이 작고 관찰 기간도 짧았다. 최근에는 GPS 궤적, 스마트폰 위치 자료, 크라우드소싱 활동 기록, 영상 분석, 웨어러블 센서를 이용해 훨씬 큰 규모로 행태를 측정할 수 있게 됐다. 음향 측정 역시 저가 센서 네트워크, 이미지 기반 추정, 모바일 사운드워크(soundwalk) 같은 방법이 확산되면서 쉬워졌다. 그 결과 같은 장소와 시간대에서 사람의 행태와 음환경을 함께 측정하는 연구가 가능해졌다.
 
-다만 이러한 변화에는 방법론적 한계도 따른다. 새로 늘어난 연구의 상당수는 관찰 연구이거나 대규모 자료를 이용한 연구로, 변수 간 연관은 보여 줄 수 있지만 인과관계를 확인하기는 어렵다. 실제로 본 리뷰의 코퍼스에서 현장실험이나 자연실험(field or natural experiment) 설계를 사용한 연구는 19%에 그쳤다(3.2절). 자료의 양은 크게 늘었지만, 음환경을 직접 조작(manipulation)해 행태 변화를 확인한 연구는 여전히 부족하다.
+다만 새로 늘어난 연구의 상당수는 관찰 연구이거나 대규모 자료를 이용한 연구여서, 변수 간 연관은 보여 줄 수 있지만 음환경을 직접 조작(manipulation)하지 않는 한 인과관계를 확인하기는 어렵다.
 
 ### 1.4 Behaviour and activity as influences on the acoustic environment
 
-기존 연구의 주된 틀은 소리를 노출(exposure)로, 행태를 결과(outcome)로 보는 것이다. 그러나 선행 문헌을 검토하는 과정에서 반대 방향, 즉 사람의 활동과 점유(occupancy)가 음환경을 형성하는 경로를 다룬 연구도 적지 않다는 점이 확인됐고, 이에 따라 본 리뷰는 이러한 역방향 연구도 프로토콜 등록 시점부터 적격으로 규정했다(2.2절). 역방향 연구는 군중 밀도가 높아지면 음압이 달라지는지, 광장 무용 같은 활동이 인접 주거의 음환경을 바꾸는지, 동행자 유무가 소리를 알아차리는 방식을 바꾸는지, 시장 배치를 조정해 발생 소음을 줄일 수 있는지와 같은 질문을 다룬다. 본 리뷰의 코퍼스에서 방향을 판별할 수 있었던 레코드 187건 가운데 74건(40%)이 이러한 역방향이었다(3.6절). 역방향 레코드는 행태 도메인에 따라 고르게 분포하지 않았다. 실험적으로 조작하기 쉬운 이동과 체류에서는 순방향 설계가 대부분이었지만, 공간이용, 활동, 사회적 행태에서는 순방향과 역방향 레코드가 비슷한 비중을 보였다. 이는 집합적이고 지속적인 활동이 음환경을 만드는 요인으로 이미 연구되고 있지만, 분야의 일반적인 틀에서는 상대적으로 덜 주목받아 왔음을 시사한다.
+기존 연구의 주된 틀은 소리를 노출(exposure)로, 행태를 결과(outcome)로 보는 것이다. 그러나 프로토콜 등록 전 예비 검색에서 반대 방향, 즉 사람의 활동과 점유(occupancy)가 음환경을 형성하는 경로를 다룬 연구도 적지 않다는 점을 확인했고, 이에 따라 본 리뷰는 이러한 역방향 연구도 프로토콜 등록 시점부터 적격으로 규정했다(2.2절). 역방향 연구는 군중 밀도가 높아지면 음압이 달라지는지, 광장 무용 같은 활동이 인접 주거의 음환경을 바꾸는지, 동행자 유무가 소리를 알아차리는 방식을 바꾸는지, 시장 배치를 조정해 발생 소음을 줄일 수 있는지와 같은 질문을 다룬다. 이러한 연구는 음향학, 관광, 공중보건, 도시 분석 분야에 흩어져 있어 순방향 연구와 함께 종합된 적이 없다.
 
 이러한 역방향 증거는 계획에 직접적인 의미를 갖는다. 설계자와 운영자는 소음원뿐 아니라 활동의 배치, 공간 이용 밀도, 벤치와 놀이 공간의 위치, 야외 공연의 허용 시간도 결정하며, 이러한 결정은 모두 결과적으로 형성되는 음환경에 영향을 준다. 소리를 노출로만 다루면 계획과 관련된 증거의 상당 부분이 분석에서 빠지게 된다. 다만 본 리뷰에서 말하는 양방향성은 두 방향의 연구가 함께 존재하는 증거의 구조, 즉 양방향 증거 구조(bidirectional evidence structure)를 뜻하며, 특정 장소에서 소리와 행태가 서로 영향을 주고받는 닫힌 인과 피드백 고리(closed causal feedback loop)가 입증됐다는 의미는 아니다.
 
@@ -128,74 +128,76 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 ### 3.1 Study selection
 
-데이터베이스 검색에서 2,073건(Web of Science 1,010건, Scopus 850건, PubMed 213건)을 확인했다. 중복 757건을 제거한 1,316건을 스크리닝해 1,127건을 배제했고, 189건을 전문 확보 대상으로 선정했다. 이 가운데 89건은 전문을 확보하지 못했으며, 그중 84건은 스크리닝 단계에서 판단이 불확실한 레코드로 분류된 것이었다. 전문을 평가한 100편 가운데 16편을 배제하고 3편을 민감도 분석용으로 분류해, 데이터베이스 경로에서 81편을 포함했다. 데이터베이스 경로의 포함 연구 81편과 민감도 분석용 3편, 총 84편의 인용을 추적해 기존 풀에 없던 2,073건을 추가로 확인했다. 제목 기준 자동 선별 후 428건을 제목으로, 146건을 초록으로 스크리닝해 79건을 전문 확보 대상으로 선정했고, 확보한 54편 가운데 38편을 배제하고 1편을 민감도 분석용으로 분류해 15편을 추가로 포함했다. 이는 데이터베이스 경로 산출의 19%에 해당한다. 보조 색인 경로에서는 329건을 스크리닝해 15건을 전문 확보 대상으로 선정하고, 5편을 평가해 2편을 포함했다. 최종적으로 98편을 리뷰에 포함했으며, 민감도 분석에만 사용한 4편을 더하면 분석 대상은 102편이다. 선별 과정은 Fig. 1에 제시했다.
+데이터베이스 검색에서 2,073건(Web of Science 1,010건, Scopus 850건, PubMed 213건)을 확인했다. 중복 757건을 제거한 1,316건을 스크리닝해 1,127건을 배제했고, 189건을 전문 확보 대상으로 선정했다. 이 가운데 6건은 전문을 확보하지 못했다. 전문을 평가한 183편 가운데 86편을 배제하고 6편을 민감도 분석용으로 분류해, 데이터베이스 경로에서 91편을 포함했다. 첫 선별 시점(2026년 8월)에 데이터베이스 경로에서 포함되거나 민감도 분석용으로 분류된 84편의 인용을 추적해 기존 풀에 없던 2,073건을 추가로 확인했다. 제목 기준 자동 선별 후 428건을 제목으로, 146건을 초록으로 스크리닝해 79건을 전문 확보 대상으로 선정했고, 확보한 74편 가운데 54편을 배제하고 2편을 민감도 분석용으로 분류해 18편을 추가로 포함했으며, 이는 데이터베이스 경로 포함 연구의 20%에 해당한다. 보조 색인 경로에서는 329건을 스크리닝해 15건을 전문 확보 대상으로 선정했고, 학술지 논문이 아닌 2건을 제외한 13편을 평가해 1편을 민감도 분석용으로 분류하고 4편을 포함했다. 최종적으로 113편을 리뷰에 포함했으며, 민감도 분석에만 사용한 9편을 더하면 분석 대상은 122편이다. 선별 과정은 Fig. 1에 제시했다.
 
 <<FIG:Fig1_PRISMA>>
 
 ### 3.2 Characteristics of included studies
 
-포함된 98편 중 70편(71%)이 2020년 이후에 게재됐으며, 출판연도의 중앙값은 2022년이고 가장 오래된 연구는 1975년에 발표됐다. 참가자 수를 보고한 56편의 중앙값은 124명(IQR 30–400)이었다. 나머지 연구는 가로 구간, GPS 궤적, 스트리트뷰 표본점처럼 참가자가 아닌 단위로 표본을 보고했으며, 가장 큰 표본은 자전거 통행 81,403건이었다. 세팅은 가로(41편)와 공원(32편)이 대부분이었고, 광장(10편), 캠퍼스, 주거 옥외공간, 수변이 뒤를 이었다. 연구 설계는 관찰과 설문을 결합한 혼합 연구(34편)가 가장 많았고, 설문 연구(25편), 현장실험 또는 자연실험(19편, 19%), 현장 관찰(7편), 센서·빅데이터 연구(6편), 실험실·가상현실 실험(5편)이 뒤를 이었다. 포함 연구의 특성은 Table 1에, 개별 연구의 특성은 Appendix B에 제시했다.
+포함된 113편 중 80편(71%)이 2020년 이후에 게재됐으며, 출판연도의 중앙값은 2022년이고 가장 오래된 연구는 1975년에 발표됐다. 참가자 수를 보고한 64편의 중앙값은 130명(IQR 30–408)이었다. 9편은 가로 구간, GPS 궤적, 스트리트뷰 표본점처럼 참가자가 아닌 단위로 표본을 보고했고 가장 큰 표본은 자전거 통행 81,403건이었으며, 나머지 40편은 표본 크기를 보고하지 않았거나 참가자 수로 환산할 수 없었다. 세팅은 가로(49편)와 공원(43편)이 대부분이었고, 광장(16편), 수변(8편), 캠퍼스(7편), 주거 옥외공간(6편)이 뒤를 이었다. 연구 설계는 관찰과 설문을 결합한 혼합 연구(39편)가 가장 많았고, 설문 연구(29편), 현장실험 또는 자연실험(21편, 19%), 현장 관찰(8편), 센서·빅데이터 연구(6편), 실험실·가상현실 실험(5편)이 뒤를 이었다. 포함 연구의 특성은 Table 1에, 개별 연구의 특성은 Appendix B에 제시했다.
 
-연구가 수행된 국가는 중국이 38편(39%)으로 가장 많았고, 스페인(7편), 영국(6편), 독일(5편)이 뒤를 이었으며, 4편은 자료 수집 국가를 보고하지 않았다(Fig. 2a). 역방향 연구 33편 가운데 31편은 2016년 이후에 발표됐다(Fig. 2b).
+연구가 수행된 국가는 중국이 48편(42%)으로 가장 많았고, 영국(9편), 독일(9편), 스페인(7편), 이탈리아(6편)가 뒤를 이었으며, 4편은 자료 수집 국가를 보고하지 않았다(Fig. 2a). 역방향 연구 39편 가운데 35편은 2016년 이후에 발표됐다(Fig. 2b).
 
 <<PAGEBREAK>>
 
-**Table 1.** Characteristics of the included studies (n = 98).
+**Table 1.** Characteristics of the included studies (n = 113).
 
 | Characteristic | Studies | % |
 |---|---|---|
 | **Publication period** | | |
-| ≤2009 | 5 | 5% |
-| 2010–2019 | 23 | 23% |
-| 2020–2026 | 70 | 71% |
+| ≤2009 | 7 | 6% |
+| 2010–2019 | 26 | 23% |
+| 2020–2026 | 80 | 71% |
 | **Study design** | | |
-| Mixed observation + survey | 34 | 35% |
-| Survey | 25 | 26% |
-| Field or natural experiment | 19 | 19% |
-| Field observation | 7 | 7% |
-| Sensor / big data | 6 | 6% |
-| Laboratory / VR experiment | 5 | 5% |
-| Other / not reported | 2 | 2% |
+| Mixed observation + survey | 39 | 35% |
+| Survey | 29 | 26% |
+| Field or natural experiment | 21 | 19% |
+| Field observation | 8 | 7% |
+| Sensor / big data | 6 | 5% |
+| Laboratory / VR experiment | 5 | 4% |
+| Other / not reported | 5 | 4% |
 | **Setting** † | | |
-| Street | 41 | 42% |
-| Park | 32 | 33% |
-| Square / plaza | 10 | 10% |
-| Other | 8 | 8% |
-| Campus | 5 | 5% |
-| Residential open space | 4 | 4% |
-| Waterfront | 4 | 4% |
+| Street | 49 | 43% |
+| Park | 43 | 38% |
+| Square / plaza | 16 | 14% |
+| Waterfront | 8 | 7% |
+| Other | 8 | 7% |
+| Campus | 7 | 6% |
+| Residential open space | 6 | 5% |
 | **Country** † | | |
-| China | 38 | 39% |
-| Spain | 7 | 7% |
-| United Kingdom | 6 | 6% |
-| Germany | 5 | 5% |
-| Not reported | 4 | 4% |
-| Italy | 4 | 4% |
+| China | 48 | 42% |
+| United Kingdom | 9 | 8% |
+| Germany | 9 | 8% |
+| Spain | 7 | 6% |
+| Italy | 6 | 5% |
 | Australia | 4 | 4% |
 | Czechia | 4 | 4% |
-| Other countries (n = 24) | 41 | — |
+| Switzerland | 4 | 4% |
+| United States | 4 | 4% |
+| Not reported | 4 | 4% |
+| Other countries (n = 23) | 41 | — |
 | **Direction of relationship** | | |
-| Forward | 57 | 58% |
-| Reverse | 33 | 34% |
-| Both | 8 | 8% |
+| Forward | 60 | 53% |
+| Reverse | 39 | 35% |
+| Both | 14 | 12% |
 | **Behavioural measurement generation** † | | |
-| G1 | 54 | 55% |
-| G2 | 42 | 43% |
-| G3 | 24 | 24% |
+| G1 | 66 | 58% |
+| G2 | 49 | 43% |
+| G3 | 31 | 27% |
 | **Methodological quality (MMAT 2018)** | | |
-| High | 22 | 22% |
-| Moderate | 40 | 41% |
-| Low | 36 | 37% |
+| High | 25 | 22% |
+| Moderate | 45 | 40% |
+| Low | 43 | 38% |
 
-*Note.* Percentages are of the 98 included studies. † = a study can be counted in more than one category. G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data measurement of behaviour. Characteristics of each study are listed in Appendix B.
+*Note.* Percentages are of the 113 included studies. † = a study can be counted in more than one category. G1 = self-report; G2 = systematic observation; G3 = sensing, GPS, video or big-data measurement of behaviour. Characteristics of each study are listed in Appendix B.
 
 <<FIG:Fig7_GeoTime>>
 
 ### 3.3 Methodological quality of included studies
 
-포함된 98편의 MMAT 등급은 high 22편(22%), moderate 40편(41%), low 36편(37%)이었다(Fig. 3). MMAT 범주는 정량 기술 연구 51편, 비무작위 정량 연구 22편, 혼합 연구 15편, 질적 연구 7편, 무작위배정 연구 2편이었고, 1편은 범주를 판정할 수 없었다.
+포함된 113편의 MMAT 등급은 high 25편(22%), moderate 45편(40%), low 43편(38%)이었다(Fig. 3). MMAT 범주는 정량 기술 연구 58편, 비무작위 정량 연구 25편, 혼합 연구 16편, 질적 연구 11편, 무작위배정 연구 2편이었고, 1편은 범주를 판정할 수 없었다.
 
-문항별 판정은 다음과 같았다. 정량 기술 연구 51편 중 표본 대표성을 충족한 연구는 10편(20%)이었고 24편은 미충족, 17편은 판단불가로 판정됐다. 무응답 편의가 낮다고 판정된 연구는 16편(31%)이었으며, 14편은 미충족, 21편은 판단불가였다. 비무작위 정량 연구 22편 중 참가자가 목표 모집단을 대표한다고 판정된 연구는 4편(18%)이었고 9편은 미충족, 9편은 판단불가였으며, 교란을 적절히 통제한 연구는 9편(41%)이었고 7편은 미충족, 6편은 판단불가였다. 무작위배정 연구 2편은 무작위화 방법, 집단의 기저 동등성, 평가자 눈가림을 보고하지 않아 세 문항이 모두 판단불가로 판정됐으며, 각각 1개와 2개의 기준만 충족해 low 등급을 받았다. 어떤 기준도 충족하지 못한 연구는 4편이었다.
+문항별 판정은 다음과 같았다. 정량 기술 연구 58편 중 표본 대표성을 충족한 연구는 10편(17%)이었고 28편은 미충족, 20편은 판단불가로 판정됐다. 무응답 편의가 낮다고 판정된 연구는 17편(29%)이었으며, 14편은 미충족, 27편은 판단불가였다. 비무작위 정량 연구 25편 중 참가자가 목표 모집단을 대표한다고 판정된 연구는 6편(24%)이었고 10편은 미충족, 9편은 판단불가였으며, 교란을 적절히 통제한 연구는 10편(40%)이었고 9편은 미충족, 6편은 판단불가였다. 무작위배정 연구 2편은 무작위화 방법, 집단의 기저 동등성, 평가자 눈가림을 보고하지 않아 세 문항이 모두 판단불가로 판정됐으며, 각각 1개와 2개의 기준만 충족해 low 등급을 받았다. 어떤 기준도 충족하지 못한 연구는 5편이었다.
 
 <<FIG:Fig8_Quality>>
 
@@ -203,7 +205,7 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 ### 3.4 Meta-analyses (RQ1)
 
-네 개의 행태 클러스터가 메타분석 요건을 충족했으며, 16편의 연구가 합성에 기여했다. 기여 연구의 특성과 개별 효과크기는 Table 2에, 클러스터별 숲 그림은 Fig. 4에 제시했다. 평균 효과의 95% 신뢰구간이 0을 배제한 것은 사회적 상호작용과 소리–행태 상관의 두 클러스터였고, 95% 예측구간은 네 클러스터 모두 0을 포함했다(Table 3).
+네 개의 행태 클러스터가 메타분석 요건을 충족했으며, 17편의 연구가 합성에 기여했다. 기여 연구의 특성과 개별 효과크기는 Table 2에, 클러스터별 숲 그림은 Fig. 4에 제시했다. 평균 효과의 95% 신뢰구간이 0을 배제한 것은 사회적 상호작용과 소리–행태 상관의 두 클러스터였고, 95% 예측구간은 네 클러스터 모두 0을 포함했다(Table 3).
 
 보행속도 클러스터(*k* = 3)에서는 소음 조건에서 보행이 더 빨랐으나 합성 효과의 신뢰구간이 0을 포함했고(*g* = −0.47, 95% CI [−2.06, +1.11], *p* = 0.326), 이질성이 높았다(*I*² = 81.4%). 체코에서 수행된 두 현장실험은 새소리 조건보다 교통소음이나 도시소음 조건에서 보행속도가 빨랐다고 보고했지만(*g* = −1.02, −0.63)[28,29], 알제리 오아시스 지역의 가로에서 자연음과 교통음 조건을 비교한 관찰 연구에서는 반대 방향의 효과가 나타났다(*g* = +0.23)[30]. 세 연구는 모두 MMAT low 등급이었다. MMAT high 등급을 받은 보행 관련 연구 가운데 광장 배경음악의 효과를 다룬 연구는 노출 정의가 달라 제외했으며(2.9절), 인용 추적으로 확보한 세 편은 각각 음악 템포를 조작했거나[31], 소음과 보행속도의 관계를 직접 검정하지 않았거나[32], 헤드폰으로 전달한 증강 발소리를 다뤄[33] 합성에 포함되지 않았다.
 
@@ -211,7 +213,7 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 사회적 상호작용 클러스터(*k* = 4)에서는 더 조용하거나 자연음이 있는 조건에서 사회적 상호작용이 많았고, 합성 효과의 신뢰구간이 0을 배제했다(*g* = +0.68, 95% CI [+0.20, +1.16], *p* = 0.020, *I*² = 48.6%). 네 효과는 모두 같은 방향이었다. 중국의 공원[37]과 주거단지 옥외공간[38]에서 수행된 두 현장실험은 자연음 조건과 소음 조건에서 집단 또는 두 사람 사이의 상호작용을 비교했고(*g* = +0.98, +0.55), 나머지 두 현장실험은 조용한 조건과 도로공사 소음[39] 또는 잔디깎기 소음[40] 조건에서 낯선 사람을 돕는 행동을 비교했다(*g* = +0.43, +1.07). 이 클러스터에는 MMAT low 등급 연구가 포함되지 않았다.
 
-소리–행태 상관 클러스터(*k* = 6)에서는 소리 지표와 행태 사이에 정적 상관이 나타났고(*r* = +0.42, 95% CI [+0.19, +0.61], *p* = 0.006), 이질성이 높았다(*I*² = 92.0%). 개별 상관계수는 +0.16에서 +0.65 사이에 분포했다. 도시공원 방문객의 사운드스케이프 쾌적성과 정적 행태[41], 공원 체류시간과 회복감 지각[42], 가로의 등가소음도(LAeq)와 발성 노력[43]의 상관은 +0.55 이상이었고, 광장에서의 동행 여부와 소리 인지[44], 상업 가로의 자연음 사건과 대기(queuing) 행동[45]의 상관은 +0.21 이하였다. 가로의 음향 쾌적성과 보행 쾌적성의 상관(*r* = +0.40)[46]은 신뢰구간이 가장 넓었다.
+소리–행태 상관 클러스터(*k* = 7)에서는 소리 지표와 행태 사이에 정적 상관이 나타났고(*r* = +0.36, 95% CI [+0.11, +0.57], *p* = 0.013), 이질성이 높았다(*I*² = 95.7%). 개별 상관계수는 −0.01에서 +0.65 사이에 분포했다. 도시공원 방문객의 사운드스케이프 쾌적성과 정적 행태[41], 공원 체류시간과 회복감 지각[42], 가로의 등가소음도(LAeq)와 발성 노력[43]의 상관은 +0.55 이상이었고, 광장에서의 동행 여부와 소리 인지[44], 상업 가로의 자연음 사건과 대기(queuing) 행동[45]의 상관은 +0.21 이하였다. 가로의 음향 쾌적성과 보행 쾌적성의 상관(*r* = +0.40)[46]은 신뢰구간이 가장 넓었다. 유럽과 중국의 19개 도시 옥외공간에서 이용자 10,031명을 조사한 연구에서는 조사원이 관찰한 이동 활동과 음량 평가 사이에 상관이 거의 없었다(*r* = −0.01)[47].
 
 <<LANDSCAPE>>
 
@@ -237,6 +239,7 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 | Zhou et al. (2026) | China | Street | Mixed | natural sound events with queuing | 315 | Low | +0.21 [+0.10, +0.31] |
 | Mansouri et al. (2025) | Algeria | Street | Mixed | sound comfort with walking comfort | NR | Moderate | +0.40 [+0.04, +0.67] |
 | Bao et al. (2023) | China | Park | Survey | dwell time with perceived restoration | 180 | Moderate | +0.55 [+0.44, +0.65] |
+| Yu & Kang (2008) | China; Germany; Greece; Italy; Switzerland; UK | Mixed | Mixed | moving activity with loudness rating (19 sites) | 10,031 | Moderate | −0.01 [−0.09, +0.07] |
 | Montes González et al. (2023) ▲ | Spain | Street | Survey | LAeq with vocal effort | 29 | Moderate | +0.65 [+0.37, +0.82] |
 | Cao & Kang (2021) ▲ | China; UK | Square | Survey | companion presence with sound noticing | 301 | Moderate | +0.16 [+0.05, +0.27] |
 
@@ -248,11 +251,11 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 
 ### 3.5 Sensitivity analyses and publication bias
 
-민감도 분석 결과는 Table 3에 제시했다. 보행속도와 체류 클러스터에서는 어떤 민감도 분석에서도 합성 효과가 유의하지 않았다. 보행속도 클러스터에서 광장 배경음악 연구를 포함하면 추정치는 *g* = −0.77(*p* = 0.145)로 커졌고, 체류 클러스터에서 방문빈도를 결과로 보고한 연구를 포함하면 *g* = +0.20(*p* = 0.471)으로 작아졌다. 보행속도 클러스터는 기여 연구가 모두 MMAT low 등급이어서 low 등급을 제외한 분석을 수행할 수 없었다.
+민감도 분석 결과는 Table 3에 제시했다. 보행속도와 체류 클러스터에서는 어떤 민감도 분석에서도 합성 효과가 유의하지 않았다. 보행속도 클러스터에서 광장 배경음악 연구를 포함하면 추정치는 *g* = −0.77(*p* = 0.145)로 커졌고, 체류 클러스터에서 방문빈도를 결과로 보고한 연구를 포함하면 *g* = +0.20(*p* = 0.471)으로 작아졌다. 보행속도 클러스터는 기여 연구가 모두 MMAT low 등급이어서 low 등급을 제외한 분석을 수행할 수 없었다. 음환경 조건이 아니라 정숙 안내판 개입을 비교한 탐방로 연구를 보행속도 클러스터에 더하면 *g* = −0.34(*p* = 0.305)였다.
 
-사회적 상호작용 클러스터에서는 한 편씩 제외한 네 분석(leave-one-out) 가운데 세 분석에서 *p*가 0.05를 넘었다. Chen과 Kang [37]을 제외했을 때 추정치가 가장 낮았고(*g* = +0.56, *p* = 0.059), 신뢰구간이 0을 배제한 것은 Moser [39]를 제외한 경우뿐이었다(*g* = +0.80, *p* = 0.041). 인용 추적으로 확보한 연구[40]를 제외하면 *g* = +0.60(*p* = 0.057)이었고, 관찰 기록 간 독립성 문제로 주분석에서 제외한 연구를 포함하면 *g* = +0.81(*p* = 0.005)이었다.
+사회적 상호작용 클러스터에서는 한 편씩 제외한 네 분석(leave-one-out) 가운데 세 분석에서 *p*가 0.05를 넘었다. Chen과 Kang [37]을 제외했을 때 추정치가 가장 낮았고(*g* = +0.56, *p* = 0.059), 신뢰구간이 0을 배제한 것은 Moser [39]를 제외한 경우뿐이었다(*g* = +0.80, *p* = 0.041). 인용 추적으로 확보한 연구[40]를 제외하면 *g* = +0.60(*p* = 0.057)이었고, 관찰 기록 간 독립성 문제로 주분석에서 제외한 연구를 포함하면 *g* = +0.81(*p* = 0.005)이었다. 결과가 행동 기대로 측정돼 민감도 분석 전용으로 분류한 실험 연구를 더하면 *g* = +0.67(*p* = 0.004, *I*² = 34.1%)이었다.
 
-소리–행태 상관 클러스터에서는 한 편씩 제외한 분석의 추정치가 *r* = +0.39에서 +0.48 사이였고, 모든 민감도 분석에서 신뢰구간이 0을 배제했다. MMAT low 등급 연구를 제외하면 *r* = +0.47, 인용 추적으로 확보한 연구를 제외하면 *r* = +0.44, 순위상관을 제외하면 *r* = +0.48이었다. 옥외 장면을 실험실에서 재현한 연구는 어느 클러스터에도 기여하지 않았으므로 이를 제외한 분석은 주분석과 같았다. 기여 효과가 가장 많은 클러스터도 *k* = 6으로 사전에 정한 기준(*k* ≥ 10)에 미달해 출판편향은 평가하지 않았다.
+소리–행태 상관 클러스터에서는 한 편씩 제외한 분석의 추정치가 *r* = +0.32에서 +0.42 사이였고, 모든 민감도 분석에서 신뢰구간이 0을 배제했다. MMAT low 등급 연구를 제외하면 *r* = +0.39, 인용 추적으로 확보한 연구를 제외하면 *r* = +0.35, 순위상관을 제외하면 *r* = +0.48이었다. 측정점 평균 군중밀도를 응답자 수로 분석한 연구를 더하면 *r* = +0.37, 장소 음환경이 아니라 소리의 중요도나 선호를 평정한 두 연구를 더하면 *r* = +0.31이었다. 옥외 장면을 실험실에서 재현한 연구는 어느 클러스터에도 기여하지 않았으므로 이를 제외한 분석은 주분석과 같았다. 기여 효과가 가장 많은 클러스터도 *k* = 7로 사전에 정한 기준(*k* ≥ 10)에 미달해 출판편향은 평가하지 않았다.
 
 **Table 3.** Pooled estimates and sensitivity analyses for the four behavioural clusters.
 
@@ -265,6 +268,7 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 | Sample size from observations | 3 | −0.44 [−2.05, +1.17] | — | 0.362 | 91.1 |
 | Excluding imputed input | 2 | −0.40 | — | 0.641 | 90.1 |
 | Adding background-music study | 4 | −0.77 [−2.03, +0.48] | — | 0.145 | 88.6 |
+| Adding quiet-signage study | 4 | −0.34 [−1.22, +0.54] | — | 0.305 | 83.5 |
 | **Staying / dwell time (Hedges' g)** | | | | | |
 | Main analysis | 3 | +0.34 [−0.09, +0.78] | −1.67, +2.36 | 0.077 | 54.4 |
 | Leave-one-out (range) | 2 | +0.29 to +0.43 | — | 0.131–0.310 | — |
@@ -275,26 +279,29 @@ RQ1부터 RQ3까지는 증거의 현황을 파악하기 위한 질문이고, RQ4
 | Leave-one-out (range) | 3 | +0.56 to +0.80 | — | 0.041–0.066 | — |
 | Excluding citation-searching study | 3 | +0.60 [−0.04, +1.24] | — | 0.057 | 43.5 |
 | Adding non-independent study | 5 | +0.81 [+0.40, +1.22] | — | 0.005 | 77.4 |
+| Adding behavioural-intention study | 5 | +0.67 [+0.35, +1.00] | — | 0.004 | 34.1 |
 | **Sound–behaviour correlation (r)** | | | | | |
-| Main analysis | 6 | +0.42 [+0.19, +0.61] | −0.24, +0.82 | 0.006 | 92.0 |
-| Leave-one-out (range) | 5 | +0.39 to +0.48 | — | 0.006–0.024 | — |
-| Excluding low-quality studies | 5 | +0.47 [+0.21, +0.67] | — | 0.009 | 91.2 |
-| Excluding citation-searching studies | 4 | +0.44 [+0.14, +0.67] | — | 0.020 | 91.8 |
+| Main analysis | 7 | +0.36 [+0.11, +0.57] | −0.36, +0.82 | 0.013 | 95.7 |
+| Leave-one-out (range) | 6 | +0.32 to +0.42 | — | 0.006–0.039 | — |
+| Excluding low-quality studies | 6 | +0.39 [+0.09, +0.63] | — | 0.021 | 96.4 |
+| Excluding citation-searching studies | 5 | +0.35 [+0.01, +0.62] | — | 0.045 | 96.9 |
 | Excluding rank correlations | 4 | +0.48 [+0.11, +0.74] | — | 0.028 | 93.4 |
+| Adding crowd-density study | 8 | +0.37 [+0.16, +0.55] | — | 0.005 | 95.1 |
+| Adding sound-importance or preference studies | 9 | +0.31 [+0.11, +0.49] | — | 0.007 | 94.8 |
 
-*Note.* Estimates are Hedges' *g* (walking speed, staying and social interaction) or *r* (sound–behaviour correlation) from REML random-effects models with the Hartung–Knapp adjustment. CI = confidence interval; PI = prediction interval. Leave-one-out rows give the range of estimates and *p* values across omitted studies. Confidence intervals are not shown for *k* = 2 because the Hartung–Knapp interval then uses a *t* distribution with one degree of freedom. Analyses excluding low-quality studies (staying and social interaction), studies from citation searching (walking speed and staying) and laboratory reproductions of outdoor scenes (all clusters) were identical to the main analysis and are not shown. Rows beginning with *Adding* include a study that was excluded from the main analysis (Section 2.9).
+*Note.* Estimates are Hedges' *g* (walking speed, staying and social interaction) or *r* (sound–behaviour correlation) from REML random-effects models with the Hartung–Knapp adjustment. CI = confidence interval; PI = prediction interval. Leave-one-out rows give the range of estimates and *p* values across omitted studies. Confidence intervals are not shown for *k* = 2 because the Hartung–Knapp interval then uses a *t* distribution with one degree of freedom. Analyses excluding low-quality studies (staying and social interaction), studies from citation searching (walking speed and staying) and laboratory reproductions of outdoor scenes (all clusters) were identical to the main analysis and are not shown. Rows beginning with *Adding* include a study that was excluded from the main analysis or used only in sensitivity analyses (Sections 2.7 and 2.9).
 
 ### 3.6 Direction of the relationship (RQ2)
 
-98편에서 추출한 행태 도메인 수준 레코드 212건 가운데 113건은 순방향(소리 → 행태), 74건은 역방향(행태 → 소리), 25건은 양방향이었다. 순방향 또는 역방향으로 분류된 187건 중 역방향은 74건(40%)이었고, 양방향 레코드까지 분모에 포함하면 35%였다.
+113편에서 추출한 행태 도메인 수준 레코드 248건 가운데 120건은 순방향(소리 → 행태), 88건은 역방향(행태 → 소리), 40건은 양방향이었다. 순방향 또는 역방향으로 분류된 208건 중 역방향은 88건(42%)이었고, 양방향 레코드까지 분모에 포함하면 35%였다.
 
-역방향 레코드의 비중은 행태 도메인에 따라 달랐다(Fig. 5). 이동(순방향 33건, 역방향 8건)과 체류(16건, 8건)에서는 순방향 레코드가 대부분이었지만, 공간이용(26건, 23건), 활동(18건, 21건), 사회적 행태(20건, 14건)에서는 두 방향의 레코드 수가 비슷했다. 역방향 연구에는 군중 밀도와 음압의 관계, 활동 프로그램에 따른 음환경 변화, 동행 여부와 소리 인지의 관계를 다룬 연구 등이 포함됐다.
+역방향 레코드의 비중은 행태 도메인에 따라 달랐다(Fig. 5). 이동(순방향 35건, 역방향 9건)과 체류(18건, 12건)에서는 순방향 레코드가 많았지만, 공간이용(27건, 28건), 활동(19건, 24건), 사회적 행태(21건, 15건)에서는 두 방향의 레코드 수가 비슷했다. 역방향 연구에는 군중 밀도와 음압의 관계, 활동 프로그램에 따른 음환경 변화, 동행 여부와 소리 인지의 관계를 다룬 연구 등이 포함됐다.
 
 <<FIG:Fig4_Direction>>
 
 ### 3.7 Behavioural measurement methods (RQ3)
 
-센서, GPS, 영상, 빅데이터를 이용한 행태 측정(G3)은 2010–2019년 4편에서 2020년 이후 20편으로 늘었고, 같은 기간 자기보고(G1)는 14편에서 39편으로, 체계적 관찰(G2)은 11편에서 28편으로 늘었다(Fig. 6). 22편은 두 세대 이상의 방법을 함께 사용했으며, 이러한 연구는 2010년대 5편에서 2020년 이후 17편으로 늘었다.
+센서, GPS, 영상, 빅데이터를 이용한 행태 측정(G3)은 2010–2019년 4편에서 2020년 이후 27편으로 늘었고, 같은 기간 자기보고(G1)는 17편에서 46편으로, 체계적 관찰(G2)은 12편에서 33편으로 늘었다(Fig. 6). 30편은 두 세대 이상의 방법을 함께 사용했으며, 이러한 연구는 2010년대 6편에서 2020년 이후 23편으로 늘었다.
 
 <<FIG:Fig5_Methods>>
 
@@ -326,9 +333,9 @@ Table 4는 코퍼스에서 도출한 열 개의 계획 레버와 각 레버의 �
 
 첫째, 유의한 사회적 상호작용 클러스터를 자연음을 더한 효과나 소음을 없앤 효과 중 어느 하나로만 해석해서는 안 된다. 자연음 연구는 대개 새소리나 물소리를 교통 소음이나 공사 소음과 비교하므로, 자연음의 추가와 경쟁 소음의 제거가 교락(confounded)돼 있다. 네 효과를 노출 유형으로 나누면 평균이 거의 같았고(자연음 +0.76, 기계음 +0.75), 도로공사 연구를 제외하면 합성 추정치가 낮아지지 않고 오히려 높아졌다(+0.68 → +0.80). 코퍼스에는 자연음 조건을 다른 조건이 비슷한 정온 조건과 비교한 연구가 없었다. 따라서 더 조용하거나 자연음이 있는 조건이 더 많은 사회적 상호작용과 연관된다는 것까지는 말할 수 있지만, 자연음의 독립적인 기여는 확인되지 않았다. 또한 이 클러스터를 유의 수준 너머로 끌어올린 증분은 인용 검색으로 확보한 기계음 실험 한 편에서 나왔다.
 
-둘째, 보행속도에 관한 증거는 합성 결과의 이름이 주는 인상보다 범위가 좁다. 기여 효과의 대부분은 공공공간의 음환경이 아니라 보행 중 헤드폰으로 전달한 오디오를 조작한 결과였다. 헤드폰 청취는 배경음 차폐, 개인의 통제 가능성, 주의 배분 측면에서 환경음과 다르다. 또한 기여 연구는 하나의 연구 프로그램에 집중돼 있었다. 풀에 포함된 세 효과 중 두 효과가 같은 체코 연구진의 연구였고[28,29], 인용 추적으로 추가된 MMAT high 등급 보행 논문 두 편[31,32]도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이었다. 나머지 한 효과는 부호가 반대인 알제리의 현장 관찰 연구였다[30]. 따라서 메타분석의 *k*를 환경소음이 보행을 빠르게 한다는 독립적인 반복 확인으로 해석해서는 안 된다. 보행속도 풀 밖에서는 실제 가로의 소음을 조작하면서 군중 행태를 관찰한 연구가 한 편 있었다. Ba 등 [47]은 교통소음 55.6 dB(A) 조건과 70.5 dB(A) 조건에서 평균 군중 속도가 각각 약 1.14 m/s와 1.21 m/s로, 고소음 조건에서 약 0.07 m/s 빨랐다고 보고했다. 그러나 저자들이 보고한 측정 격자 간 최대 차이도 0.06 m/s였고, 이 연구는 MMAT low 등급으로 평가됐다. 이 결과는 합성 추정치와 방향은 같지만 일반적인 인과 효과를 입증하지는 않는다. 따라서 보행속도는 설계 목표로 삼기보다, 아직 결론이 나지 않았고 연구 간 이질성이 큰 결과로 다루는 것이 적절하다.
+둘째, 보행속도에 관한 증거는 합성 결과의 이름이 주는 인상보다 범위가 좁다. 기여 효과의 대부분은 공공공간의 음환경이 아니라 보행 중 헤드폰으로 전달한 오디오를 조작한 결과였다. 헤드폰 청취는 배경음 차폐, 개인의 통제 가능성, 주의 배분 측면에서 환경음과 다르다. 또한 기여 연구는 하나의 연구 프로그램에 집중돼 있었다. 풀에 포함된 세 효과 중 두 효과가 같은 체코 연구진의 연구였고[28,29], 인용 추적으로 추가된 MMAT high 등급 보행 논문 두 편[31,32]도 같은 연구진이 같은 1.75–1.8 km 순환 경로에서 수행한 것이었다. 나머지 한 효과는 부호가 반대인 알제리의 현장 관찰 연구였다[30]. 따라서 메타분석의 *k*를 환경소음이 보행을 빠르게 한다는 독립적인 반복 확인으로 해석해서는 안 된다. 보행속도 풀 밖에서는 실제 가로의 소음을 조작하면서 군중 행태를 관찰한 연구가 한 편 있었다. Ba 등 [48]은 교통소음 55.6 dB(A) 조건과 70.5 dB(A) 조건에서 평균 군중 속도가 각각 약 1.14 m/s와 1.21 m/s로, 고소음 조건에서 약 0.07 m/s 빨랐다고 보고했다. 그러나 저자들이 보고한 측정 격자 간 최대 차이도 0.06 m/s였고, 이 연구는 MMAT low 등급으로 평가됐다. 이 결과는 합성 추정치와 방향은 같지만 일반적인 인과 효과를 입증하지는 않는다. 따라서 보행속도는 설계 목표로 삼기보다, 아직 결론이 나지 않았고 연구 간 이질성이 큰 결과로 다루는 것이 적절하다.
 
-셋째, 소리–행태 상관 클러스터는 개입 효과가 아니라 연관적 증거 기반(associative evidence base)으로 해석해야 한다. 이 클러스터의 결과는 검색 경로나 개별 연구의 제외에 따라 크게 달라지지 않았지만(3.5절), 순방향과 역방향 연구, 지각 지표와 객관적 음향 지표(LAeq), 여러 행태 결과가 함께 포함돼 이질성이 높았다(*I*² = 92.0%). 따라서 이 결과는 소리 지표와 행태가 대체로 함께 변한다는 점을 보여 주지만, 어떤 소리 지표가 어떤 행태와 어느 방향으로 얼마나 연관되는지는 알려 주지 않는다. 측정 방법의 차이도 이러한 이질성의 원인일 수 있다(4.4절).
+셋째, 소리–행태 상관 클러스터는 개입 효과가 아니라 연관적 증거 기반(associative evidence base)으로 해석해야 한다. 이 클러스터의 결과는 검색 경로나 개별 연구의 제외에 따라 크게 달라지지 않았지만(3.5절), 순방향과 역방향 연구, 지각 지표와 객관적 음향 지표(LAeq), 여러 행태 결과가 함께 포함돼 이질성이 높았다(*I*² = 95.7%). 따라서 이 결과는 소리 지표와 행태가 대체로 함께 변한다는 점을 보여 주지만, 어떤 소리 지표가 어떤 행태와 어느 방향으로 얼마나 연관되는지는 알려 주지 않는다. 측정 방법의 차이도 이러한 이질성의 원인일 수 있다(4.4절).
 
 <<LANDSCAPE>>
 
@@ -357,7 +364,7 @@ Table 4를 실무에 적용할 때는 효과크기보다 근거의 방어 가능
 
 음악 같은 부가음은 방문객 수를 늘리는 수단이라기보다 체류와 관여(engagement)를 늘리는 잠재적 도구로 보는 것이 적절하다. 음악은 체류 시간이나 음원과의 상호작용을 늘릴 수 있지만, 전체 방문객 수를 늘린다는 근거는 더 약하다. 방문객 수를 정량적으로 검정한 유일한 MMAT high 등급 연구[34]에서는 멈춰 서는 사람의 수에서 효과를 발견하지 못했다. 따라서 방문객 수 목표를 근거로 음향 프로그램 도입을 정당화하는 것은 현재 증거의 범위를 넘어선다. 벤치 군집, 테라스, 만남의 장소처럼 대화를 위한 공간의 입지를 정할 때는 회화 간섭(speech interference)을 고려할 필요가 있다(L10). 이러한 공간에서 중요한 것은 성가심도가 규제 기준보다 낮은지가 아니라 대화가 가능한지다. 기존 증거는 하나의 기준값보다 연속적인 관계를 지지한다. 등가소음도가 1 dB 높을수록 자기보고 발성 노력(vocal effort)이 약 0.25점 높아지는 연관이 보고됐으며[43], 이는 4 dB 차이가 같은 척도에서 약 1점에 해당함을 뜻한다. 이 정도의 근거는 후보지 간 비교 선별(comparative site screening)에는 활용할 수 있지만 단일한 처방 기준치를 정당화하지는 못한다.
 
-반대로 보행속도는 일반적인 설계 성과지표로 사용하지 않는 것이 좋으며, 헤드폰을 이용한 청각–운동(auditory-motor) 연구 결과를 공공공간의 음향 개입에 그대로 적용해서도 안 된다. 흔히 제시되는 두 가지 처방도 본 리뷰의 행태 코퍼스로는 지지되지 않았다. 첫째, 수경시설로 교통소음을 마스킹(masking)해 공공공간 이용을 늘린다는 처방은 포함된 연구에서 행태적 개입으로 직접 검정된 적이 없다. 자연음이 지각이나 심리적 결과를 개선한다는 근거[16]가 공간 이용의 증가를 입증하는 것은 아니다. 둘째, 소음 저감을 신체활동을 늘리는 보편적인 방법으로 보는 관점은 가장 규모가 큰 관찰 자료에서 지지되지 않았다. 활동이 많은 장소는 음향적으로도 붐비는 경우가 많아, 이러한 자료에서는 소음과 활동이 오히려 정적으로 연관될 수 있다[48,49]. 따라서 역인과(reverse causation)와 맥락적 교란(contextual confounding)을 함께 고려해야 한다.
+반대로 보행속도는 일반적인 설계 성과지표로 사용하지 않는 것이 좋으며, 헤드폰을 이용한 청각–운동(auditory-motor) 연구 결과를 공공공간의 음향 개입에 그대로 적용해서도 안 된다. 흔히 제시되는 두 가지 처방도 본 리뷰의 행태 코퍼스로는 지지되지 않았다. 첫째, 수경시설로 교통소음을 마스킹(masking)해 공공공간 이용을 늘린다는 처방은 포함된 연구에서 행태적 개입으로 직접 검정된 적이 없다. 자연음이 지각이나 심리적 결과를 개선한다는 근거[16]가 공간 이용의 증가를 입증하는 것은 아니다. 둘째, 소음 저감을 신체활동을 늘리는 보편적인 방법으로 보는 관점은 가장 규모가 큰 관찰 자료에서 지지되지 않았다. 활동이 많은 장소는 음향적으로도 붐비는 경우가 많아, 이러한 자료에서는 소음과 활동이 오히려 정적으로 연관될 수 있다[49,50]. 따라서 역인과(reverse causation)와 맥락적 교란(contextual confounding)을 함께 고려해야 한다.
 
 ### 4.4 Methodological implications
 
@@ -365,11 +372,11 @@ Table 4를 실무에 적용할 때는 효과크기보다 근거의 방어 가능
 
 ### 4.5 Research agenda
 
-이 코퍼스는 투입 대비 효과가 큰 여섯 가지 연구 우선순위를 시사한다. 첫째, 잘 보고된 보행 현장실험 한 편만으로도 증거 지도에서 보행속도 칸의 근거 수준을 실질적으로 바꿀 수 있다. 중요한 설계 요소는 특수 장비가 아니라 실제 환경음의 조작, 무작위 배정, 기저 동등성과 절차의 투명한 보고, 여러 경로나 세팅에서의 반복이다. 현재의 보행속도 추정치는 MMAT 평가가 낮은 연구와 헤드폰 기반 연구에 크게 의존하고 있어 견고한 결론을 뒷받침하지 못한다. 둘째, 항공기 소음과 행태의 관계는 대부분 연구되지 않았다. 항공기 소음은 세계보건기구 유럽지역 환경소음 지침의 근거가 된 체계적 문헌고찰에서 성가심도[50]와 수면[51]에 관해 별도로 종합될 만큼 연구가 많고 건강 영향 전반에서도 마찬가지이지만[6], 본 리뷰의 적격 기준을 충족하면서 공항 주변 옥외공간의 행태를 측정한 연구는 2편뿐이었다(3.8절). 주거 소음 노출과 비특정 신체활동을 결합한 연구를 배제한 경계 규칙(2.4절)이 이 공백에 일부 영향을 주었을 수 있지만, 소음 노출이 큰 곳에서 행태 증거가 가장 부족하다는 점은 이 분야가 건강과 성가심도 중심의 틀에 머물러 왔음을 시사한다. 공항 주변 연구는 성가심도나 건강 결과뿐 아니라 옥외공간의 이용, 경로 선택, 체류, 사회적 활동을 측정할 필요가 있다. 셋째, 설계 개입이 음향 결과를 거쳐 행태로 이어지는 과정을 함께 검증해야 한다. 자연음 증거의 상당 부분은 음원 재생(playback)에 의존하므로, 식재나 수경시설처럼 실제 조경 설계에서 도입되는 개입이 만들어 내는 음환경과 그에 따른 행태 변화를 함께 평가할 필요가 있다. 넷째, 개입 효과의 지속성을 측정해야 한다. 대부분의 개입은 수 시간에서 수 일 동안 진행됐고 한 계절 이상 이어진 경우는 드물었다. 개입을 중단한 뒤 행태 반응이 유지되는지, 익숙해지면서 약해지는지, 사라지는지는 아직 알 수 없다. 한 번 설치로 효과가 유지되는지, 지속적인 운영이 필요한지에 따라 사업비 구조가 달라지므로 이 문제는 예산 결정과 직접 관련된다. 다섯째, 역방향 관계를 예측하는 모형이 필요하다. 공간이용, 활동, 사회적 행태에는 역방향 증거가 상당히 축적돼 있지만, 활동과 점유가 음환경에 미치는 영향을 세팅 간에 예측할 수 있는 전이 가능한(transferable) 모형은 드물다. 인원 밀도로 음압을 예측하는 식이 몇 가지 있지만 계수를 서로 바꿔 쓸 수는 없다. 여섯째, 기본 통계의 보고를 표준화해야 한다. 적격 연구 가운데 상당수가 집단 크기, 산포 통계, 분석 단위를 보고하지 않아 정량 종합에 포함되지 못했다. 보고가 개선되면 연구 수를 늘리지 않고도 활용할 수 있는 증거 기반이 커질 수 있다.
+이 코퍼스는 투입 대비 효과가 큰 여섯 가지 연구 우선순위를 시사한다. 첫째, 잘 보고된 보행 현장실험 한 편만으로도 증거 지도에서 보행속도 칸의 근거 수준을 실질적으로 바꿀 수 있다. 중요한 설계 요소는 특수 장비가 아니라 실제 환경음의 조작, 무작위 배정, 기저 동등성과 절차의 투명한 보고, 여러 경로나 세팅에서의 반복이다. 현재의 보행속도 추정치는 MMAT 평가가 낮은 연구와 헤드폰 기반 연구에 크게 의존하고 있어 견고한 결론을 뒷받침하지 못한다. 둘째, 항공기 소음과 행태의 관계는 대부분 연구되지 않았다. 항공기 소음은 세계보건기구 유럽지역 환경소음 지침의 근거가 된 체계적 문헌고찰에서 성가심도[51]와 수면[52]에 관해 별도로 종합될 만큼 연구가 많고 건강 영향 전반에서도 마찬가지이지만[6], 본 리뷰의 적격 기준을 충족하면서 공항 주변 옥외공간의 행태를 측정한 연구는 2편뿐이었다(3.8절). 주거 소음 노출과 비특정 신체활동을 결합한 연구를 배제한 경계 규칙(2.4절)이 이 공백에 일부 영향을 주었을 수 있지만, 소음 노출이 큰 곳에서 행태 증거가 가장 부족하다는 점은 이 분야가 건강과 성가심도 중심의 틀에 머물러 왔음을 시사한다. 공항 주변 연구는 성가심도나 건강 결과뿐 아니라 옥외공간의 이용, 경로 선택, 체류, 사회적 활동을 측정할 필요가 있다. 셋째, 설계 개입이 음향 결과를 거쳐 행태로 이어지는 과정을 함께 검증해야 한다. 자연음 증거의 상당 부분은 음원 재생(playback)에 의존하므로, 식재나 수경시설처럼 실제 조경 설계에서 도입되는 개입이 만들어 내는 음환경과 그에 따른 행태 변화를 함께 평가할 필요가 있다. 넷째, 개입 효과의 지속성을 측정해야 한다. 대부분의 개입은 수 시간에서 수 일 동안 진행됐고 한 계절 이상 이어진 경우는 드물었다. 개입을 중단한 뒤 행태 반응이 유지되는지, 익숙해지면서 약해지는지, 사라지는지는 아직 알 수 없다. 한 번 설치로 효과가 유지되는지, 지속적인 운영이 필요한지에 따라 사업비 구조가 달라지므로 이 문제는 예산 결정과 직접 관련된다. 다섯째, 역방향 관계를 예측하는 모형이 필요하다. 공간이용, 활동, 사회적 행태에는 역방향 증거가 상당히 축적돼 있지만, 활동과 점유가 음환경에 미치는 영향을 세팅 간에 예측할 수 있는 전이 가능한(transferable) 모형은 드물다. 인원 밀도로 음압을 예측하는 식이 몇 가지 있지만 계수를 서로 바꿔 쓸 수는 없다. 여섯째, 기본 통계의 보고를 표준화해야 한다. 적격 연구 가운데 상당수가 집단 크기, 산포 통계, 분석 단위를 보고하지 않아 정량 종합에 포함되지 못했다. 보고가 개선되면 연구 수를 늘리지 않고도 활용할 수 있는 증거 기반이 커질 수 있다.
 
 ### 4.6 Limitations
 
-이 연구에는 몇 가지 한계가 있다. 먼저 증거 기반이 지리적으로 편중돼 있고 비교적 최근에 형성됐다. 포함 연구의 39%가 중국에서 수행됐고 71%가 2020년 이후에 게재됐다. 등록 시점에 정한 영어 학술지 논문 제한도 이러한 분포와 맞물려 있다. 중국어 문헌을 제외했기 때문에 코퍼스에 포함된 중국 연구는 영어로 게재하기를 선택한 연구의 하위집합이다. 교차문화 연구들은 같은 유형의 도시 옥외공간이라도 국가에 따라 사운드스케이프 평가가 다르게 나타나며[52,53], 그러한 비교 결과가 지각 속성(perceptual attributes)의 번역과 문화 간 적응(cross-cultural adaptation) 절차에 따라서도 달라질 수 있다고 보고했다[54]. 따라서 추정치를 문화권과 무관하게 보편적인 값으로 해석해서는 안 된다. 또한 세 경로를 통틀어 122건의 전문을 확보하지 못했다(데이터베이스 89건, 인용추적 25건, 보조 색인 8건). 다만 초록에서 행태 결과가 확인된 인용추적 레코드의 전문 확보율은 92%였고, 확보하지 못한 레코드는 주로 제목만으로 식별된 것이었다. 전문을 평가한 인용추적 레코드 가운데 초록에서 행태 결과가 확인된 37건은 16건(43%)이 포함되거나 민감도 분석용으로 분류됐지만, 제목만으로 선별된 17건은 한 건도 포함되지 않았다. 최종 포함 여부가 제목의 주제적 관련성보다 초록 확보 여부와 강하게 연관된 것으로, 제목만으로 선별하면 제목과 초록을 함께 볼 때보다 민감도가 낮다는 보고와도 일치한다[55]. 이 결과는 전문을 확보하지 못한 레코드가 결론을 바꿨을 가능성이 낮음을 시사하지만, 두 집단은 무작위로 나뉘지 않았고 제목만 본 레코드가 17건에 불과하므로 미확보로 남은 제목 판단 레코드 22건의 영향은 배제할 수 없다.
+이 연구에는 몇 가지 한계가 있다. 먼저 증거 기반이 지리적으로 편중돼 있고 비교적 최근에 형성됐다. 포함 연구의 42%가 중국에서 수행됐고 71%가 2020년 이후에 게재됐다. 등록 시점에 정한 영어 학술지 논문 제한도 이러한 분포와 맞물려 있다. 중국어 문헌을 제외했기 때문에 코퍼스에 포함된 중국 연구는 영어로 게재하기를 선택한 연구의 하위집합이다. 교차문화 연구들은 같은 유형의 도시 옥외공간이라도 국가에 따라 사운드스케이프 평가가 다르게 나타나며[53,54], 그러한 비교 결과가 지각 속성(perceptual attributes)의 번역과 문화 간 적응(cross-cultural adaptation) 절차에 따라서도 달라질 수 있다고 보고했다[55]. 따라서 추정치를 문화권과 무관하게 보편적인 값으로 해석해서는 안 된다. 또한 전문 확보 대상 283건 가운데 11건은 구독 전용이거나 원문을 찾지 못해 평가하지 못했다(데이터베이스 경로 6건, 인용 추적 5건). 인용 추적 레코드에 적용한 제목 기준 자동 선별은 제목에 행태 어휘가 없는 적격 연구를 놓쳤을 수 있으며, 제목만으로 선별하면 제목과 초록을 함께 볼 때보다 민감도가 낮다는 보고가 있다[56].
 
 스크리닝과 추출은 두 명의 독립적인 리뷰어가 아니라 한 명의 리뷰어가 수행했다(2.4절). 두 쌍의 논문이 표본을 공유했으며, 각 쌍에서 한 편만 정량 합성에 포함했다. 점검과 검증 단계를 거쳤지만 이러한 절차는 선택 오류나 추출 오류를 완전히 배제하지 못한다. 정량 종합에도 한계가 있다. 어느 클러스터도 사전에 정한 *k* = 10 기준에 도달하지 않아 출판편향을 평가하지 못했으므로 소규모 연구 효과의 가능성이 남아 있다. 클러스터당 추정치가 3~6개에 불과해 등록한 하위그룹 분석도 수행하지 않았다. 무엇보다 네 예측구간이 모두 0을 포함하므로, 통계적으로 유의한 평균 추정치라도 새로운 연구의 결과를 예측하는 값으로 해석해서는 안 된다. 또한 사회적 상호작용 클러스터의 유의성은 인용 검색으로 확보한 연구 한 편에 의존하며, 이 연구는 데이터베이스 검색만으로는 찾을 수 없었을 것이다.
 
@@ -377,9 +384,9 @@ Table 4를 실무에 적용할 때는 효과크기보다 근거의 방어 가능
 
 ## 5. Conclusions
 
-도시 옥외공간에서 사운드스케이프 관련 조건과 인간 행태의 관계에 관한 증거는 양방향 증거 구조를 보였지만, 증거의 강도는 행태 도메인에 따라 크게 달랐다. 98편 가운데 16편이 기여한 네 메타분석 클러스터는 모두 이론적으로 기대되는 방향을 보였으나, 평균 추정치의 신뢰구간이 0을 배제한 것은 사회적 상호작용과 소리–행태 상관뿐이었고 네 예측구간은 모두 0을 포함했다. 사회적 상호작용에서는 현장실험 증거가 행태적 효과를 뒷받침했지만, 소리–행태 상관 클러스터는 연관을 보여 주는 수준에 머물렀다. 가장 강한 정량 결과는 사회적 상호작용(*g* = +0.68)에서 나타났으며, 특히 자연음이 있거나 더 조용한 조건을 포함한 비교에서 확인됐다. 다만 자연음의 기여와 경쟁 소음 제거의 기여는 구분되지 않았다. 반면 소음이 보행을 빠르게 한다는 널리 인용되는 주장은 규모가 작고 이질적이며 주로 헤드폰에 기반한, MMAT 평가가 낮은 증거에 의존하고 있으므로, 이를 확립된 환경소음 효과로 다뤄서는 안 된다.
+도시 옥외공간에서 사운드스케이프 관련 조건과 인간 행태의 관계에 관한 증거는 양방향 증거 구조를 보였지만, 증거의 강도는 행태 도메인에 따라 크게 달랐다. 113편 가운데 17편이 기여한 네 메타분석 클러스터는 모두 이론적으로 기대되는 방향을 보였으나, 평균 추정치의 신뢰구간이 0을 배제한 것은 사회적 상호작용과 소리–행태 상관뿐이었고 네 예측구간은 모두 0을 포함했다. 사회적 상호작용에서는 현장실험 증거가 행태적 효과를 뒷받침했지만, 소리–행태 상관 클러스터는 연관을 보여 주는 수준에 머물렀다. 가장 강한 정량 결과는 사회적 상호작용(*g* = +0.68)에서 나타났으며, 특히 자연음이 있거나 더 조용한 조건을 포함한 비교에서 확인됐다. 다만 자연음의 기여와 경쟁 소음 제거의 기여는 구분되지 않았다. 반면 소음이 보행을 빠르게 한다는 널리 인용되는 주장은 규모가 작고 이질적이며 주로 헤드폰에 기반한, MMAT 평가가 낮은 증거에 의존하고 있으므로, 이를 확립된 환경소음 효과로 다뤄서는 안 된다.
 
-증거가 양방향으로 구성돼 있다는 점도 확인됐다. 방향성 레코드 187건 중 74건(40%)이 행태나 활동에서 음환경 또는 사운드스케이프로 향했다. 이것만으로 닫힌 인과 피드백 고리가 입증되지는 않지만, 활동과 점유가 사운드스케이프 증거의 중요한 부분이며 계획의 틀에 포함돼야 함을 보여 준다. 이러한 결과에서 도출할 수 있는 계획적 함의는 제한적이다. 사회적 상호작용이 의도된 공간에서는 운영 소음을 통제하고, 음악 같은 부가음은 방문객 증가보다 체류와 관여를 위한 잠재적 도구로 활용하며, 사회적 공간의 입지를 정할 때는 회화 간섭을 고려해야 한다. 또한 행태로 검증되지 않은 지각 연구 결과로부터 행태적 처방을 도출해서는 안 된다. 전체적으로 이 코퍼스는 보편적인 음향–행태 기준보다 모니터링을 동반한 근거 기반 설계 가설을 지지한다.
+증거가 양방향으로 구성돼 있다는 점도 확인됐다. 방향성 레코드 208건 중 88건(42%)이 행태나 활동에서 음환경 또는 사운드스케이프로 향했다. 이것만으로 닫힌 인과 피드백 고리가 입증되지는 않지만, 활동과 점유가 사운드스케이프 증거의 중요한 부분이며 계획의 틀에 포함돼야 함을 보여 준다. 이러한 결과에서 도출할 수 있는 계획적 함의는 제한적이다. 사회적 상호작용이 의도된 공간에서는 운영 소음을 통제하고, 음악 같은 부가음은 방문객 증가보다 체류와 관여를 위한 잠재적 도구로 활용하며, 사회적 공간의 입지를 정할 때는 회화 간섭을 고려해야 한다. 또한 행태로 검증되지 않은 지각 연구 결과로부터 행태적 처방을 도출해서는 안 된다. 전체적으로 이 코퍼스는 보편적인 음향–행태 기준보다 모니터링을 동반한 근거 기반 설계 가설을 지지한다.
 
 후속 연구에 필요한 것은 또 하나의 광범위한 횡단 상관 연구가 아니라, 실제 환경음을 조작하고, 관찰 가능한 행태를 측정하며, 공간적·사회문화적 맥락을 기술하고, 그 결과로 달라진 활동의 음향적 귀결까지 정량화하는 잘 보고된 현장실험이다. 이러한 연구는 본 리뷰가 제시한 상호적 프레임워크를 직접 검증하고, 이 분야의 근거를 서술적 연관에서 설계 결정에 활용할 수 있는 증거로 발전시키는 데 기여할 것이다.
 
@@ -507,23 +514,25 @@ This study analysed only publicly available, aggregated and de-identified data a
 
 [46] Mansouri Y, Matallah ME, Attar A, Mahar WA, Attia S. The Impact of Soundscape on Pedestrian Comfort, Perception and Walking Experience in Béjaïa, Algeria. Acoustics. 2025;7:64. doi:10.3390/acoustics7040064
 
-[47] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
+[47] Yu L, Kang J. Effects of social, demographical and behavioral factors on the sound level evaluation in urban open spaces. The Journal of the Acoustical Society of America. 2008;123:772-783. doi:10.1121/1.2821955
 
-[48] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
+[48] Ba M, Li Z, Kang J. Research on the Combined Effects of Plant Odor and Traffic Noise on Crowd Behaviors in Urban Environments. Landscape Architecture Frontiers. 2024;12:47. doi:10.15302/j-laf-1-020106
 
-[49] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
+[49] Dzhambov AM, Burov A, Markevych I, Kostadinov KR, Dimitrova D, Helbich M, et al. Environmental characteristics and physical activity: A cross-sectional study in Bulgaria's five largest cities. International Journal of Hygiene and Environmental Health. 2026;275:114816. doi:10.1016/j.ijheh.2026.114816
 
-[50] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
+[50] Huang D, Tian M, Yuan L. Sustainable design of running friendly streets: Environmental exposures predict runnability by Volunteered Geographic Information and multilevel model approaches. Sustainable Cities and Society. 2023;89:104336. doi:10.1016/j.scs.2022.104336
 
-[51] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
+[51] Guski R, Schreckenberg D, Schuemer R. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Annoyance. International Journal of Environmental Research and Public Health. 2017;14:1539. doi:10.3390/ijerph14121539
 
-[52] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
+[52] Basner M, McGuire S. WHO Environmental Noise Guidelines for the European Region: A Systematic Review on Environmental Noise and Effects on Sleep. International Journal of Environmental Research and Public Health. 2018;15:519. doi:10.3390/ijerph15030519
 
-[53] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
+[53] Deng L, Kang J, Zhao W, Jambrošić K. Cross-National Comparison of Soundscape in Urban Public Open Spaces between China and Croatia. Applied Sciences. 2020;10:960. doi:10.3390/app10030960
 
-[54] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+[54] Nguyen TL, Puyoo-Hialle M, Nguyen TTHN. Cultural influences on urban soundscape perception: A comparison of French, Japanese, and Vietnamese participants. Applied Acoustics. 2026;254:111414. doi:10.1016/j.apacoust.2026.111414
 
-[55] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
+[55] Papadakis NM, Aletta F, Kang J, Oberman T, Mitchell A, Stavroulakis GE. Translation and cross-cultural adaptation methodology for soundscape attributes – A study with independent translation groups from English to Greek. Applied Acoustics. 2022;200:109031. doi:10.1016/j.apacoust.2022.109031
+
+[56] Teo L, Van Elswyk ME, Lau CS, Shanahan CJ. Title-plus-abstract versus title-only first-level screening approach: a case study using a systematic review of dietary patterns and sarcopenia risk to compare screening performance. Systematic Reviews. 2023;12. doi:10.1186/s13643-023-02374-3
 
 ---
 
@@ -551,7 +560,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 
 ## Appendix B. Characteristics of included studies
 
-**Table B1.** Studies included in the review (n = 98).
+**Table B1.** Studies included in the review (n = 113).
 
 | Study | Country | Setting | Design | Behavioural domain | Direction | MMAT |
 |---|---|---|---|---|---|---|
@@ -564,6 +573,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Ba et al. (2023) | China | Street | Field experiment | Movement | Forward | Low |
 | Ba et al. (2025) | China | Waterfront | Field experiment | Movement; staying | Forward | Moderate |
 | Bao et al. (2023) | China | Park | Survey | Staying; space use | Reverse | Moderate |
+| Beeco et al. (2011) | United States | Recreation area | Qualitative | Activity; social; space use | Both | High |
 | Berkouk et al. (2020) | Algeria | Street | Observation | Movement | Forward | Low |
 | Bild et al. (2018) | Netherlands | Mixed | Mixed | Activity; social; space use | Reverse | Moderate |
 | Bild et al. (2019) | Netherlands | Park | Qualitative | Activity; social; staying | Reverse | High |
@@ -572,6 +582,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Burrows et al. (2018) | Ireland | Park | Survey | Space use; activity | Forward | Low |
 | Calafiore & Tong (2025) | Australia; United Kingdom | Street | Observation | Movement | Forward | High |
 | Cao & Kang (2021) | China; United Kingdom | Square | Survey | Social; activity | Reverse | Moderate |
+| Cao & Kang (2023) | China; United Kingdom | Square | Qualitative | Activity; social; movement | Both | High |
 | Cerwén et al. (2016) | Sweden | Campus | Qualitative | Space use; staying; movement; social | Forward | Moderate |
 | Chen & Kang (2023) | China | Park | Field experiment | Social | Forward | Moderate |
 | Chen & Kang (2025) | United Kingdom | Laboratory (outdoor scene) | Laboratory experiment | Social; movement | Forward | Low |
@@ -579,11 +590,11 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Chen et al. (2024) | China | Residential | Field experiment | Social | Forward | High |
 | Derbal & Rahmane (2024) | Algeria; France | Square | Mixed | Space use; social; staying | Forward | Low |
 | Di Loreto et al. (2022) | Italy | Waterfront | Mixed | Space use | Reverse | Low |
-| Dzhambov et al. (2026) | Bulgaria | Residential | Survey | Activity | Forward | High |
 | Fang et al. (2021) | China | Park | Survey | Staying; activity; social; space use | Reverse | High |
-| Fang et al. (2024) | China | Park | Survey | Staying | Reverse | Moderate |
+| Fang et al. (2023) | China | Park | Survey | Staying | Reverse | Moderate |
+| Feldstein & Cavallo (2025) | Germany | Mixed | Field experiment | Movement | Forward | Moderate |
 | Franěk & Režný (2021) | Czechia | Mixed | Mixed | Movement | Forward | High |
-| Franěk et al. (2014) | Czechia | Park | Field experiment | Movement | Forward | High |
+| Franěk et al. (2014) | Czechia | Mixed | Field experiment | Movement | Forward | High |
 | Franěk et al. (2018) | Czechia | Street | Field experiment | Movement | Forward | Low |
 | Franěk et al. (2019) | Czechia | Street | Field experiment | Movement | Forward | Low |
 | Fu et al. (2023) | China | Park | Mixed | Activity; movement; space use | Reverse | Moderate |
@@ -598,29 +609,34 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Hong & Jeon (2020) | South Korea | Street | Mixed | Space use | Reverse | Moderate |
 | Hosseini & Kowkabi (2023) | Iran | Street | Survey | Space use; social | Forward | Low |
 | Huang et al. (2023) | Finland | Street | Observation | Movement; activity | Forward | Moderate |
+| Huang et al. (2026) | China | Park | Observation | Space use; activity; social; staying | Forward | Moderate |
 | Hüg et al. (2026) | Argentina | Street | Observation | Movement; social | Forward | Moderate |
 | Jin et al. (2024) | China | Park | Mixed | Space use; activity | Forward | Low |
 | Jo & Jeon (2020) | France | Laboratory (outdoor scene) | Laboratory experiment | Social; staying; activity; space use | Reverse | Moderate |
 | Joo et al. (2024) | United States | Park | Observation | Space use; activity | Forward | Low |
 | Kim & Shin (2021) | South Korea | Campus | Field experiment | Activity; movement; social | Reverse | Moderate |
 | Krog et al. (2010) | Norway | Recreation area | Quasi-experiment | Space use; activity | Forward | Moderate |
+| Kuldna et al. (2019) | Estonia; Finland | Park | Survey | Staying; space use; activity | Reverse | Low |
 | Lai et al. (2024) | China | Park | Mixed | Staying; movement; activity | Reverse | High |
 | Lenzi et al. (2021) | Spain | Square | Quasi-experiment | Movement; space use; activity; social | Reverse | Moderate |
+| Levenhagen et al. (2021) | United States | Recreation area | Field experiment | Movement; space use | Both | High |
 | Li et al. (2021) | China | Park | Survey | Space use; activity | Forward | Moderate |
+| Lin et al. (2024) | China | Mixed | Mixed | Staying; social; space use | Both | Low |
 | Lin et al. (2025) | China | Campus | Mixed | Activity | Reverse | Low |
 | Lin et al. (2026) | China | Residential | Mixed | Activity; space use | Reverse | Low |
 | Liu et al. (2019) | Germany | Park | Survey | Staying; activity; space use | Reverse | Low |
 | Lobo Soares & Bento Coelho (2016) | Brazil; Portugal | Park | Mixed | Activity; space use | Reverse | Low |
 | Lu et al. (2024) | China | Laboratory (outdoor scene) | Laboratory experiment | Activity; social | Reverse | Moderate |
+| Ma et al. (2021) | China | Park | Survey | Space use; staying | Reverse | Low |
 | Mansouri et al. (2025) | Algeria | Street | Mixed | Movement; space use | Forward | Moderate |
 | Marquart et al. (2022) | Germany | Street | Mixed | Movement | Forward | High |
 | Mathews & Canon (1975) | NR | Street | Field experiment | Social | Forward | Moderate |
-| Meng & Kang (2015) | China | Street | Mixed | Space use; social | Reverse | Moderate |
+| Meng & Kang (2014) | China | Street | Mixed | Space use; social | Reverse | Moderate |
 | Meng & Kang (2016) | China | Park | Mixed | Movement; staying; activity | Both | Low |
 | Meng et al. (2017) | China | Street | Mixed | Space use | Reverse | Moderate |
 | Meng et al. (2018) | China | Square | Field experiment | Movement; staying; space use | Forward | High |
 | Merlino et al. (2023) | NR | Street | Qualitative | Movement; social | Forward | High |
-| Montes González et al. (2023) | Spain | Street | Survey | Social | Forward | Moderate |
+| Montes González et al. (2022) | Spain | Street | Survey | Social | Forward | Moderate |
 | Morillas et al. (2024) | Spain | Street | Observation | Social | Forward | Moderate |
 | Moser (1988) | France | Street | Field experiment | Social | Forward | High |
 | Nguyen et al. (2025) | Japan; Vietnam | Street | Mixed | Activity; social | Reverse | Low |
@@ -629,13 +645,17 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Peng et al. (2026) | China | Square | Mixed | Staying; social; activity | Forward | Moderate |
 | Ramón-Turner et al. (2025) | Spain | Street | Mixed | Space use | Reverse | Moderate |
 | Ren et al. (2026) | China | Waterfront | Survey | Staying; activity; space use | Reverse | High |
+| Reuß & Huth (2026) | Germany | Park | Survey | Activity | Both | Low |
 | Rey Gozalo et al. (2018) | Spain | Park | Survey | Activity; space use; social | Forward | High |
 | Rey Gozalo et al. (2019) | Spain | Park | Survey | Activity; space use; social | Forward | Moderate |
 | Routhier et al. (2024) | Canada | Street | Field experiment | Movement | Forward | Low |
 | Schrapel et al. (2022) | Germany | Street | Field experiment | Movement | Forward | High |
+| Shi (2025) | China | Street | Qualitative | Movement; staying; social | Both | Moderate |
 | Soares et al. (2020) | Portugal | Laboratory (outdoor scene) | Laboratory experiment | Movement | Forward | Moderate |
+| Song et al. (2018) | China | Park | Survey | Space use | Reverse | Low |
 | Steele et al. (2019) | Canada | Park | Mixed | Staying; social; space use | Both | High |
-| Sun et al. (2026) | China | Waterfront | Qualitative | Movement; staying; space use; social | Forward | High |
+| Sun et al. (2026) | China | Recreation area | Mixed | Staying; activity | Forward | Low |
+| Sun et al. (2026) | China | Park | Mixed | Movement; staying; space use; social | Forward | High |
 | Sun et al. (2026) | Netherlands | Laboratory (outdoor scene) | Laboratory experiment | Movement | Forward | High |
 | Takada et al. (2022) | Taiwan | Street | Observation | Social; movement | Reverse | Moderate |
 | Tarlao et al. (2021) | Canada | Mixed | Survey | Social; space use | Reverse | Moderate |
@@ -644,9 +664,13 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Wall et al. (2004) | United States | Street | Field experiment | Movement | Forward | Moderate |
 | Wang & Xiao (2024) | China | Park | Mixed | Staying; social; activity; space use | Both | Low |
 | Wogan & Kennedy (2024) | Ireland | Street | Mixed | Movement; space use; activity | Forward | Low |
-| Xiao & Hilton (2019) | China | Square | Mixed | Activity; social; space use | Both | Low |
+| Wozniak et al. (2025) | Poland | Street | Mixed | Movement | Forward | High |
+| Xiao & Hilton (2019) | China | Street | Mixed | Activity; social; space use | Both | Low |
 | Xu et al. (2022) | China | Park | Survey | Activity; movement | Reverse | Moderate |
+| Yang et al. (2021) | China | Mixed | Mixed | Space use | Reverse | Low |
 | Yin et al. (2023) | China | Park | Mixed | Space use; activity; staying | Forward | Low |
+| Yu & Kang (2008) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Mixed | Mixed | Movement; staying; activity | Reverse | Moderate |
+| Yu & Kang (2009) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Square | Survey | Activity; staying; space use; social | Reverse | Moderate |
 | Yu & Kang (2010) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Mixed | Mixed | Space use; activity | Reverse | Low |
 | Yu (2025) | NR | Park | Mixed | Space use; activity | Forward | Low |
 | Zhang et al. (2025) | China | Street | Observation | Movement; activity | Forward | Moderate |

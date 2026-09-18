@@ -4,7 +4,7 @@ Paper32 — Table 3: 메타분석 기여 연구 특성표 (Zhang et al. 2025 LUP
 
 사용자 요청(2026-08-16): "선행연구들을 첨부한 table 처럼 정리" — 연구별 국가·설계·
 통계량·대비·표본·계수를 한 표에. 우리 코퍼스는 98편이라 전건은 S11 몫이고,
-본문 표는 **네 클러스터에 실제로 합성된 효과의 기여 연구**(k=3+3+4+6)로 한다.
+본문 표는 **네 클러스터에 실제로 합성된 효과의 기여 연구**(k=3+3+4+7 — 2026-09-18 80 편입)로 한다.
 
 수치는 전부 정본에서 읽는다: 효과·분산 = figures/fig_data.json (ma_forest_data 경유),
 국가·세팅·설계·품질 = fulltext/table1_v2.csv, 분석 n = ma/*_input.csv.
@@ -38,6 +38,8 @@ N_ANALYTIC = {
     "931": "73", "1069": "146", "14": "150", "CT0025": "80",
     "1076": "419", "1221": "315", "1177": "NR", "980": "180",
     "CT0126": "29", "CT0184": "301",
+    # 80: 19개 사이트 응답자 합(Table I). 사이트별 상관을 논문 내 합성(ma_update_effects.py)
+    "80": "10,031",
 }
 
 # 대비·측정 짧은 영문 표기 (그림 라벨과 동일 어휘)
@@ -50,6 +52,7 @@ CONTRAST = {
     "1076": "pleasantness with static behaviour", "1221": "natural sound events with queuing",
     "1177": "sound comfort with walking comfort", "980": "dwell time with perceived restoration",
     "CT0126": "LAeq with vocal effort", "CT0184": "companion presence with sound noticing",
+    "80": "moving activity with loudness rating (19 sites)",
 }
 
 CLUSTERS = [

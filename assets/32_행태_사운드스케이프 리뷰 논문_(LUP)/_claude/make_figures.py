@@ -54,6 +54,7 @@ FOREST_LABEL = {
     "1221": "Zhou et al. (2026)",
     "1177": "Mansouri et al. (2025)",
     "980": "Bao et al. (2023)",
+    "80": "Yu & Kang (2008)",          # 2026-09-18 추가 전문평가분 (저자 2명 — 원문 표지 Lei Yu and Jian Kang)
     "CT0126": "Montes González et al. (2023)",
     "CT0184": "Cao & Kang (2021)",
 }

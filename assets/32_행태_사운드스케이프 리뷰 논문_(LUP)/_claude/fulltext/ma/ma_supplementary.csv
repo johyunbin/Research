@@ -2,4 +2,4 @@
 prediction_interval,MA1 walking speed,3,-0.4737,-2.0554,1.1079,-9.1328,8.1854,81.4
 prediction_interval,MA2 staying,3,0.3435,-0.091,0.778,-1.6693,2.3562,54.4
 prediction_interval,MA3 social interaction,4,0.6793,0.2008,1.1578,-0.4179,1.7765,48.6
-prediction_interval,MA4 perception–behaviour,6,0.4532,0.1934,0.713,-0.243,1.1494,92.0
+prediction_interval,MA4 sound–behaviour correlation,7,0.3826,0.1134,0.6518,-0.3811,1.1463,95.7

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Paper32 — 민감도 분석 v2 (96편 코퍼스 · MA3 k=4 · MA4 k=7 반영)
+Paper32 — 민감도 분석 v2 (MA3 k=4 · MA4 k=7 — 2026-09-18 80 편입 반영. 코퍼스 수는 corpus_v4_verdicts 에서 센다)
 등록 규약 `analysis_rules.md §6`의 5축 + 추가 2축을 갱신된 풀에 다시 적용한다.
   ① leave-one-out ② MMAT 저품질 제외 ③ 관측 n 재계산 ④ rho 제외
   ⑤ 가정 의존 입력 제외 ⑥ MA1 풀 정의 대안 ⑦ ★신규: 갈래 제외(인용추적 빼기)
@@ -140,7 +140,10 @@ def main():
         s += " 단일연구 |" if not o["pooled"] else (f" r={o['r']:+.3f} |" if br and "r" in o else " |")
         return s + "\n"
 
-    L.append("# Paper32 — 민감도 분석 v2 (98편 코퍼스)\n")
+    n_inc = sum(1 for r in csv.DictReader(open(os.path.join(FT, "corpus_v4_verdicts.csv"),
+                                               encoding="utf-8-sig"))
+                if r["final_verdict"] == "FINAL_INCLUDE")
+    L.append(f"# Paper32 — 민감도 분석 v2 ({n_inc}편 코퍼스)\n")
     L.append("\n규약 `analysis_rules.md §6` + 갈래 축 추가. 품질 등급은 `quality_v2.csv`(전문 재평가 정본).\n")
 
     for name, rows, br in CL:
