@@ -100,3 +100,9 @@
 - ✅ deviation_log D8 확정 표기 + 1226·κ 기록 / OSF 문안 최종 `review/osf_update_draft_20260918_175452.md`(사용자 승인 전 입력 금지)
 - ✅ verify_manuscript · verify_consistency_v2(17/17) 통과 · docx `01_논문작업/Manuscript_KO_20260918_ver0.docx`
 - ⏳ 독립 게이트(fresh 에이전트) → 반영 → 커밋 → OSF 입력(사용자 승인 후)
+
+## OSF 등록본 갱신 제출 (9/18 저녁, 사용자 승인 "이대로 OSF에 입력하고 제출해")
+- 비공개 갱신 초안(Revisions/6aabf44b6c00bf8a462519ab)에 갱신 사유 + 19개 필드 "Update (September 2026): …" 입력 → **Submit Changes 완료**
+- 제출 전 대조: 페이지 저장본 20문단 SHA-256 = 승인 문안(`review/osf_update_draft_20260918_175452.md`) 20문단과 전부 일치 · 원문 문장 보존
+- 입력 방식 메모: 이 환경에서 ctrl+End·ctrl+a·Backspace 키가 텍스트영역에 먹지 않아, form_input 으로 전문을 넣고 마지막 마침표만 실제 타이핑해 저장 이벤트를 발생시킴. 저장 시 `&` 는 `&amp;` 로 이스케이프되지만 화면 표시는 정상(재저장 금지 — 이중 이스케이프 위험)
+- 상태: osf.io/7ew8q "Update pending approval" — **기여자(사용자) 승인 대기**. 승인 전까지 갱신 내용은 공개되지 않음
