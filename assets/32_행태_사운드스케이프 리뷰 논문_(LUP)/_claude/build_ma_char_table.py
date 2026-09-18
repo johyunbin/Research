@@ -46,7 +46,7 @@ N_ANALYTIC = {
 CONTRAST = {
     "461": "birdsong vs traffic noise", "532": "birdsong vs city noise (Exp 1 and 2)",
     "617": "natural vs traffic sound", "323": "music vs no music",
-    "665": "music vs no sound", "1280": "natural sound index (high vs low)",
+    "665": "music vs no sound", "1280": "natural sound index (per-unit adjusted OR)",
     "931": "natural vs noise (group interaction)", "1069": "natural vs noise (paired interaction)",
     "14": "quiet vs roadworks noise (helping)", "CT0025": "quiet vs lawnmower noise (helping)",
     "1076": "pleasantness with static behaviour", "1221": "natural sound events with queuing",

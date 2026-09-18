@@ -25,7 +25,7 @@ INTEXT = {
     "941": "environmental manipulation, walking speed 1.24→1.18 m/s",
     "323": "Aletta 2016 — music and dwell time",
     "665": "Ba & Kang 2020 — music and dwell time",
-    "1280": "Bao 2026 — natural sound index and long stay",
+    "1280": "Fu 2026 — natural sound index and long stay",
     "CT0126": "Montes González 2022 — LAeq and speech disruption",
     "CT0184": "Cao & Kang 2021 — companionship and sound noticing",
     "1076": "Xu 2024 — pleasantness and static behaviour",
@@ -36,7 +36,7 @@ INTEXT = {
     "CT0090": "Franěk 2014 — music tempo and walking speed",
     "CT0166": "Franěk & Režný 2021 — perceived soundscape and walking speed",
     "CT0335": "Schrapel 2022 — augmented footsteps and gait",
-    "1226": "noise positively associated with physical activity",
+    # "1226" 2026-09-18 R1 재판정으로 코퍼스 배제 → 본문 인용 제거(fix_1226_citation_20260918.py)
     "951": "running intensity and traffic noise",
     "566": "Musikiosk — user-controlled music installation",
     "1272": "vehicle warning sound and crossing",

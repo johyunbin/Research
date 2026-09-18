@@ -7,7 +7,7 @@
 | **Staying / dwell time (Hedges' g; positive = longer stay)** | | | | | | | |
 | Aletta et al. (2016) | UK | Campus | Field experiment | music vs no music | 596 | High | +0.39 [+0.19, +0.59] |
 | Ba et al. (2020) | China | Street | Field experiment | music vs no sound | 97 | Moderate | +0.61 [+0.21, +1.02] |
-| Fu et al. (2026) | China | Mixed | Mixed | natural sound index (high vs low) | 241 | Moderate | +0.21 [+0.07, +0.36] |
+| Fu et al. (2026) | China | Mixed | Mixed | natural sound index (per-unit adjusted OR) | 241 | Moderate | +0.21 [+0.07, +0.36] |
 | **Social interaction (Hedges' g; positive = more interaction)** | | | | | | | |
 | Chen & Kang (2023) | China | Park | Field experiment | natural vs noise (group interaction) | 73 | Moderate | +0.98 [+0.49, +1.46] |
 | Chen et al. (2024) | China | Residential | Field experiment | natural vs noise (paired interaction) | 146 | High | +0.55 [+0.22, +0.88] |

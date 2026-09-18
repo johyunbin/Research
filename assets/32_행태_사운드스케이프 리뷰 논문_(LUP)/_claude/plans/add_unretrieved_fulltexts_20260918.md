@@ -91,3 +91,12 @@
 - ⏳ 메타분석 드라이런(사본 `scratchpad/ma_update/`) 진행 중 → 결과로 3.4·3.5·Table 2·3·Fig.4·초록·결론 클러스터 문장 갱신
 - 레버(Table 4, design_matrix_v2.csv 수기) 배정 초안: L2+1191 · L3+1190 · L5+709 −1226 · L6+CT0171 · L7+OAS0011·OAS0041·1218·888 · L8+CT0391 / 역방향 평가 연구(80·104·499·713·CT0223·1305)와 SENS 는 레버 미배정. n_studies·quality_mix 재계산, L5 caveat 의 1226 언급 삭제, MA 인용 요약 갱신
 - 남은 순서: MA 반영 → 레버·Table 4·4.2/4.3 → 방법 2.4(9월 추가 확보·재판정 κ 46/50)·2.9 편차 → 초록·결론 주장 강도 → 빌드·검증·게이트·커밋 → OSF 한 번 갱신
+
+## MA 반영 커밋 849834f 이후 (9/18 17~18시 KST)
+- ✅ 레버·Table 4: `update_levers_20260918.py`(design_matrix_v2.csv 재계산) + 원고 Table 4 Studies/MMAT 열
+- ✅ 방법·한계·초록·결론: `update_manuscript_methods_tone_20260918.py` — 2.4(9월 확보·평가, 재판정 50편 일치 92%·κ 0.84·조정 5), 2.7(민감도 9종, 보정 OR 의 Chinn 변환), 2.9 전면 재작성(두 문단), 3.4 Fu 표기, 4.6 둘째 문단(자기 연구·강도 1인 판정·표본공유 3묶음·구성개념 이질·per-unit OR·사회적 상호작용 LOO 3/4 p>0.05), 초록·결론("이론적으로 기대되는 방향" 삭제 — 등록본이 네 클러스터 방향을 미리 정하지 않음)
+- ✅ Table 2 Fu et al. (2026) = "natural sound index (per-unit adjusted OR)" (`build_ma_char_table.py`)
+- ✅ 1226 인용 정리: `fix_1226_citation_20260918.py`(4.3절 신체활동 문장 → 951 만 인용·서수 해소) + `insert_citations.py` 재번호(56→55, [50]–[56]→[49]–[55]) · 출력 LF 고정
+- ✅ deviation_log D8 확정 표기 + 1226·κ 기록 / OSF 문안 최종 `review/osf_update_draft_20260918_175452.md`(사용자 승인 전 입력 금지)
+- ✅ verify_manuscript · verify_consistency_v2(17/17) 통과 · docx `01_논문작업/Manuscript_KO_20260918_ver0.docx`
+- ⏳ 독립 게이트(fresh 에이전트) → 반영 → 커밋 → OSF 입력(사용자 승인 후)

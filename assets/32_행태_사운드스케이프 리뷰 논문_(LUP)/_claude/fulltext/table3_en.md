@@ -3,13 +3,13 @@
 | Lever | Planning action | Behavioural outcome | Evidence direction | Studies | MMAT mix | Planning evidence strength |
 |---|---|---|---|---|---|---|
 | **L1** | Programme music in public space | May increase dwell time and approach to or engagement with the sound source; evidence for increasing visitor numbers is weaker | promotes | 7 | high 3 · moderate 2 · low 2 | **Moderate** |
-| **L2** | Provide or enhance natural sounds (e.g., water, birdsong) | Associated with greater social interaction and staying; independent contributions of natural sound and competing-noise removal remain unresolved | promotes | 6 | high 2 · moderate 3 · low 1 | **Moderate** |
-| **L3** | Provide quieter routes for walking and cycling | May influence route choice and the spatial distribution of movement by allowing users to avoid noisier alignments | promotes | 8 | high 4 · moderate 1 · low 3 | **Moderate** |
+| **L2** | Provide or enhance natural sounds (e.g., water, birdsong) | Associated with greater social interaction and staying; independent contributions of natural sound and competing-noise removal remain unresolved | promotes | 7 | high 2 · moderate 3 · low 2 | **Moderate** |
+| **L3** | Provide quieter routes for walking and cycling | May influence route choice and the spatial distribution of movement by allowing users to avoid noisier alignments | promotes | 9 | high 5 · moderate 1 · low 3 | **Moderate** |
 | **L4** | Remove, relocate, or reschedule mechanical and maintenance noise | May reduce avoidance and support staying and social interaction in intended social spaces | promotes | 7 | high 2 · moderate 3 · low 2 | **Moderate** |
 | **L5** | Provide quieter sides or designated quiet zones | May support walking, exercise, rest, and staying where acoustic conditions are otherwise constraining | mixed | 10 | high 2 · moderate 4 · low 4 | **Low** |
-| **L6** | Use acoustic zoning and spatial separation of functions | May redistribute crowd density, interaction, and staying across adjacent activity areas | mixed | 6 | high 1 · moderate 5 | **Low** |
-| **L7** | Programme sound-generating public activities | May convert passage into watching, lingering, and social interaction; evidence for increasing overall visitor numbers is insufficient | promotes | 6 | high 1 · moderate 2 · low 3 | **Low** |
-| **L8** | Use auditory guidance and warning signals where appropriate | May modify crossing trajectories, detection timing, and movement responses | mixed | 4 | high 1 · moderate 2 · low 1 | **Low** |
+| **L6** | Use acoustic zoning and spatial separation of functions | May redistribute crowd density, interaction, and staying across adjacent activity areas | mixed | 7 | high 1 · moderate 5 · low 1 | **Low** |
+| **L7** | Programme sound-generating public activities | May convert passage into watching, lingering, and social interaction; evidence for increasing overall visitor numbers is insufficient | promotes | 10 | high 2 · moderate 4 · low 4 | **Low** |
+| **L8** | Use auditory guidance and warning signals where appropriate | May modify crossing trajectories, detection timing, and movement responses | mixed | 5 | high 1 · moderate 3 · low 1 | **Low** |
 | **L9** | Treat natural sound as a potential modifier of pedestrian pace | Existing evidence is insufficient to justify designing specifically to slow pedestrian movement through natural sound | mixed | 5 | high 1 · low 4 | **Very low** |
 | **L10** | Use speech-interference considerations when locating social spaces | Lower acoustic interference may support conversational interaction and reduce vocal effort | promotes | 3 | high 2 · moderate 1 | **Low** |
 

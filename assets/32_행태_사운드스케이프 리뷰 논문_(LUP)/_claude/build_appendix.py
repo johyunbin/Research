@@ -92,6 +92,16 @@ def main():
         raise SystemExit(f"⚠️ Table 1 포함 연구 수({len(rows)})가 판정 정본 FINAL_INCLUDE({n_inc})와 다르다")
     ext_country = {e["uid"]: e["country"] for e in
                    csv.DictReader(open(os.path.join(FT, "corpus_v4_extraction.csv"), encoding="utf-8-sig"))}
+    # ★ 2026-09-18 게이트 지적: 본문에 번호로 인용된 연구는 참고문헌(권호 연도)과 연도를 맞춘다.
+    #   코퍼스 연도는 온라인 게재 연도라 CT0126(2022 → 2023)·941(2023 → 2024)이 참고문헌과 달랐다.
+    uid_doi = {u: v.get("doi", "") for u, v in look.items() if isinstance(v, dict)}
+    uid_doi.update({r["uid"]: r["doi"] for r in csv.DictReader(open(os.path.join(FT, "references.csv"), encoding="utf-8-sig"))
+                    if r.get("doi")})
+    ref_year = {}
+    for m in re.finditer(r"^\[\d+\] (.+)$", open(os.path.join(FT, "references_numbered.md"), encoding="utf-8").read(), re.M):
+        d, y = re.search(r"doi:(\S+)", m.group(1)), re.findall(r"\. (\d{4});", m.group(1))
+        if d and y:
+            ref_year[d.group(1).lower().rstrip(".")] = y[-1]
     out = []
     for r in rows:
         if r["study"].startswith("["):
@@ -104,6 +114,9 @@ def main():
             study = f"{lab} ({r['year'] or lk['year']})"
         else:
             study = r["study"]
+        ry = ref_year.get((uid_doi.get(r["uid"]) or "").lower())
+        if ry:
+            study = re.sub(r"\((\d{4})\)$", f"({ry})", study)
         cap = lambda v: "NR" if v in ("", "NR") else v[0].upper() + v[1:]
         # Fig. 7·Table 1 과 같은 원천(추출표 country)·같은 정규화 — 국가별 수가 정확히 일치한다
         country = "; ".join(norm_countries(ext_country[r["uid"]])) or "NR"

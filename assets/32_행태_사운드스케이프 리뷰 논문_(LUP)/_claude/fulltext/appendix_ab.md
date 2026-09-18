@@ -32,7 +32,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Alishahi et al. (2021) | Iran | Mixed | Mixed | Space use; staying | Forward | Low |
 | Alves et al. (2021) | Italy | Street | Mixed | Movement; social; activity; space use | Both | Low |
 | Ba et al. (2020) | China | Street | Field experiment | Movement; staying; space use | Forward | Moderate |
-| Ba et al. (2023) | China | Street | Field experiment | Movement | Forward | Low |
+| Ba et al. (2024) | China | Street | Field experiment | Movement | Forward | Low |
 | Ba et al. (2025) | China | Waterfront | Field experiment | Movement; staying | Forward | Moderate |
 | Bao et al. (2023) | China | Park | Survey | Staying; space use | Reverse | Moderate |
 | Beeco et al. (2011) | United States | Recreation area | Qualitative | Activity; social; space use | Both | High |
@@ -98,7 +98,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Meng et al. (2017) | China | Street | Mixed | Space use | Reverse | Moderate |
 | Meng et al. (2018) | China | Square | Field experiment | Movement; staying; space use | Forward | High |
 | Merlino et al. (2023) | NR | Street | Qualitative | Movement; social | Forward | High |
-| Montes González et al. (2022) | Spain | Street | Survey | Social | Forward | Moderate |
+| Montes González et al. (2023) | Spain | Street | Survey | Social | Forward | Moderate |
 | Morillas et al. (2024) | Spain | Street | Observation | Social | Forward | Moderate |
 | Moser (1988) | France | Street | Field experiment | Social | Forward | High |
 | Nguyen et al. (2025) | Japan; Vietnam | Street | Mixed | Activity; social | Reverse | Low |

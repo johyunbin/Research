@@ -210,8 +210,8 @@ def main():
     if a.dry_run:
         print("\n[dry-run] 원고를 쓰지 않았다.")
         return
-    open(MS, "w", encoding="utf-8").write(body + ref + tail)
-    open(os.path.join(FT, "references_numbered.md"), "w", encoding="utf-8").write(
+    open(MS, "w", encoding="utf-8", newline="").write(body + ref + tail)
+    open(os.path.join(FT, "references_numbered.md"), "w", encoding="utf-8", newline="").write(
         "\n\n".join(f"[{n}] {s}" for n, s in bib) + "\n")
     print(f"\n[저장] 원고 in-place · fulltext/references_numbered.md")
 
