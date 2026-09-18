@@ -1,0 +1,338 @@
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/finalize_oa_supp_branch.py"	2026-09-18 01:51:34.877050400 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/finalize_oa_supp_branch.py"	2026-09-18 02:00:14.436033100 +0900
+@@ -35,21 +35,33 @@
+     problems = []
+     scr = rd(os.path.join(FT, "oa_supp_screen_final.csv"))
+     ret = rd(os.path.join(FT, "oa_supp_retrieval.csv"))
+-    vd = rd(os.path.join(FT, "oas_results_ft", "oasft_01_verdict.csv"))
+-    ex = rd(os.path.join(FT, "oas_results_ft", "oasft_01_extract.csv"))
++    # ★ 2026-09-18 추가 전문평가 반영(integrate_newft_into_corpus.py): 판정·추출이 세트별 파일
++    #   oasft_<세트>_{verdict,extract}.csv 로 늘어나므로 glob 으로 모두 읽는다(oasft_01 = 8월분).
++    import glob
++    vd, ex = [], []
++    for p in sorted(glob.glob(os.path.join(FT, "oas_results_ft", "oasft_*_verdict.csv"))):
++        vd += rd(p)
++    for p in sorted(glob.glob(os.path.join(FT, "oas_results_ft", "oasft_*_extract.csv"))):
++        ex += rd(p)
+ 
+     sc = Counter(r["verdict"] for r in scr)
+     seek = sc["RETRIEVE"] + sc["UNCERTAIN"]
++    # ★ 2026-09-18: 뒤늦게 확보한 전문은 result = ok-<날짜> 로 기록된다(8월 미확보 사유는 reason 에 보존)
++    is_got = lambda r: r["result"] in ("ok", "already") or r["result"].startswith("ok-")
+     pre = [r for r in ret if r["result"] == "prescreen-exclude"]
+-    got = [r for r in ret if r["result"] in ("ok", "already")]
+-    notret = [r for r in ret if r["result"] not in ("ok", "already", "prescreen-exclude")]
++    got = [r for r in ret if is_got(r)]
++    notret = [r for r in ret if not is_got(r) and r["result"] != "prescreen-exclude"]
+     vc = Counter(r["verdict"] for r in vd)
+     inc = [r for r in vd if r["verdict"] == "FINAL_INCLUDE"]
++    sens_oas = [r for r in vd if r["verdict"] == "SENS_ONLY"]
+ 
+     if len(vd) != len(got):
+         problems.append(f"전문심사 {len(vd)}건 ≠ 확보 {len(got)}건")
+-    if {r["no"] for r in ex} != {f"OAS{int(r['sid']):04d}" for r in inc}:
+-        problems.append("추출표 ≠ 포함 집합")
++    if len({r["sid"] for r in vd}) != len(vd):
++        problems.append("oasft 판정 파일 사이 sid 중복")
++    # ★ 2026-09-18: 민감도 전용(SENS_ONLY)도 추출표를 가진다 — DB·CT 갈래와 같은 규칙
++    if {r["no"] for r in ex} != {f"OAS{int(r['sid']):04d}" for r in inc + sens_oas}:
++        problems.append("추출표 ≠ 포함·민감도 집합")
+ 
+     # ── 3갈래 코퍼스 통합 ─────────────────────────────────────────
+     cv = rd(os.path.join(FT, "corpus_v3_verdicts.csv"))
+@@ -106,8 +118,11 @@
+              f"  미확보 .................................... −{len(notret)}\n"
+              f"                                              ↓\n"
+              f"  전문 평가 ................................. n = {len(vd)}\n"
+-             f"  배제 ...................................... −{vc['FINAL_EXCLUDE']}\n"
+-             f"                                              ↓\n"
++             f"  배제 ...................................... −{vc['FINAL_EXCLUDE']}"
++             # ★ 2026-09-18: 전문 배제 사유(X 코드)와 민감도 전용을 흐름에 적는다 — 수치 리터럴 대신 판정 파일에서 센다
++             f"  ({' · '.join(f'{k} {v}' for k, v in Counter(r['reason_code'] for r in vd if r['verdict'] == 'FINAL_EXCLUDE').most_common())})\n"
++             + (f"  민감도 분석 전용 .......................... −{len(sens_oas)}\n" if sens_oas else "")
++             + f"                                              ↓\n"
+              f"  포함 ...................................... n = {len(inc)}\n```\n")
+ 
+     L.append(f"\n## 결과 해석\n\n"
+@@ -117,7 +132,7 @@
+              f"({Counter(r['reason_code'] for r in scr)['E5']/len(scr)*100:.0f}%)** 으로 압도적인데 서평·사설·"
+              f"논평·부고까지 포함된다. OpenAlex가 WoS·Scopus·PubMed보다 훨씬 넓게 색인하므로, "
+              f"3-DB에 없다는 것이 곧 '누락'을 뜻하지 않는다는 경험적 근거다.\n\n"
+-             f"**문헌유형·언어 확인이 결정적이었다.** 전문 확보 5편 중 2편은 OpenAlex 메타데이터가 "
++             f"**문헌유형·언어 확인이 결정적이었다.** 8월 전문 확보 5편 중 2편은 OpenAlex 메타데이터가 "
+              f"`language=en`이었으나 실제 본문이 한국어·일본어였다(영문은 제목·초록뿐). "
+              f"메타데이터만 믿으면 등록 언어 기준을 어길 뻔했다.\n")
+ 
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/fig_data.py"	2026-09-18 01:51:35.462487700 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/fig_data.py"	2026-09-18 02:00:45.192662800 +0900
+@@ -168,21 +168,50 @@
+     D["n_since_2020"] = sum(1 for r in inc
+                             if (r["year"] or "").strip().isdigit() and int(r["year"]) >= 2020)
+ 
+-    # ── Fig 1: PRISMA (흐름 수치는 prisma_flow.md 가 정본) ───────────
++    # ── Fig 1: PRISMA ────────────────────────────────────────────────
++    # ★ 2026-09-18 (추가 전문평가 반영): 전문 단계 칸(확보 대상·미확보·평가·배제 사유·민감도·포함)은
++    #   하드코딩을 없애고 정본에서 센다 — 판정 = corpus_v4_verdicts.csv, 배제 사유 범주 =
++    #   ft_exclusion_reasons.csv, 확보 상태·미확보 사유 = retrieval_status_all.csv
++    #   (뒤 둘은 integrate_newft_into_corpus.py 가 정본에서 매번 재생성, X 코드→범주 매핑표도 거기 있다).
++    #   식별·스크리닝 칸(2,073 · 1,316 · 428 등)은 이번 추가와 무관해 종전 수치(prisma_flow.md)를 유지한다.
++    SRC = {"db": "db-search", "ct": "citation-tracking", "supp": "openalex-supplementary"}
++    BR = {"db": "DB", "ct": "CT", "supp": "OAS"}
++    vrows = rd("corpus_v4_verdicts.csv")
++    xrows = rd("ft_exclusion_reasons.csv")
++    trows = rd("retrieval_status_all.csv")
++
++    def ordered(counter):
++        return sorted(counter.items(), key=lambda kv: (-kv[1], kv[0]))
++
++    def ft_stage(key):
++        vs = [r for r in vrows if r["source"] == SRC[key]]
++        vc = Counter(r["final_verdict"] for r in vs)
++        ex_ids = {r["uid"] for r in vs if r["final_verdict"] == "FINAL_EXCLUDE"}
++        xr = [r for r in xrows if r["branch"] == BR[key]]
++        if {r["uid"] for r in xr} != ex_ids:
++            raise SystemExit(f"⚠️ {key}: ft_exclusion_reasons.csv 와 전문 배제 집합 불일치 — "
++                             f"integrate_newft_into_corpus.py 를 다시 실행")
++        tr = [r for r in trows if r["branch"] == BR[key]]
++        st = Counter(r["status"] for r in tr)
++        got = {r["uid"] for r in tr if r["status"] == "retrieved"}
++        if got != {r["uid"] for r in vs}:
++            raise SystemExit(f"⚠️ {key}: 확보 상태(retrieved {len(got)})와 전문 판정({len(vs)}) 불일치")
++        out = {"sought": len(tr), "not_retrieved": st["not-retrieved"],
++               "nr": ordered(Counter(r["nr_category"] for r in tr if r["status"] == "not-retrieved")),
++               "assessed": len(vs), "ft_excluded": vc["FINAL_EXCLUDE"],
++               "ftx": ordered(Counter(r["category"] for r in xr)),
++               "sens": vc["SENS_ONLY"], "included": vc["FINAL_INCLUDE"]}
++        if st["prescreen-exclude"]:
++            out["prescreen"] = st["prescreen-exclude"]
++        return out
++
+     D["prisma"] = {
+         "db": {"identified": 2073, "wos": 1010, "scopus": 850, "pubmed": 213,
+                "duplicates": 757, "screened": 1316, "excluded": 1127,
+                "excl": [("Animal / wildlife", 479), ("Perception / health", 325),
+                         ("Setting not eligible", 133), ("Not empirical", 109),
+                         ("No acoustic variable", 81)],
+-               "sought": 189, "not_retrieved": 89,
+-               "nr": [("No institution access", 84), ("Pay-per-view only", 3),
+-                      ("Abstract only", 2)],
+-               "assessed": 100, "ft_excluded": 16,
+-               "ftx": [("Setting not eligible", 7), ("No observed behaviour", 6),
+-                       ("Perceptual outcome", 1), ("No acoustic exposure", 1),
+-                       ("Not empirical", 1)],
+-               "sens": 3, "included": 81},
++               **ft_stage("db")},
+         "ct": {"identified": 2073, "backward": 413, "forward": 1660, "seeds": 84,
+                "deprioritised": 1645,
+                "dep": [("Animal / acoustics", 26), ("≤1 block matched", 1619)],
+@@ -192,27 +221,24 @@
+                "screened_abs": 146, "excl_abs": 67,
+                "ea": [("No acoustic variable", 37), ("No behavioural outcome", 26),
+                       ("Other", 4)],
+-               "sought": 79, "not_retrieved": 25,
+-               "nr": [("No institution access", 22), ("Pay-per-view only", 3)],
+-               "assessed": 54, "ft_excluded": 38,
+-               "ftx": [("No acoustic variable", 20), ("No observed behaviour", 17),
+-                       ("Not in English", 1)],
+-               "sens": 1, "included": 15},
++               **ft_stage("ct")},
+         "supp": {"identified": 352, "duplicates": 23, "screened": 329, "excluded": 314,
+                  "excl": [("Not empirical (reviews etc.)", 147),
+                           ("No behavioural outcome", 46), ("Animal / bioacoustics", 39),
+                           ("Off topic", 31), ("Setting not eligible", 27),
+                           ("No acoustic variable", 12), ("Language / document type", 12)],
+-                 "sought": 15, "prescreen": 2, "not_retrieved": 8,
+-                 "assessed": 5, "ft_excluded": 3,
+-                 "ftx": [("Not in English", 2),
+-                         ("No behavioural outcome", 1)],
+-                 "included": 2},
++                 **ft_stage("supp")},
+     }
+     p = D["prisma"]
++    # 스크리닝 산술이 전문 단계 확보 대상과 맞물리는지(하드코딩 칸 ↔ 정본 칸)
++    assert p["db"]["screened"] - p["db"]["excluded"] == p["db"]["sought"], "DB 확보 대상 불일치"
++    assert p["ct"]["screened_abs"] - p["ct"]["excl_abs"] == p["ct"]["sought"], "CT 확보 대상 불일치"
++    assert p["supp"]["screened"] - p["supp"]["excluded"] == p["supp"]["sought"], "OAS 확보 대상 불일치"
+     tot = p["db"]["included"] + p["ct"]["included"] + p["supp"]["included"]
+     if tot != N:
+         raise SystemExit(f"⚠️ PRISMA 합({tot}) ≠ 코퍼스({N}) — prisma_flow.md 와 대조 필요")
++    if p["db"]["sens"] + p["ct"]["sens"] + p["supp"]["sens"] != D["n_sens"]:
++        raise SystemExit("⚠️ PRISMA 민감도 전용 합 ≠ 코퍼스 SENS_ONLY")
+ 
+     with open(os.path.join(FIG, "fig_data.json"), "w", encoding="utf-8") as f:
+         json.dump(D, f, ensure_ascii=False, indent=1)
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/make_fig1_prisma_v2.py"	2026-09-18 01:51:34.863682400 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/make_fig1_prisma_v2.py"	2026-09-18 02:00:47.683294200 +0900
+@@ -41,7 +41,8 @@
+     "sought": CT["sought"] + SP["sought"],
+     "not_retrieved": CT["not_retrieved"] + SP["not_retrieved"] + SP["prescreen"],
+     "assessed": CT["assessed"] + SP["assessed"],
+-    "sens": CT["sens"], "included": CT["included"] + SP["included"],
++    # ★ 2026-09-18: 보조 검색 갈래에도 민감도 전용(OAS0005)이 생겼다 — 두 갈래 합으로 센다
++    "sens": CT["sens"] + SP.get("sens", 0), "included": CT["included"] + SP["included"],
+ }
+ _ftx = Counter()
+ for k, v in CT["ftx"] + (SP.get("ftx") or []):
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/rebuild_table1.py"	2026-09-18 01:51:34.787558600 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/rebuild_table1.py"	2026-09-18 02:02:31.208709200 +0900
+@@ -44,6 +44,25 @@
+     return default
+ 
+ 
++# ★ 2026-09-18 추가 전문평가분: 추출 지시문(newft_instructions_20260918.md)이 setting·design 머리말을 통제어휘로
++#   강제했으므로 머리말을 그대로 Table 1 어휘로 옮긴다. 자유서술 전체에 정규식을 돌리면 괄호 속 부연
++#   ("riverside", "forest park", "questionnaire" 등)에 걸려 80·104 → residential, 709 field-experiment → survey,
++#   1218 field-observation → mixed 처럼 오코딩된다(드라이런에서 15편 중 12편 확인). 8월·인용추적 기존 행은 건드리지 않는다.
++HEAD_SETTING = {"street": "street", "park": "park", "square": "square", "campus": "campus",
++                "residential": "residential", "recreation": "recreation", "waterfront": "waterfront",
++                "VR-lab": "lab(outdoor scene)", "mixed": "mixed"}
++HEAD_DESIGN = {"field-experiment": "field experiment", "natural-experiment": "quasi-experiment",
++               "quasi-experiment": "quasi-experiment", "lab-VR-experiment": "lab experiment",
++               "field-observation": "observational", "observational": "observational",
++               "sensor-bigdata": "observational", "survey": "survey", "mixed": "mixed",
++               "qualitative": "qualitative", "NR": "NR"}
++
++
++def head(text, table):
++    m = re.match(r"\s*([A-Za-z][A-Za-z-]*)", text or "")
++    return table.get(m.group(1)) if m else None
++
++
+ def gens(method):
+     m = (method or "").lower()
+     g = []
+@@ -104,11 +123,18 @@
+           "CT0414": "MA3(sens)", "CT0175": "MA2(sens)", "CT0090": "MA1(sens)",
+           "CT0137": "MA4(var)"}
+ 
++    # ★ 2026-09-18 추가 전문평가 반영: 구 Table 1(84행)은 8월 DB 추출분만 담고 있다. 뒤늦게 추가된 연구가
++    #   (year, direction, domain) 키로 구 행을 가져가면 그 연구에 남의 국가·설계·n 이 붙는다(지도 §6 경고).
++    #   통합 원장(newft_integration_ledger.csv)에 새 연구로 기록된 uid 는 매칭 대상에서 뺀다.
++    lp = os.path.join(FT, "newft_integration_ledger.csv")
++    late = ({r["uid"] for r in csv.DictReader(open(lp, encoding="utf-8-sig")) if r["kind"] == "new-study"}
++            if os.path.exists(lp) else set())
++
+     rows, matched, used = [], 0, set()
+     for uid, r in ext.items():
+         src = r["source"]
+         base = {}
+-        if src == "db-search":
++        if src == "db-search" and uid not in late:
+             hit = find_old(r)
+             if hit and hit["sid"] not in used:
+                 base = hit
+@@ -120,8 +146,10 @@
+             "year": r["year"],
+             "country": base.get("country") or short(r["country"], 26) or "NR",
+             "setting": SETTING_OVERRIDE.get(r["uid"]) or base.get("setting")
++                       or (uid in late and head(r["setting"], HEAD_SETTING))
+                        or pick(f"{r['setting']} {r['title']}", SETTING),
+-            "design": base.get("design") or pick(f"{r['design']} {r['measurement_method']}", DESIGN),
++            "design": base.get("design") or (uid in late and head(r["design"], HEAD_DESIGN))
++                      or pick(f"{r['design']} {r['measurement_method']}", DESIGN),
+             "n": base.get("n") or short(r["sample_n"], 18) or "NR",
+             "exposure_short": base.get("exposure_short") or short(r["exposure"], 46),
+             "behaviour_domain": r["behaviour_domain"],
+@@ -165,11 +193,28 @@
+              "Dir: forward(음→행태) / reverse(행태→음) / both · "
+              "MA: 메타분석 기여 클러스터, `(sens)`=민감도 전용, `(var)`=변형분석 · "
+              "NR: not reported · ▲ = 인용추적으로 추가된 연구\n")
+-    L.append(f"\n**민감도 전용 {sum(1 for r in rows if r['verdict']=='SENS_ONLY')}편**은 "
+-             "주분석에서 제외되고 민감도에만 쓰인다(행동의향 아웃컴 3편 + 자택 앰비소닉 재생 1편).\n")
++    # ★ 2026-09-18: 민감도 전용 구성을 리터럴("행동의향 3편 + 자택 앰비소닉 1편") 대신 경계 규칙 기록에서 센다
++    #   R2 = 행동 의도·지불의사 결과 / P1 = 옥외 장면을 실험실·가정에서 재현
++    rule_of = {}
++    for r in csv.DictReader(open(os.path.join(FT, "ruling_audit.csv"), encoding="utf-8-sig")):
++        rule_of[r["no"]] = r["rule"]
++    for r in csv.DictReader(open(os.path.join(FT, "ct_verdicts_final.csv"), encoding="utf-8-sig")):
++        rule_of[f"CT{int(r['rec']):04d}"] = r["boundary_rule"]
++    import glob
++    for p in glob.glob(os.path.join(FT, "oas_results_ft", "oasft_*_verdict.csv")):
++        for r in csv.DictReader(open(p, encoding="utf-8-sig")):
++            rule_of[f"OAS{int(r['sid']):04d}"] = r["boundary_rule"]
++    if os.path.exists(lp):
++        for r in csv.DictReader(open(lp, encoding="utf-8-sig")):
++            rule_of[r["uid"]] = r["boundary_rule"]
++    sens = [r["uid"] for r in rows if r["verdict"] == "SENS_ONLY"]
++    rc = Counter(rule_of.get(u) or "규칙 미기록" for u in sens)
++    RULE_KO = {"R2": "행동 의도·지불의사 결과", "P1": "옥외 장면 실험실·가정 재현"}
++    L.append(f"\n**민감도 전용 {len(sens)}편**은 주분석에서 제외되고 민감도에만 쓰인다("
++             + " + ".join(f"{RULE_KO.get(k, k)} {v}편" for k, v in rc.most_common()) + ").\n")
+     open(os.path.join(FT, "table1_v2.md"), "w", encoding="utf-8").write("".join(L))
+ 
+-    print(f"  구 Table 1 재사용 매칭 {matched}/84행")
++    print(f"  구 Table 1 재사용 매칭 {matched}/{len(old)}행 (새로 추가된 연구 {len(late & set(ext))}편은 매칭 제외)")
+     print(f"[완료] {len(rows)}행 · 갈래 {dict(Counter(r['source'] for r in rows))}")
+     print(f"  setting {dict(Counter(r['setting'] for r in rows).most_common(5))}")
+     print(f"  design  {dict(Counter(r['design'] for r in rows).most_common(5))}")
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/build_appendix.py"	2026-09-18 01:51:34.879048900 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/build_appendix.py"	2026-09-18 02:00:55.582499000 +0900
+@@ -84,8 +84,12 @@
+     look = json.load(open(os.path.join(FT, "appendix_b_author_lookup.json"), encoding="utf-8"))
+     rows = [r for r in csv.DictReader(open(os.path.join(FT, "table1_v2.csv"), encoding="utf-8-sig"))
+             if r["verdict"] == "FINAL_INCLUDE"]
+-    if len(rows) != 98:
+-        raise SystemExit(f"⚠️ 포함 연구 수가 98이 아니다: {len(rows)}")
++    # ★ 2026-09-18 추가 전문평가 반영: 기대 편수 리터럴(98) 대신 판정 정본(corpus_v4_verdicts.csv)의
++    #   FINAL_INCLUDE 수와 대조한다 — Table 1 이 판정 정본과 어긋나면 멈추는 검사 목적은 그대로다.
++    n_inc = sum(1 for v in csv.DictReader(open(os.path.join(FT, "corpus_v4_verdicts.csv"), encoding="utf-8-sig"))
++                if v["final_verdict"] == "FINAL_INCLUDE")
++    if len(rows) != n_inc:
++        raise SystemExit(f"⚠️ Table 1 포함 연구 수({len(rows)})가 판정 정본 FINAL_INCLUDE({n_inc})와 다르다")
+     ext_country = {e["uid"]: e["country"] for e in
+                    csv.DictReader(open(os.path.join(FT, "corpus_v4_extraction.csv"), encoding="utf-8-sig"))}
+     out = []
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/verify_consistency_v2.py"	2026-09-18 01:51:34.754843900 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/verify_consistency_v2.py"	2026-09-18 02:02:43.449996900 +0900
+@@ -31,10 +31,12 @@
+     inc = {r["uid"] for r in cv if r["final_verdict"] == "FINAL_INCLUDE"}
+     sen = {r["uid"] for r in cv if r["final_verdict"] == "SENS_ONLY"}
+     keep = inc | sen
+-    chk("코퍼스 구성", len(inc) == 98 and len(sen) == 4,
++    # ★ 2026-09-18 추가 전문평가 반영(77건 + 1226 재판정): 기대값 98·4 / 81·15·2 → 108·8 / 90·16·2.
++    #   기대값을 데이터에서 읽으면 검사가 무의미해지므로 리터럴로 두고, 판정이 바뀔 때 함께 고친다.
++    chk("코퍼스 구성", len(inc) == 108 and len(sen) == 8,
+         f"FINAL_INCLUDE {len(inc)} · SENS_ONLY {len(sen)}")
+     src = Counter(r["source"] for r in cv if r["uid"] in inc)
+-    chk("3갈래 구성", src == Counter({"db-search": 81, "citation-tracking": 15,
++    chk("3갈래 구성", src == Counter({"db-search": 90, "citation-tracking": 16,
+                                     "openalex-supplementary": 2}), str(dict(src)))
+ 
+     chk("추출표 = 분석 대상", {r["uid"] for r in ce} == keep, f"{len(ce)}행 / 대상 {len(keep)}")
+@@ -99,8 +101,9 @@
+ 
+     # PRISMA 문서가 96편을 말하는가
+     pf = open(os.path.join(FT, "prisma_flow.md"), encoding="utf-8").read()
+-    chk("PRISMA 최종 포함 98", "n = 98" in pf)
+-    chk("PRISMA 인용추적 포함 15", "질적 종합 포함 ............................ n = 15" in pf)
++    # ★ 2026-09-18: 새 기대값(108·16). prisma_flow.md 는 수기 문서라 갱신 전까지 실패가 정상이다.
++    chk("PRISMA 최종 포함 108", "n = 108" in pf)
++    chk("PRISMA 인용추적 포함 16", "질적 종합 포함 ............................ n = 16" in pf)
+ 
+     figs = ["Fig1_PRISMA", "Fig2_Forest", "Fig3_EvidenceMap", "Fig4_Direction",
+             "Fig5_Methods", "Fig6_Framework", "Fig7_GeoTime", "Fig8_Quality"]
+--- "integ_base/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/verify_manuscript.py"	2026-09-18 01:51:34.865708100 +0900
++++ "integ/assets/32_\355\226\211\355\203\234_\354\202\254\354\232\264\353\223\234\354\212\244\354\274\200\354\235\264\355\224\204 \353\246\254\353\267\260 \353\205\274\353\254\270_(LUP)/_claude/verify_manuscript.py"	2026-09-18 02:02:51.043819400 +0900
+@@ -112,8 +112,20 @@
+         found = any(re.search(p, ms) for p in pats)
+         (ok if found else bad).append((name, val))
+ 
+-    must = {"코퍼스 98": r"\b98\b", "DB 갈래 81": r"\b81\b", "인용추적 15": r"\b15\b",
+-            "보조검색 2": r"보조 색인 경로에서는[^\n]*2편을 포함했다", "현장조작 비율 19%": r"19%", "역방향 비율 40%": r"40%"}
++    # ★ 2026-09-18 추가 전문평가 반영: 필수 수치를 리터럴(98·81·15·2편·19%·40%) 대신 정본에서 산출한다.
++    #   (라벨에 숫자를 박으면 정본 갱신 때 검증기만 낡는다 — 위 facts 와 같은 원칙)
++    n_db = facts["DB 갈래 81"]; n_ct = facts["인용추적 15"]
++    n_oas = sum(1 for r in cv if r["final_verdict"] == "FINAL_INCLUDE" and r["source"] == "openalex-supplementary")
++    fe = sum(1 for r in ext if r["uid"] in {x["uid"] for x in inc}
++             and re.search(r"^field[\s-]?experiment|^natural[\s-]?experiment",
++                           (r["design"] or "").lower().split("(")[0].strip()))
++    rev_pct = round(dirn["reverse"] / (dirn["forward"] + dirn["reverse"]) * 100)
++    must = {f"코퍼스 {facts['최종 포함 96']}": rf"\b{facts['최종 포함 96']}\b",
++            f"DB 갈래 {n_db}": rf"\b{n_db}\b", f"인용추적 {n_ct}": rf"\b{n_ct}\b",
++            f"보조검색 {n_oas}": rf"보조 색인 경로에서는[^\n]*{n_oas}편을 포함했다",
++            f"현장·자연실험 비율 {round(fe / len(inc) * 100)}%": rf"(?<!\d){round(fe / len(inc) * 100)}%",
++            f"인용추적 기여율 {round(n_ct / n_db * 100)}%": rf"(?<!\d){round(n_ct / n_db * 100)}%",
++            f"역방향 비율 {rev_pct}%": rf"(?<!\d){rev_pct}%"}
+     missing = [k for k, pat in must.items() if not re.search(pat, ms)]
+ 
+     # 메타분석 수치가 원고와 일치하는가
