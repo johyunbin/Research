@@ -106,3 +106,4 @@
 - 제출 전 대조: 페이지 저장본 20문단 SHA-256 = 승인 문안(`review/osf_update_draft_20260918_175452.md`) 20문단과 전부 일치 · 원문 문장 보존
 - 입력 방식 메모: 이 환경에서 ctrl+End·ctrl+a·Backspace 키가 텍스트영역에 먹지 않아, form_input 으로 전문을 넣고 마지막 마침표만 실제 타이핑해 저장 이벤트를 발생시킴. 저장 시 `&` 는 `&amp;` 로 이스케이프되지만 화면 표시는 정상(재저장 금지 — 이중 이스케이프 위험)
 - 상태: osf.io/7ew8q "Update pending approval" — **기여자(사용자) 승인 대기**. 승인 전까지 갱신 내용은 공개되지 않음
+- ✅ **승인·공개 확인(9/18)**: 사용자 승인 후 osf.io/7ew8q 대기 표시 사라짐, 19개 필드 "Updated" · 공개 API `v2/registrations/7ew8q/schema_responses/` 에서 6aabf44b6c00bf8a462519ab = `approved`(제출 2026-09-18T09:21 UTC, 갱신 필드 19). 원고 2.9 끝 문장의 전제 충족
