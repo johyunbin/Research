@@ -112,8 +112,20 @@ def main():
         found = any(re.search(p, ms) for p in pats)
         (ok if found else bad).append((name, val))
 
-    must = {"코퍼스 98": r"\b98\b", "DB 갈래 81": r"\b81\b", "인용추적 15": r"\b15\b",
-            "보조검색 2": r"보조 색인 경로에서는[^\n]*2편을 포함했다", "현장조작 비율 19%": r"19%", "역방향 비율 40%": r"40%"}
+    # ★ 2026-09-18 추가 전문평가 반영: 필수 수치를 리터럴(98·81·15·2편·19%·40%) 대신 정본에서 산출한다.
+    #   (라벨에 숫자를 박으면 정본 갱신 때 검증기만 낡는다 — 위 facts 와 같은 원칙)
+    n_db = facts["DB 갈래 81"]; n_ct = facts["인용추적 15"]
+    n_oas = sum(1 for r in cv if r["final_verdict"] == "FINAL_INCLUDE" and r["source"] == "openalex-supplementary")
+    fe = sum(1 for r in ext if r["uid"] in {x["uid"] for x in inc}
+             and re.search(r"^field[\s-]?experiment|^natural[\s-]?experiment",
+                           (r["design"] or "").lower().split("(")[0].strip()))
+    rev_pct = round(dirn["reverse"] / (dirn["forward"] + dirn["reverse"]) * 100)
+    must = {f"코퍼스 {facts['최종 포함 96']}": rf"\b{facts['최종 포함 96']}\b",
+            f"DB 갈래 {n_db}": rf"\b{n_db}\b", f"인용추적 {n_ct}": rf"\b{n_ct}\b",
+            f"보조검색 {n_oas}": rf"보조 색인 경로에서는[^\n]*{n_oas}편을 포함했다",
+            f"현장·자연실험 비율 {round(fe / len(inc) * 100)}%": rf"(?<!\d){round(fe / len(inc) * 100)}%",
+            f"인용추적 기여율 {round(n_ct / n_db * 100)}%": rf"(?<!\d){round(n_ct / n_db * 100)}%",
+            f"역방향 비율 {rev_pct}%": rf"(?<!\d){rev_pct}%"}
     missing = [k for k, pat in must.items() if not re.search(pat, ms)]
 
     # 메타분석 수치가 원고와 일치하는가

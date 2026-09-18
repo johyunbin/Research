@@ -4,7 +4,8 @@ Paper32 — 2026-09 추가 확보 전문 77건의 전문 텍스트 추출 + 평�
 
 대상: fulltext/manual_pdf_ingest_*.csv 에서 편입된 레코드(DB·CT·OAS) + db_oa_retrieval 의 OK_XML(Europe PMC 전문 XML)
 원칙: 전문을 자르지 않는다(8월 D5-3: 46,000자 상한이 MMAT 등급을 깎은 인공물). 텍스트 전체를 저장하고 평가자가 전부 읽는다.
-출력: fulltext/txt/TXT_<id>.txt · fulltext/newft_manifest_20260918.csv · fulltext/newft_batches_20260918.json
+출력: fulltext/txt/TXT_<id>.txt · fulltext/newft_manifest_<태그>.csv · fulltext/newft_batches_<태그>.json
+사용: python build_newft_texts.py [태그]   — 태그 생략 시 20260918. 이미 판정이 끝난 레코드(fulltext/newft_final*/verdict.csv)는 제외한다.
 """
 import csv, glob, html, json, os, re, sys, unicodedata
 
@@ -16,6 +17,7 @@ FT = os.path.join(BASE, "fulltext")
 LIB = os.path.join(os.path.dirname(BASE), "수집논문_PDF")
 TXT = os.path.join(FT, "txt")
 OK = ("moved", "copied", "already_in_library", "name_exists")
+TAG = sys.argv[1] if len(sys.argv) > 1 else "20260918"
 TARGET_CHARS = 250_000          # 배치당 대략 6만 토큰(서브에이전트 컨텍스트 여유 확보)
 
 
@@ -56,6 +58,12 @@ def main():
         if r["status"] == "OK_XML" and ("DB", r["no"]) not in items:
             items[("DB", r["no"])] = os.path.join(BASE, "db_oa_pdf", r["file"])
 
+    done = set()
+    for f in glob.glob(os.path.join(FT, "newft_final*", "verdict.csv")):
+        done |= {r["id"] for r in csv.DictReader(open(f, encoding="utf-8-sig"))}
+    items = {k: v for k, v in items.items() if k[1] not in done}
+    print(f"판정 완료 제외 {len(done)}건 → 이번 대상 {len(items)}건")
+
     rows = []
     for (branch, rid), path in sorted(items.items(), key=lambda kv: (kv[0][0], kv[0][1].zfill(8))):
         assert os.path.exists(path), path
@@ -73,7 +81,7 @@ def main():
                      "title": m.get("title", ""), "doi": m.get("doi", ""),
                      "screening": m.get("verdict") or m.get("screen", ""), "source_file": os.path.basename(path),
                      "txt": os.path.basename(out), "pages": pages, "chars": len(text)})
-    with open(os.path.join(FT, "newft_manifest_20260918.csv"), "w", newline="", encoding="utf-8-sig") as f:
+    with open(os.path.join(FT, f"newft_manifest_{TAG}.csv"), "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
@@ -85,7 +93,7 @@ def main():
         b = min(batches, key=lambda b: b["chars"])
         b["ids"].append(r["id"])
         b["chars"] += r["chars"]
-    json.dump(batches, open(os.path.join(FT, "newft_batches_20260918.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump(batches, open(os.path.join(FT, f"newft_batches_{TAG}.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
     from collections import Counter
     print("레코드", len(rows), Counter(r["branch"] for r in rows))

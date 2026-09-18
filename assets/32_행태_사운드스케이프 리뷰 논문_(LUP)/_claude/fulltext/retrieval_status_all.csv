@@ -1,0 +1,284 @@
+﻿uid,branch,screening,status,round,nr_category,evidence
+7,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+14,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+22,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+29,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+46,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+53,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+55,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+68,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+71,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+80,DB,INCLUDE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+89,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+94,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_010058.csv:auto
+103,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+104,DB,INCLUDE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+121,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+123,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+137,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+186,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+188,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+194,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+234,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+240,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+251,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+268,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+271,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+301,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+323,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+341,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+351,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+357,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+365,DB,BORDERLINE,not-retrieved,,No DOI (not located),db_oa_retrieval_20260917_233746.csv: oa_status= tried=; 수동 편입 기록 없음
+372,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+378,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+379,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+387,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+406,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+411,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+412,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+433,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+435,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+444,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+461,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+469,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+480,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+481,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+484,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+485,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+489,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+492,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+494,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+499,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+509,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+512,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+520,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+532,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+539,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+556,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+559,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+560,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+562,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+566,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+569,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+599,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+602,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+613,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+615,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+617,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+623,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+624,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+639,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+648,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+661,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+665,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+666,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+684,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+692,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+694,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+709,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+713,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+724,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+725,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+726,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+729,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+732,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+744,DB,INCLUDE,not-retrieved,,Paywalled (not accessible),db_oa_retrieval_20260917_233746.csv: oa_status=closed tried=; 수동 편입 기록 없음
+746,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+760,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+761,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+762,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+770,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+772,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_004421.csv:user
+779,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+791,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+799,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+804,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+811,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+818,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+819,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+821,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+823,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+831,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+833,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+848,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+853,DB,INCLUDE,not-retrieved,,Paywalled (not accessible),db_oa_retrieval_20260917_233746.csv: oa_status=closed tried=; 수동 편입 기록 없음
+858,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+862,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+880,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+883,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+888,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+901,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+909,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+912,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+917,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+927,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+930,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+931,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+932,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+941,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+948,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+950,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+951,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+957,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+964,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+971,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+972,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_003527.csv:user
+979,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+980,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+981,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+982,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+984,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+998,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+999,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1002,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1005,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1009,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1013,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+1016,DB,BORDERLINE,not-retrieved,,Paywalled (not accessible),db_oa_retrieval_20260917_233746.csv: oa_status=closed tried=; 수동 편입 기록 없음
+1018,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1020,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1053,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1069,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1074,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+1076,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1092,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+1101,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+1110,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1115,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1121,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1122,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1138,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1141,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1143,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+1149,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1154,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1169,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1172,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+1174,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1175,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1177,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1178,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1179,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+1182,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+1190,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1191,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1200,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1202,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1203,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_PDF
+1211,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1215,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+1218,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1221,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1226,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1232,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1239,DB,BORDERLINE,retrieved,20260917,,db_oa_retrieval_20260917_233746.csv:OK_XML
+1242,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1243,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1250,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1253,DB,BORDERLINE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1258,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1264,DB,BORDERLINE,not-retrieved,,Paywalled (not accessible),db_oa_retrieval_20260917_233746.csv: oa_status=closed tried=; 수동 편입 기록 없음
+1271,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+1272,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1275,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1276,DB,INCLUDE,retrieved,20260918,,manual_pdf_ingest_20260918_142349.csv:user
+1280,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1291,DB,BORDERLINE,not-retrieved,,Open-access copy not downloadable,db_oa_retrieval_20260917_233746.csv: oa_status=green tried=; 수동 편입 기록 없음
+1305,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+1306,DB,INCLUDE,retrieved,2026-08,,fulltext_status_20260803.csv pdf=Y
+1315,DB,BORDERLINE,retrieved,20260918,,manual_pdf_ingest_20260918_005233.csv:user
+CT0001,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0007,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0010,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0017,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+CT0018,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0021,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0025,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0034,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+CT0040,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0063,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0080,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0090,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0100,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0106,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0108,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+CT0123,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0125,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0126,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0128,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0137,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0142,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+CT0153,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0166,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0171,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0175,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0182,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0184,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0190,CT,RETRIEVE,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(pay-per-view only (개별 구매 필요)) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+CT0208,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0209,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0212,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0219,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0220,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0221,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0223,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+CT0233,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0241,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0264,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0265,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0267,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0268,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0269,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0273,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0274,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0285,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0296,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0307,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0309,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0313,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0320,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0322,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0327,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0328,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0329,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0335,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0342,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0343,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0348,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0356,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0360,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0365,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0369,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0371,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0373,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0378,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0382,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0390,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0391,CT,RETRIEVE,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(pay-per-view only (개별 구매 필요)) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0395,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0397,CT,UNCERTAIN,not-retrieved,,Paywalled (not accessible),ct_retrieval_final.csv: not-retrieved 기관 구독 범위 밖 또는 접근 차단
+CT0399,CT,RETRIEVE,not-retrieved,,Pay-per-view only,ct_retrieval_final.csv: not-retrieved pay-per-view only (개별 구매 필요)
+CT0402,CT,UNCERTAIN,not-retrieved,,Paywalled (not accessible),ct_retrieval_final.csv: not-retrieved 기관 구독 범위 밖 또는 접근 차단
+CT0405,CT,UNCERTAIN,not-retrieved,,Paywalled (not accessible),ct_retrieval_final.csv: not-retrieved 기관 구독 범위 밖 또는 접근 차단
+CT0410,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0413,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0414,CT,RETRIEVE,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+CT0422,CT,UNCERTAIN,retrieved,20260918,,ct_retrieval_final.csv: retrieved-20260918 8월 미확보(기관 구독 범위 밖 또는 접근 차단) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+CT0427,CT,UNCERTAIN,not-retrieved,,Paywalled (not accessible),ct_retrieval_final.csv: not-retrieved 기관 구독 범위 밖 또는 접근 차단
+CT0428,CT,UNCERTAIN,retrieved,2026-08,,ct_retrieval_final.csv: retrieved 
+OAS0001,OAS,UNCERTAIN,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(no-oa-pdf) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+OAS0005,OAS,RETRIEVE,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(no-oa-pdf) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+OAS0011,OAS,RETRIEVE,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(no-oa-pdf) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+OAS0040,OAS,UNCERTAIN,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(no-oa-pdf) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_010058.csv:auto]
+OAS0041,OAS,RETRIEVE,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(no-oa-pdf) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+OAS0050,OAS,RETRIEVE,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(http418) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+OAS0073,OAS,RETRIEVE,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(no-oa-pdf) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_142349.csv:user]
+OAS0125,OAS,RETRIEVE,retrieved,2026-08,,oa_supp_retrieval.csv: ok 
+OAS0154,OAS,RETRIEVE,retrieved,2026-08,,oa_supp_retrieval.csv: ok 
+OAS0157,OAS,RETRIEVE,retrieved,2026-08,,oa_supp_retrieval.csv: ok 
+OAS0198,OAS,RETRIEVE,retrieved,2026-08,,oa_supp_retrieval.csv: ok 
+OAS0209,OAS,RETRIEVE,prescreen-exclude,,,oa_supp_retrieval.csv: prescreen-exclude 코칭 뉴스레터 — 동료심사 저널 아님
+OAS0220,OAS,RETRIEVE,retrieved,2026-08,,oa_supp_retrieval.csv: ok 
+OAS0222,OAS,RETRIEVE,retrieved,20260918,,oa_supp_retrieval.csv: ok-20260918 8월 미확보(http403) → 2026-09-18 추가 확보 [manual_pdf_ingest_20260918_004421.csv:user]
+OAS0299,OAS,RETRIEVE,prescreen-exclude,,,oa_supp_retrieval.csv: prescreen-exclude 업계지(trade magazine) — 동료심사 저널 아님

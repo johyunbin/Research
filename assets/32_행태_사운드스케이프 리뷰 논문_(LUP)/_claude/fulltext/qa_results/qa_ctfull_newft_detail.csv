@@ -1,0 +1,11 @@
+no,item,item_no,verdict,rationale
+CT0142,sampling strategy relevant to address research question,4.1,Y,조사원이 7개 구역·2개 주 산책로를 걸으며 무작위로 1인을 선택하고 구역별 같은 수의 응답을 목표로 했다(§2.3). 방문객의 음 지각과 소음저감 WTP를 추정하려는 질문에 부합한다.
+CT0142,sample representative of the target population,4.2,N,비내국인·18세 미만·헤드폰 착용자·자전거/달리기 등 고강도 활동자를 제외했고(§2.3) 고령자 응답 거부로 25–44세가 절반을 차지했으며(§3.2.1) 방문객 통계가 없어 대표성을 비교할 수 없다(§2.1).
+CT0142,measurements appropriate,4.3,Y,ISO 1996-2에 따라 1.5 m 높이에서 전후 교정한 type II SLM으로 지점당 30분×4회 LAeq·Lmax·Lmin·L90·SEL을 측정했고(§2.2) 음원별 쾌/불쾌·0–5 성가심 문항과 표준 payment card 조건부가치 문항을 썼다(§2.3–2.4). 다만 측정(2015년 8월 후반)과 설문(8–10월) 시점이 달라 개인 응답과 측정값은 연결되지 않는다.
+CT0142,risk of nonresponse bias low,4.4,Y,접촉한 240명 중 191명이 응답해 응답률 79.6%다(§3.2.1). WTP 문항 무응답은 14명(7.3%)이다(§3.3).
+CT0142,statistical analysis appropriate to answer research question,4.5,Y,"WTP 구간자료를 Cameron–Huppert 최대우도모형과 Krinsky–Robb 부트스트랩 95% CI로 추정해(§2.4, Table 7) 연구질문에 적합하다. 다만 protest 응답을 0원으로 평균에 포함했고 희소 셀 교차표에 χ² 검정을 적용했다(Table 6)."
+CT0223,sampling strategy relevant to address research question,4.1,Y,"§3.2 [page 3]: 2018년 5–7월 20일간 모든 요일·08–21시에 걸쳐 탐방로 인근에서 방문객을 무작위 선정(소집단은 남녀 1명씩, 단체는 인솔자와 반대 성별 1명)해 녹지 방문객의 자연관찰 중요도·만족 요인이라는 연구질문에 부합하는 표집."
+CT0223,sample representative of the target population,4.2,CT,"Table 1 [page 3]에 사이트별 표본·평균연령·성별·국적은 제시하나 방문객 모집단과의 비교가 없고, 저자가 표본 크기·대표성 한계와 응답 의향자·자연 호의적 방문객 편향 가능성을 인정(§5 [page 6]); 조사 시기도 여름 3개월 한정."
+CT0223,measurements appropriate,4.3,CT,"중요도·만족도는 5점 단일 문항(Appendix [page 6–7])으로 신뢰도·타당도 검증이 없고, 체류시간은 실제가 아닌 '오늘 머물 계획 시간' 문항(Appendix [page 6])이며, 음환경은 '자연의 소리 듣기' 만족 문항뿐 음향 측정·음원 평가가 없다."
+CT0223,risk of nonresponse bias low,4.4,CT,"§3.2 [page 3]에 접촉·거절 인원이나 응답률이 보고되지 않고, 저자가 '응답 의향이 있던 방문객의 의견'이라는 한계만 적었을 뿐(§5 [page 6]) 무응답 편의 분석은 없다."
+CT0223,statistical analysis appropriate to answer research question,4.5,Y,"5점 순서형 결과에 요인분석 후 순서 로지스틱 회귀와 OR을 적용해(§3.3 [page 3–4], Table 3·5) 연구질문에 적합하다. 다만 4개 사이트를 사이트 효과 없이 통합(§3.3에 사유 제시)하고 비례오즈 가정 검정이 없으며 0.1 유의수준도 사용한 점은 보고상 약점."

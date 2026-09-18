@@ -22,7 +22,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 
 ## Appendix B. Characteristics of included studies
 
-**Table B1.** Studies included in the review (n = 98).
+**Table B1.** Studies included in the review (n = 113).
 
 | Study | Country | Setting | Design | Behavioural domain | Direction | MMAT |
 |---|---|---|---|---|---|---|
@@ -35,6 +35,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Ba et al. (2023) | China | Street | Field experiment | Movement | Forward | Low |
 | Ba et al. (2025) | China | Waterfront | Field experiment | Movement; staying | Forward | Moderate |
 | Bao et al. (2023) | China | Park | Survey | Staying; space use | Reverse | Moderate |
+| Beeco et al. (2011) | United States | Recreation area | Qualitative | Activity; social; space use | Both | High |
 | Berkouk et al. (2020) | Algeria | Street | Observation | Movement | Forward | Low |
 | Bild et al. (2018) | Netherlands | Mixed | Mixed | Activity; social; space use | Reverse | Moderate |
 | Bild et al. (2019) | Netherlands | Park | Qualitative | Activity; social; staying | Reverse | High |
@@ -43,6 +44,7 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Burrows et al. (2018) | Ireland | Park | Survey | Space use; activity | Forward | Low |
 | Calafiore & Tong (2025) | Australia; United Kingdom | Street | Observation | Movement | Forward | High |
 | Cao & Kang (2021) | China; United Kingdom | Square | Survey | Social; activity | Reverse | Moderate |
+| Cao & Kang (2023) | China; United Kingdom | Square | Qualitative | Activity; social; movement | Both | High |
 | Cerwén et al. (2016) | Sweden | Campus | Qualitative | Space use; staying; movement; social | Forward | Moderate |
 | Chen & Kang (2023) | China | Park | Field experiment | Social | Forward | Moderate |
 | Chen & Kang (2025) | United Kingdom | Laboratory (outdoor scene) | Laboratory experiment | Social; movement | Forward | Low |
@@ -50,11 +52,11 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Chen et al. (2024) | China | Residential | Field experiment | Social | Forward | High |
 | Derbal & Rahmane (2024) | Algeria; France | Square | Mixed | Space use; social; staying | Forward | Low |
 | Di Loreto et al. (2022) | Italy | Waterfront | Mixed | Space use | Reverse | Low |
-| Dzhambov et al. (2026) | Bulgaria | Residential | Survey | Activity | Forward | High |
 | Fang et al. (2021) | China | Park | Survey | Staying; activity; social; space use | Reverse | High |
-| Fang et al. (2024) | China | Park | Survey | Staying | Reverse | Moderate |
+| Fang et al. (2023) | China | Park | Survey | Staying | Reverse | Moderate |
+| Feldstein & Cavallo (2025) | Germany | Mixed | Field experiment | Movement | Forward | Moderate |
 | Franěk & Režný (2021) | Czechia | Mixed | Mixed | Movement | Forward | High |
-| Franěk et al. (2014) | Czechia | Park | Field experiment | Movement | Forward | High |
+| Franěk et al. (2014) | Czechia | Mixed | Field experiment | Movement | Forward | High |
 | Franěk et al. (2018) | Czechia | Street | Field experiment | Movement | Forward | Low |
 | Franěk et al. (2019) | Czechia | Street | Field experiment | Movement | Forward | Low |
 | Fu et al. (2023) | China | Park | Mixed | Activity; movement; space use | Reverse | Moderate |
@@ -69,29 +71,34 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Hong & Jeon (2020) | South Korea | Street | Mixed | Space use | Reverse | Moderate |
 | Hosseini & Kowkabi (2023) | Iran | Street | Survey | Space use; social | Forward | Low |
 | Huang et al. (2023) | Finland | Street | Observation | Movement; activity | Forward | Moderate |
+| Huang et al. (2026) | China | Park | Observation | Space use; activity; social; staying | Forward | Moderate |
 | Hüg et al. (2026) | Argentina | Street | Observation | Movement; social | Forward | Moderate |
 | Jin et al. (2024) | China | Park | Mixed | Space use; activity | Forward | Low |
 | Jo & Jeon (2020) | France | Laboratory (outdoor scene) | Laboratory experiment | Social; staying; activity; space use | Reverse | Moderate |
 | Joo et al. (2024) | United States | Park | Observation | Space use; activity | Forward | Low |
 | Kim & Shin (2021) | South Korea | Campus | Field experiment | Activity; movement; social | Reverse | Moderate |
 | Krog et al. (2010) | Norway | Recreation area | Quasi-experiment | Space use; activity | Forward | Moderate |
+| Kuldna et al. (2019) | Estonia; Finland | Park | Survey | Staying; space use; activity | Reverse | Low |
 | Lai et al. (2024) | China | Park | Mixed | Staying; movement; activity | Reverse | High |
 | Lenzi et al. (2021) | Spain | Square | Quasi-experiment | Movement; space use; activity; social | Reverse | Moderate |
+| Levenhagen et al. (2021) | United States | Recreation area | Field experiment | Movement; space use | Both | High |
 | Li et al. (2021) | China | Park | Survey | Space use; activity | Forward | Moderate |
+| Lin et al. (2024) | China | Mixed | Mixed | Staying; social; space use | Both | Low |
 | Lin et al. (2025) | China | Campus | Mixed | Activity | Reverse | Low |
 | Lin et al. (2026) | China | Residential | Mixed | Activity; space use | Reverse | Low |
 | Liu et al. (2019) | Germany | Park | Survey | Staying; activity; space use | Reverse | Low |
 | Lobo Soares & Bento Coelho (2016) | Brazil; Portugal | Park | Mixed | Activity; space use | Reverse | Low |
 | Lu et al. (2024) | China | Laboratory (outdoor scene) | Laboratory experiment | Activity; social | Reverse | Moderate |
+| Ma et al. (2021) | China | Park | Survey | Space use; staying | Reverse | Low |
 | Mansouri et al. (2025) | Algeria | Street | Mixed | Movement; space use | Forward | Moderate |
 | Marquart et al. (2022) | Germany | Street | Mixed | Movement | Forward | High |
 | Mathews & Canon (1975) | NR | Street | Field experiment | Social | Forward | Moderate |
-| Meng & Kang (2015) | China | Street | Mixed | Space use; social | Reverse | Moderate |
+| Meng & Kang (2014) | China | Street | Mixed | Space use; social | Reverse | Moderate |
 | Meng & Kang (2016) | China | Park | Mixed | Movement; staying; activity | Both | Low |
 | Meng et al. (2017) | China | Street | Mixed | Space use | Reverse | Moderate |
 | Meng et al. (2018) | China | Square | Field experiment | Movement; staying; space use | Forward | High |
 | Merlino et al. (2023) | NR | Street | Qualitative | Movement; social | Forward | High |
-| Montes González et al. (2023) | Spain | Street | Survey | Social | Forward | Moderate |
+| Montes González et al. (2022) | Spain | Street | Survey | Social | Forward | Moderate |
 | Morillas et al. (2024) | Spain | Street | Observation | Social | Forward | Moderate |
 | Moser (1988) | France | Street | Field experiment | Social | Forward | High |
 | Nguyen et al. (2025) | Japan; Vietnam | Street | Mixed | Activity; social | Reverse | Low |
@@ -100,13 +107,17 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Peng et al. (2026) | China | Square | Mixed | Staying; social; activity | Forward | Moderate |
 | Ramón-Turner et al. (2025) | Spain | Street | Mixed | Space use | Reverse | Moderate |
 | Ren et al. (2026) | China | Waterfront | Survey | Staying; activity; space use | Reverse | High |
+| Reuß & Huth (2026) | Germany | Park | Survey | Activity | Both | Low |
 | Rey Gozalo et al. (2018) | Spain | Park | Survey | Activity; space use; social | Forward | High |
 | Rey Gozalo et al. (2019) | Spain | Park | Survey | Activity; space use; social | Forward | Moderate |
 | Routhier et al. (2024) | Canada | Street | Field experiment | Movement | Forward | Low |
 | Schrapel et al. (2022) | Germany | Street | Field experiment | Movement | Forward | High |
+| Shi (2025) | China | Street | Qualitative | Movement; staying; social | Both | Moderate |
 | Soares et al. (2020) | Portugal | Laboratory (outdoor scene) | Laboratory experiment | Movement | Forward | Moderate |
+| Song et al. (2018) | China | Park | Survey | Space use | Reverse | Low |
 | Steele et al. (2019) | Canada | Park | Mixed | Staying; social; space use | Both | High |
-| Sun et al. (2026) | China | Waterfront | Qualitative | Movement; staying; space use; social | Forward | High |
+| Sun et al. (2026) | China | Recreation area | Mixed | Staying; activity | Forward | Low |
+| Sun et al. (2026) | China | Park | Mixed | Movement; staying; space use; social | Forward | High |
 | Sun et al. (2026) | Netherlands | Laboratory (outdoor scene) | Laboratory experiment | Movement | Forward | High |
 | Takada et al. (2022) | Taiwan | Street | Observation | Social; movement | Reverse | Moderate |
 | Tarlao et al. (2021) | Canada | Mixed | Survey | Social; space use | Reverse | Moderate |
@@ -115,9 +126,13 @@ OpenAlex, title and abstract search (filters: English; type, article; source typ
 | Wall et al. (2004) | United States | Street | Field experiment | Movement | Forward | Moderate |
 | Wang & Xiao (2024) | China | Park | Mixed | Staying; social; activity; space use | Both | Low |
 | Wogan & Kennedy (2024) | Ireland | Street | Mixed | Movement; space use; activity | Forward | Low |
-| Xiao & Hilton (2019) | China | Square | Mixed | Activity; social; space use | Both | Low |
+| Wozniak et al. (2025) | Poland | Street | Mixed | Movement | Forward | High |
+| Xiao & Hilton (2019) | China | Street | Mixed | Activity; social; space use | Both | Low |
 | Xu et al. (2022) | China | Park | Survey | Activity; movement | Reverse | Moderate |
+| Yang et al. (2021) | China | Mixed | Mixed | Space use | Reverse | Low |
 | Yin et al. (2023) | China | Park | Mixed | Space use; activity; staying | Forward | Low |
+| Yu & Kang (2008) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Mixed | Mixed | Movement; staying; activity | Reverse | Moderate |
+| Yu & Kang (2009) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Square | Survey | Activity; staying; space use; social | Reverse | Moderate |
 | Yu & Kang (2010) | China; Germany; Greece; Italy; Switzerland; United Kingdom | Mixed | Mixed | Space use; activity | Reverse | Low |
 | Yu (2025) | NR | Park | Mixed | Space use; activity | Forward | Low |
 | Zhang et al. (2025) | China | Street | Observation | Movement; activity | Forward | Moderate |

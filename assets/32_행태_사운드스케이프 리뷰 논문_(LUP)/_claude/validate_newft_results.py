@@ -19,6 +19,10 @@ FT = os.path.join(BASE, "fulltext")
 RES = os.path.join(FT, "newft_results")
 OUT = os.path.join(FT, "newft_combined")
 PARTIAL = "--partial" in sys.argv
+TAG = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--tag=")), "20260918")
+if TAG != "20260918":
+    RES = os.path.join(FT, f"newft_results_{TAG[-1]}")
+    OUT = os.path.join(FT, f"newft_combined_{TAG[-1]}")
 
 VERDICTS = {"FINAL_INCLUDE", "SENS_ONLY", "FINAL_EXCLUDE"}
 REASONS = {"", "X1", "X2", "X3", "X4", "X5", "X6", "X7"}
@@ -44,8 +48,8 @@ def lead(value, vocab):
 
 
 def main():
-    batches = json.load(open(os.path.join(FT, "newft_batches_20260918.json"), encoding="utf-8"))
-    manifest = {r["id"]: r for r in csv.DictReader(open(os.path.join(FT, "newft_manifest_20260918.csv"), encoding="utf-8-sig"))}
+    batches = json.load(open(os.path.join(FT, f"newft_batches_{TAG}.json"), encoding="utf-8"))
+    manifest = {r["id"]: r for r in csv.DictReader(open(os.path.join(FT, f"newft_manifest_{TAG}.csv"), encoding="utf-8-sig"))}
     errs, combined = [], {k: [] for k in ("verdict", "extract", "mmat", "detail", "es")}
     done = 0
     for b in batches:
@@ -95,7 +99,8 @@ def main():
                 doms = {d.strip() for d in e["behaviour_domain"].split(";") if d.strip()}
                 if not doms or doms - DOMAINS: errs.append(f"{name} {i}: behaviour_domain {e['behaviour_domain']!r}")
                 meth = [m.strip() for m in re.sub(r"\([^)]*\)", "", e["measurement_method"]).split(";") if m.strip()]
-                if not meth or any(m not in METHODS for m in meth): errs.append(f"{name} {i}: measurement_method {e['measurement_method'][:40]!r}")
+                # 각 조각이 통제어휘로 시작하면 통과(뒤에 설명 문장이 붙는 경우 허용)
+                if not meth or any(not lead(m, METHODS) for m in meth): errs.append(f"{name} {i}: measurement_method {e['measurement_method'][:40]!r}")
                 if e["direction"] not in ("forward", "reverse", "both"): errs.append(f"{name} {i}: direction {e['direction']!r}")
             m = M.get(i)
             if m:

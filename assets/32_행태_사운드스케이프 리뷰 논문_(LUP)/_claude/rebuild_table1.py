@@ -44,6 +44,25 @@ def pick(text, table, default="mixed"):
     return default
 
 
+# ★ 2026-09-18 추가 전문평가분: 추출 지시문(newft_instructions_20260918.md)이 setting·design 머리말을 통제어휘로
+#   강제했으므로 머리말을 그대로 Table 1 어휘로 옮긴다. 자유서술 전체에 정규식을 돌리면 괄호 속 부연
+#   ("riverside", "forest park", "questionnaire" 등)에 걸려 80·104 → residential, 709 field-experiment → survey,
+#   1218 field-observation → mixed 처럼 오코딩된다(드라이런에서 15편 중 12편 확인). 8월·인용추적 기존 행은 건드리지 않는다.
+HEAD_SETTING = {"street": "street", "park": "park", "square": "square", "campus": "campus",
+                "residential": "residential", "recreation": "recreation", "waterfront": "waterfront",
+                "VR-lab": "lab(outdoor scene)", "mixed": "mixed"}
+HEAD_DESIGN = {"field-experiment": "field experiment", "natural-experiment": "quasi-experiment",
+               "quasi-experiment": "quasi-experiment", "lab-VR-experiment": "lab experiment",
+               "field-observation": "observational", "observational": "observational",
+               "sensor-bigdata": "observational", "survey": "survey", "mixed": "mixed",
+               "qualitative": "qualitative", "NR": "NR"}
+
+
+def head(text, table):
+    m = re.match(r"\s*([A-Za-z][A-Za-z-]*)", text or "")
+    return table.get(m.group(1)) if m else None
+
+
 def gens(method):
     m = (method or "").lower()
     g = []
@@ -104,11 +123,18 @@ def main():
           "CT0414": "MA3(sens)", "CT0175": "MA2(sens)", "CT0090": "MA1(sens)",
           "CT0137": "MA4(var)"}
 
+    # ★ 2026-09-18 추가 전문평가 반영: 구 Table 1(84행)은 8월 DB 추출분만 담고 있다. 뒤늦게 추가된 연구가
+    #   (year, direction, domain) 키로 구 행을 가져가면 그 연구에 남의 국가·설계·n 이 붙는다(지도 §6 경고).
+    #   통합 원장(newft_integration_ledger.csv)에 새 연구로 기록된 uid 는 매칭 대상에서 뺀다.
+    lp = os.path.join(FT, "newft_integration_ledger.csv")
+    late = ({r["uid"] for r in csv.DictReader(open(lp, encoding="utf-8-sig")) if r["kind"] == "new-study"}
+            if os.path.exists(lp) else set())
+
     rows, matched, used = [], 0, set()
     for uid, r in ext.items():
         src = r["source"]
         base = {}
-        if src == "db-search":
+        if src == "db-search" and uid not in late:
             hit = find_old(r)
             if hit and hit["sid"] not in used:
                 base = hit
@@ -120,8 +146,11 @@ def main():
             "year": r["year"],
             "country": base.get("country") or short(r["country"], 26) or "NR",
             "setting": SETTING_OVERRIDE.get(r["uid"]) or base.get("setting")
+                       or ((uid in late or uid.startswith(("CT", "OAS"))) and head(r["setting"], HEAD_SETTING))
                        or pick(f"{r['setting']} {r['title']}", SETTING),
-            "design": base.get("design") or pick(f"{r['design']} {r['measurement_method']}", DESIGN),
+            # ★ 2026-09-18 결정: 인용추적·보조검색 행도 추출 머리말로 코딩(정규식 오코딩 CT0090·CT0137·CT0356·CT0414 소급 수정)
+            "design": base.get("design") or ((uid in late or uid.startswith(("CT", "OAS"))) and head(r["design"], HEAD_DESIGN))
+                      or pick(f"{r['design']} {r['measurement_method']}", DESIGN),
             "n": base.get("n") or short(r["sample_n"], 18) or "NR",
             "exposure_short": base.get("exposure_short") or short(r["exposure"], 46),
             "behaviour_domain": r["behaviour_domain"],
@@ -165,11 +194,28 @@ def main():
              "Dir: forward(음→행태) / reverse(행태→음) / both · "
              "MA: 메타분석 기여 클러스터, `(sens)`=민감도 전용, `(var)`=변형분석 · "
              "NR: not reported · ▲ = 인용추적으로 추가된 연구\n")
-    L.append(f"\n**민감도 전용 {sum(1 for r in rows if r['verdict']=='SENS_ONLY')}편**은 "
-             "주분석에서 제외되고 민감도에만 쓰인다(행동의향 아웃컴 3편 + 자택 앰비소닉 재생 1편).\n")
+    # ★ 2026-09-18: 민감도 전용 구성을 리터럴("행동의향 3편 + 자택 앰비소닉 1편") 대신 경계 규칙 기록에서 센다
+    #   R2 = 행동 의도·지불의사 결과 / P1 = 옥외 장면을 실험실·가정에서 재현
+    rule_of = {}
+    for r in csv.DictReader(open(os.path.join(FT, "ruling_audit.csv"), encoding="utf-8-sig")):
+        rule_of[r["no"]] = r["rule"]
+    for r in csv.DictReader(open(os.path.join(FT, "ct_verdicts_final.csv"), encoding="utf-8-sig")):
+        rule_of[f"CT{int(r['rec']):04d}"] = r["boundary_rule"]
+    import glob
+    for p in glob.glob(os.path.join(FT, "oas_results_ft", "oasft_*_verdict.csv")):
+        for r in csv.DictReader(open(p, encoding="utf-8-sig")):
+            rule_of[f"OAS{int(r['sid']):04d}"] = r["boundary_rule"]
+    if os.path.exists(lp):
+        for r in csv.DictReader(open(lp, encoding="utf-8-sig")):
+            rule_of[r["uid"]] = r["boundary_rule"]
+    sens = [r["uid"] for r in rows if r["verdict"] == "SENS_ONLY"]
+    rc = Counter(rule_of.get(u) or "규칙 미기록" for u in sens)
+    RULE_KO = {"R2": "행동 의도·지불의사 결과", "P1": "옥외 장면 실험실·가정 재현"}
+    L.append(f"\n**민감도 전용 {len(sens)}편**은 주분석에서 제외되고 민감도에만 쓰인다("
+             + " + ".join(f"{RULE_KO.get(k, k)} {v}편" for k, v in rc.most_common()) + ").\n")
     open(os.path.join(FT, "table1_v2.md"), "w", encoding="utf-8").write("".join(L))
 
-    print(f"  구 Table 1 재사용 매칭 {matched}/84행")
+    print(f"  구 Table 1 재사용 매칭 {matched}/{len(old)}행 (새로 추가된 연구 {len(late & set(ext))}편은 매칭 제외)")
     print(f"[완료] {len(rows)}행 · 갈래 {dict(Counter(r['source'] for r in rows))}")
     print(f"  setting {dict(Counter(r['setting'] for r in rows).most_common(5))}")
     print(f"  design  {dict(Counter(r['design'] for r in rows).most_common(5))}")

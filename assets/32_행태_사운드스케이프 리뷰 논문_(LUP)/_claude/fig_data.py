@@ -168,21 +168,50 @@ def main():
     D["n_since_2020"] = sum(1 for r in inc
                             if (r["year"] or "").strip().isdigit() and int(r["year"]) >= 2020)
 
-    # ── Fig 1: PRISMA (흐름 수치는 prisma_flow.md 가 정본) ───────────
+    # ── Fig 1: PRISMA ────────────────────────────────────────────────
+    # ★ 2026-09-18 (추가 전문평가 반영): 전문 단계 칸(확보 대상·미확보·평가·배제 사유·민감도·포함)은
+    #   하드코딩을 없애고 정본에서 센다 — 판정 = corpus_v4_verdicts.csv, 배제 사유 범주 =
+    #   ft_exclusion_reasons.csv, 확보 상태·미확보 사유 = retrieval_status_all.csv
+    #   (뒤 둘은 integrate_newft_into_corpus.py 가 정본에서 매번 재생성, X 코드→범주 매핑표도 거기 있다).
+    #   식별·스크리닝 칸(2,073 · 1,316 · 428 등)은 이번 추가와 무관해 종전 수치(prisma_flow.md)를 유지한다.
+    SRC = {"db": "db-search", "ct": "citation-tracking", "supp": "openalex-supplementary"}
+    BR = {"db": "DB", "ct": "CT", "supp": "OAS"}
+    vrows = rd("corpus_v4_verdicts.csv")
+    xrows = rd("ft_exclusion_reasons.csv")
+    trows = rd("retrieval_status_all.csv")
+
+    def ordered(counter):
+        return sorted(counter.items(), key=lambda kv: (-kv[1], kv[0]))
+
+    def ft_stage(key):
+        vs = [r for r in vrows if r["source"] == SRC[key]]
+        vc = Counter(r["final_verdict"] for r in vs)
+        ex_ids = {r["uid"] for r in vs if r["final_verdict"] == "FINAL_EXCLUDE"}
+        xr = [r for r in xrows if r["branch"] == BR[key]]
+        if {r["uid"] for r in xr} != ex_ids:
+            raise SystemExit(f"⚠️ {key}: ft_exclusion_reasons.csv 와 전문 배제 집합 불일치 — "
+                             f"integrate_newft_into_corpus.py 를 다시 실행")
+        tr = [r for r in trows if r["branch"] == BR[key]]
+        st = Counter(r["status"] for r in tr)
+        got = {r["uid"] for r in tr if r["status"] == "retrieved"}
+        if got != {r["uid"] for r in vs}:
+            raise SystemExit(f"⚠️ {key}: 확보 상태(retrieved {len(got)})와 전문 판정({len(vs)}) 불일치")
+        out = {"sought": len(tr), "not_retrieved": st["not-retrieved"],
+               "nr": ordered(Counter(r["nr_category"] for r in tr if r["status"] == "not-retrieved")),
+               "assessed": len(vs), "ft_excluded": vc["FINAL_EXCLUDE"],
+               "ftx": ordered(Counter(r["category"] for r in xr)),
+               "sens": vc["SENS_ONLY"], "included": vc["FINAL_INCLUDE"]}
+        if st["prescreen-exclude"]:
+            out["prescreen"] = st["prescreen-exclude"]
+        return out
+
     D["prisma"] = {
         "db": {"identified": 2073, "wos": 1010, "scopus": 850, "pubmed": 213,
                "duplicates": 757, "screened": 1316, "excluded": 1127,
                "excl": [("Animal / wildlife", 479), ("Perception / health", 325),
                         ("Setting not eligible", 133), ("Not empirical", 109),
                         ("No acoustic variable", 81)],
-               "sought": 189, "not_retrieved": 89,
-               "nr": [("No institution access", 84), ("Pay-per-view only", 3),
-                      ("Abstract only", 2)],
-               "assessed": 100, "ft_excluded": 16,
-               "ftx": [("Setting not eligible", 7), ("No observed behaviour", 6),
-                       ("Perceptual outcome", 1), ("No acoustic exposure", 1),
-                       ("Not empirical", 1)],
-               "sens": 3, "included": 81},
+               **ft_stage("db")},
         "ct": {"identified": 2073, "backward": 413, "forward": 1660, "seeds": 84,
                "deprioritised": 1645,
                "dep": [("Animal / acoustics", 26), ("≤1 block matched", 1619)],
@@ -192,27 +221,24 @@ def main():
                "screened_abs": 146, "excl_abs": 67,
                "ea": [("No acoustic variable", 37), ("No behavioural outcome", 26),
                       ("Other", 4)],
-               "sought": 79, "not_retrieved": 25,
-               "nr": [("No institution access", 22), ("Pay-per-view only", 3)],
-               "assessed": 54, "ft_excluded": 38,
-               "ftx": [("No acoustic variable", 20), ("No observed behaviour", 17),
-                       ("Not in English", 1)],
-               "sens": 1, "included": 15},
+               **ft_stage("ct")},
         "supp": {"identified": 352, "duplicates": 23, "screened": 329, "excluded": 314,
                  "excl": [("Not empirical (reviews etc.)", 147),
                           ("No behavioural outcome", 46), ("Animal / bioacoustics", 39),
                           ("Off topic", 31), ("Setting not eligible", 27),
                           ("No acoustic variable", 12), ("Language / document type", 12)],
-                 "sought": 15, "prescreen": 2, "not_retrieved": 8,
-                 "assessed": 5, "ft_excluded": 3,
-                 "ftx": [("Not in English", 2),
-                         ("No behavioural outcome", 1)],
-                 "included": 2},
+                 **ft_stage("supp")},
     }
     p = D["prisma"]
+    # 스크리닝 산술이 전문 단계 확보 대상과 맞물리는지(하드코딩 칸 ↔ 정본 칸)
+    assert p["db"]["screened"] - p["db"]["excluded"] == p["db"]["sought"], "DB 확보 대상 불일치"
+    assert p["ct"]["screened_abs"] - p["ct"]["excl_abs"] == p["ct"]["sought"], "CT 확보 대상 불일치"
+    assert p["supp"]["screened"] - p["supp"]["excluded"] == p["supp"]["sought"], "OAS 확보 대상 불일치"
     tot = p["db"]["included"] + p["ct"]["included"] + p["supp"]["included"]
     if tot != N:
         raise SystemExit(f"⚠️ PRISMA 합({tot}) ≠ 코퍼스({N}) — prisma_flow.md 와 대조 필요")
+    if p["db"]["sens"] + p["ct"]["sens"] + p["supp"]["sens"] != D["n_sens"]:
+        raise SystemExit("⚠️ PRISMA 민감도 전용 합 ≠ 코퍼스 SENS_ONLY")
 
     with open(os.path.join(FIG, "fig_data.json"), "w", encoding="utf-8") as f:
         json.dump(D, f, ensure_ascii=False, indent=1)

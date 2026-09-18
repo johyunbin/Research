@@ -1,0 +1,149 @@
+﻿uid,branch,reason_code,category,basis
+22,DB,X2,Setting not eligible,추가 전문평가 newft
+29,DB,X2,Setting not eligible,추가 전문평가 newft
+46,DB,X2,Setting not eligible,추가 전문평가 newft
+55,DB,X2,Setting not eligible,추가 전문평가 newft
+68,DB,X2,Setting not eligible,추가 전문평가 newft
+89,DB,X6,Not a journal article,추가 전문평가 newft_b
+94,DB,X4,No observed behaviour,추가 전문평가 newft
+103,DB,X4,No observed behaviour,추가 전문평가 newft_b
+186,DB,X3,No acoustic exposure,추가 전문평가 newft
+188,DB,X2,Setting not eligible,추가 전문평가 newft
+194,DB,X3,No acoustic exposure,추가 전문평가 newft
+234,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+240,DB,X4,No observed behaviour,추가 전문평가 newft_b
+251,DB,X4,No observed behaviour,추가 전문평가 newft
+268,DB,X4,No observed behaviour,추가 전문평가 newft
+301,DB,X4,No observed behaviour,추가 전문평가 newft
+351,DB,X2,Setting not eligible,추가 전문평가 newft
+357,DB,X5,Not empirical,추가 전문평가 newft_b
+378,DB,X2,Setting not eligible,추가 전문평가 newft
+387,DB,X5,Not empirical,추가 전문평가 newft
+411,DB,X2,Setting not eligible,추가 전문평가 newft
+412,DB,X4,No observed behaviour,추가 전문평가 newft
+433,DB,X2,Setting not eligible,추가 전문평가 newft
+444,DB,X2,Setting not eligible,추가 전문평가 newft
+484,DB,X2,Setting not eligible,추가 전문평가 newft
+485,DB,X2,Setting not eligible,추가 전문평가 newft
+489,DB,X2,Setting not eligible,추가 전문평가 newft
+509,DB,X4,No observed behaviour,추가 전문평가 newft
+512,DB,X2,Setting not eligible,추가 전문평가 newft
+556,DB,X2,Setting not eligible,추가 전문평가 newft
+559,DB,X3,No acoustic exposure,추가 전문평가 newft
+569,DB,X3,No acoustic exposure,추가 전문평가 newft_b
+599,DB,X3,No acoustic exposure,추가 전문평가 newft
+613,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+615,DB,X2,Setting not eligible,추가 전문평가 newft
+623,DB,X3,No acoustic exposure,추가 전문평가 newft
+624,DB,X4,No observed behaviour,추가 전문평가 newft
+639,DB,X3,No acoustic exposure,추가 전문평가 newft
+648,DB,X4,No observed behaviour,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+684,DB,X2,Setting not eligible,추가 전문평가 newft_b
+692,DB,X2,Setting not eligible,추가 전문평가 newft
+729,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+770,DB,X4,No observed behaviour,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+772,DB,X3,No acoustic exposure,추가 전문평가 newft
+779,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+811,DB,X4,No observed behaviour,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+819,DB,X2,Setting not eligible,추가 전문평가 newft
+823,DB,X4,No observed behaviour,추가 전문평가 newft
+831,DB,X2,Setting not eligible,추가 전문평가 newft
+848,DB,X3,No acoustic exposure,추가 전문평가 newft_b
+880,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+909,DB,X5,Not empirical,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+912,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+927,DB,X2,Setting not eligible,추가 전문평가 newft
+932,DB,X3,No acoustic exposure,추가 전문평가 newft
+948,DB,X4,No observed behaviour,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+950,DB,X3,No acoustic exposure,추가 전문평가 newft_b
+957,DB,X4,No observed behaviour,추가 전문평가 newft
+972,DB,X3,No acoustic exposure,추가 전문평가 newft
+981,DB,X4,No observed behaviour,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+982,DB,X4,No observed behaviour,추가 전문평가 newft_b
+998,DB,X2,Setting not eligible,추가 전문평가 newft_b
+1002,DB,X3,No acoustic exposure,추가 전문평가 newft
+1013,DB,X4,No observed behaviour,추가 전문평가 newft
+1074,DB,X4,No observed behaviour,추가 전문평가 newft_b
+1092,DB,X2,Setting not eligible,추가 전문평가 newft
+1101,DB,X2,Setting not eligible,추가 전문평가 newft_b
+1141,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+1143,DB,X4,No observed behaviour,추가 전문평가 newft
+1154,DB,X2,Setting not eligible,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+1169,DB,X5,Not empirical,추가 전문평가 newft
+1175,DB,X2,Setting not eligible,추가 전문평가 newft
+1179,DB,X2,Setting not eligible,추가 전문평가 newft
+1182,DB,X2,Setting not eligible,추가 전문평가 newft
+1200,DB,X2,Setting not eligible,추가 전문평가 newft
+1203,DB,X2,Setting not eligible,추가 전문평가 newft
+1215,DB,X5,Not empirical,추가 전문평가 newft
+1226,DB,X2,Setting not eligible,8월 코퍼스 판정 변경 R1
+1239,DB,X2,Setting not eligible,추가 전문평가 newft
+1243,DB,X5,Not empirical,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+1250,DB,X3,No acoustic exposure,추가 전문평가 newft
+1253,DB,X4,No observed behaviour,8월 수기 집계 재배정(ft_verdicts_v2.reason)
+1271,DB,X3,No acoustic exposure,추가 전문평가 newft_b
+1275,DB,X3,No acoustic exposure,추가 전문평가 newft
+1276,DB,X2,Setting not eligible,추가 전문평가 newft_b
+1315,DB,X4,No observed behaviour,추가 전문평가 newft
+CT0010,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_07)
+CT0017,CT,X4,No observed behaviour,ct_verdicts_final.csv (nft_16)
+CT0018,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_07)
+CT0021,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_01)
+CT0034,CT,X4,No observed behaviour,ct_verdicts_final.csv (nft_02)
+CT0040,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_07)
+CT0063,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_07)
+CT0080,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_01)
+CT0100,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_09)
+CT0106,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_07)
+CT0108,CT,X3,No acoustic variable,ct_verdicts_final.csv (nft_12)
+CT0123,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_02)
+CT0125,CT,X2,Setting not eligible,ct_verdicts_final.csv (nftb_05)
+CT0128,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_02)
+CT0153,CT,X4,No observed behaviour,ct_verdicts_final.csv (nftb_07)
+CT0182,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_08)
+CT0190,CT,X2,Setting not eligible,ct_verdicts_final.csv (nft_08)
+CT0208,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_03)
+CT0209,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_03)
+CT0212,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_08)
+CT0219,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_08)
+CT0221,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_09)
+CT0233,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_03)
+CT0241,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_08)
+CT0264,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_02)
+CT0265,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_08)
+CT0267,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_08)
+CT0268,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_03)
+CT0269,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_04)
+CT0273,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_04)
+CT0274,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_09)
+CT0285,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_09)
+CT0296,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_04)
+CT0307,CT,X4,No observed behaviour,ct_verdicts_final.csv (nftb_10)
+CT0309,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_04)
+CT0313,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_07)
+CT0320,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_04)
+CT0327,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_05)
+CT0328,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_09)
+CT0329,CT,X4,No observed behaviour,ct_verdicts_final.csv (nftb_08)
+CT0342,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_05)
+CT0343,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_09)
+CT0360,CT,X4,No observed behaviour,ct_verdicts_final.csv (nftb_04)
+CT0365,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_05)
+CT0369,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_03)
+CT0373,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_06)
+CT0378,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_06)
+CT0382,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_06)
+CT0390,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_06)
+CT0395,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_06)
+CT0410,CT,X7,Not in English,ct_verdicts_final.csv (ctft_06)
+CT0413,CT,X3,No acoustic variable,ct_verdicts_final.csv (ctft_09)
+CT0422,CT,X3,No acoustic variable,ct_verdicts_final.csv (nftb_02)
+CT0428,CT,X4,No observed behaviour,ct_verdicts_final.csv (ctft_09)
+OAS0125,OAS,X7,Not in English,oasft verdict
+OAS0154,OAS,X4,No behavioural outcome,oasft verdict
+OAS0220,OAS,X7,Not in English,oasft verdict
+OAS0050,OAS,X7,Not in English,oasft verdict
+OAS0073,OAS,X6,Not a journal article,oasft verdict
+OAS0001,OAS,X4,No behavioural outcome,oasft verdict
+OAS0040,OAS,X4,No behavioural outcome,oasft verdict
+OAS0222,OAS,X6,Not a journal article,oasft verdict

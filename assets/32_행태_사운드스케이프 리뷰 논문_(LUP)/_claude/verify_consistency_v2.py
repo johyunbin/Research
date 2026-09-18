@@ -31,11 +31,13 @@ def main():
     inc = {r["uid"] for r in cv if r["final_verdict"] == "FINAL_INCLUDE"}
     sen = {r["uid"] for r in cv if r["final_verdict"] == "SENS_ONLY"}
     keep = inc | sen
-    chk("코퍼스 구성", len(inc) == 98 and len(sen) == 4,
+    # ★ 2026-09-18 추가 전문평가 반영(77건 + 1226 재판정): 기대값 98·4 / 81·15·2 → 113·9 / 91·18·4 (9/18 2차 확보분 34건까지 반영).
+    #   기대값을 데이터에서 읽으면 검사가 무의미해지므로 리터럴로 두고, 판정이 바뀔 때 함께 고친다.
+    chk("코퍼스 구성", len(inc) == 113 and len(sen) == 9,
         f"FINAL_INCLUDE {len(inc)} · SENS_ONLY {len(sen)}")
     src = Counter(r["source"] for r in cv if r["uid"] in inc)
-    chk("3갈래 구성", src == Counter({"db-search": 81, "citation-tracking": 15,
-                                    "openalex-supplementary": 2}), str(dict(src)))
+    chk("3갈래 구성", src == Counter({"db-search": 91, "citation-tracking": 18,
+                                    "openalex-supplementary": 4}), str(dict(src)))
 
     chk("추출표 = 분석 대상", {r["uid"] for r in ce} == keep, f"{len(ce)}행 / 대상 {len(keep)}")
     chk("품질평가 = 분석 대상", {r["uid"] for r in q} == keep, f"{len(q)}편")
@@ -99,8 +101,9 @@ def main():
 
     # PRISMA 문서가 96편을 말하는가
     pf = open(os.path.join(FT, "prisma_flow.md"), encoding="utf-8").read()
-    chk("PRISMA 최종 포함 98", "n = 98" in pf)
-    chk("PRISMA 인용추적 포함 15", "질적 종합 포함 ............................ n = 15" in pf)
+    # ★ 2026-09-18: 새 기대값(113·18). prisma_flow.md 는 수기 문서라 갱신 전까지 실패가 정상이다.
+    chk("PRISMA 최종 포함 113", "n = 113" in pf)
+    chk("PRISMA 인용추적 포함 18", "질적 종합 포함 ............................ n = 18" in pf)
 
     figs = ["Fig1_PRISMA", "Fig2_Forest", "Fig3_EvidenceMap", "Fig4_Direction",
             "Fig5_Methods", "Fig6_Framework", "Fig7_GeoTime", "Fig8_Quality"]

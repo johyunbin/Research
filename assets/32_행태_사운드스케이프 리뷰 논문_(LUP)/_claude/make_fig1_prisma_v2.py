@@ -41,7 +41,8 @@ O = {
     "sought": CT["sought"] + SP["sought"],
     "not_retrieved": CT["not_retrieved"] + SP["not_retrieved"] + SP["prescreen"],
     "assessed": CT["assessed"] + SP["assessed"],
-    "sens": CT["sens"], "included": CT["included"] + SP["included"],
+    # ★ 2026-09-18: 보조 검색 갈래에도 민감도 전용(OAS0005)이 생겼다 — 두 갈래 합으로 센다
+    "sens": CT["sens"] + SP.get("sens", 0), "included": CT["included"] + SP["included"],
 }
 _ftx = Counter()
 for k, v in CT["ftx"] + (SP.get("ftx") or []):

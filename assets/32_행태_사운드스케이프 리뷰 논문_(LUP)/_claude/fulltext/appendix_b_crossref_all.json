@@ -950,5 +950,146 @@
   ],
   "issued": 2026,
   "doi": "10.1016/j.apacoust.2025.111101"
+ },
+ "CT0171": {
+  "authors": [
+   "Yang",
+   "Cao",
+   "Meng"
+  ],
+  "issued": 2022,
+  "doi": "10.1016/j.scitotenv.2021.149869"
+ },
+ "CT0223": {
+  "authors": [
+   "Kuldna",
+   "Poltimäe",
+   "Tuhkanen"
+  ],
+  "issued": 2020,
+  "doi": "10.1016/j.jort.2019.100227"
+ },
+ "CT0391": {
+  "authors": [
+   "Feldstein",
+   "Cavallo"
+  ],
+  "issued": 2025,
+  "doi": "10.1162/pres.a.8"
+ },
+ "80": {
+  "authors": [
+   "Yu",
+   "Kang"
+  ],
+  "issued": 2008,
+  "doi": "10.1121/1.2821955"
+ },
+ "104": {
+  "authors": [
+   "Yu",
+   "Kang"
+  ],
+  "issued": 2009,
+  "doi": "10.1121/1.3183377"
+ },
+ "499": {
+  "authors": [
+   "Song",
+   "Lv",
+   "Yu",
+   "Wu"
+  ],
+  "issued": 2018,
+  "doi": "10.1016/j.ufug.2017.11.002"
+ },
+ "709": {
+  "authors": [
+   "Levenhagen",
+   "Miller",
+   "Petrelli",
+   "Ferguson",
+   "Shr",
+   "Gomes",
+   "Taff",
+   "White",
+   "Fristrup",
+   "Monz",
+   "McClure",
+   "Newman",
+   "Francis",
+   "Barber"
+  ],
+  "issued": 2020,
+  "doi": "10.1002/pan3.10156"
+ },
+ "713": {
+  "authors": [
+   "Ma",
+   "Mak",
+   "Wong"
+  ],
+  "issued": 2021,
+  "doi": "10.1016/j.apacoust.2020.107570"
+ },
+ "888": {
+  "authors": [
+   "Cao",
+   "Kang"
+  ],
+  "issued": 2023,
+  "doi": "10.3390/ijerph20042932"
+ },
+ "1190": {
+  "authors": [
+   "Wozniak",
+   "Filomena",
+   "Wronkowski"
+  ],
+  "issued": 2025,
+  "doi": "10.1016/j.trf.2025.01.012"
+ },
+ "1191": {
+  "authors": [
+   "Sun",
+   "Cheng",
+   "Tian",
+   "Zhou"
+  ],
+  "issued": 2026,
+  "doi": "10.32738/jeppm-2025-228"
+ },
+ "1218": {
+  "authors": [
+   "Huang",
+   "Fu",
+   "Tang"
+  ],
+  "issued": 2026,
+  "doi": "10.3390/land15050811"
+ },
+ "1305": {
+  "authors": [
+   "Reuß",
+   "Huth"
+  ],
+  "issued": 2026,
+  "doi": "10.1007/s12662-026-01101-z"
+ },
+ "OAS0011": {
+  "authors": [
+   "Lin",
+   "Wang",
+   "Lin"
+  ],
+  "issued": 2024,
+  "doi": "10.1111/1745-5871.12632"
+ },
+ "OAS0041": {
+  "authors": [
+   "Shi"
+  ],
+  "issued": 2025,
+  "doi": "10.46248/kidrs.2025.2.49"
  }
 }

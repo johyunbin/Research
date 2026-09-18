@@ -106,5 +106,117 @@
   "year": 2024,
   "doi": "10.54021/seesv5n3-086",
   "via": "api.crossref.org"
+ },
+ "CT0171": {
+  "label": "Yang et al.",
+  "year": 2022,
+  "doi": "10.1016/j.scitotenv.2021.149869",
+  "title": "Effects of a human sound-based index on the soundscapes of u",
+  "via": "api.crossref.org"
+ },
+ "CT0223": {
+  "label": "Kuldna et al.",
+  "year": 2020,
+  "doi": "10.1016/j.jort.2019.100227",
+  "title": "Perceived importance of and satisfaction with nature observa",
+  "via": "api.crossref.org"
+ },
+ "CT0391": {
+  "label": "Feldstein & Cavallo",
+  "year": 2025,
+  "doi": "10.1162/pres.a.8",
+  "title": "The Impact of Auditory Traffic Perception on Pedestrians’ St",
+  "via": "api.crossref.org"
+ },
+ "80": {
+  "label": "Yu & Kang",
+  "year": 2008,
+  "doi": "10.1121/1.2821955",
+  "title": "Effects of social, demographical and behavioral factors on t",
+  "via": "api.crossref.org"
+ },
+ "104": {
+  "label": "Yu & Kang",
+  "year": 2009,
+  "doi": "10.1121/1.3183377",
+  "title": "Modeling subjective evaluation of soundscape quality in urba",
+  "via": "api.crossref.org"
+ },
+ "499": {
+  "label": "Song et al.",
+  "year": 2018,
+  "doi": "10.1016/j.ufug.2017.11.002",
+  "title": "Spatial-temporal change analysis of plant soundscapes and th",
+  "via": "api.crossref.org"
+ },
+ "709": {
+  "label": "Levenhagen et al.",
+  "year": 2020,
+  "doi": "10.1002/pan3.10156",
+  "title": "Ecosystem services enhanced through soundscape management li",
+  "via": "api.crossref.org"
+ },
+ "713": {
+  "label": "Ma et al.",
+  "year": 2021,
+  "doi": "10.1016/j.apacoust.2020.107570",
+  "title": "Effects of environmental sound quality on soundscape prefere",
+  "via": "api.crossref.org"
+ },
+ "888": {
+  "label": "Cao & Kang",
+  "year": 2023,
+  "doi": "10.3390/ijerph20042932",
+  "title": "A Perceptual Structure of Soundscapes in Urban Public Spaces",
+  "via": "api.crossref.org"
+ },
+ "1190": {
+  "label": "Wozniak et al.",
+  "year": 2025,
+  "doi": "10.1016/j.trf.2025.01.012",
+  "title": "What’s your type? A taxonomy of pedestrian route choice beha",
+  "via": "api.crossref.org"
+ },
+ "1191": {
+  "label": "Sun et al.",
+  "year": 2026,
+  "doi": "10.32738/jeppm-2025-228",
+  "title": "A Perceived Acoustic Landscape Model for Zhangjiajie Nationa",
+  "via": "article PDF p.1 byline (Qing Sun, Qianni Cheng, Jianlin Tian, Yanan Zhou); Crossref author 없음 · OpenAlex authorship(X. P. Liu, Z. H. Duan)는 원문과 불일치"
+ },
+ "1218": {
+  "label": "Huang et al.",
+  "year": 2026,
+  "doi": "10.3390/land15050811",
+  "title": "Dynamic Perspectives: Spatiotemporal Characteristics and Tim",
+  "via": "api.crossref.org"
+ },
+ "1305": {
+  "label": "Reuß & Huth",
+  "year": 2026,
+  "doi": "10.1007/s12662-026-01101-z",
+  "title": "Transforming urban landscapes: characteristics of urban gree",
+  "via": "api.crossref.org"
+ },
+ "OAS0011": {
+  "label": "Lin et al.",
+  "year": 2024,
+  "doi": "10.1111/1745-5871.12632",
+  "title": "Performance and atmosphere in urban public spaces: Street mu",
+  "via": "api.crossref.org"
+ },
+ "OAS0041": {
+  "label": "Shi",
+  "year": 2025,
+  "doi": "10.46248/kidrs.2025.2.49",
+  "title": "Sound, Symbol, and Space: An Ethnosemiotic Analysis of Verna",
+  "via": "api.crossref.org"
+ },
+ "137": {
+  "label": "Beeco et al.",
+  "year": 2011,
+  "doi": "",
+  "title": "An Examination of the Guided Night Hiking Experience in Parks and Protected Areas",
+  "via": "article PDF (JPRA 29(4) p.72) byline: J. Adam Beeco, Jeffrey C. Hallo, Elizabeth D. Baldwin, Francis A. McGuire; DOI 없음"
  }
 }

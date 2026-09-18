@@ -84,8 +84,12 @@ def main():
     look = json.load(open(os.path.join(FT, "appendix_b_author_lookup.json"), encoding="utf-8"))
     rows = [r for r in csv.DictReader(open(os.path.join(FT, "table1_v2.csv"), encoding="utf-8-sig"))
             if r["verdict"] == "FINAL_INCLUDE"]
-    if len(rows) != 98:
-        raise SystemExit(f"⚠️ 포함 연구 수가 98이 아니다: {len(rows)}")
+    # ★ 2026-09-18 추가 전문평가 반영: 기대 편수 리터럴(98) 대신 판정 정본(corpus_v4_verdicts.csv)의
+    #   FINAL_INCLUDE 수와 대조한다 — Table 1 이 판정 정본과 어긋나면 멈추는 검사 목적은 그대로다.
+    n_inc = sum(1 for v in csv.DictReader(open(os.path.join(FT, "corpus_v4_verdicts.csv"), encoding="utf-8-sig"))
+                if v["final_verdict"] == "FINAL_INCLUDE")
+    if len(rows) != n_inc:
+        raise SystemExit(f"⚠️ Table 1 포함 연구 수({len(rows)})가 판정 정본 FINAL_INCLUDE({n_inc})와 다르다")
     ext_country = {e["uid"]: e["country"] for e in
                    csv.DictReader(open(os.path.join(FT, "corpus_v4_extraction.csv"), encoding="utf-8-sig"))}
     out = []
@@ -96,7 +100,8 @@ def main():
                 raise SystemExit(f"⚠️ 저자명 조회값 없음: {r['uid']}")
             lab = lk["label"]
             lab = lab if not lab.isupper() else lab.title()
-            study = f"{lab} ({lk['year']})"
+            # ★ 2026-09-18: 연도는 코퍼스(추출표) 연도로 통일 — Crossref issued 연도와 달라 Table 1·본문과 어긋나던 문제
+            study = f"{lab} ({r['year'] or lk['year']})"
         else:
             study = r["study"]
         cap = lambda v: "NR" if v in ("", "NR") else v[0].upper() + v[1:]

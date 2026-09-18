@@ -1,12 +1,12 @@
 {
- "n_included": 98,
- "n_sens": 4,
+ "n_included": 113,
+ "n_sens": 9,
  "by_route": {
-  "db-search": 81,
-  "citation-tracking": 15,
-  "openalex-supplementary": 2
+  "db-search": 91,
+  "citation-tracking": 18,
+  "openalex-supplementary": 4
  },
- "n_analysed": 102,
+ "n_analysed": 122,
  "evidence_map": {
   "rows": [
    "Movement",
@@ -25,43 +25,43 @@
   ],
   "cells": [
    [
-    24,
+    29,
     2,
-    12,
+    17,
+    19,
+    19,
+    0
+   ],
+   [
+    19,
+    2,
+    20,
     16,
     15,
     0
    ],
    [
+    31,
+    5,
+    25,
+    19,
     14,
-    1,
-    14,
-    13,
-    11,
-    0
-   ],
-   [
-    26,
-    4,
-    18,
-    15,
-    12,
     2
    ],
    [
-    24,
+    29,
     4,
-    17,
-    12,
-    6,
+    22,
+    15,
+    9,
     0
    ],
    [
-    24,
+    28,
     3,
-    18,
-    12,
-    8,
+    26,
+    15,
+    11,
     2
    ]
   ]
@@ -77,32 +77,32 @@
    "Activity"
   ],
   "forward": [
-   33,
-   16,
-   26,
-   20,
-   18
+   35,
+   18,
+   27,
+   21,
+   19
   ],
   "reverse": [
-   8,
-   8,
-   23,
-   14,
-   21
+   9,
+   12,
+   28,
+   15,
+   24
   ],
   "both": [
-   3,
-   5,
-   5,
    6,
-   6
+   7,
+   8,
+   10,
+   9
   ],
-  "total_forward": 113,
-  "total_reverse": 74,
-  "total_both": 25,
-  "pct_reverse_of_directional": 40,
-  "n_directional": 187,
-  "n_records": 212
+  "total_forward": 120,
+  "total_reverse": 88,
+  "total_both": 40,
+  "pct_reverse_of_directional": 42,
+  "n_directional": 208,
+  "n_records": 248
  },
  "generations": {
   "bands": [
@@ -111,38 +111,38 @@
    "2020–2026"
   ],
   "G1": [
-   1,
-   14,
-   39
+   3,
+   17,
+   46
   ],
   "G2": [
-   3,
-   11,
-   28
+   4,
+   12,
+   33
   ],
   "G3": [
    0,
    4,
-   20
+   27
   ],
-  "multi_generation_studies": 22,
-  "total_G1": 54,
-  "total_G2": 42,
-  "total_G3": 24
+  "multi_generation_studies": 30,
+  "total_G1": 66,
+  "total_G2": 49,
+  "total_G3": 31
  },
  "quality": {
   "tier": {
-   "high": 22,
-   "moderate": 40,
-   "low": 36
+   "high": 25,
+   "moderate": 45,
+   "low": 43
   },
   "categories": [
    {
     "key": "1",
     "name": "Qualitative",
-    "n": 7,
-    "high": 5,
-    "moderate": 1,
+    "n": 11,
+    "high": 8,
+    "moderate": 2,
     "low": 1
    },
    {
@@ -156,58 +156,58 @@
    {
     "key": "3",
     "name": "Quantitative non-randomised",
-    "n": 22,
-    "high": 7,
-    "moderate": 11,
+    "n": 25,
+    "high": 8,
+    "moderate": 13,
     "low": 4
    },
    {
     "key": "4",
     "name": "Quantitative descriptive",
-    "n": 51,
-    "high": 6,
-    "moderate": 24,
-    "low": 21
+    "n": 58,
+    "high": 5,
+    "moderate": 26,
+    "low": 27
    },
    {
     "key": "5",
     "name": "Mixed methods",
-    "n": 15,
+    "n": 16,
     "high": 4,
     "moderate": 4,
-    "low": 7
+    "low": 8
    }
   ],
   "items": {
    "1.1": {
-    "Y": 7,
+    "Y": 11,
     "N": 0,
     "CT": 0,
-    "n": 7
+    "n": 11
    },
    "1.2": {
-    "Y": 6,
+    "Y": 10,
     "N": 1,
     "CT": 0,
-    "n": 7
+    "n": 11
    },
    "1.3": {
-    "Y": 6,
+    "Y": 10,
     "N": 0,
     "CT": 1,
-    "n": 7
+    "n": 11
    },
    "1.4": {
-    "Y": 4,
-    "N": 1,
+    "Y": 7,
+    "N": 2,
     "CT": 2,
-    "n": 7
+    "n": 11
    },
    "1.5": {
-    "Y": 4,
-    "N": 0,
+    "Y": 7,
+    "N": 1,
     "CT": 3,
-    "n": 7
+    "n": 11
    },
    "2.1": {
     "Y": 0,
@@ -240,94 +240,94 @@
     "n": 2
    },
    "3.1": {
-    "Y": 4,
-    "N": 9,
+    "Y": 6,
+    "N": 10,
     "CT": 9,
-    "n": 22
+    "n": 25
    },
    "3.2": {
-    "Y": 20,
+    "Y": 23,
     "N": 1,
     "CT": 1,
-    "n": 22
+    "n": 25
    },
    "3.3": {
-    "Y": 14,
+    "Y": 16,
     "N": 3,
-    "CT": 5,
-    "n": 22
+    "CT": 6,
+    "n": 25
    },
    "3.4": {
-    "Y": 9,
-    "N": 7,
+    "Y": 10,
+    "N": 9,
     "CT": 6,
-    "n": 22
+    "n": 25
    },
    "3.5": {
-    "Y": 20,
+    "Y": 23,
     "N": 0,
     "CT": 2,
-    "n": 22
+    "n": 25
    },
    "4.1": {
-    "Y": 42,
+    "Y": 48,
     "N": 0,
-    "CT": 9,
-    "n": 51
+    "CT": 10,
+    "n": 58
    },
    "4.2": {
     "Y": 10,
-    "N": 24,
-    "CT": 17,
-    "n": 51
+    "N": 28,
+    "CT": 20,
+    "n": 58
    },
    "4.3": {
-    "Y": 31,
-    "N": 8,
-    "CT": 12,
-    "n": 51
+    "Y": 34,
+    "N": 9,
+    "CT": 15,
+    "n": 58
    },
    "4.4": {
-    "Y": 16,
+    "Y": 17,
     "N": 14,
-    "CT": 21,
-    "n": 51
+    "CT": 27,
+    "n": 58
    },
    "4.5": {
-    "Y": 26,
-    "N": 20,
-    "CT": 5,
-    "n": 51
+    "Y": 28,
+    "N": 23,
+    "CT": 7,
+    "n": 58
    },
    "5.1": {
     "Y": 14,
-    "N": 0,
+    "N": 1,
     "CT": 1,
-    "n": 15
+    "n": 16
    },
    "5.2": {
-    "Y": 10,
+    "Y": 11,
     "N": 4,
     "CT": 1,
-    "n": 15
+    "n": 16
    },
    "5.3": {
-    "Y": 7,
+    "Y": 8,
     "N": 5,
     "CT": 3,
-    "n": 15
+    "n": 16
    },
    "5.4": {
     "Y": 4,
-    "N": 6,
+    "N": 7,
     "CT": 5,
-    "n": 15
+    "n": 16
    },
    "5.5": {
     "Y": 1,
-    "N": 11,
+    "N": 12,
     "CT": 3,
-    "n": 15
+    "n": 16
    }
   }
  },
@@ -525,26 +525,34 @@
   "countries": [
    [
     "China",
-    38
+    48
+   ],
+   [
+    "Germany",
+    9
+   ],
+   [
+    "United Kingdom",
+    9
    ],
    [
     "Spain",
     7
    ],
    [
-    "United Kingdom",
+    "Italy",
     6
-   ],
-   [
-    "Germany",
-    5
    ],
    [
     "Not reported",
     4
    ],
    [
-    "Italy",
+    "United States",
+    4
+   ],
+   [
+    "Switzerland",
     4
    ],
    [
@@ -557,6 +565,10 @@
    ],
    [
     "France",
+    3
+   ],
+   [
+    "Greece",
     3
    ],
    [
@@ -580,15 +592,7 @@
     3
    ],
    [
-    "United States",
-    2
-   ],
-   [
     "Sweden",
-    2
-   ],
-   [
-    "Switzerland",
     2
    ],
    [
@@ -600,11 +604,11 @@
     2
    ],
    [
-    "Norway",
-    1
+    "Finland",
+    2
    ],
    [
-    "Greece",
+    "Norway",
     1
    ],
    [
@@ -624,10 +628,6 @@
     1
    ],
    [
-    "Finland",
-    1
-   ],
-   [
     "Japan",
     1
    ],
@@ -636,11 +636,11 @@
     1
    ],
    [
-    "Argentina",
+    "Poland",
     1
    ],
    [
-    "Bulgaria",
+    "Argentina",
     1
    ],
    [
@@ -648,11 +648,15 @@
     1
    ],
    [
+    "Estonia",
+    1
+   ],
+   [
     "Nigeria",
     1
    ]
   ],
-  "n_countries": 32
+  "n_countries": 33
  },
  "time": {
   "years": [
@@ -661,7 +665,10 @@
    1988,
    2004,
    2007,
+   2008,
+   2009,
    2010,
+   2011,
    2014,
    2016,
    2017,
@@ -681,7 +688,10 @@
    1,
    1,
    1,
+   0,
+   0,
    1,
+   0,
    2,
    2,
    0,
@@ -692,8 +702,8 @@
    3,
    7,
    8,
-   7,
-   9
+   9,
+   10
   ],
   "reverse": [
    0,
@@ -704,11 +714,14 @@
    1,
    1,
    1,
+   0,
    1,
+   1,
+   1,
+   3,
+   3,
    2,
-   2,
-   2,
-   6,
+   8,
    7,
    3,
    2,
@@ -723,20 +736,23 @@
    0,
    0,
    0,
+   0,
+   1,
+   0,
    1,
    1,
    0,
    2,
    0,
-   1,
-   0,
-   0,
    2,
+   0,
    1,
-   0
+   3,
+   2,
+   1
   ]
  },
- "n_since_2020": 70,
+ "n_since_2020": 80,
  "prisma": {
   "db": {
    "identified": 2073,
@@ -769,47 +785,47 @@
     ]
    ],
    "sought": 189,
-   "not_retrieved": 89,
+   "not_retrieved": 6,
    "nr": [
     [
-     "No institution access",
-     84
+     "Paywalled (not accessible)",
+     4
     ],
     [
-     "Pay-per-view only",
-     3
+     "No DOI (not located)",
+     1
     ],
     [
-     "Abstract only",
-     2
+     "Open-access copy not downloadable",
+     1
     ]
    ],
-   "assessed": 100,
-   "ft_excluded": 16,
+   "assessed": 183,
+   "ft_excluded": 86,
    "ftx": [
     [
      "Setting not eligible",
-     7
+     41
     ],
     [
      "No observed behaviour",
-     6
-    ],
-    [
-     "Perceptual outcome",
-     1
+     22
     ],
     [
      "No acoustic exposure",
-     1
+     16
     ],
     [
      "Not empirical",
+     6
+    ],
+    [
+     "Not a journal article",
      1
     ]
    ],
-   "sens": 3,
-   "included": 81
+   "sens": 6,
+   "included": 91
   },
   "ct": {
    "identified": 2073,
@@ -868,35 +884,39 @@
     ]
    ],
    "sought": 79,
-   "not_retrieved": 25,
+   "not_retrieved": 5,
    "nr": [
     [
-     "No institution access",
-     22
+     "Paywalled (not accessible)",
+     4
     ],
     [
      "Pay-per-view only",
-     3
+     1
     ]
    ],
-   "assessed": 54,
-   "ft_excluded": 38,
+   "assessed": 74,
+   "ft_excluded": 54,
    "ftx": [
     [
      "No acoustic variable",
-     20
+     28
     ],
     [
      "No observed behaviour",
-     17
+     23
+    ],
+    [
+     "Setting not eligible",
+     2
     ],
     [
      "Not in English",
      1
     ]
    ],
-   "sens": 1,
-   "included": 15
+   "sens": 2,
+   "included": 18
   },
   "supp": {
    "identified": 352,
@@ -934,21 +954,27 @@
     ]
    ],
    "sought": 15,
-   "prescreen": 2,
-   "not_retrieved": 8,
-   "assessed": 5,
-   "ft_excluded": 3,
+   "not_retrieved": 0,
+   "nr": [],
+   "assessed": 13,
+   "ft_excluded": 8,
    "ftx": [
     [
-     "Not in English",
-     2
+     "No behavioural outcome",
+     3
     ],
     [
-     "No behavioural outcome",
-     1
+     "Not in English",
+     3
+    ],
+    [
+     "Not a journal article",
+     2
     ]
    ],
-   "included": 2
+   "sens": 1,
+   "included": 4,
+   "prescreen": 2
   }
  }
 }

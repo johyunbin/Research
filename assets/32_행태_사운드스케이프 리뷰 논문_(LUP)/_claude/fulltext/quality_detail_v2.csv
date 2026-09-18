@@ -19,6 +19,16 @@
 71,4.3 measurements appropriate,4.3,Y,"2.2/2.4: LAeq,24h 실측·계산, 0-10 소음성가심 척도 등 기존 검증 문항 사용"
 71,4.4 risk of nonresponse bias low,4.4,N,"2.3 Participants: 응답률 59%, 무응답자 대비 분석 없어 편의 배제 불가"
 71,4.5 statistical analysis appropriate to answer research question,4.5,Y,3.2: MANOVA 가정검정(Box's M·Bartlett) 후 ANOVA·효과크기 제시
+80,3.1 participants representative of the target population,3.1,Y,"19개 도시 옥외 공공공간에서 통행인보다 이용자 위주로 면접 대상을 무작위 선정해(§II) 총 10,031명(Table I)을 조사해 공간 이용자 모집단에 부합한다. 다만 거절률·표본 인구특성 분포는 보고되지 않았고 상하이 3개소(17–19)는 62–79명으로 작다."
+80,3.2 measurements appropriate regarding outcome and exposure,3.2,Y,"음 수준 평가는 영어 원문을 번역한 −2~2 5점 척도이고, 행태는 조사원이 면접 중 이어폰·읽기/쓰기·보기·이동 활동(에너지 소비 5범주: 앉기·서기·걷기·아이와 놀기·운동)으로 관찰 기록했다(§II). 'watching'의 조작적 정의와 관찰자 간 신뢰도가 보고되지 않은 점은 약점이다."
+80,3.3 complete outcome data,3.3,CT,"부지별 면접 수(Table I)만 있고 행태별 분석의 유효 n·결측이 보고되지 않았으며, 이어폰 분석은 착용자 10명 초과 부지로 제한됐다(§V, Table VII). 완전성을 판단할 수 없다."
+80,3.4 confounders accounted for in design and analysis,3.4,N,"행태 집단 간 연령·성별·직업·교육·거주 차이를 t 검정·상관으로 확인해 해석에 반영했으나(Table VIII, X, XI) 다변량 보정은 없고, 면접마다 측정한 SPL(§II)을 분석에 넣지 않아 부지 내 위치·시간별 음압 차이가 교란으로 남는다."
+80,3.5 exposure/intervention administered as intended,3.5,Y,행태는 자연 발생 노출로 면접 시점에 조사원이 기록했고 음 수준 평가·SPL 측정도 같은 면접 중 또는 직후에 이뤄져(§II) 노출 기록이 계획대로 결과 평가와 같은 시점에 수행됐다.
+104,4.1 sampling strategy relevant to address research question,4.1,Y,"도시 중심·주거지·관광지·철도역 4개 입지 유형에 걸친 6개국 19개 옥외공간을 조사해(§II.A, Table I) 사이트별·유형별 예측모형 구축이라는 연구질문에 부합한다. 다만 사이트 안 응답자 모집 방식은 본문에 없고 선행문헌(참고문헌 3·8·28)에 위임했다."
+104,4.2 sample representative of the target population,4.2,CT,"응답자 선정 절차와 이용자 모집단과의 비교가 보고되지 않았고, 중국 3개 사이트는 62–79명으로 작다(Table I). 대표성을 판단할 수 없다."
+104,4.3 measurements appropriate,4.3,Y,"각 면접 직전·직후 다중센서 측정국으로 1분 SPL(dBA)·기온·풍속·습도·조도를 측정했고(§II.A), 음량·쾌적성 평가 척도와 행태 항목 범주를 정의했다(Table II). 행태 항목은 이분·범주형 단순 문항이다."
+104,4.4 risk of nonresponse bias low,4.4,CT,응답률·거절 수가 보고되지 않았다.
+104,4.5 statistical analysis appropriate to answer research question,4.5,Y,"요인 선별에 척도 수준별로 Pearson/Spearman 상관·χ²·t검정을 쓰고(§II.B, Table III), ANN 을 학습/검정 상관계수·RMSE 로 평가하며 한 사이트는 20% 외부 평가셋으로 대응표본 t검정, OLR 과 비교했다(§III.B, §III.E). 다만 수많은 비교에 다중비교 보정이 없고 명목변수 B4(이동상태)를 상관으로 분석했다."
 121,3.1 participants representative of the target population,3.1,Y,2.3 Dropouts: 최종 방문자 표본이 성별·연령·학력에서 현장조사 표본과 일치함을 확인
 121,3.2 measurements appropriate regarding outcome and exposure,3.2,N,"4.7 Discussion: 개인 소음노출 확보 불가 명시, 성가심도 4점 척도로 축소"
 121,3.3 complete outcome data,3.3,N,"Table 1: 방문자 1600->900, 1620->971 등 40% 이상 탈락, 탈락자 체계적 차이 확인"
@@ -29,6 +39,11 @@
 123,4.3 measurements appropriate,4.3,N,"2.1: 선호를 3점 척도로 측정, 일부 사이트는 미청취 음원까지 평가해 측정 비일관"
 123,4.4 risk of nonresponse bias low,4.4,CT,2.1: 접촉·거절 건수 및 응답률이 논문 전체에 보고되지 않음
 123,4.5 statistical analysis appropriate to answer research question,4.5,N,"3장-6장: 사이트x음원x요인 수백 회 상관·t검정을 보정 없이 반복, 다변량 모형 부재"
+137,1.1 qualitative approach appropriate to answer research question,1.1,Y,"§Method([page 85], 인쇄 p.76)에서 현상학을 '특정한 lived experience 와 그 의미를 이해하는 질적 접근'(Van Manen 1990)으로 규정하고 선택 이유를 밝히며, 야간 하이킹의 경험·의미와 동기·성과를 파악한다는 연구목적(§Introduction [page 82], p.73)과 부합한다."
+137,1.2 qualitative data collection methods adequate,1.2,Y,"§Hiker Component·§Park Staff Component([page 85]-[page 86], pp.76-77)에서 3개 지역 3유형 야간 하이킹, 18세 이상 참가자 전원 초대, 공통 반구조화 스크립트와 funnel 구조(Seidman 1998), 하이킹 3-6일 후 현장 밖 면담, 자료 포화 기준, 레인저 4명 보충 면담을 구체적으로 기술한다. 다만 면담이 평균 17분(9-39분)으로 통상의 현상학 면담보다 짧고 참가자 선정이 비체계적이라는 한계를 저자도 인정한다(§Analysis Implications [page 95], p.86)."
+137,1.3 findings adequately derived from the data,1.3,Y,"§Data Analysis([page 86]-[page 87], pp.77-78)에서 축어 전사 후 open·axial 코딩으로 범주를 구성하고 첫 4개(10% 이상) 면담을 재코딩해 후반 코드의 반영 여부를 확인했으며, §Results 의 5개 주제마다 복수의 원문 인용을 제시한다([page 87]-[page 92], pp.78-83)."
+137,1.4 interpretation of results sufficiently substantiated by data,1.4,Y,"각 주제 해석이 하이커 인용과 레인저 인용의 대조로 뒷받침되고(사운드스케이프 주제의 레인저 인용 [page 89], p.80), solitude 주제는 직접 질문으로 유도해 편향이 내재할 수 있음을 저자가 명시한다(§Discussion [page 93], p.84)."
+137,"1.5 coherence between data sources, collection, analysis and interpretation",1.5,Y,"하이커·레인저 두 자료원, 반구조화 면담, 주제분석, 동기-성과 프레임 해석이 일관되게 연결되고 타당성 절차(삼각검증·이상사례 점검·전문가와 정보제공자 확인)를 명시하며(§Data Analysis [page 87], p.78), 레인저와 참가자의 solitude 인식 불일치를 은폐하지 않고 별도로 설명한다(§Solitude at Night [page 91], p.82)."
 271,5.1 adequate rationale for using a mixed methods design,5.1,Y,Research Methodology: 학제간 연구질문 특성으로 혼합설계 채택을 명시적으로 정당화
 271,5.2 components effectively integrated to answer research question,5.2,N,"Findings: 물리·소리·행동 매핑 결과를 각각 분리 제시, 소음자료와 행동자료 연계 없음"
 271,5.3 outputs of integration adequately interpreted,5.3,N,Discussion: 소음이 원인으로 보인다는 서술적 해석만 있고 통합 산출물 부재
@@ -94,6 +109,11 @@
 494,4.3,4.3,Y,2.2/2.3에 3개 차원 Cronbach 0.79/0.70/0.81과 ISO 1996-2 준거 1.5m 10분 측정 및 양이 녹음이 기술됨
 494,4.4,4.4,CT,2.2 Surveys에 유효 설문 182부만 제시되고 접촉 대비 거절률이나 무응답 편의 분석이 없음
 494,4.5,4.5,Y,2.4 통계분석에서 Mann-Whitney·계층적 군집분석·상관과 다항 로지스틱 회귀로 만족도 71.4%를 설명함
+499,4.1 sampling strategy relevant to address research question,4.1,Y,"14개 식재공간 지점마다 연령 3군×성별 할당(각 5명)으로 통행 이용객을 편의표집해 면접했고(§2.2), 지점별·계층별 선호를 기술하려는 목적에 부합한다."
+499,4.2 sample representative of the target population,4.2,N,편의표집에 연령·성별 균등 할당을 적용해(§2.2) 실제 이용객 구성을 반영하지 않으며 단일 공원 표본이다.
+499,4.3 measurements appropriate,4.3,Y,"AWA 6228-3 분석기로 LAeq·주파수를 3시간 간격 3회 반복 측정했고(§2.2), 선호는 5점 척도, 사운드워크 명료도는 선행연구(Jeon and Hong, 2015)의 3점 척도를 따랐다. 측정 지속시간·교정과 방문빈도 응답 범주는 보고되지 않았다."
+499,4.4 risk of nonresponse bias low,4.4,CT,면접 거절·응답률이 보고되지 않았다.
+499,4.5 statistical analysis appropriate to answer research question,4.5,CT,"Spearman 상관(Table 3)과 ANOVA(F = 17.092, §3.1)를 썼으나 분석 n·자유도가 보고되지 않았고, 1260명 전체로 계산했다면 Table 3 의 유의 표기(예: 0.110 비유의)와 맞지 않는다. LAeq–선호 관계는 Fig. 6 도시만 있고 검정이 없다."
 520,1.1,1.1,Y,Methods에서 활동별 청각환경 기술 방식 탐색에 자유서술 기반 내용분석 접근이 적합함
 520,1.2,1.2,Y,3.1 Data collection에 4개 개방형 문항·92명 서면 응답·2개 구역 4회 세션·네덜란드어 원어민 한정이 기술됨
 520,1.3,1.3,Y,4. Results에서 의미 3수준과 구문 1수준 코딩틀 적용 결과를 도표와 실제 응답 인용으로 제시함
@@ -114,6 +134,11 @@
 560,4.3 measurements appropriate,4.3,Y,"2.2: 문헌 근거 만족도 12문항·소음원 8문항 5점 척도, 음압은 ISO 1996-2 준수 양이 녹음 병행"
 560,4.4 risk of nonresponse bias low,4.4,N,2.2: 응답률 53%로 보고되나 거절자를 다른 이용자로 대체할 뿐 무응답 편의 분석 없음
 560,4.5 statistical analysis appropriate to answer research question,4.5,Y,"2.3: 정규성 기각 확인 후 Mann-Whitney·Kruskal-Wallis, Kendall tau-b, 순서형 로지스틱 회귀, 검정력 0.8 이상 확보"
+562,4.1 sampling strategy relevant to address research question,4.1,Y,§3.1: MTurk 에서 2017 미국 센서스 기준(연령·소득·학력·인종·고용)으로 표본을 맞춰 모집해 미국 거주자의 여가 보행 경로 선호라는 질문에 맞는 표집 전략.
+562,4.2 sample representative of the target population,4.2,Y,"§3.1·Table 1: 연령·소득·인종이 센서스와 가깝다고 보고(남성 56.1%로 다소 과대, 여가 보행자 87.8%)하고 MTurk 자기선택 한계를 저자가 논의함."
+562,4.3 measurements appropriate,4.3,N,Table 2·§5.3: 소음 수준을 정의 없는 low/medium/high 문자 기술로만 제시(음향 자극·측정 없음)했고 결과는 실제 행동이 아닌 가상 경로 선택(진술 선호)이라 음환경·행태 측정으로서 타당성이 약함.
+562,4.4 risk of nonresponse bias low,4.4,CT,§3.1: 완료 536부 중 불성실 응답 35부 제외만 보고하고 MTurk 노출 대비 참여율·무응답 특성은 보고하지 않음.
+562,4.5 statistical analysis appropriate to answer research question,4.5,Y,"§3.4: 개인 수준 계층베이즈 추정(40,000 draws), 95% CI 와 t 검정으로 수준·속성 간 차이를 검정하고 다중회귀로 개인 특성 효과를 분석함."
 566,5.1 adequate rationale for using a mixed methods design,5.1,Y,3. Methods: 사운드스케이프 연구의 혼합접근 관행과 QUPE 3축 포착 필요성을 근거로 7개 방법 통합 설계 명시
 566,5.2 components effectively integrated to answer research question,5.2,Y,"Table 1: QUPE 주제별 primary/secondary 방법 배정, Q1→BMT·EO→IM→IR 순차 정보 흐름 기술"
 566,5.3 outputs of integration adequately interpreted,5.3,Y,4.2: 주제별로 설문 통계·자유응답·인터뷰 인용·행동관찰 결과를 교차 대조해 통합 해석
@@ -149,6 +174,16 @@
 694,4.3 measurements appropriate,4.3,CT,"2.3: 사운드스케이프는 ISO/TS 12913-2, 소음민감도는 검증된 축약 Weinstein 척도이나 핵심 COVID 태도 4문항은 저자 임의 작성"
 694,4.4 risk of nonresponse bias low,4.4,N,"2.3: 접근한 사람 4명 중 1명만 참여(약 25%), 미참여자 특성 비교 없음, 헤드폰 착용자 사전 제외"
 694,4.5 statistical analysis appropriate to answer research question,4.5,Y,"3.1/3.2: 단조성 확인 후 Spearman, 기대빈도 점검한 카이제곱, OR·95% CI 로지스틱 회귀 보고"
+709,3.1 participants representative of the target population,3.1,Y,"음향·방문객 수 분석은 탐방로 전체 방문객을 대상으로 한 연속 측정이고, 설문은 주말·주중·시간대·처치/대조 기간을 층화해 출구에서 절편 표집하고 집단 내 가장 최근 생일자를 선택해 자기선택 편향을 줄였다(§2.3 [page 5]). 다만 응답률 55%이고 설문은 마지막 2주에만 시행됐으며(§4 한계 [page 11]) 보행속도 측정 대상자 선정 방법은 서술되지 않았다(§2.3 [page 7])."
+709,3.2 measurements appropriate regarding outcome and exposure,3.2,Y,"L50는 교정 정확도가 검증된 소비자급 녹음기(Mennitt & Fristrup 2012)로 13개 ARU에서 21,038시간 연속 측정해 NPS 도구로 변환했고(§2.1 [page 4]), 방문객 수는 주 1회 1시간 관찰로 보정계수를 산출한 계수기, 보행속도는 9개 구간(23.6–59.1 m) 표지 간 시간 측정이다(§2.1 [page 4–5], §2.3 [page 7]). 안내판이 유도한 정숙 행동 자체(음성 크기·전자기기 사용)는 직접 측정하지 않았다."
+709,3.3 complete outcome data,3.3,Y,"음향 자료는 하천 유량 차이로 1주차, 폭우로 2016년 4월 9일만 사유와 함께 제외했고(§2.1 [page 4]) 보행속도는 극단값 1건만 제외했다(§3.3 [page 8]). 설문 하위분석은 방법(쾌적성 n = 434, 자연음 청취 n = 535)과 결과(n = 453, Table 2 합계 453)의 n이 일치하지 않는 약점이 있다(§2.3 [page 6–7], §3.3 [page 8])."
+709,3.4 confounders accounted for in design and analysis,3.4,Y,"주 단위 교대 블록으로 계절 추세를 분산했고 하천 유량 차이(AOV F9,60 = 5.575)로 1주차를 제외했으며, GAM에 방문객 수(log10)와 시간대 평활항을 함께 넣어 처치 효과를 추정했다(§2.1 [page 4–5], §3.1 [page 8]). 보행속도 비교에서는 조건 간 집단 크기가 같음을 확인했다(§3.3 [page 8]). 다만 일평균 L50 Wilcoxon 비교는 방문객 수를 보정하지 않았고 요일·기상은 모형에 없다."
+709,3.5 exposure/intervention administered as intended,3.5,Y,"19개 안내판을 10주간 주 단위로 설치·미설치 교대하고 미설치 주에는 기존 정숙 안내판을 가렸으며(§2.1 [page 4], Figure 1) 일정 이탈·훼손 보고는 없다. 방문객의 안내판 인지 여부는 확인하지 않았고, 저자는 안내판이 설문 응답을 점화했을 가능성을 한계로 적었다(§4 [page 11])."
+713,4.1 sampling strategy relevant to address research question,4.1,Y,"§2.1·§3.1: 공원 5개 시설 위치에 방문객을 30명씩 배분해 위치 간 음환경·지각 비교라는 질문에 맞춘 표집(단, 접근·선정 방법은 기술하지 않음)."
+713,4.2 sample representative of the target population,4.2,N,§2.1·§3.1: 맑은 평일 하루에만 조사했고 남성 28.7%·매일 방문 49.3%로 치우쳤으며 방문객 모집단과의 비교가 없음.
+713,4.3 measurements appropriate,4.3,Y,"§2.1.1–2.1.2: B&K 2270 분석기 10분 측정과 ISO 532-1 라우드니스 산출, 방문빈도·체류시간 자기보고와 5점 의미분별 척도를 사용(음향은 위치당 1회 측정)."
+713,4.4 risk of nonresponse bias low,4.4,CT,§3.1: 위치별 '유효' 설문 30부만 보고하고 거절·무효 응답 수와 무응답 특성은 보고하지 않음.
+713,4.5 statistical analysis appropriate to answer research question,4.5,N,"§2.2·Table 4·Table 7: 위치당 1개 음향값을 응답자 150명에 붙여 독립 관측처럼 상관 분석하고 단계적 회귀를 썼으며, Table 4 계수 1.83·Table 7 SEB 0.60(CI 와 불일치) 등 보고 오류가 있음."
 724,5.1 adequate rationale for using a mixed methods design,5.1,CT,4. Methodology: 혼합방법·리듬분석 사용을 밝히나 정성·정량 통합이 필요한 이유를 명시하지 않음
 724,5.2 components effectively integrated to answer research question,5.2,Y,Table 1·Fig 3-7: 양이 녹음 스펙트로그램의 박자·소리표지를 파란자 동작과 지휘 구령에 동기화해 결합
 724,5.3 outputs of integration adequately interpreted,5.3,CT,5.3: 면접 결과를 코드·빈도 없이 서술해 통합 산출물의 해석 근거가 제한적
@@ -234,11 +269,21 @@
 883,4.3 측정적절성,4.3,CT,"새소리 인지·쾌적성을 단일문항 회상으로 재고 이분화, 저자도 조야한 지표로 인정(4.4절)"
 883,4.4 무응답편의,4.4,CT,패널 초대 대비 응답률을 보고하지 않고 소득 무응답은 결측 처리만 함(2.3.5절)
 883,4.5 통계분석적절성,4.5,Y,"AIC 다중모형 선택·VIF 점검·사전 검정력 분석 수행(2.4절), 단 Table 1 신뢰구간 표기 오류"
+888,1.1 qualitative approach appropriate to answer research question,1.1,Y,"§1 말미 연구목적(공공공간 이용자 관점의 사운드스케이프 차원과 요소 간 관계 규명)이 탐색적이며, §2.1 은 이용자 자신의 언어에서 이론을 도출하는 근거이론 접근을 택해 질적 접근이 적합."
+888,1.2 qualitative data collection methods adequate,1.2,Y,§2.1–2.2: 4개 현장에서 이용자 23명을 약 30분 비구조화·개방형 심층면접(Table 2 면접 구조)하고 자료 포화 시점까지 모집했으며 면접 중 음원 기록·SPL 측정을 병행. 녹취·전사 세부는 간략.
+888,1.3 findings adequately derived from the data,1.3,Y,§2.3·Table 3: NVivo 12 로 open coding(176→105 항목)·axial coding(55 범주)·selective coding(4개 aspect) 절차를 단계별로 제시해 결과가 자료에서 도출됨.
+888,1.4 interpretation of results sufficiently substantiated by data,1.4,Y,§3 각 결과가 코드 번호(a3·a77 등)와 짧은 인용으로 뒷받침됨(§3.2.2·§3.3.1·§3.4.2). 다만 인용이 짧고 활동–선호 연결(§3.4.2)은 소수 코드에 기대어 있음.
+888,"1.5 coherence between data sources, collection, analysis and interpretation",1.5,Y,"근거이론 설계–심층면접–단계적 코딩–지각 구조 모형(Figure 1)·해석(§4)이 일관됨. 현장·문화 차이는 분석하지 않았다고 명시(§5 [page 13])하고, 윤리 진술에 'animal study' 오기가 있음([page 13])."
 901,4.1 표집전략,4.1,Y,70x70m 격자 35개 지점에서 개장시간 2시간마다 2분 무작위 녹음을 기술(2.2.1절)
 901,4.2 표본대표성,4.2,CT,6-7월 맑은 날 2일·단일 공원 560분만 수집(2.2.1절)해 시간적 대표성 불확실
 901,4.3 측정적절성,4.3,Y,Sony PCM-D100 규격과 ACI·ADI·AR·NDSI 파라미터를 공개하고 SOPARC 관찰 병행(Table 1-3)
 901,4.4 무응답편의,4.4,Y,센서·파노라마 관찰 기반으로 무응답이 비해당이며 제외 표본 보고 없음(2.2.2절)
 901,4.5 통계분석적절성,4.5,N,Table 4-5에서 t값과 p값이 불일치(t=4.92에 p=0.135)하고 행 중복·다중상관 미보정
+917,3.1 participants representative of the target population,3.1,N,"학년 1-6과 성별을 균형 배치했다고 밝히지만(§2.5 [page 5], Table 2) 모집 경로·표집틀·지역·학교가 전혀 보고되지 않은 40명(분석 38명) 편의표본이고, 저자도 '표본이 이 문제를 파고들기에 충분히 크지 않다'고 한계를 인정해(§3.3 [page 8]) 중국 학령기 아동 모집단을 대표한다고 보기 어렵다."
+917,3.2 measurements appropriate regarding outcome and exposure,3.2,Y,"노출은 13개 음원을 8개 사운드스케이프로 합성해 전부 55 dBA(±1)로 정규화하고 아동 귀 위치에서 LAeq,4min 을 실측했으며 배경소음(21.0-23.2 dBA)과 심리음향 지표(FS·S·R·N, Table 6 [page 9])까지 보고해 적절하다(§2.1-2.2 [page 2-4]). 결과는 Interaction/Nonparticipation/Avoiding 을 조작적으로 정의하고 시연 단계로 'Pending' 응답을 재확인하는 절차를 갖췄으나(§2.3·Fig. 3-4 [page 4-5]) 검증된 척도가 아니고 단일 문항·15초 노출 기반이며 신뢰도·평가자간 일치도가 보고되지 않은 점이 약점이다."
+917,3.3 complete outcome data,3.3,Y,"40명 중 개인 사정으로 중도 종료한 2명을 제외하고 38명을 분석했다고 명시했고(§2.5 [page 5]), Table 3 [page 6]의 조건별 관측수는 65-66(총 592)으로 설계상 최대치(38명 x 2 시각환경 = 76)의 약 87 %에 해당해 결측이 크지 않다. 다만 조건별 미완료 분포와 결측 처리 방법은 원문에 보고되지 않았고(각 아동은 최소 9개 자극만 필수, §2.4 [page 4-5]) 위 비율은 보고된 수치에서 산술적으로 도출한 값이다."
+917,3.4 confounders accounted for in design and analysis,3.4,Y,"각 아동이 모든 조건을 겪는 피험자내 설계와 무작위 제시 순서, 무음 통제 조건, 사람이 등장하지 않는 영상(사회적 실체의 간섭 차단), 전 자극 동일 음압(55 dBA)으로 주요 교란을 설계 단계에서 통제했고(§2.1.3·§2.4 [page 3-5]), 분석에서도 성·연령·학년·성격과 사운드스케이프의 상호작용을 다항 로지스틱으로 검정해 유의하지 않음을 확인했다(§3.3 [page 8], X2 = 24.994, p = 0.125)."
+917,3.5 exposure/intervention administered as intended,3.5,Y,"녹음실에서 투사 화면·스피커 배치(화면 2.5 m, 스피커 1.7 m·머리 높이)를 고정하고 소음계로 아동 귀 위치의 자극 음압을 확인해 55 dBA(±1)로 재생했으며, 자극과 영상을 절차 완료 시까지 루프 재생하고 과제 간 2분 휴식을 두는 등 노출이 의도대로 전달되었다(§2.2·§2.4 [page 3-5]). 다만 15초 후 질문을 시작해 노출 시간이 아동마다 달라질 수 있다."
 930,4.1 표집전략,4.1,CT,군집표집과 코크란 공식 96명x3집단을 기술(3.1절)했으나 결과 백분율은 n=102를 시사
 930,4.2 표본대표성,4.2,N,응답자 76.5%가 남성이고 77%가 26-45세 자영업 중심(4.1절)이라 아동·노인 누락
 930,4.3 측정적절성,4.3,Y,내용타당도 확인과 Cronbach 알파 0.761을 보고하고 5점 리커트를 사용(3.1절)
@@ -354,6 +399,11 @@
 1149,5.3 불일치 해석,5.3,N,"스트레스 회복 무의미 결과(L435, L480-484)와 불안 감소 결론(L17-18)의 충돌을 다루지 않음"
 1149,5.4 각 방법 품질기준 준수,5.4,N,"표본수 120/90/76과 인터뷰 24 대 42가 모순이고 상관·회귀 계수와 p값을 미보고(L264, L441-485)"
 1149,5.5 품질기준 준수 보고,5.5,N,"단독 코더로 코더간 신뢰도가 없고 장비·척도 출처가 방법부와 결과부에서 불일치(L197-201, L394-395)"
+1172,4.1 sampling strategy relevant to address research question,4.1,Y,건축·도시농촌계획·문화유산보존 분야 전문가를 초청하고 대운하 국가문화공원 방문 경험을 유효성 선별 기준으로 삼아(Questionnaire and interview design; Experimental process) 제목의 '전문가 관점' 연구질문에 부합한다. 다만 초청 경로·표집틀은 기술되지 않았다.
+1172,4.2 sample representative of the target population,4.2,N,"172명 중 25–30세 64.5%, 대학 소속 89.0%, 건축 전공 80.2%, 석사 86.0%로 치우쳤고(Table 4), 저자도 전문가 표본의 인구학적 특성 무시를 한계로 밝혔다(Conclusions 마지막 문단). 함의 대상인 공원 방문객 집단과도 다르다."
+1172,4.3 measurements appropriate,4.3,Y,"장소애착·보호 행동 문항은 선행연구 출처가 제시되고(Table 3) Cronbach α 0.799–0.935, AVE >0.5, CR >0.7(Table 5–6)로 신뢰도·수렴타당도가 보고됐다. 다만 행동 문항이 대부분 'I will …' 의도형이고 16개 음원을 모두 55 dB(A)로 정규화해 실제 노출 강도가 반영되지 않았다(Audio-visual materials; Discussion)."
+1172,4.4 risk of nonresponse bias low,4.4,Y,배포 180부 중 172부가 유효해 유효율 95.56%로(Experimental process) 무응답·무효 비율이 낮다.
+1172,4.5 statistical analysis appropriate to answer research question,4.5,Y,"AMOS 최대우도 SEM과 적합도 지표(χ2/df 1.833, GFI 0.904, RMSEA 0.070, CFI 0.904; Table 7), bias-corrected 95% CI 매개검정(Table 9)은 지각–장소애착–행동 경로 질문에 적합하다. 다만 NFI 0.812를 완화 기준(>0.8)으로 수용했고, 인공음→유산보존 행동이 Table 9에서는 부분매개인데 결론에서는 완전매개로 기술됐다."
 1174,4.1 표집전략 적절,4.1,Y,5개 구 평일 2일 트립 279만 건 전수에 이상치 필터 규칙 명시 후 500m 육각격자 집계(L206-210)
 1174,4.2 표본 대표성,4.2,CT,평일 2일과 중심 5개 구에 한정되고 개인 속성 부재로 시간·이용자 대표성 판단 불가(L201-206)
 1174,4.3 측정 적절,4.3,CT,"청각 지표를 SVI 기반 CatBoost로 예측했고 현장 실측 대비 상관이 r=0.575에 그침(L226, L507)"
@@ -369,6 +419,16 @@
 1178,3.3 결과자료 완전,3.3,Y,"조건별 표본수(경로 335, 체류 115)를 전부 보고하고 2초 간격 코딩 기준을 명시(L297-345)"
 1178,3.4 교란 고려,3.4,N,취기 유무를 서로 다른 날에 배정해 날짜와 교락되고 통계적 공변량 보정이 없음(L160-161)
 1178,3.5 노출 의도대로 시행,3.5,Y,"무취 조건 30명 이상 무향 확인, 재생 전후 SPL 실측, 스피커 은폐와 돌발음 모니터링(L193-194, L238-242)"
+1190,1.1 qualitative approach appropriate to answer research question,1.1,Y,"§1 연구질문(가로망 형태 요인과 도시 요소가 경로선택에 미치는 영향, 보행자 유형 도출)이 개인의 의사결정 과정을 탐색하는 것이어서 보행과제 후 심층면접이라는 질적 접근이 적합(§3 서두)."
+1190,1.2 qualitative data collection methods adequate,1.2,Y,"반구조화 면접 스크립트 공개(Appendix 1), 보행 후 48시간 안에 본인 GPS 궤적을 보며 결정지점을 질문, 녹음·전사, 이론적 포화 원칙으로 모집, 3명 예비연구로 절차 보정(§3.1–3.3)."
+1190,1.3 findings adequately derived from the data,1.3,Y,"데이터 기반 개방코딩·주제분석·Weber 이념형 유형화 절차를 기술하고(§3.4) 주제별 언급 참가자 수(§4.1)와 유형별 N·GPS 궤적(Table 2, Fig. 5–9)을 제시함. 코더 수·코딩 신뢰도는 보고하지 않음."
+1190,1.4 interpretation of results sufficiently substantiated by data,1.4,Y,"각 주제와 유형마다 참가자 인용(IDI 번호·성별)과 경로 지도로 해석을 뒷받침(§4.1–4.2, Fig. 5–9). 단 소음 관련 해석(maintainer형의 소음 회피)은 소음을 직접 언급한 인용 2건(IDI9·IDI12)에 의존함."
+1190,"1.5 coherence between data sources, collection, analysis and interpretation",1.5,Y,"연구질문 → 보행과제·GPS·면접 → 코딩·주제 → 유형화(Table 2, Fig. 10) → 논의·결론(§5–6)이 일관되게 이어짐."
+1191,4.1 sampling strategy relevant to address research question,4.1,CT,"§2.1 [page 3]: 음원 유형·인간활동 수준으로 3개 구역을 나누고 사계절 주·야간에 녹음해 구역 간 비교에 맞는 표본 틀은 잡았으나, 설문·추적 대상 관광객의 모집·선정 방법과 표본 수를 보고하지 않아 판단할 수 없음."
+1191,4.2 sample representative of the target population,4.2,CT,전문 어디에도 응답자 수·인구학적 특성·관광객 모집단과의 비교가 없어 대표성을 판단할 수 없음.
+1191,4.3 measurements appropriate,4.3,N,"§2.1 [page 3]: 8채널 마이크 어레이(44.1 kHz, 표본당 30분 이상) 녹음은 적절하나, 쾌적·고요·자연성·방해 4차원을 모두 '매우 불만족–매우 만족' 5점 선택지로 측정했고 결과에서는 방해를 'Infection'으로 표기(Table 2·3 [page 8, 10])했으며, 체류시간·사진 빈도는 조작적 정의·측정 절차가 기술되지 않음."
+1191,4.4 risk of nonresponse bias low,4.4,CT,응답률·거절·결측·추적 탈락에 대한 보고가 전혀 없음.
+1191,4.5 statistical analysis appropriate to answer research question,4.5,N,"§3.2–3.3 [page 7–10]: 표본 수 미보고 상태에서 딥러닝 예측 성능(R², RMSE, 정확도)만 제시하고, Table 3 '통계 검정 결과'는 '10회 반복' 평균±SD 로 구역 간 추론통계가 없으며, 행태–음환경 관계는 §4 [page 10–11] 서술뿐 통계 분석이 없음."
 1202,4.1 표집전략 적절,4.1,Y,4개 주거단지 기능공간을 3개 시간대 사운드워크로 조사하고 친숙도 통제 위해 주민 배제(L177-198)
 1202,4.2 표본 대표성,4.2,N,"대학생·지인 편의표집에 20~29세 70.6%·60세 이상 0%이고 주민을 배제해 대표성 결여(L193, L938-967)"
 1202,4.3 측정 적절,4.3,Y,"B&K 4101 바이노럴과 2270 소음계, 심리음향 지표, ISO/TS 12913-2 5.2절 준거(L177, L206-208)"
@@ -379,16 +439,16 @@
 1211,4.3 측정 적절,4.3,CT,"행동 코딩은 kappa 0.75~1.0로 견고하나 음환경은 비교정 dB LUFS 중앙값 이분화(L119-121, L131-140)"
 1211,4.4 무응답 편의 낮음,4.4,Y,"결측 약 10%와 횡단 구간 제외를 사유와 함께 명시적으로 보고(L116-117, L127-128)"
 1211,4.5 통계분석 적절,4.5,Y,"chromatic RQA 파라미터 명시, Mann-Whitney에 Holm-Bonferroni 보정, 무작위 기준선 대비(L146-188, L217-220)"
+1218,4.1 sampling strategy relevant to address research question,4.1,Y,"공원 전역 격자 24개와 시야 차폐 보완 3개 등 27개 지점을 평일 2일·주말 2일 개장시간(06:00–21:00) 매시 동시 관측해(§2.1–2.2, Figure 1) 시간대별 이용 변화라는 연구질문에 부합"
+1218,4.2 sample representative of the target population,4.2,Y,전 지점 전수 관측으로 해당 공원의 여름철 이용자를 공간·시간적으로 포괄(§2.1–2.2); 단일 공원·여름 4일이라 일반화 한계는 저자가 명시(§4.4)
+1218,4.3 measurements appropriate,4.3,CT,"SOPARC 표준 프로토콜·훈련된 관찰자 2인 코딩(§2.2.1)이나 관찰자 간 신뢰도 미보고, 음환경은 녹음 스펙트로그램으로 음원 유형만 분류하고 음압레벨·교정·음원 변수 정량화 방식(빈도·지속시간·비율)을 밝히지 않음(§2.2.2); 조도는 사진에서 추정(§4.4)"
+1218,4.4 risk of nonresponse bias low,4.4,Y,"응답 기반이 아닌 파노라마 촬영 관찰이라 무응답 편의가 비해당이며, 시야 차폐는 보완 지점 3개로 대응(§2.1)"
+1218,4.5 statistical analysis appropriate to answer research question,4.5,CT,"ANOVA·Spearman(Benjamini–Hochberg FDR 보정)·다중회귀(VIF<5, Moran's I, Durbin–Watson)를 명시했으나(§2.3) 모형별 관측 수·변수 선택 절차가 보고되지 않았고, 고정 지점 반복 관측의 종속성을 모형화하지 않았다고 저자가 인정(§4.4)해 판단 불가"
 1221,4.1 표집전략 적절,4.1,Y,"5개 구역에서 10분 간격 체계적 인터셉트로 2023년 9~11월 2개 시간대 조사(L164-166, L186-187)"
 1221,4.2 표본 대표성,4.2,N,"18~30세 68.9%·학사 이상 81.3%·관광객 79.7%에 평일만·단일 가로로 한정(L219-224, L272-306)"
 1221,4.3 측정 적절,4.3,N,핵심 척도 Cronbach alpha 0.641~0.665로 저자도 낮다고 기술하고 KMO도 0.645~0.684(L492-515)
 1221,4.4 무응답 편의 낮음,4.4,CT,응답률·거부·결측에 관한 보고가 방법부 전반에 전혀 없음(L164-256)
 1221,4.5 통계분석 적절,4.5,CT,"CATREG·EFA는 적절하나 본문 beta·p값이 Table 4와 불일치하고 Spearman을 R2로 표기(L706-707, L1081-1093)"
-1226,4.1,4.1,Y,"5개 도시 사전정의 공간유형별 쿼터 표집, 훈련된 면접원 가정방문 실시(Methods 2.1)"
-1226,4.2,4.2,Y,"연령·성별 구조는 인구와 부합하나 도시별 학력 분포 편중을 저자가 인정(2.1, 4.5)"
-1226,4.3,4.3,Y,"IPAQ-SF 사용, PM2.5 R2=0.77·Lden R2=0.68 모델, 인지척도 McDonald ω 0.83/0.89(2.2-2.3)"
-1226,4.4,4.4,N,"응답률 소피아 30%~플로브디프 58%로 낮고 무응답자 특성 비교 미실시(2.1, 4.5)"
-1226,4.5,4.5,Y,"GAM으로 비선형 점검 후 로지스틱 회귀, 로버스트 SE, VIF<5, 80/20 검증(2.5)"
 1232,1.1,1.1,Y,연역적 주제분석 기반 전문가 포커스그룹이 인식·정서·행동 탐색이라는 RQ에 부합(2절 서두)
 1232,1.2,1.2,Y,"파일럿 포커스그룹으로 질문지 검증, 반구조화 가이드, 튀르키예·국제 2개 코호트 운영(2.1)"
 1232,1.3,1.3,Y,"4주제 16하위주제 34코드·102개 코딩사례 도출, 하위주제마다 직접 인용 제시(2.2, 3절)"
@@ -414,6 +474,11 @@
 1280,4.3,4.3,Y,"Testo480·AWA5636 교정 측정, GVI/SVI 추출, α=0.812, 관찰 kappa=0.88 보고(2.2)"
 1280,4.4,4.4,CT,"배포 설문 수를 보고하지 않아 무응답률 산출 불가, 무효응답 제외만 기술(2.2.2)"
 1280,4.5,4.5,Y,"VIF 점검 후 다항 로지스틱, MLP 67/33 분할·하이퍼파라미터 조정, 하위집단 회귀(2.3)"
+1305,4.1 sampling strategy relevant to address research question,4.1,Y,18세 이상 그린운동 참여자라는 표적집단에 맞춰 SoSci Survey 링크를 소셜미디어·스포츠연맹·클럽으로 눈덩이 배포했다(Materials and methods p.2). 그린운동 이용자의 녹지 요소 평가라는 연구질문에 부합하는 모집 경로다.
+1305,4.2 sample representative of the target population,4.2,N,"눈덩이 편의표본으로 대학학위 58.6%(Table 2)의 고학력 표본이고, 저자가 20세 미만·60세 초과 과소대표와 높은 자연친화성·활동수준을 한계로 명시했다(Limitations p.7)."
+1305,4.3 measurements appropriate,4.3,CT,"요소 배터리 Cronbach α 0.88·0.88과 NR-6 α 0.82, 사전 문구 검토는 보고됐으나(p.2–3) 자연의 소리는 단일 중요도 문항이고 기상조건별 그린운동 활동 문항의 형식·척도·타당도가 보고되지 않아 판단할 수 없다."
+1305,4.4 risk of nonresponse bias low,4.4,N,완료 772부 중 결측으로 364부(약 47%)를 제외하고 408부만 분석했으며(Data analysis p.3) 제외자와의 비교나 배포 대비 응답률 정보가 없다.
+1305,4.5 statistical analysis appropriate to answer research question,4.5,Y,"기술통계, Spearman·Pearson 상관, Bonferroni 사후검정 ANOVA와 효과크기 보고(p.3)는 기술적 연구질문에 적합하다. 다만 다수 상관에 다중비교 보정이 없고 상관에 η²를 제시한 점은 약점이다."
 1306,4.1,4.1,Y,"100m 간격 24,529개 SVI 지점과 정제된 7,247개 주행궤적으로 가로단위 표집(3.3-3.4)"
 1306,4.2,4.2,N,KEEP 피트니스앱 이용자 자료로 여가·운동 주행 편중을 저자가 명시적으로 인정(3.4)
 1306,4.3,4.3,CT,음환경을 실측 아닌 SVI 기반 ML 추론값으로 대체했고 현지 검증 성능 미보고(3.5.2)
@@ -499,6 +564,26 @@ CT0371,measurements appropriate for outcome and exposure,3.2,Y,"2.3: Trimble R8 
 CT0371,complete outcome data,3.3,N,"Table 2-4 각주: 수목 잎에 의한 위성신호 결측이 있으나 결측률 미보고, 회랑6은 APS 고장 교체로 n=14. 결과 3.2절은 배정시간 내 횡단 성공 미기록을 명시"
 CT0371,confounders accounted for in design and analysis,3.4,N,"3.1·4.3: 전원 동일 순서 통과로 학습·피로 효과가 교란되고, 회랑별 친숙도 5.6-71.4% 편차를 '정도 불명'이라며 분석에서 제외, 공변량 보정 없음"
 CT0371,exposure occurred as intended,3.5,Y,"2.4: 동일 시간대·유사 기후(83.3% 여름 맑음)에서 표준 안내문과 보조자 3인 역할을 고정하고 회랑당 3회 동일 방향 통과, APS 음향 고장 회랑은 즉시 교체"
+CT0171,sampling strategy relevant to address research question,4.1,Y,§2.2·§2.4에서 자연음·인간음 우세(HN)와 인간음·교통음 우세(HT)가 대비되도록 하얼빈의 도시공원·자연공원·보행가로·간선도로 9개 사이트 41개 지점을 의도적으로 선정하고 각 지점에서 이용자를 무작위 면접해 음원 지각(RSI)·OSA·군중밀도를 동시 수집한 설계는 '인간음 기반 지수가 사운드스케이프에 미치는 영향'이라는 연구질문(§1 말미)에 부합한다.
+CT0171,sample representative of the target population,4.2,N,"§2.4의 유효 323부는 연령이 20–60세에만 분포하고(20–30 25.4%, 30–40 36.5%, 40–50 26.3%, 50–60 11.8%) 60세 이상·미성년 이용자가 전혀 없어, 노인·아동 이용이 큰 중국 도시공원 이용자 모집단과 괴리가 크다. 모집단 정의·표본추출 틀·응답률도 제시되지 않았고 단일 도시라는 한계는 저자도 §4.4에서 인정한다."
+CT0171,measurements appropriate,4.3,Y,"SPL은 지점당 10분·15분 간격 측정에 반사면 1 m·지상 1.2–1.5 m 설치로 GB 3096-2008을 따르고(§2.5), 설문은 ISO/TS 12913-2·SSQP 기반 7점 음원 라우드니스와 OSA(-3~3)·4개 형용사쌍을 사용하며(§2.4·Appendix), 군중밀도는 30 m×30 m를 1 m×1 m 그리드로 나눈 드론 사진 계수(§2.3·Fig. 2)로 노출·결과 측정이 적절하다. 다만 군중밀도는 Children's Park 지점에서만 촬영되어(Fig. 3 흐름도) 행태 변수의 적용 범위가 좁다."
+CT0171,risk of nonresponse bias low,4.4,CT,§2.4는 유효 응답 323부와 성·연령 분포만 제시하고 접촉 인원·거절 건수·응답률을 보고하지 않아 무응답 편의의 크기를 판단할 수 없다. 조사 시기를 5월·10월의 18–26 °C 맑은 날로 제한한 것(§2.4)도 이용자 구성 편중 가능성을 남기지만 관련 비교 자료가 없다.
+CT0171,statistical analysis appropriate to answer research question,4.5,N,"Spearman 상관·선형/이차 회귀·Kruskal-Wallis 자체는 질문에 맞으나(§2.6), OSA–RSI 관계의 임계(RSIn 0.8·1.5, RSIt 1.5·2.5)를 그래프 추세로 사후에 정한 뒤 같은 자료를 그 구간으로 나눠 회귀하고 다시 그 분류로 집단 간 검정을 수행해(§3.2–3.3, Fig. 5–10) 순환적이다. 또한 Table 1은 응답자 N(67·56), Fig. 4는 지점 단위로 분석 단위가 혼용되고 지점 내 응답 군집을 보정하지 않았으며, 하위구간 회귀의 F=7.129·5.930처럼 표본이 작다."
+CT0391,participants representative of the target population,3.1,N,"§3.1([page 4]-[page 5])의 표본은 대학 캠퍼스에서 자원한 30명(평균 21세, SD 2)뿐이고 집단당 15명이다. 저자 스스로 §5.3([page 11])에서 '파일럿 연구로 표본이 작고 더 다양하고 대표성 있는 모집단이 필요하다', '고령자 청력·시력 저하로 결과가 달라질 수 있다'고 밝혀 보행자 일반에 대한 대표성이 확보되지 않았다."
+CT0391,measurements appropriate regarding outcome and exposure,3.2,Y,"결과변수는 광전 센서선이 촉발한 라이다로 물러선 순간의 차량 거리·속도를 직접 재어 계산한 TTC 로 연속척도이며(§3.3 [page 6]-[page 7]), 저자는 이산 간격·버튼 응답 방식보다 민감하다고 근거를 들어 설계 이점을 논증한다(§5.1 [page 10]). 노출측도 실제 환경은 귀마개, VR 은 무음 조건 대 공간화 3차원 차량음(엔진·타이어·공력 성분, ITD·ILD·HRTF·도플러 구현)으로 구체화되어 있다(§3.2 [page 5]-[page 6]). 다만 노출 조작이 음원 조작이 아니라 청취 차단이라는 점은 해석상 유의점이다."
+CT0391,complete outcome data,3.3,Y,"설계상 예상 시행수 900건(2 음조건 × 2 환경 × 15명 × 15회)이 모두 기록되었다고 보고되고(§4 [page 7]), 탈락·결측 기술이 없다. Tukey fences(k=3)로 식별된 극단값 4건은 제거가 아니라 윈저화해 분석에 남겼다(§4.1 [page 7]-[page 8])."
+CT0391,confounders accounted for in design and analysis,3.4,N,"환경 순서 균형배치, 속도 의사무작위화, 반복측정을 랜덤효과로 둔 선형혼합모형, 학습효과 회귀 점검 등 설계·분석 통제는 있으나(§3.3 [page 6]-[page 7], §4.2·4.4 [page 8]-[page 9]), 음 조건이 참가자 간 배정인데도 두 집단의 기저 특성(연령·청력·성별 구성) 비교나 공변량 보정이 보고되지 않았고 성별과 접근속도는 분석 요인에서 아예 제외되었다(§4 [page 7]). 저자도 시간 제약으로 동일 참가자가 두 음 조건을 모두 경험하지 못했음을 한계로 든다(§5.3 [page 11])."
+CT0391,exposure/intervention administered as intended,3.5,Y,"실제 환경에서는 무음 집단이 실험 내내 청력보호구를 착용했고 VR 에서는 능동소음제거 헤드폰으로 실험실 소음까지 차단한 채 무음/유음 조건을 제시했으며, 차량은 크루즈 컨트롤로 30·35·40 km/h 정속 주행해 노출이 계획대로 제시되었다(§3.1-3.3 [page 5]-[page 6]). 다만 청력보호구의 실제 차음량이나 잔존 가청성에 대한 검증 수치는 보고되지 않았다."
+CT0142,sampling strategy relevant to address research question,4.1,Y,조사원이 7개 구역·2개 주 산책로를 걸으며 무작위로 1인을 선택하고 구역별 같은 수의 응답을 목표로 했다(§2.3). 방문객의 음 지각과 소음저감 WTP를 추정하려는 질문에 부합한다.
+CT0142,sample representative of the target population,4.2,N,비내국인·18세 미만·헤드폰 착용자·자전거/달리기 등 고강도 활동자를 제외했고(§2.3) 고령자 응답 거부로 25–44세가 절반을 차지했으며(§3.2.1) 방문객 통계가 없어 대표성을 비교할 수 없다(§2.1).
+CT0142,measurements appropriate,4.3,Y,ISO 1996-2에 따라 1.5 m 높이에서 전후 교정한 type II SLM으로 지점당 30분×4회 LAeq·Lmax·Lmin·L90·SEL을 측정했고(§2.2) 음원별 쾌/불쾌·0–5 성가심 문항과 표준 payment card 조건부가치 문항을 썼다(§2.3–2.4). 다만 측정(2015년 8월 후반)과 설문(8–10월) 시점이 달라 개인 응답과 측정값은 연결되지 않는다.
+CT0142,risk of nonresponse bias low,4.4,Y,접촉한 240명 중 191명이 응답해 응답률 79.6%다(§3.2.1). WTP 문항 무응답은 14명(7.3%)이다(§3.3).
+CT0142,statistical analysis appropriate to answer research question,4.5,Y,"WTP 구간자료를 Cameron–Huppert 최대우도모형과 Krinsky–Robb 부트스트랩 95% CI로 추정해(§2.4, Table 7) 연구질문에 적합하다. 다만 protest 응답을 0원으로 평균에 포함했고 희소 셀 교차표에 χ² 검정을 적용했다(Table 6)."
+CT0223,sampling strategy relevant to address research question,4.1,Y,"§3.2 [page 3]: 2018년 5–7월 20일간 모든 요일·08–21시에 걸쳐 탐방로 인근에서 방문객을 무작위 선정(소집단은 남녀 1명씩, 단체는 인솔자와 반대 성별 1명)해 녹지 방문객의 자연관찰 중요도·만족 요인이라는 연구질문에 부합하는 표집."
+CT0223,sample representative of the target population,4.2,CT,"Table 1 [page 3]에 사이트별 표본·평균연령·성별·국적은 제시하나 방문객 모집단과의 비교가 없고, 저자가 표본 크기·대표성 한계와 응답 의향자·자연 호의적 방문객 편향 가능성을 인정(§5 [page 6]); 조사 시기도 여름 3개월 한정."
+CT0223,measurements appropriate,4.3,CT,"중요도·만족도는 5점 단일 문항(Appendix [page 6–7])으로 신뢰도·타당도 검증이 없고, 체류시간은 실제가 아닌 '오늘 머물 계획 시간' 문항(Appendix [page 6])이며, 음환경은 '자연의 소리 듣기' 만족 문항뿐 음향 측정·음원 평가가 없다."
+CT0223,risk of nonresponse bias low,4.4,CT,"§3.2 [page 3]에 접촉·거절 인원이나 응답률이 보고되지 않고, 저자가 '응답 의향이 있던 방문객의 의견'이라는 한계만 적었을 뿐(§5 [page 6]) 무응답 편의 분석은 없다."
+CT0223,statistical analysis appropriate to answer research question,4.5,Y,"5점 순서형 결과에 요인분석 후 순서 로지스틱 회귀와 OR을 적용해(§3.3 [page 3–4], Table 3·5) 연구질문에 적합하다. 다만 4개 사이트를 사이트 효과 없이 통합(§3.3에 사유 제시)하고 비례오즈 가정 검정이 없으며 0.1 유의수준도 사용한 점은 보고상 약점."
 OAS0157,질적 접근 적절성,1.1,Y,"§Methodology/Research Design에서 질적 설계가 lived experience·일상 실천 밀착 파악에 적합하다고 명시, §Research Problem의 연구질문 3개가 모두 의미·경험 해석형이라 부합"
 OAS0157,자료수집 방법 적절성,1.2,Y,"§Data Collection에 영어·요루바·피진 반구조화 심층인터뷰와 비참여관찰 필드노트(음향 활동+신체·사회적 반응) 병행을 기술, §Study Areas 3개 시장·인접 모터파크에서 오전~오후 변화를 겨냥"
 OAS0157,결과 도출 충분성,1.3,CT,"§Data Analysis가 '내용분석'과 악곡 분석 각 한 문장뿐이라 코딩·주제도출·포화·코더 수 미보고, §Findings의 사·속 음악 정리 표는 캡션만 있고 표 본체 부재해 도출 검증 불가"
@@ -509,3 +594,18 @@ OAS0198,구성요소 통합,5.2,N,"§3.1.2 Victor Hugo(실측)·§3.2.2 Sidi Dje
 OAS0198,통합 산출 해석,5.3,N,§3.1.2 '벤치 배치·이용이 음환경에 크게 좌우'와 §4 '벤치·카페 테이블이 분수 소음 중심 동심원 구역'이 이용 관측·계수 자료 없이 dB 측정만으로 단정됨
 OAS0198,정량·정성 불일치 처리,5.4,N,"§3.1.2가 지점1(분수)과 지점4(교통) 음압이 '거의 동일'하다면서도 뚜렷한 공간 경계를 주장하고 음색 차이로만 설명, 정량·정성 불일치 논의는 전문 어디에도 없음"
 OAS0198,각 구성요소 질 기준,5.5,N,"§3.1.1은 측정점 수·소음계 기종·교정·측정시간·지표 정의를 모두 생략하고, §3.2.1은 응답자 수·표집·분석 절차 없이 번역 인용 5개만 제시해 양 전통 기준 미충족"
+OAS0005,participants representative of the target population,3.1,N,"Experiment setup [page 2] 에서 참가자는 대학생 40명(남 18·여 22)뿐이고 모집 방법은 미보고이며, 참조문헌 [11] 참가자와 비슷하다는 서술만 있어 혼잡한 도시 보행자 일반을 대표한다고 보기 어렵다."
+OAS0005,measurements appropriate regarding outcome and exposure,3.2,Y,"고공 카메라(25 fps)·PeTrack 궤적과 Voronoi 밀도·속도 정의(식 1–4 [page 3]), 두 가지 보폭 추출법(Table 2·4)으로 이동 행태를 객관 측정했고 노출은 템포(120 BPM)를 편집해 정의했다 [page 2]; 재생 음압·스피커 배치는 미보고."
+OAS0005,complete outcome data,3.3,Y,"Table 1 의 조건별 실행이 모두 분석되었고(음악 조건 1회는 29명), 1차 방법으로 산출할 수 없던 1.82 ped/m 보폭은 궤적 기반 2차 방법으로 보완했다(Table 3·4 [page 7])."
+OAS0005,confounders accounted for in design and analysis,3.4,N,"같은 리듬 조건의 실행을 연속 블록으로 수행해(Experiment setup [page 2]) 순서·학습·피로 효과를 통제하거나 역균형화하지 않았고, 측정한 리듬 추종 능력(가능 25명·불가 15명)도 분석에 반영하지 않은 채 조건 간 F-test 만 제시했다."
+OAS0005,exposure/intervention administered as intended,3.5,Y,배경음악은 따르라는 지시 없이 재생되었고 음악 때문에 두리번거린 참가자가 없었으며 실험이 순조로웠다고 보고했다 [page 2].
+OAS0011,adequate rationale for using a mixed methods design,5.1,N,"§4 첫 문장 '중국의 거리음악 공연에 대해 실증적으로 알려진 바가 거의 없어 질적·양적 방법을 사용했다'가 유일한 근거 진술이다. 어떤 질문을 어느 성분이 답하는지, 왜 두 성분이 함께 필요한지에 대한 설명이 없어 적절한 근거로 보기 어렵다."
+OAS0011,components effectively integrated to answer research question,5.2,Y,"§5·§7에서 같은 주제(공연 장소 분포, 체류·박수 등 청중 반응, 분위기)에 대해 설문 백분율(61.5%·65%·69%·38%·52%)과 인터뷰 인용(S3·S11·S13·S16)·현장노트·샤오훙수 코멘트를 나란히 배치해 해석하고, §4 말미에서 영상 자료의 태도·행태가 이전 설문 결과와 일치함을 확인하는 등 해석 수준의 통합이 실제로 이루어진다."
+OAS0011,outputs of integration adequately interpreted,5.3,Y,"§8 결론의 세 가지 결론(공간 전유·공연공간 분위기·도시 차원 분위기)이 설문 수치와 질적 자료를 함께 근거로 제시하며, 예컨대 '분위기가 통행인을 멈춰 세운다'는 해석을 38% 수치와 현장 관찰·인용으로 함께 뒷받침한다."
+OAS0011,divergences and inconsistencies adequately addressed,5.4,N,설문과 질적 자료 사이의 불일치나 부정 사례에 대한 논의가 없다. §6에서 언급되는 '주거지에서 거리음악을 소음으로 여겼다'는 반대 사례는 Yang & Kang(2005) 문헌 인용이지 본 연구 자료 내부의 불일치 처리로 볼 수 없다.
+OAS0011,components adhere to quality criteria of each tradition,5.5,N,"정량 성분은 인기 공연장 4곳에서 203부를 배포한 편의표집으로 표본틀·대표성·무응답 논의가 없고 분석이 단순 백분율에 그친다(§4·Table 1). 질적 성분도 주제분석을 했다고만 적고 코딩 절차·삼각검증·성찰성 기술이 없으며, 2013–2014년 현장자료와 2023년 샤오훙수 자료의 시차를 '결과가 여전히 유효하다'는 서술로만 처리한다(§4)."
+OAS0041,qualitative approach appropriate to answer research question,1.1,Y,"§1-1 [page 4]의 세 목적(소리 유형·공간분포 파악, 민족기호학적 의미 분석, 설계 시사점 도출)은 의미·맥락에 관한 질문이고, §2-3·§3-1의 민족지·기호학 접근과 사운드워크·관찰이 이에 부합한다."
+OAS0041,qualitative data collection methods adequate,1.2,Y,"§3-1 [page 6-7]에 사운드워크 경로·회당 40분·개장/피크/폐장 시간대, ZOOM H6 녹음, 주 2-3회 1시간 직접관찰, 사진기록, 동의 취득 절차가 기술되어 소리 유형·분포와 즉각 행태를 담기에 충분하다. 다만 반구조화 면접의 대상·인원·시점은 미보고."
+OAS0041,findings adequately derived from the data,1.3,Y,"§3-2 [page 7-8]의 3유형 분류는 축코딩 결과로 제시되고, §4-1~§4-3 [page 9-12]의 호객 24회·닭 울음 48회(83초)·토치 20-30초 버스트 등 수치는 녹음 분석에서 직접 도출된다."
+OAS0041,interpretation of results sufficiently substantiated by data,1.4,N,"'신선함·진정성의 청각적 표지', '지역 정체성 강화' 같은 핵심 해석(§4-2 [page 10-11], §5 [page 13])은 Feld·Martinelli·Aiello 인용과 저자 판단으로 뒷받침될 뿐, 상인·고객의 발화나 면접 자료가 하나도 제시되지 않는다."
+OAS0041,"coherence between data sources, collection, analysis and interpretation",1.5,N,"면접을 주요 자료원으로 선언했으나(§1-2·§3-1·§5) 분석·결과 어디에도 면접 자료가 통합되지 않았고, 행태 반응 문단이 §3-2와 §4-1에 그대로 중복 서술되어 자료-분석-해석의 연결이 일관되지 않는다."

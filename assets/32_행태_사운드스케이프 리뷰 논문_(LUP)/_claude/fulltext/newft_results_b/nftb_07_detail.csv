@@ -1,0 +1,6 @@
+﻿id,item,item_no,verdict,rationale
+OAS0011,adequate rationale for using a mixed methods design,5.1,N,"§4 첫 문장 '중국의 거리음악 공연에 대해 실증적으로 알려진 바가 거의 없어 질적·양적 방법을 사용했다'가 유일한 근거 진술이다. 어떤 질문을 어느 성분이 답하는지, 왜 두 성분이 함께 필요한지에 대한 설명이 없어 적절한 근거로 보기 어렵다."
+OAS0011,components effectively integrated to answer research question,5.2,Y,"§5·§7에서 같은 주제(공연 장소 분포, 체류·박수 등 청중 반응, 분위기)에 대해 설문 백분율(61.5%·65%·69%·38%·52%)과 인터뷰 인용(S3·S11·S13·S16)·현장노트·샤오훙수 코멘트를 나란히 배치해 해석하고, §4 말미에서 영상 자료의 태도·행태가 이전 설문 결과와 일치함을 확인하는 등 해석 수준의 통합이 실제로 이루어진다."
+OAS0011,outputs of integration adequately interpreted,5.3,Y,"§8 결론의 세 가지 결론(공간 전유·공연공간 분위기·도시 차원 분위기)이 설문 수치와 질적 자료를 함께 근거로 제시하며, 예컨대 '분위기가 통행인을 멈춰 세운다'는 해석을 38% 수치와 현장 관찰·인용으로 함께 뒷받침한다."
+OAS0011,divergences and inconsistencies adequately addressed,5.4,N,설문과 질적 자료 사이의 불일치나 부정 사례에 대한 논의가 없다. §6에서 언급되는 '주거지에서 거리음악을 소음으로 여겼다'는 반대 사례는 Yang & Kang(2005) 문헌 인용이지 본 연구 자료 내부의 불일치 처리로 볼 수 없다.
+OAS0011,components adhere to quality criteria of each tradition,5.5,N,"정량 성분은 인기 공연장 4곳에서 203부를 배포한 편의표집으로 표본틀·대표성·무응답 논의가 없고 분석이 단순 백분율에 그친다(§4·Table 1). 질적 성분도 주제분석을 했다고만 적고 코딩 절차·삼각검증·성찰성 기술이 없으며, 2013–2014년 현장자료와 2023년 샤오훙수 자료의 시차를 '결과가 여전히 유효하다'는 서술로만 처리한다(§4)."

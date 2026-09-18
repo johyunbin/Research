@@ -120,6 +120,7 @@ def match(path, pool):
     text, head, pages, meta_title = pdf_text(path)
     low, head_low = text.lower(), (head + " " + meta_title).lower()
     dois = {norm_doi(d) for d in re.findall(r"10\.\d{4,9}/[^\s\"<>)\]]+", low)}
+    dois_head = {norm_doi(d) for d in re.findall(r"10\.\d{4,9}/[^\s\"<>)\]]+", head_low)}
     fname = os.path.basename(path).lower()
     scored = []
     for p in pool:
@@ -131,7 +132,8 @@ def match(path, pool):
         d = norm_doi(p["doi"])
         doi_hit = bool(d) and (d in dois or d.replace("/", "@") in fname or d.split("/")[-1] in fname)
         exact = compact(p["title"])[:60] in compact(head + " " + meta_title)   # 제목 앞 60자가 연속으로 나타나는가
-        scored.append((doi_hit and hit_all >= 0.4, exact, hit_head, p))
+        # DOI 가 첫 쪽 머리에 있으면 그 자체로 충분(본문이 영어가 아니어서 제목 어휘가 안 맞는 경우 — 예: 중국어 게재지)
+        scored.append(((bool(d) and d in dois_head) or (doi_hit and hit_all >= 0.4), exact, hit_head, p))
     strong = [s for s in scored if s[0] or s[1] or s[2] >= 0.75]
     strong.sort(key=lambda s: (s[0], s[1], s[2]), reverse=True)
     if not strong:

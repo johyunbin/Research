@@ -35,21 +35,33 @@ def main():
     problems = []
     scr = rd(os.path.join(FT, "oa_supp_screen_final.csv"))
     ret = rd(os.path.join(FT, "oa_supp_retrieval.csv"))
-    vd = rd(os.path.join(FT, "oas_results_ft", "oasft_01_verdict.csv"))
-    ex = rd(os.path.join(FT, "oas_results_ft", "oasft_01_extract.csv"))
+    # ★ 2026-09-18 추가 전문평가 반영(integrate_newft_into_corpus.py): 판정·추출이 세트별 파일
+    #   oasft_<세트>_{verdict,extract}.csv 로 늘어나므로 glob 으로 모두 읽는다(oasft_01 = 8월분).
+    import glob
+    vd, ex = [], []
+    for p in sorted(glob.glob(os.path.join(FT, "oas_results_ft", "oasft_*_verdict.csv"))):
+        vd += rd(p)
+    for p in sorted(glob.glob(os.path.join(FT, "oas_results_ft", "oasft_*_extract.csv"))):
+        ex += rd(p)
 
     sc = Counter(r["verdict"] for r in scr)
     seek = sc["RETRIEVE"] + sc["UNCERTAIN"]
+    # ★ 2026-09-18: 뒤늦게 확보한 전문은 result = ok-<날짜> 로 기록된다(8월 미확보 사유는 reason 에 보존)
+    is_got = lambda r: r["result"] in ("ok", "already") or r["result"].startswith("ok-")
     pre = [r for r in ret if r["result"] == "prescreen-exclude"]
-    got = [r for r in ret if r["result"] in ("ok", "already")]
-    notret = [r for r in ret if r["result"] not in ("ok", "already", "prescreen-exclude")]
+    got = [r for r in ret if is_got(r)]
+    notret = [r for r in ret if not is_got(r) and r["result"] != "prescreen-exclude"]
     vc = Counter(r["verdict"] for r in vd)
     inc = [r for r in vd if r["verdict"] == "FINAL_INCLUDE"]
+    sens_oas = [r for r in vd if r["verdict"] == "SENS_ONLY"]
 
     if len(vd) != len(got):
         problems.append(f"전문심사 {len(vd)}건 ≠ 확보 {len(got)}건")
-    if {r["no"] for r in ex} != {f"OAS{int(r['sid']):04d}" for r in inc}:
-        problems.append("추출표 ≠ 포함 집합")
+    if len({r["sid"] for r in vd}) != len(vd):
+        problems.append("oasft 판정 파일 사이 sid 중복")
+    # ★ 2026-09-18: 민감도 전용(SENS_ONLY)도 추출표를 가진다 — DB·CT 갈래와 같은 규칙
+    if {r["no"] for r in ex} != {f"OAS{int(r['sid']):04d}" for r in inc + sens_oas}:
+        problems.append("추출표 ≠ 포함·민감도 집합")
 
     # ── 3갈래 코퍼스 통합 ─────────────────────────────────────────
     cv = rd(os.path.join(FT, "corpus_v3_verdicts.csv"))
@@ -106,8 +118,11 @@ def main():
              f"  미확보 .................................... −{len(notret)}\n"
              f"                                              ↓\n"
              f"  전문 평가 ................................. n = {len(vd)}\n"
-             f"  배제 ...................................... −{vc['FINAL_EXCLUDE']}\n"
-             f"                                              ↓\n"
+             f"  배제 ...................................... −{vc['FINAL_EXCLUDE']}"
+             # ★ 2026-09-18: 전문 배제 사유(X 코드)와 민감도 전용을 흐름에 적는다 — 수치 리터럴 대신 판정 파일에서 센다
+             f"  ({' · '.join(f'{k} {v}' for k, v in Counter(r['reason_code'] for r in vd if r['verdict'] == 'FINAL_EXCLUDE').most_common())})\n"
+             + (f"  민감도 분석 전용 .......................... −{len(sens_oas)}\n" if sens_oas else "")
+             + f"                                              ↓\n"
              f"  포함 ...................................... n = {len(inc)}\n```\n")
 
     L.append(f"\n## 결과 해석\n\n"
@@ -117,7 +132,7 @@ def main():
              f"({Counter(r['reason_code'] for r in scr)['E5']/len(scr)*100:.0f}%)** 으로 압도적인데 서평·사설·"
              f"논평·부고까지 포함된다. OpenAlex가 WoS·Scopus·PubMed보다 훨씬 넓게 색인하므로, "
              f"3-DB에 없다는 것이 곧 '누락'을 뜻하지 않는다는 경험적 근거다.\n\n"
-             f"**문헌유형·언어 확인이 결정적이었다.** 전문 확보 5편 중 2편은 OpenAlex 메타데이터가 "
+             f"**문헌유형·언어 확인이 결정적이었다.** 8월 전문 확보 5편 중 2편은 OpenAlex 메타데이터가 "
              f"`language=en`이었으나 실제 본문이 한국어·일본어였다(영문은 제목·초록뿐). "
              f"메타데이터만 믿으면 등록 언어 기준을 어길 뻔했다.\n")
 

@@ -1,0 +1,2 @@
+﻿id,mmat_category,S1,S2,Q1,Q2,Q3,Q4,Q5,n_yes,quality_tier,note
+137,Qualitative,Y,Y,Y,Y,Y,Y,Y,5,high,"질적 현상학 연구로 자료수집·분석·검증 절차(삼각검증, informant check, 제2 질적 연구자의 전사본 검토와 코딩 불일치 논의)가 모두 보고된다(§Data Analysis [page 86]-[page 87], 인쇄 pp.77-78). 감점 소지는 면담이 평균 17분(9-39분)으로 짧고 참가자 선정이 비체계적이며 solitude 주제만 직접 질문으로 유도했다는 점으로, 저자도 §Analysis Implications([page 95], p.86)와 §Discussion([page 93], p.84)에서 인정한다. 이를 N으로 보아도 n_yes=4 로 quality_tier 는 high 로 동일하다."

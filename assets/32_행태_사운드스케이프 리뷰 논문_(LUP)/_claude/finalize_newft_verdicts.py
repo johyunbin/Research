@@ -16,8 +16,22 @@ from collections import Counter
 sys.stdout.reconfigure(encoding="utf-8")
 BASE = os.path.dirname(os.path.abspath(__file__))
 FT = os.path.join(BASE, "fulltext")
-OUT = os.path.join(FT, "newft_final")
+TAG = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--tag=")), "")   # "" = 1차(9/17 확보분), "b" = 2차(9/18 확보분)
+COMB = os.path.join(FT, "newft_combined" + (f"_{TAG}" if TAG else ""))
+RECHECK_GLOB = os.path.join(FT, "newft_recheck" + (f"_{TAG}" if TAG else ""), ("rcb" if TAG else "rc") + "_*_verdict.csv")
+OUT = os.path.join(FT, "newft_final" + (f"_{TAG}" if TAG else ""))
 
+ADJUDICATION_B = {
+    "137": ("FINAL_INCLUDE", "", "R3", "low",
+            "조정(1차 포함 R3 low ↔ 재판정 SENS_ONLY R2 low): 이 연구의 노출은 야간 하이킹이라는 활동이고 결과 주제 하나가 "
+            "'Unique Soundscapes and Night Sky'(사운드스케이프 지각·평가)다. 활동 유형이 청각 지각을 좌우하는 구조라 R3(역방향) "
+            "선례 726(단독 대 가이드 산림보행 → 청각요소 지각)·761·804 와 같다. 재참여 의향은 부수 결과이므로 R2 를 적용하지 않는다. "
+            "다만 활동 간 비교가 없고 행태 측정이 없어 근거는 약하다(confidence low)."),
+    "1074": ("FINAL_EXCLUDE", "X4", "", "medium",
+             "조정(1차 포함 R3 low ↔ 재판정 배제 X4): 수탉 울음 가청 지점 지도는 음환경 산출물이지만, 방문객 결과는 인상·태도이고 "
+             "급이·유기·창문 닫기 같은 행태는 정보원 인용·서술일 뿐 코딩·분석되지 않았다. 행태→음환경 경로도 저자 서술이다. "
+             "행태가 결과로 분석된 1190(경로 선택)·1191(체류·촬영 기록)과 달라 배제한다."),
+}
 ADJUDICATION = {
     "186": ("FINAL_EXCLUDE", "X3", "", "high",
             "조정(1차 포함 low ↔ 재판정 배제 X3): 운전 행태에 따른 차량 엔진룸·후륜 근접장 방출음만 측정했고 가로·공공공간 음환경은 "
@@ -52,12 +66,16 @@ def binary(v):
 
 
 def main():
-    first = {r["id"]: r for r in read(os.path.join(FT, "newft_combined", "verdict.csv"))}
+    global ADJUDICATION
+    if TAG == "b":
+        ADJUDICATION = ADJUDICATION_B
+    first = {r["id"]: r for r in read(os.path.join(COMB, "verdict.csv"))}
     rc = {}
-    for f in sorted(glob.glob(os.path.join(FT, "newft_recheck", "rc_*_verdict.csv"))):
+    for f in sorted(glob.glob(RECHECK_GLOB)):
         for r in read(f):
             rc[r["id"]] = r
-    assert len(first) == 77 and len(rc) == 36 and set(rc) <= set(first)
+    assert set(rc) <= set(first) and set(ADJUDICATION) <= set(rc)
+    print(f"1차 {len(first)}건 · 재판정 {len(rc)}건")
 
     final, log = [], []
     for i, a in first.items():
@@ -87,7 +105,7 @@ def main():
     os.makedirs(OUT, exist_ok=True)
     write(os.path.join(OUT, "verdict.csv"), final)
     for k in ("extract", "mmat", "detail", "es"):
-        rows = [r for r in read(os.path.join(FT, "newft_combined", f"{k}.csv")) if r["id"] in keep]
+        rows = [r for r in read(os.path.join(COMB, f"{k}.csv")) if r["id"] in keep]
         write(os.path.join(OUT, f"{k}.csv"), rows)
     ex_ids = {r["id"] for r in read(os.path.join(OUT, "extract.csv"))}
     assert ex_ids == keep, f"추출 누락: {keep - ex_ids}"
@@ -100,8 +118,8 @@ def main():
     pe = sum(ca[l] * cb[l] for l in ("include", "exclude")) / n ** 2
     kappa = (po - pe) / (1 - pe)
 
-    L = ["# 추가 전문 77건 판정 확정 기록 (2026-09-18)", "",
-         f"- 1차 평가 77건(18배치, 원문 전체 읽기) · 블라인드 재판정 36건(포함·SENS 17 + 경계 배제 19, 7배치, 1차 결과 비공개)",
+    L = [f"# 추가 전문 {len(first)}건 판정 확정 기록 (2026-09-18{' · 2차 확보분' if TAG else ''})", "",
+         f"- 1차 평가 {len(first)}건(원문 전체 읽기) · 블라인드 재판정 {len(rc)}건(포함·SENS + 경계 배제, 1차 결과 비공개)",
          f"- 재판정 결론 일치 {sum(a == b for a, b in pairs)}/{n} ({po:.1%}), Cohen's κ = {kappa:.2f} (포함·SENS vs 배제). "
          "재판정 대상이 경계 사례 위주라 전체 일치도보다 보수적인 값이다.", "",
          "## 결론 불일치 조정 3건", ""]
